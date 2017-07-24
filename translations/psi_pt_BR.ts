@@ -3119,6 +3119,13 @@ Proceed?</source>
     </message>
 </context>
 <context>
+    <name>DisplayProxy</name>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Drawer</name>
     <message>
         <source>Error moving</source>
@@ -5751,6 +5758,26 @@ Para o envio de comandos, mensagens normais serão utilizadas, por isso este plu
         <source>All contacts</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Search:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 of %2 matches</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No matches were found</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HistoryImport</name>
@@ -8187,11 +8214,11 @@ Tags: %1</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation>Mensagem</translation>
+        <translation type="vanished">Mensagem</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Bate-papo</translation>
+        <translation type="vanished">Bate-papo</translation>
     </message>
     <message>
         <source>Delete chat window contents</source>
@@ -8199,19 +8226,47 @@ Tags: %1</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
-        <translation>Quando janela de bate-papo é fechada</translation>
+        <translation type="vanished">Quando janela de bate-papo é fechada</translation>
     </message>
     <message>
         <source>One hour after chat window was closed</source>
-        <translation>Uma hora após a janela de bate-papo for fechada</translation>
+        <translation type="vanished">Uma hora após a janela de bate-papo for fechada</translation>
     </message>
     <message>
         <source>One day after chat window was closed</source>
-        <translation>Um dia após a janela de bate-papo for fechada</translation>
+        <translation type="vanished">Um dia após a janela de bate-papo for fechada</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation>Nunca</translation>
+        <translation type="vanished">Nunca</translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation type="unfinished">&amp;Mensagem</translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation type="unfinished">&amp;Bate-Papo</translation>
+    </message>
+    <message>
+        <source>&amp;When chat window is closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;One hour after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One &amp;day after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Never</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9796,6 +9851,10 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation>&lt;P&gt;Esta opção mantém o histórico de bate-papo para sempre.&lt;/P&gt;</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -3122,6 +3122,13 @@ Proceed?</source>
     </message>
 </context>
 <context>
+    <name>DisplayProxy</name>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Drawer</name>
     <message>
         <source>Error moving</source>
@@ -5752,6 +5759,26 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
         <source>All contacts</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Search:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 of %2 matches</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No matches were found</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HistoryImport</name>
@@ -8194,11 +8221,11 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation>Üzenet</translation>
+        <translation type="vanished">Üzenet</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Beszélgetés</translation>
+        <translation type="vanished">Beszélgetés</translation>
     </message>
     <message>
         <source>Delete chat window contents</source>
@@ -8206,19 +8233,47 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
-        <translation>A beszélgetésablak bezárásakor</translation>
+        <translation type="vanished">A beszélgetésablak bezárásakor</translation>
     </message>
     <message>
         <source>One hour after chat window was closed</source>
-        <translation>Egy órával a beszélgetésablak bezárása után</translation>
+        <translation type="vanished">Egy órával a beszélgetésablak bezárása után</translation>
     </message>
     <message>
         <source>One day after chat window was closed</source>
-        <translation>Egy nappal a beszélgetésablak bezárása után</translation>
+        <translation type="vanished">Egy nappal a beszélgetésablak bezárása után</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation>Soha</translation>
+        <translation type="vanished">Soha</translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation type="unfinished">&amp;Üzenet</translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation type="unfinished">&amp;Chat</translation>
+    </message>
+    <message>
+        <source>&amp;When chat window is closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;One hour after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One &amp;day after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Never</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9804,6 +9859,10 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation>&lt;P&gt;Ne törölje a naplót.&lt;/P&gt;</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

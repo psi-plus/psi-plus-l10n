@@ -3093,6 +3093,13 @@ Proceed?</source>
     </message>
 </context>
 <context>
+    <name>DisplayProxy</name>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Drawer</name>
     <message>
         <source>Error moving</source>
@@ -5708,6 +5715,26 @@ For sending commands, normal messages are used, so this plugin will always work 
         <source>All contacts</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Search:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 of %2 matches</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No matches were found</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HistoryImport</name>
@@ -8097,11 +8124,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Message</source>
-        <translation>メッセージ</translation>
+        <translation type="vanished">メッセージ</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>チャット</translation>
+        <translation type="vanished">チャット</translation>
     </message>
     <message>
         <source>Delete chat window contents</source>
@@ -8109,19 +8136,47 @@ Tags: %1</source>
     </message>
     <message>
         <source>When chat window is closed</source>
-        <translation>チャットウィンドウを閉じた時</translation>
+        <translation type="vanished">チャットウィンドウを閉じた時</translation>
     </message>
     <message>
         <source>One hour after chat window was closed</source>
-        <translation>チャットウィンドウを閉じた一時間後</translation>
+        <translation type="vanished">チャットウィンドウを閉じた一時間後</translation>
     </message>
     <message>
         <source>One day after chat window was closed</source>
-        <translation>チャットウィンドウを閉じた一日後</translation>
+        <translation type="vanished">チャットウィンドウを閉じた一日後</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation>消去しない</translation>
+        <translation type="vanished">消去しない</translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation type="unfinished">メッセージ(&amp;M)</translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation type="unfinished">チャット(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;When chat window is closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;One hour after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One &amp;day after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Never</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9690,6 +9745,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation>&lt;P&gt;このオプションはチャットログを永久に保存します。&lt;P&gt;</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

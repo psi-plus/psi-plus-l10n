@@ -3111,6 +3111,13 @@ Proceed?</source>
     </message>
 </context>
 <context>
+    <name>DisplayProxy</name>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Drawer</name>
     <message>
         <source>Error moving</source>
@@ -5735,6 +5742,26 @@ For sending commands, normal messages are used, so this plugin will always work 
         <source>All contacts</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Search:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 of %2 matches</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No matches were found</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HistoryImport</name>
@@ -8198,11 +8225,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Message</source>
-        <translation>信息</translation>
+        <translation type="vanished">信息</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>对话</translation>
+        <translation type="vanished">对话</translation>
     </message>
     <message>
         <source>Delete chat window contents</source>
@@ -8210,19 +8237,47 @@ Tags: %1</source>
     </message>
     <message>
         <source>When chat window is closed</source>
-        <translation>当对话窗口已被关闭</translation>
+        <translation type="vanished">当对话窗口已被关闭</translation>
     </message>
     <message>
         <source>One hour after chat window was closed</source>
-        <translation>对话窗口已被关闭一小时候</translation>
+        <translation type="vanished">对话窗口已被关闭一小时候</translation>
     </message>
     <message>
         <source>One day after chat window was closed</source>
-        <translation>对话窗口已被关闭一天后</translation>
+        <translation type="vanished">对话窗口已被关闭一天后</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation>从不</translation>
+        <translation type="vanished">从不</translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation type="unfinished">信息(&amp;M)</translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation type="unfinished">对话(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;When chat window is closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;One hour after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One &amp;day after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Never</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9796,6 +9851,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation>&lt;P&gt;这个选项会永远保留对话纪录。&lt;/P&gt;</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

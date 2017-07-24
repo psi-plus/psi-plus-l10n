@@ -3136,6 +3136,13 @@ Procedere?</translation>
     </message>
 </context>
 <context>
+    <name>DisplayProxy</name>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished">Eliminato</translation>
+    </message>
+</context>
+<context>
     <name>Drawer</name>
     <message>
         <source>Error moving</source>
@@ -5768,6 +5775,26 @@ Per inviare comandi, basta usare normali messaggi, uindi questo plugin funzioner
         <source>All contacts</source>
         <translation>Tutti i contatti</translation>
     </message>
+    <message>
+        <source>Search:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished">Eliminato</translation>
+    </message>
+    <message>
+        <source>%1 of %2 matches</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No matches were found</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HistoryImport</name>
@@ -8212,11 +8239,11 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation>Messaggio</translation>
+        <translation type="vanished">Messaggio</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Chat</translation>
+        <translation type="vanished">Chat</translation>
     </message>
     <message>
         <source>Delete chat window contents</source>
@@ -8224,19 +8251,47 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
-        <translation>Quando la finestra di chat è chiusa</translation>
+        <translation type="vanished">Quando la finestra di chat è chiusa</translation>
     </message>
     <message>
         <source>One hour after chat window was closed</source>
-        <translation>Un&apos;ora dopo che la finestra è stata chiusa</translation>
+        <translation type="vanished">Un&apos;ora dopo che la finestra è stata chiusa</translation>
     </message>
     <message>
         <source>One day after chat window was closed</source>
-        <translation>Un giorno dopo che la finestra è stata chiusa</translation>
+        <translation type="vanished">Un giorno dopo che la finestra è stata chiusa</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation>Mai</translation>
+        <translation type="vanished">Mai</translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation type="unfinished">&amp;Messaggio</translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation type="unfinished">&amp;Chat</translation>
+    </message>
+    <message>
+        <source>&amp;When chat window is closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;One hour after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One &amp;day after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Never</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9820,6 +9875,10 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation>&lt;P&gt;Questa opzione conserva il registro della chat per sempre.&lt;/P&gt;</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

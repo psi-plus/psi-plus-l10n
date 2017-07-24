@@ -3085,6 +3085,13 @@ Proceed?</source>
     </message>
 </context>
 <context>
+    <name>DisplayProxy</name>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Drawer</name>
     <message>
         <source>Error moving</source>
@@ -5705,6 +5712,26 @@ For sending commands, normal messages are used, so this plugin will always work 
         <source>All contacts</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Search:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 of %2 matches</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No matches were found</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HistoryImport</name>
@@ -8095,11 +8122,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Message</source>
-        <translation>Meddelande</translation>
+        <translation type="vanished">Meddelande</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Chatt</translation>
+        <translation type="vanished">Chatt</translation>
     </message>
     <message>
         <source>Delete chat window contents</source>
@@ -8107,19 +8134,47 @@ Tags: %1</source>
     </message>
     <message>
         <source>When chat window is closed</source>
-        <translation>När chattfönstret stängs</translation>
+        <translation type="vanished">När chattfönstret stängs</translation>
     </message>
     <message>
         <source>One hour after chat window was closed</source>
-        <translation>En timme efter att chattfönstret stängts</translation>
+        <translation type="vanished">En timme efter att chattfönstret stängts</translation>
     </message>
     <message>
         <source>One day after chat window was closed</source>
-        <translation>En dag efter att chattfönstret stängts</translation>
+        <translation type="vanished">En dag efter att chattfönstret stängts</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation>Aldrig</translation>
+        <translation type="vanished">Aldrig</translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation type="unfinished">&amp;Meddelande</translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation type="unfinished">&amp;Chatt</translation>
+    </message>
+    <message>
+        <source>&amp;When chat window is closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;One hour after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One &amp;day after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Never</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9688,6 +9743,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation>&lt;P&gt;Detta val rensar inte chatthistoriken.&lt;/P&gt;</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

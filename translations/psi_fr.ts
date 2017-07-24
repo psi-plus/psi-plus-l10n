@@ -3120,6 +3120,13 @@ Proceed?</source>
     </message>
 </context>
 <context>
+    <name>DisplayProxy</name>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Drawer</name>
     <message>
         <source>Error moving</source>
@@ -5738,6 +5745,26 @@ For sending commands, normal messages are used, so this plugin will always work 
         <source>All contacts</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Search:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 of %2 matches</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No matches were found</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HistoryImport</name>
@@ -8141,11 +8168,11 @@ Labels : %1</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation>Message</translation>
+        <translation type="vanished">Message</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Discussion</translation>
+        <translation type="vanished">Discussion</translation>
     </message>
     <message>
         <source>Delete chat window contents</source>
@@ -8153,19 +8180,47 @@ Labels : %1</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
-        <translation>Quand la fenêtre de discussion est fermée</translation>
+        <translation type="vanished">Quand la fenêtre de discussion est fermée</translation>
     </message>
     <message>
         <source>One hour after chat window was closed</source>
-        <translation>Une heure après la fermeture de la fenêtre de discussion</translation>
+        <translation type="vanished">Une heure après la fermeture de la fenêtre de discussion</translation>
     </message>
     <message>
         <source>One day after chat window was closed</source>
-        <translation>Un jour après la fermeture de la fenêtre de discussion</translation>
+        <translation type="vanished">Un jour après la fermeture de la fenêtre de discussion</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation>Jamais</translation>
+        <translation type="vanished">Jamais</translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation type="unfinished">&amp;Message</translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation type="unfinished">&amp;Discussion</translation>
+    </message>
+    <message>
+        <source>&amp;When chat window is closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;One hour after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One &amp;day after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Never</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9739,6 +9794,10 @@ notifications pour les mails non lus.</translation>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation>&lt;P&gt;Cette option conserve l&apos;historique de discussion indéfiniment.&lt;/P&gt;</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

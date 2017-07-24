@@ -3121,6 +3121,13 @@ Proceed?</source>
     </message>
 </context>
 <context>
+    <name>DisplayProxy</name>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Drawer</name>
     <message>
         <source>Error moving</source>
@@ -5747,6 +5754,26 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
         <source>All contacts</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Search:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 of %2 matches</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No matches were found</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HistoryImport</name>
@@ -8169,11 +8196,11 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation>Zpráva</translation>
+        <translation type="vanished">Zpráva</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Chat</translation>
+        <translation type="vanished">Chat</translation>
     </message>
     <message>
         <source>Delete chat window contents</source>
@@ -8181,19 +8208,47 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
-        <translation>Při uzavření okna chatu</translation>
+        <translation type="vanished">Při uzavření okna chatu</translation>
     </message>
     <message>
         <source>One hour after chat window was closed</source>
-        <translation>Jednu hodinu po uzavření okna chatu</translation>
+        <translation type="vanished">Jednu hodinu po uzavření okna chatu</translation>
     </message>
     <message>
         <source>One day after chat window was closed</source>
-        <translation>Jeden den po uzavření okna chatu</translation>
+        <translation type="vanished">Jeden den po uzavření okna chatu</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation>Nikdy</translation>
+        <translation type="vanished">Nikdy</translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation type="unfinished">&amp;Zpráva</translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation type="unfinished">&amp;Chat</translation>
+    </message>
+    <message>
+        <source>&amp;When chat window is closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;One hour after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One &amp;day after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Never</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9782,6 +9837,10 @@ zprávy v chatu víde lidí)</translation>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation>&lt;P&gt;Tato volba uchovává záznamy chatu navždy.&lt;/P&gt;</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

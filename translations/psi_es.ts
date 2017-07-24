@@ -3121,6 +3121,13 @@ Proceed?</source>
     </message>
 </context>
 <context>
+    <name>DisplayProxy</name>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Drawer</name>
     <message>
         <source>Error moving</source>
@@ -5749,6 +5756,26 @@ Para enviar órdenes, son usados los mensajes normales, por lo que este compleme
         <source>All contacts</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Search:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 of %2 matches</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No matches were found</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HistoryImport</name>
@@ -8184,11 +8211,11 @@ Etiquetas: %1</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation>Mensaje</translation>
+        <translation type="vanished">Mensaje</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Conversación</translation>
+        <translation type="vanished">Conversación</translation>
     </message>
     <message>
         <source>Delete chat window contents</source>
@@ -8196,19 +8223,47 @@ Etiquetas: %1</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
-        <translation>Cuando la ventana de conversación esté cerrada</translation>
+        <translation type="vanished">Cuando la ventana de conversación esté cerrada</translation>
     </message>
     <message>
         <source>One hour after chat window was closed</source>
-        <translation>Una hora después de haber cerrado la ventana de conversación</translation>
+        <translation type="vanished">Una hora después de haber cerrado la ventana de conversación</translation>
     </message>
     <message>
         <source>One day after chat window was closed</source>
-        <translation>Un día después de haber cerrado la ventana de conversación</translation>
+        <translation type="vanished">Un día después de haber cerrado la ventana de conversación</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation>Nunca</translation>
+        <translation type="vanished">Nunca</translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation type="unfinished">&amp;Mensaje</translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation type="unfinished">&amp;Conversación</translation>
+    </message>
+    <message>
+        <source>&amp;When chat window is closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;One hour after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One &amp;day after chat window was closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Never</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9793,6 +9848,10 @@ a las personas frecuentemente contactadas por email.</translation>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation>&lt;P&gt;Esta opción mantiene el registro del historial de conversaciones para siempre.&lt;/P&gt;</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
