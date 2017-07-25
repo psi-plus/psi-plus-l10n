@@ -3138,7 +3138,7 @@ Proceed?</source>
     <name>DisplayProxy</name>
     <message>
         <source>deleted</source>
-        <translation type="unfinished">удаленные</translation>
+        <translation>удаленные</translation>
     </message>
 </context>
 <context>
@@ -5777,23 +5777,23 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>Найти:</translation>
     </message>
     <message>
         <source>All accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Все аккаунты</translation>
     </message>
     <message>
         <source>deleted</source>
-        <translation type="unfinished">удаленные</translation>
+        <translation>удаленные</translation>
     </message>
     <message>
         <source>%1 of %2 matches</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 из %2 совпадений</translation>
     </message>
     <message>
         <source>No matches were found</source>
-        <translation type="unfinished"></translation>
+        <translation>Совпадений не найдено</translation>
     </message>
 </context>
 <context>
@@ -8265,31 +8265,31 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show previews for links</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать превью для ссылок</translation>
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation type="unfinished">&amp;Сообщение</translation>
+        <translation>&amp;Сообщение</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation type="unfinished">&amp;Чат</translation>
+        <translation>&amp;Чат</translation>
     </message>
     <message>
         <source>&amp;When chat window is closed</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;При закрытии окна</translation>
     </message>
     <message>
         <source>&amp;One hour after chat window was closed</source>
-        <translation type="unfinished"></translation>
+        <translation>Ч&amp;ерез час после закрытия</translation>
     </message>
     <message>
         <source>One &amp;day after chat window was closed</source>
-        <translation type="unfinished"></translation>
+        <translation>Через &amp;день после закрытия</translation>
     </message>
     <message>
         <source>&amp;Never</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Никогда</translation>
     </message>
 </context>
 <context>
@@ -9876,7 +9876,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать по ссылкам превью медиаконтента. Также можно воспроизводить аудио и видео прямо в чате.</translation>
     </message>
 </context>
 <context>
@@ -11866,7 +11866,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно подключиться: шифрование включено, но хранилище ключей ключей QCA недоступно.</translation>
     </message>
 </context>
 <context>
@@ -17536,7 +17536,7 @@ Do you still want to close the window?</source>
     <name>main</name>
     <message>
         <source>The keystore manager provided by QCA takes longer to load than usual. Maybe &lt;i&gt;gpg&lt;/i&gt; hangs.&lt;br&gt;&lt;br&gt;Note that login via TLS and OpenPGP related features require the keystore manager.</source>
-        <translation type="unfinished"></translation>
+        <translation>Хранилище ключей QCA загружается слишком долго. Возможно, зависает &lt;i&gt;gpg&lt;/i&gt;.&lt;br&gt;&lt;br&gt;Обратите внимание, что для защищенного подключения к серверам (с использованием TLS шифрования) требуется загруженное хранилище ключей.</translation>
     </message>
 </context>
 <context>
