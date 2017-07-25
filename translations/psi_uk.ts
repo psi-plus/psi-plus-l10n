@@ -3143,7 +3143,7 @@ Proceed?</source>
     <name>DisplayProxy</name>
     <message>
         <source>deleted</source>
-        <translation type="unfinished"/>
+        <translation>видалено</translation>
     </message>
 </context>
 <context>
@@ -5780,23 +5780,23 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Search:</source>
-        <translation type="unfinished"/>
+        <translation>Пошук:</translation>
     </message>
     <message>
         <source>All accounts</source>
-        <translation type="unfinished"/>
+        <translation>Всі акаунти</translation>
     </message>
     <message>
         <source>deleted</source>
-        <translation type="unfinished"/>
+        <translation>видалено</translation>
     </message>
     <message>
         <source>%1 of %2 matches</source>
-        <translation type="unfinished"/>
+        <translation>%1 з %2 збіжностей</translation>
     </message>
     <message>
         <source>No matches were found</source>
-        <translation type="unfinished"/>
+        <translation>Жодної збігу не знайдено</translation>
     </message>
 </context>
 <context>
@@ -8269,31 +8269,31 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show previews for links</source>
-        <translation type="unfinished"/>
+        <translation>Показувати передогляд для посилань</translation>
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Повідомлення</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Розмова</translation>
     </message>
     <message>
         <source>&amp;When chat window is closed</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Коли вікно розмови закрито</translation>
     </message>
     <message>
         <source>&amp;One hour after chat window was closed</source>
-        <translation type="unfinished"/>
+        <translation>Через годину після закриття вікна розмови</translation>
     </message>
     <message>
         <source>One &amp;day after chat window was closed</source>
-        <translation type="unfinished"/>
+        <translation>Через &amp;день після закриття вікна розмови</translation>
     </message>
     <message>
         <source>&amp;Never</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ніколи</translation>
     </message>
 </context>
 <context>
@@ -9880,7 +9880,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
-        <translation type="unfinished"/>
+        <translation>Показує під посиланнями передогляд для деякого медіа контенту. Також можливо програвати аудіо та відео прямо в чаті.</translation>
     </message>
 </context>
 <context>
@@ -11868,7 +11868,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
-        <translation type="unfinished"/>
+        <translation>Не вдається з&apos;єднатись: Шифрування ввімкнено, але менеджер ключів QCA недоступний.</translation>
     </message>
 </context>
 <context>
@@ -17507,7 +17507,7 @@ Do you still want to close the window?</source>
     <name>main</name>
     <message>
         <source>The keystore manager provided by QCA takes longer to load than usual. Maybe &lt;i&gt;gpg&lt;/i&gt; hangs.&lt;br&gt;&lt;br&gt;Note that login via TLS and OpenPGP related features require the keystore manager.</source>
-        <translation type="unfinished"/>
+        <translation>Менеджер ключів QCA завантажується довше ніж завжди. Можливо відбулося зависання &lt;i&gt;gpg&lt;/i&gt;.&lt;br&gt;&lt;br&gt;Зверніть увагу, що для входу з допомогою функцій TLS та OpenPGP, потрібен менеджер ключів.</translation>
     </message>
 </context>
 <context>
