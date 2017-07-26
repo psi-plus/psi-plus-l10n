@@ -2059,6 +2059,22 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
 </context>
 <context>
+    <name>Chess::InvitationDialog</name>
+    <message>
+        <source>white</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>black</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play chess. He wants to play %2.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>ChessPlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -2435,6 +2451,33 @@ Puoi visualizzare gli elementi prima di cancellarli dal disco rigido.</translati
     </message>
 </context>
 <context>
+    <name>ClientSwitcher::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>Authors: </source>
@@ -2458,6 +2501,33 @@ Puoi specificare la versione del client e dell&apos;OS o selezionarli da una lis
     <message>
         <source>Close Tab</source>
         <translation>Chiudi Scheda</translation>
+    </message>
+</context>
+<context>
+    <name>ConfLogger::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5450,6 +5520,22 @@ Nota: Il plugin controlla solo la radice della tua cartella di posta in arrivo d
     </message>
 </context>
 <context>
+    <name>GomokuGame::InvitationDialog</name>
+    <message>
+        <source>white</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>black</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play gomoku. He wants to play %2.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>GomokuGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
@@ -6786,22 +6872,22 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>white</source>
-        <translation>bianco</translation>
+        <translation type="vanished">bianco</translation>
     </message>
     <message>
         <source>black</source>
-        <translation>nero</translation>
+        <translation type="vanished">nero</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play chess. He wants to play %2.</source>
-        <translation>Il giocatore %1 ti ha invitato 
+        <translation type="vanished">Il giocatore %1 ti ha invitato 
 a giocare a Scacchi. Lui vuole giocare %2.</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play gomoku. He wants to play %2.</source>
-        <translation>Il giocatore %1 ti ha invitato 
+        <translation type="vanished">Il giocatore %1 ti ha invitato 
 a giocare a Gomoku. Lui vuole giocare %2.</translation>
     </message>
     <message>
@@ -15592,6 +15678,10 @@ Motivo: %1</translation>
         <source>Shortcuts in the service discovery dialog</source>
         <translation>Scorciatoie nella finestra di scoperta servizi</translation>
     </message>
+    <message>
+        <source>Shortcuts in the history dialog</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>ShowChangeLogForm</name>
@@ -15950,6 +16040,33 @@ Quando un utente supera il test, gli verrà inviata una nuova richiesta di autor
 Il plugin tiene un registro di messaggi bloccati, che puoi visualizzare attraverso le impostazioni del plugin. Il pulsante di &quot;Reset&quot; eliminail registro e azzera il contatore di messaggi bloccati.
 
 ATTENZIONE!!! Prima di registrare un nuovo trasporto, è consigliato di aggiungere il suo JID alle eccezioni di trasporto. Ciò è dovuto al atto che, dopo la registrazione di trasporti, le richieste di autorizzazione per tutti i contatti verranno inviate e se il trasporto non è stato inserito nelle eccezioni, il plugin blocca tutte le richieste.</translation>
+    </message>
+</context>
+<context>
+    <name>Stopspam::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16530,7 +16647,7 @@ Nota: Alcuni server possono disabilitare la registrazione ai trasporti agli uten
     <name>TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation>Cerca:</translation>
+        <translation type="vanished">Cerca:</translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
@@ -16538,19 +16655,19 @@ Nota: Alcuni server possono disabilitare la registrazione ai trasporti agli uten
     </message>
     <message>
         <source>First page</source>
-        <translation>Prima pagina</translation>
+        <translation type="vanished">Prima pagina</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation>Pagina precedente</translation>
+        <translation type="vanished">Pagina precedente</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation>Pagina successiva</translation>
+        <translation type="vanished">Pagina successiva</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation>Ultima pagina</translation>
+        <translation type="vanished">Ultima pagina</translation>
     </message>
     <message>
         <source>Search</source>

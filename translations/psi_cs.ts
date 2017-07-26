@@ -2047,6 +2047,22 @@ Opravdu zavřít toto okno?</translation>
     </message>
 </context>
 <context>
+    <name>Chess::InvitationDialog</name>
+    <message>
+        <source>white</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>black</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play chess. He wants to play %2.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>ChessPlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -2422,6 +2438,33 @@ Můžete si položky prohlédnout před tím, než je smažete.</translation>
     </message>
 </context>
 <context>
+    <name>ClientSwitcher::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>Authors: </source>
@@ -2445,6 +2488,33 @@ Můžete nastavit vše ručně, nebo si vybrat některou z předdefinovaných mo
     <message>
         <source>Close Tab</source>
         <translation>Zavřít panel</translation>
+    </message>
+</context>
+<context>
+    <name>ConfLogger::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5429,6 +5499,22 @@ Pozn.: zásuvný modul kontroluje pro nové zprávy pouze kořenovou složku př
     </message>
 </context>
 <context>
+    <name>GomokuGame::InvitationDialog</name>
+    <message>
+        <source>white</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>black</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play gomoku. He wants to play %2.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>GomokuGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
@@ -6750,22 +6836,22 @@ Příčina: %1</translation>
     </message>
     <message>
         <source>white</source>
-        <translation>bílí</translation>
+        <translation type="vanished">bílí</translation>
     </message>
     <message>
         <source>black</source>
-        <translation>černí</translation>
+        <translation type="vanished">černí</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play chess. He wants to play %2.</source>
-        <translation>Hráč %1 Vás zve ke
+        <translation type="vanished">Hráč %1 Vás zve ke
 hře v šach. Chce hrát za %2.</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play gomoku. He wants to play %2.</source>
-        <translation>Hráč %1 Vás zve ke
+        <translation type="vanished">Hráč %1 Vás zve ke
 hře gomoku. Chce hrát za %2.</translation>
     </message>
     <message>
@@ -15546,6 +15632,10 @@ Zdůvodnění: %1</translation>
         <source>Shortcuts in the service discovery dialog</source>
         <translation>Klávesové zkratky v okně prohledávání služeb</translation>
     </message>
+    <message>
+        <source>Shortcuts in the history dialog</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>ShowChangeLogForm</name>
@@ -15877,6 +15967,33 @@ When a user has passed, the test will send a re-authorization request. It should
 The plugin keeps a log of blocked messages, which you can view through the plugin settings. The &quot;Reset&quot; button deletes the log and resets the counter of blocked messages.
 
 WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>Stopspam::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Last page</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -16461,7 +16578,7 @@ Note: Some server may disable transport registration to users from different ser
     <name>TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation>Hledat: </translation>
+        <translation type="vanished">Hledat: </translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
@@ -16469,19 +16586,19 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>First page</source>
-        <translation>První strana</translation>
+        <translation type="vanished">První strana</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation>Předchozí strana</translation>
+        <translation type="vanished">Předchozí strana</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation>Další strana</translation>
+        <translation type="vanished">Další strana</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation>Poslední strana</translation>
+        <translation type="vanished">Poslední strana</translation>
     </message>
     <message>
         <source>Search</source>

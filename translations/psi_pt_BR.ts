@@ -2048,6 +2048,22 @@ Ainda deseja fechar esta janela?</translation>
     </message>
 </context>
 <context>
+    <name>Chess::InvitationDialog</name>
+    <message>
+        <source>white</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>black</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play chess. He wants to play %2.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>ChessPlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -2423,6 +2439,33 @@ Você poderá pré-visualizar os itens antes de remove-los de seu hd.</translati
     </message>
 </context>
 <context>
+    <name>ClientSwitcher::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>Authors: </source>
@@ -2446,6 +2489,33 @@ Você poderá especificar a versão do cliente e Sistema Operacional ou para a l
     <message>
         <source>Close Tab</source>
         <translation>Fechar Aba</translation>
+    </message>
+</context>
+<context>
+    <name>ConfLogger::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5433,6 +5503,22 @@ Note: O plugin verifica apenas a raiz da sua pasta em sua caixa de entrada de se
     </message>
 </context>
 <context>
+    <name>GomokuGame::InvitationDialog</name>
+    <message>
+        <source>white</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>black</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play gomoku. He wants to play %2.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>GomokuGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
@@ -6762,23 +6848,23 @@ Reason: %1</source>
     </message>
     <message>
         <source>white</source>
-        <translation>brancas</translation>
+        <translation type="vanished">brancas</translation>
     </message>
     <message>
         <source>black</source>
-        <translation>negras</translation>
+        <translation type="vanished">negras</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play chess. He wants to play %2.</source>
-        <translation>Jogador %1 convida você
+        <translation type="vanished">Jogador %1 convida você
 para jogar xadrez.
 Ele quer jogar de %2.</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play gomoku. He wants to play %2.</source>
-        <translation>Jogador %1 convida você
+        <translation type="vanished">Jogador %1 convida você
 para jogar gomoku.
 Ele quer jogar de %2.</translation>
     </message>
@@ -15566,6 +15652,10 @@ Motivo: %1</translation>
         <source>Shortcuts in the service discovery dialog</source>
         <translation>Atalhos no dialogo de descoberta de serviços</translation>
     </message>
+    <message>
+        <source>Shortcuts in the history dialog</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>ShowChangeLogForm</name>
@@ -15923,6 +16013,33 @@ Pergunta e resposta, bem como uma lista de regras é comum para o cidadão comum
 O plug-in mantém um log de mensagens bloqueadas, que você pode ver através das configurações do plugin. O botão &quot;Reset&quot; exclui o registro e zera o contador de mensagens bloqueadas.
 
 AVISO!!! Antes de registrar um novo transporte, recomenda-se adicionar o seu jid ao transporte as exceções. Isto é devido ao fato de que após o registo, pedidos de autorização para todos os contatos serão enviados e se o transporte não foi adicionada como uma exceção, o plugin irá bloquear todos os pedidos.</translation>
+    </message>
+</context>
+<context>
+    <name>Stopspam::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16510,7 +16627,7 @@ Nota: Alguns servidores podem desativar o registro de transporte para usuários 
     <name>TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation>Pesquisar: </translation>
+        <translation type="vanished">Pesquisar: </translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
@@ -16518,19 +16635,19 @@ Nota: Alguns servidores podem desativar o registro de transporte para usuários 
     </message>
     <message>
         <source>First page</source>
-        <translation>Primeira página</translation>
+        <translation type="vanished">Primeira página</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation>Página anterior</translation>
+        <translation type="vanished">Página anterior</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation>Próxima página</translation>
+        <translation type="vanished">Próxima página</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation>Última página</translation>
+        <translation type="vanished">Última página</translation>
     </message>
     <message>
         <source>Search</source>

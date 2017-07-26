@@ -2068,6 +2068,23 @@ Do you still want to close the window?</source>
     </message>
 </context>
 <context>
+    <name>Chess::InvitationDialog</name>
+    <message>
+        <source>white</source>
+        <translation type="unfinished">белымі</translation>
+    </message>
+    <message>
+        <source>black</source>
+        <translation type="unfinished">чорнымі</translation>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play chess. He wants to play %2.</source>
+        <translation type="unfinished">%1 запрашае
+пагуляць у шахматы. Праціўнік жадае гуляць %2.</translation>
+    </message>
+</context>
+<context>
     <name>ChessPlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -2450,6 +2467,33 @@ You can preview items before deleting them from your hard drive.</source>
     </message>
 </context>
 <context>
+    <name>ClientSwitcher::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished">Шукаць: </translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished">&amp;Улічваць памер літар</translation>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished">Першая бачына</translation>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished">Апошняя бачына</translation>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished">Наступная</translation>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished">Папярэдняя</translation>
+    </message>
+</context>
+<context>
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>Authors: </source>
@@ -2473,6 +2517,33 @@ You can specify the version of the client and OS or to select them from the pres
     <message>
         <source>Close Tab</source>
         <translation type="unfinished">Зачыніць картку</translation>
+    </message>
+</context>
+<context>
+    <name>ConfLogger::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished">Шукаць: </translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished">&amp;Улічваць памер літар</translation>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished">Першая бачына</translation>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished">Апошняя бачына</translation>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished">Наступная</translation>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished">Папярэдняя</translation>
     </message>
 </context>
 <context>
@@ -5938,6 +6009,23 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     </message>
 </context>
 <context>
+    <name>GomokuGame::InvitationDialog</name>
+    <message>
+        <source>white</source>
+        <translation type="unfinished">белымі</translation>
+    </message>
+    <message>
+        <source>black</source>
+        <translation type="unfinished">чорнымі</translation>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play gomoku. He wants to play %2.</source>
+        <translation type="unfinished">%1 запрашае
+пагуляць у ґамоку. Праціўнік жадае гуляць %2.</translation>
+    </message>
+</context>
+<context>
     <name>GomokuGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
@@ -7265,22 +7353,22 @@ Reason: %1</source>
     </message>
     <message>
         <source>white</source>
-        <translation>белымі</translation>
+        <translation type="vanished">белымі</translation>
     </message>
     <message>
         <source>black</source>
-        <translation>чорнымі</translation>
+        <translation type="vanished">чорнымі</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play chess. He wants to play %2.</source>
-        <translation>%1 запрашае
+        <translation type="vanished">%1 запрашае
 пагуляць у шахматы. Праціўнік жадае гуляць %2.</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play gomoku. He wants to play %2.</source>
-        <translation>%1 запрашае
+        <translation type="vanished">%1 запрашае
 пагуляць у ґамоку. Праціўнік жадае гуляць %2.</translation>
     </message>
     <message>
@@ -16193,6 +16281,10 @@ Reason: %1</source>
         <source>Shortcuts in the service discovery dialog</source>
         <translation>Выклічнікі ў вакне шукаць службы</translation>
     </message>
+    <message>
+        <source>Shortcuts in the history dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShowChangeLogForm</name>
@@ -16533,6 +16625,33 @@ The plugin keeps a log of blocked messages, which you can view through the plugi
 
 WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Stopspam::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished">Шукаць: </translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished">&amp;Улічваць памер літар</translation>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished">Першая бачына</translation>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished">Апошняя бачына</translation>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished">Наступная</translation>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished">Папярэдняя</translation>
     </message>
 </context>
 <context>
@@ -17120,7 +17239,7 @@ Note: Some server may disable transport registration to users from different ser
     <name>TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation>Шукаць: </translation>
+        <translation type="vanished">Шукаць: </translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
@@ -17128,19 +17247,19 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>First page</source>
-        <translation>Першая бачына</translation>
+        <translation type="vanished">Першая бачына</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation>Апошняя бачына</translation>
+        <translation type="vanished">Апошняя бачына</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation>Наступная</translation>
+        <translation type="vanished">Наступная</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation>Папярэдняя</translation>
+        <translation type="vanished">Папярэдняя</translation>
     </message>
     <message>
         <source>Search</source>

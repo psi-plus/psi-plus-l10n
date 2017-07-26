@@ -2041,6 +2041,22 @@ Do you still want to close the window?</source>
     </message>
 </context>
 <context>
+    <name>Chess::InvitationDialog</name>
+    <message>
+        <source>white</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>black</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play chess. He wants to play %2.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>ChessPlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -2413,6 +2429,33 @@ You can preview items before deleting them from your hard drive.</source>
     </message>
 </context>
 <context>
+    <name>ClientSwitcher::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>Authors: </source>
@@ -2434,6 +2477,33 @@ You can specify the version of the client and OS or to select them from the pres
     <name>CloseButton</name>
     <message>
         <source>Close Tab</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ConfLogger::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Last page</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -5418,6 +5488,22 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     </message>
 </context>
 <context>
+    <name>GomokuGame::InvitationDialog</name>
+    <message>
+        <source>white</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>black</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play gomoku. He wants to play %2.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>GomokuGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
@@ -6780,21 +6866,21 @@ Reason: %1</source>
     </message>
     <message>
         <source>white</source>
-        <translation>白色</translation>
+        <translation type="vanished">白色</translation>
     </message>
     <message>
         <source>black</source>
-        <translation>黑色</translation>
+        <translation type="vanished">黑色</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play chess. He wants to play %2.</source>
-        <translation>玩家 %1 邀請你下象棋. 他想玩 %2.</translation>
+        <translation type="vanished">玩家 %1 邀請你下象棋. 他想玩 %2.</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play gomoku. He wants to play %2.</source>
-        <translation>玩家 %1 邀請你下五子棋. 他想玩 %2.</translation>
+        <translation type="vanished">玩家 %1 邀請你下五子棋. 他想玩 %2.</translation>
     </message>
     <message>
         <source>second</source>
@@ -15537,6 +15623,10 @@ Reason: %1</source>
         <source>Shortcuts in the service discovery dialog</source>
         <translation>查找服務對話方塊中的快速鍵</translation>
     </message>
+    <message>
+        <source>Shortcuts in the history dialog</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>ShowChangeLogForm</name>
@@ -15893,6 +15983,33 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
 該外掛程式使封鎖消息的日誌，其中您可以查看通過外掛程式設置。 “重定”按鈕刪除日誌和封鎖消息的計數器重定。
 
 警告！註冊一個新的運輸之前，建議添加JID運輸異常。這是由於這樣的事實: ，運輸登記後，所有連絡人的授權請求將被發送，如果運輸不作為例外，外掛程式會阻止所有的請求。</translation>
+    </message>
+</context>
+<context>
+    <name>Stopspam::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16477,7 +16594,7 @@ Note: Some server may disable transport registration to users from different ser
     <name>TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation>搜索:</translation>
+        <translation type="vanished">搜索:</translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
@@ -16485,19 +16602,19 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>First page</source>
-        <translation>第一頁</translation>
+        <translation type="vanished">第一頁</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation>上一頁</translation>
+        <translation type="vanished">上一頁</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation>下一頁</translation>
+        <translation type="vanished">下一頁</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation>最後一頁</translation>
+        <translation type="vanished">最後一頁</translation>
     </message>
     <message>
         <source>Search</source>

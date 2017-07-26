@@ -2066,6 +2066,22 @@ Do you still want to close the window?</source>
     </message>
 </context>
 <context>
+    <name>Chess::InvitationDialog</name>
+    <message>
+        <source>white</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>black</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play chess. He wants to play %2.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>ChessPlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -2441,6 +2457,33 @@ You can preview items before deleting them from your hard drive.</source>
     </message>
 </context>
 <context>
+    <name>ClientSwitcher::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>Authors: </source>
@@ -2464,6 +2507,33 @@ You can specify the version of the client and OS or to select them from the pres
     <message>
         <source>Close Tab</source>
         <translation>Закрити вкладку</translation>
+    </message>
+</context>
+<context>
+    <name>ConfLogger::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5454,6 +5524,22 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     </message>
 </context>
 <context>
+    <name>GomokuGame::InvitationDialog</name>
+    <message>
+        <source>white</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>black</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Player %1 invites you 
+to play gomoku. He wants to play %2.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>GomokuGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
@@ -6791,22 +6877,22 @@ Reason: %1</source>
     </message>
     <message>
         <source>white</source>
-        <translation>білі</translation>
+        <translation type="vanished">білі</translation>
     </message>
     <message>
         <source>black</source>
-        <translation>чорні</translation>
+        <translation type="vanished">чорні</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play chess. He wants to play %2.</source>
-        <translation>Гравець %1 запрошує Вас
+        <translation type="vanished">Гравець %1 запрошує Вас
 пограти у шахи. Він обрав %2 фігури.</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play gomoku. He wants to play %2.</source>
-        <translation>Гравець %1 запрошує Вас 
+        <translation type="vanished">Гравець %1 запрошує Вас 
 пограти у Гомоку. Він обрав %2 фігури.</translation>
     </message>
     <message>
@@ -15597,6 +15683,10 @@ Reason: %1</source>
         <source>Shortcuts in the service discovery dialog</source>
         <translation>Вікно огліду сервисів</translation>
     </message>
+    <message>
+        <source>Shortcuts in the history dialog</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>ShowChangeLogForm</name>
@@ -15956,6 +16046,33 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
 Плагін веде лог заблокованих повідомлень, який можна переглянути з налаштувань плагина. Кнопка &quot;Reset&quot; видаляє цей лог, і скидає лічильник заблокованих повідомлень.
 
 УВАГА! Перед реєстрацією на новому транспорті рекомендується додати jid транспорту до виключень. Це пов&apos;язано з тим, що після реєстрації транспорт запитує підписку для всіх контактів і якщо його не додати у виключення, то плагін заблокує всі запити.</translation>
+    </message>
+</context>
+<context>
+    <name>Stopspam::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16544,7 +16661,7 @@ Note: Some server may disable transport registration to users from different ser
     <name>TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation>Пошук: </translation>
+        <translation type="vanished">Пошук: </translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
@@ -16552,19 +16669,19 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>First page</source>
-        <translation>Перша сторінка</translation>
+        <translation type="vanished">Перша сторінка</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation>Попередня сторінка</translation>
+        <translation type="vanished">Попередня сторінка</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation>Наступна сторінка</translation>
+        <translation type="vanished">Наступна сторінка</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation>Остання сторінка</translation>
+        <translation type="vanished">Остання сторінка</translation>
     </message>
     <message>
         <source>Search</source>
