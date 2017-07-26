@@ -2063,16 +2063,16 @@ Do you still want to close the window?</source>
     <name>Chess::InvitationDialog</name>
     <message>
         <source>white</source>
-        <translation type="unfinished">белые</translation>
+        <translation>белые</translation>
     </message>
     <message>
         <source>black</source>
-        <translation type="unfinished">чёрные</translation>
+        <translation>чёрные</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play chess. He wants to play %2.</source>
-        <translation type="unfinished">Игрок %1 приглашает Вас
+        <translation>Игрок %1 приглашает Вас
 поиграть в шахматы. Он выбрал %2 фигуры.</translation>
     </message>
 </context>
@@ -2456,27 +2456,27 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClientSwitcher::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation type="unfinished">Найти: </translation>
+        <translation>Найти: </translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished">Учесть &amp;регистр</translation>
+        <translation>Учесть &amp;регистр</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation type="unfinished">Первая страница</translation>
+        <translation>Первая страница</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation type="unfinished">Предыдущая страница</translation>
+        <translation>Предыдущая страница</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation type="unfinished">Следующая страница</translation>
+        <translation>Следующая страница</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation type="unfinished">Последняя страница</translation>
+        <translation>Последняя страница</translation>
     </message>
 </context>
 <context>
@@ -2509,27 +2509,27 @@ You can specify the version of the client and OS or to select them from the pres
     <name>ConfLogger::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation type="unfinished">Найти: </translation>
+        <translation>Найти: </translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished">Учесть &amp;регистр</translation>
+        <translation>Учесть &amp;регистр</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation type="unfinished">Первая страница</translation>
+        <translation>Первая страница</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation type="unfinished">Предыдущая страница</translation>
+        <translation>Предыдущая страница</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation type="unfinished">Следующая страница</translation>
+        <translation>Следующая страница</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation type="unfinished">Последняя страница</translation>
+        <translation>Последняя страница</translation>
     </message>
 </context>
 <context>
@@ -5525,16 +5525,16 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <name>GomokuGame::InvitationDialog</name>
     <message>
         <source>white</source>
-        <translation type="unfinished">белые</translation>
+        <translation>белые</translation>
     </message>
     <message>
         <source>black</source>
-        <translation type="unfinished">чёрные</translation>
+        <translation>чёрные</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play gomoku. He wants to play %2.</source>
-        <translation type="unfinished">Игрок %1 приглашает Вас 
+        <translation>Игрок %1 приглашает Вас 
 поиграть в Гомоку. Он выбрал %2 фигуры.</translation>
     </message>
 </context>
@@ -15715,7 +15715,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Shortcuts in the history dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Окно с историей сообщений</translation>
     </message>
 </context>
 <context>
@@ -16083,27 +16083,27 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     <name>Stopspam::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation type="unfinished">Найти: </translation>
+        <translation>Найти: </translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished">Учесть &amp;регистр</translation>
+        <translation>Учесть &amp;регистр</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation type="unfinished">Первая страница</translation>
+        <translation>Первая страница</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation type="unfinished">Предыдущая страница</translation>
+        <translation>Предыдущая страница</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation type="unfinished">Следующая страница</translation>
+        <translation>Следующая страница</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation type="unfinished">Последняя страница</translation>
+        <translation>Последняя страница</translation>
     </message>
 </context>
 <context>
