@@ -2050,16 +2050,17 @@ Opravdu zavřít toto okno?</translation>
     <name>Chess::InvitationDialog</name>
     <message>
         <source>white</source>
-        <translation type="unfinished"/>
+        <translation>bílí</translation>
     </message>
     <message>
         <source>black</source>
-        <translation type="unfinished"/>
+        <translation>černí</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play chess. He wants to play %2.</source>
-        <translation type="unfinished"/>
+        <translation>Hráč %1 Vás zve ke
+hře v šach. Chce hrát za %2.</translation>
     </message>
 </context>
 <context>
@@ -2441,27 +2442,27 @@ Můžete si položky prohlédnout před tím, než je smažete.</translation>
     <name>ClientSwitcher::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation type="unfinished"/>
+        <translation>Hledat: </translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Uvažovat velikost písmen</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation type="unfinished"/>
+        <translation>První strana</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation type="unfinished"/>
+        <translation>Předchozí strana</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation type="unfinished"/>
+        <translation>Další strana</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation type="unfinished"/>
+        <translation>Poslední strana</translation>
     </message>
 </context>
 <context>
@@ -2494,27 +2495,27 @@ Můžete nastavit vše ručně, nebo si vybrat některou z předdefinovaných mo
     <name>ConfLogger::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation type="unfinished"/>
+        <translation>Hledat: </translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Uvažovat velikost písmen</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation type="unfinished"/>
+        <translation>První strana</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation type="unfinished"/>
+        <translation>Předchozí strana</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation type="unfinished"/>
+        <translation>Další strana</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation type="unfinished"/>
+        <translation>Poslední strana</translation>
     </message>
 </context>
 <context>
@@ -2665,19 +2666,19 @@ Pozn.: aby modul pracoval správně, Nástrojová lišta skupinového chatu mus�
     <name>ContactListDragView</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
-        <translation type="unfinished"/>
+        <translation>Navždy odstranit&lt;br&gt;%1&lt;br&gt;ze seznamu kontaktů.</translation>
     </message>
     <message>
         <source>Deleting contacts</source>
-        <translation type="unfinished"/>
+        <translation>Mazání kontaktů</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Odstranit</translation>
     </message>
 </context>
 <context>
@@ -2738,29 +2739,31 @@ Pozn.: aby modul pracoval správně, Nástrojová lišta skupinového chatu mus�
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation type="unfinished"/>
+        <translation>Tato akce zruší přiřazení všech kontaktů ke skupině.
+
+Pokračovat?</translation>
     </message>
 </context>
 <context>
     <name>ContactListItem</name>
     <message>
         <source>Agents/Transports</source>
-        <translation type="unfinished"/>
+        <translation>Prostředníci/Transporty</translation>
     </message>
     <message>
         <source>Private messages</source>
-        <translation type="unfinished"/>
+        <translation>Soukromé zprávy</translation>
     </message>
     <message>
         <source>Conferences</source>
-        <translation type="unfinished"/>
+        <translation>Konference</translation>
     </message>
 </context>
 <context>
     <name>ContactListViewDelegate::Private</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -3192,7 +3195,7 @@ Proceed?</source>
     <name>DisplayProxy</name>
     <message>
         <source>deleted</source>
-        <translation type="unfinished"/>
+        <translation>smazáno</translation>
     </message>
 </context>
 <context>
@@ -5109,7 +5112,7 @@ Hra je prohraná.</translation>
     </message>
     <message>
         <source>You are already playing!</source>
-        <translation type="unfinished"/>
+        <translation>Již máte hru rozehranou!</translation>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
@@ -5502,16 +5505,17 @@ Pozn.: zásuvný modul kontroluje pro nové zprávy pouze kořenovou složku př
     <name>GomokuGame::InvitationDialog</name>
     <message>
         <source>white</source>
-        <translation type="unfinished"/>
+        <translation>bílí</translation>
     </message>
     <message>
         <source>black</source>
-        <translation type="unfinished"/>
+        <translation>černí</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play gomoku. He wants to play %2.</source>
-        <translation type="unfinished"/>
+        <translation>Hráč %1 Vás zve ke
+hře gomoku. Chce hrát za %2.</translation>
     </message>
 </context>
 <context>
@@ -5721,23 +5725,23 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     <name>HistoryContactListModel</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Obecné</translation>
     </message>
     <message>
         <source>Not in list</source>
-        <translation type="unfinished"/>
+        <translation>Není v seznamu</translation>
     </message>
     <message>
         <source>Private messages</source>
-        <translation type="unfinished"/>
+        <translation>Soukromé zprávy</translation>
     </message>
     <message>
         <source>All contacts</source>
-        <translation type="unfinished"/>
+        <translation>Všechny kontakty</translation>
     </message>
     <message>
         <source>deleted</source>
-        <translation type="unfinished"/>
+        <translation>smazáno</translation>
     </message>
 </context>
 <context>
@@ -5836,7 +5840,7 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     </message>
     <message>
         <source>All contacts</source>
-        <translation type="unfinished"/>
+        <translation>Všechny kontakty</translation>
     </message>
     <message>
         <source>Search:</source>
@@ -5844,11 +5848,11 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     </message>
     <message>
         <source>All accounts</source>
-        <translation type="unfinished"/>
+        <translation>Všechny účty</translation>
     </message>
     <message>
         <source>deleted</source>
-        <translation type="unfinished"/>
+        <translation>smazáno</translation>
     </message>
     <message>
         <source>%1 of %2 matches</source>
@@ -8312,11 +8316,11 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Zpráva</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Chat</translation>
     </message>
     <message>
         <source>&amp;When chat window is closed</source>
@@ -12872,7 +12876,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Copy Groupchat JID</source>
-        <translation type="unfinished"/>
+        <translation>Zkopírovat JID skupionvého chatu</translation>
     </message>
     <message>
         <source>Advanc&amp;ed</source>
@@ -13133,18 +13137,18 @@ Chceš aktivovat tuto relaci?</translation>
     <name>PsiRosterWidget</name>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>Vyčistit</translation>
     </message>
 </context>
 <context>
     <name>PsiThemeModel</name>
     <message>
         <source>Version</source>
-        <translation type="unfinished"/>
+        <translation>Verze</translation>
     </message>
     <message>
         <source>Authors</source>
-        <translation type="unfinished"/>
+        <translation>Autoři</translation>
     </message>
     <message>
         <source>Released on</source>
@@ -15974,27 +15978,27 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     <name>Stopspam::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation type="unfinished"/>
+        <translation>Hledat: </translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Uvažovat velikost písmen</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation type="unfinished"/>
+        <translation>První strana</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation type="unfinished"/>
+        <translation>Předchozí strana</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation type="unfinished"/>
+        <translation>Další strana</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation type="unfinished"/>
+        <translation>Poslední strana</translation>
     </message>
 </context>
 <context>

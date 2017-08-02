@@ -256,7 +256,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"/>
+        <translation>Thê&amp;m</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -325,7 +325,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Rem&amp;ove</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bỏ</translation>
     </message>
     <message>
         <source>psi/remove</source>
@@ -535,7 +535,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Proxy:</source>
-        <translation type="unfinished"/>
+        <translation>Ủy nhiệm:</translation>
     </message>
     <message>
         <source>STUN/TURN</source>
@@ -971,7 +971,7 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>Choose...</source>
-        <translation type="unfinished"/>
+        <translation>Chọn...</translation>
     </message>
     <message>
         <source>Reconnect</source>
@@ -1018,22 +1018,22 @@ save the history for this contact.</source>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"/>
+        <translation>Mô tả:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Thôi</translation>
     </message>
 </context>
 <context>
     <name>ActivityDlg</name>
     <message>
         <source>&lt;unset&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;chưa_đặt&gt;</translation>
     </message>
     <message>
         <source>Other</source>
@@ -1209,7 +1209,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished"/>
+        <translation>Ẩn</translation>
     </message>
     <message>
         <source>Add User: Error</source>
@@ -1273,11 +1273,11 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Chọn tập tin âm thanh</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Âm thanh (*.wav)</translation>
     </message>
     <message>
         <source>Attention Plugin</source>
@@ -1320,7 +1320,7 @@ To work correctly, the plugin requires that the client of the other part support
     <name>AutoReply</name>
     <message>
         <source>Enable</source>
-        <translation type="unfinished"/>
+        <translation>Bật</translation>
     </message>
     <message>
         <source>Disable</source>
@@ -1336,11 +1336,11 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished"/>
+        <translation>Trực tuyến</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="unfinished"/>
+        <translation>Vắng mặt</translation>
     </message>
     <message>
         <source>Dnd</source>
@@ -1348,15 +1348,15 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>XA</source>
-        <translation type="unfinished"/>
+        <translation>Vắng mặt kéo dài</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>Chát</translation>
     </message>
     <message>
         <source>Invisible</source>
-        <translation type="unfinished"/>
+        <translation>Vô hình</translation>
     </message>
     <message>
         <source>Enable if status is:</source>
@@ -1481,7 +1481,7 @@ The list of exceptions for jids has two operating modes:
     <name>AvatarView</name>
     <message>
         <source>Avatar</source>
-        <translation type="unfinished"/>
+        <translation>Ảnh riêng</translation>
     </message>
     <message>
         <source>Save Image</source>
@@ -1500,11 +1500,11 @@ The list of exceptions for jids has two operating modes:
     <name>BattleshipGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Chọn tập tin âm thanh</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Âm thanh (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -1595,7 +1595,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Error!</source>
-        <translation type="unfinished"/>
+        <translation>Lỗi</translation>
     </message>
     <message>
         <source>Export bookmarks</source>
@@ -1719,7 +1719,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CaptchaDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Hộp thoại</translation>
     </message>
 </context>
 <context>
@@ -1903,7 +1903,7 @@ Lý do: %1</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished"/>
+        <translation>Gói thoại</translation>
     </message>
     <message>
         <source>Toggle encryption</source>
@@ -1995,15 +1995,15 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     </message>
     <message>
         <source>%1 says:</source>
-        <translation type="unfinished"/>
+        <translation>%1 nói:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation type="unfinished"/>
+        <translation>Chủ đề:</translation>
     </message>
     <message>
         <source>URL:</source>
-        <translation type="unfinished"/>
+        <translation>URL:</translation>
     </message>
     <message>
         <source>Desc:</source>
@@ -2086,11 +2086,11 @@ to play chess. He wants to play %2.</source>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Chọn tập tin âm thanh</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Âm thanh (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -2132,7 +2132,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Thoát</translation>
     </message>
     <message>
         <source>Resign</source>
@@ -2144,11 +2144,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>Tập tin</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation type="unfinished"/>
+        <translation>Trò chơi</translation>
     </message>
     <message>
         <source>*.chs</source>
@@ -2168,7 +2168,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>History</source>
-        <translation type="unfinished"/>
+        <translation>Lược sử</translation>
     </message>
     <message>
         <source>vCards</source>
@@ -2180,11 +2180,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Tùy chọn</translation>
     </message>
     <message>
         <source>Filter:</source>
-        <translation type="unfinished"/>
+        <translation>Lọc:</translation>
     </message>
     <message>
         <source>Select All Files</source>
@@ -2196,7 +2196,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>0</source>
-        <translation type="unfinished"/>
+        <translation>0</translation>
     </message>
     <message>
         <source> files selected</source>
@@ -2216,7 +2216,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Đóng</translation>
     </message>
     <message>
         <source>Choose &amp;Profile</source>
@@ -2224,7 +2224,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"/>
+        <translation>T&amp;hoát</translation>
     </message>
     <message>
         <source>Clear &amp;Juick Cache</source>
@@ -2284,7 +2284,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Profile:</source>
-        <translation type="unfinished"/>
+        <translation>Hồ sơ :</translation>
     </message>
     <message>
         <source>Clear Juick Cache</source>
@@ -2343,11 +2343,11 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClearingAvatarModel</name>
     <message>
         <source>Avatar</source>
-        <translation type="unfinished"/>
+        <translation>Ảnh riêng</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Cỡ</translation>
     </message>
     <message>
         <source>Creation Date</source>
@@ -2366,7 +2366,7 @@ You can preview items before deleting them from your hard drive.</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Cỡ</translation>
     </message>
     <message>
         <source>Creation Date</source>
@@ -2377,7 +2377,7 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClearingOptionsModel</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Tùy chọn</translation>
     </message>
     <message>
         <source>Values</source>
@@ -2388,7 +2388,7 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClearingTab</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Đơn</translation>
     </message>
 </context>
 <context>
@@ -2454,7 +2454,7 @@ You can specify the version of the client and OS or to select them from the pres
     <name>CloseButton</name>
     <message>
         <source>Close Tab</source>
-        <translation type="unfinished"/>
+        <translation>Đóng thẻ</translation>
     </message>
 </context>
 <context>
@@ -2554,11 +2554,11 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Manage Bookmarks</source>
-        <translation type="unfinished"/>
+        <translation>Quản lý Liên kết lưu</translation>
     </message>
     <message>
         <source>Join Groupchat</source>
-        <translation type="unfinished"/>
+        <translation>Tham gia chát nhóm</translation>
     </message>
     <message>
         <source>&amp;Add a Contact</source>
@@ -2610,15 +2610,15 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished"/>
+        <translation>Chát nhóm</translation>
     </message>
     <message>
         <source>Plugins</source>
-        <translation type="unfinished"/>
+        <translation>Phần bổ sung</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Quản trị</translation>
     </message>
     <message>
         <source>Join %1</source>
@@ -2629,19 +2629,19 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <name>ContactListDragView</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
-        <translation type="unfinished"/>
+        <translation>Hành vi này sẽ gỡ bỏ hẳn &lt;br&gt;%1&lt;br&gt; ra danh sách liên lạc của bạn.</translation>
     </message>
     <message>
         <source>Deleting contacts</source>
-        <translation type="unfinished"/>
+        <translation>Đang xoá các liên lạc</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Xoá</translation>
     </message>
 </context>
 <context>
@@ -2692,28 +2692,30 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished"/>
+        <translation>Ẩn</translation>
     </message>
     <message>
         <source>Authorization</source>
-        <translation type="unfinished"/>
+        <translation>Sự cho phép</translation>
     </message>
     <message>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation type="unfinished"/>
+        <translation>Hành vi này sẽ gây ra mọi liên lạc trong nhóm này đều bị phân ra nó.
+
+Tiếp tục ?</translation>
     </message>
 </context>
 <context>
     <name>ContactListItem</name>
     <message>
         <source>Agents/Transports</source>
-        <translation type="unfinished"/>
+        <translation>Tác nhân/Truyền tải</translation>
     </message>
     <message>
         <source>Private messages</source>
-        <translation type="unfinished"/>
+        <translation>Tin nhẳn riêng</translation>
     </message>
     <message>
         <source>Conferences</source>
@@ -2724,7 +2726,7 @@ Proceed?</source>
     <name>ContactListViewDelegate::Private</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -2743,15 +2745,15 @@ Proceed?</source>
     </message>
     <message>
         <source>Execute</source>
-        <translation type="unfinished"/>
+        <translation>Chạy</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation type="unfinished"/>
+        <translation>Tin nhẳn</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Bỏ</translation>
     </message>
     <message>
         <source>Auth request</source>
@@ -2787,7 +2789,7 @@ Proceed?</source>
     </message>
     <message>
         <source>RegExp</source>
-        <translation type="unfinished"/>
+        <translation>BTCQ</translation>
     </message>
     <message>
         <source>Removal confirmation</source>
@@ -2858,11 +2860,11 @@ Proceed?</source>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"/>
+        <translation>Nhóm lại</translation>
     </message>
     <message>
         <source>Node</source>
-        <translation type="unfinished"/>
+        <translation>Nút</translation>
     </message>
     <message>
         <source>Domain</source>
@@ -2870,7 +2872,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Subscription</source>
-        <translation type="unfinished"/>
+        <translation>Sự đang ký</translation>
     </message>
 </context>
 <context>
@@ -2925,19 +2927,19 @@ Proceed?</source>
     <name>CreateGroupDlg</name>
     <message>
         <source>Create New Group</source>
-        <translation type="unfinished"/>
+        <translation>Tạo nhóm mới</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation type="unfinished"/>
+        <translation>Gõ tên nhóm mới:</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Thêm</translation>
     </message>
     <message>
         <source>&lt;None&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;Không có&gt;</translation>
     </message>
     <message>
         <source>Choose parent group: </source>
@@ -3226,7 +3228,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Chats</source>
-        <translation type="unfinished"/>
+        <translation>Chát</translation>
     </message>
     <message>
         <source>Groupchats</source>
@@ -3242,11 +3244,11 @@ Proceed?</source>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Chọn tập tin âm thanh</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Âm thanh (*.wav)</translation>
     </message>
 </context>
 <context>
@@ -3272,7 +3274,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"/>
+        <translation>Tên:</translation>
     </message>
     <message>
         <source>Url:</source>
@@ -3635,7 +3637,7 @@ Muốn xác nhận yêu cầu này thì bấm cái nút « Xác nhận ». Khôn
     <name>ExtendedOptions</name>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>Chát</translation>
     </message>
     <message>
         <source>Tabs</source>
@@ -3647,7 +3649,7 @@ Muốn xác nhận yêu cầu này thì bấm cái nút « Xác nhận ». Khôn
     </message>
     <message>
         <source>Menu</source>
-        <translation type="unfinished"/>
+        <translation>Trình đơn</translation>
     </message>
     <message>
         <source>Look</source>
@@ -3659,7 +3661,7 @@ Muốn xác nhận yêu cầu này thì bấm cái nút « Xác nhận ». Khôn
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished"/>
+        <translation>Lặt vặt</translation>
     </message>
     <message>
         <source>Ask for confirmation before clearing chat window</source>
@@ -3719,7 +3721,7 @@ Muốn xác nhận yêu cầu này thì bấm cái nút « Xác nhận ». Khôn
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Chung</translation>
     </message>
     <message>
         <source>Show joins</source>
@@ -3756,7 +3758,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished"/>
+        <translation>Chát nhóm</translation>
     </message>
     <message>
         <source>Enable autojoin for bookmarked groupchats</source>
@@ -4772,11 +4774,11 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Xoá</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Thôi</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -4830,11 +4832,11 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished"/>
+        <translation>Gói thoại</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Chạy lệnh</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
@@ -5205,7 +5207,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Country:</source>
-        <translation type="unfinished"/>
+        <translation>Quốc gia:</translation>
     </message>
     <message>
         <source>The nation where the user is located</source>
@@ -5221,7 +5223,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"/>
+        <translation>Mô tả:</translation>
     </message>
     <message>
         <source>A natural-language name for or description of the location</source>
@@ -5229,7 +5231,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Error:</source>
-        <translation type="unfinished"/>
+        <translation>Lỗi:</translation>
     </message>
     <message>
         <source>Horizontal GPS error in arc minutes; this element is deprecated in favor of &lt;accuracy/&gt;</source>
@@ -5253,7 +5255,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Locality:</source>
-        <translation type="unfinished"/>
+        <translation>Vùng:</translation>
     </message>
     <message>
         <source>A locality within the administrative region, such as a town or city</source>
@@ -5285,7 +5287,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Room:</source>
-        <translation type="unfinished"/>
+        <translation>Phòng:</translation>
     </message>
     <message>
         <source>A particular room in a building</source>
@@ -5293,7 +5295,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Street:</source>
-        <translation type="unfinished"/>
+        <translation>Phố :</translation>
     </message>
     <message>
         <source>A thoroughfare within the locality, or a crossing of two thoroughfares</source>
@@ -5301,7 +5303,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Text:</source>
-        <translation type="unfinished"/>
+        <translation>Chuỗi:</translation>
     </message>
     <message>
         <source>A catch-all element that captures any other information about the location</source>
@@ -5313,11 +5315,11 @@ You lost the game.</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Thôi</translation>
     </message>
 </context>
 <context>
@@ -5328,7 +5330,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"/>
+        <translation>Mật khẩu :</translation>
     </message>
     <message>
         <source>Confirm password:</source>
@@ -5359,11 +5361,11 @@ You lost the game.</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Thôi</translation>
     </message>
 </context>
 <context>
@@ -5401,11 +5403,11 @@ You lost the game.</source>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Chọn tập tin âm thanh</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Âm thanh (*.wav)</translation>
     </message>
     <message>
         <source>Choose a program</source>
@@ -5479,11 +5481,11 @@ to play gomoku. He wants to play %2.</source>
     <name>GomokuGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Chọn tập tin âm thanh</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Âm thanh (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -5624,11 +5626,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Create New Group</source>
-        <translation type="unfinished"/>
+        <translation>Tạo nhóm mới</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation type="unfinished"/>
+        <translation>Gõ tên nhóm mới:</translation>
     </message>
 </context>
 <context>
@@ -5681,15 +5683,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>HistoryContactListModel</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Chung</translation>
     </message>
     <message>
         <source>Not in list</source>
-        <translation type="unfinished"/>
+        <translation>Không có trong bảng</translation>
     </message>
     <message>
         <source>Private messages</source>
-        <translation type="unfinished"/>
+        <translation>Tin nhẳn riêng</translation>
     </message>
     <message>
         <source>All contacts</source>
@@ -5768,7 +5770,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>History</source>
-        <translation type="unfinished"/>
+        <translation>Lược sử</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -5780,7 +5782,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Mở</translation>
     </message>
     <message>
         <source>Open link in browser</source>
@@ -5788,7 +5790,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Đóng</translation>
     </message>
     <message>
         <source>Close history</source>
@@ -5823,7 +5825,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>HistoryImport</name>
     <message>
         <source>Status:</source>
-        <translation type="unfinished"/>
+        <translation>Trạng thái:</translation>
     </message>
     <message>
         <source>Progress:</source>
@@ -5831,7 +5833,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -5843,7 +5845,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Lỗi</translation>
     </message>
     <message>
         <source>Psi+ Import history</source>
@@ -5891,7 +5893,7 @@ You can select or deselect a contact for history removal from the context menu o
     <name>HistoryView</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Đóng</translation>
     </message>
 </context>
 <context>
@@ -6037,7 +6039,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Lỗi</translation>
     </message>
     <message>
         <source>Authors: </source>
@@ -6593,50 +6595,50 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>InfoDlg</name>
     <message>
         <source>User Info</source>
-        <translation type="unfinished"/>
+        <translation>Thông tin người dùng</translation>
     </message>
     <message>
         <source>Alt+D</source>
-        <translation type="unfinished"/>
+        <translation>Alt+X</translation>
     </message>
     <message>
         <source>psi/disco</source>
-        <translation type="unfinished"/>
+        <translation>psi/disco</translation>
     </message>
     <message>
         <source>&amp;Publish</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Xuất bản</translation>
     </message>
     <message>
         <source>&amp;Retrieve</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Lấy</translation>
     </message>
     <message>
         <source>psi/reload</source>
-        <translation type="unfinished"/>
+        <translation>psi/reload</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>Đón&amp;g</translation>
     </message>
     <message>
         <source>psi/close</source>
-        <translation type="unfinished"/>
+        <translation>psi/close</translation>
     </message>
 </context>
 <context>
     <name>InfoWidget</name>
     <message>
         <source>First Name:</source>
-        <translation type="unfinished"/>
+        <translation>Tên:</translation>
     </message>
     <message>
         <source>Middle Name:</source>
-        <translation type="unfinished"/>
+        <translation>Tên đệm:</translation>
     </message>
     <message>
         <source>Last Name:</source>
-        <translation type="unfinished"/>
+        <translation>Họ :</translation>
     </message>
     <message>
         <source>Edit names</source>
@@ -6648,11 +6650,11 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Open web browser</source>
-        <translation type="unfinished"/>
+        <translation>Mở trình duyệt</translation>
     </message>
     <message>
         <source>No date</source>
-        <translation type="unfinished"/>
+        <translation>Không có ngày tháng</translation>
     </message>
     <message>
         <source>Edit birthday</source>
@@ -6660,55 +6662,58 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Cảnh báo</translation>
     </message>
     <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
-        <translation type="unfinished"/>
+        <translation>Bạn chưa xuất bản thông tin tài khoản đã thay đổi.
+Có chắc muốn bỏ thay đổi này không?</translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation type="unfinished"/>
+        <translation>Đóng và bỏ</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation type="unfinished"/>
+        <translation>Đừng đóng</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished"/>
+        <translation>Thành công</translation>
     </message>
     <message>
         <source>Your account information has been published.</source>
-        <translation type="unfinished"/>
+        <translation>Thông tin tài khoản của bạn đã được xuất bản.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Lỗi</translation>
     </message>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="unfinished"/>
+        <translation>Không thể lấy thông tin tài khoản của bạn.  Có thể là bạn chưa nhập gì.</translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
 Reason: %1</source>
-        <translation type="unfinished"/>
+        <translation>Không thể lấy thông tin về liên lạc này.
+Lý do : %1</translation>
     </message>
     <message>
         <source>Unable to publish your account information.
 Reason: %1</source>
-        <translation type="unfinished"/>
+        <translation>Không thể xuất bản thông tin tài khoản của bạn.
+Lý do : %1</translation>
     </message>
     <message>
         <source>Picture not
 available</source>
-        <translation type="unfinished"/>
+        <translation>Không ảnh</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>Trạng thái</translation>
     </message>
     <message>
         <source>You have not published conference information changes.
@@ -6749,7 +6754,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Thôi</translation>
     </message>
 </context>
 <context>
@@ -6760,11 +6765,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Chấp nhận</translation>
     </message>
     <message>
         <source>Reject</source>
-        <translation type="unfinished"/>
+        <translation>Từ chối</translation>
     </message>
     <message>
         <source>Gomoku Game Plugin - Invitation</source>
@@ -6808,7 +6813,7 @@ to play battleship. He wants to play %2.</source>
     <name>InviteDialog</name>
     <message>
         <source>Invitation</source>
-        <translation type="unfinished"/>
+        <translation>Lời mời</translation>
     </message>
     <message>
         <source>Opponent:</source>
@@ -6820,7 +6825,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Thôi</translation>
     </message>
     <message>
         <source>Play White</source>
@@ -6871,7 +6876,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Bỏ</translation>
     </message>
     <message>
         <source>Make dir</source>
@@ -6883,7 +6888,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Send File</source>
-        <translation type="unfinished"/>
+        <translation>Gửi tập tin</translation>
     </message>
     <message>
         <source>Hash</source>
@@ -6895,7 +6900,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Trợ giúp</translation>
     </message>
     <message>
         <source>Intro</source>
@@ -6957,15 +6962,15 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Thêm</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Xoá</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -6979,7 +6984,7 @@ to play battleship. He wants to play %2.</source>
     <name>JuickPlugin</name>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Cảnh báo</translation>
     </message>
     <message>
         <source>can't create folder %1 
@@ -7004,7 +7009,7 @@ caching avatars will be not available</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Xoá</translation>
     </message>
     <message>
         <source>Add to favorites</source>
@@ -7100,7 +7105,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <name>MUCAffiliationsModel</name>
     <message>
         <source>JID</source>
-        <translation type="unfinished"/>
+        <translation>JID</translation>
     </message>
     <message>
         <source>Reason</source>
@@ -7462,7 +7467,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Status Message</source>
-        <translation type="unfinished"/>
+        <translation>Thông điệp trạng thái</translation>
     </message>
     <message>
         <source>Active accounts:</source>
@@ -7579,11 +7584,11 @@ Details: %1</source>
     <name>Model</name>
     <message>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Kiểu</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Tên</translation>
     </message>
     <message>
         <source>E-Mail</source>
@@ -7599,7 +7604,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"/>
+        <translation>Ghi chú</translation>
     </message>
     <message>
         <source>Algorithm</source>
@@ -7723,7 +7728,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Đóng</translation>
     </message>
     <message>
         <source>Some changes are not saved. Are you sure you want to quit?</source>
@@ -8105,7 +8110,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Proxy Settings</source>
-        <translation type="unfinished"/>
+        <translation>Thiết lập uỷ nhiệm</translation>
     </message>
     <message>
         <source>Language</source>
@@ -8239,11 +8244,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tin nhẳn</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Chát</translation>
     </message>
     <message>
         <source>&amp;When chat window is closed</source>
@@ -8380,7 +8385,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Chung</translation>
     </message>
     <message>
         <source>Popup notifications</source>
@@ -8452,7 +8457,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished"/>
+        <translation>Lặt vặt</translation>
     </message>
     <message>
         <source>Avatar size:</source>
@@ -8467,7 +8472,7 @@ Tags: %1</source>
     <name>OptRoster</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="unfinished"/>
+        <translation>OptApplicationUI</translation>
     </message>
     <message>
         <source>Roster window always on top</source>
@@ -8571,7 +8576,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Cỡ</translation>
     </message>
     <message>
         <source>Radius of corners</source>
@@ -8692,7 +8697,7 @@ Tags: %1</source>
     <name>OptStatusAuto</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Đơn</translation>
     </message>
     <message>
         <source>Auto status</source>
@@ -8716,7 +8721,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Priority:</source>
-        <translation type="unfinished"/>
+        <translation>Ưu tiên:</translation>
     </message>
     <message>
         <source>Status message:</source>
@@ -8755,7 +8760,7 @@ Tags: %1</source>
     <name>OptStatusGeneral</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Đơn</translation>
     </message>
     <message>
         <source>Prompt for status message when choosing</source>
@@ -8763,27 +8768,27 @@ Tags: %1</source>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished"/>
+        <translation>Trực tuyến</translation>
     </message>
     <message>
         <source>Free for Chat</source>
-        <translation type="unfinished"/>
+        <translation>Rảnh chát</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="unfinished"/>
+        <translation>Vắng mặt</translation>
     </message>
     <message>
         <source>Not Available</source>
-        <translation type="unfinished"/>
+        <translation>Không sẵn sàng</translation>
     </message>
     <message>
         <source>Do not Disturb</source>
-        <translation type="unfinished"/>
+        <translation>Đừng làm phiền</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>Ngoại tuyến</translation>
     </message>
     <message>
         <source>Status menus</source>
@@ -8803,7 +8808,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Không</translation>
     </message>
     <message>
         <source>Hide Free for Chat, Away, Not Available and Do not Disturb</source>
@@ -8831,7 +8836,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Thêm</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -8839,7 +8844,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Xoá</translation>
     </message>
     <message>
         <source>Selected preset</source>
@@ -8847,15 +8852,15 @@ Tags: %1</source>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"/>
+        <translation>Tên:</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished"/>
+        <translation>Trạng thái:</translation>
     </message>
     <message>
         <source>Priority:</source>
-        <translation type="unfinished"/>
+        <translation>Ưu tiên:</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -8870,7 +8875,7 @@ p, li { white-space: pre-wrap; }
     <name>OptStatusPep</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Đơn</translation>
     </message>
     <message>
         <source>Tunes</source>
@@ -8901,7 +8906,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"/>
+        <translation>Kiểu :</translation>
     </message>
     <message>
         <source>Value: </source>
@@ -8936,7 +8941,7 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     <name>Options</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Đơn</translation>
     </message>
     <message>
         <source>Redirect to JID:</source>
@@ -9021,7 +9026,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Tùy chọn</translation>
     </message>
     <message>
         <source>Auto-popup Captcha dialog</source>
@@ -9140,11 +9145,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Thêm</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Bỏ</translation>
     </message>
     <message>
         <source>Import</source>
@@ -9160,7 +9165,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Thiết lập</translation>
     </message>
     <message>
         <source>Auto import a key from the message body</source>
@@ -9172,7 +9177,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Xoá</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -9204,7 +9209,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Mood</source>
-        <translation type="unfinished"/>
+        <translation>Tâm trạng</translation>
     </message>
     <message>
         <source>Activity</source>
@@ -9240,7 +9245,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished"/>
+        <translation>Chát nhóm</translation>
     </message>
     <message>
         <source>Enable Stop Spam for private messages in groupchat</source>
@@ -9264,7 +9269,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>Không có</translation>
     </message>
     <message>
         <source>Enable Stop Spam for roles:</source>
@@ -9272,15 +9277,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="unfinished"/>
+        <translation>Điều tiết viên</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="unfinished"/>
+        <translation>Người tham dự</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="unfinished"/>
+        <translation>Khách</translation>
     </message>
     <message>
         <source>Block all private messages</source>
@@ -9288,11 +9293,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Send message:</source>
-        <translation type="unfinished"/>
+        <translation>Gửi tin nhẳn:</translation>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished"/>
+        <translation>Lặt vặt</translation>
     </message>
     <message>
         <source>Number of blocked stanzas:</source>
@@ -9341,7 +9346,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>Trạng thái</translation>
     </message>
     <message>
         <source>Delete selected</source>
@@ -9357,7 +9362,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Messages</source>
-        <translation type="unfinished"/>
+        <translation>Tin nhẳn</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -9393,7 +9398,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Thôi</translation>
     </message>
     <message>
         <source>&lt;b&gt;Please wait!&lt;/b&gt;&lt;br/&gt;We need to generate a lot of random bytes. It is a good idea to perform some other action (type on the keyboard, move the mouse, utilize the disks) during the prime generation; this gives the random number generator a better chance to gain enough entropy.</source>
@@ -9413,7 +9418,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished"/>
+        <translation>Mọi tập tin (*)</translation>
     </message>
     <message>
         <source>GnuPG info</source>
@@ -9437,7 +9442,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Choose file</source>
-        <translation type="unfinished"/>
+        <translation>Chọn tập tin</translation>
     </message>
     <message>
         <source>Uploading</source>
@@ -9453,19 +9458,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Rules</source>
-        <translation type="unfinished"/>
+        <translation>Quy tắc</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"/>
+        <translation>...</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Tên</translation>
     </message>
     <message>
         <source>Enabled</source>
-        <translation type="unfinished"/>
+        <translation>Đã bật</translation>
     </message>
     <message>
         <source>Color for outgoing messages numbers</source>
@@ -9496,7 +9501,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsDlg</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Thiết lập</translation>
     </message>
 </context>
 <context>
@@ -9733,15 +9738,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Thông tin</translation>
     </message>
     <message>
         <source>Some of the options you changed will only have full effect upon restart.</source>
-        <translation type="unfinished"/>
+        <translation>Một số tùy chọn đã thay đổi sẽ hoạt động đầy đủ chỉ khi khởi động lại máy.</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>Mặc định</translation>
     </message>
     <message>
         <source>(TCP: Disabled, UDP: Auto)</source>
@@ -9918,7 +9923,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabIconsetAffiliations</name>
     <message>
         <source>Affiliations</source>
-        <translation type="unfinished"/>
+        <translation>Nhập hội</translation>
     </message>
     <message>
         <source>Select your affiliations iconset</source>
@@ -10004,7 +10009,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabPlugin</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Chung</translation>
     </message>
     <message>
         <source>General plugin options</source>
@@ -10185,7 +10190,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabStatusGeneral</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Chung</translation>
     </message>
     <message>
         <source>General status preferences</source>
@@ -10197,7 +10202,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Xoá</translation>
     </message>
     <message>
         <source>Press this button to create a new status message preset.</source>
@@ -10225,15 +10230,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Lỗi</translation>
     </message>
     <message>
         <source>Can&apos;t create a blank preset!</source>
-        <translation type="unfinished"/>
+        <translation>Không thể tạo định sẵn trống !</translation>
     </message>
     <message>
         <source>You already have a preset with that name!</source>
-        <translation type="unfinished"/>
+        <translation>Bạn đã có một định sẵn tên đó !</translation>
     </message>
 </context>
 <context>
@@ -10259,11 +10264,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>Chát</translation>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished"/>
+        <translation>Chát nhóm</translation>
     </message>
 </context>
 <context>
@@ -10311,11 +10316,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Đơn</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Chung</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -10439,7 +10444,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Default action</source>
-        <translation type="unfinished"/>
+        <translation>Hành vi mặc định</translation>
     </message>
     <message>
         <source>Capture the desktop</source>
@@ -10467,7 +10472,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Thêm</translation>
     </message>
     <message>
         <source>Delete current server</source>
@@ -10475,7 +10480,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Xoá</translation>
     </message>
     <message>
         <source>Edit current server</source>
@@ -10593,11 +10598,11 @@ Lý do: %1.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Thôi</translation>
     </message>
     <message>
         <source>Please enter your password for %1:</source>
@@ -10652,11 +10657,11 @@ Hãy gõ vào dưới đây cụm từ mật khẩu:</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Chọn tập tin âm thanh</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Âm thanh (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -10698,11 +10703,11 @@ Hãy gõ vào dưới đây cụm từ mật khẩu:</translation>
     <name>PluginInfoDialog</name>
     <message>
         <source>About</source>
-        <translation type="unfinished"/>
+        <translation>Giới thiệu</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Đóng</translation>
     </message>
 </context>
 <context>
@@ -10724,11 +10729,11 @@ Hãy gõ vào dưới đây cụm từ mật khẩu:</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished"/>
+        <translation>Trạng thái:</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation type="unfinished"/>
+        <translation>Trò chơi</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -10740,7 +10745,7 @@ Hãy gõ vào dưới đây cụm từ mật khẩu:</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>Tập tin</translation>
     </message>
     <message>
         <source>New game</source>
@@ -10756,7 +10761,7 @@ Hãy gõ vào dưới đây cụm từ mật khẩu:</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Thoát</translation>
     </message>
     <message>
         <source>Resign</source>
@@ -10792,7 +10797,7 @@ Hãy gõ vào dưới đây cụm từ mật khẩu:</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Lỗi</translation>
     </message>
     <message>
         <source>Win!</source>
@@ -10902,7 +10907,7 @@ Hãy gõ vào dưới đây cụm từ mật khẩu:</translation>
     <name>PreferencesWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Đơn</translation>
     </message>
     <message>
         <source>@username</source>
@@ -10922,7 +10927,7 @@ Hãy gõ vào dưới đây cụm từ mật khẩu:</translation>
     </message>
     <message>
         <source>message</source>
-        <translation type="unfinished"/>
+        <translation>tin nhẳn</translation>
     </message>
 </context>
 <context>
@@ -10960,11 +10965,11 @@ Hãy gõ vào dưới đây cụm từ mật khẩu:</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Áp dụng</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Đóng</translation>
     </message>
     <message>
         <source>Skin is not valid!</source>
@@ -11478,19 +11483,19 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"/>
+        <translation>Kiểu :</translation>
     </message>
     <message>
         <source>Host:</source>
-        <translation type="unfinished"/>
+        <translation>Máy chủ:</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation type="unfinished"/>
+        <translation>Cổng:</translation>
     </message>
     <message>
         <source>99999; </source>
-        <translation type="unfinished"/>
+        <translation>99999; </translation>
     </message>
     <message>
         <source>User:</source>
@@ -11498,7 +11503,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"/>
+        <translation>Mật khẩu :</translation>
     </message>
 </context>
 <context>
@@ -11773,7 +11778,7 @@ Chi tiết: %1</translation>
     </message>
     <message>
         <source>Headline</source>
-        <translation type="unfinished"/>
+        <translation>Hàng đầu</translation>
     </message>
     <message>
         <source>There was an error trying to sign your status.
@@ -12042,7 +12047,7 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Set Mood</source>
-        <translation type="unfinished"/>
+        <translation>Đặt tâm trạng</translation>
     </message>
     <message>
         <source>Set Mood for all active accounts</source>
@@ -12106,7 +12111,7 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Choose...</source>
-        <translation type="unfinished"/>
+        <translation>Chọn...</translation>
     </message>
     <message>
         <source>Show dialog to set your status</source>
@@ -12246,15 +12251,15 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Clear Chat Window</source>
-        <translation type="unfinished"/>
+        <translation>Xoá cửa sổ chát</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished"/>
+        <translation>Tìm</translation>
     </message>
     <message>
         <source>&amp;Find</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tìm</translation>
     </message>
     <message>
         <source>Set Text Format</source>
@@ -12266,35 +12271,35 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Add Contact</source>
-        <translation type="unfinished"/>
+        <translation>Thêm liên lạc</translation>
     </message>
     <message>
         <source>Select Icon</source>
-        <translation type="unfinished"/>
+        <translation>Chọn biểu tượng</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished"/>
+        <translation>Gói thoại</translation>
     </message>
     <message>
         <source>Send File</source>
-        <translation type="unfinished"/>
+        <translation>Gửi tập tin</translation>
     </message>
     <message>
         <source>Toggle Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Bật/tắt mật mã</translation>
     </message>
     <message>
         <source>User Info</source>
-        <translation type="unfinished"/>
+        <translation>Thông tin người dùng</translation>
     </message>
     <message>
         <source>Message History</source>
-        <translation type="unfinished"/>
+        <translation>Lược sử tin nhẳn</translation>
     </message>
     <message>
         <source>Toggle Compact/Full Size</source>
-        <translation type="unfinished"/>
+        <translation>Bật/tắt kích cỡ Gọn/Đầy</translation>
     </message>
     <message>
         <source>Chat basic buttons</source>
@@ -12306,11 +12311,11 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Configure Room</source>
-        <translation type="unfinished"/>
+        <translation>Cấu hình phòng</translation>
     </message>
     <message>
         <source>Plugins</source>
-        <translation type="unfinished"/>
+        <translation>Phần bổ sung</translation>
     </message>
     <message>
         <source>Pin Tab</source>
@@ -12571,7 +12576,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished"/>
+        <translation>Ẩn</translation>
     </message>
 </context>
 <context>
@@ -12650,7 +12655,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"/>
+        <translation>Ẩn</translation>
     </message>
     <message>
         <source>Show</source>
@@ -12662,7 +12667,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Block</source>
-        <translation type="unfinished"/>
+        <translation>Chặn</translation>
     </message>
     <message>
         <source>Always Visible</source>
@@ -12994,7 +12999,7 @@ Bạn có muốn kích hoạt buổi hợp đó ngay bây giờ không?</transla
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"/>
+        <translation>Cấp cao</translation>
     </message>
     <message>
         <source>(internal node)</source>
@@ -13040,7 +13045,7 @@ Bạn có muốn kích hoạt buổi hợp đó ngay bây giờ không?</transla
     <name>PsiRosterWidget</name>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>Xoá</translation>
     </message>
 </context>
 <context>
@@ -13051,7 +13056,7 @@ Bạn có muốn kích hoạt buổi hợp đó ngay bây giờ không?</transla
     </message>
     <message>
         <source>Authors</source>
-        <translation type="unfinished"/>
+        <translation>Tác giả</translation>
     </message>
     <message>
         <source>Released on</source>
@@ -13077,7 +13082,7 @@ Bạn có muốn kích hoạt buổi hợp đó ngay bây giờ không?</transla
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"/>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -13252,7 +13257,7 @@ Bạn có muốn kích hoạt buổi hợp đó ngay bây giờ không?</transla
     </message>
     <message>
         <source>Eating</source>
-        <translation type="unfinished"/>
+        <translation>Ăn cơm</translation>
     </message>
     <message>
         <source>Having A Snack</source>
@@ -13640,7 +13645,7 @@ Description: </source>
     </message>
     <message>
         <source>%1 is now %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 giờ là %2</translation>
     </message>
     <message>
         <source>Afraid</source>
@@ -14088,7 +14093,7 @@ Description: </source>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Cảnh báo</translation>
     </message>
     <message>
         <source>Cannot write to file %1:
@@ -14208,11 +14213,11 @@ Password: %5</source>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Có</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Không</translation>
     </message>
     <message>
         <source>Status</source>
@@ -14220,7 +14225,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Headline</source>
-        <translation type="unfinished"/>
+        <translation>Hàng đầu</translation>
     </message>
     <message>
         <source>Chat Message</source>
@@ -14340,7 +14345,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Incoming Call</source>
-        <translation type="unfinished"/>
+        <translation>Gọi đến</translation>
     </message>
     <message>
         <source>[Typing notify]</source>
@@ -14368,31 +14373,31 @@ Password: %5</source>
     </message>
     <message>
         <source>Contact online</source>
-        <translation type="unfinished"/>
+        <translation>Liên lạc trực tuyến</translation>
     </message>
     <message>
         <source>Contact offline</source>
-        <translation type="unfinished"/>
+        <translation>Liên lạc ngoại tuyến</translation>
     </message>
     <message>
         <source>Status change</source>
-        <translation type="unfinished"/>
+        <translation>Trạng thái thay đổi</translation>
     </message>
     <message>
         <source>Incoming message</source>
-        <translation type="unfinished"/>
+        <translation>Tin nhẳn gửi đến</translation>
     </message>
     <message>
         <source>Incoming chat message</source>
-        <translation type="unfinished"/>
+        <translation>Tin nhẳn chát gửi đến</translation>
     </message>
     <message>
         <source>Incoming file</source>
-        <translation type="unfinished"/>
+        <translation>Tập tin gửi đến</translation>
     </message>
     <message>
         <source>Incoming call</source>
-        <translation type="unfinished"/>
+        <translation>Gọi đến</translation>
     </message>
     <message>
         <source>Set Status</source>
@@ -14460,7 +14465,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Unnamed</source>
-        <translation type="unfinished"/>
+        <translation>Không tên</translation>
     </message>
     <message>
         <source>Subscription</source>
@@ -14532,11 +14537,11 @@ Password: %5</source>
     </message>
     <message>
         <source>Never</source>
-        <translation type="unfinished"/>
+        <translation>Không bao giờ</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation type="unfinished"/>
+        <translation>Luôn luôn</translation>
     </message>
     <message>
         <source>This computer only</source>
@@ -14561,7 +14566,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>%1 is now known as %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 giờ được gọi là %2</translation>
     </message>
 </context>
 <context>
@@ -14684,11 +14689,11 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Chọn tập tin âm thanh</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Âm thanh (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -14715,7 +14720,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>RipperCCOptions</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Đơn</translation>
     </message>
     <message>
         <source> min.</source>
@@ -14741,7 +14746,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>RosterAvatarFrame</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Đơn</translation>
     </message>
     <message>
         <source>Nick</source>
@@ -14761,7 +14766,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Status Message</source>
-        <translation type="unfinished"/>
+        <translation>Thông điệp trạng thái</translation>
     </message>
 </context>
 <context>
@@ -14815,19 +14820,19 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>Tập tin</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Thiết lập</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Trợ giúp</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Mở</translation>
     </message>
     <message>
         <source>Save</source>
@@ -14843,19 +14848,19 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Proxy Settings</source>
-        <translation type="unfinished"/>
+        <translation>Thiết lập uỷ nhiệm</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Tùy chọn</translation>
     </message>
     <message>
         <source>History</source>
-        <translation type="unfinished"/>
+        <translation>Lược sử</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="unfinished"/>
+        <translation>Giới thiệu về Qt</translation>
     </message>
     <message>
         <source>Home page</source>
@@ -14863,7 +14868,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Upload</source>
-        <translation type="unfinished"/>
+        <translation>Tải lên</translation>
     </message>
     <message>
         <source>Size: %1x%2px; %3 bytes</source>
@@ -14883,7 +14888,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"/>
+        <translation>Lưu dạng</translation>
     </message>
     <message>
         <source>%1 Files (*.%2);;All Files (*)</source>
@@ -15142,11 +15147,11 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation type="unfinished"/>
+        <translation>Tìm dịch vụ</translation>
     </message>
     <message>
         <source>Add Contact</source>
-        <translation type="unfinished"/>
+        <translation>Thêm liên lạc</translation>
     </message>
     <message>
         <source>New Message</source>
@@ -15158,11 +15163,11 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation type="unfinished"/>
+        <translation>Thiết lập tài khoản</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Tùy chọn</translation>
     </message>
     <message>
         <source>File Transfer</source>
@@ -15170,27 +15175,27 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>Toolbars</source>
-        <translation type="unfinished"/>
+        <translation>Thanh công cụ</translation>
     </message>
     <message>
         <source>XML Console</source>
-        <translation type="unfinished"/>
+        <translation>Bàn giao tiếp XML</translation>
     </message>
     <message>
         <source>Change Profile</source>
-        <translation type="unfinished"/>
+        <translation>Đổi hồ sơ</translation>
     </message>
     <message>
         <source>Play Sounds</source>
-        <translation type="unfinished"/>
+        <translation>Phát âm thanh</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Thoát</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>Trạng thái</translation>
     </message>
     <message>
         <source>Enable Groups</source>
@@ -15202,11 +15207,11 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>View Groups</source>
-        <translation type="unfinished"/>
+        <translation>Xem nhóm</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Hiện liên lạc ngoại tuyến</translation>
     </message>
     <message>
         <source>Show Away Contacts</source>
@@ -15214,7 +15219,7 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>Show Hidden Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Hiện liên lạc ẩn</translation>
     </message>
     <message>
         <source>Show Agents</source>
@@ -15230,7 +15235,7 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>Publish Tune</source>
-        <translation type="unfinished"/>
+        <translation>Xuất bản điệu</translation>
     </message>
     <message>
         <source>Active contacts</source>
@@ -15282,7 +15287,7 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>Set Mood</source>
-        <translation type="unfinished"/>
+        <translation>Đặt tâm trạng</translation>
     </message>
     <message>
         <source>Set Activity</source>
@@ -15334,7 +15339,7 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="unfinished"/>
+        <translation>Giới thiệu về Qt</translation>
     </message>
     <message>
         <source>QCA plugin diag</source>
@@ -15562,7 +15567,7 @@ Lý do : %1</translation>
     <name>SkinsPlugin</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Đơn</translation>
     </message>
     <message>
         <source>Preview skin</source>
@@ -15586,7 +15591,7 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Áp dụng</translation>
     </message>
     <message>
         <source>Open skin file</source>
@@ -15594,7 +15599,7 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Mở</translation>
     </message>
     <message>
         <source>Remove selected skin</source>
@@ -15602,7 +15607,7 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Bỏ</translation>
     </message>
     <message>
         <source>Overwrite selected skin with the current settings </source>
@@ -16371,7 +16376,7 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"/>
+        <translation>Chọn</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -16387,7 +16392,7 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"/>
+        <translation>Quay</translation>
     </message>
     <message>
         <source>Insert Text</source>
@@ -16410,11 +16415,11 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Thêm</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Xoá</translation>
     </message>
     <message>
         <source>ShortCut:</source>
@@ -16477,7 +16482,7 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Tìm kiếm</translation>
     </message>
     <message>
         <source>Find next</source>
@@ -16524,7 +16529,7 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>User Info</source>
-        <translation type="unfinished"/>
+        <translation>Thông tin người dùng</translation>
     </message>
 </context>
 <context>
@@ -16585,11 +16590,11 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <name>ViewLog</name>
     <message>
         <source>Find</source>
-        <translation type="unfinished"/>
+        <translation>Tìm</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Đóng</translation>
     </message>
     <message>
         <source>Save Changes</source>
@@ -16632,11 +16637,11 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>From:</source>
-        <translation type="unfinished"/>
+        <translation>Từ :</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation type="unfinished"/>
+        <translation>Chủ đề:</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -16652,19 +16657,19 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"/>
+        <translation>Lùi</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"/>
+        <translation>Tiếp</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Đóng</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>Đón&amp;g</translation>
     </message>
     <message>
         <source>[%1/%2] E-Mail</source>
@@ -16679,11 +16684,11 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <name>Viewer</name>
     <message>
         <source>Find</source>
-        <translation type="unfinished"/>
+        <translation>Tìm</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Đóng</translation>
     </message>
     <message>
         <source>Save Changes</source>
@@ -16808,11 +16813,11 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Chọn tập tin âm thanh</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Âm thanh (*.wav)</translation>
     </message>
     <message>
         <source>&lt;br&gt;Status Message: %1</source>
@@ -17220,7 +17225,7 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     </message>
     <message>
         <source>Internal server error</source>
-        <translation type="unfinished"/>
+        <translation>Lỗi máy phục vụ nội bộ</translation>
     </message>
     <message>
         <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
@@ -17407,7 +17412,7 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     <name>options</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Đơn</translation>
     </message>
     <message>
         <source>Select Sounds:</source>
@@ -17564,7 +17569,7 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Thôi</translation>
     </message>
     <message>
         <source>&amp;Authenticate</source>
@@ -17683,7 +17688,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished"/>
+        <translation>Tài khoản</translation>
     </message>
     <message>
         <source>User</source>
@@ -17699,7 +17704,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>Trạng thái</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following fingerprint?</source>
@@ -17727,7 +17732,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Xoá</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
@@ -17746,7 +17751,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished"/>
+        <translation>Tài khoản</translation>
     </message>
     <message>
         <source>Fingerprint</source>
@@ -17774,7 +17779,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Xoá</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
@@ -17939,7 +17944,7 @@ You should authenticate %1 as well by asking your own question.</source>
     <name>requestAuthDialogClass</name>
     <message>
         <source>Authorization</source>
-        <translation type="unfinished"/>
+        <translation>Sự cho phép</translation>
     </message>
     <message>
         <source>Login:</source>
@@ -17947,7 +17952,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"/>
+        <translation>Mật khẩu :</translation>
     </message>
     <message>
         <source>Remember</source>
@@ -18062,7 +18067,7 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Đóng</translation>
     </message>
     <message>
         <source>Link: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
@@ -18101,14 +18106,14 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Thôi</translation>
     </message>
 </context>
 <context>
     <name>vCardView</name>
     <message>
         <source>Full Name:</source>
-        <translation type="unfinished"/>
+        <translation>Họ tên:</translation>
     </message>
     <message>
         <source>Nick:</source>
@@ -18116,15 +18121,15 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Birthday:</source>
-        <translation type="unfinished"/>
+        <translation>Ngày sinh:</translation>
     </message>
     <message>
         <source>E-Mail:</source>
-        <translation type="unfinished"/>
+        <translation>Địa chỉ thư :</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Đóng</translation>
     </message>
 </context>
 <context>
@@ -18162,7 +18167,7 @@ to this message in juick@conference.jabber.ru</source>
     <name>yandexnarodManageClass</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Đơn</translation>
     </message>
     <message>
         <source>Get Filelist</source>
@@ -18211,7 +18216,7 @@ line2</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Đóng</translation>
     </message>
 </context>
 <context>
@@ -18290,7 +18295,7 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
     <name>yandexnarodSettingsClass</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Thiết lập</translation>
     </message>
     <message>
         <source>Login</source>
@@ -18298,7 +18303,7 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"/>
+        <translation>Mật khẩu</translation>
     </message>
     <message>
         <source>status</source>

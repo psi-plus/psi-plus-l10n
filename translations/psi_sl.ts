@@ -352,7 +352,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>&amp;Disconnect</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Prekini povezavo</translation>
     </message>
 </context>
 <context>
@@ -535,7 +535,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Proxy:</source>
-        <translation type="unfinished"/>
+        <translation>Posrednik:</translation>
     </message>
     <message>
         <source>STUN/TURN</source>
@@ -543,7 +543,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Username:</source>
-        <translation type="unfinished"/>
+        <translation>Uporabniško ime:</translation>
     </message>
     <message>
         <source>Authenticate as:</source>
@@ -971,7 +971,7 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Choose...</source>
-        <translation type="unfinished"/>
+        <translation>Izbor ...</translation>
     </message>
     <message>
         <source>Reconnect</source>
@@ -1018,22 +1018,22 @@ save the history for this contact.</source>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"/>
+        <translation>Opis:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>V redu</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Prekliči</translation>
     </message>
 </context>
 <context>
     <name>ActivityDlg</name>
     <message>
         <source>&lt;unset&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;ni nastavljeno&gt;</translation>
     </message>
     <message>
         <source>Other</source>
@@ -1209,7 +1209,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished"/>
+        <translation>Skrito</translation>
     </message>
     <message>
         <source>Add User: Error</source>
@@ -1273,11 +1273,11 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Izberite zvočno datoteko</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Zvok (*.wav)</translation>
     </message>
     <message>
         <source>Attention Plugin</source>
@@ -1320,7 +1320,7 @@ To work correctly, the plugin requires that the client of the other part support
     <name>AutoReply</name>
     <message>
         <source>Enable</source>
-        <translation type="unfinished"/>
+        <translation>Omogoči</translation>
     </message>
     <message>
         <source>Disable</source>
@@ -1336,11 +1336,11 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished"/>
+        <translation>Na zvezi</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="unfinished"/>
+        <translation>Odsoten</translation>
     </message>
     <message>
         <source>Dnd</source>
@@ -1348,15 +1348,15 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>XA</source>
-        <translation type="unfinished"/>
+        <translation>Ni me</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>Klepet</translation>
     </message>
     <message>
         <source>Invisible</source>
-        <translation type="unfinished"/>
+        <translation>Neviden</translation>
     </message>
     <message>
         <source>Enable if status is:</source>
@@ -1481,7 +1481,7 @@ The list of exceptions for jids has two operating modes:
     <name>AvatarView</name>
     <message>
         <source>Avatar</source>
-        <translation type="unfinished"/>
+        <translation>Podoba</translation>
     </message>
     <message>
         <source>Save Image</source>
@@ -1500,11 +1500,11 @@ The list of exceptions for jids has two operating modes:
     <name>BattleshipGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Izberite zvočno datoteko</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Zvok (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -1595,7 +1595,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Error!</source>
-        <translation type="unfinished"/>
+        <translation>Napaka.</translation>
     </message>
     <message>
         <source>Export bookmarks</source>
@@ -1719,7 +1719,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CaptchaDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Pogovorno okno</translation>
     </message>
 </context>
 <context>
@@ -1903,7 +1903,7 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished"/>
+        <translation>Glasovni klic</translation>
     </message>
     <message>
         <source>Toggle encryption</source>
@@ -1995,15 +1995,15 @@ Ali še vedno želite zapreti to okno?</translation>
     </message>
     <message>
         <source>%1 says:</source>
-        <translation type="unfinished"/>
+        <translation>%1 pravi:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation type="unfinished"/>
+        <translation>Zadeva:</translation>
     </message>
     <message>
         <source>URL:</source>
-        <translation type="unfinished"/>
+        <translation>Lokacija:</translation>
     </message>
     <message>
         <source>Desc:</source>
@@ -2086,11 +2086,11 @@ to play chess. He wants to play %2.</source>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Izberite zvočno datoteko</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Zvok (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -2132,7 +2132,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Izhod</translation>
     </message>
     <message>
         <source>Resign</source>
@@ -2144,11 +2144,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>Datoteka</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation type="unfinished"/>
+        <translation>Igra</translation>
     </message>
     <message>
         <source>*.chs</source>
@@ -2168,7 +2168,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>History</source>
-        <translation type="unfinished"/>
+        <translation>Zgodovina</translation>
     </message>
     <message>
         <source>vCards</source>
@@ -2180,11 +2180,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Možnosti</translation>
     </message>
     <message>
         <source>Filter:</source>
-        <translation type="unfinished"/>
+        <translation>Filter:</translation>
     </message>
     <message>
         <source>Select All Files</source>
@@ -2196,7 +2196,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>0</source>
-        <translation type="unfinished"/>
+        <translation>0</translation>
     </message>
     <message>
         <source> files selected</source>
@@ -2216,7 +2216,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Zapri</translation>
     </message>
     <message>
         <source>Choose &amp;Profile</source>
@@ -2224,7 +2224,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Izhod</translation>
     </message>
     <message>
         <source>Clear &amp;Juick Cache</source>
@@ -2284,7 +2284,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Profile:</source>
-        <translation type="unfinished"/>
+        <translation>Profil:</translation>
     </message>
     <message>
         <source>Clear Juick Cache</source>
@@ -2343,11 +2343,11 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClearingAvatarModel</name>
     <message>
         <source>Avatar</source>
-        <translation type="unfinished"/>
+        <translation>Podoba</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Velikost</translation>
     </message>
     <message>
         <source>Creation Date</source>
@@ -2366,7 +2366,7 @@ You can preview items before deleting them from your hard drive.</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Velikost</translation>
     </message>
     <message>
         <source>Creation Date</source>
@@ -2377,7 +2377,7 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClearingOptionsModel</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Možnosti</translation>
     </message>
     <message>
         <source>Values</source>
@@ -2388,7 +2388,7 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClearingTab</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Obrazec</translation>
     </message>
 </context>
 <context>
@@ -2454,7 +2454,7 @@ You can specify the version of the client and OS or to select them from the pres
     <name>CloseButton</name>
     <message>
         <source>Close Tab</source>
-        <translation type="unfinished"/>
+        <translation>Zapri zavihek</translation>
     </message>
 </context>
 <context>
@@ -2526,11 +2526,11 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <name>ContactListAccountMenu::Private</name>
     <message>
         <source>&amp;Status</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Stanje</translation>
     </message>
     <message>
         <source>Mood</source>
-        <translation type="unfinished"/>
+        <translation>Razpoloženje</translation>
     </message>
     <message>
         <source>Activity</source>
@@ -2542,11 +2542,11 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Set Avatar</source>
-        <translation type="unfinished"/>
+        <translation>Nastavi podobo</translation>
     </message>
     <message>
         <source>Unset Avatar</source>
-        <translation type="unfinished"/>
+        <translation>Odstrani podobo</translation>
     </message>
     <message>
         <source>&amp;Contacts Manager</source>
@@ -2554,23 +2554,23 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Manage Bookmarks</source>
-        <translation type="unfinished"/>
+        <translation>Upravljanje z zaznamki</translation>
     </message>
     <message>
         <source>Join Groupchat</source>
-        <translation type="unfinished"/>
+        <translation>Skupinski klepet</translation>
     </message>
     <message>
         <source>&amp;Add a Contact</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dodaj stik</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Odkrivanje storitev</translation>
     </message>
     <message>
         <source>New &amp;Blank Message</source>
-        <translation type="unfinished"/>
+        <translation>Novo &amp;prazno sporočilo</translation>
     </message>
     <message>
         <source>Privacy Lists</source>
@@ -2578,51 +2578,51 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Konzola XML</translation>
     </message>
     <message>
         <source>&amp;Modify Account...</source>
-        <translation type="unfinished"/>
+        <translation>Uredi &amp;račun ...</translation>
     </message>
     <message>
         <source>Online Users</source>
-        <translation type="unfinished"/>
+        <translation>Stiki na zvezi</translation>
     </message>
     <message>
         <source>Send Server Message</source>
-        <translation type="unfinished"/>
+        <translation>Pošlji strežniško sporočilo</translation>
     </message>
     <message>
         <source>Set MOTD</source>
-        <translation type="unfinished"/>
+        <translation>Nastavi sporočilo dneva</translation>
     </message>
     <message>
         <source>Update MOTD</source>
-        <translation type="unfinished"/>
+        <translation>Posodobi sporočilo dneva</translation>
     </message>
     <message>
         <source>Delete MOTD</source>
-        <translation type="unfinished"/>
+        <translation>Izbriši sporočilo dneva</translation>
     </message>
     <message>
         <source>Avatar</source>
-        <translation type="unfinished"/>
+        <translation>Podoba</translation>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished"/>
+        <translation>Skupinski klepet</translation>
     </message>
     <message>
         <source>Plugins</source>
-        <translation type="unfinished"/>
+        <translation>Vstavki</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Upravljanje</translation>
     </message>
     <message>
         <source>Join %1</source>
-        <translation type="unfinished"/>
+        <translation>Pridruži se %1</translation>
     </message>
 </context>
 <context>
@@ -2648,7 +2648,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <name>ContactListGroupMenu::Private</name>
     <message>
         <source>Re&amp;name</source>
-        <translation type="unfinished"/>
+        <translation>Pre&amp;imenuj</translation>
     </message>
     <message>
         <source>Resend Authorization to Group</source>
@@ -2668,15 +2668,15 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Remove Group and Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Odstrani skupino in stike</translation>
     </message>
     <message>
         <source>Remove Group</source>
-        <translation type="unfinished"/>
+        <translation>Odstrani skupino</translation>
     </message>
     <message>
         <source>Send Message to Group</source>
-        <translation type="unfinished"/>
+        <translation>Pošlji sporočilo skupini</translation>
     </message>
     <message>
         <source>Hide All</source>
@@ -2692,24 +2692,26 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished"/>
+        <translation>Skrito</translation>
     </message>
     <message>
         <source>Authorization</source>
-        <translation type="unfinished"/>
+        <translation>Odobritev</translation>
     </message>
     <message>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation type="unfinished"/>
+        <translation>Vsi stiki v tej skupini ne bodo več spadali v to skupino.
+
+Nadaljujem?</translation>
     </message>
 </context>
 <context>
     <name>ContactListItem</name>
     <message>
         <source>Agents/Transports</source>
-        <translation type="unfinished"/>
+        <translation>Zastopniki/prenosi</translation>
     </message>
     <message>
         <source>Private messages</source>
@@ -2743,15 +2745,15 @@ Proceed?</source>
     </message>
     <message>
         <source>Execute</source>
-        <translation type="unfinished"/>
+        <translation>Izvedi</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation type="unfinished"/>
+        <translation>Sporočilo</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Odstrani</translation>
     </message>
     <message>
         <source>Auth request</source>
@@ -2787,7 +2789,7 @@ Proceed?</source>
     </message>
     <message>
         <source>RegExp</source>
-        <translation type="unfinished"/>
+        <translation>Reg. izraz</translation>
     </message>
     <message>
         <source>Removal confirmation</source>
@@ -2858,11 +2860,11 @@ Proceed?</source>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"/>
+        <translation>Združi</translation>
     </message>
     <message>
         <source>Node</source>
-        <translation type="unfinished"/>
+        <translation>Vozlišče</translation>
     </message>
     <message>
         <source>Domain</source>
@@ -2870,7 +2872,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Subscription</source>
-        <translation type="unfinished"/>
+        <translation>Naročnina</translation>
     </message>
 </context>
 <context>
@@ -2925,19 +2927,19 @@ Proceed?</source>
     <name>CreateGroupDlg</name>
     <message>
         <source>Create New Group</source>
-        <translation type="unfinished"/>
+        <translation>Ustvari novo skupino</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation type="unfinished"/>
+        <translation>Vnesite ime nove skupine:</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <source>&lt;None&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;brez&gt;</translation>
     </message>
     <message>
         <source>Choose parent group: </source>
@@ -3226,7 +3228,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Chats</source>
-        <translation type="unfinished"/>
+        <translation>Klepete</translation>
     </message>
     <message>
         <source>Groupchats</source>
@@ -3242,11 +3244,11 @@ Proceed?</source>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Izberite zvočno datoteko</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Zvok (*.wav)</translation>
     </message>
 </context>
 <context>
@@ -3272,7 +3274,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"/>
+        <translation>Ime:</translation>
     </message>
     <message>
         <source>Url:</source>
@@ -3636,7 +3638,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <name>ExtendedOptions</name>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>Klepet</translation>
     </message>
     <message>
         <source>Tabs</source>
@@ -3648,7 +3650,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Menu</source>
-        <translation type="unfinished"/>
+        <translation>Meni</translation>
     </message>
     <message>
         <source>Look</source>
@@ -3660,7 +3662,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished"/>
+        <translation>Razno</translation>
     </message>
     <message>
         <source>Ask for confirmation before clearing chat window</source>
@@ -3720,7 +3722,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Splošno</translation>
     </message>
     <message>
         <source>Show joins</source>
@@ -3757,7 +3759,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished"/>
+        <translation>Skupinski klepet</translation>
     </message>
     <message>
         <source>Enable autojoin for bookmarked groupchats</source>
@@ -4771,7 +4773,7 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -4825,11 +4827,11 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished"/>
+        <translation>Glasovni klic</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Izvedi ukaz</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
@@ -5202,7 +5204,7 @@ Izgubili ste igro.</translation>
     </message>
     <message>
         <source>Country:</source>
-        <translation type="unfinished"/>
+        <translation>Država:</translation>
     </message>
     <message>
         <source>The nation where the user is located</source>
@@ -5218,7 +5220,7 @@ Izgubili ste igro.</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"/>
+        <translation>Opis:</translation>
     </message>
     <message>
         <source>A natural-language name for or description of the location</source>
@@ -5226,7 +5228,7 @@ Izgubili ste igro.</translation>
     </message>
     <message>
         <source>Error:</source>
-        <translation type="unfinished"/>
+        <translation>Napaka:</translation>
     </message>
     <message>
         <source>Horizontal GPS error in arc minutes; this element is deprecated in favor of &lt;accuracy/&gt;</source>
@@ -5250,7 +5252,7 @@ Izgubili ste igro.</translation>
     </message>
     <message>
         <source>Locality:</source>
-        <translation type="unfinished"/>
+        <translation>Krajevnost:</translation>
     </message>
     <message>
         <source>A locality within the administrative region, such as a town or city</source>
@@ -5282,7 +5284,7 @@ Izgubili ste igro.</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation type="unfinished"/>
+        <translation>Klepetalnica:</translation>
     </message>
     <message>
         <source>A particular room in a building</source>
@@ -5290,7 +5292,7 @@ Izgubili ste igro.</translation>
     </message>
     <message>
         <source>Street:</source>
-        <translation type="unfinished"/>
+        <translation>Ulica:</translation>
     </message>
     <message>
         <source>A thoroughfare within the locality, or a crossing of two thoroughfares</source>
@@ -5298,7 +5300,7 @@ Izgubili ste igro.</translation>
     </message>
     <message>
         <source>Text:</source>
-        <translation type="unfinished"/>
+        <translation>Besedilo:</translation>
     </message>
     <message>
         <source>A catch-all element that captures any other information about the location</source>
@@ -5310,11 +5312,11 @@ Izgubili ste igro.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>V redu</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Prekliči</translation>
     </message>
 </context>
 <context>
@@ -5325,7 +5327,7 @@ Izgubili ste igro.</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"/>
+        <translation>Geslo:</translation>
     </message>
     <message>
         <source>Confirm password:</source>
@@ -5356,11 +5358,11 @@ Izgubili ste igro.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>V redu</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Prekliči</translation>
     </message>
 </context>
 <context>
@@ -5398,11 +5400,11 @@ Izgubili ste igro.</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Izberite zvočno datoteko</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Zvok (*.wav)</translation>
     </message>
     <message>
         <source>Choose a program</source>
@@ -5476,11 +5478,11 @@ to play gomoku. He wants to play %2.</source>
     <name>GomokuGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Izberite zvočno datoteko</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Zvok (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -5609,7 +5611,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>GroupMenu</name>
     <message>
         <source>&amp;None</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Brez</translation>
     </message>
     <message>
         <source>&amp;Hidden</source>
@@ -5617,15 +5619,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Create New...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ustvari novo ...</translation>
     </message>
     <message>
         <source>Create New Group</source>
-        <translation type="unfinished"/>
+        <translation>Ustvari novo skupino</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation type="unfinished"/>
+        <translation>Vnesite ime nove skupine:</translation>
     </message>
 </context>
 <context>
@@ -5678,11 +5680,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>HistoryContactListModel</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Splošno</translation>
     </message>
     <message>
         <source>Not in list</source>
-        <translation type="unfinished"/>
+        <translation>Ni na seznamu</translation>
     </message>
     <message>
         <source>Private messages</source>
@@ -5765,7 +5767,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>History</source>
-        <translation type="unfinished"/>
+        <translation>Zgodovina</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -5777,7 +5779,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Odpri</translation>
     </message>
     <message>
         <source>Open link in browser</source>
@@ -5785,7 +5787,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Zapri</translation>
     </message>
     <message>
         <source>Close history</source>
@@ -5820,7 +5822,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>HistoryImport</name>
     <message>
         <source>Status:</source>
-        <translation type="unfinished"/>
+        <translation>Stanje:</translation>
     </message>
     <message>
         <source>Progress:</source>
@@ -5828,7 +5830,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>V redu</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -5840,7 +5842,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source>Psi+ Import history</source>
@@ -5888,7 +5890,7 @@ You can select or deselect a contact for history removal from the context menu o
     <name>HistoryView</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Zapri</translation>
     </message>
 </context>
 <context>
@@ -6034,7 +6036,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source>Authors: </source>
@@ -6590,50 +6592,50 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>InfoDlg</name>
     <message>
         <source>User Info</source>
-        <translation type="unfinished"/>
+        <translation>O stiku</translation>
     </message>
     <message>
         <source>Alt+D</source>
-        <translation type="unfinished"/>
+        <translation>Alt+I</translation>
     </message>
     <message>
         <source>psi/disco</source>
-        <translation type="unfinished"/>
+        <translation>psi/disco</translation>
     </message>
     <message>
         <source>&amp;Publish</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Objavi</translation>
     </message>
     <message>
         <source>&amp;Retrieve</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Pridobi</translation>
     </message>
     <message>
         <source>psi/reload</source>
-        <translation type="unfinished"/>
+        <translation>psi/reload</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Zapri</translation>
     </message>
     <message>
         <source>psi/close</source>
-        <translation type="unfinished"/>
+        <translation>psi/close</translation>
     </message>
 </context>
 <context>
     <name>InfoWidget</name>
     <message>
         <source>First Name:</source>
-        <translation type="unfinished"/>
+        <translation>Ime:</translation>
     </message>
     <message>
         <source>Middle Name:</source>
-        <translation type="unfinished"/>
+        <translation>Srednje ime:</translation>
     </message>
     <message>
         <source>Last Name:</source>
-        <translation type="unfinished"/>
+        <translation>Priimek:</translation>
     </message>
     <message>
         <source>Edit names</source>
@@ -6645,7 +6647,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Open web browser</source>
-        <translation type="unfinished"/>
+        <translation>Odpri spletni brskalnik</translation>
     </message>
     <message>
         <source>No date</source>
@@ -6657,55 +6659,59 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Opozorilo</translation>
     </message>
     <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
-        <translation type="unfinished"/>
+        <translation>Sprememb podatkov za svoj račun še niste objavili.
+Ste prepičani, da jih želite zavreči?</translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation type="unfinished"/>
+        <translation>Zapri in zavrzi</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation type="unfinished"/>
+        <translation>Ne zapiraj</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished"/>
+        <translation>Uspeh</translation>
     </message>
     <message>
         <source>Your account information has been published.</source>
-        <translation type="unfinished"/>
+        <translation>Podatki za vaš račun so bili objavljeni.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="unfinished"/>
+        <translation>Ni moč pridobiti podatkov za vaš račun. Mogoče jih še niste vnesli.</translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
 Reason: %1</source>
-        <translation type="unfinished"/>
+        <translation>Ni moč pridobiti podatkov za ta stik.
+Razlog: %1</translation>
     </message>
     <message>
         <source>Unable to publish your account information.
 Reason: %1</source>
-        <translation type="unfinished"/>
+        <translation>Ni možno objaviti podatkov za vaš račun.
+Razlog: %1</translation>
     </message>
     <message>
         <source>Picture not
 available</source>
-        <translation type="unfinished"/>
+        <translation>Slika ni
+na voljo</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>Stanje</translation>
     </message>
     <message>
         <source>You have not published conference information changes.
@@ -6746,7 +6752,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Prekliči</translation>
     </message>
 </context>
 <context>
@@ -6757,11 +6763,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Sprejmi</translation>
     </message>
     <message>
         <source>Reject</source>
-        <translation type="unfinished"/>
+        <translation>Zavrni</translation>
     </message>
     <message>
         <source>Gomoku Game Plugin - Invitation</source>
@@ -6805,7 +6811,7 @@ to play battleship. He wants to play %2.</source>
     <name>InviteDialog</name>
     <message>
         <source>Invitation</source>
-        <translation type="unfinished"/>
+        <translation>Povabilo</translation>
     </message>
     <message>
         <source>Opponent:</source>
@@ -6817,7 +6823,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>Play White</source>
@@ -6868,7 +6874,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Odstrani</translation>
     </message>
     <message>
         <source>Make dir</source>
@@ -6880,7 +6886,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Send File</source>
-        <translation type="unfinished"/>
+        <translation>Pošlji datoteko</translation>
     </message>
     <message>
         <source>Hash</source>
@@ -6892,7 +6898,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Pomoč</translation>
     </message>
     <message>
         <source>Intro</source>
@@ -6954,7 +6960,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -6962,7 +6968,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>V redu</translation>
     </message>
 </context>
 <context>
@@ -6976,7 +6982,7 @@ to play battleship. He wants to play %2.</source>
     <name>JuickPlugin</name>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Opozorilo</translation>
     </message>
     <message>
         <source>can't create folder %1 
@@ -7097,7 +7103,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <name>MUCAffiliationsModel</name>
     <message>
         <source>JID</source>
-        <translation type="unfinished"/>
+        <translation>JID</translation>
     </message>
     <message>
         <source>Reason</source>
@@ -7460,7 +7466,7 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Status Message</source>
-        <translation type="unfinished"/>
+        <translation>Sporočilo stanja</translation>
     </message>
     <message>
         <source>Active accounts:</source>
@@ -7577,11 +7583,11 @@ Details: %1</source>
     <name>Model</name>
     <message>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Vrsta</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Ime</translation>
     </message>
     <message>
         <source>E-Mail</source>
@@ -7597,7 +7603,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"/>
+        <translation>Komentar</translation>
     </message>
     <message>
         <source>Algorithm</source>
@@ -7721,7 +7727,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Zapri</translation>
     </message>
     <message>
         <source>Some changes are not saved. Are you sure you want to quit?</source>
@@ -8103,7 +8109,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Proxy Settings</source>
-        <translation type="unfinished"/>
+        <translation>Nastavitve posrednika</translation>
     </message>
     <message>
         <source>Language</source>
@@ -8237,11 +8243,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sporočilo</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Klepet</translation>
     </message>
     <message>
         <source>&amp;When chat window is closed</source>
@@ -8378,7 +8384,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Splošno</translation>
     </message>
     <message>
         <source>Popup notifications</source>
@@ -8450,7 +8456,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished"/>
+        <translation>Razno</translation>
     </message>
     <message>
         <source>Avatar size:</source>
@@ -8465,7 +8471,7 @@ Tags: %1</source>
     <name>OptRoster</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="unfinished"/>
+        <translation>OptApplicationUI</translation>
     </message>
     <message>
         <source>Roster window always on top</source>
@@ -8569,7 +8575,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Velikost</translation>
     </message>
     <message>
         <source>Radius of corners</source>
@@ -8690,7 +8696,7 @@ Tags: %1</source>
     <name>OptStatusAuto</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Obrazec</translation>
     </message>
     <message>
         <source>Auto status</source>
@@ -8714,7 +8720,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Priority:</source>
-        <translation type="unfinished"/>
+        <translation>Prednost:</translation>
     </message>
     <message>
         <source>Status message:</source>
@@ -8753,7 +8759,7 @@ Tags: %1</source>
     <name>OptStatusGeneral</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Obrazec</translation>
     </message>
     <message>
         <source>Prompt for status message when choosing</source>
@@ -8761,27 +8767,27 @@ Tags: %1</source>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished"/>
+        <translation>Na zvezi</translation>
     </message>
     <message>
         <source>Free for Chat</source>
-        <translation type="unfinished"/>
+        <translation>Prost za klepet</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="unfinished"/>
+        <translation>Odsoten</translation>
     </message>
     <message>
         <source>Not Available</source>
-        <translation type="unfinished"/>
+        <translation>Ni me</translation>
     </message>
     <message>
         <source>Do not Disturb</source>
-        <translation type="unfinished"/>
+        <translation>Ne moti</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>Brez zveze</translation>
     </message>
     <message>
         <source>Status menus</source>
@@ -8801,7 +8807,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Ne</translation>
     </message>
     <message>
         <source>Hide Free for Chat, Away, Not Available and Do not Disturb</source>
@@ -8829,7 +8835,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -8845,15 +8851,15 @@ Tags: %1</source>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"/>
+        <translation>Ime:</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished"/>
+        <translation>Stanje:</translation>
     </message>
     <message>
         <source>Priority:</source>
-        <translation type="unfinished"/>
+        <translation>Prednost:</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -8868,7 +8874,7 @@ p, li { white-space: pre-wrap; }
     <name>OptStatusPep</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Obrazec</translation>
     </message>
     <message>
         <source>Tunes</source>
@@ -8899,7 +8905,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"/>
+        <translation>Vrsta:</translation>
     </message>
     <message>
         <source>Value: </source>
@@ -8934,7 +8940,7 @@ Ime ne sme biti prazno, se ne sme končati s ».« ali vsebovati »..«.</transl
     <name>Options</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Obrazec</translation>
     </message>
     <message>
         <source>Redirect to JID:</source>
@@ -9019,7 +9025,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Možnosti</translation>
     </message>
     <message>
         <source>Auto-popup Captcha dialog</source>
@@ -9138,11 +9144,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Odstrani</translation>
     </message>
     <message>
         <source>Import</source>
@@ -9158,7 +9164,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Nastavitve</translation>
     </message>
     <message>
         <source>Auto import a key from the message body</source>
@@ -9202,7 +9208,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Mood</source>
-        <translation type="unfinished"/>
+        <translation>Razpoloženje</translation>
     </message>
     <message>
         <source>Activity</source>
@@ -9238,7 +9244,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished"/>
+        <translation>Skupinski klepet</translation>
     </message>
     <message>
         <source>Enable Stop Spam for private messages in groupchat</source>
@@ -9262,7 +9268,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>Brez</translation>
     </message>
     <message>
         <source>Enable Stop Spam for roles:</source>
@@ -9270,15 +9276,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="unfinished"/>
+        <translation>Moderator</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="unfinished"/>
+        <translation>Sodelujoči</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="unfinished"/>
+        <translation>Obiskovalec</translation>
     </message>
     <message>
         <source>Block all private messages</source>
@@ -9286,11 +9292,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Send message:</source>
-        <translation type="unfinished"/>
+        <translation>Sporočilo poslano:</translation>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished"/>
+        <translation>Razno</translation>
     </message>
     <message>
         <source>Number of blocked stanzas:</source>
@@ -9339,7 +9345,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>Stanje</translation>
     </message>
     <message>
         <source>Delete selected</source>
@@ -9355,7 +9361,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Messages</source>
-        <translation type="unfinished"/>
+        <translation>Sporočila</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -9391,7 +9397,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>&lt;b&gt;Please wait!&lt;/b&gt;&lt;br/&gt;We need to generate a lot of random bytes. It is a good idea to perform some other action (type on the keyboard, move the mouse, utilize the disks) during the prime generation; this gives the random number generator a better chance to gain enough entropy.</source>
@@ -9411,7 +9417,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished"/>
+        <translation>Vse datoteke (*)</translation>
     </message>
     <message>
         <source>GnuPG info</source>
@@ -9435,7 +9441,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Choose file</source>
-        <translation type="unfinished"/>
+        <translation>Izberite datoteko</translation>
     </message>
     <message>
         <source>Uploading</source>
@@ -9451,19 +9457,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Rules</source>
-        <translation type="unfinished"/>
+        <translation>Pravila</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"/>
+        <translation>...</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Ime</translation>
     </message>
     <message>
         <source>Enabled</source>
-        <translation type="unfinished"/>
+        <translation>Omogočena</translation>
     </message>
     <message>
         <source>Color for outgoing messages numbers</source>
@@ -9494,7 +9500,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsDlg</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Nastavitve</translation>
     </message>
 </context>
 <context>
@@ -9731,15 +9737,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Podatki</translation>
     </message>
     <message>
         <source>Some of the options you changed will only have full effect upon restart.</source>
-        <translation type="unfinished"/>
+        <translation>Nekatere spremembe možnosti bodo stopile v veljavo šele po ponovnem zagonu programa.</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>Privzeta</translation>
     </message>
     <message>
         <source>(TCP: Disabled, UDP: Auto)</source>
@@ -9916,7 +9922,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabIconsetAffiliations</name>
     <message>
         <source>Affiliations</source>
-        <translation type="unfinished"/>
+        <translation>Pripadnosti</translation>
     </message>
     <message>
         <source>Select your affiliations iconset</source>
@@ -10002,7 +10008,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabPlugin</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Splošno</translation>
     </message>
     <message>
         <source>General plugin options</source>
@@ -10183,7 +10189,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabStatusGeneral</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Splošno</translation>
     </message>
     <message>
         <source>General status preferences</source>
@@ -10223,15 +10229,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source>Can&apos;t create a blank preset!</source>
-        <translation type="unfinished"/>
+        <translation>Ime prednastavitve ne sme biti prazno!</translation>
     </message>
     <message>
         <source>You already have a preset with that name!</source>
-        <translation type="unfinished"/>
+        <translation>Prednastavitev s tem imenom že obstaja!</translation>
     </message>
 </context>
 <context>
@@ -10257,11 +10263,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>Klepet</translation>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished"/>
+        <translation>Skupinski klepet</translation>
     </message>
 </context>
 <context>
@@ -10309,11 +10315,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Obrazec</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Splošno</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -10437,7 +10443,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Default action</source>
-        <translation type="unfinished"/>
+        <translation>Privzeto dejanje</translation>
     </message>
     <message>
         <source>Capture the desktop</source>
@@ -10465,7 +10471,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <source>Delete current server</source>
@@ -10591,11 +10597,11 @@ Razlog: %1.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>V redu</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>Please enter your password for %1:</source>
@@ -10650,11 +10656,11 @@ Vnesite svojo šifrirno frazo:</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Izberite zvočno datoteko</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Zvok (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -10696,11 +10702,11 @@ Vnesite svojo šifrirno frazo:</translation>
     <name>PluginInfoDialog</name>
     <message>
         <source>About</source>
-        <translation type="unfinished"/>
+        <translation>O Psi</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Zapri</translation>
     </message>
 </context>
 <context>
@@ -10722,11 +10728,11 @@ Vnesite svojo šifrirno frazo:</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished"/>
+        <translation>Stanje:</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation type="unfinished"/>
+        <translation>Igra</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -10738,7 +10744,7 @@ Vnesite svojo šifrirno frazo:</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>Datoteka</translation>
     </message>
     <message>
         <source>New game</source>
@@ -10754,7 +10760,7 @@ Vnesite svojo šifrirno frazo:</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Izhod</translation>
     </message>
     <message>
         <source>Resign</source>
@@ -10790,7 +10796,7 @@ Vnesite svojo šifrirno frazo:</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source>Win!</source>
@@ -10900,7 +10906,7 @@ Vnesite svojo šifrirno frazo:</translation>
     <name>PreferencesWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Obrazec</translation>
     </message>
     <message>
         <source>@username</source>
@@ -10920,7 +10926,7 @@ Vnesite svojo šifrirno frazo:</translation>
     </message>
     <message>
         <source>message</source>
-        <translation type="unfinished"/>
+        <translation>sporočilo</translation>
     </message>
 </context>
 <context>
@@ -10958,11 +10964,11 @@ Vnesite svojo šifrirno frazo:</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Uveljavi</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Zapri</translation>
     </message>
     <message>
         <source>Skin is not valid!</source>
@@ -11475,19 +11481,19 @@ Omogočite &lt;i&gt;Ikone čustev&lt;/i&gt;, če želite, da Psi smeškote, kot 
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"/>
+        <translation>Vrsta:</translation>
     </message>
     <message>
         <source>Host:</source>
-        <translation type="unfinished"/>
+        <translation>Gostitelj:</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation type="unfinished"/>
+        <translation>Vrata:</translation>
     </message>
     <message>
         <source>99999; </source>
-        <translation type="unfinished"/>
+        <translation>99999; </translation>
     </message>
     <message>
         <source>User:</source>
@@ -11495,7 +11501,7 @@ Omogočite &lt;i&gt;Ikone čustev&lt;/i&gt;, če želite, da Psi smeškote, kot 
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"/>
+        <translation>Geslo:</translation>
     </message>
 </context>
 <context>
@@ -11770,7 +11776,7 @@ Podrobnosti: %1</translation>
     </message>
     <message>
         <source>Headline</source>
-        <translation type="unfinished"/>
+        <translation>Naslov</translation>
     </message>
     <message>
         <source>There was an error trying to sign your status.
@@ -12040,7 +12046,7 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
     </message>
     <message>
         <source>Set Mood</source>
-        <translation type="unfinished"/>
+        <translation>Nastavi razpoloženje</translation>
     </message>
     <message>
         <source>Set Mood for all active accounts</source>
@@ -12104,7 +12110,7 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
     </message>
     <message>
         <source>Choose...</source>
-        <translation type="unfinished"/>
+        <translation>Izbor ...</translation>
     </message>
     <message>
         <source>Show dialog to set your status</source>
@@ -12244,15 +12250,15 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
     </message>
     <message>
         <source>Clear Chat Window</source>
-        <translation type="unfinished"/>
+        <translation>Počisti okno za klepet</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished"/>
+        <translation>Najdi</translation>
     </message>
     <message>
         <source>&amp;Find</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Najdi</translation>
     </message>
     <message>
         <source>Set Text Format</source>
@@ -12264,35 +12270,35 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
     </message>
     <message>
         <source>Add Contact</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj stik</translation>
     </message>
     <message>
         <source>Select Icon</source>
-        <translation type="unfinished"/>
+        <translation>Izbor ikone</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished"/>
+        <translation>Glasovni klic</translation>
     </message>
     <message>
         <source>Send File</source>
-        <translation type="unfinished"/>
+        <translation>Pošlji datoteko</translation>
     </message>
     <message>
         <source>Toggle Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Preklopi šifriranje</translation>
     </message>
     <message>
         <source>User Info</source>
-        <translation type="unfinished"/>
+        <translation>O stiku</translation>
     </message>
     <message>
         <source>Message History</source>
-        <translation type="unfinished"/>
+        <translation>Zgodovina sporočil</translation>
     </message>
     <message>
         <source>Toggle Compact/Full Size</source>
-        <translation type="unfinished"/>
+        <translation>Kompaktna &lt;-&gt; polna velikost</translation>
     </message>
     <message>
         <source>Chat basic buttons</source>
@@ -12304,11 +12310,11 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
     </message>
     <message>
         <source>Configure Room</source>
-        <translation type="unfinished"/>
+        <translation>Nastavitev klepetalnice</translation>
     </message>
     <message>
         <source>Plugins</source>
-        <translation type="unfinished"/>
+        <translation>Vstavki</translation>
     </message>
     <message>
         <source>Pin Tab</source>
@@ -12561,58 +12567,58 @@ Migration is possible with Psi-0.15</source>
     <name>PsiContact</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Splošno</translation>
     </message>
     <message>
         <source>Not in list</source>
-        <translation type="unfinished"/>
+        <translation>Ni na seznamu</translation>
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished"/>
+        <translation>Skrito</translation>
     </message>
 </context>
 <context>
     <name>PsiContactMenu::Private</name>
     <message>
         <source>Re&amp;name</source>
-        <translation type="unfinished"/>
+        <translation>Pre&amp;imenuj</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Odstrani</translation>
     </message>
     <message>
         <source>&amp;History</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Zgodovina</translation>
     </message>
     <message>
         <source>Add/Authorize to Contact List</source>
-        <translation type="unfinished"/>
+        <translation>Odobri in dodaj na seznam stikov</translation>
     </message>
     <message>
         <source>&amp;Receive Incoming Event</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sprejmi prejeti dogodek</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation type="unfinished"/>
+        <translation>Pošlji &amp;sporočilo</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation type="unfinished"/>
+        <translation>Odpri okno za &amp;klepet</translation>
     </message>
     <message>
         <source>Open a &amp;Whiteboard</source>
-        <translation type="unfinished"/>
+        <translation>Odpri &amp;tablo</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished"/>
+        <translation>Glasovni klic</translation>
     </message>
     <message>
         <source>Send &amp;File</source>
-        <translation type="unfinished"/>
+        <translation>Pošlji &amp;datoteko</translation>
     </message>
     <message>
         <source>Sen&amp;d Status</source>
@@ -12620,35 +12626,35 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Assign Custom Picture</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dodeli sliko po meri</translation>
     </message>
     <message>
         <source>&amp;Clear Custom Picture</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Počisti sliko po meri</translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
-        <translation type="unfinished"/>
+        <translation>Dodeli ključ Open&amp;PGP</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation type="unfinished"/>
+        <translation>Odvzemi ključ Open&amp;PGP</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="unfinished"/>
+        <translation>&amp;O stiku</translation>
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Skupina</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Izvedi ukaz</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"/>
+        <translation>Skrij</translation>
     </message>
     <message>
         <source>Show</source>
@@ -12668,59 +12674,59 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Picture</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Slika</translation>
     </message>
     <message>
         <source>Invitation</source>
-        <translation type="unfinished"/>
+        <translation>Povabilo</translation>
     </message>
     <message>
         <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Povabilo za skupinski klepet poslano stiku &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation type="unfinished"/>
+        <translation>Stik &lt;b&gt;%1&lt;/b&gt; dodan na seznam stikov.</translation>
     </message>
     <message>
         <source>Authorize</source>
-        <translation type="unfinished"/>
+        <translation>Odobri</translation>
     </message>
     <message>
         <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Pošlji odobritev stiku &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Ponovno zahtevaj odobritev od &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Odstrani</translation>
     </message>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation type="unfinished"/>
+        <translation>Ste prepričani, da želite  odstraniti odobritev za &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Da</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ne</translation>
     </message>
     <message>
         <source>Choose an Image</source>
-        <translation type="unfinished"/>
+        <translation>Izberite sliko</translation>
     </message>
     <message>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation type="unfinished"/>
+        <translation>Vse datoteke (*.png *.jpg *.gif)</translation>
     </message>
     <message>
         <source>Unblock</source>
@@ -12991,7 +12997,7 @@ Ali želite aktivirati to sejo?</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"/>
+        <translation>Napredno</translation>
     </message>
     <message>
         <source>(internal node)</source>
@@ -13037,7 +13043,7 @@ Ali želite aktivirati to sejo?</translation>
     <name>PsiRosterWidget</name>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>Počisti</translation>
     </message>
 </context>
 <context>
@@ -13048,7 +13054,7 @@ Ali želite aktivirati to sejo?</translation>
     </message>
     <message>
         <source>Authors</source>
-        <translation type="unfinished"/>
+        <translation>Avtorji</translation>
     </message>
     <message>
         <source>Released on</source>
@@ -13074,7 +13080,7 @@ Ali želite aktivirati to sejo?</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"/>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -13249,7 +13255,7 @@ Ali želite aktivirati to sejo?</translation>
     </message>
     <message>
         <source>Eating</source>
-        <translation type="unfinished"/>
+        <translation>Jem</translation>
     </message>
     <message>
         <source>Having A Snack</source>
@@ -13637,7 +13643,7 @@ Description: </source>
     </message>
     <message>
         <source>%1 is now %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 je sedaj %2</translation>
     </message>
     <message>
         <source>Afraid</source>
@@ -14085,7 +14091,7 @@ Description: </source>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Opozorilo</translation>
     </message>
     <message>
         <source>Cannot write to file %1:
@@ -14205,11 +14211,11 @@ Password: %5</source>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Da</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Ne</translation>
     </message>
     <message>
         <source>Status</source>
@@ -14217,7 +14223,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Headline</source>
-        <translation type="unfinished"/>
+        <translation>Naslov</translation>
     </message>
     <message>
         <source>Chat Message</source>
@@ -14337,7 +14343,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Incoming Call</source>
-        <translation type="unfinished"/>
+        <translation>Prejeti klic</translation>
     </message>
     <message>
         <source>[Typing notify]</source>
@@ -14365,31 +14371,31 @@ Password: %5</source>
     </message>
     <message>
         <source>Contact online</source>
-        <translation type="unfinished"/>
+        <translation>Stik je na zvezi</translation>
     </message>
     <message>
         <source>Contact offline</source>
-        <translation type="unfinished"/>
+        <translation>Stik ni več na zvezi</translation>
     </message>
     <message>
         <source>Status change</source>
-        <translation type="unfinished"/>
+        <translation>Sprememba stanja</translation>
     </message>
     <message>
         <source>Incoming message</source>
-        <translation type="unfinished"/>
+        <translation>Prihajajoče sporočilo</translation>
     </message>
     <message>
         <source>Incoming chat message</source>
-        <translation type="unfinished"/>
+        <translation>Prihajajoč klepet</translation>
     </message>
     <message>
         <source>Incoming file</source>
-        <translation type="unfinished"/>
+        <translation>Prihajajoča datoteka</translation>
     </message>
     <message>
         <source>Incoming call</source>
-        <translation type="unfinished"/>
+        <translation>Prejeti klic</translation>
     </message>
     <message>
         <source>Set Status</source>
@@ -14457,7 +14463,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Unnamed</source>
-        <translation type="unfinished"/>
+        <translation>Neimenovan</translation>
     </message>
     <message>
         <source>Subscription</source>
@@ -14529,11 +14535,11 @@ Password: %5</source>
     </message>
     <message>
         <source>Never</source>
-        <translation type="unfinished"/>
+        <translation>Nikoli</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation type="unfinished"/>
+        <translation>Vedno</translation>
     </message>
     <message>
         <source>This computer only</source>
@@ -14558,7 +14564,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>%1 is now known as %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 je sedaj znan kot %2</translation>
     </message>
 </context>
 <context>
@@ -14681,11 +14687,11 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Izberite zvočno datoteko</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Zvok (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -14712,7 +14718,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>RipperCCOptions</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Obrazec</translation>
     </message>
     <message>
         <source> min.</source>
@@ -14731,14 +14737,14 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Auto-join</source>
-        <translation type="unfinished"/>
+        <translation>Samodejno se pridruži</translation>
     </message>
 </context>
 <context>
     <name>RosterAvatarFrame</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Obrazec</translation>
     </message>
     <message>
         <source>Nick</source>
@@ -14758,7 +14764,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Status Message</source>
-        <translation type="unfinished"/>
+        <translation>Sporočilo stanja</translation>
     </message>
 </context>
 <context>
@@ -14812,19 +14818,19 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>Datoteka</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Nastavitve</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Pomoč</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Odpri</translation>
     </message>
     <message>
         <source>Save</source>
@@ -14840,19 +14846,19 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Proxy Settings</source>
-        <translation type="unfinished"/>
+        <translation>Nastavitve posrednika</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Možnosti</translation>
     </message>
     <message>
         <source>History</source>
-        <translation type="unfinished"/>
+        <translation>Zgodovina</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="unfinished"/>
+        <translation>O Qt</translation>
     </message>
     <message>
         <source>Home page</source>
@@ -14860,7 +14866,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Upload</source>
-        <translation type="unfinished"/>
+        <translation>Pošiljanje</translation>
     </message>
     <message>
         <source>Size: %1x%2px; %3 bytes</source>
@@ -14880,7 +14886,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"/>
+        <translation>Shrani kot</translation>
     </message>
     <message>
         <source>%1 Files (*.%2);;All Files (*)</source>
@@ -15139,11 +15145,11 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation type="unfinished"/>
+        <translation>Odkrivanje storitev</translation>
     </message>
     <message>
         <source>Add Contact</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj stik</translation>
     </message>
     <message>
         <source>New Message</source>
@@ -15155,11 +15161,11 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation type="unfinished"/>
+        <translation>Nastavi račun</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Možnosti</translation>
     </message>
     <message>
         <source>File Transfer</source>
@@ -15167,27 +15173,27 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Toolbars</source>
-        <translation type="unfinished"/>
+        <translation>Orodjarne</translation>
     </message>
     <message>
         <source>XML Console</source>
-        <translation type="unfinished"/>
+        <translation>Konzola XML</translation>
     </message>
     <message>
         <source>Change Profile</source>
-        <translation type="unfinished"/>
+        <translation>Zamenjaj profil</translation>
     </message>
     <message>
         <source>Play Sounds</source>
-        <translation type="unfinished"/>
+        <translation>Predvajaj zvoke</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Izhod</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>Stanje</translation>
     </message>
     <message>
         <source>Enable Groups</source>
@@ -15199,11 +15205,11 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>View Groups</source>
-        <translation type="unfinished"/>
+        <translation>Prikaži skupine</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Prikaži stike brez zveze</translation>
     </message>
     <message>
         <source>Show Away Contacts</source>
@@ -15211,7 +15217,7 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Show Hidden Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Prikaži skrite stike</translation>
     </message>
     <message>
         <source>Show Agents</source>
@@ -15227,7 +15233,7 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Publish Tune</source>
-        <translation type="unfinished"/>
+        <translation>Objavi skladbo</translation>
     </message>
     <message>
         <source>Active contacts</source>
@@ -15279,7 +15285,7 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Set Mood</source>
-        <translation type="unfinished"/>
+        <translation>Nastavi razpoloženje</translation>
     </message>
     <message>
         <source>Set Activity</source>
@@ -15331,7 +15337,7 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="unfinished"/>
+        <translation>O Qt</translation>
     </message>
     <message>
         <source>QCA plugin diag</source>
@@ -15559,7 +15565,7 @@ Razlog: %1</translation>
     <name>SkinsPlugin</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Obrazec</translation>
     </message>
     <message>
         <source>Preview skin</source>
@@ -15583,7 +15589,7 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Uveljavi</translation>
     </message>
     <message>
         <source>Open skin file</source>
@@ -15591,7 +15597,7 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Odpri</translation>
     </message>
     <message>
         <source>Remove selected skin</source>
@@ -15599,7 +15605,7 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Odstrani</translation>
     </message>
     <message>
         <source>Overwrite selected skin with the current settings </source>
@@ -16368,7 +16374,7 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"/>
+        <translation>Izberi</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -16384,7 +16390,7 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"/>
+        <translation>Zasuči</translation>
     </message>
     <message>
         <source>Insert Text</source>
@@ -16407,7 +16413,7 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -16474,7 +16480,7 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Išči</translation>
     </message>
     <message>
         <source>Find next</source>
@@ -16521,7 +16527,7 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>User Info</source>
-        <translation type="unfinished"/>
+        <translation>O stiku</translation>
     </message>
 </context>
 <context>
@@ -16582,11 +16588,11 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <name>ViewLog</name>
     <message>
         <source>Find</source>
-        <translation type="unfinished"/>
+        <translation>Najdi</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Zapri</translation>
     </message>
     <message>
         <source>Save Changes</source>
@@ -16629,11 +16635,11 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>From:</source>
-        <translation type="unfinished"/>
+        <translation>Od:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation type="unfinished"/>
+        <translation>Zadeva:</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -16649,19 +16655,19 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"/>
+        <translation>Predhodno</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"/>
+        <translation>Naslednje</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Zapri</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Zapri</translation>
     </message>
     <message>
         <source>[%1/%2] E-Mail</source>
@@ -16676,11 +16682,11 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <name>Viewer</name>
     <message>
         <source>Find</source>
-        <translation type="unfinished"/>
+        <translation>Najdi</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Zapri</translation>
     </message>
     <message>
         <source>Save Changes</source>
@@ -16805,11 +16811,11 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Izberite zvočno datoteko</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Zvok (*.wav)</translation>
     </message>
     <message>
         <source>&lt;br&gt;Status Message: %1</source>
@@ -17123,19 +17129,19 @@ Ali še vedno želite zapreti okno?</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>Brez</translation>
     </message>
     <message>
         <source>Register</source>
-        <translation type="unfinished"/>
+        <translation>Registriraj</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Išči</translation>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished"/>
+        <translation>Skupinski klepet</translation>
     </message>
     <message>
         <source>Gateway</source>
@@ -17143,7 +17149,7 @@ Ali še vedno želite zapreti okno?</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation type="unfinished"/>
+        <translation>Odkrivanje storitev</translation>
     </message>
     <message>
         <source>VCard</source>
@@ -17151,7 +17157,7 @@ Ali še vedno želite zapreti okno?</translation>
     </message>
     <message>
         <source>Execute command</source>
-        <translation type="unfinished"/>
+        <translation>Izvedi ukaz</translation>
     </message>
     <message>
         <source>Query version</source>
@@ -17159,7 +17165,7 @@ Ali še vedno želite zapreti okno?</translation>
     </message>
     <message>
         <source>Add to roster</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj na seznam</translation>
     </message>
     <message>
         <source>Message Carbons</source>
@@ -17217,7 +17223,7 @@ Ali še vedno želite zapreti okno?</translation>
     </message>
     <message>
         <source>Internal server error</source>
-        <translation type="unfinished"/>
+        <translation>Notranja napaka strežnika</translation>
     </message>
     <message>
         <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
@@ -17348,7 +17354,7 @@ Ali še vedno želite zapreti okno?</translation>
     <name>XMPP::Task</name>
     <message>
         <source>Disconnected</source>
-        <translation type="unfinished"/>
+        <translation>Povezava prekinjena</translation>
     </message>
     <message>
         <source>Request timed out</source>
@@ -17404,7 +17410,7 @@ Ali še vedno želite zapreti okno?</translation>
     <name>options</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Obrazec</translation>
     </message>
     <message>
         <source>Select Sounds:</source>
@@ -17561,7 +17567,7 @@ Ali še vedno želite zapreti okno?</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Prekliči</translation>
     </message>
     <message>
         <source>&amp;Authenticate</source>
@@ -17680,7 +17686,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished"/>
+        <translation>Račun</translation>
     </message>
     <message>
         <source>User</source>
@@ -17696,7 +17702,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>Stanje</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following fingerprint?</source>
@@ -17743,7 +17749,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished"/>
+        <translation>Račun</translation>
     </message>
     <message>
         <source>Fingerprint</source>
@@ -17936,7 +17942,7 @@ You should authenticate %1 as well by asking your own question.</source>
     <name>requestAuthDialogClass</name>
     <message>
         <source>Authorization</source>
-        <translation type="unfinished"/>
+        <translation>Odobritev</translation>
     </message>
     <message>
         <source>Login:</source>
@@ -17944,7 +17950,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"/>
+        <translation>Geslo:</translation>
     </message>
     <message>
         <source>Remember</source>
@@ -18059,7 +18065,7 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Zapri</translation>
     </message>
     <message>
         <source>Link: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
@@ -18098,14 +18104,14 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Prekliči</translation>
     </message>
 </context>
 <context>
     <name>vCardView</name>
     <message>
         <source>Full Name:</source>
-        <translation type="unfinished"/>
+        <translation>Polno ime:</translation>
     </message>
     <message>
         <source>Nick:</source>
@@ -18113,15 +18119,15 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Birthday:</source>
-        <translation type="unfinished"/>
+        <translation>Rojstni dan:</translation>
     </message>
     <message>
         <source>E-Mail:</source>
-        <translation type="unfinished"/>
+        <translation>E-pošta:</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Zapri</translation>
     </message>
 </context>
 <context>
@@ -18159,7 +18165,7 @@ to this message in juick@conference.jabber.ru</source>
     <name>yandexnarodManageClass</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Obrazec</translation>
     </message>
     <message>
         <source>Get Filelist</source>
@@ -18208,7 +18214,7 @@ line2</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Zapri</translation>
     </message>
 </context>
 <context>
@@ -18287,7 +18293,7 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
     <name>yandexnarodSettingsClass</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Nastavitve</translation>
     </message>
     <message>
         <source>Login</source>
@@ -18295,7 +18301,7 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"/>
+        <translation>Geslo</translation>
     </message>
     <message>
         <source>status</source>

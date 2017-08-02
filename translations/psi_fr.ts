@@ -2050,16 +2050,17 @@ Voulez-vous quand-même fermer la fenêtre ?</translation>
     <name>Chess::InvitationDialog</name>
     <message>
         <source>white</source>
-        <translation type="unfinished"/>
+        <translation>blanc</translation>
     </message>
     <message>
         <source>black</source>
-        <translation type="unfinished"/>
+        <translation>noir</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play chess. He wants to play %2.</source>
-        <translation type="unfinished"/>
+        <translation>Le joueur %1 vous invite  
+à jouer aux échecs. Il veut jouer %2.</translation>
     </message>
 </context>
 <context>
@@ -2441,27 +2442,27 @@ Il est possible de prévisualiser les éléments avant de les supprimer.</transl
     <name>ClientSwitcher::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation type="unfinished"/>
+        <translation>Rechercher:</translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"/>
+        <translation>Sensible à la &amp;casse</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation type="unfinished"/>
+        <translation>Première page</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation type="unfinished"/>
+        <translation>Page précédente</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation type="unfinished"/>
+        <translation>Page suivante</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation type="unfinished"/>
+        <translation>Dernière page</translation>
     </message>
 </context>
 <context>
@@ -2493,27 +2494,27 @@ Vous pouvez spécifier la version du client ou le système ou sélectionner une 
     <name>ConfLogger::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation type="unfinished"/>
+        <translation>Rechercher:</translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"/>
+        <translation>Sensible à la &amp;casse</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation type="unfinished"/>
+        <translation>Première page</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation type="unfinished"/>
+        <translation>Page précédente</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation type="unfinished"/>
+        <translation>Page suivante</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation type="unfinished"/>
+        <translation>Dernière page</translation>
     </message>
 </context>
 <context>
@@ -2668,15 +2669,15 @@ Note : afin de fonctionner correctement, la barre d&apos;outils du salon doit ê
     </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
-        <translation type="unfinished"/>
+        <translation>Cela supprimera définitivement&lt;br&gt;%1&lt;br&gt;de votre liste de contacts.</translation>
     </message>
     <message>
         <source>Deleting contacts</source>
-        <translation type="unfinished"/>
+        <translation>Effacement des contacts</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Supprimer</translation>
     </message>
 </context>
 <context>
@@ -2737,22 +2738,23 @@ Note : afin de fonctionner correctement, la barre d&apos;outils du salon doit ê
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation type="unfinished"/>
+        <translation>Cela aura pour effet de discossier les contacts de ce groupe.
+Continuer ?</translation>
     </message>
 </context>
 <context>
     <name>ContactListItem</name>
     <message>
         <source>Agents/Transports</source>
-        <translation type="unfinished"/>
+        <translation>Agents/Transports</translation>
     </message>
     <message>
         <source>Private messages</source>
-        <translation type="unfinished"/>
+        <translation>Messages privés</translation>
     </message>
     <message>
         <source>Conferences</source>
-        <translation type="unfinished"/>
+        <translation>Conférences</translation>
     </message>
 </context>
 <context>
@@ -5102,7 +5104,7 @@ Vous avez perdu.</translation>
     </message>
     <message>
         <source>You are already playing!</source>
-        <translation type="unfinished"/>
+        <translation>Vous êtes déjà en train de jouer !</translation>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
@@ -5494,16 +5496,17 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <name>GomokuGame::InvitationDialog</name>
     <message>
         <source>white</source>
-        <translation type="unfinished"/>
+        <translation>blanc</translation>
     </message>
     <message>
         <source>black</source>
-        <translation type="unfinished"/>
+        <translation>noir</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play gomoku. He wants to play %2.</source>
-        <translation type="unfinished"/>
+        <translation>Le joueur %1 vous invite  
+à jouer à Gomoku. Il veut jouer %2.</translation>
     </message>
 </context>
 <context>
@@ -5716,7 +5719,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Not in list</source>
-        <translation type="unfinished"/>
+        <translation>Pas dans la liste</translation>
     </message>
     <message>
         <source>Private messages</source>
@@ -7052,7 +7055,7 @@ caching avatars will be not available</source>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"/>
+        <translation>Auteurs :</translation>
     </message>
     <message>
         <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
@@ -8284,11 +8287,11 @@ Labels : %1</translation>
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Message</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Discussion</translation>
     </message>
     <message>
         <source>&amp;When chat window is closed</source>
@@ -11117,7 +11120,7 @@ Vous pouvez cependant sauvegarder la partie.</translation>
     </message>
     <message>
         <source>Rename List</source>
-        <translation type="unfinished"/>
+        <translation>Renommer la liste</translation>
     </message>
     <message>
         <source>Input new name</source>
@@ -12828,7 +12831,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Copy Groupchat JID</source>
-        <translation type="unfinished"/>
+        <translation>Copier le JID du salon</translation>
     </message>
     <message>
         <source>Advanc&amp;ed</source>
@@ -13088,18 +13091,18 @@ Would you like to activate that session now?</source>
     <name>PsiRosterWidget</name>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>Vider</translation>
     </message>
 </context>
 <context>
     <name>PsiThemeModel</name>
     <message>
         <source>Version</source>
-        <translation type="unfinished"/>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Authors</source>
-        <translation type="unfinished"/>
+        <translation>Auteurs</translation>
     </message>
     <message>
         <source>Released on</source>
@@ -14139,7 +14142,7 @@ Description: </translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Avertissement</translation>
     </message>
     <message>
         <source>Cannot write to file %1:
@@ -14209,7 +14212,7 @@ The message was not sent.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="unfinished"/>
+        <translation>Psi OTR</translation>
     </message>
     <message>
         <source>Failed to generate keys for account &quot;%1&quot;.
@@ -14435,7 +14438,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Incoming chat message</source>
-        <translation type="unfinished"/>
+        <translation>Discussion entrante</translation>
     </message>
     <message>
         <source>Incoming file</source>
@@ -14612,7 +14615,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>%1 is now known as %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 est désormais connu(e) en tant que %2</translation>
     </message>
 </context>
 <context>
@@ -15292,7 +15295,7 @@ Cause: %1</translation>
     </message>
     <message>
         <source>Active contacts</source>
-        <translation type="unfinished"/>
+        <translation>Contacts actifs</translation>
     </message>
     <message>
         <source>Status All</source>
@@ -15917,27 +15920,27 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     <name>Stopspam::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation type="unfinished"/>
+        <translation>Rechercher:</translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"/>
+        <translation>Sensible à la &amp;casse</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation type="unfinished"/>
+        <translation>Première page</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation type="unfinished"/>
+        <translation>Page précédente</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation type="unfinished"/>
+        <translation>Page suivante</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation type="unfinished"/>
+        <translation>Dernière page</translation>
     </message>
 </context>
 <context>
@@ -16694,11 +16697,11 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Subject:</source>
-        <translation type="unfinished"/>
+        <translation>Sujet :</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished"/>
+        <translation>Compte:</translation>
     </message>
     <message>
         <source>Open mail in browser</source>
@@ -17373,7 +17376,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Service unavailable</source>
-        <translation type="unfinished"/>
+        <translation>Service indisponible</translation>
     </message>
     <message>
         <source>The server or recipient does not currently provide the requested service.</source>
@@ -17621,7 +17624,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>A&amp;nnuler</translation>
     </message>
     <message>
         <source>&amp;Authenticate</source>
@@ -17645,15 +17648,15 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="unfinished"/>
+        <translation>Compte:</translation>
     </message>
     <message>
         <source>User: </source>
-        <translation type="unfinished"/>
+        <translation>Utilisateur:</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished"/>
+        <translation>Empreinte:</translation>
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
@@ -17661,7 +17664,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="unfinished"/>
+        <translation>Psi OTR</translation>
     </message>
     <message>
         <source>%1 has canceled the authentication process.</source>
@@ -17815,15 +17818,15 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="unfinished"/>
+        <translation>Compte:</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished"/>
+        <translation>Empreinte:</translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="unfinished"/>
+        <translation>Psi OTR</translation>
     </message>
     <message>
         <source>Are you sure you want to overwrite the following key?</source>
@@ -17835,7 +17838,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished"/>
+        <translation>Copier l&apos;empreinte</translation>
     </message>
 </context>
 <context>
@@ -17941,7 +17944,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="unfinished"/>
+        <translation>Psi OTR</translation>
     </message>
     <message>
         <source>Attempting to refresh the private conversation</source>
@@ -18220,7 +18223,7 @@ vers ce message dans juick@conference.jabber.ru</translation>
     <name>yandexnarodManageClass</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Formulaire</translation>
     </message>
     <message>
         <source>Get Filelist</source>
@@ -18228,7 +18231,7 @@ vers ce message dans juick@conference.jabber.ru</translation>
     </message>
     <message>
         <source>Upload File</source>
-        <translation type="unfinished"/>
+        <translation>Envoyer le fichier</translation>
     </message>
     <message>
         <source>Actions:</source>
@@ -18236,11 +18239,11 @@ vers ce message dans juick@conference.jabber.ru</translation>
     </message>
     <message>
         <source>Copy URL</source>
-        <translation type="unfinished"/>
+        <translation>Copier l&apos;adresse</translation>
     </message>
     <message>
         <source>Prolongate</source>
-        <translation type="unfinished"/>
+        <translation>Prolonger</translation>
     </message>
     <message>
         <source>Delete File(s)</source>

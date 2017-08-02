@@ -477,7 +477,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>proxychooser</source>
-        <translation type="unfinished">изборпрокси</translation>
+        <translation>изборпрокси</translation>
     </message>
     <message>
         <source>Compress traffic (if possible)</source>
@@ -1356,7 +1356,7 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>XA</source>
-        <translation type="unfinished">Недостъпен</translation>
+        <translation>Недостъпен</translation>
     </message>
     <message>
         <source>Chat</source>
@@ -1919,7 +1919,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>AccountLabel</source>
-        <translation type="unfinished">АкаунтовЕтикет</translation>
+        <translation>АкаунтовЕтикет</translation>
     </message>
     <message>
         <source>Voice Call</source>
@@ -2734,14 +2734,16 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Всички контакти от тази група няма да са свързани вече с нея.
+
+Да се продължи ли?</translation>
     </message>
 </context>
 <context>
     <name>ContactListItem</name>
     <message>
         <source>Agents/Transports</source>
-        <translation type="unfinished">Услуги и връзки с други мрежи</translation>
+        <translation>Услуги и връзки с други мрежи</translation>
     </message>
     <message>
         <source>Private messages</source>
@@ -3188,7 +3190,7 @@ Proceed?</source>
     <name>DisplayProxy</name>
     <message>
         <source>deleted</source>
-        <translation type="unfinished">изтрито</translation>
+        <translation>изтрито</translation>
     </message>
 </context>
 <context>
@@ -6019,7 +6021,7 @@ p, li { white-space: pre-wrap; }
     <name>HttpProxyGetStream</name>
     <message>
         <source>Authentication failed</source>
-        <translation type="unfinished">Включването е неуспешно</translation>
+        <translation>Включването е неуспешно</translation>
     </message>
     <message>
         <source>Host not found</source>
@@ -6560,7 +6562,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Alt+O</source>
-        <translation type="unfinished">Alt+O</translation>
+        <translation>Alt+O</translation>
     </message>
     <message>
         <source>&amp;Clear</source>
@@ -6584,11 +6586,11 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Nickname:</source>
-        <translation type="unfinished">Псевдоним:</translation>
+        <translation>Псевдоним:</translation>
     </message>
     <message>
         <source>Work</source>
-        <translation type="unfinished">Работя</translation>
+        <translation>Работя</translation>
     </message>
     <message>
         <source>Company:</source>
@@ -6612,7 +6614,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Country:</source>
-        <translation type="unfinished">Държава:</translation>
+        <translation>Държава:</translation>
     </message>
     <message>
         <source>Postal Code:</source>
@@ -6620,7 +6622,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>State:</source>
-        <translation type="unfinished">Щат/Област:</translation>
+        <translation>Щат/Област:</translation>
     </message>
     <message>
         <source>City:</source>
@@ -6628,11 +6630,11 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Street:</source>
-        <translation type="unfinished">Улица:</translation>
+        <translation>Улица:</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished">Относно програмата</translation>
+        <translation>Относно програмата</translation>
     </message>
     <message>
         <source>Status</source>
@@ -6643,7 +6645,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>InfoDlg</name>
     <message>
         <source>User Info</source>
-        <translation type="unfinished">Данни за потребител</translation>
+        <translation>Данни за потребител</translation>
     </message>
     <message>
         <source>Alt+D</source>
@@ -6667,7 +6669,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Затваряне</translation>
+        <translation>&amp;Затваряне</translation>
     </message>
     <message>
         <source>psi/close</source>
@@ -6698,7 +6700,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Open web browser</source>
-        <translation type="unfinished">Отваряне в уеб-четец</translation>
+        <translation>Отваряне в уеб-четец</translation>
     </message>
     <message>
         <source>No date</source>
@@ -6710,55 +6712,59 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Предупреждение</translation>
+        <translation>Предупреждение</translation>
     </message>
     <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Не сте публикували промените в сметката си.
+Сигурни ли сте, че искате да ги отмените?</translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation type="unfinished"></translation>
+        <translation>Затваряне и отказ</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation type="unfinished"></translation>
+        <translation>Да не се затваря</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished">Успех</translation>
+        <translation>Успех</translation>
     </message>
     <message>
         <source>Your account information has been published.</source>
-        <translation type="unfinished"></translation>
+        <translation>Данните за сметката ви са публикувани.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Грешка</translation>
     </message>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не могат да се получат данни за сметката ви. Възможно е все още да не сте ги публикували.</translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
 Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Не могат да се получат данни за потребителя.
+Причина: %1</translation>
     </message>
     <message>
         <source>Unable to publish your account information.
 Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Не могат да се публикуват данните за сметката ви.
+Причина: %1</translation>
     </message>
     <message>
         <source>Picture not
 available</source>
-        <translation type="unfinished"></translation>
+        <translation>Няма
+снимка</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Състояние</translation>
     </message>
     <message>
         <source>You have not published conference information changes.
@@ -6840,7 +6846,7 @@ to play battleship. He wants to play %2.</source>
     <name>InviteDialog</name>
     <message>
         <source>Invitation</source>
-        <translation type="unfinished">Покана</translation>
+        <translation>Покана</translation>
     </message>
     <message>
         <source>Opponent:</source>
@@ -6852,7 +6858,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отказ</translation>
+        <translation>Отказ</translation>
     </message>
     <message>
         <source>Play White</source>
@@ -6887,7 +6893,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished">Изпращане</translation>
+        <translation>Изпращане</translation>
     </message>
     <message>
         <source>Jabber Disk - %1</source>
@@ -6903,7 +6909,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Изтриване</translation>
     </message>
     <message>
         <source>Make dir</source>
@@ -6915,7 +6921,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Send File</source>
-        <translation type="unfinished">Изпращане на файл</translation>
+        <translation>Изпращане на файл</translation>
     </message>
     <message>
         <source>Hash</source>
@@ -6927,7 +6933,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Помощ</translation>
+        <translation>Помощ</translation>
     </message>
     <message>
         <source>Intro</source>
@@ -6974,11 +6980,11 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished">Автор:</translation>
+        <translation>Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">Ел. поща:</translation>
+        <translation>Ел. поща:</translation>
     </message>
 </context>
 <context>
@@ -6989,15 +6995,15 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Добавяне</translation>
+        <translation>Добавяне</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Изтриване</translation>
+        <translation>Изтриване</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">ОК</translation>
+        <translation>ОК</translation>
     </message>
 </context>
 <context>
@@ -7011,7 +7017,7 @@ to play battleship. He wants to play %2.</source>
     <name>JuickPlugin</name>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Предупреждение</translation>
+        <translation>Предупреждение</translation>
     </message>
     <message>
         <source>can&apos;t create folder %1 
@@ -7036,7 +7042,7 @@ caching avatars will be not available</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Изтриване</translation>
+        <translation>Изтриване</translation>
     </message>
     <message>
         <source>Add to favorites</source>
@@ -7044,7 +7050,7 @@ caching avatars will be not available</source>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished">Автори:</translation>
+        <translation>Автори:</translation>
     </message>
     <message>
         <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
@@ -7069,15 +7075,15 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Добавяне</translation>
+        <translation>&amp;Добавяне</translation>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="unfinished">Alt+A</translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished">&amp;Изтриване</translation>
+        <translation>&amp;Изтриване</translation>
     </message>
     <message>
         <source>Alt+D</source>
@@ -7085,7 +7091,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Име:</translation>
+        <translation>Име:</translation>
     </message>
     <message>
         <source>Specifies, whether toolbar is enabled and visible.</source>
@@ -7105,11 +7111,11 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>psi/arrowUp</source>
-        <translation type="unfinished">psi/стрелкаНагоре</translation>
+        <translation>psi/стрелкаНагоре</translation>
     </message>
     <message>
         <source>psi/arrowDown</source>
-        <translation type="unfinished">psi/стрелкаНадолу</translation>
+        <translation>psi/стрелкаНадолу</translation>
     </message>
     <message>
         <source>psi/arrowRight</source>
@@ -7132,7 +7138,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <name>MUCAffiliationsModel</name>
     <message>
         <source>JID</source>
-        <translation type="unfinished">JID</translation>
+        <translation>JID</translation>
     </message>
     <message>
         <source>Reason</source>
@@ -7152,7 +7158,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Banned</source>
-        <translation type="unfinished">Баннат</translation>
+        <translation>Баннат</translation>
     </message>
 </context>
 <context>
@@ -7167,19 +7173,19 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Filter:</source>
-        <translation type="unfinished">Филтер:</translation>
+        <translation>Филтер:</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Добавяне</translation>
+        <translation>Добавяне</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Изтриване</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Общи</translation>
     </message>
     <message>
         <source>message</source>
@@ -7195,7 +7201,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Затваряне</translation>
+        <translation>Затваряне</translation>
     </message>
     <message>
         <source>&amp;VCard</source>
@@ -7242,7 +7248,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished">Не</translation>
+        <translation>Не</translation>
     </message>
     <message>
         <source>There was an error retrieving the room configuration</source>
@@ -7265,11 +7271,11 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <name>MUCJoin</name>
     <message>
         <source>Join Groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Присъединяване към Групов чат</translation>
     </message>
     <message>
         <source>Identity:</source>
-        <translation type="unfinished">Идентичност:</translation>
+        <translation>Идентичност:</translation>
     </message>
     <message>
         <source>Recent:</source>
@@ -7285,11 +7291,11 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Room:</source>
-        <translation type="unfinished">Стая:</translation>
+        <translation>Стая:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation type="unfinished">Псевдоним:</translation>
+        <translation>Псевдоним:</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -7308,7 +7314,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <name>MUCJoinDlg</name>
     <message>
         <source>&amp;Join</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Присъединяване</translation>
     </message>
     <message>
         <source>%1 on %2</source>
@@ -7407,19 +7413,19 @@ Reason: %1</source>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Добавяне</translation>
+        <translation>Добавяне</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Изтриване</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">Запис</translation>
+        <translation>Запис</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished">ОК</translation>
+        <translation>ОК</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -7535,11 +7541,11 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>Save image</source>
-        <translation type="unfinished">Запазване на Изображение</translation>
+        <translation>Запазване на Изображение</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished">Изход</translation>
+        <translation>Изход</translation>
     </message>
     <message>
         <source>About the game</source>
@@ -7547,19 +7553,19 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>Game</source>
-        <translation type="unfinished">Игра</translation>
+        <translation>Игра</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Помощ</translation>
+        <translation>Помощ</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished">Готово</translation>
+        <translation>Готово</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished">Относно програмата</translation>
+        <translation>Относно програмата</translation>
     </message>
     <message>
         <source>is a network game chess for two players.
@@ -7575,11 +7581,11 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     <name>MessageFilter</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished">Автор:</translation>
+        <translation>Автор:</translation>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation type="unfinished">ел. поща:</translation>
+        <translation>ел. поща:</translation>
     </message>
 </context>
 <context>
@@ -7606,11 +7612,11 @@ Details: %1</source>
     <name>Model</name>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Вид</translation>
+        <translation>Вид</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Име</translation>
     </message>
     <message>
         <source>E-Mail</source>
@@ -7669,15 +7675,15 @@ Details: %1</source>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished">Вид:</translation>
+        <translation>Вид:</translation>
     </message>
     <message>
         <source>Text:</source>
-        <translation type="unfinished">Текст:</translation>
+        <translation>Текст:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">ОК</translation>
+        <translation>ОК</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -7688,7 +7694,7 @@ Details: %1</source>
     <name>MoodDlg</name>
     <message>
         <source>&lt;unset&gt;</source>
-        <translation type="unfinished">&lt;незададено&gt;</translation>
+        <translation>&lt;незададено&gt;</translation>
     </message>
 </context>
 <context>
@@ -7742,7 +7748,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">Запис</translation>
+        <translation>Запис</translation>
     </message>
     <message>
         <source>Close window</source>
@@ -7750,7 +7756,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Затваряне</translation>
+        <translation>Затваряне</translation>
     </message>
     <message>
         <source>Some changes are not saved. Are you sure you want to quit?</source>
@@ -7880,7 +7886,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Chats</source>
-        <translation type="unfinished">Чатове</translation>
+        <translation>Чатове</translation>
     </message>
     <message>
         <source>Messages (Chats if Chatting)</source>
@@ -8011,7 +8017,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Choose...</source>
-        <translation type="unfinished">Избор...</translation>
+        <translation>Избор...</translation>
     </message>
     <message>
         <source>Roster:</source>
@@ -8120,7 +8126,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>99999; </source>
-        <translation type="unfinished">99999; </translation>
+        <translation>99999; </translation>
     </message>
     <message>
         <source>(1 TCP, 4 UDP)</source>
@@ -8143,7 +8149,7 @@ Tags: %1</source>
     <name>OptAvCall</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">От</translation>
+        <translation>От</translation>
     </message>
     <message>
         <source>Audio output:</source>
@@ -8233,8 +8239,20 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Message</source>
+        <translation type="vanished">Съобщение</translation>
+    </message>
+    <message>
+        <source>Chat</source>
+        <translation type="vanished">Чат</translation>
+    </message>
+    <message>
         <source>Delete chat window contents</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Never</source>
+        <translation type="vanished">Никога</translation>
     </message>
     <message>
         <source>Show previews for links</source>
@@ -8246,7 +8264,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation type="unfinished">&amp;Разговор</translation>
+        <translation>&amp;Разговор</translation>
     </message>
     <message>
         <source>&amp;When chat window is closed</source>
@@ -8313,7 +8331,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Never</source>
-        <translation type="unfinished">Никога</translation>
+        <translation>Никога</translation>
     </message>
     <message>
         <source>Once</source>
@@ -8383,7 +8401,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Общи</translation>
     </message>
     <message>
         <source>Popup notifications</source>
@@ -8455,11 +8473,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished">Други</translation>
+        <translation>Други</translation>
     </message>
     <message>
         <source>Avatar size:</source>
-        <translation type="unfinished">Размер на аватар:</translation>
+        <translation>Размер на аватар:</translation>
     </message>
     <message>
         <source>Durations, sec.</source>
@@ -8518,7 +8536,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="unfinished">Аватари</translation>
+        <translation>Аватари</translation>
     </message>
     <message>
         <source>Show moods in roster</source>
@@ -8542,7 +8560,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>GeoLocation</source>
-        <translation type="unfinished">Геолокация</translation>
+        <translation>Геолокация</translation>
     </message>
     <message>
         <source>Show icon when contact is listening to music</source>
@@ -8574,7 +8592,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Размер</translation>
+        <translation>Размер</translation>
     </message>
     <message>
         <source>Radius of corners</source>
@@ -8609,11 +8627,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Изтриване</translation>
     </message>
     <message>
         <source>Edit...</source>
-        <translation type="unfinished">Редактиране...</translation>
+        <translation>Редактиране...</translation>
     </message>
     <message>
         <source>Restore defaults</source>
@@ -8695,7 +8713,7 @@ Tags: %1</source>
     <name>OptStatusAuto</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">От</translation>
+        <translation>От</translation>
     </message>
     <message>
         <source>Auto status</source>
@@ -8758,7 +8776,7 @@ Tags: %1</source>
     <name>OptStatusGeneral</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">От</translation>
+        <translation>От</translation>
     </message>
     <message>
         <source>Prompt for status message when choosing</source>
@@ -8770,23 +8788,23 @@ Tags: %1</source>
     </message>
     <message>
         <source>Free for Chat</source>
-        <translation type="unfinished">Свободен</translation>
+        <translation>Свободен</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="unfinished">Отсъстващ</translation>
+        <translation>Отсъстващ</translation>
     </message>
     <message>
         <source>Not Available</source>
-        <translation type="unfinished">Недостъпен</translation>
+        <translation>Недостъпен</translation>
     </message>
     <message>
         <source>Do not Disturb</source>
-        <translation type="unfinished">Зает</translation>
+        <translation>Зает</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Изключен</translation>
+        <translation>Изключен</translation>
     </message>
     <message>
         <source>Status menus</source>
@@ -8806,7 +8824,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished">Не</translation>
+        <translation>Не</translation>
     </message>
     <message>
         <source>Hide Free for Chat, Away, Not Available and Do not Disturb</source>
@@ -8834,7 +8852,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Добавяне</translation>
+        <translation>Добавяне</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -8842,7 +8860,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Изтриване</translation>
+        <translation>Изтриване</translation>
     </message>
     <message>
         <source>Selected preset</source>
@@ -8850,7 +8868,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Име:</translation>
+        <translation>Име:</translation>
     </message>
     <message>
         <source>Status:</source>
@@ -8873,7 +8891,7 @@ p, li { white-space: pre-wrap; }
     <name>OptStatusPep</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">От</translation>
+        <translation>От</translation>
     </message>
     <message>
         <source>Tunes</source>
@@ -8904,7 +8922,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished">Вид:</translation>
+        <translation>Вид:</translation>
     </message>
     <message>
         <source>Value: </source>
@@ -8937,7 +8955,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <name>Options</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">От</translation>
+        <translation>От</translation>
     </message>
     <message>
         <source>Redirect to JID:</source>
@@ -8978,7 +8996,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Clear Birthdays Cache</source>
-        <translation type="unfinished">Изчистване на Кеша за Рождени Дни</translation>
+        <translation>Изчистване на Кеша за Рождени Дни</translation>
     </message>
     <message>
         <source>Check Birthdays</source>
@@ -9022,7 +9040,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <source>Auto-popup Captcha dialog</source>
@@ -9141,11 +9159,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Добавяне</translation>
+        <translation>Добавяне</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Изтриване</translation>
     </message>
     <message>
         <source>Import</source>
@@ -9153,7 +9171,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished">Експорт</translation>
+        <translation>Експорт</translation>
     </message>
     <message>
         <source>Info</source>
@@ -9161,7 +9179,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Настройки</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <source>Auto import a key from the message body</source>
@@ -9173,7 +9191,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Изтриване</translation>
+        <translation>Изтриване</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -9205,11 +9223,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Mood</source>
-        <translation type="unfinished">Настроение</translation>
+        <translation>Настроение</translation>
     </message>
     <message>
         <source>Activity</source>
-        <translation type="unfinished">Дейност</translation>
+        <translation>Дейност</translation>
     </message>
     <message>
         <source>Geolocation</source>
@@ -9217,7 +9235,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Sound:</source>
-        <translation type="unfinished">Звук:</translation>
+        <translation>Звук:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -9241,7 +9259,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Груповчат</translation>
     </message>
     <message>
         <source>Enable Stop Spam for private messages in groupchat</source>
@@ -9253,7 +9271,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Owner</source>
-        <translation type="unfinished">Собственик</translation>
+        <translation>Собственик</translation>
     </message>
     <message>
         <source>Admin</source>
@@ -9261,11 +9279,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Member</source>
-        <translation type="unfinished">Член</translation>
+        <translation>Член</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Няма</translation>
+        <translation>Няма</translation>
     </message>
     <message>
         <source>Enable Stop Spam for roles:</source>
@@ -9273,15 +9291,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="unfinished">Модератор</translation>
+        <translation>Модератор</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="unfinished">Участник</translation>
+        <translation>Участник</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="unfinished">Посетител</translation>
+        <translation>Посетител</translation>
     </message>
     <message>
         <source>Block all private messages</source>
@@ -9293,7 +9311,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished">Други</translation>
+        <translation>Други</translation>
     </message>
     <message>
         <source>Number of blocked stanzas:</source>
@@ -9301,15 +9319,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>View Log</source>
-        <translation type="unfinished">Преглед на Журнал</translation>
+        <translation>Преглед на Журнал</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished">Ресетиране</translation>
+        <translation>Ресетиране</translation>
     </message>
     <message>
         <source>Send maximum</source>
-        <translation type="unfinished">Изпращане максимално</translation>
+        <translation>Изпращане максимално</translation>
     </message>
     <message>
         <source>times</source>
@@ -9321,7 +9339,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>min.</source>
-        <translation type="unfinished">мин.</translation>
+        <translation>мин.</translation>
     </message>
     <message>
         <source>Log blocked messages to contact&apos;s history</source>
@@ -9346,7 +9364,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Delete selected</source>
-        <translation type="unfinished">Изтриване на избраните</translation>
+        <translation>Изтриване на избраните</translation>
     </message>
     <message>
         <source>Add row</source>
@@ -9414,7 +9432,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished">Всички файлове (*)</translation>
+        <translation>Всички файлове (*)</translation>
     </message>
     <message>
         <source>GnuPG info</source>
@@ -9462,7 +9480,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Име</translation>
     </message>
     <message>
         <source>Enabled</source>
@@ -9497,14 +9515,14 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsDlg</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Настройки</translation>
+        <translation>Настройки</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabAdvanced</name>
     <message>
         <source>Misc.</source>
-        <translation type="unfinished"></translation>
+        <translation>Разни</translation>
     </message>
     <message>
         <source>Extra uncategorized options</source>
@@ -9734,15 +9752,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished">Данни</translation>
+        <translation>Данни</translation>
     </message>
     <message>
         <source>Some of the options you changed will only have full effect upon restart.</source>
-        <translation type="unfinished">Някои от тези настройки ще имат ефект при рестартиране на програмата.</translation>
+        <translation>Някои от тези настройки ще имат ефект при рестартиране на програмата.</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished">По подразбиране</translation>
+        <translation>По подразбиране</translation>
     </message>
     <message>
         <source>(TCP: Disabled, UDP: Auto)</source>
@@ -9908,7 +9926,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabIconsetActivity</name>
     <message>
         <source>Activity</source>
-        <translation type="unfinished">Дейност</translation>
+        <translation>Дейност</translation>
     </message>
     <message>
         <source>Select your activity iconset</source>
@@ -10005,7 +10023,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabPlugin</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Общи</translation>
     </message>
     <message>
         <source>General plugin options</source>
@@ -10016,7 +10034,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabPlugins</name>
     <message>
         <source>Plugins</source>
-        <translation type="unfinished">Добавки</translation>
+        <translation>Добавки</translation>
     </message>
     <message>
         <source>Options for Psi plugins</source>
@@ -10051,7 +10069,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabRoster</name>
     <message>
         <source>Roster</source>
-        <translation type="unfinished">Списък с Контакти</translation>
+        <translation>Списък с Контакти</translation>
     </message>
     <message>
         <source>Roster window options</source>
@@ -10186,7 +10204,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabStatusGeneral</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Общи</translation>
     </message>
     <message>
         <source>General status preferences</source>
@@ -10198,7 +10216,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Изтриване</translation>
+        <translation>Изтриване</translation>
     </message>
     <message>
         <source>Press this button to create a new status message preset.</source>
@@ -10230,11 +10248,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Can&apos;t create a blank preset!</source>
-        <translation type="unfinished">Не може да се създаде празен шаблон!</translation>
+        <translation>Не може да се създаде празен шаблон!</translation>
     </message>
     <message>
         <source>You already have a preset with that name!</source>
-        <translation type="unfinished">Шаблон статус с това име вече съществува!</translation>
+        <translation>Шаблон статус с това име вече съществува!</translation>
     </message>
 </context>
 <context>
@@ -10260,11 +10278,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Чат</translation>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Груповчат</translation>
     </message>
 </context>
 <context>
@@ -10286,11 +10304,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTreeModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Име</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Вид</translation>
+        <translation>Вид</translation>
     </message>
     <message>
         <source>Value</source>
@@ -10305,18 +10323,18 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsUI</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки</translation>
     </message>
 </context>
 <context>
     <name>OptionsWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">От</translation>
+        <translation>От</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Общи</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -10388,7 +10406,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="unfinished">Групови Чатове</translation>
+        <translation>Групови Чатове</translation>
     </message>
     <message>
         <source>Show popup at version iq</source>
@@ -10396,7 +10414,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>never</source>
-        <translation type="unfinished">никога</translation>
+        <translation>никога</translation>
     </message>
     <message>
         <source>if iq replaced</source>
@@ -10468,7 +10486,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Добавяне</translation>
+        <translation>Добавяне</translation>
     </message>
     <message>
         <source>Delete current server</source>
@@ -10476,7 +10494,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Изтриване</translation>
+        <translation>Изтриване</translation>
     </message>
     <message>
         <source>Edit current server</source>
@@ -10531,7 +10549,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>PGPKey</name>
     <message>
         <source>Filter:</source>
-        <translation type="unfinished">Филтер:</translation>
+        <translation>Филтер:</translation>
     </message>
 </context>
 <context>
@@ -10593,7 +10611,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">ОК</translation>
+        <translation>ОК</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -10625,7 +10643,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished">&amp;Oк</translation>
+        <translation>&amp;Oк</translation>
     </message>
 </context>
 <context>
@@ -10651,19 +10669,19 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished">Избор на звуков файл</translation>
+        <translation>Избор на звуков файл</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"></translation>
+        <translation>Звук (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished">Автор:</translation>
+        <translation>Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">Ел. поща:</translation>
+        <translation>Ел. поща:</translation>
     </message>
     <message>
         <source>This plugin shows popup notifications when users from your roster changes their mood, tune or activity.</source>
@@ -10686,7 +10704,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished">Копиране</translation>
+        <translation>Копиране</translation>
     </message>
     <message>
         <source>Blur</source>
@@ -10697,11 +10715,11 @@ Please enter your passphrase below:</source>
     <name>PluginInfoDialog</name>
     <message>
         <source>About</source>
-        <translation type="unfinished">Относно програмата</translation>
+        <translation>Относно програмата</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Затваряне</translation>
+        <translation>Затваряне</translation>
     </message>
 </context>
 <context>
@@ -10727,11 +10745,11 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Game</source>
-        <translation type="unfinished">Игра</translation>
+        <translation>Игра</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished">Изход</translation>
+        <translation>Изход</translation>
     </message>
     <message>
         <source>Skin</source>
@@ -10739,7 +10757,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished">Файл</translation>
+        <translation>Файл</translation>
     </message>
     <message>
         <source>New game</source>
@@ -10747,19 +10765,19 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Load game</source>
-        <translation type="unfinished">Зареждане на игра</translation>
+        <translation>Зареждане на игра</translation>
     </message>
     <message>
         <source>Save game</source>
-        <translation type="unfinished">Запис на игра</translation>
+        <translation>Запис на игра</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished">Изход</translation>
+        <translation>Изход</translation>
     </message>
     <message>
         <source>Resign</source>
-        <translation type="unfinished">Преподописване</translation>
+        <translation>Преподописване</translation>
     </message>
     <message>
         <source>Switch color</source>
@@ -10830,7 +10848,7 @@ Please enter your passphrase below:</source>
     <message>
         <source>Your opponent has closed the board!
  You can still save the game.</source>
-        <translation type="unfinished">Вашия противник е затворил дъската!
+        <translation>Вашия противник е затворил дъската!
 Все пак може да запишете играта.</translation>
     </message>
     <message>
@@ -10839,11 +10857,11 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>You Lose.</source>
-        <translation type="unfinished">Вие Губите.</translation>
+        <translation>Вие Губите.</translation>
     </message>
     <message>
         <source>You Win!</source>
-        <translation type="unfinished">Вие Печелите!</translation>
+        <translation>Вие Печелите!</translation>
     </message>
     <message>
         <source>You really want to begin new game?</source>
@@ -10855,7 +10873,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Battleship game</source>
-        <translation type="unfinished">Battleship игра</translation>
+        <translation>Battleship игра</translation>
     </message>
     <message>
         <source>Freeze ships position</source>
@@ -10902,7 +10920,7 @@ Please enter your passphrase below:</source>
     <name>PreferencesWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">От</translation>
+        <translation>От</translation>
     </message>
     <message>
         <source>@username</source>
@@ -10948,15 +10966,15 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Name: </source>
-        <translation type="unfinished">Име:</translation>
+        <translation>Име:</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished">Автор:</translation>
+        <translation>Автор:</translation>
     </message>
     <message>
         <source>Version: </source>
-        <translation type="unfinished">Версия:</translation>
+        <translation>Версия:</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -10964,7 +10982,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Затваряне</translation>
+        <translation>Затваряне</translation>
     </message>
     <message>
         <source>Skin is not valid!</source>
@@ -10975,7 +10993,7 @@ Please enter your passphrase below:</source>
     <name>Privacy</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Настройки</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <source>Default List (all sessions):</source>
@@ -11015,11 +11033,11 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Добавяне</translation>
+        <translation>Добавяне</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Изтриване</translation>
     </message>
     <message>
         <source>Up</source>
@@ -11046,7 +11064,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>&lt;None&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Няма&gt;</translation>
     </message>
     <message>
         <source>New List</source>
@@ -11105,7 +11123,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">ОК</translation>
+        <translation>ОК</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -11124,15 +11142,15 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>JID</source>
-        <translation type="unfinished">JID</translation>
+        <translation>JID</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished">Група</translation>
+        <translation>Група</translation>
     </message>
     <message>
         <source>Subscription</source>
-        <translation type="unfinished"></translation>
+        <translation>Абонамент</translation>
     </message>
     <message>
         <source>*</source>
@@ -11140,7 +11158,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Няма</translation>
+        <translation>Няма</translation>
     </message>
     <message>
         <source>Both</source>
@@ -11148,11 +11166,11 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>From</source>
-        <translation type="unfinished">От</translation>
+        <translation>От</translation>
     </message>
     <message>
         <source>To</source>
-        <translation type="unfinished">До</translation>
+        <translation>До</translation>
     </message>
 </context>
 <context>
@@ -11163,11 +11181,11 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Добавяне</translation>
+        <translation>&amp;Добавяне</translation>
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation type="unfinished"></translation>
+        <translation>psi/добавянеКонтакт</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
@@ -11175,11 +11193,11 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Rem&amp;ove</source>
-        <translation type="unfinished">Из&amp;триване</translation>
+        <translation>Из&amp;триване</translation>
     </message>
     <message>
         <source>psi/remove</source>
-        <translation type="unfinished">psi/remove</translation>
+        <translation>psi/remove</translation>
     </message>
 </context>
 <context>
@@ -11241,7 +11259,7 @@ Proceed?</source>
     <name>ProfileNew</name>
     <message>
         <source>New Profile</source>
-        <translation type="unfinished">Нов профил</translation>
+        <translation>Нов профил</translation>
     </message>
     <message>
         <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
@@ -11261,11 +11279,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Message</source>
-        <translation type="unfinished">Съобщение</translation>
+        <translation>Съобщение</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Чат</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11273,7 +11291,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Затваряне</translation>
+        <translation>&amp;Затваряне</translation>
     </message>
     <message>
         <source>&amp;Create</source>
@@ -11285,7 +11303,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation type="unfinished"></translation>
+        <translation>psi/добавянеКонтакт</translation>
     </message>
 </context>
 <context>
@@ -11323,7 +11341,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Profile:</source>
-        <translation type="unfinished">Профил:</translation>
+        <translation>Профил:</translation>
     </message>
     <message>
         <source>&amp;Automatically open on startup</source>
@@ -11335,7 +11353,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished">&amp;Изход</translation>
+        <translation>&amp;Изход</translation>
     </message>
     <message>
         <source>psi/quit</source>
@@ -11385,19 +11403,19 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation type="unfinished"></translation>
+        <translation>psi/добавянеКонтакт</translation>
     </message>
     <message>
         <source>Rem&amp;ove</source>
-        <translation type="unfinished">Из&amp;триване</translation>
+        <translation>Из&amp;триване</translation>
     </message>
     <message>
         <source>psi/remove</source>
-        <translation type="unfinished">psi/remove</translation>
+        <translation>psi/remove</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished">Вид:</translation>
+        <translation>Вид:</translation>
     </message>
     <message>
         <source>Host:</source>
@@ -11462,7 +11480,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <name>ProxyDlg::Private</name>
     <message>
         <source>Unnamed</source>
-        <translation type="unfinished">Неименуван</translation>
+        <translation>Неименуван</translation>
     </message>
 </context>
 <context>
@@ -11473,7 +11491,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished">Вид:</translation>
+        <translation>Вид:</translation>
     </message>
     <message>
         <source>Host:</source>
@@ -11538,7 +11556,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Server Authentication</source>
-        <translation type="unfinished">Включване към сървър</translation>
+        <translation>Включване към сървър</translation>
     </message>
     <message>
         <source>The server does not support TLS encryption.</source>
@@ -11546,7 +11564,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Server Error</source>
-        <translation type="unfinished">Сървърна грешка</translation>
+        <translation>Сървърна грешка</translation>
     </message>
     <message>
         <source>Disconnected</source>
@@ -11727,7 +11745,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Incoming file</source>
-        <translation type="unfinished"></translation>
+        <translation>Входящ файл</translation>
     </message>
     <message>
         <source>Do you want to accept %1 (%2 kb) from %3?</source>
@@ -11767,7 +11785,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Headline</source>
-        <translation type="unfinished"></translation>
+        <translation>Новина</translation>
     </message>
     <message>
         <source>There was an error trying to sign your status.
@@ -11911,7 +11929,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>&amp;Add a Contact</source>
-        <translation type="unfinished">&amp;Добавяне на Контакт</translation>
+        <translation>&amp;Добавяне на Контакт</translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
@@ -11927,7 +11945,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>New &amp;Blank Message</source>
-        <translation type="unfinished">Ново &amp;Празно Съобщение</translation>
+        <translation>Ново &amp;Празно Съобщение</translation>
     </message>
     <message>
         <source>Join Groupchat</source>
@@ -12095,11 +12113,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Choose status...</source>
-        <translation type="unfinished">Избор на статус...</translation>
+        <translation>Избор на статус...</translation>
     </message>
     <message>
         <source>Choose...</source>
-        <translation type="unfinished">Избор...</translation>
+        <translation>Избор...</translation>
     </message>
     <message>
         <source>Show dialog to set your status</source>
@@ -12107,7 +12125,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Reconnect</source>
-        <translation type="unfinished">Повторно свързване</translation>
+        <translation>Повторно свързване</translation>
     </message>
     <message>
         <source>Reconnect all active accounts</source>
@@ -12243,11 +12261,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished">Търсене</translation>
+        <translation>Търсене</translation>
     </message>
     <message>
         <source>&amp;Find</source>
-        <translation type="unfinished">&amp;Търсене</translation>
+        <translation>&amp;Търсене</translation>
     </message>
     <message>
         <source>Set Text Format</source>
@@ -12259,7 +12277,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Add Contact</source>
-        <translation type="unfinished">Добавяне на Контакт</translation>
+        <translation>Добавяне на Контакт</translation>
     </message>
     <message>
         <source>Select Icon</source>
@@ -12267,11 +12285,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished">Гласово Обаждане</translation>
+        <translation>Гласово Обаждане</translation>
     </message>
     <message>
         <source>Send File</source>
-        <translation type="unfinished">Изпращане на файл</translation>
+        <translation>Изпращане на файл</translation>
     </message>
     <message>
         <source>Toggle Encryption</source>
@@ -12303,7 +12321,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Plugins</source>
-        <translation type="unfinished">Добавки</translation>
+        <translation>Добавки</translation>
     </message>
     <message>
         <source>Pin Tab</source>
@@ -12326,7 +12344,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Find toolbar</source>
-        <translation type="unfinished">Лента за търсене</translation>
+        <translation>Лента за търсене</translation>
     </message>
     <message>
         <source>Chat Toolbar</source>
@@ -12338,12 +12356,12 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Предупреждение</translation>
+        <translation>Предупреждение</translation>
     </message>
     <message>
         <source>Are you sure you want to clear the chat window?
 (note: does not affect saved history)</source>
-        <translation type="unfinished">Сигурни ли сте, че искате да изчистите прозореца?
+        <translation>Сигурни ли сте, че искате да изчистите прозореца?
 (бележка: това не се отнася за записите в историята)</translation>
     </message>
     <message>
@@ -12496,7 +12514,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Предупреждение</translation>
+        <translation>Предупреждение</translation>
     </message>
     <message>
         <source>You can not disable &lt;i&gt;all&lt;/i&gt; toolbars &lt;i&gt;and&lt;/i&gt; the menubar. If you do so, you will be unable to enable them back, when you&apos;ll change your mind.</source>
@@ -12533,7 +12551,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Register new account</source>
-        <translation type="unfinished">Регистриране на сметка</translation>
+        <translation>Регистриране на сметка</translation>
     </message>
     <message>
         <source>Use existing account</source>
@@ -12555,34 +12573,34 @@ Migration is possible with Psi-0.15</source>
     <name>PsiContact</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Общи</translation>
     </message>
     <message>
         <source>Not in list</source>
-        <translation type="unfinished">Не е в списъка</translation>
+        <translation>Не е в списъка</translation>
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрити</translation>
     </message>
 </context>
 <context>
     <name>PsiContactMenu::Private</name>
     <message>
         <source>Re&amp;name</source>
-        <translation type="unfinished">Пре&amp;именуване</translation>
+        <translation>Пре&amp;именуване</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Изтриване</translation>
+        <translation>&amp;Изтриване</translation>
     </message>
     <message>
         <source>&amp;History</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;История</translation>
     </message>
     <message>
         <source>Add/Authorize to Contact List</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавяне/Разрешаване към Контактния Списък</translation>
     </message>
     <message>
         <source>&amp;Receive Incoming Event</source>
@@ -12590,11 +12608,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation type="unfinished">Изпращане на &amp;Съобщение</translation>
+        <translation>Изпращане на &amp;Съобщение</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation type="unfinished">Отваряне на Прозорец &amp;Чат</translation>
+        <translation>Отваряне на Прозорец &amp;Чат</translation>
     </message>
     <message>
         <source>Open a &amp;Whiteboard</source>
@@ -12602,7 +12620,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished">Гласово Обаждане</translation>
+        <translation>Гласово Обаждане</translation>
     </message>
     <message>
         <source>Send &amp;File</source>
@@ -12634,11 +12652,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Група</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation type="unfinished">Из&amp;пълнение на Команда</translation>
+        <translation>Из&amp;пълнение на Команда</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -12670,7 +12688,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Покана за конферентен разговор до &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Add</source>
@@ -12678,7 +12696,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;%1&lt;/b&gt; е записано и добавено в списъка с потребители.</translation>
     </message>
     <message>
         <source>Authorize</source>
@@ -12686,19 +12704,19 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Даване на разрешение на &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Поискано е повторно разрешение от &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Изтриване</translation>
     </message>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Сигурни ли сте, че искате да отмените разрешението от &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
@@ -12770,7 +12788,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Copy Groupchat JID</source>
-        <translation type="unfinished">Копиране на JID на груповия чат</translation>
+        <translation>Копиране на JID на груповия чат</translation>
     </message>
     <message>
         <source>Advanc&amp;ed</source>
@@ -12926,7 +12944,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Buttons</source>
-        <translation type="unfinished">Бутони</translation>
+        <translation>Бутони</translation>
     </message>
     <message>
         <source>Show contacts</source>
@@ -12934,7 +12952,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Известяване за събитие</translation>
     </message>
     <message>
         <source>Auto Status (idle)</source>
@@ -12969,7 +12987,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Edit...</source>
-        <translation type="unfinished">Редактиране...</translation>
+        <translation>Редактиране...</translation>
     </message>
     <message>
         <source>Add...</source>
@@ -12989,7 +13007,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished">Вид:</translation>
+        <translation>Вид:</translation>
     </message>
     <message>
         <source>Really delete options %1?</source>
@@ -13038,7 +13056,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Authors</source>
-        <translation type="unfinished">Автори</translation>
+        <translation>Автори</translation>
     </message>
     <message>
         <source>Released on</source>
@@ -13239,7 +13257,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Eating</source>
-        <translation type="unfinished">Храня се</translation>
+        <translation>Храня се</translation>
     </message>
     <message>
         <source>Having A Snack</source>
@@ -13491,7 +13509,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished">Други</translation>
+        <translation>Други</translation>
     </message>
     <message>
         <source>Choose file</source>
@@ -13499,11 +13517,11 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Choose a file</source>
-        <translation type="unfinished">Избор на файл</translation>
+        <translation>Избор на файл</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished">Файл</translation>
+        <translation>Файл</translation>
     </message>
     <message>
         <source>Conversion Error</source>
@@ -13628,7 +13646,7 @@ Description: </source>
     </message>
     <message>
         <source>%1 is now %2</source>
-        <translation type="unfinished">%1 сега е %2</translation>
+        <translation>%1 сега е %2</translation>
     </message>
     <message>
         <source>Afraid</source>
@@ -14088,7 +14106,7 @@ Description: </source>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Предупреждение</translation>
+        <translation>Предупреждение</translation>
     </message>
     <message>
         <source>Cannot write to file %1:
@@ -14212,7 +14230,7 @@ Password: %5</source>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished">Не</translation>
+        <translation>Не</translation>
     </message>
     <message>
         <source>Status</source>
@@ -14220,7 +14238,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Headline</source>
-        <translation type="unfinished"></translation>
+        <translation>Новина</translation>
     </message>
     <message>
         <source>Chat Message</source>
@@ -14372,7 +14390,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Contact offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Потребителят е изключен</translation>
     </message>
     <message>
         <source>Status change</source>
@@ -14380,15 +14398,15 @@ Password: %5</source>
     </message>
     <message>
         <source>Incoming message</source>
-        <translation type="unfinished"></translation>
+        <translation>Входящо съобщение</translation>
     </message>
     <message>
         <source>Incoming chat message</source>
-        <translation type="unfinished"></translation>
+        <translation>Входяща реплика от разговор</translation>
     </message>
     <message>
         <source>Incoming file</source>
-        <translation type="unfinished"></translation>
+        <translation>Входящ файл</translation>
     </message>
     <message>
         <source>Incoming call</source>
@@ -14404,7 +14422,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Чат</translation>
     </message>
     <message>
         <source>Extended Away</source>
@@ -14420,7 +14438,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Message</source>
-        <translation type="unfinished">Съобщение</translation>
+        <translation>Съобщение</translation>
     </message>
     <message>
         <source>Forward Messages</source>
@@ -14460,7 +14478,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Unnamed</source>
-        <translation type="unfinished">Неименуван</translation>
+        <translation>Неименуван</translation>
     </message>
     <message>
         <source>Subscription</source>
@@ -14468,15 +14486,15 @@ Password: %5</source>
     </message>
     <message>
         <source>OpenPGP</source>
-        <translation type="unfinished">OpenPGP</translation>
+        <translation>OpenPGP</translation>
     </message>
     <message>
         <source>Mood</source>
-        <translation type="unfinished">Настроение</translation>
+        <translation>Настроение</translation>
     </message>
     <message>
         <source>Activity</source>
-        <translation type="unfinished">Дейност</translation>
+        <translation>Дейност</translation>
     </message>
     <message>
         <source>Listening to</source>
@@ -14532,11 +14550,11 @@ Password: %5</source>
     </message>
     <message>
         <source>Never</source>
-        <translation type="unfinished">Никога</translation>
+        <translation>Никога</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation type="unfinished">Винаги</translation>
+        <translation>Винаги</translation>
     </message>
     <message>
         <source>This computer only</source>
@@ -14561,7 +14579,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>%1 is now known as %2</source>
-        <translation type="unfinished">%1 сега се знае като %2</translation>
+        <translation>%1 сега се знае като %2</translation>
     </message>
 </context>
 <context>
@@ -14572,11 +14590,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished">Автор:</translation>
+        <translation>Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">Ел. поща:</translation>
+        <translation>Ел. поща:</translation>
     </message>
     <message>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
@@ -14587,11 +14605,11 @@ Thanks for your patience.</source>
     <name>Redirector</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished">Автор:</translation>
+        <translation>Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">Ел. поща:</translation>
+        <translation>Ел. поща:</translation>
     </message>
     <message>
         <source>Redirects all incoming messages to some jid and allows to redirect messages back.</source>
@@ -14687,19 +14705,19 @@ Reason: %1</source>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished">Избор на звуков файл</translation>
+        <translation>Избор на звуков файл</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"></translation>
+        <translation>Звук (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished">Автор:</translation>
+        <translation>Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">Ел. поща:</translation>
+        <translation>Ел. поща:</translation>
     </message>
     <message>
         <source>This plugin is designed to show reminders of upcoming birthdays.
@@ -14711,14 +14729,14 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>ResourceMenu</name>
     <message>
         <source>[blank]</source>
-        <translation type="unfinished">[празно]</translation>
+        <translation>[празно]</translation>
     </message>
 </context>
 <context>
     <name>RipperCCOptions</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">От</translation>
+        <translation>От</translation>
     </message>
     <message>
         <source> min.</source>
@@ -14744,11 +14762,11 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>RosterAvatarFrame</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">От</translation>
+        <translation>От</translation>
     </message>
     <message>
         <source>Nick</source>
-        <translation type="unfinished">Псевдоним</translation>
+        <translation>Псевдоним</translation>
     </message>
     <message>
         <source>Set Mood for all active accounts</source>
@@ -14818,23 +14836,23 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished">Файл</translation>
+        <translation>Файл</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Настройки</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Помощ</translation>
+        <translation>Помощ</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Отваряне</translation>
+        <translation>Отваряне</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">Запис</translation>
+        <translation>Запис</translation>
     </message>
     <message>
         <source>Print</source>
@@ -14842,7 +14860,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished">Изход</translation>
+        <translation>Изход</translation>
     </message>
     <message>
         <source>Proxy Settings</source>
@@ -14850,15 +14868,15 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <source>History</source>
-        <translation type="unfinished">История</translation>
+        <translation>История</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="unfinished">Относно Qt</translation>
+        <translation>Относно Qt</translation>
     </message>
     <message>
         <source>Home page</source>
@@ -14866,7 +14884,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Upload</source>
-        <translation type="unfinished">Качване</translation>
+        <translation>Качване</translation>
     </message>
     <message>
         <source>Size: %1x%2px; %3 bytes</source>
@@ -14874,11 +14892,11 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Open Image</source>
-        <translation type="unfinished">Отваряне на Изображение</translation>
+        <translation>Отваряне на Изображение</translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg *.ico)</source>
-        <translation type="unfinished">Изображения (*.png *.gif *.jpg *.jpeg *.ico)</translation>
+        <translation>Изображения (*.png *.gif *.jpg *.jpeg *.ico)</translation>
     </message>
     <message>
         <source>/%1.</source>
@@ -14886,7 +14904,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished">Запазване като</translation>
+        <translation>Запазване като</translation>
     </message>
     <message>
         <source>%1 Files (*.%2);;All Files (*)</source>
@@ -14940,11 +14958,11 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>ScreenshotPlugin</name>
     <message>
         <source>Upload Image</source>
-        <translation type="unfinished">Качване на изображение</translation>
+        <translation>Качване на изображение</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished">Автори:</translation>
+        <translation>Автори:</translation>
     </message>
     <message>
         <source>This plugin allows you to make screenshots and save them to your hard drive or upload them to an FTP or HTTP server.
@@ -14978,7 +14996,7 @@ Settings for authorization on some hostings can be found here: http://code.googl
     </message>
     <message>
         <source>&amp;Search</source>
-        <translation type="unfinished">&amp;Търсене</translation>
+        <translation>&amp;Търсене</translation>
     </message>
     <message>
         <source>psi/search</source>
@@ -14994,15 +15012,15 @@ Settings for authorization on some hostings can be found here: http://code.googl
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="unfinished">Псевдоним</translation>
+        <translation>Псевдоним</translation>
     </message>
     <message>
         <source>First Name</source>
-        <translation type="unfinished">Име</translation>
+        <translation>Име</translation>
     </message>
     <message>
         <source>Last Name</source>
-        <translation type="unfinished">Фамилия</translation>
+        <translation>Фамилия</translation>
     </message>
     <message>
         <source>E-Mail Address</source>
@@ -15018,7 +15036,7 @@ Settings for authorization on some hostings can be found here: http://code.googl
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation type="unfinished"></translation>
+        <translation>psi/добавянеКонтакт</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
@@ -15026,11 +15044,11 @@ Settings for authorization on some hostings can be found here: http://code.googl
     </message>
     <message>
         <source>psi/vCard</source>
-        <translation type="unfinished">psi/Визитка</translation>
+        <translation>psi/Визитка</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Затваряне</translation>
+        <translation>&amp;Затваряне</translation>
     </message>
 </context>
 <context>
@@ -15148,11 +15166,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation type="unfinished">Откриване на Услуги</translation>
+        <translation>Откриване на Услуги</translation>
     </message>
     <message>
         <source>Add Contact</source>
-        <translation type="unfinished">Добавяне на Контакт</translation>
+        <translation>Добавяне на Контакт</translation>
     </message>
     <message>
         <source>New Message</source>
@@ -15164,11 +15182,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation type="unfinished">Настройка на сметки</translation>
+        <translation>Настройка на сметки</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <source>File Transfer</source>
@@ -15180,11 +15198,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>XML Console</source>
-        <translation type="unfinished">XML-конзола</translation>
+        <translation>XML-конзола</translation>
     </message>
     <message>
         <source>Change Profile</source>
-        <translation type="unfinished">Смяна на профил</translation>
+        <translation>Смяна на профил</translation>
     </message>
     <message>
         <source>Play Sounds</source>
@@ -15192,7 +15210,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished">Изход</translation>
+        <translation>Изход</translation>
     </message>
     <message>
         <source>Status</source>
@@ -15208,11 +15226,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>View Groups</source>
-        <translation type="unfinished">Показване на групите</translation>
+        <translation>Показване на групите</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
-        <translation type="unfinished">Изключени потребители</translation>
+        <translation>Изключени потребители</translation>
     </message>
     <message>
         <source>Show Away Contacts</source>
@@ -15340,7 +15358,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="unfinished">Относно Qt</translation>
+        <translation>Относно Qt</translation>
     </message>
     <message>
         <source>QCA plugin diag</source>
@@ -15546,7 +15564,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished">Запазване като</translation>
+        <translation>Запазване като</translation>
     </message>
     <message>
         <source>photo.png</source>
@@ -15568,7 +15586,7 @@ Reason: %1</source>
     <name>SkinsPlugin</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">От</translation>
+        <translation>От</translation>
     </message>
     <message>
         <source>Preview skin</source>
@@ -15600,7 +15618,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Отваряне</translation>
+        <translation>Отваряне</translation>
     </message>
     <message>
         <source>Remove selected skin</source>
@@ -15608,7 +15626,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Изтриване</translation>
     </message>
     <message>
         <source>Overwrite selected skin with the current settings </source>
@@ -15616,7 +15634,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">Запис</translation>
+        <translation>Запис</translation>
     </message>
     <message>
         <source>Create new skin from current settings</source>
@@ -15648,7 +15666,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation type="unfinished">Непозната грешка!</translation>
+        <translation>Непозната грешка!</translation>
     </message>
     <message>
         <source>Save a skin file</source>
@@ -15672,7 +15690,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Are You Sure?</source>
-        <translation type="unfinished">Сигурни Ли Сте?</translation>
+        <translation>Сигурни Ли Сте?</translation>
     </message>
     <message>
         <source>Overwrite Skin</source>
@@ -15688,11 +15706,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished">Автор:</translation>
+        <translation>Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">Ел. поща:</translation>
+        <translation>Ел. поща:</translation>
     </message>
     <message>
         <source>This plugin is designed to create, store and apply skins to Psi+.
@@ -15823,11 +15841,11 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished">Автор:</translation>
+        <translation>Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">Ел. поща:</translation>
+        <translation>Ел. поща:</translation>
     </message>
     <message>
         <source>This plugin is designed to block spam messages and other unwanted information from Psi+ users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
@@ -15891,11 +15909,11 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished">Автор:</translation>
+        <translation>Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">Ел. поща:</translation>
+        <translation>Ел. поща:</translation>
     </message>
     <message>
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
@@ -16055,7 +16073,7 @@ Please correct and try again.</source>
     <name>TestUI</name>
     <message>
         <source>Form1</source>
-        <translation type="unfinished">Форма1</translation>
+        <translation>Форма1</translation>
     </message>
     <message>
         <source>Core</source>
@@ -16063,7 +16081,7 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>Server</source>
-        <translation type="unfinished">Сървър</translation>
+        <translation>Сървър</translation>
     </message>
     <message>
         <source>Full JID:</source>
@@ -16083,7 +16101,7 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Няма</translation>
+        <translation>Няма</translation>
     </message>
     <message>
         <source>HTTP(S)</source>
@@ -16135,7 +16153,7 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>Require mutual authentication</source>
-        <translation type="unfinished">Изискване на взаимна идентификация</translation>
+        <translation>Изискване на взаимна идентификация</translation>
     </message>
     <message>
         <source>SASL SSF min/max:</source>
@@ -16151,7 +16169,7 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>&amp;About</source>
-        <translation type="unfinished">&amp;Относно програмата</translation>
+        <translation>&amp;Относно програмата</translation>
     </message>
     <message>
         <source>Quick XML &gt;&gt;</source>
@@ -16159,7 +16177,7 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>To:</source>
-        <translation type="unfinished">До:</translation>
+        <translation>До:</translation>
     </message>
     <message>
         <source>&amp;IM Session</source>
@@ -16179,11 +16197,11 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>&amp;Send</source>
-        <translation type="unfinished">&amp;Изпращане</translation>
+        <translation>&amp;Изпращане</translation>
     </message>
     <message>
         <source>Alt+S</source>
-        <translation type="unfinished">Alt+S</translation>
+        <translation>Alt+S</translation>
     </message>
 </context>
 <context>
@@ -16202,7 +16220,7 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>&amp;Previous</source>
-        <translation type="unfinished">&amp;Предишни</translation>
+        <translation>&amp;Предишни</translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -16214,7 +16232,7 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Следващ</translation>
     </message>
     <message>
         <source>Alt+N</source>
@@ -16226,7 +16244,7 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Затваряне</translation>
+        <translation>&amp;Затваряне</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -16355,7 +16373,7 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished">Копиране</translation>
+        <translation>Копиране</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -16386,11 +16404,11 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Добавяне</translation>
+        <translation>Добавяне</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Изтриване</translation>
+        <translation>Изтриване</translation>
     </message>
     <message>
         <source>ShortCut:</source>
@@ -16410,7 +16428,7 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished">Автор:</translation>
+        <translation>Автор:</translation>
     </message>
     <message>
         <source>This plugin allows you to convert selected text into another language.
@@ -16433,7 +16451,7 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Търсене</translation>
+        <translation>Търсене</translation>
     </message>
     <message>
         <source>Find next</source>
@@ -16448,7 +16466,7 @@ Note: Some server may disable transport registration to users from different ser
     <name>URLLabel</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Отваряне</translation>
+        <translation>Отваряне</translation>
     </message>
     <message>
         <source>Open mail composer</source>
@@ -16518,7 +16536,7 @@ Note: Some server may disable transport registration to users from different ser
     <name>VideoStatusChanger</name>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished">Автори:</translation>
+        <translation>Автори:</translation>
     </message>
     <message>
         <source>This plugin is designed to set the custom status when you watching the video in selected video players. 
@@ -16541,11 +16559,11 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <name>ViewLog</name>
     <message>
         <source>Find</source>
-        <translation type="unfinished">Търсене</translation>
+        <translation>Търсене</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Затваряне</translation>
+        <translation>Затваряне</translation>
     </message>
     <message>
         <source>Save Changes</source>
@@ -16592,7 +16610,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Subject:</source>
-        <translation type="unfinished">Относно:</translation>
+        <translation>Относно:</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -16608,19 +16626,19 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished">Назад</translation>
+        <translation>Назад</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished">Напред</translation>
+        <translation>Напред</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Затваряне</translation>
+        <translation>Затваряне</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Затваряне</translation>
+        <translation>&amp;Затваряне</translation>
     </message>
     <message>
         <source>[%1/%2] E-Mail</source>
@@ -16635,11 +16653,11 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <name>Viewer</name>
     <message>
         <source>Find</source>
-        <translation type="unfinished">Търсене</translation>
+        <translation>Търсене</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Затваряне</translation>
+        <translation>Затваряне</translation>
     </message>
     <message>
         <source>Save Changes</source>
@@ -16675,7 +16693,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Отмятане</translation>
     </message>
     <message>
         <source>Uncheck</source>
@@ -16683,14 +16701,14 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished">Инвертиране</translation>
+        <translation>Инвертиране</translation>
     </message>
 </context>
 <context>
     <name>VoiceCall</name>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished">Гласово Обаждане</translation>
+        <translation>Гласово Обаждане</translation>
     </message>
     <message>
         <source>Accept</source>
@@ -16764,11 +16782,11 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished">Избор на звуков файл</translation>
+        <translation>Избор на звуков файл</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"></translation>
+        <translation>Звук (*.wav)</translation>
     </message>
     <message>
         <source>&lt;br&gt;Status Message: %1</source>
@@ -16784,11 +16802,11 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished">Автор:</translation>
+        <translation>Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">Ел. поща:</translation>
+        <translation>Ел. поща:</translation>
     </message>
     <message>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
@@ -16896,7 +16914,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Предупреждение</translation>
+        <translation>Предупреждение</translation>
     </message>
     <message>
         <source>Are you sure you want to end the session?
@@ -16909,7 +16927,7 @@ The contents of the whiteboard will be lost.</source>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished">&amp;Не</translation>
+        <translation>&amp;Не</translation>
     </message>
     <message>
         <source>A new whiteboard message was just received.
@@ -16961,7 +16979,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished">Група</translation>
+        <translation>Група</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -17007,18 +17025,18 @@ Do you still want to close the window?</source>
     <name>WebView</name>
     <message>
         <source>Quote</source>
-        <translation type="unfinished">Цитиране</translation>
+        <translation>Цитиране</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation type="unfinished">Ctrl+S</translation>
+        <translation>Ctrl+S</translation>
     </message>
 </context>
 <context>
     <name>XMLConsole</name>
     <message>
         <source>XML Console</source>
-        <translation type="unfinished">XML-конзола</translation>
+        <translation>XML-конзола</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -17026,7 +17044,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Message</source>
-        <translation type="unfinished">Съобщение</translation>
+        <translation>Съобщение</translation>
     </message>
     <message>
         <source>Presence</source>
@@ -17042,7 +17060,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Enable</source>
-        <translation type="unfinished">Активиране</translation>
+        <translation>Активиране</translation>
     </message>
     <message>
         <source>Dump Ringbuf</source>
@@ -17058,7 +17076,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Затваряне</translation>
+        <translation>Затваряне</translation>
     </message>
     <message>
         <source>SM</source>
@@ -17069,7 +17087,7 @@ Do you still want to close the window?</source>
     <name>XMPP::ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation type="unfinished"></translation>
+        <translation>Предложени механизми:</translation>
     </message>
 </context>
 <context>
@@ -17080,19 +17098,19 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Няма</translation>
+        <translation>Няма</translation>
     </message>
     <message>
         <source>Register</source>
-        <translation type="unfinished">Регистриране</translation>
+        <translation>Регистриране</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Търсене</translation>
+        <translation>Търсене</translation>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Груповчат</translation>
     </message>
     <message>
         <source>Gateway</source>
@@ -17100,7 +17118,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation type="unfinished">Откриване на Услуги</translation>
+        <translation>Откриване на Услуги</translation>
     </message>
     <message>
         <source>VCard</source>
@@ -17108,15 +17126,15 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Execute command</source>
-        <translation type="unfinished">Изпълнение на команда</translation>
+        <translation>Изпълнение на команда</translation>
     </message>
     <message>
         <source>Query version</source>
-        <translation type="unfinished">Разпитване за версията</translation>
+        <translation>Разпитване за версията</translation>
     </message>
     <message>
         <source>Add to roster</source>
-        <translation type="unfinished">Добавяне в списъка</translation>
+        <translation>Добавяне в списъка</translation>
     </message>
     <message>
         <source>Message Carbons</source>
@@ -17150,7 +17168,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Feature not implemented</source>
-        <translation type="unfinished">Функцията не е имплементирана</translation>
+        <translation>Функцията не е имплементирана</translation>
     </message>
     <message>
         <source>The feature requested is not implemented by the recipient or server and therefore cannot be processed.</source>
@@ -17174,7 +17192,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Internal server error</source>
-        <translation type="unfinished">Вътрешна сървърна грешка</translation>
+        <translation>Вътрешна сървърна грешка</translation>
     </message>
     <message>
         <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
@@ -17270,7 +17288,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Service unavailable</source>
-        <translation type="unfinished">Услугата не е налична</translation>
+        <translation>Услугата не е налична</translation>
     </message>
     <message>
         <source>The server or recipient does not currently provide the requested service.</source>
@@ -17305,7 +17323,7 @@ Do you still want to close the window?</source>
     <name>XMPP::Task</name>
     <message>
         <source>Disconnected</source>
-        <translation type="unfinished">Изключен</translation>
+        <translation>Изключен</translation>
     </message>
     <message>
         <source>Request timed out</source>
@@ -17347,7 +17365,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished">Не</translation>
+        <translation>Не</translation>
     </message>
 </context>
 <context>
@@ -17361,7 +17379,7 @@ Do you still want to close the window?</source>
     <name>options</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">От</translation>
+        <translation>От</translation>
     </message>
     <message>
         <source>Select Sounds:</source>
@@ -17435,7 +17453,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>min.</source>
-        <translation type="unfinished">мин.</translation>
+        <translation>мин.</translation>
     </message>
     <message>
         <source>Max messages to contact:</source>
@@ -17443,7 +17461,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Disable if chat window is active</source>
-        <translation type="unfinished">Деактивиране ако прозореца на чата е активен.</translation>
+        <translation>Деактивиране ако прозореца на чата е активен.</translation>
     </message>
     <message>
         <source>Transports:</source>
@@ -17637,7 +17655,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Сметка</translation>
+        <translation>Сметка</translation>
     </message>
     <message>
         <source>User</source>
@@ -17681,7 +17699,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Изтриване</translation>
+        <translation>Изтриване</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
@@ -17700,7 +17718,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Сметка</translation>
+        <translation>Сметка</translation>
     </message>
     <message>
         <source>Fingerprint</source>
@@ -17728,7 +17746,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Изтриване</translation>
+        <translation>Изтриване</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
@@ -17893,7 +17911,7 @@ You should authenticate %1 as well by asking your own question.</source>
     <name>requestAuthDialogClass</name>
     <message>
         <source>Authorization</source>
-        <translation type="unfinished">Разрешение</translation>
+        <translation>Разрешение</translation>
     </message>
     <message>
         <source>Login:</source>
@@ -18016,7 +18034,7 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Затваряне</translation>
+        <translation>Затваряне</translation>
     </message>
     <message>
         <source>Link: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
@@ -18039,7 +18057,7 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Progress:</source>
-        <translation type="unfinished">Прогрес:</translation>
+        <translation>Прогрес:</translation>
     </message>
     <message>
         <source>Elapsed time:</source>
@@ -18074,11 +18092,11 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>E-Mail:</source>
-        <translation type="unfinished">Е-поща</translation>
+        <translation>Е-поща</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Затваряне</translation>
+        <translation>Затваряне</translation>
     </message>
 </context>
 <context>
@@ -18116,7 +18134,7 @@ to this message in juick@conference.jabber.ru</source>
     <name>yandexnarodManageClass</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">От</translation>
+        <translation>От</translation>
     </message>
     <message>
         <source>Get Filelist</source>
@@ -18124,7 +18142,7 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Upload File</source>
-        <translation type="unfinished">Качване на файл</translation>
+        <translation>Качване на файл</translation>
     </message>
     <message>
         <source>Actions:</source>
@@ -18165,7 +18183,7 @@ line2</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Затваряне</translation>
+        <translation>Затваряне</translation>
     </message>
 </context>
 <context>
@@ -18244,7 +18262,7 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
     <name>yandexnarodSettingsClass</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Настройки</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <source>Login</source>

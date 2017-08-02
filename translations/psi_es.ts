@@ -1749,7 +1749,7 @@ Para el envío de comandos, se usan mensajes normales, por lo que este complemen
     <name>CaptchaDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Diálogo</translation>
     </message>
 </context>
 <context>
@@ -2055,16 +2055,17 @@ Do you still want to close the window?</source>
     <name>Chess::InvitationDialog</name>
     <message>
         <source>white</source>
-        <translation type="unfinished"/>
+        <translation>blancas</translation>
     </message>
     <message>
         <source>black</source>
-        <translation type="unfinished"/>
+        <translation>negras</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play chess. He wants to play %2.</source>
-        <translation type="unfinished"/>
+        <translation>El jugador %1 te ha invitado 
+a jugar ajedrez. Quiere jugar %2.</translation>
     </message>
 </context>
 <context>
@@ -2443,27 +2444,27 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClientSwitcher::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation type="unfinished"/>
+        <translation>Buscar:</translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sensible a mayúsculas</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation type="unfinished"/>
+        <translation>Primera página</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation type="unfinished"/>
+        <translation>Página anterior</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation type="unfinished"/>
+        <translation>Próxima página</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation type="unfinished"/>
+        <translation>Última página</translation>
     </message>
 </context>
 <context>
@@ -2494,27 +2495,27 @@ You can specify the version of the client and OS or to select them from the pres
     <name>ConfLogger::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation type="unfinished"/>
+        <translation>Buscar:</translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sensible a mayúsculas</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation type="unfinished"/>
+        <translation>Primera página</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation type="unfinished"/>
+        <translation>Página anterior</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation type="unfinished"/>
+        <translation>Próxima página</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation type="unfinished"/>
+        <translation>Última página</translation>
     </message>
 </context>
 <context>
@@ -2665,19 +2666,19 @@ Nota: Para su correcto funcionamiento, la barra de herramientas &quot;Sala de ch
     <name>ContactListDragView</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
-        <translation type="unfinished"/>
+        <translation>Se eliminará de forma permanentebr&gt;%1&lt;br&gt;de tu lista de contactos.</translation>
     </message>
     <message>
         <source>Deleting contacts</source>
-        <translation type="unfinished"/>
+        <translation>Eliminando contactos</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Borrar</translation>
     </message>
 </context>
 <context>
@@ -2738,29 +2739,31 @@ Nota: Para su correcto funcionamiento, la barra de herramientas &quot;Sala de ch
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation type="unfinished"/>
+        <translation>Esto causará que todos los contactos de este grupo queden disociados de él.
+
+¿Proceder?</translation>
     </message>
 </context>
 <context>
     <name>ContactListItem</name>
     <message>
         <source>Agents/Transports</source>
-        <translation type="unfinished"/>
+        <translation>Agentes/Transportes</translation>
     </message>
     <message>
         <source>Private messages</source>
-        <translation type="unfinished"/>
+        <translation>Mensajes privados</translation>
     </message>
     <message>
         <source>Conferences</source>
-        <translation type="unfinished"/>
+        <translation>Conferencias</translation>
     </message>
 </context>
 <context>
     <name>ContactListViewDelegate::Private</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -3192,7 +3195,7 @@ Proceed?</source>
     <name>DisplayProxy</name>
     <message>
         <source>deleted</source>
-        <translation type="unfinished"/>
+        <translation>eliminado</translation>
     </message>
 </context>
 <context>
@@ -3352,7 +3355,7 @@ Proceed?</source>
     <name>EnumMessagesPlugin</name>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"/>
+        <translation>Autores: </translation>
     </message>
     <message>
         <source>Missed messages: %1</source>
@@ -5111,7 +5114,7 @@ Perderás el juego.</translation>
     </message>
     <message>
         <source>You are already playing!</source>
-        <translation type="unfinished"/>
+        <translation>Ya estás jugando!</translation>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
@@ -5504,16 +5507,17 @@ Nota: El complemento solo comprueba si hay nuevos mensajes en la raíz de la ban
     <name>GomokuGame::InvitationDialog</name>
     <message>
         <source>white</source>
-        <translation type="unfinished"/>
+        <translation>blancas</translation>
     </message>
     <message>
         <source>black</source>
-        <translation type="unfinished"/>
+        <translation>negras</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play gomoku. He wants to play %2.</source>
-        <translation type="unfinished"/>
+        <translation>El jugador %1 te ha invitado 
+a jugar gomoku. Quiere jugar %2.</translation>
     </message>
 </context>
 <context>
@@ -5723,23 +5727,23 @@ Para enviar órdenes, son usados los mensajes normales, por lo que este compleme
     <name>HistoryContactListModel</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>General</translation>
     </message>
     <message>
         <source>Not in list</source>
-        <translation type="unfinished"/>
+        <translation>No está en la lista</translation>
     </message>
     <message>
         <source>Private messages</source>
-        <translation type="unfinished"/>
+        <translation>Mensajes privados</translation>
     </message>
     <message>
         <source>All contacts</source>
-        <translation type="unfinished"/>
+        <translation>Todos los contactos</translation>
     </message>
     <message>
         <source>deleted</source>
-        <translation type="unfinished"/>
+        <translation>eliminado</translation>
     </message>
 </context>
 <context>
@@ -5838,7 +5842,7 @@ Para enviar órdenes, son usados los mensajes normales, por lo que este compleme
     </message>
     <message>
         <source>All contacts</source>
-        <translation type="unfinished"/>
+        <translation>Todos los contactos</translation>
     </message>
     <message>
         <source>Search:</source>
@@ -5846,11 +5850,11 @@ Para enviar órdenes, son usados los mensajes normales, por lo que este compleme
     </message>
     <message>
         <source>All accounts</source>
-        <translation type="unfinished"/>
+        <translation>Todas las cuentas</translation>
     </message>
     <message>
         <source>deleted</source>
-        <translation type="unfinished"/>
+        <translation>eliminado</translation>
     </message>
     <message>
         <source>%1 of %2 matches</source>
@@ -6085,23 +6089,23 @@ p, li { white-space: pre-wrap; }
     <name>HttpUploadPlugin</name>
     <message>
         <source>Upload Image</source>
-        <translation type="unfinished"/>
+        <translation>Subir imagen</translation>
     </message>
     <message>
         <source>Upload File</source>
-        <translation type="unfinished"/>
+        <translation>Subir archivo</translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg)</source>
-        <translation type="unfinished"/>
+        <translation>Imagenes(*.png *.gif *.jpg *.jpeg)</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Error</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"/>
+        <translation>Autores: </translation>
     </message>
     <message>
         <source>Image preview width</source>
@@ -6516,7 +6520,7 @@ Nota: Para su correcto funcionamiento, la opción options.ui.chat.central-toolba
     <name>ImagePreviewPlugin</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>512 Kb</source>
@@ -6667,122 +6671,127 @@ Nota: Para su correcto funcionamiento, la opción options.ui.chat.central-toolba
     <name>InfoDlg</name>
     <message>
         <source>User Info</source>
-        <translation type="unfinished"/>
+        <translation>Información de usuario</translation>
     </message>
     <message>
         <source>Alt+D</source>
-        <translation type="unfinished"/>
+        <translation>Alt+D</translation>
     </message>
     <message>
         <source>psi/disco</source>
-        <translation type="unfinished"/>
+        <translation>psi/disco</translation>
     </message>
     <message>
         <source>&amp;Publish</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Publicar</translation>
     </message>
     <message>
         <source>&amp;Retrieve</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Obtener</translation>
     </message>
     <message>
         <source>psi/reload</source>
-        <translation type="unfinished"/>
+        <translation>psi/reload</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Cerrar</translation>
     </message>
     <message>
         <source>psi/close</source>
-        <translation type="unfinished"/>
+        <translation>psi/close</translation>
     </message>
 </context>
 <context>
     <name>InfoWidget</name>
     <message>
         <source>First Name:</source>
-        <translation type="unfinished"/>
+        <translation>Primer nombre:</translation>
     </message>
     <message>
         <source>Middle Name:</source>
-        <translation type="unfinished"/>
+        <translation>Segundo nombre:</translation>
     </message>
     <message>
         <source>Last Name:</source>
-        <translation type="unfinished"/>
+        <translation>Apellido:</translation>
     </message>
     <message>
         <source>Edit names</source>
-        <translation type="unfinished"/>
+        <translation>Editar nombres</translation>
     </message>
     <message>
         <source>View names</source>
-        <translation type="unfinished"/>
+        <translation>Ver nombres</translation>
     </message>
     <message>
         <source>Open web browser</source>
-        <translation type="unfinished"/>
+        <translation>Abrir navegador web</translation>
     </message>
     <message>
         <source>No date</source>
-        <translation type="unfinished"/>
+        <translation>Sin fecha</translation>
     </message>
     <message>
         <source>Edit birthday</source>
-        <translation type="unfinished"/>
+        <translation>Editar cumpleaños</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Advertencia</translation>
     </message>
     <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
-        <translation type="unfinished"/>
+        <translation>No has publicado los cambios efectuados en la información de tu cuenta.
+¿Estás seguro de que deseas descartarlos?</translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation type="unfinished"/>
+        <translation>Cerrar y descartar</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation type="unfinished"/>
+        <translation>No cerrar</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished"/>
+        <translation>Con éxito</translation>
     </message>
     <message>
         <source>Your account information has been published.</source>
-        <translation type="unfinished"/>
+        <translation>La información de tu cuenta (vCard) ha sido publicada.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Error</translation>
     </message>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="unfinished"/>
+        <translation>No se ha podido cargar la información de tu cuenta (vCard). Tal vez no hayas introducido ninguna aún.
+Si es así, puedes hacerlo ahora.</translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
 Reason: %1</source>
-        <translation type="unfinished"/>
+        <translation>No se pudo recuperar información acerca de este contacto.
+Razón: %1</translation>
     </message>
     <message>
         <source>Unable to publish your account information.
 Reason: %1</source>
-        <translation type="unfinished"/>
+        <translation>No se pudo publicar la información de tu cuenta.
+Razón: %1</translation>
     </message>
     <message>
         <source>Picture not
 available</source>
-        <translation type="unfinished"/>
+        <translation>Imagen no
+disponible</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>Estado</translation>
     </message>
     <message>
         <source>You have not published conference information changes.
@@ -7638,7 +7647,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation type="unfinished"/>
+        <translation>Correo: </translation>
     </message>
 </context>
 <context>
@@ -8327,11 +8336,11 @@ Etiquetas: %1</translation>
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Mensaje</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Conversar</translation>
     </message>
     <message>
         <source>&amp;When chat window is closed</source>
@@ -9557,19 +9566,19 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>Rules</source>
-        <translation type="unfinished"/>
+        <translation>Reglas</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"/>
+        <translation>...</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Nombre</translation>
     </message>
     <message>
         <source>Enabled</source>
-        <translation type="unfinished"/>
+        <translation>Habilitado</translation>
     </message>
     <message>
         <source>Color for outgoing messages numbers</source>
@@ -9791,7 +9800,7 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>No Image</source>
-        <translation type="unfinished"/>
+        <translation>Sin imagen</translation>
     </message>
 </context>
 <context>
@@ -10108,7 +10117,7 @@ a las personas frecuentemente contactadas por email.</translation>
     <name>OptionsTabPlugin</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>General</translation>
     </message>
     <message>
         <source>General plugin options</source>
@@ -11035,7 +11044,7 @@ Todavía puedes guardar el juego.</translation>
     <name>PreviewFileDialog</name>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"/>
+        <translation>Vista previa</translation>
     </message>
     <message>
         <source>Not an image</source>
@@ -12883,7 +12892,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Copy Groupchat JID</source>
-        <translation type="unfinished"/>
+        <translation>Copiar el JID de la sala de chat</translation>
     </message>
     <message>
         <source>Advanc&amp;ed</source>
@@ -13144,18 +13153,18 @@ Quieres activar esa sesión ahora?</translation>
     <name>PsiRosterWidget</name>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>Limpiar</translation>
     </message>
 </context>
 <context>
     <name>PsiThemeModel</name>
     <message>
         <source>Version</source>
-        <translation type="unfinished"/>
+        <translation>Versión</translation>
     </message>
     <message>
         <source>Authors</source>
-        <translation type="unfinished"/>
+        <translation>Autores</translation>
     </message>
     <message>
         <source>Released on</source>
@@ -14656,11 +14665,11 @@ Contraseña: %5</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation type="unfinished"/>
+        <translation>Nunca</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation type="unfinished"/>
+        <translation>Siempre</translation>
     </message>
     <message>
         <source>This computer only</source>
@@ -14690,7 +14699,7 @@ Gracias por tu paciencia.</translation>
     </message>
     <message>
         <source>%1 is now known as %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 ahora se llama %2</translation>
     </message>
 </context>
 <context>
@@ -14845,7 +14854,7 @@ La primera vez que instales el complemento, necesitarás iniciar sesión en toda
     <name>RipperCCOptions</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <source> min.</source>
@@ -16014,27 +16023,27 @@ El complemento guarda una traza de los mensajes bloqueados, la cual puedes ver a
     <name>Stopspam::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation type="unfinished"/>
+        <translation>Buscar:</translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sensible a mayúsculas</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation type="unfinished"/>
+        <translation>Primera página</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation type="unfinished"/>
+        <translation>Página anterior</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation type="unfinished"/>
+        <translation>Próxima página</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation type="unfinished"/>
+        <translation>Última página</translation>
     </message>
 </context>
 <context>

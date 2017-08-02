@@ -2053,16 +2053,16 @@ Biztosan be akarod zárni az ablakot?</translation>
     <name>Chess::InvitationDialog</name>
     <message>
         <source>white</source>
-        <translation type="unfinished">fehér</translation>
+        <translation>fehér</translation>
     </message>
     <message>
         <source>black</source>
-        <translation type="unfinished">fekete</translation>
+        <translation>fekete</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play chess. He wants to play %2.</source>
-        <translation type="unfinished">%1 meghív téged
+        <translation>%1 meghív téged
 sakkra. Ezt szeretné: %2.</translation>
     </message>
 </context>
@@ -2445,27 +2445,27 @@ Az elemeket megtekintheted, mielőtt törlöd őket a merevlemezről.</translati
     <name>ClientSwitcher::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation type="unfinished">Keresés: </translation>
+        <translation>Keresés: </translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished">&amp;Kezdőbetű érzékeny</translation>
+        <translation>&amp;Kezdőbetű érzékeny</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation type="unfinished">Első oldal</translation>
+        <translation>Első oldal</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation type="unfinished">Előző oldal</translation>
+        <translation>Előző oldal</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation type="unfinished">Következő oldal</translation>
+        <translation>Következő oldal</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation type="unfinished">Utolsó oldal</translation>
+        <translation>Utolsó oldal</translation>
     </message>
 </context>
 <context>
@@ -2498,27 +2498,27 @@ Megadhatod a kliens verzióját és az operációs rendszert vagy kiválaszthato
     <name>ConfLogger::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation type="unfinished">Keresés: </translation>
+        <translation>Keresés: </translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished">&amp;Kezdőbetű érzékeny</translation>
+        <translation>&amp;Kezdőbetű érzékeny</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation type="unfinished">Első oldal</translation>
+        <translation>Első oldal</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation type="unfinished">Előző oldal</translation>
+        <translation>Előző oldal</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation type="unfinished">Következő oldal</translation>
+        <translation>Következő oldal</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation type="unfinished">Utolsó oldal</translation>
+        <translation>Utolsó oldal</translation>
     </message>
 </context>
 <context>
@@ -2669,19 +2669,19 @@ Megjegyzés: A helyes működéshez a Csoportbeszélgetés Eszköztárat be kell
     <name>ContactListDragView</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ez véglegesen törli &lt;br&gt;%1&lt;br&gt; felhasználót a címlistádról.</translation>
     </message>
     <message>
         <source>Deleting contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Ismerősök törlése</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Törlés</translation>
+        <translation>Törlés</translation>
     </message>
 </context>
 <context>
@@ -2742,29 +2742,31 @@ Megjegyzés: A helyes működéshez a Csoportbeszélgetés Eszköztárat be kell
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha törlöd a csoportot, akkor a csoport tagjai nem lesznek többé a csoporthoz rendelve.
+
+Folytatod?</translation>
     </message>
 </context>
 <context>
     <name>ContactListItem</name>
     <message>
         <source>Agents/Transports</source>
-        <translation type="unfinished">Átjárók/Szolgáltatások</translation>
+        <translation>Átjárók/Szolgáltatások</translation>
     </message>
     <message>
         <source>Private messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Privát üzenetek</translation>
     </message>
     <message>
         <source>Conferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Konferenciák</translation>
     </message>
 </context>
 <context>
     <name>ContactListViewDelegate::Private</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -5117,7 +5119,7 @@ Vesztettél.</translation>
     </message>
     <message>
         <source>You are already playing!</source>
-        <translation type="unfinished">Már játszol!</translation>
+        <translation>Már játszol!</translation>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
@@ -5510,16 +5512,16 @@ Megjegyzés: A kiegészítő csak az &apos;Inbox&apos; mappát ellenőrzi, ha sz
     <name>GomokuGame::InvitationDialog</name>
     <message>
         <source>white</source>
-        <translation type="unfinished">fehér</translation>
+        <translation>fehér</translation>
     </message>
     <message>
         <source>black</source>
-        <translation type="unfinished">fekete</translation>
+        <translation>fekete</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play gomoku. He wants to play %2.</source>
-        <translation type="unfinished">%1 meghív téged
+        <translation>%1 meghív téged
 gomokura. Ezt szeretné: %2.</translation>
     </message>
 </context>
@@ -5730,15 +5732,15 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     <name>HistoryContactListModel</name>
     <message>
         <source>General</source>
-        <translation type="unfinished">Általános</translation>
+        <translation>Általános</translation>
     </message>
     <message>
         <source>Not in list</source>
-        <translation type="unfinished">Nincs a listában</translation>
+        <translation>Nincs a listában</translation>
     </message>
     <message>
         <source>Private messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Privát üzenetek</translation>
     </message>
     <message>
         <source>All contacts</source>
@@ -6092,23 +6094,23 @@ p, li { white-space: pre-wrap; }
     <name>HttpUploadPlugin</name>
     <message>
         <source>Upload Image</source>
-        <translation type="unfinished">Kép feltöltése</translation>
+        <translation>Kép feltöltése</translation>
     </message>
     <message>
         <source>Upload File</source>
-        <translation type="unfinished">Fájl feltöltése</translation>
+        <translation>Fájl feltöltése</translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg)</source>
-        <translation type="unfinished">Képek (*.png *.gif *.jpg *.jpeg)</translation>
+        <translation>Képek (*.png *.gif *.jpg *.jpeg)</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Hiba</translation>
+        <translation>Hiba</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished">Szerzők: </translation>
+        <translation>Szerzők: </translation>
     </message>
     <message>
         <source>Image preview width</source>
@@ -6523,7 +6525,7 @@ Megjegyzés: A helyes működéshez az &apos;options.ui.chat.central-toolbar&apo
     <name>ImagePreviewPlugin</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Szerző: </translation>
     </message>
     <message>
         <source>512 Kb</source>
@@ -8341,11 +8343,11 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation type="unfinished">&amp;Üzenet</translation>
+        <translation>&amp;Üzenet</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation type="unfinished">&amp;Chat</translation>
+        <translation>&amp;Beszélgetés</translation>
     </message>
     <message>
         <source>&amp;When chat window is closed</source>
@@ -9806,7 +9808,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>No Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs kép</translation>
     </message>
 </context>
 <context>
@@ -11050,7 +11052,7 @@ A játékot még elmentheted.</translation>
     <name>PreviewFileDialog</name>
     <message>
         <source>Preview</source>
-        <translation type="unfinished">Előnézet</translation>
+        <translation>Előnézet</translation>
     </message>
     <message>
         <source>Not an image</source>
@@ -12900,7 +12902,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Copy Groupchat JID</source>
-        <translation type="unfinished">Csoportbeszélgetés-JID másolása</translation>
+        <translation>Csoportbeszélgetés-JID másolása</translation>
     </message>
     <message>
         <source>Advanc&amp;ed</source>
@@ -13161,18 +13163,18 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
     <name>PsiRosterWidget</name>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Üzenet törlése</translation>
+        <translation>Üzenet törlése</translation>
     </message>
 </context>
 <context>
     <name>PsiThemeModel</name>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Verzió</translation>
+        <translation>Verzió</translation>
     </message>
     <message>
         <source>Authors</source>
-        <translation type="unfinished">Alkotók</translation>
+        <translation>Alkotók</translation>
     </message>
     <message>
         <source>Released on</source>
@@ -14715,7 +14717,7 @@ Türelmét köszönjük.</translation>
     </message>
     <message>
         <source>%1 is now known as %2</source>
-        <translation type="unfinished">%1 jelenleg %2</translation>
+        <translation>%1 jelenleg %2</translation>
     </message>
 </context>
 <context>
@@ -14874,7 +14876,7 @@ Az első alkalomkor, amikor telepítve lesz ez a kiegészítő, be kell jelentke
     <name>RipperCCOptions</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Űrlap</translation>
+        <translation>Űrlap</translation>
     </message>
     <message>
         <source> min.</source>
@@ -16018,27 +16020,27 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     <name>Stopspam::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation type="unfinished">Keresés: </translation>
+        <translation>Keresés: </translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished">&amp;Kezdőbetű érzékeny</translation>
+        <translation>&amp;Kezdőbetű érzékeny</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation type="unfinished">Első oldal</translation>
+        <translation>Első oldal</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation type="unfinished">Előző oldal</translation>
+        <translation>Előző oldal</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation type="unfinished">Következő oldal</translation>
+        <translation>Következő oldal</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation type="unfinished">Utolsó oldal</translation>
+        <translation>Utolsó oldal</translation>
     </message>
 </context>
 <context>
@@ -17485,7 +17487,7 @@ Ablak bezárása mégis?</translation>
     </message>
     <message>
         <source>Service unavailable</source>
-        <translation type="unfinished">Szolgáltatás nem elérhető</translation>
+        <translation>Szolgáltatás nem elérhető</translation>
     </message>
     <message>
         <source>The server or recipient does not currently provide the requested service.</source>
@@ -17576,7 +17578,7 @@ Ablak bezárása mégis?</translation>
     <name>options</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Űrlap</translation>
+        <translation>Űrlap</translation>
     </message>
     <message>
         <source>Select Sounds:</source>
@@ -17658,7 +17660,7 @@ Ablak bezárása mégis?</translation>
     </message>
     <message>
         <source>Disable if chat window is active</source>
-        <translation type="unfinished">Letiltva, ha a beszélgetésablak aktív</translation>
+        <translation>Letiltva, ha a beszélgetésablak aktív</translation>
     </message>
     <message>
         <source>Transports:</source>
@@ -17852,7 +17854,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Fiók</translation>
+        <translation>Fiók</translation>
     </message>
     <message>
         <source>User</source>
@@ -17860,7 +17862,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Ujjlenyomat</translation>
+        <translation>Ujjlenyomat</translation>
     </message>
     <message>
         <source>Verified</source>
@@ -17915,11 +17917,11 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Fiók</translation>
+        <translation>Fiók</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Ujjlenyomat</translation>
+        <translation>Ujjlenyomat</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
@@ -18053,7 +18055,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="unfinished">Psi OTR</translation>
+        <translation>Psi OTR</translation>
     </message>
     <message>
         <source>Attempting to refresh the private conversation</source>
@@ -18108,7 +18110,7 @@ You should authenticate %1 as well by asking your own question.</source>
     <name>requestAuthDialogClass</name>
     <message>
         <source>Authorization</source>
-        <translation type="unfinished">Hitelesítés</translation>
+        <translation>Jóváhagyás</translation>
     </message>
     <message>
         <source>Login:</source>
@@ -18139,23 +18141,23 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>bold</source>
-        <translation type="unfinished"></translation>
+        <translation>félkövér</translation>
     </message>
     <message>
         <source>italic</source>
-        <translation type="unfinished"></translation>
+        <translation>dőlt</translation>
     </message>
     <message>
         <source>underline</source>
-        <translation type="unfinished"></translation>
+        <translation>aláhúzott</translation>
     </message>
     <message>
         <source>color</source>
-        <translation type="unfinished"></translation>
+        <translation>szín</translation>
     </message>
     <message>
         <source>@username</source>
-        <translation type="unfinished">@username</translation>
+        <translation>@username</translation>
     </message>
     <message>
         <source>*tag</source>
@@ -18196,7 +18198,7 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -18331,7 +18333,7 @@ to this message in juick@conference.jabber.ru</source>
     <name>yandexnarodManageClass</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Űrlap</translation>
+        <translation>Űrlap</translation>
     </message>
     <message>
         <source>Get Filelist</source>
