@@ -4687,7 +4687,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>%2 has joined the room as %1</source>
-        <translation>%2 si è entrato nella stanza come %1</translation>
+        <translation>%2 è entrato nella stanza come %1</translation>
     </message>
     <message>
         <source> and now is %1</source>
@@ -5863,11 +5863,11 @@ Per inviare comandi, basta usare normali messaggi, uindi questo plugin funzioner
     </message>
     <message>
         <source>Search:</source>
-        <translation type="unfinished"/>
+        <translation>Cerca:</translation>
     </message>
     <message>
         <source>All accounts</source>
-        <translation type="unfinished"/>
+        <translation>Tutti gli account</translation>
     </message>
     <message>
         <source>deleted</source>
@@ -8353,7 +8353,7 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Show previews for links</source>
-        <translation type="unfinished"/>
+        <translation>Mostra anteprima per collegamenti</translation>
     </message>
     <message>
         <source>&amp;Message</source>
@@ -8365,7 +8365,7 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>&amp;When chat window is closed</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Quando la finestra di chat è chiusa</translation>
     </message>
     <message>
         <source>&amp;One hour after chat window was closed</source>
@@ -8377,7 +8377,7 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>&amp;Never</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Mai</translation>
     </message>
 </context>
 <context>
