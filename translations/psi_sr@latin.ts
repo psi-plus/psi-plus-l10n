@@ -7305,7 +7305,7 @@ Napomena: Da bi radilo ispravno, opcija options.html.chat.render⇥mora biti pod
     </message>
     <message>
         <source>Recent:</source>
-        <translation>Skorašnje:</translation>
+        <translation type="vanished">Skorašnje:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7313,19 +7313,19 @@ Napomena: Da bi radilo ispravno, opcija options.html.chat.render⇥mora biti pod
     </message>
     <message>
         <source>Host:</source>
-        <translation>Domaćin:</translation>
+        <translation type="vanished">Domaćin:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation>Soba:</translation>
+        <translation type="vanished">Soba:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation>Korisničko ime:</translation>
+        <translation type="vanished">Korisničko ime:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Lozinka</translation>
+        <translation type="vanished">Lozinka</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7333,7 +7333,27 @@ Napomena: Da bi radilo ispravno, opcija options.html.chat.render⇥mora biti pod
     </message>
     <message>
         <source>Bookmarks:</source>
-        <translation>Označeno:</translation>
+        <translation type="vanished">Označeno:</translation>
+    </message>
+    <message>
+        <source>Nickname</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation type="unfinished">Lozinka</translation>
+    </message>
+    <message>
+        <source>Host</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Favorites</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11335,11 +11355,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Message</source>
-        <translation>Poruka</translation>
+        <translation type="vanished">Poruka</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Razgovor</translation>
+        <translation type="vanished">Razgovor</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11360,6 +11380,14 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <source>psi/addContact</source>
         <translation>psi/dodajKontakt</translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation type="unfinished">&amp;Poruka</translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation type="unfinished">&amp;Razgovor</translation>
     </message>
 </context>
 <context>

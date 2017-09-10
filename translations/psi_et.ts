@@ -7217,27 +7217,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
         <translation>Identiteet:</translation>
     </message>
     <message>
-        <source>Recent:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Room information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Host:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Room:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Nickname:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Password:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7245,7 +7225,23 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Bookmarks:</source>
+        <source>Nickname</source>
+        <translation type="unfinished">Hüüdnimi</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation type="unfinished">Parool</translation>
+    </message>
+    <message>
+        <source>Host</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Favorites</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11208,12 +11204,8 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Message</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Chat</source>
-        <translation>Vestlus</translation>
+        <translation type="vanished">Vestlus</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11234,6 +11226,14 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <source>psi/addContact</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation type="unfinished">&amp;Chat</translation>
     </message>
 </context>
 <context>

@@ -7341,7 +7341,7 @@ Anmerkung: Um korrekt zu funktionieren, muss die Option options.html.chat.render
     </message>
     <message>
         <source>Recent:</source>
-        <translation>Letzte:</translation>
+        <translation type="vanished">Letzte:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7349,19 +7349,19 @@ Anmerkung: Um korrekt zu funktionieren, muss die Option options.html.chat.render
     </message>
     <message>
         <source>Host:</source>
-        <translation>Server:</translation>
+        <translation type="vanished">Server:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation>Raum:</translation>
+        <translation type="vanished">Raum:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation>Spitzname:</translation>
+        <translation type="vanished">Spitzname:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Kennwort:</translation>
+        <translation type="vanished">Kennwort:</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7369,7 +7369,27 @@ Anmerkung: Um korrekt zu funktionieren, muss die Option options.html.chat.render
     </message>
     <message>
         <source>Bookmarks:</source>
-        <translation>Lesezeichen:</translation>
+        <translation type="vanished">Lesezeichen:</translation>
+    </message>
+    <message>
+        <source>Nickname</source>
+        <translation>Spitzname</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation>Passwort</translation>
+    </message>
+    <message>
+        <source>Host</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Favorites</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11386,11 +11406,11 @@ Aktivieren Sie die Option &quot;Emoticons verwenden&quot;, wenn Sie statt dem Te
     </message>
     <message>
         <source>Message</source>
-        <translation>Nachricht</translation>
+        <translation type="vanished">Nachricht</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Chat</translation>
+        <translation type="vanished">Chat</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11411,6 +11431,14 @@ Aktivieren Sie die Option &quot;Emoticons verwenden&quot;, wenn Sie statt dem Te
     <message>
         <source>psi/addContact</source>
         <translation>psi/addContact</translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation>&amp;Nachricht</translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation>&amp;Chatten</translation>
     </message>
 </context>
 <context>

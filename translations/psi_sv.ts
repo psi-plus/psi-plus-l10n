@@ -7245,7 +7245,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Recent:</source>
-        <translation>Nyligen:</translation>
+        <translation type="vanished">Nyligen:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7253,19 +7253,19 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Host:</source>
-        <translation>Värd:</translation>
+        <translation type="vanished">Värd:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation>Rum:</translation>
+        <translation type="vanished">Rum:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation>Smeknamn:</translation>
+        <translation type="vanished">Smeknamn:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Lösenord:</translation>
+        <translation type="vanished">Lösenord:</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7273,6 +7273,26 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Bookmarks:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Nickname</source>
+        <translation>Smeknamn</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation>Lösenord</translation>
+    </message>
+    <message>
+        <source>Host</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Favorites</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -11270,11 +11290,11 @@ Klicka i &lt;i&gt;Slå på emotikoner&lt;/i&gt;-kryssrutan om du vill att text s
     </message>
     <message>
         <source>Message</source>
-        <translation>Meddelande</translation>
+        <translation type="vanished">Meddelande</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Chatt</translation>
+        <translation type="vanished">Chatt</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11295,6 +11315,14 @@ Klicka i &lt;i&gt;Slå på emotikoner&lt;/i&gt;-kryssrutan om du vill att text s
     <message>
         <source>psi/addContact</source>
         <translation>psi/addContact</translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation>&amp;Meddelande</translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation>&amp;Chatt</translation>
     </message>
 </context>
 <context>

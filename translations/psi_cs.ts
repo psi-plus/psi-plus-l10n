@@ -7313,7 +7313,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Recent:</source>
-        <translation>Nedávné:</translation>
+        <translation type="vanished">Nedávné:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7321,19 +7321,19 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Host:</source>
-        <translation>Server:</translation>
+        <translation type="vanished">Server:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation>Místnost:</translation>
+        <translation type="vanished">Místnost:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation>Přezdívka:</translation>
+        <translation type="vanished">Přezdívka:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Heslo:</translation>
+        <translation type="vanished">Heslo:</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7341,7 +7341,27 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Bookmarks:</source>
-        <translation>Záložky:</translation>
+        <translation type="vanished">Záložky:</translation>
+    </message>
+    <message>
+        <source>Nickname</source>
+        <translation>Přezdívka</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation>Heslo</translation>
+    </message>
+    <message>
+        <source>Host</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Favorites</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11364,11 +11384,11 @@ Zatrhni pole &lt;i&gt;Zapnout Emotikony&lt;/i&gt; pro zobrazení text např. &lt
     </message>
     <message>
         <source>Message</source>
-        <translation>Zpráva</translation>
+        <translation type="vanished">Zpráva</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Chat</translation>
+        <translation type="vanished">Chat</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11389,6 +11409,14 @@ Zatrhni pole &lt;i&gt;Zapnout Emotikony&lt;/i&gt; pro zobrazení text např. &lt
     <message>
         <source>psi/addContact</source>
         <translation>psi/addContact</translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation>&amp;Zpráva</translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation>&amp;Chat</translation>
     </message>
 </context>
 <context>

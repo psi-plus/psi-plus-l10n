@@ -7334,7 +7334,7 @@ Nota: Para su correcto funcionamiento, la opción: options.html.chat.render debe
     </message>
     <message>
         <source>Recent:</source>
-        <translation>Reciente:</translation>
+        <translation type="vanished">Reciente:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7342,19 +7342,19 @@ Nota: Para su correcto funcionamiento, la opción: options.html.chat.render debe
     </message>
     <message>
         <source>Host:</source>
-        <translation>Anfitrión</translation>
+        <translation type="vanished">Anfitrión</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation>Sala:</translation>
+        <translation type="vanished">Sala:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation>Nick/Apodo:</translation>
+        <translation type="vanished">Nick/Apodo:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Contraseña:</translation>
+        <translation type="vanished">Contraseña:</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7362,7 +7362,27 @@ Nota: Para su correcto funcionamiento, la opción: options.html.chat.render debe
     </message>
     <message>
         <source>Bookmarks:</source>
-        <translation>Marcas:</translation>
+        <translation type="vanished">Marcas:</translation>
+    </message>
+    <message>
+        <source>Nickname</source>
+        <translation>Apodo</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation>Contraseña</translation>
+    </message>
+    <message>
+        <source>Host</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Favorites</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11380,11 +11400,11 @@ Selecciona la caja &lt;i&gt;Habilitar smileys&lt;/i&gt; si te gustaría que un t
     </message>
     <message>
         <source>Message</source>
-        <translation>Mensaje</translation>
+        <translation type="vanished">Mensaje</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Conversación</translation>
+        <translation type="vanished">Conversación</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11405,6 +11425,14 @@ Selecciona la caja &lt;i&gt;Habilitar smileys&lt;/i&gt; si te gustaría que un t
     <message>
         <source>psi/addContact</source>
         <translation>psi/addContact</translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation>&amp;Mensaje</translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation>&amp;Conversar</translation>
     </message>
 </context>
 <context>

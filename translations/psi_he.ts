@@ -7271,7 +7271,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Recent:</source>
-        <translation>אחרונות:</translation>
+        <translation type="vanished">אחרונות:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7279,19 +7279,19 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Host:</source>
-        <translation>מארח:</translation>
+        <translation type="vanished">מארח:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation>חדר:</translation>
+        <translation type="vanished">חדר:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation>שם כינוי:</translation>
+        <translation type="vanished">שם כינוי:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>סיסמה:</translation>
+        <translation type="vanished">סיסמה:</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7299,7 +7299,27 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Bookmarks:</source>
-        <translation>סימניות:</translation>
+        <translation type="vanished">סימניות:</translation>
+    </message>
+    <message>
+        <source>Nickname</source>
+        <translation>שם כינוי</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation>סיסמה</translation>
+    </message>
+    <message>
+        <source>Host</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Favorites</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11294,11 +11314,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Message</source>
-        <translation>הודעה</translation>
+        <translation type="vanished">הודעה</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>שיחה</translation>
+        <translation type="vanished">שיחה</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11319,6 +11339,14 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <source>psi/addContact</source>
         <translation>psi/addContact</translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation>&amp;שיחה</translation>
     </message>
 </context>
 <context>

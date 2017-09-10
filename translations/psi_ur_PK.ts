@@ -7221,7 +7221,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Recent:</source>
-        <translation>حالیہ:‏</translation>
+        <translation type="vanished">حالیہ:‏</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7229,26 +7229,42 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Host:</source>
-        <translation>میزبان:‏</translation>
+        <translation type="vanished">میزبان:‏</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation>کمرہ:‏</translation>
+        <translation type="vanished">کمرہ:‏</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation>عرف:‏</translation>
+        <translation type="vanished">عرف:‏</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>پاس ورڈ:‏</translation>
+        <translation type="vanished">پاس ورڈ:‏</translation>
     </message>
     <message>
         <source>Request chat history</source>
         <translation>بات چیت سابقات کی فرمائش</translation>
     </message>
     <message>
-        <source>Bookmarks:</source>
+        <source>Nickname</source>
+        <translation type="unfinished">عرف</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation type="unfinished">پاس ورڈ</translation>
+    </message>
+    <message>
+        <source>Host</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Favorites</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11237,11 +11253,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Message</source>
-        <translation>پیغام</translation>
+        <translation type="vanished">پیغام</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>بات چیت کریں</translation>
+        <translation type="vanished">بات چیت کریں</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11262,6 +11278,14 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <source>psi/addContact</source>
         <translation>psi/ رابطہ فرد اضافہ کریں</translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation type="unfinished">بات چیت کریں</translation>
     </message>
 </context>
 <context>

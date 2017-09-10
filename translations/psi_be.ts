@@ -7322,7 +7322,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Recent:</source>
-        <translation>Нядаўнія:</translation>
+        <translation type="vanished">Нядаўнія:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7330,19 +7330,19 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Host:</source>
-        <translation>Вузел:</translation>
+        <translation type="vanished">Вузел:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation>Пакой:</translation>
+        <translation type="vanished">Пакой:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation>Мянушка:</translation>
+        <translation type="vanished">Мянушка:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Пароль:</translation>
+        <translation type="vanished">Пароль:</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7350,7 +7350,27 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Bookmarks:</source>
-        <translation>Закладкі:</translation>
+        <translation type="vanished">Закладкі:</translation>
+    </message>
+    <message>
+        <source>Nickname</source>
+        <translation type="unfinished">Мянушка</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation type="unfinished">Пароль</translation>
+    </message>
+    <message>
+        <source>Host</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Favorites</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11369,11 +11389,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Message</source>
-        <translation>Паведамленьне</translation>
+        <translation type="vanished">Паведамленьне</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Гутарка</translation>
+        <translation type="vanished">Гутарка</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11394,6 +11414,14 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <source>psi/addContact</source>
         <translation>psi/addContact</translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation type="unfinished">&amp;Паведамленьне</translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation type="unfinished">&amp;Гутарыць</translation>
     </message>
 </context>
 <context>

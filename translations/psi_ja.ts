@@ -7247,7 +7247,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Recent:</source>
-        <translation>最近の:</translation>
+        <translation type="vanished">最近の:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7255,19 +7255,19 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Host:</source>
-        <translation>ホスト:</translation>
+        <translation type="vanished">ホスト:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation>ルーム:</translation>
+        <translation type="vanished">ルーム:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation>ニックネーム:</translation>
+        <translation type="vanished">ニックネーム:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>パスワード:</translation>
+        <translation type="vanished">パスワード:</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7275,6 +7275,26 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Bookmarks:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Nickname</source>
+        <translation>ニックネーム</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation>パスワード</translation>
+    </message>
+    <message>
+        <source>Host</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Favorites</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -11271,11 +11291,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Message</source>
-        <translation>メッセージ</translation>
+        <translation type="vanished">メッセージ</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>チャット</translation>
+        <translation type="vanished">チャット</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11296,6 +11316,14 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <source>psi/addContact</source>
         <translation>psi/addContact</translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation>メッセージ(&amp;M)</translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation>チャット(&amp;C)</translation>
     </message>
 </context>
 <context>

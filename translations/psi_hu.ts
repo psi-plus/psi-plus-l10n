@@ -7340,7 +7340,7 @@ Megjegyzés: A helyes működéshez az &apos;options.html.chat.render&apos;-nek 
     </message>
     <message>
         <source>Recent:</source>
-        <translation>Közelmúlt:</translation>
+        <translation type="vanished">Közelmúlt:</translation>
     </message>
     <message>
         <source>Room information</source>
@@ -7348,19 +7348,19 @@ Megjegyzés: A helyes működéshez az &apos;options.html.chat.render&apos;-nek 
     </message>
     <message>
         <source>Host:</source>
-        <translation>Kiszolgáló:</translation>
+        <translation type="vanished">Kiszolgáló:</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation>Szoba:</translation>
+        <translation type="vanished">Szoba:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation>Becenév:</translation>
+        <translation type="vanished">Becenév:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Jelszó:</translation>
+        <translation type="vanished">Jelszó:</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7368,7 +7368,27 @@ Megjegyzés: A helyes működéshez az &apos;options.html.chat.render&apos;-nek 
     </message>
     <message>
         <source>Bookmarks:</source>
-        <translation>Könyvjelzők:</translation>
+        <translation type="vanished">Könyvjelzők:</translation>
+    </message>
+    <message>
+        <source>Nickname</source>
+        <translation type="unfinished">Becenév</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation type="unfinished">Jelszó</translation>
+    </message>
+    <message>
+        <source>Host</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Favorites</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11390,11 +11410,11 @@ Jelöld be a &lt;i&gt;Hangulatjelek engedélyezése&lt;/i&gt; opciót, ha szeret
     </message>
     <message>
         <source>Message</source>
-        <translation>Üzenet</translation>
+        <translation type="vanished">Üzenet</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation>Beszélgetés</translation>
+        <translation type="vanished">Beszélgetés</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11415,6 +11435,14 @@ Jelöld be a &lt;i&gt;Hangulatjelek engedélyezése&lt;/i&gt; opciót, ha szeret
     <message>
         <source>psi/addContact</source>
         <translation>psi/addContact</translation>
+    </message>
+    <message>
+        <source>&amp;Message</source>
+        <translation type="unfinished">&amp;Üzenet</translation>
+    </message>
+    <message>
+        <source>&amp;Chat</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
