@@ -7394,7 +7394,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Room</source>
-        <translation type="unfinished"/>
+        <translation>Кімната</translation>
     </message>
     <message>
         <source>Password</source>
@@ -7402,11 +7402,11 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Host</source>
-        <translation type="unfinished"/>
+        <translation>Сервер:</translation>
     </message>
     <message>
         <source>&amp;Favorites</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Обране</translation>
     </message>
 </context>
 <context>
