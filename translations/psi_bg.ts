@@ -7346,15 +7346,15 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="unfinished">Псевдоним</translation>
+        <translation>Псевдоним</translation>
     </message>
     <message>
         <source>Room</source>
-        <translation type="unfinished"></translation>
+        <translation>Стая</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Парола</translation>
+        <translation>Парола</translation>
     </message>
     <message>
         <source>Host</source>
@@ -10785,7 +10785,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Радиус</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -10797,7 +10797,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Blur</source>
-        <translation type="unfinished"></translation>
+        <translation>Замъгляване</translation>
     </message>
 </context>
 <context>
@@ -10974,15 +10974,15 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Propose a draw</source>
-        <translation type="unfinished"></translation>
+        <translation>Предложи рисуване</translation>
     </message>
     <message>
         <source>Press button if you want to accept the draw proposal</source>
-        <translation type="unfinished"></translation>
+        <translation>Натиснете бутон ако искате да приемете предложението за рисуване</translation>
     </message>
     <message>
         <source>Accept the draw proposal</source>
-        <translation type="unfinished"></translation>
+        <translation>Приемане на предложението за рисуване</translation>
     </message>
     <message>
         <source>Press button if you want to resign</source>
@@ -11002,7 +11002,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Draw</source>
-        <translation type="unfinished"></translation>
+        <translation>Рисуване</translation>
     </message>
 </context>
 <context>
@@ -11400,11 +11400,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation type="unfinished">&amp;Съобщение</translation>
+        <translation>&amp;Съобщение</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation type="unfinished">&amp;Разговор</translation>
+        <translation>&amp;Разговор</translation>
     </message>
 </context>
 <context>
@@ -11528,7 +11528,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Polling URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>URL на запитване:</translation>
     </message>
     <message>
         <source>Use authentication</source>
@@ -12625,7 +12625,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>I understand</source>
-        <translation type="unfinished"></translation>
+        <translation>Разбирам</translation>
     </message>
     <message>
         <source>Call ended</source>
@@ -13344,7 +13344,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Running An Errand</source>
-        <translation type="unfinished"></translation>
+        <translation>Изпълнение на Поръчка</translation>
     </message>
     <message>
         <source>Walking The Dog</source>
@@ -13392,7 +13392,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Cycling</source>
-        <translation type="unfinished"></translation>
+        <translation>Колоездене</translation>
     </message>
     <message>
         <source>Dancing</source>
@@ -13484,7 +13484,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Scheduled Holiday</source>
-        <translation type="unfinished"></translation>
+        <translation>Планувана Ваканция</translation>
     </message>
     <message>
         <source>Sleeping</source>
@@ -14247,7 +14247,7 @@ Description: </source>
     </message>
     <message>
         <source> recommended your post </source>
-        <translation type="unfinished"></translation>
+        <translation>препоръча публикацията ви</translation>
     </message>
     <message>
         <source>Show all messages</source>
@@ -16271,7 +16271,7 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>Polling URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>URL на запитване:</translation>
     </message>
     <message>
         <source>Security Settings</source>

@@ -7372,7 +7372,7 @@ Megjegyzés: A helyes működéshez az &apos;options.html.chat.render&apos;-nek 
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="unfinished">Becenév</translation>
+        <translation>Becenév</translation>
     </message>
     <message>
         <source>Room</source>
@@ -7380,7 +7380,7 @@ Megjegyzés: A helyes működéshez az &apos;options.html.chat.render&apos;-nek 
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Jelszó</translation>
+        <translation>Jelszó</translation>
     </message>
     <message>
         <source>Host</source>
@@ -11438,11 +11438,11 @@ Jelöld be a &lt;i&gt;Hangulatjelek engedélyezése&lt;/i&gt; opciót, ha szeret
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation type="unfinished">&amp;Üzenet</translation>
+        <translation>&amp;Üzenet</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Beszélgetés</translation>
     </message>
 </context>
 <context>

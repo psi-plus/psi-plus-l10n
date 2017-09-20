@@ -7228,7 +7228,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="unfinished">Lempinimi</translation>
+        <translation>Lempinimi</translation>
     </message>
     <message>
         <source>Room</source>
@@ -7236,7 +7236,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Salasana</translation>
+        <translation>Salasana</translation>
     </message>
     <message>
         <source>Host</source>

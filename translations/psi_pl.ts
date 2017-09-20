@@ -7330,7 +7330,7 @@ Uwaga: Do poprawnego opcja, option options.html.chat.render musi być ustawiona 
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="unfinished">Pseudonim</translation>
+        <translation>Pseudonim</translation>
     </message>
     <message>
         <source>Room</source>
@@ -7338,7 +7338,7 @@ Uwaga: Do poprawnego opcja, option options.html.chat.render musi być ustawiona 
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Hasło</translation>
+        <translation>Hasło</translation>
     </message>
     <message>
         <source>Host</source>
@@ -11376,7 +11376,7 @@ Zaznacz opcję &lt;b&gt;Włącz emotikony&lt;/b&gt;, jeśli chcesz, aby tekst ty
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation type="unfinished">&amp;Rozmowa</translation>
+        <translation>&amp;Rozmowa</translation>
     </message>
 </context>
 <context>

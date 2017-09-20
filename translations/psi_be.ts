@@ -7354,7 +7354,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="unfinished">Мянушка</translation>
+        <translation>Мянушка</translation>
     </message>
     <message>
         <source>Room</source>
@@ -7362,7 +7362,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Пароль</translation>
+        <translation>Пароль</translation>
     </message>
     <message>
         <source>Host</source>
@@ -11417,11 +11417,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation type="unfinished">&amp;Паведамленьне</translation>
+        <translation>&amp;Паведамленьне</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation type="unfinished">&amp;Гутарыць</translation>
+        <translation>&amp;Гутарыць</translation>
     </message>
 </context>
 <context>
