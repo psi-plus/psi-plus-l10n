@@ -8363,6 +8363,88 @@ Tags: %1</source>
     </message>
 </context>
 <context>
+    <name>OptInput</name>
+    <message>
+        <source>Form</source>
+        <translation>Đơn</translation>
+    </message>
+    <message>
+        <source>Auto-resize text input field</source>
+        <translation>Tự động thay đổi kích cỡ trường gõ chữ</translation>
+    </message>
+    <message>
+        <source>Enable Spell Checking</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Available spellcheck dictionaries</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No dictionaries found</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>OptMsgCommon</name>
+    <message>
+        <source>Form</source>
+        <translation>Đơn</translation>
+    </message>
+    <message>
+        <source>Use tabbed mode:</source>
+        <translation>Dùng chế độ thẻ:</translation>
+    </message>
+    <message>
+        <source>for chats only</source>
+        <translation>chỉ cho chát</translation>
+    </message>
+    <message>
+        <source>for mucs only</source>
+        <translation>chỉ cho MUC</translation>
+    </message>
+    <message>
+        <source>for chats and mucs separately</source>
+        <translation>cho chát và MUC một cách riêng</translation>
+    </message>
+    <message>
+        <source>for mucs and chats in one window</source>
+        <translation>cho MUC và chát cùng cửa sổ</translation>
+    </message>
+    <message>
+        <source>for mucs, chats and roster in one window</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>[customized]</source>
+        <translation>[tùy chỉnh]</translation>
+    </message>
+    <message>
+        <source>Show tab buttons</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use contacts&apos; message formatting</source>
+        <translation>Theo định dạng của tin nhẳn gốc</translation>
+    </message>
+    <message>
+        <source>Show character counter</source>
+        <translation>Hiện bộ đếm ký tự</translation>
+    </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>OptPlugins</name>
     <message>
         <source>OptPluginsUI</source>
@@ -10023,6 +10105,63 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Select the system iconset</source>
         <translation>Chọn bộ biểu tượng hệ thống</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabInput</name>
+    <message>
+        <source>Input</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Input options</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Check this option if you want your spelling to be checked</source>
+        <translation>Bật để bắt lỗi chính tả</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMessages</name>
+    <message>
+        <source>Messages</source>
+        <translation>Tin nhẳn</translation>
+    </message>
+    <message>
+        <source>Messages options</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMsgCommon</name>
+    <message>
+        <source>Common</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Сommon options for messages section</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Makes Psi open chats in a tabbed window.</source>
+        <translation>Psi mở chát trong cửa sổ thẻ.</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
+        <translation>Psi hiển thị bộ đếm độ dài tin nhẳn. Bật để biết độ dài của tin nhẳn trong khi gõ : có ích khi sử dụng truyền tải SMS.</translation>
+    </message>
+    <message>
+        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
+        <translation>Bật thì Psi hiển thị tin nhẳn gửi đến theo định dang do liên lạc ghi rõ</translation>
+    </message>
+    <message>
+        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

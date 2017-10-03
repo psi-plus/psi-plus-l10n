@@ -8465,6 +8465,88 @@ Tags: %1</source>
     </message>
 </context>
 <context>
+    <name>OptInput</name>
+    <message>
+        <source>Form</source>
+        <translation>外形</translation>
+    </message>
+    <message>
+        <source>Auto-resize text input field</source>
+        <translation>自動調整文字輸入區域大小</translation>
+    </message>
+    <message>
+        <source>Enable Spell Checking</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Available spellcheck dictionaries</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No dictionaries found</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>OptMsgCommon</name>
+    <message>
+        <source>Form</source>
+        <translation>外形</translation>
+    </message>
+    <message>
+        <source>Use tabbed mode:</source>
+        <translation>使用標籤模式:</translation>
+    </message>
+    <message>
+        <source>for chats only</source>
+        <translation>僅對話</translation>
+    </message>
+    <message>
+        <source>for mucs only</source>
+        <translation>僅其他</translation>
+    </message>
+    <message>
+        <source>for chats and mucs separately</source>
+        <translation>對話和其他分開</translation>
+    </message>
+    <message>
+        <source>for mucs and chats in one window</source>
+        <translation>對話和其他在一個視窗</translation>
+    </message>
+    <message>
+        <source>for mucs, chats and roster in one window</source>
+        <translation>為mucs，聊天，在一個視窗名單</translation>
+    </message>
+    <message>
+        <source>[customized]</source>
+        <translation>[自定]</translation>
+    </message>
+    <message>
+        <source>Show tab buttons</source>
+        <translation>顯示標籤按鈕</translation>
+    </message>
+    <message>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation>使用 Alt-[0-9] 切換標籤頁</translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use contacts&apos; message formatting</source>
+        <translation>使用連絡人的資訊格式設置</translation>
+    </message>
+    <message>
+        <source>Show character counter</source>
+        <translation>顯示字元計數器</translation>
+    </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation>自動大寫句子的第一個字母</translation>
+    </message>
+</context>
+<context>
     <name>OptPlugins</name>
     <message>
         <source>OptPluginsUI</source>
@@ -10130,6 +10212,63 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Select the system iconset</source>
         <translation>選擇系統圖示集</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabInput</name>
+    <message>
+        <source>Input</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Input options</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Check this option if you want your spelling to be checked</source>
+        <translation>如果你想要檢查你的拼字, 核取這個選項</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMessages</name>
+    <message>
+        <source>Messages</source>
+        <translation>信息</translation>
+    </message>
+    <message>
+        <source>Messages options</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMsgCommon</name>
+    <message>
+        <source>Common</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Сommon options for messages section</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Makes Psi open chats in a tabbed window.</source>
+        <translation>讓 Psi 使用標籤視窗模式打開對話。</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
+        <translation>讓 Psi 顯示資訊長度計數器。如果你想知道你打了多長的資訊, 則核取這個選項。當你用 SMS 轉換時滿有用的。</translation>
+    </message>
+    <message>
+        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
+        <translation>如果啟用, Psi 會使用連絡人指定的樣式來顯示進來的資訊</translation>
+    </message>
+    <message>
+        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

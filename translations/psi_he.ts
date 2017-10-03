@@ -8387,6 +8387,88 @@ Tags: %1</source>
     </message>
 </context>
 <context>
+    <name>OptInput</name>
+    <message>
+        <source>Form</source>
+        <translation>טופס</translation>
+    </message>
+    <message>
+        <source>Auto-resize text input field</source>
+        <translation>שנה אוטומטית מידת שדה קלט טקסט</translation>
+    </message>
+    <message>
+        <source>Enable Spell Checking</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Available spellcheck dictionaries</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No dictionaries found</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>OptMsgCommon</name>
+    <message>
+        <source>Form</source>
+        <translation>טופס</translation>
+    </message>
+    <message>
+        <source>Use tabbed mode:</source>
+        <translation>השתמש במצב כרטיסיות:</translation>
+    </message>
+    <message>
+        <source>for chats only</source>
+        <translation>עבור שיחות בלבד</translation>
+    </message>
+    <message>
+        <source>for mucs only</source>
+        <translation>עבור שיחות מרובות משתתפים בלבד</translation>
+    </message>
+    <message>
+        <source>for chats and mucs separately</source>
+        <translation>הן עבור שיחות והן עבור שיחות מרובות משתתפים בנפרד</translation>
+    </message>
+    <message>
+        <source>for mucs and chats in one window</source>
+        <translation>הן עבור שיחות והן עבור שיחות מרובות משתתפים בחלון אחד</translation>
+    </message>
+    <message>
+        <source>for mucs, chats and roster in one window</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>[customized]</source>
+        <translation>[מותאם]</translation>
+    </message>
+    <message>
+        <source>Show tab buttons</source>
+        <translation>הצג לחצני כרטיסייה</translation>
+    </message>
+    <message>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation>אפשר קיצורי דרך כרטיסייה Alt-[0-9‪]</translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use contacts&apos; message formatting</source>
+        <translation>השתמש בעיצוב הודעה של איש קשר</translation>
+    </message>
+    <message>
+        <source>Show character counter</source>
+        <translation>הצג מונה תווים</translation>
+    </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation>הפוך אוטומטית את האות הראשונה במשפט לאות עילית</translation>
+    </message>
+</context>
+<context>
     <name>OptPlugins</name>
     <message>
         <source>OptPluginsUI</source>
@@ -10047,6 +10129,63 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Select the system iconset</source>
         <translation>בחר את מערך סמלי המערכת</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabInput</name>
+    <message>
+        <source>Input</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Input options</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Check this option if you want your spelling to be checked</source>
+        <translation>סמן את אפשרות זו אם ברצונך כי איות ייבדק</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMessages</name>
+    <message>
+        <source>Messages</source>
+        <translation>הודעות</translation>
+    </message>
+    <message>
+        <source>Messages options</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMsgCommon</name>
+    <message>
+        <source>Common</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Сommon options for messages section</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Makes Psi open chats in a tabbed window.</source>
+        <translation>במידה ואפשרות זו מסומנת, Psi יפתח שיחות בחלון בעל כרטיסיות.</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
+        <translation>במידה ואפשרות זו מסומנת, Psi יציג מונה אורך הודעה. ניתן לסמן את אפשרות זו אם ברצונך מהו אורך הודעתך. יכולה להיות שימושית בעת שימוש בטרנספורט SMS.</translation>
+    </message>
+    <message>
+        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
+        <translation>במידה ומאופשרת, Psi יציג הודעות נכנסות מעוצבות עם הסגנון שצוין על ידי איש קשר</translation>
+    </message>
+    <message>
+        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

@@ -8476,6 +8476,88 @@ Tags: %1</source>
     </message>
 </context>
 <context>
+    <name>OptInput</name>
+    <message>
+        <source>Form</source>
+        <translation>Форма</translation>
+    </message>
+    <message>
+        <source>Auto-resize text input field</source>
+        <translation>Автоматически изменять размер поля ввода</translation>
+    </message>
+    <message>
+        <source>Enable Spell Checking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Available spellcheck dictionaries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No dictionaries found</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptMsgCommon</name>
+    <message>
+        <source>Form</source>
+        <translation>Форма</translation>
+    </message>
+    <message>
+        <source>Use tabbed mode:</source>
+        <translation>Использовать режим вкладок:</translation>
+    </message>
+    <message>
+        <source>for chats only</source>
+        <translation>только для чатов</translation>
+    </message>
+    <message>
+        <source>for mucs only</source>
+        <translation>только для конференций</translation>
+    </message>
+    <message>
+        <source>for chats and mucs separately</source>
+        <translation>для чатов и конференций</translation>
+    </message>
+    <message>
+        <source>for mucs and chats in one window</source>
+        <translation>для чатов и конференций в одном окне</translation>
+    </message>
+    <message>
+        <source>for mucs, chats and roster in one window</source>
+        <translation>всё в одном окне</translation>
+    </message>
+    <message>
+        <source>[customized]</source>
+        <translation>[Произвольно]</translation>
+    </message>
+    <message>
+        <source>Show tab buttons</source>
+        <translation>Показывать дополнительные кнопки вкладок</translation>
+    </message>
+    <message>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation>Использовать горячие клавиши Alt-[0-9] для навигации по вкладкам</translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation>Показывать превью для ссылок</translation>
+    </message>
+    <message>
+        <source>Use contacts&apos; message formatting</source>
+        <translation>Использовать формат текста отправителя</translation>
+    </message>
+    <message>
+        <source>Show character counter</source>
+        <translation>Показывать счётчик символов</translation>
+    </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation>Первую букву в предложении делать заглавной</translation>
+    </message>
+</context>
+<context>
     <name>OptPlugins</name>
     <message>
         <source>OptPluginsUI</source>
@@ -10151,6 +10233,63 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Select the system iconset</source>
         <translation>Выбрать системный набор иконок</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabInput</name>
+    <message>
+        <source>Input</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check this option if you want your spelling to be checked</source>
+        <translation>Включить проверку орфографии набираемого вами текста</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMessages</name>
+    <message>
+        <source>Messages</source>
+        <translation>Сообщения</translation>
+    </message>
+    <message>
+        <source>Messages options</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMsgCommon</name>
+    <message>
+        <source>Common</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Сommon options for messages section</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Makes Psi open chats in a tabbed window.</source>
+        <translation>Открывать по умолчанию чаты в режиме вкладок.</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation>Показывать по ссылкам превью медиаконтента. Также можно воспроизводить аудио и видео прямо в чате.</translation>
+    </message>
+    <message>
+        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
+        <translation>Показывает счётчик длины сообщений. Включите, если хотите знать длину своего сообщения - это может быть полезно при использовании транспорта SMS.</translation>
+    </message>
+    <message>
+        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
+        <translation>Отображать поступающие сообщения отформатированными в стиле, указанном отправителем</translation>
+    </message>
+    <message>
+        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

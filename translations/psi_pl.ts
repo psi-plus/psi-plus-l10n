@@ -8415,6 +8415,88 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     </message>
 </context>
 <context>
+    <name>OptInput</name>
+    <message>
+        <source>Form</source>
+        <translation>Formularz</translation>
+    </message>
+    <message>
+        <source>Auto-resize text input field</source>
+        <translation>Okna edycji dopasuje się do ilości tekstu</translation>
+    </message>
+    <message>
+        <source>Enable Spell Checking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Available spellcheck dictionaries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No dictionaries found</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptMsgCommon</name>
+    <message>
+        <source>Form</source>
+        <translation>Formularz</translation>
+    </message>
+    <message>
+        <source>Use tabbed mode:</source>
+        <translation>Włącz tryb z wieloma kartami rozmów w jednym oknie:</translation>
+    </message>
+    <message>
+        <source>for chats only</source>
+        <translation>tylko dla rozmów</translation>
+    </message>
+    <message>
+        <source>for mucs only</source>
+        <translation>tylko dla konferencji</translation>
+    </message>
+    <message>
+        <source>for chats and mucs separately</source>
+        <translation>dla rozmów i konferencji oddzielnie</translation>
+    </message>
+    <message>
+        <source>for mucs and chats in one window</source>
+        <translation>dla rozmów i konferencji razem</translation>
+    </message>
+    <message>
+        <source>for mucs, chats and roster in one window</source>
+        <translation>Przy rozmowach grupowych, lista kontaktów i rozmowy w jednym oknie</translation>
+    </message>
+    <message>
+        <source>[customized]</source>
+        <translation>[dostosowane]</translation>
+    </message>
+    <message>
+        <source>Show tab buttons</source>
+        <translation>Pokaż karty</translation>
+    </message>
+    <message>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use contacts&apos; message formatting</source>
+        <translation>Używaj tego samego stylu formatowania co kontakt</translation>
+    </message>
+    <message>
+        <source>Show character counter</source>
+        <translation>Pokazuj licznik znaków</translation>
+    </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation>Automatyczna duża pierwsza litera</translation>
+    </message>
+</context>
+<context>
     <name>OptPlugins</name>
     <message>
         <source>OptPluginsUI</source>
@@ -10076,6 +10158,63 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     <message>
         <source>Select the system iconset</source>
         <translation>Wybór zestawu ikon używanych w menu i innych oknach programu</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabInput</name>
+    <message>
+        <source>Input</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check this option if you want your spelling to be checked</source>
+        <translation>Zaznacz tę opcję jeśli chcesz sprawdzać pisownię tekstów</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMessages</name>
+    <message>
+        <source>Messages</source>
+        <translation>Wiadomości</translation>
+    </message>
+    <message>
+        <source>Messages options</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMsgCommon</name>
+    <message>
+        <source>Common</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Сommon options for messages section</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Makes Psi open chats in a tabbed window.</source>
+        <translation>Powoduje, że Psi będzie otwierać nowe rozmowy na kartach jednego okna rozmowy.</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
+        <translation>Powoduje, że Psi pokazuje licznik długości wiadomości. Zaznacz tę opcję, jeżeli chcesz na bieżąco śledzić długość wpisywanej wiadomości. Może to być użyteczne jeżeli korzystasz z transportu SMS.</translation>
+    </message>
+    <message>
+        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
+        <translation>Jeśli włączone, Psi będzie wyświetlać przychodzące wiadomości sformatowane w stylu zdefiniowanym przez kontakt</translation>
+    </message>
+    <message>
+        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -8364,6 +8364,88 @@ Tags: %1</source>
     </message>
 </context>
 <context>
+    <name>OptInput</name>
+    <message>
+        <source>Form</source>
+        <translation>フォーム</translation>
+    </message>
+    <message>
+        <source>Auto-resize text input field</source>
+        <translation>テキスト入力項目を自動調整</translation>
+    </message>
+    <message>
+        <source>Enable Spell Checking</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Available spellcheck dictionaries</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No dictionaries found</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>OptMsgCommon</name>
+    <message>
+        <source>Form</source>
+        <translation>フォーム</translation>
+    </message>
+    <message>
+        <source>Use tabbed mode:</source>
+        <translation>タブモードを使用する:</translation>
+    </message>
+    <message>
+        <source>for chats only</source>
+        <translation>チャットのみ</translation>
+    </message>
+    <message>
+        <source>for mucs only</source>
+        <translation>グループチャットのみ</translation>
+    </message>
+    <message>
+        <source>for chats and mucs separately</source>
+        <translation>チャットとグループチャットを分ける</translation>
+    </message>
+    <message>
+        <source>for mucs and chats in one window</source>
+        <translation>チャットとグループチャットを一つのウィンドウに</translation>
+    </message>
+    <message>
+        <source>for mucs, chats and roster in one window</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>[customized]</source>
+        <translation>[カスタマイズ]</translation>
+    </message>
+    <message>
+        <source>Show tab buttons</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation>Alt-[0-9] によるタブショートカットを有効にする</translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use contacts&apos; message formatting</source>
+        <translation>コンタクトのメッセージ整形を使用</translation>
+    </message>
+    <message>
+        <source>Show character counter</source>
+        <translation>文字数を表示</translation>
+    </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>OptPlugins</name>
     <message>
         <source>OptPluginsUI</source>
@@ -10024,6 +10106,63 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Select the system iconset</source>
         <translation>システムアイコン集を選択してください</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabInput</name>
+    <message>
+        <source>Input</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Input options</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Check this option if you want your spelling to be checked</source>
+        <translation>ペルチェックを行いたい場合このオプションを有効にします</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMessages</name>
+    <message>
+        <source>Messages</source>
+        <translation>メッセージ</translation>
+    </message>
+    <message>
+        <source>Messages options</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMsgCommon</name>
+    <message>
+        <source>Common</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Сommon options for messages section</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Makes Psi open chats in a tabbed window.</source>
+        <translation>Psiはチャットウィンドウをタブモードで開きます。</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
+        <translation>Psiはメッセージの長さをカウントします。メッセージがどれくらいの長さか知りたい場合はチェックしてください。これはSMSトランスポートを使用する場合に便利です。</translation>
+    </message>
+    <message>
+        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
+        <translation>有効にした場合、コンタクトが指定したスタイルで受信メッセージを整形して表示します</translation>
+    </message>
+    <message>
+        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

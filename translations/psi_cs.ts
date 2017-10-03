@@ -8435,6 +8435,88 @@ Tagy: %1</translation>
     </message>
 </context>
 <context>
+    <name>OptInput</name>
+    <message>
+        <source>Form</source>
+        <translation>Formulář</translation>
+    </message>
+    <message>
+        <source>Auto-resize text input field</source>
+        <translation>Automaticky měnit velikost vstupního pole</translation>
+    </message>
+    <message>
+        <source>Enable Spell Checking</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Available spellcheck dictionaries</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No dictionaries found</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>OptMsgCommon</name>
+    <message>
+        <source>Form</source>
+        <translation>Formulář</translation>
+    </message>
+    <message>
+        <source>Use tabbed mode:</source>
+        <translation>Použij režim záložek:</translation>
+    </message>
+    <message>
+        <source>for chats only</source>
+        <translation>pouze pro chat</translation>
+    </message>
+    <message>
+        <source>for mucs only</source>
+        <translation>pouze pro multi chat</translation>
+    </message>
+    <message>
+        <source>for chats and mucs separately</source>
+        <translation>odděleně pro chat a multi chat</translation>
+    </message>
+    <message>
+        <source>for mucs and chats in one window</source>
+        <translation>pro chat a multi chat v jednom okně</translation>
+    </message>
+    <message>
+        <source>for mucs, chats and roster in one window</source>
+        <translation>pro chat, chat více lidí a seznam kontaktů v jednom okně</translation>
+    </message>
+    <message>
+        <source>[customized]</source>
+        <translation>[přizpůsobený]</translation>
+    </message>
+    <message>
+        <source>Show tab buttons</source>
+        <translation>Zobrazit tlačítka záložek</translation>
+    </message>
+    <message>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation>Povolit Alt-[0-9] zkratky pro záložky</translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use contacts&apos; message formatting</source>
+        <translation>Používat formátování nastavené kontaktem</translation>
+    </message>
+    <message>
+        <source>Show character counter</source>
+        <translation>Zobrazit počítadlo znaků</translation>
+    </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation>Automaticky psát velké písmeno na začátku věty</translation>
+    </message>
+</context>
+<context>
     <name>OptPlugins</name>
     <message>
         <source>OptPluginsUI</source>
@@ -10115,6 +10197,63 @@ zprávy v chatu víde lidí)</translation>
     <message>
         <source>Select the system iconset</source>
         <translation>Vyber systémové ikony</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabInput</name>
+    <message>
+        <source>Input</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Input options</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Check this option if you want your spelling to be checked</source>
+        <translation>Vyber tuto volbu, pokud chceš používat kontrolu pravopisu</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMessages</name>
+    <message>
+        <source>Messages</source>
+        <translation>Zprávy</translation>
+    </message>
+    <message>
+        <source>Messages options</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMsgCommon</name>
+    <message>
+        <source>Common</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Сommon options for messages section</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Makes Psi open chats in a tabbed window.</source>
+        <translation>Zajistí, že se nová okna chatu budou zobrazovat jako panely.</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
+        <translation>Zobrazování počítadla znaků při psaní zprávy. Zapni tuto volbu, pokud chceš vědět délku zprávy. Může se to hodit při psaní do SMS transportu.</translation>
+    </message>
+    <message>
+        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
+        <translation>Po zapnutí této volby bude Psi zobrazovat příchozí zprávy naformátované odesílatelem</translation>
+    </message>
+    <message>
+        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

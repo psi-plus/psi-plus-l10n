@@ -8462,6 +8462,88 @@ Címkék: %1</translation>
     </message>
 </context>
 <context>
+    <name>OptInput</name>
+    <message>
+        <source>Form</source>
+        <translation>Űrlap</translation>
+    </message>
+    <message>
+        <source>Auto-resize text input field</source>
+        <translation>Beviteli mező automatikus átméretezése</translation>
+    </message>
+    <message>
+        <source>Enable Spell Checking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Available spellcheck dictionaries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No dictionaries found</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptMsgCommon</name>
+    <message>
+        <source>Form</source>
+        <translation>Űrlap</translation>
+    </message>
+    <message>
+        <source>Use tabbed mode:</source>
+        <translation>Fülek használata:</translation>
+    </message>
+    <message>
+        <source>for chats only</source>
+        <translation>csak beszélgetésekhez</translation>
+    </message>
+    <message>
+        <source>for mucs only</source>
+        <translation>csak konferenciákhoz</translation>
+    </message>
+    <message>
+        <source>for chats and mucs separately</source>
+        <translation>beszélgetésekhez és konferenciákhoz külön</translation>
+    </message>
+    <message>
+        <source>for mucs and chats in one window</source>
+        <translation>konferenciákhoz és beszélgetésekhez egy ablakban</translation>
+    </message>
+    <message>
+        <source>for mucs, chats and roster in one window</source>
+        <translation>konferenciáknál, beszélgetéseknél és címlistánál egy ablakban</translation>
+    </message>
+    <message>
+        <source>[customized]</source>
+        <translation>[egyéni]</translation>
+    </message>
+    <message>
+        <source>Show tab buttons</source>
+        <translation>Lapok gombjainak megjelenítése</translation>
+    </message>
+    <message>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation>Lap-gyorsbillentyűk engedélyezése, Alt+[0-9] </translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use contacts&apos; message formatting</source>
+        <translation>Az ismerős üzenetformázásának használata</translation>
+    </message>
+    <message>
+        <source>Show character counter</source>
+        <translation>Karakterszámláló megjelenítése</translation>
+    </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation>Automatikusan nagy kezdőbetű a mondat eleje</translation>
+    </message>
+</context>
+<context>
     <name>OptPlugins</name>
     <message>
         <source>OptPluginsUI</source>
@@ -10139,6 +10221,63 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     <message>
         <source>Select the system iconset</source>
         <translation>Válaszd ki a rendszered ikonkészletét</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabInput</name>
+    <message>
+        <source>Input</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Input options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check this option if you want your spelling to be checked</source>
+        <translation>Helyesírás-ellenőrzés engedélyezése</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMessages</name>
+    <message>
+        <source>Messages</source>
+        <translation>Üzenetek</translation>
+    </message>
+    <message>
+        <source>Messages options</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMsgCommon</name>
+    <message>
+        <source>Common</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Сommon options for messages section</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Makes Psi open chats in a tabbed window.</source>
+        <translation>Beszélgetések megnyitása füleken, egy ablakban.</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
+        <translation>Üzenethossz-számláló. Kapcsold be, ha tudni akarod, hogy milyen hosszú az üzeneted. SMS-nél hasznos lehet.</translation>
+    </message>
+    <message>
+        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
+        <translation>Bejövő üzenetek megjelenítése az ismerős stílus-beállítása szerint</translation>
+    </message>
+    <message>
+        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

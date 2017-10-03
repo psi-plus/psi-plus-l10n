@@ -8476,6 +8476,88 @@ Argomento MUC per esempio.</translation>
     </message>
 </context>
 <context>
+    <name>OptInput</name>
+    <message>
+        <source>Form</source>
+        <translation>Modulo</translation>
+    </message>
+    <message>
+        <source>Auto-resize text input field</source>
+        <translation>Dimensiona automaticamente il campo di input per il testo</translation>
+    </message>
+    <message>
+        <source>Enable Spell Checking</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Available spellcheck dictionaries</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No dictionaries found</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>OptMsgCommon</name>
+    <message>
+        <source>Form</source>
+        <translation>Modulo</translation>
+    </message>
+    <message>
+        <source>Use tabbed mode:</source>
+        <translation>Usa modalità a tab:</translation>
+    </message>
+    <message>
+        <source>for chats only</source>
+        <translation>solo per le chat</translation>
+    </message>
+    <message>
+        <source>for mucs only</source>
+        <translation>solo per Chat Multi Utente</translation>
+    </message>
+    <message>
+        <source>for chats and mucs separately</source>
+        <translation>per chat e MUC speratamente</translation>
+    </message>
+    <message>
+        <source>for mucs and chats in one window</source>
+        <translation>per MUC e chat in una finestra</translation>
+    </message>
+    <message>
+        <source>for mucs, chats and roster in one window</source>
+        <translation>Per MUC, chat e lista contatto in una finestra</translation>
+    </message>
+    <message>
+        <source>[customized]</source>
+        <translation>[personalizzato]</translation>
+    </message>
+    <message>
+        <source>Show tab buttons</source>
+        <translation>Mostra pulsanti schede</translation>
+    </message>
+    <message>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation>Abilita scorciatoie schede Alt-[0-9]</translation>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation>Mostra anteprima per collegamenti</translation>
+    </message>
+    <message>
+        <source>Use contacts&apos; message formatting</source>
+        <translation>Usa la formattazione dei messaggi dei contatti</translation>
+    </message>
+    <message>
+        <source>Show character counter</source>
+        <translation>Mostra il contatore dei caratteri</translation>
+    </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation>Capitalizzare automaticamente la prima lettera di una frase</translation>
+    </message>
+</context>
+<context>
     <name>OptPlugins</name>
     <message>
         <source>OptPluginsUI</source>
@@ -10151,6 +10233,63 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     <message>
         <source>Select the system iconset</source>
         <translation>Seleziona il set di icone di sistema</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabInput</name>
+    <message>
+        <source>Input</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Input options</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Check this option if you want your spelling to be checked</source>
+        <translation>Spunta questa opzione se vuoi che la tua ortografia sia controllata</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMessages</name>
+    <message>
+        <source>Messages</source>
+        <translation>Messaggi</translation>
+    </message>
+    <message>
+        <source>Messages options</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMsgCommon</name>
+    <message>
+        <source>Common</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Сommon options for messages section</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Makes Psi open chats in a tabbed window.</source>
+        <translation>Fa aprire a Psi le chat in finestre in modalità &quot;a schede&quot;.</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
+        <translation>Lascia che Psi mostri il contatore di lunghezza del messaggio. Metti la spunta se vuoi sapere quanto è lungo il tuo messaggio, Può essere utile sei si sta utilizzando un trasporto SMS.</translation>
+    </message>
+    <message>
+        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
+        <translation>Se abilitata, Psi mostrera i messaggi in arrivo formattati nello stile specificato dal contatto</translation>
+    </message>
+    <message>
+        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

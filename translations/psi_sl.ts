@@ -8362,6 +8362,88 @@ Tags: %1</source>
     </message>
 </context>
 <context>
+    <name>OptInput</name>
+    <message>
+        <source>Form</source>
+        <translation>Obrazec</translation>
+    </message>
+    <message>
+        <source>Auto-resize text input field</source>
+        <translation>Samodejno spremeni velikost polja za vnos besedila</translation>
+    </message>
+    <message>
+        <source>Enable Spell Checking</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Available spellcheck dictionaries</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>No dictionaries found</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>OptMsgCommon</name>
+    <message>
+        <source>Form</source>
+        <translation>Obrazec</translation>
+    </message>
+    <message>
+        <source>Use tabbed mode:</source>
+        <translation>Uporabi način z zavihki:</translation>
+    </message>
+    <message>
+        <source>for chats only</source>
+        <translation>samo za klepete</translation>
+    </message>
+    <message>
+        <source>for mucs only</source>
+        <translation>samo za skupinske klepete</translation>
+    </message>
+    <message>
+        <source>for chats and mucs separately</source>
+        <translation>ločeno za skupinske in navadne klepete</translation>
+    </message>
+    <message>
+        <source>for mucs and chats in one window</source>
+        <translation>za skupinske in navadne klepete v enem oknu</translation>
+    </message>
+    <message>
+        <source>for mucs, chats and roster in one window</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>[customized]</source>
+        <translation>[po meri]</translation>
+    </message>
+    <message>
+        <source>Show tab buttons</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Show previews for links</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use contacts&apos; message formatting</source>
+        <translation>Uporabi sogovornikovo oblikovanje sporočila</translation>
+    </message>
+    <message>
+        <source>Show character counter</source>
+        <translation>Prikaži števec znakov</translation>
+    </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>OptPlugins</name>
     <message>
         <source>OptPluginsUI</source>
@@ -10022,6 +10104,63 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Select the system iconset</source>
         <translation>Izbor zbirke ikon za sistem</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabInput</name>
+    <message>
+        <source>Input</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Input options</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Check this option if you want your spelling to be checked</source>
+        <translation>Omogočite to možnost, če želite preverjanje črkovanja</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMessages</name>
+    <message>
+        <source>Messages</source>
+        <translation>Sporočila</translation>
+    </message>
+    <message>
+        <source>Messages options</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>OptionsTabMsgCommon</name>
+    <message>
+        <source>Common</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Сommon options for messages section</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Makes Psi open chats in a tabbed window.</source>
+        <translation>Povzroči, da Psi klepete odpre v zavihkih.</translation>
+    </message>
+    <message>
+        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
+        <translation>Psi prikazuje števec dolžine sporočila. Omogočite, če želite vedeti dolžino sporočila. Uporabno pri uporabi prenosa za SMS.</translation>
+    </message>
+    <message>
+        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
+        <translation>Če je omogočeno, bo Psi prejeta sporočila prikazoval z oblikovanjem, kot ga je določil stik</translation>
+    </message>
+    <message>
+        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
