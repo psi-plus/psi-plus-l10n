@@ -7772,14 +7772,6 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Check spelling</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use contacts&apos; message formatting</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Single-click triggers default action</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7797,10 +7789,6 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show subject line in events</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show character counter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8142,46 +8130,6 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Use tabbed mode:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>for chats only</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>for mucs only</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>for chats and mucs separately</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>for mucs and chats in one window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>for mucs, chats and roster in one window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>[customized]</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show tab buttons</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Auto-resize text input field</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Default action</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8200,10 +8148,6 @@ Tags: %1</source>
     <message>
         <source>Never</source>
         <translation type="vanished">Neniam</translation>
-    </message>
-    <message>
-        <source>Show previews for links</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Message</source>
@@ -8308,10 +8252,6 @@ Tags: %1</source>
 <context>
     <name>OptInput</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Auto-resize text input field</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8325,6 +8265,10 @@ Tags: %1</source>
     </message>
     <message>
         <source>No dictionaries found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OptInputUI</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9581,11 +9525,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Check this option if you want your spelling to be checked</source>
-        <translation>Ŝaltu tiun opcion se vi volas, ke via ortografio estas kontrolata</translation>
+        <translation type="vanished">Ŝaltu tiun opcion se vi volas, ke via ortografio estas kontrolata</translation>
     </message>
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation>Se ŝaltita, Psi montros la enirantajn mesaĝojn per la formato, kiun difinis la kontakto</translation>
+        <translation type="vanished">Se ŝaltita, Psi montros la enirantajn mesaĝojn per la formato, kiun difinis la kontakto</translation>
     </message>
     <message>
         <source>Check this option if you want the selected text in incoming messages and chat log to be automatically copied to clipboard</source>
@@ -9613,7 +9557,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation>Psio montru kalkulilon de longeco de mesaĝo. Elektu tion ĉi se vivolas scii kiom longas vian mesaĝon. Tio ĉi eble utilas, se vi uzas SMSan transporton.</translation>
+        <translation type="vanished">Psio montru kalkulilon de longeco de mesaĝo. Elektu tion ĉi se vivolas scii kiom longas vian mesaĝon. Tio ĉi eble utilas, se vi uzas SMSan transporton.</translation>
     </message>
     <message>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
@@ -9857,7 +9801,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi open chats in a tabbed window.</source>
-        <translation>Malfermigi Psi babilajn fenestrojn en langeta fenestro.</translation>
+        <translation type="vanished">Malfermigi Psi babilajn fenestrojn en langeta fenestro.</translation>
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
@@ -9878,10 +9822,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation>&lt;P&gt;Tiu ĉi opcio konservos la babilan historion eterne.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

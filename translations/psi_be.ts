@@ -7899,11 +7899,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Check spelling</source>
-        <translation>Спраўджваць правапіс</translation>
+        <translation type="vanished">Спраўджваць правапіс</translation>
     </message>
     <message>
         <source>Use contacts&apos; message formatting</source>
-        <translation>Аздабленьне вызначае суразмоўца</translation>
+        <translation type="vanished">Аздабленьне вызначае суразмоўца</translation>
     </message>
     <message>
         <source>Single-click triggers default action</source>
@@ -7927,7 +7927,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show character counter</source>
-        <translation>Паказваць лічыльнік знакаў</translation>
+        <translation type="vanished">Паказваць лічыльнік знакаў</translation>
     </message>
     <message>
         <source>Automatically get vCard when becoming online</source>
@@ -8269,43 +8269,39 @@ Tags: %1</source>
     </message>
     <message>
         <source>Use tabbed mode:</source>
-        <translation>Паказваць карткамі:</translation>
+        <translation type="vanished">Паказваць карткамі:</translation>
     </message>
     <message>
         <source>for chats only</source>
-        <translation>толькі гутаркі</translation>
+        <translation type="vanished">толькі гутаркі</translation>
     </message>
     <message>
         <source>for mucs only</source>
-        <translation>толькі нарады</translation>
+        <translation type="vanished">толькі нарады</translation>
     </message>
     <message>
         <source>for chats and mucs separately</source>
-        <translation>асобна гутаркі й асобна нарады</translation>
+        <translation type="vanished">асобна гутаркі й асобна нарады</translation>
     </message>
     <message>
         <source>for mucs and chats in one window</source>
-        <translation>у адным вакне разам гутаркі ды нарады</translation>
+        <translation type="vanished">у адным вакне разам гутаркі ды нарады</translation>
     </message>
     <message>
         <source>for mucs, chats and roster in one window</source>
-        <translation>у адным вакне нарады, гутаркі ды сьпіс</translation>
+        <translation type="vanished">у адным вакне нарады, гутаркі ды сьпіс</translation>
     </message>
     <message>
         <source>[customized]</source>
-        <translation>[выбарачна]</translation>
+        <translation type="vanished">[выбарачна]</translation>
     </message>
     <message>
         <source>Show tab buttons</source>
-        <translation>Паказваць кнопкі картак</translation>
+        <translation type="vanished">Паказваць кнопкі картак</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
-        <translation>Зьмяняць памеры поля ўводу самарушна</translation>
-    </message>
-    <message>
-        <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Зьмяняць памеры поля ўводу самарушна</translation>
     </message>
     <message>
         <source>Default action</source>
@@ -8338,10 +8334,6 @@ Tags: %1</source>
     <message>
         <source>Never</source>
         <translation type="vanished">Ніколі</translation>
-    </message>
-    <message>
-        <source>Show previews for links</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Message</source>
@@ -8447,7 +8439,7 @@ Tags: %1</source>
     <name>OptInput</name>
     <message>
         <source>Form</source>
-        <translation>Form</translation>
+        <translation type="vanished">Form</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -8463,6 +8455,10 @@ Tags: %1</source>
     </message>
     <message>
         <source>No dictionaries found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OptInputUI</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9736,11 +9732,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Check this option if you want your spelling to be checked</source>
-        <translation>Абярыце гэта, калі жадаеце спраўджваць правапіс</translation>
+        <translation type="vanished">Абярыце гэта, калі жадаеце спраўджваць правапіс</translation>
     </message>
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation>Калі абраць гэта, паведамленьні будуць аздабляцца так, як гэта вызначыў суразмоўца</translation>
+        <translation type="vanished">Калі абраць гэта, паведамленьні будуць аздабляцца так, як гэта вызначыў суразмоўца</translation>
     </message>
     <message>
         <source>Check this option if you want the selected text in incoming messages and chat log to be automatically copied to clipboard</source>
@@ -9768,7 +9764,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation>«Псі» будзе падлічваць даўжыню паведамленьня. Калі жадаеце ведаць, як шмат вы набралі, абярыце гэта. Можа быць зручным, калі ўжываецца транспарт у SMS.</translation>
+        <translation type="vanished">«Псі» будзе падлічваць даўжыню паведамленьня. Калі жадаеце ведаць, як шмат вы набралі, абярыце гэта. Можа быць зручным, калі ўжываецца транспарт у SMS.</translation>
     </message>
     <message>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
@@ -10012,7 +10008,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi open chats in a tabbed window.</source>
-        <translation>Гутаркі будуць адчыняцца ў картках.</translation>
+        <translation type="vanished">Гутаркі будуць адчыняцца ў картках.</translation>
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
@@ -10033,10 +10029,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation>&lt;P&gt;Абярыце гэта, каб &lt;b&gt;заўжды&lt;/b&gt; трымаць у памяці апошнія паведамленьні.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

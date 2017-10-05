@@ -7883,11 +7883,11 @@ Kartice: %1</translation>
     </message>
     <message>
         <source>Check spelling</source>
-        <translation>Provera pravopisa</translation>
+        <translation type="vanished">Provera pravopisa</translation>
     </message>
     <message>
         <source>Use contacts&apos; message formatting</source>
-        <translation>Koristi formatiranje kontakt poruka</translation>
+        <translation type="vanished">Koristi formatiranje kontakt poruka</translation>
     </message>
     <message>
         <source>Single-click triggers default action</source>
@@ -7911,7 +7911,7 @@ Kartice: %1</translation>
     </message>
     <message>
         <source>Show character counter</source>
-        <translation>Prikaži brojač znakova</translation>
+        <translation type="vanished">Prikaži brojač znakova</translation>
     </message>
     <message>
         <source>Automatically get vCard when becoming online</source>
@@ -8253,43 +8253,43 @@ Kartice: %1</translation>
     </message>
     <message>
         <source>Use tabbed mode:</source>
-        <translation>Koristi tabovani mod:</translation>
+        <translation type="vanished">Koristi tabovani mod:</translation>
     </message>
     <message>
         <source>for chats only</source>
-        <translation>za razgovor samo</translation>
+        <translation type="vanished">za razgovor samo</translation>
     </message>
     <message>
         <source>for mucs only</source>
-        <translation>za mucs samo</translation>
+        <translation type="vanished">za mucs samo</translation>
     </message>
     <message>
         <source>for chats and mucs separately</source>
-        <translation>za razgovor i mucs odvojeno</translation>
+        <translation type="vanished">za razgovor i mucs odvojeno</translation>
     </message>
     <message>
         <source>for mucs and chats in one window</source>
-        <translation>za mucs i razgovor u jednom prozoru</translation>
+        <translation type="vanished">za mucs i razgovor u jednom prozoru</translation>
     </message>
     <message>
         <source>for mucs, chats and roster in one window</source>
-        <translation>za mucs, razgovor i spisak u jednom prozoru</translation>
+        <translation type="vanished">za mucs, razgovor i spisak u jednom prozoru</translation>
     </message>
     <message>
         <source>[customized]</source>
-        <translation>[prilagodjeno]</translation>
+        <translation type="vanished">[prilagodjeno]</translation>
     </message>
     <message>
         <source>Show tab buttons</source>
-        <translation>Pokaži dugme kartica</translation>
+        <translation type="vanished">Pokaži dugme kartica</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
-        <translation>Automatska veličina polja za unos teksta</translation>
+        <translation type="vanished">Automatska veličina polja za unos teksta</translation>
     </message>
     <message>
         <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation>Omogući Alt-[0-9] tab prečice</translation>
+        <translation type="vanished">Omogući Alt-[0-9] tab prečice</translation>
     </message>
     <message>
         <source>Default action</source>
@@ -8322,10 +8322,6 @@ Kartice: %1</translation>
     <message>
         <source>Never</source>
         <translation type="vanished">Nikad</translation>
-    </message>
-    <message>
-        <source>Show previews for links</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Message</source>
@@ -8431,7 +8427,7 @@ Kartice: %1</translation>
     <name>OptInput</name>
     <message>
         <source>Form</source>
-        <translation>Forma</translation>
+        <translation type="vanished">Forma</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -8447,6 +8443,10 @@ Kartice: %1</translation>
     </message>
     <message>
         <source>No dictionaries found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OptInputUI</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9704,12 +9704,8 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Omogući udaljenu kontrolu tvog klijenta sa drugih lokacija</translation>
     </message>
     <message>
-        <source>Check this option if you want your spelling to be checked</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation>Ako je omogućeno, Psi će prikazivati dolazne poruke oblikovane kako je odredio kontakt</translation>
+        <translation type="vanished">Ako je omogućeno, Psi će prikazivati dolazne poruke oblikovane kako je odredio kontakt</translation>
     </message>
     <message>
         <source>Check this option if you want the selected text in incoming messages and chat log to be automatically copied to clipboard</source>
@@ -9737,7 +9733,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation>Ovime Psi prikazuje brojač dužine poruke. Omogućite ovu opciju ako želite da znate dužinu vaše poruke. Može biti vrlo korisno kada koristite SMS prenos.</translation>
+        <translation type="vanished">Ovime Psi prikazuje brojač dužine poruke. Omogućite ovu opciju ako želite da znate dužinu vaše poruke. Može biti vrlo korisno kada koristite SMS prenos.</translation>
     </message>
     <message>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
@@ -9981,7 +9977,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi open chats in a tabbed window.</source>
-        <translation>Psi će otvarati razgovore u jednom prozoru sa tabovima.</translation>
+        <translation type="vanished">Psi će otvarati razgovore u jednom prozoru sa tabovima.</translation>
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
@@ -10002,10 +9998,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation>&lt;p&gt;Ovom opcijom se trajno čuva dnevnik razgovora .&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

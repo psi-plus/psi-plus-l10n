@@ -7930,11 +7930,11 @@ Tags: %1</translation>
     </message>
     <message>
         <source>Check spelling</source>
-        <translation>Check spelling</translation>
+        <translation type="vanished">Check spelling</translation>
     </message>
     <message>
         <source>Use contacts&apos; message formatting</source>
-        <translation>Use contacts&apos; message formatting</translation>
+        <translation type="vanished">Use contacts&apos; message formatting</translation>
     </message>
     <message>
         <source>Single-click triggers default action</source>
@@ -7958,7 +7958,7 @@ Tags: %1</translation>
     </message>
     <message>
         <source>Show character counter</source>
-        <translation>Show character counter</translation>
+        <translation type="vanished">Show character counter</translation>
     </message>
     <message>
         <source>Automatically get vCard when becoming online</source>
@@ -8300,43 +8300,43 @@ Tags: %1</translation>
     </message>
     <message>
         <source>Use tabbed mode:</source>
-        <translation>Use tabbed mode:</translation>
+        <translation type="vanished">Use tabbed mode:</translation>
     </message>
     <message>
         <source>for chats only</source>
-        <translation>for chats only</translation>
+        <translation type="vanished">for chats only</translation>
     </message>
     <message>
         <source>for mucs only</source>
-        <translation>for mucs only</translation>
+        <translation type="vanished">for mucs only</translation>
     </message>
     <message>
         <source>for chats and mucs separately</source>
-        <translation>for chats and mucs separately</translation>
+        <translation type="vanished">for chats and mucs separately</translation>
     </message>
     <message>
         <source>for mucs and chats in one window</source>
-        <translation>for mucs and chats in one window</translation>
+        <translation type="vanished">for mucs and chats in one window</translation>
     </message>
     <message>
         <source>for mucs, chats and roster in one window</source>
-        <translation>for mucs, chats and roster in one window</translation>
+        <translation type="vanished">for mucs, chats and roster in one window</translation>
     </message>
     <message>
         <source>[customized]</source>
-        <translation>[customized]</translation>
+        <translation type="vanished">[customized]</translation>
     </message>
     <message>
         <source>Show tab buttons</source>
-        <translation>Show tab buttons</translation>
+        <translation type="vanished">Show tab buttons</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
-        <translation>Auto-resize text input field</translation>
+        <translation type="vanished">Auto-resize text input field</translation>
     </message>
     <message>
         <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation>Enable Alt-[0-9] tab shortcuts</translation>
+        <translation type="vanished">Enable Alt-[0-9] tab shortcuts</translation>
     </message>
     <message>
         <source>Default action</source>
@@ -8372,7 +8372,7 @@ Tags: %1</translation>
     </message>
     <message>
         <source>Show previews for links</source>
-        <translation>Show previews for links</translation>
+        <translation type="vanished">Show previews for links</translation>
     </message>
     <message>
         <source>&amp;Message</source>
@@ -8478,7 +8478,7 @@ Tags: %1</translation>
     <name>OptInput</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation type="obsolete">Form</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -8494,6 +8494,10 @@ Tags: %1</translation>
     </message>
     <message>
         <source>No dictionaries found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OptInputUI</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9767,11 +9771,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Check this option if you want your spelling to be checked</source>
-        <translation>Check this option if you want your spelling to be checked</translation>
+        <translation type="vanished">Check this option if you want your spelling to be checked</translation>
     </message>
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation>If enabled, Psi will display incoming messages formatted in the style specified by the contact</translation>
+        <translation type="vanished">If enabled, Psi will display incoming messages formatted in the style specified by the contact</translation>
     </message>
     <message>
         <source>Check this option if you want the selected text in incoming messages and chat log to be automatically copied to clipboard</source>
@@ -9799,7 +9803,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</translation>
+        <translation type="vanished">Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</translation>
     </message>
     <message>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
@@ -10043,7 +10047,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi open chats in a tabbed window.</source>
-        <translation>Makes Psi open chats in a tabbed window.</translation>
+        <translation type="vanished">Makes Psi open chats in a tabbed window.</translation>
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
@@ -10067,7 +10071,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
-        <translation>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</translation>
+        <translation type="vanished">Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</translation>
     </message>
 </context>
 <context>

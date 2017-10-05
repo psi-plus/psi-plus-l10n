@@ -7784,11 +7784,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Check spelling</source>
-        <translation>ہجے پڑتال کریں</translation>
+        <translation type="vanished">ہجے پڑتال کریں</translation>
     </message>
     <message>
         <source>Use contacts&apos; message formatting</source>
-        <translation>رابطہ پیغام وضع کاری استعمال کریں</translation>
+        <translation type="vanished">رابطہ پیغام وضع کاری استعمال کریں</translation>
     </message>
     <message>
         <source>Single-click triggers default action</source>
@@ -7812,7 +7812,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show character counter</source>
-        <translation>کریکٹر شمارندہ نمائش کریں</translation>
+        <translation type="vanished">کریکٹر شمارندہ نمائش کریں</translation>
     </message>
     <message>
         <source>Automatically get vCard when becoming online</source>
@@ -8154,43 +8154,31 @@ Tags: %1</source>
     </message>
     <message>
         <source>Use tabbed mode:</source>
-        <translation>ٹیب موص استعمال کریں</translation>
+        <translation type="vanished">ٹیب موص استعمال کریں</translation>
     </message>
     <message>
         <source>for chats only</source>
-        <translation>صرف بات چیت کےلیے</translation>
+        <translation type="vanished">صرف بات چیت کےلیے</translation>
     </message>
     <message>
         <source>for mucs only</source>
-        <translation>صرف mucs کےلیے</translation>
+        <translation type="vanished">صرف mucs کےلیے</translation>
     </message>
     <message>
         <source>for chats and mucs separately</source>
-        <translation>بات چیت اور mucs کےلیے، علیحدہ علیحدہ</translation>
+        <translation type="vanished">بات چیت اور mucs کےلیے، علیحدہ علیحدہ</translation>
     </message>
     <message>
         <source>for mucs and chats in one window</source>
-        <translation>ایک دریچے میں بات چیت اور mucs کےلیے۔</translation>
-    </message>
-    <message>
-        <source>for mucs, chats and roster in one window</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">ایک دریچے میں بات چیت اور mucs کےلیے۔</translation>
     </message>
     <message>
         <source>[customized]</source>
-        <translation>(اختصاصی)</translation>
-    </message>
-    <message>
-        <source>Show tab buttons</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">(اختصاصی)</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
-        <translation>متن ان پٹ قطعہ باز سائز کریں</translation>
-    </message>
-    <message>
-        <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">متن ان پٹ قطعہ باز سائز کریں</translation>
     </message>
     <message>
         <source>Default action</source>
@@ -8223,10 +8211,6 @@ Tags: %1</source>
     <message>
         <source>Never</source>
         <translation type="vanished">کبھی نہیں</translation>
-    </message>
-    <message>
-        <source>Show previews for links</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Message</source>
@@ -8332,7 +8316,7 @@ Tags: %1</source>
     <name>OptInput</name>
     <message>
         <source>Form</source>
-        <translation>فارم </translation>
+        <translation type="vanished">فارم </translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -8348,6 +8332,10 @@ Tags: %1</source>
     </message>
     <message>
         <source>No dictionaries found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OptInputUI</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9604,11 +9592,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Check this option if you want your spelling to be checked</source>
-        <translation>اگر آپ چاہتے ہیں کہ آپ کے ہجے پڑتال کیے جائیں تو یہ اختیار با نشان کریں</translation>
+        <translation type="vanished">اگر آپ چاہتے ہیں کہ آپ کے ہجے پڑتال کیے جائیں تو یہ اختیار با نشان کریں</translation>
     </message>
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation>اگر اہل بنایا گیا Psi، آمدہ وضع کردہ پیغامات اس طرز میں دکھائے گا، جو رابطے سے اختصاص کردہ ہیں</translation>
+        <translation type="vanished">اگر اہل بنایا گیا Psi، آمدہ وضع کردہ پیغامات اس طرز میں دکھائے گا، جو رابطے سے اختصاص کردہ ہیں</translation>
     </message>
     <message>
         <source>Check this option if you want the selected text in incoming messages and chat log to be automatically copied to clipboard</source>
@@ -9636,7 +9624,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation>Psi سے شمارندہ لمبائی پیغام نمائش کرواتا ہے۔  اگر آپ جاننا چاہتے ہیں کہ آپ کا پیغام کتنا لمبا ہے تو اسے بانشان کریں۔ جب آپ ایس ایم ایس ٹرانسپورٹ استعمال کریں تو مفید ہو سکتا ہے۔</translation>
+        <translation type="vanished">Psi سے شمارندہ لمبائی پیغام نمائش کرواتا ہے۔  اگر آپ جاننا چاہتے ہیں کہ آپ کا پیغام کتنا لمبا ہے تو اسے بانشان کریں۔ جب آپ ایس ایم ایس ٹرانسپورٹ استعمال کریں تو مفید ہو سکتا ہے۔</translation>
     </message>
     <message>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
@@ -9880,7 +9868,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi open chats in a tabbed window.</source>
-        <translation>‫Psiکھلے بات چیت دریچے جدولی دریچے میں بناتا ہے۔</translation>
+        <translation type="vanished">‫Psiکھلے بات چیت دریچے جدولی دریچے میں بناتا ہے۔</translation>
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
@@ -9901,10 +9889,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation>&lt;P&gt; یہ اختیاربات چیت لاگ ہمیشہ رکھتا ہے۔ &lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

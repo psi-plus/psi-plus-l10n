@@ -7770,14 +7770,6 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Check spelling</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use contacts&apos; message formatting</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Single-click triggers default action</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7795,10 +7787,6 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show subject line in events</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show character counter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8140,46 +8128,6 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Use tabbed mode:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>for chats only</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>for mucs only</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>for chats and mucs separately</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>for mucs and chats in one window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>for mucs, chats and roster in one window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>[customized]</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show tab buttons</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Auto-resize text input field</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Default action</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8198,10 +8146,6 @@ Tags: %1</source>
     <message>
         <source>Never</source>
         <translation type="vanished">Никогаш</translation>
-    </message>
-    <message>
-        <source>Show previews for links</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Message</source>
@@ -8306,10 +8250,6 @@ Tags: %1</source>
 <context>
     <name>OptInput</name>
     <message>
-        <source>Form</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Auto-resize text input field</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8323,6 +8263,10 @@ Tags: %1</source>
     </message>
     <message>
         <source>No dictionaries found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OptInputUI</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9579,11 +9523,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Check this option if you want your spelling to be checked</source>
-        <translation>Изберете ја оваа опција ако сакате проверка на правопис</translation>
+        <translation type="vanished">Изберете ја оваа опција ако сакате проверка на правопис</translation>
     </message>
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation>Ако е овозможено, Psi ќе ги прикажува новите пораки онака како што ги одредил контактот</translation>
+        <translation type="vanished">Ако е овозможено, Psi ќе ги прикажува новите пораки онака како што ги одредил контактот</translation>
     </message>
     <message>
         <source>Check this option if you want the selected text in incoming messages and chat log to be automatically copied to clipboard</source>
@@ -9611,7 +9555,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation>Psi прикажува бројач на должината на пораката. Изберете ја оваа опција ако сакате да знаете колку е долга Вашата порака. Ова може да биде корисно кога користите СМС транспорт.</translation>
+        <translation type="vanished">Psi прикажува бројач на должината на пораката. Изберете ја оваа опција ако сакате да знаете колку е долга Вашата порака. Ова може да биде корисно кога користите СМС транспорт.</translation>
     </message>
     <message>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
@@ -9855,7 +9799,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi open chats in a tabbed window.</source>
-        <translation>Psi ќе отвора разговори прозорец со јазичиња.</translation>
+        <translation type="vanished">Psi ќе отвора разговори прозорец со јазичиња.</translation>
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
@@ -9876,10 +9820,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation>&lt;P&gt;Со оваа опција дневникот се чува засекогаш.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

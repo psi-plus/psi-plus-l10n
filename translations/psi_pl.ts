@@ -7869,11 +7869,11 @@ Etykiety: %1</translation>
     </message>
     <message>
         <source>Check spelling</source>
-        <translation>Sprawdzanie pisowni</translation>
+        <translation type="vanished">Sprawdzanie pisowni</translation>
     </message>
     <message>
         <source>Use contacts&apos; message formatting</source>
-        <translation>Używaj tego samego stylu formatowania co kontakt</translation>
+        <translation type="vanished">Używaj tego samego stylu formatowania co kontakt</translation>
     </message>
     <message>
         <source>Single-click triggers default action</source>
@@ -7897,7 +7897,7 @@ Etykiety: %1</translation>
     </message>
     <message>
         <source>Show character counter</source>
-        <translation>Pokazuj licznik znaków</translation>
+        <translation type="vanished">Pokazuj licznik znaków</translation>
     </message>
     <message>
         <source>Automatically get vCard when becoming online</source>
@@ -8240,43 +8240,39 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     </message>
     <message>
         <source>Use tabbed mode:</source>
-        <translation>Włącz tryb z wieloma kartami rozmów w jednym oknie:</translation>
+        <translation type="vanished">Włącz tryb z wieloma kartami rozmów w jednym oknie:</translation>
     </message>
     <message>
         <source>for chats only</source>
-        <translation>tylko dla rozmów</translation>
+        <translation type="vanished">tylko dla rozmów</translation>
     </message>
     <message>
         <source>for mucs only</source>
-        <translation>tylko dla konferencji</translation>
+        <translation type="vanished">tylko dla konferencji</translation>
     </message>
     <message>
         <source>for chats and mucs separately</source>
-        <translation>dla rozmów i konferencji oddzielnie</translation>
+        <translation type="vanished">dla rozmów i konferencji oddzielnie</translation>
     </message>
     <message>
         <source>for mucs and chats in one window</source>
-        <translation>dla rozmów i konferencji razem</translation>
+        <translation type="vanished">dla rozmów i konferencji razem</translation>
     </message>
     <message>
         <source>for mucs, chats and roster in one window</source>
-        <translation>Przy rozmowach grupowych, lista kontaktów i rozmowy w jednym oknie</translation>
+        <translation type="vanished">Przy rozmowach grupowych, lista kontaktów i rozmowy w jednym oknie</translation>
     </message>
     <message>
         <source>[customized]</source>
-        <translation>[dostosowane]</translation>
+        <translation type="vanished">[dostosowane]</translation>
     </message>
     <message>
         <source>Show tab buttons</source>
-        <translation>Pokaż karty</translation>
+        <translation type="vanished">Pokaż karty</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
-        <translation>Okna edycji dopasuje się do ilości tekstu</translation>
-    </message>
-    <message>
-        <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Okna edycji dopasuje się do ilości tekstu</translation>
     </message>
     <message>
         <source>Default action</source>
@@ -8309,10 +8305,6 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     <message>
         <source>Never</source>
         <translation type="vanished">Nigdy</translation>
-    </message>
-    <message>
-        <source>Show previews for links</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Message</source>
@@ -8418,7 +8410,7 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     <name>OptInput</name>
     <message>
         <source>Form</source>
-        <translation>Formularz</translation>
+        <translation type="vanished">Formularz</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -8434,6 +8426,10 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     </message>
     <message>
         <source>No dictionaries found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OptInputUI</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9691,11 +9687,11 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     </message>
     <message>
         <source>Check this option if you want your spelling to be checked</source>
-        <translation>Zaznacz tę opcję jeśli chcesz sprawdzać pisownię tekstów</translation>
+        <translation type="vanished">Zaznacz tę opcję jeśli chcesz sprawdzać pisownię tekstów</translation>
     </message>
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation>Jeśli włączone, Psi będzie wyświetlać przychodzące wiadomości sformatowane w stylu zdefiniowanym przez kontakt</translation>
+        <translation type="vanished">Jeśli włączone, Psi będzie wyświetlać przychodzące wiadomości sformatowane w stylu zdefiniowanym przez kontakt</translation>
     </message>
     <message>
         <source>Check this option if you want the selected text in incoming messages and chat log to be automatically copied to clipboard</source>
@@ -9723,7 +9719,7 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     </message>
     <message>
         <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation>Powoduje, że Psi pokazuje licznik długości wiadomości. Zaznacz tę opcję, jeżeli chcesz na bieżąco śledzić długość wpisywanej wiadomości. Może to być użyteczne jeżeli korzystasz z transportu SMS.</translation>
+        <translation type="vanished">Powoduje, że Psi pokazuje licznik długości wiadomości. Zaznacz tę opcję, jeżeli chcesz na bieżąco śledzić długość wpisywanej wiadomości. Może to być użyteczne jeżeli korzystasz z transportu SMS.</translation>
     </message>
     <message>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
@@ -9967,7 +9963,7 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     </message>
     <message>
         <source>Makes Psi open chats in a tabbed window.</source>
-        <translation>Powoduje, że Psi będzie otwierać nowe rozmowy na kartach jednego okna rozmowy.</translation>
+        <translation type="vanished">Powoduje, że Psi będzie otwierać nowe rozmowy na kartach jednego okna rozmowy.</translation>
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
@@ -9988,10 +9984,6 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation>&lt;P&gt;Ta opcja powoduje, że historia rozmowy będzie zachowana na stałe.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -7766,11 +7766,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Check spelling</source>
-        <translation>Емлені тексеру</translation>
-    </message>
-    <message>
-        <source>Use contacts&apos; message formatting</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Емлені тексеру</translation>
     </message>
     <message>
         <source>Single-click triggers default action</source>
@@ -7790,10 +7786,6 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show subject line in events</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show character counter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8136,43 +8128,35 @@ Tags: %1</source>
     </message>
     <message>
         <source>Use tabbed mode:</source>
-        <translation>Беттерді қолдану:</translation>
+        <translation type="vanished">Беттерді қолдану:</translation>
     </message>
     <message>
         <source>for chats only</source>
-        <translation>тек чаттар үшін</translation>
+        <translation type="vanished">тек чаттар үшін</translation>
     </message>
     <message>
         <source>for mucs only</source>
-        <translation>тек чат бөлмелері үшін</translation>
+        <translation type="vanished">тек чат бөлмелері үшін</translation>
     </message>
     <message>
         <source>for chats and mucs separately</source>
-        <translation>чаттар мен чат бөлмелері үшін, бөлек</translation>
+        <translation type="vanished">чаттар мен чат бөлмелері үшін, бөлек</translation>
     </message>
     <message>
         <source>for mucs and chats in one window</source>
-        <translation>чаттар мен чат бөлмелері үшін, бір терезеде</translation>
-    </message>
-    <message>
-        <source>for mucs, chats and roster in one window</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">чаттар мен чат бөлмелері үшін, бір терезеде</translation>
     </message>
     <message>
         <source>[customized]</source>
-        <translation>[бапталған]</translation>
-    </message>
-    <message>
-        <source>Show tab buttons</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">[бапталған]</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
-        <translation>Мәтінді енгізу өрісінің өлшемін автоөзгерту</translation>
+        <translation type="vanished">Мәтінді енгізу өрісінің өлшемін автоөзгерту</translation>
     </message>
     <message>
         <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation>Alt-[0-9] беттерге қатынау жарлықтарын іске қосу</translation>
+        <translation type="vanished">Alt-[0-9] беттерге қатынау жарлықтарын іске қосу</translation>
     </message>
     <message>
         <source>Default action</source>
@@ -8205,10 +8189,6 @@ Tags: %1</source>
     <message>
         <source>Never</source>
         <translation type="vanished">Ешқашан</translation>
-    </message>
-    <message>
-        <source>Show previews for links</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Message</source>
@@ -8314,7 +8294,7 @@ Tags: %1</source>
     <name>OptInput</name>
     <message>
         <source>Form</source>
-        <translation>Форма</translation>
+        <translation type="vanished">Форма</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -8330,6 +8310,10 @@ Tags: %1</source>
     </message>
     <message>
         <source>No dictionaries found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OptInputUI</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9583,14 +9567,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Check this option if you want your spelling to be checked</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Check this option if you want the selected text in incoming messages and chat log to be automatically copied to clipboard</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9612,10 +9588,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi show separate subject line in messages. Uncheck this if you want to save some screen space.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9859,10 +9831,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Makes Psi open chats in a tabbed window.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9880,10 +9848,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

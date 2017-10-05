@@ -7917,11 +7917,11 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Check spelling</source>
-        <translation>Helyesírás ellenőrzése</translation>
+        <translation type="vanished">Helyesírás ellenőrzése</translation>
     </message>
     <message>
         <source>Use contacts&apos; message formatting</source>
-        <translation>Az ismerős üzenetformázásának használata</translation>
+        <translation type="vanished">Az ismerős üzenetformázásának használata</translation>
     </message>
     <message>
         <source>Single-click triggers default action</source>
@@ -7945,7 +7945,7 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Show character counter</source>
-        <translation>Karakterszámláló megjelenítése</translation>
+        <translation type="vanished">Karakterszámláló megjelenítése</translation>
     </message>
     <message>
         <source>Automatically get vCard when becoming online</source>
@@ -8287,43 +8287,43 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Use tabbed mode:</source>
-        <translation>Fülek használata:</translation>
+        <translation type="vanished">Fülek használata:</translation>
     </message>
     <message>
         <source>for chats only</source>
-        <translation>csak beszélgetésekhez</translation>
+        <translation type="vanished">csak beszélgetésekhez</translation>
     </message>
     <message>
         <source>for mucs only</source>
-        <translation>csak konferenciákhoz</translation>
+        <translation type="vanished">csak konferenciákhoz</translation>
     </message>
     <message>
         <source>for chats and mucs separately</source>
-        <translation>beszélgetésekhez és konferenciákhoz külön</translation>
+        <translation type="vanished">beszélgetésekhez és konferenciákhoz külön</translation>
     </message>
     <message>
         <source>for mucs and chats in one window</source>
-        <translation>konferenciákhoz és beszélgetésekhez egy ablakban</translation>
+        <translation type="vanished">konferenciákhoz és beszélgetésekhez egy ablakban</translation>
     </message>
     <message>
         <source>for mucs, chats and roster in one window</source>
-        <translation>konferenciáknál, beszélgetéseknél és címlistánál egy ablakban</translation>
+        <translation type="vanished">konferenciáknál, beszélgetéseknél és címlistánál egy ablakban</translation>
     </message>
     <message>
         <source>[customized]</source>
-        <translation>[egyéni]</translation>
+        <translation type="vanished">[egyéni]</translation>
     </message>
     <message>
         <source>Show tab buttons</source>
-        <translation>Lapok gombjainak megjelenítése</translation>
+        <translation type="vanished">Lapok gombjainak megjelenítése</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
-        <translation>Beviteli mező automatikus átméretezése</translation>
+        <translation type="vanished">Beviteli mező automatikus átméretezése</translation>
     </message>
     <message>
         <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation>Lap-gyorsbillentyűk engedélyezése, Alt+[0-9] </translation>
+        <translation type="vanished">Lap-gyorsbillentyűk engedélyezése, Alt+[0-9] </translation>
     </message>
     <message>
         <source>Default action</source>
@@ -8356,10 +8356,6 @@ Címkék: %1</translation>
     <message>
         <source>Never</source>
         <translation type="vanished">Soha</translation>
-    </message>
-    <message>
-        <source>Show previews for links</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Message</source>
@@ -8465,7 +8461,7 @@ Címkék: %1</translation>
     <name>OptInput</name>
     <message>
         <source>Form</source>
-        <translation>Űrlap</translation>
+        <translation type="vanished">Űrlap</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -8481,6 +8477,10 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>No dictionaries found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OptInputUI</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9754,11 +9754,11 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Check this option if you want your spelling to be checked</source>
-        <translation>Helyesírás-ellenőrzés engedélyezése</translation>
+        <translation type="vanished">Helyesírás-ellenőrzés engedélyezése</translation>
     </message>
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation>Bejövő üzenetek megjelenítése az ismerős stílus-beállítása szerint</translation>
+        <translation type="vanished">Bejövő üzenetek megjelenítése az ismerős stílus-beállítása szerint</translation>
     </message>
     <message>
         <source>Check this option if you want the selected text in incoming messages and chat log to be automatically copied to clipboard</source>
@@ -9786,7 +9786,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation>Üzenethossz-számláló. Kapcsold be, ha tudni akarod, hogy milyen hosszú az üzeneted. SMS-nél hasznos lehet.</translation>
+        <translation type="vanished">Üzenethossz-számláló. Kapcsold be, ha tudni akarod, hogy milyen hosszú az üzeneted. SMS-nél hasznos lehet.</translation>
     </message>
     <message>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
@@ -10030,7 +10030,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Makes Psi open chats in a tabbed window.</source>
-        <translation>Beszélgetések megnyitása füleken, egy ablakban.</translation>
+        <translation type="vanished">Beszélgetések megnyitása füleken, egy ablakban.</translation>
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
@@ -10051,10 +10051,6 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation>&lt;P&gt;Ne törölje a naplót.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
