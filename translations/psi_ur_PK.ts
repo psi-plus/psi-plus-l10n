@@ -17500,13 +17500,6 @@ Do you still want to close the window?</source>
     </message>
 </context>
 <context>
-    <name>main</name>
-    <message>
-        <source>The keystore manager provided by QCA takes longer to load than usual. Maybe &lt;i&gt;gpg&lt;/i&gt; hangs.&lt;br&gt;&lt;br&gt;Note that login via TLS and OpenPGP related features require the keystore manager.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>options</name>
     <message>
         <source>Form</source>
