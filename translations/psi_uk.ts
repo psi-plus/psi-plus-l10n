@@ -8503,7 +8503,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>OptInputUI</source>
-        <translation type="unfinished"/>
+        <translation>OptInputUI</translation>
     </message>
 </context>
 <context>
