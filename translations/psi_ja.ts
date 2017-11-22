@@ -223,7 +223,7 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>Original Author</source>
-        <translation type="unfinished"/>
+        <translation>原作者</translation>
     </message>
     <message>
         <source>Lead Developer and Current Maintainer</source>
@@ -571,7 +571,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Enable Stream Management if possible</source>
-        <translation type="unfinished"/>
+        <translation>可能であればストリームマネジメントを有効にする</translation>
     </message>
 </context>
 <context>
@@ -1481,7 +1481,7 @@ The list of exceptions for jids has two operating modes:
     <name>AvatarDelegate</name>
     <message>
         <source>Empty file</source>
-        <translation type="unfinished"/>
+        <translation>空のファイル</translation>
     </message>
 </context>
 <context>
@@ -1575,7 +1575,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Auto-join:</source>
-        <translation type="unfinished"/>
+        <translation>自動参加:</translation>
     </message>
 </context>
 <context>
@@ -1994,7 +1994,7 @@ Do you still want to close the window?</source>
     <name>ChatView</name>
     <message>
         <source>Quote</source>
-        <translation type="unfinished"/>
+        <translation>引用</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
@@ -2032,11 +2032,11 @@ Do you still want to close the window?</source>
     <name>Chess::InvitationDialog</name>
     <message>
         <source>white</source>
-        <translation type="unfinished"/>
+        <translation>白</translation>
     </message>
     <message>
         <source>black</source>
-        <translation type="unfinished"/>
+        <translation>黒</translation>
     </message>
     <message>
         <source>Player %1 invites you 
@@ -2052,11 +2052,11 @@ to play chess. He wants to play %2.</source>
     </message>
     <message>
         <source>Chess Plugin</source>
-        <translation type="unfinished"/>
+        <translation>チェスプラグイン</translation>
     </message>
     <message>
         <source>Chess!</source>
-        <translation type="unfinished"/>
+        <translation>チェス!</translation>
     </message>
     <message>
         <source>You are already playing!</source>
@@ -2118,7 +2118,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>ChessWindow</name>
     <message>
         <source>Chess Board</source>
-        <translation type="unfinished"/>
+        <translation>チェス盤</translation>
     </message>
     <message>
         <source>Moves:</source>
@@ -2418,7 +2418,7 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClientSwitcher::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation type="unfinished"/>
+        <translation>検索:</translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
@@ -2469,7 +2469,7 @@ You can specify the version of the client and OS or to select them from the pres
     <name>ConfLogger::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation type="unfinished"/>
+        <translation>検索:</translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
@@ -5350,7 +5350,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Name: </source>
-        <translation type="unfinished"/>
+        <translation>名前:</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -5358,7 +5358,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Version: </source>
-        <translation type="unfinished"/>
+        <translation>バージョン:</translation>
     </message>
     <message>
         <source>OK</source>
@@ -5466,11 +5466,11 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <name>GomokuGame::InvitationDialog</name>
     <message>
         <source>white</source>
-        <translation type="unfinished"/>
+        <translation>白</translation>
     </message>
     <message>
         <source>black</source>
-        <translation type="unfinished"/>
+        <translation>黒</translation>
     </message>
     <message>
         <source>Player %1 invites you 
@@ -6778,11 +6778,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>white</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">白</translation>
     </message>
     <message>
         <source>black</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">黒</translation>
     </message>
     <message>
         <source>Player %1 invites you 
@@ -11117,7 +11117,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Name: </source>
-        <translation type="unfinished"/>
+        <translation>名前:</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -11125,7 +11125,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Version: </source>
-        <translation type="unfinished"/>
+        <translation>バージョン:</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -11670,7 +11670,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>User:</source>
-        <translation type="unfinished"/>
+        <translation>ユーザー:</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -11917,7 +11917,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Logged out</source>
-        <translation type="unfinished"/>
+        <translation>ログアウト</translation>
     </message>
     <message>
         <source>You must be connected to the server in order to do this.</source>
@@ -16021,7 +16021,7 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     <name>Stopspam::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation type="unfinished"/>
+        <translation>検索:</translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
@@ -16617,7 +16617,7 @@ Note: Some server may disable transport registration to users from different ser
     <name>TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation type="unfinished"/>
+        <translation type="vanished">検索:</translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
@@ -17217,7 +17217,7 @@ Do you still want to close the window?</source>
     <name>WebView</name>
     <message>
         <source>Quote</source>
-        <translation type="unfinished"/>
+        <translation>引用</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
@@ -18012,7 +18012,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished"/>
+        <translation>暗号化</translation>
     </message>
     <message>
         <source>No one else can read your instant messages.</source>
@@ -18020,7 +18020,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="unfinished"/>
+        <translation>認証</translation>
     </message>
     <message>
         <source>You are assured the correspondent is who you think it is.</source>
@@ -18107,7 +18107,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Login:</source>
-        <translation type="unfinished"/>
+        <translation>ログイン:</translation>
     </message>
     <message>
         <source>Password:</source>

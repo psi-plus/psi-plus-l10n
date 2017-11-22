@@ -1357,7 +1357,7 @@ Per funzionare correttamente, il plugin richiede che il client del contatto supp
     </message>
     <message>
         <source>Disable if contact isn&apos;t from your roster</source>
-        <translation>Disabilita se il contatto non è della lista contatti</translation>
+        <translation>Disabilita se il contatto non è nella lista contatti</translation>
     </message>
     <message>
         <source>Online</source>
@@ -3253,7 +3253,7 @@ Procedere?</translation>
     <name>EditItemDlg</name>
     <message>
         <source>Watch For...</source>
-        <translation>Guarda Per...</translation>
+        <translation>Osserva per...</translation>
     </message>
     <message>
         <source>JID*</source>
@@ -3890,7 +3890,7 @@ Questa opzione ha effetto solo se accetta automaticamente è disattivata.</trans
     </message>
     <message>
         <source>Place roster at left in &quot;all-in-one-window&quot; mode</source>
-        <translation>Posiziona la lista contatti a sinistra nella modalità &quot;Tutto-in-una-finestra&quot;</translation>
+        <translation>Posiziona la lista contatti a sinistra nella modalità &quot;finestra singola&quot;</translation>
     </message>
     <message>
         <source>Contact name and status message in a row</source>
@@ -5875,11 +5875,11 @@ Per inviare comandi, basta usare normali messaggi, uindi questo plugin funzioner
     </message>
     <message>
         <source>%1 of %2 matches</source>
-        <translation type="unfinished"/>
+        <translation>%1 di %2 corrispondenti</translation>
     </message>
     <message>
         <source>No matches were found</source>
-        <translation type="unfinished"/>
+        <translation>Nessun riscontro ritrovato</translation>
     </message>
 </context>
 <context>
@@ -6178,7 +6178,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>This plugin allows uploading images and other files via XEP-0363.</source>
-        <translation>Questo plugin permette il caricamento di immagini e altri gile via XEP-0363.</translation>
+        <translation>Questo plugin permette il caricamento di immagini e altri file via XEP-0363.</translation>
     </message>
     <message>
         <source>Error requesting slot</source>
@@ -7389,7 +7389,7 @@ Nota: Per funzionare correttamente, questa opzione options.html.chat.render⇥de
     </message>
     <message>
         <source>Room</source>
-        <translation type="unfinished"/>
+        <translation>Stanza</translation>
     </message>
     <message>
         <source>Password</source>
@@ -7397,11 +7397,11 @@ Nota: Per funzionare correttamente, questa opzione options.html.chat.render⇥de
     </message>
     <message>
         <source>Host</source>
-        <translation type="unfinished"/>
+        <translation>Host</translation>
     </message>
     <message>
         <source>&amp;Favorites</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Preferiti</translation>
     </message>
 </context>
 <context>
@@ -7759,7 +7759,7 @@ Dettagli: %1</translation>
     </message>
     <message>
         <source>Watch for JIDs</source>
-        <translation>Guarda per JID</translation>
+        <translation>Osserva JID</translation>
     </message>
     <message>
         <source>Sounds (if empty default sound will be used)</source>
@@ -8301,7 +8301,7 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Use tabbed mode:</source>
-        <translation type="vanished">Usa modalità a tab:</translation>
+        <translation type="vanished">Usa modalità a schede per:</translation>
     </message>
     <message>
         <source>for chats only</source>
@@ -8309,19 +8309,19 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>for mucs only</source>
-        <translation type="vanished">solo per Chat Multi Utente</translation>
+        <translation type="vanished">solo per Multi User Chat</translation>
     </message>
     <message>
         <source>for chats and mucs separately</source>
-        <translation type="vanished">per chat e MUC speratamente</translation>
+        <translation type="vanished">chat e MUC speratamente</translation>
     </message>
     <message>
         <source>for mucs and chats in one window</source>
-        <translation type="vanished">per MUC e chat in una finestra</translation>
+        <translation type="vanished">MUC e chat in una finestra</translation>
     </message>
     <message>
         <source>for mucs, chats and roster in one window</source>
-        <translation type="vanished">Per MUC, chat e lista contatto in una finestra</translation>
+        <translation type="vanished">tutto in una finestra</translation>
     </message>
     <message>
         <source>[customized]</source>
@@ -8389,11 +8389,11 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>&amp;One hour after chat window was closed</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Un&apos;ora dopo che la finestra di chat è stata chiusa</translation>
     </message>
     <message>
         <source>One &amp;day after chat window was closed</source>
-        <translation type="unfinished"/>
+        <translation>Un &amp;giorno dopo che la finestra di chat è stata chiusa</translation>
     </message>
     <message>
         <source>&amp;Never</source>
@@ -8487,19 +8487,19 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Enable Spell Checking</source>
-        <translation type="unfinished"/>
+        <translation>Abilita Controllo Ortografico</translation>
     </message>
     <message>
         <source>Available spellcheck dictionaries</source>
-        <translation type="unfinished"/>
+        <translation>Dizionari disponibili</translation>
     </message>
     <message>
         <source>No dictionaries found</source>
-        <translation type="unfinished"/>
+        <translation>Nessun dizionario trovato</translation>
     </message>
     <message>
         <source>OptInputUI</source>
-        <translation type="unfinished"/>
+        <translation>OptInputUI</translation>
     </message>
 </context>
 <context>
@@ -8510,7 +8510,7 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Use tabbed mode:</source>
-        <translation>Usa modalità a tab:</translation>
+        <translation>Usa modalità a schede per:</translation>
     </message>
     <message>
         <source>for chats only</source>
@@ -8522,15 +8522,15 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>for chats and mucs separately</source>
-        <translation>per chat e MUC speratamente</translation>
+        <translation>chat e MUC speratamente</translation>
     </message>
     <message>
         <source>for mucs and chats in one window</source>
-        <translation>per MUC e chat in una finestra</translation>
+        <translation>MUC e chat in una finestra</translation>
     </message>
     <message>
         <source>for mucs, chats and roster in one window</source>
-        <translation>Per MUC, chat e lista contatto in una finestra</translation>
+        <translation>tutto in una finestra</translation>
     </message>
     <message>
         <source>[customized]</source>
@@ -9608,7 +9608,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Show Watch for JID button in contact context menu</source>
-        <translation>Mostra il pulsante Guarda per JID nel menu contestuale del contatto</translation>
+        <translation>Mostra il pulsante Osserva JID nel menu contestuale del contatto</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -10070,7 +10070,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Mostra come collegamenti ad alcuni contenuti multimediali un&apos;anteprima del contenuto. È anche possibile riprodurre audio e video proprio in chat.</translation>
     </message>
 </context>
 <context>
@@ -10243,11 +10243,11 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     <name>OptionsTabInput</name>
     <message>
         <source>Input</source>
-        <translation type="unfinished"/>
+        <translation>Input</translation>
     </message>
     <message>
         <source>Input options</source>
-        <translation type="unfinished"/>
+        <translation>Opzioni input</translation>
     </message>
     <message>
         <source>Check this option if you want your spelling to be checked</source>
@@ -10262,18 +10262,18 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Messages options</source>
-        <translation type="unfinished"/>
+        <translation>Opzioni messaggi</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabMsgCommon</name>
     <message>
         <source>Common</source>
-        <translation type="unfinished"/>
+        <translation>Comune</translation>
     </message>
     <message>
         <source>Сommon options for messages section</source>
-        <translation type="unfinished"/>
+        <translation>Opzioni comuni per la sezione messaggi</translation>
     </message>
     <message>
         <source>Makes Psi open chats in a tabbed window.</source>
@@ -10281,7 +10281,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
-        <translation type="unfinished"/>
+        <translation>Mostra come collegamenti ad alcuni contenuti multimediali un&apos;anteprima del contenuto. È anche possibile riprodurre audio e video proprio in chat.</translation>
     </message>
     <message>
         <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
@@ -10293,7 +10293,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
-        <translation type="unfinished"/>
+        <translation>Consente la sostituzione automatica della prima lettera in una frase alla stessa lettera maiuscola</translation>
     </message>
 </context>
 <context>
@@ -11387,7 +11387,7 @@ Puoi ancora salvare la partita.</translation>
     </message>
     <message>
         <source>Queries</source>
-        <translation>Domande</translation>
+        <translation>Richieste</translation>
     </message>
     <message>
         <source>Outgoing Presence</source>
@@ -12122,7 +12122,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
-        <translation type="unfinished"/>
+        <translation>Impossibile connettersi: La crittografia è abilitata ma non c&apos;è nessun gestore di chiavi QCA disponibile.</translation>
     </message>
 </context>
 <context>
@@ -15853,7 +15853,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Shortcuts in the history dialog</source>
-        <translation type="unfinished"/>
+        <translation>Scorciatoie nella finestra di dialogo della cronologia</translation>
     </message>
 </context>
 <context>
@@ -16689,7 +16689,7 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation>Per poter aggiungere contatti da altre reti di IM hai bisogno di aggiungere un agente corrispondente dal tuo server Jabber. Guarda nel menu Psi -&gt; Scopri Servizi.</translation>
+        <translation>Per poter aggiungere contatti da altre reti di IM hai bisogno di aggiungere un agente corrispondente dal tuo server Jabber. Dai un&apos;occhiata nel menu Psi -&gt; Scopri Servizi.</translation>
     </message>
     <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
@@ -17183,7 +17183,7 @@ Per funzionare con GNOME MPlayer non sono necessarie configurazioni aggiuntive;<
     </message>
     <message>
         <source>Don&apos;t watch for JID</source>
-        <translation>Non guardare per JID</translation>
+        <translation>Non osservare JID</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -17203,7 +17203,7 @@ Per funzionare con GNOME MPlayer non sono necessarie configurazioni aggiuntive;<
     </message>
     <message>
         <source>Watch for JID</source>
-        <translation>Guarda per JID</translation>
+        <translation>Osserva JID</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -17780,7 +17780,7 @@ Vuoi ancora chiudere la finestra?</translation>
     <name>main</name>
     <message>
         <source>The keystore manager provided by QCA takes longer to load than usual. Maybe &lt;i&gt;gpg&lt;/i&gt; hangs.&lt;br&gt;&lt;br&gt;Note that login via TLS and OpenPGP related features require the keystore manager.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Il gestore di chiavi fornito da QCA richiede più tempo per caricare del solito. Forge &lt;i&gt;gpg&lt;/i&gt; si blocca.&lt;br&gt;&lt;br&gt;Nota che login via TLS e le funzioni correlate a OpenPGP richiedono il gestore chiavi.</translation>
     </message>
 </context>
 <context>
