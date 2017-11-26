@@ -8480,6 +8480,10 @@ Etiquetas: %1</translation>
         <source>OptInputUI</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation>Poner en mayúsculas automáticamente la primera letra en la oración</translation>
+    </message>
 </context>
 <context>
     <name>OptMsgCommon</name>
@@ -8537,7 +8541,7 @@ Etiquetas: %1</translation>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation>Poner en mayúsculas automáticamente la primera letra en la oración</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10233,6 +10237,10 @@ a las personas frecuentemente contactadas por email.</translation>
         <source>Check this option if you want your spelling to be checked</source>
         <translation>Marca esta opción si quieres que se compruebe tu ortografía</translation>
     </message>
+    <message>
+        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>OptionsTabMessages</name>
@@ -10270,10 +10278,6 @@ a las personas frecuentemente contactadas por email.</translation>
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
         <translation>Si está conectado, Psi mostrará los mensajes entrantes formateados con el estilo especificado por el contacto</translation>
-    </message>
-    <message>
-        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>

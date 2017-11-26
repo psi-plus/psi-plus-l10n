@@ -8501,6 +8501,10 @@ Tags: %1</source>
         <source>OptInputUI</source>
         <translation>OptInputUI</translation>
     </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="unfinished">Первую букву в предложении делать заглавной</translation>
+    </message>
 </context>
 <context>
     <name>OptMsgCommon</name>
@@ -8558,7 +8562,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation>Первую букву в предложении делать заглавной</translation>
+        <translation type="vanished">Первую букву в предложении делать заглавной</translation>
     </message>
 </context>
 <context>
@@ -10253,6 +10257,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <source>Check this option if you want your spelling to be checked</source>
         <translation>Включить проверку орфографии набираемого вами текста</translation>
     </message>
+    <message>
+        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
+        <translation type="unfinished">Включает автоматическую замену первой буквы в предложении на заглавную</translation>
+    </message>
 </context>
 <context>
     <name>OptionsTabMessages</name>
@@ -10293,7 +10301,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
-        <translation>Включает автоматическую замену первой буквы в предложении на заглавную</translation>
+        <translation type="vanished">Включает автоматическую замену первой буквы в предложении на заглавную</translation>
     </message>
 </context>
 <context>

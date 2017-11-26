@@ -8460,6 +8460,10 @@ Tagy: %1</translation>
         <source>OptInputUI</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation>Automaticky psát velké písmeno na začátku věty</translation>
+    </message>
 </context>
 <context>
     <name>OptMsgCommon</name>
@@ -8517,7 +8521,7 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation>Automaticky psát velké písmeno na začátku věty</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10217,6 +10221,10 @@ zprávy v chatu víde lidí)</translation>
         <source>Check this option if you want your spelling to be checked</source>
         <translation>Vyber tuto volbu, pokud chceš používat kontrolu pravopisu</translation>
     </message>
+    <message>
+        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>OptionsTabMessages</name>
@@ -10254,10 +10262,6 @@ zprávy v chatu víde lidí)</translation>
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
         <translation>Po zapnutí této volby bude Psi zobrazovat příchozí zprávy naformátované odesílatelem</translation>
-    </message>
-    <message>
-        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>

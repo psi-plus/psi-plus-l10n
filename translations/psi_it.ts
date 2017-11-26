@@ -8501,6 +8501,10 @@ Argomento MUC per esempio.</translation>
         <source>OptInputUI</source>
         <translation>OptInputUI</translation>
     </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation>Capitalizzare automaticamente la prima lettera di una frase</translation>
+    </message>
 </context>
 <context>
     <name>OptMsgCommon</name>
@@ -8558,7 +8562,7 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation>Capitalizzare automaticamente la prima lettera di una frase</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10253,6 +10257,10 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
         <source>Check this option if you want your spelling to be checked</source>
         <translation>Spunta questa opzione se vuoi che la tua ortografia sia controllata</translation>
     </message>
+    <message>
+        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
+        <translation>Consente la sostituzione automatica della prima lettera in una frase alla stessa lettera maiuscola</translation>
+    </message>
 </context>
 <context>
     <name>OptionsTabMessages</name>
@@ -10290,10 +10298,6 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
         <translation>Se abilitata, Psi mostrera i messaggi in arrivo formattati nello stile specificato dal contatto</translation>
-    </message>
-    <message>
-        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
-        <translation>Consente la sostituzione automatica della prima lettera in una frase alla stessa lettera maiuscola</translation>
     </message>
 </context>
 <context>

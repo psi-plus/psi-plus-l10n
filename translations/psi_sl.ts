@@ -8387,6 +8387,10 @@ Tags: %1</source>
         <source>OptInputUI</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>OptMsgCommon</name>
@@ -10124,6 +10128,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <source>Check this option if you want your spelling to be checked</source>
         <translation>Omogočite to možnost, če želite preverjanje črkovanja</translation>
     </message>
+    <message>
+        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>OptionsTabMessages</name>
@@ -10161,10 +10169,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
         <translation>Če je omogočeno, bo Psi prejeta sporočila prikazoval z oblikovanjem, kot ga je določil stik</translation>
-    </message>
-    <message>
-        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>

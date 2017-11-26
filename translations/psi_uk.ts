@@ -8505,6 +8505,10 @@ Tags: %1</source>
         <source>OptInputUI</source>
         <translation>OptInputUI</translation>
     </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation>Автоматично робити першу букву речення заголовною</translation>
+    </message>
 </context>
 <context>
     <name>OptMsgCommon</name>
@@ -8562,7 +8566,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation>Автоматично робити першу букву речення заголовною</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10257,6 +10261,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <source>Check this option if you want your spelling to be checked</source>
         <translation>Оберіть цю опцію, якщо ви хочете активувати перевірку правопису</translation>
     </message>
+    <message>
+        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
+        <translation>Вмикає автоматичну заміну першої букви речення на таку саму заголовну</translation>
+    </message>
 </context>
 <context>
     <name>OptionsTabMessages</name>
@@ -10294,10 +10302,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
         <translation>Якщо активовано, Psi буде відображати форматування тексту, яке було вказано відправником</translation>
-    </message>
-    <message>
-        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
-        <translation>Вмикає автоматичну заміну першої букви речення на таку саму заголовну</translation>
     </message>
 </context>
 <context>

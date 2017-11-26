@@ -8461,6 +8461,10 @@ Tags: %1</source>
         <source>OptInputUI</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="unfinished">Пачынаць сказы зь вялікае літары</translation>
+    </message>
 </context>
 <context>
     <name>OptMsgCommon</name>
@@ -8518,7 +8522,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation>Пачынаць сказы зь вялікае літары</translation>
+        <translation type="vanished">Пачынаць сказы зь вялікае літары</translation>
     </message>
 </context>
 <context>
@@ -10211,6 +10215,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <source>Check this option if you want your spelling to be checked</source>
         <translation>Абярыце гэта, калі жадаеце спраўджваць правапіс</translation>
     </message>
+    <message>
+        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptionsTabMessages</name>
@@ -10248,10 +10256,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
         <translation>Калі абраць гэта, паведамленьні будуць аздабляцца так, як гэта вызначыў суразмоўца</translation>
-    </message>
-    <message>
-        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

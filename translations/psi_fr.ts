@@ -8431,6 +8431,10 @@ Labels : %1</translation>
         <source>OptInputUI</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation>Majuscule automatique en début de phrase</translation>
+    </message>
 </context>
 <context>
     <name>OptMsgCommon</name>
@@ -8488,7 +8492,7 @@ Labels : %1</translation>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation>Majuscule automatique en début de phrase</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10173,6 +10177,10 @@ notifications pour les mails non lus.</translation>
         <source>Check this option if you want your spelling to be checked</source>
         <translation>Cochez cette option si vous voulez activer la vérification orthographique</translation>
     </message>
+    <message>
+        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>OptionsTabMessages</name>
@@ -10210,10 +10218,6 @@ notifications pour les mails non lus.</translation>
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
         <translation>Si cochée, Psi affichera les messages entrants avec le formatage défini par le contact</translation>
-    </message>
-    <message>
-        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>

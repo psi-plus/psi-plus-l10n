@@ -8490,6 +8490,10 @@ Tags: %1</source>
         <source>OptInputUI</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation>自動大寫句子的第一個字母</translation>
+    </message>
 </context>
 <context>
     <name>OptMsgCommon</name>
@@ -8547,7 +8551,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation>自動大寫句子的第一個字母</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10232,6 +10236,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <source>Check this option if you want your spelling to be checked</source>
         <translation>如果你想要檢查你的拼字, 核取這個選項</translation>
     </message>
+    <message>
+        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>OptionsTabMessages</name>
@@ -10269,10 +10277,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
         <translation>如果啟用, Psi 會使用連絡人指定的樣式來顯示進來的資訊</translation>
-    </message>
-    <message>
-        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>

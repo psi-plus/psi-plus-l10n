@@ -8432,6 +8432,10 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
         <source>OptInputUI</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="unfinished">Automatyczna duża pierwsza litera</translation>
+    </message>
 </context>
 <context>
     <name>OptMsgCommon</name>
@@ -8489,7 +8493,7 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation>Automatyczna duża pierwsza litera</translation>
+        <translation type="vanished">Automatyczna duża pierwsza litera</translation>
     </message>
 </context>
 <context>
@@ -10166,6 +10170,10 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
         <source>Check this option if you want your spelling to be checked</source>
         <translation>Zaznacz tę opcję jeśli chcesz sprawdzać pisownię tekstów</translation>
     </message>
+    <message>
+        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptionsTabMessages</name>
@@ -10203,10 +10211,6 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
         <translation>Jeśli włączone, Psi będzie wyświetlać przychodzące wiadomości sformatowane w stylu zdefiniowanym przez kontakt</translation>
-    </message>
-    <message>
-        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

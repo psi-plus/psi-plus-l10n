@@ -8483,6 +8483,10 @@ Címkék: %1</translation>
         <source>OptInputUI</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="unfinished">Automatikusan nagy kezdőbetű a mondat eleje</translation>
+    </message>
 </context>
 <context>
     <name>OptMsgCommon</name>
@@ -8540,7 +8544,7 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation>Automatikusan nagy kezdőbetű a mondat eleje</translation>
+        <translation type="vanished">Automatikusan nagy kezdőbetű a mondat eleje</translation>
     </message>
 </context>
 <context>
@@ -10233,6 +10237,10 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
         <source>Check this option if you want your spelling to be checked</source>
         <translation>Helyesírás-ellenőrzés engedélyezése</translation>
     </message>
+    <message>
+        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptionsTabMessages</name>
@@ -10270,10 +10278,6 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
         <translation>Bejövő üzenetek megjelenítése az ismerős stílus-beállítása szerint</translation>
-    </message>
-    <message>
-        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

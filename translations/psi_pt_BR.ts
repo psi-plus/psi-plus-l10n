@@ -8484,6 +8484,10 @@ Tags: %1</translation>
         <source>OptInputUI</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation>Automaticamente escrever com letra maíscula a primeira letra de uma sentença</translation>
+    </message>
 </context>
 <context>
     <name>OptMsgCommon</name>
@@ -8541,7 +8545,7 @@ Tags: %1</translation>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation>Automaticamente escrever com letra maíscula a primeira letra de uma sentença</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10237,6 +10241,10 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
         <source>Check this option if you want your spelling to be checked</source>
         <translation>Marque esta opção se você deseja que sua ortografia seja verificada</translation>
     </message>
+    <message>
+        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>OptionsTabMessages</name>
@@ -10274,10 +10282,6 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
         <translation>Se habilitado, as mensagens que chegarem serão exibidas pelo Psi no estilo especificado pelo contato</translation>
-    </message>
-    <message>
-        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
