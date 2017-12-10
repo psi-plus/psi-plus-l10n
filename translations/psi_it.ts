@@ -1361,7 +1361,7 @@ Per funzionare correttamente, il plugin richiede che il client del contatto supp
     </message>
     <message>
         <source>Online</source>
-        <translation>In linea</translation>
+        <translation>Connesso</translation>
     </message>
     <message>
         <source>Away</source>
@@ -3623,7 +3623,7 @@ Se vuoi confermare questa richeista, premi il tasto Conferma. Altrimenti premi i
     </message>
     <message>
         <source>%1 is online!</source>
-        <translation>%1 è in linea!</translation>
+        <translation>%1 è connesso!</translation>
     </message>
     <message>
         <source>Unknown error!</source>
@@ -7962,11 +7962,11 @@ Etichette: %1</translation>
     </message>
     <message>
         <source>Automatically get vCard when becoming online</source>
-        <translation>Ottieni autmaticamente la vCard quando in linea</translation>
+        <translation>Ottieni autmaticamente la vCard quando connesso</translation>
     </message>
     <message>
         <source>Animate the roster when a contact comes online</source>
-        <translation>Anima la lista quando un contatto è in linea</translation>
+        <translation>Anima la lista quando un contatto si connette</translation>
     </message>
     <message>
         <source>Scroll roster to contact on event</source>
@@ -8073,7 +8073,7 @@ Etichette: %1</translation>
     </message>
     <message>
         <source>Online contacts:</source>
-        <translation>Contatti in linea:</translation>
+        <translation>Contatti connessi:</translation>
     </message>
     <message>
         <source>Away contacts:</source>
@@ -8085,7 +8085,7 @@ Etichette: %1</translation>
     </message>
     <message>
         <source>Offline contacts:</source>
-        <translation>Contatti non in linea:</translation>
+        <translation>Contatti disconnessi:</translation>
     </message>
     <message>
         <source>Specifies the background color for the main window.</source>
@@ -8195,7 +8195,7 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Enable docklet</source>
-        <translation>Abilita Docklet</translation>
+        <translation>Abilita Vassoio di Sistema</translation>
     </message>
     <message>
         <source>Decorate windows</source>
@@ -8203,7 +8203,7 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Docklet</source>
-        <translation>Docklet</translation>
+        <translation>Vassoio di sistema</translation>
     </message>
     <message>
         <source>Use &quot;double-click&quot; style (like ICQ)</source>
@@ -8932,7 +8932,7 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Auto offline after:</source>
-        <translation>Automaticamente non in linea dopo:</translation>
+        <translation>Automaticamente disconnesso dopo:</translation>
     </message>
     <message>
         <source>Auto XA after:</source>
@@ -8956,7 +8956,7 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Online:</source>
-        <translation>in linea</translation>
+        <translation>Connesso</translation>
     </message>
     <message>
         <source>Away:</source>
@@ -8964,7 +8964,7 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Free For Chat:</source>
-        <translation>Disponibile per chattare</translation>
+        <translation>Disponibile:</translation>
     </message>
     <message>
         <source>XA:</source>
@@ -8991,11 +8991,11 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation>In linea</translation>
+        <translation>Connesso</translation>
     </message>
     <message>
         <source>Free for Chat</source>
-        <translation>Disponibile per chattare</translation>
+        <translation>Disponibile</translation>
     </message>
     <message>
         <source>Away</source>
@@ -9003,7 +9003,7 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Not Available</source>
-        <translation>Non disponibile</translation>
+        <translation>Indisponibile</translation>
     </message>
     <message>
         <source>Do not Disturb</source>
@@ -9011,7 +9011,7 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>Non in linea</translation>
+        <translation>Disconnesso</translation>
     </message>
     <message>
         <source>Status menus</source>
@@ -9035,7 +9035,7 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Hide Free for Chat, Away, Not Available and Do not Disturb</source>
-        <translation>Nascondi Libero per Chat, Assente, Non Disponibile e Occupato</translation>
+        <translation>Nascondi Disponibile, Assente, Indisponibile e Occupato</translation>
     </message>
     <message>
         <source>Hide standard statuses (Chat, Away, XA, DND)</source>
@@ -9201,7 +9201,7 @@ I nomi delle opzioni non possono essere vuoti, finire con &apos;.&apos; o conten
         <source>If you use this plugin at first time, make sure that all your accounts
 is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
         <translation>Se usi questo plugin per la prima volta, assicurati che tutti i tuoi account
-siano in linea e schiaccia il pulsante &quot;Aggiorna Compleanni&quot;. Occorre un po&apos; di tempo.</translation>
+siano connessi e schiaccia il pulsante &quot;Aggiorna Compleanni&quot;. Occorre un po&apos; di tempo.</translation>
     </message>
     <message>
         <source>Update Birthdays</source>
@@ -9814,7 +9814,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Makes Psi animate contact names in the main window when they come online.</source>
-        <translation>Lascia che Psi animi i nomi contatto nella finestra principale quando questi sono in linea.</translation>
+        <translation>Lascia che Psi animi i nomi contatto nella finestra principale quando questi sono connessi.</translation>
     </message>
     <message>
         <source>Makes Psi scroll the main window automatically so you can see new incoming events.</source>
@@ -9880,11 +9880,11 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>online</source>
-        <translation>in linea</translation>
+        <translation>connesso</translation>
     </message>
     <message>
         <source>offline</source>
-        <translation>non in linea</translation>
+        <translation>disconnesso</translation>
     </message>
     <message>
         <source>away</source>
@@ -9960,15 +9960,15 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Makes Psi use a docklet icon, also known as system tray icon.</source>
-        <translation>Fa in modo che Psi usi una Icona docklet, conosciuta anche come icona del system tray.</translation>
+        <translation>Fa in modo che Psi usi un&apos;icona docklet, conosciuta anche come icona del vassoio di sistema.</translation>
     </message>
     <message>
         <source>Normally, single-clicking on the Psi docklet icon brings the main window to the foreground.  Check this option if you would rather use a double-click.</source>
-        <translation>Normalmente cliccando con il tasto sinistro sulla icona docklet di Psi si porta in primo piano la finestra principale. Spunta questa opzione se si preferisce utilizzare il doppio click.</translation>
+        <translation>Normalmente cliccando con il tasto sinistro sulla icona di Psi nel vassoio di sistema si porta in primo piano la finestra principale. Spunta questa opzione se si preferisce utilizzare il doppio click.</translation>
     </message>
     <message>
         <source>Starts Psi with only the docklet icon visible.</source>
-        <translation>Avvia Psi con la sola icona della docklet visibile.</translation>
+        <translation>Avvia Psi con la sola icona del vassoio di sistema visibile.</translation>
     </message>
     <message>
         <source>Prevents Psi from taking up a slot on the taskbar and makes the main window use a small titlebar.</source>
@@ -10471,7 +10471,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the Jabber server.</source>
-        <translation>Imposta automaticamente lo stato &quot;Non In Linea&quot; se il tuo computer è inattivo per la quantità di tempo specificata. Questo ti disconnetterà dal server.</translation>
+        <translation>Imposta automaticamente lo stato &quot;Disconnesso&quot; se il tuo computer è inattivo per la quantità di tempo specificata. Questo ti disconnetterà dal server.</translation>
     </message>
     <message>
         <source>Specifies an extended message to use if you allow Psi to set your status automatically.  See options above.</source>
@@ -10522,7 +10522,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Jabber allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
-        <translation>Jabber ti consente di mettere messaggi di stato estesi su tutti i tipi di stato. Normalmente, Psi non ti chiede un messaggio esteso quando imposti il tuo stato su &quot;In Linea&quot;. Seleziona questa opzione se vuoi avere questa richiesta.</translation>
+        <translation>Jabber ti consente di mettere messaggi di stato estesi su tutti i tipi di stato. Normalmente, Psi non ti chiede un messaggio esteso quando imposti il tuo stato su &quot;Connesso&quot;. Seleziona questa opzione se vuoi avere questa richiesta.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -12153,11 +12153,11 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
-        <translation>Mostra Contatti Non in Linea</translation>
+        <translation>Mostra Contatti Disconnessi</translation>
     </message>
     <message>
         <source>Toggles visibility of offline contacts in roster</source>
-        <translation>Cambia visibilità di contatti non in linea nella lista</translation>
+        <translation>Cambia visibilità di contatti disconnessi nella lista</translation>
     </message>
     <message>
         <source>Show Hidden Contacts</source>
@@ -12393,11 +12393,11 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation>In linea</translation>
+        <translation>Connesso</translation>
     </message>
     <message>
         <source>Free for Chat</source>
-        <translation>Disponibile per chattare</translation>
+        <translation>Disponibile</translation>
     </message>
     <message>
         <source>Away</source>
@@ -12437,7 +12437,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>Non in linea</translation>
+        <translation>Disconnesso</translation>
     </message>
     <message>
         <source>Status</source>
@@ -12720,7 +12720,7 @@ Motivo: %1.</translation>
     <message>
         <source>Set status. STATUS must be one of `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</source>
         <comment>do not translate `online', `chat', etc; STATUS is the same as in previous string</comment>
-        <translation>Imposta lo stato. Lo stato deve essere uno tra &quot;In Linea&quot;, &quot;Chat&quot;, &quot;Assente&quot;, &quot;Non Disponibile&quot;, &quot;Occupato&quot;.</translation>
+        <translation>Imposta lo stato. Lo stato deve essere uno tra &quot;Connesso&quot;, &quot;Chat&quot;, &quot;Assente&quot;, &quot;Non Disponibile&quot;, &quot;Occupato&quot;.</translation>
     </message>
     <message>
         <source>MSG</source>
@@ -13841,7 +13841,7 @@ Vuoi attivare quella sessione ora?</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>Non in linea</translation>
+        <translation>Disconnesso</translation>
     </message>
     <message>
         <source>Away</source>
@@ -13849,7 +13849,7 @@ Vuoi attivare quella sessione ora?</translation>
     </message>
     <message>
         <source>Not Available</source>
-        <translation>Non disponibile</translation>
+        <translation>Indisponibile</translation>
     </message>
     <message>
         <source>Do not Disturb</source>
@@ -13857,7 +13857,7 @@ Vuoi attivare quella sessione ora?</translation>
     </message>
     <message>
         <source>Free for Chat</source>
-        <translation>Disponibile per chattare</translation>
+        <translation>Disponibile</translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -13865,7 +13865,7 @@ Vuoi attivare quella sessione ora?</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation>In linea</translation>
+        <translation>Connesso</translation>
     </message>
     <message>
         <source>Invitation to %1 from %2</source>
@@ -14701,11 +14701,11 @@ Password: %5</translation>
     </message>
     <message>
         <source>Contact online</source>
-        <translation>Contatto in linea</translation>
+        <translation>Contatto connesso</translation>
     </message>
     <message>
         <source>Contact offline</source>
-        <translation>Contatto non in linea</translation>
+        <translation>Contatto disconnesso</translation>
     </message>
     <message>
         <source>Status change</source>
@@ -14777,7 +14777,7 @@ Password: %5</translation>
     </message>
     <message>
         <source>Automatically go offline when idle</source>
-        <translation>Vai automaticamente non in linea quando inattivo</translation>
+        <translation>Disconnesso automaticamente quando inattivo</translation>
     </message>
     <message>
         <source>Auto-authorize contacts</source>
@@ -15553,7 +15553,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
-        <translation>Mostra Contatti Non in Linea</translation>
+        <translation>Mostra Contatti Disconnessi</translation>
     </message>
     <message>
         <source>Show Away Contacts</source>
@@ -15597,7 +15597,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Status Online</source>
-        <translation>Stato In Linea</translation>
+        <translation>Stato Connesso</translation>
     </message>
     <message>
         <source>Status Away</source>
@@ -15617,7 +15617,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Status Offline</source>
-        <translation>Stato Non In Linea</translation>
+        <translation>Stato Disconnesso</translation>
     </message>
     <message>
         <source>Choose status</source>
@@ -17221,7 +17221,7 @@ Per funzionare con GNOME MPlayer non sono necessarie configurazioni aggiuntive;<
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
 On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
         <translation>Questo plugin è progettato per monitorare lo stato di specifici contatti della propria lista, così come per la sostituzione di suoni predefiniti dei messaggi in arrivo.
-Nella prima scheda puoi scegliere di quali contatti monitorare lo stato. Quando lo stato di questi contatti cambia verrà visualizzato un popup e quando uno di questi contatti cambia il suo stato in &quot;In Linea&quot; può essere riprodotto un suono personalizzato. Nella seconda scheda è configurata la lista di elementi e i messaggi che vengono monitorati. Ogni elemento può contenere espressioni regolari per verificare la presenza di riscontri con JID, da cui il messaggio arriva, una lista di espressioni regolari per verificare la presenza di riscontri con il testo di un messaggio in arrivo, il percorso dell&apos;audio che verrà riprodotto in caso di corrispondenze, così come l&apos;impostazione, se il suono deve essere riprodotto sempre, anche se i suoni globali sono disattivati.</translation>
+Nella prima scheda puoi scegliere di quali contatti monitorare lo stato. Quando lo stato di questi contatti cambia verrà visualizzato un popup e quando uno di questi contatti cambia il suo stato in &quot;Connesso&quot; può essere riprodotto un suono personalizzato. Nella seconda scheda è configurata la lista di elementi e i messaggi che vengono monitorati. Ogni elemento può contenere espressioni regolari per verificare la presenza di riscontri con JID, da cui il messaggio arriva, una lista di espressioni regolari per verificare la presenza di riscontri con il testo di un messaggio in arrivo, il percorso dell&apos;audio che verrà riprodotto in caso di corrispondenze, così come l&apos;impostazione, se il suono deve essere riprodotto sempre, anche se i suoni globali sono disattivati.</translation>
     </message>
 </context>
 <context>
