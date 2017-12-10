@@ -10178,7 +10178,7 @@ notifications pour les mails non lus.</translation>
         <translation>Cochez cette option si vous voulez activer la vérification orthographique</translation>
     </message>
     <message>
-        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
+        <source>Enables automatic substitution of the first letter in a sentence to the same capital letter</source>
         <translation type="unfinished"/>
     </message>
 </context>

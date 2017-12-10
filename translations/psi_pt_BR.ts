@@ -10242,7 +10242,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
         <translation>Marque esta opção se você deseja que sua ortografia seja verificada</translation>
     </message>
     <message>
-        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
+        <source>Enables automatic substitution of the first letter in a sentence to the same capital letter</source>
         <translation type="unfinished"/>
     </message>
 </context>

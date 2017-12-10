@@ -10258,8 +10258,8 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
         <translation>Spunta questa opzione se vuoi che la tua ortografia sia controllata</translation>
     </message>
     <message>
-        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
-        <translation>Consente la sostituzione automatica della prima lettera in una frase alla stessa lettera maiuscola</translation>
+        <source>Enables automatic substitution of the first letter in a sentence to the same capital letter</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

@@ -10262,8 +10262,8 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Оберіть цю опцію, якщо ви хочете активувати перевірку правопису</translation>
     </message>
     <message>
-        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
-        <translation>Вмикає автоматичну заміну першої букви речення на таку саму заголовну</translation>
+        <source>Enables automatic substitution of the first letter in a sentence to the same capital letter</source>
+        <translation>Вмикає автоматичну заміну першої літери в реченні на таку саму заголовну літеру</translation>
     </message>
 </context>
 <context>

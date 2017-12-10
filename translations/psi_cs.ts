@@ -10222,7 +10222,7 @@ zprávy v chatu víde lidí)</translation>
         <translation>Vyber tuto volbu, pokud chceš používat kontrolu pravopisu</translation>
     </message>
     <message>
-        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
+        <source>Enables automatic substitution of the first letter in a sentence to the same capital letter</source>
         <translation type="unfinished"/>
     </message>
 </context>

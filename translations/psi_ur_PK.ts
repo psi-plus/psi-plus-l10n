@@ -10072,7 +10072,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>اگر آپ چاہتے ہیں کہ آپ کے ہجے پڑتال کیے جائیں تو یہ اختیار با نشان کریں</translation>
     </message>
     <message>
-        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
+        <source>Enables automatic substitution of the first letter in a sentence to the same capital letter</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

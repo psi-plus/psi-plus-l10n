@@ -10238,7 +10238,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
         <translation>Helyesírás-ellenőrzés engedélyezése</translation>
     </message>
     <message>
-        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
+        <source>Enables automatic substitution of the first letter in a sentence to the same capital letter</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

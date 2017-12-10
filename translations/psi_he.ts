@@ -10154,7 +10154,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>סמן את אפשרות זו אם ברצונך כי איות ייבדק</translation>
     </message>
     <message>
-        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
+        <source>Enables automatic substitution of the first letter in a sentence to the same capital letter</source>
         <translation type="unfinished"/>
     </message>
 </context>

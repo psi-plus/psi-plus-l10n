@@ -5864,7 +5864,7 @@ Um Befehle zu senden, werden normale Nachrichten verwendet, so dass das Plugin i
     </message>
     <message>
         <source>Search:</source>
-        <translation type="unfinished"/>
+        <translation>Suche:</translation>
     </message>
     <message>
         <source>All accounts</source>
@@ -5876,11 +5876,11 @@ Um Befehle zu senden, werden normale Nachrichten verwendet, so dass das Plugin i
     </message>
     <message>
         <source>%1 of %2 matches</source>
-        <translation type="unfinished"/>
+        <translation>%1 von %2 Treffern</translation>
     </message>
     <message>
         <source>No matches were found</source>
-        <translation type="unfinished"/>
+        <translation>Es wurden keine Treffer gefunden</translation>
     </message>
 </context>
 <context>
@@ -7377,7 +7377,7 @@ Anmerkung: Um korrekt zu funktionieren, muss die Option options.html.chat.render
     </message>
     <message>
         <source>Room</source>
-        <translation type="unfinished"/>
+        <translation>Raum</translation>
     </message>
     <message>
         <source>Password</source>
@@ -7385,11 +7385,11 @@ Anmerkung: Um korrekt zu funktionieren, muss die Option options.html.chat.render
     </message>
     <message>
         <source>Host</source>
-        <translation type="unfinished"/>
+        <translation>Host</translation>
     </message>
     <message>
         <source>&amp;Favorites</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Favoriten</translation>
     </message>
 </context>
 <context>
@@ -8360,7 +8360,7 @@ Tags: %1</translation>
     </message>
     <message>
         <source>Show previews for links</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Zeige Vorschau für Links</translation>
     </message>
     <message>
         <source>&amp;Message</source>
@@ -8372,19 +8372,19 @@ Tags: %1</translation>
     </message>
     <message>
         <source>&amp;When chat window is closed</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Beim Schließen des Chatfensters</translation>
     </message>
     <message>
         <source>&amp;One hour after chat window was closed</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Eine Stunde nach dem Schließen des Chatfensters</translation>
     </message>
     <message>
         <source>One &amp;day after chat window was closed</source>
-        <translation type="unfinished"/>
+        <translation>Einen &amp;Tag nach dem Schließen des Chatfensters</translation>
     </message>
     <message>
         <source>&amp;Never</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Nie</translation>
     </message>
 </context>
 <context>
@@ -8474,15 +8474,15 @@ Tags: %1</translation>
     </message>
     <message>
         <source>Enable Spell Checking</source>
-        <translation type="unfinished"/>
+        <translation>Aktiviere Rechtschreibprüfung</translation>
     </message>
     <message>
         <source>Available spellcheck dictionaries</source>
-        <translation type="unfinished"/>
+        <translation>Verfügbare Rechtschreibwörterbücher</translation>
     </message>
     <message>
         <source>No dictionaries found</source>
-        <translation type="unfinished"/>
+        <translation>Keine Wörterbücher gefunden</translation>
     </message>
     <message>
         <source>OptInputUI</source>
@@ -8537,7 +8537,7 @@ Tags: %1</translation>
     </message>
     <message>
         <source>Show previews for links</source>
-        <translation type="unfinished"/>
+        <translation>Zeige Vorschau für Links</translation>
     </message>
     <message>
         <source>Use contacts&apos; message formatting</source>
@@ -10055,7 +10055,7 @@ Aktiviere die &quot;Nachrichtenarchivierung&quot;-Option zur Verwendung!</transl
     </message>
     <message>
         <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Zeige eine Vorschau bestimmter Medieninhalte. Es ist ebenfalls möglich, Audio und Video direkt im Chat abzuspielen.</translation>
     </message>
 </context>
 <context>
@@ -10231,19 +10231,19 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     <name>OptionsTabInput</name>
     <message>
         <source>Input</source>
-        <translation type="unfinished"/>
+        <translation>Eingabe</translation>
     </message>
     <message>
         <source>Input options</source>
-        <translation type="unfinished"/>
+        <translation>Eingabeoptionen</translation>
     </message>
     <message>
         <source>Check this option if you want your spelling to be checked</source>
         <translation>Aktivieren Sie diese Option wenn Sie möchten, dass ihre Rechtschreibung geprüft wird</translation>
     </message>
     <message>
-        <source>Enables automatical substitution of the first lettter in a sentence to the same capital letter</source>
-        <translation type="unfinished"/>
+        <source>Enables automatic substitution of the first letter in a sentence to the same capital letter</source>
+        <translation>Aktiviert automatische Ersetzung des ersten Buchstabens eines Satzes mit dessen Großbuchstaben</translation>
     </message>
 </context>
 <context>
@@ -10254,18 +10254,18 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     </message>
     <message>
         <source>Messages options</source>
-        <translation type="unfinished"/>
+        <translation>Nachrichtenoptionen</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabMsgCommon</name>
     <message>
         <source>Common</source>
-        <translation type="unfinished"/>
+        <translation>Allgemein</translation>
     </message>
     <message>
         <source>Сommon options for messages section</source>
-        <translation type="unfinished"/>
+        <translation>Allgemeine Optionen für den Nachrichtenbereich</translation>
     </message>
     <message>
         <source>Makes Psi open chats in a tabbed window.</source>
@@ -10273,7 +10273,7 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     </message>
     <message>
         <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
-        <translation type="unfinished"/>
+        <translation>Zeige eine Vorschau bestimmter Medieninhalte. Es ist ebenfalls möglich, Audio und Video direkt im Chat abzuspielen.</translation>
     </message>
     <message>
         <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
@@ -12110,7 +12110,7 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
-        <translation type="unfinished"/>
+        <translation>Verbindung fehlgeschlagen: Verschlüsselung ist aktiviert, aber es ist keine QCA-Schlüsselspeicherverwaltung verfügbar.</translation>
     </message>
 </context>
 <context>
@@ -15844,7 +15844,7 @@ Grund: %1</translation>
     </message>
     <message>
         <source>Shortcuts in the history dialog</source>
-        <translation type="unfinished"/>
+        <translation>Tastenkombinationen in der Nachrichtenchronik</translation>
     </message>
 </context>
 <context>
@@ -17771,7 +17771,7 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     <name>main</name>
     <message>
         <source>The keystore manager provided by QCA takes longer to load than usual. Maybe &lt;i&gt;gpg&lt;/i&gt; hangs.&lt;br&gt;&lt;br&gt;Note that login via TLS and OpenPGP related features require the keystore manager.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Die von QCA zur Verfügung gestellte Schlüsselverwaltung braucht länger zu laden als gewöhnlich. Vielleicht hat sich &lt;i&gt;gpg&lt;/i&gt; aufgehangen. &lt;br&gt;&lt;br&gt;Beachte, dass das Einloggen mit TLS und mit OpenPGP zusammenhängende Funtionalitäten die Schlüsselspeicherverwaltung benötigen.</translation>
     </message>
 </context>
 <context>
