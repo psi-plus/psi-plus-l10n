@@ -4584,7 +4584,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Unable to join groupchat.	Reason: %1</source>
-        <translation>Чат бөлмесіне кіру мүмкін емес.	Себебі: %1</translation>
+        <translation type="vanished">Чат бөлмесіне кіру мүмкін емес.	Себебі: %1</translation>
     </message>
     <message>
         <source>Unexpected groupchat error: %1</source>
@@ -4772,6 +4772,10 @@ Reason: %1</source>
     </message>
     <message>
         <source>Bookmark conference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to join groupchat.    Reason: %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5578,6 +5582,25 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
 </context>
 <context>
+    <name>GroupChatTopicAddLangDlg</name>
+    <message>
+        <source>Add Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Country</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
@@ -5618,7 +5641,15 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Text of topic</source>
+        <source>Any Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any Country</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any Script</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14639,6 +14670,10 @@ Thanks for your patience.</source>
     <message>
         <source>%1 is now known as %2</source>
         <translation>%1 енді %2 ретінде белгілі</translation>
+    </message>
+    <message>
+        <source>Any Language</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

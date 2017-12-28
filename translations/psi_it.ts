@@ -4659,7 +4659,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Unable to join groupchat.	Reason: %1</source>
-        <translation>Impossibile unirsi alla chat di gruppo.	Motivo: %1</translation>
+        <translation type="vanished">Impossibile unirsi alla chat di gruppo.	Motivo: %1</translation>
     </message>
     <message>
         <source>Unexpected groupchat error: %1</source>
@@ -4848,6 +4848,10 @@ Motivo: %1</translation>
     <message>
         <source>Bookmark conference</source>
         <translation>Aggiungi conferenza ai segnalibri</translation>
+    </message>
+    <message>
+        <source>Unable to join groupchat.    Reason: %1</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5661,6 +5665,25 @@ Per inviare comandi, basta usare normali messaggi, uindi questo plugin funzioner
     </message>
 </context>
 <context>
+    <name>GroupChatTopicAddLangDlg</name>
+    <message>
+        <source>Add Language</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation>Lingua</translation>
+    </message>
+    <message>
+        <source>Script</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Country</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
@@ -5702,7 +5725,19 @@ Per inviare comandi, basta usare normali messaggi, uindi questo plugin funzioner
     </message>
     <message>
         <source>Text of topic</source>
-        <translation>Testo dell&apos;argomento</translation>
+        <translation type="vanished">Testo dell&apos;argomento</translation>
+    </message>
+    <message>
+        <source>Any Language</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Any Country</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Any Script</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14899,6 +14934,10 @@ Grazie per la tua pazienza.</translation>
     <message>
         <source>%1 is now known as %2</source>
         <translation>%1 è ora conosciuto come %2</translation>
+    </message>
+    <message>
+        <source>Any Language</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

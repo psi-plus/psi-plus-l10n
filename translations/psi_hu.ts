@@ -4650,7 +4650,7 @@ Oka: %1</translation>
     </message>
     <message>
         <source>Unable to join groupchat.	Reason: %1</source>
-        <translation>Nem sikerült csatlakozni a csoportbeszélgetéshez	Oka: %1</translation>
+        <translation type="vanished">Nem sikerült csatlakozni a csoportbeszélgetéshez	Oka: %1</translation>
     </message>
     <message>
         <source>Unexpected groupchat error: %1</source>
@@ -4839,6 +4839,10 @@ Oka: %1</translation>
     <message>
         <source>Bookmark conference</source>
         <translation>Konferencia könyvjelzőhöz</translation>
+    </message>
+    <message>
+        <source>Unable to join groupchat.    Reason: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5649,6 +5653,25 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     </message>
 </context>
 <context>
+    <name>GroupChatTopicAddLangDlg</name>
+    <message>
+        <source>Add Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="unfinished">Nyelv</translation>
+    </message>
+    <message>
+        <source>Script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Country</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
@@ -5690,7 +5713,19 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     </message>
     <message>
         <source>Text of topic</source>
-        <translation>Téma szövege</translation>
+        <translation type="vanished">Téma szövege</translation>
+    </message>
+    <message>
+        <source>Any Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any Country</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any Script</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14885,6 +14920,10 @@ Türelmét köszönjük.</translation>
     <message>
         <source>%1 is now known as %2</source>
         <translation>%1 jelenleg %2</translation>
+    </message>
+    <message>
+        <source>Any Language</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

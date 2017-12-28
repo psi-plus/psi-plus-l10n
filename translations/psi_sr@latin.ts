@@ -4626,7 +4626,7 @@ Reason: %1</translation>
     </message>
     <message>
         <source>Unable to join groupchat.	Reason: %1</source>
-        <translation>Onemogući pristup grupnom razgovoru.	Razlog: %1</translation>
+        <translation type="vanished">Onemogući pristup grupnom razgovoru.	Razlog: %1</translation>
     </message>
     <message>
         <source>Unexpected groupchat error: %1</source>
@@ -4815,6 +4815,10 @@ Reason: %1</translation>
     <message>
         <source>Bookmark conference</source>
         <translation>Označeno konferencija</translation>
+    </message>
+    <message>
+        <source>Unable to join groupchat.    Reason: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5623,6 +5627,25 @@ Za slanje komandi, koriste se normalne poruke pa će ovaj dodatak uvek raditi gd
     </message>
 </context>
 <context>
+    <name>GroupChatTopicAddLangDlg</name>
+    <message>
+        <source>Add Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="unfinished">Jezik</translation>
+    </message>
+    <message>
+        <source>Script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Country</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
@@ -5664,7 +5687,19 @@ Za slanje komandi, koriste se normalne poruke pa će ovaj dodatak uvek raditi gd
     </message>
     <message>
         <source>Text of topic</source>
-        <translation>Tekst teme</translation>
+        <translation type="vanished">Tekst teme</translation>
+    </message>
+    <message>
+        <source>Any Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any Country</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any Script</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14814,6 +14849,10 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>%1 is now known as %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any Language</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

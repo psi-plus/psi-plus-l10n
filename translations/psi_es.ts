@@ -4644,7 +4644,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Unable to join groupchat.	Reason: %1</source>
-        <translation>No se puede entrar a la sala.
+        <translation type="vanished">No se puede entrar a la sala.
 Motivo: %1</translation>
     </message>
     <message>
@@ -4834,6 +4834,10 @@ Motivo: %1</translation>
     <message>
         <source>Bookmark conference</source>
         <translation>Marcar sala</translation>
+    </message>
+    <message>
+        <source>Unable to join groupchat.    Reason: %1</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5644,6 +5648,25 @@ Para enviar órdenes, son usados los mensajes normales, por lo que este compleme
     </message>
 </context>
 <context>
+    <name>GroupChatTopicAddLangDlg</name>
+    <message>
+        <source>Add Language</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation>Idioma</translation>
+    </message>
+    <message>
+        <source>Script</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Country</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
@@ -5685,7 +5708,19 @@ Para enviar órdenes, son usados los mensajes normales, por lo que este compleme
     </message>
     <message>
         <source>Text of topic</source>
-        <translation>Texto del tema</translation>
+        <translation type="vanished">Texto del tema</translation>
+    </message>
+    <message>
+        <source>Any Language</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Any Country</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Any Script</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14875,6 +14910,10 @@ Gracias por tu paciencia.</translation>
     <message>
         <source>%1 is now known as %2</source>
         <translation>%1 ahora se llama %2</translation>
+    </message>
+    <message>
+        <source>Any Language</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

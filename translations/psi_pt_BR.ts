@@ -4647,7 +4647,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Unable to join groupchat.	Reason: %1</source>
-        <translation>Não foi possível entrar no bate-papo em grupo.
+        <translation type="vanished">Não foi possível entrar no bate-papo em grupo.
 Motivo: %1</translation>
     </message>
     <message>
@@ -4837,6 +4837,10 @@ Motivo: %1</translation>
     <message>
         <source>Bookmark conference</source>
         <translation>Conferência favorita</translation>
+    </message>
+    <message>
+        <source>Unable to join groupchat.    Reason: %1</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5648,6 +5652,25 @@ Para o envio de comandos, mensagens normais serão utilizadas, por isso este plu
     </message>
 </context>
 <context>
+    <name>GroupChatTopicAddLangDlg</name>
+    <message>
+        <source>Add Language</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation>Idioma</translation>
+    </message>
+    <message>
+        <source>Script</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Country</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
@@ -5689,7 +5712,19 @@ Para o envio de comandos, mensagens normais serão utilizadas, por isso este plu
     </message>
     <message>
         <source>Text of topic</source>
-        <translation>Texto do tópico</translation>
+        <translation type="vanished">Texto do tópico</translation>
+    </message>
+    <message>
+        <source>Any Language</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Any Country</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Any Script</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14878,6 +14913,10 @@ Obrigado pela sua paciência.</translation>
     <message>
         <source>%1 is now known as %2</source>
         <translation>%1 agora é conhecido por %2</translation>
+    </message>
+    <message>
+        <source>Any Language</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

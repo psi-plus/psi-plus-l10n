@@ -4664,7 +4664,7 @@ Grund: %1</translation>
     </message>
     <message>
         <source>Unable to join groupchat.	Reason: %1</source>
-        <translation>Chatraum kann nicht betreten werden.	Grund: %1</translation>
+        <translation type="vanished">Chatraum kann nicht betreten werden.	Grund: %1</translation>
     </message>
     <message>
         <source>Unexpected groupchat error: %1</source>
@@ -4853,6 +4853,10 @@ Grund: %1</translation>
     <message>
         <source>Bookmark conference</source>
         <translation>Lesezeichen für Konferenz erstellen</translation>
+    </message>
+    <message>
+        <source>Unable to join groupchat.    Reason: %1</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5662,6 +5666,25 @@ Um Befehle zu senden, werden normale Nachrichten verwendet, so dass das Plugin i
     </message>
 </context>
 <context>
+    <name>GroupChatTopicAddLangDlg</name>
+    <message>
+        <source>Add Language</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation>Sprache</translation>
+    </message>
+    <message>
+        <source>Script</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Country</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
@@ -5703,7 +5726,19 @@ Um Befehle zu senden, werden normale Nachrichten verwendet, so dass das Plugin i
     </message>
     <message>
         <source>Text of topic</source>
-        <translation>Text des Themas</translation>
+        <translation type="vanished">Text des Themas</translation>
+    </message>
+    <message>
+        <source>Any Language</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Any Country</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Any Script</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14884,6 +14919,10 @@ Vielen Dank für Ihre Geduld.</translation>
     <message>
         <source>%1 is now known as %2</source>
         <translation>%1 heißt jetzt %2</translation>
+    </message>
+    <message>
+        <source>Any Language</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

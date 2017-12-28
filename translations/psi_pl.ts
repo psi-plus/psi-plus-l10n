@@ -4633,7 +4633,7 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source>Unable to join groupchat.	Reason: %1</source>
-        <translation>Nie udałos się dołączyć do konferencji.	Przyczyna: %1</translation>
+        <translation type="vanished">Nie udałos się dołączyć do konferencji.	Przyczyna: %1</translation>
     </message>
     <message>
         <source>Unexpected groupchat error: %1</source>
@@ -4822,6 +4822,10 @@ Przyczyna: %1</translation>
     <message>
         <source>Bookmark conference</source>
         <translation>Zakładka konferencji</translation>
+    </message>
+    <message>
+        <source>Unable to join groupchat.    Reason: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5632,6 +5636,25 @@ Do wysyłania poleceń, wykorzystywane są zwykłe wiadomości, więc wtyczka  t
     </message>
 </context>
 <context>
+    <name>GroupChatTopicAddLangDlg</name>
+    <message>
+        <source>Add Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="unfinished">Język</translation>
+    </message>
+    <message>
+        <source>Script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Country</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
@@ -5673,7 +5696,19 @@ Do wysyłania poleceń, wykorzystywane są zwykłe wiadomości, więc wtyczka  t
     </message>
     <message>
         <source>Text of topic</source>
-        <translation>Tekst tematu</translation>
+        <translation type="vanished">Tekst tematu</translation>
+    </message>
+    <message>
+        <source>Any Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any Country</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any Script</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14799,6 +14834,10 @@ Thanks for your patience.</source>
     <message>
         <source>%1 is now known as %2</source>
         <translation>%1 jest teraz znany jako %2</translation>
+    </message>
+    <message>
+        <source>Any Language</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

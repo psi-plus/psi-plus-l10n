@@ -4643,7 +4643,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>Unable to join groupchat.	Reason: %1</source>
-        <translation>Účast ve skupinovém chatu není možná.	Zdůvodnění: %1</translation>
+        <translation type="vanished">Účast ve skupinovém chatu není možná.	Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>Unexpected groupchat error: %1</source>
@@ -4832,6 +4832,10 @@ Zdůvodnění: %1</translation>
     <message>
         <source>Bookmark conference</source>
         <translation>Zazáložkovat konferenci</translation>
+    </message>
+    <message>
+        <source>Unable to join groupchat.    Reason: %1</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5642,6 +5646,25 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     </message>
 </context>
 <context>
+    <name>GroupChatTopicAddLangDlg</name>
+    <message>
+        <source>Add Language</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation>Jazyk</translation>
+    </message>
+    <message>
+        <source>Script</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Country</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
@@ -5683,7 +5706,19 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     </message>
     <message>
         <source>Text of topic</source>
-        <translation>Text tématu</translation>
+        <translation type="vanished">Text tématu</translation>
+    </message>
+    <message>
+        <source>Any Language</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Any Country</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Any Script</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14859,6 +14894,10 @@ Děkujeme za trpělivost.</translation>
     <message>
         <source>%1 is now known as %2</source>
         <translation>%1 je nyní znám jako %2</translation>
+    </message>
+    <message>
+        <source>Any Language</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

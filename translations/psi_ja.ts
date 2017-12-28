@@ -4607,7 +4607,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Unable to join groupchat.	Reason: %1</source>
-        <translation>グループチャットに参加できません	理由: %1</translation>
+        <translation type="vanished">グループチャットに参加できません	理由: %1</translation>
     </message>
     <message>
         <source>Unexpected groupchat error: %1</source>
@@ -4795,6 +4795,10 @@ Reason: %1</source>
     </message>
     <message>
         <source>Bookmark conference</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unable to join groupchat.    Reason: %1</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -5601,6 +5605,25 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
 </context>
 <context>
+    <name>GroupChatTopicAddLangDlg</name>
+    <message>
+        <source>Add Language</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Script</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Country</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
@@ -5642,6 +5665,18 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Text of topic</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Any Language</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Any Country</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Any Script</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -14739,6 +14774,10 @@ Thanks for your patience.</source>
     <message>
         <source>%1 is now known as %2</source>
         <translation>%1 は %2 にニックネームを変更しました</translation>
+    </message>
+    <message>
+        <source>Any Language</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
