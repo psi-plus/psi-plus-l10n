@@ -4858,7 +4858,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Unable to join groupchat.    Reason: %1</source>
-        <translation type="unfinished"/>
+        <translation>Неможливо увійти до конференції. Причина: %1</translation>
     </message>
 </context>
 <context>
@@ -5673,7 +5673,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>GroupChatTopicAddLangDlg</name>
     <message>
         <source>Add Language</source>
-        <translation type="unfinished"/>
+        <translation>Додати Мову</translation>
     </message>
     <message>
         <source>Language</source>
@@ -5681,11 +5681,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Script</source>
-        <translation type="unfinished"/>
+        <translation>Сценарій</translation>
     </message>
     <message>
         <source>Country</source>
-        <translation type="unfinished"/>
+        <translation>Країна</translation>
     </message>
 </context>
 <context>
@@ -5734,15 +5734,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Any Language</source>
-        <translation type="unfinished"/>
+        <translation>Будь-яка Мова</translation>
     </message>
     <message>
         <source>Any Country</source>
-        <translation type="unfinished"/>
+        <translation>Будь-яка Країна</translation>
     </message>
     <message>
         <source>Any Script</source>
-        <translation type="unfinished"/>
+        <translation>Будь-який Сценарій</translation>
     </message>
 </context>
 <context>
@@ -14943,7 +14943,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Any Language</source>
-        <translation type="unfinished"/>
+        <translation>Будь-яка Мова</translation>
     </message>
 </context>
 <context>
