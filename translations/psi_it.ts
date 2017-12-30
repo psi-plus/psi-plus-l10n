@@ -1278,7 +1278,7 @@ C&apos;è stato un errore ottenendo l&apos;informazione  Servizio Traduzione ID 
     </message>
     <message>
         <source>Join &amp;Groupchat...</source>
-        <translation>Entra nella Chat di &amp;Gruppo...</translation>
+        <translation>Entra nella &amp;Conferenza...</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -2551,17 +2551,17 @@ Puoi specificare la versione del client e dell&apos;OS o selezionarli da una lis
     </message>
     <message>
         <source>Groupchat History</source>
-        <translation>Cronologia Chat di Gruppo</translation>
+        <translation>Cronologia Conferenza</translation>
     </message>
     <message>
         <source>This plugin is designed to save groupchat logs in which the Psi+ user sits.
 Groupchats logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with groupchat.
 
 Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
-        <translation>Questo plugin è progettato per salvare i registri delle chat di gruppo in cui l&apos;utente Psi+ si trova.
-I registri delle chat di gruppo possono essere visti dalle impostazioni del plugin o cliccando sul pulsante appropriato sulla barra degli strumenti nella finestra/scheda attiva con chat di gruppo
+        <translation>Questo plugin è progettato per salvare i registri delle conferenze in cui l&apos;utente Psi+ si trova.
+I registri delle conferenze possono essere visti dalle impostazioni del plugin o cliccando sul pulsante appropriato sulla barra degli strumenti nella finestra/scheda attiva con conferenza
 
-Nota: per funzionare correttamente, la barra degli strumenti della chat di gruppo deve essere abilitata.</translation>
+Nota: per funzionare correttamente, la barra degli strumenti della conferenza deve essere abilitata.</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -2608,7 +2608,7 @@ Nota: per funzionare correttamente, la barra degli strumenti della chat di grupp
     </message>
     <message>
         <source>Join Groupchat</source>
-        <translation>Unisciti alla Chat di Gruppo</translation>
+        <translation>Unisciti alla Conferenza</translation>
     </message>
     <message>
         <source>&amp;Add a Contact</source>
@@ -2660,7 +2660,7 @@ Nota: per funzionare correttamente, la barra degli strumenti della chat di grupp
     </message>
     <message>
         <source>Groupchat</source>
-        <translation>Chat di Gruppo</translation>
+        <translation>Conferenza</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -2706,7 +2706,7 @@ Nota: per funzionare correttamente, la barra degli strumenti della chat di grupp
     </message>
     <message>
         <source>Request Authorization from Group</source>
-        <translation>Richiedi Autorizzazione dal gruppo</translation>
+        <translation>Richiedi Autorizzazione dal Gruppo</translation>
     </message>
     <message>
         <source>Remove Authorization from Group</source>
@@ -3283,7 +3283,7 @@ Procedere?</translation>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation>Chat di Gruppo</translation>
+        <translation>Conferenze</translation>
     </message>
     <message>
         <source>Always play sound</source>
@@ -3812,33 +3812,33 @@ Questa opzione ha effetto solo se accetta automaticamente è disattivata.</trans
     </message>
     <message>
         <source>Groupchat</source>
-        <translation>Chat di Gruppo</translation>
+        <translation>Conferenza</translation>
     </message>
     <message>
         <source>Enable autojoin for bookmarked groupchats</source>
-        <translation>Abilita auto-adesione per le chat di gruppo  nei segnalibri</translation>
+        <translation>Abilita auto-adesione per le conferenze nei segnalibri</translation>
     </message>
     <message>
         <source>Hide groupchat on auto-join</source>
-        <translation>Nascondi chat di gruppo all&apos;auto-adesione</translation>
+        <translation>Nascondi conferenza all&apos;auto-adesione</translation>
     </message>
     <message>
         <source>Enable HTML rendering in groupchat chat window</source>
-        <translation>Abilita rendering HTML nelle finestre di chat di gruppo</translation>
+        <translation>Abilita rendering HTML nella finestra di conferenza</translation>
     </message>
     <message>
         <source>Disable autojoin to following groupchats:
 (specify JIDs)</source>
-        <translation>Disabilita auto-adesione per le seguenti chat di gruppo:
+        <translation>Disabilita auto-adesione per le seguenti conferenze:
 (specifica i JID)</translation>
     </message>
     <message>
         <source>Groupchat leave status message:</source>
-        <translation>Messaggio di stato abbandono chat di gruppo:</translation>
+        <translation>Messaggio di abbandono conferenza:</translation>
     </message>
     <message>
         <source>Place groupchat roster at left</source>
-        <translation>Posiziona le chat di gruppo della lista contatti a sinistra</translation>
+        <translation>Posiziona la lista contatti della conferenza a sinistra</translation>
     </message>
     <message>
         <source>Show groups</source>
@@ -3998,11 +3998,11 @@ Questa opzione ha effetto solo se accetta automaticamente è disattivata.</trans
     </message>
     <message>
         <source>Groupchat roster coloring:</source>
-        <translation>Colorazione lista contatti nelle chat di gruppo:</translation>
+        <translation>Colorazione lista contatti nelle conferenze:</translation>
     </message>
     <message>
         <source>Enable sound notifications for every groupchat message</source>
-        <translation>Abilita notifiche sonore per ogni messaggio nelle chat di gruppo</translation>
+        <translation>Abilita notifiche sonore per ogni messaggio nelle conferenze</translation>
     </message>
     <message>
         <source>ToolTip text color:</source>
@@ -4124,7 +4124,7 @@ Importante; gran parte delle opzioni sono importanti impostazioni di sistema, qu
     </message>
     <message>
         <source>Allow groupchat highlight events</source>
-        <translation>Permetti evidenziazione eventi delle chat di gruppo</translation>
+        <translation>Permetti evidenziazione eventi delle conferenze</translation>
     </message>
     <message>
         <source>Enable multirow tabs</source>
@@ -4611,7 +4611,7 @@ Motivo: %3</translation>
     </message>
     <message>
         <source>Copy Groupchat JID</source>
-        <translation>Copia JID della Chat di Gruppo</translation>
+        <translation>Copia JID della Conferenza</translation>
     </message>
     <message>
         <source> by %1</source>
@@ -4659,11 +4659,11 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Unable to join groupchat.	Reason: %1</source>
-        <translation type="vanished">Impossibile unirsi alla chat di gruppo.	Motivo: %1</translation>
+        <translation type="vanished">Impossibile unirsi alla conferenza.	Motivo: %1</translation>
     </message>
     <message>
         <source>Unexpected groupchat error: %1</source>
-        <translation>Errore inaspettato della chat di gruppo: %1</translation>
+        <translation>Errore inaspettato nella conferenza: %1</translation>
     </message>
     <message>
         <source>Please choose a different nickname</source>
@@ -4851,7 +4851,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Unable to join groupchat.    Reason: %1</source>
-        <translation type="unfinished"/>
+        <translation>Impossibile unirsi alla conferenza. Motivo: %1</translation>
     </message>
 </context>
 <context>
@@ -5147,7 +5147,7 @@ Hai perso la partita.</translation>
     <name>GeneralGroupchat</name>
     <message>
         <source>GeneralGroupchatUI</source>
-        <translation>UIGeneraleChatDiGruppo</translation>
+        <translation>GeneralGroupchatUI</translation>
     </message>
     <message>
         <source>Enable word highlighting</source>
@@ -5163,11 +5163,11 @@ Hai perso la partita.</translation>
     </message>
     <message>
         <source>Words which will cause a notification in group chat.</source>
-        <translation>Parole che causano una notifica nella chat di gruppo.</translation>
+        <translation>Parole che causano una notifica nella conferenza.</translation>
     </message>
     <message>
         <source>This is the list of words which when said in group chat will cause the user to be notified.</source>
-        <translation>Questa è la lista di parole che quando sono dette in una chat di gruppo causano una notifica all&apos;utente.</translation>
+        <translation>Questa è la lista di parole che quando sono dette in una conferenza causano una notifica all&apos;utente.</translation>
     </message>
     <message>
         <source>Type a new word here and press &quot;Add Word&quot; for it to be added to the highlight list</source>
@@ -5203,11 +5203,11 @@ Hai perso la partita.</translation>
     </message>
     <message>
         <source>Colors used for nicks in groupchat</source>
-        <translation>Colori usati per i soprannomi nelle chat di gruppo</translation>
+        <translation>Colori usati per i soprannomi nelle conferenze</translation>
     </message>
     <message>
         <source>This is the list of colours with which nicks will be drawn in group chat.</source>
-        <translation>Questa è la lista dei colori con cui i soprannomi saranno disegnati nelle chat di gruppo.</translation>
+        <translation>Questa è la lista dei colori con cui i soprannomi saranno disegnati nelle conferenze.</translation>
     </message>
     <message>
         <source>Type a colourcode here, or press the palette to the right</source>
@@ -5622,11 +5622,11 @@ Per inviare comandi, basta usare normali messaggi, uindi questo plugin funzioner
     <name>GroupChatBrowseWindowUI</name>
     <message>
         <source>Groupchat</source>
-        <translation>Chat di Gruppo</translation>
+        <translation>Conferenza</translation>
     </message>
     <message>
         <source>Groupchat server:</source>
-        <translation>Server della chat di gruppo</translation>
+        <translation>Server della conferenza</translation>
     </message>
     <message>
         <source>&amp;Browse</source>
@@ -5634,11 +5634,11 @@ Per inviare comandi, basta usare normali messaggi, uindi questo plugin funzioner
     </message>
     <message>
         <source>Specify groupchat name manually:</source>
-        <translation>Specifica il nome della chat di gruppo manualmente</translation>
+        <translation>Specifica il nome della conferenza manualmente</translation>
     </message>
     <message>
         <source>Show your name in the groupchat as:</source>
-        <translation>Mostra il tuo nome nella chat di gruppo come:</translation>
+        <translation>Mostra il tuo nome nella conferenza come:</translation>
     </message>
 </context>
 <context>
@@ -5668,7 +5668,7 @@ Per inviare comandi, basta usare normali messaggi, uindi questo plugin funzioner
     <name>GroupChatTopicAddLangDlg</name>
     <message>
         <source>Add Language</source>
-        <translation type="unfinished"/>
+        <translation>Aggiungi Lingua</translation>
     </message>
     <message>
         <source>Language</source>
@@ -5676,22 +5676,22 @@ Per inviare comandi, basta usare normali messaggi, uindi questo plugin funzioner
     </message>
     <message>
         <source>Script</source>
-        <translation type="unfinished"/>
+        <translation>Script</translation>
     </message>
     <message>
         <source>Country</source>
-        <translation type="unfinished"/>
+        <translation>Nazione</translation>
     </message>
 </context>
 <context>
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
-        <translation>Stile Messaggi Chat Di Gruppo</translation>
+        <translation>Stile Messaggi Conferenze</translation>
     </message>
     <message>
         <source>Configure your groupchat theme here</source>
-        <translation>Configura il tuo tema di chat di gruppo qui</translation>
+        <translation>Configura il tuo tema delle conferenze qui</translation>
     </message>
 </context>
 <context>
@@ -5721,7 +5721,7 @@ Per inviare comandi, basta usare normali messaggi, uindi questo plugin funzioner
     <name>GroupchatTopicDlg</name>
     <message>
         <source>Set Groupchat Topic</source>
-        <translation>Imposta Argomento della Chat di Gruppo</translation>
+        <translation>Imposta Argomento della Conferenza</translation>
     </message>
     <message>
         <source>Text of topic</source>
@@ -5729,15 +5729,15 @@ Per inviare comandi, basta usare normali messaggi, uindi questo plugin funzioner
     </message>
     <message>
         <source>Any Language</source>
-        <translation type="unfinished"/>
+        <translation>Ogni Lingua</translation>
     </message>
     <message>
         <source>Any Country</source>
-        <translation type="unfinished"/>
+        <translation>Ogni Nazione</translation>
     </message>
     <message>
         <source>Any Script</source>
-        <translation type="unfinished"/>
+        <translation>Ogni Script</translation>
     </message>
 </context>
 <context>
@@ -7380,7 +7380,7 @@ Nota: Per funzionare correttamente, questa opzione options.html.chat.render⇥de
     <name>MUCJoin</name>
     <message>
         <source>Join Groupchat</source>
-        <translation>Entra nella Chat di Gruppo</translation>
+        <translation>Entra nella Conferenza</translation>
     </message>
     <message>
         <source>Identity:</source>
@@ -7468,7 +7468,7 @@ Nota: Per funzionare correttamente, questa opzione options.html.chat.render⇥de
     <message>
         <source>Unable to join groupchat.
 Reason: %1</source>
-        <translation>Impossibile entrare nella chat di gruppo.
+        <translation>Impossibile entrare nella conferenza.
 Motivo: %1</translation>
     </message>
 </context>
@@ -8896,7 +8896,7 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Play sounds for all messages in groupchat</source>
-        <translation>Riproduci suoni per tutti i messaggi in chat di gruppo</translation>
+        <translation>Riproduci suoni per tutti i messaggi in conferenza</translation>
     </message>
     <message>
         <source>Enter a filename or !beep for a system beep</source>
@@ -9517,11 +9517,11 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Groupchat</source>
-        <translation>Chat di Gruppo</translation>
+        <translation>Conferenza</translation>
     </message>
     <message>
         <source>Enable Stop Spam for private messages in groupchat</source>
-        <translation>Abilita Stop spam per messaggi privati nelle chat di gruppo</translation>
+        <translation>Abilita Stop spam per messaggi privati nelle conferenze</translation>
     </message>
     <message>
         <source>Enable Stop Spam for affiliations:</source>
@@ -10167,11 +10167,11 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     <name>OptionsTabGroupchat</name>
     <message>
         <source>Groupchat</source>
-        <translation>Chat di Gruppo</translation>
+        <translation>Conferenza</translation>
     </message>
     <message>
         <source>Configure the groupchat</source>
-        <translation>Configura la chat di gruppo</translation>
+        <translation>Configura la conferenza</translation>
     </message>
 </context>
 <context>
@@ -10294,7 +10294,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Enables automatic substitution of the first letter in a sentence to the same capital letter</source>
-        <translation type="unfinished"/>
+        <translation>Abilita sostituzione automatica della prima lettera in una frase con la stessa lettere maiuscola</translation>
     </message>
 </context>
 <context>
@@ -10456,7 +10456,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Play sounds for all events in groupchat, not only for mentioning of your nick.</source>
-        <translation>Emetti suoni per tutte le azioni nelle chat di gruppo, non solo per quelle inerenti il tuo soprannome.</translation>
+        <translation>Emetti suoni per tutte le azioni nelle conferenze, non solo per quelle inerenti il tuo soprannome.</translation>
     </message>
     <message>
         <source>Windows Sound</source>
@@ -10599,7 +10599,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Groupchat</source>
-        <translation>Chat di Gruppo</translation>
+        <translation>Conferenza</translation>
     </message>
 </context>
 <context>
@@ -10723,7 +10723,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Groupchats</source>
-        <translation>Chat di Gruppo</translation>
+        <translation>Conferenze</translation>
     </message>
     <message>
         <source>Show popup at version iq</source>
@@ -12284,11 +12284,11 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Join Groupchat</source>
-        <translation>Entra nella Chat di Gruppo</translation>
+        <translation>Unisciti alla Conferenza</translation>
     </message>
     <message>
         <source>Join &amp;Groupchat</source>
-        <translation>Entra nella Chat di &amp;Gruppo</translation>
+        <translation>Unisciti alla &amp;Conferenza</translation>
     </message>
     <message>
         <source>Account Setup</source>
@@ -12648,7 +12648,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Groupchat basic buttons</source>
-        <translation>Pulsanti base di chat di gruppo</translation>
+        <translation>Pulsanti base di conferenze</translation>
     </message>
     <message>
         <source>Configure Room</source>
@@ -13027,7 +13027,7 @@ La migrazione è possibile con Psi-0.15</translation>
     </message>
     <message>
         <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>Invia richiesta di chat di gruppo a &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation>Invia richiesta di conferenza a &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Add</source>
@@ -13143,19 +13143,19 @@ La migrazione è possibile con Psi-0.15</translation>
     <message>
         <source>Unable to join groupchat.
 Reason: %1</source>
-        <translation>Impossibile entrare nella chat di gruppo.
+        <translation>Impossibile entrare nella conferenza.
 Motivo: %1</translation>
     </message>
     <message>
         <source>Unable to create groupchat.
 Reason: %1</source>
-        <translation>Impossibile creare la chat di gruppo.
+        <translation>Impossibile creare la conferenza.
 Motivo: %1</translation>
     </message>
     <message>
         <source>Unable to destroy groupchat.
 Reason: %1</source>
-        <translation>Impossibile distruggere la chat di gruppo.
+        <translation>Impossibile distruggere la conferenza.
 Motivo: %1</translation>
     </message>
 </context>
@@ -13167,11 +13167,11 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Create Groupchat</source>
-        <translation>Crea Chat di Gruppo</translation>
+        <translation>Crea Conferenza</translation>
     </message>
     <message>
         <source>Choose a name for the groupchat you want to create:</source>
-        <translation>Scegli un nome per il gruppo di chat che vuoi creare:</translation>
+        <translation>Scegli un nome per la conferenza che vuoi creare:</translation>
     </message>
 </context>
 <context>
@@ -14596,7 +14596,7 @@ Password: %5</translation>
     </message>
     <message>
         <source>Groupchat Message</source>
-        <translation>Messaggio Chat di Gruppo</translation>
+        <translation>Messaggio Conferenza</translation>
     </message>
     <message>
         <source>Error</source>
@@ -14704,7 +14704,7 @@ Password: %5</translation>
     </message>
     <message>
         <source>Groupchat highlight</source>
-        <translation>Evidenzia Chat di Gruppo</translation>
+        <translation>Evidenzia Conferenza</translation>
     </message>
     <message>
         <source>Incoming Call</source>
@@ -14728,7 +14728,7 @@ Password: %5</translation>
     </message>
     <message>
         <source>[Groupchat highlight]</source>
-        <translation>[Evidenzia Chat di Gruppo]</translation>
+        <translation>[Evidenzia Conferenza]</translation>
     </message>
     <message>
         <source>[Incoming Call]</source>
@@ -14937,7 +14937,7 @@ Grazie per la tua pazienza.</translation>
     </message>
     <message>
         <source>Any Language</source>
-        <translation type="unfinished"/>
+        <translation>Ogni Lingua</translation>
     </message>
 </context>
 <context>
@@ -15109,7 +15109,7 @@ La prima volta che installi questo plugin, è necessario accedere a tutti i tuoi
     <name>RoomModel</name>
     <message>
         <source>Groupchat name</source>
-        <translation>Nome chat di gruppo</translation>
+        <translation>Nome conferenza</translation>
     </message>
     <message>
         <source>Auto-join</source>
@@ -15540,7 +15540,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Join Group Chat</source>
-        <translation>Unisciti alla Chat di Gruppo</translation>
+        <translation>Unisciti alla Conferenza</translation>
     </message>
     <message>
         <source>Account Setup</source>
@@ -16246,12 +16246,12 @@ Con le impostazioni del plugin puoi:
 * Abilita il salvataggio dei messaggi bloccati nella cronologia del contatto
 * Definire il numero dei pacchetti soggetto
 * Impostare l&apos;intervallo di tempo dopo il quale azzerare il numero di quante domande saranno inviate
-* Abilita il blocco dei messaggi privati nelle chat di gruppo
-* Scegli per quali ranghi e ruoli dei partecipanti delle chat di gruppo disattivare il blocco
+* Abilita il blocco dei messaggi privati nelle conferenze
+* Scegli per quali ranghi e ruoli dei partecipanti delle conferenze disattivare il blocco
 * Attiva deadlock nei messaggi privati ai partecipanti che non rientrano nella lista delle eccezioni.
 
-Le regole sono controllate da cima a fondo. se una regola è abilitata - stopspam viene innescato altrimenti stpspam non è innescato. Nel caso in cui nessuna delle regole innesca stopspam per i messaggi dalla lista contatti, puoi specificare se il plugin si attiverà o meno. Per messaggi privati dalle chat di gruppo, sarà sempre funzionante.
-Domande e risposte così come un elenco di regole sono comuni per i messaggi normali e per i messaggi privati nelle chat di gruppo.
+Le regole sono controllate da cima a fondo. se una regola è abilitata - stopspam viene innescato altrimenti stpspam non è innescato. Nel caso in cui nessuna delle regole innesca stopspam per i messaggi dalla lista contatti, puoi specificare se il plugin si attiverà o meno. Per messaggi privati dalle conferenze, sarà sempre funzionante.
+Domande e risposte così come un elenco di regole sono comuni per i messaggi normali e per i messaggi privati nelle conferenze.
 Quando un utente supera il test, gli verrà inviata una nuova richiesta di autorizzazione. Verrà segnalato nel messaggio di ritorno che è stata data la risposta corretta alla domanda di sicurezza.
 Il plugin tiene un registro di messaggi bloccati, che puoi visualizzare attraverso le impostazioni del plugin. Il pulsante di &quot;Reset&quot; eliminail registro e azzera il contatore di messaggi bloccati.
 
@@ -16693,13 +16693,13 @@ And these work only in groupchat dialog:
 &lt;ul&gt;
 &lt;li&gt;&quot;/nick &amp;lt;new_nickname&amp;gt;&quot; to change your nickname&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>Puoi digitare questi comandi speciali nelle finestre di chat e nelle chat di gruppo:
+        <translation>Puoi digitare questi comandi speciali nelle finestre di chat e nelle conferenze:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; per pulire la visuale di chat&lt;/li&gt;
 &lt;li&gt;&quot;/me &amp;lt;messaggio&amp;gt;&quot; &apos;/me&apos; è sostituito dal tuo soprannome&lt;/li&gt;
-&lt;/ul&gt;E questi funzionano solo nelle chat di gruppo:
+&lt;/ul&gt;E questi funzionano solo nelle conferenze:
 &lt;ul&gt;
-&lt;li&gt;&quot;/nick &amp;lt;nuovo_soprannome&amp;gt;&quot; per cambiare il tuo soprannomee&lt;/li&gt;
+&lt;li&gt;&quot;/nick &amp;lt;nuovo_soprannome&amp;gt;&quot; per cambiare il tuo soprannome&lt;/li&gt;
 &lt;/ul&gt;</translation>
     </message>
     <message>
@@ -16748,7 +16748,7 @@ Nota: Alcuni server possono disabilitare la registrazione ai trasporti agli uten
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
-        <translation>Se chatti nelle chat di gruppo frequentemente, il completamento dei soprannomi è una funzione inestimabile. La scorciatoiua più utile è &lt;tt&gt;Tab-Tab&lt;/tt&gt;; quando usato all&apos;inizio di una nuova linea o dopo uno step inserisce il soprannome della persona che si è rivolta a te direttamente per ultima. Puoi quindi continuare a premere &lt;tt&gt;Tab&lt;/tt&gt; e appariranno a rotazione i soprannomi di tutte le persone nella stanza.&lt;br&gt;&lt;br/&gt;Per uno scenario più complicato:&lt;tt&gt;mblsha&lt;/tt&gt;,&lt;tt&gt;Monster&lt;/tt&gt; e &lt;tt&gt;mbl-revolution&lt;/tt&gt; stanno tutti seduti nella stessa stanza. Se scrivi &lt;tt&gt;m&lt;/tt&gt; e premi &lt;tt&gt;Tab&lt;/tt&gt; non accadrà nulla di particolare. Questo perché ci sono più soprannomi che cominciano con &lt;tt&gt;m&lt;/tt&gt;, e puoi sia continuare con &lt;tt&gt;Tab&lt;/tt&gt; per far apparire a rotazione tutti i soprannomi che cominciano con &lt;tt&gt;m&lt;/tt&gt;, sia scrivere più lettere fino a quando c&apos;è una completazione uinivoca. Quando premi il tasto &lt;tt&gt;b&lt;/tt&gt; e poi premi &lt;tt&gt;Tab&lt;/tt&gt; completerà con &lt;tt&gt;mbl&lt;/tt&gt;. Più usi questa funzione più è probabile che ti piaccia e che tu faccia affidamento su di essa. Prova la completazione del soprannome su qualcuno e realizzerai quanto sia potente.</translation>
+        <translation>Se chatti nelle conferenze frequentemente, il completamento dei soprannomi è una funzione inestimabile. La scorciatoia più utile è &lt;tt&gt;Tab-Tab&lt;/tt&gt;; quando usato all&apos;inizio di una nuova linea o dopo uno step inserisce il soprannome della persona che si è rivolta a te direttamente per ultima. Puoi quindi continuare a premere &lt;tt&gt;Tab&lt;/tt&gt; e appariranno a rotazione i soprannomi di tutte le persone nella stanza.&lt;br&gt;&lt;br/&gt;Per uno scenario più complicato:&lt;tt&gt;mblsha&lt;/tt&gt;,&lt;tt&gt;Monster&lt;/tt&gt; e &lt;tt&gt;mbl-revolution&lt;/tt&gt; stanno tutti seduti nella stessa stanza. Se scrivi &lt;tt&gt;m&lt;/tt&gt; e premi &lt;tt&gt;Tab&lt;/tt&gt; non accadrà nulla di particolare. Questo perché ci sono più soprannomi che cominciano con &lt;tt&gt;m&lt;/tt&gt;, e puoi sia continuare con &lt;tt&gt;Tab&lt;/tt&gt; per far apparire a rotazione tutti i soprannomi che cominciano con &lt;tt&gt;m&lt;/tt&gt;, sia scrivere più lettere fino a quando c&apos;è un completamento univoco. Quando premi il tasto &lt;tt&gt;b&lt;/tt&gt; e poi premi &lt;tt&gt;Tab&lt;/tt&gt; completerà con &lt;tt&gt;mbl&lt;/tt&gt;. Più usi questa funzione più è probabile che ti piaccia e che tu faccia affidamento su di essa. Prova il completamento del soprannome su qualcuno e capirai quanto sia potente.</translation>
     </message>
     <message>
         <source>This is the last tip.
@@ -16926,7 +16926,7 @@ Nota: Alcuni server possono disabilitare la registrazione ai trasporti agli uten
     </message>
     <message>
         <source>Join groupchat</source>
-        <translation>Entra nella Chat di Gruppo</translation>
+        <translation>Unisciti alla conferenza</translation>
     </message>
     <message>
         <source>Copy location</source>
@@ -17561,7 +17561,7 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation>Chat di Gruppo</translation>
+        <translation>Conferenza</translation>
     </message>
     <message>
         <source>Gateway</source>
@@ -17866,7 +17866,7 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Disable invitations from groupchat</source>
-        <translation>Disabilita inviti da chat di gruppo</translation>
+        <translation>Disabilita inviti da conferenze</translation>
     </message>
     <message>
         <source>Save window height and width</source>
