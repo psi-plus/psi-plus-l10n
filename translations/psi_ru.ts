@@ -5678,7 +5678,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Script</source>
-        <translation>Скрипт</translation>
+        <translation>Алфавит</translation>
     </message>
     <message>
         <source>Country</source>
