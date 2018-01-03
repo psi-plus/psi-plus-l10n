@@ -8109,6 +8109,14 @@ Etykiety: %1</translation>
         <source>Highlight:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Link</source>
+        <translation type="unfinished">Link</translation>
+    </message>
+    <message>
+        <source>Visited Link</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptAppearanceMisc</name>
@@ -13038,6 +13046,10 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Advanc&amp;ed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add To Bookmarks</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

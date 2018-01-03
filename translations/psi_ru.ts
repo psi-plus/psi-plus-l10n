@@ -8171,6 +8171,14 @@ Tags: %1</source>
         <source>Highlight:</source>
         <translation>Выделение:</translation>
     </message>
+    <message>
+        <source>Link</source>
+        <translation type="unfinished">Ссылка</translation>
+    </message>
+    <message>
+        <source>Visited Link</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptAppearanceMisc</name>
@@ -8514,7 +8522,7 @@ Tags: %1</source>
     <name>OptInput</name>
     <message>
         <source>Form</source>
-        <translation>Форма</translation>
+        <translation type="vanished">Форма</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -8597,7 +8605,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation>Первую букву в предложении делать заглавной</translation>
+        <translation type="vanished">Первую букву в предложении делать заглавной</translation>
     </message>
 </context>
 <context>
@@ -13135,6 +13143,10 @@ Migration is possible with Psi-0.15</source>
     <message>
         <source>Advanc&amp;ed</source>
         <translation>Дополнитель&amp;но</translation>
+    </message>
+    <message>
+        <source>Add To Bookmarks</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
