@@ -10974,7 +10974,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>psi/keys64</source>
-        <translation type="unfinished"></translation>
+        <translation>psi/keys64</translation>
     </message>
 </context>
 <context>
