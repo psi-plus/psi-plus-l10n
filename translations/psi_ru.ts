@@ -8173,11 +8173,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Link</source>
-        <translation type="unfinished">Ссылка</translation>
+        <translation>Ссылка</translation>
     </message>
     <message>
         <source>Visited Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Посещённая ссылка</translation>
     </message>
 </context>
 <context>
@@ -13146,7 +13146,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Add To Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить в закладки</translation>
     </message>
 </context>
 <context>
