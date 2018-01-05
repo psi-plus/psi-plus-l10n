@@ -10952,6 +10952,10 @@ Kérlek add meg a jelszavad:</translation>
         <source>&amp;OK</source>
         <translation>&amp;Rendben</translation>
     </message>
+    <message>
+        <source>psi/keys64</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PassphraseDlg</name>

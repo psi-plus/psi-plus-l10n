@@ -10842,6 +10842,10 @@ Vnesite svojo šifrirno frazo:</translation>
         <source>&amp;OK</source>
         <translation>&amp;V redu</translation>
     </message>
+    <message>
+        <source>psi/keys64</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>PassphraseDlg</name>

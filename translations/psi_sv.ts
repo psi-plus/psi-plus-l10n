@@ -10843,6 +10843,10 @@ Skriv din lösenfras nedanför:</translation>
         <source>&amp;OK</source>
         <translation>&amp;Ok</translation>
     </message>
+    <message>
+        <source>psi/keys64</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>PassphraseDlg</name>

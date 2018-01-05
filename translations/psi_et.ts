@@ -10663,6 +10663,10 @@ Please enter your passphrase below:</source>
         <source>&amp;OK</source>
         <translation>&amp;OK</translation>
     </message>
+    <message>
+        <source>psi/keys64</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PassphraseDlg</name>

@@ -10950,6 +10950,10 @@ Please enter your passphrase below:</source>
         <source>&amp;OK</source>
         <translation>確定(&amp;O)</translation>
     </message>
+    <message>
+        <source>psi/keys64</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>PassphraseDlg</name>

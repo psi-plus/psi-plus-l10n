@@ -10952,6 +10952,10 @@ Por favor inserta tu contraseña abajo:</translation>
         <source>&amp;OK</source>
         <translation>&amp;Aceptar</translation>
     </message>
+    <message>
+        <source>psi/keys64</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>PassphraseDlg</name>

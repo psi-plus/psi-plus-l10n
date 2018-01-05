@@ -10891,6 +10891,10 @@ Veuillez saisir votre mot de passe ci-dessous :</translation>
         <source>&amp;OK</source>
         <translation>&amp;OK</translation>
     </message>
+    <message>
+        <source>psi/keys64</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>PassphraseDlg</name>
