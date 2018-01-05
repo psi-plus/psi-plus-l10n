@@ -297,15 +297,15 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <name>AccountLoginPassword</name>
     <message>
         <source>Please enter the password for %1:</source>
-        <translation>Please enter the password for %1:</translation>
+        <translation type="vanished">Please enter the password for %1:</translation>
     </message>
     <message>
         <source>Please enter your password:</source>
-        <translation>Please enter your password:</translation>
+        <translation type="vanished">Please enter your password:</translation>
     </message>
     <message>
         <source>Need Password</source>
-        <translation>Need Password</translation>
+        <translation type="vanished">Need Password</translation>
     </message>
 </context>
 <context>

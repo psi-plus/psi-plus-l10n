@@ -284,15 +284,15 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <name>AccountLoginPassword</name>
     <message>
         <source>Please enter the password for %1:</source>
-        <translation>Molim, unesite lozinku za  %1:</translation>
+        <translation type="vanished">Molim, unesite lozinku za  %1:</translation>
     </message>
     <message>
         <source>Please enter your password:</source>
-        <translation>Molim unesite vašu lozinku:</translation>
+        <translation type="vanished">Molim unesite vašu lozinku:</translation>
     </message>
     <message>
         <source>Need Password</source>
-        <translation>Potrebna je lozinka</translation>
+        <translation type="vanished">Potrebna je lozinka</translation>
     </message>
 </context>
 <context>

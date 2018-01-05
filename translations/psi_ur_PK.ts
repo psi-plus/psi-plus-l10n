@@ -284,15 +284,15 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <name>AccountLoginPassword</name>
     <message>
         <source>Please enter the password for %1:</source>
-        <translation>‫%1 کے لیے پاس ورڈ داخل کریں:</translation>
+        <translation type="vanished">‫%1 کے لیے پاس ورڈ داخل کریں:</translation>
     </message>
     <message>
         <source>Please enter your password:</source>
-        <translation>اپنا پاس ورڈ داخل کریں:‏</translation>
+        <translation type="vanished">اپنا پاس ورڈ داخل کریں:‏</translation>
     </message>
     <message>
         <source>Need Password</source>
-        <translation>پاس ورڈ چاہیے</translation>
+        <translation type="vanished">پاس ورڈ چاہیے</translation>
     </message>
 </context>
 <context>

@@ -286,15 +286,15 @@ Jelöld be az &lt;b&gt;Új Fiók Regisztrálása&lt;/b&gt; lehetőséget ha szer
     <name>AccountLoginPassword</name>
     <message>
         <source>Please enter the password for %1:</source>
-        <translation>Add meg a jelszót %1 számára:</translation>
+        <translation type="vanished">Add meg a jelszót %1 számára:</translation>
     </message>
     <message>
         <source>Please enter your password:</source>
-        <translation>Kérlek add meg a jelszavad:</translation>
+        <translation type="vanished">Kérlek add meg a jelszavad:</translation>
     </message>
     <message>
         <source>Need Password</source>
-        <translation>Jelszó szükséges</translation>
+        <translation type="vanished">Jelszó szükséges</translation>
     </message>
 </context>
 <context>

@@ -286,15 +286,15 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <name>AccountLoginPassword</name>
     <message>
         <source>Please enter the password for %1:</source>
-        <translation>Набярыце пароль для %1:</translation>
+        <translation type="vanished">Набярыце пароль для %1:</translation>
     </message>
     <message>
         <source>Please enter your password:</source>
-        <translation>Набярыце пароль:</translation>
+        <translation type="vanished">Набярыце пароль:</translation>
     </message>
     <message>
         <source>Need Password</source>
-        <translation>Патрабуецца пароль</translation>
+        <translation type="vanished">Патрабуецца пароль</translation>
     </message>
 </context>
 <context>

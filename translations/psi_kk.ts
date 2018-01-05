@@ -284,15 +284,15 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <name>AccountLoginPassword</name>
     <message>
         <source>Please enter the password for %1:</source>
-        <translation>%1 үшін парольді енгізіңіз:</translation>
+        <translation type="vanished">%1 үшін парольді енгізіңіз:</translation>
     </message>
     <message>
         <source>Please enter your password:</source>
-        <translation>Өз пароліңізді енгізіңіз:</translation>
+        <translation type="vanished">Өз пароліңізді енгізіңіз:</translation>
     </message>
     <message>
         <source>Need Password</source>
-        <translation>Пароль керек</translation>
+        <translation type="vanished">Пароль керек</translation>
     </message>
 </context>
 <context>

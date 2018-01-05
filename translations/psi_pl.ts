@@ -284,15 +284,15 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <name>AccountLoginPassword</name>
     <message>
         <source>Please enter the password for %1:</source>
-        <translation>Proszę podać hasło dla %1:</translation>
+        <translation type="vanished">Proszę podać hasło dla %1:</translation>
     </message>
     <message>
         <source>Please enter your password:</source>
-        <translation>Proszę podać hasło:</translation>
+        <translation type="vanished">Proszę podać hasło:</translation>
     </message>
     <message>
         <source>Need Password</source>
-        <translation>Hasło jest wymagane</translation>
+        <translation type="vanished">Hasło jest wymagane</translation>
     </message>
 </context>
 <context>
