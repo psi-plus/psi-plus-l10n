@@ -8181,7 +8181,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Visited Link</source>
-        <translation type="unfinished"/>
+        <translation>Відвідане посилання</translation>
     </message>
 </context>
 <context>
@@ -10978,7 +10978,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>psi/keys64</source>
-        <translation type="unfinished"/>
+        <translation>psi/keys64</translation>
     </message>
 </context>
 <context>
@@ -13152,7 +13152,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Add To Bookmarks</source>
-        <translation type="unfinished"/>
+        <translation>Додати закладку</translation>
     </message>
 </context>
 <context>
