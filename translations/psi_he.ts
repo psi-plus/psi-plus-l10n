@@ -8203,6 +8203,18 @@ Tags: %1</source>
         <source>Language</source>
         <translation>שפה</translation>
     </message>
+    <message>
+        <source>Keep accounts&apos; passwords in more secure system keyring manager instead of profile settings.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use system keyring manager</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>99999</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>OptAvCall</name>

@@ -8212,7 +8212,7 @@ Etykiety: %1</translation>
     </message>
     <message>
         <source>99999; </source>
-        <translation>99999; </translation>
+        <translation type="vanished">99999; </translation>
     </message>
     <message>
         <source>(1 TCP, 4 UDP)</source>
@@ -8229,6 +8229,18 @@ Etykiety: %1</translation>
     <message>
         <source>Language</source>
         <translation>Język</translation>
+    </message>
+    <message>
+        <source>Keep accounts&apos; passwords in more secure system keyring manager instead of profile settings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use system keyring manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>99999</source>
+        <translation type="unfinished">99999</translation>
     </message>
 </context>
 <context>

@@ -8068,10 +8068,6 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>99999; </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>(1 TCP, 4 UDP)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8085,6 +8081,18 @@ Tags: %1</source>
     </message>
     <message>
         <source>Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep accounts&apos; passwords in more secure system keyring manager instead of profile settings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use system keyring manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>99999</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
