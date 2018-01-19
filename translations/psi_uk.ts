@@ -8298,15 +8298,15 @@ Tags: %1</source>
     </message>
     <message>
         <source>Keep accounts&apos; passwords in more secure system keyring manager instead of profile settings.</source>
-        <translation type="unfinished"/>
+        <translation>Зберігати паролі облікових записів в більш безпечному системному менеджері паролів замість налаштувань профілю.</translation>
     </message>
     <message>
         <source>Use system keyring manager</source>
-        <translation type="unfinished"/>
+        <translation>Використовувати системний менеджер паролів</translation>
     </message>
     <message>
         <source>99999</source>
-        <translation type="unfinished"/>
+        <translation>99999</translation>
     </message>
 </context>
 <context>
