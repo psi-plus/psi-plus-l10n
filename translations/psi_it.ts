@@ -8177,7 +8177,7 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Visited Link</source>
-        <translation type="unfinished"/>
+        <translation>Link Visitato</translation>
     </message>
 </context>
 <context>
@@ -8302,7 +8302,7 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>99999</source>
-        <translation type="unfinished"/>
+        <translation>99999</translation>
     </message>
 </context>
 <context>
@@ -9238,7 +9238,7 @@ I nomi delle opzioni non possono essere vuoti, finire con &apos;.&apos; o conten
     </message>
     <message>
         <source>Don&apos;t hide popup if status is Away or XA</source>
-        <translation>Non nascondere il popup se lo stato è Assente o XA</translation>
+        <translation>Non nascondere il popup se lo stato è Assente o Indisponibile</translation>
     </message>
     <message>
         <source>Disable notifications if status is DND</source>
@@ -10986,7 +10986,7 @@ Inserisci la tua password qui sotto:</translation>
     </message>
     <message>
         <source>psi/keys64</source>
-        <translation type="unfinished"/>
+        <translation>psi/keys64</translation>
     </message>
 </context>
 <context>
@@ -13159,7 +13159,7 @@ La migrazione è possibile con Psi-0.15</translation>
     </message>
     <message>
         <source>Add To Bookmarks</source>
-        <translation type="unfinished"/>
+        <translation>Aggiungi Ai Segnalibri</translation>
     </message>
 </context>
 <context>
