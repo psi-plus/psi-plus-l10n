@@ -4837,6 +4837,10 @@ Zdůvodnění: %1</translation>
         <source>Unable to join groupchat.    Reason: %1</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation>Vložit a poslat</translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -12652,6 +12656,10 @@ Důvod: %1.</translation>
         <source>Unpin Tab</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Templates</source>
+        <translation>Šablony</translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -12700,6 +12708,10 @@ Důvod: %1.</translation>
     <message>
         <source>turn on autojid</source>
         <translation>Zapnout autojid</translation>
+    </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation>Vložit a poslat</translation>
     </message>
 </context>
 <context>
@@ -15472,6 +15484,100 @@ Zdůvodnění: %1</translation>
     <message>
         <source>Cancel</source>
         <translation>Zrušit</translation>
+    </message>
+</context>
+<context>
+    <name>SendButtonTemplatesEditor</name>
+    <message>
+        <source>Template editor</source>
+        <translation>Editor šablon</translation>
+    </message>
+    <message>
+        <source>Templates</source>
+        <translation>Šablony</translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation>Přidat</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>Upravit</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Odstranit</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation>Ok</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Zrušit</translation>
+    </message>
+    <message>
+        <source>Add template string</source>
+        <translation>Přidat řětězec šablony</translation>
+    </message>
+    <message>
+        <source>Add template string as submenu</source>
+        <translation>Přidat řětězec šablony jako podnabídku</translation>
+    </message>
+    <message>
+        <source>Add separator</source>
+        <translation>Přidat oddělovač</translation>
+    </message>
+    <message>
+        <source>Add separator as submenu</source>
+        <translation>Přidat oddělovač jako podnabídku</translation>
+    </message>
+    <message>
+        <source>Up</source>
+        <translation>Nahoru</translation>
+    </message>
+    <message>
+        <source>Down</source>
+        <translation>Dolů</translation>
+    </message>
+    <message>
+        <source>&lt;separator&gt;</source>
+        <translation>&lt;oddělovač&gt;</translation>
+    </message>
+    <message>
+        <source>Edit template</source>
+        <translation>Upravit šablonu</translation>
+    </message>
+    <message>
+        <source>Input new template text</source>
+        <translation>Vlož text nové šablony</translation>
+    </message>
+    <message>
+        <source>Save templates</source>
+        <translation>Uložit šablony</translation>
+    </message>
+    <message>
+        <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
+        <translation>Šablona &quot;%1&quot; nebyla uložena!</translation>
+    </message>
+    <message>
+        <source>Continue?</source>
+        <translation>Pokračovat?</translation>
+    </message>
+</context>
+<context>
+    <name>SendButtonTemplatesMenu</name>
+    <message>
+        <source>Paste and &amp;Send</source>
+        <translation>Vložit a &amp;poslat</translation>
+    </message>
+    <message>
+        <source>&amp;Edit Templates</source>
+        <translation>&amp;Upravit šablony</translation>
+    </message>
+    <message>
+        <source>Only &amp;Paste</source>
+        <translation>Jenom &amp;Vložit</translation>
     </message>
 </context>
 <context>

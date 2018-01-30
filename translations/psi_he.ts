@@ -4807,6 +4807,10 @@ Reason: %1</source>
         <source>Unable to join groupchat.    Reason: %1</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation>הדבק ושלח</translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -12582,6 +12586,10 @@ Reason: %1.</source>
         <source>Unpin Tab</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Templates</source>
+        <translation>תבניות</translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -12630,6 +12638,10 @@ Reason: %1.</source>
     <message>
         <source>turn on autojid</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation>הדבק ושלח</translation>
     </message>
 </context>
 <context>
@@ -15382,6 +15394,100 @@ Reason: %1</source>
     <message>
         <source>Cancel</source>
         <translation>ביטול</translation>
+    </message>
+</context>
+<context>
+    <name>SendButtonTemplatesEditor</name>
+    <message>
+        <source>Template editor</source>
+        <translation>עורך תבנית</translation>
+    </message>
+    <message>
+        <source>Templates</source>
+        <translation>תבניות</translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation>הוסף</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>ערוך</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>הסר</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation>אישור</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>ביטול</translation>
+    </message>
+    <message>
+        <source>Add template string</source>
+        <translation>הוספת מחרוזת תבנית</translation>
+    </message>
+    <message>
+        <source>Add template string as submenu</source>
+        <translation>הוספת מחרוזת תבנית כתפריט משנה</translation>
+    </message>
+    <message>
+        <source>Add separator</source>
+        <translation>הוספת חוצץ</translation>
+    </message>
+    <message>
+        <source>Add separator as submenu</source>
+        <translation>הוספת חוצץ כתפריט משנה</translation>
+    </message>
+    <message>
+        <source>Up</source>
+        <translation>מעלה</translation>
+    </message>
+    <message>
+        <source>Down</source>
+        <translation>מטה</translation>
+    </message>
+    <message>
+        <source>&lt;separator&gt;</source>
+        <translation>&lt;חוצץ&gt;</translation>
+    </message>
+    <message>
+        <source>Edit template</source>
+        <translation>עריכת תבנית</translation>
+    </message>
+    <message>
+        <source>Input new template text</source>
+        <translation>הזנת תמליל תבנית חדשה</translation>
+    </message>
+    <message>
+        <source>Save templates</source>
+        <translation>שמירת תבניות</translation>
+    </message>
+    <message>
+        <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
+        <translation>התבנית &quot;%1&quot; לא נשמרה!</translation>
+    </message>
+    <message>
+        <source>Continue?</source>
+        <translation>המשך?</translation>
+    </message>
+</context>
+<context>
+    <name>SendButtonTemplatesMenu</name>
+    <message>
+        <source>Paste and &amp;Send</source>
+        <translation>הדבק ו&amp;שלח</translation>
+    </message>
+    <message>
+        <source>&amp;Edit Templates</source>
+        <translation>&amp;ערוך תבניות</translation>
+    </message>
+    <message>
+        <source>Only &amp;Paste</source>
+        <translation>ה&amp;דבק בלבד</translation>
     </message>
 </context>
 <context>

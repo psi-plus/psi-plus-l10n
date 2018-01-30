@@ -4860,6 +4860,10 @@ Reason: %1</source>
         <source>Unable to join groupchat.    Reason: %1</source>
         <translation>Неможливо увійти до конференції. Причина: %1</translation>
     </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation>Вставити та відправити</translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -12695,6 +12699,10 @@ Reason: %1.</source>
         <source>Unpin Tab</source>
         <translation>Відкріпити вкладку</translation>
     </message>
+    <message>
+        <source>Templates</source>
+        <translation>Шаблони</translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -12743,6 +12751,10 @@ Reason: %1.</source>
     <message>
         <source>turn on autojid</source>
         <translation>Увімкнути autojid</translation>
+    </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation>Вставити та відправити</translation>
     </message>
 </context>
 <context>
@@ -15521,6 +15533,100 @@ Reason: %1</source>
     <message>
         <source>Cancel</source>
         <translation>Скасувати</translation>
+    </message>
+</context>
+<context>
+    <name>SendButtonTemplatesEditor</name>
+    <message>
+        <source>Template editor</source>
+        <translation>Редактор шаблонів</translation>
+    </message>
+    <message>
+        <source>Templates</source>
+        <translation>Шаблони</translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation>Додати</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>Редагувати</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Видалити</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation>Ок</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Скасувати</translation>
+    </message>
+    <message>
+        <source>Add template string</source>
+        <translation>Додати рядок шаблону</translation>
+    </message>
+    <message>
+        <source>Add template string as submenu</source>
+        <translation>Додати рядок шаблону як підменю</translation>
+    </message>
+    <message>
+        <source>Add separator</source>
+        <translation>Додати роздилювач</translation>
+    </message>
+    <message>
+        <source>Add separator as submenu</source>
+        <translation>Додати роздилювач як підменю</translation>
+    </message>
+    <message>
+        <source>Up</source>
+        <translation>Вгору</translation>
+    </message>
+    <message>
+        <source>Down</source>
+        <translation>Донизу</translation>
+    </message>
+    <message>
+        <source>&lt;separator&gt;</source>
+        <translation>&lt;розділювач&gt;</translation>
+    </message>
+    <message>
+        <source>Edit template</source>
+        <translation>Редагувати шаблон</translation>
+    </message>
+    <message>
+        <source>Input new template text</source>
+        <translation>Введіть текст шаблону</translation>
+    </message>
+    <message>
+        <source>Save templates</source>
+        <translation>Зберегти шаблони</translation>
+    </message>
+    <message>
+        <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
+        <translation>Шаблон &quot;%1&quot; не було збережено!</translation>
+    </message>
+    <message>
+        <source>Continue?</source>
+        <translation>Продовжити?</translation>
+    </message>
+</context>
+<context>
+    <name>SendButtonTemplatesMenu</name>
+    <message>
+        <source>Paste and &amp;Send</source>
+        <translation>Вставити та &amp;надіслати</translation>
+    </message>
+    <message>
+        <source>&amp;Edit Templates</source>
+        <translation>&amp;Редагувати шаблони</translation>
+    </message>
+    <message>
+        <source>Only &amp;Paste</source>
+        <translation>Тільки &amp;вставити</translation>
     </message>
 </context>
 <context>

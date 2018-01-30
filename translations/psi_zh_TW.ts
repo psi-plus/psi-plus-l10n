@@ -4825,6 +4825,10 @@ Reason: %1</source>
         <source>Unable to join groupchat.    Reason: %1</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation>粘貼並發送</translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -12665,6 +12669,10 @@ Reason: %1.</source>
         <source>Unpin Tab</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Templates</source>
+        <translation>範本</translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -12713,6 +12721,10 @@ Reason: %1.</source>
     <message>
         <source>turn on autojid</source>
         <translation>自動打開JID</translation>
+    </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation>粘貼並發送</translation>
     </message>
 </context>
 <context>
@@ -15464,6 +15476,100 @@ Reason: %1</source>
     <message>
         <source>Cancel</source>
         <translation>取消</translation>
+    </message>
+</context>
+<context>
+    <name>SendButtonTemplatesEditor</name>
+    <message>
+        <source>Template editor</source>
+        <translation>範本編輯器</translation>
+    </message>
+    <message>
+        <source>Templates</source>
+        <translation>範本</translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation>添加</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>編輯</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>刪除</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation>確定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Add template string</source>
+        <translation>添加範本字串</translation>
+    </message>
+    <message>
+        <source>Add template string as submenu</source>
+        <translation>加入子功能表範本字串</translation>
+    </message>
+    <message>
+        <source>Add separator</source>
+        <translation>添加分隔</translation>
+    </message>
+    <message>
+        <source>Add separator as submenu</source>
+        <translation>作為子功能表中添加分隔</translation>
+    </message>
+    <message>
+        <source>Up</source>
+        <translation>上</translation>
+    </message>
+    <message>
+        <source>Down</source>
+        <translation>下</translation>
+    </message>
+    <message>
+        <source>&lt;separator&gt;</source>
+        <translation>&lt;separator&gt;</translation>
+    </message>
+    <message>
+        <source>Edit template</source>
+        <translation>編輯範本</translation>
+    </message>
+    <message>
+        <source>Input new template text</source>
+        <translation>輸入新的範本文本</translation>
+    </message>
+    <message>
+        <source>Save templates</source>
+        <translation>保存範本</translation>
+    </message>
+    <message>
+        <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
+        <translation>&quot;%1&quot;並沒有被保存！</translation>
+    </message>
+    <message>
+        <source>Continue?</source>
+        <translation>繼續嗎？</translation>
+    </message>
+</context>
+<context>
+    <name>SendButtonTemplatesMenu</name>
+    <message>
+        <source>Paste and &amp;Send</source>
+        <translation>粘貼並發送(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Edit Templates</source>
+        <translation>編輯範本(&amp;E)</translation>
+    </message>
+    <message>
+        <source>Only &amp;Paste</source>
+        <translation>只和粘貼(&amp;P)</translation>
     </message>
 </context>
 <context>

@@ -4839,6 +4839,10 @@ Motivo: %1</translation>
         <source>Unable to join groupchat.    Reason: %1</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation>Pegar y Enviar</translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -12668,6 +12672,10 @@ Motivo: %1.</translation>
         <source>Unpin Tab</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Templates</source>
+        <translation>Plantillas</translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -12716,6 +12724,10 @@ Motivo: %1.</translation>
     <message>
         <source>turn on autojid</source>
         <translation>encender jid automático</translation>
+    </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation>Pegar y Enviar</translation>
     </message>
 </context>
 <context>
@@ -15490,6 +15502,100 @@ Razón: %1</translation>
     <message>
         <source>Cancel</source>
         <translation>Cancelar</translation>
+    </message>
+</context>
+<context>
+    <name>SendButtonTemplatesEditor</name>
+    <message>
+        <source>Template editor</source>
+        <translation>Editor de plantilla</translation>
+    </message>
+    <message>
+        <source>Templates</source>
+        <translation>Plantillas</translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation>Añadir</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>Editar</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Eliminar</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation>Ok</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Cancelar</translation>
+    </message>
+    <message>
+        <source>Add template string</source>
+        <translation>Añadir cadena de plantilla</translation>
+    </message>
+    <message>
+        <source>Add template string as submenu</source>
+        <translation>Añadir cadena de plantilla como submenú</translation>
+    </message>
+    <message>
+        <source>Add separator</source>
+        <translation>Añadir separador</translation>
+    </message>
+    <message>
+        <source>Add separator as submenu</source>
+        <translation>Añadir separador como submenú</translation>
+    </message>
+    <message>
+        <source>Up</source>
+        <translation>Subir</translation>
+    </message>
+    <message>
+        <source>Down</source>
+        <translation>Bajar</translation>
+    </message>
+    <message>
+        <source>&lt;separator&gt;</source>
+        <translation>&lt;separador&gt;</translation>
+    </message>
+    <message>
+        <source>Edit template</source>
+        <translation>Editar plantilla</translation>
+    </message>
+    <message>
+        <source>Input new template text</source>
+        <translation>Insertar nuevo texto de plantilla</translation>
+    </message>
+    <message>
+        <source>Save templates</source>
+        <translation>Guardar plantillas</translation>
+    </message>
+    <message>
+        <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
+        <translation>¡La plantilla &apos;%1&apos; no ha sido guardada!</translation>
+    </message>
+    <message>
+        <source>Continue?</source>
+        <translation>¿Continuar?</translation>
+    </message>
+</context>
+<context>
+    <name>SendButtonTemplatesMenu</name>
+    <message>
+        <source>Paste and &amp;Send</source>
+        <translation>Pegar y en&amp;viar</translation>
+    </message>
+    <message>
+        <source>&amp;Edit Templates</source>
+        <translation>&amp;Editar plantillas</translation>
+    </message>
+    <message>
+        <source>Only &amp;Paste</source>
+        <translation>Solo &amp;pegar</translation>
     </message>
 </context>
 <context>

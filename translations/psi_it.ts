@@ -4853,6 +4853,10 @@ Motivo: %1</translation>
         <source>Unable to join groupchat.    Reason: %1</source>
         <translation>Impossibile unirsi alla conferenza. Motivo: %1</translation>
     </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation>Incolla e Invia</translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -12690,6 +12694,10 @@ Motivo: %1.</translation>
         <source>Unpin Tab</source>
         <translation>Sblocca Scheda</translation>
     </message>
+    <message>
+        <source>Templates</source>
+        <translation>Modelli</translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -12738,6 +12746,10 @@ Motivo: %1.</translation>
     <message>
         <source>turn on autojid</source>
         <translation>Accendi autojid</translation>
+    </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation>Incolla e Invia</translation>
     </message>
 </context>
 <context>
@@ -15516,6 +15528,100 @@ Motivo: %1</translation>
     <message>
         <source>Cancel</source>
         <translation>Annulla</translation>
+    </message>
+</context>
+<context>
+    <name>SendButtonTemplatesEditor</name>
+    <message>
+        <source>Template editor</source>
+        <translation>Editor del modello</translation>
+    </message>
+    <message>
+        <source>Templates</source>
+        <translation>Modelli</translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation>Aggiungi</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>Modifica</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Rimuovi</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation>Ok</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Annulla</translation>
+    </message>
+    <message>
+        <source>Add template string</source>
+        <translation>Aggiungi stringa modello</translation>
+    </message>
+    <message>
+        <source>Add template string as submenu</source>
+        <translation>Aggiungi stringa modello come sottomenu</translation>
+    </message>
+    <message>
+        <source>Add separator</source>
+        <translation>Aggiungi separatore</translation>
+    </message>
+    <message>
+        <source>Add separator as submenu</source>
+        <translation>Aggiungi separatore come sottomenu</translation>
+    </message>
+    <message>
+        <source>Up</source>
+        <translation>Sopra</translation>
+    </message>
+    <message>
+        <source>Down</source>
+        <translation>Sotto</translation>
+    </message>
+    <message>
+        <source>&lt;separator&gt;</source>
+        <translation>&lt;separator&gt;</translation>
+    </message>
+    <message>
+        <source>Edit template</source>
+        <translation>Modifica modello</translation>
+    </message>
+    <message>
+        <source>Input new template text</source>
+        <translation>Immetti testo del nuovo template</translation>
+    </message>
+    <message>
+        <source>Save templates</source>
+        <translation>Salva modello</translation>
+    </message>
+    <message>
+        <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
+        <translation>Il modello &quot;%1&quot; non è stato salvato!</translation>
+    </message>
+    <message>
+        <source>Continue?</source>
+        <translation>Continua?</translation>
+    </message>
+</context>
+<context>
+    <name>SendButtonTemplatesMenu</name>
+    <message>
+        <source>Paste and &amp;Send</source>
+        <translation>Copia e &amp;Incolla</translation>
+    </message>
+    <message>
+        <source>&amp;Edit Templates</source>
+        <translation>&amp;Modifica modelli</translation>
+    </message>
+    <message>
+        <source>Only &amp;Paste</source>
+        <translation>&amp;Incolla solo</translation>
     </message>
 </context>
 <context>

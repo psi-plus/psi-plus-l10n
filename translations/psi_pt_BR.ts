@@ -4842,6 +4842,10 @@ Motivo: %1</translation>
         <source>Unable to join groupchat.    Reason: %1</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation>Colar e Enviar</translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -12671,6 +12675,10 @@ Motivo: %1.</translation>
         <source>Unpin Tab</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Templates</source>
+        <translation>Modelos</translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -12719,6 +12727,10 @@ Motivo: %1.</translation>
     <message>
         <source>turn on autojid</source>
         <translation>ligar autojid</translation>
+    </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation>Colar e Enviar</translation>
     </message>
 </context>
 <context>
@@ -15498,6 +15510,100 @@ Motivo: %1</translation>
     <message>
         <source>Cancel</source>
         <translation>Cancelar</translation>
+    </message>
+</context>
+<context>
+    <name>SendButtonTemplatesEditor</name>
+    <message>
+        <source>Template editor</source>
+        <translation>Editor de modelo</translation>
+    </message>
+    <message>
+        <source>Templates</source>
+        <translation>Modelos</translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation>Adicionar</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>Editar</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Remover</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation>Ok</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Cancelar</translation>
+    </message>
+    <message>
+        <source>Add template string</source>
+        <translation>Adicionar um modelo de texto</translation>
+    </message>
+    <message>
+        <source>Add template string as submenu</source>
+        <translation>Adicionar um modelo de texto como submenu</translation>
+    </message>
+    <message>
+        <source>Add separator</source>
+        <translation>Adicionar separdor</translation>
+    </message>
+    <message>
+        <source>Add separator as submenu</source>
+        <translation>Adicionar separador como submenu</translation>
+    </message>
+    <message>
+        <source>Up</source>
+        <translation>Cima</translation>
+    </message>
+    <message>
+        <source>Down</source>
+        <translation>Baixo</translation>
+    </message>
+    <message>
+        <source>&lt;separator&gt;</source>
+        <translation>&lt;separador&gt;</translation>
+    </message>
+    <message>
+        <source>Edit template</source>
+        <translation>Editar modelo</translation>
+    </message>
+    <message>
+        <source>Input new template text</source>
+        <translation>Entrar novo modelo de texto</translation>
+    </message>
+    <message>
+        <source>Save templates</source>
+        <translation>Salvar modelo</translation>
+    </message>
+    <message>
+        <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
+        <translation>O modelo &quot;%1&quot; não foi salvo!</translation>
+    </message>
+    <message>
+        <source>Continue?</source>
+        <translation>Continuar?</translation>
+    </message>
+</context>
+<context>
+    <name>SendButtonTemplatesMenu</name>
+    <message>
+        <source>Paste and &amp;Send</source>
+        <translation>Colar e &amp;Enviar</translation>
+    </message>
+    <message>
+        <source>&amp;Edit Templates</source>
+        <translation>&amp;Editar Modelos</translation>
+    </message>
+    <message>
+        <source>Only &amp;Paste</source>
+        <translation>Apenas &amp;Colar</translation>
     </message>
 </context>
 <context>

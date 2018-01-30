@@ -4834,6 +4834,10 @@ Reason: %1</source>
         <source>Unable to join groupchat.    Reason: %1</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -12638,6 +12642,10 @@ Reason: %1.</source>
         <source>Unpin Tab</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Templates</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -12685,6 +12693,10 @@ Reason: %1.</source>
     </message>
     <message>
         <source>turn on autojid</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Paste and Send</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -15450,6 +15462,100 @@ Reason: %1</source>
     <message>
         <source>Cancel</source>
         <translation>Отказ</translation>
+    </message>
+</context>
+<context>
+    <name>SendButtonTemplatesEditor</name>
+    <message>
+        <source>Template editor</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Templates</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation>Добавяне</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>Редактиране</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Изтриване</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation>ОК</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Отказ</translation>
+    </message>
+    <message>
+        <source>Add template string</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add template string as submenu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add separator</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Add separator as submenu</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Up</source>
+        <translation>Нагоре</translation>
+    </message>
+    <message>
+        <source>Down</source>
+        <translation>Надолу</translation>
+    </message>
+    <message>
+        <source>&lt;separator&gt;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Edit template</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Input new template text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save templates</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Continue?</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>SendButtonTemplatesMenu</name>
+    <message>
+        <source>Paste and &amp;Send</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Edit Templates</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Only &amp;Paste</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

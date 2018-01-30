@@ -4858,6 +4858,10 @@ Grund: %1</translation>
         <source>Unable to join groupchat.    Reason: %1</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation>Einfügen und Senden</translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -12674,6 +12678,10 @@ Grund: %1.</translation>
         <source>Unpin Tab</source>
         <translation>Tab abheften</translation>
     </message>
+    <message>
+        <source>Templates</source>
+        <translation>Vorlagen</translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -12722,6 +12730,10 @@ Grund: %1.</translation>
     <message>
         <source>turn on autojid</source>
         <translation>AutoJID aktivieren</translation>
+    </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation>Einfügen und Senden</translation>
     </message>
 </context>
 <context>
@@ -15503,6 +15515,100 @@ Grund: %1</translation>
     <message>
         <source>Cancel</source>
         <translation>Abbrechen</translation>
+    </message>
+</context>
+<context>
+    <name>SendButtonTemplatesEditor</name>
+    <message>
+        <source>Template editor</source>
+        <translation>Vorlageneditor</translation>
+    </message>
+    <message>
+        <source>Templates</source>
+        <translation>Vorlagen</translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation>Hinzufügen</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>Bearbeiten</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Entfernen</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Abbrechen</translation>
+    </message>
+    <message>
+        <source>Add template string</source>
+        <translation>Als Vorlage hinzufügen</translation>
+    </message>
+    <message>
+        <source>Add template string as submenu</source>
+        <translation>Als Untermenü hinzufügen</translation>
+    </message>
+    <message>
+        <source>Add separator</source>
+        <translation>Trennelement hinzufügen</translation>
+    </message>
+    <message>
+        <source>Add separator as submenu</source>
+        <translation>Trennelement als Untermenü hinzufügen</translation>
+    </message>
+    <message>
+        <source>Up</source>
+        <translation>Hoch</translation>
+    </message>
+    <message>
+        <source>Down</source>
+        <translation>Runter</translation>
+    </message>
+    <message>
+        <source>&lt;separator&gt;</source>
+        <translation>&lt;Trennelement&gt;</translation>
+    </message>
+    <message>
+        <source>Edit template</source>
+        <translation>Vorlage bearbeiten</translation>
+    </message>
+    <message>
+        <source>Input new template text</source>
+        <translation>Neuen Vorlagentext eingeben</translation>
+    </message>
+    <message>
+        <source>Save templates</source>
+        <translation>Vorlagen speichern</translation>
+    </message>
+    <message>
+        <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
+        <translation>Die Vorlage &quot;%1&quot; wurde nicht gespeichert!</translation>
+    </message>
+    <message>
+        <source>Continue?</source>
+        <translation>Fortsetzen?</translation>
+    </message>
+</context>
+<context>
+    <name>SendButtonTemplatesMenu</name>
+    <message>
+        <source>Paste and &amp;Send</source>
+        <translation>Einfügen und &amp;Senden</translation>
+    </message>
+    <message>
+        <source>&amp;Edit Templates</source>
+        <translation>Vorlagen &amp;bearbeiten</translation>
+    </message>
+    <message>
+        <source>Only &amp;Paste</source>
+        <translation>Nur &amp;einfügen</translation>
     </message>
 </context>
 <context>
