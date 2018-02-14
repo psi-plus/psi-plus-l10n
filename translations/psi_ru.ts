@@ -4861,6 +4861,78 @@ Reason: %1</source>
         <source>Paste and Send</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Send &amp;Message</source>
+        <translation type="unfinished">Создать сооб&amp;щение</translation>
+    </message>
+    <message>
+        <source>Open &amp;Chat Window</source>
+        <translation type="unfinished">Открыть окно &amp;чата</translation>
+    </message>
+    <message>
+        <source>Voice Call</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>E&amp;xecute Command</source>
+        <translation type="unfinished">В&amp;ыполнить команду</translation>
+    </message>
+    <message>
+        <source>&amp;Kick</source>
+        <translation type="unfinished">&amp;Выгнать (kick)</translation>
+    </message>
+    <message>
+        <source>No reason</source>
+        <translation type="unfinished">Без причины</translation>
+    </message>
+    <message>
+        <source>Custom reason</source>
+        <translation type="unfinished">Указание причины</translation>
+    </message>
+    <message>
+        <source>&amp;Ban</source>
+        <translation type="unfinished">&amp;Бан (ban)</translation>
+    </message>
+    <message>
+        <source>Change Role</source>
+        <translation type="unfinished">Изменить роль</translation>
+    </message>
+    <message>
+        <source>Visitor</source>
+        <translation type="unfinished">Гость</translation>
+    </message>
+    <message>
+        <source>Participant</source>
+        <translation type="unfinished">Участник</translation>
+    </message>
+    <message>
+        <source>Moderator</source>
+        <translation type="unfinished">Модератор</translation>
+    </message>
+    <message>
+        <source>Change Affiliation</source>
+        <translation type="unfinished">Изменить ранг</translation>
+    </message>
+    <message>
+        <source>Unaffiliated</source>
+        <translation type="unfinished">Посетитель</translation>
+    </message>
+    <message>
+        <source>Member</source>
+        <translation type="unfinished">Зарегистрированный пользователь</translation>
+    </message>
+    <message>
+        <source>Administrator</source>
+        <translation type="unfinished">Администратор</translation>
+    </message>
+    <message>
+        <source>Owner</source>
+        <translation type="unfinished">Владелец</translation>
+    </message>
+    <message>
+        <source>User &amp;Info</source>
+        <translation type="unfinished">&amp;vCard</translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -4874,90 +4946,105 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>GCUserView</name>
+    <name>GCUserModel</name>
     <message>
         <source>Moderators</source>
-        <translation>Модераторы</translation>
+        <translation type="unfinished">Модераторы</translation>
     </message>
     <message>
         <source>Participants</source>
-        <translation>Участники</translation>
+        <translation type="unfinished">Участники</translation>
     </message>
     <message>
         <source>Visitors</source>
-        <translation>Гости</translation>
+        <translation type="unfinished">Гости</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserView</name>
+    <message>
+        <source>Moderators</source>
+        <translation type="vanished">Модераторы</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation type="vanished">Участники</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation type="vanished">Гости</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation>Создать сооб&amp;щение</translation>
+        <translation type="vanished">Создать сооб&amp;щение</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation>Открыть окно &amp;чата</translation>
+        <translation type="vanished">Открыть окно &amp;чата</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation>Позвонить</translation>
+        <translation type="vanished">Позвонить</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation>В&amp;ыполнить команду</translation>
+        <translation type="vanished">В&amp;ыполнить команду</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation>&amp;Выгнать (kick)</translation>
+        <translation type="vanished">&amp;Выгнать (kick)</translation>
     </message>
     <message>
         <source>No reason</source>
-        <translation>Без причины</translation>
+        <translation type="vanished">Без причины</translation>
     </message>
     <message>
         <source>Custom reason</source>
-        <translation>Указание причины</translation>
+        <translation type="vanished">Указание причины</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation>&amp;Бан (ban)</translation>
+        <translation type="vanished">&amp;Бан (ban)</translation>
     </message>
     <message>
         <source>Change Role</source>
-        <translation>Изменить роль</translation>
+        <translation type="vanished">Изменить роль</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation>Гость</translation>
+        <translation type="vanished">Гость</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation>Участник</translation>
+        <translation type="vanished">Участник</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation>Модератор</translation>
+        <translation type="vanished">Модератор</translation>
     </message>
     <message>
         <source>Change Affiliation</source>
-        <translation>Изменить ранг</translation>
+        <translation type="vanished">Изменить ранг</translation>
     </message>
     <message>
         <source>Unaffiliated</source>
-        <translation>Посетитель</translation>
+        <translation type="vanished">Посетитель</translation>
     </message>
     <message>
         <source>Member</source>
-        <translation>Зарегистрированный пользователь</translation>
+        <translation type="vanished">Зарегистрированный пользователь</translation>
     </message>
     <message>
         <source>Administrator</source>
-        <translation>Администратор</translation>
+        <translation type="vanished">Администратор</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation>Владелец</translation>
+        <translation type="vanished">Владелец</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation>&amp;vCard</translation>
+        <translation type="vanished">&amp;vCard</translation>
     </message>
 </context>
 <context>

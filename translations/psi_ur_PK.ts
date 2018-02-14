@@ -4796,79 +4796,53 @@ Reason: %1</source>
         <source>Paste and Send</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>GCMainDlg::Private</name>
-    <message>
-        <source>new nick</source>
-        <translation>نیا عرف</translation>
-    </message>
-    <message>
-        <source>Command</source>
-        <translation>حکم</translation>
-    </message>
-</context>
-<context>
-    <name>GCUserView</name>
-    <message>
-        <source>Moderators</source>
-        <translation>ثالثین</translation>
-    </message>
-    <message>
-        <source>Participants</source>
-        <translation>شرکا</translation>
-    </message>
-    <message>
-        <source>Visitors</source>
-        <translation>ملاحظہ کار</translation>
-    </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation>پیغام بھیجیں</translation>
+        <translation type="unfinished">پیغام بھیجیں</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation>بات چیت دریچہ کھولیں</translation>
+        <translation type="unfinished">بات چیت دریچہ کھولیں</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation>آواز کال</translation>
+        <translation type="unfinished">آواز کال</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation>حکم کا نفاذ کریں</translation>
+        <translation type="unfinished">حکم کا نفاذ کریں</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation>باہر دھکیلیں</translation>
+        <translation type="unfinished">باہر دھکیلیں</translation>
     </message>
     <message>
         <source>No reason</source>
-        <translation>کوئی وجہ نہیں</translation>
+        <translation type="unfinished">کوئی وجہ نہیں</translation>
     </message>
     <message>
         <source>Custom reason</source>
-        <translation>کسٹم وجہ</translation>
+        <translation type="unfinished">کسٹم وجہ</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation>روک دیں</translation>
+        <translation type="unfinished">روک دیں</translation>
     </message>
     <message>
         <source>Change Role</source>
-        <translation>رول تبدیل کریں</translation>
+        <translation type="unfinished">رول تبدیل کریں</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation>ملاحظہ کار</translation>
+        <translation type="unfinished">ملاحظہ کار</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation>شریک</translation>
+        <translation type="unfinished">شریک</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation>ثالث</translation>
+        <translation type="unfinished">ثالث</translation>
     </message>
     <message>
         <source>Change Affiliation</source>
@@ -4892,7 +4866,100 @@ Reason: %1</source>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation>صارف معلومات</translation>
+        <translation type="unfinished">صارف معلومات</translation>
+    </message>
+</context>
+<context>
+    <name>GCMainDlg::Private</name>
+    <message>
+        <source>new nick</source>
+        <translation>نیا عرف</translation>
+    </message>
+    <message>
+        <source>Command</source>
+        <translation>حکم</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserModel</name>
+    <message>
+        <source>Moderators</source>
+        <translation type="unfinished">ثالثین</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation type="unfinished">شرکا</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation type="unfinished">ملاحظہ کار</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserView</name>
+    <message>
+        <source>Moderators</source>
+        <translation type="vanished">ثالثین</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation type="vanished">شرکا</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation type="vanished">ملاحظہ کار</translation>
+    </message>
+    <message>
+        <source>Send &amp;Message</source>
+        <translation type="vanished">پیغام بھیجیں</translation>
+    </message>
+    <message>
+        <source>Open &amp;Chat Window</source>
+        <translation type="vanished">بات چیت دریچہ کھولیں</translation>
+    </message>
+    <message>
+        <source>Voice Call</source>
+        <translation type="vanished">آواز کال</translation>
+    </message>
+    <message>
+        <source>E&amp;xecute Command</source>
+        <translation type="vanished">حکم کا نفاذ کریں</translation>
+    </message>
+    <message>
+        <source>&amp;Kick</source>
+        <translation type="vanished">باہر دھکیلیں</translation>
+    </message>
+    <message>
+        <source>No reason</source>
+        <translation type="vanished">کوئی وجہ نہیں</translation>
+    </message>
+    <message>
+        <source>Custom reason</source>
+        <translation type="vanished">کسٹم وجہ</translation>
+    </message>
+    <message>
+        <source>&amp;Ban</source>
+        <translation type="vanished">روک دیں</translation>
+    </message>
+    <message>
+        <source>Change Role</source>
+        <translation type="vanished">رول تبدیل کریں</translation>
+    </message>
+    <message>
+        <source>Visitor</source>
+        <translation type="vanished">ملاحظہ کار</translation>
+    </message>
+    <message>
+        <source>Participant</source>
+        <translation type="vanished">شریک</translation>
+    </message>
+    <message>
+        <source>Moderator</source>
+        <translation type="vanished">ثالث</translation>
+    </message>
+    <message>
+        <source>User &amp;Info</source>
+        <translation type="vanished">صارف معلومات</translation>
     </message>
 </context>
 <context>

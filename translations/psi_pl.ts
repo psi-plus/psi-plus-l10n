@@ -4831,6 +4831,78 @@ Przyczyna: %1</translation>
         <source>Paste and Send</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Send &amp;Message</source>
+        <translation type="unfinished">Wyślij &amp;wiadomość</translation>
+    </message>
+    <message>
+        <source>Open &amp;Chat Window</source>
+        <translation type="unfinished">Otwórz okno &amp;rozmowy</translation>
+    </message>
+    <message>
+        <source>Voice Call</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>E&amp;xecute Command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Kick</source>
+        <translation type="unfinished">&amp;Wyrzuć</translation>
+    </message>
+    <message>
+        <source>No reason</source>
+        <translation type="unfinished">Bez przyczyny</translation>
+    </message>
+    <message>
+        <source>Custom reason</source>
+        <translation type="unfinished">Własna przyczyna</translation>
+    </message>
+    <message>
+        <source>&amp;Ban</source>
+        <translation type="unfinished">Za&amp;blokuj</translation>
+    </message>
+    <message>
+        <source>Change Role</source>
+        <translation type="unfinished">Zmień rolę</translation>
+    </message>
+    <message>
+        <source>Visitor</source>
+        <translation type="unfinished">Gość</translation>
+    </message>
+    <message>
+        <source>Participant</source>
+        <translation type="unfinished">Uczestnik</translation>
+    </message>
+    <message>
+        <source>Moderator</source>
+        <translation type="unfinished">Moderator</translation>
+    </message>
+    <message>
+        <source>Change Affiliation</source>
+        <translation type="unfinished">Zmiana przynależności</translation>
+    </message>
+    <message>
+        <source>Unaffiliated</source>
+        <translation type="unfinished">Brak przynależności</translation>
+    </message>
+    <message>
+        <source>Member</source>
+        <translation type="unfinished">Członek</translation>
+    </message>
+    <message>
+        <source>Administrator</source>
+        <translation type="unfinished">Administrator</translation>
+    </message>
+    <message>
+        <source>Owner</source>
+        <translation type="unfinished">Właściciel</translation>
+    </message>
+    <message>
+        <source>User &amp;Info</source>
+        <translation type="unfinished">&amp;Informacje o użytkowniku</translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -4844,90 +4916,105 @@ Przyczyna: %1</translation>
     </message>
 </context>
 <context>
-    <name>GCUserView</name>
+    <name>GCUserModel</name>
     <message>
         <source>Moderators</source>
-        <translation>Moderatorzy</translation>
+        <translation type="unfinished">Moderatorzy</translation>
     </message>
     <message>
         <source>Participants</source>
-        <translation>Uczestnicy</translation>
+        <translation type="unfinished">Uczestnicy</translation>
     </message>
     <message>
         <source>Visitors</source>
-        <translation>Goście</translation>
+        <translation type="unfinished">Goście</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserView</name>
+    <message>
+        <source>Moderators</source>
+        <translation type="vanished">Moderatorzy</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation type="vanished">Uczestnicy</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation type="vanished">Goście</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation>Wyślij &amp;wiadomość</translation>
+        <translation type="vanished">Wyślij &amp;wiadomość</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation>Otwórz okno &amp;rozmowy</translation>
+        <translation type="vanished">Otwórz okno &amp;rozmowy</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation>Połączenie głosowe</translation>
+        <translation type="vanished">Połączenie głosowe</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation>U&amp;ruchom Polecenie</translation>
+        <translation type="vanished">U&amp;ruchom Polecenie</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation>&amp;Wyrzuć</translation>
+        <translation type="vanished">&amp;Wyrzuć</translation>
     </message>
     <message>
         <source>No reason</source>
-        <translation>Bez przyczyny</translation>
+        <translation type="vanished">Bez przyczyny</translation>
     </message>
     <message>
         <source>Custom reason</source>
-        <translation>Własna przyczyna</translation>
+        <translation type="vanished">Własna przyczyna</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation>Za&amp;blokuj</translation>
+        <translation type="vanished">Za&amp;blokuj</translation>
     </message>
     <message>
         <source>Change Role</source>
-        <translation>Zmień rolę</translation>
+        <translation type="vanished">Zmień rolę</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation>Gość</translation>
+        <translation type="vanished">Gość</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation>Uczestnik</translation>
+        <translation type="vanished">Uczestnik</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation>Moderator</translation>
+        <translation type="vanished">Moderator</translation>
     </message>
     <message>
         <source>Change Affiliation</source>
-        <translation>Zmiana przynależności</translation>
+        <translation type="vanished">Zmiana przynależności</translation>
     </message>
     <message>
         <source>Unaffiliated</source>
-        <translation>Brak przynależności</translation>
+        <translation type="vanished">Brak przynależności</translation>
     </message>
     <message>
         <source>Member</source>
-        <translation>Członek</translation>
+        <translation type="vanished">Członek</translation>
     </message>
     <message>
         <source>Administrator</source>
-        <translation>Administrator</translation>
+        <translation type="vanished">Administrator</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation>Właściciel</translation>
+        <translation type="vanished">Właściciel</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation>&amp;Informacje o użytkowniku</translation>
+        <translation type="vanished">&amp;Informacje o użytkowniku</translation>
     </message>
 </context>
 <context>

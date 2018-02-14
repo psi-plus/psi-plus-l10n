@@ -4778,32 +4778,6 @@ Reason: %1</source>
         <source>Paste and Send</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>GCMainDlg::Private</name>
-    <message>
-        <source>new nick</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Command</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>GCUserView</name>
-    <message>
-        <source>Moderators</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Participants</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Visitors</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Send &amp;Message</source>
         <translation type="unfinished"></translation>
@@ -4874,7 +4848,40 @@ Reason: %1</source>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation>&amp;Info o Užívateľovi</translation>
+        <translation type="unfinished">&amp;Info o Užívateľovi</translation>
+    </message>
+</context>
+<context>
+    <name>GCMainDlg::Private</name>
+    <message>
+        <source>new nick</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Command</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GCUserModel</name>
+    <message>
+        <source>Moderators</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GCUserView</name>
+    <message>
+        <source>User &amp;Info</source>
+        <translation type="vanished">&amp;Info o Užívateľovi</translation>
     </message>
 </context>
 <context>

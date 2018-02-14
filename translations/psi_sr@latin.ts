@@ -4824,6 +4824,78 @@ Reason: %1</translation>
         <source>Paste and Send</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Send &amp;Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open &amp;Chat Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice Call</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>E&amp;xecute Command</source>
+        <translation type="unfinished">&amp;Izvrši komandu</translation>
+    </message>
+    <message>
+        <source>&amp;Kick</source>
+        <translation type="unfinished">&amp;Kick</translation>
+    </message>
+    <message>
+        <source>No reason</source>
+        <translation type="unfinished">Bez razloga</translation>
+    </message>
+    <message>
+        <source>Custom reason</source>
+        <translation type="unfinished">Custom reason</translation>
+    </message>
+    <message>
+        <source>&amp;Ban</source>
+        <translation type="unfinished">&amp;Zabrani</translation>
+    </message>
+    <message>
+        <source>Change Role</source>
+        <translation type="unfinished">Promeni ulogu</translation>
+    </message>
+    <message>
+        <source>Visitor</source>
+        <translation type="unfinished">Posetilac</translation>
+    </message>
+    <message>
+        <source>Participant</source>
+        <translation type="unfinished">Učesnik</translation>
+    </message>
+    <message>
+        <source>Moderator</source>
+        <translation type="unfinished">Moderator</translation>
+    </message>
+    <message>
+        <source>Change Affiliation</source>
+        <translation type="unfinished">Promeni pripadnost</translation>
+    </message>
+    <message>
+        <source>Unaffiliated</source>
+        <translation type="unfinished">Nepripadanje</translation>
+    </message>
+    <message>
+        <source>Member</source>
+        <translation type="unfinished">Član</translation>
+    </message>
+    <message>
+        <source>Administrator</source>
+        <translation type="unfinished">Administrator</translation>
+    </message>
+    <message>
+        <source>Owner</source>
+        <translation type="unfinished">Vlasnik</translation>
+    </message>
+    <message>
+        <source>User &amp;Info</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -4837,90 +4909,105 @@ Reason: %1</translation>
     </message>
 </context>
 <context>
-    <name>GCUserView</name>
+    <name>GCUserModel</name>
     <message>
         <source>Moderators</source>
-        <translation>Moderatori</translation>
+        <translation type="unfinished">Moderatori</translation>
     </message>
     <message>
         <source>Participants</source>
-        <translation>Učesnici</translation>
+        <translation type="unfinished">Učesnici</translation>
     </message>
     <message>
         <source>Visitors</source>
-        <translation>Posetioci</translation>
+        <translation type="unfinished">Posetioci</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserView</name>
+    <message>
+        <source>Moderators</source>
+        <translation type="vanished">Moderatori</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation type="vanished">Učesnici</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation type="vanished">Posetioci</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation>Pošalji&amp;Poruka</translation>
+        <translation type="vanished">Pošalji&amp;Poruka</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation>Otvori&amp;Prozor razgovora</translation>
+        <translation type="vanished">Otvori&amp;Prozor razgovora</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation>Glasovni poziv</translation>
+        <translation type="vanished">Glasovni poziv</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation>&amp;Izvrši komandu</translation>
+        <translation type="vanished">&amp;Izvrši komandu</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation>&amp;Kick</translation>
+        <translation type="vanished">&amp;Kick</translation>
     </message>
     <message>
         <source>No reason</source>
-        <translation>Bez razloga</translation>
+        <translation type="vanished">Bez razloga</translation>
     </message>
     <message>
         <source>Custom reason</source>
-        <translation>Custom reason</translation>
+        <translation type="vanished">Custom reason</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation>&amp;Zabrani</translation>
+        <translation type="vanished">&amp;Zabrani</translation>
     </message>
     <message>
         <source>Change Role</source>
-        <translation>Promeni ulogu</translation>
+        <translation type="vanished">Promeni ulogu</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation>Posetilac</translation>
+        <translation type="vanished">Posetilac</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation>Učesnik</translation>
+        <translation type="vanished">Učesnik</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation>Moderator</translation>
+        <translation type="vanished">Moderator</translation>
     </message>
     <message>
         <source>Change Affiliation</source>
-        <translation>Promeni pripadnost</translation>
+        <translation type="vanished">Promeni pripadnost</translation>
     </message>
     <message>
         <source>Unaffiliated</source>
-        <translation>Nepripadanje</translation>
+        <translation type="vanished">Nepripadanje</translation>
     </message>
     <message>
         <source>Member</source>
-        <translation>Član</translation>
+        <translation type="vanished">Član</translation>
     </message>
     <message>
         <source>Administrator</source>
-        <translation>Administrator</translation>
+        <translation type="vanished">Administrator</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation>Vlasnik</translation>
+        <translation type="vanished">Vlasnik</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation>&amp;Podaci o korisniku</translation>
+        <translation type="vanished">&amp;Podaci o korisniku</translation>
     </message>
 </context>
 <context>

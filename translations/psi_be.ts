@@ -4839,6 +4839,78 @@ Reason: %1</source>
         <source>Paste and Send</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Send &amp;Message</source>
+        <translation type="unfinished">Даслаць &amp;паведамленьне</translation>
+    </message>
+    <message>
+        <source>Open &amp;Chat Window</source>
+        <translation type="unfinished">Адчыніць вакно &amp;гутаркі</translation>
+    </message>
+    <message>
+        <source>Voice Call</source>
+        <translation type="unfinished">Размаўляць голасам</translation>
+    </message>
+    <message>
+        <source>E&amp;xecute Command</source>
+        <translation type="unfinished">Выканаць &amp;загад</translation>
+    </message>
+    <message>
+        <source>&amp;Kick</source>
+        <translation type="unfinished">Вы&amp;кінуць</translation>
+    </message>
+    <message>
+        <source>No reason</source>
+        <translation type="unfinished">Без падставы</translation>
+    </message>
+    <message>
+        <source>Custom reason</source>
+        <translation type="unfinished">Абраць падставу</translation>
+    </message>
+    <message>
+        <source>&amp;Ban</source>
+        <translation type="unfinished">&amp;Выгнаць</translation>
+    </message>
+    <message>
+        <source>Change Role</source>
+        <translation type="unfinished">Зьмяніць ролю</translation>
+    </message>
+    <message>
+        <source>Visitor</source>
+        <translation type="unfinished">Наведнік</translation>
+    </message>
+    <message>
+        <source>Participant</source>
+        <translation type="unfinished">Удзельнік</translation>
+    </message>
+    <message>
+        <source>Moderator</source>
+        <translation type="unfinished">Старшыня</translation>
+    </message>
+    <message>
+        <source>Change Affiliation</source>
+        <translation type="unfinished">Зьмяніць прыналежнасьць</translation>
+    </message>
+    <message>
+        <source>Unaffiliated</source>
+        <translation type="unfinished">Няма прыналежнасьці</translation>
+    </message>
+    <message>
+        <source>Member</source>
+        <translation type="unfinished">Чалец</translation>
+    </message>
+    <message>
+        <source>Administrator</source>
+        <translation type="unfinished">Спраўнік</translation>
+    </message>
+    <message>
+        <source>Owner</source>
+        <translation type="unfinished">Уладальнік</translation>
+    </message>
+    <message>
+        <source>User &amp;Info</source>
+        <translation type="unfinished">Пра &amp;карыстальніка</translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -4852,90 +4924,105 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>GCUserView</name>
+    <name>GCUserModel</name>
     <message>
         <source>Moderators</source>
-        <translation>Старшыні</translation>
+        <translation type="unfinished">Старшыні</translation>
     </message>
     <message>
         <source>Participants</source>
-        <translation>Удзельнікі</translation>
+        <translation type="unfinished">Удзельнікі</translation>
     </message>
     <message>
         <source>Visitors</source>
-        <translation>Наведнікі</translation>
+        <translation type="unfinished">Наведнікі</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserView</name>
+    <message>
+        <source>Moderators</source>
+        <translation type="vanished">Старшыні</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation type="vanished">Удзельнікі</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation type="vanished">Наведнікі</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation>Даслаць &amp;паведамленьне</translation>
+        <translation type="vanished">Даслаць &amp;паведамленьне</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation>Адчыніць вакно &amp;гутаркі</translation>
+        <translation type="vanished">Адчыніць вакно &amp;гутаркі</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation>Размаўляць голасам</translation>
+        <translation type="vanished">Размаўляць голасам</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation>Выканаць &amp;загад</translation>
+        <translation type="vanished">Выканаць &amp;загад</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation>Вы&amp;кінуць</translation>
+        <translation type="vanished">Вы&amp;кінуць</translation>
     </message>
     <message>
         <source>No reason</source>
-        <translation>Без падставы</translation>
+        <translation type="vanished">Без падставы</translation>
     </message>
     <message>
         <source>Custom reason</source>
-        <translation>Абраць падставу</translation>
+        <translation type="vanished">Абраць падставу</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation>&amp;Выгнаць</translation>
+        <translation type="vanished">&amp;Выгнаць</translation>
     </message>
     <message>
         <source>Change Role</source>
-        <translation>Зьмяніць ролю</translation>
+        <translation type="vanished">Зьмяніць ролю</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation>Наведнік</translation>
+        <translation type="vanished">Наведнік</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation>Удзельнік</translation>
+        <translation type="vanished">Удзельнік</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation>Старшыня</translation>
+        <translation type="vanished">Старшыня</translation>
     </message>
     <message>
         <source>Change Affiliation</source>
-        <translation>Зьмяніць прыналежнасьць</translation>
+        <translation type="vanished">Зьмяніць прыналежнасьць</translation>
     </message>
     <message>
         <source>Unaffiliated</source>
-        <translation>Няма прыналежнасьці</translation>
+        <translation type="vanished">Няма прыналежнасьці</translation>
     </message>
     <message>
         <source>Member</source>
-        <translation>Чалец</translation>
+        <translation type="vanished">Чалец</translation>
     </message>
     <message>
         <source>Administrator</source>
-        <translation>Спраўнік</translation>
+        <translation type="vanished">Спраўнік</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation>Уладальнік</translation>
+        <translation type="vanished">Уладальнік</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation>Пра &amp;карыстальніка</translation>
+        <translation type="vanished">Пра &amp;карыстальніка</translation>
     </message>
 </context>
 <context>

@@ -4848,6 +4848,78 @@ Oka: %1</translation>
         <source>Paste and Send</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Send &amp;Message</source>
+        <translation type="unfinished">&amp;Üzenet küldése</translation>
+    </message>
+    <message>
+        <source>Open &amp;Chat Window</source>
+        <translation type="unfinished">&amp;Beszélgetésablak megnyitása</translation>
+    </message>
+    <message>
+        <source>Voice Call</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>E&amp;xecute Command</source>
+        <translation type="unfinished">&amp;Parancs végrehajtása</translation>
+    </message>
+    <message>
+        <source>&amp;Kick</source>
+        <translation type="unfinished">&amp;Kirúgás</translation>
+    </message>
+    <message>
+        <source>No reason</source>
+        <translation type="unfinished">Nincs ok</translation>
+    </message>
+    <message>
+        <source>Custom reason</source>
+        <translation type="unfinished">Egyéni ok</translation>
+    </message>
+    <message>
+        <source>&amp;Ban</source>
+        <translation type="unfinished">&amp;Kitiltás</translation>
+    </message>
+    <message>
+        <source>Change Role</source>
+        <translation type="unfinished">Szerepkör megváltoztatása</translation>
+    </message>
+    <message>
+        <source>Visitor</source>
+        <translation type="unfinished">Látogató</translation>
+    </message>
+    <message>
+        <source>Participant</source>
+        <translation type="unfinished">Résztvevő</translation>
+    </message>
+    <message>
+        <source>Moderator</source>
+        <translation type="unfinished">Moderátor</translation>
+    </message>
+    <message>
+        <source>Change Affiliation</source>
+        <translation type="unfinished">Kapcsolat változtatása</translation>
+    </message>
+    <message>
+        <source>Unaffiliated</source>
+        <translation type="unfinished">Független</translation>
+    </message>
+    <message>
+        <source>Member</source>
+        <translation type="unfinished">Tag</translation>
+    </message>
+    <message>
+        <source>Administrator</source>
+        <translation type="unfinished">Adminisztrátor</translation>
+    </message>
+    <message>
+        <source>Owner</source>
+        <translation type="unfinished">Tulajdonos</translation>
+    </message>
+    <message>
+        <source>User &amp;Info</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -4861,90 +4933,105 @@ Oka: %1</translation>
     </message>
 </context>
 <context>
-    <name>GCUserView</name>
+    <name>GCUserModel</name>
     <message>
         <source>Moderators</source>
-        <translation>Moderátorok</translation>
+        <translation type="unfinished">Moderátorok</translation>
     </message>
     <message>
         <source>Participants</source>
-        <translation>Résztvevők</translation>
+        <translation type="unfinished">Résztvevők</translation>
     </message>
     <message>
         <source>Visitors</source>
-        <translation>Látogatók</translation>
+        <translation type="unfinished">Látogatók</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserView</name>
+    <message>
+        <source>Moderators</source>
+        <translation type="vanished">Moderátorok</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation type="vanished">Résztvevők</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation type="vanished">Látogatók</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation>&amp;Üzenet küldése</translation>
+        <translation type="vanished">&amp;Üzenet küldése</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation>&amp;Beszélgetésablak megnyitása</translation>
+        <translation type="vanished">&amp;Beszélgetésablak megnyitása</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation>Hanghívás</translation>
+        <translation type="vanished">Hanghívás</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation>&amp;Parancs végrehajtása</translation>
+        <translation type="vanished">&amp;Parancs végrehajtása</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation>&amp;Kirúgás</translation>
+        <translation type="vanished">&amp;Kirúgás</translation>
     </message>
     <message>
         <source>No reason</source>
-        <translation>Nincs ok</translation>
+        <translation type="vanished">Nincs ok</translation>
     </message>
     <message>
         <source>Custom reason</source>
-        <translation>Egyéni ok</translation>
+        <translation type="vanished">Egyéni ok</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation>&amp;Kitiltás</translation>
+        <translation type="vanished">&amp;Kitiltás</translation>
     </message>
     <message>
         <source>Change Role</source>
-        <translation>Szerepkör megváltoztatása</translation>
+        <translation type="vanished">Szerepkör megváltoztatása</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation>Látogató</translation>
+        <translation type="vanished">Látogató</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation>Résztvevő</translation>
+        <translation type="vanished">Résztvevő</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation>Moderátor</translation>
+        <translation type="vanished">Moderátor</translation>
     </message>
     <message>
         <source>Change Affiliation</source>
-        <translation>Kapcsolat változtatása</translation>
+        <translation type="vanished">Kapcsolat változtatása</translation>
     </message>
     <message>
         <source>Unaffiliated</source>
-        <translation>Független</translation>
+        <translation type="vanished">Független</translation>
     </message>
     <message>
         <source>Member</source>
-        <translation>Tag</translation>
+        <translation type="vanished">Tag</translation>
     </message>
     <message>
         <source>Administrator</source>
-        <translation>Adminisztrátor</translation>
+        <translation type="vanished">Adminisztrátor</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation>Tulajdonos</translation>
+        <translation type="vanished">Tulajdonos</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation>Ismerős &amp;információi</translation>
+        <translation type="vanished">Ismerős &amp;információi</translation>
     </message>
 </context>
 <context>

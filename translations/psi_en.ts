@@ -4860,6 +4860,78 @@ Reason: %1</translation>
         <source>Paste and Send</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Send &amp;Message</source>
+        <translation type="unfinished">Send &amp;Message</translation>
+    </message>
+    <message>
+        <source>Open &amp;Chat Window</source>
+        <translation type="unfinished">Open &amp;Chat Window</translation>
+    </message>
+    <message>
+        <source>Voice Call</source>
+        <translation type="unfinished">Voice Call</translation>
+    </message>
+    <message>
+        <source>E&amp;xecute Command</source>
+        <translation type="unfinished">E&amp;xecute Command</translation>
+    </message>
+    <message>
+        <source>&amp;Kick</source>
+        <translation type="unfinished">&amp;Kick</translation>
+    </message>
+    <message>
+        <source>No reason</source>
+        <translation type="unfinished">No reason</translation>
+    </message>
+    <message>
+        <source>Custom reason</source>
+        <translation type="unfinished">Custom reason</translation>
+    </message>
+    <message>
+        <source>&amp;Ban</source>
+        <translation type="unfinished">&amp;Ban</translation>
+    </message>
+    <message>
+        <source>Change Role</source>
+        <translation type="unfinished">Change Role</translation>
+    </message>
+    <message>
+        <source>Visitor</source>
+        <translation type="unfinished">Visitor</translation>
+    </message>
+    <message>
+        <source>Participant</source>
+        <translation type="unfinished">Participant</translation>
+    </message>
+    <message>
+        <source>Moderator</source>
+        <translation type="unfinished">Moderator</translation>
+    </message>
+    <message>
+        <source>Change Affiliation</source>
+        <translation type="unfinished">Change Affiliation</translation>
+    </message>
+    <message>
+        <source>Unaffiliated</source>
+        <translation type="unfinished">Unaffiliated</translation>
+    </message>
+    <message>
+        <source>Member</source>
+        <translation type="unfinished">Member</translation>
+    </message>
+    <message>
+        <source>Administrator</source>
+        <translation type="unfinished">Administrator</translation>
+    </message>
+    <message>
+        <source>Owner</source>
+        <translation type="unfinished">Owner</translation>
+    </message>
+    <message>
+        <source>User &amp;Info</source>
+        <translation type="unfinished">User &amp;Info</translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -4873,90 +4945,105 @@ Reason: %1</translation>
     </message>
 </context>
 <context>
-    <name>GCUserView</name>
+    <name>GCUserModel</name>
     <message>
         <source>Moderators</source>
-        <translation>Moderators</translation>
+        <translation type="unfinished">Moderators</translation>
     </message>
     <message>
         <source>Participants</source>
-        <translation>Participants</translation>
+        <translation type="unfinished">Participants</translation>
     </message>
     <message>
         <source>Visitors</source>
-        <translation>Visitors</translation>
+        <translation type="unfinished">Visitors</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserView</name>
+    <message>
+        <source>Moderators</source>
+        <translation type="vanished">Moderators</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation type="vanished">Participants</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation type="vanished">Visitors</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation>Send &amp;Message</translation>
+        <translation type="vanished">Send &amp;Message</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation>Open &amp;Chat Window</translation>
+        <translation type="vanished">Open &amp;Chat Window</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation>Voice Call</translation>
+        <translation type="vanished">Voice Call</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation>E&amp;xecute Command</translation>
+        <translation type="vanished">E&amp;xecute Command</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation>&amp;Kick</translation>
+        <translation type="vanished">&amp;Kick</translation>
     </message>
     <message>
         <source>No reason</source>
-        <translation>No reason</translation>
+        <translation type="vanished">No reason</translation>
     </message>
     <message>
         <source>Custom reason</source>
-        <translation>Custom reason</translation>
+        <translation type="vanished">Custom reason</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation>&amp;Ban</translation>
+        <translation type="vanished">&amp;Ban</translation>
     </message>
     <message>
         <source>Change Role</source>
-        <translation>Change Role</translation>
+        <translation type="vanished">Change Role</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation>Visitor</translation>
+        <translation type="vanished">Visitor</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation>Participant</translation>
+        <translation type="vanished">Participant</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation>Moderator</translation>
+        <translation type="vanished">Moderator</translation>
     </message>
     <message>
         <source>Change Affiliation</source>
-        <translation>Change Affiliation</translation>
+        <translation type="vanished">Change Affiliation</translation>
     </message>
     <message>
         <source>Unaffiliated</source>
-        <translation>Unaffiliated</translation>
+        <translation type="vanished">Unaffiliated</translation>
     </message>
     <message>
         <source>Member</source>
-        <translation>Member</translation>
+        <translation type="vanished">Member</translation>
     </message>
     <message>
         <source>Administrator</source>
-        <translation>Administrator</translation>
+        <translation type="vanished">Administrator</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation>Owner</translation>
+        <translation type="vanished">Owner</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation>User &amp;Info</translation>
+        <translation type="vanished">User &amp;Info</translation>
     </message>
 </context>
 <context>

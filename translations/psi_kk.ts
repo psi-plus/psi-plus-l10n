@@ -4782,59 +4782,33 @@ Reason: %1</source>
         <source>Paste and Send</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>GCMainDlg::Private</name>
-    <message>
-        <source>new nick</source>
-        <translation>жаңа ник</translation>
-    </message>
-    <message>
-        <source>Command</source>
-        <translation>Команда</translation>
-    </message>
-</context>
-<context>
-    <name>GCUserView</name>
-    <message>
-        <source>Moderators</source>
-        <translation>Модераторлар</translation>
-    </message>
-    <message>
-        <source>Participants</source>
-        <translation>Қатысушылар</translation>
-    </message>
-    <message>
-        <source>Visitors</source>
-        <translation>Қонақтар</translation>
-    </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation>Хабарла&amp;маны жіберу</translation>
+        <translation type="unfinished">Хабарла&amp;маны жіберу</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation>&amp;Чат терезесін ашу</translation>
+        <translation type="unfinished">&amp;Чат терезесін ашу</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation>Дауыс қоңырауы</translation>
+        <translation type="unfinished">Дауыс қоңырауы</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation>Команданы ор&amp;ындау</translation>
+        <translation type="unfinished">Команданы ор&amp;ындау</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation>&amp;Тебу</translation>
+        <translation type="unfinished">&amp;Тебу</translation>
     </message>
     <message>
         <source>No reason</source>
-        <translation>Себебі жоқ</translation>
+        <translation type="unfinished">Себебі жоқ</translation>
     </message>
     <message>
         <source>Custom reason</source>
-        <translation>Таңдауыңызша себеп</translation>
+        <translation type="unfinished">Таңдауыңызша себеп</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
@@ -4842,19 +4816,19 @@ Reason: %1</source>
     </message>
     <message>
         <source>Change Role</source>
-        <translation>Ролін ауыстыру</translation>
+        <translation type="unfinished">Ролін ауыстыру</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation>Қонақ</translation>
+        <translation type="unfinished">Қонақ</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation>Қатысушы</translation>
+        <translation type="unfinished">Қатысушы</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation>Модератор</translation>
+        <translation type="unfinished">Модератор</translation>
     </message>
     <message>
         <source>Change Affiliation</source>
@@ -4878,7 +4852,96 @@ Reason: %1</source>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation>Пайдаланушы ақ&amp;параты</translation>
+        <translation type="unfinished">Пайдаланушы ақ&amp;параты</translation>
+    </message>
+</context>
+<context>
+    <name>GCMainDlg::Private</name>
+    <message>
+        <source>new nick</source>
+        <translation>жаңа ник</translation>
+    </message>
+    <message>
+        <source>Command</source>
+        <translation>Команда</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserModel</name>
+    <message>
+        <source>Moderators</source>
+        <translation type="unfinished">Модераторлар</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation type="unfinished">Қатысушылар</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation type="unfinished">Қонақтар</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserView</name>
+    <message>
+        <source>Moderators</source>
+        <translation type="vanished">Модераторлар</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation type="vanished">Қатысушылар</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation type="vanished">Қонақтар</translation>
+    </message>
+    <message>
+        <source>Send &amp;Message</source>
+        <translation type="vanished">Хабарла&amp;маны жіберу</translation>
+    </message>
+    <message>
+        <source>Open &amp;Chat Window</source>
+        <translation type="vanished">&amp;Чат терезесін ашу</translation>
+    </message>
+    <message>
+        <source>Voice Call</source>
+        <translation type="vanished">Дауыс қоңырауы</translation>
+    </message>
+    <message>
+        <source>E&amp;xecute Command</source>
+        <translation type="vanished">Команданы ор&amp;ындау</translation>
+    </message>
+    <message>
+        <source>&amp;Kick</source>
+        <translation type="vanished">&amp;Тебу</translation>
+    </message>
+    <message>
+        <source>No reason</source>
+        <translation type="vanished">Себебі жоқ</translation>
+    </message>
+    <message>
+        <source>Custom reason</source>
+        <translation type="vanished">Таңдауыңызша себеп</translation>
+    </message>
+    <message>
+        <source>Change Role</source>
+        <translation type="vanished">Ролін ауыстыру</translation>
+    </message>
+    <message>
+        <source>Visitor</source>
+        <translation type="vanished">Қонақ</translation>
+    </message>
+    <message>
+        <source>Participant</source>
+        <translation type="vanished">Қатысушы</translation>
+    </message>
+    <message>
+        <source>Moderator</source>
+        <translation type="vanished">Модератор</translation>
+    </message>
+    <message>
+        <source>User &amp;Info</source>
+        <translation type="vanished">Пайдаланушы ақ&amp;параты</translation>
     </message>
 </context>
 <context>

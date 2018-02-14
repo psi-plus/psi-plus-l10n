@@ -4785,32 +4785,6 @@ Kialo: %1</translation>
         <source>Paste and Send</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>GCMainDlg::Private</name>
-    <message>
-        <source>new nick</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Command</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>GCUserView</name>
-    <message>
-        <source>Moderators</source>
-        <translation>Kontrolantoj</translation>
-    </message>
-    <message>
-        <source>Participants</source>
-        <translation>Partoprenantoj</translation>
-    </message>
-    <message>
-        <source>Visitors</source>
-        <translation>Vizitantoj</translation>
-    </message>
     <message>
         <source>Send &amp;Message</source>
         <translation type="unfinished"></translation>
@@ -4821,7 +4795,7 @@ Kialo: %1</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation>Alvoko</translation>
+        <translation type="unfinished">Alvoko</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
@@ -4829,7 +4803,7 @@ Kialo: %1</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation>&amp;Forĵeti</translation>
+        <translation type="unfinished">&amp;Forĵeti</translation>
     </message>
     <message>
         <source>No reason</source>
@@ -4841,7 +4815,7 @@ Kialo: %1</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation>&amp;Forbari</translation>
+        <translation type="unfinished">&amp;Forbari</translation>
     </message>
     <message>
         <source>Change Role</source>
@@ -4849,15 +4823,15 @@ Kialo: %1</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation>Vizitanto</translation>
+        <translation type="unfinished">Vizitanto</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation>Partoprenanto</translation>
+        <translation type="unfinished">Partoprenanto</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation>Kontrolanto</translation>
+        <translation type="unfinished">Kontrolanto</translation>
     </message>
     <message>
         <source>Change Affiliation</source>
@@ -4881,7 +4855,76 @@ Kialo: %1</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation>Malfermi &amp;babilan fenestron</translation>
+        <translation type="unfinished">Malfermi &amp;babilan fenestron</translation>
+    </message>
+</context>
+<context>
+    <name>GCMainDlg::Private</name>
+    <message>
+        <source>new nick</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Command</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GCUserModel</name>
+    <message>
+        <source>Moderators</source>
+        <translation type="unfinished">Kontrolantoj</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation type="unfinished">Partoprenantoj</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation type="unfinished">Vizitantoj</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserView</name>
+    <message>
+        <source>Moderators</source>
+        <translation type="vanished">Kontrolantoj</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation type="vanished">Partoprenantoj</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation type="vanished">Vizitantoj</translation>
+    </message>
+    <message>
+        <source>Voice Call</source>
+        <translation type="vanished">Alvoko</translation>
+    </message>
+    <message>
+        <source>&amp;Kick</source>
+        <translation type="vanished">&amp;Forĵeti</translation>
+    </message>
+    <message>
+        <source>&amp;Ban</source>
+        <translation type="vanished">&amp;Forbari</translation>
+    </message>
+    <message>
+        <source>Visitor</source>
+        <translation type="vanished">Vizitanto</translation>
+    </message>
+    <message>
+        <source>Participant</source>
+        <translation type="vanished">Partoprenanto</translation>
+    </message>
+    <message>
+        <source>Moderator</source>
+        <translation type="vanished">Kontrolanto</translation>
+    </message>
+    <message>
+        <source>User &amp;Info</source>
+        <translation type="vanished">Malfermi &amp;babilan fenestron</translation>
     </message>
 </context>
 <context>

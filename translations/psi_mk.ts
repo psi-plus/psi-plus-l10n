@@ -4788,51 +4788,25 @@ Reason: %1</source>
         <source>Paste and Send</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>GCMainDlg::Private</name>
-    <message>
-        <source>new nick</source>
-        <translation>нов прекар</translation>
-    </message>
-    <message>
-        <source>Command</source>
-        <translation>Наредба</translation>
-    </message>
-</context>
-<context>
-    <name>GCUserView</name>
-    <message>
-        <source>Moderators</source>
-        <translation>Модератори</translation>
-    </message>
-    <message>
-        <source>Participants</source>
-        <translation>Учесници</translation>
-    </message>
-    <message>
-        <source>Visitors</source>
-        <translation>Гости</translation>
-    </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation>Испрати &amp;порака</translation>
+        <translation type="unfinished">Испрати &amp;порака</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation>Отвори го прозорецот за &amp;разговор</translation>
+        <translation type="unfinished">Отвори го прозорецот за &amp;разговор</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation>Гласовен повик</translation>
+        <translation type="unfinished">Гласовен повик</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation>И&amp;зврши наредба</translation>
+        <translation type="unfinished">И&amp;зврши наредба</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation>&amp;Клонци</translation>
+        <translation type="unfinished">&amp;Клонци</translation>
     </message>
     <message>
         <source>No reason</source>
@@ -4844,23 +4818,23 @@ Reason: %1</source>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation>За&amp;брани</translation>
+        <translation type="unfinished">За&amp;брани</translation>
     </message>
     <message>
         <source>Change Role</source>
-        <translation>Промени улога</translation>
+        <translation type="unfinished">Промени улога</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation>Гостин</translation>
+        <translation type="unfinished">Гостин</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation>Учесник</translation>
+        <translation type="unfinished">Учесник</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation>Модератор</translation>
+        <translation type="unfinished">Модератор</translation>
     </message>
     <message>
         <source>Change Affiliation</source>
@@ -4884,7 +4858,92 @@ Reason: %1</source>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation>&amp;Информации за корисникот</translation>
+        <translation type="unfinished">&amp;Информации за корисникот</translation>
+    </message>
+</context>
+<context>
+    <name>GCMainDlg::Private</name>
+    <message>
+        <source>new nick</source>
+        <translation>нов прекар</translation>
+    </message>
+    <message>
+        <source>Command</source>
+        <translation>Наредба</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserModel</name>
+    <message>
+        <source>Moderators</source>
+        <translation type="unfinished">Модератори</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation type="unfinished">Учесници</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation type="unfinished">Гости</translation>
+    </message>
+</context>
+<context>
+    <name>GCUserView</name>
+    <message>
+        <source>Moderators</source>
+        <translation type="vanished">Модератори</translation>
+    </message>
+    <message>
+        <source>Participants</source>
+        <translation type="vanished">Учесници</translation>
+    </message>
+    <message>
+        <source>Visitors</source>
+        <translation type="vanished">Гости</translation>
+    </message>
+    <message>
+        <source>Send &amp;Message</source>
+        <translation type="vanished">Испрати &amp;порака</translation>
+    </message>
+    <message>
+        <source>Open &amp;Chat Window</source>
+        <translation type="vanished">Отвори го прозорецот за &amp;разговор</translation>
+    </message>
+    <message>
+        <source>Voice Call</source>
+        <translation type="vanished">Гласовен повик</translation>
+    </message>
+    <message>
+        <source>E&amp;xecute Command</source>
+        <translation type="vanished">И&amp;зврши наредба</translation>
+    </message>
+    <message>
+        <source>&amp;Kick</source>
+        <translation type="vanished">&amp;Клонци</translation>
+    </message>
+    <message>
+        <source>&amp;Ban</source>
+        <translation type="vanished">За&amp;брани</translation>
+    </message>
+    <message>
+        <source>Change Role</source>
+        <translation type="vanished">Промени улога</translation>
+    </message>
+    <message>
+        <source>Visitor</source>
+        <translation type="vanished">Гостин</translation>
+    </message>
+    <message>
+        <source>Participant</source>
+        <translation type="vanished">Учесник</translation>
+    </message>
+    <message>
+        <source>Moderator</source>
+        <translation type="vanished">Модератор</translation>
+    </message>
+    <message>
+        <source>User &amp;Info</source>
+        <translation type="vanished">&amp;Информации за корисникот</translation>
     </message>
 </context>
 <context>
