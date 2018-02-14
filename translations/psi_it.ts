@@ -8298,11 +8298,11 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Keep accounts&apos; passwords in more secure system keyring manager instead of profile settings.</source>
-        <translation type="unfinished"/>
+        <translation>Tieni le password dell&apos;account al sicuro nel keyring manager di sistema invece che nelle impostazioni del profilo.</translation>
     </message>
     <message>
         <source>Use system keyring manager</source>
-        <translation type="unfinished"/>
+        <translation>Usa keyring manager di sistema</translation>
     </message>
     <message>
         <source>99999</source>
