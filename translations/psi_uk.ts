@@ -54,7 +54,7 @@
     </message>
     <message>
         <source>http://psi-im.org</source>
-        <translation>http://psi-im.org</translation>
+        <translation type="vanished">http://psi-im.org</translation>
     </message>
     <message>
         <source>Authors</source>
@@ -242,6 +242,10 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
     <message>
         <source>Lead Developer and Current Maintainer</source>
         <translation>Провідний Розробник і Поточний Супроводжуючий</translation>
+    </message>
+    <message>
+        <source>https://psi-im.org</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4585,23 +4589,23 @@ Reason: %3</source>
     <name>GCFindDlg</name>
     <message>
         <source>Find</source>
-        <translation>Знайти</translation>
+        <translation type="vanished">Знайти</translation>
     </message>
     <message>
         <source>Find:</source>
-        <translation>Знайти:</translation>
+        <translation type="vanished">Знайти:</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Закрити</translation>
+        <translation type="vanished">&amp;Закрити</translation>
     </message>
     <message>
         <source>&amp;Find</source>
-        <translation>&amp;Знайти</translation>
+        <translation type="vanished">&amp;Знайти</translation>
     </message>
     <message>
         <source>Search string &apos;%1&apos; not found.</source>
-        <translation>Текст &apos;%1&apos; не знайдено.</translation>
+        <translation type="vanished">Текст &apos;%1&apos; не знайдено.</translation>
     </message>
 </context>
 <context>
@@ -6398,7 +6402,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Description:</source>
@@ -6427,6 +6431,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Name:</source>
         <translation>Ім&apos;я:</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12927,12 +12935,16 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Go to &lt;http://psi-im.org/&gt; for more information about Psi.</source>
-        <translation>Відвідайте &lt;http://psi-im.org/&gt; для отримання інформації про Psi.</translation>
+        <translation type="vanished">Відвідайте &lt;http://psi-im.org/&gt; для отримання інформації про Psi.</translation>
     </message>
     <message>
         <source>Compiled with Qt %1</source>
         <comment>%1 will contain Qt version number</comment>
         <translation>Cкомпільовано з Qt %1</translation>
+    </message>
+    <message>
+        <source>Go to &lt;https://psi-im.org/&gt; for more information about Psi.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16903,7 +16915,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;http://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation>Доброго дня! Дякуємо за те, що ви обрали Psi!
+        <translation type="vanished">Доброго дня! Дякуємо за те, що ви обрали Psi!
 Ми сподіваємося, що вам сподобається користуватися ним, як нам подобалося створювати його!
 &lt;br&gt;&lt;br&gt;Якщо ви хочете завантажити іншу мову, набір піктограм чи нову версію Psi, тоді завітайте на &lt;a href=&quot;http://psi-im.org&quot;&gt;домашню сторінку Psi &lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;Якщо ви думаєте, що знайшли помилку або ви просто хочете поговорити з іншими користувачами Psi, тоді завітайте на &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;форум Psi&lt;/a&gt;.
@@ -17011,6 +17023,14 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <source>Contributed by</source>
         <translation>Надано</translation>
+    </message>
+    <message>
+        <source>Hello! Thank you for downloading Psi!
+We hope that you will enjoy using it as we have enjoyed making it!
+&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

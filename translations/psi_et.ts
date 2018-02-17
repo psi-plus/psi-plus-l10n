@@ -53,10 +53,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>http://psi-im.org</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Authors</source>
         <translation type="unfinished"></translation>
     </message>
@@ -229,6 +225,10 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>Lead Developer and Current Maintainer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>https://psi-im.org</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4498,23 +4498,23 @@ Põhjus: %3</translation>
     <name>GCFindDlg</name>
     <message>
         <source>Find</source>
-        <translation>Otsi</translation>
+        <translation type="vanished">Otsi</translation>
     </message>
     <message>
         <source>Find:</source>
-        <translation>Otsi:</translation>
+        <translation type="vanished">Otsi:</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Sule</translation>
+        <translation type="vanished">&amp;Sule</translation>
     </message>
     <message>
         <source>&amp;Find</source>
-        <translation>&amp;Otsi</translation>
+        <translation type="vanished">&amp;Otsi</translation>
     </message>
     <message>
         <source>Search string &apos;%1&apos; not found.</source>
-        <translation>Otsingule &apos;%1&apos; vastuseid ei leitud.</translation>
+        <translation type="vanished">Otsingule &apos;%1&apos; vastuseid ei leitud.</translation>
     </message>
 </context>
 <context>
@@ -6197,10 +6197,6 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Description:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6226,6 +6222,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12521,12 +12521,12 @@ Reason: %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Go to &lt;http://psi-im.org/&gt; for more information about Psi.</source>
+        <source>Compiled with Qt %1</source>
+        <comment>%1 will contain Qt version number</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Compiled with Qt %1</source>
-        <comment>%1 will contain Qt version number</comment>
+        <source>Go to &lt;https://psi-im.org/&gt; for more information about Psi.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16407,14 +16407,6 @@ Please correct and try again.</source>
 <context>
     <name>TipDlg</name>
     <message>
-        <source>Hello! Thank you for downloading Psi!
-We hope that you will enjoy using it as we have enjoyed making it!
-&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;http://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16495,6 +16487,14 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>Contributed by</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hello! Thank you for downloading Psi!
+We hope that you will enjoy using it as we have enjoyed making it!
+&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
