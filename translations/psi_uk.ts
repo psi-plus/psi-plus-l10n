@@ -245,7 +245,7 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>https://psi-im.org</source>
-        <translation type="unfinished"></translation>
+        <translation>https://psi-im.org</translation>
     </message>
 </context>
 <context>
@@ -4872,75 +4872,75 @@ Reason: %1</source>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Створити пові&amp;домлення</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation type="unfinished">Відкрити вікно &amp;чату</translation>
+        <translation>Відкрити вікно &amp;чату</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished"></translation>
+        <translation>Подзвонити</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation type="unfinished"></translation>
+        <translation>В&amp;иконати команду</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation type="unfinished">&amp;Вигнати</translation>
+        <translation>&amp;Вигнати</translation>
     </message>
     <message>
         <source>No reason</source>
-        <translation type="unfinished">Без причини</translation>
+        <translation>Без причини</translation>
     </message>
     <message>
         <source>Custom reason</source>
-        <translation type="unfinished">Вказати причину</translation>
+        <translation>Вказати причину</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation type="unfinished">&amp;Заблокувати</translation>
+        <translation>&amp;Заблокувати</translation>
     </message>
     <message>
         <source>Change Role</source>
-        <translation type="unfinished">Змінити роль</translation>
+        <translation>Змінити роль</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Гість</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="unfinished">Учасник</translation>
+        <translation>Учасник</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="unfinished">Модератор</translation>
+        <translation>Модератор</translation>
     </message>
     <message>
         <source>Change Affiliation</source>
-        <translation type="unfinished">Змінити ранг</translation>
+        <translation>Змінити ранг</translation>
     </message>
     <message>
         <source>Unaffiliated</source>
-        <translation type="unfinished">Відвідувач</translation>
+        <translation>Відвідувач</translation>
     </message>
     <message>
         <source>Member</source>
-        <translation type="unfinished"></translation>
+        <translation>Зареєстрований користувач</translation>
     </message>
     <message>
         <source>Administrator</source>
-        <translation type="unfinished">Адміністратор</translation>
+        <translation>Адміністратор</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="unfinished">Власник</translation>
+        <translation>Власник</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;vCard</translation>
     </message>
 </context>
 <context>
@@ -4958,15 +4958,15 @@ Reason: %1</source>
     <name>GCUserModel</name>
     <message>
         <source>Moderators</source>
-        <translation type="unfinished">Модератори</translation>
+        <translation>Модератори</translation>
     </message>
     <message>
         <source>Participants</source>
-        <translation type="unfinished">Учасники</translation>
+        <translation>Учасники</translation>
     </message>
     <message>
         <source>Visitors</source>
-        <translation type="unfinished">Відвідувачі</translation>
+        <translation>Відвідувачі</translation>
     </message>
 </context>
 <context>
@@ -6434,7 +6434,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -12944,7 +12944,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Go to &lt;https://psi-im.org/&gt; for more information about Psi.</source>
-        <translation type="unfinished"></translation>
+        <translation>Відвідайте &lt;https://psi-im.org/&gt; для отримання інформації про Psi.</translation>
     </message>
 </context>
 <context>
@@ -17030,7 +17030,11 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Доброго дня! Дякуємо за те, що ви обрали Psi!
+Ми сподіваємося, що вам сподобається користуватися ним, як нам подобалося створювати його!
+&lt;br&gt;&lt;br&gt;Якщо ви хочете завантажити іншу мову, набір піктограм чи нову версію Psi, тоді завітайте на &lt;a href=&quot;https://psi-im.org&quot;&gt;домашню сторінку Psi&lt;/a&gt; .
+&lt;br&gt;&lt;br&gt;Якщо ви думаєте, що знайшли помилку або ви просто хочете поговорити з іншими користувачами Psi, тоді завітайте на &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;форум Psi&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;Команда Psi&lt;/i&gt;&lt;/div&gt;</translation>
     </message>
 </context>
 <context>
