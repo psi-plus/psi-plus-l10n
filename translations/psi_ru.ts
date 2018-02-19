@@ -214,7 +214,7 @@
 Join the translation team today! Go to 
 &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
 https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
-        <translation>Борис Пек&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;tehnick-8@yandex.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик, координатор переводчиков на все языки&lt;br&gt;&lt;br&gt;Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйтесь к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода: &lt;a href=&quot;https://www.transifex.com/tehnick/psi-plus/&quot;&gt;Transifex&lt;/a&gt;, &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;GitHub&lt;/a&gt;, &lt;a href=&quot;https://sourceforge.net/projects/psiplus/files/Translations/&quot;&gt;Sourceforge&lt;/a&gt;.&lt;br&gt;Дата текущего перевода: 24.01.2018</translation>
+        <translation>Борис Пек&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;tehnick-8@yandex.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик, координатор переводчиков на все языки&lt;br&gt;&lt;br&gt;Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйтесь к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода: &lt;a href=&quot;https://www.transifex.com/tehnick/psi-plus/&quot;&gt;Transifex&lt;/a&gt;, &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;GitHub&lt;/a&gt;, &lt;a href=&quot;https://sourceforge.net/projects/psiplus/files/Translations/&quot;&gt;Sourceforge&lt;/a&gt;.&lt;br&gt;Дата текущего перевода: 20.02.2018</translation>
     </message>
     <message>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
@@ -236,7 +236,7 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>https://psi-im.org</source>
-        <translation type="unfinished"></translation>
+        <translation>https://psi-im.org</translation>
     </message>
 </context>
 <context>
@@ -4863,79 +4863,79 @@ Reason: %1</source>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить и отправить</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation type="unfinished">Создать сооб&amp;щение</translation>
+        <translation>Создать сооб&amp;щение</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation type="unfinished">Открыть окно &amp;чата</translation>
+        <translation>Открыть окно &amp;чата</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished"></translation>
+        <translation>Позвонить</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation type="unfinished">В&amp;ыполнить команду</translation>
+        <translation>В&amp;ыполнить команду</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation type="unfinished">&amp;Выгнать (kick)</translation>
+        <translation>&amp;Выгнать (kick)</translation>
     </message>
     <message>
         <source>No reason</source>
-        <translation type="unfinished">Без причины</translation>
+        <translation>Без причины</translation>
     </message>
     <message>
         <source>Custom reason</source>
-        <translation type="unfinished">Указание причины</translation>
+        <translation>Указание причины</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation type="unfinished">&amp;Бан (ban)</translation>
+        <translation>&amp;Бан (ban)</translation>
     </message>
     <message>
         <source>Change Role</source>
-        <translation type="unfinished">Изменить роль</translation>
+        <translation>Изменить роль</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="unfinished">Гость</translation>
+        <translation>Гость</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="unfinished">Участник</translation>
+        <translation>Участник</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="unfinished">Модератор</translation>
+        <translation>Модератор</translation>
     </message>
     <message>
         <source>Change Affiliation</source>
-        <translation type="unfinished">Изменить ранг</translation>
+        <translation>Изменить ранг</translation>
     </message>
     <message>
         <source>Unaffiliated</source>
-        <translation type="unfinished">Посетитель</translation>
+        <translation>Посетитель</translation>
     </message>
     <message>
         <source>Member</source>
-        <translation type="unfinished">Зарегистрированный пользователь</translation>
+        <translation>Зарегистрированный пользователь</translation>
     </message>
     <message>
         <source>Administrator</source>
-        <translation type="unfinished">Администратор</translation>
+        <translation>Администратор</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="unfinished">Владелец</translation>
+        <translation>Владелец</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="unfinished">&amp;vCard</translation>
+        <translation>&amp;vCard</translation>
     </message>
 </context>
 <context>
@@ -4953,15 +4953,15 @@ Reason: %1</source>
     <name>GCUserModel</name>
     <message>
         <source>Moderators</source>
-        <translation type="unfinished">Модераторы</translation>
+        <translation>Модераторы</translation>
     </message>
     <message>
         <source>Participants</source>
-        <translation type="unfinished">Участники</translation>
+        <translation>Участники</translation>
     </message>
     <message>
         <source>Visitors</source>
-        <translation type="unfinished">Гости</translation>
+        <translation>Гости</translation>
     </message>
 </context>
 <context>
@@ -6429,7 +6429,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -8632,10 +8632,6 @@ Tags: %1</source>
 <context>
     <name>OptInput</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">Форма</translation>
-    </message>
-    <message>
         <source>Auto-resize text input field</source>
         <translation>Автоматически изменять размер поля ввода</translation>
     </message>
@@ -8713,10 +8709,6 @@ Tags: %1</source>
     <message>
         <source>Show character counter</source>
         <translation>Показывать счётчик символов</translation>
-    </message>
-    <message>
-        <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="vanished">Первую букву в предложении делать заглавной</translation>
     </message>
 </context>
 <context>
@@ -12794,7 +12786,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблоны</translation>
     </message>
 </context>
 <context>
@@ -12847,7 +12839,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить и отправить</translation>
     </message>
 </context>
 <context>
@@ -12948,7 +12940,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Go to &lt;https://psi-im.org/&gt; for more information about Psi.</source>
-        <translation type="unfinished"></translation>
+        <translation>Посетите &lt;http://psi-im.org/&gt; для получения информации о Psi.</translation>
     </message>
 </context>
 <context>
@@ -15666,94 +15658,94 @@ Reason: %1</source>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Template editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактор шаблонов</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблоны</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Добавить</translation>
+        <translation>Добавить</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Изменить</translation>
+        <translation>Изменить</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished">Ок</translation>
+        <translation>Ок</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отмена</translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>Add template string</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить стоку шаблона</translation>
     </message>
     <message>
         <source>Add template string as submenu</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить стоку шаблона как подменю</translation>
     </message>
     <message>
         <source>Add separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить разделитель</translation>
     </message>
     <message>
         <source>Add separator as submenu</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить разделитель как подменю</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished">Выше</translation>
+        <translation>Выше</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished">Ниже</translation>
+        <translation>Ниже</translation>
     </message>
     <message>
         <source>&lt;separator&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;разделитель&gt;</translation>
     </message>
     <message>
         <source>Edit template</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактировать шаблон</translation>
     </message>
     <message>
         <source>Input new template text</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите текст шаблона</translation>
     </message>
     <message>
         <source>Save templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить шаблоны</translation>
     </message>
     <message>
         <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблон &quot;%1&quot; не сохранен!</translation>
     </message>
     <message>
         <source>Continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Продолжить?</translation>
     </message>
 </context>
 <context>
     <name>SendButtonTemplatesMenu</name>
     <message>
         <source>Paste and &amp;Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить и отправить</translation>
     </message>
     <message>
         <source>&amp;Edit Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактировать шаблоны</translation>
     </message>
     <message>
         <source>Only &amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Только вставить</translation>
     </message>
 </context>
 <context>
@@ -17041,7 +17033,11 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Приветствуем вас в программе Psi!
+Мы надеемся, что вы получите удовольствие от использования нашей программы!
+&lt;br&gt;&lt;br&gt;Если вы хотите скачать дополнительный языковой пакет, набор иконок или новую версию Psi, посетите &lt;a href=&quot;https://psi-im.org&quot;&gt;домашнюю страницу Psi&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;Если вы нашли ошибку в программе или хотите пообщаться с пользователями и разработчиками Psi, посетите &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;форумы Psi&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;Команда разработчиков Psi&lt;/i&gt;&lt;/div&gt;</translation>
     </message>
 </context>
 <context>
