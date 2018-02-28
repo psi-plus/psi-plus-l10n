@@ -2041,6 +2041,10 @@ Biztosan be akarod zárni az ablakot?</translation>
         <source>Desc:</source>
         <translation>Leírás:</translation>
     </message>
+    <message>
+        <source>The message was corrected</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ChatViewThemeProvider</name>
@@ -3161,6 +3165,11 @@ Folytatod?</translation>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>Hiba lépett fel &lt;b&gt;%1&lt;/b&gt; adatainak beszerzésekor. &lt;br&gt;Oka: %2</translation>
+    </message>
+    <message>
+        <source>more items</source>
+        <comment>Getting more disco items in order page by page</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8831,122 +8840,316 @@ Címkék: %1</translation>
     <name>OptRoster</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation>OptApplicationUI</translation>
+        <translation type="vanished">OptApplicationUI</translation>
     </message>
     <message>
         <source>Roster window always on top</source>
-        <translation>Címlista mindig felül</translation>
+        <translation type="vanished">Címlista mindig felül</translation>
     </message>
     <message>
         <source>Auto-resize contact list</source>
-        <translation>Címlista automatikus átméretezése</translation>
+        <translation type="vanished">Címlista automatikus átméretezése</translation>
     </message>
     <message>
         <source>Use left-click for menu</source>
-        <translation>Bal gomb használata menühöz</translation>
+        <translation type="vanished">Bal gomb használata menühöz</translation>
     </message>
     <message>
         <source>Show menubar</source>
-        <translation>Menüsáv megjelenítése</translation>
+        <translation type="vanished">Menüsáv megjelenítése</translation>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
-        <translation>Görgetősáv kikapcsolása a programablakban</translation>
+        <translation type="vanished">Görgetősáv kikapcsolása a programablakban</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation>Görgetősáv kikapcsolása</translation>
+        <translation type="vanished">Görgetősáv kikapcsolása</translation>
     </message>
     <message>
         <source>Enables avatar frame at the top of roster</source>
-        <translation>Engedélyezze a profilkép előnézetét a címlista tetején</translation>
+        <translation type="vanished">Engedélyezze a profilkép előnézetét a címlista tetején</translation>
     </message>
     <message>
         <source>Enable roster avatar frame</source>
-        <translation>Engedélyezze a profilkép előnézetét a címlistában</translation>
+        <translation type="vanished">Engedélyezze a profilkép előnézetét a címlistában</translation>
     </message>
     <message>
         <source>Autohide roster after</source>
-        <translation>Ezután a címlista automatikus elrejtése</translation>
+        <translation type="vanished">Ezután a címlista automatikus elrejtése</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation>Ikonok</translation>
+        <translation type="vanished">Ikonok</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation>Profilképek megjelenítése a címlistában</translation>
+        <translation type="vanished">Profilképek megjelenítése a címlistában</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation>Profilképek</translation>
+        <translation type="vanished">Profilképek</translation>
     </message>
     <message>
         <source>Show moods in roster</source>
-        <translation>Hangulatok megjelenítése a címlistában</translation>
+        <translation type="vanished">Hangulatok megjelenítése a címlistában</translation>
     </message>
     <message>
         <source>Moods</source>
-        <translation>Hangulatok</translation>
+        <translation type="vanished">Hangulatok</translation>
     </message>
     <message>
         <source>Show activities in roster</source>
-        <translation>Tevékenységek megjelenítése a címlistában</translation>
+        <translation type="vanished">Tevékenységek megjelenítése a címlistában</translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation>Tevékenységek</translation>
+        <translation type="vanished">Tevékenységek</translation>
     </message>
     <message>
         <source>Show geolocation in roster</source>
-        <translation>Földrajzi helyzet megjelenítése a címlistában</translation>
+        <translation type="vanished">Földrajzi helyzet megjelenítése a címlistában</translation>
     </message>
     <message>
         <source>GeoLocation</source>
-        <translation>Földrajzi Helyzet</translation>
+        <translation type="vanished">Földrajzi Helyzet</translation>
     </message>
     <message>
         <source>Show icon when contact is listening to music</source>
-        <translation>Ikon mutatása ha az ismerős zenét hallgat</translation>
+        <translation type="vanished">Ikon mutatása ha az ismerős zenét hallgat</translation>
     </message>
     <message>
         <source>Now playing</source>
-        <translation>Jelenleg játszik</translation>
+        <translation type="vanished">Jelenleg játszik</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation>Az ismerős kliensikonjának megjelenítése</translation>
+        <translation type="vanished">Az ismerős kliensikonjának megjelenítése</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation>Kliensek</translation>
+        <translation type="vanished">Kliensek</translation>
     </message>
     <message>
         <source>all client icons</source>
-        <translation>minden kliensikon</translation>
+        <translation type="vanished">minden kliensikon</translation>
     </message>
     <message>
         <source>only highest priority client icon</source>
-        <translation>Csak a legmagasabb prioritású kliensikon</translation>
+        <translation type="vanished">Csak a legmagasabb prioritású kliensikon</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation>Profilkép beállítások</translation>
+        <translation type="vanished">Profilkép beállítások</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Méret</translation>
+        <translation type="vanished">Méret</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation>Sarkok rádiusza</translation>
+        <translation type="vanished">Sarkok rádiusza</translation>
     </message>
     <message>
         <source>seconds (0 - never)</source>
-        <translation>másodpercek (0 - soha)</translation>
+        <translation type="vanished">másodpercek (0 - soha)</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMain</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation type="unfinished">OptApplicationUI</translation>
+    </message>
+    <message>
+        <source>Roster window always on top</source>
+        <translation type="unfinished">Címlista mindig felül</translation>
+    </message>
+    <message>
+        <source>Auto-resize contact list</source>
+        <translation type="unfinished">Címlista automatikus átméretezése</translation>
+    </message>
+    <message>
+        <source>Use left-click for menu</source>
+        <translation type="unfinished">Bal gomb használata menühöz</translation>
+    </message>
+    <message>
+        <source>Show menubar</source>
+        <translation type="unfinished">Menüsáv megjelenítése</translation>
+    </message>
+    <message>
+        <source>Disables scrollbar in the application window.</source>
+        <translation type="unfinished">Görgetősáv kikapcsolása a programablakban</translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="unfinished">Görgetősáv kikapcsolása</translation>
+    </message>
+    <message>
+        <source>Enables avatar frame at the top of roster</source>
+        <translation type="unfinished">Engedélyezze a profilkép előnézetét a címlista tetején</translation>
+    </message>
+    <message>
+        <source>Enable roster avatar frame</source>
+        <translation type="unfinished">Engedélyezze a profilkép előnézetét a címlistában</translation>
+    </message>
+    <message>
+        <source>Autohide roster after</source>
+        <translation type="unfinished">Ezután a címlista automatikus elrejtése</translation>
+    </message>
+    <message>
+        <source>seconds (0 - never)</source>
+        <translation type="unfinished">másodpercek (0 - soha)</translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation type="unfinished">Ikonok</translation>
+    </message>
+    <message>
+        <source>Show geolocation in roster</source>
+        <translation type="unfinished">Földrajzi helyzet megjelenítése a címlistában</translation>
+    </message>
+    <message>
+        <source>GeoLocation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show moods in roster</source>
+        <translation type="unfinished">Hangulatok megjelenítése a címlistában</translation>
+    </message>
+    <message>
+        <source>Moods</source>
+        <translation type="unfinished">Hangulatok</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="unfinished">Profilképek megjelenítése a címlistában</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="unfinished">Profilképek</translation>
+    </message>
+    <message>
+        <source>Show activities in roster</source>
+        <translation type="unfinished">Tevékenységek megjelenítése a címlistában</translation>
+    </message>
+    <message>
+        <source>Activities</source>
+        <translation type="unfinished">Tevékenységek</translation>
+    </message>
+    <message>
+        <source>Show icon when contact is listening to music</source>
+        <translation type="unfinished">Ikon mutatása ha az ismerős zenét hallgat</translation>
+    </message>
+    <message>
+        <source>Now playing</source>
+        <translation type="unfinished">Jelenleg játszik</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="unfinished">Az ismerős kliensikonjának megjelenítése</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation type="unfinished">Kliensek</translation>
+    </message>
+    <message>
+        <source>all client icons</source>
+        <translation type="unfinished">minden kliensikon</translation>
+    </message>
+    <message>
+        <source>only highest priority client icon</source>
+        <translation type="unfinished">Csak a legmagasabb prioritású kliensikon</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="unfinished">Profilkép beállítások</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished">Méret</translation>
     </message>
     <message>
         <source>pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="unfinished">Sarkok rádiusza</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMuc</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation type="unfinished">OptApplicationUI</translation>
+    </message>
+    <message>
+        <source>Hides scrollbar in the roster widget.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="unfinished">Görgetősáv kikapcsolása</translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation type="unfinished">Ikonok</translation>
+    </message>
+    <message>
+        <source>Show icon if contact status like online, away and others.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished">Állapot</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="unfinished">Az ismerős kliensikonjának megjelenítése</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation type="unfinished">Kliensek</translation>
+    </message>
+    <message>
+        <source>Show who is the boss and who is nothing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Affiliations</source>
+        <translation type="unfinished">Kapcsolatok</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="unfinished">Profilképek megjelenítése a címlistában</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="unfinished">Profilképek</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="unfinished">Profilkép beállítások</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished">Méret</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="unfinished">Sarkok rádiusza</translation>
+    </message>
+    <message>
+        <source>Align avatars to the left edge of the roster. Otherwise to the right.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left aligned</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10489,23 +10692,65 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Roster window options</source>
-        <translation>Címlistaablak beállításai</translation>
+        <translation type="vanished">Címlistaablak beállításai</translation>
     </message>
     <message>
         <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation>Psi főablaka mindig felül.</translation>
+        <translation type="vanished">Psi főablaka mindig felül.</translation>
     </message>
     <message>
         <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation>Psi főablak automatikus átméretezése, hogy minden ismerős neve beleférjen.</translation>
+        <translation type="vanished">Psi főablak automatikus átméretezése, hogy minden ismerős neve beleférjen.</translation>
     </message>
     <message>
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation>Alapértelmezés szerint, a jobb kattintás előhoz az ismerősön egy almenüt. Kapcsold ezt be, ha te inkább ballal kattintanál.</translation>
+        <translation type="vanished">Alapértelmezés szerint, a jobb kattintás előhoz az ismerősön egy almenüt. Kapcsold ezt be, ha te inkább ballal kattintanál.</translation>
     </message>
     <message>
         <source>Shows the menubar in the application window.</source>
-        <translation>Menüsáv mutatása az alkalmazás ablakában.</translation>
+        <translation type="vanished">Menüsáv mutatása az alkalmazás ablakában.</translation>
+    </message>
+    <message>
+        <source>Roster options</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMain</name>
+    <message>
+        <source>Roster</source>
+        <translation type="unfinished">Címlista</translation>
+    </message>
+    <message>
+        <source>Roster window options</source>
+        <translation type="unfinished">Címlistaablak beállításai</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window always be in front of other windows.</source>
+        <translation type="unfinished">Psi főablaka mindig felül.</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window resize automatically to fit all contacts.</source>
+        <translation type="unfinished">Psi főablak automatikus átméretezése, hogy minden ismerős neve beleférjen.</translation>
+    </message>
+    <message>
+        <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
+        <translation type="unfinished">Alapértelmezés szerint, a jobb kattintás előhoz az ismerősön egy almenüt. Kapcsold ezt be, ha te inkább ballal kattintanál.</translation>
+    </message>
+    <message>
+        <source>Shows the menubar in the application window.</source>
+        <translation type="unfinished">Menüsáv mutatása az alkalmazás ablakában.</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMuc</name>
+    <message>
+        <source>Groupchat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Groupchat roster options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

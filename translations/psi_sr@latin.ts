@@ -2029,6 +2029,10 @@ Da li i dalje želite da zatvorite prozor?</translation>
         <source>Desc:</source>
         <translation>Desc:</translation>
     </message>
+    <message>
+        <source>The message was corrected</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ChatViewThemeProvider</name>
@@ -3145,6 +3149,11 @@ Da nastavim?</translation>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>Došlo je do greške kod dobijanja informacije za stavke &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Razlog: %2</translation>
+    </message>
+    <message>
+        <source>more items</source>
+        <comment>Getting more disco items in order page by page</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8797,122 +8806,312 @@ Kartice: %1</translation>
     <name>OptRoster</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation>OptApplicationUI</translation>
+        <translation type="vanished">OptApplicationUI</translation>
     </message>
     <message>
         <source>Roster window always on top</source>
-        <translation>Spisak uvek na vrhu</translation>
+        <translation type="vanished">Spisak uvek na vrhu</translation>
     </message>
     <message>
         <source>Auto-resize contact list</source>
-        <translation>Automatska veličina liste kontakata</translation>
+        <translation type="vanished">Automatska veličina liste kontakata</translation>
     </message>
     <message>
         <source>Use left-click for menu</source>
-        <translation>Levi klik za meni</translation>
+        <translation type="vanished">Levi klik za meni</translation>
     </message>
     <message>
         <source>Show menubar</source>
-        <translation>Pokaži menibar</translation>
+        <translation type="vanished">Pokaži menibar</translation>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
-        <translation>Onemogući skrolbar u prozoru aplikacije</translation>
+        <translation type="vanished">Onemogući skrolbar u prozoru aplikacije</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation>Onemogući skrolbar</translation>
+        <translation type="vanished">Onemogući skrolbar</translation>
     </message>
     <message>
         <source>Enables avatar frame at the top of roster</source>
-        <translation>Omoguće avatar na vrhu spiska</translation>
+        <translation type="vanished">Omoguće avatar na vrhu spiska</translation>
     </message>
     <message>
         <source>Enable roster avatar frame</source>
-        <translation>Omogući avatar spiska</translation>
+        <translation type="vanished">Omogući avatar spiska</translation>
     </message>
     <message>
         <source>Autohide roster after</source>
-        <translation>Auto sakrivanje spiska posle</translation>
+        <translation type="vanished">Auto sakrivanje spiska posle</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation>Ikone</translation>
+        <translation type="vanished">Ikone</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation>Pokaži avatare na spisku</translation>
+        <translation type="vanished">Pokaži avatare na spisku</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation>Avatari</translation>
+        <translation type="vanished">Avatari</translation>
     </message>
     <message>
         <source>Show moods in roster</source>
-        <translation>POkaži modove u spisku</translation>
+        <translation type="vanished">POkaži modove u spisku</translation>
     </message>
     <message>
         <source>Moods</source>
-        <translation>Modovi </translation>
+        <translation type="vanished">Modovi </translation>
     </message>
     <message>
         <source>Show activities in roster</source>
-        <translation>Pokaži aktivnosti u spisku</translation>
+        <translation type="vanished">Pokaži aktivnosti u spisku</translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation>Aktivnosti</translation>
+        <translation type="vanished">Aktivnosti</translation>
     </message>
     <message>
         <source>Show geolocation in roster</source>
-        <translation>Pokaži geolokaciju na spisku</translation>
+        <translation type="vanished">Pokaži geolokaciju na spisku</translation>
     </message>
     <message>
         <source>GeoLocation</source>
-        <translation>Geolokacija</translation>
+        <translation type="vanished">Geolokacija</translation>
     </message>
     <message>
         <source>Show icon when contact is listening to music</source>
-        <translation>Pokaži ikonu kada kontakt sluša muziku</translation>
+        <translation type="vanished">Pokaži ikonu kada kontakt sluša muziku</translation>
     </message>
     <message>
         <source>Now playing</source>
-        <translation>Sada emituje</translation>
+        <translation type="vanished">Sada emituje</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation>Pokaži ikonu klijenta</translation>
+        <translation type="vanished">Pokaži ikonu klijenta</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation>Klijenti</translation>
+        <translation type="vanished">Klijenti</translation>
     </message>
     <message>
         <source>all client icons</source>
-        <translation>sve ikone klijenta</translation>
+        <translation type="vanished">sve ikone klijenta</translation>
     </message>
     <message>
         <source>only highest priority client icon</source>
-        <translation>samo ikona klijenta sa visokim prioritetom</translation>
+        <translation type="vanished">samo ikona klijenta sa visokim prioritetom</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation>Podešavanje avatara</translation>
+        <translation type="vanished">Podešavanje avatara</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Veličina</translation>
+        <translation type="vanished">Veličina</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation>Prečnik ugla</translation>
+        <translation type="vanished">Prečnik ugla</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMain</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation type="unfinished">OptApplicationUI</translation>
+    </message>
+    <message>
+        <source>Roster window always on top</source>
+        <translation type="unfinished">Spisak uvek na vrhu</translation>
+    </message>
+    <message>
+        <source>Auto-resize contact list</source>
+        <translation type="unfinished">Automatska veličina liste kontakata</translation>
+    </message>
+    <message>
+        <source>Use left-click for menu</source>
+        <translation type="unfinished">Levi klik za meni</translation>
+    </message>
+    <message>
+        <source>Show menubar</source>
+        <translation type="unfinished">Pokaži menibar</translation>
+    </message>
+    <message>
+        <source>Disables scrollbar in the application window.</source>
+        <translation type="unfinished">Onemogući skrolbar u prozoru aplikacije</translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="unfinished">Onemogući skrolbar</translation>
+    </message>
+    <message>
+        <source>Enables avatar frame at the top of roster</source>
+        <translation type="unfinished">Omoguće avatar na vrhu spiska</translation>
+    </message>
+    <message>
+        <source>Enable roster avatar frame</source>
+        <translation type="unfinished">Omogući avatar spiska</translation>
+    </message>
+    <message>
+        <source>Autohide roster after</source>
+        <translation type="unfinished">Auto sakrivanje spiska posle</translation>
     </message>
     <message>
         <source>seconds (0 - never)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Icons</source>
+        <translation type="unfinished">Ikone</translation>
+    </message>
+    <message>
+        <source>Show geolocation in roster</source>
+        <translation type="unfinished">Pokaži geolokaciju na spisku</translation>
+    </message>
+    <message>
+        <source>GeoLocation</source>
+        <translation type="unfinished">Geolokacija</translation>
+    </message>
+    <message>
+        <source>Show moods in roster</source>
+        <translation type="unfinished">POkaži modove u spisku</translation>
+    </message>
+    <message>
+        <source>Moods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="unfinished">Pokaži avatare na spisku</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="unfinished">Avatari</translation>
+    </message>
+    <message>
+        <source>Show activities in roster</source>
+        <translation type="unfinished">Pokaži aktivnosti u spisku</translation>
+    </message>
+    <message>
+        <source>Activities</source>
+        <translation type="unfinished">Aktivnosti</translation>
+    </message>
+    <message>
+        <source>Show icon when contact is listening to music</source>
+        <translation type="unfinished">Pokaži ikonu kada kontakt sluša muziku</translation>
+    </message>
+    <message>
+        <source>Now playing</source>
+        <translation type="unfinished">Sada emituje</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="unfinished">Pokaži ikonu klijenta</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation type="unfinished">Klijenti</translation>
+    </message>
+    <message>
+        <source>all client icons</source>
+        <translation type="unfinished">sve ikone klijenta</translation>
+    </message>
+    <message>
+        <source>only highest priority client icon</source>
+        <translation type="unfinished">samo ikona klijenta sa visokim prioritetom</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="unfinished">Podešavanje avatara</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished">Veličina</translation>
+    </message>
+    <message>
         <source>pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="unfinished">Prečnik ugla</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMuc</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation type="unfinished">OptApplicationUI</translation>
+    </message>
+    <message>
+        <source>Hides scrollbar in the roster widget.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="unfinished">Onemogući skrolbar</translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation type="unfinished">Ikone</translation>
+    </message>
+    <message>
+        <source>Show icon if contact status like online, away and others.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="unfinished">Pokaži ikonu klijenta</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation type="unfinished">Klijenti</translation>
+    </message>
+    <message>
+        <source>Show who is the boss and who is nothing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Affiliations</source>
+        <translation type="unfinished">Pripadnosti</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="unfinished">Pokaži avatare na spisku</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="unfinished">Avatari</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="unfinished">Podešavanje avatara</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished">Veličina</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="unfinished">Prečnik ugla</translation>
+    </message>
+    <message>
+        <source>Align avatars to the left edge of the roster. Otherwise to the right.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left aligned</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10435,23 +10634,65 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Roster window options</source>
-        <translation>Opcije prozora sa spiskom</translation>
+        <translation type="vanished">Opcije prozora sa spiskom</translation>
     </message>
     <message>
         <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation>Čini da glavni prozor uvek bude ispred ostalih.</translation>
+        <translation type="vanished">Čini da glavni prozor uvek bude ispred ostalih.</translation>
     </message>
     <message>
         <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation>Omogućuje automatsko podešavanje veličina glavnog prozora kontaktima.</translation>
+        <translation type="vanished">Omogućuje automatsko podešavanje veličina glavnog prozora kontaktima.</translation>
     </message>
     <message>
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation>Obično se desnim klikom miša na kontakt otvara dodatni meni.  Izaberite ovu opciju ako radije koristite levi klik.</translation>
+        <translation type="vanished">Obično se desnim klikom miša na kontakt otvara dodatni meni.  Izaberite ovu opciju ako radije koristite levi klik.</translation>
     </message>
     <message>
         <source>Shows the menubar in the application window.</source>
-        <translation>Pokaži meni bar u prozoru aplikacija</translation>
+        <translation type="vanished">Pokaži meni bar u prozoru aplikacija</translation>
+    </message>
+    <message>
+        <source>Roster options</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMain</name>
+    <message>
+        <source>Roster</source>
+        <translation type="unfinished">Spisak</translation>
+    </message>
+    <message>
+        <source>Roster window options</source>
+        <translation type="unfinished">Opcije prozora sa spiskom</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window always be in front of other windows.</source>
+        <translation type="unfinished">Čini da glavni prozor uvek bude ispred ostalih.</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window resize automatically to fit all contacts.</source>
+        <translation type="unfinished">Omogućuje automatsko podešavanje veličina glavnog prozora kontaktima.</translation>
+    </message>
+    <message>
+        <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
+        <translation type="unfinished">Obično se desnim klikom miša na kontakt otvara dodatni meni.  Izaberite ovu opciju ako radije koristite levi klik.</translation>
+    </message>
+    <message>
+        <source>Shows the menubar in the application window.</source>
+        <translation type="unfinished">Pokaži meni bar u prozoru aplikacija</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMuc</name>
+    <message>
+        <source>Groupchat</source>
+        <translation type="unfinished">Grupni razgovor</translation>
+    </message>
+    <message>
+        <source>Groupchat roster options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

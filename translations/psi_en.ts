@@ -2051,6 +2051,10 @@ Do you still want to close the window?</translation>
         <source>Desc:</source>
         <translation>Desc:</translation>
     </message>
+    <message>
+        <source>The message was corrected</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ChatViewThemeProvider</name>
@@ -3171,6 +3175,11 @@ Proceed?</translation>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</translation>
+    </message>
+    <message>
+        <source>more items</source>
+        <comment>Getting more disco items in order page by page</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8848,123 +8857,321 @@ Tags: %1</translation>
     <name>OptRoster</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation>OptApplicationUI</translation>
+        <translation type="vanished">OptApplicationUI</translation>
     </message>
     <message>
         <source>Roster window always on top</source>
-        <translation>Roster window always on top</translation>
+        <translation type="vanished">Roster window always on top</translation>
     </message>
     <message>
         <source>Auto-resize contact list</source>
-        <translation>Auto-resize contact list</translation>
+        <translation type="vanished">Auto-resize contact list</translation>
     </message>
     <message>
         <source>Use left-click for menu</source>
-        <translation>Use left-click for menu</translation>
+        <translation type="vanished">Use left-click for menu</translation>
     </message>
     <message>
         <source>Show menubar</source>
-        <translation>Show menubar</translation>
+        <translation type="vanished">Show menubar</translation>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
-        <translation>Disables scrollbar in the application window.</translation>
+        <translation type="vanished">Disables scrollbar in the application window.</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation>Disable scrollbar</translation>
+        <translation type="vanished">Disable scrollbar</translation>
     </message>
     <message>
         <source>Enables avatar frame at the top of roster</source>
-        <translation>Enables avatar frame at the top of roster</translation>
+        <translation type="vanished">Enables avatar frame at the top of roster</translation>
     </message>
     <message>
         <source>Enable roster avatar frame</source>
-        <translation>Enable roster avatar frame</translation>
+        <translation type="vanished">Enable roster avatar frame</translation>
     </message>
     <message>
         <source>Autohide roster after</source>
-        <translation>Autohide roster after</translation>
+        <translation type="vanished">Autohide roster after</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation>Icons</translation>
+        <translation type="vanished">Icons</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation>Show avatars in roster</translation>
+        <translation type="vanished">Show avatars in roster</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation>Avatars</translation>
+        <translation type="vanished">Avatars</translation>
     </message>
     <message>
         <source>Show moods in roster</source>
-        <translation>Show moods in roster</translation>
+        <translation type="vanished">Show moods in roster</translation>
     </message>
     <message>
         <source>Moods</source>
-        <translation>Moods</translation>
+        <translation type="vanished">Moods</translation>
     </message>
     <message>
         <source>Show activities in roster</source>
-        <translation>Show activities in roster</translation>
+        <translation type="vanished">Show activities in roster</translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation>Activities</translation>
+        <translation type="vanished">Activities</translation>
     </message>
     <message>
         <source>Show geolocation in roster</source>
-        <translation>Show geolocation in roster</translation>
+        <translation type="vanished">Show geolocation in roster</translation>
     </message>
     <message>
         <source>GeoLocation</source>
-        <translation>GeoLocation</translation>
+        <translation type="vanished">GeoLocation</translation>
     </message>
     <message>
         <source>Show icon when contact is listening to music</source>
-        <translation>Show icon when contact is listening to music</translation>
+        <translation type="vanished">Show icon when contact is listening to music</translation>
     </message>
     <message>
         <source>Now playing</source>
-        <translation>Now playing</translation>
+        <translation type="vanished">Now playing</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation>Show icon of user client</translation>
+        <translation type="vanished">Show icon of user client</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation>Clients</translation>
+        <translation type="vanished">Clients</translation>
     </message>
     <message>
         <source>all client icons</source>
-        <translation>all client icons</translation>
+        <translation type="vanished">all client icons</translation>
     </message>
     <message>
         <source>only highest priority client icon</source>
-        <translation>only highest priority client icon</translation>
+        <translation type="vanished">only highest priority client icon</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation>Avatar settings</translation>
+        <translation type="vanished">Avatar settings</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Size</translation>
+        <translation type="vanished">Size</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation>Radius of corners</translation>
+        <translation type="vanished">Radius of corners</translation>
     </message>
     <message>
         <source>seconds (0 - never)</source>
-        <translation>seconds (0 - never)</translation>
+        <translation type="vanished">seconds (0 - never)</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation>pt</translation>
+        <translation type="vanished">pt</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMain</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation type="unfinished">OptApplicationUI</translation>
+    </message>
+    <message>
+        <source>Roster window always on top</source>
+        <translation type="unfinished">Roster window always on top</translation>
+    </message>
+    <message>
+        <source>Auto-resize contact list</source>
+        <translation type="unfinished">Auto-resize contact list</translation>
+    </message>
+    <message>
+        <source>Use left-click for menu</source>
+        <translation type="unfinished">Use left-click for menu</translation>
+    </message>
+    <message>
+        <source>Show menubar</source>
+        <translation type="unfinished">Show menubar</translation>
+    </message>
+    <message>
+        <source>Disables scrollbar in the application window.</source>
+        <translation type="unfinished">Disables scrollbar in the application window.</translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="unfinished">Disable scrollbar</translation>
+    </message>
+    <message>
+        <source>Enables avatar frame at the top of roster</source>
+        <translation type="unfinished">Enables avatar frame at the top of roster</translation>
+    </message>
+    <message>
+        <source>Enable roster avatar frame</source>
+        <translation type="unfinished">Enable roster avatar frame</translation>
+    </message>
+    <message>
+        <source>Autohide roster after</source>
+        <translation type="unfinished">Autohide roster after</translation>
+    </message>
+    <message>
+        <source>seconds (0 - never)</source>
+        <translation type="unfinished">seconds (0 - never)</translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation type="unfinished">Icons</translation>
+    </message>
+    <message>
+        <source>Show geolocation in roster</source>
+        <translation type="unfinished">Show geolocation in roster</translation>
+    </message>
+    <message>
+        <source>GeoLocation</source>
+        <translation type="unfinished">GeoLocation</translation>
+    </message>
+    <message>
+        <source>Show moods in roster</source>
+        <translation type="unfinished">Show moods in roster</translation>
+    </message>
+    <message>
+        <source>Moods</source>
+        <translation type="unfinished">Moods</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="unfinished">Show avatars in roster</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="unfinished">Avatars</translation>
+    </message>
+    <message>
+        <source>Show activities in roster</source>
+        <translation type="unfinished">Show activities in roster</translation>
+    </message>
+    <message>
+        <source>Activities</source>
+        <translation type="unfinished">Activities</translation>
+    </message>
+    <message>
+        <source>Show icon when contact is listening to music</source>
+        <translation type="unfinished">Show icon when contact is listening to music</translation>
+    </message>
+    <message>
+        <source>Now playing</source>
+        <translation type="unfinished">Now playing</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="unfinished">Show icon of user client</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation type="unfinished">Clients</translation>
+    </message>
+    <message>
+        <source>all client icons</source>
+        <translation type="unfinished">all client icons</translation>
+    </message>
+    <message>
+        <source>only highest priority client icon</source>
+        <translation type="unfinished">only highest priority client icon</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="unfinished">Avatar settings</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished">Size</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="unfinished">pt</translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="unfinished">Radius of corners</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMuc</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation type="unfinished">OptApplicationUI</translation>
+    </message>
+    <message>
+        <source>Hides scrollbar in the roster widget.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="unfinished">Disable scrollbar</translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation type="unfinished">Icons</translation>
+    </message>
+    <message>
+        <source>Show icon if contact status like online, away and others.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished">Status</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="unfinished">Show icon of user client</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation type="unfinished">Clients</translation>
+    </message>
+    <message>
+        <source>Show who is the boss and who is nothing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Affiliations</source>
+        <translation type="unfinished">Affiliations</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="unfinished">Show avatars in roster</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="unfinished">Avatars</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="unfinished">Avatar settings</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished">Size</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="unfinished">pt</translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="unfinished">Radius of corners</translation>
+    </message>
+    <message>
+        <source>Align avatars to the left edge of the roster. Otherwise to the right.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left aligned</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10510,23 +10717,65 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Roster window options</source>
-        <translation>Roster window options</translation>
+        <translation type="vanished">Roster window options</translation>
     </message>
     <message>
         <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation>Makes the main Psi window always be in front of other windows.</translation>
+        <translation type="vanished">Makes the main Psi window always be in front of other windows.</translation>
     </message>
     <message>
         <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation>Makes the main Psi window resize automatically to fit all contacts.</translation>
+        <translation type="vanished">Makes the main Psi window resize automatically to fit all contacts.</translation>
     </message>
     <message>
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</translation>
+        <translation type="vanished">Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</translation>
     </message>
     <message>
         <source>Shows the menubar in the application window.</source>
-        <translation>Shows the menubar in the application window.</translation>
+        <translation type="vanished">Shows the menubar in the application window.</translation>
+    </message>
+    <message>
+        <source>Roster options</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMain</name>
+    <message>
+        <source>Roster</source>
+        <translation type="unfinished">Roster</translation>
+    </message>
+    <message>
+        <source>Roster window options</source>
+        <translation type="unfinished">Roster window options</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window always be in front of other windows.</source>
+        <translation type="unfinished">Makes the main Psi window always be in front of other windows.</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window resize automatically to fit all contacts.</source>
+        <translation type="unfinished">Makes the main Psi window resize automatically to fit all contacts.</translation>
+    </message>
+    <message>
+        <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
+        <translation type="unfinished">Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</translation>
+    </message>
+    <message>
+        <source>Shows the menubar in the application window.</source>
+        <translation type="unfinished">Shows the menubar in the application window.</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMuc</name>
+    <message>
+        <source>Groupchat</source>
+        <translation type="unfinished">Groupchat</translation>
+    </message>
+    <message>
+        <source>Groupchat roster options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

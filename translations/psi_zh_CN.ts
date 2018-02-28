@@ -2034,6 +2034,10 @@ Do you still want to close the window?</source>
         <source>Desc:</source>
         <translation>品名:</translation>
     </message>
+    <message>
+        <source>The message was corrected</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ChatViewThemeProvider</name>
@@ -3149,6 +3153,11 @@ Proceed?</source>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>为&lt;b&gt;%1&lt;/b&gt;取得项目资料时发生错误。&lt;br&gt;原因: %2</translation>
+    </message>
+    <message>
+        <source>more items</source>
+        <comment>Getting more disco items in order page by page</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8828,122 +8837,312 @@ Tags: %1</source>
     <name>OptRoster</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation>选择应用程序编程接口</translation>
+        <translation type="vanished">选择应用程序编程接口</translation>
     </message>
     <message>
         <source>Roster window always on top</source>
-        <translation>名单窗口永远在最上方</translation>
+        <translation type="vanished">名单窗口永远在最上方</translation>
     </message>
     <message>
         <source>Auto-resize contact list</source>
-        <translation>自动缩放联系人清单</translation>
+        <translation type="vanished">自动缩放联系人清单</translation>
     </message>
     <message>
         <source>Use left-click for menu</source>
-        <translation>使用左键来选择菜单</translation>
+        <translation type="vanished">使用左键来选择菜单</translation>
     </message>
     <message>
         <source>Show menubar</source>
-        <translation>显示菜单</translation>
+        <translation type="vanished">显示菜单</translation>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
-        <translation>禁用应用程序窗口中的滚动条。</translation>
+        <translation type="vanished">禁用应用程序窗口中的滚动条。</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation>禁用滚动</translation>
+        <translation type="vanished">禁用滚动</translation>
     </message>
     <message>
         <source>Enables avatar frame at the top of roster</source>
-        <translation>启用名单顶部的头像帧</translation>
+        <translation type="vanished">启用名单顶部的头像帧</translation>
     </message>
     <message>
         <source>Enable roster avatar frame</source>
-        <translation>启用名单头像框架</translation>
+        <translation type="vanished">启用名单头像框架</translation>
     </message>
     <message>
         <source>Autohide roster after</source>
-        <translation>自动隐藏名单后</translation>
+        <translation type="vanished">自动隐藏名单后</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation>图示</translation>
+        <translation type="vanished">图示</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation>名单中显示图片</translation>
+        <translation type="vanished">名单中显示图片</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation>头像</translation>
+        <translation type="vanished">头像</translation>
     </message>
     <message>
         <source>Show moods in roster</source>
-        <translation>在名单显示情绪</translation>
+        <translation type="vanished">在名单显示情绪</translation>
     </message>
     <message>
         <source>Moods</source>
-        <translation>情绪</translation>
+        <translation type="vanished">情绪</translation>
     </message>
     <message>
         <source>Show activities in roster</source>
-        <translation>在名单中显示的活动</translation>
+        <translation type="vanished">在名单中显示的活动</translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation>活动</translation>
+        <translation type="vanished">活动</translation>
     </message>
     <message>
         <source>Show geolocation in roster</source>
-        <translation>显示名单地理位置</translation>
+        <translation type="vanished">显示名单地理位置</translation>
     </message>
     <message>
         <source>GeoLocation</source>
-        <translation>地理位置</translation>
+        <translation type="vanished">地理位置</translation>
     </message>
     <message>
         <source>Show icon when contact is listening to music</source>
-        <translation>接触时听音乐，显示图标</translation>
+        <translation type="vanished">接触时听音乐，显示图标</translation>
     </message>
     <message>
         <source>Now playing</source>
-        <translation>现在播放</translation>
+        <translation type="vanished">现在播放</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation>显示用户客户端的图标</translation>
+        <translation type="vanished">显示用户客户端的图标</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation>客户</translation>
+        <translation type="vanished">客户</translation>
     </message>
     <message>
         <source>all client icons</source>
-        <translation>所有客户端图示</translation>
+        <translation type="vanished">所有客户端图示</translation>
     </message>
     <message>
         <source>only highest priority client icon</source>
-        <translation>唯一的最高优先级的客户端图示</translation>
+        <translation type="vanished">唯一的最高优先级的客户端图示</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation>头像设置</translation>
+        <translation type="vanished">头像设置</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>大小</translation>
+        <translation type="vanished">大小</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation>园角</translation>
+        <translation type="vanished">园角</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMain</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Roster window always on top</source>
+        <translation type="unfinished">名单窗口永远在最上方</translation>
+    </message>
+    <message>
+        <source>Auto-resize contact list</source>
+        <translation type="unfinished">自动缩放联系人清单</translation>
+    </message>
+    <message>
+        <source>Use left-click for menu</source>
+        <translation type="unfinished">使用左键来选择菜单</translation>
+    </message>
+    <message>
+        <source>Show menubar</source>
+        <translation type="unfinished">显示菜单</translation>
+    </message>
+    <message>
+        <source>Disables scrollbar in the application window.</source>
+        <translation type="unfinished">禁用应用程序窗口中的滚动条。</translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="unfinished">禁用滚动</translation>
+    </message>
+    <message>
+        <source>Enables avatar frame at the top of roster</source>
+        <translation type="unfinished">启用名单顶部的头像帧</translation>
+    </message>
+    <message>
+        <source>Enable roster avatar frame</source>
+        <translation type="unfinished">启用名单头像框架</translation>
+    </message>
+    <message>
+        <source>Autohide roster after</source>
+        <translation type="unfinished">自动隐藏名单后</translation>
     </message>
     <message>
         <source>seconds (0 - never)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Icons</source>
+        <translation type="unfinished">图示</translation>
+    </message>
+    <message>
+        <source>Show geolocation in roster</source>
+        <translation type="unfinished">显示名单地理位置</translation>
+    </message>
+    <message>
+        <source>GeoLocation</source>
+        <translation type="unfinished">地理位置</translation>
+    </message>
+    <message>
+        <source>Show moods in roster</source>
+        <translation type="unfinished">在名单显示情绪</translation>
+    </message>
+    <message>
+        <source>Moods</source>
+        <translation type="unfinished">情绪</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="unfinished">名单中显示图片</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="unfinished">头像</translation>
+    </message>
+    <message>
+        <source>Show activities in roster</source>
+        <translation type="unfinished">在名单中显示的活动</translation>
+    </message>
+    <message>
+        <source>Activities</source>
+        <translation type="unfinished">活动</translation>
+    </message>
+    <message>
+        <source>Show icon when contact is listening to music</source>
+        <translation type="unfinished">接触时听音乐，显示图标</translation>
+    </message>
+    <message>
+        <source>Now playing</source>
+        <translation type="unfinished">现在播放</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="unfinished">显示用户客户端的图标</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation type="unfinished">客户</translation>
+    </message>
+    <message>
+        <source>all client icons</source>
+        <translation type="unfinished">所有客户端图示</translation>
+    </message>
+    <message>
+        <source>only highest priority client icon</source>
+        <translation type="unfinished">唯一的最高优先级的客户端图示</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="unfinished">头像设置</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="unfinished">园角</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMuc</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hides scrollbar in the roster widget.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="unfinished">禁用滚动</translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation type="unfinished">图示</translation>
+    </message>
+    <message>
+        <source>Show icon if contact status like online, away and others.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished">状态</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="unfinished">显示用户客户端的图标</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation type="unfinished">客户</translation>
+    </message>
+    <message>
+        <source>Show who is the boss and who is nothing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Affiliations</source>
+        <translation type="unfinished">附属</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="unfinished">名单中显示图片</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="unfinished">头像</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="unfinished">头像设置</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="unfinished">园角</translation>
+    </message>
+    <message>
+        <source>Align avatars to the left edge of the roster. Otherwise to the right.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left aligned</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10473,23 +10672,65 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Roster window options</source>
-        <translation>名单窗口选项</translation>
+        <translation type="vanished">名单窗口选项</translation>
     </message>
     <message>
         <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation>让 Psi 的主窗口永远在其他窗口前面。</translation>
+        <translation type="vanished">让 Psi 的主窗口永远在其他窗口前面。</translation>
     </message>
     <message>
         <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation>让 Psi 的主窗口自动缩放到能够放入所有的联系人。</translation>
+        <translation type="vanished">让 Psi 的主窗口自动缩放到能够放入所有的联系人。</translation>
     </message>
     <message>
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation>通常来说, 在联系人上右键单击会触发内容菜单。如果你想要改成按左键, 则核取这个选项。</translation>
+        <translation type="vanished">通常来说, 在联系人上右键单击会触发内容菜单。如果你想要改成按左键, 则核取这个选项。</translation>
     </message>
     <message>
         <source>Shows the menubar in the application window.</source>
-        <translation>在应用窗口显示菜单。</translation>
+        <translation type="vanished">在应用窗口显示菜单。</translation>
+    </message>
+    <message>
+        <source>Roster options</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMain</name>
+    <message>
+        <source>Roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Roster window options</source>
+        <translation type="unfinished">名单窗口选项</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window always be in front of other windows.</source>
+        <translation type="unfinished">让 Psi 的主窗口永远在其他窗口前面。</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window resize automatically to fit all contacts.</source>
+        <translation type="unfinished">让 Psi 的主窗口自动缩放到能够放入所有的联系人。</translation>
+    </message>
+    <message>
+        <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
+        <translation type="unfinished">通常来说, 在联系人上右键单击会触发内容菜单。如果你想要改成按左键, 则核取这个选项。</translation>
+    </message>
+    <message>
+        <source>Shows the menubar in the application window.</source>
+        <translation type="unfinished">在应用窗口显示菜单。</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMuc</name>
+    <message>
+        <source>Groupchat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Groupchat roster options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

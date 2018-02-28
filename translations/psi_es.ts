@@ -2045,6 +2045,10 @@ Do you still want to close the window?</source>
         <source>Desc:</source>
         <translation>Desc:</translation>
     </message>
+    <message>
+        <source>The message was corrected</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ChatViewThemeProvider</name>
@@ -3160,6 +3164,11 @@ Proceed?</source>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>Hubo un error obteniendo la información de los elementos para &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Razón: %2</translation>
+    </message>
+    <message>
+        <source>more items</source>
+        <comment>Getting more disco items in order page by page</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8818,122 +8827,312 @@ Etiquetas: %1</translation>
     <name>OptRoster</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation>OptApplicationUI</translation>
+        <translation type="vanished">OptApplicationUI</translation>
     </message>
     <message>
         <source>Roster window always on top</source>
-        <translation>Ventana de contactos siempre encima</translation>
+        <translation type="vanished">Ventana de contactos siempre encima</translation>
     </message>
     <message>
         <source>Auto-resize contact list</source>
-        <translation>Redimensionar automáticamente la lista de contactos</translation>
+        <translation type="vanished">Redimensionar automáticamente la lista de contactos</translation>
     </message>
     <message>
         <source>Use left-click for menu</source>
-        <translation>Usar clic derecho para el menú</translation>
+        <translation type="vanished">Usar clic derecho para el menú</translation>
     </message>
     <message>
         <source>Show menubar</source>
-        <translation>Mostrar barra de menús</translation>
+        <translation type="vanished">Mostrar barra de menús</translation>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
-        <translation>Inhabilita la barra de desplazamiento en la ventana de la aplicación.</translation>
+        <translation type="vanished">Inhabilita la barra de desplazamiento en la ventana de la aplicación.</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation>Inhabilitar barra de desplazamiento</translation>
+        <translation type="vanished">Inhabilitar barra de desplazamiento</translation>
     </message>
     <message>
         <source>Enables avatar frame at the top of roster</source>
-        <translation>Habilita marco de avatar en la parte superior de la lista de contactos</translation>
+        <translation type="vanished">Habilita marco de avatar en la parte superior de la lista de contactos</translation>
     </message>
     <message>
         <source>Enable roster avatar frame</source>
-        <translation>Habilita marco del avatar en la lista de contactos</translation>
+        <translation type="vanished">Habilita marco del avatar en la lista de contactos</translation>
     </message>
     <message>
         <source>Autohide roster after</source>
-        <translation>Ocultar automáticamente la lista de contactos después de</translation>
+        <translation type="vanished">Ocultar automáticamente la lista de contactos después de</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation>Iconos</translation>
+        <translation type="vanished">Iconos</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation>Mostrar avatares en la lista de contactos</translation>
+        <translation type="vanished">Mostrar avatares en la lista de contactos</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation>Avatares</translation>
+        <translation type="vanished">Avatares</translation>
     </message>
     <message>
         <source>Show moods in roster</source>
-        <translation>Mostrar estados de ánimo en la lista de contactos</translation>
+        <translation type="vanished">Mostrar estados de ánimo en la lista de contactos</translation>
     </message>
     <message>
         <source>Moods</source>
-        <translation>Estados de ánimo</translation>
+        <translation type="vanished">Estados de ánimo</translation>
     </message>
     <message>
         <source>Show activities in roster</source>
-        <translation>Mostrar actividades en la lista de contactos</translation>
+        <translation type="vanished">Mostrar actividades en la lista de contactos</translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation>Actividades</translation>
+        <translation type="vanished">Actividades</translation>
     </message>
     <message>
         <source>Show geolocation in roster</source>
-        <translation>Mostrar geolocalización en la lista de contactos</translation>
+        <translation type="vanished">Mostrar geolocalización en la lista de contactos</translation>
     </message>
     <message>
         <source>GeoLocation</source>
-        <translation>Geolocalización</translation>
+        <translation type="vanished">Geolocalización</translation>
     </message>
     <message>
         <source>Show icon when contact is listening to music</source>
-        <translation>Mostrar icono cuando el contacto escuche música</translation>
+        <translation type="vanished">Mostrar icono cuando el contacto escuche música</translation>
     </message>
     <message>
         <source>Now playing</source>
-        <translation>Reproduciendo ahora</translation>
+        <translation type="vanished">Reproduciendo ahora</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation>Mostrar icono del cliente del usuario</translation>
+        <translation type="vanished">Mostrar icono del cliente del usuario</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation>Clientes</translation>
+        <translation type="vanished">Clientes</translation>
     </message>
     <message>
         <source>all client icons</source>
-        <translation>todos los iconos de los clientes</translation>
+        <translation type="vanished">todos los iconos de los clientes</translation>
     </message>
     <message>
         <source>only highest priority client icon</source>
-        <translation>solo el icono del cliente con mayor prioridad</translation>
+        <translation type="vanished">solo el icono del cliente con mayor prioridad</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation>Configuraciones del avatar</translation>
+        <translation type="vanished">Configuraciones del avatar</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Tamaño</translation>
+        <translation type="vanished">Tamaño</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation>Radio en las esquinas</translation>
+        <translation type="vanished">Radio en las esquinas</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMain</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation type="unfinished">OptApplicationUI</translation>
+    </message>
+    <message>
+        <source>Roster window always on top</source>
+        <translation type="unfinished">Ventana de contactos siempre encima</translation>
+    </message>
+    <message>
+        <source>Auto-resize contact list</source>
+        <translation type="unfinished">Redimensionar automáticamente la lista de contactos</translation>
+    </message>
+    <message>
+        <source>Use left-click for menu</source>
+        <translation type="unfinished">Usar clic derecho para el menú</translation>
+    </message>
+    <message>
+        <source>Show menubar</source>
+        <translation type="unfinished">Mostrar barra de menús</translation>
+    </message>
+    <message>
+        <source>Disables scrollbar in the application window.</source>
+        <translation type="unfinished">Inhabilita la barra de desplazamiento en la ventana de la aplicación.</translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="unfinished">Inhabilitar barra de desplazamiento</translation>
+    </message>
+    <message>
+        <source>Enables avatar frame at the top of roster</source>
+        <translation type="unfinished">Habilita marco de avatar en la parte superior de la lista de contactos</translation>
+    </message>
+    <message>
+        <source>Enable roster avatar frame</source>
+        <translation type="unfinished">Habilita marco del avatar en la lista de contactos</translation>
+    </message>
+    <message>
+        <source>Autohide roster after</source>
+        <translation type="unfinished">Ocultar automáticamente la lista de contactos después de</translation>
     </message>
     <message>
         <source>seconds (0 - never)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Icons</source>
+        <translation type="unfinished">Iconos</translation>
+    </message>
+    <message>
+        <source>Show geolocation in roster</source>
+        <translation type="unfinished">Mostrar geolocalización en la lista de contactos</translation>
+    </message>
+    <message>
+        <source>GeoLocation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show moods in roster</source>
+        <translation type="unfinished">Mostrar estados de ánimo en la lista de contactos</translation>
+    </message>
+    <message>
+        <source>Moods</source>
+        <translation type="unfinished">Estados de ánimo</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="unfinished">Mostrar avatares en la lista de contactos</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="unfinished">Avatares</translation>
+    </message>
+    <message>
+        <source>Show activities in roster</source>
+        <translation type="unfinished">Mostrar actividades en la lista de contactos</translation>
+    </message>
+    <message>
+        <source>Activities</source>
+        <translation type="unfinished">Actividades</translation>
+    </message>
+    <message>
+        <source>Show icon when contact is listening to music</source>
+        <translation type="unfinished">Mostrar icono cuando el contacto escuche música</translation>
+    </message>
+    <message>
+        <source>Now playing</source>
+        <translation type="unfinished">Reproduciendo ahora</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="unfinished">Mostrar icono del cliente del usuario</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation type="unfinished">Clientes</translation>
+    </message>
+    <message>
+        <source>all client icons</source>
+        <translation type="unfinished">todos los iconos de los clientes</translation>
+    </message>
+    <message>
+        <source>only highest priority client icon</source>
+        <translation type="unfinished">solo el icono del cliente con mayor prioridad</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="unfinished">Configuraciones del avatar</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished">Tamaño</translation>
+    </message>
+    <message>
         <source>pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="unfinished">Radio en las esquinas</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMuc</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation type="unfinished">OptApplicationUI</translation>
+    </message>
+    <message>
+        <source>Hides scrollbar in the roster widget.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="unfinished">Inhabilitar barra de desplazamiento</translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation type="unfinished">Iconos</translation>
+    </message>
+    <message>
+        <source>Show icon if contact status like online, away and others.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished">Estado</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="unfinished">Mostrar icono del cliente del usuario</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation type="unfinished">Clientes</translation>
+    </message>
+    <message>
+        <source>Show who is the boss and who is nothing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Affiliations</source>
+        <translation type="unfinished">Afiliaciones</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="unfinished">Mostrar avatares en la lista de contactos</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="unfinished">Avatares</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="unfinished">Configuraciones del avatar</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished">Tamaño</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="unfinished">Radio en las esquinas</translation>
+    </message>
+    <message>
+        <source>Align avatars to the left edge of the roster. Otherwise to the right.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left aligned</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10475,23 +10674,65 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>Roster window options</source>
-        <translation>Opciones de la ventana de contactos</translation>
+        <translation type="vanished">Opciones de la ventana de contactos</translation>
     </message>
     <message>
         <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation>Hace que la ventana principal de Psi siempre permanezca por encima de las demás.</translation>
+        <translation type="vanished">Hace que la ventana principal de Psi siempre permanezca por encima de las demás.</translation>
     </message>
     <message>
         <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation>Hace que la ventana principal de Psi se redimensione automáticamente para encajar con todos los contactos.</translation>
+        <translation type="vanished">Hace que la ventana principal de Psi se redimensione automáticamente para encajar con todos los contactos.</translation>
     </message>
     <message>
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation>Normalmente, hacer clic derecho con el ratón sobre un contacto activará el menú contextual. Activa esta opción si deseas mejor usar clic izquierdo.</translation>
+        <translation type="vanished">Normalmente, hacer clic derecho con el ratón sobre un contacto activará el menú contextual. Activa esta opción si deseas mejor usar clic izquierdo.</translation>
     </message>
     <message>
         <source>Shows the menubar in the application window.</source>
-        <translation>Mostrar la barra de menús en la ventana de la aplicación.</translation>
+        <translation type="vanished">Mostrar la barra de menús en la ventana de la aplicación.</translation>
+    </message>
+    <message>
+        <source>Roster options</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMain</name>
+    <message>
+        <source>Roster</source>
+        <translation type="unfinished">Lista de contactos</translation>
+    </message>
+    <message>
+        <source>Roster window options</source>
+        <translation type="unfinished">Opciones de la ventana de contactos</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window always be in front of other windows.</source>
+        <translation type="unfinished">Hace que la ventana principal de Psi siempre permanezca por encima de las demás.</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window resize automatically to fit all contacts.</source>
+        <translation type="unfinished">Hace que la ventana principal de Psi se redimensione automáticamente para encajar con todos los contactos.</translation>
+    </message>
+    <message>
+        <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
+        <translation type="unfinished">Normalmente, hacer clic derecho con el ratón sobre un contacto activará el menú contextual. Activa esta opción si deseas mejor usar clic izquierdo.</translation>
+    </message>
+    <message>
+        <source>Shows the menubar in the application window.</source>
+        <translation type="unfinished">Mostrar la barra de menús en la ventana de la aplicación.</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMuc</name>
+    <message>
+        <source>Groupchat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Groupchat roster options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

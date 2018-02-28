@@ -2019,6 +2019,10 @@ Do you still want to close the window?</source>
         <source>Desc:</source>
         <translation>תיאור:</translation>
     </message>
+    <message>
+        <source>The message was corrected</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ChatViewThemeProvider</name>
@@ -3129,6 +3133,11 @@ Proceed?</source>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>אירעה שגיאה בהשגת מידע פריט נתון עבור &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;סיבה: %2</translation>
+    </message>
+    <message>
+        <source>more items</source>
+        <comment>Getting more disco items in order page by page</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8727,6 +8736,93 @@ Tags: %1</source>
 <context>
     <name>OptRoster</name>
     <message>
+        <source>Auto-resize contact list</source>
+        <translation type="vanished">שינוי גודל אוטומטי של רשימת קשר</translation>
+    </message>
+    <message>
+        <source>Show menubar</source>
+        <translation type="vanished">הצג שורת תפריט</translation>
+    </message>
+    <message>
+        <source>Disables scrollbar in the application window.</source>
+        <translation type="vanished">נטרל פס גלילה בחלון היישום.</translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="vanished">נטרל פס גלילה</translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation type="vanished">צלמיות</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="vanished">הצגת אווטארים ברשימה</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="vanished">אווטארים</translation>
+    </message>
+    <message>
+        <source>Show moods in roster</source>
+        <translation type="vanished">הצגת מצבי רוח ברשימה</translation>
+    </message>
+    <message>
+        <source>Moods</source>
+        <translation type="vanished">מצבי רוח</translation>
+    </message>
+    <message>
+        <source>Show activities in roster</source>
+        <translation type="vanished">הצגת פעילויות ברשימה</translation>
+    </message>
+    <message>
+        <source>Activities</source>
+        <translation type="vanished">פעילויות</translation>
+    </message>
+    <message>
+        <source>Show geolocation in roster</source>
+        <translation type="vanished">הצגת מיקום גאוגרפי ברשימה</translation>
+    </message>
+    <message>
+        <source>GeoLocation</source>
+        <translation type="vanished">מיקום גאוגרפי</translation>
+    </message>
+    <message>
+        <source>Show icon when contact is listening to music</source>
+        <translation type="vanished">הצגת צלמית כאשר איש קשר מאזין למוזיקה</translation>
+    </message>
+    <message>
+        <source>Now playing</source>
+        <translation type="vanished">מנגן עכשיו</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="vanished">הצג צלמית של לקוח משתמש</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation type="vanished">לקוחות</translation>
+    </message>
+    <message>
+        <source>all client icons</source>
+        <translation type="vanished">כל צלמיות לקוח</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="vanished">הגדרות אווטאר</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="vanished">מידה</translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="vanished">רדיוס של פינות</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMain</name>
+    <message>
         <source>OptApplicationUI</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8736,7 +8832,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Auto-resize contact list</source>
-        <translation>שינוי גודל אוטומטי של רשימת קשר</translation>
+        <translation type="unfinished">שינוי גודל אוטומטי של רשימת קשר</translation>
     </message>
     <message>
         <source>Use left-click for menu</source>
@@ -8744,15 +8840,15 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show menubar</source>
-        <translation>הצג שורת תפריט</translation>
+        <translation type="unfinished">הצג שורת תפריט</translation>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
-        <translation>נטרל פס גלילה בחלון היישום.</translation>
+        <translation type="unfinished">נטרל פס גלילה בחלון היישום.</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation>נטרל פס גלילה</translation>
+        <translation type="unfinished">נטרל פס גלילה</translation>
     </message>
     <message>
         <source>Enables avatar frame at the top of roster</source>
@@ -8767,60 +8863,64 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>seconds (0 - never)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Icons</source>
-        <translation>צלמיות</translation>
-    </message>
-    <message>
-        <source>Show avatars in roster</source>
-        <translation>הצגת אווטארים ברשימה</translation>
-    </message>
-    <message>
-        <source>Avatars</source>
-        <translation>אווטארים</translation>
-    </message>
-    <message>
-        <source>Show moods in roster</source>
-        <translation>הצגת מצבי רוח ברשימה</translation>
-    </message>
-    <message>
-        <source>Moods</source>
-        <translation>מצבי רוח</translation>
-    </message>
-    <message>
-        <source>Show activities in roster</source>
-        <translation>הצגת פעילויות ברשימה</translation>
-    </message>
-    <message>
-        <source>Activities</source>
-        <translation>פעילויות</translation>
+        <translation type="unfinished">צלמיות</translation>
     </message>
     <message>
         <source>Show geolocation in roster</source>
-        <translation>הצגת מיקום גאוגרפי ברשימה</translation>
+        <translation type="unfinished">הצגת מיקום גאוגרפי ברשימה</translation>
     </message>
     <message>
         <source>GeoLocation</source>
-        <translation>מיקום גאוגרפי</translation>
+        <translation type="unfinished">מיקום גאוגרפי</translation>
+    </message>
+    <message>
+        <source>Show moods in roster</source>
+        <translation type="unfinished">הצגת מצבי רוח ברשימה</translation>
+    </message>
+    <message>
+        <source>Moods</source>
+        <translation type="unfinished">מצבי רוח</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="unfinished">הצגת אווטארים ברשימה</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="unfinished">אווטארים</translation>
+    </message>
+    <message>
+        <source>Show activities in roster</source>
+        <translation type="unfinished">הצגת פעילויות ברשימה</translation>
+    </message>
+    <message>
+        <source>Activities</source>
+        <translation type="unfinished">פעילויות</translation>
     </message>
     <message>
         <source>Show icon when contact is listening to music</source>
-        <translation>הצגת צלמית כאשר איש קשר מאזין למוזיקה</translation>
+        <translation type="unfinished">הצגת צלמית כאשר איש קשר מאזין למוזיקה</translation>
     </message>
     <message>
         <source>Now playing</source>
-        <translation>מנגן עכשיו</translation>
+        <translation type="unfinished">מנגן עכשיו</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation>הצג צלמית של לקוח משתמש</translation>
+        <translation type="unfinished">הצג צלמית של לקוח משתמש</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation>לקוחות</translation>
+        <translation type="unfinished">לקוחות</translation>
     </message>
     <message>
         <source>all client icons</source>
-        <translation>כל צלמיות לקוח</translation>
+        <translation type="unfinished">כל צלמיות לקוח</translation>
     </message>
     <message>
         <source>only highest priority client icon</source>
@@ -8828,22 +8928,93 @@ Tags: %1</source>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation>הגדרות אווטאר</translation>
+        <translation type="unfinished">הגדרות אווטאר</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>מידה</translation>
-    </message>
-    <message>
-        <source>Radius of corners</source>
-        <translation>רדיוס של פינות</translation>
-    </message>
-    <message>
-        <source>seconds (0 - never)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="unfinished">רדיוס של פינות</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMuc</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hides scrollbar in the roster widget.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="unfinished">נטרל פס גלילה</translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation type="unfinished">צלמיות</translation>
+    </message>
+    <message>
+        <source>Show icon if contact status like online, away and others.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished">מצב</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="unfinished">הצג צלמית של לקוח משתמש</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation type="unfinished">לקוחות</translation>
+    </message>
+    <message>
+        <source>Show who is the boss and who is nothing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Affiliations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="unfinished">הצגת אווטארים ברשימה</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="unfinished">אווטארים</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="unfinished">הגדרות אווטאר</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="unfinished">רדיוס של פינות</translation>
+    </message>
+    <message>
+        <source>Align avatars to the left edge of the roster. Otherwise to the right.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left aligned</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10368,15 +10539,38 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Roster window options</source>
-        <translation>אפשרויות חלון רשימה</translation>
+        <translation type="vanished">אפשרויות חלון רשימה</translation>
     </message>
     <message>
         <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation>במידה ואפשרות זו מסומנת, החלון הראשי של Psi יימצא תמיד לפני חלונות אחרים.</translation>
+        <translation type="vanished">במידה ואפשרות זו מסומנת, החלון הראשי של Psi יימצא תמיד לפני חלונות אחרים.</translation>
     </message>
     <message>
         <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation>במידה ואפשרות זו מסומנת, החלון הראשי של Psi ישנה את גודלו אוטומטית כדי להתאים לכל אישי הקשר.</translation>
+        <translation type="vanished">במידה ואפשרות זו מסומנת, החלון הראשי של Psi ישנה את גודלו אוטומטית כדי להתאים לכל אישי הקשר.</translation>
+    </message>
+    <message>
+        <source>Roster options</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMain</name>
+    <message>
+        <source>Roster</source>
+        <translation type="unfinished">רשימה</translation>
+    </message>
+    <message>
+        <source>Roster window options</source>
+        <translation type="unfinished">אפשרויות חלון רשימה</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window always be in front of other windows.</source>
+        <translation type="unfinished">במידה ואפשרות זו מסומנת, החלון הראשי של Psi יימצא תמיד לפני חלונות אחרים.</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window resize automatically to fit all contacts.</source>
+        <translation type="unfinished">במידה ואפשרות זו מסומנת, החלון הראשי של Psi ישנה את גודלו אוטומטית כדי להתאים לכל אישי הקשר.</translation>
     </message>
     <message>
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
@@ -10384,6 +10578,17 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Shows the menubar in the application window.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMuc</name>
+    <message>
+        <source>Groupchat</source>
+        <translation type="unfinished">שיחת קבוצה</translation>
+    </message>
+    <message>
+        <source>Groupchat roster options</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

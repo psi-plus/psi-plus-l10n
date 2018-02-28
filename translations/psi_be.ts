@@ -2037,6 +2037,10 @@ Do you still want to close the window?</source>
         <source>Desc:</source>
         <translation>Апісаньне:</translation>
     </message>
+    <message>
+        <source>The message was corrected</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ChatViewThemeProvider</name>
@@ -3154,6 +3158,11 @@ Proceed?</source>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>Далі хібу, калі атрымвалі зьвесткі пра складнікі для &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Падстава: %2</translation>
+    </message>
+    <message>
+        <source>more items</source>
+        <comment>Getting more disco items in order page by page</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8809,122 +8818,312 @@ Tags: %1</source>
     <name>OptRoster</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation>OptApplicationUI</translation>
+        <translation type="vanished">OptApplicationUI</translation>
     </message>
     <message>
         <source>Roster window always on top</source>
-        <translation>Вакно сьпісу заўжды наверсе</translation>
+        <translation type="vanished">Вакно сьпісу заўжды наверсе</translation>
     </message>
     <message>
         <source>Auto-resize contact list</source>
-        <translation>Дапасоўваць памеры сьпісу</translation>
+        <translation type="vanished">Дапасоўваць памеры сьпісу</translation>
     </message>
     <message>
         <source>Use left-click for menu</source>
-        <translation>Выклікаць мэню левым пстрыкам</translation>
+        <translation type="vanished">Выклікаць мэню левым пстрыкам</translation>
     </message>
     <message>
         <source>Show menubar</source>
-        <translation>Паказваць паліцу мэню</translation>
+        <translation type="vanished">Паказваць паліцу мэню</translation>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
-        <translation>Забараніць стужку пракручваньня ў вакне праґрамы.</translation>
+        <translation type="vanished">Забараніць стужку пракручваньня ў вакне праґрамы.</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation>Забараніць стужку пракручваньня</translation>
+        <translation type="vanished">Забараніць стужку пракручваньня</translation>
     </message>
     <message>
         <source>Enables avatar frame at the top of roster</source>
-        <translation>Паказваць рамку з увасабленьнем уверсе сьпісу</translation>
+        <translation type="vanished">Паказваць рамку з увасабленьнем уверсе сьпісу</translation>
     </message>
     <message>
         <source>Enable roster avatar frame</source>
-        <translation>Рамка з увасабленьнем уверсе сьпісу</translation>
+        <translation type="vanished">Рамка з увасабленьнем уверсе сьпісу</translation>
     </message>
     <message>
         <source>Autohide roster after</source>
-        <translation>Хаваць сьпіс, як міне</translation>
+        <translation type="vanished">Хаваць сьпіс, як міне</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation>Значкі</translation>
+        <translation type="vanished">Значкі</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation>Паказваць у сьпісе ўвасабленьні</translation>
+        <translation type="vanished">Паказваць у сьпісе ўвасабленьні</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation>Увасабленьні</translation>
+        <translation type="vanished">Увасабленьні</translation>
     </message>
     <message>
         <source>Show moods in roster</source>
-        <translation>Паказваць у сьпісе настроі</translation>
+        <translation type="vanished">Паказваць у сьпісе настроі</translation>
     </message>
     <message>
         <source>Moods</source>
-        <translation>Настроі</translation>
+        <translation type="vanished">Настроі</translation>
     </message>
     <message>
         <source>Show activities in roster</source>
-        <translation>Паказваць у сьпісе дзейнасьці</translation>
+        <translation type="vanished">Паказваць у сьпісе дзейнасьці</translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation>Дзейнасьці</translation>
+        <translation type="vanished">Дзейнасьці</translation>
     </message>
     <message>
         <source>Show geolocation in roster</source>
-        <translation>Паказваць у сьпісе месцазнаходжаньні</translation>
+        <translation type="vanished">Паказваць у сьпісе месцазнаходжаньні</translation>
     </message>
     <message>
         <source>GeoLocation</source>
-        <translation>Месцазнаходжаньне</translation>
+        <translation type="vanished">Месцазнаходжаньне</translation>
     </message>
     <message>
         <source>Show icon when contact is listening to music</source>
-        <translation>Паказваць, калі суразмоўца слухае музыку</translation>
+        <translation type="vanished">Паказваць, калі суразмоўца слухае музыку</translation>
     </message>
     <message>
         <source>Now playing</source>
-        <translation>Музыка</translation>
+        <translation type="vanished">Музыка</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation>Паказваць значак кліента суразмоўцы</translation>
+        <translation type="vanished">Паказваць значак кліента суразмоўцы</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation>Кліенты</translation>
+        <translation type="vanished">Кліенты</translation>
     </message>
     <message>
         <source>all client icons</source>
-        <translation>усе кліенты</translation>
+        <translation type="vanished">усе кліенты</translation>
     </message>
     <message>
         <source>only highest priority client icon</source>
-        <translation>кліент з найвышэйшым пяршынствам</translation>
+        <translation type="vanished">кліент з найвышэйшым пяршынствам</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation>Налады ўвасабленьня</translation>
+        <translation type="vanished">Налады ўвасабленьня</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Памер</translation>
+        <translation type="vanished">Памер</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation>Радыюс вуглоў</translation>
+        <translation type="vanished">Радыюс вуглоў</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMain</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation type="unfinished">OptApplicationUI</translation>
+    </message>
+    <message>
+        <source>Roster window always on top</source>
+        <translation type="unfinished">Вакно сьпісу заўжды наверсе</translation>
+    </message>
+    <message>
+        <source>Auto-resize contact list</source>
+        <translation type="unfinished">Дапасоўваць памеры сьпісу</translation>
+    </message>
+    <message>
+        <source>Use left-click for menu</source>
+        <translation type="unfinished">Выклікаць мэню левым пстрыкам</translation>
+    </message>
+    <message>
+        <source>Show menubar</source>
+        <translation type="unfinished">Паказваць паліцу мэню</translation>
+    </message>
+    <message>
+        <source>Disables scrollbar in the application window.</source>
+        <translation type="unfinished">Забараніць стужку пракручваньня ў вакне праґрамы.</translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="unfinished">Забараніць стужку пракручваньня</translation>
+    </message>
+    <message>
+        <source>Enables avatar frame at the top of roster</source>
+        <translation type="unfinished">Паказваць рамку з увасабленьнем уверсе сьпісу</translation>
+    </message>
+    <message>
+        <source>Enable roster avatar frame</source>
+        <translation type="unfinished">Рамка з увасабленьнем уверсе сьпісу</translation>
+    </message>
+    <message>
+        <source>Autohide roster after</source>
+        <translation type="unfinished">Хаваць сьпіс, як міне</translation>
     </message>
     <message>
         <source>seconds (0 - never)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Icons</source>
+        <translation type="unfinished">Значкі</translation>
+    </message>
+    <message>
+        <source>Show geolocation in roster</source>
+        <translation type="unfinished">Паказваць у сьпісе месцазнаходжаньні</translation>
+    </message>
+    <message>
+        <source>GeoLocation</source>
+        <translation type="unfinished">Месцазнаходжаньне</translation>
+    </message>
+    <message>
+        <source>Show moods in roster</source>
+        <translation type="unfinished">Паказваць у сьпісе настроі</translation>
+    </message>
+    <message>
+        <source>Moods</source>
+        <translation type="unfinished">Настроі</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="unfinished">Паказваць у сьпісе ўвасабленьні</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="unfinished">Увасабленьні</translation>
+    </message>
+    <message>
+        <source>Show activities in roster</source>
+        <translation type="unfinished">Паказваць у сьпісе дзейнасьці</translation>
+    </message>
+    <message>
+        <source>Activities</source>
+        <translation type="unfinished">Дзейнасьці</translation>
+    </message>
+    <message>
+        <source>Show icon when contact is listening to music</source>
+        <translation type="unfinished">Паказваць, калі суразмоўца слухае музыку</translation>
+    </message>
+    <message>
+        <source>Now playing</source>
+        <translation type="unfinished">Музыка</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="unfinished">Паказваць значак кліента суразмоўцы</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation type="unfinished">Кліенты</translation>
+    </message>
+    <message>
+        <source>all client icons</source>
+        <translation type="unfinished">усе кліенты</translation>
+    </message>
+    <message>
+        <source>only highest priority client icon</source>
+        <translation type="unfinished">кліент з найвышэйшым пяршынствам</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="unfinished">Налады ўвасабленьня</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished">Памер</translation>
+    </message>
+    <message>
         <source>pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="unfinished">Радыюс вуглоў</translation>
+    </message>
+</context>
+<context>
+    <name>OptRosterMuc</name>
+    <message>
+        <source>OptApplicationUI</source>
+        <translation type="unfinished">OptApplicationUI</translation>
+    </message>
+    <message>
+        <source>Hides scrollbar in the roster widget.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable scrollbar</source>
+        <translation type="unfinished">Забараніць стужку пракручваньня</translation>
+    </message>
+    <message>
+        <source>Icons</source>
+        <translation type="unfinished">Значкі</translation>
+    </message>
+    <message>
+        <source>Show icon if contact status like online, away and others.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished">Стан</translation>
+    </message>
+    <message>
+        <source>Show icon of user client</source>
+        <translation type="unfinished">Паказваць значак кліента суразмоўцы</translation>
+    </message>
+    <message>
+        <source>Clients</source>
+        <translation type="unfinished">Кліенты</translation>
+    </message>
+    <message>
+        <source>Show who is the boss and who is nothing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Affiliations</source>
+        <translation type="unfinished">Прыналежнасьць</translation>
+    </message>
+    <message>
+        <source>Show avatars in roster</source>
+        <translation type="unfinished">Паказваць у сьпісе ўвасабленьні</translation>
+    </message>
+    <message>
+        <source>Avatars</source>
+        <translation type="unfinished">Увасабленьні</translation>
+    </message>
+    <message>
+        <source>Avatar settings</source>
+        <translation type="unfinished">Налады ўвасабленьня</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished">Памер</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radius of corners</source>
+        <translation type="unfinished">Радыюс вуглоў</translation>
+    </message>
+    <message>
+        <source>Align avatars to the left edge of the roster. Otherwise to the right.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left aligned</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10466,23 +10665,65 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Roster window options</source>
-        <translation>Можнасьці вакна сьпісу</translation>
+        <translation type="vanished">Можнасьці вакна сьпісу</translation>
     </message>
     <message>
         <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation>Галоўнае вакно будзе заўжды па-над астатнімі вокнамі.</translation>
+        <translation type="vanished">Галоўнае вакно будзе заўжды па-над астатнімі вокнамі.</translation>
     </message>
     <message>
         <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation>Галоўнае вакно будзе зьмяняць памеры так, каб зьмясьціць усіх суразмоўцаў.</translation>
+        <translation type="vanished">Галоўнае вакно будзе зьмяняць памеры так, каб зьмясьціць усіх суразмоўцаў.</translation>
     </message>
     <message>
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation>Звычайна выплыўное мэню выклікаецца, калі пстрыкнуць праваю клявішаю мышы.  Абярыце гэта, калі вам зручней выклікаць мэню леваю клявішаю.</translation>
+        <translation type="vanished">Звычайна выплыўное мэню выклікаецца, калі пстрыкнуць праваю клявішаю мышы.  Абярыце гэта, калі вам зручней выклікаць мэню леваю клявішаю.</translation>
     </message>
     <message>
         <source>Shows the menubar in the application window.</source>
-        <translation>Паказваць паліцу мэню ў вакне праґрамы.</translation>
+        <translation type="vanished">Паказваць паліцу мэню ў вакне праґрамы.</translation>
+    </message>
+    <message>
+        <source>Roster options</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMain</name>
+    <message>
+        <source>Roster</source>
+        <translation type="unfinished">Сьпіс</translation>
+    </message>
+    <message>
+        <source>Roster window options</source>
+        <translation type="unfinished">Можнасьці вакна сьпісу</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window always be in front of other windows.</source>
+        <translation type="unfinished">Галоўнае вакно будзе заўжды па-над астатнімі вокнамі.</translation>
+    </message>
+    <message>
+        <source>Makes the main Psi window resize automatically to fit all contacts.</source>
+        <translation type="unfinished">Галоўнае вакно будзе зьмяняць памеры так, каб зьмясьціць усіх суразмоўцаў.</translation>
+    </message>
+    <message>
+        <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
+        <translation type="unfinished">Звычайна выплыўное мэню выклікаецца, калі пстрыкнуць праваю клявішаю мышы.  Абярыце гэта, калі вам зручней выклікаць мэню леваю клявішаю.</translation>
+    </message>
+    <message>
+        <source>Shows the menubar in the application window.</source>
+        <translation type="unfinished">Паказваць паліцу мэню ў вакне праґрамы.</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRosterMuc</name>
+    <message>
+        <source>Groupchat</source>
+        <translation type="unfinished">Нарада</translation>
+    </message>
+    <message>
+        <source>Groupchat roster options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
