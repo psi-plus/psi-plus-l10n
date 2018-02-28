@@ -214,7 +214,7 @@
 Join the translation team today! Go to 
 &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
 https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
-        <translation>Борис Пек&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;tehnick-8@yandex.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик, координатор переводчиков на все языки&lt;br&gt;&lt;br&gt;Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйтесь к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода: &lt;a href=&quot;https://www.transifex.com/tehnick/psi-plus/&quot;&gt;Transifex&lt;/a&gt;, &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;GitHub&lt;/a&gt;, &lt;a href=&quot;https://sourceforge.net/projects/psiplus/files/Translations/&quot;&gt;Sourceforge&lt;/a&gt;.&lt;br&gt;Дата текущего перевода: 20.02.2018</translation>
+        <translation>Борис Пек&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;tehnick-8@yandex.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик, координатор переводчиков на все языки&lt;br&gt;&lt;br&gt;Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйтесь к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода: &lt;a href=&quot;https://www.transifex.com/tehnick/psi-plus/&quot;&gt;Transifex&lt;/a&gt;, &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;GitHub&lt;/a&gt;, &lt;a href=&quot;https://sourceforge.net/projects/psiplus/files/Translations/&quot;&gt;Sourceforge&lt;/a&gt;.&lt;br&gt;Дата текущего перевода: 28.02.2018</translation>
     </message>
     <message>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
@@ -2053,7 +2053,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>The message was corrected</source>
-        <translation type="unfinished"></translation>
+        <translation>Сообщение отредактировано</translation>
     </message>
 </context>
 <context>
@@ -3180,7 +3180,7 @@ Proceed?</source>
     <message>
         <source>more items</source>
         <comment>Getting more disco items in order page by page</comment>
-        <translation type="unfinished"></translation>
+        <translation>ещё</translation>
     </message>
 </context>
 <context>
@@ -8973,198 +8973,198 @@ Tags: %1</source>
     <name>OptRosterMain</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="unfinished">OptApplicationUI</translation>
+        <translation>OptApplicationUI</translation>
     </message>
     <message>
         <source>Roster window always on top</source>
-        <translation type="unfinished">Окно ростера всегда наверху</translation>
+        <translation>Окно ростера всегда наверху</translation>
     </message>
     <message>
         <source>Auto-resize contact list</source>
-        <translation type="unfinished">Автоматически изменять высоту ростера</translation>
+        <translation>Автоматически изменять высоту ростера</translation>
     </message>
     <message>
         <source>Use left-click for menu</source>
-        <translation type="unfinished">Вызов меню левой кнопкой мыши</translation>
+        <translation>Вызов меню левой кнопкой мыши</translation>
     </message>
     <message>
         <source>Show menubar</source>
-        <translation type="unfinished">Отображать панель меню в ростере</translation>
+        <translation>Отображать панель меню в ростере</translation>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
-        <translation type="unfinished">Отключает полосу прокрутки в окне приложения.</translation>
+        <translation>Отключает полосу прокрутки в окне приложения.</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="unfinished">Отключить полосу прокрутки</translation>
+        <translation>Отключить полосу прокрутки</translation>
     </message>
     <message>
         <source>Enables avatar frame at the top of roster</source>
-        <translation type="unfinished">Включить панель с аватаром вверху ростера</translation>
+        <translation>Включить панель с аватаром вверху ростера</translation>
     </message>
     <message>
         <source>Enable roster avatar frame</source>
-        <translation type="unfinished">Включить панель с аватаром</translation>
+        <translation>Включить панель с аватаром</translation>
     </message>
     <message>
         <source>Autohide roster after</source>
-        <translation type="unfinished">Автоматически скрывать ростер после</translation>
+        <translation>Автоматически скрывать ростер после</translation>
     </message>
     <message>
         <source>seconds (0 - never)</source>
-        <translation type="unfinished">секунд (0 - никогда)</translation>
+        <translation>секунд (0 - никогда)</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="unfinished">Иконки</translation>
+        <translation>Иконки</translation>
     </message>
     <message>
         <source>Show geolocation in roster</source>
-        <translation type="unfinished">Показывать геолокацию в ростере</translation>
+        <translation>Показывать геолокацию в ростере</translation>
     </message>
     <message>
         <source>GeoLocation</source>
-        <translation type="unfinished">Геолокация</translation>
+        <translation>Геолокация</translation>
     </message>
     <message>
         <source>Show moods in roster</source>
-        <translation type="unfinished">Показывать настроения в ростере</translation>
+        <translation>Показывать настроения в ростере</translation>
     </message>
     <message>
         <source>Moods</source>
-        <translation type="unfinished">Настроения</translation>
+        <translation>Настроения</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="unfinished">Показывать аватары в ростере</translation>
+        <translation>Показывать аватары в ростере</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="unfinished">Аватары</translation>
+        <translation>Аватары</translation>
     </message>
     <message>
         <source>Show activities in roster</source>
-        <translation type="unfinished">Показывать занятия в ростере</translation>
+        <translation>Показывать занятия в ростере</translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="unfinished">Занятия</translation>
+        <translation>Занятия</translation>
     </message>
     <message>
         <source>Show icon when contact is listening to music</source>
-        <translation type="unfinished">Показывать иконку мелодии, когда контакт слушает музыку</translation>
+        <translation>Показывать иконку мелодии, когда контакт слушает музыку</translation>
     </message>
     <message>
         <source>Now playing</source>
-        <translation type="unfinished">Музыка</translation>
+        <translation>Музыка</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="unfinished">Показывать иконки клиентов</translation>
+        <translation>Показывать иконки клиентов</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="unfinished">Клиенты</translation>
+        <translation>Клиенты</translation>
     </message>
     <message>
         <source>all client icons</source>
-        <translation type="unfinished">все иконки клиентов</translation>
+        <translation>все иконки клиентов</translation>
     </message>
     <message>
         <source>only highest priority client icon</source>
-        <translation type="unfinished">только с наивысшим приоритетом</translation>
+        <translation>только с наивысшим приоритетом</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="unfinished">Настройки аватаров</translation>
+        <translation>Настройки аватаров</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Размер</translation>
+        <translation>Размер</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished">pt</translation>
+        <translation>pt</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="unfinished">Радиус углов</translation>
+        <translation>Радиус углов</translation>
     </message>
 </context>
 <context>
     <name>OptRosterMuc</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="unfinished">OptApplicationUI</translation>
+        <translation>OptApplicationUI</translation>
     </message>
     <message>
         <source>Hides scrollbar in the roster widget.</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрывает полосу прокрутки в ростере.</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="unfinished">Отключить полосу прокрутки</translation>
+        <translation>Отключить полосу прокрутки</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="unfinished">Иконки</translation>
+        <translation>Иконки</translation>
     </message>
     <message>
         <source>Show icon if contact status like online, away and others.</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать иконку, если статус контакта &quot;Доступен&quot;, &quot;Отсутствую&quot; и т.п..</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Статус</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="unfinished">Показывать иконки клиентов</translation>
+        <translation>Показывать иконки клиентов</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="unfinished">Клиенты</translation>
+        <translation>Клиенты</translation>
     </message>
     <message>
         <source>Show who is the boss and who is nothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать кто здесь босс, а кто плебеи</translation>
     </message>
     <message>
         <source>Affiliations</source>
-        <translation type="unfinished"></translation>
+        <translation>Участники</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="unfinished">Показывать аватары в ростере</translation>
+        <translation>Показывать аватары в ростере</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="unfinished">Аватары</translation>
+        <translation>Аватары</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="unfinished">Настройки аватаров</translation>
+        <translation>Настройки аватаров</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Размер</translation>
+        <translation>Размер</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished">pt</translation>
+        <translation>pt</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="unfinished">Радиус углов</translation>
+        <translation>Радиус углов</translation>
     </message>
     <message>
         <source>Align avatars to the left edge of the roster. Otherwise to the right.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выравнивать аватары по левому краю ростера. (Иначе будут по правому.)</translation>
     </message>
     <message>
         <source>Left aligned</source>
-        <translation type="unfinished"></translation>
+        <translation>Выравнивание слева</translation>
     </message>
 </context>
 <context>
@@ -10728,45 +10728,45 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Roster options</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройка ростера</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabRosterMain</name>
     <message>
         <source>Roster</source>
-        <translation type="unfinished">Ростер</translation>
+        <translation>Ростер</translation>
     </message>
     <message>
         <source>Roster window options</source>
-        <translation type="unfinished">Настройка окна списка контактов</translation>
+        <translation>Настройка ростера</translation>
     </message>
     <message>
         <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation type="unfinished">Помещать основное окно Psi поверх всех других окон.</translation>
+        <translation>Помещать основное окно Psi поверх всех других окон.</translation>
     </message>
     <message>
         <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation type="unfinished">Автоматически изменять размер основного окна для отображения всех контактов.</translation>
+        <translation>Автоматически изменять размер основного окна для отображения всех контактов.</translation>
     </message>
     <message>
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation type="unfinished">Обычно при клике правой кнопкой мыши по контакту открывается контекстное меню.  Отметьте эту опцию, если хотите использовать для этого левую кнопку.</translation>
+        <translation>Обычно при клике правой кнопкой мыши по контакту открывается контекстное меню.  Отметьте эту опцию, если хотите использовать для этого левую кнопку.</translation>
     </message>
     <message>
         <source>Shows the menubar in the application window.</source>
-        <translation type="unfinished">Показывать меню в окне приложения.</translation>
+        <translation>Показывать меню в окне приложения.</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabRosterMuc</name>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished">Конференции</translation>
+        <translation>Конференции</translation>
     </message>
     <message>
         <source>Groupchat roster options</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройка ростера конференций</translation>
     </message>
 </context>
 <context>
