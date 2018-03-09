@@ -4948,19 +4948,19 @@ Reason: %1</source>
     </message>
     <message>
         <source>You have been removed from the room due to technical problem</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы удалены из комнаты по техническим причинам</translation>
     </message>
     <message>
         <source>You have been removed from the room by %1 due to technical problem</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы удалены из комнаты участником %1 по техническим причинам</translation>
     </message>
     <message>
         <source>%1 has been removed from the room due to technical problem</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 удален из комнаты по техническим причинам</translation>
     </message>
     <message>
         <source>%1 has been removed from the room by %2 due to technical problem</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 удален из комнаты участником %2 по техническим причинам</translation>
     </message>
 </context>
 <context>
