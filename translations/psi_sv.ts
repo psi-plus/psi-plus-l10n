@@ -4887,6 +4887,22 @@ Anledning: %1</translation>
         <source>User &amp;Info</source>
         <translation type="unfinished">Användar&amp;information</translation>
     </message>
+    <message>
+        <source>You have been removed from the room due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have been removed from the room by %1 due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 has been removed from the room due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 has been removed from the room by %2 due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
