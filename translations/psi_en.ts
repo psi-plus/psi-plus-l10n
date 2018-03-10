@@ -12552,6 +12552,10 @@ Reason: %1.</translation>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
         <translation>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</translation>
     </message>
+    <message>
+        <source>Server refused to resume the session (SM)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>

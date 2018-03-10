@@ -12529,6 +12529,10 @@ Grund: %1.</translation>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
         <translation>Verbindung fehlgeschlagen: Verschlüsselung ist aktiviert, aber es ist keine QCA-Schlüsselspeicherverwaltung verfügbar.</translation>
     </message>
+    <message>
+        <source>Server refused to resume the session (SM)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
