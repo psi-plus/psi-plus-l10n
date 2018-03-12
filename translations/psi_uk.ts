@@ -4953,19 +4953,19 @@ Reason: %1</source>
     </message>
     <message>
         <source>You have been removed from the room due to technical problem</source>
-        <translation type="unfinished"></translation>
+        <translation>Вас видалили з кімнати через технічні проблеми</translation>
     </message>
     <message>
         <source>You have been removed from the room by %1 due to technical problem</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 видалив вас із кімнати через технічні проблеми</translation>
     </message>
     <message>
         <source>%1 has been removed from the room due to technical problem</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 був видалений із кімнати через технічні проблеми</translation>
     </message>
     <message>
         <source>%1 has been removed from the room by %2 due to technical problem</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 був видалений із кімнати %2 через технічні проблеми</translation>
     </message>
 </context>
 <context>
@@ -12552,7 +12552,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Server refused to resume the session (SM)</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервер відмовив у подовженні сесії (СМ)</translation>
     </message>
 </context>
 <context>
