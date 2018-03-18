@@ -12308,7 +12308,7 @@ Voulez-vous vous déconnecter ?</translation>
     </message>
     <message>
         <source>Bad server response</source>
-        <translation>Mauvaise réponse du serveur</translation>
+        <translation type="vanished">Mauvaise réponse du serveur</translation>
     </message>
     <message>
         <source>Server failed mutual authentication</source>
@@ -12328,7 +12328,7 @@ Voulez-vous vous déconnecter ?</translation>
     </message>
     <message>
         <source>Invalid realm</source>
-        <translation>Domaine non valide</translation>
+        <translation type="vanished">Domaine non valide</translation>
     </message>
     <message>
         <source>SASL mechanism too weak for this account</source>
@@ -12452,6 +12452,30 @@ Cause: %1.</translation>
     </message>
     <message>
         <source>Server refused to resume the session (SM)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid From</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stream reset (security implications)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authentication aborted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Credentials expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Malfromed request</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

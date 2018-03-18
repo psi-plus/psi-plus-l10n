@@ -11820,10 +11820,6 @@ Do you want to log out ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Bad server response</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Server failed mutual authentication</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11837,10 +11833,6 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Invalid SASL mechanism</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Invalid realm</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11963,6 +11955,30 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Server refused to resume the session (SM)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid From</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stream reset (security implications)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authentication aborted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Credentials expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Malfromed request</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

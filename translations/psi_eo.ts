@@ -11932,7 +11932,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Bad server response</source>
-        <translation>Malbona respondo de servilo</translation>
+        <translation type="vanished">Malbona respondo de servilo</translation>
     </message>
     <message>
         <source>Server failed mutual authentication</source>
@@ -11952,7 +11952,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Invalid realm</source>
-        <translation>Nevalida regno</translation>
+        <translation type="vanished">Nevalida regno</translation>
     </message>
     <message>
         <source>SASL mechanism too weak for this account</source>
@@ -12075,6 +12075,30 @@ Kialo: %1.</translation>
     </message>
     <message>
         <source>Server refused to resume the session (SM)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid From</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stream reset (security implications)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authentication aborted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Credentials expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Malfromed request</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

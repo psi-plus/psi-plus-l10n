@@ -12408,7 +12408,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Bad server response</source>
-        <translation>Погана відповідь від сервера</translation>
+        <translation type="vanished">Погана відповідь від сервера</translation>
     </message>
     <message>
         <source>Server failed mutual authentication</source>
@@ -12428,7 +12428,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Invalid realm</source>
-        <translation>Недійсне ім&apos;я</translation>
+        <translation type="vanished">Недійсне ім&apos;я</translation>
     </message>
     <message>
         <source>SASL mechanism too weak for this account</source>
@@ -12553,6 +12553,30 @@ Reason: %1.</source>
     <message>
         <source>Server refused to resume the session (SM)</source>
         <translation>Сервер відмовив у подовженні сесії (СМ)</translation>
+    </message>
+    <message>
+        <source>Invalid From</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stream reset (security implications)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authentication aborted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Credentials expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Malfromed request</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
