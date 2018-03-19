@@ -12225,7 +12225,7 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Malfromed request</source>
+        <source>Malformed request</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

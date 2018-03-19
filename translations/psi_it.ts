@@ -12570,7 +12570,7 @@ Motivo: %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Malfromed request</source>
+        <source>Malformed request</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
