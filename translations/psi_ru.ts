@@ -12572,7 +12572,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Malformed request</source>
-        <translation type="unfinished"></translation>
+        <translation>Повреждённый запрос</translation>
     </message>
 </context>
 <context>
