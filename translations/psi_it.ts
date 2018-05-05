@@ -16912,6 +16912,10 @@ Il plugin è progettato per tenere le note sul server Jabber con l&apos;abilità
         <source>Pin Tab</source>
         <translation>Blocca Scheda</translation>
     </message>
+    <message>
+        <source>%1 (Inactive)</source>
+        <translation type="unfinished">%1 (Inattivo)</translation>
+    </message>
 </context>
 <context>
     <name>TestDlg</name>
@@ -18760,6 +18764,17 @@ Dovresti autenticare anche %1 ponendo la tua domanda.</translation>
     <message>
         <source>Copy fingerprint</source>
         <translation>Copia impronta digitale</translation>
+    </message>
+    <message>
+        <source>Any changes to private keys may lead to a crash!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Libotr according to its authors has a bug in reading private keys file procedure.
+And while it may work properly, additional modifications to the private keys list
+may lead to a crash. Deinitialization of libotr/plugin is also considered to be a
+change to the private keys list.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
