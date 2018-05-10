@@ -7740,6 +7740,14 @@ Dolazni dogadjaj(i) od:</translation>
         <source>%1 events received</source>
         <translation>Broj primljenih događaja: %1</translation>
     </message>
+    <message>
+        <source>psimedia is unavailable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi media library is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MainWindow</name>
