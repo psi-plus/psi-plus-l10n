@@ -7797,11 +7797,11 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>psimedia is unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>psimedia недоступна</translation>
     </message>
     <message>
         <source>Psi media library is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Бібліотека Psi media не завантажена або не ініціалізована.&lt;br&gt;Відвідайте &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; для детальнішої інформації.</translation>
     </message>
 </context>
 <context>
@@ -12564,27 +12564,27 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Invalid From</source>
-        <translation type="unfinished"></translation>
+        <translation>Невірна Форма</translation>
     </message>
     <message>
         <source>Stream reset (security implications)</source>
-        <translation type="unfinished"></translation>
+        <translation>Скидання потоку (з міркувань безпеки)</translation>
     </message>
     <message>
         <source>Authentication aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Аутентифікація прервана</translation>
     </message>
     <message>
         <source>Account disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Аккаунт вимкнено</translation>
     </message>
     <message>
         <source>Credentials expired</source>
-        <translation type="unfinished"></translation>
+        <translation>Термін повноважень закінчився</translation>
     </message>
     <message>
         <source>Malformed request</source>
-        <translation type="unfinished"></translation>
+        <translation>Неправильний запит</translation>
     </message>
 </context>
 <context>
@@ -16934,7 +16934,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>%1 (Inactive)</source>
-        <translation type="unfinished">%1 (Неактивний)</translation>
+        <translation>%1 (Неактивний)</translation>
     </message>
 </context>
 <context>
@@ -18798,14 +18798,17 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Any changes to private keys may lead to a crash!</source>
-        <translation type="unfinished"></translation>
+        <translation>Будь-які зміни у приватних ключах можуть призвести до аварії!</translation>
     </message>
     <message>
         <source>Libotr according to its authors has a bug in reading private keys file procedure.
 And while it may work properly, additional modifications to the private keys list
 may lead to a crash. Deinitialization of libotr/plugin is also considered to be a
 change to the private keys list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Libotr, зі слів авторів, має баг при читанні файлу приватних ключів.
+І хоча вона може працювати належним чином, додаткові зміни у списку приватних ключів
+можуть призвести до аварії. Деінціалізація libotr/плагіну також розглядається
+як зміна списку приватних ключів.</translation>
     </message>
 </context>
 <context>
