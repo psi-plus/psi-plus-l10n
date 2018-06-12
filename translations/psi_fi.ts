@@ -4856,7 +4856,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="unfinished">&amp;Käyttäjätiedot</translation>
+        <translation>&amp;Käyttäjätiedot</translation>
     </message>
     <message>
         <source>You have been removed from the room due to technical problem</source>
@@ -5757,7 +5757,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
+        <source>&amp;First</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5769,7 +5769,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>S&amp;euraava</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
+        <source>&amp;Last</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6163,6 +6163,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8630,7 +8634,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Koko</translation>
+        <translation>Koko</translation>
     </message>
     <message>
         <source>pt</source>
@@ -8665,7 +8669,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Tila</translation>
+        <translation>Tila</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
@@ -8697,7 +8701,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Koko</translation>
+        <translation>Koko</translation>
     </message>
     <message>
         <source>pt</source>
@@ -10257,7 +10261,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabRosterMuc</name>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished">Ryhmäkeskustelu</translation>
+        <translation>Ryhmäkeskustelu</translation>
     </message>
     <message>
         <source>Groupchat roster options</source>
@@ -15361,7 +15365,7 @@ Syy: %1</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Lisää</translation>
+        <translation>Lisää</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -15369,7 +15373,7 @@ Syy: %1</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Poista</translation>
+        <translation>Poista</translation>
     </message>
     <message>
         <source>Ok</source>

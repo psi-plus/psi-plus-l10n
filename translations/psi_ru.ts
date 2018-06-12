@@ -5935,7 +5935,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>&amp;Обновить</translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
+        <source>&amp;First</source>
         <translation>Пе&amp;рвое</translation>
     </message>
     <message>
@@ -5947,7 +5947,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>&amp;Следующее</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
+        <source>&amp;Last</source>
         <translation>Пос&amp;леднее</translation>
     </message>
     <message>
@@ -6360,6 +6360,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
         <translation>Ошибка отправки %1; код HTTP %2, сообщение: %3</translation>
+    </message>
+    <message>
+        <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -4821,51 +4821,51 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Gử&amp;i tin nhẳn</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation type="unfinished">Mở &amp;cửa sổ chát</translation>
+        <translation>Mở &amp;cửa sổ chát</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished"></translation>
+        <translation>Gói thoại</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation type="unfinished">&amp;Chạy lệnh</translation>
+        <translation>&amp;Chạy lệnh</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation type="unfinished">Đã &amp;ra</translation>
+        <translation>Đã &amp;ra</translation>
     </message>
     <message>
         <source>No reason</source>
-        <translation type="unfinished">Không có lý do</translation>
+        <translation>Không có lý do</translation>
     </message>
     <message>
         <source>Custom reason</source>
-        <translation type="unfinished">Lý do đặt riêng</translation>
+        <translation>Lý do đặt riêng</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation type="unfinished">&amp;Cấm</translation>
+        <translation>&amp;Cấm</translation>
     </message>
     <message>
         <source>Change Role</source>
-        <translation type="unfinished">Đổi vai trò</translation>
+        <translation>Đổi vai trò</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="unfinished">Khách</translation>
+        <translation>Khách</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="unfinished">Người tham dự</translation>
+        <translation>Người tham dự</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="unfinished">Điều tiết viên</translation>
+        <translation>Điều tiết viên</translation>
     </message>
     <message>
         <source>Change Affiliation</source>
@@ -4889,7 +4889,7 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="unfinished">Thông t&amp;in người dùng</translation>
+        <translation>Thông t&amp;in người dùng</translation>
     </message>
     <message>
         <source>You have been removed from the room due to technical problem</source>
@@ -4923,15 +4923,15 @@ Lý do : %1</translation>
     <name>GCUserModel</name>
     <message>
         <source>Moderators</source>
-        <translation type="unfinished">Điều tiết viên</translation>
+        <translation>Điều tiết viên</translation>
     </message>
     <message>
         <source>Participants</source>
-        <translation type="unfinished">Người tham dự</translation>
+        <translation>Người tham dự</translation>
     </message>
     <message>
         <source>Visitors</source>
-        <translation type="unfinished">Khách</translation>
+        <translation>Khách</translation>
     </message>
 </context>
 <context>
@@ -5850,7 +5850,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
+        <source>&amp;First</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5862,7 +5862,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>&amp;Tiếp</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
+        <source>&amp;Last</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6256,6 +6256,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8712,7 +8716,7 @@ Tags: %1</source>
     <name>OptRosterMain</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="unfinished">OptApplicationUI</translation>
+        <translation>OptApplicationUI</translation>
     </message>
     <message>
         <source>Roster window always on top</source>
@@ -8820,7 +8824,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Cỡ</translation>
+        <translation>Cỡ</translation>
     </message>
     <message>
         <source>pt</source>
@@ -8835,7 +8839,7 @@ Tags: %1</source>
     <name>OptRosterMuc</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="unfinished">OptApplicationUI</translation>
+        <translation>OptApplicationUI</translation>
     </message>
     <message>
         <source>Hides scrollbar in the roster widget.</source>
@@ -8855,7 +8859,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Trạng thái</translation>
+        <translation>Trạng thái</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
@@ -8871,7 +8875,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Affiliations</source>
-        <translation type="unfinished">Nhập hội</translation>
+        <translation>Nhập hội</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
@@ -8887,7 +8891,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Cỡ</translation>
+        <translation>Cỡ</translation>
     </message>
     <message>
         <source>pt</source>
@@ -10461,7 +10465,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabRosterMuc</name>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished">Chát nhóm</translation>
+        <translation>Chát nhóm</translation>
     </message>
     <message>
         <source>Groupchat roster options</source>
@@ -16523,7 +16527,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>%1 (Inactive)</source>
-        <translation type="unfinished">%1 (bị động)</translation>
+        <translation>%1 (bị động)</translation>
     </message>
 </context>
 <context>

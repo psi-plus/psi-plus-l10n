@@ -4858,75 +4858,75 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Po&amp;slat zprávu</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít &amp;okno chatu</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished"></translation>
+        <translation>Hlasový hovor</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation type="unfinished">Vy&amp;konat příkaz</translation>
+        <translation>Vy&amp;konat příkaz</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation type="unfinished">Vy&amp;kopnout</translation>
+        <translation>Vy&amp;kopnout</translation>
     </message>
     <message>
         <source>No reason</source>
-        <translation type="unfinished">Žádný důvod</translation>
+        <translation>Žádný důvod</translation>
     </message>
     <message>
         <source>Custom reason</source>
-        <translation type="unfinished">Vlastní důvod</translation>
+        <translation>Vlastní důvod</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation type="unfinished">Ode&amp;přít přístup do místnosti</translation>
+        <translation>Ode&amp;přít přístup do místnosti</translation>
     </message>
     <message>
         <source>Change Role</source>
-        <translation type="unfinished">Změnit Postavení</translation>
+        <translation>Změnit Postavení</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="unfinished">Návštěvník</translation>
+        <translation>Návštěvník</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="unfinished">Účastník</translation>
+        <translation>Účastník</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="unfinished">Moderátor</translation>
+        <translation>Moderátor</translation>
     </message>
     <message>
         <source>Change Affiliation</source>
-        <translation type="unfinished">Změnit přiřazení</translation>
+        <translation>Změnit přiřazení</translation>
     </message>
     <message>
         <source>Unaffiliated</source>
-        <translation type="unfinished">Nepřiřazen</translation>
+        <translation>Nepřiřazen</translation>
     </message>
     <message>
         <source>Member</source>
-        <translation type="unfinished">Člen</translation>
+        <translation>Člen</translation>
     </message>
     <message>
         <source>Administrator</source>
-        <translation type="unfinished">Administrator</translation>
+        <translation>Administrator</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="unfinished">Vlastník</translation>
+        <translation>Vlastník</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Informace o Uživateli</translation>
     </message>
     <message>
         <source>You have been removed from the room due to technical problem</source>
@@ -4960,15 +4960,15 @@ Zdůvodnění: %1</translation>
     <name>GCUserModel</name>
     <message>
         <source>Moderators</source>
-        <translation type="unfinished">Moderátoři</translation>
+        <translation>Moderátoři</translation>
     </message>
     <message>
         <source>Participants</source>
-        <translation type="unfinished">Účastníci</translation>
+        <translation>Účastníci</translation>
     </message>
     <message>
         <source>Visitors</source>
-        <translation type="unfinished">Návštěvníci</translation>
+        <translation>Návštěvníci</translation>
     </message>
 </context>
 <context>
@@ -5916,7 +5916,7 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
         <translation>&amp;Obnovit</translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
+        <source>&amp;First</source>
         <translation>Nej&amp;starší</translation>
     </message>
     <message>
@@ -5928,7 +5928,7 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
         <translation>&amp;Následující</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
+        <source>&amp;Last</source>
         <translation>Nej&amp;novější</translation>
     </message>
     <message>
@@ -6339,6 +6339,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8950,115 +8954,115 @@ Tagy: %1</translation>
     <name>OptRosterMain</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="unfinished">OptApplicationUI</translation>
+        <translation>OptApplicationUI</translation>
     </message>
     <message>
         <source>Roster window always on top</source>
-        <translation type="unfinished">Okno s kontakty vždy navrchu</translation>
+        <translation>Okno s kontakty vždy navrchu</translation>
     </message>
     <message>
         <source>Auto-resize contact list</source>
-        <translation type="unfinished">Automaticky měnit velikost seznamu kontaktů</translation>
+        <translation>Automaticky měnit velikost seznamu kontaktů</translation>
     </message>
     <message>
         <source>Use left-click for menu</source>
-        <translation type="unfinished">Levé tlačítko zobrazí menu</translation>
+        <translation>Levé tlačítko zobrazí menu</translation>
     </message>
     <message>
         <source>Show menubar</source>
-        <translation type="unfinished">Zobrazit hlavní nabídku</translation>
+        <translation>Zobrazit hlavní nabídku</translation>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
-        <translation type="unfinished">Zakáže posuvník v okně aplikace.</translation>
+        <translation>Zakáže posuvník v okně aplikace.</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="unfinished">Zakázat posuvník</translation>
+        <translation>Zakázat posuvník</translation>
     </message>
     <message>
         <source>Enables avatar frame at the top of roster</source>
-        <translation type="unfinished">Povolí rámec avatara nahoře okna kontaktů</translation>
+        <translation>Povolí rámec avatara nahoře okna kontaktů</translation>
     </message>
     <message>
         <source>Enable roster avatar frame</source>
-        <translation type="unfinished">Povolit rámec avatara v seznamu kontaktů</translation>
+        <translation>Povolit rámec avatara v seznamu kontaktů</translation>
     </message>
     <message>
         <source>Autohide roster after</source>
-        <translation type="unfinished">Automaticky skrýt roster po</translation>
+        <translation>Automaticky skrýt roster po</translation>
     </message>
     <message>
         <source>seconds (0 - never)</source>
-        <translation type="unfinished">vteřin (0 = nikdy)</translation>
+        <translation>vteřin (0 = nikdy)</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="unfinished">Ikony</translation>
+        <translation>Ikony</translation>
     </message>
     <message>
         <source>Show geolocation in roster</source>
-        <translation type="unfinished">Zobrazit geolokaci v seznamu kontaktů</translation>
+        <translation>Zobrazit geolokaci v seznamu kontaktů</translation>
     </message>
     <message>
         <source>GeoLocation</source>
-        <translation type="unfinished">GeoLokace</translation>
+        <translation>GeoLokace</translation>
     </message>
     <message>
         <source>Show moods in roster</source>
-        <translation type="unfinished">Zobrazovat nálady v rosteru</translation>
+        <translation>Zobrazovat nálady v rosteru</translation>
     </message>
     <message>
         <source>Moods</source>
-        <translation type="unfinished">Nálady</translation>
+        <translation>Nálady</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="unfinished">Zobrazovat avatary v rosteru</translation>
+        <translation>Zobrazovat avatary v rosteru</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="unfinished">Avataři</translation>
+        <translation>Avataři</translation>
     </message>
     <message>
         <source>Show activities in roster</source>
-        <translation type="unfinished">Zobrazit činnosti v rosteru</translation>
+        <translation>Zobrazit činnosti v rosteru</translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="unfinished">Činnosti</translation>
+        <translation>Činnosti</translation>
     </message>
     <message>
         <source>Show icon when contact is listening to music</source>
-        <translation type="unfinished">Zobrazit ikonu, když kontakt poslouchá hudbu</translation>
+        <translation>Zobrazit ikonu, když kontakt poslouchá hudbu</translation>
     </message>
     <message>
         <source>Now playing</source>
-        <translation type="unfinished">Nyní hraje</translation>
+        <translation>Nyní hraje</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="unfinished">Zobrazovat ikonu uživatelova klienta</translation>
+        <translation>Zobrazovat ikonu uživatelova klienta</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="unfinished">Klienti</translation>
+        <translation>Klienti</translation>
     </message>
     <message>
         <source>all client icons</source>
-        <translation type="unfinished">ikony všech klientů</translation>
+        <translation>ikony všech klientů</translation>
     </message>
     <message>
         <source>only highest priority client icon</source>
-        <translation type="unfinished">pouze ikony klientů s nejvyšší prioritou</translation>
+        <translation>pouze ikony klientů s nejvyšší prioritou</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="unfinished">Nastavení avatara</translation>
+        <translation>Nastavení avatara</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Velikost</translation>
+        <translation>Velikost</translation>
     </message>
     <message>
         <source>pt</source>
@@ -9066,14 +9070,14 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="unfinished">Poloměr rohů</translation>
+        <translation>Poloměr rohů</translation>
     </message>
 </context>
 <context>
     <name>OptRosterMuc</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="unfinished">OptApplicationUI</translation>
+        <translation>OptApplicationUI</translation>
     </message>
     <message>
         <source>Hides scrollbar in the roster widget.</source>
@@ -9081,11 +9085,11 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="unfinished">Zakázat posuvník</translation>
+        <translation>Zakázat posuvník</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="unfinished">Ikony</translation>
+        <translation>Ikony</translation>
     </message>
     <message>
         <source>Show icon if contact status like online, away and others.</source>
@@ -9093,15 +9097,15 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Stav</translation>
+        <translation>Stav</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="unfinished">Zobrazovat ikonu uživatelova klienta</translation>
+        <translation>Zobrazovat ikonu uživatelova klienta</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="unfinished">Klienti</translation>
+        <translation>Klienti</translation>
     </message>
     <message>
         <source>Show who is the boss and who is nothing</source>
@@ -9109,23 +9113,23 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Affiliations</source>
-        <translation type="unfinished"></translation>
+        <translation>Přiřazení</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="unfinished">Zobrazovat avatary v rosteru</translation>
+        <translation>Zobrazovat avatary v rosteru</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="unfinished">Avataři</translation>
+        <translation>Avataři</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="unfinished">Nastavení avatara</translation>
+        <translation>Nastavení avatara</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Velikost</translation>
+        <translation>Velikost</translation>
     </message>
     <message>
         <source>pt</source>
@@ -9133,7 +9137,7 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="unfinished">Poloměr rohů</translation>
+        <translation>Poloměr rohů</translation>
     </message>
     <message>
         <source>Align avatars to the left edge of the roster. Otherwise to the right.</source>
@@ -10713,34 +10717,34 @@ zprávy v chatu víde lidí)</translation>
     <name>OptionsTabRosterMain</name>
     <message>
         <source>Roster</source>
-        <translation type="unfinished"></translation>
+        <translation>Seznam kontaktů</translation>
     </message>
     <message>
         <source>Roster window options</source>
-        <translation type="unfinished">Možnosti seznamu kontaktů</translation>
+        <translation>Možnosti seznamu kontaktů</translation>
     </message>
     <message>
         <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation type="unfinished">Způsobí, že hlavní oko Psí bude vždy nad ostatními okny.</translation>
+        <translation>Způsobí, že hlavní oko Psí bude vždy nad ostatními okny.</translation>
     </message>
     <message>
         <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation type="unfinished">Způsobí, že hlavní okno Psí automaticky změní velikost tak, aby se do něj vešly všechny kontakty.</translation>
+        <translation>Způsobí, že hlavní okno Psí automaticky změní velikost tak, aby se do něj vešly všechny kontakty.</translation>
     </message>
     <message>
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation type="unfinished">Pravé tlačítko myši na kontaktu standardně aktivuje kontextovou nabídku.  Zatržením této volby způsobí aktivaci levým tlačítkem.</translation>
+        <translation>Pravé tlačítko myši na kontaktu standardně aktivuje kontextovou nabídku.  Zatržením této volby způsobí aktivaci levým tlačítkem.</translation>
     </message>
     <message>
         <source>Shows the menubar in the application window.</source>
-        <translation type="unfinished">Zobrazí panel nabídek v okně aplikace.</translation>
+        <translation>Zobrazí panel nabídek v okně aplikace.</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabRosterMuc</name>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished">Skupinový chat</translation>
+        <translation>Skupinový chat</translation>
     </message>
     <message>
         <source>Groupchat roster options</source>
@@ -16844,7 +16848,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>%1 (Inactive)</source>
-        <translation type="unfinished">%1 (neaktivní)</translation>
+        <translation>%1 (neaktivní)</translation>
     </message>
 </context>
 <context>

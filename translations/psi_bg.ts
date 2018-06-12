@@ -4855,51 +4855,51 @@ Reason: %1</source>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation type="unfinished">Изпращане на &amp;Съобщение</translation>
+        <translation>Изпращане на &amp;Съобщение</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation type="unfinished">Отваряне на Прозорец &amp;Чат</translation>
+        <translation>Отваряне на Прозорец &amp;Чат</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished">Гласово Обаждане</translation>
+        <translation>Гласово Обаждане</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation type="unfinished">Из&amp;пълнение на Команда</translation>
+        <translation>Из&amp;пълнение на Команда</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation type="unfinished">&amp;Изритване</translation>
+        <translation>&amp;Изритване</translation>
     </message>
     <message>
         <source>No reason</source>
-        <translation type="unfinished">Без причина</translation>
+        <translation>Без причина</translation>
     </message>
     <message>
         <source>Custom reason</source>
-        <translation type="unfinished">Специфична причина</translation>
+        <translation>Специфична причина</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation type="unfinished">&amp;Баннване</translation>
+        <translation>&amp;Баннване</translation>
     </message>
     <message>
         <source>Change Role</source>
-        <translation type="unfinished">Смяна на Роля</translation>
+        <translation>Смяна на Роля</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="unfinished">Посетител</translation>
+        <translation>Посетител</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="unfinished">Участник</translation>
+        <translation>Участник</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="unfinished">Модератор</translation>
+        <translation>Модератор</translation>
     </message>
     <message>
         <source>Change Affiliation</source>
@@ -4911,19 +4911,19 @@ Reason: %1</source>
     </message>
     <message>
         <source>Member</source>
-        <translation type="unfinished">Член</translation>
+        <translation>Член</translation>
     </message>
     <message>
         <source>Administrator</source>
-        <translation type="unfinished">Администратор</translation>
+        <translation>Администратор</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="unfinished">Собственик</translation>
+        <translation>Собственик</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="unfinished">&amp;Данни за потребител</translation>
+        <translation>&amp;Данни за потребител</translation>
     </message>
     <message>
         <source>You have been removed from the room due to technical problem</source>
@@ -4957,15 +4957,15 @@ Reason: %1</source>
     <name>GCUserModel</name>
     <message>
         <source>Moderators</source>
-        <translation type="unfinished">Модератори</translation>
+        <translation>Модератори</translation>
     </message>
     <message>
         <source>Participants</source>
-        <translation type="unfinished">Участници</translation>
+        <translation>Участници</translation>
     </message>
     <message>
         <source>Visitors</source>
-        <translation type="unfinished">Посетители</translation>
+        <translation>Посетители</translation>
     </message>
 </context>
 <context>
@@ -5905,7 +5905,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>&amp;Опресняване </translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
+        <source>&amp;First</source>
         <translation>&amp;Най-ранни</translation>
     </message>
     <message>
@@ -5917,7 +5917,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>&amp;Следващи</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
+        <source>&amp;Last</source>
         <translation>&amp;Последни</translation>
     </message>
     <message>
@@ -6322,6 +6322,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
         <translation>Грешка при качване %1; HTTP код %2, съобщение: %3</translation>
+    </message>
+    <message>
+        <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8921,119 +8925,119 @@ Tags: %1</source>
     </message>
     <message>
         <source>Roster window always on top</source>
-        <translation type="unfinished">Прозореца на списъка с контакти винаги най-отгоре</translation>
+        <translation>Прозореца на списъка с контакти винаги най-отгоре</translation>
     </message>
     <message>
         <source>Auto-resize contact list</source>
-        <translation type="unfinished">Авто-оразмеряванена списъка с контакти</translation>
+        <translation>Авто-оразмеряванена списъка с контакти</translation>
     </message>
     <message>
         <source>Use left-click for menu</source>
-        <translation type="unfinished">Използване на ляво кликване за меню</translation>
+        <translation>Използване на ляво кликване за меню</translation>
     </message>
     <message>
         <source>Show menubar</source>
-        <translation type="unfinished">Показване на лента с меню</translation>
+        <translation>Показване на лента с меню</translation>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
-        <translation type="unfinished">Изключване на скрол бара в прозореца на приложението.</translation>
+        <translation>Изключване на скрол бара в прозореца на приложението.</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="unfinished">Изключване на скрол бара</translation>
+        <translation>Изключване на скрол бара</translation>
     </message>
     <message>
         <source>Enables avatar frame at the top of roster</source>
-        <translation type="unfinished">Ативиране на аватаровата рамка най-отгоре на списъка с контакти</translation>
+        <translation>Ативиране на аватаровата рамка най-отгоре на списъка с контакти</translation>
     </message>
     <message>
         <source>Enable roster avatar frame</source>
-        <translation type="unfinished">Активиране на аватаровата рамка на спискъка с контакти</translation>
+        <translation>Активиране на аватаровата рамка на спискъка с контакти</translation>
     </message>
     <message>
         <source>Autohide roster after</source>
-        <translation type="unfinished">Авто-скриване на списъка с контакти след</translation>
+        <translation>Авто-скриване на списъка с контакти след</translation>
     </message>
     <message>
         <source>seconds (0 - never)</source>
-        <translation type="unfinished">секунди (0 - никога)</translation>
+        <translation>секунди (0 - никога)</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="unfinished">Икони</translation>
+        <translation>Икони</translation>
     </message>
     <message>
         <source>Show geolocation in roster</source>
-        <translation type="unfinished">Показване на геолокации в списъка с контакти</translation>
+        <translation>Показване на геолокации в списъка с контакти</translation>
     </message>
     <message>
         <source>GeoLocation</source>
-        <translation type="unfinished">Геолокация</translation>
+        <translation>Геолокация</translation>
     </message>
     <message>
         <source>Show moods in roster</source>
-        <translation type="unfinished">Показване на настроения в списъка с контакти</translation>
+        <translation>Показване на настроения в списъка с контакти</translation>
     </message>
     <message>
         <source>Moods</source>
-        <translation type="unfinished">Настроения</translation>
+        <translation>Настроения</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="unfinished">Показване на аватари в списъка с контакти</translation>
+        <translation>Показване на аватари в списъка с контакти</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="unfinished">Аватари</translation>
+        <translation>Аватари</translation>
     </message>
     <message>
         <source>Show activities in roster</source>
-        <translation type="unfinished">Показване на дейности в списъка с контакти</translation>
+        <translation>Показване на дейности в списъка с контакти</translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="unfinished">Дейности</translation>
+        <translation>Дейности</translation>
     </message>
     <message>
         <source>Show icon when contact is listening to music</source>
-        <translation type="unfinished">Показване на икона, след като контакт започне да слуша музика</translation>
+        <translation>Показване на икона, след като контакт започне да слуша музика</translation>
     </message>
     <message>
         <source>Now playing</source>
-        <translation type="unfinished">Сега свири</translation>
+        <translation>Сега свири</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="unfinished">Показване на икона от потребителския клиент</translation>
+        <translation>Показване на икона от потребителския клиент</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="unfinished">Клиенти</translation>
+        <translation>Клиенти</translation>
     </message>
     <message>
         <source>all client icons</source>
-        <translation type="unfinished">всички клиентски икони</translation>
+        <translation>всички клиентски икони</translation>
     </message>
     <message>
         <source>only highest priority client icon</source>
-        <translation type="unfinished">само с най-висок приоритет клиентска икона</translation>
+        <translation>само с най-висок приоритет клиентска икона</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="unfinished">Настройки на аватар</translation>
+        <translation>Настройки на аватар</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Размер</translation>
+        <translation>Размер</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished">тч</translation>
+        <translation>тч</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="unfinished">Радиус на ъгли</translation>
+        <translation>Радиус на ъгли</translation>
     </message>
 </context>
 <context>
@@ -9048,11 +9052,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="unfinished">Изключване на скрол бара</translation>
+        <translation>Изключване на скрол бара</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="unfinished">Икони</translation>
+        <translation>Икони</translation>
     </message>
     <message>
         <source>Show icon if contact status like online, away and others.</source>
@@ -9060,15 +9064,15 @@ Tags: %1</source>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Състояние</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="unfinished">Показване на икона от потребителския клиент</translation>
+        <translation>Показване на икона от потребителския клиент</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="unfinished">Клиенти</translation>
+        <translation>Клиенти</translation>
     </message>
     <message>
         <source>Show who is the boss and who is nothing</source>
@@ -9076,31 +9080,31 @@ Tags: %1</source>
     </message>
     <message>
         <source>Affiliations</source>
-        <translation type="unfinished">Сдружавания</translation>
+        <translation>Сдружавания</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="unfinished">Показване на аватари в списъка с контакти</translation>
+        <translation>Показване на аватари в списъка с контакти</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="unfinished">Аватари</translation>
+        <translation>Аватари</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="unfinished">Настройки на аватар</translation>
+        <translation>Настройки на аватар</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Размер</translation>
+        <translation>Размер</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished">тч</translation>
+        <translation>тч</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="unfinished">Радиус на ъгли</translation>
+        <translation>Радиус на ъгли</translation>
     </message>
     <message>
         <source>Align avatars to the left edge of the roster. Otherwise to the right.</source>
@@ -10667,34 +10671,34 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabRosterMain</name>
     <message>
         <source>Roster</source>
-        <translation type="unfinished">Списък с Контакти</translation>
+        <translation>Списък с Контакти</translation>
     </message>
     <message>
         <source>Roster window options</source>
-        <translation type="unfinished">Настройки на прозореца на листа с контактите</translation>
+        <translation>Настройки на прозореца на листа с контактите</translation>
     </message>
     <message>
         <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation type="unfinished">Главният прозорец на Psi да бъде винаги над другите прозорци.</translation>
+        <translation>Главният прозорец на Psi да бъде винаги над другите прозорци.</translation>
     </message>
     <message>
         <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation type="unfinished">Главният прозорец на Psi да променя автоматично размерите си, за да помести всички контакти.</translation>
+        <translation>Главният прозорец на Psi да променя автоматично размерите си, за да помести всички контакти.</translation>
     </message>
     <message>
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation type="unfinished">Обикновено, дясно кликване с мишката върху контакт ще активира контекстното меню. Изберете тази опция ако използвате ляво кликване.</translation>
+        <translation>Обикновено, дясно кликване с мишката върху контакт ще активира контекстното меню. Изберете тази опция ако използвате ляво кликване.</translation>
     </message>
     <message>
         <source>Shows the menubar in the application window.</source>
-        <translation type="unfinished">Показва меню бара в прозореца на приложението.</translation>
+        <translation>Показва меню бара в прозореца на приложението.</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabRosterMuc</name>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Груповчат</translation>
     </message>
     <message>
         <source>Groupchat roster options</source>
@@ -16784,7 +16788,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>%1 (Inactive)</source>
-        <translation type="unfinished">%1 (неактивно)</translation>
+        <translation>%1 (неактивно)</translation>
     </message>
 </context>
 <context>

@@ -4793,31 +4793,31 @@ Reason: %1</source>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation type="unfinished">Хабарла&amp;маны жіберу</translation>
+        <translation>Хабарла&amp;маны жіберу</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation type="unfinished">&amp;Чат терезесін ашу</translation>
+        <translation>&amp;Чат терезесін ашу</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished">Дауыс қоңырауы</translation>
+        <translation>Дауыс қоңырауы</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation type="unfinished">Команданы ор&amp;ындау</translation>
+        <translation>Команданы ор&amp;ындау</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation type="unfinished">&amp;Тебу</translation>
+        <translation>&amp;Тебу</translation>
     </message>
     <message>
         <source>No reason</source>
-        <translation type="unfinished">Себебі жоқ</translation>
+        <translation>Себебі жоқ</translation>
     </message>
     <message>
         <source>Custom reason</source>
-        <translation type="unfinished">Таңдауыңызша себеп</translation>
+        <translation>Таңдауыңызша себеп</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
@@ -4825,19 +4825,19 @@ Reason: %1</source>
     </message>
     <message>
         <source>Change Role</source>
-        <translation type="unfinished">Ролін ауыстыру</translation>
+        <translation>Ролін ауыстыру</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="unfinished">Қонақ</translation>
+        <translation>Қонақ</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="unfinished">Қатысушы</translation>
+        <translation>Қатысушы</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="unfinished">Модератор</translation>
+        <translation>Модератор</translation>
     </message>
     <message>
         <source>Change Affiliation</source>
@@ -4861,7 +4861,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="unfinished">Пайдаланушы ақ&amp;параты</translation>
+        <translation>Пайдаланушы ақ&amp;параты</translation>
     </message>
     <message>
         <source>You have been removed from the room due to technical problem</source>
@@ -4895,15 +4895,15 @@ Reason: %1</source>
     <name>GCUserModel</name>
     <message>
         <source>Moderators</source>
-        <translation type="unfinished">Модераторлар</translation>
+        <translation>Модераторлар</translation>
     </message>
     <message>
         <source>Participants</source>
-        <translation type="unfinished">Қатысушылар</translation>
+        <translation>Қатысушылар</translation>
     </message>
     <message>
         <source>Visitors</source>
-        <translation type="unfinished">Қонақтар</translation>
+        <translation>Қонақтар</translation>
     </message>
 </context>
 <context>
@@ -5818,7 +5818,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>Ж&amp;аңарту</translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
+        <source>&amp;First</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5830,7 +5830,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>Ке&amp;лесі</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
+        <source>&amp;Last</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6224,6 +6224,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8444,10 +8448,6 @@ Tags: %1</source>
 <context>
     <name>OptInput</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">Форма</translation>
-    </message>
-    <message>
         <source>Auto-resize text input field</source>
         <translation>Мәтінді енгізу өрісінің өлшемін автоөзгерту</translation>
     </message>
@@ -8668,7 +8668,7 @@ Tags: %1</source>
     <name>OptRosterMain</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="unfinished">OptApplicationUI</translation>
+        <translation>OptApplicationUI</translation>
     </message>
     <message>
         <source>Roster window always on top</source>
@@ -8776,7 +8776,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Өлшемі</translation>
+        <translation>Өлшемі</translation>
     </message>
     <message>
         <source>pt</source>
@@ -8791,7 +8791,7 @@ Tags: %1</source>
     <name>OptRosterMuc</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="unfinished">OptApplicationUI</translation>
+        <translation>OptApplicationUI</translation>
     </message>
     <message>
         <source>Hides scrollbar in the roster widget.</source>
@@ -8811,7 +8811,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Қалып-күй</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
@@ -8843,7 +8843,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Өлшемі</translation>
+        <translation>Өлшемі</translation>
     </message>
     <message>
         <source>pt</source>
@@ -10399,7 +10399,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabRosterMuc</name>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished">Чат бөлмесі</translation>
+        <translation>Чат бөлмесі</translation>
     </message>
     <message>
         <source>Groupchat roster options</source>
@@ -15498,7 +15498,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Қосу</translation>
+        <translation>Қосу</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -15506,15 +15506,15 @@ Reason: %1</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Өшіру</translation>
+        <translation>Өшіру</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished">ОК</translation>
+        <translation>ОК</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Бас тарту</translation>
+        <translation>Бас тарту</translation>
     </message>
     <message>
         <source>Add template string</source>
@@ -15534,11 +15534,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished">Жоғары</translation>
+        <translation>Жоғары</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished">Төмен</translation>
+        <translation>Төмен</translation>
     </message>
     <message>
         <source>&lt;separator&gt;</source>
@@ -16438,7 +16438,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>%1 (Inactive)</source>
-        <translation type="unfinished">%1 (Белсенді емес)</translation>
+        <translation>%1 (Белсенді емес)</translation>
     </message>
 </context>
 <context>

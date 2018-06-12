@@ -4822,51 +4822,51 @@ Reason: %1</source>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation type="unfinished"></translation>
+        <translation>メッセージを送信(&amp;M)</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation type="unfinished">チャットウィンドウを開く(&amp;C)</translation>
+        <translation>チャットウィンドウを開く(&amp;C)</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished"></translation>
+        <translation>音声通話</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation type="unfinished">コマンド実行(&amp;x)</translation>
+        <translation>コマンド実行(&amp;x)</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation type="unfinished">キック(&amp;K)</translation>
+        <translation>キック(&amp;K)</translation>
     </message>
     <message>
         <source>No reason</source>
-        <translation type="unfinished">理由なし</translation>
+        <translation>理由なし</translation>
     </message>
     <message>
         <source>Custom reason</source>
-        <translation type="unfinished">理由の変更</translation>
+        <translation>理由の変更</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation type="unfinished">バン(&amp;B)</translation>
+        <translation>バン(&amp;B)</translation>
     </message>
     <message>
         <source>Change Role</source>
-        <translation type="unfinished">役割の変更</translation>
+        <translation>役割の変更</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="unfinished">傍聴者</translation>
+        <translation>傍聴者</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="unfinished">参加者</translation>
+        <translation>参加者</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="unfinished">モデレータ</translation>
+        <translation>モデレータ</translation>
     </message>
     <message>
         <source>Change Affiliation</source>
@@ -4890,7 +4890,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="unfinished">ユーザー情報(&amp;I)</translation>
+        <translation>ユーザー情報(&amp;I)</translation>
     </message>
     <message>
         <source>You have been removed from the room due to technical problem</source>
@@ -4924,15 +4924,15 @@ Reason: %1</source>
     <name>GCUserModel</name>
     <message>
         <source>Moderators</source>
-        <translation type="unfinished">モデレータ</translation>
+        <translation>モデレータ</translation>
     </message>
     <message>
         <source>Participants</source>
-        <translation type="unfinished">参加者</translation>
+        <translation>参加者</translation>
     </message>
     <message>
         <source>Visitors</source>
-        <translation type="unfinished">傍聴者</translation>
+        <translation>傍聴者</translation>
     </message>
 </context>
 <context>
@@ -5851,7 +5851,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>更新(&amp;R)</translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
+        <source>&amp;First</source>
         <translation>最古(&amp;E)</translation>
     </message>
     <message>
@@ -5863,7 +5863,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>次へ(&amp;N)</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
+        <source>&amp;Last</source>
         <translation>最新(&amp;L)</translation>
     </message>
     <message>
@@ -6257,6 +6257,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8729,7 +8733,7 @@ Tags: %1</source>
     <name>OptRosterMain</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="unfinished">OptApplicationUI</translation>
+        <translation>OptApplicationUI</translation>
     </message>
     <message>
         <source>Roster window always on top</source>
@@ -8797,7 +8801,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="unfinished">アバター</translation>
+        <translation>アバター</translation>
     </message>
     <message>
         <source>Show activities in roster</source>
@@ -8837,7 +8841,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">サイズ</translation>
+        <translation>サイズ</translation>
     </message>
     <message>
         <source>pt</source>
@@ -8852,7 +8856,7 @@ Tags: %1</source>
     <name>OptRosterMuc</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="unfinished">OptApplicationUI</translation>
+        <translation>OptApplicationUI</translation>
     </message>
     <message>
         <source>Hides scrollbar in the roster widget.</source>
@@ -8872,7 +8876,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">ステータス</translation>
+        <translation>ステータス</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
@@ -8888,7 +8892,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Affiliations</source>
-        <translation type="unfinished">提携</translation>
+        <translation>提携</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
@@ -8896,7 +8900,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="unfinished">アバター</translation>
+        <translation>アバター</translation>
     </message>
     <message>
         <source>Avatar settings</source>
@@ -8904,7 +8908,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">サイズ</translation>
+        <translation>サイズ</translation>
     </message>
     <message>
         <source>pt</source>
@@ -10478,7 +10482,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabRosterMuc</name>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished">グループチャット</translation>
+        <translation>グループチャット</translation>
     </message>
     <message>
         <source>Groupchat roster options</source>
@@ -16534,7 +16538,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>%1 (Inactive)</source>
-        <translation type="unfinished">%1 (不活性)</translation>
+        <translation>%1 (不活性)</translation>
     </message>
 </context>
 <context>

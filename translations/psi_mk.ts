@@ -4799,23 +4799,23 @@ Reason: %1</source>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation type="unfinished">Испрати &amp;порака</translation>
+        <translation>Испрати &amp;порака</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation type="unfinished">Отвори го прозорецот за &amp;разговор</translation>
+        <translation>Отвори го прозорецот за &amp;разговор</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished">Гласовен повик</translation>
+        <translation>Гласовен повик</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation type="unfinished">И&amp;зврши наредба</translation>
+        <translation>И&amp;зврши наредба</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation type="unfinished">&amp;Клонци</translation>
+        <translation>&amp;Клонци</translation>
     </message>
     <message>
         <source>No reason</source>
@@ -4827,23 +4827,23 @@ Reason: %1</source>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation type="unfinished">За&amp;брани</translation>
+        <translation>За&amp;брани</translation>
     </message>
     <message>
         <source>Change Role</source>
-        <translation type="unfinished">Промени улога</translation>
+        <translation>Промени улога</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="unfinished">Гостин</translation>
+        <translation>Гостин</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="unfinished">Учесник</translation>
+        <translation>Учесник</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="unfinished">Модератор</translation>
+        <translation>Модератор</translation>
     </message>
     <message>
         <source>Change Affiliation</source>
@@ -4867,7 +4867,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="unfinished">&amp;Информации за корисникот</translation>
+        <translation>&amp;Информации за корисникот</translation>
     </message>
     <message>
         <source>You have been removed from the room due to technical problem</source>
@@ -4901,15 +4901,15 @@ Reason: %1</source>
     <name>GCUserModel</name>
     <message>
         <source>Moderators</source>
-        <translation type="unfinished">Модератори</translation>
+        <translation>Модератори</translation>
     </message>
     <message>
         <source>Participants</source>
-        <translation type="unfinished">Учесници</translation>
+        <translation>Учесници</translation>
     </message>
     <message>
         <source>Visitors</source>
-        <translation type="unfinished">Гости</translation>
+        <translation>Гости</translation>
     </message>
 </context>
 <context>
@@ -5820,7 +5820,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
+        <source>&amp;First</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5832,7 +5832,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>След&amp;ни</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
+        <source>&amp;Last</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6226,6 +6226,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8702,7 +8706,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Големина</translation>
+        <translation>Големина</translation>
     </message>
     <message>
         <source>pt</source>
@@ -8737,7 +8741,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Статус</translation>
+        <translation>Статус</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
@@ -8769,7 +8773,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Големина</translation>
+        <translation>Големина</translation>
     </message>
     <message>
         <source>pt</source>
@@ -10343,7 +10347,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabRosterMuc</name>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished">Групен разговор</translation>
+        <translation>Групен разговор</translation>
     </message>
     <message>
         <source>Groupchat roster options</source>
@@ -15464,7 +15468,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Додај</translation>
+        <translation>Додај</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -15472,7 +15476,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Отстрани</translation>
+        <translation>Отстрани</translation>
     </message>
     <message>
         <source>Ok</source>
@@ -16404,7 +16408,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>%1 (Inactive)</source>
-        <translation type="unfinished">%1 (Не е активен)</translation>
+        <translation>%1 (Не е активен)</translation>
     </message>
 </context>
 <context>

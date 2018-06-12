@@ -4863,75 +4863,75 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation type="unfinished">Enviar &amp;Mensagem</translation>
+        <translation>Enviar &amp;Mensagem</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation type="unfinished">Abrir &amp;Janela de Bate-Papo</translation>
+        <translation>Abrir &amp;Janela de Bate-Papo</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished"></translation>
+        <translation>Chamada de Voz</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation type="unfinished">E&amp;xecutar comando</translation>
+        <translation>E&amp;xecutar comando</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation type="unfinished">&amp;Chutar</translation>
+        <translation>&amp;Chutar</translation>
     </message>
     <message>
         <source>No reason</source>
-        <translation type="unfinished">Sem motivo</translation>
+        <translation>Sem motivo</translation>
     </message>
     <message>
         <source>Custom reason</source>
-        <translation type="unfinished">Motivo personalizado</translation>
+        <translation>Motivo personalizado</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation type="unfinished">&amp;Banir</translation>
+        <translation>&amp;Banir</translation>
     </message>
     <message>
         <source>Change Role</source>
-        <translation type="unfinished">Alterar Cargo</translation>
+        <translation>Alterar Cargo</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="unfinished">Visitante</translation>
+        <translation>Visitante</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="unfinished">Participante</translation>
+        <translation>Participante</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="unfinished">Moderador</translation>
+        <translation>Moderador</translation>
     </message>
     <message>
         <source>Change Affiliation</source>
-        <translation type="unfinished">Mudar Afiliação</translation>
+        <translation>Mudar Afiliação</translation>
     </message>
     <message>
         <source>Unaffiliated</source>
-        <translation type="unfinished">Não Afiliado</translation>
+        <translation>Não Afiliado</translation>
     </message>
     <message>
         <source>Member</source>
-        <translation type="unfinished">Membro</translation>
+        <translation>Membro</translation>
     </message>
     <message>
         <source>Administrator</source>
-        <translation type="unfinished">Administrador</translation>
+        <translation>Administrador</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="unfinished">Dono</translation>
+        <translation>Dono</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Informações do &amp;Usuário</translation>
     </message>
     <message>
         <source>You have been removed from the room due to technical problem</source>
@@ -4965,15 +4965,15 @@ Motivo: %1</translation>
     <name>GCUserModel</name>
     <message>
         <source>Moderators</source>
-        <translation type="unfinished">Moderadores</translation>
+        <translation>Moderadores</translation>
     </message>
     <message>
         <source>Participants</source>
-        <translation type="unfinished">Participantes</translation>
+        <translation>Participantes</translation>
     </message>
     <message>
         <source>Visitors</source>
-        <translation type="unfinished">Visitantes</translation>
+        <translation>Visitantes</translation>
     </message>
 </context>
 <context>
@@ -5922,7 +5922,7 @@ Para o envio de comandos, mensagens normais serão utilizadas, por isso este plu
         <translation>&amp;Atualizar</translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
+        <source>&amp;First</source>
         <translation>&amp;Mais Antigas</translation>
     </message>
     <message>
@@ -5934,7 +5934,7 @@ Para o envio de comandos, mensagens normais serão utilizadas, por isso este plu
         <translation>&amp;Próximo</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
+        <source>&amp;Last</source>
         <translation>&amp;Mais Recentes</translation>
     </message>
     <message>
@@ -6346,6 +6346,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8970,43 +8974,43 @@ Tags: %1</translation>
     <name>OptRosterMain</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="unfinished">OptApplicationUI</translation>
+        <translation>OptApplicationUI</translation>
     </message>
     <message>
         <source>Roster window always on top</source>
-        <translation type="unfinished">Listar a janela sempre no topo</translation>
+        <translation>Listar a janela sempre no topo</translation>
     </message>
     <message>
         <source>Auto-resize contact list</source>
-        <translation type="unfinished">Auto-redimensionar a lista de contato</translation>
+        <translation>Auto-redimensionar a lista de contato</translation>
     </message>
     <message>
         <source>Use left-click for menu</source>
-        <translation type="unfinished">Usar clique esquerdo para menu</translation>
+        <translation>Usar clique esquerdo para menu</translation>
     </message>
     <message>
         <source>Show menubar</source>
-        <translation type="unfinished">Mostrar barra de menu</translation>
+        <translation>Mostrar barra de menu</translation>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
-        <translation type="unfinished">Desativar barra de rolagem nesta janela de aplicativo.</translation>
+        <translation>Desativar barra de rolagem nesta janela de aplicativo.</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="unfinished">Desativar barra de rolagem</translation>
+        <translation>Desativar barra de rolagem</translation>
     </message>
     <message>
         <source>Enables avatar frame at the top of roster</source>
-        <translation type="unfinished">Ativar quadro de avatar no topo da lista</translation>
+        <translation>Ativar quadro de avatar no topo da lista</translation>
     </message>
     <message>
         <source>Enable roster avatar frame</source>
-        <translation type="unfinished">Ativar quadro de lista do avatar</translation>
+        <translation>Ativar quadro de lista do avatar</translation>
     </message>
     <message>
         <source>Autohide roster after</source>
-        <translation type="unfinished">Auto-ocultar lista depois</translation>
+        <translation>Auto-ocultar lista depois</translation>
     </message>
     <message>
         <source>seconds (0 - never)</source>
@@ -9014,71 +9018,71 @@ Tags: %1</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="unfinished">Ícones</translation>
+        <translation>Ícones</translation>
     </message>
     <message>
         <source>Show geolocation in roster</source>
-        <translation type="unfinished">Exibir geolocalização na lista</translation>
+        <translation>Exibir geolocalização na lista</translation>
     </message>
     <message>
         <source>GeoLocation</source>
-        <translation type="unfinished">GeoLocalização</translation>
+        <translation>GeoLocalização</translation>
     </message>
     <message>
         <source>Show moods in roster</source>
-        <translation type="unfinished">Exibir humor na lista</translation>
+        <translation>Exibir humor na lista</translation>
     </message>
     <message>
         <source>Moods</source>
-        <translation type="unfinished">Humor</translation>
+        <translation>Humor</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="unfinished">Exibir avatar em lista</translation>
+        <translation>Exibir avatar em lista</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="unfinished">Avatars</translation>
+        <translation>Avatars</translation>
     </message>
     <message>
         <source>Show activities in roster</source>
-        <translation type="unfinished">Exibir atividades na lista</translation>
+        <translation>Exibir atividades na lista</translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="unfinished">Atividades</translation>
+        <translation>Atividades</translation>
     </message>
     <message>
         <source>Show icon when contact is listening to music</source>
-        <translation type="unfinished">Exibir ícone quando o contato estiver ouvindo música</translation>
+        <translation>Exibir ícone quando o contato estiver ouvindo música</translation>
     </message>
     <message>
         <source>Now playing</source>
-        <translation type="unfinished">Esta jogando</translation>
+        <translation>Esta jogando</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="unfinished">Exibir ícone de cliente do usuário</translation>
+        <translation>Exibir ícone de cliente do usuário</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="unfinished">Clientes</translation>
+        <translation>Clientes</translation>
     </message>
     <message>
         <source>all client icons</source>
-        <translation type="unfinished">todos os ícones de clientes</translation>
+        <translation>todos os ícones de clientes</translation>
     </message>
     <message>
         <source>only highest priority client icon</source>
-        <translation type="unfinished">somente grande prioridade dos ícones de clientes</translation>
+        <translation>somente grande prioridade dos ícones de clientes</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="unfinished">Configuração do Avatar</translation>
+        <translation>Configuração do Avatar</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho</translation>
     </message>
     <message>
         <source>pt</source>
@@ -9086,14 +9090,14 @@ Tags: %1</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="unfinished">Raio dos cantos</translation>
+        <translation>Raio dos cantos</translation>
     </message>
 </context>
 <context>
     <name>OptRosterMuc</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="unfinished">OptApplicationUI</translation>
+        <translation>OptApplicationUI</translation>
     </message>
     <message>
         <source>Hides scrollbar in the roster widget.</source>
@@ -9101,11 +9105,11 @@ Tags: %1</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="unfinished">Desativar barra de rolagem</translation>
+        <translation>Desativar barra de rolagem</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="unfinished">Ícones</translation>
+        <translation>Ícones</translation>
     </message>
     <message>
         <source>Show icon if contact status like online, away and others.</source>
@@ -9113,15 +9117,15 @@ Tags: %1</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="unfinished">Exibir ícone de cliente do usuário</translation>
+        <translation>Exibir ícone de cliente do usuário</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="unfinished">Clientes</translation>
+        <translation>Clientes</translation>
     </message>
     <message>
         <source>Show who is the boss and who is nothing</source>
@@ -9129,23 +9133,23 @@ Tags: %1</translation>
     </message>
     <message>
         <source>Affiliations</source>
-        <translation type="unfinished">Afiliações</translation>
+        <translation>Afiliações</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="unfinished">Exibir avatar em lista</translation>
+        <translation>Exibir avatar em lista</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="unfinished">Avatars</translation>
+        <translation>Avatars</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="unfinished">Configuração do Avatar</translation>
+        <translation>Configuração do Avatar</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho</translation>
     </message>
     <message>
         <source>pt</source>
@@ -9153,7 +9157,7 @@ Tags: %1</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="unfinished">Raio dos cantos</translation>
+        <translation>Raio dos cantos</translation>
     </message>
     <message>
         <source>Align avatars to the left edge of the roster. Otherwise to the right.</source>
@@ -10728,34 +10732,34 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     <name>OptionsTabRosterMain</name>
     <message>
         <source>Roster</source>
-        <translation type="unfinished">Lista</translation>
+        <translation>Lista</translation>
     </message>
     <message>
         <source>Roster window options</source>
-        <translation type="unfinished">Opções lista de janelas</translation>
+        <translation>Opções lista de janelas</translation>
     </message>
     <message>
         <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation type="unfinished">Fazer a janela principal do Psi estar estar afrente de outras janelas.</translation>
+        <translation>Fazer a janela principal do Psi estar estar afrente de outras janelas.</translation>
     </message>
     <message>
         <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation type="unfinished">Faz a janela do Psi redimensionar automaticamente para caber todos os contatos.</translation>
+        <translation>Faz a janela do Psi redimensionar automaticamente para caber todos os contatos.</translation>
     </message>
     <message>
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation type="unfinished">Normalmente, o botão direito do mouse num contato ativará o menu de contexto. Marque esta opção se você preferir usar o botão esquerdo do mouse.</translation>
+        <translation>Normalmente, o botão direito do mouse num contato ativará o menu de contexto. Marque esta opção se você preferir usar o botão esquerdo do mouse.</translation>
     </message>
     <message>
         <source>Shows the menubar in the application window.</source>
-        <translation type="unfinished">Mostra a barra de menu na janela do aplicativo.</translation>
+        <translation>Mostra a barra de menu na janela do aplicativo.</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabRosterMuc</name>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Bate-papo em  grupo</translation>
     </message>
     <message>
         <source>Groupchat roster options</source>
@@ -16887,7 +16891,7 @@ O plugin foi projetado para manter as notas no servidor jabber com a capacidade 
     </message>
     <message>
         <source>%1 (Inactive)</source>
-        <translation type="unfinished">%1 (Inativo(a))</translation>
+        <translation>%1 (Inativo(a))</translation>
     </message>
 </context>
 <context>

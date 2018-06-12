@@ -5727,7 +5727,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
+        <source>&amp;First</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5739,7 +5739,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
+        <source>&amp;Last</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6133,6 +6133,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8281,10 +8285,6 @@ Tags: %1</source>
 <context>
     <name>OptInput</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">فرم</translation>
-    </message>
-    <message>
         <source>Auto-resize text input field</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8637,7 +8637,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">وضعیت</translation>
+        <translation>وضعیت</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
@@ -15305,7 +15305,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">افزودن</translation>
+        <translation>افزودن</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -15313,7 +15313,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">خذف کردن</translation>
+        <translation>خذف کردن</translation>
     </message>
     <message>
         <source>Ok</source>

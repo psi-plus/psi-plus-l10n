@@ -4859,79 +4859,79 @@ Oka: %1</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Beillesztés és küldés</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation type="unfinished">&amp;Üzenet küldése</translation>
+        <translation>&amp;Üzenet küldése</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation type="unfinished">&amp;Beszélgetésablak megnyitása</translation>
+        <translation>&amp;Beszélgetésablak megnyitása</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished"></translation>
+        <translation>Hang hívás</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation type="unfinished">&amp;Parancs végrehajtása</translation>
+        <translation>&amp;Parancs végrehajtása</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation type="unfinished">&amp;Kirúgás</translation>
+        <translation>&amp;Kirúgás</translation>
     </message>
     <message>
         <source>No reason</source>
-        <translation type="unfinished">Nincs ok</translation>
+        <translation>Nincs ok</translation>
     </message>
     <message>
         <source>Custom reason</source>
-        <translation type="unfinished">Egyéni ok</translation>
+        <translation>Egyéni ok</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation type="unfinished">&amp;Kitiltás</translation>
+        <translation>&amp;Kitiltás</translation>
     </message>
     <message>
         <source>Change Role</source>
-        <translation type="unfinished">Szerepkör megváltoztatása</translation>
+        <translation>Szerepkör megváltoztatása</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="unfinished">Látogató</translation>
+        <translation>Látogató</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="unfinished">Résztvevő</translation>
+        <translation>Résztvevő</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="unfinished">Moderátor</translation>
+        <translation>Moderátor</translation>
     </message>
     <message>
         <source>Change Affiliation</source>
-        <translation type="unfinished">Kapcsolat változtatása</translation>
+        <translation>Kapcsolat változtatása</translation>
     </message>
     <message>
         <source>Unaffiliated</source>
-        <translation type="unfinished">Független</translation>
+        <translation>Független</translation>
     </message>
     <message>
         <source>Member</source>
-        <translation type="unfinished">Tag</translation>
+        <translation>Tag</translation>
     </message>
     <message>
         <source>Administrator</source>
-        <translation type="unfinished">Adminisztrátor</translation>
+        <translation>Adminisztrátor</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="unfinished">Tulajdonos</translation>
+        <translation>Tulajdonos</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Felhasználó &amp;adatai</translation>
     </message>
     <message>
         <source>You have been removed from the room due to technical problem</source>
@@ -4965,15 +4965,15 @@ Oka: %1</translation>
     <name>GCUserModel</name>
     <message>
         <source>Moderators</source>
-        <translation type="unfinished">Moderátorok</translation>
+        <translation>Moderátorok</translation>
     </message>
     <message>
         <source>Participants</source>
-        <translation type="unfinished">Résztvevők</translation>
+        <translation>Résztvevők</translation>
     </message>
     <message>
         <source>Visitors</source>
-        <translation type="unfinished">Látogatók</translation>
+        <translation>Látogatók</translation>
     </message>
 </context>
 <context>
@@ -5780,7 +5780,7 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished">Nyelv</translation>
+        <translation>Nyelv</translation>
     </message>
     <message>
         <source>Script</source>
@@ -5921,7 +5921,7 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
         <translation>&amp;Frissítés</translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
+        <source>&amp;First</source>
         <translation>&amp;Korábbi</translation>
     </message>
     <message>
@@ -5933,7 +5933,7 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
         <translation>&amp;Következő</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
+        <source>&amp;Last</source>
         <translation>&amp;Utóbbi</translation>
     </message>
     <message>
@@ -6345,6 +6345,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8291,7 +8295,7 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Link</source>
-        <translation type="unfinished">Link</translation>
+        <translation>Link</translation>
     </message>
     <message>
         <source>Visited Link</source>
@@ -8647,10 +8651,6 @@ Címkék: %1</translation>
 <context>
     <name>OptInput</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">Űrlap</translation>
-    </message>
-    <message>
         <source>Auto-resize text input field</source>
         <translation>Beviteli mező automatikus átméretezése</translation>
     </message>
@@ -8672,7 +8672,7 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="unfinished">Automatikusan nagy kezdőbetű a mondat eleje</translation>
+        <translation>Automatikusan nagy kezdőbetű a mondat eleje</translation>
     </message>
 </context>
 <context>
@@ -8728,10 +8728,6 @@ Címkék: %1</translation>
     <message>
         <source>Show character counter</source>
         <translation>Karakterszámláló megjelenítése</translation>
-    </message>
-    <message>
-        <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="vanished">Automatikusan nagy kezdőbetű a mondat eleje</translation>
     </message>
 </context>
 <context>
@@ -8983,115 +8979,115 @@ Címkék: %1</translation>
     <name>OptRosterMain</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="unfinished">OptApplicationUI</translation>
+        <translation>OptApplicationUI</translation>
     </message>
     <message>
         <source>Roster window always on top</source>
-        <translation type="unfinished">Címlista mindig felül</translation>
+        <translation>Címlista mindig felül</translation>
     </message>
     <message>
         <source>Auto-resize contact list</source>
-        <translation type="unfinished">Címlista automatikus átméretezése</translation>
+        <translation>Címlista automatikus átméretezése</translation>
     </message>
     <message>
         <source>Use left-click for menu</source>
-        <translation type="unfinished">Bal gomb használata menühöz</translation>
+        <translation>Bal gomb használata menühöz</translation>
     </message>
     <message>
         <source>Show menubar</source>
-        <translation type="unfinished">Menüsáv megjelenítése</translation>
+        <translation>Menüsáv megjelenítése</translation>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
-        <translation type="unfinished">Görgetősáv kikapcsolása a programablakban</translation>
+        <translation>Görgetősáv kikapcsolása a programablakban</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="unfinished">Görgetősáv kikapcsolása</translation>
+        <translation>Görgetősáv kikapcsolása</translation>
     </message>
     <message>
         <source>Enables avatar frame at the top of roster</source>
-        <translation type="unfinished">Engedélyezze a profilkép előnézetét a címlista tetején</translation>
+        <translation>Engedélyezze a profilkép előnézetét a címlista tetején</translation>
     </message>
     <message>
         <source>Enable roster avatar frame</source>
-        <translation type="unfinished">Engedélyezze a profilkép előnézetét a címlistában</translation>
+        <translation>Engedélyezze a profilkép előnézetét a címlistában</translation>
     </message>
     <message>
         <source>Autohide roster after</source>
-        <translation type="unfinished">Ezután a címlista automatikus elrejtése</translation>
+        <translation>Ezután a címlista automatikus elrejtése</translation>
     </message>
     <message>
         <source>seconds (0 - never)</source>
-        <translation type="unfinished">másodpercek (0 - soha)</translation>
+        <translation>másodpercek (0 - soha)</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="unfinished">Ikonok</translation>
+        <translation>Ikonok</translation>
     </message>
     <message>
         <source>Show geolocation in roster</source>
-        <translation type="unfinished">Földrajzi helyzet megjelenítése a címlistában</translation>
+        <translation>Földrajzi helyzet megjelenítése a címlistában</translation>
     </message>
     <message>
         <source>GeoLocation</source>
-        <translation type="unfinished"></translation>
+        <translation>Földrajzi helyzet</translation>
     </message>
     <message>
         <source>Show moods in roster</source>
-        <translation type="unfinished">Hangulatok megjelenítése a címlistában</translation>
+        <translation>Hangulatok megjelenítése a címlistában</translation>
     </message>
     <message>
         <source>Moods</source>
-        <translation type="unfinished">Hangulatok</translation>
+        <translation>Hangulatok</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="unfinished">Profilképek megjelenítése a címlistában</translation>
+        <translation>Profilképek megjelenítése a címlistában</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="unfinished">Profilképek</translation>
+        <translation>Profilképek</translation>
     </message>
     <message>
         <source>Show activities in roster</source>
-        <translation type="unfinished">Tevékenységek megjelenítése a címlistában</translation>
+        <translation>Tevékenységek megjelenítése a címlistában</translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="unfinished">Tevékenységek</translation>
+        <translation>Tevékenységek</translation>
     </message>
     <message>
         <source>Show icon when contact is listening to music</source>
-        <translation type="unfinished">Ikon mutatása ha az ismerős zenét hallgat</translation>
+        <translation>Ikon mutatása ha az ismerős zenét hallgat</translation>
     </message>
     <message>
         <source>Now playing</source>
-        <translation type="unfinished">Jelenleg játszik</translation>
+        <translation>Jelenleg játszik</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="unfinished">Az ismerős kliensikonjának megjelenítése</translation>
+        <translation>Az ismerős kliensikonjának megjelenítése</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="unfinished">Kliensek</translation>
+        <translation>Kliensek</translation>
     </message>
     <message>
         <source>all client icons</source>
-        <translation type="unfinished">minden kliensikon</translation>
+        <translation>minden kliensikon</translation>
     </message>
     <message>
         <source>only highest priority client icon</source>
-        <translation type="unfinished">Csak a legmagasabb prioritású kliensikon</translation>
+        <translation>Csak a legmagasabb prioritású kliensikon</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="unfinished">Profilkép beállítások</translation>
+        <translation>Profilkép beállítások</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Méret</translation>
+        <translation>Méret</translation>
     </message>
     <message>
         <source>pt</source>
@@ -9099,14 +9095,14 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="unfinished">Sarkok rádiusza</translation>
+        <translation>Sarkok rádiusza</translation>
     </message>
 </context>
 <context>
     <name>OptRosterMuc</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="unfinished">OptApplicationUI</translation>
+        <translation>OptApplicationUI</translation>
     </message>
     <message>
         <source>Hides scrollbar in the roster widget.</source>
@@ -9114,11 +9110,11 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="unfinished">Görgetősáv kikapcsolása</translation>
+        <translation>Görgetősáv kikapcsolása</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="unfinished">Ikonok</translation>
+        <translation>Ikonok</translation>
     </message>
     <message>
         <source>Show icon if contact status like online, away and others.</source>
@@ -9126,15 +9122,15 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Állapot</translation>
+        <translation>Állapot</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="unfinished">Az ismerős kliensikonjának megjelenítése</translation>
+        <translation>Az ismerős kliensikonjának megjelenítése</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="unfinished">Kliensek</translation>
+        <translation>Kliensek</translation>
     </message>
     <message>
         <source>Show who is the boss and who is nothing</source>
@@ -9142,23 +9138,23 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Affiliations</source>
-        <translation type="unfinished">Kapcsolatok</translation>
+        <translation>Kapcsolatok</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="unfinished">Profilképek megjelenítése a címlistában</translation>
+        <translation>Profilképek megjelenítése a címlistában</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="unfinished">Profilképek</translation>
+        <translation>Profilképek</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="unfinished">Profilkép beállítások</translation>
+        <translation>Profilkép beállítások</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Méret</translation>
+        <translation>Méret</translation>
     </message>
     <message>
         <source>pt</source>
@@ -9166,7 +9162,7 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="unfinished">Sarkok rádiusza</translation>
+        <translation>Sarkok rádiusza</translation>
     </message>
     <message>
         <source>Align avatars to the left edge of the roster. Otherwise to the right.</source>
@@ -10743,34 +10739,34 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     <name>OptionsTabRosterMain</name>
     <message>
         <source>Roster</source>
-        <translation type="unfinished">Címlista</translation>
+        <translation>Címlista</translation>
     </message>
     <message>
         <source>Roster window options</source>
-        <translation type="unfinished">Címlistaablak beállításai</translation>
+        <translation>Címlistaablak beállításai</translation>
     </message>
     <message>
         <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation type="unfinished">Psi főablaka mindig felül.</translation>
+        <translation>Psi főablaka mindig felül.</translation>
     </message>
     <message>
         <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation type="unfinished">Psi főablak automatikus átméretezése, hogy minden ismerős neve beleférjen.</translation>
+        <translation>Psi főablak automatikus átméretezése, hogy minden ismerős neve beleférjen.</translation>
     </message>
     <message>
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation type="unfinished">Alapértelmezés szerint, a jobb kattintás előhoz az ismerősön egy almenüt. Kapcsold ezt be, ha te inkább ballal kattintanál.</translation>
+        <translation>Alapértelmezés szerint, a jobb kattintás előhoz az ismerősön egy almenüt. Kapcsold ezt be, ha te inkább ballal kattintanál.</translation>
     </message>
     <message>
         <source>Shows the menubar in the application window.</source>
-        <translation type="unfinished">Menüsáv mutatása az alkalmazás ablakában.</translation>
+        <translation>Menüsáv mutatása az alkalmazás ablakában.</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabRosterMuc</name>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Csoportbeszélgetés</translation>
     </message>
     <message>
         <source>Groupchat roster options</source>
@@ -13068,7 +13064,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Minták</translation>
     </message>
 </context>
 <context>
@@ -13121,7 +13117,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Beillesztés és küldés</translation>
     </message>
 </context>
 <context>
@@ -15920,94 +15916,94 @@ Oka: %1</translation>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Template editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Mintaszerkesztő</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Minták</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Hozzáadás</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Szerkesztés</translation>
+        <translation>Szerkesztés</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Eltávolítás</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished">Rendben</translation>
+        <translation>Rendben</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Mégsem</translation>
+        <translation>Mégsem</translation>
     </message>
     <message>
         <source>Add template string</source>
-        <translation type="unfinished"></translation>
+        <translation>Mintaelemek hozzáadása</translation>
     </message>
     <message>
         <source>Add template string as submenu</source>
-        <translation type="unfinished"></translation>
+        <translation>Mintaelemek hozzáadása almenüként</translation>
     </message>
     <message>
         <source>Add separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Elválasztó hozzáadása</translation>
     </message>
     <message>
         <source>Add separator as submenu</source>
-        <translation type="unfinished"></translation>
+        <translation>Elválasztó hozzáadása almenüként</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished">Fel</translation>
+        <translation>Fel</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished">Le</translation>
+        <translation>Le</translation>
     </message>
     <message>
         <source>&lt;separator&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;elválasztó&gt;</translation>
     </message>
     <message>
         <source>Edit template</source>
-        <translation type="unfinished"></translation>
+        <translation>Minta szerkesztése</translation>
     </message>
     <message>
         <source>Input new template text</source>
-        <translation type="unfinished"></translation>
+        <translation>Új mintaszöveg megadása</translation>
     </message>
     <message>
         <source>Save templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Minták mentése</translation>
     </message>
     <message>
         <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; minta nem lett mentve!</translation>
     </message>
     <message>
         <source>Continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Folytatás?</translation>
     </message>
 </context>
 <context>
     <name>SendButtonTemplatesMenu</name>
     <message>
         <source>Paste and &amp;Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Beillesztés és &amp;küldés</translation>
     </message>
     <message>
         <source>&amp;Edit Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Minták &amp;szerkesztése</translation>
     </message>
     <message>
         <source>Only &amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Csak &amp;beillesztés</translation>
     </message>
 </context>
 <context>
@@ -16868,7 +16864,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>%1 (Inactive)</source>
-        <translation type="unfinished">%1 (tétlen)</translation>
+        <translation>%1 (tétlen)</translation>
     </message>
 </context>
 <context>

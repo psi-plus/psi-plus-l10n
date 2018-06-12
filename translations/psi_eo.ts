@@ -4804,7 +4804,7 @@ Kialo: %1</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished">Alvoko</translation>
+        <translation>Alvoko</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
@@ -4812,7 +4812,7 @@ Kialo: %1</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation type="unfinished">&amp;Forĵeti</translation>
+        <translation>&amp;Forĵeti</translation>
     </message>
     <message>
         <source>No reason</source>
@@ -4824,7 +4824,7 @@ Kialo: %1</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation type="unfinished">&amp;Forbari</translation>
+        <translation>&amp;Forbari</translation>
     </message>
     <message>
         <source>Change Role</source>
@@ -4832,15 +4832,15 @@ Kialo: %1</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="unfinished">Vizitanto</translation>
+        <translation>Vizitanto</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="unfinished">Partoprenanto</translation>
+        <translation>Partoprenanto</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="unfinished">Kontrolanto</translation>
+        <translation>Kontrolanto</translation>
     </message>
     <message>
         <source>Change Affiliation</source>
@@ -4864,7 +4864,7 @@ Kialo: %1</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="unfinished">Malfermi &amp;babilan fenestron</translation>
+        <translation>Malfermi &amp;babilan fenestron</translation>
     </message>
     <message>
         <source>You have been removed from the room due to technical problem</source>
@@ -4898,15 +4898,15 @@ Kialo: %1</translation>
     <name>GCUserModel</name>
     <message>
         <source>Moderators</source>
-        <translation type="unfinished">Kontrolantoj</translation>
+        <translation>Kontrolantoj</translation>
     </message>
     <message>
         <source>Participants</source>
-        <translation type="unfinished">Partoprenantoj</translation>
+        <translation>Partoprenantoj</translation>
     </message>
     <message>
         <source>Visitors</source>
-        <translation type="unfinished">Vizitantoj</translation>
+        <translation>Vizitantoj</translation>
     </message>
 </context>
 <context>
@@ -5801,7 +5801,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
+        <source>&amp;First</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5813,7 +5813,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>&amp;Sekvanta</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
+        <source>&amp;Last</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6207,6 +6207,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8684,7 +8688,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Grandeco</translation>
+        <translation>Grandeco</translation>
     </message>
     <message>
         <source>pt</source>
@@ -8719,7 +8723,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Stato</translation>
+        <translation>Stato</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
@@ -8751,7 +8755,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Grandeco</translation>
+        <translation>Grandeco</translation>
     </message>
     <message>
         <source>pt</source>
@@ -10325,7 +10329,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabRosterMuc</name>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished">Babilejoj</translation>
+        <translation>Babilejoj</translation>
     </message>
     <message>
         <source>Groupchat roster options</source>
@@ -15438,7 +15442,7 @@ Kialo: %1</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Aldoni</translation>
+        <translation>Aldoni</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -15446,7 +15450,7 @@ Kialo: %1</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Forigi</translation>
+        <translation>Forigi</translation>
     </message>
     <message>
         <source>Ok</source>
@@ -16378,7 +16382,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>%1 (Inactive)</source>
-        <translation type="unfinished">%1 (Neaktiva)</translation>
+        <translation>%1 (Neaktiva)</translation>
     </message>
 </context>
 <context>

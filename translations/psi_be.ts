@@ -4850,79 +4850,79 @@ Reason: %1</source>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Уставіць і даслаць</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation type="unfinished">Даслаць &amp;паведамленьне</translation>
+        <translation>Даслаць &amp;паведамленьне</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation type="unfinished">Адчыніць вакно &amp;гутаркі</translation>
+        <translation>Адчыніць вакно &amp;гутаркі</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished">Размаўляць голасам</translation>
+        <translation>Размаўляць голасам</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation type="unfinished">Выканаць &amp;загад</translation>
+        <translation>Выканаць &amp;загад</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation type="unfinished">Вы&amp;кінуць</translation>
+        <translation>Вы&amp;кінуць</translation>
     </message>
     <message>
         <source>No reason</source>
-        <translation type="unfinished">Без падставы</translation>
+        <translation>Без падставы</translation>
     </message>
     <message>
         <source>Custom reason</source>
-        <translation type="unfinished">Абраць падставу</translation>
+        <translation>Абраць падставу</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation type="unfinished">&amp;Выгнаць</translation>
+        <translation>&amp;Выгнаць</translation>
     </message>
     <message>
         <source>Change Role</source>
-        <translation type="unfinished">Зьмяніць ролю</translation>
+        <translation>Зьмяніць ролю</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="unfinished">Наведнік</translation>
+        <translation>Наведнік</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="unfinished">Удзельнік</translation>
+        <translation>Удзельнік</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="unfinished">Старшыня</translation>
+        <translation>Старшыня</translation>
     </message>
     <message>
         <source>Change Affiliation</source>
-        <translation type="unfinished">Зьмяніць прыналежнасьць</translation>
+        <translation>Зьмяніць прыналежнасьць</translation>
     </message>
     <message>
         <source>Unaffiliated</source>
-        <translation type="unfinished">Няма прыналежнасьці</translation>
+        <translation>Няма прыналежнасьці</translation>
     </message>
     <message>
         <source>Member</source>
-        <translation type="unfinished">Чалец</translation>
+        <translation>Чалец</translation>
     </message>
     <message>
         <source>Administrator</source>
-        <translation type="unfinished">Спраўнік</translation>
+        <translation>Спраўнік</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="unfinished">Уладальнік</translation>
+        <translation>Уладальнік</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="unfinished">Пра &amp;карыстальніка</translation>
+        <translation>Пра &amp;карыстальніка</translation>
     </message>
     <message>
         <source>You have been removed from the room due to technical problem</source>
@@ -4956,15 +4956,15 @@ Reason: %1</source>
     <name>GCUserModel</name>
     <message>
         <source>Moderators</source>
-        <translation type="unfinished">Старшыні</translation>
+        <translation>Старшыні</translation>
     </message>
     <message>
         <source>Participants</source>
-        <translation type="unfinished">Удзельнікі</translation>
+        <translation>Удзельнікі</translation>
     </message>
     <message>
         <source>Visitors</source>
-        <translation type="unfinished">Наведнікі</translation>
+        <translation>Наведнікі</translation>
     </message>
 </context>
 <context>
@@ -5771,7 +5771,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished">Мова</translation>
+        <translation>Мова</translation>
     </message>
     <message>
         <source>Script</source>
@@ -5912,7 +5912,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>&amp;Абнавіць</translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
+        <source>&amp;First</source>
         <translation>&amp;Першыя</translation>
     </message>
     <message>
@@ -5924,7 +5924,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>&amp;Далей</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
+        <source>&amp;Last</source>
         <translation>А&amp;пошнія</translation>
     </message>
     <message>
@@ -6335,6 +6335,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8273,7 +8277,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Link</source>
-        <translation type="unfinished">Спасылка</translation>
+        <translation>Спасылка</translation>
     </message>
     <message>
         <source>Visited Link</source>
@@ -8625,10 +8629,6 @@ Tags: %1</source>
 <context>
     <name>OptInput</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">Form</translation>
-    </message>
-    <message>
         <source>Auto-resize text input field</source>
         <translation>Зьмяняць памеры поля ўводу самарушна</translation>
     </message>
@@ -8650,7 +8650,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="unfinished">Пачынаць сказы зь вялікае літары</translation>
+        <translation>Пачынаць сказы зь вялікае літары</translation>
     </message>
 </context>
 <context>
@@ -8706,10 +8706,6 @@ Tags: %1</source>
     <message>
         <source>Show character counter</source>
         <translation>Паказваць лічыльнік знакаў</translation>
-    </message>
-    <message>
-        <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="vanished">Пачынаць сказы зь вялікае літары</translation>
     </message>
 </context>
 <context>
@@ -8957,43 +8953,43 @@ Tags: %1</source>
     <name>OptRosterMain</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="unfinished">OptApplicationUI</translation>
+        <translation>OptApplicationUI</translation>
     </message>
     <message>
         <source>Roster window always on top</source>
-        <translation type="unfinished">Вакно сьпісу заўжды наверсе</translation>
+        <translation>Вакно сьпісу заўжды наверсе</translation>
     </message>
     <message>
         <source>Auto-resize contact list</source>
-        <translation type="unfinished">Дапасоўваць памеры сьпісу</translation>
+        <translation>Дапасоўваць памеры сьпісу</translation>
     </message>
     <message>
         <source>Use left-click for menu</source>
-        <translation type="unfinished">Выклікаць мэню левым пстрыкам</translation>
+        <translation>Выклікаць мэню левым пстрыкам</translation>
     </message>
     <message>
         <source>Show menubar</source>
-        <translation type="unfinished">Паказваць паліцу мэню</translation>
+        <translation>Паказваць паліцу мэню</translation>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
-        <translation type="unfinished">Забараніць стужку пракручваньня ў вакне праґрамы.</translation>
+        <translation>Забараніць стужку пракручваньня ў вакне праґрамы.</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="unfinished">Забараніць стужку пракручваньня</translation>
+        <translation>Забараніць стужку пракручваньня</translation>
     </message>
     <message>
         <source>Enables avatar frame at the top of roster</source>
-        <translation type="unfinished">Паказваць рамку з увасабленьнем уверсе сьпісу</translation>
+        <translation>Паказваць рамку з увасабленьнем уверсе сьпісу</translation>
     </message>
     <message>
         <source>Enable roster avatar frame</source>
-        <translation type="unfinished">Рамка з увасабленьнем уверсе сьпісу</translation>
+        <translation>Рамка з увасабленьнем уверсе сьпісу</translation>
     </message>
     <message>
         <source>Autohide roster after</source>
-        <translation type="unfinished">Хаваць сьпіс, як міне</translation>
+        <translation>Хаваць сьпіс, як міне</translation>
     </message>
     <message>
         <source>seconds (0 - never)</source>
@@ -9001,71 +8997,71 @@ Tags: %1</source>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="unfinished">Значкі</translation>
+        <translation>Значкі</translation>
     </message>
     <message>
         <source>Show geolocation in roster</source>
-        <translation type="unfinished">Паказваць у сьпісе месцазнаходжаньні</translation>
+        <translation>Паказваць у сьпісе месцазнаходжаньні</translation>
     </message>
     <message>
         <source>GeoLocation</source>
-        <translation type="unfinished">Месцазнаходжаньне</translation>
+        <translation>Месцазнаходжаньне</translation>
     </message>
     <message>
         <source>Show moods in roster</source>
-        <translation type="unfinished">Паказваць у сьпісе настроі</translation>
+        <translation>Паказваць у сьпісе настроі</translation>
     </message>
     <message>
         <source>Moods</source>
-        <translation type="unfinished">Настроі</translation>
+        <translation>Настроі</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="unfinished">Паказваць у сьпісе ўвасабленьні</translation>
+        <translation>Паказваць у сьпісе ўвасабленьні</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="unfinished">Увасабленьні</translation>
+        <translation>Увасабленьні</translation>
     </message>
     <message>
         <source>Show activities in roster</source>
-        <translation type="unfinished">Паказваць у сьпісе дзейнасьці</translation>
+        <translation>Паказваць у сьпісе дзейнасьці</translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="unfinished">Дзейнасьці</translation>
+        <translation>Дзейнасьці</translation>
     </message>
     <message>
         <source>Show icon when contact is listening to music</source>
-        <translation type="unfinished">Паказваць, калі суразмоўца слухае музыку</translation>
+        <translation>Паказваць, калі суразмоўца слухае музыку</translation>
     </message>
     <message>
         <source>Now playing</source>
-        <translation type="unfinished">Музыка</translation>
+        <translation>Музыка</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="unfinished">Паказваць значак кліента суразмоўцы</translation>
+        <translation>Паказваць значак кліента суразмоўцы</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="unfinished">Кліенты</translation>
+        <translation>Кліенты</translation>
     </message>
     <message>
         <source>all client icons</source>
-        <translation type="unfinished">усе кліенты</translation>
+        <translation>усе кліенты</translation>
     </message>
     <message>
         <source>only highest priority client icon</source>
-        <translation type="unfinished">кліент з найвышэйшым пяршынствам</translation>
+        <translation>кліент з найвышэйшым пяршынствам</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="unfinished">Налады ўвасабленьня</translation>
+        <translation>Налады ўвасабленьня</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Памер</translation>
+        <translation>Памер</translation>
     </message>
     <message>
         <source>pt</source>
@@ -9073,14 +9069,14 @@ Tags: %1</source>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="unfinished">Радыюс вуглоў</translation>
+        <translation>Радыюс вуглоў</translation>
     </message>
 </context>
 <context>
     <name>OptRosterMuc</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="unfinished">OptApplicationUI</translation>
+        <translation>OptApplicationUI</translation>
     </message>
     <message>
         <source>Hides scrollbar in the roster widget.</source>
@@ -9088,11 +9084,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="unfinished">Забараніць стужку пракручваньня</translation>
+        <translation>Забараніць стужку пракручваньня</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="unfinished">Значкі</translation>
+        <translation>Значкі</translation>
     </message>
     <message>
         <source>Show icon if contact status like online, away and others.</source>
@@ -9100,15 +9096,15 @@ Tags: %1</source>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Стан</translation>
+        <translation>Стан</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="unfinished">Паказваць значак кліента суразмоўцы</translation>
+        <translation>Паказваць значак кліента суразмоўцы</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="unfinished">Кліенты</translation>
+        <translation>Кліенты</translation>
     </message>
     <message>
         <source>Show who is the boss and who is nothing</source>
@@ -9116,23 +9112,23 @@ Tags: %1</source>
     </message>
     <message>
         <source>Affiliations</source>
-        <translation type="unfinished">Прыналежнасьць</translation>
+        <translation>Прыналежнасьць</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="unfinished">Паказваць у сьпісе ўвасабленьні</translation>
+        <translation>Паказваць у сьпісе ўвасабленьні</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="unfinished">Увасабленьні</translation>
+        <translation>Увасабленьні</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="unfinished">Налады ўвасабленьня</translation>
+        <translation>Налады ўвасабленьня</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Памер</translation>
+        <translation>Памер</translation>
     </message>
     <message>
         <source>pt</source>
@@ -9140,7 +9136,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="unfinished">Радыюс вуглоў</translation>
+        <translation>Радыюс вуглоў</translation>
     </message>
     <message>
         <source>Align avatars to the left edge of the roster. Otherwise to the right.</source>
@@ -10716,34 +10712,34 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabRosterMain</name>
     <message>
         <source>Roster</source>
-        <translation type="unfinished">Сьпіс</translation>
+        <translation>Сьпіс</translation>
     </message>
     <message>
         <source>Roster window options</source>
-        <translation type="unfinished">Можнасьці вакна сьпісу</translation>
+        <translation>Можнасьці вакна сьпісу</translation>
     </message>
     <message>
         <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation type="unfinished">Галоўнае вакно будзе заўжды па-над астатнімі вокнамі.</translation>
+        <translation>Галоўнае вакно будзе заўжды па-над астатнімі вокнамі.</translation>
     </message>
     <message>
         <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation type="unfinished">Галоўнае вакно будзе зьмяняць памеры так, каб зьмясьціць усіх суразмоўцаў.</translation>
+        <translation>Галоўнае вакно будзе зьмяняць памеры так, каб зьмясьціць усіх суразмоўцаў.</translation>
     </message>
     <message>
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation type="unfinished">Звычайна выплыўное мэню выклікаецца, калі пстрыкнуць праваю клявішаю мышы.  Абярыце гэта, калі вам зручней выклікаць мэню леваю клявішаю.</translation>
+        <translation>Звычайна выплыўное мэню выклікаецца, калі пстрыкнуць праваю клявішаю мышы.  Абярыце гэта, калі вам зручней выклікаць мэню леваю клявішаю.</translation>
     </message>
     <message>
         <source>Shows the menubar in the application window.</source>
-        <translation type="unfinished">Паказваць паліцу мэню ў вакне праґрамы.</translation>
+        <translation>Паказваць паліцу мэню ў вакне праґрамы.</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabRosterMuc</name>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished">Нарада</translation>
+        <translation>Нарада</translation>
     </message>
     <message>
         <source>Groupchat roster options</source>
@@ -13039,7 +13035,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблёны</translation>
     </message>
 </context>
 <context>
@@ -13092,7 +13088,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Уставіць і даслаць</translation>
     </message>
 </context>
 <context>
@@ -15901,94 +15897,94 @@ Reason: %1</source>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Template editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Правіць шаблёны</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблёны</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Дадаць</translation>
+        <translation>Дадаць</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Правіць</translation>
+        <translation>Правіць</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Забраць</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished">Добра</translation>
+        <translation>Добра</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Скасаваць</translation>
+        <translation>Скасаваць</translation>
     </message>
     <message>
         <source>Add template string</source>
-        <translation type="unfinished"></translation>
+        <translation>Дадаць радок шаблёну</translation>
     </message>
     <message>
         <source>Add template string as submenu</source>
-        <translation type="unfinished"></translation>
+        <translation>Дадаць радок шаблёну як падмэню</translation>
     </message>
     <message>
         <source>Add separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Дадаць аддзяляльнік</translation>
     </message>
     <message>
         <source>Add separator as submenu</source>
-        <translation type="unfinished"></translation>
+        <translation>Дадаць аддзяляльнік як падмэню</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished">Дагары</translation>
+        <translation>Дагары</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished">Долу</translation>
+        <translation>Долу</translation>
     </message>
     <message>
         <source>&lt;separator&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;аддзяляльнік&gt;</translation>
     </message>
     <message>
         <source>Edit template</source>
-        <translation type="unfinished"></translation>
+        <translation>Правіць шаблён</translation>
     </message>
     <message>
         <source>Input new template text</source>
-        <translation type="unfinished"></translation>
+        <translation>Набярыце тэкст шаблёну</translation>
     </message>
     <message>
         <source>Save templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Захаваць шаблёны</translation>
     </message>
     <message>
         <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблён «%1» не захавалі!</translation>
     </message>
     <message>
         <source>Continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ці працягваць?</translation>
     </message>
 </context>
 <context>
     <name>SendButtonTemplatesMenu</name>
     <message>
         <source>Paste and &amp;Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Уставіць і &amp;даслаць</translation>
     </message>
     <message>
         <source>&amp;Edit Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Правіць шаблёны</translation>
     </message>
     <message>
         <source>Only &amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Толькі ўставіць</translation>
     </message>
 </context>
 <context>
@@ -16859,7 +16855,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>%1 (Inactive)</source>
-        <translation type="unfinished">%1 (бязьдзейнічае)</translation>
+        <translation>%1 (бязьдзейнічае)</translation>
     </message>
 </context>
 <context>

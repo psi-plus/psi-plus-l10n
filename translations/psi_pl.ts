@@ -4842,79 +4842,79 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Wklej i wyślij</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation type="unfinished">Wyślij &amp;wiadomość</translation>
+        <translation>Wyślij &amp;wiadomość</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation type="unfinished">Otwórz okno &amp;rozmowy</translation>
+        <translation>Otwórz okno &amp;rozmowy</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished"></translation>
+        <translation>Połączenie głosowe</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation type="unfinished"></translation>
+        <translation>U&amp;ruchom Polecenie</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation type="unfinished">&amp;Wyrzuć</translation>
+        <translation>&amp;Wyrzuć</translation>
     </message>
     <message>
         <source>No reason</source>
-        <translation type="unfinished">Bez przyczyny</translation>
+        <translation>Bez przyczyny</translation>
     </message>
     <message>
         <source>Custom reason</source>
-        <translation type="unfinished">Własna przyczyna</translation>
+        <translation>Własna przyczyna</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation type="unfinished">Za&amp;blokuj</translation>
+        <translation>Za&amp;blokuj</translation>
     </message>
     <message>
         <source>Change Role</source>
-        <translation type="unfinished">Zmień rolę</translation>
+        <translation>Zmień rolę</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="unfinished">Gość</translation>
+        <translation>Gość</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="unfinished">Uczestnik</translation>
+        <translation>Uczestnik</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="unfinished">Moderator</translation>
+        <translation>Moderator</translation>
     </message>
     <message>
         <source>Change Affiliation</source>
-        <translation type="unfinished">Zmiana przynależności</translation>
+        <translation>Zmiana przynależności</translation>
     </message>
     <message>
         <source>Unaffiliated</source>
-        <translation type="unfinished">Brak przynależności</translation>
+        <translation>Brak przynależności</translation>
     </message>
     <message>
         <source>Member</source>
-        <translation type="unfinished">Członek</translation>
+        <translation>Członek</translation>
     </message>
     <message>
         <source>Administrator</source>
-        <translation type="unfinished">Administrator</translation>
+        <translation>Administrator</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="unfinished">Właściciel</translation>
+        <translation>Właściciel</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="unfinished">&amp;Informacje o użytkowniku</translation>
+        <translation>&amp;Informacje o użytkowniku</translation>
     </message>
     <message>
         <source>You have been removed from the room due to technical problem</source>
@@ -4948,15 +4948,15 @@ Przyczyna: %1</translation>
     <name>GCUserModel</name>
     <message>
         <source>Moderators</source>
-        <translation type="unfinished">Moderatorzy</translation>
+        <translation>Moderatorzy</translation>
     </message>
     <message>
         <source>Participants</source>
-        <translation type="unfinished">Uczestnicy</translation>
+        <translation>Uczestnicy</translation>
     </message>
     <message>
         <source>Visitors</source>
-        <translation type="unfinished">Goście</translation>
+        <translation>Goście</translation>
     </message>
 </context>
 <context>
@@ -5763,7 +5763,7 @@ Do wysyłania poleceń, wykorzystywane są zwykłe wiadomości, więc wtyczka  t
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished">Język</translation>
+        <translation>Język</translation>
     </message>
     <message>
         <source>Script</source>
@@ -5904,7 +5904,7 @@ Do wysyłania poleceń, wykorzystywane są zwykłe wiadomości, więc wtyczka  t
         <translation>&amp;Odśwież</translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
+        <source>&amp;First</source>
         <translation>&amp;Wczesniejsze</translation>
     </message>
     <message>
@@ -5916,7 +5916,7 @@ Do wysyłania poleceń, wykorzystywane są zwykłe wiadomości, więc wtyczka  t
         <translation>&amp;Następne</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
+        <source>&amp;Last</source>
         <translation>&amp;Późniejsze</translation>
     </message>
     <message>
@@ -6311,6 +6311,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8239,7 +8243,7 @@ Etykiety: %1</translation>
     </message>
     <message>
         <source>Link</source>
-        <translation type="unfinished">Link</translation>
+        <translation>Link</translation>
     </message>
     <message>
         <source>Visited Link</source>
@@ -8592,10 +8596,6 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
 <context>
     <name>OptInput</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">Formularz</translation>
-    </message>
-    <message>
         <source>Auto-resize text input field</source>
         <translation>Okna edycji dopasuje się do ilości tekstu</translation>
     </message>
@@ -8617,7 +8617,7 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="unfinished">Automatyczna duża pierwsza litera</translation>
+        <translation>Automatyczna duża pierwsza litera</translation>
     </message>
 </context>
 <context>
@@ -8673,10 +8673,6 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     <message>
         <source>Show character counter</source>
         <translation>Pokazuj licznik znaków</translation>
-    </message>
-    <message>
-        <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="vanished">Automatyczna duża pierwsza litera</translation>
     </message>
 </context>
 <context>
@@ -8896,39 +8892,39 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     </message>
     <message>
         <source>Roster window always on top</source>
-        <translation type="unfinished">Okno z listą zawsze na wierzchu</translation>
+        <translation>Okno z listą zawsze na wierzchu</translation>
     </message>
     <message>
         <source>Auto-resize contact list</source>
-        <translation type="unfinished">Automatyczna zmiana wielkości listy</translation>
+        <translation>Automatyczna zmiana wielkości listy</translation>
     </message>
     <message>
         <source>Use left-click for menu</source>
-        <translation type="unfinished">Lewy przycisk myszy - menu</translation>
+        <translation>Lewy przycisk myszy - menu</translation>
     </message>
     <message>
         <source>Show menubar</source>
-        <translation type="unfinished">Pokaż pasek menu</translation>
+        <translation>Pokaż pasek menu</translation>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
-        <translation type="unfinished">Wyłączenie paska przewijania w oknie aplikacji.</translation>
+        <translation>Wyłączenie paska przewijania w oknie aplikacji.</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="unfinished">Wyłącz pasek przewijania</translation>
+        <translation>Wyłącz pasek przewijania</translation>
     </message>
     <message>
         <source>Enables avatar frame at the top of roster</source>
-        <translation type="unfinished">Pokazuje ramkę z własnym avatarem oraz polem zmiany statusu na górze listy kontaktów</translation>
+        <translation>Pokazuje ramkę z własnym avatarem oraz polem zmiany statusu na górze listy kontaktów</translation>
     </message>
     <message>
         <source>Enable roster avatar frame</source>
-        <translation type="unfinished">Pokazuj ramkę własnego avatara na liście kontaktów</translation>
+        <translation>Pokazuj ramkę własnego avatara na liście kontaktów</translation>
     </message>
     <message>
         <source>Autohide roster after</source>
-        <translation type="unfinished">Chowaj listę kontaktów po</translation>
+        <translation>Chowaj listę kontaktów po</translation>
     </message>
     <message>
         <source>seconds (0 - never)</source>
@@ -8940,31 +8936,31 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     </message>
     <message>
         <source>Show geolocation in roster</source>
-        <translation type="unfinished">Pokaż geolokalizację na liście kontaktów</translation>
+        <translation>Pokaż geolokalizację na liście kontaktów</translation>
     </message>
     <message>
         <source>GeoLocation</source>
-        <translation type="unfinished">Geolokalizacja</translation>
+        <translation>Geolokalizacja</translation>
     </message>
     <message>
         <source>Show moods in roster</source>
-        <translation type="unfinished">Pokazuj nastroje na liście kontaktów</translation>
+        <translation>Pokazuj nastroje na liście kontaktów</translation>
     </message>
     <message>
         <source>Moods</source>
-        <translation type="unfinished">Nastroje</translation>
+        <translation>Nastroje</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="unfinished">Pokaż awatary na liście kontaktów</translation>
+        <translation>Pokaż awatary na liście kontaktów</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="unfinished">Awatary</translation>
+        <translation>Awatary</translation>
     </message>
     <message>
         <source>Show activities in roster</source>
-        <translation type="unfinished">Pokaż aktywność na liście kontaktów</translation>
+        <translation>Pokaż aktywność na liście kontaktów</translation>
     </message>
     <message>
         <source>Activities</source>
@@ -8972,7 +8968,7 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     </message>
     <message>
         <source>Show icon when contact is listening to music</source>
-        <translation type="unfinished">Pokaż ikonę, kiedy kontakt słucha muzyki</translation>
+        <translation>Pokaż ikonę, kiedy kontakt słucha muzyki</translation>
     </message>
     <message>
         <source>Now playing</source>
@@ -8980,7 +8976,7 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="unfinished">Pokaż ikonę klienta użytkownika</translation>
+        <translation>Pokaż ikonę klienta użytkownika</translation>
     </message>
     <message>
         <source>Clients</source>
@@ -8996,11 +8992,11 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="unfinished">Ustawienia awatara</translation>
+        <translation>Ustawienia awatara</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Wielkość</translation>
     </message>
     <message>
         <source>pt</source>
@@ -9023,7 +9019,7 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="unfinished">Wyłącz pasek przewijania</translation>
+        <translation>Wyłącz pasek przewijania</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -9035,11 +9031,11 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="unfinished">Pokaż ikonę klienta użytkownika</translation>
+        <translation>Pokaż ikonę klienta użytkownika</translation>
     </message>
     <message>
         <source>Clients</source>
@@ -9051,23 +9047,23 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     </message>
     <message>
         <source>Affiliations</source>
-        <translation type="unfinished">Przynależności</translation>
+        <translation>Przynależności</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="unfinished">Pokaż awatary na liście kontaktów</translation>
+        <translation>Pokaż awatary na liście kontaktów</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="unfinished">Awatary</translation>
+        <translation>Awatary</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="unfinished">Ustawienia awatara</translation>
+        <translation>Ustawienia awatara</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Wielkość</translation>
     </message>
     <message>
         <source>pt</source>
@@ -10623,11 +10619,11 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     <name>OptionsTabRosterMain</name>
     <message>
         <source>Roster</source>
-        <translation type="unfinished">Lista</translation>
+        <translation>Lista</translation>
     </message>
     <message>
         <source>Roster window options</source>
-        <translation type="unfinished">Opcje okna listy</translation>
+        <translation>Preferencje okna listy</translation>
     </message>
     <message>
         <source>Makes the main Psi window always be in front of other windows.</source>
@@ -10643,14 +10639,14 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     </message>
     <message>
         <source>Shows the menubar in the application window.</source>
-        <translation type="unfinished">Pokazuje pasek menu w oknie aplikacji</translation>
+        <translation>Pokazuje pasek menu w oknie aplikacji</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabRosterMuc</name>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Konferencja</translation>
     </message>
     <message>
         <source>Groupchat roster options</source>
@@ -12946,7 +12942,7 @@ Przyczyna: %1.</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Szablony</translation>
     </message>
 </context>
 <context>
@@ -12999,7 +12995,7 @@ Przyczyna: %1.</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Wklej i wyślij</translation>
     </message>
 </context>
 <context>
@@ -15785,27 +15781,27 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Szablony</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Dodaj</translation>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Edytuj</translation>
+        <translation>Edytuj</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Usuń</translation>
+        <translation>Usuń</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <source>Add template string</source>
@@ -15825,11 +15821,11 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished">W górę</translation>
+        <translation>W górę</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished">W dół</translation>
+        <translation>W dół</translation>
     </message>
     <message>
         <source>&lt;separator&gt;</source>
@@ -15845,11 +15841,11 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source>Save templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz szablony</translation>
     </message>
     <message>
         <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation type="unfinished"></translation>
+        <translation>Szablon &quot;%1&quot; nie został zapisany!</translation>
     </message>
     <message>
         <source>Continue?</source>
@@ -16731,7 +16727,7 @@ Wtyczka służy do przechowywania notatek na serwerze jabbera z możliwością d
     </message>
     <message>
         <source>%1 (Inactive)</source>
-        <translation type="unfinished">%1 (nieaktywny)</translation>
+        <translation>%1 (nieaktywny)</translation>
     </message>
 </context>
 <context>

@@ -4828,75 +4828,75 @@ Reason: %1</source>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation type="unfinished">שלח &amp;הודעה</translation>
+        <translation>שלח &amp;הודעה</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation type="unfinished"></translation>
+        <translation>פתח &amp;חלון שיחה</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished">שיחה קולית</translation>
+        <translation>שיחה קולית</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation type="unfinished"></translation>
+        <translation>ה&amp;רץ פקודה</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation type="unfinished">&amp;בעט</translation>
+        <translation>&amp;בעט</translation>
     </message>
     <message>
         <source>No reason</source>
-        <translation type="unfinished">בלי סיבה</translation>
+        <translation>בלי סיבה</translation>
     </message>
     <message>
         <source>Custom reason</source>
-        <translation type="unfinished">סיבה מותאמת</translation>
+        <translation>סיבה מותאמת</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation type="unfinished">&amp;אסור</translation>
+        <translation>&amp;אסור</translation>
     </message>
     <message>
         <source>Change Role</source>
-        <translation type="unfinished">שנה תפקיד</translation>
+        <translation>שנה תפקיד</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="unfinished">מבקר</translation>
+        <translation>מבקר</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="unfinished">משתתף</translation>
+        <translation>משתתף</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="unfinished">אחראי</translation>
+        <translation>אחראי</translation>
     </message>
     <message>
         <source>Change Affiliation</source>
-        <translation type="unfinished">שינוי סינוף</translation>
+        <translation>שינוי סינוף</translation>
     </message>
     <message>
         <source>Unaffiliated</source>
-        <translation type="unfinished">נטול סינוף</translation>
+        <translation>נטול סינוף</translation>
     </message>
     <message>
         <source>Member</source>
-        <translation type="unfinished">חבר</translation>
+        <translation>חבר</translation>
     </message>
     <message>
         <source>Administrator</source>
-        <translation type="unfinished">מנהל</translation>
+        <translation>מנהל</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="unfinished">בעלים</translation>
+        <translation>בעלים</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;מידע משתמש</translation>
     </message>
     <message>
         <source>You have been removed from the room due to technical problem</source>
@@ -4930,15 +4930,15 @@ Reason: %1</source>
     <name>GCUserModel</name>
     <message>
         <source>Moderators</source>
-        <translation type="unfinished">אחראים</translation>
+        <translation>אחראים</translation>
     </message>
     <message>
         <source>Participants</source>
-        <translation type="unfinished">משתתפים</translation>
+        <translation>משתתפים</translation>
     </message>
     <message>
         <source>Visitors</source>
-        <translation type="unfinished">מבקרים</translation>
+        <translation>מבקרים</translation>
     </message>
 </context>
 <context>
@@ -5882,7 +5882,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>&amp;רענן</translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
+        <source>&amp;First</source>
         <translation>ר&amp;אשונה</translation>
     </message>
     <message>
@@ -5894,7 +5894,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>ה&amp;באה</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
+        <source>&amp;Last</source>
         <translation>א&amp;חרונה</translation>
     </message>
     <message>
@@ -6304,6 +6304,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8856,7 +8860,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Auto-resize contact list</source>
-        <translation type="unfinished">שינוי גודל אוטומטי של רשימת קשר</translation>
+        <translation>שינוי גודל אוטומטי של רשימת קשר</translation>
     </message>
     <message>
         <source>Use left-click for menu</source>
@@ -8864,15 +8868,15 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show menubar</source>
-        <translation type="unfinished">הצג שורת תפריט</translation>
+        <translation>הצג שורת תפריט</translation>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
-        <translation type="unfinished">נטרל פס גלילה בחלון היישום.</translation>
+        <translation>נטרל פס גלילה בחלון היישום.</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="unfinished">נטרל פס גלילה</translation>
+        <translation>נטרל פס גלילה</translation>
     </message>
     <message>
         <source>Enables avatar frame at the top of roster</source>
@@ -8892,59 +8896,59 @@ Tags: %1</source>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="unfinished">צלמיות</translation>
+        <translation>צלמיות</translation>
     </message>
     <message>
         <source>Show geolocation in roster</source>
-        <translation type="unfinished">הצגת מיקום גאוגרפי ברשימה</translation>
+        <translation>הצגת מיקום גאוגרפי ברשימה</translation>
     </message>
     <message>
         <source>GeoLocation</source>
-        <translation type="unfinished">מיקום גאוגרפי</translation>
+        <translation>מיקום גאוגרפי</translation>
     </message>
     <message>
         <source>Show moods in roster</source>
-        <translation type="unfinished">הצגת מצבי רוח ברשימה</translation>
+        <translation>הצגת מצבי רוח ברשימה</translation>
     </message>
     <message>
         <source>Moods</source>
-        <translation type="unfinished">מצבי רוח</translation>
+        <translation>מצבי רוח</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="unfinished">הצגת אווטארים ברשימה</translation>
+        <translation>הצגת אווטארים ברשימה</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="unfinished">אווטארים</translation>
+        <translation>אווטארים</translation>
     </message>
     <message>
         <source>Show activities in roster</source>
-        <translation type="unfinished">הצגת פעילויות ברשימה</translation>
+        <translation>הצגת פעילויות ברשימה</translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="unfinished">פעילויות</translation>
+        <translation>פעילויות</translation>
     </message>
     <message>
         <source>Show icon when contact is listening to music</source>
-        <translation type="unfinished">הצגת צלמית כאשר איש קשר מאזין למוזיקה</translation>
+        <translation>הצגת צלמית כאשר איש קשר מאזין למוזיקה</translation>
     </message>
     <message>
         <source>Now playing</source>
-        <translation type="unfinished">מנגן עכשיו</translation>
+        <translation>מנגן עכשיו</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="unfinished">הצג צלמית של לקוח משתמש</translation>
+        <translation>הצג צלמית של לקוח משתמש</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="unfinished">לקוחות</translation>
+        <translation>לקוחות</translation>
     </message>
     <message>
         <source>all client icons</source>
-        <translation type="unfinished">כל צלמיות לקוח</translation>
+        <translation>כל צלמיות לקוח</translation>
     </message>
     <message>
         <source>only highest priority client icon</source>
@@ -8952,11 +8956,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="unfinished">הגדרות אווטאר</translation>
+        <translation>הגדרות אווטאר</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>גודל</translation>
     </message>
     <message>
         <source>pt</source>
@@ -8964,7 +8968,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="unfinished">רדיוס של פינות</translation>
+        <translation>רדיוס של פינות</translation>
     </message>
 </context>
 <context>
@@ -8979,11 +8983,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="unfinished">נטרל פס גלילה</translation>
+        <translation>נטרל פס גלילה</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="unfinished">צלמיות</translation>
+        <translation>צלמיות</translation>
     </message>
     <message>
         <source>Show icon if contact status like online, away and others.</source>
@@ -8991,15 +8995,15 @@ Tags: %1</source>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">מצב</translation>
+        <translation>מצב</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="unfinished">הצג צלמית של לקוח משתמש</translation>
+        <translation>הצג צלמית של לקוח משתמש</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="unfinished">לקוחות</translation>
+        <translation>לקוחות</translation>
     </message>
     <message>
         <source>Show who is the boss and who is nothing</source>
@@ -9007,23 +9011,23 @@ Tags: %1</source>
     </message>
     <message>
         <source>Affiliations</source>
-        <translation type="unfinished"></translation>
+        <translation>סינופים</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="unfinished">הצגת אווטארים ברשימה</translation>
+        <translation>הצגת אווטארים ברשימה</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="unfinished">אווטארים</translation>
+        <translation>אווטארים</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="unfinished">הגדרות אווטאר</translation>
+        <translation>הגדרות אווטאר</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>גודל</translation>
     </message>
     <message>
         <source>pt</source>
@@ -9031,7 +9035,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="unfinished">רדיוס של פינות</translation>
+        <translation>רדיוס של פינות</translation>
     </message>
     <message>
         <source>Align avatars to the left edge of the roster. Otherwise to the right.</source>
@@ -10582,19 +10586,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabRosterMain</name>
     <message>
         <source>Roster</source>
-        <translation type="unfinished">רשימה</translation>
+        <translation>רשימה</translation>
     </message>
     <message>
         <source>Roster window options</source>
-        <translation type="unfinished">אפשרויות חלון רשימה</translation>
+        <translation>אפשרויות חלון רשימה</translation>
     </message>
     <message>
         <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation type="unfinished">במידה ואפשרות זו מסומנת, החלון הראשי של Psi יימצא תמיד לפני חלונות אחרים.</translation>
+        <translation>במידה ואפשרות זו מסומנת, החלון הראשי של Psi יימצא תמיד לפני חלונות אחרים.</translation>
     </message>
     <message>
         <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation type="unfinished">במידה ואפשרות זו מסומנת, החלון הראשי של Psi ישנה את גודלו אוטומטית כדי להתאים לכל אישי הקשר.</translation>
+        <translation>במידה ואפשרות זו מסומנת, החלון הראשי של Psi ישנה את גודלו אוטומטית כדי להתאים לכל אישי הקשר.</translation>
     </message>
     <message>
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
@@ -10609,7 +10613,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabRosterMuc</name>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished">שיחת קבוצה</translation>
+        <translation>שיחת קבוצה</translation>
     </message>
     <message>
         <source>Groupchat roster options</source>
@@ -16682,7 +16686,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>%1 (Inactive)</source>
-        <translation type="unfinished">%1 (חוסר פעילות)</translation>
+        <translation>%1 (חוסר פעילות)</translation>
     </message>
 </context>
 <context>

@@ -5935,7 +5935,7 @@ Per inviare comandi, basta usare normali messaggi, uindi questo plugin funzioner
         <translation>&amp;Aggiorna</translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
+        <source>&amp;First</source>
         <translation>&amp;Iniziale</translation>
     </message>
     <message>
@@ -5947,7 +5947,7 @@ Per inviare comandi, basta usare normali messaggi, uindi questo plugin funzioner
         <translation>&amp;Successivo</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
+        <source>&amp;Last</source>
         <translation>&amp;Ultimo</translation>
     </message>
     <message>
@@ -6360,6 +6360,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
         <translation>Errore caricamento %1; codice HTTP %2, messaggio: %3</translation>
+    </message>
+    <message>
+        <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8999,130 +9003,130 @@ Argomento MUC per esempio.</translation>
     <name>OptRosterMain</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="unfinished">OptApplicationUI</translation>
+        <translation>OptApplicationUI</translation>
     </message>
     <message>
         <source>Roster window always on top</source>
-        <translation type="unfinished">Lista contatti sempre sopra</translation>
+        <translation>Lista contatti sempre sopra</translation>
     </message>
     <message>
         <source>Auto-resize contact list</source>
-        <translation type="unfinished">Ridimensiona automaticamente la lista dei contatti</translation>
+        <translation>Ridimensiona automaticamente la lista dei contatti</translation>
     </message>
     <message>
         <source>Use left-click for menu</source>
-        <translation type="unfinished">Usa il pulsante sinistro per il menu</translation>
+        <translation>Usa il pulsante sinistro per il menu</translation>
     </message>
     <message>
         <source>Show menubar</source>
-        <translation type="unfinished">Mostra la barra dei menu</translation>
+        <translation>Mostra la barra dei menu</translation>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
-        <translation type="unfinished">Disattiva barra di scorrimento nella finestra dell&apos;applicazione.</translation>
+        <translation>Disattiva barra di scorrimento nella finestra dell&apos;applicazione.</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="unfinished">Disabilita barra di scorrimento</translation>
+        <translation>Disabilita barra di scorrimento</translation>
     </message>
     <message>
         <source>Enables avatar frame at the top of roster</source>
-        <translation type="unfinished">Abilita framte avatar sopra la lista contatti</translation>
+        <translation>Abilita framte avatar sopra la lista contatti</translation>
     </message>
     <message>
         <source>Enable roster avatar frame</source>
-        <translation type="unfinished">Abilita frame avatar della lista contatti</translation>
+        <translation>Abilita frame avatar della lista contatti</translation>
     </message>
     <message>
         <source>Autohide roster after</source>
-        <translation type="unfinished">Nascondi lista contatti dopo</translation>
+        <translation>Nascondi lista contatti dopo</translation>
     </message>
     <message>
         <source>seconds (0 - never)</source>
-        <translation type="unfinished">secondi (0 - mai)</translation>
+        <translation>secondi (0 - mai)</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="unfinished">Icone</translation>
+        <translation>Icone</translation>
     </message>
     <message>
         <source>Show geolocation in roster</source>
-        <translation type="unfinished">Mostra geolocalizzazione nella lista contatti</translation>
+        <translation>Mostra geolocalizzazione nella lista contatti</translation>
     </message>
     <message>
         <source>GeoLocation</source>
-        <translation type="unfinished">Geolocalizzazione</translation>
+        <translation>Geolocalizzazione</translation>
     </message>
     <message>
         <source>Show moods in roster</source>
-        <translation type="unfinished">Mostra umori nella lista contatti</translation>
+        <translation>Mostra umori nella lista contatti</translation>
     </message>
     <message>
         <source>Moods</source>
-        <translation type="unfinished">Umori</translation>
+        <translation>Umori</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="unfinished">Mostra avatar nella lista contatti</translation>
+        <translation>Mostra avatar nella lista contatti</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="unfinished">Avatar</translation>
+        <translation>Avatar</translation>
     </message>
     <message>
         <source>Show activities in roster</source>
-        <translation type="unfinished">Mostra attività nella lista contatti</translation>
+        <translation>Mostra attività nella lista contatti</translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="unfinished">Attività</translation>
+        <translation>Attività</translation>
     </message>
     <message>
         <source>Show icon when contact is listening to music</source>
-        <translation type="unfinished">Mostra un icona quando un contatto sta ascoltando musica</translation>
+        <translation>Mostra un icona quando un contatto sta ascoltando musica</translation>
     </message>
     <message>
         <source>Now playing</source>
-        <translation type="unfinished">Sta ascoltando</translation>
+        <translation>Sta ascoltando</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="unfinished">Mostra l&apos;icona del client dell&apos;utente</translation>
+        <translation>Mostra l&apos;icona del client dell&apos;utente</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="unfinished"></translation>
+        <translation>Clients</translation>
     </message>
     <message>
         <source>all client icons</source>
-        <translation type="unfinished">Tutte le icone dei client</translation>
+        <translation>Tutte le icone dei client</translation>
     </message>
     <message>
         <source>only highest priority client icon</source>
-        <translation type="unfinished">solo icone del client con la priorità più alta</translation>
+        <translation>solo icone del client con la priorità più alta</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="unfinished">Impostazioni avatar</translation>
+        <translation>Impostazioni avatar</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Dimensione</translation>
+        <translation>Dimensione</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished">pt</translation>
+        <translation>pt</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="unfinished">Raggio degli angoli</translation>
+        <translation>Raggio degli angoli</translation>
     </message>
 </context>
 <context>
     <name>OptRosterMuc</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="unfinished">OptApplicationUI</translation>
+        <translation>OptApplicationUI</translation>
     </message>
     <message>
         <source>Hides scrollbar in the roster widget.</source>
@@ -9130,11 +9134,11 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="unfinished">Disabilita barra di scorrimento</translation>
+        <translation>Disabilita barra di scorrimento</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="unfinished">Icone</translation>
+        <translation>Icone</translation>
     </message>
     <message>
         <source>Show icon if contact status like online, away and others.</source>
@@ -9142,15 +9146,15 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Stato</translation>
+        <translation>Stato</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="unfinished">Mostra l&apos;icona del client dell&apos;utente</translation>
+        <translation>Mostra l&apos;icona del client dell&apos;utente</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="unfinished"></translation>
+        <translation>Clients</translation>
     </message>
     <message>
         <source>Show who is the boss and who is nothing</source>
@@ -9158,31 +9162,31 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Affiliations</source>
-        <translation type="unfinished">Affiliazioni</translation>
+        <translation>Affiliazioni</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="unfinished">Mostra avatar nella lista contatti</translation>
+        <translation>Mostra avatar nella lista contatti</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="unfinished">Avatar</translation>
+        <translation>Avatar</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="unfinished">Impostazioni avatar</translation>
+        <translation>Impostazioni avatar</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Dimensione</translation>
+        <translation>Dimensione</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished">pt</translation>
+        <translation>pt</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="unfinished">Raggio degli angoli</translation>
+        <translation>Raggio degli angoli</translation>
     </message>
     <message>
         <source>Align avatars to the left edge of the roster. Otherwise to the right.</source>
@@ -10761,34 +10765,34 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     <name>OptionsTabRosterMain</name>
     <message>
         <source>Roster</source>
-        <translation type="unfinished">Lista Contatti</translation>
+        <translation>Lista Contatti</translation>
     </message>
     <message>
         <source>Roster window options</source>
-        <translation type="unfinished">Opzioni lista contatti</translation>
+        <translation>Opzioni lista contatti</translation>
     </message>
     <message>
         <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation type="unfinished">Fa in modo che la finestra principale di Psi sia sempre in primo piano.</translation>
+        <translation>Fa in modo che la finestra principale di Psi sia sempre in primo piano.</translation>
     </message>
     <message>
         <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation type="unfinished">Fa in modo che la finestra principale di ridimensioni automaticamente per adattarsi ai contatti.</translation>
+        <translation>Fa in modo che la finestra principale di ridimensioni automaticamente per adattarsi ai contatti.</translation>
     </message>
     <message>
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation type="unfinished">Normalmente, il click destro del mouse su un contatto attiverà il menu contestuale. Seleziona questa opzione se preferisci usare il tasto sinistro.</translation>
+        <translation>Normalmente, il click destro del mouse su un contatto attiverà il menu contestuale. Seleziona questa opzione se preferisci usare il tasto sinistro.</translation>
     </message>
     <message>
         <source>Shows the menubar in the application window.</source>
-        <translation type="unfinished">Mostra la barra dei menu nella finestra dell&apos;applicazione</translation>
+        <translation>Mostra la barra dei menu nella finestra dell&apos;applicazione</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabRosterMuc</name>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished">Conferenza</translation>
+        <translation>Conferenza</translation>
     </message>
     <message>
         <source>Groupchat roster options</source>
@@ -16922,7 +16926,7 @@ Il plugin è progettato per tenere le note sul server Jabber con l&apos;abilità
     </message>
     <message>
         <source>%1 (Inactive)</source>
-        <translation type="unfinished">%1 (Inattivo)</translation>
+        <translation>%1 (Inattivo)</translation>
     </message>
 </context>
 <context>

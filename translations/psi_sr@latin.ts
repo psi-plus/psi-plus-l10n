@@ -4835,79 +4835,79 @@ Reason: %1</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Nalepi i pošalji</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Pošalji &amp;Poruku</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Otvori &amp;Prozor za razgovor</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished"></translation>
+        <translation>Glasovni poziv</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation type="unfinished">&amp;Izvrši komandu</translation>
+        <translation>&amp;Izvrši komandu</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation type="unfinished">&amp;Kick</translation>
+        <translation>&amp;Kick</translation>
     </message>
     <message>
         <source>No reason</source>
-        <translation type="unfinished">Bez razloga</translation>
+        <translation>Bez razloga</translation>
     </message>
     <message>
         <source>Custom reason</source>
-        <translation type="unfinished">Custom reason</translation>
+        <translation>Custom reason</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation type="unfinished">&amp;Zabrani</translation>
+        <translation>&amp;Zabrani</translation>
     </message>
     <message>
         <source>Change Role</source>
-        <translation type="unfinished">Promeni ulogu</translation>
+        <translation>Promeni ulogu</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="unfinished">Posetilac</translation>
+        <translation>Posetilac</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="unfinished">Učesnik</translation>
+        <translation>Učesnik</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="unfinished">Moderator</translation>
+        <translation>Moderator</translation>
     </message>
     <message>
         <source>Change Affiliation</source>
-        <translation type="unfinished">Promeni pripadnost</translation>
+        <translation>Promeni pripadnost</translation>
     </message>
     <message>
         <source>Unaffiliated</source>
-        <translation type="unfinished">Nepripadanje</translation>
+        <translation>Nepripadanje</translation>
     </message>
     <message>
         <source>Member</source>
-        <translation type="unfinished">Član</translation>
+        <translation>Član</translation>
     </message>
     <message>
         <source>Administrator</source>
-        <translation type="unfinished">Administrator</translation>
+        <translation>Administrator</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="unfinished">Vlasnik</translation>
+        <translation>Vlasnik</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Korisnik &amp;Info</translation>
     </message>
     <message>
         <source>You have been removed from the room due to technical problem</source>
@@ -4941,15 +4941,15 @@ Reason: %1</translation>
     <name>GCUserModel</name>
     <message>
         <source>Moderators</source>
-        <translation type="unfinished">Moderatori</translation>
+        <translation>Moderatori</translation>
     </message>
     <message>
         <source>Participants</source>
-        <translation type="unfinished">Učesnici</translation>
+        <translation>Učesnici</translation>
     </message>
     <message>
         <source>Visitors</source>
-        <translation type="unfinished">Posetioci</translation>
+        <translation>Posetioci</translation>
     </message>
 </context>
 <context>
@@ -5754,7 +5754,7 @@ Za slanje komandi, koriste se normalne poruke pa će ovaj dodatak uvek raditi gd
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished">Jezik</translation>
+        <translation>Jezik</translation>
     </message>
     <message>
         <source>Script</source>
@@ -5895,7 +5895,7 @@ Za slanje komandi, koriste se normalne poruke pa će ovaj dodatak uvek raditi gd
         <translation>&amp;Osveži</translation>
     </message>
     <message>
-        <source>&amp;Earliest</source>
+        <source>&amp;First</source>
         <translation>&amp;Najranije</translation>
     </message>
     <message>
@@ -5907,7 +5907,7 @@ Za slanje komandi, koriste se normalne poruke pa će ovaj dodatak uvek raditi gd
         <translation>S&amp;ledeće</translation>
     </message>
     <message>
-        <source>&amp;Lastest</source>
+        <source>&amp;Last</source>
         <translation>&amp;Najkasnije</translation>
     </message>
     <message>
@@ -6318,6 +6318,10 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8257,7 +8261,7 @@ Kartice: %1</translation>
     </message>
     <message>
         <source>Link</source>
-        <translation type="unfinished">Link</translation>
+        <translation>Link</translation>
     </message>
     <message>
         <source>Visited Link</source>
@@ -8613,10 +8617,6 @@ Kartice: %1</translation>
 <context>
     <name>OptInput</name>
     <message>
-        <source>Form</source>
-        <translation type="vanished">Forma</translation>
-    </message>
-    <message>
         <source>Auto-resize text input field</source>
         <translation>Automatska veličina polja za unos teksta</translation>
     </message>
@@ -8638,7 +8638,7 @@ Kartice: %1</translation>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="unfinished">Automatski prvo slovo u rečenici</translation>
+        <translation>Automatski prvo slovo u rečenici</translation>
     </message>
 </context>
 <context>
@@ -8694,10 +8694,6 @@ Kartice: %1</translation>
     <message>
         <source>Show character counter</source>
         <translation>Prikaži brojač znakova</translation>
-    </message>
-    <message>
-        <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="vanished">Automatski prvo slovo u rečenici</translation>
     </message>
 </context>
 <context>
@@ -8945,43 +8941,43 @@ Kartice: %1</translation>
     <name>OptRosterMain</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="unfinished">OptApplicationUI</translation>
+        <translation>OptApplicationUI</translation>
     </message>
     <message>
         <source>Roster window always on top</source>
-        <translation type="unfinished">Spisak uvek na vrhu</translation>
+        <translation>Spisak uvek na vrhu</translation>
     </message>
     <message>
         <source>Auto-resize contact list</source>
-        <translation type="unfinished">Automatska veličina liste kontakata</translation>
+        <translation>Automatska veličina liste kontakata</translation>
     </message>
     <message>
         <source>Use left-click for menu</source>
-        <translation type="unfinished">Levi klik za meni</translation>
+        <translation>Levi klik za meni</translation>
     </message>
     <message>
         <source>Show menubar</source>
-        <translation type="unfinished">Pokaži menibar</translation>
+        <translation>Pokaži menibar</translation>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
-        <translation type="unfinished">Onemogući skrolbar u prozoru aplikacije</translation>
+        <translation>Onemogući skrolbar u prozoru aplikacije</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="unfinished">Onemogući skrolbar</translation>
+        <translation>Onemogući skrolbar</translation>
     </message>
     <message>
         <source>Enables avatar frame at the top of roster</source>
-        <translation type="unfinished">Omoguće avatar na vrhu spiska</translation>
+        <translation>Omoguće avatar na vrhu spiska</translation>
     </message>
     <message>
         <source>Enable roster avatar frame</source>
-        <translation type="unfinished">Omogući avatar spiska</translation>
+        <translation>Omogući avatar spiska</translation>
     </message>
     <message>
         <source>Autohide roster after</source>
-        <translation type="unfinished">Auto sakrivanje spiska posle</translation>
+        <translation>Auto sakrivanje spiska posle</translation>
     </message>
     <message>
         <source>seconds (0 - never)</source>
@@ -8989,71 +8985,71 @@ Kartice: %1</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="unfinished">Ikone</translation>
+        <translation>Ikone</translation>
     </message>
     <message>
         <source>Show geolocation in roster</source>
-        <translation type="unfinished">Pokaži geolokaciju na spisku</translation>
+        <translation>Pokaži geolokaciju na spisku</translation>
     </message>
     <message>
         <source>GeoLocation</source>
-        <translation type="unfinished">Geolokacija</translation>
+        <translation>Geolokacija</translation>
     </message>
     <message>
         <source>Show moods in roster</source>
-        <translation type="unfinished">POkaži modove u spisku</translation>
+        <translation>POkaži modove u spisku</translation>
     </message>
     <message>
         <source>Moods</source>
-        <translation type="unfinished"></translation>
+        <translation>Modovi</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="unfinished">Pokaži avatare na spisku</translation>
+        <translation>Pokaži avatare na spisku</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="unfinished">Avatari</translation>
+        <translation>Avatari</translation>
     </message>
     <message>
         <source>Show activities in roster</source>
-        <translation type="unfinished">Pokaži aktivnosti u spisku</translation>
+        <translation>Pokaži aktivnosti u spisku</translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="unfinished">Aktivnosti</translation>
+        <translation>Aktivnosti</translation>
     </message>
     <message>
         <source>Show icon when contact is listening to music</source>
-        <translation type="unfinished">Pokaži ikonu kada kontakt sluša muziku</translation>
+        <translation>Pokaži ikonu kada kontakt sluša muziku</translation>
     </message>
     <message>
         <source>Now playing</source>
-        <translation type="unfinished">Sada emituje</translation>
+        <translation>Sada emituje</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="unfinished">Pokaži ikonu klijenta</translation>
+        <translation>Pokaži ikonu klijenta</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="unfinished">Klijenti</translation>
+        <translation>Klijenti</translation>
     </message>
     <message>
         <source>all client icons</source>
-        <translation type="unfinished">sve ikone klijenta</translation>
+        <translation>sve ikone klijenta</translation>
     </message>
     <message>
         <source>only highest priority client icon</source>
-        <translation type="unfinished">samo ikona klijenta sa visokim prioritetom</translation>
+        <translation>samo ikona klijenta sa visokim prioritetom</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="unfinished">Podešavanje avatara</translation>
+        <translation>Podešavanje avatara</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Veličina</translation>
+        <translation>Veličina</translation>
     </message>
     <message>
         <source>pt</source>
@@ -9061,14 +9057,14 @@ Kartice: %1</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="unfinished">Prečnik ugla</translation>
+        <translation>Prečnik ugla</translation>
     </message>
 </context>
 <context>
     <name>OptRosterMuc</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="unfinished">OptApplicationUI</translation>
+        <translation>OptApplicationUI</translation>
     </message>
     <message>
         <source>Hides scrollbar in the roster widget.</source>
@@ -9076,11 +9072,11 @@ Kartice: %1</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="unfinished">Onemogući skrolbar</translation>
+        <translation>Onemogući skrolbar</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="unfinished">Ikone</translation>
+        <translation>Ikone</translation>
     </message>
     <message>
         <source>Show icon if contact status like online, away and others.</source>
@@ -9088,15 +9084,15 @@ Kartice: %1</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Statrus</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="unfinished">Pokaži ikonu klijenta</translation>
+        <translation>Pokaži ikonu klijenta</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="unfinished">Klijenti</translation>
+        <translation>Klijenti</translation>
     </message>
     <message>
         <source>Show who is the boss and who is nothing</source>
@@ -9104,23 +9100,23 @@ Kartice: %1</translation>
     </message>
     <message>
         <source>Affiliations</source>
-        <translation type="unfinished">Pripadnosti</translation>
+        <translation>Pripadnosti</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="unfinished">Pokaži avatare na spisku</translation>
+        <translation>Pokaži avatare na spisku</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="unfinished">Avatari</translation>
+        <translation>Avatari</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="unfinished">Podešavanje avatara</translation>
+        <translation>Podešavanje avatara</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Veličina</translation>
+        <translation>Veličina</translation>
     </message>
     <message>
         <source>pt</source>
@@ -9128,7 +9124,7 @@ Kartice: %1</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="unfinished">Prečnik ugla</translation>
+        <translation>Prečnik ugla</translation>
     </message>
     <message>
         <source>Align avatars to the left edge of the roster. Otherwise to the right.</source>
@@ -10685,34 +10681,34 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabRosterMain</name>
     <message>
         <source>Roster</source>
-        <translation type="unfinished">Spisak</translation>
+        <translation>Spisak</translation>
     </message>
     <message>
         <source>Roster window options</source>
-        <translation type="unfinished">Opcije prozora sa spiskom</translation>
+        <translation>Opcije prozora sa spiskom</translation>
     </message>
     <message>
         <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation type="unfinished">Čini da glavni prozor uvek bude ispred ostalih.</translation>
+        <translation>Čini da glavni prozor uvek bude ispred ostalih.</translation>
     </message>
     <message>
         <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation type="unfinished">Omogućuje automatsko podešavanje veličina glavnog prozora kontaktima.</translation>
+        <translation>Omogućuje automatsko podešavanje veličina glavnog prozora kontaktima.</translation>
     </message>
     <message>
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation type="unfinished">Obično se desnim klikom miša na kontakt otvara dodatni meni.  Izaberite ovu opciju ako radije koristite levi klik.</translation>
+        <translation>Obično se desnim klikom miša na kontakt otvara dodatni meni.  Izaberite ovu opciju ako radije koristite levi klik.</translation>
     </message>
     <message>
         <source>Shows the menubar in the application window.</source>
-        <translation type="unfinished">Pokaži meni bar u prozoru aplikacija</translation>
+        <translation>Pokaži meni bar u prozoru aplikacija</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabRosterMuc</name>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished">Grupni razgovor</translation>
+        <translation>Grupni razgovor</translation>
     </message>
     <message>
         <source>Groupchat roster options</source>
@@ -13003,7 +12999,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Šabloni</translation>
     </message>
 </context>
 <context>
@@ -13056,7 +13052,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Nalepi i pošalji</translation>
     </message>
 </context>
 <context>
@@ -15847,94 +15843,94 @@ Razlog: %1</translation>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Template editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Editor šablona</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Šabloni</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Dodaj</translation>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Izmeni</translation>
+        <translation>Izmeni</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukloni</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished">Ok</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Otkaži</translation>
     </message>
     <message>
         <source>Add template string</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj liniju šablona</translation>
     </message>
     <message>
         <source>Add template string as submenu</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj liniju šablona kao podmeni</translation>
     </message>
     <message>
         <source>Add separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj separator</translation>
     </message>
     <message>
         <source>Add separator as submenu</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj separator kao podmeni</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished">Gore</translation>
+        <translation>Gore</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished">Dole</translation>
+        <translation>Dole</translation>
     </message>
     <message>
         <source>&lt;separator&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;separator&gt;</translation>
     </message>
     <message>
         <source>Edit template</source>
-        <translation type="unfinished"></translation>
+        <translation>Izmeni šablon</translation>
     </message>
     <message>
         <source>Input new template text</source>
-        <translation type="unfinished"></translation>
+        <translation>Unesi novi tekst šablona</translation>
     </message>
     <message>
         <source>Save templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Sačuvaj šablone</translation>
     </message>
     <message>
         <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation type="unfinished"></translation>
+        <translation>Šablon &quot;%1&quot; nije začuvan!</translation>
     </message>
     <message>
         <source>Continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavi?</translation>
     </message>
 </context>
 <context>
     <name>SendButtonTemplatesMenu</name>
     <message>
         <source>Paste and &amp;Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Nalepi i &amp;pošalji</translation>
     </message>
     <message>
         <source>&amp;Edit Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Izmeni šablone</translation>
     </message>
     <message>
         <source>Only &amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Samo &amp;Nalepi</translation>
     </message>
 </context>
 <context>
@@ -16795,7 +16791,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>%1 (Inactive)</source>
-        <translation type="unfinished">%1 (neaktivan)</translation>
+        <translation>%1 (neaktivan)</translation>
     </message>
 </context>
 <context>
