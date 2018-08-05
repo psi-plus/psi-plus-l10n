@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@yandex.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2017-07-24
+# Updated: 2017-08-06
 # Version: N/A
 
 export CUR_DIR="$(dirname $(realpath -s ${0}))"
@@ -255,12 +255,34 @@ case "${1}" in
     fi
     echo ;
 ;;
+"desktop_up")
+    # Update main .desktop file
+    GENERICNAME_FULL_DATA=$(grep -r "GenericName\[" "${CUR_DIR}/desktop-file/" | grep -v '/psi.desktop:' | grep -v '/psi_en.desktop:')
+    GENERICNAME_FILTERED_DATA=$(echo "${GENERICNAME_FULL_DATA}" | sed -ne 's|^.*/psi_.*.desktop:\(.*\)$|\1|p')
+    GENERICNAME_SORTED_DATA=$(echo "${GENERICNAME_FILTERED_DATA}" | sort -uV)
+
+    COMMENT_FULL_DATA=$(grep -r "Comment\[" "${CUR_DIR}/desktop-file/" | grep -v '/psi.desktop:' | grep -v '/psi_en.desktop:')
+    COMMENT_FILTERED_DATA=$(echo "${COMMENT_FULL_DATA}" | sed -ne 's|^.*/psi_.*.desktop:\(.*\)$|\1|p')
+    COMMENT_SORTED_DATA=$(echo "${COMMENT_FILTERED_DATA}" | sort -uV)
+
+    DESKTOP_FILE="${CUR_DIR}/desktop-file/psi.desktop"
+    grep -v "GenericName\[" "${DESKTOP_FILE}" > "${DESKTOP_FILE}.tmp"
+    mv -f "${DESKTOP_FILE}.tmp" "${DESKTOP_FILE}"
+    grep -v "Comment\[" "${DESKTOP_FILE}" > "${DESKTOP_FILE}.tmp"
+    mv -f "${DESKTOP_FILE}.tmp" "${DESKTOP_FILE}"
+    echo "${GENERICNAME_SORTED_DATA}" >> "${DESKTOP_FILE}"
+    echo "${COMMENT_SORTED_DATA}" >> "${DESKTOP_FILE}"
+
+    # Update .desktop file for English localization
+    cp -f "${CUR_DIR}/desktop-file/psi.desktop" \
+          "${CUR_DIR}/desktop-file/psi_en.desktop"
+;;
 *)
     # Help.
 
     echo "Usage:"
     echo "  up cm tag push make install tarball"
-    echo "  tr tr_up tr_fu tr_cl tr_co tr_sync"
+    echo "  tr tr_up tr_fu tr_cl tr_co tr_sync desktop_up"
     echo "  tr_push <arg> (arg: src, all or language code)"
     echo ;
     echo "Examples:"

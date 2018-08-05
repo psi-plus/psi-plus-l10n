@@ -1,3 +1,7 @@
+2017-08-06:
+* Update script:
+  add new command line option "desktop_up" (update main desktop file)
+
 2017-06-28:
 * Myscelus is now in Bulgarian translation team.
 * Morgan' GAILLARD is now in French translation team.
@@ -19,7 +23,7 @@
 
 2015-09-01:
 * Update script:
-  - add new command line option tr_fu (fast update)
+  - add new command line option "tr_fu" (fast update)
   - add the most important comments
 
 2015-07-02:
