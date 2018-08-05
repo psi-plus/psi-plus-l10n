@@ -6363,7 +6363,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Что-то пошло не так, попробуйте снова или отключите OMEMO шифрование</translation>
     </message>
 </context>
 <context>
@@ -7795,7 +7795,7 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>psimedia is unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>Плагин psimedia недоступен</translation>
     </message>
     <message>
         <source>Psi media library is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
