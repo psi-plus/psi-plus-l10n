@@ -411,7 +411,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Automatically reconnect if disconnected</source>
-        <translation>Калі адлучыліся, злучацца зноўку</translation>
+        <translation>Калі адлучыліся,&#xa0;злучацца зноўку</translation>
     </message>
     <message>
         <source>Log message history</source>
@@ -1009,7 +1009,7 @@ save the history for this contact.</source>
     <name>ActiveProfiles</name>
     <message>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation>Профіль ужо працуе…&lt;br&gt;Пачакайце, калі ласка…</translation>
+        <translation>Профіль ужо працуе…&lt;br&gt;Пачакайце,&#xa0;калі ласка…</translation>
     </message>
 </context>
 <context>
@@ -5285,7 +5285,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Removes the selected word from the highlight list</source>
-        <translation>Прыбірае абранае слова, каб яно не падкрэсьлівалася</translation>
+        <translation>Прыбірае абранае слова,&#xa0;каб яно не падкрэсьлівалася</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -10133,7 +10133,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;P&gt;Specifies how to treat incoming events:&lt;/P&gt;&lt;P&gt;&lt;B&gt;Normal&lt;/B&gt; - messages come as messages, chats come as chats.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Messages&lt;/B&gt; - All messages/chats come as messages, no matter what their original form was.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Chats&lt;/B&gt; - All messages/chats come as chats, no matter what their original form was.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Вызначае, як ставіцца да ўваходных падзей:&lt;/P&gt;&lt;P&gt;&lt;b&gt;Звычайнае&lt;/b&gt; — паведамленьні будуць паведамленьнямі, гутарка будзе гутаркаю.&lt;/P&gt;&lt;P&gt;&lt;b&gt;Паведамленьні&lt;/b&gt; — гутаркі стануць паведамленьнямі, а паведамленьні так і застануцца.&lt;/P&gt;&lt;P&gt;&lt;b&gt;Гутарка&lt;/b&gt; — паведамленьні стануць гутаркамі, а гутаркі так і застануцца.&lt;/P&gt;</translation>
+        <translation>&lt;P&gt;Вызначае, як ставіцца да ўваходных падзей:&lt;/P&gt;&lt;P&gt;&lt;b&gt;Звычайнае&lt;/b&gt; — паведамленьні будуць паведамленьнямі, гутарка будзе гутаркаю.&lt;/P&gt;&lt;P&gt;&lt;b&gt;Паведамленьні&lt;/b&gt; — гутаркі стануць паведамленьнямі, а паведамленьні так і застануцца.&lt;/P&gt;&lt;P&gt;&lt;b&gt;Гутарка&lt;/b&gt; — паведамленьні стануць гутаркамі,&#xa0;а гутаркі так і застануцца.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>Makes Psi show separate subject line in messages. Uncheck this if you want to save some screen space.</source>
@@ -10365,7 +10365,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;P&gt;When checked, pressing Enter in a chat window will send your message.  You must use Shift+Enter in order to create a newline in the chat message.  If unchecked, messages are sent by pressing Alt-S or Control-Enter, just as they are with regular messages.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Калі абраць гэта, дасылаць паведамленьне можна будзе, націснуўшы «&lt;i&gt;Enter&lt;/i&gt;» у вакне гутаркі.  Каб перайсьці на новы радок, трэба будзе націснуць спалучэньне «&lt;i&gt;Shift+Enter&lt;/i&gt;».  Інакш паведамленьні ў гутарцы будуць дасылацца па «&lt;i&gt;Alt+S&lt;/i&gt;» ці «&lt;i&gt;Ctrl+Enter&lt;/i&gt;», то-бок так сама, як і звычайныя паведамленьні.&lt;/P&gt;</translation>
+        <translation>&lt;P&gt;Калі абраць гэта,&#xa0;дасылаць паведамленьне можна будзе,&#xa0;націснуўшы «&lt;i&gt;Enter&lt;/i&gt;» у вакне гутаркі.  Каб перайсьці на новы радок, трэба будзе націснуць спалучэньне «&lt;i&gt;Shift+Enter&lt;/i&gt;».  Інакш паведамленьні ў гутарцы будуць дасылацца па «&lt;i&gt;Alt+S&lt;/i&gt;» ці «&lt;i&gt;Ctrl+Enter&lt;/i&gt;», то-бок так сама, як і звычайныя паведамленьні.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>Normally, Psi will not alert you when a new chat message is received in a chat window that is already open.  Check this option if you want to receive these alerts anyway.</source>
@@ -10436,7 +10436,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Normally, Psi will not autopopup events from users not in your roster.  Set this option if you want them to popup anyway.</source>
-        <translation>Звычайна падзеі, што тычацца карыстальнікаў па-за сьпісам, не паказваюцца адразу.  Абярыце гэта, каб падзеі ўсё-ткі паказваліся адразу.</translation>
+        <translation>Звычайна падзеі, што тычацца карыстальнікаў па-за сьпісам,&#xa0;не паказваюцца адразу.  Абярыце гэта, каб падзеі ўсё-ткі паказваліся адразу.</translation>
     </message>
     <message>
         <source>Makes new incoming events bring the main window to the foreground.</source>
@@ -10793,7 +10793,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Play sounds for all events in groupchat, not only for mentioning of your nick.</source>
-        <translation>Гучэць па ўсіх падзеях у нарадзе, а ня толькі тады, калі згадалі вашую мянушку.</translation>
+        <translation>Гучэць па ўсіх падзеях у нарадзе,&#xa0;а ня толькі тады, калі згадалі вашую мянушку.</translation>
     </message>
     <message>
         <source>Windows Sound</source>
@@ -12430,7 +12430,7 @@ Details: %1</source>
     </message>
     <message>
         <source>You must be connected to the server in order to do this.</source>
-        <translation>Каб зрабіць гэта, трэба злучыцца з паслужніком.</translation>
+        <translation>Каб зрабіць гэта,&#xa0;трэба злучыцца з паслужніком.</translation>
     </message>
     <message>
         <source>Unregister from %1</source>
@@ -18801,7 +18801,7 @@ change to the private keys list.</source>
     </message>
     <message>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages he sees are authentic and unmodified.</source>
-        <translation>Паведамленьні, якія вы дасылаеце, не падпісваюцца і ня спраўджваюцца кімсьці іншым. Кожны можа падрабіць гісторыю размовы і замяніць вашыя паведамленьні іншымі так, быццам іх дасылалі вы. Але калі вы гутарыце, суразмоўца будзе ўпэўненым, што паведамленьні, якія ён атрымвае, ідуць ад вас, і што яны не зьмяняліся.</translation>
+        <translation>Паведамленьні,&#xa0;якія вы дасылаеце, не падпісваюцца і ня спраўджваюцца кімсьці іншым. Кожны можа падрабіць гісторыю размовы і замяніць вашыя паведамленьні іншымі так, быццам іх дасылалі вы. Але калі вы гутарыце,&#xa0;суразмоўца будзе ўпэўненым, што паведамленьні, якія ён атрымвае, ідуць ад вас,&#xa0;і што яны не зьмяняліся.</translation>
     </message>
     <message>
         <source>Perfect forward secrecy</source>
@@ -18845,7 +18845,7 @@ change to the private keys list.</source>
     </message>
     <message>
         <source>%1 has ended the private conversation with you; you should do the same.</source>
-        <translation>%1 скончыў таемна размаўляць з вамі; вы мусіце зрабіць тое самае.</translation>
+        <translation>%1 скончыў таемна размаўляць з вамі;&#xa0;вы мусіце зрабіць тое самае.</translation>
     </message>
     <message>
         <source>Private conversation refreshed</source>

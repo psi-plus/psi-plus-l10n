@@ -13079,7 +13079,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Open XMPP URI. (e.g. xmpp:someone@example.org?chat) For security reasons, this must be the last option.</source>
-        <translation>Отваряне на XMPP URI. (пр. xmpp:someone@example.org?chat)  От гледна точка на сигурността, това трябва да бъде последната опция.</translation>
+        <translation>Отваряне на XMPP URI. (пр. xmpp:someone@example.org?chat)&#xa0; От гледна точка на сигурността, това трябва да бъде последната опция.</translation>
     </message>
     <message>
         <source>STATUS</source>
@@ -13139,7 +13139,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Go to &lt;http://psi-im.org/&gt; for more information about Psi.</source>
-        <translation type="vanished">Посетете &lt;http://psi-im.org/&gt;  за повече информация относно Psi.</translation>
+        <translation type="vanished">Посетете &lt;http://psi-im.org/&gt;&#xa0; за повече информация относно Psi.</translation>
     </message>
     <message>
         <source>Compiled with Qt %1</source>
