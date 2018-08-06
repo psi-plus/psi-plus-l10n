@@ -1358,7 +1358,7 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Disable if contact isn&apos;t from your roster</source>
-        <translation>如联络不是来自名册内则禁用</translation>
+        <translation>如果联系人不是来自你的名册内则禁用</translation>
     </message>
     <message>
         <source>Online</source>
@@ -1779,7 +1779,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
-        <translation>这个插件的目的是从PSI+直接通过验证码</translation>
+        <translation>这个插件的目的是从PsI+直接传递验证码</translation>
     </message>
 </context>
 <context>
@@ -2379,8 +2379,8 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
 You can preview items before deleting them from your hard drive.</source>
-        <translation>这个插件的目的是头像缓存，保存本地副本号码和历史日志。
-你可以在从您的硬盘驱动器删除它们之前预览项目</translation>
+        <translation>这个插件旨在清除头像缓存，保存的电子名片和历史记录的本地记录
+您可以在从硬盘中删除之前的预览。</translation>
     </message>
 </context>
 <context>
@@ -2487,8 +2487,8 @@ You can preview items before deleting them from your hard drive.</source>
         <source>The plugin is intended for substitution of the client version, his name and operating system type.
 You can specify the version of the client and OS or to select them from the preset list.
 </source>
-        <translation>该插件是用于替代的客户端版本的名字和操作系统类型。
-你可以从预置表指定版本的客户和操作系统或选择他们。</translation>
+        <translation>该插件是用于替换客户端版本的名字和操作系统类型。
+你可以从预设表选择指定版本的客户端和操作系统。</translation>
     </message>
     <message>
         <source>%1 has requested your version</source>
