@@ -89,7 +89,7 @@
     sharing precompiled localization files because github.com closed this
     feature
   - changed name format for tarball with precompiled localization files
-    (see http://psi-plus.com/wiki/en:packagement_rules)
+    (see https://psi-plus.com/wiki/en:packagement_rules)
 
 2012-11-16:
 * Script was updated: small fix in tr_sync option.
