@@ -146,7 +146,7 @@
     </message>
     <message>
         <source>Language coordinator; Debian Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>Дапасоўвае мовы; Пакетуе для Debian</translation>
     </message>
     <message>
         <source>Language coordinator, miscellaneous assistance</source>
@@ -225,15 +225,15 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>Original Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Арыгінальны аўтар</translation>
     </message>
     <message>
         <source>Lead Developer and Current Maintainer</source>
-        <translation type="unfinished"></translation>
+        <translation>Галоўны распрацоўнік і дзеючы ўкладальнік</translation>
     </message>
     <message>
         <source>https://psi-im.org</source>
-        <translation type="unfinished"></translation>
+        <translation>https://psi-im.org</translation>
     </message>
 </context>
 <context>
@@ -616,7 +616,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Delete current host from the list</source>
-        <translation type="unfinished"></translation>
+        <translation>Выдаліць дзейны вузел са сьпісу</translation>
     </message>
     <message>
         <source>&lt;don&apos;t use&gt;</source>
@@ -1054,55 +1054,55 @@ save the history for this contact.</source>
     <name>AddKeyDlg</name>
     <message>
         <source>Generate a new key pair</source>
-        <translation type="unfinished"></translation>
+        <translation>Згенераваць новую пару ключоў</translation>
     </message>
     <message>
         <source>Length: </source>
-        <translation type="unfinished"></translation>
+        <translation>Даўжыня:</translation>
     </message>
     <message>
         <source>Comment: </source>
-        <translation type="unfinished"></translation>
+        <translation>Тлумачэньне:</translation>
     </message>
     <message>
         <source>Expiration date: </source>
-        <translation type="unfinished"></translation>
+        <translation>Дата прыдатнасьці:</translation>
     </message>
     <message>
         <source>RSA and RSA (default)</source>
-        <translation type="unfinished"></translation>
+        <translation>RSA і RSA (агаданы)</translation>
     </message>
     <message>
         <source>DSA and Elgamal</source>
-        <translation type="unfinished"></translation>
+        <translation>DSA і Elgamal</translation>
     </message>
     <message>
         <source>DSA (sign only)</source>
-        <translation type="unfinished"></translation>
+        <translation>DSA (толькі подпіс)</translation>
     </message>
     <message>
         <source>RSA (sign only)</source>
-        <translation type="unfinished"></translation>
+        <translation>RSA (толькі подпіс)</translation>
     </message>
     <message>
         <source>Full name: </source>
-        <translation type="unfinished"></translation>
+        <translation>Поўнае імя:</translation>
     </message>
     <message>
         <source>Passphrase: </source>
-        <translation type="unfinished"></translation>
+        <translation>Таемны выраз</translation>
     </message>
     <message>
         <source>E-mail address: </source>
-        <translation type="unfinished"></translation>
+        <translation>Электронная пошта:</translation>
     </message>
     <message>
         <source>Key type: </source>
-        <translation type="unfinished"></translation>
+        <translation>Тып ключа:</translation>
     </message>
     <message>
         <source>Repeat: </source>
-        <translation type="unfinished"></translation>
+        <translation>Паўтор:</translation>
     </message>
 </context>
 <context>
@@ -1545,15 +1545,16 @@ The list of exceptions for jids has two operating modes:
     <message>
         <source>This plugin allows you to play battleship with your friends.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Гэтая ўбудава дазваляе згуляць зь сябрамі у марскі бой.
+Для адпраўкі загадаў выкарыстоўваюцца звычайныя паведамленьні, таму гэтыя убудова будзе працаваць паўсюдна, дзе вы зможаце ўвайсці ў сістэму. Прапанаваць суразмоўцу пагуляць можна праз пункт выплыўнога мэню суразмоўцы ці націснуўшы кнопку ў вакне гутаркі.</translation>
     </message>
     <message>
         <source>Battleship game</source>
-        <translation type="unfinished"></translation>
+        <translation>Марскі бой</translation>
     </message>
     <message>
         <source>Battleship game!</source>
-        <translation type="unfinished"></translation>
+        <translation>Марскі бой!</translation>
     </message>
 </context>
 <context>
@@ -1596,7 +1597,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Auto-join:</source>
-        <translation type="unfinished"></translation>
+        <translation>Аўтадалучэнне:</translation>
     </message>
 </context>
 <context>
@@ -1721,11 +1722,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Call is ended</source>
-        <translation type="unfinished"></translation>
+        <translation>Размова скончаная</translation>
     </message>
     <message>
         <source>Call duration: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Працягласьць размовы: %1</translation>
     </message>
 </context>
 <context>
@@ -2004,7 +2005,7 @@ Do you still want to close the window?</source>
     <name>ChatEdit</name>
     <message>
         <source>Paste as Quotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Уставіць цытатаю</translation>
     </message>
     <message>
         <source>Add to dictionary</source>
@@ -2039,7 +2040,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>The message was corrected</source>
-        <translation type="unfinished"></translation>
+        <translation>Паведамленьне скарэктаванае </translation>
     </message>
 </context>
 <context>
@@ -2545,7 +2546,7 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
     <message>
         <source>Groupchat History</source>
-        <translation type="unfinished"></translation>
+        <translation>Гісторыя надалы</translation>
     </message>
     <message>
         <source>This plugin is designed to save groupchat logs in which the Psi+ user sits.
@@ -2984,7 +2985,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Choose parent group: </source>
-        <translation type="unfinished"></translation>
+        <translation>Абраць бацькоўскую групу:</translation>
     </message>
 </context>
 <context>
@@ -3162,7 +3163,7 @@ Proceed?</source>
     <message>
         <source>more items</source>
         <comment>Getting more disco items in order page by page</comment>
-        <translation type="unfinished"></translation>
+        <translation>больш элементаў</translation>
     </message>
 </context>
 <context>
@@ -3204,7 +3205,7 @@ Proceed?</source>
     <name>DisplayProxy</name>
     <message>
         <source>deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>выдалены</translation>
     </message>
 </context>
 <context>
@@ -3368,11 +3369,11 @@ Proceed?</source>
     </message>
     <message>
         <source>Missed messages: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Прапушчаныя паведамленьні: %1</translation>
     </message>
     <message>
         <source>Enum Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Лічыльнік паведамленьняў</translation>
     </message>
     <message>
         <source>The plugin is designed to enumerate messages, adding the messages numbers in chat logs and notification of missed messages. 
@@ -3576,7 +3577,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>For all</source>
-        <translation type="unfinished"></translation>
+        <translation>Для ўсіх</translation>
     </message>
 </context>
 <context>
@@ -3811,11 +3812,11 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Enable autojoin for bookmarked groupchats</source>
-        <translation type="unfinished"></translation>
+        <translation>Уключаць самарушнае далучэньне да закладзеных нарадаў </translation>
     </message>
     <message>
         <source>Hide groupchat on auto-join</source>
-        <translation type="unfinished"></translation>
+        <translation>Схаваць нараду пры самарушным далучэньні</translation>
     </message>
     <message>
         <source>Enable HTML rendering in groupchat chat window</source>
@@ -5616,11 +5617,11 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     </message>
     <message>
         <source>Send GnuPG Public Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Адправіць публічны GnuPG-ключ</translation>
     </message>
     <message>
         <source>Public key %1 sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Публічны ключ «%1» адпраўлены</translation>
     </message>
 </context>
 <context>
@@ -5684,11 +5685,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>GpgProcess</name>
     <message>
         <source>Can&apos;t start </source>
-        <translation type="unfinished"></translation>
+        <translation>Нельга пачаць</translation>
     </message>
     <message>
         <source>GnuPG program not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Праграма GnuPG нязнойдзеная</translation>
     </message>
 </context>
 <context>
@@ -5706,7 +5707,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Press shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Націсніце выклічнік</translation>
     </message>
     <message>
         <source>Set Keys</source>
@@ -5767,7 +5768,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>GroupChatTopicAddLangDlg</name>
     <message>
         <source>Add Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Дадаць мову</translation>
     </message>
     <message>
         <source>Language</source>
@@ -5775,11 +5776,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Script</source>
-        <translation type="unfinished"></translation>
+        <translation>Пісьмо</translation>
     </message>
     <message>
         <source>Country</source>
-        <translation type="unfinished"></translation>
+        <translation>Краіна</translation>
     </message>
 </context>
 <context>
@@ -5828,15 +5829,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Any Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Любая мова</translation>
     </message>
     <message>
         <source>Any Country</source>
-        <translation type="unfinished"></translation>
+        <translation>Любая краіна</translation>
     </message>
     <message>
         <source>Any Script</source>
-        <translation type="unfinished"></translation>
+        <translation>Любое пісьмо</translation>
     </message>
 </context>
 <context>
@@ -5890,11 +5891,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>All contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Усе суразмоўцы</translation>
     </message>
     <message>
         <source>deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>выдаленая</translation>
     </message>
 </context>
 <context>
@@ -5993,27 +5994,27 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>All contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Усе суразмоўцы</translation>
     </message>
     <message>
         <source>Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>Шукаць:</translation>
     </message>
     <message>
         <source>All accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Усе рахункі</translation>
     </message>
     <message>
         <source>deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>выдаленая</translation>
     </message>
     <message>
         <source>%1 of %2 matches</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 з %2 адпаведнікаў</translation>
     </message>
     <message>
         <source>No matches were found</source>
-        <translation type="unfinished"></translation>
+        <translation>Не знойдзена ніводнага адпаведніка</translation>
     </message>
 </context>
 <context>
@@ -6049,11 +6050,12 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Found %1 files for import.
 Continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Знойдзена %1 файлаў для імпарту.
+Працягваць?</translation>
     </message>
     <message>
         <source>Counting records</source>
-        <translation type="unfinished"></translation>
+        <translation>Падлік запісаў</translation>
     </message>
 </context>
 <context>
@@ -6259,23 +6261,23 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Image preview width</source>
-        <translation type="unfinished"></translation>
+        <translation>Шырыня малюнка папярэдняга прагляду</translation>
     </message>
     <message>
         <source>Resize images</source>
-        <translation type="unfinished"></translation>
+        <translation>Змяняць памер малюнка</translation>
     </message>
     <message>
         <source>If width or height is bigger than</source>
-        <translation type="unfinished"></translation>
+        <translation>Калі шырыня ці вышыня большыя чым</translation>
     </message>
     <message>
         <source>JPEG quality</source>
-        <translation type="unfinished"></translation>
+        <translation>Якасць JPEG</translation>
     </message>
     <message>
         <source>Please wait</source>
-        <translation type="unfinished"></translation>
+        <translation>Чакайце, калі ласка</translation>
     </message>
     <message>
         <source>Another upload operation is already in progress. Please wait up to %1 sec for it to complete or fail.</source>
@@ -6283,7 +6285,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Не падтрымліваецца</translation>
     </message>
     <message>
         <source>Server for account %1 does not support HTTP Upload (XEP-363)</source>
@@ -6697,7 +6699,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Maximum image size</source>
-        <translation type="unfinished"></translation>
+        <translation>Максімальны памер выявы</translation>
     </message>
     <message>
         <source>Image preview size in pixels</source>
@@ -7521,7 +7523,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Room</source>
-        <translation type="unfinished"></translation>
+        <translation>Пакой</translation>
     </message>
     <message>
         <source>Password</source>
@@ -7529,11 +7531,11 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Host</source>
-        <translation type="unfinished"></translation>
+        <translation>Вузел</translation>
     </message>
     <message>
         <source>&amp;Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Упадабаныя</translation>
     </message>
 </context>
 <context>
@@ -7867,11 +7869,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Created</source>
-        <translation type="unfinished"></translation>
+        <translation>Створаны</translation>
     </message>
     <message>
         <source>Length</source>
-        <translation type="unfinished"></translation>
+        <translation>Даўжыня</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -7879,7 +7881,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>Алгарытм</translation>
     </message>
     <message>
         <source>Short ID</source>
@@ -8027,11 +8029,11 @@ Tags: %1</source>
     <name>OAuth2SASLContext</name>
     <message>
         <source>Copy authorization code from opened web page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Скапіяваць код апазнаньня з адкрытай ўэб-старонкі.</translation>
     </message>
     <message>
         <source>Enter authorization code</source>
-        <translation type="unfinished"></translation>
+        <translation>Увясці код апазнаньня</translation>
     </message>
 </context>
 <context>
@@ -8402,7 +8404,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Use system keyring manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Выкарыстоўваць сістэмны кіраўнік пароляў</translation>
     </message>
     <message>
         <source>99999</source>
@@ -8527,6 +8529,10 @@ Tags: %1</source>
         <translation type="vanished">Ніколі</translation>
     </message>
     <message>
+        <source>Show previews for links</source>
+        <translation type="vanished">Паказаць прэв&apos;ю для спасылак</translation>
+    </message>
+    <message>
         <source>&amp;Message</source>
         <translation>&amp;Паведамленьне</translation>
     </message>
@@ -8548,7 +8554,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>&amp;Never</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ніколі</translation>
     </message>
 </context>
 <context>
@@ -8634,15 +8640,15 @@ Tags: %1</source>
     </message>
     <message>
         <source>Enable Spell Checking</source>
-        <translation type="unfinished"></translation>
+        <translation>Уключыць праверку арфаграфіі</translation>
     </message>
     <message>
         <source>Available spellcheck dictionaries</source>
-        <translation type="unfinished"></translation>
+        <translation>Даступныя слоўнікі праверкі арфаграфіі</translation>
     </message>
     <message>
         <source>No dictionaries found</source>
-        <translation type="unfinished"></translation>
+        <translation>Няма слоўнікаў</translation>
     </message>
     <message>
         <source>OptInputUI</source>
@@ -8697,7 +8703,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show previews for links</source>
-        <translation type="unfinished"></translation>
+        <translation>Паказаць прэв&apos;ю для спасылак</translation>
     </message>
     <message>
         <source>Use contacts&apos; message formatting</source>
@@ -8716,15 +8722,15 @@ Tags: %1</source>
     </message>
     <message>
         <source>Plugin Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Назва ўбудовы</translation>
     </message>
     <message>
         <source>Available plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Даступныя ўбудовы</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Вэрсія</translation>
     </message>
     <message>
         <source>A</source>
@@ -9505,7 +9511,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Redirect to JID:</source>
-        <translation type="unfinished"></translation>
+        <translation>Перанакіраваць у JID:</translation>
     </message>
     <message>
         <source>Allow receiving one Attention from the same contact every</source>
@@ -9713,7 +9719,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Кіраўнік</translation>
     </message>
     <message>
         <source>Add</source>
@@ -9733,7 +9739,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Звесткі</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -9955,19 +9961,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>from file</source>
-        <translation type="unfinished"></translation>
+        <translation>з файла</translation>
     </message>
     <message>
         <source>from clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>з кішэні</translation>
     </message>
     <message>
         <source>to file</source>
-        <translation type="unfinished"></translation>
+        <translation>у файл</translation>
     </message>
     <message>
         <source>to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>у кішэню</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9979,7 +9985,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Key pair generating</source>
-        <translation type="unfinished"></translation>
+        <translation>Генераваньне пары ключоў</translation>
     </message>
     <message>
         <source>Do you want to delete the selected keys?</source>
@@ -9995,7 +10001,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation type="unfinished"></translation>
+        <translation>Звесткі GnuPG</translation>
     </message>
     <message>
         <source>Authorizing...</source>
@@ -11533,7 +11539,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Battleship game</source>
-        <translation type="unfinished"></translation>
+        <translation>Марскі бой</translation>
     </message>
     <message>
         <source>Freeze ships position</source>
@@ -13775,7 +13781,7 @@ Would you like to activate that session now?</source>
     <name>PsiThemeModel</name>
     <message>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Вэрсія</translation>
     </message>
     <message>
         <source>Authors</source>
@@ -15329,7 +15335,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Any Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Любая мова</translation>
     </message>
 </context>
 <context>
