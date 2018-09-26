@@ -859,7 +859,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>是(&amp;Y)</translation>
+        <translation>确定(&amp;Y)</translation>
     </message>
     <message>
         <source>&amp;No</source>
@@ -955,7 +955,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>是(&amp;Y)</translation>
+        <translation>确定(&amp;Y)</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1991,7 +1991,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>是(&amp;Y)</translation>
+        <translation>确定(&amp;Y)</translation>
     </message>
     <message>
         <source>&amp;No</source>
@@ -3236,7 +3236,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Yes</source>
-        <translation>是</translation>
+        <translation>确定</translation>
     </message>
     <message>
         <source>No</source>
@@ -3585,7 +3585,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>For all</source>
-        <translation type="unfinished"></translation>
+        <translation>所有</translation>
     </message>
 </context>
 <context>
@@ -4224,7 +4224,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>是(&amp;Y)</translation>
+        <translation>确定(&amp;Y)</translation>
     </message>
     <message>
         <source>&amp;No</source>
@@ -5136,7 +5136,7 @@ You will lose it</source>
     </message>
     <message>
         <source>Yes, end</source>
-        <translation>是, 结束</translation>
+        <translation>是，结束</translation>
     </message>
     <message>
         <source>No, continue</source>
@@ -5184,7 +5184,7 @@ You will lose it</source>
     </message>
     <message>
         <source>Yes, save</source>
-        <translation>是, 储存</translation>
+        <translation>是，保存</translation>
     </message>
     <message>
         <source>No, don&apos;t save</source>
@@ -7464,7 +7464,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Yes</source>
-        <translation>是</translation>
+        <translation>确定</translation>
     </message>
     <message>
         <source>No</source>
@@ -9176,7 +9176,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Left aligned</source>
-        <translation type="unfinished"></translation>
+        <translation>左对齐</translation>
     </message>
 </context>
 <context>
@@ -10683,7 +10683,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Show information about plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>显示插件数据</translation>
     </message>
     <message>
         <source>Open plugin settings dialog</source>
@@ -11020,7 +11020,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>For all accounts</source>
-        <translation>所有帐户</translation>
+        <translation>到全部账户</translation>
     </message>
     <message>
         <source>Response mode</source>
@@ -11220,7 +11220,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Save queries to log</source>
-        <translation type="unfinished"></translation>
+        <translation>将查询保存到日志中</translation>
     </message>
 </context>
 <context>
@@ -11925,7 +11925,7 @@ Only use letters or numbers.  No punctuation or spaces.</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>是(&amp;Y)</translation>
+        <translation>确定(&amp;Y)</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -12517,11 +12517,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Nested Groups Delimiter</source>
-        <translation type="unfinished"></translation>
+        <translation>嵌套组分隔符</translation>
     </message>
     <message>
         <source>Set a new delimiter of nested groups</source>
-        <translation type="unfinished"></translation>
+        <translation>给嵌套组设置新分隔符</translation>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
@@ -12541,7 +12541,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Authentication aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>验证已停止</translation>
     </message>
     <message>
         <source>Account disabled</source>
@@ -13173,7 +13173,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Show version information and exit.</source>
-        <translation>显示版本数据然后退出。</translation>
+        <translation>显示版本数据并退出。</translation>
     </message>
     <message>
         <source>Usage:</source>
@@ -13463,7 +13463,7 @@ Psi-0.15可以迁移</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>是(&amp;Y)</translation>
+        <translation>确定(&amp;Y)</translation>
     </message>
     <message>
         <source>&amp;No</source>
@@ -13811,7 +13811,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Released on</source>
-        <translation type="unfinished"></translation>
+        <translation>发布在</translation>
     </message>
     <message>
         <source>Home</source>
@@ -14977,7 +14977,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Yes</source>
-        <translation>是</translation>
+        <translation>确定</translation>
     </message>
     <message>
         <source>No</source>
@@ -15400,7 +15400,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>是(&amp;Y)</translation>
+        <translation>确定(&amp;Y)</translation>
     </message>
     <message>
         <source>&amp;No</source>
@@ -17895,7 +17895,7 @@ The contents of the whiteboard will be lost.</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>是(&amp;Y)</translation>
+        <translation>确定(&amp;Y)</translation>
     </message>
     <message>
         <source>&amp;No</source>
@@ -18334,7 +18334,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Yes</source>
-        <translation>是</translation>
+        <translation>确定</translation>
     </message>
     <message>
         <source>No</source>
@@ -18579,7 +18579,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Authentication failed.</source>
-        <translation>认证已失败。</translation>
+        <translation>验证失败。</translation>
     </message>
 </context>
 <context>
