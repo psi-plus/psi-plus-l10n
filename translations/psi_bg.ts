@@ -6948,6 +6948,30 @@ Reason: %1</source>
         <translation>Не може да се получи информация отностно тази конференция.
 Причина: %1</translation>
     </message>
+    <message>
+        <source>Abuse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Administrators</source>
+        <translation type="unfinished">Администратори</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sales</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Security</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Support</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InvateDialog</name>
@@ -16806,18 +16830,6 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
         <translation>Относно %1</translation>
     </message>
     <message>
-        <source>%1 v1.0
-
-Utility to demonstrate the Iris XMPP library.
-
-Currently supports:
-  draft-ietf-xmpp-core-21
-  JEP-0025
-
-Copyright (C) 2003 Justin Karneges</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Грешка</translation>
     </message>
@@ -16873,6 +16885,18 @@ Please correct and try again.</source>
     <message>
         <source>Enter the password for %1</source>
         <translation>Въведете парола за %1</translation>
+    </message>
+    <message>
+        <source>%1 v1.0
+
+Utility to demonstrate the Iris XMPP library.
+
+Currently supports:
+  draft-ietf-xmpp-core-21
+  XEP-0025
+
+Copyright (C) 2003 Justin Karneges</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

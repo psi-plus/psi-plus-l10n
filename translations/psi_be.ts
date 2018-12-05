@@ -6961,6 +6961,30 @@ Are you sure you want to discard them?</source>
 Reason: %1</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Abuse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Administrators</source>
+        <translation type="unfinished">Спраўнікі</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sales</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Security</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Support</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InvateDialog</name>
@@ -16888,7 +16912,7 @@ Currently supports:
   JEP-0025
 
 Copyright (C) 2003 Justin Karneges</source>
-        <translation>«%1» вэрсіі 1.0
+        <translation type="vanished">«%1» вэрсіі 1.0
 
 Прылада, якая паказвае дзеяньне бібліятэкі Iris XMPP.
 
@@ -16955,6 +16979,18 @@ Please correct and try again.</source>
     <message>
         <source>Enter the password for %1</source>
         <translation>Упішыце пароль на %1</translation>
+    </message>
+    <message>
+        <source>%1 v1.0
+
+Utility to demonstrate the Iris XMPP library.
+
+Currently supports:
+  draft-ietf-xmpp-core-21
+  XEP-0025
+
+Copyright (C) 2003 Justin Karneges</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

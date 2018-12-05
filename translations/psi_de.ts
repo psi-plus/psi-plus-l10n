@@ -6979,6 +6979,30 @@ Reason: %1</source>
         <translation>Zu diesem Konferenzraum können keine Informationen abgerufen werden.
 Grund: %1</translation>
     </message>
+    <message>
+        <source>Abuse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Administrators</source>
+        <translation type="unfinished">Administratoren</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sales</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Security</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Support</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InvateDialog</name>
@@ -16949,7 +16973,7 @@ Currently supports:
   JEP-0025
 
 Copyright (C) 2003 Justin Karneges</source>
-        <translation>%1 v1.0
+        <translation type="vanished">%1 v1.0
 
 Dienstprogramm zum Demostrieren der Iris-XMPP-Bibliothek.
 
@@ -17016,6 +17040,18 @@ Korrigieren Sie und versuchen Sie es erneut.</translation>
     <message>
         <source>Enter the password for %1</source>
         <translation>Geben Sie das Kennwort für &quot;%1&quot; ein.</translation>
+    </message>
+    <message>
+        <source>%1 v1.0
+
+Utility to demonstrate the Iris XMPP library.
+
+Currently supports:
+  draft-ietf-xmpp-core-21
+  XEP-0025
+
+Copyright (C) 2003 Justin Karneges</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
