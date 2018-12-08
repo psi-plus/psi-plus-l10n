@@ -6722,8 +6722,13 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <source>This plugin shows the preview image for an image URL.
 </source>
-        <translation>该插件给图片地址显示预览图片。
+        <translation type="vanished">该插件给图片地址显示预览图片。
 </translation>
+    </message>
+    <message>
+        <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6979,7 +6984,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Administrators</source>
-        <translation type="unfinished">管理者</translation>
+        <translation>管理者</translation>
     </message>
     <message>
         <source>Feedback</source>

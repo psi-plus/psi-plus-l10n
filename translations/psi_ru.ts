@@ -6739,7 +6739,12 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <source>This plugin shows the preview image for an image URL.
 </source>
-        <translation>Этот плагин показывает превью изображений по URL ссылкам.</translation>
+        <translation type="vanished">Этот плагин показывает превью изображений по URL ссылкам.</translation>
+    </message>
+    <message>
+        <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6996,7 +7001,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Administrators</source>
-        <translation type="unfinished">Администраторы</translation>
+        <translation>Администраторы</translation>
     </message>
     <message>
         <source>Feedback</source>

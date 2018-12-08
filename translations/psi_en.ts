@@ -6737,7 +6737,13 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <source>This plugin shows the preview image for an image URL.
 </source>
-        <translation>This plugin shows the preview image for an image URL.
+        <translation type="vanished">This plugin shows the preview image for an image URL.
+</translation>
+    </message>
+    <message>
+        <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
+</source>
+        <translation>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
 </translation>
     </message>
 </context>
@@ -6991,27 +6997,27 @@ Reason: %1</translation>
     </message>
     <message>
         <source>Abuse</source>
-        <translation type="unfinished"></translation>
+        <translation>Abuse</translation>
     </message>
     <message>
         <source>Administrators</source>
-        <translation type="unfinished">Administrators</translation>
+        <translation>Administrators</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Feedback</translation>
     </message>
     <message>
         <source>Sales</source>
-        <translation type="unfinished"></translation>
+        <translation>Sales</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation type="unfinished"></translation>
+        <translation>Security</translation>
     </message>
     <message>
         <source>Support</source>
-        <translation type="unfinished"></translation>
+        <translation>Support</translation>
     </message>
 </context>
 <context>
@@ -17061,7 +17067,15 @@ Currently supports:
   XEP-0025
 
 Copyright (C) 2003 Justin Karneges</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 v1.0
+
+Utility to demonstrate the Iris XMPP library.
+
+Currently supports:
+  draft-ietf-xmpp-core-21
+  XEP-0025
+
+Copyright (C) 2003 Justin Karneges</translation>
     </message>
 </context>
 <context>

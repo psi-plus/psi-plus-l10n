@@ -6705,8 +6705,13 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <source>This plugin shows the preview image for an image URL.
 </source>
-        <translation>Tento plugin zobrazuje náhled obrázku u odkazů na obrázek.
+        <translation type="vanished">Tento plugin zobrazuje náhled obrázku u odkazů na obrázek.
 </translation>
+    </message>
+    <message>
+        <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6963,7 +6968,7 @@ Příčina: %1</translation>
     </message>
     <message>
         <source>Administrators</source>
-        <translation type="unfinished">Administrátoři</translation>
+        <translation>Administrátoři</translation>
     </message>
     <message>
         <source>Feedback</source>

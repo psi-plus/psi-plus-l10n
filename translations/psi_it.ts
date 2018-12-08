@@ -6739,8 +6739,13 @@ Nota: Per funzionare correttamente, l&apos;opzione options.ui.chat.central-toolb
     <message>
         <source>This plugin shows the preview image for an image URL.
 </source>
-        <translation>Questo plugin mostra l&apos;immagine di anteprima per un URL immagine.
+        <translation type="vanished">Questo plugin mostra l&apos;immagine di anteprima per un URL immagine.
 </translation>
+    </message>
+    <message>
+        <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6997,7 +7002,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Administrators</source>
-        <translation type="unfinished">Amministratori</translation>
+        <translation>Amministratori</translation>
     </message>
     <message>
         <source>Feedback</source>

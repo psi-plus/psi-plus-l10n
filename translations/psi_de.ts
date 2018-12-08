@@ -6727,8 +6727,13 @@ Anmerkung: Um korrekt zu funktionieren, muss die Option options.ui.chat.central-
     <message>
         <source>This plugin shows the preview image for an image URL.
 </source>
-        <translation>Dieses Plugin zeigt ein Vorschaubild für eine Bild-URL.
+        <translation type="vanished">Dieses Plugin zeigt ein Vorschaubild für eine Bild-URL.
 </translation>
+    </message>
+    <message>
+        <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6985,7 +6990,7 @@ Grund: %1</translation>
     </message>
     <message>
         <source>Administrators</source>
-        <translation type="unfinished">Administratoren</translation>
+        <translation>Administratoren</translation>
     </message>
     <message>
         <source>Feedback</source>

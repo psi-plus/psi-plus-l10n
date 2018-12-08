@@ -6602,7 +6602,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This plugin shows the preview image for an image URL.
+        <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
 </source>
         <translation type="unfinished"></translation>
     </message>
@@ -6859,7 +6859,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Administrators</source>
-        <translation type="unfinished">Skrbniki</translation>
+        <translation>Skrbniki</translation>
     </message>
     <message>
         <source>Feedback</source>
