@@ -2012,6 +2012,17 @@ Ainda deseja fechar a janela?</translation>
     </message>
 </context>
 <context>
+    <name>ChatWebView</name>
+    <message>
+        <source>Quote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ctrl+S</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Chess::InvitationDialog</name>
     <message>
         <source>white</source>
@@ -4246,6 +4257,13 @@ permitidas ligações TCP de saída.</translation>
     </message>
 </context>
 <context>
+    <name>FileShareDlg</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>FileTrans</name>
     <message>
         <source>Form1</source>
@@ -6421,10 +6439,6 @@ The plugin has a number of simple settings that can help you:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Image %1 sent &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Authors: </source>
         <translation type="unfinished"></translation>
     </message>
@@ -6432,6 +6446,14 @@ The plugin has a number of simple settings that can help you:
         <source>This plugin is designed to send images to roster contacts.
 Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An image from the clipboard is sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image %1 is sent</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17307,17 +17329,6 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>%1 has invited you to a whiteboarding session. Would you like to join?</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>WebView</name>
-    <message>
-        <source>Quote</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ctrl+S</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

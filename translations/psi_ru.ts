@@ -2068,6 +2068,17 @@ Do you still want to close the window?</source>
     </message>
 </context>
 <context>
+    <name>ChatWebView</name>
+    <message>
+        <source>Quote</source>
+        <translation type="unfinished">Цитировать</translation>
+    </message>
+    <message>
+        <source>Ctrl+S</source>
+        <translation type="unfinished">Ctrl+S</translation>
+    </message>
+</context>
+<context>
     <name>Chess::InvitationDialog</name>
     <message>
         <source>white</source>
@@ -4325,6 +4336,13 @@ that outgoing TCP connections are allowed.</source>
     <message>
         <source>Unable to accept the file.  Perhaps the sender has cancelled the request.</source>
         <translation>Невозможно принять файл.  Возможно, отправитель отменил отправку.</translation>
+    </message>
+</context>
+<context>
+    <name>FileShareDlg</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished">Диалог</translation>
     </message>
 </context>
 <context>
@@ -6683,7 +6701,7 @@ The plugin has a number of simple settings that can help you:
     </message>
     <message>
         <source>Image %1 sent &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </source>
-        <translation>Изображение %1 отправлено &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </translation>
+        <translation type="vanished">Изображение %1 отправлено &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </translation>
     </message>
     <message>
         <source>Authors: </source>
@@ -6696,6 +6714,14 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation>Данный плагин предназначен для отправки собеседнику графического изображения.
 Клиент собеседника должен поддерживать XEP-0071: XHTML-IM и поддерживать схему data:URI.
 Примечание: для корректной работы требуется, чтобы опция &quot;options.ui.chat.central-toolbar&quot; была установлена в &quot;true&quot;.</translation>
+    </message>
+    <message>
+        <source>An image from the clipboard is sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image %1 is sent</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18113,11 +18139,11 @@ Do you still want to close the window?</source>
     <name>WebView</name>
     <message>
         <source>Quote</source>
-        <translation>Цитировать</translation>
+        <translation type="vanished">Цитировать</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
+        <translation type="vanished">Ctrl+S</translation>
     </message>
 </context>
 <context>

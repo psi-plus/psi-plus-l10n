@@ -2058,6 +2058,17 @@ Biztosan be akarod zárni az ablakot?</translation>
     </message>
 </context>
 <context>
+    <name>ChatWebView</name>
+    <message>
+        <source>Quote</source>
+        <translation type="unfinished">Idézet</translation>
+    </message>
+    <message>
+        <source>Ctrl+S</source>
+        <translation type="unfinished">Ctrl+S</translation>
+    </message>
+</context>
+<context>
     <name>Chess::InvitationDialog</name>
     <message>
         <source>white</source>
@@ -4312,6 +4323,13 @@ engedélyezve vannak-e.</translation>
     <message>
         <source>Unable to accept the file.  Perhaps the sender has cancelled the request.</source>
         <translation>Nem sikerült a fájlt fogadni. Lehet, hogy a küldő megszakította.</translation>
+    </message>
+</context>
+<context>
+    <name>FileShareDlg</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished">Párbeszéd</translation>
     </message>
 </context>
 <context>
@@ -6669,7 +6687,7 @@ A kiegészítőnek számos egyszerű beállítása segít ebben:
     </message>
     <message>
         <source>Image %1 sent &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </source>
-        <translation>%1 kép elküldve &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </translation>
+        <translation type="vanished">%1 kép elküldve &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </translation>
     </message>
     <message>
         <source>Authors: </source>
@@ -6682,6 +6700,14 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation>Ez a kiegészítő képküldésre lett tervezve a címlistán szereplőknek.
 A partnered kliensének támogatnia kell &apos;XEP-0071: XHTML-IM&apos;-et és a &apos;data:URI&apos; sémát.
 Megjegyzés: A helyes működéshez az &apos;options.ui.chat.central-toolbar&apos;-nak IGAZ-nak kell lennie.</translation>
+    </message>
+    <message>
+        <source>An image from the clipboard is sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image %1 is sent</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18000,11 +18026,11 @@ Ablak bezárása mégis?</translation>
     <name>WebView</name>
     <message>
         <source>Quote</source>
-        <translation>Idézet</translation>
+        <translation type="vanished">Idézet</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
+        <translation type="vanished">Ctrl+S</translation>
     </message>
 </context>
 <context>

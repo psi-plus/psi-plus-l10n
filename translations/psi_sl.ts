@@ -2017,6 +2017,17 @@ Ali še vedno želite zapreti to okno?</translation>
     </message>
 </context>
 <context>
+    <name>ChatWebView</name>
+    <message>
+        <source>Quote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ctrl+S</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Chess::InvitationDialog</name>
     <message>
         <source>white</source>
@@ -4249,6 +4260,13 @@ To lahko pomeni, da posredniška storitev trenutno ne deluje ali pa je ni moč d
     <message>
         <source>Unable to accept the file.  Perhaps the sender has cancelled the request.</source>
         <translation>Ni moč sprejeti datoteke. Mogoče je pošiljatelj preklical zahtevek.</translation>
+    </message>
+</context>
+<context>
+    <name>FileShareDlg</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished">Pogovorno okno</translation>
     </message>
 </context>
 <context>
@@ -6498,10 +6516,6 @@ The plugin has a number of simple settings that can help you:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Image %1 sent &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Authors: </source>
         <translation type="unfinished"></translation>
     </message>
@@ -6509,6 +6523,14 @@ The plugin has a number of simple settings that can help you:
         <source>This plugin is designed to send images to roster contacts.
 Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An image from the clipboard is sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image %1 is sent</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17574,17 +17596,6 @@ Ali še vedno želite zapreti okno?</translation>
     <message>
         <source>%1 has invited you to a whiteboarding session. Would you like to join?</source>
         <translation>%1 vas je povabil na risanje na tablo. Ali se mu želite pridružiti?</translation>
-    </message>
-</context>
-<context>
-    <name>WebView</name>
-    <message>
-        <source>Quote</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

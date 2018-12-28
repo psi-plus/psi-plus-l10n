@@ -2046,6 +2046,17 @@ Czy nadal chcesz zamknąć to okno?</translation>
     </message>
 </context>
 <context>
+    <name>ChatWebView</name>
+    <message>
+        <source>Quote</source>
+        <translation type="unfinished">Cytat</translation>
+    </message>
+    <message>
+        <source>Ctrl+S</source>
+        <translation type="unfinished">Ctrl+S</translation>
+    </message>
+</context>
+<context>
     <name>Chess::InvitationDialog</name>
     <message>
         <source>white</source>
@@ -4295,6 +4306,13 @@ osiągalny. Jeśli jesteś za firewallem, to upewnij się
     <message>
         <source>Unable to accept the file.  Perhaps the sender has cancelled the request.</source>
         <translation>Nie można przyjąć pliku. Być może nadawca anulował żądanie.</translation>
+    </message>
+</context>
+<context>
+    <name>FileShareDlg</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished">Dialog</translation>
     </message>
 </context>
 <context>
@@ -6589,10 +6607,6 @@ Wtyczka posiada kilka prostych ustawień, które mogą pomóc:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Image %1 sent &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Authors: </source>
         <translation>Autorzy:</translation>
     </message>
@@ -6603,6 +6617,14 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation>Ten dodatek służy do wysyłania obrazów na listę kontaktów.
 Twój klient musi wspierać XEP-0071: XHTML-IM oraz schemat danych URI.
 Nota: Do poprawnej pracy opcja: options.ui.chat.central-toolbar musi mieć wartość prawda</translation>
+    </message>
+    <message>
+        <source>An image from the clipboard is sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image %1 is sent</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17781,11 +17803,11 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     <name>WebView</name>
     <message>
         <source>Quote</source>
-        <translation>Cytat</translation>
+        <translation type="vanished">Cytat</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
+        <translation type="vanished">Ctrl+S</translation>
     </message>
 </context>
 <context>

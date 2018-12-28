@@ -2064,6 +2064,17 @@ Do you still want to close the window?</source>
     </message>
 </context>
 <context>
+    <name>ChatWebView</name>
+    <message>
+        <source>Quote</source>
+        <translation type="unfinished">引用</translation>
+    </message>
+    <message>
+        <source>Ctrl+S</source>
+        <translation type="unfinished">Ctrl+S</translation>
+    </message>
+</context>
+<context>
     <name>Chess::InvitationDialog</name>
     <message>
         <source>white</source>
@@ -4311,6 +4322,13 @@ that outgoing TCP connections are allowed.</source>
     <message>
         <source>Unable to accept the file.  Perhaps the sender has cancelled the request.</source>
         <translation>无法接受档案。也许发送者已经取消了请求。</translation>
+    </message>
+</context>
+<context>
+    <name>FileShareDlg</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished">对话</translation>
     </message>
 </context>
 <context>
@@ -6666,7 +6684,7 @@ The plugin has a number of simple settings that can help you:
     </message>
     <message>
         <source>Image %1 sent &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </source>
-        <translation>图片%1已发送&lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </translation>
+        <translation type="vanished">图片%1已发送&lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </translation>
     </message>
     <message>
         <source>Authors: </source>
@@ -6679,6 +6697,14 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation>该插件的目的是将图像发送给名单内的联系人。
 你的联系人的客户端必须支持XEP-0071: XHTML-IM和data:URI方案。
 注意:要想正常工作，选项的options.ui.chat.central-toolbar必须设置为启用。</translation>
+    </message>
+    <message>
+        <source>An image from the clipboard is sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image %1 is sent</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18039,11 +18065,11 @@ Do you still want to close the window?</source>
     <name>WebView</name>
     <message>
         <source>Quote</source>
-        <translation>引用</translation>
+        <translation type="vanished">引用</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
+        <translation type="vanished">Ctrl+S</translation>
     </message>
 </context>
 <context>

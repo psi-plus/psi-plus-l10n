@@ -2071,6 +2071,17 @@ Möchten Sie das Fenster trotzdem schließen?</translation>
     </message>
 </context>
 <context>
+    <name>ChatWebView</name>
+    <message>
+        <source>Quote</source>
+        <translation type="unfinished">Zitieren</translation>
+    </message>
+    <message>
+        <source>Ctrl+S</source>
+        <translation type="unfinished">Strg+S</translation>
+    </message>
+</context>
+<context>
     <name>Chess::InvitationDialog</name>
     <message>
         <source>white</source>
@@ -4328,6 +4339,13 @@ ausgehende TCP-Verbindungen erlaubt sind.</translation>
     <message>
         <source>Unable to accept the file.  Perhaps the sender has cancelled the request.</source>
         <translation>Datei kann nicht angenommen werden. Möglicherweise hat der Absender die Übertragung abgebrochen.</translation>
+    </message>
+</context>
+<context>
+    <name>FileShareDlg</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished">Dialog</translation>
     </message>
 </context>
 <context>
@@ -6671,7 +6689,7 @@ Das Plugin hat eine Reihe einfacher Einstellungen die Ihnen helfen können:
     </message>
     <message>
         <source>Image %1 sent &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </source>
-        <translation>Bild %1 gesendet &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </translation>
+        <translation type="vanished">Bild %1 gesendet &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </translation>
     </message>
     <message>
         <source>Authors: </source>
@@ -6684,6 +6702,14 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation>Dieses Plugin erlaubt es, Bilder an Kontakte zu verschicken.
 Der Client Ihrer Kontakte muss XEP-0071: XHTML-IM und das data:URI-Schema unterstützen.
 Anmerkung: Um korrekt zu funktionieren, muss die Option options.ui.chat.central-toolbar auf &quot;true&quot; gesetzt sein.</translation>
+    </message>
+    <message>
+        <source>An image from the clipboard is sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image %1 is sent</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18070,11 +18096,11 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     <name>WebView</name>
     <message>
         <source>Quote</source>
-        <translation>Zitieren</translation>
+        <translation type="vanished">Zitieren</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation>Strg+S</translation>
+        <translation type="vanished">Strg+S</translation>
     </message>
 </context>
 <context>
