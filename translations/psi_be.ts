@@ -5733,7 +5733,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>New Shortcut</source>
-        <translation>Новы выклічнік</translation>
+        <translation type="vanished">Новы выклічнік</translation>
     </message>
 </context>
 <context>
@@ -18957,6 +18957,21 @@ change to the private keys list.</source>
     <message>
         <source>Captcha:</source>
         <translation>Выпрабаваньне:</translation>
+    </message>
+</context>
+<context>
+    <name>screenshotplugin::GrepShortcutKeyDialog</name>
+    <message>
+        <source>New Shortcut</source>
+        <translation type="unfinished">Новы выклічнік</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Скасаваць</translation>
+    </message>
+    <message>
+        <source>Set Keys</source>
+        <translation type="unfinished">Прызначыць клявішы</translation>
     </message>
 </context>
 <context>

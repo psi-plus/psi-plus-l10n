@@ -5741,7 +5741,7 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     </message>
     <message>
         <source>New Shortcut</source>
-        <translation>Új gyorsbillentyű</translation>
+        <translation type="vanished">Új gyorsbillentyű</translation>
     </message>
 </context>
 <context>
@@ -18933,6 +18933,21 @@ change to the private keys list.</source>
     <message>
         <source>Captcha:</source>
         <translation>Captcha:</translation>
+    </message>
+</context>
+<context>
+    <name>screenshotplugin::GrepShortcutKeyDialog</name>
+    <message>
+        <source>New Shortcut</source>
+        <translation type="unfinished">Új gyorsbillentyű</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Mégsem</translation>
+    </message>
+    <message>
+        <source>Set Keys</source>
+        <translation type="unfinished">Billentyűk beállítása</translation>
     </message>
 </context>
 <context>

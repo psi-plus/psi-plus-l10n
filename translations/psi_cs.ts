@@ -5736,7 +5736,7 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     </message>
     <message>
         <source>New Shortcut</source>
-        <translation>Nová zkratka</translation>
+        <translation type="vanished">Nová zkratka</translation>
     </message>
 </context>
 <context>
@@ -18934,6 +18934,21 @@ change to the private keys list.</source>
     <message>
         <source>Captcha:</source>
         <translation>Captcha:</translation>
+    </message>
+</context>
+<context>
+    <name>screenshotplugin::GrepShortcutKeyDialog</name>
+    <message>
+        <source>New Shortcut</source>
+        <translation type="unfinished">Nová zkratka</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Zrušit</translation>
+    </message>
+    <message>
+        <source>Set Keys</source>
+        <translation type="unfinished">Nastavit klávesy</translation>
     </message>
 </context>
 <context>

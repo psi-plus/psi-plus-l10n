@@ -5756,7 +5756,7 @@ Um Befehle zu senden, werden normale Nachrichten verwendet, so dass das Plugin i
     </message>
     <message>
         <source>New Shortcut</source>
-        <translation>Neues Tastenkürzel</translation>
+        <translation type="vanished">Neues Tastenkürzel</translation>
     </message>
 </context>
 <context>
@@ -19018,6 +19018,21 @@ change to the private keys list.</source>
     <message>
         <source>Captcha:</source>
         <translation>Captcha:</translation>
+    </message>
+</context>
+<context>
+    <name>screenshotplugin::GrepShortcutKeyDialog</name>
+    <message>
+        <source>New Shortcut</source>
+        <translation type="unfinished">Neues Tastenkürzel</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Abbrechen</translation>
+    </message>
+    <message>
+        <source>Set Keys</source>
+        <translation type="unfinished">Tastenkürzel festlegen</translation>
     </message>
 </context>
 <context>

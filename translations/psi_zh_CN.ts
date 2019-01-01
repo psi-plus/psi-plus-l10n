@@ -5740,7 +5740,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>New Shortcut</source>
-        <translation>新的快捷键</translation>
+        <translation type="vanished">新的快捷键</translation>
     </message>
 </context>
 <context>
@@ -18990,6 +18990,21 @@ change to the private keys list.</source>
     <message>
         <source>Captcha:</source>
         <translation>验证码:</translation>
+    </message>
+</context>
+<context>
+    <name>screenshotplugin::GrepShortcutKeyDialog</name>
+    <message>
+        <source>New Shortcut</source>
+        <translation type="unfinished">新的快捷键</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">取消</translation>
+    </message>
+    <message>
+        <source>Set Keys</source>
+        <translation type="unfinished">选择按键</translation>
     </message>
 </context>
 <context>

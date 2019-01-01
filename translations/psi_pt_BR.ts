@@ -5750,7 +5750,7 @@ Para o envio de comandos, mensagens normais serão utilizadas, por isso este plu
     </message>
     <message>
         <source>New Shortcut</source>
-        <translation>Novo Atalho</translation>
+        <translation type="vanished">Novo Atalho</translation>
     </message>
 </context>
 <context>
@@ -18997,6 +18997,21 @@ change to the private keys list.</source>
     <message>
         <source>Captcha:</source>
         <translation>Captcha:</translation>
+    </message>
+</context>
+<context>
+    <name>screenshotplugin::GrepShortcutKeyDialog</name>
+    <message>
+        <source>New Shortcut</source>
+        <translation type="unfinished">Novo Atalho</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Cancelar</translation>
+    </message>
+    <message>
+        <source>Set Keys</source>
+        <translation type="unfinished">Definir Teclas</translation>
     </message>
 </context>
 <context>

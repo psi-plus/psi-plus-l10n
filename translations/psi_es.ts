@@ -5738,7 +5738,7 @@ Para enviar órdenes, son usados los mensajes normales, por lo que este compleme
     </message>
     <message>
         <source>New Shortcut</source>
-        <translation>Nuevo atajo</translation>
+        <translation type="vanished">Nuevo atajo</translation>
     </message>
 </context>
 <context>
@@ -18979,6 +18979,21 @@ change to the private keys list.</source>
     <message>
         <source>Captcha:</source>
         <translation>Captcha:</translation>
+    </message>
+</context>
+<context>
+    <name>screenshotplugin::GrepShortcutKeyDialog</name>
+    <message>
+        <source>New Shortcut</source>
+        <translation type="unfinished">Nuevo atajo</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Cancelar</translation>
+    </message>
+    <message>
+        <source>Set Keys</source>
+        <translation type="unfinished">Establecer teclas</translation>
     </message>
 </context>
 <context>

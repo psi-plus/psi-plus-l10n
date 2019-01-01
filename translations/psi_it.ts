@@ -5755,7 +5755,7 @@ Per inviare comandi, basta usare normali messaggi, uindi questo plugin funzioner
     </message>
     <message>
         <source>New Shortcut</source>
-        <translation>Nuova scorciatoia</translation>
+        <translation type="vanished">Nuova scorciatoia</translation>
     </message>
 </context>
 <context>
@@ -19031,6 +19031,21 @@ change to the private keys list.</source>
     <message>
         <source>Captcha:</source>
         <translation>Captcha:</translation>
+    </message>
+</context>
+<context>
+    <name>screenshotplugin::GrepShortcutKeyDialog</name>
+    <message>
+        <source>New Shortcut</source>
+        <translation type="unfinished">Nuova scorciatoia</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Annulla</translation>
+    </message>
+    <message>
+        <source>Set Keys</source>
+        <translation type="unfinished">Imposta Tasti</translation>
     </message>
 </context>
 <context>

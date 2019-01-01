@@ -5640,10 +5640,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <source>Set Keys</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>New Shortcut</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>GroupChatBrowseWindowUI</name>
@@ -18366,6 +18362,21 @@ change to the private keys list.</source>
     </message>
     <message>
         <source>Captcha:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>screenshotplugin::GrepShortcutKeyDialog</name>
+    <message>
+        <source>New Shortcut</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Бас тарту</translation>
+    </message>
+    <message>
+        <source>Set Keys</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -5724,7 +5724,7 @@ Do wysyłania poleceń, wykorzystywane są zwykłe wiadomości, więc wtyczka  t
     </message>
     <message>
         <source>New Shortcut</source>
-        <translation>Nowy skrót</translation>
+        <translation type="vanished">Nowy skrót</translation>
     </message>
 </context>
 <context>
@@ -18716,6 +18716,21 @@ change to the private keys list.</source>
     <message>
         <source>Captcha:</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>screenshotplugin::GrepShortcutKeyDialog</name>
+    <message>
+        <source>New Shortcut</source>
+        <translation type="unfinished">Nowy skrót</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Keys</source>
+        <translation type="unfinished">Przypisz skrót</translation>
     </message>
 </context>
 <context>

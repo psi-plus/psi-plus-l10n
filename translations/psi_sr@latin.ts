@@ -5715,7 +5715,7 @@ Za slanje komandi, koriste se normalne poruke pa će ovaj dodatak uvek raditi gd
     </message>
     <message>
         <source>New Shortcut</source>
-        <translation>Nova prečica</translation>
+        <translation type="vanished">Nova prečica</translation>
     </message>
 </context>
 <context>
@@ -18807,6 +18807,21 @@ change to the private keys list.</source>
     <message>
         <source>Captcha:</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>screenshotplugin::GrepShortcutKeyDialog</name>
+    <message>
+        <source>New Shortcut</source>
+        <translation type="unfinished">Nova prečica</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Keys</source>
+        <translation type="unfinished">Podesi ključeve</translation>
     </message>
 </context>
 <context>

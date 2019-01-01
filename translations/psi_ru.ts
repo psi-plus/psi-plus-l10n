@@ -5755,7 +5755,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>New Shortcut</source>
-        <translation>Комбинация клавиш</translation>
+        <translation type="vanished">Комбинация клавиш</translation>
     </message>
 </context>
 <context>
@@ -19061,6 +19061,21 @@ change to the private keys list.</source>
     <message>
         <source>Captcha:</source>
         <translation>Капча:</translation>
+    </message>
+</context>
+<context>
+    <name>screenshotplugin::GrepShortcutKeyDialog</name>
+    <message>
+        <source>New Shortcut</source>
+        <translation type="unfinished">Комбинация клавиш</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Отмена</translation>
+    </message>
+    <message>
+        <source>Set Keys</source>
+        <translation type="unfinished">Комбинация клавиш</translation>
     </message>
 </context>
 <context>
