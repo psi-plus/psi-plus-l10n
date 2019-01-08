@@ -15260,7 +15260,7 @@ Thanks for your patience.</source>
         <translation>דוא״ל: </translation>
     </message>
     <message>
-        <source>Redirects all incoming messages to some jid and allows to redirect messages back.</source>
+        <source>Redirects all incoming messages to some jid and allows one to redirect messages back.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

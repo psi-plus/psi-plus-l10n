@@ -15427,7 +15427,7 @@ Thanks for your patience.</source>
         <translation>邮件:</translation>
     </message>
     <message>
-        <source>Redirects all incoming messages to some jid and allows to redirect messages back.</source>
+        <source>Redirects all incoming messages to some jid and allows one to redirect messages back.</source>
         <translation>重新定向所有接收信息到一些jid和允许重定向信息还原</translation>
     </message>
 </context>

@@ -15460,7 +15460,7 @@ Vielen Dank für Ihre Geduld.</translation>
         <translation>E-Mail:</translation>
     </message>
     <message>
-        <source>Redirects all incoming messages to some jid and allows to redirect messages back.</source>
+        <source>Redirects all incoming messages to some jid and allows one to redirect messages back.</source>
         <translation>Leitet alle eingehenden Nachrichten zu einer JID weiter und ermöglicht das Zurücksenden von Nachrichten</translation>
     </message>
 </context>

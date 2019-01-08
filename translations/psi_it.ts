@@ -15475,7 +15475,7 @@ Grazie per la tua pazienza.</translation>
         <translation>Email: </translation>
     </message>
     <message>
-        <source>Redirects all incoming messages to some jid and allows to redirect messages back.</source>
+        <source>Redirects all incoming messages to some jid and allows one to redirect messages back.</source>
         <translation>Reindirizza tutti i messaggi in arrivo ad alcuni jid e permette di reindirizzare i messaggi indietro.</translation>
     </message>
 </context>

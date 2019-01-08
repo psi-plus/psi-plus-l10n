@@ -15352,7 +15352,7 @@ Thanks for your patience.</source>
         <translation>Ел. поща:</translation>
     </message>
     <message>
-        <source>Redirects all incoming messages to some jid and allows to redirect messages back.</source>
+        <source>Redirects all incoming messages to some jid and allows one to redirect messages back.</source>
         <translation>Пренасочва всички входящи съобщения към някой jid и позволява да пренасочите съобщенията обратно.</translation>
     </message>
 </context>

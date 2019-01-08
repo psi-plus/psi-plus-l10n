@@ -15489,7 +15489,7 @@ Thanks for your patience.</source>
         <translation>Email:</translation>
     </message>
     <message>
-        <source>Redirects all incoming messages to some jid and allows to redirect messages back.</source>
+        <source>Redirects all incoming messages to some jid and allows one to redirect messages back.</source>
         <translation>Перенаправляє всі вхідні повідомлення на деякий jid і дозволяє перенаправити повідомлення назад.</translation>
     </message>
 </context>

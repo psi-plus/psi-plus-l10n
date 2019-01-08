@@ -15480,8 +15480,8 @@ Thanks for your patience.</translation>
         <translation>Email: </translation>
     </message>
     <message>
-        <source>Redirects all incoming messages to some jid and allows to redirect messages back.</source>
-        <translation>Redirects all incoming messages to some jid and allows to redirect messages back.</translation>
+        <source>Redirects all incoming messages to some jid and allows one to redirect messages back.</source>
+        <translation>Redirects all incoming messages to some jid and allows one to redirect messages back.</translation>
     </message>
 </context>
 <context>

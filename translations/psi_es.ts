@@ -15430,7 +15430,7 @@ Gracias por tu paciencia.</translation>
         <translation>Email:</translation>
     </message>
     <message>
-        <source>Redirects all incoming messages to some jid and allows to redirect messages back.</source>
+        <source>Redirects all incoming messages to some jid and allows one to redirect messages back.</source>
         <translation>Redirecciona todos los mensajes entrantes hacia algún jid y permite redireccionarlos nuevamente.</translation>
     </message>
 </context>

@@ -15427,7 +15427,7 @@ Děkujeme za trpělivost.</translation>
         <translation>E-mail: </translation>
     </message>
     <message>
-        <source>Redirects all incoming messages to some jid and allows to redirect messages back.</source>
+        <source>Redirects all incoming messages to some jid and allows one to redirect messages back.</source>
         <translation>Přesměrovává všechny příchozí zprávy na nějake JID a dovoluje přesměrovávat zpět.</translation>
     </message>
 </context>

@@ -15434,7 +15434,7 @@ Türelmét köszönjük.</translation>
         <translation>E-mail: </translation>
     </message>
     <message>
-        <source>Redirects all incoming messages to some jid and allows to redirect messages back.</source>
+        <source>Redirects all incoming messages to some jid and allows one to redirect messages back.</source>
         <translation>Minden üzenet továbbítása egy megadott JID-re, oda-vissza.</translation>
     </message>
 </context>
