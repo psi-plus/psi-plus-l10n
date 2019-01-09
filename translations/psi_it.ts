@@ -229,7 +229,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; per ulteriori dettagli!</tra
 &lt;br&gt;
 Copyright © 2001-2017 The Psi Team.&lt;br&gt;
 </source>
-        <translation>Un client XMPP multipiattaforma disegnato per gli utenti avanzati..&lt;br&gt;
+        <translation type="vanished">Un client XMPP multipiattaforma disegnato per gli utenti avanzati..&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2017 Il Team Psi.&lt;br&gt;
 </translation>
@@ -245,6 +245,16 @@ Copyright © 2001-2017 Il Team Psi.&lt;br&gt;
     <message>
         <source>https://psi-im.org</source>
         <translation>https://psi-im.org</translation>
+    </message>
+    <message>
+        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2019 The Psi Team.&lt;br&gt;
+</source>
+        <translation type="unfinished">Un client XMPP multipiattaforma disegnato per gli utenti avanzati..&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2017 Il Team Psi.&lt;br&gt;
+ {2001-2019 ?}</translation>
     </message>
 </context>
 <context>
@@ -2072,11 +2082,11 @@ Vuoi ancora chiudere la finestra?</translation>
     <name>ChatWebView</name>
     <message>
         <source>Quote</source>
-        <translation type="unfinished">Cita</translation>
+        <translation>Cita</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation type="unfinished">Ctrl+S</translation>
+        <translation>Ctrl+S</translation>
     </message>
 </context>
 <context>
@@ -4340,7 +4350,7 @@ siano consentite.</translation>
     <name>FileShareDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Finestra</translation>
+        <translation>Finestra</translation>
     </message>
 </context>
 <context>
@@ -12969,11 +12979,11 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>User Guide (Online)</source>
-        <translation>Guida Utente (In linea)</translation>
+        <translation type="vanished">Guida Utente (In linea)</translation>
     </message>
     <message>
         <source>&amp;User Guide (Online)</source>
-        <translation>Guida &amp;Utente (In linea)</translation>
+        <translation type="vanished">Guida &amp;Utente (In linea)</translation>
     </message>
     <message>
         <source>Wiki (Online)</source>
@@ -19037,15 +19047,15 @@ change to the private keys list.</source>
     <name>screenshotplugin::GrepShortcutKeyDialog</name>
     <message>
         <source>New Shortcut</source>
-        <translation type="unfinished">Nuova scorciatoia</translation>
+        <translation>Nuova scorciatoia</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annulla</translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>Set Keys</source>
-        <translation type="unfinished">Imposta Tasti</translation>
+        <translation>Imposta Tasti</translation>
     </message>
 </context>
 <context>

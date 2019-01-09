@@ -217,13 +217,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2017 The Psi Team.&lt;br&gt;
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Original Author</source>
         <translation type="unfinished"></translation>
     </message>
@@ -233,6 +226,13 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>https://psi-im.org</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2019 The Psi Team.&lt;br&gt;
+</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4265,7 +4265,7 @@ that outgoing TCP connections are allowed.</source>
     <name>FileShareDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Сұхбат</translation>
+        <translation>Сұхбат</translation>
     </message>
 </context>
 <context>
@@ -12491,11 +12491,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>User Guide (Online)</source>
-        <translation>Пайдаланушы нұсқаулығы (онлайн)</translation>
+        <translation type="vanished">Пайдаланушы нұсқаулығы (онлайн)</translation>
     </message>
     <message>
         <source>&amp;User Guide (Online)</source>
-        <translation>П&amp;айдаланушы нұсқаулығы (онлайн)</translation>
+        <translation type="vanished">П&amp;айдаланушы нұсқаулығы (онлайн)</translation>
     </message>
     <message>
         <source>Wiki (Online)</source>
@@ -18373,7 +18373,7 @@ change to the private keys list.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Бас тарту</translation>
+        <translation>Бас тарту</translation>
     </message>
     <message>
         <source>Set Keys</source>

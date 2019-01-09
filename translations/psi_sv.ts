@@ -217,13 +217,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2017 The Psi Team.&lt;br&gt;
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Original Author</source>
         <translation type="unfinished"></translation>
     </message>
@@ -233,6 +226,13 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>https://psi-im.org</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2019 The Psi Team.&lt;br&gt;
+</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4283,7 +4283,7 @@ en brandvägg måste du försäkra dig om att utgående TCP-förbindelser tillå
     <name>FileShareDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Dialog</translation>
+        <translation>Dialog</translation>
     </message>
 </context>
 <context>
@@ -12567,11 +12567,11 @@ Orsak: %1.</translation>
     </message>
     <message>
         <source>User Guide (Online)</source>
-        <translation>Användarguide (på nätet)</translation>
+        <translation type="vanished">Användarguide (på nätet)</translation>
     </message>
     <message>
         <source>&amp;User Guide (Online)</source>
-        <translation>&amp;Användarguide (på nätet)</translation>
+        <translation type="vanished">&amp;Användarguide (på nätet)</translation>
     </message>
     <message>
         <source>Wiki (Online)</source>
@@ -18508,11 +18508,11 @@ change to the private keys list.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <source>Set Keys</source>
-        <translation type="unfinished">Välj tangenter</translation>
+        <translation>Välj tangenter</translation>
     </message>
 </context>
 <context>

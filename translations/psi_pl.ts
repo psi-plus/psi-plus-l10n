@@ -217,13 +217,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2017 The Psi Team.&lt;br&gt;
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Original Author</source>
         <translation type="unfinished"></translation>
     </message>
@@ -233,6 +226,13 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>https://psi-im.org</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2019 The Psi Team.&lt;br&gt;
+</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2049,11 +2049,11 @@ Czy nadal chcesz zamknąć to okno?</translation>
     <name>ChatWebView</name>
     <message>
         <source>Quote</source>
-        <translation type="unfinished">Cytat</translation>
+        <translation>Cytat</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation type="unfinished">Ctrl+S</translation>
+        <translation>Ctrl+S</translation>
     </message>
 </context>
 <context>
@@ -4312,7 +4312,7 @@ osiągalny. Jeśli jesteś za firewallem, to upewnij się
     <name>FileShareDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Dialog</translation>
+        <translation>Dialog</translation>
     </message>
 </context>
 <context>
@@ -12772,11 +12772,11 @@ Przyczyna: %1.</translation>
     </message>
     <message>
         <source>User Guide (Online)</source>
-        <translation>Podręcznik użytkownika (wymaga dostępu do internetu)</translation>
+        <translation type="vanished">Podręcznik użytkownika (wymaga dostępu do internetu)</translation>
     </message>
     <message>
         <source>&amp;User Guide (Online)</source>
-        <translation>&amp;Podręcznik użytkownika</translation>
+        <translation type="vanished">&amp;Podręcznik użytkownika</translation>
     </message>
     <message>
         <source>Wiki (Online)</source>
@@ -18722,15 +18722,15 @@ change to the private keys list.</source>
     <name>screenshotplugin::GrepShortcutKeyDialog</name>
     <message>
         <source>New Shortcut</source>
-        <translation type="unfinished">Nowy skrót</translation>
+        <translation>Nowy skrót</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <source>Set Keys</source>
-        <translation type="unfinished">Przypisz skrót</translation>
+        <translation>Przypisz skrót</translation>
     </message>
 </context>
 <context>

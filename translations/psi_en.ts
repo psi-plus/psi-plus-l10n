@@ -229,7 +229,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</transl
 &lt;br&gt;
 Copyright © 2001-2017 The Psi Team.&lt;br&gt;
 </source>
-        <translation>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+        <translation type="vanished">A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2017 The Psi Team.&lt;br&gt;
 </translation>
@@ -245,6 +245,16 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
     <message>
         <source>https://psi-im.org</source>
         <translation>https://psi-im.org</translation>
+    </message>
+    <message>
+        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2019 The Psi Team.&lt;br&gt;
+</source>
+        <translation>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2017 The Psi Team.&lt;br&gt;
+ {2001-2019 ?}</translation>
     </message>
 </context>
 <context>
@@ -2071,11 +2081,11 @@ Do you still want to close the window?</translation>
     <name>ChatWebView</name>
     <message>
         <source>Quote</source>
-        <translation type="unfinished">Quote</translation>
+        <translation>Quote</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation type="unfinished">Ctrl+S</translation>
+        <translation>Ctrl+S</translation>
     </message>
 </context>
 <context>
@@ -4341,7 +4351,7 @@ that outgoing TCP connections are allowed.</translation>
     <name>FileShareDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Dialog</translation>
+        <translation>Dialog</translation>
     </message>
 </context>
 <context>
@@ -6715,11 +6725,11 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>An image from the clipboard is sent</source>
-        <translation type="unfinished"></translation>
+        <translation>An image from the clipboard is sent</translation>
     </message>
     <message>
         <source>Image %1 is sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Image %1 is sent</translation>
     </message>
 </context>
 <context>
@@ -12973,11 +12983,11 @@ Reason: %1.</translation>
     </message>
     <message>
         <source>User Guide (Online)</source>
-        <translation>User Guide (Online)</translation>
+        <translation type="vanished">User Guide (Online)</translation>
     </message>
     <message>
         <source>&amp;User Guide (Online)</source>
-        <translation>&amp;User Guide (Online)</translation>
+        <translation type="vanished">&amp;User Guide (Online)</translation>
     </message>
     <message>
         <source>Wiki (Online)</source>
@@ -19062,15 +19072,15 @@ change to the private keys list.</translation>
     <name>screenshotplugin::GrepShortcutKeyDialog</name>
     <message>
         <source>New Shortcut</source>
-        <translation type="unfinished">New Shortcut</translation>
+        <translation>New Shortcut</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>Set Keys</source>
-        <translation type="unfinished">Set Keys</translation>
+        <translation>Set Keys</translation>
     </message>
 </context>
 <context>

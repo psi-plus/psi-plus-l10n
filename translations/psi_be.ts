@@ -217,13 +217,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2017 The Psi Team.&lt;br&gt;
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Original Author</source>
         <translation>Арыгінальны аўтар</translation>
     </message>
@@ -234,6 +227,13 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
     <message>
         <source>https://psi-im.org</source>
         <translation>https://psi-im.org</translation>
+    </message>
+    <message>
+        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2019 The Psi Team.&lt;br&gt;
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2058,11 +2058,11 @@ Do you still want to close the window?</source>
     <name>ChatWebView</name>
     <message>
         <source>Quote</source>
-        <translation type="unfinished">Цытаваць</translation>
+        <translation>Цытаваць</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation type="unfinished">Ctrl+S</translation>
+        <translation>Ctrl+S</translation>
     </message>
 </context>
 <context>
@@ -4321,7 +4321,7 @@ that outgoing TCP connections are allowed.</source>
     <name>FileShareDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Размова</translation>
+        <translation>Размова</translation>
     </message>
 </context>
 <context>
@@ -12915,11 +12915,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>User Guide (Online)</source>
-        <translation>Даведнік карыстальніка (у сеціве)</translation>
+        <translation type="vanished">Даведнік карыстальніка (у сеціве)</translation>
     </message>
     <message>
         <source>&amp;User Guide (Online)</source>
-        <translation>&amp;Даведнік карыстальніка (у сеціве)</translation>
+        <translation type="vanished">&amp;Даведнік карыстальніка (у сеціве)</translation>
     </message>
     <message>
         <source>Wiki (Online)</source>
@@ -18963,15 +18963,15 @@ change to the private keys list.</source>
     <name>screenshotplugin::GrepShortcutKeyDialog</name>
     <message>
         <source>New Shortcut</source>
-        <translation type="unfinished">Новы выклічнік</translation>
+        <translation>Новы выклічнік</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Скасаваць</translation>
+        <translation>Скасаваць</translation>
     </message>
     <message>
         <source>Set Keys</source>
-        <translation type="unfinished">Прызначыць клявішы</translation>
+        <translation>Прызначыць клявішы</translation>
     </message>
 </context>
 <context>

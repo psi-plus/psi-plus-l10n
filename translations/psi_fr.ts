@@ -217,13 +217,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2017 The Psi Team.&lt;br&gt;
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Original Author</source>
         <translation type="unfinished"></translation>
     </message>
@@ -233,6 +226,13 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>https://psi-im.org</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2019 The Psi Team.&lt;br&gt;
+</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2060,11 +2060,11 @@ Voulez-vous quand-même fermer la fenêtre ?</translation>
     <name>ChatWebView</name>
     <message>
         <source>Quote</source>
-        <translation type="unfinished">Citation</translation>
+        <translation>Citation</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation type="unfinished">Ctrl+S</translation>
+        <translation>Ctrl+S</translation>
     </message>
 </context>
 <context>
@@ -4317,7 +4317,7 @@ Ceci signifie que le Proxy est inactif ou injoignable. Si vous êtes derrière u
     <name>FileShareDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Dialogue</translation>
+        <translation>Dialogue</translation>
     </message>
 </context>
 <context>
@@ -12829,11 +12829,11 @@ Cause: %1.</translation>
     </message>
     <message>
         <source>User Guide (Online)</source>
-        <translation>Guide Utilisateur (en ligne/anglais)</translation>
+        <translation type="vanished">Guide Utilisateur (en ligne/anglais)</translation>
     </message>
     <message>
         <source>&amp;User Guide (Online)</source>
-        <translation>Guide &amp;Utilisateur (en ligne/anglais)</translation>
+        <translation type="vanished">Guide &amp;Utilisateur (en ligne/anglais)</translation>
     </message>
     <message>
         <source>Wiki (Online)</source>
@@ -18804,15 +18804,15 @@ change to the private keys list.</source>
     <name>screenshotplugin::GrepShortcutKeyDialog</name>
     <message>
         <source>New Shortcut</source>
-        <translation type="unfinished">Nouveau raccourci</translation>
+        <translation>Nouveau raccourci</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>Set Keys</source>
-        <translation type="unfinished">Configurer les touches</translation>
+        <translation>Configurer les touches</translation>
     </message>
 </context>
 <context>

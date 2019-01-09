@@ -217,13 +217,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2017 The Psi Team.&lt;br&gt;
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Original Author</source>
         <translation type="unfinished"></translation>
     </message>
@@ -233,6 +226,13 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>https://psi-im.org</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2019 The Psi Team.&lt;br&gt;
+</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2049,11 +2049,11 @@ Da li i dalje želite da zatvorite prozor?</translation>
     <name>ChatWebView</name>
     <message>
         <source>Quote</source>
-        <translation type="unfinished">Citat</translation>
+        <translation>Citat</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation type="unfinished">Ctrl+S</translation>
+        <translation>Ctrl+S</translation>
     </message>
 </context>
 <context>
@@ -4305,7 +4305,7 @@ morate proveriti da li su dozvoljene izlazne TCP veze.</translation>
     <name>FileShareDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Dijalog</translation>
+        <translation>Dijalog</translation>
     </message>
 </context>
 <context>
@@ -12873,11 +12873,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>User Guide (Online)</source>
-        <translation>Korisnički vodič (Internet)</translation>
+        <translation type="vanished">Korisnički vodič (Internet)</translation>
     </message>
     <message>
         <source>&amp;User Guide (Online)</source>
-        <translation>&amp;Korisnički vodič (Internet)</translation>
+        <translation type="vanished">&amp;Korisnički vodič (Internet)</translation>
     </message>
     <message>
         <source>Wiki (Online)</source>
@@ -18813,15 +18813,15 @@ change to the private keys list.</source>
     <name>screenshotplugin::GrepShortcutKeyDialog</name>
     <message>
         <source>New Shortcut</source>
-        <translation type="unfinished">Nova prečica</translation>
+        <translation>Nova prečica</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Otkaži</translation>
     </message>
     <message>
         <source>Set Keys</source>
-        <translation type="unfinished">Podesi ključeve</translation>
+        <translation>Podesi ključeve</translation>
     </message>
 </context>
 <context>

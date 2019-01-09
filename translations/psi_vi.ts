@@ -217,13 +217,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2017 The Psi Team.&lt;br&gt;
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Original Author</source>
         <translation type="unfinished"></translation>
     </message>
@@ -233,6 +226,13 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>https://psi-im.org</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2019 The Psi Team.&lt;br&gt;
+</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4286,7 +4286,7 @@ hãy kiểm tra kết nối kiểu TCP gửi đi được cho phép không.</tra
     <name>FileShareDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Hộp thoại</translation>
+        <translation>Hộp thoại</translation>
     </message>
 </context>
 <context>
@@ -12568,11 +12568,11 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>User Guide (Online)</source>
-        <translation>Sổ tay người dùng (trực tuyến)</translation>
+        <translation type="vanished">Sổ tay người dùng (trực tuyến)</translation>
     </message>
     <message>
         <source>&amp;User Guide (Online)</source>
-        <translation>&amp;Sổ tay người dùng (trực tuyến)</translation>
+        <translation type="vanished">&amp;Sổ tay người dùng (trực tuyến)</translation>
     </message>
     <message>
         <source>Wiki (Online)</source>
@@ -18503,11 +18503,11 @@ change to the private keys list.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Thôi</translation>
+        <translation>Thôi</translation>
     </message>
     <message>
         <source>Set Keys</source>
-        <translation type="unfinished">Đặt khoá</translation>
+        <translation>Đặt khoá</translation>
     </message>
 </context>
 <context>

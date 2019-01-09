@@ -217,13 +217,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2017 The Psi Team.&lt;br&gt;
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Original Author</source>
         <translation type="unfinished"></translation>
     </message>
@@ -233,6 +226,13 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>https://psi-im.org</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2019 The Psi Team.&lt;br&gt;
+</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4266,7 +4266,7 @@ To lahko pomeni, da posredniška storitev trenutno ne deluje ali pa je ni moč d
     <name>FileShareDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Pogovorno okno</translation>
+        <translation>Pogovorno okno</translation>
     </message>
 </context>
 <context>
@@ -12552,11 +12552,11 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
     </message>
     <message>
         <source>User Guide (Online)</source>
-        <translation>Uporabniški priročnik (na spletu)</translation>
+        <translation type="vanished">Uporabniški priročnik (na spletu)</translation>
     </message>
     <message>
         <source>&amp;User Guide (Online)</source>
-        <translation>&amp;Uporabniški priročnik (na spletu)</translation>
+        <translation type="vanished">&amp;Uporabniški priročnik (na spletu)</translation>
     </message>
     <message>
         <source>Wiki (Online)</source>
@@ -18504,11 +18504,11 @@ change to the private keys list.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Prekliči</translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>Set Keys</source>
-        <translation type="unfinished">Nastavi tipke</translation>
+        <translation>Nastavi tipke</translation>
     </message>
 </context>
 <context>

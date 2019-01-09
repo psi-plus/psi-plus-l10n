@@ -229,7 +229,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; für mehr Informationen!</tr
 &lt;br&gt;
 Copyright © 2001-2017 The Psi Team.&lt;br&gt;
 </source>
-        <translation>Ein plattformunabhängiger XMPP-Client für den Power-Nutzer.&lt;br&gt;
+        <translation type="vanished">Ein plattformunabhängiger XMPP-Client für den Power-Nutzer.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2017 The Psi Team.&lt;br&gt;
 </translation>
@@ -245,6 +245,16 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
     <message>
         <source>https://psi-im.org</source>
         <translation>https://psi-im.org</translation>
+    </message>
+    <message>
+        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2019 The Psi Team.&lt;br&gt;
+</source>
+        <translation type="unfinished">Ein plattformunabhängiger XMPP-Client für den Power-Nutzer.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2017 The Psi Team.&lt;br&gt;
+ {2001-2019 ?}</translation>
     </message>
 </context>
 <context>
@@ -2074,11 +2084,11 @@ Möchten Sie das Fenster trotzdem schließen?</translation>
     <name>ChatWebView</name>
     <message>
         <source>Quote</source>
-        <translation type="unfinished">Zitieren</translation>
+        <translation>Zitieren</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation type="unfinished">Strg+S</translation>
+        <translation>Strg+S</translation>
     </message>
 </context>
 <context>
@@ -4345,7 +4355,7 @@ ausgehende TCP-Verbindungen erlaubt sind.</translation>
     <name>FileShareDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Dialog</translation>
+        <translation>Dialog</translation>
     </message>
 </context>
 <context>
@@ -12953,11 +12963,11 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>User Guide (Online)</source>
-        <translation>Benutzerhandbuch (Online)</translation>
+        <translation type="vanished">Benutzerhandbuch (Online)</translation>
     </message>
     <message>
         <source>&amp;User Guide (Online)</source>
-        <translation>&amp;Benutzerhandbuch (Online)</translation>
+        <translation type="vanished">&amp;Benutzerhandbuch (Online)</translation>
     </message>
     <message>
         <source>Wiki (Online)</source>
@@ -19024,15 +19034,15 @@ change to the private keys list.</source>
     <name>screenshotplugin::GrepShortcutKeyDialog</name>
     <message>
         <source>New Shortcut</source>
-        <translation type="unfinished">Neues Tastenkürzel</translation>
+        <translation>Neues Tastenkürzel</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Abbrechen</translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>Set Keys</source>
-        <translation type="unfinished">Tastenkürzel festlegen</translation>
+        <translation>Tastenkürzel festlegen</translation>
     </message>
 </context>
 <context>

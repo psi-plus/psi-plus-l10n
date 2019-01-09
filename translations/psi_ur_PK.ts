@@ -217,13 +217,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2017 The Psi Team.&lt;br&gt;
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Original Author</source>
         <translation type="unfinished"></translation>
     </message>
@@ -233,6 +226,13 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>https://psi-im.org</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2019 The Psi Team.&lt;br&gt;
+</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4278,7 +4278,7 @@ that outgoing TCP connections are allowed.</source>
     <name>FileShareDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">مکالمہ</translation>
+        <translation>مکالمہ</translation>
     </message>
 </context>
 <context>
@@ -12550,11 +12550,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>User Guide (Online)</source>
-        <translation>رہنمائے صارف (آن لائن)‏</translation>
+        <translation type="vanished">رہنمائے صارف (آن لائن)‏</translation>
     </message>
     <message>
         <source>&amp;User Guide (Online)</source>
-        <translation>رہنمائے صارف (آن لائن)‏</translation>
+        <translation type="vanished">رہنمائے صارف (آن لائن)‏</translation>
     </message>
     <message>
         <source>Wiki (Online)</source>
@@ -18462,11 +18462,11 @@ change to the private keys list.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">منسوخ کریں</translation>
+        <translation>منسوخ کریں</translation>
     </message>
     <message>
         <source>Set Keys</source>
-        <translation type="unfinished">کلید سیٹ کریں</translation>
+        <translation>کلید سیٹ کریں</translation>
     </message>
 </context>
 <context>
