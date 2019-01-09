@@ -2243,7 +2243,7 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
         <translation>Vybrat všechny soubory</translation>
     </message>
     <message>
-        <source>Unselect All Files</source>
+        <source>Deselect All Files</source>
         <translation>Odvybrat všechny soubory</translation>
     </message>
     <message>
@@ -2355,7 +2355,7 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
         <translation>Cache nenalezena!</translation>
     </message>
     <message>
-        <source>Clear Birthdays Cach</source>
+        <source>Clear Birthdays Cache</source>
         <translation>Vymazat cache narozenin</translation>
     </message>
     <message>

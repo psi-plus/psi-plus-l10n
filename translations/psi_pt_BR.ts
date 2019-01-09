@@ -2253,7 +2253,7 @@ Para o envio de comandos, mensagens normais serão utilizadas, por isso este plu
         <translation>Selecionar Todos os Arquivos</translation>
     </message>
     <message>
-        <source>Unselect All Files</source>
+        <source>Deselect All Files</source>
         <translation>Desselecionar Todos os Arquivos</translation>
     </message>
     <message>
@@ -2365,7 +2365,7 @@ Para o envio de comandos, mensagens normais serão utilizadas, por isso este plu
         <translation>Cache Não Encontrado!</translation>
     </message>
     <message>
-        <source>Clear Birthdays Cach</source>
+        <source>Clear Birthdays Cache</source>
         <translation>Limpar Cache de Aniversário</translation>
     </message>
     <message>

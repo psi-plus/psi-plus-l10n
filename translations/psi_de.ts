@@ -2267,7 +2267,7 @@ Für die Übermittlung von Befehlen werden normale Nachrichten verwendet. Somit 
         <translation>Selektiere alle Dateien</translation>
     </message>
     <message>
-        <source>Unselect All Files</source>
+        <source>Deselect All Files</source>
         <translation>Deselektiere alle Dateien</translation>
     </message>
     <message>
@@ -2379,7 +2379,7 @@ Für die Übermittlung von Befehlen werden normale Nachrichten verwendet. Somit 
         <translation>Cache nicht gefunden!</translation>
     </message>
     <message>
-        <source>Clear Birthdays Cach</source>
+        <source>Clear Birthdays Cache</source>
         <translation>Lösche Geburtstags-Speicher</translation>
     </message>
     <message>

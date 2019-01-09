@@ -2218,7 +2218,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>בחר את כל הקבצים</translation>
     </message>
     <message>
-        <source>Unselect All Files</source>
+        <source>Deselect All Files</source>
         <translation>בטל בחירה של כל הקבצים</translation>
     </message>
     <message>
@@ -2330,7 +2330,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>מטמון לא נמצא!</translation>
     </message>
     <message>
-        <source>Clear Birthdays Cach</source>
+        <source>Clear Birthdays Cache</source>
         <translation>טהר מטמון ימי הולדת</translation>
     </message>
     <message>

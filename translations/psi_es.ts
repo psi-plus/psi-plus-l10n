@@ -2246,7 +2246,7 @@ Para enviar las órdenes, se usan los mensajes normales, por lo que este complem
         <translation>Seleccionar todos los archivos</translation>
     </message>
     <message>
-        <source>Unselect All Files</source>
+        <source>Deselect All Files</source>
         <translation>Deseleccionar todos los archivos</translation>
     </message>
     <message>
@@ -2358,7 +2358,7 @@ Para enviar las órdenes, se usan los mensajes normales, por lo que este complem
         <translation>¡Caché no encontrada!</translation>
     </message>
     <message>
-        <source>Clear Birthdays Cach</source>
+        <source>Clear Birthdays Cache</source>
         <translation>Limpiar caché de cumpleaños</translation>
     </message>
     <message>

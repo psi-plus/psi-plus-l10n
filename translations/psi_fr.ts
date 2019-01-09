@@ -2243,7 +2243,7 @@ Les messages sont utilisés pour envoyer des commandes, il suffit donc de pouvoi
         <translation>Sélectionner tous les fichiers</translation>
     </message>
     <message>
-        <source>Unselect All Files</source>
+        <source>Deselect All Files</source>
         <translation>Désélectionner tous les fichiers</translation>
     </message>
     <message>
@@ -2355,7 +2355,7 @@ Les messages sont utilisés pour envoyer des commandes, il suffit donc de pouvoi
         <translation>Cache non trouvé !</translation>
     </message>
     <message>
-        <source>Clear Birthdays Cach</source>
+        <source>Clear Birthdays Cache</source>
         <translation>Effacer le cache des Anniversaires</translation>
     </message>
     <message>

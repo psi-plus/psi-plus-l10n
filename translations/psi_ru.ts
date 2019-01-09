@@ -2265,7 +2265,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>Выбрать все файлы</translation>
     </message>
     <message>
-        <source>Unselect All Files</source>
+        <source>Deselect All Files</source>
         <translation>Очистить выбор</translation>
     </message>
     <message>
@@ -2377,7 +2377,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>Кэш не найден!</translation>
     </message>
     <message>
-        <source>Clear Birthdays Cach</source>
+        <source>Clear Birthdays Cache</source>
         <translation>Очистить кэш дней рождения</translation>
     </message>
     <message>

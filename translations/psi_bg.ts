@@ -2237,7 +2237,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>Избор на Всички Файлове</translation>
     </message>
     <message>
-        <source>Unselect All Files</source>
+        <source>Deselect All Files</source>
         <translation>Отмяна на избора на Всички Файлове</translation>
     </message>
     <message>
@@ -2349,7 +2349,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>Кешът Не е Намерен!</translation>
     </message>
     <message>
-        <source>Clear Birthdays Cach</source>
+        <source>Clear Birthdays Cache</source>
         <translation>Изчистване на Кеша за Рождени Дни</translation>
     </message>
     <message>

@@ -2264,8 +2264,8 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>Select All Files</translation>
     </message>
     <message>
-        <source>Unselect All Files</source>
-        <translation>Unselect All Files</translation>
+        <source>Deselect All Files</source>
+        <translation>Deselect All Files</translation>
     </message>
     <message>
         <source>0</source>
@@ -2376,8 +2376,8 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>Cache Not Found!</translation>
     </message>
     <message>
-        <source>Clear Birthdays Cach</source>
-        <translation>Clear Birthdays Cach</translation>
+        <source>Clear Birthdays Cache</source>
+        <translation>Clear Birthdays Cache</translation>
     </message>
     <message>
         <source>Clear Birthdays Cache</source>

@@ -2241,7 +2241,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>Абраць усе файлы</translation>
     </message>
     <message>
-        <source>Unselect All Files</source>
+        <source>Deselect All Files</source>
         <translation>Не абіраць нічога</translation>
     </message>
     <message>
@@ -2353,7 +2353,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>Не знайшлі запасьнік!</translation>
     </message>
     <message>
-        <source>Clear Birthdays Cach</source>
+        <source>Clear Birthdays Cache</source>
         <translation>Ачысьціць запасьнік народзінаў</translation>
     </message>
     <message>

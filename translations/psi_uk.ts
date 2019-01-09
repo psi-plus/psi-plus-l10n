@@ -2270,7 +2270,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>Виділити всі файли</translation>
     </message>
     <message>
-        <source>Unselect All Files</source>
+        <source>Deselect All Files</source>
         <translation>Зняти виділення</translation>
     </message>
     <message>
@@ -2382,7 +2382,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>Кеш не знайдено!</translation>
     </message>
     <message>
-        <source>Clear Birthdays Cach</source>
+        <source>Clear Birthdays Cache</source>
         <translation>Очистити кеш днів народження</translation>
     </message>
     <message>

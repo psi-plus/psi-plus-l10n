@@ -2266,7 +2266,7 @@ Per invitare un amico ad una partita, puoi usare la voce di menu contestuale del
         <translation>Seleziona tutti i file</translation>
     </message>
     <message>
-        <source>Unselect All Files</source>
+        <source>Deselect All Files</source>
         <translation>Deseleziona tutti i file</translation>
     </message>
     <message>
@@ -2378,7 +2378,7 @@ Per invitare un amico ad una partita, puoi usare la voce di menu contestuale del
         <translation>Cache Non Trovata!</translation>
     </message>
     <message>
-        <source>Clear Birthdays Cach</source>
+        <source>Clear Birthdays Cache</source>
         <translation>Pulisci Cache Compleanni</translation>
     </message>
     <message>

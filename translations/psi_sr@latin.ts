@@ -2231,7 +2231,7 @@ Za slanje komandi, koriste se normalne poruke pa će ovaj dodatak uvek raditi gd
         <translation>Selektuj sve fajlove</translation>
     </message>
     <message>
-        <source>Unselect All Files</source>
+        <source>Deselect All Files</source>
         <translation>Deselektuj sve fajlove</translation>
     </message>
     <message>
@@ -2343,7 +2343,7 @@ Za slanje komandi, koriste se normalne poruke pa će ovaj dodatak uvek raditi gd
         <translation>Keš nije pronadjen!</translation>
     </message>
     <message>
-        <source>Clear Birthdays Cach</source>
+        <source>Clear Birthdays Cache</source>
         <translation>Očisti rodjendanski keš</translation>
     </message>
     <message>

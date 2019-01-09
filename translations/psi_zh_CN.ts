@@ -2257,7 +2257,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>选择所有文件</translation>
     </message>
     <message>
-        <source>Unselect All Files</source>
+        <source>Deselect All Files</source>
         <translation>反选全部文件</translation>
     </message>
     <message>
@@ -2369,7 +2369,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>没有发现缓存!</translation>
     </message>
     <message>
-        <source>Clear Birthdays Cach</source>
+        <source>Clear Birthdays Cache</source>
         <translation>清除生日缓存</translation>
     </message>
     <message>

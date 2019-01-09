@@ -2244,7 +2244,7 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
         <translation>Minden fájl kiválasztása</translation>
     </message>
     <message>
-        <source>Unselect All Files</source>
+        <source>Deselect All Files</source>
         <translation>Összes kijelölés megszüntetése</translation>
     </message>
     <message>
@@ -2356,7 +2356,7 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
         <translation>Cache nem található!</translation>
     </message>
     <message>
-        <source>Clear Birthdays Cach</source>
+        <source>Clear Birthdays Cache</source>
         <translation>Születésnapok-cache törlése</translation>
     </message>
     <message>

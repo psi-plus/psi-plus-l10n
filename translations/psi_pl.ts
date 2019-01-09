@@ -2231,7 +2231,7 @@ Do wysyłania poleceń używana jest zwykła wiadomość, więc ten dodatek dzia
         <translation>Zaznacz wszystkie pliki</translation>
     </message>
     <message>
-        <source>Unselect All Files</source>
+        <source>Deselect All Files</source>
         <translation>Odznacz wszystkie pliki</translation>
     </message>
     <message>
@@ -2343,7 +2343,7 @@ Do wysyłania poleceń używana jest zwykła wiadomość, więc ten dodatek dzia
         <translation>Pamięć podręczna nie odnaleziona!</translation>
     </message>
     <message>
-        <source>Clear Birthdays Cach</source>
+        <source>Clear Birthdays Cache</source>
         <translation>Usuń pamięć urodzin</translation>
     </message>
     <message>
