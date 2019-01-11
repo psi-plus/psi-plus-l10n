@@ -2381,12 +2381,12 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>Очистить кэш дней рождения</translation>
     </message>
     <message>
-        <source>Clear Birthdays Cache</source>
-        <translation>Очистить кэш дней рождения</translation>
-    </message>
-    <message>
         <source>Birthdays Cache Successfully Cleared</source>
         <translation>Кэш дней рождения успешно очищен</translation>
+    </message>
+    <message>
+        <source>Unselect All Files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

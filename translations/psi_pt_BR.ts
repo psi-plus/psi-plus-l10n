@@ -2369,12 +2369,12 @@ Para o envio de comandos, mensagens normais serão utilizadas, por isso este plu
         <translation>Limpar Cache de Aniversário</translation>
     </message>
     <message>
-        <source>Clear Birthdays Cache</source>
-        <translation>Limpar Cache de Aniversário</translation>
-    </message>
-    <message>
         <source>Birthdays Cache Successfully Cleared</source>
         <translation>Cache de Aniversário foi Limpado com Sucesso</translation>
+    </message>
+    <message>
+        <source>Unselect All Files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

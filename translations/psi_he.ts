@@ -2334,12 +2334,12 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>טהר מטמון ימי הולדת</translation>
     </message>
     <message>
-        <source>Clear Birthdays Cache</source>
-        <translation>טהר מטמון ימי הולדת</translation>
-    </message>
-    <message>
         <source>Birthdays Cache Successfully Cleared</source>
         <translation>מטמון ימי הולדת טוהר בהצלחה</translation>
+    </message>
+    <message>
+        <source>Unselect All Files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

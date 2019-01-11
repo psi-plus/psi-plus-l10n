@@ -2373,12 +2373,12 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>清除生日缓存</translation>
     </message>
     <message>
-        <source>Clear Birthdays Cache</source>
-        <translation>清除生日缓存</translation>
-    </message>
-    <message>
         <source>Birthdays Cache Successfully Cleared</source>
         <translation>生日缓存被成功清除</translation>
+    </message>
+    <message>
+        <source>Unselect All Files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

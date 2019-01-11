@@ -2383,12 +2383,12 @@ Für die Übermittlung von Befehlen werden normale Nachrichten verwendet. Somit 
         <translation>Lösche Geburtstags-Speicher</translation>
     </message>
     <message>
-        <source>Clear Birthdays Cache</source>
-        <translation>Lösche Geburtstags-Speicher</translation>
-    </message>
-    <message>
         <source>Birthdays Cache Successfully Cleared</source>
         <translation>Geburtstags-Speicher erfolgreich geleert</translation>
+    </message>
+    <message>
+        <source>Unselect All Files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

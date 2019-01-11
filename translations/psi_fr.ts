@@ -2359,12 +2359,12 @@ Les messages sont utilisés pour envoyer des commandes, il suffit donc de pouvoi
         <translation>Effacer le cache des Anniversaires</translation>
     </message>
     <message>
-        <source>Clear Birthdays Cache</source>
-        <translation>Effacer le cache des Anniversaires</translation>
-    </message>
-    <message>
         <source>Birthdays Cache Successfully Cleared</source>
         <translation>Le cache des Anniversaires a bien été effacé</translation>
+    </message>
+    <message>
+        <source>Unselect All Files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

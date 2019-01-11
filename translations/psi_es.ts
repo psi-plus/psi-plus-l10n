@@ -2362,12 +2362,12 @@ Para enviar las órdenes, se usan los mensajes normales, por lo que este complem
         <translation>Limpiar caché de cumpleaños</translation>
     </message>
     <message>
-        <source>Clear Birthdays Cache</source>
-        <translation>Limpiar caché de cumpleaños</translation>
-    </message>
-    <message>
         <source>Birthdays Cache Successfully Cleared</source>
         <translation>Caché de cumpleaños vaciada satisfactoriamente</translation>
+    </message>
+    <message>
+        <source>Unselect All Files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

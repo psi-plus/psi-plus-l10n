@@ -2347,12 +2347,12 @@ Za slanje komandi, koriste se normalne poruke pa će ovaj dodatak uvek raditi gd
         <translation>Očisti rodjendanski keš</translation>
     </message>
     <message>
-        <source>Clear Birthdays Cache</source>
-        <translation>Očisti rodjendanski keš</translation>
-    </message>
-    <message>
         <source>Birthdays Cache Successfully Cleared</source>
         <translation>Rodjendanski keš uspešno obrisan</translation>
+    </message>
+    <message>
+        <source>Unselect All Files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

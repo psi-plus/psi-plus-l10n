@@ -2357,12 +2357,12 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>Ачысьціць запасьнік народзінаў</translation>
     </message>
     <message>
-        <source>Clear Birthdays Cache</source>
-        <translation>Ачысьціць запасьнік народзінаў</translation>
-    </message>
-    <message>
         <source>Birthdays Cache Successfully Cleared</source>
         <translation>Запасьнік народзінаў ачысьцілі</translation>
+    </message>
+    <message>
+        <source>Unselect All Files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

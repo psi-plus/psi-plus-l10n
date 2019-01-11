@@ -2382,12 +2382,12 @@ Per invitare un amico ad una partita, puoi usare la voce di menu contestuale del
         <translation>Pulisci Cache Compleanni</translation>
     </message>
     <message>
-        <source>Clear Birthdays Cache</source>
-        <translation>Pulisci Cache Compleanni</translation>
-    </message>
-    <message>
         <source>Birthdays Cache Successfully Cleared</source>
         <translation>Cache compleanni cancellate con succeso</translation>
+    </message>
+    <message>
+        <source>Unselect All Files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

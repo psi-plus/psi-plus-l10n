@@ -2353,12 +2353,12 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>Изчистване на Кеша за Рождени Дни</translation>
     </message>
     <message>
-        <source>Clear Birthdays Cache</source>
-        <translation>Изчистване на Кеша за Рождени Дни</translation>
-    </message>
-    <message>
         <source>Birthdays Cache Successfully Cleared</source>
         <translation>Кешът на рождените дни беше Успешно Изчистен</translation>
+    </message>
+    <message>
+        <source>Unselect All Files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

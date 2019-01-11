@@ -2359,12 +2359,12 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
         <translation>Vymazat cache narozenin</translation>
     </message>
     <message>
-        <source>Clear Birthdays Cache</source>
-        <translation>Vymazat cache narozenin</translation>
-    </message>
-    <message>
         <source>Birthdays Cache Successfully Cleared</source>
         <translation>Cache narozenin byla úspěšně vymazána</translation>
+    </message>
+    <message>
+        <source>Unselect All Files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

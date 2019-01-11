@@ -2360,12 +2360,12 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
         <translation>Születésnapok-cache törlése</translation>
     </message>
     <message>
-        <source>Clear Birthdays Cache</source>
-        <translation>Születésnapok-cache törlése</translation>
-    </message>
-    <message>
         <source>Birthdays Cache Successfully Cleared</source>
         <translation>Születésnapok-cache sikeresen törölve</translation>
+    </message>
+    <message>
+        <source>Unselect All Files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

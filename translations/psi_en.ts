@@ -2380,12 +2380,12 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>Clear Birthdays Cache</translation>
     </message>
     <message>
-        <source>Clear Birthdays Cache</source>
-        <translation>Clear Birthdays Cache</translation>
-    </message>
-    <message>
         <source>Birthdays Cache Successfully Cleared</source>
         <translation>Birthdays Cache Successfully Cleared</translation>
+    </message>
+    <message>
+        <source>Unselect All Files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

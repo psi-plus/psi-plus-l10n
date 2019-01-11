@@ -2347,12 +2347,12 @@ Do wysyłania poleceń używana jest zwykła wiadomość, więc ten dodatek dzia
         <translation>Usuń pamięć urodzin</translation>
     </message>
     <message>
-        <source>Clear Birthdays Cache</source>
-        <translation>Usuń pamięć urodzin</translation>
-    </message>
-    <message>
         <source>Birthdays Cache Successfully Cleared</source>
         <translation>Pamięć urodzin pomyślnie usunięta</translation>
+    </message>
+    <message>
+        <source>Unselect All Files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

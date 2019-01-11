@@ -2315,11 +2315,11 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clear Birthdays Cache</source>
+        <source>Birthdays Cache Successfully Cleared</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Birthdays Cache Successfully Cleared</source>
+        <source>Unselect All Files</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
