@@ -254,8 +254,7 @@ Copyright © 2001-2019 The Psi Team.&lt;br&gt;
 </source>
         <translation>Крос-платформний XMPP клієнт призначений для досвідчених користувачів.&lt;br&gt;
 &lt;br&gt;
-Copyright © 2001-2017 The Psi Team.&lt;br&gt;
- {2001-2019 ?}</translation>
+Copyright © 2001-2019 The Psi Team.&lt;br&gt;</translation>
     </message>
 </context>
 <context>
@@ -2393,7 +2392,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Unselect All Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Зняти виділення</translation>
     </message>
 </context>
 <context>
