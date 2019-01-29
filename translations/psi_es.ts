@@ -1421,7 +1421,7 @@ Para que funcione correctamente, es necesario que el cliente del otro lado sopor
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -1455,6 +1455,10 @@ The list of exceptions for jids has two operating modes:
 La lista de excepciones por JID tiene dos modos de operación:
 * la contestadora está apagada para la lista de excepciones, encendida para el resto (modo Inhabilitado)
 * la contestadora está encendida para la lista de excepciones, apagada para el resto (modo Habilitado)</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2093,7 +2097,7 @@ a jugar ajedrez. Quiere jugar %2.</translation>
     <name>ChessPlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Chess Plugin</source>
@@ -2160,6 +2164,10 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>Este complemento te permite jugar ajedrez con tus amigos.
 Es compatible con un complemento similar para Tkabber.
 Para enviar las órdenes, se usan los mensajes normales, por lo que este complemento funcionará siempre y cuando puedas iniciar sesión. Para invitar un amigo al juego, puedes usar la entrada del menú de contactos o el botón en la barra de herramientas de la ventana de conversación.</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2378,7 +2386,7 @@ Para enviar las órdenes, se usan los mensajes normales, por lo que este complem
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -2392,6 +2400,10 @@ Para enviar las órdenes, se usan los mensajes normales, por lo que este complem
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
 You can preview items before deleting them from your hard drive.</source>
         <translation>Este complemento ha sido diseñado para limpiar la caché de avatares, copias locales de vCards y registro de historial. Puedes tener una vista previa antes de eliminarlos de tu disco duro.</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2555,7 +2567,7 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Groupchat History</source>
@@ -2578,6 +2590,10 @@ Nota: Para su correcto funcionamiento, la barra de herramientas &quot;Sala de ch
     <message>
         <source>Email: </source>
         <translation>Email:</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4049,7 +4065,7 @@ Esta opción solo tiene efecto si accept-defaults está en falso.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS para Psi+&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS para Psi+&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Disable wheel scroll</source>
@@ -4113,7 +4129,7 @@ Esta opción solo tiene efecto si accept-defaults está en falso.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -4143,6 +4159,14 @@ Importante: una gran parte de las opciones son configuraciones importantes del s
     </message>
     <message>
         <source>Store MUC private messages in history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4581,6 +4605,10 @@ Razón: %3</translation>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6085,7 +6113,7 @@ Continue?</source>
     <name>HistoryKeeperPlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Remove history for contacts:</source>
@@ -6108,6 +6136,10 @@ Continue?</source>
 You can select or deselect a contact for history removal from the context menu of a contact or via the plugin options.</source>
         <translation>Este complemento ha sido diseñado para eliminar el historial  de los contactos seleccionados al cerrar Psi+.
 Puedes marcar o desmarcar un contacto para la eliminación de su historial desde el menú contextual o un contacto por medio de las opciones del complemento.</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6619,7 +6651,7 @@ Sinceramente, Debian Sid.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -6643,12 +6675,16 @@ Tiene un número de pequeñas configuraciones que te ayudarán:
 * inhabilitar el mensaje para ventanas/pestañas activas
 * inhabilitar mensajes pra contactos que no están en tu lista de contactos</translation>
     </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ImagePlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Send Image</source>
@@ -6704,6 +6740,10 @@ Nota: Para su correcto funcionamiento, la opción options.ui.chat.central-toolba
     </message>
     <message>
         <source>Image %1 is sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7324,13 +7364,23 @@ Currently, the plugin is able to:
 * Enable clickable @nick, *tag, #message_id and other control elements to insert them into the typing area
 
 Note: To work correctly, the option options.html.chat.render	must be set to true. </source>
-        <translation>Este complemento ha sido diseñado para trabajar eficiente y cómodamente con el servicio de microblogging Juick.
+        <translation type="vanished">Este complemento ha sido diseñado para trabajar eficiente y cómodamente con el servicio de microblogging Juick.
 Actualmente es capaz de:
 * Colorear @apodo, *etiqueta e #id_mensaje en mensajes provenientes del bot juick@juick.com
 * Detectar &gt;citas en mensajes
 * Habilitar clics en @apodo, *etiqueta, #id_mensaje y otros elementos de control para insertarlos en el área de escritura
 
 Nota: Para su correcto funcionamiento, la opción: options.html.chat.render debe ser establecida como true.</translation>
+    </message>
+    <message>
+        <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
+Currently, the plugin is able to: 
+* Coloring @nick, *tag and #message_id in messages from the juick@juick.com bot
+* Detect &gt;quotes in messages
+* Enable clickable @nick, *tag, #message_id and other control elements to insert them into the typing area
+
+Note: To work correctly, the option options.html.chat.render    must be set to true. </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9665,7 +9715,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Contact menu</source>
@@ -9775,7 +9825,7 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Manager</source>
@@ -10133,6 +10183,42 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>Color for incoming messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11264,6 +11350,18 @@ a las personas frecuentemente contactadas por email.</translation>
     <message>
         <source>Save queries to log</source>
         <translation>Guardar consultas a un archivo de trazas</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15404,7 +15502,7 @@ Gracias por tu paciencia.</translation>
     <name>QipXStatuses</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -15417,6 +15515,10 @@ Gracias por tu paciencia.</translation>
     <message>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
         <translation>Este complemento ha sido diseñado para mostrar los estados-x de contactos usando el cliente jabber QIP Infium.</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16570,7 +16672,7 @@ Razón: %1</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Choose a skin file</source>
@@ -16652,6 +16754,10 @@ En la mayoría de los casos, para asegurarse que el diseño se aplicó correctam
 2. Reiniciar la aplicación
 3. Aplicar nuevamente el mismo diseño
 Esto permite que todas las configuraciones (íconos, distribución de la barra de herramientas) sean recuperadas correctamente.</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16848,7 +16954,7 @@ El complemento guarda una traza de los mensajes bloqueados, la cual puedes ver a
     <name>StorageNotesPlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Storage Notes</source>
@@ -16869,6 +16975,10 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
         <translation>Este complemento es una implementación de XEP-0049: Almacenamiento privado de XML.
 Es completamente compatible con las notas almacenadas usando Miranda IM.
 El complemento ha sido diseñado para mantener las notas en el servidor jabber con la habilidad de acceder a ellas desde cualquier otro lugar usando Psi+ o Miranda IM.</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18515,7 +18625,15 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Wiki (en línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Wiki (en línea)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19068,6 +19186,14 @@ a este mensaje en juick@conference.jabber.ru</translation>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
+    <message>
+        <source>https://link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>uploadDialog</name>
@@ -19382,7 +19508,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (En línea)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
