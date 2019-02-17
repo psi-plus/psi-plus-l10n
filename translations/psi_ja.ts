@@ -16559,7 +16559,7 @@ Currently supports:
   XEP-0025
 
 Copyright (C) 2003 Justin Karneges</source>
-        <translation type="vanished">%1 v1.0
+        <translation>%1 v1.0
 
 Iris XMPPライブラリのデモユーティリティ.
 
@@ -16626,18 +16626,6 @@ Please correct and try again.</source>
     <message>
         <source>Enter the password for %1</source>
         <translation>%1 のパスワードを入力してください</translation>
-    </message>
-    <message>
-        <source>%1 v1.0
-
-Utility to demonstrate the Iris XMPP library.
-
-Currently supports:
-  draft-ietf-xmpp-core-21
-  XEP-0025
-
-Copyright (C) 2003 Justin Karneges</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

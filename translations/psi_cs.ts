@@ -16926,7 +16926,7 @@ Currently supports:
   XEP-0025
 
 Copyright (C) 2003 Justin Karneges</source>
-        <translation type="vanished">%1 v1.0
+        <translation>%1 v1.0
 
 Nástroj k ukázce knihovny Iris XMPP.
 
@@ -16993,18 +16993,6 @@ Opravte ho a zkuste to znovu.</translation>
     <message>
         <source>Enter the password for %1</source>
         <translation>Vlož heslo pro %1</translation>
-    </message>
-    <message>
-        <source>%1 v1.0
-
-Utility to demonstrate the Iris XMPP library.
-
-Currently supports:
-  draft-ietf-xmpp-core-21
-  XEP-0025
-
-Copyright (C) 2003 Justin Karneges</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

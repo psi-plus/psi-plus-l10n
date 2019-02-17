@@ -16525,7 +16525,7 @@ Currently supports:
   XEP-0025
 
 Copyright (C) 2003 Justin Karneges</source>
-        <translation type="vanished">%1 pb1.0
+        <translation>%1 pb1.0
 
 Tiện ích để thao diễn thư viện XMPP Iris.
 
@@ -16592,18 +16592,6 @@ Hãy sửa chữa và thử lại.</translation>
     <message>
         <source>Enter the password for %1</source>
         <translation>Gõ mật khẩu cho %1</translation>
-    </message>
-    <message>
-        <source>%1 v1.0
-
-Utility to demonstrate the Iris XMPP library.
-
-Currently supports:
-  draft-ietf-xmpp-core-21
-  XEP-0025
-
-Copyright (C) 2003 Justin Karneges</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

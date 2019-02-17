@@ -7030,7 +7030,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Abuse</source>
-        <translation type="unfinished"></translation>
+        <translation>Злоупотребление</translation>
     </message>
     <message>
         <source>Administrators</source>
@@ -7038,15 +7038,15 @@ Reason: %1</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Обратная связь</translation>
     </message>
     <message>
         <source>Sales</source>
-        <translation type="unfinished"></translation>
+        <translation>Продажи</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation type="unfinished"></translation>
+        <translation>Безопасность</translation>
     </message>
     <message>
         <source>Support</source>
@@ -19183,7 +19183,7 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>https://link</source>
-        <translation type="unfinished"></translation>
+        <translation>https://link</translation>
     </message>
 </context>
 <context>

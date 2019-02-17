@@ -16943,7 +16943,7 @@ Currently supports:
   XEP-0025
 
 Copyright (C) 2003 Justin Karneges</source>
-        <translation type="vanished">%1 v1.0
+        <translation>%1 v1.0
 
 Az Iris XMPP library demonstrálására való eszköz.
 
@@ -17010,18 +17010,6 @@ Javítsd és próbáld újra.</translation>
     <message>
         <source>Enter the password for %1</source>
         <translation>Írd be a jelszót %1 számára</translation>
-    </message>
-    <message>
-        <source>%1 v1.0
-
-Utility to demonstrate the Iris XMPP library.
-
-Currently supports:
-  draft-ietf-xmpp-core-21
-  XEP-0025
-
-Copyright (C) 2003 Justin Karneges</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

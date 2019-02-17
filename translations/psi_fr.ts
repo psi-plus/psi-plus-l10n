@@ -16821,7 +16821,7 @@ Currently supports:
   XEP-0025
 
 Copyright (C) 2003 Justin Karneges</source>
-        <translation type="vanished">%1 v1.0
+        <translation>%1 v1.0
 Utilitaire pour présenter la librairie XMPP Iris.
 Supporte actuellement:
   draft-ietf-xmpp-core-21
@@ -16885,18 +16885,6 @@ SVP corrigez et réessayez.</translation>
     <message>
         <source>Enter the password for %1</source>
         <translation>Entrez le mot de passe pour %1</translation>
-    </message>
-    <message>
-        <source>%1 v1.0
-
-Utility to demonstrate the Iris XMPP library.
-
-Currently supports:
-  draft-ietf-xmpp-core-21
-  XEP-0025
-
-Copyright (C) 2003 Justin Karneges</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
