@@ -16742,6 +16742,18 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
         <translation>אודות %1</translation>
     </message>
     <message>
+        <source>%1 v1.0
+
+Utility to demonstrate the Iris XMPP library.
+
+Currently supports:
+  draft-ietf-xmpp-core-21
+  XEP-0025
+
+Copyright (C) 2003 Justin Karneges</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Error</source>
         <translation>שגיאה</translation>
     </message>
@@ -16797,18 +16809,6 @@ Please correct and try again.</source>
     <message>
         <source>Enter the password for %1</source>
         <translation>הזנת סיסמה עבור %1</translation>
-    </message>
-    <message>
-        <source>%1 v1.0
-
-Utility to demonstrate the Iris XMPP library.
-
-Currently supports:
-  draft-ietf-xmpp-core-21
-  XEP-0025
-
-Copyright (C) 2003 Justin Karneges</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

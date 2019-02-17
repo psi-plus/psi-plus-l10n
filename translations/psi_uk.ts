@@ -2390,10 +2390,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <source>Birthdays Cache Successfully Cleared</source>
         <translation>Кеш днів народження успішно очищено</translation>
     </message>
-    <message>
-        <source>Unselect All Files</source>
-        <translation type="vanished">Зняти виділення</translation>
-    </message>
 </context>
 <context>
     <name>CleanerPlugin</name>

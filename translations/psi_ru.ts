@@ -17047,16 +17047,16 @@ Utility to demonstrate the Iris XMPP library.
 
 Currently supports:
   draft-ietf-xmpp-core-21
-  JEP-0025
+  XEP-0025
 
 Copyright (C) 2003 Justin Karneges</source>
-        <translation type="vanished">%1 v1.0
+        <translation>%1 v1.0
 
 Утилита для демонстрации XMPP-библиотеки Iris.
 
 В настоящее время поддерживает:
   draft-ietf-xmpp-core-21
-  JEP-0025
+  XEP-0025
 
 Copyright © 2003 Justin Karneges</translation>
     </message>
@@ -17117,26 +17117,6 @@ Please correct and try again.</source>
     <message>
         <source>Enter the password for %1</source>
         <translation>Введите пароль для %1</translation>
-    </message>
-    <message>
-        <source>%1 v1.0
-
-Utility to demonstrate the Iris XMPP library.
-
-Currently supports:
-  draft-ietf-xmpp-core-21
-  XEP-0025
-
-Copyright (C) 2003 Justin Karneges</source>
-        <translation>%1 v1.0
-
-Утилита для демонстрации XMPP-библиотеки Iris.
-
-В настоящее время поддерживает:
-  draft-ietf-xmpp-core-21
-  XEP-0025
-
-Copyright © 2003 Justin Karneges</translation>
     </message>
 </context>
 <context>

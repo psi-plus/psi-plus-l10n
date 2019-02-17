@@ -2362,10 +2362,6 @@ Les messages sont utilisés pour envoyer des commandes, il suffit donc de pouvoi
         <source>Birthdays Cache Successfully Cleared</source>
         <translation>Le cache des Anniversaires a bien été effacé</translation>
     </message>
-    <message>
-        <source>Unselect All Files</source>
-        <translation type="vanished">Désélectionner tous les fichiers</translation>
-    </message>
 </context>
 <context>
     <name>CleanerPlugin</name>
