@@ -18914,7 +18914,10 @@ You should authenticate %1 as well by asking your own question.</source>
 And while it may work properly, additional modifications to the private keys list
 may lead to a crash. Deinitialization of libotr/plugin is also considered to be a
 change to the private keys list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Libotr, по словам его авторов, имеет ошибку в процедуре чтения файла закрытых ключей. И хотя 
+она работает правильно, дополнительные изменения в списке закрытых ключей могут привести к
+падению программы. Отключение OTR плагина также приравнивается к изменению списка закрытых
+ключей и может привести к падению программы.</translation>
     </message>
 </context>
 <context>
