@@ -2356,10 +2356,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <source>Birthdays Cache Successfully Cleared</source>
         <translation>Кешът на рождените дни беше Успешно Изчистен</translation>
     </message>
-    <message>
-        <source>Unselect All Files</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>CleanerPlugin</name>
@@ -4044,8 +4040,8 @@ This option only has effect if accept-defaults is false.</source>
         <translation>Подсказа</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS за Psi+&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/skins_css&quot;&gt;CSS за Psi+&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Disable wheel scroll</source>
@@ -4135,10 +4131,6 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>Store MUC private messages in history</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4577,10 +4569,6 @@ Reason: %3</source>
     <message>
         <source>Download and Install</source>
         <translation>Сваляне и Инсталиране</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -9539,7 +9527,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>Изпълнение на звук:</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9593,7 +9581,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Проверка за рождени дни при стартиране</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9617,7 +9605,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Действие на Лентата с инструменти</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9746,7 +9734,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Изтриване</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9790,7 +9778,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Звук:</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9907,7 +9895,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9943,7 +9931,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10068,34 +10056,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11117,7 +11077,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Преглед на журнал</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11189,7 +11149,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Редактиране</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11221,23 +11181,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Отлагане възстановяването на статус, сек</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save queries to log</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18328,7 +18276,7 @@ Do you still want to close the window?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18379,10 +18327,6 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18905,10 +18849,6 @@ change to the private keys list.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>http://link</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Use message Id as resource</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18930,15 +18870,11 @@ to this message in juick@conference.jabber.ru</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>https://link</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -1433,8 +1433,8 @@ To work correctly, the plugin requires that the client of the other part support
         <translation>倍(-1=无穷)</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -1468,10 +1468,6 @@ The list of exceptions for jids has two operating modes:
 *自动应答切换例外的清单，为别人打开(关闭模式)
 *自动应答开启的例外列表，为别人关闭(启用模式)
 </translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2108,8 +2104,8 @@ to play chess. He wants to play %2.</source>
 <context>
     <name>ChessPlugin</name>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Chess Plugin</source>
@@ -2175,10 +2171,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>这个插件允许你和朋友下棋。
 该插件与Tkabber类似的插件兼容。
 使用了普通信息来发送命令，因此该插件将始终在您能够登录的任何地方工作。要邀请朋友参与游戏，你可以使用在联系人右键菜单的项目或聊天窗口的工具栏上的按钮。</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2384,10 +2376,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <source>Birthdays Cache Successfully Cleared</source>
         <translation>生日缓存被成功清除</translation>
     </message>
-    <message>
-        <source>Unselect All Files</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>CleanerPlugin</name>
@@ -2396,8 +2384,8 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>启动清理器</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -2412,10 +2400,6 @@ For sending commands, normal messages are used, so this plugin will always work 
 You can preview items before deleting them from your hard drive.</source>
         <translation>该插件的目的是清除头像缓存，保存的电子名片和历史记录的本地记录
 您可以在从硬盘中删除之前的预览。</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2579,8 +2563,8 @@ You can specify the version of the client and OS or to select them from the pres
         <translation>查看日志</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Groupchat History</source>
@@ -2603,10 +2587,6 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <source>Email: </source>
         <translation>邮件:</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4078,8 +4058,8 @@ This option only has effect if accept-defaults is false.</source>
         <translation>工具提示</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Disable wheel scroll</source>
@@ -4142,8 +4122,8 @@ This option only has effect if accept-defaults is false.</source>
         <translation>通知</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -4174,14 +4154,6 @@ Importantly: a large part of the options are important system settings. These re
     <message>
         <source>Store MUC private messages in history</source>
         <translation>在历史记录保存MUC私人信息</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4616,12 +4588,8 @@ Reason: %3</source>
         <translation>下载和安装</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -6124,8 +6092,8 @@ Continue?</source>
 <context>
     <name>HistoryKeeperPlugin</name>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Remove history for contacts:</source>
@@ -6148,10 +6116,6 @@ Continue?</source>
 You can select or deselect a contact for history removal from the context menu of a contact or via the plugin options.</source>
         <translation>该插件的目的是当Psi+关闭时，移除所选联系人的历史记录。
 你可以从联系人的右键菜单中或插件选项选择或取消选择一个联系人的历史记录。</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6661,8 +6625,8 @@ Sincerely yours, Debian Sid.</source>
 真诚的，Debian Sid.</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -6685,16 +6649,12 @@ The plugin has a number of simple settings that can help you:
 *禁止发送给活动窗口/选项卡信息
 *禁止发送给不在你名单内的联系人的信息</translation>
     </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>ImagePlugin</name>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Send Image</source>
@@ -6750,10 +6710,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Image %1 is sent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9675,8 +9631,8 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>播放音效:</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts
@@ -9728,8 +9684,8 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>在启动时检查生日</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Options</source>
@@ -9744,8 +9700,8 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>使用代理服务器设置帐户</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Contact menu</source>
@@ -9756,8 +9712,8 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>工具栏操作</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Supported accounts:</source>
@@ -9846,8 +9802,8 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>启动程序:</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Manager</source>
@@ -9890,8 +9846,8 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>删除</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Per contact delay between the popup notifications of the same events</source>
@@ -9934,8 +9890,8 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>音频:</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Main</source>
@@ -10052,8 +10008,8 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
 (不为MUC私人信息工作)</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Status</source>
@@ -10088,8 +10044,8 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>在联系人右键菜单中给JID按钮显示监视</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>from file</source>
@@ -10205,42 +10161,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Color for incoming messages numbers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11262,8 +11182,8 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>查看日志</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Shortcut:</source>
@@ -11334,8 +11254,8 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>编辑</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Enable for players:</source>
@@ -11366,24 +11286,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>延迟恢复状态，秒</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Save queries to log</source>
         <translation>将查询保存到日志中</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15508,8 +15416,8 @@ Thanks for your patience.</source>
 <context>
     <name>QipXStatuses</name>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -15522,10 +15430,6 @@ Thanks for your patience.</source>
     <message>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
         <translation>该插件的目的是显示使用QIP Infium客户端的联系人的x-状态。</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16676,8 +16580,8 @@ Reason: %1</source>
         <translation>备份皮肤前申请</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Choose a skin file</source>
@@ -16758,10 +16662,6 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
 2.重新启动应用
 3.再次应用相同的皮肤
 这使得所有设置(图标、工具栏布局)能够正确显示。</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16957,8 +16857,8 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
 <context>
     <name>StorageNotesPlugin</name>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Storage Notes</source>
@@ -16979,10 +16879,6 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
         <translation>该插件是XEP-0049的一个工具:私人XML存储。
 该插件完全兼容用Miranda IM保存的笔记。
 该插件的目的是对jabber服务器进行记录，以使得在任何地方均可使用Psi+或Miranda IM进入。</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18586,8 +18482,8 @@ Do you still want to close the window?</source>
         <translation>保存窗口位置</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Auto Reply Message If Recv:</source>
@@ -18642,16 +18538,8 @@ Do you still want to close the window?</source>
         <translation>禁用会议邀请</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -19179,7 +19067,7 @@ change to the private keys list.</source>
     </message>
     <message>
         <source>http://link</source>
-        <translation>http://链接</translation>
+        <translation type="vanished">http://链接</translation>
     </message>
     <message>
         <source>Use message Id as resource</source>
@@ -19204,15 +19092,11 @@ to this message in juick@conference.jabber.ru</source>
         <translation>清空头像缓存</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>https://link</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -19527,12 +19411,8 @@ p, li { white-space: pre-wrap; }
         <translation>清除 Cookies</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (在线)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (在线)&lt;/a&gt;</translation>
     </message>
 </context>
 </TS>

@@ -1417,8 +1417,8 @@ A helyes működéshez szükséges a másik oldali kliensnek a XEP-0224 beépül
         <translation>ismétlés (-1=végtelen)</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -1451,10 +1451,6 @@ The list of exceptions for jids has two operating modes:
 A JID-ek kivétellistájának 2 beállítása van:
 * az automatikus válaszoló ki van kapcsolva a kivétellistához, a többieknek be (Kikapcsolt mód)
 * az automatikus válaszoló be van kapcsolva a kivétellistához, a többieknek ki (Bekapcsolt mód)</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2092,8 +2088,8 @@ sakkra. Ezt szeretné: %2.</translation>
 <context>
     <name>ChessPlugin</name>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Chess Plugin</source>
@@ -2160,10 +2156,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>Ezzel a kiegészítővel sakkozhatsz a barátaiddal.
 Ez a kiegészítő kompatibilis a Tkabberben lévő hasonló kiegészítővel.
 Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni fog, akárhol jelentkezel is be. Hogy meghívj egy barátot játékra, használhatod az ismerősök menüelemet vagy a gombot az eszköztáron a beszélgetésablakban.</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2371,10 +2363,6 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
         <source>Birthdays Cache Successfully Cleared</source>
         <translation>Születésnapok-cache sikeresen törölve</translation>
     </message>
-    <message>
-        <source>Unselect All Files</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>CleanerPlugin</name>
@@ -2383,8 +2371,8 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
         <translation>Takarító indítása</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -2399,10 +2387,6 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
 You can preview items before deleting them from your hard drive.</source>
         <translation>Ez a kiegészítő a Profilkép-cache-ek, vCard-ok és előzménynaplók helyi másolatának törlésére lett tervezve.
 Az elemeket megtekintheted, mielőtt törlöd őket a merevlemezről.</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2567,8 +2551,8 @@ Megadhatod a kliens verzióját és az operációs rendszert vagy kiválaszthato
         <translation>Napló megtekintése</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Groupchat History</source>
@@ -2591,10 +2575,6 @@ Megjegyzés: A helyes működéshez a Csoportbeszélgetés Eszköztárat be kell
     <message>
         <source>Email: </source>
         <translation>E-mail: </translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4065,8 +4045,8 @@ Ez az opció csak akkor működik, ha az alapértelmezések elfogadása ki van k
         <translation>Tipp</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS &quot;Psi+&quot;-hoz&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/skins_css&quot;&gt;CSS &quot;Psi+&quot;-hoz&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Disable wheel scroll</source>
@@ -4129,8 +4109,8 @@ Ez az opció csak akkor működik, ha az alapértelmezések elfogadása ki van k
         <translation>Értesítések</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -4160,14 +4140,6 @@ Legfőképpen: nagy része a beállításoknak fontos rendszerbeállítás. Ezek
     </message>
     <message>
         <source>Store MUC private messages in history</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4607,12 +4579,8 @@ Oka: %3</translation>
         <translation>Letöltés és telepítés</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -6115,8 +6083,8 @@ Folytatás?</translation>
 <context>
     <name>HistoryKeeperPlugin</name>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Remove history for contacts:</source>
@@ -6139,10 +6107,6 @@ Folytatás?</translation>
 You can select or deselect a contact for history removal from the context menu of a contact or via the plugin options.</source>
         <translation>Ez a kiegészítő a kiválasztott ismerősök előzményeinek törlésére lett tervezve, a Psi+ bezárásakor.
 Az ismerős menüjéből vagy a kiegészítő beállításainál is kiválaszthatod, hogy kinél használod.</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6653,8 +6617,8 @@ Ha nem tudod mi az a Jabber, a Google a Barátod. Mindent tud és boldogan segí
 Tisztelettel, Debian Sid.</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -6678,16 +6642,12 @@ A kiegészítőnek számos egyszerű beállítása segít ebben:
 * üzenet kikapcsolása az aktív ablakoknál/füleknél
 * üzenetek kikapcsolása azoknak ismerősöknek, akik nincsenek a címlistádon</translation>
     </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>ImagePlugin</name>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Send Image</source>
@@ -6743,10 +6703,6 @@ Megjegyzés: A helyes működéshez az &apos;options.ui.chat.central-toolbar&apo
     </message>
     <message>
         <source>Image %1 is sent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9654,8 +9610,8 @@ A beállításnevek nem lehetnek üresek, vagy végződhetnek pontra, nem tartal
         <translation>Hang lejátszása:</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts
@@ -9708,8 +9664,8 @@ Elérhető, és csak azután kattints a &quot;Születésnapok frissítése&quot;
         <translation>Születésnapok ellenőrzése indításkor</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Options</source>
@@ -9724,8 +9680,8 @@ Elérhető, és csak azután kattints a &quot;Születésnapok frissítése&quot;
         <translation>A fiók proxy-beállításainak használata</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Contact menu</source>
@@ -9736,8 +9692,8 @@ Elérhető, és csak azután kattints a &quot;Születésnapok frissítése&quot;
         <translation>Eszköztár művelet</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Supported accounts:</source>
@@ -9834,8 +9790,8 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
         <translation>Program indítása:</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Manager</source>
@@ -9878,8 +9834,8 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
         <translation>Törlés</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Per contact delay between the popup notifications of the same events</source>
@@ -9922,8 +9878,8 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
         <translation>Hang:</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Main</source>
@@ -10040,8 +9996,8 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
 (nem működik a konferencia magánbeszélgetéseinél)</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Status</source>
@@ -10076,8 +10032,8 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
         <translation>JID Figyelő gomb megjelenítése az ismerős menüjében</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>from file</source>
@@ -10193,42 +10149,6 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Color for incoming messages numbers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11250,8 +11170,8 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
         <translation>Napló megtekintése</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Shortcut:</source>
@@ -11322,8 +11242,8 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
         <translation>Szerkesztés</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Enable for players:</source>
@@ -11354,24 +11274,12 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
         <translation>Késleltetés az állapot visszaállítása előtt, másodpercben</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Save queries to log</source>
         <translation>Kérdések mentése naplófájlba</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15505,8 +15413,8 @@ Türelmét köszönjük.</translation>
 <context>
     <name>QipXStatuses</name>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -15519,10 +15427,6 @@ Türelmét köszönjük.</translation>
     <message>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
         <translation>Ez a kiegészítő az &apos;x-állapotok&apos; megjelenítésére lett tervezve, a QIP jabberklienst használó partnerek miatt.</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16675,8 +16579,8 @@ Oka: %1</translation>
         <translation>Stílus mentése alkalmazás előtt</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Choose a skin file</source>
@@ -16748,10 +16652,6 @@ In most cases, to be sure that the skin is applied correctly, you must perform a
 2. Restart the application
 3. Apply the same skin again
 This allows all settings (icons, toolbar layout) to be picked up correctly. </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16930,8 +16830,8 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
 <context>
     <name>StorageNotesPlugin</name>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Storage Notes</source>
@@ -16949,10 +16849,6 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi+ or Miranda IM.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18530,8 +18426,8 @@ Ablak bezárása mégis?</translation>
         <translation>Ablak helyzet elmentése</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Auto Reply Message If Recv:</source>
@@ -18581,10 +18477,6 @@ Ablak bezárása mégis?</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -19107,10 +18999,6 @@ change to the private keys list.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>http://link</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Use message Id as resource</source>
         <translation type="unfinished"></translation>
     </message>
@@ -19132,15 +19020,11 @@ to this message in juick@conference.jabber.ru</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>https://link</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -19448,12 +19332,8 @@ p, li { white-space: pre-wrap; }
         <translation>Sütik törlése</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</translation>
     </message>
 </context>
 </TS>
