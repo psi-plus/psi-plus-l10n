@@ -16941,7 +16941,7 @@ Utility to demonstrate the Iris XMPP library.
 
 Currently supports:
   draft-ietf-xmpp-core-21
-  JEP-0025
+  XEP-0025
 
 Copyright (C) 2003 Justin Karneges</source>
         <translation type="vanished">«%1» вэрсіі 1.0
@@ -16950,7 +16950,7 @@ Copyright (C) 2003 Justin Karneges</source>
 
 Зараз падтрымвае:
   draft-ietf-xmpp-core-21
-  JEP-0025
+  XEP-0025
 
 © Джастын Карнэґіс, 2003</translation>
     </message>

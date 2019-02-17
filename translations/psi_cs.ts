@@ -16923,7 +16923,7 @@ Utility to demonstrate the Iris XMPP library.
 
 Currently supports:
   draft-ietf-xmpp-core-21
-  JEP-0025
+  XEP-0025
 
 Copyright (C) 2003 Justin Karneges</source>
         <translation type="vanished">%1 v1.0
@@ -16932,7 +16932,7 @@ Nástroj k ukázce knihovny Iris XMPP.
 
 Nyní podporuje:
   draft-ietf-xmpp-core-21
-  JEP-0025
+  XEP-0025
 
 Copyright (C) 2003 Justin Karneges</translation>
     </message>

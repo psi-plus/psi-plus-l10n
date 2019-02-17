@@ -243,10 +243,10 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2019 The Psi Team.&lt;br&gt;
 </source>
-        <translation type="unfinished">Кросс-платформенный XMPP клиент для продвинутых пользователей.&lt;br&gt;
+        <translation>Кросс-платформенный XMPP клиент для продвинутых пользователей.&lt;br&gt;
 &lt;br&gt;
-Copyright © 2001-2017 The Psi Team.&lt;br&gt;
- {2001-2019 ?}</translation>
+Copyright © 2001-2019 The Psi Team.&lt;br&gt;
+</translation>
     </message>
 </context>
 <context>
@@ -6723,11 +6723,11 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>An image from the clipboard is sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Изображение из буфера обмена отправлено</translation>
     </message>
     <message>
         <source>Image %1 is sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Изображение %1 отправлено</translation>
     </message>
 </context>
 <context>
@@ -6776,7 +6776,8 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Этот плагин показывает в чатах превью изображений по ссылкам (только для не-webkit версий Psi).
+</translation>
     </message>
 </context>
 <context>
@@ -7049,7 +7050,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Support</source>
-        <translation type="unfinished"></translation>
+        <translation>Поддержка</translation>
     </message>
 </context>
 <context>
@@ -7369,7 +7370,13 @@ Currently, the plugin is able to:
 * Enable clickable @nick, *tag, #message_id and other control elements to insert them into the typing area
 
 Note: To work correctly, the option options.html.chat.render    must be set to true. </source>
-        <translation type="unfinished"></translation>
+        <translation>Данный плагин предназначен для эффективной и комфортной работы с сервисом микроблогов Juick.
+На текущий момент плагин умеет:
+ * Раскрашивать @ники, *тэги, #id_сообщений в сообщениях от бота juick@juick.com
+ * Распознавать &gt;цитаты в сообщениях
+ * Кликабельные @ники, *тэги, #id_сообщений и другие управляющие элементы для подстановки их в строку ввода.
+
+Примечание: для корректной работы плагина опция &quot;options.html.chat.render&quot; должна быть установлена в &quot;true&quot;. </translation>
     </message>
 </context>
 <context>
@@ -17121,7 +17128,15 @@ Currently supports:
   XEP-0025
 
 Copyright (C) 2003 Justin Karneges</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 v1.0
+
+Утилита для демонстрации XMPP-библиотеки Iris.
+
+В настоящее время поддерживает:
+  draft-ietf-xmpp-core-21
+  XEP-0025
+
+Copyright © 2003 Justin Karneges</translation>
     </message>
 </context>
 <context>
