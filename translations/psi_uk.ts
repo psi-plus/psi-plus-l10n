@@ -258,19 +258,19 @@ Copyright © 2001-2019 The Psi Team.&lt;br&gt;</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cross-platform XMPP client aimed at experienced users.&lt;br/&gt;&lt;br/&gt;Copyright © 2001-2019 The Psi Team.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Крос-платформний XMPP клієнт призначений для досвідчених користувачів.&lt;br/&gt;&lt;br/&gt;Copyright © 2001-2019 The Psi Team.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Past Lead Widget Developer</source>
-        <translation type="unfinished"></translation>
+        <translation>Колишній провідний розробник віджетів</translation>
     </message>
     <message>
         <source>Developer and Maintainer</source>
-        <translation type="unfinished"></translation>
+        <translation>Розробник і Доглядач</translation>
     </message>
     <message>
         <source>Language coordinator, macOS port, miscellaneous assistance</source>
-        <translation type="unfinished"></translation>
+        <translation>Координатор мови, порт macOS, різноманітна допомога</translation>
     </message>
 </context>
 <context>
