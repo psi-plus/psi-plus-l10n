@@ -90,7 +90,7 @@
     </message>
     <message>
         <source>Lead Widget Developer</source>
-        <translation>Lead Widget Developer</translation>
+        <translation type="vanished">Lead Widget Developer</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -150,7 +150,7 @@
     </message>
     <message>
         <source>Language coordinator, miscellaneous assistance</source>
-        <translation>Language coordinator, miscellaneous assistance</translation>
+        <translation type="vanished">Language coordinator, miscellaneous assistance</translation>
     </message>
     <message>
         <source>Former language coordinator, miscellaneous assistance</source>
@@ -251,10 +251,26 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2019 The Psi Team.&lt;br&gt;
 </source>
-        <translation>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+        <translation type="vanished">A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2017 The Psi Team.&lt;br&gt;
  {2001-2019 ?}</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cross-platform XMPP client aimed at experienced users.&lt;br/&gt;&lt;br/&gt;Copyright © 2001-2019 The Psi Team.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Past Lead Widget Developer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Developer and Maintainer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language coordinator, macOS port, miscellaneous assistance</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

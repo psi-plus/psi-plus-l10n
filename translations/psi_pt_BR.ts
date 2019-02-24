@@ -90,7 +90,7 @@
     </message>
     <message>
         <source>Lead Widget Developer</source>
-        <translation>Desenvolvedor Líder (Widgets)</translation>
+        <translation type="vanished">Desenvolvedor Líder (Widgets)</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -150,7 +150,7 @@
     </message>
     <message>
         <source>Language coordinator, miscellaneous assistance</source>
-        <translation>Coordenador de idiomas, assistência diversa</translation>
+        <translation type="vanished">Coordenador de idiomas, assistência diversa</translation>
     </message>
     <message>
         <source>Former language coordinator, miscellaneous assistance</source>
@@ -237,10 +237,19 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; para mais detalhes!</transla
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2019 The Psi Team.&lt;br&gt;
-</source>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cross-platform XMPP client aimed at experienced users.&lt;br/&gt;&lt;br/&gt;Copyright © 2001-2019 The Psi Team.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Past Lead Widget Developer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Developer and Maintainer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language coordinator, macOS port, miscellaneous assistance</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
