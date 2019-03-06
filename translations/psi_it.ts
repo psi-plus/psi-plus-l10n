@@ -8061,6 +8061,37 @@ Dettagli: %1</translation>
     </message>
 </context>
 <context>
+    <name>MultiFileTransferDelegate</name>
+    <message>
+        <source>[Pending]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[Stalled]</source>
+        <translation type="unfinished">[In stallo]</translation>
+    </message>
+    <message>
+        <source>%1%2/s</source>
+        <translation type="unfinished">%1%2/s</translation>
+    </message>
+    <message>
+        <source>%1h%2m%3s remaining</source>
+        <translation type="unfinished">%1h%2m%3s rimanenti</translation>
+    </message>
+    <message>
+        <source>[Failed]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[Done]</source>
+        <translation type="unfinished">[Fatto]</translation>
+    </message>
+    <message>
+        <source>Reject</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MyHeaderViewWidget</name>
     <message>
         <source>Flat</source>
@@ -17394,7 +17425,7 @@ Nota: Alcuni server possono disabilitare la registrazione ai trasporti agli uten
     <message>
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;http://forum.psi-im.org&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation>Questo è l&apos;ultimo suggerimento.Se vuoi contribuire con il tuo &quot;suggerimento del giorno&quot; per favore pubblicalo sui &lt;a href=&quot;http://psi.affinix.com/forums&quot;&gt;Forum Psi&lt;/a&gt; (o spediscilo per posta ad uno degli sviluppatori) e saremo lieti di integrarlo nella prossima versione.</translation>
+        <translation type="vanished">Questo è l&apos;ultimo suggerimento.Se vuoi contribuire con il tuo &quot;suggerimento del giorno&quot; per favore pubblicalo sui &lt;a href=&quot;http://psi.affinix.com/forums&quot;&gt;Forum Psi&lt;/a&gt; (o spediscilo per posta ad uno degli sviluppatori) e saremo lieti di integrarlo nella prossima versione.</translation>
     </message>
     <message>
         <source>Contributed by</source>
@@ -17406,11 +17437,24 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation>Ciao! Grazie per aver installato Psi!
+        <translation type="vanished">Ciao! Grazie per aver installato Psi!
 Speriamo che ti divertirai ad utilizzarlo come noi nel averlo sviluppato!
 &lt;br&gt;&lt;br&gt;Se vuoi scaricare un&apos;altra traduzione, set di icone, o una nuova versione di Psi, visita la &lt;a href=&quot;https://psi-im.org&quot;&gt;Home Page&lt;/a&gt; di Psi.
 &lt;br&gt;&lt;br&gt;Se pensi di aver riscontrato un problema o vuoi solo chiacchierare con altri utenti di Psi, visita il &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt; Forum di Psi&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;Il Team di Psi&lt;/i&gt;&lt;/div&gt;</translation>
+    </message>
+    <message>
+        <source>Hello! Thank you for downloading Psi!
+We hope that you will enjoy using it as we have enjoyed making it!
+&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is the last tip.
+&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18863,17 +18907,6 @@ Dovresti autenticare anche %1 ponendo la tua domanda.</translation>
     <message>
         <source>Copy fingerprint</source>
         <translation>Copia impronta digitale</translation>
-    </message>
-    <message>
-        <source>Any changes to private keys may lead to a crash!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Libotr according to its authors has a bug in reading private keys file procedure.
-And while it may work properly, additional modifications to the private keys list
-may lead to a crash. Deinitialization of libotr/plugin is also considered to be a
-change to the private keys list.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

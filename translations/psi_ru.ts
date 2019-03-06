@@ -8071,6 +8071,37 @@ Details: %1</source>
     </message>
 </context>
 <context>
+    <name>MultiFileTransferDelegate</name>
+    <message>
+        <source>[Pending]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[Stalled]</source>
+        <translation type="unfinished">[Задерживается]</translation>
+    </message>
+    <message>
+        <source>%1%2/s</source>
+        <translation type="unfinished">%1%2/с</translation>
+    </message>
+    <message>
+        <source>%1h%2m%3s remaining</source>
+        <translation type="unfinished">осталось %1ч %2м %3с</translation>
+    </message>
+    <message>
+        <source>[Failed]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[Done]</source>
+        <translation type="unfinished">[Завершено]</translation>
+    </message>
+    <message>
+        <source>Reject</source>
+        <translation type="unfinished">Отклонить</translation>
+    </message>
+</context>
+<context>
     <name>MyHeaderViewWidget</name>
     <message>
         <source>Flat</source>
@@ -17427,7 +17458,7 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;http://forum.psi-im.org&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation>Это последний совет.
+        <translation type="vanished">Это последний совет.
 &lt;br&gt;&lt;br&gt;Если вы хотите добавить свой совет, напишите в &lt;a href=&quot;http://forum.psi-im.org&quot;&gt;форумах Psi&lt;/a&gt; или отправьте письмо одному из разработчиков.</translation>
     </message>
     <message>
@@ -17440,11 +17471,24 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation>Приветствуем вас в программе Psi!
+        <translation type="vanished">Приветствуем вас в программе Psi!
 Мы надеемся, что вы получите удовольствие от использования нашей программы!
 &lt;br&gt;&lt;br&gt;Если вы хотите скачать дополнительный языковой пакет, набор иконок или новую версию Psi, посетите &lt;a href=&quot;https://psi-im.org&quot;&gt;домашнюю страницу Psi&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;Если вы нашли ошибку в программе или хотите пообщаться с пользователями и разработчиками Psi, посетите &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;форумы Psi&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;Команда разработчиков Psi&lt;/i&gt;&lt;/div&gt;</translation>
+    </message>
+    <message>
+        <source>Hello! Thank you for downloading Psi!
+We hope that you will enjoy using it as we have enjoyed making it!
+&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is the last tip.
+&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18903,14 +18947,14 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Any changes to private keys may lead to a crash!</source>
-        <translation>Любые изменения приватных ключей могут привести к падению программы!</translation>
+        <translation type="vanished">Любые изменения приватных ключей могут привести к падению программы!</translation>
     </message>
     <message>
         <source>Libotr according to its authors has a bug in reading private keys file procedure.
 And while it may work properly, additional modifications to the private keys list
 may lead to a crash. Deinitialization of libotr/plugin is also considered to be a
 change to the private keys list.</source>
-        <translation>Libotr, по словам его авторов, имеет ошибку в процедуре чтения файла закрытых ключей. И хотя 
+        <translation type="vanished">Libotr, по словам его авторов, имеет ошибку в процедуре чтения файла закрытых ключей. И хотя 
 она работает правильно, дополнительные изменения в списке закрытых ключей могут привести к
 падению программы. Отключение OTR плагина также приравнивается к изменению списка закрытых
 ключей и может привести к падению программы.</translation>

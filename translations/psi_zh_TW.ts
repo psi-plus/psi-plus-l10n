@@ -8030,6 +8030,37 @@ Details: %1</source>
     </message>
 </context>
 <context>
+    <name>MultiFileTransferDelegate</name>
+    <message>
+        <source>[Pending]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[Stalled]</source>
+        <translation type="unfinished">[已停滯]</translation>
+    </message>
+    <message>
+        <source>%1%2/s</source>
+        <translation type="unfinished">%1%2/s</translation>
+    </message>
+    <message>
+        <source>%1h%2m%3s remaining</source>
+        <translation type="unfinished">剩下 %1h%2m%3s</translation>
+    </message>
+    <message>
+        <source>[Failed]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[Done]</source>
+        <translation type="unfinished">[完成]</translation>
+    </message>
+    <message>
+        <source>Reject</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MyHeaderViewWidget</name>
     <message>
         <source>Flat</source>
@@ -17300,7 +17331,7 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;http://forum.psi-im.org&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation>這是最後一個提示。
+        <translation type="vanished">這是最後一個提示。
 &lt;br&gt;&lt;br&gt;如果你想要貢獻你的 &quot;每日提示&quot;, 請發佈在 &lt;a href=&quot;http://forum.psi-im.org&quot;&gt;Psi 論壇&lt;/a&gt; (或是寄給其中一個開發者), 我們會很高興地把他包含在下一個釋出版中。</translation>
     </message>
     <message>
@@ -17311,8 +17342,13 @@ Note: Some server may disable transport registration to users from different ser
         <source>Hello! Thank you for downloading Psi!
 We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is the last tip.
+&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18760,17 +18796,6 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Copy fingerprint</source>
         <translation>複製手紋印</translation>
-    </message>
-    <message>
-        <source>Any changes to private keys may lead to a crash!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Libotr according to its authors has a bug in reading private keys file procedure.
-And while it may work properly, additional modifications to the private keys list
-may lead to a crash. Deinitialization of libotr/plugin is also considered to be a
-change to the private keys list.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

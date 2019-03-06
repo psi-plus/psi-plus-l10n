@@ -8045,6 +8045,37 @@ Details: %1</source>
     </message>
 </context>
 <context>
+    <name>MultiFileTransferDelegate</name>
+    <message>
+        <source>[Pending]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[Stalled]</source>
+        <translation type="unfinished">[已停滞]</translation>
+    </message>
+    <message>
+        <source>%1%2/s</source>
+        <translation type="unfinished">%1%2/s</translation>
+    </message>
+    <message>
+        <source>%1h%2m%3s remaining</source>
+        <translation type="unfinished">剩下 %1h%2m%3s</translation>
+    </message>
+    <message>
+        <source>[Failed]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[Done]</source>
+        <translation type="unfinished">[完成]</translation>
+    </message>
+    <message>
+        <source>Reject</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MyHeaderViewWidget</name>
     <message>
         <source>Flat</source>
@@ -17348,7 +17379,7 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;http://forum.psi-im.org&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation>这是最后一个提示。
+        <translation type="vanished">这是最后一个提示。
 &lt;br&gt;&lt;br&gt;如果你想要贡献你的 &quot;每日提示&quot;, 请发布在 &lt;a href=&quot;http://forum.psi-im.org&quot;&gt;Psi 论坛&lt;/a&gt; (或是寄给其中一个开发者), 我们会很高兴地把他包含在下一个版本中。</translation>
     </message>
     <message>
@@ -17361,11 +17392,24 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation>哈罗! 谢谢你下载 Psi!
+        <translation type="vanished">哈罗! 谢谢你下载 Psi!
 我们希望你可以愉快地使用它, 如同我们愉快地撰写它一样!
 &lt;br&gt;&lt;br&gt;如果你想要下载另一个语言的翻译, 图标集或新版的 Psi, 那么你需要造访&lt;a href=&quot;https://psi-im.org&quot;&gt;Psi 首页&lt;/a&gt;。
 &lt;br&gt;&lt;br&gt;如果你想说你发现了一个漏洞或是你想要和其他 Psi 使用者对话, 那么请造访&lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi 论坛&lt;/a&gt;。
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;Psi 团队&lt;/i&gt;&lt;/div&gt;</translation>
+    </message>
+    <message>
+        <source>Hello! Thank you for downloading Psi!
+We hope that you will enjoy using it as we have enjoyed making it!
+&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is the last tip.
+&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18822,14 +18866,14 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Any changes to private keys may lead to a crash!</source>
-        <translation>对私钥的任何更改都可能导致崩溃！</translation>
+        <translation type="vanished">对私钥的任何更改都可能导致崩溃！</translation>
     </message>
     <message>
         <source>Libotr according to its authors has a bug in reading private keys file procedure.
 And while it may work properly, additional modifications to the private keys list
 may lead to a crash. Deinitialization of libotr/plugin is also considered to be a
 change to the private keys list.</source>
-        <translation>Libotr根据其作者有一个读取私钥文件程序的错误。
+        <translation type="vanished">Libotr根据其作者有一个读取私钥文件程序的错误。
 虽然它可能正常工作，但对私钥列表
 的其他修改可能会导致崩溃。 libot /plugin的取消初始化也被认为
 是对私钥列表的更改。</translation>
