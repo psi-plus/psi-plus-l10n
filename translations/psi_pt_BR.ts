@@ -17290,12 +17290,12 @@ Por favor corrija e tente novamente.</translation>
         <source>Hello! Thank you for downloading Psi!
 We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;http://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
         <translation type="vanished">Olá! Obrigado por fazer download do Psi!
 Esperamos que você goste de usá-lo assim como nós gostamos de tê-lo feito!
 &lt;br&gt;&lt;br&gt;Se você quiser fazer download de outro idioma, conjunto de ícones ou uma nova versão do Psi, então você precisará visitar a &lt;a href=&quot;http://psi-im.org&quot;&gt;Página Web do Psi&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;Se você acredita que encontrou um problema no Psi ou apenas deseja bater papo com outros usuários do Psi, então visite o &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Forum do Psi&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;Se você acredita que encontrou um problema no Psi ou apenas deseja bater papo com outros usuários do Psi, então visite o &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Forum do Psi&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;Equipe Psi&lt;/i&gt;&lt;/div&gt;</translation>
     </message>
     <message>
@@ -17392,9 +17392,9 @@ Nota: Alguns servidores podem desativar o registro de transporte para usuários 
     </message>
     <message>
         <source>This is the last tip.
-&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;http://forum.psi-im.org&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation type="vanished">Esta é a última dica.
-&lt;br&gt;&lt;br&gt;Se você quer contribuir com sua própria &quot;dica do dia&quot;, por favor publique-a no &lt;a href=&quot;http://forum.psi-im.org&quot;&gt;Forum do Psi&lt;/a&gt; (ou envie um email para um dos desenvolvedores), e eles ficarão felizes em adicioná-la na próxima versão.</translation>
+&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
+        <translation>Esta é a última dica.
+&lt;br&gt;&lt;br&gt;Se você quer contribuir com sua própria &quot;dica do dia&quot;, por favor publique-a no &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Forum do Psi&lt;/a&gt; (ou envie um email para um dos desenvolvedores), e eles ficarão felizes em adicioná-la na próxima versão.</translation>
     </message>
     <message>
         <source>Contributed by</source>
@@ -17406,11 +17406,6 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This is the last tip.
-&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

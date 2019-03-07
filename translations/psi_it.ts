@@ -17335,7 +17335,7 @@ Correggere e provare ancora.</translation>
         <source>Hello! Thank you for downloading Psi!
 We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;http://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
         <translation type="vanished">Salve! Grazie per aver scaricato Psi!Speriamo che ti piaccia utilizzarlo quanto a noi è piaciuto farlo!Se vuoi scaricare un&apos;altra versione localizzata, un set di icone o una nuova versione di Psi, allora visita ls &lt;a href=&quot;http://psi.affinix.com&quot;&gt;HomePage Psi&lt;/a&gt;.Se ritieni di aver identificato un bug o vuoi semplicemente chattare con altri utenti Psi, allora visita i &lt;a href=&quot;http://psi.affinix.com/forums/&quot;&gt;Forum Psi&lt;/a&gt;.&lt;div align=&quot;right&quot;&gt;&lt;i&gt;il Team Psi&lt;/i&gt;&lt;/div&gt;</translation>
     </message>
@@ -17431,8 +17431,8 @@ Nota: Alcuni server possono disabilitare la registrazione ai trasporti agli uten
     </message>
     <message>
         <source>This is the last tip.
-&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;http://forum.psi-im.org&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation type="vanished">Questo è l&apos;ultimo suggerimento.Se vuoi contribuire con il tuo &quot;suggerimento del giorno&quot; per favore pubblicalo sui &lt;a href=&quot;http://psi.affinix.com/forums&quot;&gt;Forum Psi&lt;/a&gt; (o spediscilo per posta ad uno degli sviluppatori) e saremo lieti di integrarlo nella prossima versione.</translation>
+&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
+        <translation>Questo è l&apos;ultimo suggerimento.Se vuoi contribuire con il tuo &quot;suggerimento del giorno&quot; per favore pubblicalo sui &lt;a href=&quot;http://psi.affinix.com/forums&quot;&gt;Forum Psi&lt;/a&gt; (o spediscilo per posta ad uno degli sviluppatori) e saremo lieti di integrarlo nella prossima versione.</translation>
     </message>
     <message>
         <source>Contributed by</source>
@@ -17442,26 +17442,13 @@ Nota: Alcuni server possono disabilitare la registrazione ai trasporti agli uten
         <source>Hello! Thank you for downloading Psi!
 We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="vanished">Ciao! Grazie per aver installato Psi!
-Speriamo che ti divertirai ad utilizzarlo come noi nel averlo sviluppato!
-&lt;br&gt;&lt;br&gt;Se vuoi scaricare un&apos;altra traduzione, set di icone, o una nuova versione di Psi, visita la &lt;a href=&quot;https://psi-im.org&quot;&gt;Home Page&lt;/a&gt; di Psi.
-&lt;br&gt;&lt;br&gt;Se pensi di aver riscontrato un problema o vuoi solo chiacchierare con altri utenti di Psi, visita il &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt; Forum di Psi&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;Il Team di Psi&lt;/i&gt;&lt;/div&gt;</translation>
-    </message>
-    <message>
-        <source>Hello! Thank you for downloading Psi!
-We hope that you will enjoy using it as we have enjoyed making it!
-&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This is the last tip.
-&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciao! Grazie per aver installato Psi!
+Speriamo che ti divertirai ad utilizzarlo come noi nel averlo sviluppato!
+&lt;br&gt;&lt;br&gt;Se vuoi scaricare un&apos;altra traduzione, set di icone, o una nuova versione di Psi, visita la &lt;a href=&quot;https://psi-im.org&quot;&gt;Home Page&lt;/a&gt; di Psi.
+&lt;br&gt;&lt;br&gt;Se pensi di aver riscontrato un problema o vuoi solo chiacchierare con altri utenti di Psi, visita il &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt; Forum di Psi&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;Il Team di Psi&lt;/i&gt;&lt;/div&gt;</translation>
     </message>
 </context>
 <context>
