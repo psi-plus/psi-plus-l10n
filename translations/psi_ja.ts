@@ -7844,15 +7844,15 @@ Details: %1</source>
     </message>
     <message>
         <source>[Stalled]</source>
-        <translation type="unfinished">[ストール]</translation>
+        <translation>[ストール]</translation>
     </message>
     <message>
         <source>%1%2/s</source>
-        <translation type="unfinished">%1%2/s</translation>
+        <translation>%1%2/s</translation>
     </message>
     <message>
         <source>%1h%2m%3s remaining</source>
-        <translation type="unfinished">残り: %1h%2m%3s</translation>
+        <translation>残り: %1h%2m%3s</translation>
     </message>
     <message>
         <source>[Failed]</source>
@@ -7860,18 +7860,11 @@ Details: %1</source>
     </message>
     <message>
         <source>[Done]</source>
-        <translation type="unfinished">[完了]</translation>
+        <translation>[完了]</translation>
     </message>
     <message>
         <source>Reject</source>
-        <translation type="unfinished">拒否</translation>
-    </message>
-</context>
-<context>
-    <name>MultiFileTransferDlg</name>
-    <message>
-        <source>Dialog</source>
-        <translation type="obsolete">ダイアログ</translation>
+        <translation>拒否</translation>
     </message>
 </context>
 <context>
@@ -16860,18 +16853,6 @@ Please correct and try again.</source>
 <context>
     <name>TipDlg</name>
     <message>
-        <source>Hello! Thank you for downloading Psi!
-We hope that you will enjoy using it as we have enjoyed making it!
-&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;http://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="vanished">こんにちは! Psiをダウンロードしてくれてありがとう!
-私たちは皆さんにPsiを楽しんで使ってもらえるように、私たちも楽しみながら開発をしています!
-&lt;br&gt;&lt;br&gt;他の言語パックやアイコン集、Psiの最新バージョンをダウンロードしたい場合はこちらを見てください &lt;a href=&quot;http://psi-im.org&quot;&gt;Psiホームページ&lt;/a&gt;。
-&lt;br&gt;&lt;br&gt;バグを見つけたり、その他のPsiユーザー達と会話したいと思った時はこちらを見てください &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psiフォーラム&lt;/a&gt;。
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;Psiチームより&lt;/i&gt;&lt;/div&gt;</translation>
-    </message>
-    <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
         <translation>オプションダイアログで複数の顔文字アイコン集を選択し、優先度を割り当てることが出来ます。</translation>
     </message>
@@ -16956,9 +16937,9 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>This is the last tip.
-&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;http://forum.psi-im.org&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation type="vanished">これは最後のヒントです。
-&lt;br&gt;&lt;br&gt;あなた自身の「今日のヒント」を貢献したい場合、&lt;a href=&quot;http://forum.psi-im.org&quot;&gt;Psiフォーラム&lt;/a&gt;に投稿してください(もしくは開発者にメールしてください)、そうすれば次期リリースに統合され、みんなが幸せになるでしょう。</translation>
+&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
+        <translation>これは最後のヒントです。
+&lt;br&gt;&lt;br&gt;あなた自身の「今日のヒント」を貢献したい場合、&lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psiフォーラム&lt;/a&gt;に投稿してください(もしくは開発者にメールしてください)、そうすれば次期リリースに統合され、みんなが幸せになるでしょう。</translation>
     </message>
     <message>
         <source>Contributed by</source>
@@ -16970,11 +16951,6 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This is the last tip.
-&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -7804,15 +7804,15 @@ Details: %1</source>
     </message>
     <message>
         <source>[Stalled]</source>
-        <translation type="unfinished">[Zastoj]</translation>
+        <translation>[Zastoj]</translation>
     </message>
     <message>
         <source>%1%2/s</source>
-        <translation type="unfinished">%1%2/s</translation>
+        <translation>%1%2/s</translation>
     </message>
     <message>
         <source>%1h%2m%3s remaining</source>
-        <translation type="unfinished">%1h%2m%3s preostalo</translation>
+        <translation>%1h%2m%3s preostalo</translation>
     </message>
     <message>
         <source>[Failed]</source>
@@ -7820,18 +7820,11 @@ Details: %1</source>
     </message>
     <message>
         <source>[Done]</source>
-        <translation type="unfinished">[Zaključeno]</translation>
+        <translation>[Zaključeno]</translation>
     </message>
     <message>
         <source>Reject</source>
-        <translation type="unfinished">Zavrni</translation>
-    </message>
-</context>
-<context>
-    <name>MultiFileTransferDlg</name>
-    <message>
-        <source>Dialog</source>
-        <translation type="obsolete">Pogovorno okno</translation>
+        <translation>Zavrni</translation>
     </message>
 </context>
 <context>
@@ -16827,18 +16820,6 @@ Popravite in poskusite znova.</translation>
 <context>
     <name>TipDlg</name>
     <message>
-        <source>Hello! Thank you for downloading Psi!
-We hope that you will enjoy using it as we have enjoyed making it!
-&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;http://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="vanished">Pozdravljeni! Hvala ker uporabljate Psi!
-Prepričani smo, da ga boste uporabljali z veseljem, ravno tako kakor smo ga mi z veseljem izdelovali.
-&lt;br&gt;&lt;br&gt;Če bi radi prenesli prevod v drug jezik, zbirko ikon ali novo različico Psi-ja, obiščite &lt;a href=&quot;http://psi-im.org&quot;&gt;domačo stran Psi-ja&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;Če menite, da ste našli napako, ali pa bi radi poklepetali z drugimi uporabniki Psi-ja, obiščite &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;forum za Psi&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;ekipa Psi-ja&lt;/i&gt;&lt;/div&gt;</translation>
-    </message>
-    <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
         <translation>Izberete lahko več zbirk ikon čustev in jim v nastavitvah priredite prednosti.</translation>
     </message>
@@ -16930,9 +16911,9 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>This is the last tip.
-&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;http://forum.psi-im.org&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation type="vanished">To je zadnji nasvet.
-&lt;br&gt;&lt;br&gt;Če želite prispevati svoj »nasvet dneva«, vas prosimo, da ga objavite na &lt;a href=&quot;http://forum.psi-im.org&quot;&gt;forumu za Psi&lt;/a&gt; (ali pa ga pošljete kateremu izmed razvijalcev) in z veseljem ga bomo uporabili pri naslednji izdaji.</translation>
+&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
+        <translation>To je zadnji nasvet.
+&lt;br&gt;&lt;br&gt;Če želite prispevati svoj »nasvet dneva«, vas prosimo, da ga objavite na &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;forumu za Psi&lt;/a&gt; (ali pa ga pošljete kateremu izmed razvijalcev) in z veseljem ga bomo uporabili pri naslednji izdaji.</translation>
     </message>
     <message>
         <source>Contributed by</source>
@@ -16944,11 +16925,6 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This is the last tip.
-&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
