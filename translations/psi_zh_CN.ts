@@ -8079,11 +8079,7 @@ Details: %1</source>
     <name>MultiFileTransferDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">对话</translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">对话</translation>
     </message>
 </context>
 <context>

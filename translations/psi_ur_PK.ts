@@ -7833,11 +7833,7 @@ Details: %1</source>
     <name>MultiFileTransferDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">مکالمہ</translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">مکالمہ</translation>
     </message>
 </context>
 <context>

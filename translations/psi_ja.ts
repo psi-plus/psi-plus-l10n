@@ -7871,11 +7871,7 @@ Details: %1</source>
     <name>MultiFileTransferDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">ダイアログ</translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">ダイアログ</translation>
     </message>
 </context>
 <context>

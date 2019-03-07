@@ -8024,11 +8024,7 @@ Detalji: %1</translation>
     <name>MultiFileTransferDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Dijalog</translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Dijalog</translation>
     </message>
 </context>
 <context>

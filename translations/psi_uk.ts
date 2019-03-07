@@ -8110,11 +8110,7 @@ Details: %1</source>
     <name>MultiFileTransferDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Діалог</translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Діалог</translation>
     </message>
 </context>
 <context>

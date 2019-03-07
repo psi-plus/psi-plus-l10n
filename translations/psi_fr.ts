@@ -7958,11 +7958,7 @@ Détails : %1</translation>
     <name>MultiFileTransferDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Dialogue</translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Dialogue</translation>
     </message>
 </context>
 <context>

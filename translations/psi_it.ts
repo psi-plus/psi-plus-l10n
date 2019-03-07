@@ -8095,11 +8095,7 @@ Dettagli: %1</translation>
     <name>MultiFileTransferDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Finestra</translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Finestra</translation>
     </message>
 </context>
 <context>

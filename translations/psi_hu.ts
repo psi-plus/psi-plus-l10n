@@ -8058,11 +8058,7 @@ Részletek: %1</translation>
     <name>MultiFileTransferDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Párbeszéd</translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Párbeszéd</translation>
     </message>
 </context>
 <context>

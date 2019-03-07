@@ -8028,11 +8028,7 @@ Detaily: %1</translation>
     <name>MultiFileTransferDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Dialog</translation>
-    </message>
-    <message>
-        <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Dialog</translation>
     </message>
 </context>
 <context>
