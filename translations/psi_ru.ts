@@ -8074,38 +8074,38 @@ Details: %1</source>
     <name>MultiFileTransferDelegate</name>
     <message>
         <source>[Pending]</source>
-        <translation type="unfinished"></translation>
+        <translation>[Ожидание]</translation>
     </message>
     <message>
         <source>[Stalled]</source>
-        <translation type="unfinished">[Задерживается]</translation>
+        <translation>[Задерживается]</translation>
     </message>
     <message>
         <source>%1%2/s</source>
-        <translation type="unfinished">%1%2/с</translation>
+        <translation>%1%2/с</translation>
     </message>
     <message>
         <source>%1h%2m%3s remaining</source>
-        <translation type="unfinished">осталось %1ч %2м %3с</translation>
+        <translation>осталось %1ч %2м %3с</translation>
     </message>
     <message>
         <source>[Failed]</source>
-        <translation type="unfinished"></translation>
+        <translation>[Не удалось]</translation>
     </message>
     <message>
         <source>[Done]</source>
-        <translation type="unfinished">[Завершено]</translation>
+        <translation>[Завершено]</translation>
     </message>
     <message>
         <source>Reject</source>
-        <translation type="unfinished">Отклонить</translation>
+        <translation>Отклонить</translation>
     </message>
 </context>
 <context>
     <name>MultiFileTransferDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Диалог</translation>
+        <translation>Диалог</translation>
     </message>
     <message>
         <source>TextLabel</source>
