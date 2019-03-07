@@ -7844,6 +7844,17 @@ Details: %1</source>
     </message>
 </context>
 <context>
+    <name>MultiFileTransferDlg</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished">Dialog</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MyHeaderViewWidget</name>
     <message>
         <source>Flat</source>
