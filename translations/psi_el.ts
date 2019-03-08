@@ -142,11 +142,11 @@
     </message>
     <message>
         <source>Former language coordinator, miscellaneous assistance</source>
-        <translation type="unfinished"></translation>
+        <translation>Πρώην συντονιστής γλωσσών, διάφορες παρεμβάσεις</translation>
     </message>
     <message>
         <source>Build setup, miscellaneous assistance</source>
-        <translation type="unfinished"></translation>
+        <translation>Δημιουργία ρυθμίσεων, διάφορες παρεμβάσεις</translation>
     </message>
     <message>
         <source>Many icons are from his Crystal icon theme</source>
@@ -158,11 +158,11 @@
     </message>
     <message>
         <source>Original Mac Port</source>
-        <translation type="unfinished"></translation>
+        <translation>Θύρα Original Mac</translation>
     </message>
     <message>
         <source>Mac OS X Port</source>
-        <translation type="unfinished"></translation>
+        <translation>Θύρα Mac OS X</translation>
     </message>
     <message>
         <source>Original End User Documentation</source>
@@ -230,7 +230,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Language coordinator, macOS port, miscellaneous assistance</source>
-        <translation type="unfinished"></translation>
+        <translation>Συντονιστής γλωσσών, θύρα macOS, διάφορα βοηθήματα</translation>
     </message>
 </context>
 <context>
@@ -447,11 +447,11 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>You are using advanced settings. This list may not be accurate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Χρησιμοποιείτε τις σύνθετες ρυθμίσεις. Αυτή η λίστα ενδέχεται να μην είναι ακριβής.</translation>
     </message>
     <message>
         <source>Advanced ...</source>
-        <translation>Για Προχωρημένους ...</translation>
+        <translation>Σύνθετα ...</translation>
     </message>
     <message>
         <source>Connection</source>
@@ -459,7 +459,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Connection proxy:</source>
-        <translation>Σύνδεση μεσολαβητή:</translation>
+        <translation>Σύνδεση με διαχειριστή μεσολάβησης:</translation>
     </message>
     <message>
         <source>proxychooser</source>
@@ -475,15 +475,15 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Manually Specify Server Host/Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Μη αυτόματος ορισμός Όνομα Διακομιστή/Θύρας:</translation>
     </message>
     <message>
         <source>Host:</source>
-        <translation type="unfinished"></translation>
+        <translation>Όνομα Διακομιστή:</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Θύρα:</translation>
     </message>
     <message>
         <source>Encrypt connection:</source>
@@ -503,7 +503,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Misc.</source>
-        <translation type="unfinished"></translation>
+        <translation>Διάφορα</translation>
     </message>
     <message>
         <source>Resource:</source>
@@ -515,7 +515,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Data Transfer</source>
-        <translation type="unfinished"></translation>
+        <translation>Μεταφορά Δεδομένων</translation>
     </message>
     <message>
         <source>In-Band only (slow)</source>
@@ -523,7 +523,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Proxy:</source>
-        <translation type="unfinished"></translation>
+        <translation>Διακομιστής Μεσολάβησης:</translation>
     </message>
     <message>
         <source>STUN/TURN</source>
@@ -549,7 +549,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Store hash instead of plaintext password if server supports this feature.</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθηκεύστε το αποτύπωμα αντί για τον κωδικό πρόσβασης αν ο διακομιστής υποστηρίζει αυτή τη λειτουργία.</translation>
     </message>
     <message>
         <source>Enable Stream Management if possible</source>
@@ -560,7 +560,7 @@ When you enable this option you will not be able to find your password in config
     <name>AccountModifyDlg</name>
     <message>
         <source>Always</source>
-        <translation type="unfinished"></translation>
+        <translation>Πάντα</translation>
     </message>
     <message>
         <source>When available</source>
@@ -568,7 +568,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Never</source>
-        <translation type="unfinished"></translation>
+        <translation>Ποτέ</translation>
     </message>
     <message>
         <source>Legacy SSL</source>
@@ -584,7 +584,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Use host name</source>
-        <translation type="unfinished"></translation>
+        <translation>Χρήση Όνομα Διακομιστή</translation>
     </message>
     <message>
         <source>Fixed</source>
@@ -596,7 +596,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Delete current host from the list</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγράψτε τον τρέχοντα διακομιστή από τη λίστα</translation>
     </message>
     <message>
         <source>&lt;don&apos;t use&gt;</source>
@@ -684,7 +684,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation type="unfinished"></translation>
+        <translation>Το Legacy SSL είναι διαθέσιμο μόνο σε συνδυασμό με μη αυτόματο Όνομα Διακομιστή/Θύρα.</translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -704,7 +704,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>&lt;i&gt;XMPP Address&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;i&gt;Η διεύθυνση XMPP&lt;/i&gt; πρέπει να ορισθεί στη μορφή &lt;i&gt;όνομαχρήστη@διακομιστής&lt;/i&gt;.</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -771,15 +771,15 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Manually Specify Server Host/Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Μη αυτόματος ορισμός Όνομα Διακομιστή/Θύρας:</translation>
     </message>
     <message>
         <source>Host:</source>
-        <translation type="unfinished"></translation>
+        <translation>Όνομα Διακομιστή:</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Θύρα:</translation>
     </message>
     <message>
         <source>Encrypt connection:</source>
@@ -787,7 +787,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Proxy:</source>
-        <translation type="unfinished"></translation>
+        <translation>Διακομιστής Μεσολάβησης:</translation>
     </message>
     <message>
         <source>proxychooser</source>
@@ -806,7 +806,7 @@ When you enable this option you will not be able to find your password in config
     <name>AccountRegDlg</name>
     <message>
         <source>Always</source>
-        <translation type="unfinished"></translation>
+        <translation>Πάντα</translation>
     </message>
     <message>
         <source>When available</source>
@@ -838,7 +838,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation type="unfinished"></translation>
+        <translation>Το Legacy SSL είναι διαθέσιμο μόνο σε συνδυασμό με μη αυτόματο Όνομα Διακομιστή/Θύρα.</translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -866,7 +866,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>This server does not support registration</source>
-        <translation type="unfinished"></translation>
+        <translation>Αυτός ο διακομιστής δεν υποστηρίζει την εγγραφή</translation>
     </message>
     <message>
         <source>Success</source>
@@ -985,7 +985,7 @@ save the history for this contact.</source>
     <name>ActiveProfiles</name>
     <message>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Αυτό το προφίλ psi εκτελείται ήδη... &lt;br&gt; παρακαλώ περιμένετε...</translation>
     </message>
 </context>
 <context>
@@ -1240,7 +1240,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Join &amp;Groupchat...</source>
-        <translation type="unfinished"></translation>
+        <translation>Συμμετοχή σε Ομάδα</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -1259,11 +1259,11 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλέξτε ένα αρχείο ήχου</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ήχος (*.wav)</translation>
     </message>
     <message>
         <source>Attention Plugin</source>
@@ -1338,7 +1338,7 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Συζήτηση</translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -1485,11 +1485,11 @@ The list of exceptions for jids has two operating modes:
     <name>BattleshipGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλέξτε ένα αρχείο ήχου</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ήχος (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -1521,7 +1521,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Host:</source>
-        <translation type="unfinished"></translation>
+        <translation>Όνομα Διακομιστή:</translation>
     </message>
     <message>
         <source>Room:</source>
@@ -1537,19 +1537,19 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Import bookmarks from file</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισαγωγή σελιδοδεικτών από αρχείο</translation>
     </message>
     <message>
         <source>&amp;Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισαγωγή</translation>
     </message>
     <message>
         <source>Export bookmarks to file</source>
-        <translation type="unfinished"></translation>
+        <translation>Εξαγωγή σελιδοδεικτών σε αρχείο</translation>
     </message>
     <message>
         <source>&amp;Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Εξαγωγή</translation>
     </message>
     <message>
         <source>Auto-join:</source>
@@ -1576,7 +1576,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Import bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισαγωγή σελιδοδεικτών</translation>
     </message>
     <message>
         <source>Error!</source>
@@ -1584,7 +1584,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Export bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Εξαγωγή σελιδοδεικτών</translation>
     </message>
 </context>
 <context>
@@ -1697,7 +1697,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Original message</source>
-        <translation type="unfinished"></translation>
+        <translation>Αρχικό μήνυμα</translation>
     </message>
 </context>
 <context>
@@ -1875,7 +1875,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Message length</source>
-        <translation>Μήκος μηνύματος</translation>
+        <translation>Πλήθος μηνυμάτων</translation>
     </message>
     <message>
         <source>0</source>
@@ -2001,7 +2001,7 @@ Do you still want to close the window?</source>
     <name>ChatViewThemeProvider</name>
     <message>
         <source>Chat Message Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Στυλ Μηνύματος Συζήτησης</translation>
     </message>
     <message>
         <source>Configure your chat theme here</source>
@@ -2084,11 +2084,11 @@ to play chess. He wants to play %2.</source>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλέξτε ένα αρχείο ήχου</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ήχος (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -2138,7 +2138,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Enable sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενεργοποίηση ήχου</translation>
     </message>
     <message>
         <source>File</source>
@@ -2218,7 +2218,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Choose &amp;Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Επολογή Προφίλ</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
@@ -2274,15 +2274,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Not supported yet!</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν υποστηρίζεται ακόμα!</translation>
     </message>
     <message>
         <source>Choose profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Επολογή προφίλ</translation>
     </message>
     <message>
         <source>Profile:</source>
-        <translation type="unfinished"></translation>
+        <translation>Προφίλ:</translation>
     </message>
     <message>
         <source>Clear Juick Cache</source>
@@ -2498,7 +2498,7 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
     <message>
         <source>Groupchat History</source>
-        <translation type="unfinished"></translation>
+        <translation>Ιστορικό Ομάδας</translation>
     </message>
     <message>
         <source>This plugin is designed to save groupchat logs in which the Psi+ user sits.
@@ -2552,7 +2552,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Join Groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Συμμετοχή σε Ομάδα</translation>
     </message>
     <message>
         <source>&amp;Add a Contact</source>
@@ -2584,7 +2584,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Send Server Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποστολή Μηνύματος Διακομιστή</translation>
     </message>
     <message>
         <source>Set MOTD</source>
@@ -2604,7 +2604,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Ομάδα</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -2670,7 +2670,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Send Message to Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποστολή Μηνύματος σε Ομάδα</translation>
     </message>
     <message>
         <source>Hide All</source>
@@ -2690,7 +2690,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Authorization</source>
-        <translation type="unfinished"></translation>
+        <translation>Εξουσιοδότηση</translation>
     </message>
     <message>
         <source>This will cause all contacts in this group to be disassociated with it.
@@ -2769,11 +2769,11 @@ Proceed?</source>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Εξαγωγή</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισαγωγή</translation>
     </message>
     <message>
         <source>Simple</source>
@@ -2942,7 +2942,7 @@ Proceed?</source>
     <name>DateWidget</name>
     <message>
         <source>never</source>
-        <translation type="unfinished"></translation>
+        <translation>ποτέ</translation>
     </message>
 </context>
 <context>
@@ -3225,27 +3225,27 @@ Proceed?</source>
     </message>
     <message>
         <source>Chats</source>
-        <translation type="unfinished"></translation>
+        <translation>Συζητήσεις</translation>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="unfinished"></translation>
+        <translation>Ομάδες</translation>
     </message>
     <message>
         <source>Always play sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Πάντα να αναπαράγει ήχο</translation>
     </message>
     <message>
         <source>Sound:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ήχος:</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλέξτε ένα αρχείο ήχου</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ήχος (*.wav)</translation>
     </message>
 </context>
 <context>
@@ -3307,7 +3307,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Use proxy server</source>
-        <translation type="unfinished"></translation>
+        <translation>Χρήση διακομιστή μεσολάβησης</translation>
     </message>
 </context>
 <context>
@@ -3354,7 +3354,7 @@ Supports per contact on / off message enumeration via the buttons on the chats t
     </message>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Συζήτηση</translation>
     </message>
     <message>
         <source>Time:</source>
@@ -3418,7 +3418,7 @@ Supports per contact on / off message enumeration via the buttons on the chats t
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Συζήτηση</translation>
     </message>
     <message>
         <source>&amp;Reply</source>
@@ -3598,7 +3598,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Copy Status Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντιγραφή Μηνύματος Κατάστασης</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -3629,7 +3629,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <name>ExtendedOptions</name>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Συζήτηση</translation>
     </message>
     <message>
         <source>Tabs</source>
@@ -3653,7 +3653,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished"></translation>
+        <translation>Διάφορα</translation>
     </message>
     <message>
         <source>Ask for confirmation before clearing chat window</source>
@@ -3750,32 +3750,33 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Ομάδα</translation>
     </message>
     <message>
         <source>Enable autojoin for bookmarked groupchats</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενεργοποίηση αυτόματης συμμετοχής σε ομάδες με σελιδοδείκτη</translation>
     </message>
     <message>
         <source>Hide groupchat on auto-join</source>
-        <translation type="unfinished"></translation>
+        <translation>Απόκρυψη ομάδας κατά την αυτόματη συμμετοχή</translation>
     </message>
     <message>
         <source>Enable HTML rendering in groupchat chat window</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενεργοποιήση της απόδοσης HTML σε παράθυρο ομάδας</translation>
     </message>
     <message>
         <source>Disable autojoin to following groupchats:
 (specify JIDs)</source>
-        <translation type="unfinished"></translation>
+        <translation>Απενεργοποίηση αυτόματης σύνδεσης στις παρακάτω ομάδες:
+(ορίστε τα JIDs)</translation>
     </message>
     <message>
         <source>Groupchat leave status message:</source>
-        <translation type="unfinished"></translation>
+        <translation>Μήνυμα κατάστασης κατά την αποχώρηση από ομάδα:</translation>
     </message>
     <message>
         <source>Place groupchat roster at left</source>
-        <translation type="unfinished"></translation>
+        <translation>Τοποθέτηση του καταλόγου ομάδων στα αριστερά</translation>
     </message>
     <message>
         <source>Show groups</source>
@@ -3887,7 +3888,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Show &quot;Change Profile&quot; option in main menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση της επιλογής &quot;Αλλαγή προφίλ&quot; στο κύριο μενού</translation>
     </message>
     <message>
         <source>Show &quot;Chat&quot; option in status menu</source>
@@ -3939,7 +3940,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Enable sound notifications for every groupchat message</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενεργοποιήστε τις ειδοποιήσεις ήχου για κάθε μήνυμα ομάδας</translation>
     </message>
     <message>
         <source>ToolTip text color:</source>
@@ -4118,7 +4119,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>Sending folders is not supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Η αποστολή φακέλων δεν υποστηρίζεται.</translation>
     </message>
     <message>
         <source>%1 byte(s)</source>
@@ -4354,7 +4355,7 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>Transferred</source>
-        <translation type="unfinished"></translation>
+        <translation>Μεταφέρθηκαν</translation>
     </message>
     <message>
         <source>Time remaining</source>
@@ -4362,7 +4363,7 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>Transfer Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαχείριση Μεταφορών</translation>
     </message>
     <message>
         <source>Clear &amp;Finished</source>
@@ -4374,12 +4375,13 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>Transfer Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Σφάλμα Μεταφοράς</translation>
     </message>
     <message>
         <source>Transfer of %1 with %2 failed.
 Reason: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Απέτυχε η μεταφορά %1 από %2.
+Λόγος: %3</translation>
     </message>
     <message>
         <source>File I/O error (%1)</source>
@@ -4405,15 +4407,15 @@ Reason: %3</source>
     <name>FileTransferHandler</name>
     <message>
         <source>Querying proxy...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ερώτημα στον διακομιστή μεσολάβησης...</translation>
     </message>
     <message>
         <source>Proxy query successful.</source>
-        <translation type="unfinished"></translation>
+        <translation>Το ερώτημα στον διακομιστή μεσολάβησης ήταν επιτυχές.</translation>
     </message>
     <message>
         <source>Proxy query failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Το ερώτημα στον διακομιστή μεσολάβησης απέτυχε!</translation>
     </message>
     <message>
         <source>Requesting data transfer channel...</source>
@@ -4429,7 +4431,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Connecting to proxy...</source>
-        <translation type="unfinished"></translation>
+        <translation>Σύνδεση με τον διακομιστή μεσολάβησης</translation>
     </message>
     <message>
         <source>Waiting for peer activation...</source>
@@ -4445,7 +4447,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Unable to connect to proxy for data transfer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν είναι δυνατή η σύνδεση με τον διακομιστή μεσολάβησης για μεταφορά δεδομένων.</translation>
     </message>
     <message>
         <source>Lost connection / Cancelled.</source>
@@ -4482,7 +4484,7 @@ Reason: %3</source>
     <name>Form</name>
     <message>
         <source>Proxy Authentication Required</source>
-        <translation type="unfinished"></translation>
+        <translation>Απαιτείται έλεγχος ταυτότητας του διακομιστή μεσολάβησης</translation>
     </message>
     <message>
         <source>Load Content List</source>
@@ -4520,7 +4522,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Copy Groupchat JID</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντιγραφή JID Ομάδας</translation>
     </message>
     <message>
         <source> by %1</source>
@@ -4899,7 +4901,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Looking up the host</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναζήτηση του διακομιστή</translation>
     </message>
     <message>
         <source>Accepted a new connection</source>
@@ -4907,11 +4909,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>The host found</source>
-        <translation type="unfinished"></translation>
+        <translation>Ο διακομιστής βρέθηκε</translation>
     </message>
     <message>
         <source>Connected to the host</source>
-        <translation type="unfinished"></translation>
+        <translation>Συνδέθηκε με τον διακομιστή</translation>
     </message>
     <message>
         <source>Socket Error...</source>
@@ -4980,7 +4982,7 @@ You will lose it</source>
     </message>
     <message>
         <source>The host</source>
-        <translation type="unfinished"></translation>
+        <translation>Ο διακομιστής</translation>
     </message>
     <message>
         <source>not found.</source>
@@ -5068,7 +5070,7 @@ You lost the game.</source>
     <name>GeneralGroupchat</name>
     <message>
         <source>GeneralGroupchatUI</source>
-        <translation type="unfinished"></translation>
+        <translation>GeneralGroupchatUI</translation>
     </message>
     <message>
         <source>Enable word highlighting</source>
@@ -5383,11 +5385,11 @@ You lost the game.</source>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλέξτε ένα αρχείο ήχου</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ήχος (*.wav)</translation>
     </message>
     <message>
         <source>Choose a program</source>
@@ -5461,11 +5463,11 @@ to play gomoku. He wants to play %2.</source>
     <name>GomokuGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλέξτε ένα αρχείο ήχου</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ήχος (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -5493,7 +5495,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>GoogleFileTransferProgressDialog</name>
     <message>
         <source>Transferring %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Μεταφορά %1</translation>
     </message>
 </context>
 <context>
@@ -5533,11 +5535,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>GroupChatBrowseWindowUI</name>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Ομάδα</translation>
     </message>
     <message>
         <source>Groupchat server:</source>
-        <translation type="unfinished"></translation>
+        <translation>Διακομιστής Ομάδας:</translation>
     </message>
     <message>
         <source>&amp;Browse</source>
@@ -5579,11 +5581,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>GroupChatTopicAddLangDlg</name>
     <message>
         <source>Add Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσθήκη Γλώσσας</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Γλώσσα</translation>
     </message>
     <message>
         <source>Script</source>
@@ -5632,11 +5634,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>GroupchatTopicDlg</name>
     <message>
         <source>Set Groupchat Topic</source>
-        <translation type="unfinished"></translation>
+        <translation>Ορισμός Θέματος Ομάδας</translation>
     </message>
     <message>
         <source>Any Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Οποιαδήποτε Γλώσσα</translation>
     </message>
     <message>
         <source>Any Country</source>
@@ -5765,7 +5767,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Export history</source>
-        <translation type="unfinished"></translation>
+        <translation>Ιστορικό εξαγωγής</translation>
     </message>
     <message>
         <source>&amp;Delete history</source>
@@ -5844,7 +5846,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισαγωγή</translation>
     </message>
     <message>
         <source>Error</source>
@@ -5852,12 +5854,13 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Psi+ Import history</source>
-        <translation type="unfinished"></translation>
+        <translation>Ιστορικό εισαγωγής Psi+</translation>
     </message>
     <message>
         <source>Found %1 files for import.
 Continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Βρέθηκαν %1 αρχεία για εισαγωγή.
+Συνέχιση της διαδικασίας;</translation>
     </message>
     <message>
         <source>Counting records</source>
@@ -5914,7 +5917,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Host not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Ο διακομιστής δεν βρέθηκε</translation>
     </message>
     <message>
         <source>Access denied</source>
@@ -5937,7 +5940,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Host not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Ο διακομιστής δεν βρέθηκε</translation>
     </message>
     <message>
         <source>Access denied</source>
@@ -5960,7 +5963,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Host not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Ο διακομιστής δεν βρέθηκε</translation>
     </message>
     <message>
         <source>Access denied</source>
@@ -6023,7 +6026,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν υποστηρίζεται</translation>
     </message>
     <message>
         <source>Server for account %1 does not support HTTP Upload (XEP-363)</source>
@@ -6708,7 +6711,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Support</source>
-        <translation type="unfinished"></translation>
+        <translation>Υποστήριξη</translation>
     </message>
 </context>
 <context>
@@ -6964,7 +6967,7 @@ caching avatars will be not available</source>
     </message>
     <message>
         <source>Send personal message to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποστολή προσωπικού μηνύματος σε %1</translation>
     </message>
     <message>
         <source>Subscribe to %1&apos;s blog</source>
@@ -7201,7 +7204,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     <name>MUCJoin</name>
     <message>
         <source>Join Groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Συμμετοχή σε Ομάδα</translation>
     </message>
     <message>
         <source>Identity:</source>
@@ -7426,7 +7429,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Status Message</source>
-        <translation>Κατάσταση Μηνύματος</translation>
+        <translation>Μήνυμα Κατάστασης</translation>
     </message>
     <message>
         <source>Active accounts:</source>
@@ -7594,7 +7597,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Sounds (if empty default sound will be used)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ήχοι (εάν είναι κενό θα χρησιμοποιηθεί ο προεπιλεγμένος ήχος)</translation>
     </message>
     <message>
         <source>Expiration</source>
@@ -7766,7 +7769,7 @@ Tags: %1</source>
     <name>OptAdvanced</name>
     <message>
         <source>OptAdvancedUI</source>
-        <translation type="unfinished"></translation>
+        <translation>OptAdvancedUI</translation>
     </message>
     <message>
         <source>Enable &quot;Contact is typing ...&quot; events</source>
@@ -7846,7 +7849,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Chats</source>
-        <translation type="unfinished"></translation>
+        <translation>Συζητήσεις</translation>
     </message>
     <message>
         <source>Messages (Chats if Chatting)</source>
@@ -7953,7 +7956,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Status messages:</source>
-        <translation>Κατάσταση μηνυμάτων:</translation>
+        <translation>Μηνύματα Κατάστασης:</translation>
     </message>
     <message>
         <source>Specifies the color for additional text of system messages. MUC topic for example.</source>
@@ -7961,7 +7964,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Additional message text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιπλέον κείμενο μηνύματος:</translation>
     </message>
     <message>
         <source>Fonts</source>
@@ -8004,7 +8007,7 @@ Tags: %1</source>
     <name>OptAppearanceMisc</name>
     <message>
         <source>OptAppearanceMiscUI</source>
-        <translation type="unfinished"></translation>
+        <translation>OptAppearanceMiscUI</translation>
     </message>
     <message>
         <source>Headings</source>
@@ -8050,11 +8053,11 @@ Tags: %1</source>
     <name>OptApplication</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="unfinished"></translation>
+        <translation>OptApplicationUI</translation>
     </message>
     <message>
         <source>Automatically launch application when OS starts</source>
-        <translation type="unfinished"></translation>
+        <translation>Αυτόματη εκκίνηση της εφαρμογής όταν ξεκινά ο υπολογιστής</translation>
     </message>
     <message>
         <source>Enable docklet</source>
@@ -8086,7 +8089,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Data transfer base port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Βασική θύρα μεταφοράς δεδομένων:</translation>
     </message>
     <message>
         <source>(1 TCP, 4 UDP)</source>
@@ -8094,19 +8097,19 @@ Tags: %1</source>
     </message>
     <message>
         <source>Data transfer external address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Εξωτερική διεύθυνση μεταφοράς δεδομένων:</translation>
     </message>
     <message>
         <source>Proxy Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ρυθμίσεις Διακομιστή Μεσολάβησης</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Γλώσσα</translation>
     </message>
     <message>
         <source>Keep accounts&apos; passwords in more secure system keyring manager instead of profile settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Διατηρήστε τους κωδικούς πρόσβασης λογαριασμών σε πιο ασφαλές σύστημα διαχείρησης κλειδιού αντί για τις ρυθμίσεις προφίλ.</translation>
     </message>
     <message>
         <source>Use system keyring manager</source>
@@ -8180,7 +8183,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Συζήτηση</translation>
     </message>
     <message>
         <source>&amp;When chat window is closed</source>
@@ -8196,7 +8199,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>&amp;Never</source>
-        <translation type="unfinished"></translation>
+        <translation>Ποτέ</translation>
     </message>
 </context>
 <context>
@@ -8247,7 +8250,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Never</source>
-        <translation type="unfinished"></translation>
+        <translation>Ποτέ</translation>
     </message>
     <message>
         <source>Once</source>
@@ -8471,7 +8474,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished"></translation>
+        <translation>Διάφορα</translation>
     </message>
     <message>
         <source>Avatar size:</source>
@@ -8486,7 +8489,7 @@ Tags: %1</source>
     <name>OptRosterMain</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="unfinished"></translation>
+        <translation>OptApplicationUI</translation>
     </message>
     <message>
         <source>Roster window always on top</source>
@@ -8506,7 +8509,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Απενεργοποίηση της γραμμής κύλισης στο παράθυρο της εφαρμογής.</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
@@ -8526,7 +8529,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>seconds (0 - never)</source>
-        <translation type="unfinished"></translation>
+        <translation>δευτερόλεπτα (0-ποτέ)</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -8609,7 +8612,7 @@ Tags: %1</source>
     <name>OptRosterMuc</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="unfinished"></translation>
+        <translation>OptApplicationUI</translation>
     </message>
     <message>
         <source>Hides scrollbar in the roster widget.</source>
@@ -8715,7 +8718,7 @@ Tags: %1</source>
     <name>OptSound</name>
     <message>
         <source>OptSoundUI</source>
-        <translation type="unfinished"></translation>
+        <translation>OptSoundUI</translation>
     </message>
     <message>
         <source>Player:</source>
@@ -8723,11 +8726,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Play sounds when away/XA</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναπαραγωγή ήχων όταν εκτός/XA</translation>
     </message>
     <message>
         <source>Play sounds for all messages in groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναπαραγωγή ήχων για όλα τα μηνύματα στην ομάδα</translation>
     </message>
     <message>
         <source>Enter a filename or !beep for a system beep</source>
@@ -8743,7 +8746,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Receive message:</source>
-        <translation type="unfinished"></translation>
+        <translation>Λήψη μηνύματος:</translation>
     </message>
     <message>
         <source>Send message:</source>
@@ -8755,11 +8758,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Incoming file transfer:</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισερχόμενη μεταφορά αρχείου:</translation>
     </message>
     <message>
         <source>File transfer complete:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ολοκληρώθηκε η μεταφορά του αρχείου:</translation>
     </message>
     <message>
         <source>Receive next chat:</source>
@@ -8814,7 +8817,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Status message:</source>
-        <translation>Κατάσταση μηνύματος:</translation>
+        <translation>Μήνυμα κατάστασης:</translation>
     </message>
     <message>
         <source>Default priority</source>
@@ -9052,7 +9055,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Play sound:</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναπαραγωγή ήχου:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -9121,7 +9124,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Use proxy settings from account</source>
-        <translation type="unfinished"></translation>
+        <translation>Χρήση των ρυθμίσειων διακομιστή μεσολάβησης από το λογαριασμό</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -9185,7 +9188,9 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <source> Enable multiple applications signed in
  as the same user to report the same
  status message. </source>
-        <translation type="unfinished"></translation>
+        <translation>Ενεργοποίηση πολλαπλών εφαρμογών που έχουν συνδεθεί
+ως ο ίδιος χρήστης για την αναφορά του ίδιου
+μηνύματος κατάστασης.</translation>
     </message>
     <message>
         <source>Enable Shared Statuses</source>
@@ -9240,11 +9245,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισαγωγή</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Εξαγωγή</translation>
     </message>
     <message>
         <source>Info</source>
@@ -9308,7 +9313,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Sound:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ήχος:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -9332,7 +9337,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Ομάδα</translation>
     </message>
     <message>
         <source>Enable Stop Spam for private messages in groupchat</source>
@@ -9384,7 +9389,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished"></translation>
+        <translation>Διάφορα</translation>
     </message>
     <message>
         <source>Number of blocked stanzas:</source>
@@ -9445,7 +9450,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Default sound: </source>
-        <translation type="unfinished"></translation>
+        <translation>Προκαθορισμένος ήχος:</translation>
     </message>
     <message>
         <source>Messages</source>
@@ -9457,7 +9462,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Disable sound if chat window is active</source>
-        <translation type="unfinished"></translation>
+        <translation>Απενεργοποίηση ήχου εάν είναι ενεργό το παράθυρο συνομιλίας</translation>
     </message>
     <message>
         <source>Show Watch for JID button in contact context menu</source>
@@ -9595,7 +9600,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabAdvanced</name>
     <message>
         <source>Misc.</source>
-        <translation type="unfinished"></translation>
+        <translation>Διάφορα</translation>
     </message>
     <message>
         <source>Extra uncategorized options</source>
@@ -9733,18 +9738,18 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Status message</source>
-        <translation type="unfinished"></translation>
+        <translation>Μήνυμα κατάστασης</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabAppearanceMisc</name>
     <message>
         <source>Misc.</source>
-        <translation type="unfinished"></translation>
+        <translation>Διάφορα</translation>
     </message>
     <message>
         <source>Miscellaneous Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Διάφορες Ρυθμίσεις</translation>
     </message>
 </context>
 <context>
@@ -9785,11 +9790,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabApplication</name>
     <message>
         <source>Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Εφαρμογή</translation>
     </message>
     <message>
         <source>General application options</source>
-        <translation type="unfinished"></translation>
+        <translation>Γενικές ρυθμίσεις της εφαρμογής</translation>
     </message>
     <message>
         <source>Makes Psi use a docklet icon, also known as system tray icon.</source>
@@ -9847,7 +9852,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabChat</name>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Συζήτηση</translation>
     </message>
     <message>
         <source>Configure the chat dialog</source>
@@ -9957,11 +9962,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabGroupchat</name>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Ομάδα</translation>
     </message>
     <message>
         <source>Configure the groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Ρύθμιση της ομάδας</translation>
     </message>
 </context>
 <context>
@@ -10095,7 +10100,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Messages options</source>
-        <translation type="unfinished"></translation>
+        <translation>Ρυθμίσεις μηνυμάτων</translation>
     </message>
 </context>
 <context>
@@ -10206,18 +10211,18 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Shows the menubar in the application window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση της γραμμής μενού στο παράθυρο της εφαρμογής.</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabRosterMuc</name>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Ομάδα</translation>
     </message>
     <message>
         <source>Groupchat roster options</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλογές καταλόγου ομάδας</translation>
     </message>
 </context>
 <context>
@@ -10251,15 +10256,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabSound</name>
     <message>
         <source>Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Ήχος</translation>
     </message>
     <message>
         <source>Configure how Psi sounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαμορφώστε τον τρόπο που θα ακούγεται το Psi</translation>
     </message>
     <message>
         <source>If your system supports multiple sound players, you may choose your preferred sound player application here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Αν το σύστημά σας υποστηρίζει πολλαπλές συσκευές αναπαραγωγής ήχου, μπορείτε να επιλέξετε εδώ την προτιμώμενη συσκευή αναπαραγωγής ήχου.</translation>
     </message>
     <message>
         <source>Enable this option if you wish to hear sound alerts when your status is &quot;away&quot; or &quot;extended away&quot;.</source>
@@ -10267,23 +10272,23 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Play sounds for all events in groupchat, not only for mentioning of your nick.</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναπαραγωγή ήχων για όλα τα συμβάντα της ομάδας, όχι μόνο όταν αναφέρεται το όνομά σας.</translation>
     </message>
     <message>
         <source>Windows Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Ήχος Windows</translation>
     </message>
     <message>
         <source>Mac OS Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Ήχος Mac OS</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλέξτε ένα αρχείο ήχου</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ήχος (*.wav)</translation>
     </message>
 </context>
 <context>
@@ -10406,22 +10411,22 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Συζήτηση</translation>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Ομάδα</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabTree</name>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Σύνθετα</translation>
     </message>
     <message>
         <source>Options for advanced users</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλογές για προχωρημένους χρήστες</translation>
     </message>
     <message>
         <source>Please note: This editor will change the options directly. Pressing Cancel will not revert these changes.</source>
@@ -10534,7 +10539,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="unfinished"></translation>
+        <translation>Ομάδες</translation>
     </message>
     <message>
         <source>Show popup at version iq</source>
@@ -10542,7 +10547,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>never</source>
-        <translation type="unfinished"></translation>
+        <translation>ποτέ</translation>
     </message>
     <message>
         <source>if iq replaced</source>
@@ -10550,7 +10555,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>always</source>
-        <translation type="unfinished"></translation>
+        <translation>πάντα</translation>
     </message>
     <message>
         <source>Logs</source>
@@ -10642,7 +10647,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Detect full screen applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Εντοπισμός εφαρμογών πλήρους οθόνης</translation>
     </message>
     <message>
         <source>Set status:</source>
@@ -10650,7 +10655,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Status message:</source>
-        <translation>Κατάσταση μηνύματος:</translation>
+        <translation>Μήνυμα κατάστασης:</translation>
     </message>
     <message>
         <source>Restore old status if player stops</source>
@@ -10801,11 +10806,11 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλέξτε ένα αρχείο ήχου</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ήχος (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -11308,7 +11313,7 @@ Please enter your passphrase below:</source>
     <name>ProfileManage</name>
     <message>
         <source>Manage Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαχείριση Προφίλ</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -11335,24 +11340,25 @@ Please enter your passphrase below:</source>
     <name>ProfileManageDlg</name>
     <message>
         <source>Rename Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετονομασία Προφίλ</translation>
     </message>
     <message>
         <source>Please enter a new name for the profile.  Keep it simple.
 Only use letters or numbers.  No punctuation or spaces.</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισαγάγετε ένα νέο όνομα για το προφίλ. Κρατήστε το απλό.
+Χρησιμοποιείτε μόνο γράμματα ή αριθμούς. Δεν υπάρχουν σημεία στίξης ή κενά.</translation>
     </message>
     <message>
         <source>There is already another profile with this name.  Please choose another.</source>
-        <translation type="unfinished"></translation>
+        <translation>Υπάρχει ήδη ένα άλλο προφίλ με αυτό το όνομα. Επιλέξτε κάποιο άλλο.</translation>
     </message>
     <message>
         <source>Unable to rename the profile.  Please do not use any special characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν είναι δυνατή η μετονομασία του προφίλ. Μην χρησιμοποιείτε ειδικούς χαρακτήρες.</translation>
     </message>
     <message>
         <source>Delete Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή Προφίλ</translation>
     </message>
     <message>
         <source>&lt;qt&gt;Are you sure you want to delete the &quot;&lt;b&gt;%1&lt;/b&gt;&quot; profile?  This will delete all of the profile&apos;s message history as well as associated settings!&lt;/qt&gt;</source>
@@ -11389,7 +11395,7 @@ Proceed?</source>
     <name>ProfileNew</name>
     <message>
         <source>New Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Νέο Προφίλ</translation>
     </message>
     <message>
         <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
@@ -11401,7 +11407,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Profile Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Όνομα Προφίλ:</translation>
     </message>
     <message>
         <source>Default Action</source>
@@ -11433,29 +11439,29 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Συζήτηση</translation>
     </message>
 </context>
 <context>
     <name>ProfileNewDlg</name>
     <message>
         <source>New Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Νέο Προφίλ</translation>
     </message>
     <message>
         <source>There is already an existing profile with this name.  Please choose another.</source>
-        <translation type="unfinished"></translation>
+        <translation>Υπάρχει ήδη ένα άλλο προφίλ με αυτό το όνομα. Επιλέξτε κάποιο άλλο.</translation>
     </message>
     <message>
         <source>Unable to create the profile.  Please do not use any special characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν είναι δυνατή η δημιουργία του προφίλ. Μην χρησιμοποιείτε ειδικούς χαρακτήρες.</translation>
     </message>
 </context>
 <context>
     <name>ProfileOpen</name>
     <message>
         <source>Open Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα Προφίλ</translation>
     </message>
     <message>
         <source>left</source>
@@ -11471,7 +11477,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Profile:</source>
-        <translation type="unfinished"></translation>
+        <translation>Προφίλ:</translation>
     </message>
     <message>
         <source>&amp;Automatically open on startup</source>
@@ -11479,7 +11485,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Γλώσσα:</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
@@ -11491,11 +11497,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>&amp;Profiles...</source>
-        <translation type="unfinished"></translation>
+        <translation>Προφίλ...</translation>
     </message>
     <message>
         <source>psi/profile</source>
-        <translation type="unfinished"></translation>
+        <translation>psi/profile</translation>
     </message>
     <message>
         <source>&amp;Open</source>
@@ -11510,7 +11516,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <name>ProfileOpenDlg</name>
     <message>
         <source>Select a profile to open from this list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλέξτε ένα προφίλ για να ανοίξετε από αυτήν τη λίστα.</translation>
     </message>
     <message>
         <source>Select a language you would like Psi to use from this list.  You can download extra language packs from the Psi homepage.</source>
@@ -11518,14 +11524,14 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Automatically open this profile when Psi is started.  Useful if you only have one profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Αυτό το προφίλ να ανοίγει αυτόματα όταν ξεκινάει το Psi. Χρήσιμο εάν έχετε μόνο ένα προφίλ.</translation>
     </message>
 </context>
 <context>
     <name>Proxy</name>
     <message>
         <source>Proxy Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Προφίλ Διακομιστή Μεσολάβησης</translation>
     </message>
     <message>
         <source>&amp;New</source>
@@ -11549,11 +11555,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Host:</source>
-        <translation type="unfinished"></translation>
+        <translation>Όνομα Διακομιστή:</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Θύρα:</translation>
     </message>
     <message>
         <source>Polling URL:</source>
@@ -11587,7 +11593,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <name>ProxyDlg</name>
     <message>
         <source>Enter the hostname and port of your proxy server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισάγετε το όνομα κεντρικού υπολογιστή και τη θύρα του διακομιστή μεσολάβησης.</translation>
     </message>
     <message>
         <source>Consult your network administrator if necessary.</source>
@@ -11595,15 +11601,15 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Enter your proxy server login (username) or leave this field blank if the proxy server does not require it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Καταχωρίστε το όνομα χρήστη για τον διακομιστή μεσολάβησης (username) ή αφήστε αυτό το πεδίο κενό, αν ο διακομιστής μεσολάβησης δεν το απαιτεί.</translation>
     </message>
     <message>
         <source>Enter your proxy server password or leave this field blank if the proxy server does not require it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Καταχωρίστε τον κωδικό πρόσβασης για τον διακομιστή μεσολάβησης ή αφήστε αυτό το πεδίο κενό, αν ο διακομιστής μεσολάβησης δεν το απαιτεί.</translation>
     </message>
     <message>
         <source>If you require a proxy server to connect, select the type of proxy here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Αν χρειάζεστε έναν διακομιστή μεσολάβησης για σύνδεση, επιλέξτε τον τύπο του διακομιστή μεσολάβησης εδώ.</translation>
     </message>
 </context>
 <context>
@@ -11617,7 +11623,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <name>ProxySettingsDlg</name>
     <message>
         <source>Proxy Server Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ρυθμίσεις Διακομιστή Μεσολάβησης</translation>
     </message>
     <message>
         <source>Type:</source>
@@ -11625,11 +11631,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Host:</source>
-        <translation type="unfinished"></translation>
+        <translation>Όνομα Διακομιστή:</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Θύρα:</translation>
     </message>
     <message>
         <source>99999; </source>
@@ -11749,19 +11755,19 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Host not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Ο διακομιστής δεν βρέθηκε</translation>
     </message>
     <message>
         <source>Error connecting to proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Σφάλμα σύνδεσης με τον διακομιστή μεσολάβησης</translation>
     </message>
     <message>
         <source>Error during proxy negotiation</source>
-        <translation type="unfinished"></translation>
+        <translation>Σφάλμα κατά την διαπραγμάτευση με τον διακομιστή μεσολάβησης</translation>
     </message>
     <message>
         <source>Proxy authentication failed</source>
-        <translation type="unfinished"></translation>
+        <translation>O έλεγχος ταυτότητας του διακομιστή μεσολάβησης απέτυχε</translation>
     </message>
     <message>
         <source>Socket/stream error</source>
@@ -11773,11 +11779,11 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Host no longer hosted</source>
-        <translation type="unfinished"></translation>
+        <translation>Ο διακομιστής δεν υπάρχει πλέον</translation>
     </message>
     <message>
         <source>Host unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Άγνωστος διακομιστής</translation>
     </message>
     <message>
         <source>A required remote connection failed</source>
@@ -11785,7 +11791,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>See other host: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Δείτε άλλον διακομιστή: %1</translation>
     </message>
     <message>
         <source>Server does not support proper XMPP version</source>
@@ -12034,7 +12040,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Show Status Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση Μηνυμάτων Κατάστασης</translation>
     </message>
     <message>
         <source>Toggles visibility of status messages of contacts</source>
@@ -12098,11 +12104,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Join Groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Συμμετοχή σε Ομάδα</translation>
     </message>
     <message>
         <source>Join &amp;Groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Συμμετοχή σε Ομάδα</translation>
     </message>
     <message>
         <source>Account Setup</source>
@@ -12130,23 +12136,23 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Change Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Αλλαγή Προφίλ</translation>
     </message>
     <message>
         <source>&amp;Change Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Αλλαγή Προφίλ</translation>
     </message>
     <message>
         <source>Play Sounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναπαραγωγή Ήχων</translation>
     </message>
     <message>
         <source>Play &amp;Sounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναπαραγωγή Ήχων</translation>
     </message>
     <message>
         <source>Toggles whether sound should be played or not</source>
-        <translation type="unfinished"></translation>
+        <translation>Εναλλαγή αν πρέπει να παίξει ήχο ή όχι</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -12174,7 +12180,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Transfer Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαχείριση Μεταφορών</translation>
     </message>
     <message>
         <source>Trans&amp;fer Manager</source>
@@ -12182,7 +12188,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Opens the transfer manager dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Ανοίγει το παράθυρο διαλόγου διαχείρισης μεταφοράς</translation>
     </message>
     <message>
         <source>Menu Items</source>
@@ -12346,11 +12352,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Report a Bug (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναφορά σφάλματος (Online)</translation>
     </message>
     <message>
         <source>Report a &amp;Bug (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναφορά σφάλματος (Online)</translation>
     </message>
     <message>
         <source>About</source>
@@ -12442,7 +12448,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Message History</source>
-        <translation type="unfinished"></translation>
+        <translation>Ιστορικό μηνυμάτων</translation>
     </message>
     <message>
         <source>Toggle Compact/Full Size</source>
@@ -12454,7 +12460,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Groupchat basic buttons</source>
-        <translation type="unfinished"></translation>
+        <translation>Βασικά κουμπιά ομάδας</translation>
     </message>
     <message>
         <source>Configure Room</source>
@@ -12534,7 +12540,7 @@ Reason: %1.</source>
     <message>
         <source>PROFILE</source>
         <comment>translate in UPPER_CASE with no spaces</comment>
-        <translation type="unfinished"></translation>
+        <translation>ΠΡΟΦΙΛ</translation>
     </message>
     <message>
         <source>Activate program instance running specified profile. Otherwise, open new instance using this profile (unless used together with --remote).</source>
@@ -12594,7 +12600,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>PROFILE</source>
-        <translation type="unfinished"></translation>
+        <translation>ΠΡΟΦΙΛ</translation>
     </message>
     <message>
         <source>STATUS</source>
@@ -12642,7 +12648,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Please disconnect before changing the profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Παρακαλώ αποσυνδεθείτε πριν αλλάξετε το προφίλ.</translation>
     </message>
     <message>
         <source>&amp;Disconnect</source>
@@ -12824,7 +12830,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Always Visible</source>
-        <translation type="unfinished"></translation>
+        <translation>Πάντα Ορατό</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
@@ -12912,7 +12918,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Send Message T&amp;o</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποστολή Μηνύματος Σε</translation>
     </message>
     <message>
         <source>Open Chat &amp;To</source>
@@ -12936,7 +12942,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Copy Groupchat JID</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντιγραφή JID Ομάδας</translation>
     </message>
     <message>
         <source>Advanc&amp;ed</source>
@@ -12977,7 +12983,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Create Groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Δημιουργία Ομάδας</translation>
     </message>
     <message>
         <source>Choose a name for the groupchat you want to create:</source>
@@ -12992,16 +12998,17 @@ Reason: %1</source>
     </message>
     <message>
         <source>There was an error creating the default profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Παρουσιάστηκε σφάλμα κατά τη δημιουργία του προεπιλεγμένου προφίλ.</translation>
     </message>
     <message>
         <source>Profile already in use</source>
-        <translation type="unfinished"></translation>
+        <translation>Το προφίλ χρησιμοποιείται ήδη</translation>
     </message>
     <message>
         <source>The &quot;%1&quot; profile is already in use.
 Would you like to activate that session now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Το προφίλ &quot;%1&quot; χρησιμοποιείται ήδη.
+Θέλετε να ενεργοποιήσετε αυτήν την περίοδο τώρα;</translation>
     </message>
     <message>
         <source>Activate</source>
@@ -13009,7 +13016,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Cannot open this profile - it is already running, but not responding</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν είναι δυνατό να ανοίξει αυτό το προφίλ - είναι ήδη σε λειτουργία, αλλά δεν ανταποκρίνεται</translation>
     </message>
 </context>
 <context>
@@ -13088,7 +13095,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Greece</source>
-        <translation type="unfinished"></translation>
+        <translation>Ελλάδα</translation>
     </message>
     <message>
         <source>I have gone to a far away place.  I will be back someday!</source>
@@ -13151,7 +13158,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Σύνθετα</translation>
     </message>
     <message>
         <source>(internal node)</source>
@@ -13297,7 +13304,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished"></translation>
+        <translation>Διάφορα</translation>
     </message>
     <message>
         <source>No certificate presented.</source>
@@ -13305,7 +13312,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Hostname mismatch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Το όνομα διακομιστή δεν είναι αντίστοιχο.</translation>
     </message>
     <message>
         <source>Invalid Certificate.</source>
@@ -13345,7 +13352,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>The hostname does not match the one the certificate was issued to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Το όνομα του διακομιστή δεν ταιριάζει με αυτό που εκδόθηκε το πιστοποιητικό.</translation>
     </message>
     <message>
         <source>General certificate validation error.</source>
@@ -14266,7 +14273,7 @@ Description: </source>
     </message>
     <message>
         <source>New message posted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναρτήθηκε νέο μήνυμα.</translation>
     </message>
     <message>
         <source> recommended your post </source>
@@ -14274,7 +14281,7 @@ Description: </source>
     </message>
     <message>
         <source>Show all messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση όλων των μηνυμάτων</translation>
     </message>
     <message>
         <source>Reply</source>
@@ -14385,11 +14392,11 @@ Password: %5</source>
     </message>
     <message>
         <source>Chat Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Μήνυμα Συζήτησης</translation>
     </message>
     <message>
         <source>Groupchat Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Μήνυμα Ομάδας</translation>
     </message>
     <message>
         <source>Error</source>
@@ -14417,7 +14424,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Messages,</source>
-        <translation type="unfinished"></translation>
+        <translation>Μηνύματα,</translation>
     </message>
     <message>
         <source>Presence-In,</source>
@@ -14481,7 +14488,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Incoming Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισερχόμενο Μήνυμα</translation>
     </message>
     <message>
         <source>Incoming Headline</source>
@@ -14497,7 +14504,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Groupchat highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Επισήμανση Ομάδας</translation>
     </message>
     <message>
         <source>Incoming Call</source>
@@ -14509,7 +14516,7 @@ Password: %5</source>
     </message>
     <message>
         <source>[Incoming Message]</source>
-        <translation type="unfinished"></translation>
+        <translation>[Εισερχόμενο Μήνυμα]</translation>
     </message>
     <message>
         <source>[Incoming Headline]</source>
@@ -14521,7 +14528,7 @@ Password: %5</source>
     </message>
     <message>
         <source>[Groupchat highlight]</source>
-        <translation type="unfinished"></translation>
+        <translation>[Επισήμανση Ομάδας]</translation>
     </message>
     <message>
         <source>[Incoming Call]</source>
@@ -14541,11 +14548,11 @@ Password: %5</source>
     </message>
     <message>
         <source>Incoming message</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισερχόμενο μήνυμα</translation>
     </message>
     <message>
         <source>Incoming chat message</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισερχόμενο μήνυμα συζήτησης</translation>
     </message>
     <message>
         <source>Incoming file</source>
@@ -14561,11 +14568,11 @@ Password: %5</source>
     </message>
     <message>
         <source>Choose the status and status message</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλέξτε την κατάσταση και το μήνυμα κατάστασης</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Συζήτηση</translation>
     </message>
     <message>
         <source>Extended Away</source>
@@ -14585,7 +14592,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Forward Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Προώθηση μηνυμάτων</translation>
     </message>
     <message>
         <source>Forwarded %1 messages</source>
@@ -14601,7 +14608,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Play sounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναπαραγωγή ήχων</translation>
     </message>
     <message>
         <source>Automatically go offline when idle</source>
@@ -14689,15 +14696,15 @@ Password: %5</source>
     </message>
     <message>
         <source>Last Status Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Τελευταίο Μήνυμα Κατάστασης</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation type="unfinished"></translation>
+        <translation>Ποτέ</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation type="unfinished"></translation>
+        <translation>Πάντα</translation>
     </message>
     <message>
         <source>This computer only</source>
@@ -14726,7 +14733,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Any Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Οποιαδήποτε Γλώσσα</translation>
     </message>
 </context>
 <context>
@@ -14850,11 +14857,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλέξτε ένα αρχείο ήχου</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ήχος (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -14896,7 +14903,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>RoomModel</name>
     <message>
         <source>Groupchat name</source>
-        <translation type="unfinished"></translation>
+        <translation>Όνομα ομάδας</translation>
     </message>
     <message>
         <source>Auto-join</source>
@@ -14927,7 +14934,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Status Message</source>
-        <translation>Κατάσταση Μηνύματος</translation>
+        <translation>Μήνυμα Κατάστασης</translation>
     </message>
 </context>
 <context>
@@ -15009,7 +15016,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Proxy Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ρυθμίσεις Διακομιστή Μεσολάβησης</translation>
     </message>
     <message>
         <source>Options</source>
@@ -15122,7 +15129,9 @@ The address of FTP server is specified as ftp://ftp.domain.tld/path1/path2</sour
         <source>
 
 Settings for authorization on some hostings can be found here: http://code.google.com/p/qscreenshot/wiki/Authorization</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Οι ρυθμίσεις για την εξουσιοδότηση σε κάποιες φιλοξενίες μπορούν να βρεθούν εδώ: http://code.google.com/p/qscreenshot/wiki/Authorization</translation>
     </message>
 </context>
 <context>
@@ -15411,7 +15420,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>New Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Νέο Μήνυμα</translation>
     </message>
     <message>
         <source>Join Group Chat</source>
@@ -15427,7 +15436,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>File Transfer</source>
-        <translation type="unfinished"></translation>
+        <translation>Μεταφορά Αρχείων</translation>
     </message>
     <message>
         <source>Toolbars</source>
@@ -15439,11 +15448,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Change Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Αλλαγή Προφίλ</translation>
     </message>
     <message>
         <source>Play Sounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναπαραγωγή Ήχων</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -15487,7 +15496,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Show Status Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση Μηνύματος Κατάστασης</translation>
     </message>
     <message>
         <source>Publish Tune</source>
@@ -15583,7 +15592,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Report Bug</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναφορά σφάλματος</translation>
     </message>
     <message>
         <source>About Psi</source>
@@ -15631,7 +15640,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Sends the message</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποστολή του μηνύματος</translation>
     </message>
     <message>
         <source>Clear the text</source>
@@ -15643,19 +15652,19 @@ Reason: %1</source>
     </message>
     <message>
         <source>Show last message</source>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή τελευταίου μηνύματος</translation>
     </message>
     <message>
         <source>Show first message</source>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή πρώτου μηνύματος</translation>
     </message>
     <message>
         <source>Show next message</source>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή επόμενου μηνύματος</translation>
     </message>
     <message>
         <source>Show prev message</source>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή προηγούμενου μηνύματος</translation>
     </message>
     <message>
         <source>Change case of letters in the chat edit</source>
@@ -15723,7 +15732,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Open the message history</source>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα του ιστορικού μηνυμάτων</translation>
     </message>
     <message>
         <source>Show the user info of the contact</source>
@@ -15731,19 +15740,19 @@ Reason: %1</source>
     </message>
     <message>
         <source>Shortcuts available from outside of the application</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαθέσιμες συντομεύσεις εκτός εφαρμογής</translation>
     </message>
     <message>
         <source>Show/hide the application</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση/απόκρυψη της εφαρμογής</translation>
     </message>
     <message>
         <source>Bring the application to front</source>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή της εφαρμογής πάντα μπροστά</translation>
     </message>
     <message>
         <source>Send new message</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποστολή νέου μηνύματος</translation>
     </message>
     <message>
         <source>Hide all active windows</source>
@@ -15755,7 +15764,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Send the message</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποστολή του μηνύματος</translation>
     </message>
     <message>
         <source>Shortcuts in the status dialog</source>
@@ -15763,7 +15772,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Set the status message</source>
-        <translation type="unfinished"></translation>
+        <translation>Ορισμός του μηνύματος κατάστασης</translation>
     </message>
     <message>
         <source>Shortcuts in the service discovery dialog</source>
@@ -16262,7 +16271,7 @@ Copyright (C) 2003 Justin Karneges</source>
     </message>
     <message>
         <source>You must specify a host:port for the proxy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Πρέπει να καθορίσετε Όνομα Διακομιστή:Θύρα για τον διακομιστή μεσολάβησης.</translation>
     </message>
     <message>
         <source>You must at least enter a URL to use http poll.</source>
@@ -16270,11 +16279,11 @@ Copyright (C) 2003 Justin Karneges</source>
     </message>
     <message>
         <source>Please enter the proxy host in the form &apos;host:port&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Παρακαλώ εισάγετε για τον διακομιστή μεσολάβησης το Όνομα Διακομιστή και την πόρτα σε αυτήν την μορφή &apos;Όνομα Διακομιστή:Θύρα&apos;.</translation>
     </message>
     <message>
         <source>Please enter the host in the form &apos;host:port&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Πληκτρολογήστε το Όνομα Διακομιστή σε αυτήν την μορφή &apos;Όνομα Διακομιστή:Θύρα&apos;:</translation>
     </message>
     <message>
         <source>Error: SSF Min is greater than SSF Max.</source>
@@ -16358,7 +16367,7 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>Host:Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Όνομα Διακομιστή:Θύρα:</translation>
     </message>
     <message>
         <source>Legacy SSL probe</source>
@@ -16366,11 +16375,11 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>Proxy:</source>
-        <translation type="unfinished"></translation>
+        <translation>Διακομιστής Μεσολάβησης:</translation>
     </message>
     <message>
         <source>Proxy Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ρυθμίσεις Διακομιστή Μεσολάβησης</translation>
     </message>
     <message>
         <source>User/Pass:</source>
@@ -16731,7 +16740,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
     </message>
     <message>
         <source>Join groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Συμμετοχή σε Ομάδα</translation>
     </message>
     <message>
         <source>Copy location</source>
@@ -17023,15 +17032,15 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλέξτε ένα αρχείο ήχου</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ήχος (*.wav)</translation>
     </message>
     <message>
         <source>&lt;br&gt;Status Message: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br&gt;Μήνυμα Κατάστασης: %1</translation>
     </message>
     <message>
         <source>Watcher Plugin</source>
@@ -17340,7 +17349,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Ομάδα</translation>
     </message>
     <message>
         <source>Gateway</source>
@@ -17426,7 +17435,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ο διακομιστής δεν ήταν σε θέση να επεξεργαστεί το τμήμα λόγω λανθασμένης ρύθμισης ή άλλου εσωτερικού σφάλματος του διακομιστή.</translation>
     </message>
     <message>
         <source>Item not found</source>
@@ -17606,7 +17615,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Select Sounds:</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλογή Ήχων:</translation>
     </message>
     <message>
         <source>Game started:</source>
@@ -17626,11 +17635,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>If checked, the sound will always enabled (or disabled)</source>
-        <translation type="unfinished"></translation>
+        <translation>Εάν είναι επιλεγμένο, ο ήχος θα είναι πάντα ενεργοποιημένος (ή απενεργοποιημένος)</translation>
     </message>
     <message>
         <source>Override default sound settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Παράκαμψη των προεπιλεγμένων ρυθμίσεων ήχου</translation>
     </message>
     <message>
         <source>Disable invitations if status is DND</source>
@@ -17638,7 +17647,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Disable invitations from groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Απενεργοποίηση προσκλήσεων από την ομάδα</translation>
     </message>
     <message>
         <source>Save window height and width</source>
@@ -18134,7 +18143,7 @@ You should authenticate %1 as well by asking your own question.</source>
     <name>requestAuthDialogClass</name>
     <message>
         <source>Authorization</source>
-        <translation type="unfinished"></translation>
+        <translation>Εξουσιοδότηση</translation>
     </message>
     <message>
         <source>Login:</source>
@@ -18516,7 +18525,7 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
     </message>
     <message>
         <source>Test Authorization</source>
-        <translation type="unfinished"></translation>
+        <translation>Δοκιμή Εξουσιοδότησης</translation>
     </message>
     <message>
         <source>Start Manager</source>
