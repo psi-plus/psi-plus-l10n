@@ -7248,7 +7248,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Host</source>
-        <translation type="unfinished"></translation>
+        <translation>Όνομα Υπολογιστή</translation>
     </message>
     <message>
         <source>&amp;Favorites</source>
