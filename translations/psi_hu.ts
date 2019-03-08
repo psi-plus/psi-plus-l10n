@@ -8055,6 +8055,13 @@ Részletek: %1</translation>
     </message>
 </context>
 <context>
+    <name>MultiFileTransferDlg</name>
+    <message>
+        <source>Not selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MyHeaderViewWidget</name>
     <message>
         <source>Flat</source>

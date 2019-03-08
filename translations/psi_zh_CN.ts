@@ -8081,6 +8081,10 @@ Details: %1</source>
         <source>Dialog</source>
         <translation type="obsolete">对话</translation>
     </message>
+    <message>
+        <source>Not selected</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MyHeaderViewWidget</name>

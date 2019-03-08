@@ -7812,6 +7812,10 @@ Details: %1</source>
         <source>Dialog</source>
         <translation type="obsolete">Сұхбат</translation>
     </message>
+    <message>
+        <source>Not selected</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MyHeaderViewWidget</name>
