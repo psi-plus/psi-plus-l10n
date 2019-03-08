@@ -17,3 +17,7 @@ Keywords=XMPP;Jabber;Chat;InstantMessaging;
 
 
 # Translations
+Comment[el]=Επικοινωνήστε μέσω του δικτύου XMPP
+GenericName[el]=XMPP Client
+Name[el]=Psi+
+Icon[el]=psi-plus
