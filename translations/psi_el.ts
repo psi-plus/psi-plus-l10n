@@ -53,10 +53,6 @@
         <translation>psi/psiplus_logo</translation>
     </message>
     <message>
-        <source>http://psi-im.org</source>
-        <translation type="vanished">http://psi-im.org</translation>
-    </message>
-    <message>
         <source>Authors</source>
         <translation>Συγγραφείς</translation>
     </message>
@@ -87,10 +83,6 @@
     <message>
         <source>Past Lead Developer</source>
         <translation>Προηγούμενος υπεύθυνος ανάπτυξης</translation>
-    </message>
-    <message>
-        <source>Lead Widget Developer</source>
-        <translation type="vanished">Επικεφαλής προγραμματιστής widget</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -716,7 +708,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Προειδοποίηση</translation>
     </message>
     <message>
         <source>This account is currently active, so certain changes may not take effect until the next login.</source>
@@ -826,7 +818,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Προειδοποίηση</translation>
     </message>
     <message>
         <source>Are you sure you want to cancel the registration?</source>
@@ -917,7 +909,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Προειδοποίηση</translation>
     </message>
     <message>
         <source>Are you sure you want to cancel the unregistration?</source>
@@ -1016,11 +1008,11 @@ save the history for this contact.</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>ΟΚ</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Άκυρο</translation>
     </message>
 </context>
 <context>
@@ -1283,11 +1275,11 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφέας:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email:</translation>
     </message>
     <message>
         <source>This plugin is designed to send and receive special messages such as Attentions.
@@ -1395,11 +1387,11 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφέας:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email:</translation>
     </message>
     <message>
         <source>This plugin acts as an auto-answering machine. It has a number of simple configuration options, which you can use to:
@@ -1501,11 +1493,11 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφέας:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email:</translation>
     </message>
     <message>
         <source>This plugin allows you to play battleship with your friends.
@@ -1727,11 +1719,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφέας:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email:</translation>
     </message>
     <message>
         <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
@@ -1911,7 +1903,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποστολή</translation>
     </message>
     <message>
         <source>Avatar</source>
@@ -1919,7 +1911,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Προειδοποίηση</translation>
     </message>
     <message>
         <source>A new chat message was just received.
@@ -2100,11 +2092,11 @@ to play chess. He wants to play %2.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφέας:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email:</translation>
     </message>
     <message>
         <source>This plugin allows you to play chess with your friends.
@@ -2329,11 +2321,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφέας:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email:</translation>
     </message>
     <message>
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
@@ -2439,7 +2431,7 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφείς:</translation>
     </message>
     <message>
         <source>The plugin is intended for substitution of the client version, his name and operating system type.
@@ -2517,11 +2509,11 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφέας:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email:</translation>
     </message>
 </context>
 <context>
@@ -2643,7 +2635,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή</translation>
     </message>
 </context>
 <context>
@@ -2905,7 +2897,7 @@ Proceed?</source>
     <name>ContentDownloader</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφέας:</translation>
     </message>
     <message>
         <source>e-mail: </source>
@@ -3322,7 +3314,7 @@ Proceed?</source>
     <name>EnumMessagesPlugin</name>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφείς:</translation>
     </message>
     <message>
         <source>Missed messages: %1</source>
@@ -3450,7 +3442,7 @@ Supports per contact on / off message enumeration via the buttons on the chats t
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Προειδοποίηση</translation>
     </message>
     <message>
         <source>Please type in a message first.</source>
@@ -3622,11 +3614,11 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφέας:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email:</translation>
     </message>
     <message>
         <source>This plugin adds several additional commands into contacts context menu.</source>
@@ -4051,11 +4043,11 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφέας:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email:</translation>
     </message>
     <message>
         <source>This plugin is designed to allow easy configuration of some advanced options in Psi+.
@@ -4106,7 +4098,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>Send File</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποστολή αρχείου</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -4154,7 +4146,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Προειδοποίηση</translation>
     </message>
     <message>
         <source>Are you sure you want to cancel the transfer?</source>
@@ -4513,13 +4505,6 @@ Reason: %3</source>
     </message>
 </context>
 <context>
-    <name>GCFindDlg</name>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Κλείσιμο</translation>
-    </message>
-</context>
-<context>
     <name>GCMainDlg</name>
     <message>
         <source>Find toolbar</source>
@@ -4560,7 +4545,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Προειδοποίηση</translation>
     </message>
     <message>
         <source>Are you sure you want to clear the chat window?
@@ -4745,11 +4730,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Άκυρο</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -5310,11 +5295,11 @@ You lost the game.</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>ΟΚ</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Άκυρο</translation>
     </message>
 </context>
 <context>
@@ -5348,7 +5333,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφέας:</translation>
     </message>
     <message>
         <source>Version: </source>
@@ -5356,11 +5341,11 @@ You lost the game.</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>ΟΚ</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Άκυρο</translation>
     </message>
 </context>
 <context>
@@ -5414,7 +5399,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφείς:</translation>
     </message>
     <message>
         <source>Shows notifications of new messages in your Gmailbox.
@@ -5426,7 +5411,7 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <name>Gnome3StatusWatcher</name>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφείς:</translation>
     </message>
     <message>
         <source>This plugin is designed to add support of GNOME 3 presence status changes</source>
@@ -5437,7 +5422,7 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <name>GnuPG</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφέας:</translation>
     </message>
     <message>
         <source>e-mail: </source>
@@ -5484,11 +5469,11 @@ to play gomoku. He wants to play %2.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφέας:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email:</translation>
     </message>
     <message>
         <source>This plugin allows you to play gomoku with your friends.
@@ -5533,7 +5518,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>GrepShortcutKeyDialog</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Άκυρο</translation>
     </message>
     <message>
         <source>Press shortcut</source>
@@ -5587,7 +5572,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποστολή</translation>
     </message>
 </context>
 <context>
@@ -5895,11 +5880,11 @@ Continue?</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφέας:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email:</translation>
     </message>
     <message>
         <source>This plugin is designed to remove the history of selected contacts when the Psi+ is closed.
@@ -6010,7 +5995,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφείς:</translation>
     </message>
     <message>
         <source>Image preview width</source>
@@ -6293,7 +6278,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή</translation>
     </message>
     <message>
         <source>RegExp</source>
@@ -6344,7 +6329,7 @@ Sincerely yours, Debian Sid.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφέας:</translation>
     </message>
     <message>
         <source>This plugin is designed to help you transfer as many contacts as possible from ICQ to Jabber.
@@ -6398,7 +6383,7 @@ The plugin has a number of simple settings that can help you:
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφείς:</translation>
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
@@ -6419,7 +6404,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>ImagePreviewPlugin</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφέας:</translation>
     </message>
     <message>
         <source>512 Kb</source>
@@ -6637,7 +6622,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Προειδοποίηση</translation>
     </message>
     <message>
         <source>You have not published your account information changes.
@@ -6750,7 +6735,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Άκυρο</translation>
     </message>
 </context>
 <context>
@@ -6803,7 +6788,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Άκυρο</translation>
     </message>
     <message>
         <source>Play White</source>
@@ -6838,7 +6823,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποστολή</translation>
     </message>
     <message>
         <source>Jabber Disk - %1</source>
@@ -6866,7 +6851,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Send File</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποστολή αρχείου</translation>
     </message>
     <message>
         <source>Hash</source>
@@ -6874,11 +6859,11 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Σύνδεσμος</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Βοήθεια</translation>
     </message>
     <message>
         <source>Intro</source>
@@ -6886,11 +6871,11 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>Στατιστικά</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετονομασία</translation>
     </message>
     <message>
         <source>Move to...</source>
@@ -6925,11 +6910,11 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφέας:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email:</translation>
     </message>
 </context>
 <context>
@@ -6944,11 +6929,11 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>ΟΚ</translation>
     </message>
 </context>
 <context>
@@ -6962,7 +6947,7 @@ to play battleship. He wants to play %2.</source>
     <name>JuickPlugin</name>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Προειδοποίηση</translation>
     </message>
     <message>
         <source>can&apos;t create folder %1 
@@ -6987,15 +6972,15 @@ caching avatars will be not available</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή</translation>
     </message>
     <message>
         <source>Add to favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσθήκη στα αγαπημένα</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφείς:</translation>
     </message>
     <message>
         <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
@@ -7028,7 +7013,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή</translation>
     </message>
     <message>
         <source>Alt+D</source>
@@ -7044,11 +7029,11 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενεργό</translation>
     </message>
     <message>
         <source>Locked</source>
-        <translation type="unfinished"></translation>
+        <translation>Κλειδωμένο</translation>
     </message>
     <message>
         <source>...</source>
@@ -7087,7 +7072,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Reason</source>
-        <translation type="unfinished"></translation>
+        <translation>Λόγος</translation>
     </message>
     <message>
         <source>Members</source>
@@ -7225,10 +7210,6 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     <message>
         <source>Room information</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Password:</source>
-        <translation type="vanished">Κωδικός πρόσβασης:</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7374,7 +7355,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Άκυρο</translation>
     </message>
 </context>
 <context>
@@ -7401,7 +7382,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Βοήθεια</translation>
     </message>
     <message>
         <source>Diagnostics</source>
@@ -7510,7 +7491,7 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Βοήθεια</translation>
     </message>
     <message>
         <source>Ready</source>
@@ -7534,7 +7515,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     <name>MessageFilter</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφέας:</translation>
     </message>
     <message>
         <source>e-mail: </source>
@@ -7636,11 +7617,11 @@ Details: %1</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>ΟΚ</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Άκυρο</translation>
     </message>
 </context>
 <context>
@@ -8012,7 +7993,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Σύνδεσμος</translation>
     </message>
     <message>
         <source>Visited Link</source>
@@ -8952,7 +8933,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή</translation>
     </message>
     <message>
         <source>Selected preset</source>
@@ -9283,7 +9264,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -9504,7 +9485,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Άκυρο</translation>
     </message>
     <message>
         <source>&lt;b&gt;Please wait!&lt;/b&gt;&lt;br/&gt;We need to generate a lot of random bytes. It is a good idea to perform some other action (type on the keyboard, move the mouse, utilize the disks) during the prime generation; this gives the random number generator a better chance to gain enough entropy.</source>
@@ -9576,7 +9557,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενεργό</translation>
     </message>
     <message>
         <source>Color for outgoing messages numbers</source>
@@ -10363,7 +10344,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή</translation>
     </message>
     <message>
         <source>Press this button to create a new status message preset.</source>
@@ -10641,7 +10622,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή</translation>
     </message>
     <message>
         <source>Edit current server</source>
@@ -10758,11 +10739,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>ΟΚ</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Άκυρο</translation>
     </message>
     <message>
         <source>Please enter your password for %1:</source>
@@ -10828,11 +10809,11 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφέας:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email:</translation>
     </message>
     <message>
         <source>This plugin shows popup notifications when users from your roster changes their mood, tune or activity.</source>
@@ -11120,7 +11101,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφέας:</translation>
     </message>
     <message>
         <source>Version: </source>
@@ -11273,11 +11254,11 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>ΟΚ</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Άκυρο</translation>
     </message>
 </context>
 <context>
@@ -12413,7 +12394,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Βοήθεια</translation>
     </message>
     <message>
         <source>Clear Chat Window</source>
@@ -12449,7 +12430,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Send File</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποστολή αρχείου</translation>
     </message>
     <message>
         <source>Toggle Encryption</source>
@@ -12520,7 +12501,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Προειδοποίηση</translation>
     </message>
     <message>
         <source>Are you sure you want to clear the chat window?
@@ -12681,7 +12662,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Προειδοποίηση</translation>
     </message>
     <message>
         <source>You can not disable &lt;i&gt;all&lt;/i&gt; toolbars &lt;i&gt;and&lt;/i&gt; the menubar. If you do so, you will be unable to enable them back, when you&apos;ll change your mind.</source>
@@ -14268,7 +14249,7 @@ Description: </source>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Προειδοποίηση</translation>
     </message>
     <message>
         <source>Cannot write to file %1:
@@ -14756,11 +14737,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφέας:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email:</translation>
     </message>
     <message>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
@@ -14771,11 +14752,11 @@ Thanks for your patience.</source>
     <name>Redirector</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφέας:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email:</translation>
     </message>
     <message>
         <source>Redirects all incoming messages to some jid and allows one to redirect messages back.</source>
@@ -14877,11 +14858,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφέας:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email:</translation>
     </message>
     <message>
         <source>This plugin is designed to show reminders of upcoming birthdays.
@@ -15008,7 +14989,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Βοήθεια</translation>
     </message>
     <message>
         <source>Open</source>
@@ -15126,7 +15107,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφείς:</translation>
     </message>
     <message>
         <source>This plugin allows you to make screenshots and save them to your hard drive or upload them to an FTP or HTTP server.
@@ -15287,7 +15268,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Άκυρο</translation>
     </message>
 </context>
 <context>
@@ -15318,7 +15299,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Άκυρο</translation>
     </message>
     <message>
         <source>Add template string</source>
@@ -15962,11 +15943,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφέας:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email:</translation>
     </message>
     <message>
         <source>This plugin is designed to create, store and apply skins to Psi+.
@@ -16097,11 +16078,11 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφέας:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email:</translation>
     </message>
     <message>
         <source>This plugin is designed to block spam messages and other unwanted information from Psi+ users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
@@ -16165,11 +16146,11 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφέας:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email:</translation>
     </message>
     <message>
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
@@ -16668,7 +16649,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή</translation>
     </message>
     <message>
         <source>ShortCut:</source>
@@ -16688,7 +16669,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφέας:</translation>
     </message>
     <message>
         <source>This plugin allows you to convert selected text into another language.
@@ -16796,7 +16777,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
     <name>VideoStatusChanger</name>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφείς:</translation>
     </message>
     <message>
         <source>This plugin is designed to set the custom status when you watching the video in selected video players. 
@@ -17062,11 +17043,11 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Συγγραφέας:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email:</translation>
     </message>
     <message>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
@@ -17174,7 +17155,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Προειδοποίηση</translation>
     </message>
     <message>
         <source>Are you sure you want to end the session?
@@ -17941,7 +17922,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
@@ -17988,7 +17969,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
@@ -18180,7 +18161,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Άκυρο</translation>
     </message>
     <message>
         <source>Set Keys</source>
@@ -18330,7 +18311,7 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Άκυρο</translation>
     </message>
 </context>
 <context>
