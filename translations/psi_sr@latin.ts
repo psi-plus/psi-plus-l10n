@@ -4131,6 +4131,10 @@ Važno: veliki deo opcija su važna sistemska podešavanja. One zahtevaju veliku
         <source>Store MUC private messages in history</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Place current tab at the bottom row in multirow mode</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FancyPopup::Private</name>
@@ -8028,6 +8032,14 @@ Detalji: %1</translation>
     </message>
     <message>
         <source>Not selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send</source>
+        <translation type="unfinished">Pošalji</translation>
+    </message>
+    <message>
+        <source>%1 File(s)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

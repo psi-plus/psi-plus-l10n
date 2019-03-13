@@ -4172,6 +4172,10 @@ Importante; gran parte delle opzioni sono importanti impostazioni di sistema, qu
         <source>Store MUC private messages in history</source>
         <translation>Memorizza messaggi privati MUC nella cronologia</translation>
     </message>
+    <message>
+        <source>Place current tab at the bottom row in multirow mode</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FancyPopup::Private</name>
@@ -8085,6 +8089,14 @@ Dettagli: %1</translation>
     <name>MultiFileTransferDlg</name>
     <message>
         <source>Not selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send</source>
+        <translation type="unfinished">Invia</translation>
+    </message>
+    <message>
+        <source>%1 File(s)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

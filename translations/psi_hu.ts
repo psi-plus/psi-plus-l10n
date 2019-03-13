@@ -4151,6 +4151,10 @@ Legfőképpen: nagy része a beállításoknak fontos rendszerbeállítás. Ezek
         <source>Store MUC private messages in history</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Place current tab at the bottom row in multirow mode</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FancyPopup::Private</name>
@@ -8058,6 +8062,14 @@ Részletek: %1</translation>
     <name>MultiFileTransferDlg</name>
     <message>
         <source>Not selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send</source>
+        <translation type="unfinished">Küldés</translation>
+    </message>
+    <message>
+        <source>%1 File(s)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
