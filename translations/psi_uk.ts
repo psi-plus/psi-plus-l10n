@@ -4141,7 +4141,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>Place current tab at the bottom row in multirow mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмістити поточну вкладку в нижньому ряду в багаторядковому режимі</translation>
     </message>
 </context>
 <context>
@@ -7805,11 +7805,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Надіслати</translation>
     </message>
     <message>
         <source>%1 File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Файл(и)</translation>
     </message>
 </context>
 <context>
