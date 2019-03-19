@@ -102,7 +102,7 @@
     </message>
     <message>
         <source>Founder, Patcher and MS Windows Packager</source>
-        <translation>Osnivač, korektor i MS Window paketar</translation>
+        <translation type="vanished">Osnivač, korektor i MS Window paketar</translation>
     </message>
     <message>
         <source>Founder and Lead Patcher</source>
@@ -110,15 +110,11 @@
     </message>
     <message>
         <source>Founder, Designer and Patcher</source>
-        <translation>Osnivač, dizajner i korektor</translation>
-    </message>
-    <message>
-        <source>Lead Patcher and Plugins Writer; Mac OS X Packager</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Osnivač, dizajner i korektor</translation>
     </message>
     <message>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
-        <translation>Korektor, programer priključaka i Fedora paketar</translation>
+        <translation type="vanished">Korektor, programer priključaka i Fedora paketar</translation>
     </message>
     <message>
         <source>Patcher and Plugins Writer</source>
@@ -126,19 +122,19 @@
     </message>
     <message>
         <source>Patcher and Ubuntu Packager</source>
-        <translation>Korektor i Ubuntu paketar</translation>
+        <translation type="vanished">Korektor i Ubuntu paketar</translation>
     </message>
     <message>
         <source>Ubuntu Packager</source>
-        <translation>Ubuntu paketar</translation>
+        <translation type="vanished">Ubuntu paketar</translation>
     </message>
     <message>
         <source>Mandriva Linux Packager</source>
-        <translation>Mandriva Linux paketar</translation>
+        <translation type="vanished">Mandriva Linux paketar</translation>
     </message>
     <message>
         <source>Patcher and Russian localization</source>
-        <translation>Korekktor i Ruska lokalizacija</translation>
+        <translation type="vanished">Korekktor i Ruska lokalizacija</translation>
     </message>
     <message>
         <source>Psimedia Patcher and Wiki English localization</source>
@@ -146,7 +142,7 @@
     </message>
     <message>
         <source>Language coordinator; Debian Packager</source>
-        <translation>Koordinator za jezike; Debian paketar</translation>
+        <translation type="vanished">Koordinator za jezike; Debian paketar</translation>
     </message>
     <message>
         <source>Language coordinator, miscellaneous assistance</source>
@@ -242,6 +238,46 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Language coordinator, macOS port, miscellaneous assistance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Founder, Patcher and former MS Windows Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Founder, Patcher and former Designer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language coordinator; Patcher; Debian and Ubuntu Packager; MS Windows and macOS Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and Plugins Writer; MS Windows Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and Plugins Writer; former Fedora Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>former Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>former Mandriva Linux Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former Russian translator</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

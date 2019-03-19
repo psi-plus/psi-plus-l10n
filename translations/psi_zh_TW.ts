@@ -102,7 +102,7 @@
     </message>
     <message>
         <source>Founder, Patcher and MS Windows Packager</source>
-        <translation>創辦者，補丁和MS Windows 包 </translation>
+        <translation type="vanished">創辦者，補丁和MS Windows 包 </translation>
     </message>
     <message>
         <source>Founder and Lead Patcher</source>
@@ -110,15 +110,15 @@
     </message>
     <message>
         <source>Founder, Designer and Patcher</source>
-        <translation>創辦者，設計師和補丁</translation>
+        <translation type="vanished">創辦者，設計師和補丁</translation>
     </message>
     <message>
         <source>Lead Patcher and Plugins Writer; Mac OS X Packager</source>
-        <translation>引導補丁和外掛程式撰寫者的Mac OS X包</translation>
+        <translation type="vanished">引導補丁和外掛程式撰寫者的Mac OS X包</translation>
     </message>
     <message>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
-        <translation>補丁，外掛程式作者和Fedora打包</translation>
+        <translation type="vanished">補丁，外掛程式作者和Fedora打包</translation>
     </message>
     <message>
         <source>Patcher and Plugins Writer</source>
@@ -126,19 +126,19 @@
     </message>
     <message>
         <source>Patcher and Ubuntu Packager</source>
-        <translation>補丁和Ubuntu包</translation>
+        <translation type="vanished">補丁和Ubuntu包</translation>
     </message>
     <message>
         <source>Ubuntu Packager</source>
-        <translation>Ubuntu的打包機</translation>
+        <translation type="vanished">Ubuntu的打包機</translation>
     </message>
     <message>
         <source>Mandriva Linux Packager</source>
-        <translation>Mandriva Linux的打包機</translation>
+        <translation type="vanished">Mandriva Linux的打包機</translation>
     </message>
     <message>
         <source>Patcher and Russian localization</source>
-        <translation>補丁和俄語當地語系化</translation>
+        <translation type="vanished">補丁和俄語當地語系化</translation>
     </message>
     <message>
         <source>Psimedia Patcher and Wiki English localization</source>
@@ -146,7 +146,7 @@
     </message>
     <message>
         <source>Language coordinator; Debian Packager</source>
-        <translation>語言協調員; Debian包</translation>
+        <translation type="vanished">語言協調員; Debian包</translation>
     </message>
     <message>
         <source>Language coordinator, miscellaneous assistance</source>
@@ -242,6 +242,46 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Language coordinator, macOS port, miscellaneous assistance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Founder, Patcher and former MS Windows Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Founder, Patcher and former Designer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language coordinator; Patcher; Debian and Ubuntu Packager; MS Windows and macOS Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and Plugins Writer; MS Windows Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and Plugins Writer; former Fedora Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>former Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>former Mandriva Linux Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former Russian translator</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

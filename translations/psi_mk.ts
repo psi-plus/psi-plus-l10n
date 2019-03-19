@@ -97,23 +97,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Founder, Patcher and MS Windows Packager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Founder and Lead Patcher</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Founder, Designer and Patcher</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Lead Patcher and Plugins Writer; Mac OS X Packager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Patcher, Plugins Writer and Fedora Packager</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -121,27 +105,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Patcher and Ubuntu Packager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ubuntu Packager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mandriva Linux Packager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Patcher and Russian localization</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Psimedia Patcher and Wiki English localization</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Language coordinator; Debian Packager</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -238,6 +202,46 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Language coordinator, macOS port, miscellaneous assistance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Founder, Patcher and former MS Windows Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Founder, Patcher and former Designer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language coordinator; Patcher; Debian and Ubuntu Packager; MS Windows and macOS Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and Plugins Writer; MS Windows Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and Plugins Writer; former Fedora Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>former Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>former Mandriva Linux Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former Russian translator</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

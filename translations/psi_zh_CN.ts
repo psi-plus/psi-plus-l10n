@@ -102,7 +102,7 @@
     </message>
     <message>
         <source>Founder, Patcher and MS Windows Packager</source>
-        <translation>创办者，补丁和MS Windows 包 </translation>
+        <translation type="vanished">创办者，补丁和MS Windows 包 </translation>
     </message>
     <message>
         <source>Founder and Lead Patcher</source>
@@ -110,15 +110,15 @@
     </message>
     <message>
         <source>Founder, Designer and Patcher</source>
-        <translation>创办者，设计师和补丁</translation>
+        <translation type="vanished">创办者，设计师和补丁</translation>
     </message>
     <message>
         <source>Lead Patcher and Plugins Writer; Mac OS X Packager</source>
-        <translation>引导补丁和插件撰写者的Mac OS X包</translation>
+        <translation type="vanished">引导补丁和插件撰写者的Mac OS X包</translation>
     </message>
     <message>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
-        <translation>补丁，插件作者和Fedora打包</translation>
+        <translation type="vanished">补丁，插件作者和Fedora打包</translation>
     </message>
     <message>
         <source>Patcher and Plugins Writer</source>
@@ -126,19 +126,19 @@
     </message>
     <message>
         <source>Patcher and Ubuntu Packager</source>
-        <translation>补丁和Ubuntu包</translation>
+        <translation type="vanished">补丁和Ubuntu包</translation>
     </message>
     <message>
         <source>Ubuntu Packager</source>
-        <translation>Ubuntu的打包机</translation>
+        <translation type="vanished">Ubuntu的打包机</translation>
     </message>
     <message>
         <source>Mandriva Linux Packager</source>
-        <translation>Mandriva Linux的打包机</translation>
+        <translation type="vanished">Mandriva Linux的打包机</translation>
     </message>
     <message>
         <source>Patcher and Russian localization</source>
-        <translation>补丁和俄语本地化</translation>
+        <translation type="vanished">补丁和俄语本地化</translation>
     </message>
     <message>
         <source>Psimedia Patcher and Wiki English localization</source>
@@ -146,7 +146,7 @@
     </message>
     <message>
         <source>Language coordinator; Debian Packager</source>
-        <translation>语言协调员; Debian包</translation>
+        <translation type="vanished">语言协调员; Debian包</translation>
     </message>
     <message>
         <source>Language coordinator, miscellaneous assistance</source>
@@ -270,6 +270,46 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>Language coordinator, macOS port, miscellaneous assistance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Founder, Patcher and former MS Windows Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Founder, Patcher and former Designer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language coordinator; Patcher; Debian and Ubuntu Packager; MS Windows and macOS Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and Plugins Writer; MS Windows Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and Plugins Writer; former Fedora Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>former Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>former Mandriva Linux Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former Russian translator</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
