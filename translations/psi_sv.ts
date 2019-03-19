@@ -7850,6 +7850,10 @@ Details: %1</source>
         <source>Reject</source>
         <translation type="unfinished">Vägra</translation>
     </message>
+    <message>
+        <source>Description for</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MultiFileTransferDlg</name>

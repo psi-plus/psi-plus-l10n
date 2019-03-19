@@ -8103,6 +8103,10 @@ Details: %1</source>
         <source>Reject</source>
         <translation>放棄</translation>
     </message>
+    <message>
+        <source>Description for</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MultiFileTransferDlg</name>

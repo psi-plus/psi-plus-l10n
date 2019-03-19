@@ -8067,6 +8067,10 @@ Detaily: %1</translation>
         <source>Reject</source>
         <translation>Odmítnout</translation>
     </message>
+    <message>
+        <source>Description for</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MultiFileTransferDlg</name>
