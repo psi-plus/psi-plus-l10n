@@ -7838,7 +7838,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Description for</source>
-        <translation type="unfinished"></translation>
+        <translation>Опис для</translation>
     </message>
 </context>
 <context>
