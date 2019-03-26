@@ -242,7 +242,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
-        <translation>Главный автор патчей и разработчик плагинов; бывший cопровождающий пакетов для Mac OS X</translation>
+        <translation>Главный автор патчей и разработчик плагинов; бывший cопровождающий пакетов для macOS</translation>
     </message>
     <message>
         <source>Language coordinator; Patcher; Debian and Ubuntu Packager; MS Windows and macOS Packager</source>
