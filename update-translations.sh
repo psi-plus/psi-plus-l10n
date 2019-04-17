@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@yandex.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2019-04-10
+# Updated: 2019-04-18
 # Version: N/A
 
 set -e
@@ -145,10 +145,10 @@ case "${1}" in
         mkdir -p ${DIR}
     done
     for FILE in ${FILES} ; do
-        cp -f ${PSIPLUS_DIR}/${FILE} "${FILE}" 2>/dev/null
+        cp -f ${PSIPLUS_DIR}/${FILE} "${FILE}" 2>/dev/null || true
     done
     for PATCH in ${PATCHES} ; do
-        patch -f -p1 < "${PATCH}" > applied_patches.log
+        patch -f -p1 < "${PATCH}" > applied_patches.log || true
     done
     rm ${PATCHES}
 
