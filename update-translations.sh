@@ -53,7 +53,7 @@ case "${1}" in
 "make")
     # Making precompiled localization files.
 
-    rm translations.pro
+    rm -f translations.pro
 
     echo "TRANSLATIONS = \\" >> translations.pro
     echo translations/*.ts >> translations.pro
@@ -158,7 +158,7 @@ case "${1}" in
     # ending of magical hack
 
     cd "${CUR_DIR}"
-    rm translations.pro
+    rm -r translations.pro
 
     echo "HEADERS = \\" >> translations.pro
     find "${PSIPLUS_DIR}/iris" "${PSIPLUS_DIR}/src" "${CUR_DIR}/tmp" -type f -name "*.h" | \
