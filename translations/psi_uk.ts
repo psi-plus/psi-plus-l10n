@@ -7857,7 +7857,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Receive</source>
-        <translation type="unfinished"></translation>
+        <translation>Отримати</translation>
     </message>
 </context>
 <context>
@@ -13416,7 +13416,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Options filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Фільтр опцій</translation>
     </message>
 </context>
 <context>
