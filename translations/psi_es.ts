@@ -8115,6 +8115,10 @@ Detalles: %1</translation>
         <source>%1 File(s)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Receive</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MyHeaderViewWidget</name>
@@ -13931,6 +13935,10 @@ Quieres activar esa sesión ahora?</translation>
     <message>
         <source>Really reset all options starting with %1. to default value?</source>
         <translation>¿Restablecer todas las opciones que comienzan con %1 a su valor por defecto?</translation>
+    </message>
+    <message>
+        <source>Options filter</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

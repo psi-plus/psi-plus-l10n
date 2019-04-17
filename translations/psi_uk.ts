@@ -7855,6 +7855,10 @@ Details: %1</source>
         <source>%1 File(s)</source>
         <translation>%1 Файл(и)</translation>
     </message>
+    <message>
+        <source>Receive</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MyHeaderViewWidget</name>
@@ -13409,6 +13413,10 @@ Would you like to activate that session now?</source>
     <message>
         <source>Really reset all options starting with %1. to default value?</source>
         <translation>Чи дійсно скинути всі опції, починаючи з %1 до значення за замовчуванням?</translation>
+    </message>
+    <message>
+        <source>Options filter</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

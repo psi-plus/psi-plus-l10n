@@ -8082,6 +8082,10 @@ Detalji: %1</translation>
         <source>%1 File(s)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Receive</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MyHeaderViewWidget</name>
@@ -13870,6 +13874,10 @@ Would you like to activate that session now?</source>
     <message>
         <source>Really reset all options starting with %1. to default value?</source>
         <translation>Stvarno obnavljate sve opcije počev sa %1 na podrazumevane vrednosit?</translation>
+    </message>
+    <message>
+        <source>Options filter</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

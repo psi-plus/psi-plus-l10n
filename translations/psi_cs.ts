@@ -8086,6 +8086,10 @@ Detaily: %1</translation>
         <source>%1 File(s)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Receive</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MyHeaderViewWidget</name>
@@ -13910,6 +13914,10 @@ Chceš aktivovat tuto relaci?</translation>
     <message>
         <source>Really reset all options starting with %1. to default value?</source>
         <translation>Opravdu vynulovat.možnosti začínající %1 na tovární nastavení?</translation>
+    </message>
+    <message>
+        <source>Options filter</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

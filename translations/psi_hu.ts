@@ -8116,6 +8116,10 @@ Részletek: %1</translation>
         <source>%1 File(s)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Receive</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MyHeaderViewWidget</name>
@@ -13939,6 +13943,10 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
     <message>
         <source>Really reset all options starting with %1. to default value?</source>
         <translation>Biztosan visszaállítod alapértékre ezeket a beállításokat, amik ezzel kezdődnek: %1?</translation>
+    </message>
+    <message>
+        <source>Options filter</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

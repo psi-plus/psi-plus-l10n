@@ -7873,6 +7873,10 @@ Details: %1</source>
         <source>%1 File(s)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Receive</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MyHeaderViewWidget</name>
@@ -13527,6 +13531,10 @@ Bạn có muốn kích hoạt buổi hợp đó ngay bây giờ không?</transla
     </message>
     <message>
         <source>Really reset all options starting with %1. to default value?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Options filter</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
