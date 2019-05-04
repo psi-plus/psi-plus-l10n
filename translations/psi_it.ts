@@ -13402,7 +13402,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Psi - The Cross-Platform XMPP Client For Power Users</source>
-        <translation>Psi - Il Client XMPP Multipiattaforma Per Gli Utenti Avanzati</translation>
+        <translation type="vanished">Psi - Il Client XMPP Multipiattaforma Per Gli Utenti Avanzati</translation>
     </message>
     <message>
         <source>Options:</source>
@@ -13420,6 +13420,10 @@ Motivo: %1.</translation>
     <message>
         <source>Go to &lt;https://psi-im.org/&gt; for more information about Psi.</source>
         <translation>Visita &lt;https://psi-im.org/&gt; per maggiori informazioni riguardo Psi.</translation>
+    </message>
+    <message>
+        <source>Psi is a cross-platform XMPP client aimed at experienced users.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -13386,7 +13386,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Psi - The Cross-Platform XMPP Client For Power Users</source>
-        <translation>Psi - 对于超级用户跨平台的XMPP客户端</translation>
+        <translation type="vanished">Psi - 对于超级用户跨平台的XMPP客户端</translation>
     </message>
     <message>
         <source>Options:</source>
@@ -13404,6 +13404,10 @@ Reason: %1.</source>
     <message>
         <source>Go to &lt;https://psi-im.org/&gt; for more information about Psi.</source>
         <translation>去 &lt;https://psi-im.org/&gt; 获得更多关于 Psi 的资料。</translation>
+    </message>
+    <message>
+        <source>Psi is a cross-platform XMPP client aimed at experienced users.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

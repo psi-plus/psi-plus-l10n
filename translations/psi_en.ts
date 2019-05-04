@@ -12829,7 +12829,7 @@ Reason: %1.</translation>
     </message>
     <message>
         <source>Psi - The Cross-Platform XMPP Client For Power Users</source>
-        <translation>Psi - The Cross-Platform XMPP Client For Power Users</translation>
+        <translation type="vanished">Psi - The Cross-Platform XMPP Client For Power Users</translation>
     </message>
     <message>
         <source>Options:</source>
@@ -12843,6 +12843,10 @@ Reason: %1.</translation>
     <message>
         <source>Go to &lt;https://psi-im.org/&gt; for more information about Psi.</source>
         <translation>Go to &lt;https://psi-im.org/&gt; for more information about Psi.</translation>
+    </message>
+    <message>
+        <source>Psi is a cross-platform XMPP client aimed at experienced users.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

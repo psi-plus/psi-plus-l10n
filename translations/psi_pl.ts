@@ -13189,10 +13189,6 @@ Przyczyna: %1.</translation>
         <translation>URI</translation>
     </message>
     <message>
-        <source>Psi - The Cross-Platform XMPP Client For Power Users</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Options:</source>
         <translation>Opcje:</translation>
     </message>
@@ -13207,6 +13203,10 @@ Przyczyna: %1.</translation>
     </message>
     <message>
         <source>Go to &lt;https://psi-im.org/&gt; for more information about Psi.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi is a cross-platform XMPP client aimed at experienced users.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
