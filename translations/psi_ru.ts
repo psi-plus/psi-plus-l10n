@@ -12849,7 +12849,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Psi is a cross-platform XMPP client aimed at experienced users.</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi — мультиплатформенный XMPP-клиент для опытных пользователей.</translation>
     </message>
 </context>
 <context>
