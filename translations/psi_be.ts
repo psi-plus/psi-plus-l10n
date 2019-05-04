@@ -13362,7 +13362,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Psi is a cross-platform XMPP client aimed at experienced users.</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi — міжплятформавы кліент XMPP для дасьведчаных карыстальнікаў.</translation>
     </message>
 </context>
 <context>
