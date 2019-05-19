@@ -7816,10 +7816,6 @@ Details: %1</source>
         <translation>%1%2/с</translation>
     </message>
     <message>
-        <source>%1h%2m%3s remaining</source>
-        <translation type="vanished">осталось %1ч %2м %3с</translation>
-    </message>
-    <message>
         <source>[Failed]</source>
         <translation>[Не удалось]</translation>
     </message>
