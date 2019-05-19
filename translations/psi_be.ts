@@ -8063,7 +8063,7 @@ Details: %1</source>
     </message>
     <message>
         <source>%1h%2m%3s remaining</source>
-        <translation type="unfinished">Засталося: %1 г %2 хв %3 с</translation>
+        <translation type="obsolete">Засталося: %1 г %2 хв %3 с</translation>
     </message>
     <message>
         <source>[Failed]</source>
@@ -8079,6 +8079,26 @@ Details: %1</source>
     </message>
     <message>
         <source>Description for</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1d</source>
+        <translation type="unfinished">%1. {1d?}</translation>
+    </message>
+    <message>
+        <source>%1h</source>
+        <translation type="unfinished">%1. {1h?}</translation>
+    </message>
+    <message>
+        <source>%1m</source>
+        <translation type="unfinished">%1. {1m?}</translation>
+    </message>
+    <message>
+        <source>%1s</source>
+        <translation type="unfinished">%1. {1s?}</translation>
+    </message>
+    <message>
+        <source>%1 remaining</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8102,6 +8122,29 @@ Details: %1</source>
     </message>
     <message>
         <source>Receive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Directory to save files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save As</source>
+        <translation type="unfinished">Захаваць як</translation>
+    </message>
+    <message>
+        <source>All files (*)</source>
+        <translation type="unfinished">Усе файлы (*)</translation>
+    </message>
+</context>
+<context>
+    <name>MultiFileTransferItem</name>
+    <message>
+        <source>Transferred: %1/%2 bytes</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15507,6 +15550,34 @@ Thanks for your patience.</source>
     <message>
         <source>Any Language</source>
         <translation>Любая мова</translation>
+    </message>
+    <message>
+        <source>Not started</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Prepare local offer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IQ unacknowledged</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Waiting accept</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accepted</source>
+        <translation type="unfinished">Прынялі</translation>
+    </message>
+    <message>
+        <source>Connecting</source>
+        <translation type="unfinished">Злучаемся</translation>
+    </message>
+    <message>
+        <source>Transferring</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

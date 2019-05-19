@@ -7709,7 +7709,7 @@ Details: %1</source>
     </message>
     <message>
         <source>%1h%2m%3s remaining</source>
-        <translation type="unfinished">faltam %1h%2m%3s</translation>
+        <translation type="obsolete">faltam %1h%2m%3s</translation>
     </message>
     <message>
         <source>[Failed]</source>
@@ -7725,6 +7725,26 @@ Details: %1</source>
     </message>
     <message>
         <source>Description for</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1d</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1h</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1m</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1s</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 remaining</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7744,6 +7764,29 @@ Details: %1</source>
     </message>
     <message>
         <source>Receive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Directory to save files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save As</source>
+        <translation type="unfinished">Guardar Como</translation>
+    </message>
+    <message>
+        <source>All files (*)</source>
+        <translation type="unfinished">Todos os ficheiros (*)</translation>
+    </message>
+</context>
+<context>
+    <name>MultiFileTransferItem</name>
+    <message>
+        <source>Transferred: %1/%2 bytes</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14851,6 +14894,34 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Any Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not started</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Prepare local offer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IQ unacknowledged</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Waiting accept</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accepted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Connecting</source>
+        <translation type="unfinished">A ligar</translation>
+    </message>
+    <message>
+        <source>Transferring</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
