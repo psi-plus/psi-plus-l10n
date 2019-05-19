@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="zh_CN">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="zh_CN" version="2.1">
 <context>
     <name>@default</name>
     <message>
@@ -1172,7 +1170,7 @@ save the history for this contact.</source>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Bitstream Vera Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; user, simply fill out the XMPP address (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-XMPP&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get XMPP Address&lt;/span&gt; button to generate an XMPP address for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -1414,7 +1412,7 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>for JIDs and conferences:</source>
-        <translation>为JIDs和会议;</translation>
+        <translation>给JID和会议:</translation>
     </message>
     <message>
         <source>You can also specify a part of JID
@@ -1467,16 +1465,15 @@ The list of exceptions for jids has two operating modes:
 * auto-responder is switched on for the list of exceptions, for the others is switched off (Enable mode) </source>
         <translation>这个插件可以充当一个自动应答机。它有一个简单的配置选项，您可以使用:
 *设置一个文本消息自动应答
-*排除指定jids，包括会议，从对象的自动应答(如果JID会议设置，除了将包括所有的私人信息)
+*排除指定jid，包括会议，从对象的自动应答(如果JID会议设置，除了将包括所有的私人信息)
 *禁用自动应答的一些帐户
 *设置多个发送自动消息
-*设置时间间隔之后，一些自动邮件计数器将重置
+*设置时间间隔之后，一些自动应答计数器将重置
 *禁用自动应答的主动标签
-*禁用自动急救员响应不在你的名单上的联系人
-例外的清单为jids双操作模式:
-*自动应答切换例外的清单，为别人打开(关闭模式)
-*自动应答开启的例外列表，为别人关闭(启用模式)
-</translation>
+*禁用自动应答如果联系人不在你的名单上
+例外的清单为jid双操作模式:
+*关闭自动应答的例外列表，为除此之外的人打开(关闭模式)
+*开启自动应答的例外列表，为除此之外的人关闭(启用模式)</translation>
     </message>
 </context>
 <context>
@@ -3037,7 +3034,7 @@ Proceed?</source>
     </message>
     <message>
         <source>ToolBar will be placed here</source>
-        <comment>Don&apos;t translate this string</comment>
+        <comment>Don't translate this string</comment>
         <translation>工具栏将会在这里放置</translation>
     </message>
     <message>
@@ -4166,7 +4163,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>Place current tab at the bottom row in multirow mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4317,7 +4314,7 @@ contact is offline.</source>
         <source>Unable to connect to peer for data transfer.
 
 Ensure that your Data Transfer settings are proper.  If you are behind
-a NAT router or firewall then you&apos;ll need to open the proper TCP port
+a NAT router or firewall then you'll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
         <translation>无法连到 peer 来发送数据。
 确定你的档发送设置适当。  如果你在 NAT 路由器
@@ -4328,7 +4325,7 @@ or specify a Data Transfer Proxy in your account settings.</source>
         <source>Failure to either connect to, or activate, the Data Transfer Proxy.
 
 This means that the Proxy service is either not functioning or it is
-unreachable.  If you are behind a firewall, then you&apos;ll need to ensure
+unreachable.  If you are behind a firewall, then you'll need to ensure
 that outgoing TCP connections are allowed.</source>
         <translation>连接或启始文件发送代理服务器错误。
 这表示代理服务不是无作用就是无法连接。
@@ -6428,7 +6425,7 @@ You can select or deselect a contact for history removal from the context menu o
 <context>
     <name>IcqDie</name>
     <message>
-        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
+        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it's much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
 
 Sincerely yours, Debian Sid.</source>
         <translation>我可以告诉你，我正在使用Linux，但不要生我的气。当然这个人将会收到此消息。但是最好用Jabber对话。你冒着风险，因你永远不知道ICQ什么时候会死，奶奶已经过时了。他的JID: %1.
@@ -6438,7 +6435,7 @@ Sincerely yours, Debian Sid.</source>
     <message>
         <source>I can tell you as a Linux, but do not be mad at me. This human do not use ICQ anymore, so if you are still use that network he will not receive your message and you have to chat to him by Jabber. His JID: %1.
 
-If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
+If you don't know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
 Sincerely yours, Debian Sid.</source>
         <translation>我以Linux可以告诉你，但不要生我的气。当然这个人不再用ICQ。如果你在用这个软件的话他将不会在收到你的信息，请和Jabber进行对话。他的JID: %1.
 
@@ -6514,7 +6511,7 @@ The plugin has a number of simple settings that can help you:
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
-Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
+Your contact's client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
         <translation>该插件的目的是将图像发送给名单内的联系人。
 你的联系人的客户端必须支持XEP-0071: XHTML-IM和data:URI方案。
@@ -6522,7 +6519,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>An image from the clipboard is sent</source>
-        <translation type="unfinished"></translation>
+        <translation>已发送在剪贴板里的图片</translation>
     </message>
     <message>
         <source>Image %1 is sent</source>
@@ -6568,7 +6565,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation>允许高端</translation>
     </message>
     <message>
-        <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
+        <source>This plugin shows images URLs' previews in chats for non-webkit Psi version.
 </source>
         <translation>该插件在聊天里给非webkit版本的Psi显示图片地址的预览。
 </translation>
@@ -6813,7 +6810,7 @@ Are you sure you want to discard them?</source>
     </message>
     <message>
         <source>Your conference information has been published.</source>
-        <translation type="unfinished"></translation>
+        <translation>你的会议数据已经发布了。</translation>
     </message>
     <message>
         <source>Unable to retrieve information about this conference.
@@ -6835,7 +6832,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Sales</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Security</source>
@@ -7086,7 +7083,7 @@ to play battleship. He wants to play %2.</source>
         <translation>警告</translation>
     </message>
     <message>
-        <source>can&apos;t create folder %1 
+        <source>can't create folder %1 
 caching avatars will be not available</source>
         <translation>不能创建文件夹%1缓存化身将不可用</translation>
     </message>
@@ -7126,7 +7123,13 @@ Currently, the plugin is able to:
 * Enable clickable @nick, *tag, #message_id and other control elements to insert them into the typing area
 
 Note: To work correctly, the option options.html.chat.render    must be set to true. </source>
-        <translation type="unfinished"></translation>
+        <translation>该插件的目的是使用Juick微博服务来高效舒适地运作。
+目前，该插件能够:
+*从juick@juick.com机器人给信息中的&quot;@昵称&quot;、&quot;*标签&quot;和&quot;#信息id&quot;上色
+*在信息中检测&quot;&gt;引用&quot;
+*可点击&quot;@昵称&quot;、&quot;*标签&quot;、&quot;#信息id&quot;和其他控制元素来将它们插入输入区域。
+
+注意:要正常工作，选项的options.html.chat.render    必须设置为启用。</translation>
     </message>
 </context>
 <context>
@@ -7807,7 +7810,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Description for</source>
-        <translation type="unfinished"></translation>
+        <translation>描述给</translation>
     </message>
 </context>
 <context>
@@ -7966,7 +7969,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Grab URLs from clipboard</source>
-        <translation>从剪贴板获得 URL</translation>
+        <translation>从剪贴板获得链接</translation>
     </message>
     <message>
         <source>XMPP address completion</source>
@@ -8270,7 +8273,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Use system keyring manager</source>
-        <translation type="unfinished"></translation>
+        <translation>使用系统密钥环管理器</translation>
     </message>
     <message>
         <source>99999</source>
@@ -8446,15 +8449,15 @@ Tags: %1</source>
     </message>
     <message>
         <source>Available spellcheck dictionaries</source>
-        <translation type="unfinished"></translation>
+        <translation>可用的拼写检查字典</translation>
     </message>
     <message>
         <source>No dictionaries found</source>
-        <translation type="unfinished"></translation>
+        <translation>没有找到字典</translation>
     </message>
     <message>
         <source>OptInputUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
@@ -8785,7 +8788,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show icon if contact status like online, away and others.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Status</source>
@@ -8833,7 +8836,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Align avatars to the left edge of the roster. Otherwise to the right.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Left aligned</source>
@@ -9115,7 +9118,7 @@ Tags: %1</source>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -9592,7 +9595,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>删除</translation>
     </message>
     <message>
-        <source>Disable stopspam, if don&apos;t match any rule above
+        <source>Disable stopspam, if don't match any rule above
 (does not work for muc private messages)</source>
         <translation>如果不匹配任何上述规则，则禁用禁止刷屏
 (不为MUC私人信息工作)</translation>
@@ -9651,7 +9654,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>to clipboard</source>
-        <translation>到剪切板</translation>
+        <translation>到剪贴板</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9731,7 +9734,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Color for outgoing messages numbers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Default plugin action</source>
@@ -9743,15 +9746,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Conditions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show message if it satisfies the rule</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Color for incoming messages numbers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10254,7 +10257,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enables automatic substitution of the first letter in a sentence to the same capital letter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10272,11 +10275,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabMsgCommon</name>
     <message>
         <source>Common</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Сommon options for messages section</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Makes Psi open chats in a tabbed window.</source>
@@ -12751,7 +12754,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Set status. STATUS must be one of `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</source>
-        <comment>do not translate `online&apos;, `chat&apos;, etc; STATUS is the same as in previous string</comment>
+        <comment>do not translate `online', `chat', etc; STATUS is the same as in previous string</comment>
         <translation>设置状态。状态只能设置成 `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;。</translation>
     </message>
     <message>
@@ -14421,27 +14424,19 @@ Description: </source>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
-        <translation>
-            <numerusform>%n天</numerusform>
-        </translation>
+        <translation><numerusform>%n天</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s) </source>
-        <translation>
-            <numerusform>%n小时</numerusform>
-        </translation>
+        <translation><numerusform>%n小时</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) </source>
-        <translation>
-            <numerusform>%n分钟</numerusform>
-        </translation>
+        <translation><numerusform>%n分钟</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n second(s) </source>
-        <translation>
-            <numerusform>%n秒</numerusform>
-        </translation>
+        <translation><numerusform>%n秒</numerusform></translation>
     </message>
     <message>
         <source>Warning</source>
@@ -15042,9 +15037,7 @@ Reason: %1</source>
     <message numerus="yes">
         <source>celebrates birthday in %n day(s)
 </source>
-        <translation>
-            <numerusform>庆祝生日%n天</numerusform>
-        </translation>
+        <translation><numerusform>庆祝生日%n天</numerusform></translation>
     </message>
     <message>
         <source>celebrates birthday yesterday.
@@ -15447,9 +15440,7 @@ Reason: %1</source>
     </message>
     <message numerus="yes">
         <source>Added %n users to your roster.</source>
-        <translation>
-            <numerusform>添加 %n 个用户到你的名单。</numerusform>
-        </translation>
+        <translation><numerusform>添加 %n 个用户到你的名单。</numerusform></translation>
     </message>
     <message>
         <source>Added %1 to your roster.</source>
@@ -16775,7 +16766,7 @@ Please correct and try again.</source>
         <source>You can type these special commands in chat and groupchat dialogs:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; to clear chat view&lt;/li&gt;
-&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; &apos;/me&apos; is replaced by your nick&lt;/li&gt;
+&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; '/me' is replaced by your nick&lt;/li&gt;
 &lt;/ul&gt;
 And these work only in groupchat dialog:
 &lt;ul&gt;
@@ -18747,7 +18738,7 @@ Reathorization...</source>
 重新授权</translation>
     </message>
     <message>
-        <source>Can&apos;t get files!
+        <source>Can't get files!
 Try remove cookies.</source>
         <translation>找不到文件！尝试移除 cookies.</translation>
     </message>
@@ -18836,7 +18827,7 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
