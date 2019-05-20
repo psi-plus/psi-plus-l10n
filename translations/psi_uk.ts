@@ -7821,10 +7821,6 @@ Details: %1</source>
         <translation>%1%2/с</translation>
     </message>
     <message>
-        <source>%1h%2m%3s remaining</source>
-        <translation type="vanished">залишилось %1г%2хв%3с</translation>
-    </message>
-    <message>
         <source>[Failed]</source>
         <translation>[Не вдалося]</translation>
     </message>
@@ -7842,23 +7838,23 @@ Details: %1</source>
     </message>
     <message>
         <source>%1d</source>
-        <translation type="unfinished">%1. {1d?}</translation>
+        <translation>%1. {1д?}</translation>
     </message>
     <message>
         <source>%1h</source>
-        <translation type="unfinished">%1. {1h?}</translation>
+        <translation>%1. {1г?}</translation>
     </message>
     <message>
         <source>%1m</source>
-        <translation type="unfinished">%1. {1m?}</translation>
+        <translation>%1. {1м?}</translation>
     </message>
     <message>
         <source>%1s</source>
-        <translation type="unfinished">%1. {1s?}</translation>
+        <translation>%1. {1с?}</translation>
     </message>
     <message>
         <source>%1 remaining</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 залишилося</translation>
     </message>
 </context>
 <context>
@@ -7881,26 +7877,26 @@ Details: %1</source>
     </message>
     <message>
         <source>Open Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити Файли</translation>
     </message>
     <message>
         <source>Directory to save files</source>
-        <translation type="unfinished"></translation>
+        <translation>Каталог для збереження файлів</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished">Зберегти як</translation>
+        <translation>Зберегти як</translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished">Усі файли (*)</translation>
+        <translation>Усі файли (*)</translation>
     </message>
 </context>
 <context>
     <name>MultiFileTransferItem</name>
     <message>
         <source>Transferred: %1/%2 bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>Передано: %1/%2 байт</translation>
     </message>
 </context>
 <context>
@@ -15043,31 +15039,31 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Not started</source>
-        <translation type="unfinished"></translation>
+        <translation>Не розпочато</translation>
     </message>
     <message>
         <source>Prepare local offer</source>
-        <translation type="unfinished"></translation>
+        <translation>Підготувати локальний запит</translation>
     </message>
     <message>
         <source>IQ unacknowledged</source>
-        <translation type="unfinished"></translation>
+        <translation>IQ невідоме</translation>
     </message>
     <message>
         <source>Waiting accept</source>
-        <translation type="unfinished"></translation>
+        <translation>Очікування підтвердження</translation>
     </message>
     <message>
         <source>Accepted</source>
-        <translation type="unfinished">Прийнято</translation>
+        <translation>Прийнято</translation>
     </message>
     <message>
         <source>Connecting</source>
-        <translation type="unfinished">З&apos;єднання</translation>
+        <translation>З&apos;єднання</translation>
     </message>
     <message>
         <source>Transferring</source>
-        <translation type="unfinished"></translation>
+        <translation>Передача</translation>
     </message>
 </context>
 <context>
