@@ -8021,6 +8021,10 @@ Détails : %1</translation>
         <source>%1 remaining</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Open Destination Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MultiFileTransferDlg</name>
