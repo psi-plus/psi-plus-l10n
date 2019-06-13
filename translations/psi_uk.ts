@@ -7858,7 +7858,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Open Destination Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити папку призначення</translation>
     </message>
 </context>
 <context>
