@@ -7853,7 +7853,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Open Destination Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть папку загрузок</translation>
     </message>
 </context>
 <context>
@@ -15044,11 +15044,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Prepare local offer</source>
-        <translation type="unfinished"></translation>
+        <translation>Подготовка локального предложения</translation>
     </message>
     <message>
         <source>IQ unacknowledged</source>
-        <translation type="unfinished"></translation>
+        <translation>Неизвестный IQ</translation>
     </message>
     <message>
         <source>Waiting accept</source>
