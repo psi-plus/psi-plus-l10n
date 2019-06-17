@@ -4378,7 +4378,15 @@ engedélyezve vannak-e.</translation>
     <name>FileShareDlg</name>
     <message>
         <source>Dialog</source>
-        <translation>Párbeszéd</translation>
+        <translation type="vanished">Párbeszéd</translation>
+    </message>
+    <message>
+        <source>Share Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

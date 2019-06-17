@@ -4360,7 +4360,15 @@ that outgoing TCP connections are allowed.</source>
     <name>FileShareDlg</name>
     <message>
         <source>Dialog</source>
-        <translation>對話</translation>
+        <translation type="vanished">對話</translation>
+    </message>
+    <message>
+        <source>Share Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

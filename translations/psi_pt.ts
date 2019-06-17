@@ -4264,7 +4264,11 @@ permitidas ligações TCP de saída.</translation>
 <context>
     <name>FileShareDlg</name>
     <message>
-        <source>Dialog</source>
+        <source>Share Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

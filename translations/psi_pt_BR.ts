@@ -4385,7 +4385,15 @@ se certificar que conexões de saída TCP são permitidas.</translation>
     <name>FileShareDlg</name>
     <message>
         <source>Dialog</source>
-        <translation>Diálogo</translation>
+        <translation type="vanished">Diálogo</translation>
+    </message>
+    <message>
+        <source>Share Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

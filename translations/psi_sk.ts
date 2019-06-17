@@ -4264,7 +4264,11 @@ alebo je server nedostupný. Ak si za firewall-om, potom sa uisti,
 <context>
     <name>FileShareDlg</name>
     <message>
-        <source>Dialog</source>
+        <source>Share Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

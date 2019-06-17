@@ -4366,7 +4366,15 @@ Ceci signifie que le Proxy est inactif ou injoignable. Si vous êtes derrière u
     <name>FileShareDlg</name>
     <message>
         <source>Dialog</source>
-        <translation>Dialogue</translation>
+        <translation type="vanished">Dialogue</translation>
+    </message>
+    <message>
+        <source>Share Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

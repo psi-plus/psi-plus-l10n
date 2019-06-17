@@ -4279,7 +4279,15 @@ To lahko pomeni, da posredniška storitev trenutno ne deluje ali pa je ni moč d
     <name>FileShareDlg</name>
     <message>
         <source>Dialog</source>
-        <translation>Pogovorno okno</translation>
+        <translation type="vanished">Pogovorno okno</translation>
+    </message>
+    <message>
+        <source>Share Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

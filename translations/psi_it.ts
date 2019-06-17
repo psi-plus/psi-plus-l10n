@@ -4396,7 +4396,15 @@ siano consentite.</translation>
     <name>FileShareDlg</name>
     <message>
         <source>Dialog</source>
-        <translation>Finestra</translation>
+        <translation type="vanished">Finestra</translation>
+    </message>
+    <message>
+        <source>Share Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -4343,7 +4343,15 @@ that outgoing TCP connections are allowed.</source>
     <name>FileShareDlg</name>
     <message>
         <source>Dialog</source>
-        <translation>דו שיח</translation>
+        <translation type="vanished">דו שיח</translation>
+    </message>
+    <message>
+        <source>Share Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
