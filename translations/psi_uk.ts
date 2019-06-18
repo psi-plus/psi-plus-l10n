@@ -12757,7 +12757,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Share Files</source>
-        <translation type="unfinished">Обмін Файлами</translation>
+        <translation>Обмін Файлами</translation>
     </message>
     <message>
         <source>Pin/UnPin Tab</source>
