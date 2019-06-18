@@ -12799,6 +12799,10 @@ Grund: %1.</translation>
         <source>Malformed request</source>
         <translation>Anfrage nicht wohlgeformt</translation>
     </message>
+    <message>
+        <source>Open Files For Sharing</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -13296,15 +13300,23 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Pin Tab</source>
-        <translation>Tab anheften</translation>
+        <translation type="vanished">Tab anheften</translation>
     </message>
     <message>
         <source>Unpin Tab</source>
-        <translation>Tab abheften</translation>
+        <translation type="vanished">Tab abheften</translation>
     </message>
     <message>
         <source>Templates</source>
         <translation>Vorlagen</translation>
+    </message>
+    <message>
+        <source>Share Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin/UnPin Tab</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

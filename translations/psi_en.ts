@@ -12250,6 +12250,10 @@ Reason: %1.</translation>
         <source>Malformed request</source>
         <translation>Malformed request</translation>
     </message>
+    <message>
+        <source>Open Files For Sharing</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -12739,15 +12743,23 @@ Reason: %1.</translation>
     </message>
     <message>
         <source>Pin Tab</source>
-        <translation>Pin Tab</translation>
+        <translation type="vanished">Pin Tab</translation>
     </message>
     <message>
         <source>Unpin Tab</source>
-        <translation>Unpin Tab</translation>
+        <translation type="vanished">Unpin Tab</translation>
     </message>
     <message>
         <source>Templates</source>
         <translation>Templates</translation>
+    </message>
+    <message>
+        <source>Share Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin/UnPin Tab</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -12364,6 +12364,10 @@ Orsak: %1.</translation>
         <source>Malformed request</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Open Files For Sharing</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -12860,15 +12864,15 @@ Orsak: %1.</translation>
         <translation>Insticksprogram</translation>
     </message>
     <message>
-        <source>Pin Tab</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unpin Tab</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin/UnPin Tab</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
