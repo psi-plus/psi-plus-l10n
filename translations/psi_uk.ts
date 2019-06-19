@@ -12254,7 +12254,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Open Files For Sharing</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити файли для спільного доступу</translation>
     </message>
 </context>
 <context>
@@ -12761,7 +12761,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Pin/UnPin Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Закріпити/Відкріпити вкладку</translation>
     </message>
 </context>
 <context>
