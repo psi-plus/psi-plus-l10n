@@ -4386,6 +4386,25 @@ de que las conexiones salientes TCP están permitidas.</translation>
     </message>
 </context>
 <context>
+    <name>FileShareDownloader::Private</name>
+    <message>
+        <source>Bits of binary download failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid Jingle-FT uri</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unexpected content add</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Jingle download failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>FileTrans</name>
     <message>
         <source>Form1</source>
