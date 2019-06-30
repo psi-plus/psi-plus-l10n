@@ -4381,19 +4381,19 @@ that outgoing TCP connections are allowed.</source>
     <name>FileShareDownloader::Private</name>
     <message>
         <source>Bits of binary download failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантаження Bits of binary не вдалося</translation>
     </message>
     <message>
         <source>Invalid Jingle-FT uri</source>
-        <translation type="unfinished"></translation>
+        <translation>Недійсний Jingle-FT URI</translation>
     </message>
     <message>
         <source>Unexpected content add</source>
-        <translation type="unfinished"></translation>
+        <translation>Неочікуваний вхідний контент</translation>
     </message>
     <message>
         <source>Jingle download failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка Jingle завантаження</translation>
     </message>
 </context>
 <context>
