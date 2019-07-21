@@ -1570,6 +1570,17 @@ The list of exceptions for jids has two operating modes:
     </message>
 </context>
 <context>
+    <name>BOBFileShareDownloader</name>
+    <message>
+        <source>&quot;Bits Of Binary&quot; data source is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download using &quot;Bits Of Binary&quot; failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BattleshipGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
@@ -2055,6 +2066,14 @@ Do you still want to close the window?</source>
     <message>
         <source>Add to dictionary</source>
         <translation>Дадаць у слоўнік</translation>
+    </message>
+    <message>
+        <source>Recording (%1 sec left)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record and share audio note while pressed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4380,19 +4399,18 @@ that outgoing TCP connections are allowed.</source>
 <context>
     <name>FileShareDownloader::Private</name>
     <message>
-        <source>Bits of binary download failed</source>
+        <source>Download sources are not given</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>FileSharingItem</name>
+    <message>
+        <source>Published on HttpUpload service</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Invalid Jingle-FT uri</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unexpected content add</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Jingle download failed</source>
+        <source>Failed to publish on HttpUpload service</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7311,6 +7329,25 @@ to play battleship. He wants to play %2.</source>
     </message>
 </context>
 <context>
+    <name>JingleFileShareDownloader</name>
+    <message>
+        <source>Jingle data source is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid Jingle-FT URI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unexpected incoming content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Jingle download failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>JuickJidDialog</name>
     <message>
         <source>Set JIDs of Juick Bot</source>
@@ -8184,6 +8221,13 @@ Details: %1</source>
     <message>
         <source>Flat</source>
         <translation>Разгарнуць</translation>
+    </message>
+</context>
+<context>
+    <name>NAMFileShareDownloader</name>
+    <message>
+        <source>Unexpected HTTP status</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17373,47 +17417,47 @@ Please correct and try again.</source>
     <name>Tip</name>
     <message>
         <source>Useful Tips</source>
-        <translation>Карысныя парады</translation>
+        <translation type="vanished">Карысныя парады</translation>
     </message>
     <message>
         <source>psi/logo_128</source>
-        <translation>psi/logo_128</translation>
+        <translation type="vanished">psi/logo_128</translation>
     </message>
     <message>
         <source>Show tips at startup</source>
-        <translation>Паказваць парады па запуску</translation>
+        <translation type="vanished">Паказваць парады па запуску</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
-        <translation>&amp;Назад</translation>
+        <translation type="vanished">&amp;Назад</translation>
     </message>
     <message>
         <source>Alt+P</source>
-        <translation>Alt+Y</translation>
+        <translation type="vanished">Alt+Y</translation>
     </message>
     <message>
         <source>psi/arrowLeft</source>
-        <translation>psi/arrowLeft</translation>
+        <translation type="vanished">psi/arrowLeft</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation>&amp;Далей</translation>
+        <translation type="vanished">&amp;Далей</translation>
     </message>
     <message>
         <source>Alt+N</source>
-        <translation>Alt+L</translation>
+        <translation type="vanished">Alt+L</translation>
     </message>
     <message>
         <source>psi/arrowRight</source>
-        <translation>psi/arrowRight</translation>
+        <translation type="vanished">psi/arrowRight</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Зачыніць</translation>
+        <translation type="vanished">&amp;Зачыніць</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation>Alt+P</translation>
+        <translation type="vanished">Alt+P</translation>
     </message>
 </context>
 <context>
@@ -17432,7 +17476,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
     </message>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
-        <translation>У вакне можнасьцяў можна абіраць наборы пачуцьцезнакаў ды прызначыць ім парадак чарговасьці.</translation>
+        <translation type="vanished">У вакне можнасьцяў можна абіраць наборы пачуцьцезнакаў ды прызначыць ім парадак чарговасьці.</translation>
     </message>
     <message>
         <source>You can use multiple useful shortcuts while typing chat messages:&lt;br&gt;
@@ -17444,7 +17488,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;li&gt;Ctrl+U to clear edit buffer&lt;/li&gt;
 &lt;li&gt;Ctrl+PgUp/PgDn to scroll chat view&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>У гутарцы можна карыстацца наступнымі выклічнікамі:&lt;br&gt;
+        <translation type="vanished">У гутарцы можна карыстацца наступнымі выклічнікамі:&lt;br&gt;
 &lt;ul&gt;
 &lt;li&gt;Ctrl+Enter — даслаць паведамленьне&lt;/li&gt;
 &lt;li&gt;Ctrl+M — новы радок&lt;/li&gt;
@@ -17464,7 +17508,7 @@ And these work only in groupchat dialog:
 &lt;ul&gt;
 &lt;li&gt;&quot;/nick &amp;lt;new_nickname&amp;gt;&quot; to change your nickname&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>У вакне гутаркі ці нарады можна друкаваць наступныя загады:
+        <translation type="vanished">У вакне гутаркі ці нарады можна друкаваць наступныя загады:
 &lt;ul&gt;
 &lt;li&gt;«/clear» — ачысьціць вакно гутаркі&lt;/li&gt;
 &lt;li&gt;«/me &amp;lt;паведамленьне&amp;gt;» — сказаць «ад трэцяе асобы» («/me» заменіцца на вашую мянушку)&lt;/li&gt;
@@ -17476,69 +17520,61 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation>Ці ведаеце вы, што ў «Псі» можна стварыць некалькі рахункаў XMPP? Так можна адасобіць свой асабісты рахунак ад працоўнага рахунку.  Дасьведчаныя карыстальнікі могуць пажадаць выпрабоўваць апошнія ўласьцівасьці XMPP на няўстойлівых паслужніках. Для гэтага ня трэба запускаць яшчэ адзін кліент для ўстойлівага паслужніка.  Дастаткова націснуць «Дадаць» у вакне «Наладзіць рахункі».</translation>
+        <translation type="vanished">Ці ведаеце вы, што ў «Псі» можна стварыць некалькі рахункаў XMPP? Так можна адасобіць свой асабісты рахунак ад працоўнага рахунку.  Дасьведчаныя карыстальнікі могуць пажадаць выпрабоўваць апошнія ўласьцівасьці XMPP на няўстойлівых паслужніках. Для гэтага ня трэба запускаць яшчэ адзін кліент для ўстойлівага паслужніка.  Дастаткова націснуць «Дадаць» у вакне «Наладзіць рахункі».</translation>
     </message>
     <message>
         <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation>Ці гутарыце вы зь людзьмі, што ня з джабэру (кшталту AIM ці ICQ)?  Калі так, дык паспрабуйце абраць можнасьць «Значкі адпавядаюць транспарту суразмоўцы».  Гэта дазволіць адразу, кінуўшы хуткі позірк на сьпіс, убачыць, зь якое сеткі чалавек…  і пераканаць суразмоўцу перайсьці на XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</translation>
+        <translation type="vanished">Ці гутарыце вы зь людзьмі, што ня з джабэру (кшталту AIM ці ICQ)?  Калі так, дык паспрабуйце абраць можнасьць «Значкі адпавядаюць транспарту суразмоўцы».  Гэта дазволіць адразу, кінуўшы хуткі позірк на сьпіс, убачыць, зь якое сеткі чалавек…  і пераканаць суразмоўцу перайсьці на XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</translation>
     </message>
     <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
-        <translation>Ці ведаеце вы, што можна задзейнічаць рахунак, калі паставіць птушачку побач зь ім у вакне «Наладзіць рахункі»? Так сама можна й зьняць птушачку, каб не выкарыстоўваць рахунак. Гэта карысна, каб не загрувашчваць сьпіс рахункам, якім рэдка ўжываецца.</translation>
+        <translation type="vanished">Ці ведаеце вы, што можна задзейнічаць рахунак, калі паставіць птушачку побач зь ім у вакне «Наладзіць рахункі»? Так сама можна й зьняць птушачку, каб не выкарыстоўваць рахунак. Гэта карысна, каб не загрувашчваць сьпіс рахункам, якім рэдка ўжываецца.</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
-        <translation>Не падабаецца, як разьмясьціліся кнопкі?  Жадаеце зьмяняць стан на «адсутнічаю» адным націскам?  Абярыце пункт «Наставіць паліцы прыладаў» выплыўнога мэню паліцы прыладаў.  Можна нават зрабіць так, каб паліца прыладаў перасоўвалася!</translation>
+        <translation type="vanished">Не падабаецца, як разьмясьціліся кнопкі?  Жадаеце зьмяняць стан на «адсутнічаю» адным націскам?  Абярыце пункт «Наставіць паліцы прыладаў» выплыўнога мэню паліцы прыладаў.  Можна нават зрабіць так, каб паліца прыладаў перасоўвалася!</translation>
     </message>
     <message>
         <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation>А ці ведаеце вы, што «Псі» — адзін з тых нешматлікіх кліентаў, што дазваляюць злучацца адначасова зь некалькімі паслужнікамі?  Для сяброў вы можаце быць «stromki-chlopcza@jabber.org.by», а з супрацоўнікамі — «pan.Babajew.Franciszak.Sihizmundaw@majotavarystva.com.by».</translation>
+        <translation type="vanished">А ці ведаеце вы, што «Псі» — адзін з тых нешматлікіх кліентаў, што дазваляюць злучацца адначасова зь некалькімі паслужнікамі?  Для сяброў вы можаце быць «stromki-chlopcza@jabber.org.by», а з супрацоўнікамі — «pan.Babajew.Franciszak.Sihizmundaw@majotavarystva.com.by».</translation>
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
-        <translation>Вы прыахвоціліся да «Gadu-Gadu» ці «Trillian» і сумуеце па файных пацуцьцезнаках?  Не тужыце, мы пра гэта паклапаціліся!  Зазірніце на &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; — там вы знойдзеце шмат набораў значкаў, якія можна дадаць у праґраму, каб яна выглядала так, як вы жадаеце!</translation>
+        <translation type="vanished">Вы прыахвоціліся да «Gadu-Gadu» ці «Trillian» і сумуеце па файных пацуцьцезнаках?  Не тужыце, мы пра гэта паклапаціліся!  Зазірніце на &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; — там вы знойдзеце шмат набораў значкаў, якія можна дадаць у праґраму, каб яна выглядала так, як вы жадаеце!</translation>
     </message>
     <message>
         <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will &quot;perform the default action&quot; on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
-        <translation>Ці ведаеце вы, што выклікаць звычайнае дзеяньне можна сярэдняю клявішаю мышы (калі мыш мае тры клявішы) ці адначасова націснуўшы правую й левую клявішы?  Паспрабуйце так пстрыкнуць па суразмоўцы ці вынырцы.</translation>
+        <translation type="vanished">Ці ведаеце вы, што выклікаць звычайнае дзеяньне можна сярэдняю клявішаю мышы (калі мыш мае тры клявішы) ці адначасова націснуўшы правую й левую клявішы?  Паспрабуйце так пстрыкнуць па суразмоўцы ці вынырцы.</translation>
     </message>
     <message>
         <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation>Каб дадаць суразмоўцу зь іншае сеткі вокамгненных паведамленьняў, трэба дадаць адпаведны сродак з паслужніка XMPP. Глядзіце тут: галоўнае мэню → «Шукаць службы».</translation>
+        <translation type="vanished">Каб дадаць суразмоўцу зь іншае сеткі вокамгненных паведамленьняў, трэба дадаць адпаведны сродак з паслужніка XMPP. Глядзіце тут: галоўнае мэню → «Шукаць службы».</translation>
     </message>
     <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
-        <translation>Калі пстрыкнуць праваю клявішаю па назьве паслужніка ў сьпісе, можна выканаць некалькі розных дзеяньняў:  зьмяніць стан, наладзіць рахунак, выканаць пэўныя кіраўнічыя дзеяньні (калі маеце адпаведны дазвол) ды іншае.</translation>
+        <translation type="vanished">Калі пстрыкнуць праваю клявішаю па назьве паслужніка ў сьпісе, можна выканаць некалькі розных дзеяньняў:  зьмяніць стан, наладзіць рахунак, выканаць пэўныя кіраўнічыя дзеяньні (калі маеце адпаведны дазвол) ды іншае.</translation>
     </message>
     <message>
         <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
 &lt;br&gt;&lt;br&gt;
 Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation>Шукаеце транспарт ці пакой пагутарыць, але на паслужніку іх няма? Каб пашукаць якія цікавыя службы на &lt;i&gt;хоць-якім&lt;/i&gt; паслужніку XMPP, упішыце яго ў поле адрасу вакна «Шукаць службы» (галоўнае мэню → «Шукаць службы»).
+        <translation type="vanished">Шукаеце транспарт ці пакой пагутарыць, але на паслужніку іх няма? Каб пашукаць якія цікавыя службы на &lt;i&gt;хоць-якім&lt;/i&gt; паслужніку XMPP, упішыце яго ў поле адрасу вакна «Шукаць службы» (галоўнае мэню → «Шукаць службы»).
 &lt;br&gt;&lt;br&gt;
 Уважце: асобныя паслужнікі могуць забараніць запісвацца на транспарце карыстальнікам зь іншых паслужнікоў, але гэта хутчэй выключэньне.</translation>
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
-        <translation>Калі вы досыць часта ўдзельнічаеце ў нарадах, вельмі каштоўнаю ўласьцівасьцю «Псі» будзе магчымасьць дапаўняць мянушкі. Сама зручна ўжываць выклічнік «&lt;tt&gt;Tab-Tab&lt;/tt&gt;»: калі націснуць гэтыя клявішы ў пачатку новага радку ці пасьля некалькіх набраных літараў, тады ўставіцца мянушка асобы, якая зьвярталася да вас апошняю. Калі працягваць націскаць «&lt;tt&gt;Tab&lt;/tt&gt;», будуць па чарзе падстаўляцца мянушкі ўсіх, хто зараз у пакоі.&lt;br/&gt;&lt;br/&gt;Складанейшы прыклад: у пакоі сядзяць &lt;tt&gt;кастусь&lt;/tt&gt;, &lt;tt&gt;Кірыла&lt;/tt&gt; і &lt;tt&gt;Кася&lt;/tt&gt;. Калі надрукаваць «&lt;tt&gt;к&lt;/tt&gt;» ды націснуць «&lt;tt&gt;Tab&lt;/tt&gt;», ня будзе бачна ніякага выніку. Гэтак атрымваецца таму, што зь літары «&lt;tt&gt;k&lt;/tt&gt;» пачынаюцца некалькі мянушак. Можна працягваць націскаць «&lt;tt&gt;Tab&lt;/tt&gt;», і тады будуць па чарзе падстаўляцца мянушкі, што пачынаюцца з «&lt;tt&gt;к&lt;/tt&gt;». А можна працягваць набіраць літары, пакуль яны ня будуць вызначаць адзіную мянушку: калі набраць «&lt;tt&gt;а&lt;/tt&gt;», а потым націснуць «&lt;tt&gt;Tab&lt;/tt&gt;», мянушка дапоўніцца да &lt;tt&gt;кас&lt;/tt&gt;. Як болей карыстацца гэтаю магчымасьцю, так,болей яна будзеце падабацца. Паспрабуйце дапоўніць якую мянушку, і вы ўбачыце, наколькі гэта зручна.</translation>
+        <translation type="vanished">Калі вы досыць часта ўдзельнічаеце ў нарадах, вельмі каштоўнаю ўласьцівасьцю «Псі» будзе магчымасьць дапаўняць мянушкі. Сама зручна ўжываць выклічнік «&lt;tt&gt;Tab-Tab&lt;/tt&gt;»: калі націснуць гэтыя клявішы ў пачатку новага радку ці пасьля некалькіх набраных літараў, тады ўставіцца мянушка асобы, якая зьвярталася да вас апошняю. Калі працягваць націскаць «&lt;tt&gt;Tab&lt;/tt&gt;», будуць па чарзе падстаўляцца мянушкі ўсіх, хто зараз у пакоі.&lt;br/&gt;&lt;br/&gt;Складанейшы прыклад: у пакоі сядзяць &lt;tt&gt;кастусь&lt;/tt&gt;, &lt;tt&gt;Кірыла&lt;/tt&gt; і &lt;tt&gt;Кася&lt;/tt&gt;. Калі надрукаваць «&lt;tt&gt;к&lt;/tt&gt;» ды націснуць «&lt;tt&gt;Tab&lt;/tt&gt;», ня будзе бачна ніякага выніку. Гэтак атрымваецца таму, што зь літары «&lt;tt&gt;k&lt;/tt&gt;» пачынаюцца некалькі мянушак. Можна працягваць націскаць «&lt;tt&gt;Tab&lt;/tt&gt;», і тады будуць па чарзе падстаўляцца мянушкі, што пачынаюцца з «&lt;tt&gt;к&lt;/tt&gt;». А можна працягваць набіраць літары, пакуль яны ня будуць вызначаць адзіную мянушку: калі набраць «&lt;tt&gt;а&lt;/tt&gt;», а потым націснуць «&lt;tt&gt;Tab&lt;/tt&gt;», мянушка дапоўніцца да &lt;tt&gt;кас&lt;/tt&gt;. Як болей карыстацца гэтаю магчымасьцю, так,болей яна будзеце падабацца. Паспрабуйце дапоўніць якую мянушку, і вы ўбачыце, наколькі гэта зручна.</translation>
     </message>
     <message>
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation>Гэта — астатняя парада.
+        <translation type="vanished">Гэта — астатняя парада.
 &lt;br&gt;&lt;br&gt;Калі жадаеце напісаць уласную надзённую параду, апублікуйце яе на &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;форуме «Псі»&lt;/a&gt; (ці лістуйце каму з распрацоўнікаў): нам будзе прыемна далучыць яе да іншых у наступным выпуску.</translation>
     </message>
     <message>
         <source>Contributed by</source>
-        <translation>Парада ад сп.</translation>
-    </message>
-    <message>
-        <source>Hello! Thank you for downloading Psi!
-We hope that you will enjoy using it as we have enjoyed making it!
-&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Парада ад сп.</translation>
     </message>
 </context>
 <context>

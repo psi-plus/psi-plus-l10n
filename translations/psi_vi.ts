@@ -1516,6 +1516,17 @@ The list of exceptions for jids has two operating modes:
     </message>
 </context>
 <context>
+    <name>BOBFileShareDownloader</name>
+    <message>
+        <source>&quot;Bits Of Binary&quot; data source is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download using &quot;Bits Of Binary&quot; failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BattleshipGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
@@ -2000,6 +2011,14 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     <message>
         <source>Add to dictionary</source>
         <translation>Thêm vào từ điển</translation>
+    </message>
+    <message>
+        <source>Recording (%1 sec left)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record and share audio note while pressed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4313,19 +4332,18 @@ hãy kiểm tra kết nối kiểu TCP gửi đi được cho phép không.</tra
 <context>
     <name>FileShareDownloader::Private</name>
     <message>
-        <source>Bits of binary download failed</source>
+        <source>Download sources are not given</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>FileSharingItem</name>
+    <message>
+        <source>Published on HttpUpload service</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Invalid Jingle-FT uri</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unexpected content add</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Jingle download failed</source>
+        <source>Failed to publish on HttpUpload service</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7109,6 +7127,25 @@ to play battleship. He wants to play %2.</source>
     </message>
 </context>
 <context>
+    <name>JingleFileShareDownloader</name>
+    <message>
+        <source>Jingle data source is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid Jingle-FT URI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unexpected incoming content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Jingle download failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>JuickJidDialog</name>
     <message>
         <source>Set JIDs of Juick Bot</source>
@@ -7957,6 +7994,13 @@ Details: %1</source>
     <message>
         <source>Flat</source>
         <translation>Phẳng</translation>
+    </message>
+</context>
+<context>
+    <name>NAMFileShareDownloader</name>
+    <message>
+        <source>Unexpected HTTP status</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16918,47 +16962,47 @@ Hãy sửa chữa và thử lại.</translation>
     <name>Tip</name>
     <message>
         <source>Useful Tips</source>
-        <translation>Mẹo có ích</translation>
+        <translation type="vanished">Mẹo có ích</translation>
     </message>
     <message>
         <source>psi/logo_128</source>
-        <translation>psi/logo_128</translation>
+        <translation type="vanished">psi/logo_128</translation>
     </message>
     <message>
         <source>Show tips at startup</source>
-        <translation>Hiện mẹo khi khởi chạy</translation>
+        <translation type="vanished">Hiện mẹo khi khởi chạy</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
-        <translation>&amp;Lùi</translation>
+        <translation type="vanished">&amp;Lùi</translation>
     </message>
     <message>
         <source>Alt+P</source>
-        <translation>Alt+L</translation>
+        <translation type="vanished">Alt+L</translation>
     </message>
     <message>
         <source>psi/arrowLeft</source>
-        <translation>psi/arrowLeft</translation>
+        <translation type="vanished">psi/arrowLeft</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation>&amp;Tiếp</translation>
+        <translation type="vanished">&amp;Tiếp</translation>
     </message>
     <message>
         <source>Alt+N</source>
-        <translation>Alt+K</translation>
+        <translation type="vanished">Alt+K</translation>
     </message>
     <message>
         <source>psi/arrowRight</source>
-        <translation>psi/arrowRight</translation>
+        <translation type="vanished">psi/arrowRight</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>Đón&amp;g</translation>
+        <translation type="vanished">Đón&amp;g</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation>Alt+G</translation>
+        <translation type="vanished">Alt+G</translation>
     </message>
 </context>
 <context>
@@ -16977,7 +17021,7 @@ Chúng tôi mong bạn thích thú sử dụng Psi, đúng như chúng tôi đã
     </message>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
-        <translation>Bạn có khả năng chọn nhiều bộ biểu tượng khác nhau, cũng gán ưu tiên cho chúng trong hộp thoại tùy chọn.</translation>
+        <translation type="vanished">Bạn có khả năng chọn nhiều bộ biểu tượng khác nhau, cũng gán ưu tiên cho chúng trong hộp thoại tùy chọn.</translation>
     </message>
     <message>
         <source>You can use multiple useful shortcuts while typing chat messages:&lt;br&gt;
@@ -16989,7 +17033,7 @@ Chúng tôi mong bạn thích thú sử dụng Psi, đúng như chúng tôi đã
 &lt;li&gt;Ctrl+U to clear edit buffer&lt;/li&gt;
 &lt;li&gt;Ctrl+PgUp/PgDn to scroll chat view&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>Có nhiều lối tắt có ích khi bạn gõ chát:&lt;br&gt;
+        <translation type="vanished">Có nhiều lối tắt có ích khi bạn gõ chát:&lt;br&gt;
 &lt;ul&gt;
 &lt;li&gt;Ctrl+Enter sẽ gửi chuỗi đã gõ&lt;/li&gt;
 &lt;li&gt;Ctrl+M sẽ thêm ký tự dòng mới&lt;/li&gt;
@@ -17009,7 +17053,7 @@ And these work only in groupchat dialog:
 &lt;ul&gt;
 &lt;li&gt;&quot;/nick &amp;lt;new_nickname&amp;gt;&quot; to change your nickname&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>Bạn có khả năng gõ lệnh đặc biệt trong hộp thoại chát và chát nhóm:
+        <translation type="vanished">Bạn có khả năng gõ lệnh đặc biệt trong hộp thoại chát và chát nhóm:
 &lt;ul&gt;
 &lt;li&gt;« /clear » sẽ xoá sạch vùng xem&lt;/li&gt;
 &lt;li&gt;« /me &amp;lt;chuỗi&amp;gt: » thay thế « /me » bằng tên hiệu của bạn&lt;/li&gt;
@@ -17020,68 +17064,38 @@ Chỉ trong hộp thoại chát nhóm:
 &lt;/ul&gt;</translation>
     </message>
     <message>
-        <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
-        <translation>Không cần phải xoá tài khoản để tắt nó, nhất là tạm thời. Chỉ đơn giản bật/tắt hộp chọn trong phần « Thiết lập tài khoản ». Có ích để tắt tài khoản ít dùng, để tiết kiệm sức chứa trên bảng liệt kê.</translation>
+        <translation type="vanished">Không cần phải xoá tài khoản để tắt nó, nhất là tạm thời. Chỉ đơn giản bật/tắt hộp chọn trong phần « Thiết lập tài khoản ». Có ích để tắt tài khoản ít dùng, để tiết kiệm sức chứa trên bảng liệt kê.</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
-        <translation>Bạn có muốn di chuyển cái nút, hoặc thêm cái nút lối tắt không? Dễ làm. Xem cửa sổ « Cấu hình thanh công cụ » (mục trong trình đơn ngữ cảnh của thanh công cụ). Ngay cả có khả năng tạo thanh công cụ nổi được !</translation>
-    </message>
-    <message>
-        <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Bạn có muốn di chuyển cái nút, hoặc thêm cái nút lối tắt không? Dễ làm. Xem cửa sổ « Cấu hình thanh công cụ » (mục trong trình đơn ngữ cảnh của thanh công cụ). Ngay cả có khả năng tạo thanh công cụ nổi được !</translation>
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
-        <translation>Bạn đã chuyển đổi từ mạng Gadu-Gadu hay Trillian nhưng vẫn còn nhớ các biểu tượng xúc cảm rất đẹp không? Không có sao. Xem nơi Mạng &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; để tìm rất nhiều bộ biểu tượng bạn có thể thêm vào Psi để trang trí thích hợp !</translation>
+        <translation type="vanished">Bạn đã chuyển đổi từ mạng Gadu-Gadu hay Trillian nhưng vẫn còn nhớ các biểu tượng xúc cảm rất đẹp không? Không có sao. Xem nơi Mạng &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; để tìm rất nhiều bộ biểu tượng bạn có thể thêm vào Psi để trang trí thích hợp !</translation>
     </message>
     <message>
         <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will &quot;perform the default action&quot; on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
-        <translation>Cú nhấn giữa (nhấn cái nút giữa trên con chuột có ba cái nút) sẽ thực hiện hành động mặc định với nhiều đối tượng trong Psi. Hãy thử nhấn-giữa vào liên lạc hay điều bật lên.</translation>
-    </message>
-    <message>
-        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Cú nhấn giữa (nhấn cái nút giữa trên con chuột có ba cái nút) sẽ thực hiện hành động mặc định với nhiều đối tượng trong Psi. Hãy thử nhấn-giữa vào liên lạc hay điều bật lên.</translation>
     </message>
     <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
-        <translation>Bạn có khả năng nhấn-phải vào tên máy phục vụ trong bảng liệt kê, để thực hiện vài hành động khác nhau. Có thể thay đổi trạng thái, sửa đổi thiết lập tài khoản, đặt tùy chọn quản trị (nếu có quyền) v.v.</translation>
-    </message>
-    <message>
-        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
-&lt;br&gt;&lt;br&gt;
-Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Bạn có khả năng nhấn-phải vào tên máy phục vụ trong bảng liệt kê, để thực hiện vài hành động khác nhau. Có thể thay đổi trạng thái, sửa đổi thiết lập tài khoản, đặt tùy chọn quản trị (nếu có quyền) v.v.</translation>
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
-        <translation>Nếu bạn thường nói chuyện trong chát nhóm, khả năng gõ xong tên hiệu là tính năng hơi hữu ích. Lối tắt rất có ích là &lt;tt&gt;Tab-Tab&lt;/tt&gt; (bấm phím Tab hai lần); khi bạn dùng nó ở đầu của dòng mới hay sau bước nào, nó chèn tên hiệu của người đã nói trực tiếp với bạn cuối cùng. Cũng có thể bấm lại phím &lt;tt&gt;Tab&lt;/tt&gt;: nó sẽ quay qua tên hiệu của mỗi người trong phóng đó.&lt;br/&gt;&lt;br/&gt;Lấy thí dụ phức tạp hơn: ba người &lt;tt&gt;Vinh&lt;/tt&gt;, &lt;tt&gt;Vũ&lt;/tt&gt; và &lt;tt&gt;Văn&lt;/tt&gt; tham gia trong cùng một phòng. Bạn gõ chữ &lt;tt&gt;v&lt;/tt&gt; rồi bấm phím &lt;tt&gt;Tab&lt;/tt&gt; thì không làm gì, vì có nhiều tên hiệu bắt đầu với chữ &lt;tt&gt;v&lt;/tt&gt;. Trong trường hợp này, bạn có thể tiếp tục bấm phím &lt;tt&gt;Tab&lt;/tt&gt; để quay lại qua những tên hiệu bắt đầu với &lt;tt&gt;v&lt;/tt&gt;, hoặc gõ chữ thêm đến khi chỉ có một tên hiệu gõ xong được. Cũng gõ &lt;tt&gt;i&lt;/tt&gt; rồi bấm &lt;tt&gt;Tab&lt;/tt&gt; thì Psi gõ xong &lt;tt&gt;Vinh&lt;/tt&gt;. Bạn sẽ quen với tính năng này: nó sẽ tiết kiệm nhiều thời gian.</translation>
+        <translation type="vanished">Nếu bạn thường nói chuyện trong chát nhóm, khả năng gõ xong tên hiệu là tính năng hơi hữu ích. Lối tắt rất có ích là &lt;tt&gt;Tab-Tab&lt;/tt&gt; (bấm phím Tab hai lần); khi bạn dùng nó ở đầu của dòng mới hay sau bước nào, nó chèn tên hiệu của người đã nói trực tiếp với bạn cuối cùng. Cũng có thể bấm lại phím &lt;tt&gt;Tab&lt;/tt&gt;: nó sẽ quay qua tên hiệu của mỗi người trong phóng đó.&lt;br/&gt;&lt;br/&gt;Lấy thí dụ phức tạp hơn: ba người &lt;tt&gt;Vinh&lt;/tt&gt;, &lt;tt&gt;Vũ&lt;/tt&gt; và &lt;tt&gt;Văn&lt;/tt&gt; tham gia trong cùng một phòng. Bạn gõ chữ &lt;tt&gt;v&lt;/tt&gt; rồi bấm phím &lt;tt&gt;Tab&lt;/tt&gt; thì không làm gì, vì có nhiều tên hiệu bắt đầu với chữ &lt;tt&gt;v&lt;/tt&gt;. Trong trường hợp này, bạn có thể tiếp tục bấm phím &lt;tt&gt;Tab&lt;/tt&gt; để quay lại qua những tên hiệu bắt đầu với &lt;tt&gt;v&lt;/tt&gt;, hoặc gõ chữ thêm đến khi chỉ có một tên hiệu gõ xong được. Cũng gõ &lt;tt&gt;i&lt;/tt&gt; rồi bấm &lt;tt&gt;Tab&lt;/tt&gt; thì Psi gõ xong &lt;tt&gt;Vinh&lt;/tt&gt;. Bạn sẽ quen với tính năng này: nó sẽ tiết kiệm nhiều thời gian.</translation>
     </message>
     <message>
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation>Đây là mẹo cuối cùng.
+        <translation type="vanished">Đây là mẹo cuối cùng.
 &lt;br&gt;&lt;br&gt;Nếu bạn muốn đóng góp « Mẹo của Hôm nay », xin hãy xuất bản nó trong &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Diễn đàn Psi&lt;/a&gt; (hoặc gửi thư cho nhà phát triển/dịch giả), rồi chúng ta sẽ hợp nhất nó trong bản phát hành kế tiếp.</translation>
     </message>
     <message>
         <source>Contributed by</source>
-        <translation>Đóng góp bởi</translation>
-    </message>
-    <message>
-        <source>Hello! Thank you for downloading Psi!
-We hope that you will enjoy using it as we have enjoyed making it!
-&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Đóng góp bởi</translation>
     </message>
 </context>
 <context>

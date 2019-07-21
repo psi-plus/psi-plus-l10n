@@ -1576,6 +1576,17 @@ Seznam vyjímek pro jidy má dva módy:
     </message>
 </context>
 <context>
+    <name>BOBFileShareDownloader</name>
+    <message>
+        <source>&quot;Bits Of Binary&quot; data source is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download using &quot;Bits Of Binary&quot; failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BattleshipGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
@@ -2061,6 +2072,14 @@ Opravdu zavřít toto okno?</translation>
     <message>
         <source>Add to dictionary</source>
         <translation>Přidat do slovníku</translation>
+    </message>
+    <message>
+        <source>Recording (%1 sec left)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record and share audio note while pressed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4387,19 +4406,18 @@ nedostupná.  Pokud jsi za firewallem, je nutné se ujistit,
 <context>
     <name>FileShareDownloader::Private</name>
     <message>
-        <source>Bits of binary download failed</source>
+        <source>Download sources are not given</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>FileSharingItem</name>
+    <message>
+        <source>Published on HttpUpload service</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Invalid Jingle-FT uri</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unexpected content add</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Jingle download failed</source>
+        <source>Failed to publish on HttpUpload service</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7317,6 +7335,25 @@ abyste si zahráli. Chce hrát %2.</translation>
     </message>
 </context>
 <context>
+    <name>JingleFileShareDownloader</name>
+    <message>
+        <source>Jingle data source is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid Jingle-FT URI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unexpected incoming content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Jingle download failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>JuickJidDialog</name>
     <message>
         <source>Set JIDs of Juick Bot</source>
@@ -8170,6 +8207,13 @@ Detaily: %1</translation>
     <message>
         <source>Flat</source>
         <translation>Plochý</translation>
+    </message>
+</context>
+<context>
+    <name>NAMFileShareDownloader</name>
+    <message>
+        <source>Unexpected HTTP status</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17355,54 +17399,54 @@ Opravte ho a zkuste to znovu.</translation>
     <name>Tip</name>
     <message>
         <source>Useful Tips</source>
-        <translation>Užitečné tipy</translation>
+        <translation type="vanished">Užitečné tipy</translation>
     </message>
     <message>
         <source>psi/logo_128</source>
-        <translation>psi/logo_128</translation>
+        <translation type="vanished">psi/logo_128</translation>
     </message>
     <message>
         <source>Show tips at startup</source>
-        <translation>Zobrazovat tipy při startu</translation>
+        <translation type="vanished">Zobrazovat tipy při startu</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
-        <translation>&amp;Předchozí</translation>
+        <translation type="vanished">&amp;Předchozí</translation>
     </message>
     <message>
         <source>Alt+P</source>
-        <translation>Alt+P</translation>
+        <translation type="vanished">Alt+P</translation>
     </message>
     <message>
         <source>psi/arrowLeft</source>
-        <translation>psi/arrowLeft</translation>
+        <translation type="vanished">psi/arrowLeft</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation>&amp;Další</translation>
+        <translation type="vanished">&amp;Další</translation>
     </message>
     <message>
         <source>Alt+N</source>
-        <translation>Alt+N</translation>
+        <translation type="vanished">Alt+N</translation>
     </message>
     <message>
         <source>psi/arrowRight</source>
-        <translation>psi/arrowRight</translation>
+        <translation type="vanished">psi/arrowRight</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Zavřít</translation>
+        <translation type="vanished">&amp;Zavřít</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation>Alt+C</translation>
+        <translation type="vanished">Alt+C</translation>
     </message>
 </context>
 <context>
     <name>TipDlg</name>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
-        <translation>Můžeš si vybrat několik různých sad smajlíků a nastavit jim různé priority v konfiguračním dialogu.</translation>
+        <translation type="vanished">Můžeš si vybrat několik různých sad smajlíků a nastavit jim různé priority v konfiguračním dialogu.</translation>
     </message>
     <message>
         <source>You can use multiple useful shortcuts while typing chat messages:&lt;br&gt;
@@ -17414,7 +17458,7 @@ Opravte ho a zkuste to znovu.</translation>
 &lt;li&gt;Ctrl+U to clear edit buffer&lt;/li&gt;
 &lt;li&gt;Ctrl+PgUp/PgDn to scroll chat view&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>Při psaní zpráv můžeš použít mnoho užitečných zkratek:&lt;br&gt;
+        <translation type="vanished">Při psaní zpráv můžeš použít mnoho užitečných zkratek:&lt;br&gt;
 &lt;ul&gt;
 &lt;li&gt;Ctrl+Enter odešle zprávu&lt;/li&gt;
 &lt;li&gt;Ctrl+M přidá do zprávy nový řádek&lt;/li&gt;
@@ -17434,7 +17478,7 @@ And these work only in groupchat dialog:
 &lt;ul&gt;
 &lt;li&gt;&quot;/nick &amp;lt;new_nickname&amp;gt;&quot; to change your nickname&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>V oknech chatu a skupinového chatu je možné používat tyto speciální příkazy:
+        <translation type="vanished">V oknech chatu a skupinového chatu je možné používat tyto speciální příkazy:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; pro vymazání okna&lt;/li&gt;
 &lt;li&gt;&quot;/me &amp;lt;zpráva&amp;gt;&quot; &apos;/me&apos; bude nahrazeno vaší přezdívkou&lt;/li&gt;
@@ -17445,68 +17489,38 @@ Následující funguje pouze v okně groupchatu:
 &lt;/ul&gt;</translation>
     </message>
     <message>
-        <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
-        <translation>Víš že můžeš pomocí zaškrtávacích políček v dialogu pro konfiguraci účtů vypínat a zapínat jednotlivé účty? To může být užitečné, pokud některé účty používáš zřídka a zbytečně zabírají místo na obrazovce.</translation>
+        <translation type="vanished">Víš že můžeš pomocí zaškrtávacích políček v dialogu pro konfiguraci účtů vypínat a zapínat jednotlivé účty? To může být užitečné, pokud některé účty používáš zřídka a zbytečně zabírají místo na obrazovce.</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
-        <translation>Nelíbí se ti tlačítka tam, kde jsou?  Chceš tlačítko pro rychlou změnu stavu na &quot;Pryč&quot;?  Podívej se do okna &quot;Konfigurovat panely nástrojů&quot;, které je dostupné přes kontextové menu panelů nástrojů.  Můžeš dokonce vytvořit plovoucí nástrojový panel!</translation>
-    </message>
-    <message>
-        <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Nelíbí se ti tlačítka tam, kde jsou?  Chceš tlačítko pro rychlou změnu stavu na &quot;Pryč&quot;?  Podívej se do okna &quot;Konfigurovat panely nástrojů&quot;, které je dostupné přes kontextové menu panelů nástrojů.  Můžeš dokonce vytvořit plovoucí nástrojový panel!</translation>
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
-        <translation>Přecházíš z Gadu-Gadu nebo Trillianu a schází ti skvělé emotikony?  Neboj se, můžeš přejít!  Koukni na &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; na &quot;tuny&quot; sad s ikonami, které mohou být přidany do Psi pro vytvoření vzhledu, jaký se ti líbí!</translation>
+        <translation type="vanished">Přecházíš z Gadu-Gadu nebo Trillianu a schází ti skvělé emotikony?  Neboj se, můžeš přejít!  Koukni na &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; na &quot;tuny&quot; sad s ikonami, které mohou být přidany do Psi pro vytvoření vzhledu, jaký se ti líbí!</translation>
     </message>
     <message>
         <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will &quot;perform the default action&quot; on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
-        <translation>Věděl(a) jsi, že prostřední klik (prostřední tlačítko na třítlačítkové myši) &quot;vykonává výchozí akci&quot; na mnoha objektech v Psi?  Zkus prostřední klik na kontakt nebo na vyskakovací okno.</translation>
-    </message>
-    <message>
-        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Věděl(a) jsi, že prostřední klik (prostřední tlačítko na třítlačítkové myši) &quot;vykonává výchozí akci&quot; na mnoha objektech v Psi?  Zkus prostřední klik na kontakt nebo na vyskakovací okno.</translation>
     </message>
     <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
-        <translation>Můžeš provést pravý klik na jméno serveru v seznamu pro provádění různých akcí.  Můžeš změnit stav, upravit nastavení účtu, provést administrátorské volby (pokud máš práva) a další.</translation>
-    </message>
-    <message>
-        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
-&lt;br&gt;&lt;br&gt;
-Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Můžeš provést pravý klik na jméno serveru v seznamu pro provádění různých akcí.  Můžeš změnit stav, upravit nastavení účtu, provést administrátorské volby (pokud máš práva) a další.</translation>
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
-        <translation>Pokud často používáš skupinový chat, je doplňování přezdívky tabulátorem neocenitelná vlastnost. Nejužitečnější zkratka je &lt;tt&gt;Tab-Tab&lt;/tt&gt;; pokud ji použiješ na začátku řádku nebo po mezeře, vloží se přezdívka toho, kdo na tebe naposledy promluvil. Pak můžeš pokračovat v mačkání &lt;tt&gt;Tab&lt;/tt&gt; a procházet tak postupně přezdívky všech lidí v místnosti.&lt;br/&gt;&lt;br/&gt;Trochu komplikovanější příklad: &lt;tt&gt;Petr&lt;/tt&gt;, &lt;tt&gt;Pavel&lt;/tt&gt;, a &lt;tt&gt;Pavla&lt;/tt&gt; jsou ve stejné místnosti. Pokud napíšeš &lt;tt&gt;p&lt;/tt&gt; a stiskneš &lt;tt&gt;Tab&lt;/tt&gt;, nestane se nic zajímavého. Je to tím, že máme víc přezdívek začínajících písmenem &lt;tt&gt;p&lt;/tt&gt;. Můžete buď znovu zmáčknout &lt;tt&gt;Tab&lt;/tt&gt; a procházet přezdívkami začínajícími písmenem &lt;tt&gt;p&lt;/tt&gt; nebo doplnit další písmena, aby bylo doplnění jednoznačné. Pokud dopíšeš písmeno &lt;tt&gt;a&lt;/tt&gt; a stiskneš &lt;tt&gt;Tab&lt;/tt&gt;, přezdívka se doplní na &lt;tt&gt;Pav&lt;/tt&gt;. Čím víc tuto funkci budeš používat, tím spíš se ti začne líbit a budeš na ni spoléhat. Zkus doplňování přezdívky a uvidíš, jak mocná funkce to je.</translation>
+        <translation type="vanished">Pokud často používáš skupinový chat, je doplňování přezdívky tabulátorem neocenitelná vlastnost. Nejužitečnější zkratka je &lt;tt&gt;Tab-Tab&lt;/tt&gt;; pokud ji použiješ na začátku řádku nebo po mezeře, vloží se přezdívka toho, kdo na tebe naposledy promluvil. Pak můžeš pokračovat v mačkání &lt;tt&gt;Tab&lt;/tt&gt; a procházet tak postupně přezdívky všech lidí v místnosti.&lt;br/&gt;&lt;br/&gt;Trochu komplikovanější příklad: &lt;tt&gt;Petr&lt;/tt&gt;, &lt;tt&gt;Pavel&lt;/tt&gt;, a &lt;tt&gt;Pavla&lt;/tt&gt; jsou ve stejné místnosti. Pokud napíšeš &lt;tt&gt;p&lt;/tt&gt; a stiskneš &lt;tt&gt;Tab&lt;/tt&gt;, nestane se nic zajímavého. Je to tím, že máme víc přezdívek začínajících písmenem &lt;tt&gt;p&lt;/tt&gt;. Můžete buď znovu zmáčknout &lt;tt&gt;Tab&lt;/tt&gt; a procházet přezdívkami začínajícími písmenem &lt;tt&gt;p&lt;/tt&gt; nebo doplnit další písmena, aby bylo doplnění jednoznačné. Pokud dopíšeš písmeno &lt;tt&gt;a&lt;/tt&gt; a stiskneš &lt;tt&gt;Tab&lt;/tt&gt;, přezdívka se doplní na &lt;tt&gt;Pav&lt;/tt&gt;. Čím víc tuto funkci budeš používat, tím spíš se ti začne líbit a budeš na ni spoléhat. Zkus doplňování přezdívky a uvidíš, jak mocná funkce to je.</translation>
     </message>
     <message>
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation>Toto je poslední tip.
+        <translation type="vanished">Toto je poslední tip.
 &lt;br&gt;&lt;br&gt;Pokud chcete přispět vlastním &quot;Tipem dne&quot;, napište ho na &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;fóra Psi&lt;/a&gt; (nebo ho pošlete e-mailem některému z vývojářů) a my ho rádi přidáme do příštího vydání Psi.</translation>
     </message>
     <message>
         <source>Contributed by</source>
-        <translation>Zaslal</translation>
-    </message>
-    <message>
-        <source>Hello! Thank you for downloading Psi!
-We hope that you will enjoy using it as we have enjoyed making it!
-&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Zaslal</translation>
     </message>
 </context>
 <context>

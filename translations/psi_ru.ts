@@ -1556,6 +1556,17 @@ The list of exceptions for jids has two operating modes:
     </message>
 </context>
 <context>
+    <name>BOBFileShareDownloader</name>
+    <message>
+        <source>&quot;Bits Of Binary&quot; data source is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download using &quot;Bits Of Binary&quot; failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BattleshipGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
@@ -2042,6 +2053,14 @@ Do you still want to close the window?</source>
     <message>
         <source>Add to dictionary</source>
         <translation>Добавить в словарь</translation>
+    </message>
+    <message>
+        <source>Recording (%1 sec left)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record and share audio note while pressed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4375,20 +4394,27 @@ that outgoing TCP connections are allowed.</source>
 <context>
     <name>FileShareDownloader::Private</name>
     <message>
-        <source>Bits of binary download failed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Invalid Jingle-FT uri</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Unexpected content add</source>
-        <translation>Неожиданное добавление нового контента</translation>
+        <translation type="vanished">Неожиданное добавление нового контента</translation>
     </message>
     <message>
         <source>Jingle download failed</source>
-        <translation>Загрузка через Jingle не удалась</translation>
+        <translation type="vanished">Загрузка через Jingle не удалась</translation>
+    </message>
+    <message>
+        <source>Download sources are not given</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>FileSharingItem</name>
+    <message>
+        <source>Published on HttpUpload service</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to publish on HttpUpload service</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7099,6 +7125,25 @@ to play battleship. He wants to play %2.</source>
     </message>
 </context>
 <context>
+    <name>JingleFileShareDownloader</name>
+    <message>
+        <source>Jingle data source is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid Jingle-FT URI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unexpected incoming content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Jingle download failed</source>
+        <translation type="unfinished">Загрузка через Jingle не удалась</translation>
+    </message>
+</context>
+<context>
     <name>JuickJidDialog</name>
     <message>
         <source>Set JIDs of Juick Bot</source>
@@ -7930,6 +7975,13 @@ Details: %1</source>
     <message>
         <source>Flat</source>
         <translation>Развёрнуто</translation>
+    </message>
+</context>
+<context>
+    <name>NAMFileShareDownloader</name>
+    <message>
+        <source>Unexpected HTTP status</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16886,54 +16938,54 @@ Please correct and try again.</source>
     <name>Tip</name>
     <message>
         <source>Useful Tips</source>
-        <translation>Полезные советы</translation>
+        <translation type="vanished">Полезные советы</translation>
     </message>
     <message>
         <source>psi/logo_128</source>
-        <translation>psi/logo_128</translation>
+        <translation type="vanished">psi/logo_128</translation>
     </message>
     <message>
         <source>Show tips at startup</source>
-        <translation>Показывать советы при запуске</translation>
+        <translation type="vanished">Показывать советы при запуске</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
-        <translation>&amp;Предыдущий</translation>
+        <translation type="vanished">&amp;Предыдущий</translation>
     </message>
     <message>
         <source>Alt+P</source>
-        <translation>Alt+P</translation>
+        <translation type="vanished">Alt+P</translation>
     </message>
     <message>
         <source>psi/arrowLeft</source>
-        <translation>psi/arrowLeft</translation>
+        <translation type="vanished">psi/arrowLeft</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation>&amp;Следующий</translation>
+        <translation type="vanished">&amp;Следующий</translation>
     </message>
     <message>
         <source>Alt+N</source>
-        <translation>Alt+N</translation>
+        <translation type="vanished">Alt+N</translation>
     </message>
     <message>
         <source>psi/arrowRight</source>
-        <translation>psi/arrowRight</translation>
+        <translation type="vanished">psi/arrowRight</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Закрыть</translation>
+        <translation type="vanished">&amp;Закрыть</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation>Alt+C</translation>
+        <translation type="vanished">Alt+C</translation>
     </message>
 </context>
 <context>
     <name>TipDlg</name>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
-        <translation>Вы можете выбрать несколько наборов смайлов и установить приоритеты для них в диалоге настроек.</translation>
+        <translation type="vanished">Вы можете выбрать несколько наборов смайлов и установить приоритеты для них в диалоге настроек.</translation>
     </message>
     <message>
         <source>You can use multiple useful shortcuts while typing chat messages:&lt;br&gt;
@@ -16945,7 +16997,7 @@ Please correct and try again.</source>
 &lt;li&gt;Ctrl+U to clear edit buffer&lt;/li&gt;
 &lt;li&gt;Ctrl+PgUp/PgDn to scroll chat view&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>В чате вы можете использовать некоторые полезные горячие клавиши:&lt;br&gt;
+        <translation type="vanished">В чате вы можете использовать некоторые полезные горячие клавиши:&lt;br&gt;
 &lt;ul&gt;
 &lt;li&gt;Ctrl+Enter - отправить сообщение&lt;/li&gt;
 &lt;li&gt;Ctrl+M - перейти на новую строку&lt;/li&gt;
@@ -16965,7 +17017,7 @@ And these work only in groupchat dialog:
 &lt;ul&gt;
 &lt;li&gt;&quot;/nick &amp;lt;new_nickname&amp;gt;&quot; to change your nickname&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>Вы можете использовать специальные команды в окнах чатов и конференций:
+        <translation type="vanished">Вы можете использовать специальные команды в окнах чатов и конференций:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; - очистить окно чата&lt;/li&gt;
 &lt;li&gt;&quot;/me &amp;lt;сообщение&amp;gt;&quot; - &apos;/me&apos; замещается вашим именем&lt;/li&gt;
@@ -16977,62 +17029,62 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation>Вы знаете, что можете использовать несколько аккаунтов XMPP?
+        <translation type="vanished">Вы знаете, что можете использовать несколько аккаунтов XMPP?
 Просто нажмите &quot;Добавить&quot; в разделе &quot;Аккаунты&quot;.</translation>
     </message>
     <message>
         <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation>Вы общаетесь с пользователями AIM и ICQ? Используйте транспорты, предоставляемые серверами XMPP. Потом вы можете уговорить ваших собеседников использовать XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</translation>
+        <translation type="vanished">Вы общаетесь с пользователями AIM и ICQ? Используйте транспорты, предоставляемые серверами XMPP. Потом вы можете уговорить ваших собеседников использовать XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</translation>
     </message>
     <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
-        <translation>Что вы можете отключить и включить аккаунты? Это может быть полезно для отключения редко используемых аккаунтов.</translation>
+        <translation type="vanished">Что вы можете отключить и включить аккаунты? Это может быть полезно для отключения редко используемых аккаунтов.</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
-        <translation>Не нравятся кнопки на панелях инструментов? Хотите установить статус отсутствия по горячей клавише? Вы можете сделать это в контекстом меню панели инструментов. Кроме того, вы можете сделать панель инструментов плавающей.</translation>
+        <translation type="vanished">Не нравятся кнопки на панелях инструментов? Хотите установить статус отсутствия по горячей клавише? Вы можете сделать это в контекстом меню панели инструментов. Кроме того, вы можете сделать панель инструментов плавающей.</translation>
     </message>
     <message>
         <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation>Знаете ли вы, что Psi - один из немногих XMPP-клиентов, которые позволяют работать с несколькими серверами одновременно?  Вы можете использовать &quot;mrcool@jabber.org&quot; для общения с друзьями и &quot;John.J.Smith_the_fourth@mycompany.com&quot; для деловых партнёров.</translation>
+        <translation type="vanished">Знаете ли вы, что Psi - один из немногих XMPP-клиентов, которые позволяют работать с несколькими серверами одновременно?  Вы можете использовать &quot;mrcool@jabber.org&quot; для общения с друзьями и &quot;John.J.Smith_the_fourth@mycompany.com&quot; для деловых партнёров.</translation>
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
-        <translation>Вы привыкли к красивым смайлам Gadu-Gadu или Trillian? Установите себе наборы смайлов из &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt;.</translation>
+        <translation type="vanished">Вы привыкли к красивым смайлам Gadu-Gadu или Trillian? Установите себе наборы смайлов из &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will &quot;perform the default action&quot; on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
-        <translation>Знаете ли вы, что клик двумя клавишами мыши (или клик средней кнопкой мыши на трёхкнопочной мыши) вызывает действие по умолчанию на большинстве объектов Psi?</translation>
+        <translation type="vanished">Знаете ли вы, что клик двумя клавишами мыши (или клик средней кнопкой мыши на трёхкнопочной мыши) вызывает действие по умолчанию на большинстве объектов Psi?</translation>
     </message>
     <message>
         <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation>Для добавления контактов из других сетей вам нужно подключить соответствующий транспорт на XMPP сервере. См. Меню -&gt; Обзор сервисов.</translation>
+        <translation type="vanished">Для добавления контактов из других сетей вам нужно подключить соответствующий транспорт на XMPP сервере. См. Меню -&gt; Обзор сервисов.</translation>
     </message>
     <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
-        <translation>Вы можете сделать клик правой кнопкой мыши по заголовку аккаунта в вашем списке контактов, чтобы проделать некоторые действия, имеющие отношения к аккаунту и серверу.  Вы можете изменять свой статус, настройки аккаунта, администрировать сервер (при наличии прав) и т.д.</translation>
+        <translation type="vanished">Вы можете сделать клик правой кнопкой мыши по заголовку аккаунта в вашем списке контактов, чтобы проделать некоторые действия, имеющие отношения к аккаунту и серверу.  Вы можете изменять свой статус, настройки аккаунта, администрировать сервер (при наличии прав) и т.д.</translation>
     </message>
     <message>
         <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
 &lt;br&gt;&lt;br&gt;
 Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation>Вам нужен транспорт или конференция, а ваш сервер не поддерживает их? Используйте Меню -&gt; Обзор сервисов для поиска &lt;i&gt;любого&lt;/i&gt; XMPP сервера, который имеет эти возможности. Для этого укажите его адрес.
+        <translation type="vanished">Вам нужен транспорт или конференция, а ваш сервер не поддерживает их? Используйте Меню -&gt; Обзор сервисов для поиска &lt;i&gt;любого&lt;/i&gt; XMPP сервера, который имеет эти возможности. Для этого укажите его адрес.
 &lt;br&gt;&lt;br&gt;
 Примечание: некоторые серверы не поддерживают работу с пользователями с других серверов. К счастью, это случается редко.</translation>
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
-        <translation>Если вы часто общаетесь в конференциях, вам просто необходима возможность дополнения ников. Нажмите &lt;tt&gt;Tab-Tab&lt;/tt&gt; в начале строки или после ввода первых букв ника и будут подставляться ники находящихся в конференции контактов.</translation>
+        <translation type="vanished">Если вы часто общаетесь в конференциях, вам просто необходима возможность дополнения ников. Нажмите &lt;tt&gt;Tab-Tab&lt;/tt&gt; в начале строки или после ввода первых букв ника и будут подставляться ники находящихся в конференции контактов.</translation>
     </message>
     <message>
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation>Это последний совет.
+        <translation type="vanished">Это последний совет.
 &lt;br&gt;&lt;br&gt;Если вы хотите добавить свой совет, напишите в &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;форумах Psi&lt;/a&gt; или отправьте письмо одному из разработчиков.</translation>
     </message>
     <message>
         <source>Contributed by</source>
-        <translation>Совет от</translation>
+        <translation type="vanished">Совет от</translation>
     </message>
     <message>
         <source>Hello! Thank you for downloading Psi!
@@ -17040,7 +17092,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation>Приветствуем вас в программе Psi!
+        <translation type="vanished">Приветствуем вас в программе Psi!
 Мы надеемся, что вы получите удовольствие от использования нашей программы!
 &lt;br&gt;&lt;br&gt;Если вы хотите скачать дополнительный языковой пакет, набор иконок или новую версию Psi, посетите &lt;a href=&quot;https://psi-im.org&quot;&gt;домашнюю страницу Psi&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;Если вы нашли ошибку в программе или хотите пообщаться с пользователями и разработчиками Psi, посетите &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;форумы Psi&lt;/a&gt;.

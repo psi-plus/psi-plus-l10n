@@ -1558,6 +1558,17 @@ Lista wyjątków JID&apos;ów posiada dwa tryby pracy:
     </message>
 </context>
 <context>
+    <name>BOBFileShareDownloader</name>
+    <message>
+        <source>&quot;Bits Of Binary&quot; data source is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download using &quot;Bits Of Binary&quot; failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BattleshipGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
@@ -2042,6 +2053,14 @@ Czy nadal chcesz zamknąć to okno?</translation>
     <message>
         <source>Add to dictionary</source>
         <translation>Dodaj do słownika</translation>
+    </message>
+    <message>
+        <source>Recording (%1 sec left)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record and share audio note while pressed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4367,19 +4386,18 @@ osiągalny. Jeśli jesteś za firewallem, to upewnij się
 <context>
     <name>FileShareDownloader::Private</name>
     <message>
-        <source>Bits of binary download failed</source>
+        <source>Download sources are not given</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>FileSharingItem</name>
+    <message>
+        <source>Published on HttpUpload service</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Invalid Jingle-FT uri</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unexpected content add</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Jingle download failed</source>
+        <source>Failed to publish on HttpUpload service</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7237,6 +7255,25 @@ to play battleship. He wants to play %2.</source>
     </message>
 </context>
 <context>
+    <name>JingleFileShareDownloader</name>
+    <message>
+        <source>Jingle data source is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid Jingle-FT URI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unexpected incoming content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Jingle download failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>JuickJidDialog</name>
     <message>
         <source>Set JIDs of Juick Bot</source>
@@ -8100,6 +8137,13 @@ Details: %1</source>
     <message>
         <source>Flat</source>
         <translation>Płaska lista</translation>
+    </message>
+</context>
+<context>
+    <name>NAMFileShareDownloader</name>
+    <message>
+        <source>Unexpected HTTP status</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17166,54 +17210,42 @@ Please correct and try again.</source>
     <name>Tip</name>
     <message>
         <source>Useful Tips</source>
-        <translation>Przydatne podpowiedzi</translation>
-    </message>
-    <message>
-        <source>psi/logo_128</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Przydatne podpowiedzi</translation>
     </message>
     <message>
         <source>Show tips at startup</source>
-        <translation>Pokazuj podpowiedzi przy starcie</translation>
+        <translation type="vanished">Pokazuj podpowiedzi przy starcie</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
-        <translation>&amp;Poprzednia</translation>
-    </message>
-    <message>
-        <source>Alt+P</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;Poprzednia</translation>
     </message>
     <message>
         <source>psi/arrowLeft</source>
-        <translation>W lewo</translation>
+        <translation type="vanished">W lewo</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation>&amp;Następna</translation>
-    </message>
-    <message>
-        <source>Alt+N</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;Następna</translation>
     </message>
     <message>
         <source>psi/arrowRight</source>
-        <translation>W prawo</translation>
+        <translation type="vanished">W prawo</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Zamknij</translation>
+        <translation type="vanished">&amp;Zamknij</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation>Alt+W</translation>
+        <translation type="vanished">Alt+W</translation>
     </message>
 </context>
 <context>
     <name>TipDlg</name>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
-        <translation>Możesz korzystać jednocześnie z wielu zestawów emotikon i zmieniać ich priorytety przy użyciu okna &lt;b&gt;Preferencji&lt;/b&gt; (Psi|Preferencje).</translation>
+        <translation type="vanished">Możesz korzystać jednocześnie z wielu zestawów emotikon i zmieniać ich priorytety przy użyciu okna &lt;b&gt;Preferencji&lt;/b&gt; (Psi|Preferencje).</translation>
     </message>
     <message>
         <source>You can use multiple useful shortcuts while typing chat messages:&lt;br&gt;
@@ -17225,7 +17257,7 @@ Please correct and try again.</source>
 &lt;li&gt;Ctrl+U to clear edit buffer&lt;/li&gt;
 &lt;li&gt;Ctrl+PgUp/PgDn to scroll chat view&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>Możesz używać różnych użytecznych skrótów klawiszowych podczas prowadzenia rozmów:&lt;br&gt;
+        <translation type="vanished">Możesz używać różnych użytecznych skrótów klawiszowych podczas prowadzenia rozmów:&lt;br&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;i&gt;Alt-S&lt;/i&gt;, &lt;i&gt;Ctrl-Enter&lt;/i&gt; albo &lt;i&gt;Enter&lt;/i&gt;, aby wysłać wiadomość,&lt;/li&gt;
 &lt;li&gt;&lt;i&gt;Ctrl-M&lt;/i&gt; albo &lt;i&gt;Shift-Enter&lt;/i&gt;, aby wstawić znak końca linii,&lt;/li&gt;
@@ -17247,7 +17279,7 @@ And these work only in groupchat dialog:
 &lt;ul&gt;
 &lt;li&gt;&quot;/nick &amp;lt;new_nickname&amp;gt;&quot; to change your nickname&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>W trakcie prowadzenia rozmów oraz prowadzenia konferencji działają następujące specjalne polecenia:
+        <translation type="vanished">W trakcie prowadzenia rozmów oraz prowadzenia konferencji działają następujące specjalne polecenia:
 &lt;dl&gt;
 &lt;dt&gt;/clear&lt;/dt&gt;
 &lt;dd&gt;czyści okno rozmowy&lt;/dd&gt;
@@ -17261,67 +17293,37 @@ Poniższe polecenie działa jedynie w trakcie prowadzenia konferencji:
 &lt;/dl&gt;</translation>
     </message>
     <message>
-        <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
-        <translation>Czy wiesz, że możesz używać pól wyboru w &lt;b&gt;Konfiguracji kont&lt;/b&gt; aby włączać i wyłączać konta? To może być przydatne w sytuacji, gdy posiadasz konta z których rzadko korzystasz, a nie chcesz aby zaśmiecały Ci listę kontaktów.</translation>
+        <translation type="vanished">Czy wiesz, że możesz używać pól wyboru w &lt;b&gt;Konfiguracji kont&lt;/b&gt; aby włączać i wyłączać konta? To może być przydatne w sytuacji, gdy posiadasz konta z których rzadko korzystasz, a nie chcesz aby zaśmiecały Ci listę kontaktów.</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
-        <translation>Nie podoba Ci się położenie przycisków? Chcesz mieć przycisk do zmiany Twojego stanu na Nieobecny? Sprawdź &lt;b&gt;Konfigurację paska narzędzi&lt;/b&gt;. która jest dostępna w menu kontekstowym paska narzędzi. Możesz nawet mieć pływający pasek narzędzi!</translation>
-    </message>
-    <message>
-        <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Nie podoba Ci się położenie przycisków? Chcesz mieć przycisk do zmiany Twojego stanu na Nieobecny? Sprawdź &lt;b&gt;Konfigurację paska narzędzi&lt;/b&gt;. która jest dostępna w menu kontekstowym paska narzędzi. Możesz nawet mieć pływający pasek narzędzi!</translation>
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
-        <translation>Zmieniłeś swój komunikator z Gadu-Gadu, Tlena, czy ICQ? Brakuje Ci ulubionych emotikon? Nie martw się, już o tym pomyśleliśmy! Sprawdź stronę &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; aby znaleźć setki zestawów ikon, które mogą być wykorzystane w Psi tak, abyś czuł się jak w starym komunikatorze. Dodatkowo, instalator Psi dla Windows zawiera kilka najpopularniejszych zestawów emotikon, tak byś nie musiał ich poszukiwać!</translation>
+        <translation type="vanished">Zmieniłeś swój komunikator z Gadu-Gadu, Tlena, czy ICQ? Brakuje Ci ulubionych emotikon? Nie martw się, już o tym pomyśleliśmy! Sprawdź stronę &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; aby znaleźć setki zestawów ikon, które mogą być wykorzystane w Psi tak, abyś czuł się jak w starym komunikatorze. Dodatkowo, instalator Psi dla Windows zawiera kilka najpopularniejszych zestawów emotikon, tak byś nie musiał ich poszukiwać!</translation>
     </message>
     <message>
         <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will &quot;perform the default action&quot; on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
-        <translation>Czy wiesz że kliknięcie środkowym przyciskiem (przy użyciu odpowiedniego przycisku lub rolki myszki) wykona &lt;i&gt;domyślną akcję&lt;/i&gt; dla wielu obiektów w Psi? Spróbuj środkowych kliknięć na kontakcie lub okienku komunikatu.</translation>
-    </message>
-    <message>
-        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Czy wiesz że kliknięcie środkowym przyciskiem (przy użyciu odpowiedniego przycisku lub rolki myszki) wykona &lt;i&gt;domyślną akcję&lt;/i&gt; dla wielu obiektów w Psi? Spróbuj środkowych kliknięć na kontakcie lub okienku komunikatu.</translation>
     </message>
     <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
-        <translation>Możesz kliknąć prawym przyciskiem na nazwie serwera (lub konta) w liście kontaktów, aby móc wykonać różne czynności. Możesz zmieniać status, modyfikować właściwości konta, wykonywać pewne czynności administracyjne (jeśli masz do tego uprawnienia) a nawet więcej.</translation>
-    </message>
-    <message>
-        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
-&lt;br&gt;&lt;br&gt;
-Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Możesz kliknąć prawym przyciskiem na nazwie serwera (lub konta) w liście kontaktów, aby móc wykonać różne czynności. Możesz zmieniać status, modyfikować właściwości konta, wykonywać pewne czynności administracyjne (jeśli masz do tego uprawnienia) a nawet więcej.</translation>
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
-        <translation>Jeżeli dosyć często uczestniczysz w konferencjach, uzupełnianie pseudonimów na pewno Ci się przyda. Najprzydatniejszym skrótem jest &lt;tt&gt;Tab-Tab&lt;/tt&gt;, który użyty na początku linii lub po spacji wstawia pseudonim osoby, do której się ostatnio odzywałeś. Możesz również naciskać &lt;tt&gt;Tab&lt;/tt&gt; by przechodzić w pętli po pseudonimach wszystkich osób na konferencji.&lt;br/&gt;&lt;br/&gt;Przykładowy scenariusz: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; oraz &lt;tt&gt;mbl-revolution&lt;/tt&gt; znajdują się w jednym pokoju konferencyjnym. Jeśli wpiszesz &lt;tt&gt;m&lt;/tt&gt; i naciśniesz &lt;tt&gt;Tab&lt;/tt&gt;, to nie zauważysz żadnej reakcji, jednak ponieważ jest kilka pseudonimów zaczynających się od &lt;tt&gt;m&lt;/tt&gt;, to możesz naciskać &lt;tt&gt;Tab&lt;/tt&gt; aby przechodzić po wszystkich pseudonimach zaczynających się od &lt;tt&gt;m&lt;/tt&gt; albo dopisać dalsze litery do momentu uzyskania jednoznaczego dopasowania. Jeśli więc dopiszesz &lt;tt&gt;b&lt;/tt&gt;, a potem naciśniesz &lt;tt&gt;Tab&lt;/tt&gt;, to uzyskasz uzupełnienie pseudonimu do &lt;tt&gt;mbl&lt;/tt&gt;. Im więcej będziesz korzystać z tej funkcjonalności, tym bardziej Ci się będzie ona podobać i więcej będziez na niej polegać. Spróbuj uzupełniania pseudonimów i wkrótce przekonasz się jak potężnym jest narzędziem.</translation>
+        <translation type="vanished">Jeżeli dosyć często uczestniczysz w konferencjach, uzupełnianie pseudonimów na pewno Ci się przyda. Najprzydatniejszym skrótem jest &lt;tt&gt;Tab-Tab&lt;/tt&gt;, który użyty na początku linii lub po spacji wstawia pseudonim osoby, do której się ostatnio odzywałeś. Możesz również naciskać &lt;tt&gt;Tab&lt;/tt&gt; by przechodzić w pętli po pseudonimach wszystkich osób na konferencji.&lt;br/&gt;&lt;br/&gt;Przykładowy scenariusz: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; oraz &lt;tt&gt;mbl-revolution&lt;/tt&gt; znajdują się w jednym pokoju konferencyjnym. Jeśli wpiszesz &lt;tt&gt;m&lt;/tt&gt; i naciśniesz &lt;tt&gt;Tab&lt;/tt&gt;, to nie zauważysz żadnej reakcji, jednak ponieważ jest kilka pseudonimów zaczynających się od &lt;tt&gt;m&lt;/tt&gt;, to możesz naciskać &lt;tt&gt;Tab&lt;/tt&gt; aby przechodzić po wszystkich pseudonimach zaczynających się od &lt;tt&gt;m&lt;/tt&gt; albo dopisać dalsze litery do momentu uzyskania jednoznaczego dopasowania. Jeśli więc dopiszesz &lt;tt&gt;b&lt;/tt&gt;, a potem naciśniesz &lt;tt&gt;Tab&lt;/tt&gt;, to uzyskasz uzupełnienie pseudonimu do &lt;tt&gt;mbl&lt;/tt&gt;. Im więcej będziesz korzystać z tej funkcjonalności, tym bardziej Ci się będzie ona podobać i więcej będziez na niej polegać. Spróbuj uzupełniania pseudonimów i wkrótce przekonasz się jak potężnym jest narzędziem.</translation>
     </message>
     <message>
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation>To już ostatnia podpowiedź.&lt;br&gt;&lt;br&gt;Jeśli chcesz dostarczyć własnych &lt;i&gt;podpowiedzi dnia&lt;/i&gt;, umieść je na &lt;a href=&quot;http://psi.affinix.com/forums&quot;&gt;Forum Psi&lt;/a&gt; lub napisz do jednego z Autorów, a my z ochotą dołączymy je do kolejnego wydania.</translation>
+        <translation type="vanished">To już ostatnia podpowiedź.&lt;br&gt;&lt;br&gt;Jeśli chcesz dostarczyć własnych &lt;i&gt;podpowiedzi dnia&lt;/i&gt;, umieść je na &lt;a href=&quot;http://psi.affinix.com/forums&quot;&gt;Forum Psi&lt;/a&gt; lub napisz do jednego z Autorów, a my z ochotą dołączymy je do kolejnego wydania.</translation>
     </message>
     <message>
         <source>Contributed by</source>
-        <translation>Nadesłane przez</translation>
-    </message>
-    <message>
-        <source>Hello! Thank you for downloading Psi!
-We hope that you will enjoy using it as we have enjoyed making it!
-&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Nadesłane przez</translation>
     </message>
 </context>
 <context>

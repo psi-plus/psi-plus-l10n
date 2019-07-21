@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="zh_CN" version="2.1">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="zh_CN">
 <context>
     <name>@default</name>
     <message>
@@ -1170,7 +1172,7 @@ save the history for this contact.</source>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Bitstream Vera Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; user, simply fill out the XMPP address (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-XMPP&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get XMPP Address&lt;/span&gt; button to generate an XMPP address for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -1547,6 +1549,17 @@ The list of exceptions for jids has two operating modes:
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg)</source>
         <translation>图片(*.png *.gif *.jpg *.jpeg)</translation>
+    </message>
+</context>
+<context>
+    <name>BOBFileShareDownloader</name>
+    <message>
+        <source>&quot;Bits Of Binary&quot; data source is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download using &quot;Bits Of Binary&quot; failed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2035,6 +2048,14 @@ Do you still want to close the window?</source>
     <message>
         <source>Add to dictionary</source>
         <translation>添加到字典</translation>
+    </message>
+    <message>
+        <source>Recording (%1 sec left)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record and share audio note while pressed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3034,7 +3055,7 @@ Proceed?</source>
     </message>
     <message>
         <source>ToolBar will be placed here</source>
-        <comment>Don't translate this string</comment>
+        <comment>Don&apos;t translate this string</comment>
         <translation>工具栏将会在这里放置</translation>
     </message>
     <message>
@@ -4314,7 +4335,7 @@ contact is offline.</source>
         <source>Unable to connect to peer for data transfer.
 
 Ensure that your Data Transfer settings are proper.  If you are behind
-a NAT router or firewall then you'll need to open the proper TCP port
+a NAT router or firewall then you&apos;ll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
         <translation>无法连到 peer 来发送数据。
 确定你的档发送设置适当。  如果你在 NAT 路由器
@@ -4325,7 +4346,7 @@ or specify a Data Transfer Proxy in your account settings.</source>
         <source>Failure to either connect to, or activate, the Data Transfer Proxy.
 
 This means that the Proxy service is either not functioning or it is
-unreachable.  If you are behind a firewall, then you'll need to ensure
+unreachable.  If you are behind a firewall, then you&apos;ll need to ensure
 that outgoing TCP connections are allowed.</source>
         <translation>连接或启始文件发送代理服务器错误。
 这表示代理服务不是无作用就是无法连接。
@@ -4359,19 +4380,34 @@ that outgoing TCP connections are allowed.</source>
     <name>FileShareDownloader::Private</name>
     <message>
         <source>Bits of binary download failed</source>
-        <translation>二进制位数下载失败</translation>
+        <translation type="vanished">二进制位数下载失败</translation>
     </message>
     <message>
         <source>Invalid Jingle-FT uri</source>
-        <translation>无效Jingle-FT链接</translation>
+        <translation type="vanished">无效Jingle-FT链接</translation>
     </message>
     <message>
         <source>Unexpected content add</source>
-        <translation>意外内容添加</translation>
+        <translation type="vanished">意外内容添加</translation>
     </message>
     <message>
         <source>Jingle download failed</source>
-        <translation>Jingle下载失败</translation>
+        <translation type="vanished">Jingle下载失败</translation>
+    </message>
+    <message>
+        <source>Download sources are not given</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>FileSharingItem</name>
+    <message>
+        <source>Published on HttpUpload service</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to publish on HttpUpload service</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6452,7 +6488,7 @@ You can select or deselect a contact for history removal from the context menu o
 <context>
     <name>IcqDie</name>
     <message>
-        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it's much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
+        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
 
 Sincerely yours, Debian Sid.</source>
         <translation>我可以告诉你，我正在使用Linux，但不要生我的气。当然这个人将会收到此消息。但是最好用Jabber对话。你冒着风险，因你永远不知道ICQ什么时候会死，奶奶已经过时了。他的JID: %1.
@@ -6462,7 +6498,7 @@ Sincerely yours, Debian Sid.</source>
     <message>
         <source>I can tell you as a Linux, but do not be mad at me. This human do not use ICQ anymore, so if you are still use that network he will not receive your message and you have to chat to him by Jabber. His JID: %1.
 
-If you don't know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
+If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
 Sincerely yours, Debian Sid.</source>
         <translation>我以Linux可以告诉你，但不要生我的气。当然这个人不再用ICQ。如果你在用这个软件的话他将不会在收到你的信息，请和Jabber进行对话。他的JID: %1.
 
@@ -6538,7 +6574,7 @@ The plugin has a number of simple settings that can help you:
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
-Your contact's client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
+Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
         <translation>该插件的目的是将图像发送给名单内的联系人。
 你的联系人的客户端必须支持XEP-0071: XHTML-IM和data:URI方案。
@@ -6592,7 +6628,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation>允许高端</translation>
     </message>
     <message>
-        <source>This plugin shows images URLs' previews in chats for non-webkit Psi version.
+        <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
 </source>
         <translation>该插件在聊天里给非webkit版本的Psi显示图片地址的预览。
 </translation>
@@ -7078,6 +7114,25 @@ to play battleship. He wants to play %2.</source>
     </message>
 </context>
 <context>
+    <name>JingleFileShareDownloader</name>
+    <message>
+        <source>Jingle data source is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid Jingle-FT URI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unexpected incoming content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Jingle download failed</source>
+        <translation type="unfinished">Jingle下载失败</translation>
+    </message>
+</context>
+<context>
     <name>JuickJidDialog</name>
     <message>
         <source>Set JIDs of Juick Bot</source>
@@ -7110,7 +7165,7 @@ to play battleship. He wants to play %2.</source>
         <translation>警告</translation>
     </message>
     <message>
-        <source>can't create folder %1 
+        <source>can&apos;t create folder %1 
 caching avatars will be not available</source>
         <translation>不能创建文件夹%1缓存化身将不可用</translation>
     </message>
@@ -7820,10 +7875,6 @@ Details: %1</source>
         <translation>%1%2/s</translation>
     </message>
     <message>
-        <source>%1h%2m%3s remaining</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>[Failed]</source>
         <translation>[失败]</translation>
     </message>
@@ -7911,6 +7962,13 @@ Details: %1</source>
     <message>
         <source>Flat</source>
         <translation>平铺</translation>
+    </message>
+</context>
+<context>
+    <name>NAMFileShareDownloader</name>
+    <message>
+        <source>Unexpected HTTP status</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9192,7 +9250,7 @@ Tags: %1</source>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -9669,7 +9727,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>删除</translation>
     </message>
     <message>
-        <source>Disable stopspam, if don't match any rule above
+        <source>Disable stopspam, if don&apos;t match any rule above
 (does not work for muc private messages)</source>
         <translation>如果不匹配任何上述规则，则禁用禁止刷屏
 (不为MUC私人信息工作)</translation>
@@ -12840,7 +12898,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Set status. STATUS must be one of `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</source>
-        <comment>do not translate `online', `chat', etc; STATUS is the same as in previous string</comment>
+        <comment>do not translate `online&apos;, `chat&apos;, etc; STATUS is the same as in previous string</comment>
         <translation>设置状态。状态只能设置成 `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;。</translation>
     </message>
     <message>
@@ -14510,19 +14568,27 @@ Description: </source>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
-        <translation><numerusform>%n天</numerusform></translation>
+        <translation>
+            <numerusform>%n天</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s) </source>
-        <translation><numerusform>%n小时</numerusform></translation>
+        <translation>
+            <numerusform>%n小时</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) </source>
-        <translation><numerusform>%n分钟</numerusform></translation>
+        <translation>
+            <numerusform>%n分钟</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>%n second(s) </source>
-        <translation><numerusform>%n秒</numerusform></translation>
+        <translation>
+            <numerusform>%n秒</numerusform>
+        </translation>
     </message>
     <message>
         <source>Warning</source>
@@ -15151,7 +15217,9 @@ Reason: %1</source>
     <message numerus="yes">
         <source>celebrates birthday in %n day(s)
 </source>
-        <translation><numerusform>庆祝生日%n天</numerusform></translation>
+        <translation>
+            <numerusform>庆祝生日%n天</numerusform>
+        </translation>
     </message>
     <message>
         <source>celebrates birthday yesterday.
@@ -15554,7 +15622,9 @@ Reason: %1</source>
     </message>
     <message numerus="yes">
         <source>Added %n users to your roster.</source>
-        <translation><numerusform>添加 %n 个用户到你的名单。</numerusform></translation>
+        <translation>
+            <numerusform>添加 %n 个用户到你的名单。</numerusform>
+        </translation>
     </message>
     <message>
         <source>Added %1 to your roster.</source>
@@ -16807,54 +16877,54 @@ Please correct and try again.</source>
     <name>Tip</name>
     <message>
         <source>Useful Tips</source>
-        <translation>有用的提示</translation>
+        <translation type="vanished">有用的提示</translation>
     </message>
     <message>
         <source>psi/logo_128</source>
-        <translation>psi/logo_128</translation>
+        <translation type="vanished">psi/logo_128</translation>
     </message>
     <message>
         <source>Show tips at startup</source>
-        <translation>启动时显示提示</translation>
+        <translation type="vanished">启动时显示提示</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
-        <translation>前一个(&amp;P)</translation>
+        <translation type="vanished">前一个(&amp;P)</translation>
     </message>
     <message>
         <source>Alt+P</source>
-        <translation>Alt+P</translation>
+        <translation type="vanished">Alt+P</translation>
     </message>
     <message>
         <source>psi/arrowLeft</source>
-        <translation>psi/arrowLeft</translation>
+        <translation type="vanished">psi/arrowLeft</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation>下一个(&amp;N)</translation>
+        <translation type="vanished">下一个(&amp;N)</translation>
     </message>
     <message>
         <source>Alt+N</source>
-        <translation>Alt+N</translation>
+        <translation type="vanished">Alt+N</translation>
     </message>
     <message>
         <source>psi/arrowRight</source>
-        <translation>psi/arrowRight</translation>
+        <translation type="vanished">psi/arrowRight</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>关闭(&amp;C)</translation>
+        <translation type="vanished">关闭(&amp;C)</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation>Alt+C</translation>
+        <translation type="vanished">Alt+C</translation>
     </message>
 </context>
 <context>
     <name>TipDlg</name>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
-        <translation>你可以选择多个表情图标图标集, 在选项对话框中指定他们使用的优先级。</translation>
+        <translation type="vanished">你可以选择多个表情图标图标集, 在选项对话框中指定他们使用的优先级。</translation>
     </message>
     <message>
         <source>You can use multiple useful shortcuts while typing chat messages:&lt;br&gt;
@@ -16866,7 +16936,7 @@ Please correct and try again.</source>
 &lt;li&gt;Ctrl+U to clear edit buffer&lt;/li&gt;
 &lt;li&gt;Ctrl+PgUp/PgDn to scroll chat view&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>当你在输入对话信息时, 你可以使用许多有用的快捷键:&lt;br&gt;
+        <translation type="vanished">当你在输入对话信息时, 你可以使用许多有用的快捷键:&lt;br&gt;
 &lt;ul&gt;
 &lt;li&gt;按 Ctrl+Enter 来发送信息&lt;/li&gt;
 &lt;li&gt;按 Ctrl+M 来换行&lt;/li&gt;
@@ -16880,13 +16950,13 @@ Please correct and try again.</source>
         <source>You can type these special commands in chat and groupchat dialogs:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; to clear chat view&lt;/li&gt;
-&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; '/me' is replaced by your nick&lt;/li&gt;
+&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; &apos;/me&apos; is replaced by your nick&lt;/li&gt;
 &lt;/ul&gt;
 And these work only in groupchat dialog:
 &lt;ul&gt;
 &lt;li&gt;&quot;/nick &amp;lt;new_nickname&amp;gt;&quot; to change your nickname&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>你可以在对话及群组对话框中下达以下特殊指令:
+        <translation type="vanished">你可以在对话及群组对话框中下达以下特殊指令:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; 清除对话窗口内容&lt;/li&gt;
 &lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; &apos;/me&apos; 由你的昵称替代&lt;/li&gt;
@@ -16898,61 +16968,61 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation>你知道你可以注册多个XMPP账户与PSI吗？是否可以从你的个人账户分开工作，可以。如果你是一个超级用户，在不稳定的服务器上测试最新的一个XMPP特性，你可以做到 - 在没有第二个客户端连接到您的服务器稳定运行。只要在“帐户设置”屏幕中单击“添加”。</translation>
+        <translation type="vanished">你知道你可以注册多个XMPP账户与PSI吗？是否可以从你的个人账户分开工作，可以。如果你是一个超级用户，在不稳定的服务器上测试最新的一个XMPP特性，你可以做到 - 在没有第二个客户端连接到您的服务器稳定运行。只要在“帐户设置”屏幕中单击“添加”。</translation>
     </message>
     <message>
         <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation>你想在第三方IM网络聊天，如AIM和ICQ？尝试启用“传输特定的图标”选项。这将允许你快速地看一眼你的好友正在使用哪个网络。然后你就可以说服他切换到XMPP。&lt;icon name=&quot;psi/smile&quot;&gt;</translation>
+        <translation type="vanished">你想在第三方IM网络聊天，如AIM和ICQ？尝试启用“传输特定的图标”选项。这将允许你快速地看一眼你的好友正在使用哪个网络。然后你就可以说服他切换到XMPP。&lt;icon name=&quot;psi/smile&quot;&gt;</translation>
     </message>
     <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
-        <translation>你知道你可以在账号设置对话框中启用/停用账号吗? 这对你很少在使用的账号是满有用的, 如此一来它不会弄乱你的名单。</translation>
+        <translation type="vanished">你知道你可以在账号设置对话框中启用/停用账号吗? 这对你很少在使用的账号是满有用的, 如此一来它不会弄乱你的名单。</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
-        <translation>不喜欢那些按钮的位置吗?  想要一个改变状态到离开的快捷键吗?  请尝试设置工具栏，它可以从工具栏右键菜单中找到。  你甚至可以让工具浮动显示!</translation>
+        <translation type="vanished">不喜欢那些按钮的位置吗?  想要一个改变状态到离开的快捷键吗?  请尝试设置工具栏，它可以从工具栏右键菜单中找到。  你甚至可以让工具浮动显示!</translation>
     </message>
     <message>
         <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation>你知道Psi是一个唯一的XMPP客户端，可让您连接到多个服务器在同一时间？你应该知道“mrcool@jabber.org”给你的朋友，“John.J.Smith_the_fourth@ mycompany.com”业务联营。</translation>
+        <translation type="vanished">你知道Psi是一个唯一的XMPP客户端，可让您连接到多个服务器在同一时间？你应该知道“mrcool@jabber.org”给你的朋友，“John.J.Smith_the_fourth@ mycompany.com”业务联营。</translation>
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
-        <translation>你是从Gadu-Gadu或Trillian跑过来的而且想念那些酷的表情图标吗?  别紧张, 我们早有准备!  看看 &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt;, 有一大堆的 &quot;图标集&quot; 可以加到Psi里。让Psi有你想要的样子!</translation>
+        <translation type="vanished">你是从Gadu-Gadu或Trillian跑过来的而且想念那些酷的表情图标吗?  别紧张, 我们早有准备!  看看 &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt;, 有一大堆的 &quot;图标集&quot; 可以加到Psi里。让Psi有你想要的样子!</translation>
     </message>
     <message>
         <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will &quot;perform the default action&quot; on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
-        <translation>你知道在许多 Psi 的对象中, 单击中键 (3键鼠标中间那个按键) 会 &quot;执行默认的行动&quot; 吗?  在联系人上或弹出窗口上按按看中键吧。</translation>
+        <translation type="vanished">你知道在许多 Psi 的对象中, 单击中键 (3键鼠标中间那个按键) 会 &quot;执行默认的行动&quot; 吗?  在联系人上或弹出窗口上按按看中键吧。</translation>
     </message>
     <message>
         <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation>为了从不同的IM网络添加联系人，你要从你的XMPP服务器添加相应的代理。看一下Psi菜单 - &gt;服务发现。</translation>
+        <translation type="vanished">为了从不同的IM网络添加联系人，你要从你的XMPP服务器添加相应的代理。看一下Psi菜单 - &gt;服务发现。</translation>
     </message>
     <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
-        <translation>您可以用鼠标右键单击服务器名称名册中执行不同的行动。您可以更改状态，修改帐户设置，执行管理选项(如果您有权限)，以及更多。</translation>
+        <translation type="vanished">您可以用鼠标右键单击服务器名称名册中执行不同的行动。您可以更改状态，修改帐户设置，执行管理选项(如果您有权限)，以及更多。</translation>
     </message>
     <message>
         <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
 &lt;br&gt;&lt;br&gt;
 Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation>寻找一个运输或聊天室，但你的服务器提供没有适当的吗？使用PSI菜单 - &gt;服务发现看&lt;i&gt;a任何&lt;/i&gt; 的XMPP服务器很好的服务，通过在地址栏键入其领域。
+        <translation type="vanished">寻找一个运输或聊天室，但你的服务器提供没有适当的吗？使用PSI菜单 - &gt;服务发现看&lt;i&gt;a任何&lt;/i&gt; 的XMPP服务器很好的服务，通过在地址栏键入其领域。
 - 
 注:有些服务器可能会禁止车辆登记用户从不同的服务器上，但是这是不常见的。</translation>
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
-        <translation>如果你在群聊里聊天缺口完成相当频繁，是一个非常宝贵的功能。最有用的快捷键为&lt;tt&gt;标签标签&lt; / tt&gt;的新线开始使用时，或后一步插入谁最后直接解决你的人的绰号。然后，您可以继续按&lt;TT&gt;标签&lt; / tt&gt;的，它会循环上所有的人都在房间里的刻痕时对于较复杂的方案: &lt;TT&gt; mblsha &lt; / TT &gt; ，即&lt;tt&gt;怪物&lt;/ TT &gt;和&lt;tt&gt; MBL革命&lt;/ tt&gt;的都坐在同一个房间里。如果你写入&lt;TT&gt;米&lt; / TT &gt;按&lt;TT&gt;标签&lt;/ tt&gt;中也不会造成任何明显的行动。这是因为有多个缺口，开始使用&lt;tt&gt; M &lt; / TT &gt; ，你可以继续为&lt;tt&gt;标签&lt; / tt&gt;的所有开始使用&lt;tt&gt;米的缺口，通过循环&lt;/ P &gt;写字母越多，直到有一个独特的完成。当你按在&lt;tt&gt; B &lt; / tt&gt;的按钮，然后按&lt;TT&gt;标签&lt;/ P &gt;完成到&lt;tt&gt; MBL &lt; / TT &gt;。越多，您使用此功能，你越有可能来喜欢它，依赖它。有人尝试缺口完成，你就会意识到它是多么强大。</translation>
+        <translation type="vanished">如果你在群聊里聊天缺口完成相当频繁，是一个非常宝贵的功能。最有用的快捷键为&lt;tt&gt;标签标签&lt; / tt&gt;的新线开始使用时，或后一步插入谁最后直接解决你的人的绰号。然后，您可以继续按&lt;TT&gt;标签&lt; / tt&gt;的，它会循环上所有的人都在房间里的刻痕时对于较复杂的方案: &lt;TT&gt; mblsha &lt; / TT &gt; ，即&lt;tt&gt;怪物&lt;/ TT &gt;和&lt;tt&gt; MBL革命&lt;/ tt&gt;的都坐在同一个房间里。如果你写入&lt;TT&gt;米&lt; / TT &gt;按&lt;TT&gt;标签&lt;/ tt&gt;中也不会造成任何明显的行动。这是因为有多个缺口，开始使用&lt;tt&gt; M &lt; / TT &gt; ，你可以继续为&lt;tt&gt;标签&lt; / tt&gt;的所有开始使用&lt;tt&gt;米的缺口，通过循环&lt;/ P &gt;写字母越多，直到有一个独特的完成。当你按在&lt;tt&gt; B &lt; / tt&gt;的按钮，然后按&lt;TT&gt;标签&lt;/ P &gt;完成到&lt;tt&gt; MBL &lt; / TT &gt;。越多，您使用此功能，你越有可能来喜欢它，依赖它。有人尝试缺口完成，你就会意识到它是多么强大。</translation>
     </message>
     <message>
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation>这是最后一个提示。
+        <translation type="vanished">这是最后一个提示。
 &lt;br&gt;&lt;br&gt;如果你想要贡献你的 &quot;每日提示&quot;, 请发布在 &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi 论坛&lt;/a&gt; (或是寄给其中一个开发者), 我们会很高兴地把他包含在下一个版本中。</translation>
     </message>
     <message>
         <source>Contributed by</source>
-        <translation>贡献者</translation>
+        <translation type="vanished">贡献者</translation>
     </message>
     <message>
         <source>Hello! Thank you for downloading Psi!
@@ -16960,7 +17030,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation>哈罗! 谢谢你下载 Psi!
+        <translation type="vanished">哈罗! 谢谢你下载 Psi!
 我们希望你可以愉快地使用它, 如同我们愉快地撰写它一样!
 &lt;br&gt;&lt;br&gt;如果你想要下载另一个语言的翻译, 图标集或新版的 Psi, 那么你需要造访&lt;a href=&quot;https://psi-im.org&quot;&gt;Psi 首页&lt;/a&gt;。
 &lt;br&gt;&lt;br&gt;如果你想说你发现了一个漏洞或是你想要和其他 Psi 使用者对话, 那么请造访&lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi 论坛&lt;/a&gt;。
@@ -18852,7 +18922,7 @@ Reathorization...</source>
 重新授权</translation>
     </message>
     <message>
-        <source>Can't get files!
+        <source>Can&apos;t get files!
 Try remove cookies.</source>
         <translation>找不到文件！尝试移除 cookies.</translation>
     </message>
@@ -18942,7 +19012,7 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
