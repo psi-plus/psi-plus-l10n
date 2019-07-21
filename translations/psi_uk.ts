@@ -1568,11 +1568,11 @@ The list of exceptions for jids has two operating modes:
     <name>BOBFileShareDownloader</name>
     <message>
         <source>&quot;Bits Of Binary&quot; data source is offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Джерело даних &quot;Bits Of Binary&quot; знаходиться в автономному режимі</translation>
     </message>
     <message>
         <source>Download using &quot;Bits Of Binary&quot; failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка завантаження за допомогою &quot;Bits Of Binary&quot;</translation>
     </message>
 </context>
 <context>
@@ -2064,11 +2064,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Recording (%1 sec left)</source>
-        <translation type="unfinished"></translation>
+        <translation>Запис (%1 сек залишилось)</translation>
     </message>
     <message>
         <source>Record and share audio note while pressed</source>
-        <translation type="unfinished"></translation>
+        <translation>Записуйте та діліться звуковою нотою при натисканні</translation>
     </message>
 </context>
 <context>
@@ -4399,35 +4399,19 @@ that outgoing TCP connections are allowed.</source>
 <context>
     <name>FileShareDownloader::Private</name>
     <message>
-        <source>Bits of binary download failed</source>
-        <translation type="vanished">Завантаження Bits of binary не вдалося</translation>
-    </message>
-    <message>
-        <source>Invalid Jingle-FT uri</source>
-        <translation type="vanished">Недійсний Jingle-FT URI</translation>
-    </message>
-    <message>
-        <source>Unexpected content add</source>
-        <translation type="vanished">Неочікуваний вхідний контент</translation>
-    </message>
-    <message>
-        <source>Jingle download failed</source>
-        <translation type="vanished">Помилка Jingle завантаження</translation>
-    </message>
-    <message>
         <source>Download sources are not given</source>
-        <translation type="unfinished"></translation>
+        <translation>Джерела завантаження не отримані</translation>
     </message>
 </context>
 <context>
     <name>FileSharingItem</name>
     <message>
         <source>Published on HttpUpload service</source>
-        <translation type="unfinished"></translation>
+        <translation>Опубліковано на сервісі HttpUpload</translation>
     </message>
     <message>
         <source>Failed to publish on HttpUpload service</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося опублікувати на службі HttpUpload</translation>
     </message>
 </context>
 <context>
@@ -7141,19 +7125,19 @@ to play battleship. He wants to play %2.</source>
     <name>JingleFileShareDownloader</name>
     <message>
         <source>Jingle data source is offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Джерело даних Jingle перебуває в автономному режимі</translation>
     </message>
     <message>
         <source>Invalid Jingle-FT URI</source>
-        <translation type="unfinished"></translation>
+        <translation>Недійсний URI Jingle-FT</translation>
     </message>
     <message>
         <source>Unexpected incoming content</source>
-        <translation type="unfinished"></translation>
+        <translation>Неочікуваний вхідний вміст</translation>
     </message>
     <message>
         <source>Jingle download failed</source>
-        <translation type="unfinished">Помилка Jingle завантаження</translation>
+        <translation>Помилка Jingle завантаження</translation>
     </message>
 </context>
 <context>
@@ -7994,7 +7978,7 @@ Details: %1</source>
     <name>NAMFileShareDownloader</name>
     <message>
         <source>Unexpected HTTP status</source>
-        <translation type="unfinished"></translation>
+        <translation>Несподіваний статус HTTP</translation>
     </message>
 </context>
 <context>
