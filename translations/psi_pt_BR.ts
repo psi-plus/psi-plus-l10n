@@ -4141,7 +4141,7 @@ Esta opção terá efeito se o aceitar-padrão for falso.</translation>
     </message>
     <message>
         <source>Hide tab when close chat window</source>
-        <translation>Ocultar aba quando fechar janela de conversa</translation>
+        <translation type="vanished">Ocultar aba quando fechar janela de conversa</translation>
     </message>
     <message>
         <source>Allow closing inactive tabs</source>
@@ -8818,7 +8818,7 @@ Tags: %1</translation>
     </message>
     <message>
         <source>Delete chat window contents</source>
-        <translation>Remover conteúdo da janela de bate-papo</translation>
+        <translation type="vanished">Remover conteúdo da janela de bate-papo</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
@@ -8845,19 +8845,11 @@ Tags: %1</translation>
         <translation>&amp;Bate-Papo</translation>
     </message>
     <message>
-        <source>&amp;When chat window is closed</source>
+        <source>Size of preloaded history</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;One hour after chat window was closed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>One &amp;day after chat window was closed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Never</source>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9016,6 +9008,18 @@ Tags: %1</translation>
     <message>
         <source>Show character counter</source>
         <translation>Exibir contador de caracteres</translation>
+    </message>
+    <message>
+        <source>Tabs</source>
+        <translation type="unfinished">Abas</translation>
+    </message>
+    <message>
+        <source>Action for mouse middle click on tabs:</source>
+        <translation type="unfinished">Ação para o botão do meio do mouse nas abas:</translation>
+    </message>
+    <message>
+        <source>Action for mouse double click on tabs:</source>
+        <translation type="unfinished">Ação para clique-duplo do mouse nas abas:</translation>
     </message>
 </context>
 <context>
@@ -10706,19 +10710,19 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Esta opção não mantém o histórico de bate-papo em memória.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Esta opção não mantém o histórico de bate-papo em memória.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Esta opção mantém o histórico do bate-papo em memória por 1 hora antes de removê-lo.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Esta opção mantém o histórico do bate-papo em memória por 1 hora antes de removê-lo.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Esta opção mantém o histórico do bate-papo em memória por 1 dia antes de removê-lo.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Esta opção mantém o histórico do bate-papo em memória por 1 dia antes de removê-lo.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Esta opção mantém o histórico de bate-papo para sempre.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Esta opção mantém o histórico de bate-papo para sempre.&lt;/P&gt;</translation>
     </message>
 </context>
 <context>

@@ -4089,7 +4089,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Hide tab when close chat window</source>
-        <translation>Скриване на таб, когато се затвори прозореца за чат</translation>
+        <translation type="vanished">Скриване на таб, когато се затвори прозореца за чат</translation>
     </message>
     <message>
         <source>Allow closing inactive tabs</source>
@@ -8684,7 +8684,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Delete chat window contents</source>
-        <translation>Изтриване на съдържанието на чатовия прозорец</translation>
+        <translation type="vanished">Изтриване на съдържанието на чатовия прозорец</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
@@ -8716,19 +8716,27 @@ Tags: %1</source>
     </message>
     <message>
         <source>&amp;When chat window is closed</source>
-        <translation>&amp;Когато чатовият прозорец се затвори</translation>
+        <translation type="vanished">&amp;Когато чатовият прозорец се затвори</translation>
     </message>
     <message>
         <source>&amp;One hour after chat window was closed</source>
-        <translation>&amp;Един част, след като чатовия прозорец се затвори</translation>
+        <translation type="vanished">&amp;Един част, след като чатовия прозорец се затвори</translation>
     </message>
     <message>
         <source>One &amp;day after chat window was closed</source>
-        <translation>Един &amp;ден след като чатовия прозорец се затвори</translation>
+        <translation type="vanished">Един &amp;ден след като чатовия прозорец се затвори</translation>
     </message>
     <message>
         <source>&amp;Never</source>
-        <translation>&amp;Никога</translation>
+        <translation type="vanished">&amp;Никога</translation>
+    </message>
+    <message>
+        <source>Size of preloaded history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8886,6 +8894,18 @@ Tags: %1</source>
     <message>
         <source>Show character counter</source>
         <translation>Показване на броя на символите</translation>
+    </message>
+    <message>
+        <source>Tabs</source>
+        <translation type="unfinished">Подпрозорци</translation>
+    </message>
+    <message>
+        <source>Action for mouse middle click on tabs:</source>
+        <translation type="unfinished">Действие за кликване със среден бутон на мишката върху табовете:</translation>
+    </message>
+    <message>
+        <source>Action for mouse double click on tabs:</source>
+        <translation type="unfinished">Действие за двойно кликване с мишката върху табовете:</translation>
     </message>
 </context>
 <context>
@@ -10567,19 +10587,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Тази настройка не пази история на разговора.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Тази настройка не пази история на разговора.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Тази настройка запазва за 1 час историята на разговора, преди да я изтрие.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Тази настройка запазва за 1 час историята на разговора, преди да я изтрие.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Тази настройка запазва за 1 ден историята на разговора, преди да я изтрие.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Тази настройка запазва за 1 ден историята на разговора, преди да я изтрие.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Тази настройка запазва за постоянно историята на разговора.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Тази настройка запазва за постоянно историята на разговора.&lt;/P&gt;</translation>
     </message>
 </context>
 <context>

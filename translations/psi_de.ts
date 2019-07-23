@@ -4156,7 +4156,7 @@ folgenden Gruppenchats (JIDs eingeben)</translation>
     </message>
     <message>
         <source>Hide tab when close chat window</source>
-        <translation>Verstecke Tab beim Schließen des Chatfensters</translation>
+        <translation type="vanished">Verstecke Tab beim Schließen des Chatfensters</translation>
     </message>
     <message>
         <source>Allow closing inactive tabs</source>
@@ -8826,7 +8826,7 @@ Tags: %1</translation>
     </message>
     <message>
         <source>Delete chat window contents</source>
-        <translation>Inhalt des Chatfensters löschen</translation>
+        <translation type="vanished">Inhalt des Chatfensters löschen</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
@@ -8858,19 +8858,27 @@ Tags: %1</translation>
     </message>
     <message>
         <source>&amp;When chat window is closed</source>
-        <translation>&amp;Beim Schließen des Chatfensters</translation>
+        <translation type="vanished">&amp;Beim Schließen des Chatfensters</translation>
     </message>
     <message>
         <source>&amp;One hour after chat window was closed</source>
-        <translation>&amp;Eine Stunde nach dem Schließen des Chatfensters</translation>
+        <translation type="vanished">&amp;Eine Stunde nach dem Schließen des Chatfensters</translation>
     </message>
     <message>
         <source>One &amp;day after chat window was closed</source>
-        <translation>Einen &amp;Tag nach dem Schließen des Chatfensters</translation>
+        <translation type="vanished">Einen &amp;Tag nach dem Schließen des Chatfensters</translation>
     </message>
     <message>
         <source>&amp;Never</source>
-        <translation>&amp;Nie</translation>
+        <translation type="vanished">&amp;Nie</translation>
+    </message>
+    <message>
+        <source>Size of preloaded history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9028,6 +9036,18 @@ Tags: %1</translation>
     <message>
         <source>Show character counter</source>
         <translation>Zeichenzähler anzeigen</translation>
+    </message>
+    <message>
+        <source>Tabs</source>
+        <translation type="unfinished">Tabs</translation>
+    </message>
+    <message>
+        <source>Action for mouse middle click on tabs:</source>
+        <translation type="unfinished">Aktion für Mittelklick mit Maus auf Tabs:</translation>
+    </message>
+    <message>
+        <source>Action for mouse double click on tabs:</source>
+        <translation type="unfinished">Aktion für Doppelklick mit Maus auf Tabs:</translation>
     </message>
 </context>
 <context>
@@ -10715,19 +10735,19 @@ Aktiviere die &quot;Nachrichtenarchivierung&quot;-Option zur Verwendung!</transl
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Diese Option hält die Chatnachrichten nicht im Speicher.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Diese Option hält die Chatnachrichten nicht im Speicher.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Diese Option hält die Chatnachrichten eine Stunde im Speicher, bevor sie gelöscht werden.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Diese Option hält die Chatnachrichten eine Stunde im Speicher, bevor sie gelöscht werden.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Diese Option hält die Chatnachrichten einen Tag im Speicher, bevor sie gelöscht werden.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Diese Option hält die Chatnachrichten einen Tag im Speicher, bevor sie gelöscht werden.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Diese Option hält die Chatnachrichten für immer im Speicher.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Diese Option hält die Chatnachrichten für immer im Speicher.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>

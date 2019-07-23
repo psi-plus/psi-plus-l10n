@@ -4054,10 +4054,6 @@ This option only has effect if accept-defaults is false.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Hide tab when close chat window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Allow closing inactive tabs</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8537,7 +8533,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Delete chat window contents</source>
-        <translation>بات چیت دریچہ مشمولات حذف کریں</translation>
+        <translation type="vanished">بات چیت دریچہ مشمولات حذف کریں</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
@@ -8564,19 +8560,11 @@ Tags: %1</source>
         <translation>بات چیت کریں</translation>
     </message>
     <message>
-        <source>&amp;When chat window is closed</source>
+        <source>Size of preloaded history</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;One hour after chat window was closed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>One &amp;day after chat window was closed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Never</source>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8735,6 +8723,18 @@ Tags: %1</source>
     <message>
         <source>Show character counter</source>
         <translation>کریکٹر شمارندہ نمائش کریں</translation>
+    </message>
+    <message>
+        <source>Tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Action for mouse middle click on tabs:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Action for mouse double click on tabs:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10297,19 +10297,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation>&lt;P&gt; یہ اختیار میموری میں بات چیت لاگ نہیں رکھتا۔ &lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt; یہ اختیار میموری میں بات چیت لاگ نہیں رکھتا۔ &lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt; یہ اختیار بات چیت لاگ اسے حذف کرنے سے 1 گھنٹے پہلے تک رکھتا ہے۔ &lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt; یہ اختیار بات چیت لاگ اسے حذف کرنے سے 1 گھنٹے پہلے تک رکھتا ہے۔ &lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt; یہ اختیار بات چیت لاگ اسے حذف کرنے سے 1دن پہلے تک رکھتا ہے۔ &lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt; یہ اختیار بات چیت لاگ اسے حذف کرنے سے 1دن پہلے تک رکھتا ہے۔ &lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation>&lt;P&gt; یہ اختیاربات چیت لاگ ہمیشہ رکھتا ہے۔ &lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt; یہ اختیاربات چیت لاگ ہمیشہ رکھتا ہے۔ &lt;/P&gt;</translation>
     </message>
 </context>
 <context>

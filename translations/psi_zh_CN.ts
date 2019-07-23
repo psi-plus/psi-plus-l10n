@@ -4106,7 +4106,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Hide tab when close chat window</source>
-        <translation>当关闭聊天窗口时，隐藏标签</translation>
+        <translation type="vanished">当关闭聊天窗口时，隐藏标签</translation>
     </message>
     <message>
         <source>Allow closing inactive tabs</source>
@@ -8467,7 +8467,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Delete chat window contents</source>
-        <translation>删除对话窗口内容</translation>
+        <translation type="vanished">删除对话窗口内容</translation>
     </message>
     <message>
         <source>&amp;Message</source>
@@ -8479,19 +8479,27 @@ Tags: %1</source>
     </message>
     <message>
         <source>&amp;When chat window is closed</source>
-        <translation>当对话窗口已被关闭(&amp;W)</translation>
+        <translation type="vanished">当对话窗口已被关闭(&amp;W)</translation>
     </message>
     <message>
         <source>&amp;One hour after chat window was closed</source>
-        <translation>对话窗口已被关闭一小时后(&amp;O)</translation>
+        <translation type="vanished">对话窗口已被关闭一小时后(&amp;O)</translation>
     </message>
     <message>
         <source>One &amp;day after chat window was closed</source>
-        <translation>对话窗口已被关闭一天后(&amp;d)</translation>
+        <translation type="vanished">对话窗口已被关闭一天后(&amp;d)</translation>
     </message>
     <message>
         <source>&amp;Never</source>
-        <translation>从不(&amp;N)</translation>
+        <translation type="vanished">从不(&amp;N)</translation>
+    </message>
+    <message>
+        <source>Size of preloaded history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8649,6 +8657,18 @@ Tags: %1</source>
     <message>
         <source>Show character counter</source>
         <translation>显示字符计数器</translation>
+    </message>
+    <message>
+        <source>Tabs</source>
+        <translation type="unfinished">标签</translation>
+    </message>
+    <message>
+        <source>Action for mouse middle click on tabs:</source>
+        <translation type="unfinished">在标签上单击鼠标中键的动作:</translation>
+    </message>
+    <message>
+        <source>Action for mouse double click on tabs:</source>
+        <translation type="unfinished">在标签上双击鼠标中键的动作:</translation>
     </message>
 </context>
 <context>
@@ -10192,19 +10212,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;这个选项不会保留对话历史。&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;这个选项不会保留对话历史。&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;这个选项在对话历史删除前会保留 1 小时。&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;这个选项在对话历史删除前会保留 1 小时。&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;这个选项在对话历史删除前会保留 1 天。&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;这个选项在对话历史删除前会保留 1 天。&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;这个选项会永远保留对话纪录。&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;这个选项会永远保留对话纪录。&lt;/P&gt;</translation>
     </message>
 </context>
 <context>

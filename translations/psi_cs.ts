@@ -4134,7 +4134,7 @@ Toto nastavení má účinek pouze je-li akceptovat-výchozí vypnuto.</translat
     </message>
     <message>
         <source>Hide tab when close chat window</source>
-        <translation>Skrýt záložku při zavření okna chatu</translation>
+        <translation type="vanished">Skrýt záložku při zavření okna chatu</translation>
     </message>
     <message>
         <source>Allow closing inactive tabs</source>
@@ -8781,7 +8781,7 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Delete chat window contents</source>
-        <translation>Smazat obsah okna s chatem</translation>
+        <translation type="vanished">Smazat obsah okna s chatem</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
@@ -8808,19 +8808,11 @@ Tagy: %1</translation>
         <translation>&amp;Chat</translation>
     </message>
     <message>
-        <source>&amp;When chat window is closed</source>
+        <source>Size of preloaded history</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;One hour after chat window was closed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>One &amp;day after chat window was closed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Never</source>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8979,6 +8971,18 @@ Tagy: %1</translation>
     <message>
         <source>Show character counter</source>
         <translation>Zobrazit počítadlo znaků</translation>
+    </message>
+    <message>
+        <source>Tabs</source>
+        <translation type="unfinished">Záložky</translation>
+    </message>
+    <message>
+        <source>Action for mouse middle click on tabs:</source>
+        <translation type="unfinished">Akce na záložkách pro prostřední tlačítko myši:</translation>
+    </message>
+    <message>
+        <source>Action for mouse double click on tabs:</source>
+        <translation type="unfinished">Akce na záložkách pro dvojklik myši:</translation>
     </message>
 </context>
 <context>
@@ -10673,19 +10677,19 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Tato volba neuchovává záznamy chatu v paměti.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Tato volba neuchovává záznamy chatu v paměti.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Tato volba uchová záznamy chatu 1 hodinu než je smaže.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Tato volba uchová záznamy chatu 1 hodinu než je smaže.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Tato volba uchová záznamy chatu 1 den než budou smazány.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Tato volba uchová záznamy chatu 1 den než budou smazány.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Tato volba uchovává záznamy chatu navždy.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Tato volba uchovává záznamy chatu navždy.&lt;/P&gt;</translation>
     </message>
 </context>
 <context>

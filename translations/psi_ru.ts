@@ -4117,7 +4117,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Hide tab when close chat window</source>
-        <translation>Скрывать вкладки при закрытии окна чата</translation>
+        <translation type="vanished">Скрывать вкладки при закрытии окна чата</translation>
     </message>
     <message>
         <source>Allow closing inactive tabs</source>
@@ -8481,7 +8481,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Delete chat window contents</source>
-        <translation>Очищать окно чата</translation>
+        <translation type="vanished">Очищать окно чата</translation>
     </message>
     <message>
         <source>&amp;Message</source>
@@ -8493,19 +8493,27 @@ Tags: %1</source>
     </message>
     <message>
         <source>&amp;When chat window is closed</source>
-        <translation>&amp;При закрытии окна</translation>
+        <translation type="vanished">&amp;При закрытии окна</translation>
     </message>
     <message>
         <source>&amp;One hour after chat window was closed</source>
-        <translation>Ч&amp;ерез час после закрытия</translation>
+        <translation type="vanished">Ч&amp;ерез час после закрытия</translation>
     </message>
     <message>
         <source>One &amp;day after chat window was closed</source>
-        <translation>Через &amp;день после закрытия</translation>
+        <translation type="vanished">Через &amp;день после закрытия</translation>
     </message>
     <message>
         <source>&amp;Never</source>
-        <translation>&amp;Никогда</translation>
+        <translation type="vanished">&amp;Никогда</translation>
+    </message>
+    <message>
+        <source>Size of preloaded history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8663,6 +8671,18 @@ Tags: %1</source>
     <message>
         <source>Show character counter</source>
         <translation>Показывать счётчик символов</translation>
+    </message>
+    <message>
+        <source>Tabs</source>
+        <translation type="unfinished">Вкладки</translation>
+    </message>
+    <message>
+        <source>Action for mouse middle click on tabs:</source>
+        <translation type="unfinished">Эффект от нажатия колесом мыши на вкладке:</translation>
+    </message>
+    <message>
+        <source>Action for mouse double click on tabs:</source>
+        <translation type="unfinished">Эффект от двойного клика по вкладке:</translation>
     </message>
 </context>
 <context>
@@ -10213,19 +10233,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;При использовании этой опции история чата не хранится в памяти.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;При использовании этой опции история чата не хранится в памяти.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;При использовании этой опции история чата хранится в памяти в течение часа.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;При использовании этой опции история чата хранится в памяти в течение часа.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;При использовании этой опции история чата хранится в памяти в течение суток.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;При использовании этой опции история чата хранится в памяти в течение суток.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;При использовании этой опции история чата хранится в памяти всегда.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;При использовании этой опции история чата хранится в памяти всегда.&lt;/P&gt;</translation>
     </message>
 </context>
 <context>

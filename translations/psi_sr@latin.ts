@@ -4110,7 +4110,7 @@ Ova opcija jedino ima efekta ako je podrazumevani pristup na false.</translation
     </message>
     <message>
         <source>Hide tab when close chat window</source>
-        <translation>Sakrij karticu kad zatvoriš prozor za razgovor</translation>
+        <translation type="vanished">Sakrij karticu kad zatvoriš prozor za razgovor</translation>
     </message>
     <message>
         <source>Allow closing inactive tabs</source>
@@ -8777,7 +8777,7 @@ Kartice: %1</translation>
     </message>
     <message>
         <source>Delete chat window contents</source>
-        <translation>Ukloni sadržaj prozora za razovor</translation>
+        <translation type="vanished">Ukloni sadržaj prozora za razovor</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
@@ -8804,19 +8804,11 @@ Kartice: %1</translation>
         <translation>&amp;Razgovor</translation>
     </message>
     <message>
-        <source>&amp;When chat window is closed</source>
+        <source>Size of preloaded history</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;One hour after chat window was closed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>One &amp;day after chat window was closed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Never</source>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8975,6 +8967,18 @@ Kartice: %1</translation>
     <message>
         <source>Show character counter</source>
         <translation>Prikaži brojač znakova</translation>
+    </message>
+    <message>
+        <source>Tabs</source>
+        <translation type="unfinished">Kartice</translation>
+    </message>
+    <message>
+        <source>Action for mouse middle click on tabs:</source>
+        <translation type="unfinished">Akrija za srednji klik na karticama:</translation>
+    </message>
+    <message>
+        <source>Action for mouse double click on tabs:</source>
+        <translation type="unfinished">Akrija za dupli klik na karticama:</translation>
     </message>
 </context>
 <context>
@@ -10643,19 +10647,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation>&lt;p&gt;Ovom opcijom se dnevnik razgovora ne čuva u memoriji.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;Ovom opcijom se dnevnik razgovora ne čuva u memoriji.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;p&gt;Ovom opcijom se dnevnik razgovora čuva 1 sat pre nego što se izbriše.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;Ovom opcijom se dnevnik razgovora čuva 1 sat pre nego što se izbriše.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;p&gt;Ovom opcijom se dnevnik razgovora čuva 1 dan pre nego što se izbriše.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;Ovom opcijom se dnevnik razgovora čuva 1 dan pre nego što se izbriše.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation>&lt;p&gt;Ovom opcijom se trajno čuva dnevnik razgovora .&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;Ovom opcijom se trajno čuva dnevnik razgovora .&lt;/p&gt;</translation>
     </message>
 </context>
 <context>

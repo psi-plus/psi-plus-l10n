@@ -4109,7 +4109,7 @@ Ta opcja działa tylko jeżeli nie zaakceptowano domyślnej</translation>
     </message>
     <message>
         <source>Hide tab when close chat window</source>
-        <translation>Ukryj kartę przy zamknięciu okna rozmowy</translation>
+        <translation type="vanished">Ukryj kartę przy zamknięciu okna rozmowy</translation>
     </message>
     <message>
         <source>Allow closing inactive tabs</source>
@@ -8708,7 +8708,7 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     </message>
     <message>
         <source>Delete chat window contents</source>
-        <translation>Usuń zawartość okna rozmowy</translation>
+        <translation type="vanished">Usuń zawartość okna rozmowy</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
@@ -8735,19 +8735,11 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
         <translation>&amp;Rozmowa</translation>
     </message>
     <message>
-        <source>&amp;When chat window is closed</source>
+        <source>Size of preloaded history</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;One hour after chat window was closed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>One &amp;day after chat window was closed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Never</source>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8906,6 +8898,18 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     <message>
         <source>Show character counter</source>
         <translation>Pokazuj licznik znaków</translation>
+    </message>
+    <message>
+        <source>Tabs</source>
+        <translation type="unfinished">Zakłdki</translation>
+    </message>
+    <message>
+        <source>Action for mouse middle click on tabs:</source>
+        <translation type="unfinished">Akcja dla kliknięcia środkowym klawiszem myszy na kartach:</translation>
+    </message>
+    <message>
+        <source>Action for mouse double click on tabs:</source>
+        <translation type="unfinished">Akcja dla podwójnego kliknięcia myszą na kartach:</translation>
     </message>
 </context>
 <context>
@@ -10541,19 +10545,19 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Ta opcja powoduje, że historia rozmowy nie będzie zachowana w pamięci.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Ta opcja powoduje, że historia rozmowy nie będzie zachowana w pamięci.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Ta opcja powoduje, że historia rozmowy będzie zachowana tylko jedną godzinę.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Ta opcja powoduje, że historia rozmowy będzie zachowana tylko jedną godzinę.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Ta opcja powoduje, że historia rozmowy będzie zachowana tylko jeden dzień.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Ta opcja powoduje, że historia rozmowy będzie zachowana tylko jeden dzień.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Ta opcja powoduje, że historia rozmowy będzie zachowana na stałe.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Ta opcja powoduje, że historia rozmowy będzie zachowana na stałe.&lt;/P&gt;</translation>
     </message>
 </context>
 <context>

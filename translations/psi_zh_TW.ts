@@ -4121,7 +4121,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Hide tab when close chat window</source>
-        <translation>當關閉聊天視窗時，隱藏標籤</translation>
+        <translation type="vanished">當關閉聊天視窗時，隱藏標籤</translation>
     </message>
     <message>
         <source>Allow closing inactive tabs</source>
@@ -8816,7 +8816,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Delete chat window contents</source>
-        <translation>刪除對話視窗內容</translation>
+        <translation type="vanished">刪除對話視窗內容</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
@@ -8843,19 +8843,11 @@ Tags: %1</source>
         <translation>對話(&amp;C)</translation>
     </message>
     <message>
-        <source>&amp;When chat window is closed</source>
+        <source>Size of preloaded history</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;One hour after chat window was closed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>One &amp;day after chat window was closed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Never</source>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9014,6 +9006,18 @@ Tags: %1</source>
     <message>
         <source>Show character counter</source>
         <translation>顯示字元計數器</translation>
+    </message>
+    <message>
+        <source>Tabs</source>
+        <translation type="unfinished">標籤</translation>
+    </message>
+    <message>
+        <source>Action for mouse middle click on tabs:</source>
+        <translation type="unfinished">在標籤上按一下滑鼠中鍵的動作:</translation>
+    </message>
+    <message>
+        <source>Action for mouse double click on tabs:</source>
+        <translation type="unfinished">在標籤上按兩下滑鼠中鍵的動作:</translation>
     </message>
 </context>
 <context>
@@ -10689,19 +10693,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;這個選項不會保留對話歷史。&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;這個選項不會保留對話歷史。&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;這個選項在對話歷史刪除前會保留 1 小時。&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;這個選項在對話歷史刪除前會保留 1 小時。&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;這個選項在對話歷史刪除前會保留 1 天。&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;這個選項在對話歷史刪除前會保留 1 天。&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;這個選項會永遠保留對話紀錄。&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;這個選項會永遠保留對話紀錄。&lt;/P&gt;</translation>
     </message>
 </context>
 <context>

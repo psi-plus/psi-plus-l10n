@@ -4134,7 +4134,7 @@ Ez az opció csak akkor működik, ha az alapértelmezések elfogadása ki van k
     </message>
     <message>
         <source>Hide tab when close chat window</source>
-        <translation>Fül elrejtése beszélgetésablak bezárásakor</translation>
+        <translation type="vanished">Fül elrejtése beszélgetésablak bezárásakor</translation>
     </message>
     <message>
         <source>Allow closing inactive tabs</source>
@@ -8811,7 +8811,7 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Delete chat window contents</source>
-        <translation>A beszélgetésablak tartalmának törlése</translation>
+        <translation type="vanished">A beszélgetésablak tartalmának törlése</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
@@ -8838,19 +8838,11 @@ Címkék: %1</translation>
         <translation>&amp;Beszélgetés</translation>
     </message>
     <message>
-        <source>&amp;When chat window is closed</source>
+        <source>Size of preloaded history</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;One hour after chat window was closed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>One &amp;day after chat window was closed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Never</source>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9009,6 +9001,18 @@ Címkék: %1</translation>
     <message>
         <source>Show character counter</source>
         <translation>Karakterszámláló megjelenítése</translation>
+    </message>
+    <message>
+        <source>Tabs</source>
+        <translation type="unfinished">Fülek</translation>
+    </message>
+    <message>
+        <source>Action for mouse middle click on tabs:</source>
+        <translation type="unfinished">Középső egérgomb szerepe füleken:</translation>
+    </message>
+    <message>
+        <source>Action for mouse double click on tabs:</source>
+        <translation type="unfinished">Dupla kattintás szerepe füleken:</translation>
     </message>
 </context>
 <context>
@@ -10700,19 +10704,19 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Ne őrizze meg a naplót.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Ne őrizze meg a naplót.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Napló megőrzése 1 órán át, az ablak bezárása után.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Napló megőrzése 1 órán át, az ablak bezárása után.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Napló megőrzése 1 napon át, az ablak bezárása után.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Napló megőrzése 1 napon át, az ablak bezárása után.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Ne törölje a naplót.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Ne törölje a naplót.&lt;/P&gt;</translation>
     </message>
 </context>
 <context>

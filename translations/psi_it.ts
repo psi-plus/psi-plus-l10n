@@ -4155,7 +4155,7 @@ Questa opzione ha effetto solo se accetta automaticamente è disattivata.</trans
     </message>
     <message>
         <source>Hide tab when close chat window</source>
-        <translation>Nascondi scheda quando chiudi la finestra di chat</translation>
+        <translation type="vanished">Nascondi scheda quando chiudi la finestra di chat</translation>
     </message>
     <message>
         <source>Allow closing inactive tabs</source>
@@ -8839,7 +8839,7 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Delete chat window contents</source>
-        <translation>Cancella i contenuti della finestra di chat</translation>
+        <translation type="vanished">Cancella i contenuti della finestra di chat</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
@@ -8871,19 +8871,27 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>&amp;When chat window is closed</source>
-        <translation>&amp;Quando la finestra di chat è chiusa</translation>
+        <translation type="vanished">&amp;Quando la finestra di chat è chiusa</translation>
     </message>
     <message>
         <source>&amp;One hour after chat window was closed</source>
-        <translation>&amp;Un&apos;ora dopo che la finestra di chat è stata chiusa</translation>
+        <translation type="vanished">&amp;Un&apos;ora dopo che la finestra di chat è stata chiusa</translation>
     </message>
     <message>
         <source>One &amp;day after chat window was closed</source>
-        <translation>Un &amp;giorno dopo che la finestra di chat è stata chiusa</translation>
+        <translation type="vanished">Un &amp;giorno dopo che la finestra di chat è stata chiusa</translation>
     </message>
     <message>
         <source>&amp;Never</source>
-        <translation>&amp;Mai</translation>
+        <translation type="vanished">&amp;Mai</translation>
+    </message>
+    <message>
+        <source>Size of preloaded history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9041,6 +9049,18 @@ Argomento MUC per esempio.</translation>
     <message>
         <source>Show character counter</source>
         <translation>Mostra il contatore dei caratteri</translation>
+    </message>
+    <message>
+        <source>Tabs</source>
+        <translation type="unfinished">Schede</translation>
+    </message>
+    <message>
+        <source>Action for mouse middle click on tabs:</source>
+        <translation type="unfinished">Azione del click tasto centrale sulle schede:</translation>
+    </message>
+    <message>
+        <source>Action for mouse double click on tabs:</source>
+        <translation type="unfinished">Azione del doppio click sulle schede:</translation>
     </message>
 </context>
 <context>
@@ -10734,19 +10754,19 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Questa opzione non permette che il registro della chat sia conservato.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Questa opzione non permette che il registro della chat sia conservato.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Questa opzione conserva il registro della chat per 1ora prima di cancellarlo.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Questa opzione conserva il registro della chat per 1ora prima di cancellarlo.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Questa opzione conserva il registro della chat per 1 giorno prima di cancellarlo.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Questa opzione conserva il registro della chat per 1 giorno prima di cancellarlo.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Questa opzione conserva il registro della chat per sempre.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Questa opzione conserva il registro della chat per sempre.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>

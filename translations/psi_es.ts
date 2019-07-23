@@ -4133,7 +4133,7 @@ Esta opción solo tiene efecto si accept-defaults está en falso.</translation>
     </message>
     <message>
         <source>Hide tab when close chat window</source>
-        <translation>Ocultar pestaña al cerrar la ventana de conversación</translation>
+        <translation type="vanished">Ocultar pestaña al cerrar la ventana de conversación</translation>
     </message>
     <message>
         <source>Allow closing inactive tabs</source>
@@ -8810,7 +8810,7 @@ Etiquetas: %1</translation>
     </message>
     <message>
         <source>Delete chat window contents</source>
-        <translation>Borrar contenido de la ventana de conversación</translation>
+        <translation type="vanished">Borrar contenido de la ventana de conversación</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
@@ -8837,19 +8837,11 @@ Etiquetas: %1</translation>
         <translation>&amp;Conversar</translation>
     </message>
     <message>
-        <source>&amp;When chat window is closed</source>
+        <source>Size of preloaded history</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;One hour after chat window was closed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>One &amp;day after chat window was closed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Never</source>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9008,6 +9000,18 @@ Etiquetas: %1</translation>
     <message>
         <source>Show character counter</source>
         <translation>Mostrar contador de caracteres</translation>
+    </message>
+    <message>
+        <source>Tabs</source>
+        <translation type="unfinished">Pestañas</translation>
+    </message>
+    <message>
+        <source>Action for mouse middle click on tabs:</source>
+        <translation type="unfinished">Acción al hacer click con el botón central del ratón sobre pestañas:</translation>
+    </message>
+    <message>
+        <source>Action for mouse double click on tabs:</source>
+        <translation type="unfinished">Acción al hacer doble click en pestañas:</translation>
     </message>
 </context>
 <context>
@@ -10694,19 +10698,19 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Esta opción no mantiene el registro del historial de conversaciones en memoria.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Esta opción no mantiene el registro del historial de conversaciones en memoria.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Esta opción mantiene el registro del historial de conversaciones durante una hora.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Esta opción mantiene el registro del historial de conversaciones durante una hora.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Esta opción mantiene el registro del historial de conversaciones durante un día.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Esta opción mantiene el registro del historial de conversaciones durante un día.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Esta opción mantiene el registro del historial de conversaciones para siempre.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Esta opción mantiene el registro del historial de conversaciones para siempre.&lt;/P&gt;</translation>
     </message>
 </context>
 <context>

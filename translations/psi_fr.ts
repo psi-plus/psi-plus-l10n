@@ -4129,7 +4129,7 @@ Cette option n&apos;est active que si l&apos;acceptation de la configuration par
     </message>
     <message>
         <source>Hide tab when close chat window</source>
-        <translation>Cacher l&apos;onglet à la fermeture de la fenêtre de discussion</translation>
+        <translation type="vanished">Cacher l&apos;onglet à la fermeture de la fenêtre de discussion</translation>
     </message>
     <message>
         <source>Allow closing inactive tabs</source>
@@ -8711,7 +8711,7 @@ Labels : %1</translation>
     </message>
     <message>
         <source>Delete chat window contents</source>
-        <translation>Supprimer le contenu de la fenêtre de discussion</translation>
+        <translation type="vanished">Supprimer le contenu de la fenêtre de discussion</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
@@ -8743,19 +8743,19 @@ Labels : %1</translation>
     </message>
     <message>
         <source>&amp;When chat window is closed</source>
-        <translation>&amp;Quand la fenêtre de discussion est fermée</translation>
-    </message>
-    <message>
-        <source>&amp;One hour after chat window was closed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>One &amp;day after chat window was closed</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;Quand la fenêtre de discussion est fermée</translation>
     </message>
     <message>
         <source>&amp;Never</source>
-        <translation>&amp;Jamais</translation>
+        <translation type="vanished">&amp;Jamais</translation>
+    </message>
+    <message>
+        <source>Size of preloaded history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8913,6 +8913,18 @@ Labels : %1</translation>
     <message>
         <source>Show character counter</source>
         <translation>Afficher le compteur de caractères</translation>
+    </message>
+    <message>
+        <source>Tabs</source>
+        <translation type="unfinished">Onglets</translation>
+    </message>
+    <message>
+        <source>Action for mouse middle click on tabs:</source>
+        <translation type="unfinished">Action du clic milieu sur les onglets :</translation>
+    </message>
+    <message>
+        <source>Action for mouse double click on tabs:</source>
+        <translation type="unfinished">Action du double-clic sur les onglets :</translation>
     </message>
 </context>
 <context>
@@ -10592,19 +10604,19 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Cette option ne conserve pas l&apos;historique de discussion en mémoire.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Cette option ne conserve pas l&apos;historique de discussion en mémoire.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Cette option conserve l&apos;historique de discussion pendant 1 heure avant de le supprimer&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Cette option conserve l&apos;historique de discussion pendant 1 heure avant de le supprimer&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Cette option conserve l&apos;historique de discussion pendant 1 journée avant de le supprimer&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Cette option conserve l&apos;historique de discussion pendant 1 journée avant de le supprimer&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Cette option conserve l&apos;historique de discussion indéfiniment.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Cette option conserve l&apos;historique de discussion indéfiniment.&lt;/P&gt;</translation>
     </message>
 </context>
 <context>
