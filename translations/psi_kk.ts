@@ -1006,15 +1006,6 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>ActionsList</name>
-    <message>
-        <source> Enable Off the Record Chat.
-When checked, the server will not
-save the history for this contact.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>ActiveProfiles</name>
     <message>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
@@ -5526,54 +5517,6 @@ You lost the game.</source>
     </message>
 </context>
 <context>
-    <name>GmailNotifyPlugin</name>
-    <message>
-        <source>No-save state for contact %1 is changed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Settings for an account %1 are changed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shared Status for an account %1 is updated</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attributes for contact %1 are changed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose a sound file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sound (*.wav)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose a program</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Block gmail contact</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shows notifications of new messages in your Gmailbox.
-Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>Gnome3StatusWatcher</name>
     <message>
         <source>Authors: </source>
@@ -9498,93 +9441,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Supported accounts:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>There is no supported accounts!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Account Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> If set to &quot;true&quot;, the server will send
- notifications of unread email.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mail notifications</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> If set to &quot;true&quot;, the server will save
- Google Talk chats on the server;
- if set to &quot;false&quot;, no conversations
- will be logged.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Message archiving</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> If set to &quot;true&quot;, the server will
- automatically add people emailed
- often to the user&apos;s roster.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Auto-accept suggestions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> Enable multiple applications signed in
- as the same user to report the same
- status message. </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable Shared Statuses</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> Google Talk server disables server-side
- logging of individual conversations and
- sends notifications.
- Enable &quot;Message archiving&quot; option for use!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable Off the Record Chats</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> Enable &quot;Mail notifications&quot; option!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mail Notifications Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show all unread messages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show new messages only</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Start program:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17158,52 +17014,28 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
 <context>
     <name>ViewMailDlg</name>
     <message>
-        <source>E-Mail</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>From:</source>
-        <translation>Кімнен:</translation>
+        <translation type="vanished">Кімнен:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation>Тақырыбы:</translation>
-    </message>
-    <message>
-        <source>Account:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open mail in browser</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open MailBox</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Тақырыбы:</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation>Алдыңғы</translation>
+        <translation type="vanished">Алдыңғы</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation>Келесі</translation>
+        <translation type="vanished">Келесі</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Жабу</translation>
+        <translation type="vanished">Жабу</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>Жа&amp;бу</translation>
-    </message>
-    <message>
-        <source>[%1/%2] E-Mail</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Жа&amp;бу</translation>
     </message>
 </context>
 <context>

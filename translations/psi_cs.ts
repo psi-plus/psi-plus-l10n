@@ -1051,7 +1051,7 @@ Zdůvodnění: %1</translation>
         <source> Enable Off the Record Chat.
 When checked, the server will not
 save the history for this contact.</source>
-        <translation> Zapne chat mimo záznam.
+        <translation type="vanished"> Zapne chat mimo záznam.
 Pokud je zaškrtnuto, server si nebude
 ukládat historii pro tento kontakt.</translation>
     </message>
@@ -5660,48 +5660,48 @@ Hra je prohraná.</translation>
     <name>GmailNotifyPlugin</name>
     <message>
         <source>No-save state for contact %1 is changed</source>
-        <translation>Stav Neukládat kontaktu %1 byl změněn</translation>
+        <translation type="vanished">Stav Neukládat kontaktu %1 byl změněn</translation>
     </message>
     <message>
         <source>Settings for an account %1 are changed</source>
-        <translation>Nastavení pro účet %1 jsou uložena</translation>
+        <translation type="vanished">Nastavení pro účet %1 jsou uložena</translation>
     </message>
     <message>
         <source>Shared Status for an account %1 is updated</source>
-        <translation>Sdílený stav účtu %1 byl aktualizován</translation>
+        <translation type="vanished">Sdílený stav účtu %1 byl aktualizován</translation>
     </message>
     <message>
         <source>Attributes for contact %1 are changed</source>
-        <translation>Vlastnosti kontaktu %1 se změnili</translation>
+        <translation type="vanished">Vlastnosti kontaktu %1 se změnili</translation>
     </message>
     <message>
         <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
-        <translation>&lt;b&gt;mail.google.com - příchozí pošta!&lt;/b&gt;</translation>
+        <translation type="vanished">&lt;b&gt;mail.google.com - příchozí pošta!&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation>Vyber soubor se zvukem</translation>
+        <translation type="vanished">Vyber soubor se zvukem</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation>Zvuk (*.wav)</translation>
+        <translation type="vanished">Zvuk (*.wav)</translation>
     </message>
     <message>
         <source>Choose a program</source>
-        <translation>Vyber program</translation>
+        <translation type="vanished">Vyber program</translation>
     </message>
     <message>
         <source>Block gmail contact</source>
-        <translation>Blokovat kontakt z gmailu</translation>
+        <translation type="vanished">Blokovat kontakt z gmailu</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation>Autoři: </translation>
+        <translation type="vanished">Autoři: </translation>
     </message>
     <message>
         <source>Shows notifications of new messages in your Gmailbox.
 Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
-        <translation>Zobrazuje oznámení o nových zprávách ve tvé schránce Gmail.
+        <translation type="vanished">Zobrazuje oznámení o nových zprávách ve tvé schránce Gmail.
 Pozn.: zásuvný modul kontroluje pro nové zprávy pouze kořenovou složku příchozí pošty schránky Gmail. Pokud používáš e-mailové filtry na straně serveru, nemusíš být upozorněn na všechny nové zprávy.</translation>
     </message>
 </context>
@@ -9896,71 +9896,71 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Supported accounts:</source>
-        <translation>Podporované účty:</translation>
+        <translation type="vanished">Podporované účty:</translation>
     </message>
     <message>
         <source>There is no supported accounts!</source>
-        <translation>Žádný podporovaný účet!</translation>
+        <translation type="vanished">Žádný podporovaný účet!</translation>
     </message>
     <message>
         <source>Account Settings</source>
-        <translation>Nastavení účtu</translation>
+        <translation type="vanished">Nastavení účtu</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will send
  notifications of unread email.</source>
-        <translation> Při nastavení, server pošle oznámení
+        <translation type="vanished"> Při nastavení, server pošle oznámení
  o nepřečtených e-mailech.</translation>
     </message>
     <message>
         <source>Mail notifications</source>
-        <translation>Oznámení e-mailů</translation>
+        <translation type="vanished">Oznámení e-mailů</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will save
  Google Talk chats on the server;
  if set to &quot;false&quot;, no conversations
  will be logged.</source>
-        <translation> Při nastavení, server bude ukládat
+        <translation type="vanished"> Při nastavení, server bude ukládat
  chaty Google Talku na serveru;
  pokud ne, nebudou konverzace
  logovány.</translation>
     </message>
     <message>
         <source>Message archiving</source>
-        <translation>Archivování zpráv</translation>
+        <translation type="vanished">Archivování zpráv</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will
  automatically add people emailed
  often to the user&apos;s roster.</source>
-        <translation> Při nastavení bude server
+        <translation type="vanished"> Při nastavení bude server
  automaticky přidávat lidi,
  kteří často dostávají e-mail
  na seznam kontaktů uživatele.</translation>
     </message>
     <message>
         <source>Auto-accept suggestions</source>
-        <translation>Automaticky přijímat návrhy</translation>
+        <translation type="vanished">Automaticky přijímat návrhy</translation>
     </message>
     <message>
         <source> Enable multiple applications signed in
  as the same user to report the same
  status message. </source>
-        <translation> Povolit vícero aplikací příhlašených
+        <translation type="vanished"> Povolit vícero aplikací příhlašených
  na stejného uživatele, aby udávali
  stejnou stavovou zprávu.</translation>
     </message>
     <message>
         <source>Enable Shared Statuses</source>
-        <translation>Povolit sdílené stavy</translation>
+        <translation type="vanished">Povolit sdílené stavy</translation>
     </message>
     <message>
         <source> Google Talk server disables server-side
  logging of individual conversations and
  sends notifications.
  Enable &quot;Message archiving&quot; option for use!</source>
-        <translation> Google Talk server zakazuje logování
+        <translation type="vanished"> Google Talk server zakazuje logování
  na serveru individuálních konverzací
  a oznámení o odeslaní.
  Povol nastavení &quot;Archivace zpráv&quot; pro
@@ -9968,31 +9968,31 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enable Off the Record Chats</source>
-        <translation>Povolit nezaznamenávané chaty</translation>
+        <translation type="vanished">Povolit nezaznamenávané chaty</translation>
     </message>
     <message>
         <source> Enable &quot;Mail notifications&quot; option!</source>
-        <translation> Povol &quot;Oznámení e-mailů&quot;!</translation>
+        <translation type="vanished"> Povol &quot;Oznámení e-mailů&quot;!</translation>
     </message>
     <message>
         <source>Mail Notifications Settings</source>
-        <translation>Nastavení oznámení e-mailů</translation>
+        <translation type="vanished">Nastavení oznámení e-mailů</translation>
     </message>
     <message>
         <source>Show all unread messages</source>
-        <translation>Zobrazovat všechny nepřečtené zprávy</translation>
+        <translation type="vanished">Zobrazovat všechny nepřečtené zprávy</translation>
     </message>
     <message>
         <source>Show new messages only</source>
-        <translation>Zobrazovat pouze nové zprávy</translation>
+        <translation type="vanished">Zobrazovat pouze nové zprávy</translation>
     </message>
     <message>
         <source>Start program:</source>
-        <translation>Spustit program:</translation>
+        <translation type="vanished">Spustit program:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Manager</source>
@@ -17805,51 +17805,51 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <name>ViewMailDlg</name>
     <message>
         <source>E-Mail</source>
-        <translation>E-mail</translation>
+        <translation type="vanished">E-mail</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation>Od:</translation>
+        <translation type="vanished">Od:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation>Věc:</translation>
+        <translation type="vanished">Věc:</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation>Účet: </translation>
+        <translation type="vanished">Účet: </translation>
     </message>
     <message>
         <source>Open mail in browser</source>
-        <translation>Otevřít mail v prohlížeči</translation>
+        <translation type="vanished">Otevřít mail v prohlížeči</translation>
     </message>
     <message>
         <source>Open MailBox</source>
-        <translation>Otevřít poštovní schránku</translation>
+        <translation type="vanished">Otevřít poštovní schránku</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation>Předchozí</translation>
+        <translation type="vanished">Předchozí</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation>Další</translation>
+        <translation type="vanished">Další</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Zavřít</translation>
+        <translation type="vanished">Zavřít</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Zavřít</translation>
+        <translation type="vanished">&amp;Zavřít</translation>
     </message>
     <message>
         <source>[%1/%2] E-Mail</source>
-        <translation>[%1/%2] E-mail</translation>
+        <translation type="vanished">[%1/%2] E-mail</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation>Otevřít v prohlížeči</translation>
+        <translation type="vanished">Otevřít v prohlížeči</translation>
     </message>
 </context>
 <context>

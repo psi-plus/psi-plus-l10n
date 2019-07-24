@@ -1033,7 +1033,7 @@ Reason: %1</source>
         <source> Enable Off the Record Chat.
 When checked, the server will not
 save the history for this contact.</source>
-        <translation>Вимкнути запис чату.
+        <translation type="vanished">Вимкнути запис чату.
 Якщо встановлено, сервер не буде
 зберігати історію для цього контакту.</translation>
     </message>
@@ -5539,48 +5539,48 @@ You lost the game.</source>
     <name>GmailNotifyPlugin</name>
     <message>
         <source>No-save state for contact %1 is changed</source>
-        <translation>Відключення історії для контакту %1 встановлено</translation>
+        <translation type="vanished">Відключення історії для контакту %1 встановлено</translation>
     </message>
     <message>
         <source>Settings for an account %1 are changed</source>
-        <translation>Налаштування аккаунту %1 змінено</translation>
+        <translation type="vanished">Налаштування аккаунту %1 змінено</translation>
     </message>
     <message>
         <source>Shared Status for an account %1 is updated</source>
-        <translation>Загальний статус для аккаунту %1 оновлено</translation>
+        <translation type="vanished">Загальний статус для аккаунту %1 оновлено</translation>
     </message>
     <message>
         <source>Attributes for contact %1 are changed</source>
-        <translation>Атрибути для контакту %1 змінено</translation>
+        <translation type="vanished">Атрибути для контакту %1 змінено</translation>
     </message>
     <message>
         <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
-        <translation>&lt;b&gt;mail.google.com - вхідна пошта!&lt;/b&gt;</translation>
+        <translation type="vanished">&lt;b&gt;mail.google.com - вхідна пошта!&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation>Вибрати звуковий файл</translation>
+        <translation type="vanished">Вибрати звуковий файл</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation>Звуковий файл (*.wav)</translation>
+        <translation type="vanished">Звуковий файл (*.wav)</translation>
     </message>
     <message>
         <source>Choose a program</source>
-        <translation>Вибрати програму</translation>
+        <translation type="vanished">Вибрати програму</translation>
     </message>
     <message>
         <source>Block gmail contact</source>
-        <translation>Заблокувати gmail контакт</translation>
+        <translation type="vanished">Заблокувати gmail контакт</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation>Автори: </translation>
+        <translation type="vanished">Автори: </translation>
     </message>
     <message>
         <source>Shows notifications of new messages in your Gmailbox.
 Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
-        <translation>Даний плагін показує повідомлення про надходження нових листів до поштової скриньки Gmail.
+        <translation type="vanished">Даний плагін показує повідомлення про надходження нових листів до поштової скриньки Gmail.
 Примітка: плагін перевіряє корінь директорії &quot;Вхідні&quot; на предмет наявності нових листів. Якщо фільтрація (пересортування) листів здійснюється безпосередньо на сервері Gmail, то повідомлень про нову поштою не буде.</translation>
     </message>
 </context>
@@ -9473,100 +9473,100 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Supported accounts:</source>
-        <translation>Підтримувані акаунти:</translation>
+        <translation type="vanished">Підтримувані акаунти:</translation>
     </message>
     <message>
         <source>There is no supported accounts!</source>
-        <translation>Немає підтримуваних акаунтів!</translation>
+        <translation type="vanished">Немає підтримуваних акаунтів!</translation>
     </message>
     <message>
         <source>Account Settings</source>
-        <translation>Налаштування акаунту</translation>
+        <translation type="vanished">Налаштування акаунту</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will send
  notifications of unread email.</source>
-        <translation> Якщо встановлено, сервер буде надсилати
+        <translation type="vanished"> Якщо встановлено, сервер буде надсилати
  оповіщення про листи, що не прочитано.</translation>
     </message>
     <message>
         <source>Mail notifications</source>
-        <translation>Поштові оповіщення</translation>
+        <translation type="vanished">Поштові оповіщення</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will save
  Google Talk chats on the server;
  if set to &quot;false&quot;, no conversations
  will be logged.</source>
-        <translation> Якщо встановлено, на сервері Google Talk
+        <translation type="vanished"> Якщо встановлено, на сервері Google Talk
  будуть зберігатися чати.
  Якщо не встановлено, ніякі чати
  не буде збережено.</translation>
     </message>
     <message>
         <source>Message archiving</source>
-        <translation>Архівація повідомлень</translation>
+        <translation type="vanished">Архівація повідомлень</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will
  automatically add people emailed
  often to the user&apos;s roster.</source>
-        <translation> Якщо встановлено, сервер буде автоматично
+        <translation type="vanished"> Якщо встановлено, сервер буде автоматично
  додавати найчастіщі контакти з електронної пошти
   до ростеру користувача.</translation>
     </message>
     <message>
         <source>Auto-accept suggestions</source>
-        <translation>Автоматично приймати пропозиції</translation>
+        <translation type="vanished">Автоматично приймати пропозиції</translation>
     </message>
     <message>
         <source> Enable multiple applications signed in
  as the same user to report the same
  status message. </source>
-        <translation> Дозволяє декільком програмам, що
+        <translation type="vanished"> Дозволяє декільком програмам, що
  підключені до одного й того ж акаунту,
  мати однаковий статус.</translation>
     </message>
     <message>
         <source>Enable Shared Statuses</source>
-        <translation>Дозволити загальні статуси</translation>
+        <translation type="vanished">Дозволити загальні статуси</translation>
     </message>
     <message>
         <source> Google Talk server disables server-side
  logging of individual conversations and
  sends notifications.
  Enable &quot;Message archiving&quot; option for use!</source>
-        <translation> Google Talk сервер відключає збереження
+        <translation type="vanished"> Google Talk сервер відключає збереження
  історії на сервері для певних контактів.
  Для роботи опції необхідно включити &quot;Архівація повідомлень&quot;!</translation>
     </message>
     <message>
         <source>Enable Off the Record Chats</source>
-        <translation>Відключити запис чатів</translation>
+        <translation type="vanished">Відключити запис чатів</translation>
     </message>
     <message>
         <source> Enable &quot;Mail notifications&quot; option!</source>
-        <translation>Включити &quot;Поштові оповіщення&quot;!</translation>
+        <translation type="vanished">Включити &quot;Поштові оповіщення&quot;!</translation>
     </message>
     <message>
         <source>Mail Notifications Settings</source>
-        <translation>Параметри поштових оповіщень</translation>
+        <translation type="vanished">Параметри поштових оповіщень</translation>
     </message>
     <message>
         <source>Show all unread messages</source>
-        <translation>Показувати всі повідомлення, що не прочитано</translation>
+        <translation type="vanished">Показувати всі повідомлення, що не прочитано</translation>
     </message>
     <message>
         <source>Show new messages only</source>
-        <translation>Показувати тільки нові повідомлення</translation>
+        <translation type="vanished">Показувати тільки нові повідомлення</translation>
     </message>
     <message>
         <source>Start program:</source>
-        <translation>Запустити програму:</translation>
+        <translation type="vanished">Запустити програму:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Опис (в інтернеті)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Опис (в інтернеті)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Manager</source>
@@ -17377,51 +17377,51 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <name>ViewMailDlg</name>
     <message>
         <source>E-Mail</source>
-        <translation>E-Mail</translation>
+        <translation type="vanished">E-Mail</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation>Від:</translation>
+        <translation type="vanished">Від:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation>Тема:</translation>
+        <translation type="vanished">Тема:</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation>Аккаунт:</translation>
+        <translation type="vanished">Аккаунт:</translation>
     </message>
     <message>
         <source>Open mail in browser</source>
-        <translation>Відкрити пошту у браузері</translation>
+        <translation type="vanished">Відкрити пошту у браузері</translation>
     </message>
     <message>
         <source>Open MailBox</source>
-        <translation>Відкрити поштову скриньку</translation>
+        <translation type="vanished">Відкрити поштову скриньку</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation>Попереднє</translation>
+        <translation type="vanished">Попереднє</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation>Наступне</translation>
+        <translation type="vanished">Наступне</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Закрити</translation>
+        <translation type="vanished">Закрити</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Закрити</translation>
+        <translation type="vanished">&amp;Закрити</translation>
     </message>
     <message>
         <source>[%1/%2] E-Mail</source>
-        <translation>[%1/%2] E-Mail</translation>
+        <translation type="vanished">[%1/%2] E-Mail</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation>Відкрити у браузері</translation>
+        <translation type="vanished">Відкрити у браузері</translation>
     </message>
 </context>
 <context>

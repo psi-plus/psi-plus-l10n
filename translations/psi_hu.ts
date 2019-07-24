@@ -1051,7 +1051,7 @@ Oka: %1</translation>
         <source> Enable Off the Record Chat.
 When checked, the server will not
 save the history for this contact.</source>
-        <translation>Off The Record csevegés bekapcsolása.
+        <translation type="vanished">Off The Record csevegés bekapcsolása.
 Ha engedélyezett, a szerver nem
 naplóz ennél az ismerősnél.</translation>
     </message>
@@ -5665,48 +5665,48 @@ Vesztettél.</translation>
     <name>GmailNotifyPlugin</name>
     <message>
         <source>No-save state for contact %1 is changed</source>
-        <translation>Nincs-mentés állapot megváltozott ennél %1</translation>
+        <translation type="vanished">Nincs-mentés állapot megváltozott ennél %1</translation>
     </message>
     <message>
         <source>Settings for an account %1 are changed</source>
-        <translation>%1 fiók beállításai megváltoztak</translation>
+        <translation type="vanished">%1 fiók beállításai megváltoztak</translation>
     </message>
     <message>
         <source>Shared Status for an account %1 is updated</source>
-        <translation>%1 fiók megosztott állapota megváltozott</translation>
+        <translation type="vanished">%1 fiók megosztott állapota megváltozott</translation>
     </message>
     <message>
         <source>Attributes for contact %1 are changed</source>
-        <translation>%1 tulajdonságai megváltoztak</translation>
+        <translation type="vanished">%1 tulajdonságai megváltoztak</translation>
     </message>
     <message>
         <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
-        <translation>&lt;b&gt;mail.google.com - bejövő e-mail!&lt;/b&gt;</translation>
+        <translation type="vanished">&lt;b&gt;mail.google.com - bejövő e-mail!&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation>Hangfájl kiválasztása</translation>
+        <translation type="vanished">Hangfájl kiválasztása</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation>Hang (*.wav)</translation>
+        <translation type="vanished">Hang (*.wav)</translation>
     </message>
     <message>
         <source>Choose a program</source>
-        <translation>Program kiválasztása</translation>
+        <translation type="vanished">Program kiválasztása</translation>
     </message>
     <message>
         <source>Block gmail contact</source>
-        <translation>Gmail ismerős letiltása</translation>
+        <translation type="vanished">Gmail ismerős letiltása</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation>Szerzők: </translation>
+        <translation type="vanished">Szerzők: </translation>
     </message>
     <message>
         <source>Shows notifications of new messages in your Gmailbox.
 Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
-        <translation>Gmailbox-od beérkező leveleiről értesít.
+        <translation type="vanished">Gmailbox-od beérkező leveleiről értesít.
 Megjegyzés: A kiegészítő csak az &apos;Inbox&apos; mappát ellenőrzi, ha szerveroldali szűrést használsz, nem biztos, hogy minden új üzenetről értesít.</translation>
     </message>
 </context>
@@ -9926,101 +9926,101 @@ Elérhető, és csak azután kattints a &quot;Születésnapok frissítése&quot;
     </message>
     <message>
         <source>Supported accounts:</source>
-        <translation>Támogatott fiókok:</translation>
+        <translation type="vanished">Támogatott fiókok:</translation>
     </message>
     <message>
         <source>There is no supported accounts!</source>
-        <translation>Nincsenek támogatott fiókok!</translation>
+        <translation type="vanished">Nincsenek támogatott fiókok!</translation>
     </message>
     <message>
         <source>Account Settings</source>
-        <translation>Fiók beállítások</translation>
+        <translation type="vanished">Fiók beállítások</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will send
  notifications of unread email.</source>
-        <translation>Ha az érték &quot;Igaz/True&quot;, a szerver 
+        <translation type="vanished">Ha az érték &quot;Igaz/True&quot;, a szerver 
 értesítést küld az olvasatlan e-mailekről.</translation>
     </message>
     <message>
         <source>Mail notifications</source>
-        <translation>E-mail értesítések</translation>
+        <translation type="vanished">E-mail értesítések</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will save
  Google Talk chats on the server;
  if set to &quot;false&quot;, no conversations
  will be logged.</source>
-        <translation>Ha az érték &quot;Igaz/True&quot;, a szerver menti
+        <translation type="vanished">Ha az érték &quot;Igaz/True&quot;, a szerver menti
 a Google Talk beszélgetéseket a szerveren;
 ha az érték &quot;Hamis/False&quot;, egyetlen beszélgetés
 sem lesz naplózva.</translation>
     </message>
     <message>
         <source>Message archiving</source>
-        <translation>Üzenetarchiváló</translation>
+        <translation type="vanished">Üzenetarchiváló</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will
  automatically add people emailed
  often to the user&apos;s roster.</source>
-        <translation>Ha az érték &quot;Igaz/True&quot;, a szerver
+        <translation type="vanished">Ha az érték &quot;Igaz/True&quot;, a szerver
 automatikusan hozzáadja az e-mail címzettjét
 általában a felhasználó címlistájához.</translation>
     </message>
     <message>
         <source>Auto-accept suggestions</source>
-        <translation>Javaslatok automatikus elfogadása</translation>
+        <translation type="vanished">Javaslatok automatikus elfogadása</translation>
     </message>
     <message>
         <source> Enable multiple applications signed in
  as the same user to report the same
  status message. </source>
-        <translation>Ha engedélyezett, minden kliensről, amiről
+        <translation type="vanished">Ha engedélyezett, minden kliensről, amiről
 ugyanaz a felhasználó van bejelentkezve, ugyanazt
 az állapotüzenetet fogja jelenteni.</translation>
     </message>
     <message>
         <source>Enable Shared Statuses</source>
-        <translation>Megosztott állapotok engedélyezése</translation>
+        <translation type="vanished">Megosztott állapotok engedélyezése</translation>
     </message>
     <message>
         <source> Google Talk server disables server-side
  logging of individual conversations and
  sends notifications.
  Enable &quot;Message archiving&quot; option for use!</source>
-        <translation>A Google Talk szerver kikapcsolja a szerveroldali
+        <translation type="vanished">A Google Talk szerver kikapcsolja a szerveroldali
 naplózást az egyéni beszélgetéseknél és
 értesítéseket küld.
 Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Enable Off the Record Chats</source>
-        <translation>Off The Record (OTR)-beszélgetések bekapcsolása</translation>
+        <translation type="vanished">Off The Record (OTR)-beszélgetések bekapcsolása</translation>
     </message>
     <message>
         <source> Enable &quot;Mail notifications&quot; option!</source>
-        <translation>Be kell kapcsolni az &quot;E-mail értesítés&quot; opciót!</translation>
+        <translation type="vanished">Be kell kapcsolni az &quot;E-mail értesítés&quot; opciót!</translation>
     </message>
     <message>
         <source>Mail Notifications Settings</source>
-        <translation>E-mail értesítések beállításai</translation>
+        <translation type="vanished">E-mail értesítések beállításai</translation>
     </message>
     <message>
         <source>Show all unread messages</source>
-        <translation>Összes olvasatlan üzenetet mutatása</translation>
+        <translation type="vanished">Összes olvasatlan üzenetet mutatása</translation>
     </message>
     <message>
         <source>Show new messages only</source>
-        <translation>Csak az új üzenetek mutatása</translation>
+        <translation type="vanished">Csak az új üzenetek mutatása</translation>
     </message>
     <message>
         <source>Start program:</source>
-        <translation>Program indítása:</translation>
+        <translation type="vanished">Program indítása:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Manager</source>
@@ -17822,51 +17822,51 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <name>ViewMailDlg</name>
     <message>
         <source>E-Mail</source>
-        <translation>E-mail</translation>
+        <translation type="vanished">E-mail</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation>Feladó:</translation>
+        <translation type="vanished">Feladó:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation>Tárgy:</translation>
+        <translation type="vanished">Tárgy:</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation>Fiók:</translation>
+        <translation type="vanished">Fiók:</translation>
     </message>
     <message>
         <source>Open mail in browser</source>
-        <translation>Levél megnyitása a böngészőben</translation>
+        <translation type="vanished">Levél megnyitása a böngészőben</translation>
     </message>
     <message>
         <source>Open MailBox</source>
-        <translation>Postaláda megnyitása</translation>
+        <translation type="vanished">Postaláda megnyitása</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation>Előző</translation>
+        <translation type="vanished">Előző</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation>Következő</translation>
+        <translation type="vanished">Következő</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Bezárás</translation>
+        <translation type="vanished">Bezárás</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Bezárás</translation>
+        <translation type="vanished">&amp;Bezárás</translation>
     </message>
     <message>
         <source>[%1/%2] E-Mail</source>
-        <translation>[%1/%2] E-mail</translation>
+        <translation type="vanished">[%1/%2] E-mail</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation>Megnyitás a böngészőben</translation>
+        <translation type="vanished">Megnyitás a böngészőben</translation>
     </message>
 </context>
 <context>

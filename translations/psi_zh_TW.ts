@@ -1051,7 +1051,7 @@ Reason: %1</source>
         <source> Enable Off the Record Chat.
 When checked, the server will not
 save the history for this contact.</source>
-        <translation>當檢驗時，不能啟用聊天記錄，伺服器將不保存該連絡人的歷史記錄。</translation>
+        <translation type="vanished">當檢驗時，不能啟用聊天記錄，伺服器將不保存該連絡人的歷史記錄。</translation>
     </message>
 </context>
 <context>
@@ -5648,48 +5648,48 @@ You lost the game.</source>
     <name>GmailNotifyPlugin</name>
     <message>
         <source>No-save state for contact %1 is changed</source>
-        <translation>未對聯繫%1的狀態進行更改</translation>
+        <translation type="vanished">未對聯繫%1的狀態進行更改</translation>
     </message>
     <message>
         <source>Settings for an account %1 are changed</source>
-        <translation>帳戶%1的設置態是變化的</translation>
+        <translation type="vanished">帳戶%1的設置態是變化的</translation>
     </message>
     <message>
         <source>Shared Status for an account %1 is updated</source>
-        <translation>帳戶%1的共用狀態是更新的</translation>
+        <translation type="vanished">帳戶%1的共用狀態是更新的</translation>
     </message>
     <message>
         <source>Attributes for contact %1 are changed</source>
-        <translation>未對聯繫%1的屬性進行更改</translation>
+        <translation type="vanished">未對聯繫%1的屬性進行更改</translation>
     </message>
     <message>
         <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
-        <translation>&lt;b&gt;郵件.google.com - 來件!&lt;/b&gt;</translation>
+        <translation type="vanished">&lt;b&gt;郵件.google.com - 來件!&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation>選擇一個音訊檔</translation>
+        <translation type="vanished">選擇一個音訊檔</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation>音訊檔(*.wav)</translation>
+        <translation type="vanished">音訊檔(*.wav)</translation>
     </message>
     <message>
         <source>Choose a program</source>
-        <translation>選擇程式</translation>
+        <translation type="vanished">選擇程式</translation>
     </message>
     <message>
         <source>Block gmail contact</source>
-        <translation>阻止gmail連絡人</translation>
+        <translation type="vanished">阻止gmail連絡人</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation>作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>Shows notifications of new messages in your Gmailbox.
 Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
-        <translation>在您的gmailbox裡顯示新資訊的通知。
+        <translation type="vanished">在您的gmailbox裡顯示新資訊的通知。
 注:外掛程式只檢查您的gmailbox裡的收件箱資料夾裡的新郵件。當使用伺服器端的郵件過濾時，可能不會通知您所有的新郵件.</translation>
     </message>
 </context>
@@ -9926,91 +9926,91 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Supported accounts:</source>
-        <translation>支持帳戶:</translation>
+        <translation type="vanished">支持帳戶:</translation>
     </message>
     <message>
         <source>There is no supported accounts!</source>
-        <translation>沒有支持的帳戶</translation>
+        <translation type="vanished">沒有支持的帳戶</translation>
     </message>
     <message>
         <source>Account Settings</source>
-        <translation>設置帳戶</translation>
+        <translation type="vanished">設置帳戶</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will send
  notifications of unread email.</source>
-        <translation>如果設置為“真”，伺服器將發送未讀電子郵件通知</translation>
+        <translation type="vanished">如果設置為“真”，伺服器將發送未讀電子郵件通知</translation>
     </message>
     <message>
         <source>Mail notifications</source>
-        <translation>郵件通知</translation>
+        <translation type="vanished">郵件通知</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will save
  Google Talk chats on the server;
  if set to &quot;false&quot;, no conversations
  will be logged.</source>
-        <translation>如果設置為“真”，伺服器將保存穀歌聊天；如果設置為“假”，則沒有對話日誌記錄。</translation>
+        <translation type="vanished">如果設置為“真”，伺服器將保存穀歌聊天；如果設置為“假”，則沒有對話日誌記錄。</translation>
     </message>
     <message>
         <source>Message archiving</source>
-        <translation>郵件歸檔</translation>
+        <translation type="vanished">郵件歸檔</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will
  automatically add people emailed
  often to the user&apos;s roster.</source>
-        <translation>如果設置為“真”，伺服器將郵件通常連絡人加入用戶的花名冊</translation>
+        <translation type="vanished">如果設置為“真”，伺服器將郵件通常連絡人加入用戶的花名冊</translation>
     </message>
     <message>
         <source>Auto-accept suggestions</source>
-        <translation>自動接收建議</translation>
+        <translation type="vanished">自動接收建議</translation>
     </message>
     <message>
         <source> Enable multiple applications signed in
  as the same user to report the same
  status message. </source>
-        <translation>作為同一個用戶報告相同狀態訊息，啟用多個應用程式簽署</translation>
+        <translation type="vanished">作為同一個用戶報告相同狀態訊息，啟用多個應用程式簽署</translation>
     </message>
     <message>
         <source>Enable Shared Statuses</source>
-        <translation>啟用共用狀態</translation>
+        <translation type="vanished">啟用共用狀態</translation>
     </message>
     <message>
         <source> Google Talk server disables server-side
  logging of individual conversations and
  sends notifications.
  Enable &quot;Message archiving&quot; option for use!</source>
-        <translation>google Talk伺服器禁止伺服器端的個體對話登入以及發送通告
+        <translation type="vanished">google Talk伺服器禁止伺服器端的個體對話登入以及發送通告
 啟用“資訊歸檔”使用選項！</translation>
     </message>
     <message>
         <source>Enable Off the Record Chats</source>
-        <translation>禁用聊天記錄</translation>
+        <translation type="vanished">禁用聊天記錄</translation>
     </message>
     <message>
         <source> Enable &quot;Mail notifications&quot; option!</source>
-        <translation>啟用“郵件通知”選項</translation>
+        <translation type="vanished">啟用“郵件通知”選項</translation>
     </message>
     <message>
         <source>Mail Notifications Settings</source>
-        <translation>設置郵件通知</translation>
+        <translation type="vanished">設置郵件通知</translation>
     </message>
     <message>
         <source>Show all unread messages</source>
-        <translation>顯示所有未讀的資訊</translation>
+        <translation type="vanished">顯示所有未讀的資訊</translation>
     </message>
     <message>
         <source>Show new messages only</source>
-        <translation>只顯示新資訊</translation>
+        <translation type="vanished">只顯示新資訊</translation>
     </message>
     <message>
         <source>Start program:</source>
-        <translation>啟動程式:</translation>
+        <translation type="vanished">啟動程式:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (線上)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (線上)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Manager</source>
@@ -17847,51 +17847,51 @@ GNOME M程式師的工作不需要額外的配置。</translation>
     <name>ViewMailDlg</name>
     <message>
         <source>E-Mail</source>
-        <translation>郵件</translation>
+        <translation type="vanished">郵件</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation>從:</translation>
+        <translation type="vanished">從:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation>主題:</translation>
+        <translation type="vanished">主題:</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation>帳戶:</translation>
+        <translation type="vanished">帳戶:</translation>
     </message>
     <message>
         <source>Open mail in browser</source>
-        <translation>在流覽器中打開郵件</translation>
+        <translation type="vanished">在流覽器中打開郵件</translation>
     </message>
     <message>
         <source>Open MailBox</source>
-        <translation>打開郵箱</translation>
+        <translation type="vanished">打開郵箱</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation>以前的</translation>
+        <translation type="vanished">以前的</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation>接下去</translation>
+        <translation type="vanished">接下去</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>關閉</translation>
+        <translation type="vanished">關閉</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>關閉</translation>
+        <translation type="vanished">關閉</translation>
     </message>
     <message>
         <source>[%1/%2] E-Mail</source>
-        <translation>[%1/%2]電子郵件</translation>
+        <translation type="vanished">[%1/%2]電子郵件</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation>在流覽器中打開</translation>
+        <translation type="vanished">在流覽器中打開</translation>
     </message>
 </context>
 <context>

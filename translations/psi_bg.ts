@@ -1009,7 +1009,7 @@ Reason: %1</source>
         <source> Enable Off the Record Chat.
 When checked, the server will not
 save the history for this contact.</source>
-        <translation>Активиране на Извън Протокола Чат
+        <translation type="vanished">Активиране на Извън Протокола Чат
 Когато е избрано, сървърът не ще
 пази история за този контакт. </translation>
     </message>
@@ -5608,49 +5608,45 @@ You lost the game.</source>
 <context>
     <name>GmailNotifyPlugin</name>
     <message>
-        <source>No-save state for contact %1 is changed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Settings for an account %1 are changed</source>
-        <translation>Настройките за акаунт %1 са променени</translation>
+        <translation type="vanished">Настройките за акаунт %1 са променени</translation>
     </message>
     <message>
         <source>Shared Status for an account %1 is updated</source>
-        <translation>Споделянето на Статус за акаунт %1 е обновено</translation>
+        <translation type="vanished">Споделянето на Статус за акаунт %1 е обновено</translation>
     </message>
     <message>
         <source>Attributes for contact %1 are changed</source>
-        <translation>Атрибутите на контакт %1 са променени</translation>
+        <translation type="vanished">Атрибутите на контакт %1 са променени</translation>
     </message>
     <message>
         <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
-        <translation>&lt;b&gt;mail.google.com - входяща поща!&lt;/b&gt;</translation>
+        <translation type="vanished">&lt;b&gt;mail.google.com - входяща поща!&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation>Избор на звуков файл</translation>
+        <translation type="vanished">Избор на звуков файл</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation>Звук (*.wav)</translation>
+        <translation type="vanished">Звук (*.wav)</translation>
     </message>
     <message>
         <source>Choose a program</source>
-        <translation>Избор на програма</translation>
+        <translation type="vanished">Избор на програма</translation>
     </message>
     <message>
         <source>Block gmail contact</source>
-        <translation>Блокиране на gmail контакт</translation>
+        <translation type="vanished">Блокиране на gmail контакт</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation>Автори:</translation>
+        <translation type="vanished">Автори:</translation>
     </message>
     <message>
         <source>Shows notifications of new messages in your Gmailbox.
 Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
-        <translation>Показванен на известия за нови съобщения във вашата Gmailbox.
+        <translation type="vanished">Показванен на известия за нови съобщения във вашата Gmailbox.
 Забележка: Тази добавка проверява корената директория на вашата Входяща кутия във вашия Gmailbox за нови съобщения. Когато се използва филтиране на сървъра, може да не бъдете уведомени за всички нови съобщения.</translation>
     </message>
 </context>
@@ -9819,92 +9815,59 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Supported accounts:</source>
-        <translation>Поддържани акаунти:</translation>
+        <translation type="vanished">Поддържани акаунти:</translation>
     </message>
     <message>
         <source>There is no supported accounts!</source>
-        <translation>Няма поддържани акаунти!</translation>
+        <translation type="vanished">Няма поддържани акаунти!</translation>
     </message>
     <message>
         <source>Account Settings</source>
-        <translation>Настройки на Акаунт</translation>
-    </message>
-    <message>
-        <source> If set to &quot;true&quot;, the server will send
- notifications of unread email.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Настройки на Акаунт</translation>
     </message>
     <message>
         <source>Mail notifications</source>
-        <translation>Известия по ел. поща</translation>
-    </message>
-    <message>
-        <source> If set to &quot;true&quot;, the server will save
- Google Talk chats on the server;
- if set to &quot;false&quot;, no conversations
- will be logged.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Известия по ел. поща</translation>
     </message>
     <message>
         <source>Message archiving</source>
-        <translation>Архивиране на съобщение</translation>
-    </message>
-    <message>
-        <source> If set to &quot;true&quot;, the server will
- automatically add people emailed
- often to the user&apos;s roster.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Архивиране на съобщение</translation>
     </message>
     <message>
         <source>Auto-accept suggestions</source>
-        <translation>Автоматично приемане на предложения</translation>
+        <translation type="vanished">Автоматично приемане на предложения</translation>
     </message>
     <message>
         <source> Enable multiple applications signed in
  as the same user to report the same
  status message. </source>
-        <translation>Позволяване на множество приложения вписани
+        <translation type="vanished">Позволяване на множество приложения вписани
 със същия потребител да показват еднакво
 статусно съобщение.</translation>
     </message>
     <message>
         <source>Enable Shared Statuses</source>
-        <translation>Позволяване на Споделени Статуси</translation>
-    </message>
-    <message>
-        <source> Google Talk server disables server-side
- logging of individual conversations and
- sends notifications.
- Enable &quot;Message archiving&quot; option for use!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable Off the Record Chats</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Позволяване на Споделени Статуси</translation>
     </message>
     <message>
         <source> Enable &quot;Mail notifications&quot; option!</source>
-        <translation>Включване на настройката &quot;Известия по ел. поща&quot;!</translation>
+        <translation type="vanished">Включване на настройката &quot;Известия по ел. поща&quot;!</translation>
     </message>
     <message>
         <source>Mail Notifications Settings</source>
-        <translation>Настройки за Известия по ел. поща</translation>
+        <translation type="vanished">Настройки за Известия по ел. поща</translation>
     </message>
     <message>
         <source>Show all unread messages</source>
-        <translation>Показване на всички непрочетени съобщения</translation>
+        <translation type="vanished">Показване на всички непрочетени съобщения</translation>
     </message>
     <message>
         <source>Show new messages only</source>
-        <translation>Показване само на нови съобщения</translation>
+        <translation type="vanished">Показване само на нови съобщения</translation>
     </message>
     <message>
         <source>Start program:</source>
-        <translation>Стартиране на програма:</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Стартиране на програма:</translation>
     </message>
     <message>
         <source>Manager</source>
@@ -17594,51 +17557,35 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <name>ViewMailDlg</name>
     <message>
         <source>E-Mail</source>
-        <translation>Е-поща</translation>
+        <translation type="vanished">Е-поща</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation>От:</translation>
+        <translation type="vanished">От:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation>Относно:</translation>
+        <translation type="vanished">Относно:</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation>Акаунт:</translation>
-    </message>
-    <message>
-        <source>Open mail in browser</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open MailBox</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Акаунт:</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation>Назад</translation>
+        <translation type="vanished">Назад</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation>Напред</translation>
+        <translation type="vanished">Напред</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Затваряне</translation>
+        <translation type="vanished">Затваряне</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Затваряне</translation>
-    </message>
-    <message>
-        <source>[%1/%2] E-Mail</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;Затваряне</translation>
     </message>
 </context>
 <context>

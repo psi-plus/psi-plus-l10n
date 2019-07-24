@@ -1070,7 +1070,7 @@ Grund: %1</translation>
         <source> Enable Off the Record Chat.
 When checked, the server will not
 save the history for this contact.</source>
-        <translation>Aktiviere Off-the-Record Chat.
+        <translation type="vanished">Aktiviere Off-the-Record Chat.
 Wenn gewählt, wird der Server keine
 Chronik für diesen Kontakt speichern.</translation>
     </message>
@@ -5687,48 +5687,48 @@ You lost the game.</source>
     <name>GmailNotifyPlugin</name>
     <message>
         <source>No-save state for contact %1 is changed</source>
-        <translation>Nicht-Speichern-Status für den Kontakt %1 ist geändert</translation>
+        <translation type="vanished">Nicht-Speichern-Status für den Kontakt %1 ist geändert</translation>
     </message>
     <message>
         <source>Settings for an account %1 are changed</source>
-        <translation>Einstellungen für ein Konto %1 sind geändert</translation>
+        <translation type="vanished">Einstellungen für ein Konto %1 sind geändert</translation>
     </message>
     <message>
         <source>Shared Status for an account %1 is updated</source>
-        <translation>Geteilter Status für Konto %1 ist aktualisiert</translation>
+        <translation type="vanished">Geteilter Status für Konto %1 ist aktualisiert</translation>
     </message>
     <message>
         <source>Attributes for contact %1 are changed</source>
-        <translation>Attribute für den Kontakt %1 sind geändert</translation>
+        <translation type="vanished">Attribute für den Kontakt %1 sind geändert</translation>
     </message>
     <message>
         <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
-        <translation>&lt;b&gt;mail.google.com - Eingehende E-Mail!&lt;/b&gt;</translation>
+        <translation type="vanished">&lt;b&gt;mail.google.com - Eingehende E-Mail!&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation>Klangdatei wählen</translation>
+        <translation type="vanished">Klangdatei wählen</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation>Klangdatei (*.wav)</translation>
+        <translation type="vanished">Klangdatei (*.wav)</translation>
     </message>
     <message>
         <source>Choose a program</source>
-        <translation>Ein Programm auswählen</translation>
+        <translation type="vanished">Ein Programm auswählen</translation>
     </message>
     <message>
         <source>Block gmail contact</source>
-        <translation>Blockiere gmail Kontakt</translation>
+        <translation type="vanished">Blockiere gmail Kontakt</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation>Autoren: </translation>
+        <translation type="vanished">Autoren: </translation>
     </message>
     <message>
         <source>Shows notifications of new messages in your Gmailbox.
 Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
-        <translation>Zeigt Benachrichtugungen von neuen Nachrichten Ihrer GMailBox.
+        <translation type="vanished">Zeigt Benachrichtugungen von neuen Nachrichten Ihrer GMailBox.
 Anmerkung: Das Plugin überprüft lediglich das Hauptverzeichnis Ihres Posteingangsordners auf neue Nachrichten. Wenn serverseitige Mailfilterung benutzt wird, könnten Sie nicht über alle Nachrichten benachrichtigt werden.</translation>
     </message>
 </context>
@@ -9961,91 +9961,91 @@ online sind und drücken Sie dann &quot;Geburtstage aktualisieren&quot;. Dies da
     </message>
     <message>
         <source>Supported accounts:</source>
-        <translation>Unterstützte Konten:</translation>
+        <translation type="vanished">Unterstützte Konten:</translation>
     </message>
     <message>
         <source>There is no supported accounts!</source>
-        <translation>Es gibt keine unterstützten Konten!</translation>
+        <translation type="vanished">Es gibt keine unterstützten Konten!</translation>
     </message>
     <message>
         <source>Account Settings</source>
-        <translation>Konto Einstellungen</translation>
+        <translation type="vanished">Konto Einstellungen</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will send
  notifications of unread email.</source>
-        <translation>Falls aktiviert, sendet der Server Benachrichtigungen über ungelesene E-Mails.</translation>
+        <translation type="vanished">Falls aktiviert, sendet der Server Benachrichtigungen über ungelesene E-Mails.</translation>
     </message>
     <message>
         <source>Mail notifications</source>
-        <translation>Mail Benachrichtungen</translation>
+        <translation type="vanished">Mail Benachrichtungen</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will save
  Google Talk chats on the server;
  if set to &quot;false&quot;, no conversations
  will be logged.</source>
-        <translation>Falls aktiviert, werden Google-Talk-Chats auf dem Server gespeichert, ansonsten werden keine Konversationen gespeichert.</translation>
+        <translation type="vanished">Falls aktiviert, werden Google-Talk-Chats auf dem Server gespeichert, ansonsten werden keine Konversationen gespeichert.</translation>
     </message>
     <message>
         <source>Message archiving</source>
-        <translation>Nachrichtenarchivierung</translation>
+        <translation type="vanished">Nachrichtenarchivierung</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will
  automatically add people emailed
  often to the user&apos;s roster.</source>
-        <translation>Falls aktiviert, werden Kontakte mit denen häufig E-Mails ausgetauscht werden automatisch zur Kontaktliste hinzugefügt.</translation>
+        <translation type="vanished">Falls aktiviert, werden Kontakte mit denen häufig E-Mails ausgetauscht werden automatisch zur Kontaktliste hinzugefügt.</translation>
     </message>
     <message>
         <source>Auto-accept suggestions</source>
-        <translation>Autom. Vorschläge akzeptieren</translation>
+        <translation type="vanished">Autom. Vorschläge akzeptieren</translation>
     </message>
     <message>
         <source> Enable multiple applications signed in
  as the same user to report the same
  status message. </source>
-        <translation>Aktiviere das Melden der selben Statusnachricht für mehrere Anwendungen, die als der selbe Nutzer angemeldet sind.</translation>
+        <translation type="vanished">Aktiviere das Melden der selben Statusnachricht für mehrere Anwendungen, die als der selbe Nutzer angemeldet sind.</translation>
     </message>
     <message>
         <source>Enable Shared Statuses</source>
-        <translation>Aktiviere geteilten Status.</translation>
+        <translation type="vanished">Aktiviere geteilten Status.</translation>
     </message>
     <message>
         <source> Google Talk server disables server-side
  logging of individual conversations and
  sends notifications.
  Enable &quot;Message archiving&quot; option for use!</source>
-        <translation>Google-Talk-Server deaktiviert das serverseitige Loggen individueller Konversationen und sendet Benachrichtigungen.
+        <translation type="vanished">Google-Talk-Server deaktiviert das serverseitige Loggen individueller Konversationen und sendet Benachrichtigungen.
 Aktiviere die &quot;Nachrichtenarchivierung&quot;-Option zur Verwendung!</translation>
     </message>
     <message>
         <source>Enable Off the Record Chats</source>
-        <translation>Aktivere Off the Record Chats</translation>
+        <translation type="vanished">Aktivere Off the Record Chats</translation>
     </message>
     <message>
         <source> Enable &quot;Mail notifications&quot; option!</source>
-        <translation>&quot;Mail Benachrichtigungen&quot;-Option aktivieren!</translation>
+        <translation type="vanished">&quot;Mail Benachrichtigungen&quot;-Option aktivieren!</translation>
     </message>
     <message>
         <source>Mail Notifications Settings</source>
-        <translation>Mail Benachrichtungs Einsellungen</translation>
+        <translation type="vanished">Mail Benachrichtungs Einsellungen</translation>
     </message>
     <message>
         <source>Show all unread messages</source>
-        <translation>Zeige alle ungelesenen Nachrichten</translation>
+        <translation type="vanished">Zeige alle ungelesenen Nachrichten</translation>
     </message>
     <message>
         <source>Show new messages only</source>
-        <translation>Zeige nur neue Nachrichten</translation>
+        <translation type="vanished">Zeige nur neue Nachrichten</translation>
     </message>
     <message>
         <source>Start program:</source>
-        <translation>Starte Programm:</translation>
+        <translation type="vanished">Starte Programm:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Manager</source>
@@ -17956,51 +17956,51 @@ Um mit GNOME MPlayer zu funktionieren, wird keine zusätzliche Konfiguration ben
     <name>ViewMailDlg</name>
     <message>
         <source>E-Mail</source>
-        <translation>E-Mail</translation>
+        <translation type="vanished">E-Mail</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation>Von:</translation>
+        <translation type="vanished">Von:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation>Betreff:</translation>
+        <translation type="vanished">Betreff:</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation>Konto: </translation>
+        <translation type="vanished">Konto: </translation>
     </message>
     <message>
         <source>Open mail in browser</source>
-        <translation>Öffne Mail im Browser</translation>
+        <translation type="vanished">Öffne Mail im Browser</translation>
     </message>
     <message>
         <source>Open MailBox</source>
-        <translation>Öffne Mailbox</translation>
+        <translation type="vanished">Öffne Mailbox</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation>Vorherige</translation>
+        <translation type="vanished">Vorherige</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation>Weiter</translation>
+        <translation type="vanished">Weiter</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Schließen</translation>
+        <translation type="vanished">Schließen</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>Schl&amp;ießen</translation>
+        <translation type="vanished">Schl&amp;ießen</translation>
     </message>
     <message>
         <source>[%1/%2] E-Mail</source>
-        <translation>[%1/%2] E-Mail</translation>
+        <translation type="vanished">[%1/%2] E-Mail</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation>In Web-Browser öffnen</translation>
+        <translation type="vanished">In Web-Browser öffnen</translation>
     </message>
 </context>
 <context>

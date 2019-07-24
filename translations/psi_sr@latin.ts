@@ -1043,7 +1043,7 @@ Razlog: %1</translation>
         <source> Enable Off the Record Chat.
 When checked, the server will not
 save the history for this contact.</source>
-        <translation> Enable Off the Record Chat.
+        <translation type="vanished"> Enable Off the Record Chat.
 When checked, the server will not
 save the history for this contact.</translation>
     </message>
@@ -5635,48 +5635,48 @@ You lost the game.</source>
     <name>GmailNotifyPlugin</name>
     <message>
         <source>No-save state for contact %1 is changed</source>
-        <translation>Nesačuvano stanje za kontakte %1 je promenjeno</translation>
+        <translation type="vanished">Nesačuvano stanje za kontakte %1 je promenjeno</translation>
     </message>
     <message>
         <source>Settings for an account %1 are changed</source>
-        <translation>Podešavanja za nalog su %1 promenjena</translation>
+        <translation type="vanished">Podešavanja za nalog su %1 promenjena</translation>
     </message>
     <message>
         <source>Shared Status for an account %1 is updated</source>
-        <translation>Deljeni satus za nalog %1 je ažuriran</translation>
+        <translation type="vanished">Deljeni satus za nalog %1 je ažuriran</translation>
     </message>
     <message>
         <source>Attributes for contact %1 are changed</source>
-        <translation>Podešavanja za nalog su %1 promenjena</translation>
+        <translation type="vanished">Podešavanja za nalog su %1 promenjena</translation>
     </message>
     <message>
         <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
-        <translation>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</translation>
+        <translation type="vanished">&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation>Izaberi zvučni fajl</translation>
+        <translation type="vanished">Izaberi zvučni fajl</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation>Zvuk (*.wav)</translation>
+        <translation type="vanished">Zvuk (*.wav)</translation>
     </message>
     <message>
         <source>Choose a program</source>
-        <translation>Izaberi program</translation>
+        <translation type="vanished">Izaberi program</translation>
     </message>
     <message>
         <source>Block gmail contact</source>
-        <translation>Blokiraj gmail kontakt</translation>
+        <translation type="vanished">Blokiraj gmail kontakt</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation>Autori:</translation>
+        <translation type="vanished">Autori:</translation>
     </message>
     <message>
         <source>Shows notifications of new messages in your Gmailbox.
 Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
-        <translation>Pokazuje obaveštenja o novim porukama u vašem Gmailbox.
+        <translation type="vanished">Pokazuje obaveštenja o novim porukama u vašem Gmailbox.
 Napomena: Ovaj dodatak provera  vaš Inbox folder u vašem Gmailbox-u za nove poruke. kada koristite serversku stranu za filter, možda nećete biti obaveštavani o svim novim porukama.</translation>
     </message>
 </context>
@@ -9885,90 +9885,59 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Supported accounts:</source>
-        <translation>Podržani nalozi:</translation>
+        <translation type="vanished">Podržani nalozi:</translation>
     </message>
     <message>
         <source>There is no supported accounts!</source>
-        <translation>Postoje nepodržani nalozi!</translation>
+        <translation type="vanished">Postoje nepodržani nalozi!</translation>
     </message>
     <message>
         <source>Account Settings</source>
-        <translation>Podešavanje naloga</translation>
-    </message>
-    <message>
-        <source> If set to &quot;true&quot;, the server will send
- notifications of unread email.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Podešavanje naloga</translation>
     </message>
     <message>
         <source>Mail notifications</source>
-        <translation>Obaveštenja o e-pošti</translation>
-    </message>
-    <message>
-        <source> If set to &quot;true&quot;, the server will save
- Google Talk chats on the server;
- if set to &quot;false&quot;, no conversations
- will be logged.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Obaveštenja o e-pošti</translation>
     </message>
     <message>
         <source>Message archiving</source>
-        <translation>Arhiviranje poruka</translation>
-    </message>
-    <message>
-        <source> If set to &quot;true&quot;, the server will
- automatically add people emailed
- often to the user&apos;s roster.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Arhiviranje poruka</translation>
     </message>
     <message>
         <source>Auto-accept suggestions</source>
-        <translation>Auto prihvatanje sugestija</translation>
-    </message>
-    <message>
-        <source> Enable multiple applications signed in
- as the same user to report the same
- status message. </source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Auto prihvatanje sugestija</translation>
     </message>
     <message>
         <source>Enable Shared Statuses</source>
-        <translation>Omogući deljene statuse</translation>
-    </message>
-    <message>
-        <source> Google Talk server disables server-side
- logging of individual conversations and
- sends notifications.
- Enable &quot;Message archiving&quot; option for use!</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Omogući deljene statuse</translation>
     </message>
     <message>
         <source>Enable Off the Record Chats</source>
-        <translation>Omogući isključenje snimanja razgorora</translation>
+        <translation type="vanished">Omogući isključenje snimanja razgorora</translation>
     </message>
     <message>
         <source> Enable &quot;Mail notifications&quot; option!</source>
-        <translation>Omogući opciju &quot;obaveštavanje o e-pošti&quot;</translation>
+        <translation type="vanished">Omogući opciju &quot;obaveštavanje o e-pošti&quot;</translation>
     </message>
     <message>
         <source>Mail Notifications Settings</source>
-        <translation>Podešavanje obaveštenja e-pošte</translation>
+        <translation type="vanished">Podešavanje obaveštenja e-pošte</translation>
     </message>
     <message>
         <source>Show all unread messages</source>
-        <translation>Pokaži sve nepročitane poruke</translation>
+        <translation type="vanished">Pokaži sve nepročitane poruke</translation>
     </message>
     <message>
         <source>Show new messages only</source>
-        <translation>Pokaži samo nove poruke</translation>
+        <translation type="vanished">Pokaži samo nove poruke</translation>
     </message>
     <message>
         <source>Start program:</source>
-        <translation>Pokreni program:</translation>
+        <translation type="vanished">Pokreni program:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Manager</source>
@@ -17665,51 +17634,51 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <name>ViewMailDlg</name>
     <message>
         <source>E-Mail</source>
-        <translation>E-pošta</translation>
+        <translation type="vanished">E-pošta</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation>Od:</translation>
+        <translation type="vanished">Od:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation>Naslov:</translation>
+        <translation type="vanished">Naslov:</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation>Nalog:</translation>
+        <translation type="vanished">Nalog:</translation>
     </message>
     <message>
         <source>Open mail in browser</source>
-        <translation>Otvori poštu u čitaču</translation>
+        <translation type="vanished">Otvori poštu u čitaču</translation>
     </message>
     <message>
         <source>Open MailBox</source>
-        <translation>Otvori mejlboks</translation>
+        <translation type="vanished">Otvori mejlboks</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation>Prethodni</translation>
+        <translation type="vanished">Prethodni</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation>Sledeći</translation>
+        <translation type="vanished">Sledeći</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Zatvori</translation>
+        <translation type="vanished">Zatvori</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Zatvori</translation>
+        <translation type="vanished">&amp;Zatvori</translation>
     </message>
     <message>
         <source>[%1/%2] E-Mail</source>
-        <translation>[%1/%2] E-pošta</translation>
+        <translation type="vanished">[%1/%2] E-pošta</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation>Otvori u veb čitaču</translation>
+        <translation type="vanished">Otvori u veb čitaču</translation>
     </message>
 </context>
 <context>
