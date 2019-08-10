@@ -9418,6 +9418,14 @@ p, li { white-space: pre-wrap; }
         <source>Tune Controllers</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Publish information about the music being played</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Publish Tunes</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptionEditor</name>
