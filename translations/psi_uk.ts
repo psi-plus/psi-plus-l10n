@@ -8506,11 +8506,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Size of preloaded history</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмір попередньо завантаженої історії</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Кількість повідомлень, які відображатимуться в журналі чату з історії чату з контактом&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -8671,15 +8671,15 @@ Tags: %1</source>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished">Таби</translation>
+        <translation>Вкладки</translation>
     </message>
     <message>
         <source>Action for mouse middle click on tabs:</source>
-        <translation type="unfinished">Ефект від натискання колесом миші по вкладках:</translation>
+        <translation>Ефект від натискання колесом миші по вкладках:</translation>
     </message>
     <message>
         <source>Action for mouse double click on tabs:</source>
-        <translation type="unfinished">Ефект від подвійного кліку мишею по вкладках:</translation>
+        <translation>Ефект від подвійного кліку мишею по вкладках:</translation>
     </message>
 </context>
 <context>
@@ -9318,11 +9318,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Publish information about the music being played</source>
-        <translation type="unfinished"></translation>
+        <translation>Публікувати інформацію про музику, що грає</translation>
     </message>
     <message>
         <source>Publish Tunes</source>
-        <translation type="unfinished"></translation>
+        <translation>Показувати пісню</translation>
     </message>
 </context>
 <context>
