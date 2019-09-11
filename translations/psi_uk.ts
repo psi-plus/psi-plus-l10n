@@ -1913,7 +1913,8 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>The certificate is NOT valid!
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Сертифікат недійсний!
+</translation>
     </message>
 </context>
 <context>
