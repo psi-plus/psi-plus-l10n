@@ -1872,7 +1872,7 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     </message>
     <message>
         <source>The certificate is NOT valid!</source>
-        <translation>A tanúsítvány ÉRVÉNYTELEN!</translation>
+        <translation type="vanished">A tanúsítvány ÉRVÉNYTELEN!</translation>
     </message>
     <message>
         <source>Reason: %1.</source>
@@ -1921,6 +1921,11 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     <message>
         <source>Email:</source>
         <translation>E-mail: </translation>
+    </message>
+    <message>
+        <source>The certificate is NOT valid!
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

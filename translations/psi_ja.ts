@@ -1844,7 +1844,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>The certificate is NOT valid!</source>
-        <translation>証明書は無効です!</translation>
+        <translation type="vanished">証明書は無効です!</translation>
     </message>
     <message>
         <source>Reason: %1.</source>
@@ -1893,6 +1893,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Email:</source>
         <translation>メールアドレス:</translation>
+    </message>
+    <message>
+        <source>The certificate is NOT valid!
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

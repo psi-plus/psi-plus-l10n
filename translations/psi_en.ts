@@ -1852,7 +1852,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>The certificate is NOT valid!</source>
-        <translation>The certificate is NOT valid!</translation>
+        <translation type="vanished">The certificate is NOT valid!</translation>
     </message>
     <message>
         <source>Reason: %1.</source>
@@ -1901,6 +1901,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Email:</source>
         <translation>Email:</translation>
+    </message>
+    <message>
+        <source>The certificate is NOT valid!
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

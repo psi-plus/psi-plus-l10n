@@ -1890,7 +1890,7 @@ Per inviare comandi, basta usare normali messaggi, quindi questo plugin funzione
     </message>
     <message>
         <source>The certificate is NOT valid!</source>
-        <translation>Il certificato NON è valido!</translation>
+        <translation type="vanished">Il certificato NON è valido!</translation>
     </message>
     <message>
         <source>Reason: %1.</source>
@@ -1939,6 +1939,11 @@ Per inviare comandi, basta usare normali messaggi, quindi questo plugin funzione
     <message>
         <source>Email:</source>
         <translation>Email:</translation>
+    </message>
+    <message>
+        <source>The certificate is NOT valid!
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -1871,7 +1871,7 @@ Les commandes sont envoyées sous forme de messages, ce greffon fonctionnera don
     </message>
     <message>
         <source>The certificate is NOT valid!</source>
-        <translation>Le certificat n&apos;est PAS valide!</translation>
+        <translation type="vanished">Le certificat n&apos;est PAS valide!</translation>
     </message>
     <message>
         <source>Reason: %1.</source>
@@ -1920,6 +1920,11 @@ Les commandes sont envoyées sous forme de messages, ce greffon fonctionnera don
     <message>
         <source>Email:</source>
         <translation>Courriel :</translation>
+    </message>
+    <message>
+        <source>The certificate is NOT valid!
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -1786,7 +1786,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>The certificate is NOT valid!</source>
-        <translation>Potrdilo NI veljavno.</translation>
+        <translation type="vanished">Potrdilo NI veljavno.</translation>
     </message>
     <message>
         <source>Reason: %1.</source>
@@ -1835,6 +1835,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Email:</source>
         <translation>E-pošta:</translation>
+    </message>
+    <message>
+        <source>The certificate is NOT valid!
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

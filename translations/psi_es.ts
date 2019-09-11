@@ -1876,7 +1876,7 @@ Para el envío de comandos, se usan mensajes normales, por lo que este complemen
     </message>
     <message>
         <source>The certificate is NOT valid!</source>
-        <translation>¡El certificado NO es válido!</translation>
+        <translation type="vanished">¡El certificado NO es válido!</translation>
     </message>
     <message>
         <source>Reason: %1.</source>
@@ -1925,6 +1925,11 @@ Para el envío de comandos, se usan mensajes normales, por lo que este complemen
     <message>
         <source>Email:</source>
         <translation>Correo electrónico:</translation>
+    </message>
+    <message>
+        <source>The certificate is NOT valid!
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

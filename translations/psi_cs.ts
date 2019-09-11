@@ -1871,7 +1871,7 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     </message>
     <message>
         <source>The certificate is NOT valid!</source>
-        <translation>Certifikát NENÍ platný!</translation>
+        <translation type="vanished">Certifikát NENÍ platný!</translation>
     </message>
     <message>
         <source>Reason: %1.</source>
@@ -1920,6 +1920,11 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     <message>
         <source>Email:</source>
         <translation>E-mail: </translation>
+    </message>
+    <message>
+        <source>The certificate is NOT valid!
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

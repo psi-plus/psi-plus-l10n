@@ -1892,7 +1892,7 @@ Für das Versenden von Befehlen werden normale Nachrichten verwendet, so dass di
     </message>
     <message>
         <source>The certificate is NOT valid!</source>
-        <translation>Das Zertifikat ist NICHT gültig!</translation>
+        <translation type="vanished">Das Zertifikat ist NICHT gültig!</translation>
     </message>
     <message>
         <source>Reason: %1.</source>
@@ -1941,6 +1941,11 @@ Für das Versenden von Befehlen werden normale Nachrichten verwendet, so dass di
     <message>
         <source>Email:</source>
         <translation>E-Mail:</translation>
+    </message>
+    <message>
+        <source>The certificate is NOT valid!
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
