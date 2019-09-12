@@ -4400,14 +4400,6 @@ that outgoing TCP connections are allowed.</source>
 <context>
     <name>FileShareDownloader::Private</name>
     <message>
-        <source>Unexpected content add</source>
-        <translation type="vanished">Неожиданное добавление нового контента</translation>
-    </message>
-    <message>
-        <source>Jingle download failed</source>
-        <translation type="vanished">Загрузка через Jingle не удалась</translation>
-    </message>
-    <message>
         <source>Download sources are not given</source>
         <translation>Источники загрузки не заданы</translation>
     </message>
