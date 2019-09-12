@@ -4395,7 +4395,7 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>Share Files</source>
-        <translation>Обмін Файлами</translation>
+        <translation>Обмін файлами</translation>
     </message>
     <message>
         <source>Share</source>
@@ -7131,7 +7131,7 @@ to play battleship. He wants to play %2.</source>
     <name>JingleFileShareDownloader</name>
     <message>
         <source>Jingle data source is offline</source>
-        <translation>Джерело даних Jingle перебуває в автономному режимі</translation>
+        <translation>Джерело даних Jingle наразі вимкнено</translation>
     </message>
     <message>
         <source>Invalid Jingle-FT URI</source>
@@ -12854,7 +12854,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Share Files</source>
-        <translation>Обмін Файлами</translation>
+        <translation>Обмін файлами</translation>
     </message>
     <message>
         <source>Pin/UnPin Tab</source>
