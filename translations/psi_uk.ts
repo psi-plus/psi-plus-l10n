@@ -15188,11 +15188,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished">Сховати</translation>
+        <translation>Сховати</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished">Показати</translation>
+        <translation>Показати</translation>
     </message>
 </context>
 <context>
