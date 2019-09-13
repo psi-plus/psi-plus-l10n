@@ -7621,11 +7621,11 @@ Orsak: %1</translation>
     </message>
     <message>
         <source>Un&amp;hide</source>
-        <translation>&amp;Ta fram</translation>
+        <translation type="vanished">&amp;Ta fram</translation>
     </message>
     <message>
         <source>&amp;Hide</source>
-        <translation>&amp;Göm</translation>
+        <translation type="vanished">&amp;Göm</translation>
     </message>
     <message>
         <source>Status Message</source>
@@ -15110,6 +15110,14 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Transferring</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation type="unfinished">Göm</translation>
+    </message>
+    <message>
+        <source>Show</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

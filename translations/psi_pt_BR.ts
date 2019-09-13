@@ -7923,11 +7923,11 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Un&amp;hide</source>
-        <translation>Ree&amp;xibir</translation>
+        <translation type="vanished">Ree&amp;xibir</translation>
     </message>
     <message>
         <source>&amp;Hide</source>
-        <translation>&amp;Ocultar</translation>
+        <translation type="vanished">&amp;Ocultar</translation>
     </message>
     <message>
         <source>Status Message</source>
@@ -15701,6 +15701,14 @@ Obrigado pela sua paciência.</translation>
     <message>
         <source>Transferring</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation type="unfinished">Ocultar</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation type="unfinished">Exibir</translation>
     </message>
 </context>
 <context>

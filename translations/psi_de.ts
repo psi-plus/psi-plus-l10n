@@ -7930,11 +7930,11 @@ Grund: %1</translation>
     </message>
     <message>
         <source>Un&amp;hide</source>
-        <translation>&amp;Anzeigen</translation>
+        <translation type="vanished">&amp;Anzeigen</translation>
     </message>
     <message>
         <source>&amp;Hide</source>
-        <translation>&amp;Ausblenden</translation>
+        <translation type="vanished">&amp;Ausblenden</translation>
     </message>
     <message>
         <source>Status Message</source>
@@ -15747,6 +15747,14 @@ Vielen Dank für Ihre Geduld.</translation>
     <message>
         <source>Transferring</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation type="unfinished">Ausblenden</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation type="unfinished">Einblenden</translation>
     </message>
 </context>
 <context>

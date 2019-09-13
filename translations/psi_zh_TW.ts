@@ -7922,11 +7922,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Un&amp;hide</source>
-        <translation>取消隱藏(&amp;H)</translation>
+        <translation type="vanished">取消隱藏(&amp;H)</translation>
     </message>
     <message>
         <source>&amp;Hide</source>
-        <translation>隱藏(&amp;H)</translation>
+        <translation type="vanished">隱藏(&amp;H)</translation>
     </message>
     <message>
         <source>Status Message</source>
@@ -15659,6 +15659,14 @@ Thanks for your patience.</source>
     <message>
         <source>Transferring</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation type="unfinished">隱藏</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation type="unfinished">顯示</translation>
     </message>
 </context>
 <context>

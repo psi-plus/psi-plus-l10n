@@ -7459,14 +7459,6 @@ Reason: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Un&amp;hide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Hide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Status Message</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14775,6 +14767,14 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Transferring</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

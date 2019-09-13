@@ -7790,11 +7790,11 @@ Cause: %1</translation>
     </message>
     <message>
         <source>Un&amp;hide</source>
-        <translation>Affic&amp;her</translation>
+        <translation type="vanished">Affic&amp;her</translation>
     </message>
     <message>
         <source>&amp;Hide</source>
-        <translation>&amp;Cacher</translation>
+        <translation type="vanished">&amp;Cacher</translation>
     </message>
     <message>
         <source>Status Message</source>
@@ -15501,6 +15501,14 @@ Thanks for your patience.</source>
     <message>
         <source>Transferring</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation type="unfinished">Cacher</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation type="unfinished">Afficher</translation>
     </message>
 </context>
 <context>

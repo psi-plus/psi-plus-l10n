@@ -7578,11 +7578,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Un&amp;hide</source>
-        <translation>Көр&amp;сету</translation>
+        <translation type="vanished">Көр&amp;сету</translation>
     </message>
     <message>
         <source>&amp;Hide</source>
-        <translation>&amp;Жасыру</translation>
+        <translation type="vanished">&amp;Жасыру</translation>
     </message>
     <message>
         <source>Status Message</source>
@@ -15005,6 +15005,14 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Transferring</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation type="unfinished">Жасыру</translation>
+    </message>
+    <message>
+        <source>Show</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

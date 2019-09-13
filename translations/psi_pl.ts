@@ -7821,11 +7821,11 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source>Un&amp;hide</source>
-        <translation>Po&amp;każ</translation>
+        <translation type="vanished">Po&amp;każ</translation>
     </message>
     <message>
         <source>&amp;Hide</source>
-        <translation>&amp;Ukryj</translation>
+        <translation type="vanished">&amp;Ukryj</translation>
     </message>
     <message>
         <source>Status Message</source>
@@ -15420,6 +15420,14 @@ Thanks for your patience.</source>
     <message>
         <source>Transferring</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation type="unfinished">Ukryj</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation type="unfinished">Pokaż</translation>
     </message>
 </context>
 <context>

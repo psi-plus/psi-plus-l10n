@@ -7650,11 +7650,11 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Un&amp;hide</source>
-        <translation>&amp;Mostra</translation>
+        <translation type="vanished">&amp;Mostra</translation>
     </message>
     <message>
         <source>&amp;Hide</source>
-        <translation>&amp;Nascondi</translation>
+        <translation type="vanished">&amp;Nascondi</translation>
     </message>
     <message>
         <source>Status Message</source>
@@ -15175,6 +15175,14 @@ Grazie per la tua pazienza.</translation>
     <message>
         <source>Transferring</source>
         <translation>Trasferimento</translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation type="unfinished">Nascondi</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation type="unfinished">Mostra</translation>
     </message>
 </context>
 <context>

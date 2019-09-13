@@ -7542,11 +7542,11 @@ Kialo: %1</translation>
     </message>
     <message>
         <source>Un&amp;hide</source>
-        <translation>&amp;Malkaŝi</translation>
+        <translation type="vanished">&amp;Malkaŝi</translation>
     </message>
     <message>
         <source>&amp;Hide</source>
-        <translation>&amp;Kaŝi</translation>
+        <translation type="vanished">&amp;Kaŝi</translation>
     </message>
     <message>
         <source>Status Message</source>
@@ -14945,6 +14945,14 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Transferring</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation type="unfinished">Kaŝi</translation>
+    </message>
+    <message>
+        <source>Show</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
