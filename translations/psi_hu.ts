@@ -388,6 +388,14 @@ Jelöld be az &lt;b&gt;Új Fiók Regisztrálása&lt;/b&gt; lehetőséget ha szer
         <source>psi/remove</source>
         <translation>psi/remove</translation>
     </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;No accounts created. To create account please click the Add button.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi/options</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountManageDlg</name>
@@ -5379,7 +5387,7 @@ Vesztettél.</translation>
     </message>
     <message>
         <source>Enable word highlighting</source>
-        <translation>Szókiemelés engedélyezése</translation>
+        <translation type="vanished">Szókiemelés engedélyezése</translation>
     </message>
     <message>
         <source>Highlight lines and alert the user if this text is included in chat</source>
@@ -5419,11 +5427,11 @@ Vesztettél.</translation>
     </message>
     <message>
         <source>Enable nick coloring</source>
-        <translation>Becenévszínezés bekapcsolása</translation>
+        <translation type="vanished">Becenévszínezés bekapcsolása</translation>
     </message>
     <message>
         <source>Enable hash nick coloring</source>
-        <translation>Becenévhash-színezés bekapcsolása</translation>
+        <translation type="vanished">Becenévhash-színezés bekapcsolása</translation>
     </message>
     <message>
         <source>Nick coloring</source>
@@ -5452,6 +5460,42 @@ Vesztettél.</translation>
     <message>
         <source>Removes the selected color from the list</source>
         <translation>Eltávolítja a választott színt a listából</translation>
+    </message>
+    <message>
+        <source>Select nick coloring type for conference log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manual palette</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nick Coloring Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show joins</source>
+        <translation type="unfinished">Csatlakozások megjelenítése</translation>
+    </message>
+    <message>
+        <source>Show status changes</source>
+        <translation type="unfinished">Mutassa az állapotváltozásokat</translation>
+    </message>
+    <message>
+        <source>Show status with priority</source>
+        <translation type="unfinished">Mutass az állapotot prioritással együtt</translation>
+    </message>
+    <message>
+        <source>Show initial joins</source>
+        <translation type="unfinished">Mutassa a kezdeti csatlakozásokat</translation>
     </message>
 </context>
 <context>
@@ -8850,6 +8894,14 @@ Címkék: %1</translation>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Show status changes</source>
+        <translation type="unfinished">Mutassa az állapotváltozásokat</translation>
+    </message>
+    <message>
+        <source>Show status with priority</source>
+        <translation type="unfinished">Mutass az állapotot prioritással együtt</translation>
+    </message>
 </context>
 <context>
     <name>OptEvents</name>
@@ -9755,7 +9807,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Tunes</source>
-        <translation>Zeneszámok</translation>
+        <translation type="vanished">Zeneszámok</translation>
     </message>
     <message>
         <source>Enter media file extensions to ignore them on tune sending</source>
@@ -9772,10 +9824,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Tune Controllers</source>
         <translation>Zeneszám vezérlők</translation>
-    </message>
-    <message>
-        <source>Publish information about the music being played</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Publish Tunes</source>
@@ -10399,6 +10447,17 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     <message>
         <source>Settings</source>
         <translation>Beállítások</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabAccounts</name>
+    <message>
+        <source>Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage accounts</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12990,11 +13049,11 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation>Fiók beállítása</translation>
+        <translation type="vanished">Fiók beállítása</translation>
     </message>
     <message>
         <source>Acc&amp;ount Setup</source>
-        <translation>&amp;Fiók beállítása</translation>
+        <translation type="vanished">&amp;Fiók beállítása</translation>
     </message>
     <message>
         <source>Options</source>

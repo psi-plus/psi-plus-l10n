@@ -388,6 +388,14 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <source>psi/remove</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;No accounts created. To create account please click the Add button.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi/options</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountManageDlg</name>
@@ -5330,7 +5338,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Enable word highlighting</source>
-        <translation>אפשר הדגשת מילה</translation>
+        <translation type="vanished">אפשר הדגשת מילה</translation>
     </message>
     <message>
         <source>Highlight lines and alert the user if this text is included in chat</source>
@@ -5370,11 +5378,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Enable nick coloring</source>
-        <translation>אפשר צביעת כינוי</translation>
-    </message>
-    <message>
-        <source>Enable hash nick coloring</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">אפשר צביעת כינוי</translation>
     </message>
     <message>
         <source>Nick coloring</source>
@@ -5403,6 +5407,42 @@ You lost the game.</source>
     <message>
         <source>Removes the selected color from the list</source>
         <translation>הסרת הצבע הנבחר מתוך הרשימה</translation>
+    </message>
+    <message>
+        <source>Select nick coloring type for conference log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished">ללא</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manual palette</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nick Coloring Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show joins</source>
+        <translation type="unfinished">הצג כניסות</translation>
+    </message>
+    <message>
+        <source>Show status changes</source>
+        <translation type="unfinished">הצג שינויי מצב</translation>
+    </message>
+    <message>
+        <source>Show status with priority</source>
+        <translation type="unfinished">הצג מצב עם עדיפות</translation>
+    </message>
+    <message>
+        <source>Show initial joins</source>
+        <translation type="unfinished">הצג כניסות ראשוניות</translation>
     </message>
 </context>
 <context>
@@ -8707,6 +8747,14 @@ Tags: %1</source>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Show status changes</source>
+        <translation type="unfinished">הצג שינויי מצב</translation>
+    </message>
+    <message>
+        <source>Show status with priority</source>
+        <translation type="unfinished">הצג מצב עם עדיפות</translation>
+    </message>
 </context>
 <context>
     <name>OptEvents</name>
@@ -9576,7 +9624,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Tunes</source>
-        <translation>לחנים</translation>
+        <translation type="vanished">לחנים</translation>
     </message>
     <message>
         <source>Enter media file extensions to ignore them on tune sending</source>
@@ -9593,10 +9641,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Tune Controllers</source>
         <translation>בקרי לחן</translation>
-    </message>
-    <message>
-        <source>Publish information about the music being played</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Publish Tunes</source>
@@ -10156,6 +10200,17 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Settings</source>
         <translation>הגדרות</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabAccounts</name>
+    <message>
+        <source>Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage accounts</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12731,11 +12786,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation>התקנת חשבון</translation>
+        <translation type="vanished">התקנת חשבון</translation>
     </message>
     <message>
         <source>Acc&amp;ount Setup</source>
-        <translation>התקנת &amp;חשבון</translation>
+        <translation type="vanished">התקנת &amp;חשבון</translation>
     </message>
     <message>
         <source>Options</source>

@@ -388,6 +388,14 @@ Klikni na &lt;b&gt;Registrovat nový účet&lt;/b&gt;, pokud chceš, aby se Psi 
         <source>psi/remove</source>
         <translation>psi/remove</translation>
     </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;No accounts created. To create account please click the Add button.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi/options</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountManageDlg</name>
@@ -5374,7 +5382,7 @@ Hra je prohraná.</translation>
     </message>
     <message>
         <source>Enable word highlighting</source>
-        <translation>Zapnout zvýrazňování slov</translation>
+        <translation type="vanished">Zapnout zvýrazňování slov</translation>
     </message>
     <message>
         <source>Highlight lines and alert the user if this text is included in chat</source>
@@ -5414,11 +5422,11 @@ Hra je prohraná.</translation>
     </message>
     <message>
         <source>Enable nick coloring</source>
-        <translation>Zapnout obarvování přezdívek</translation>
+        <translation type="vanished">Zapnout obarvování přezdívek</translation>
     </message>
     <message>
         <source>Enable hash nick coloring</source>
-        <translation>Zapnout hashové obarvování přezdívek</translation>
+        <translation type="vanished">Zapnout hashové obarvování přezdívek</translation>
     </message>
     <message>
         <source>Nick coloring</source>
@@ -5447,6 +5455,42 @@ Hra je prohraná.</translation>
     <message>
         <source>Removes the selected color from the list</source>
         <translation>Odstranit vybranou barvu ze seznamu</translation>
+    </message>
+    <message>
+        <source>Select nick coloring type for conference log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manual palette</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nick Coloring Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show joins</source>
+        <translation type="unfinished">Zobrazit uzly</translation>
+    </message>
+    <message>
+        <source>Show status changes</source>
+        <translation type="unfinished">Zobrazit změny stavu</translation>
+    </message>
+    <message>
+        <source>Show status with priority</source>
+        <translation type="unfinished">Zobrazit stav s prioritou</translation>
+    </message>
+    <message>
+        <source>Show initial joins</source>
+        <translation type="unfinished">Zobrazit počáteční uzly</translation>
     </message>
 </context>
 <context>
@@ -8820,6 +8864,14 @@ Tagy: %1</translation>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Show status changes</source>
+        <translation type="unfinished">Zobrazit změny stavu</translation>
+    </message>
+    <message>
+        <source>Show status with priority</source>
+        <translation type="unfinished">Zobrazit stav s prioritou</translation>
+    </message>
 </context>
 <context>
     <name>OptEvents</name>
@@ -9725,7 +9777,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Tunes</source>
-        <translation>Písničky</translation>
+        <translation type="vanished">Písničky</translation>
     </message>
     <message>
         <source>Enter media file extensions to ignore them on tune sending</source>
@@ -9742,10 +9794,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Tune Controllers</source>
         <translation>Ovladače písniček</translation>
-    </message>
-    <message>
-        <source>Publish information about the music being played</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Publish Tunes</source>
@@ -10372,6 +10420,17 @@ zprávy v chatu víde lidí)</translation>
     <message>
         <source>Settings</source>
         <translation>Nastavení</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabAccounts</name>
+    <message>
+        <source>Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage accounts</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12961,11 +13020,11 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation>Nastavení účtu</translation>
+        <translation type="vanished">Nastavení účtu</translation>
     </message>
     <message>
         <source>Acc&amp;ount Setup</source>
-        <translation>Nastav&amp;ení účtu</translation>
+        <translation type="vanished">Nastav&amp;ení účtu</translation>
     </message>
     <message>
         <source>Options</source>

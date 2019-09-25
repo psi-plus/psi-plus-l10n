@@ -369,6 +369,14 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <source>psi/remove</source>
         <translation>psi/remove</translation>
     </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;No accounts created. To create account please click the Add button.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi/options</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountManageDlg</name>
@@ -5249,7 +5257,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Enable word highlighting</source>
-        <translation>启用文字高亮</translation>
+        <translation type="vanished">启用文字高亮</translation>
     </message>
     <message>
         <source>Highlight lines and alert the user if this text is included in chat</source>
@@ -5289,11 +5297,11 @@ You lost the game.</source>
     </message>
     <message>
         <source>Enable nick coloring</source>
-        <translation>启用昵称颜色标示</translation>
+        <translation type="vanished">启用昵称颜色标示</translation>
     </message>
     <message>
         <source>Enable hash nick coloring</source>
-        <translation>启用哈希昵称着色</translation>
+        <translation type="vanished">启用哈希昵称着色</translation>
     </message>
     <message>
         <source>Nick coloring</source>
@@ -5322,6 +5330,42 @@ You lost the game.</source>
     <message>
         <source>Removes the selected color from the list</source>
         <translation>从清单中删除所选择的颜色</translation>
+    </message>
+    <message>
+        <source>Select nick coloring type for conference log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manual palette</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nick Coloring Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show joins</source>
+        <translation type="unfinished">显示加入</translation>
+    </message>
+    <message>
+        <source>Show status changes</source>
+        <translation type="unfinished">显示状态的变化</translation>
+    </message>
+    <message>
+        <source>Show status with priority</source>
+        <translation type="unfinished">显示优先状态</translation>
+    </message>
+    <message>
+        <source>Show initial joins</source>
+        <translation type="unfinished">显示初始加入</translation>
     </message>
 </context>
 <context>
@@ -8506,6 +8550,14 @@ Tags: %1</source>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Show status changes</source>
+        <translation type="unfinished">显示状态的变化</translation>
+    </message>
+    <message>
+        <source>Show status with priority</source>
+        <translation type="unfinished">显示优先状态</translation>
+    </message>
 </context>
 <context>
     <name>OptEvents</name>
@@ -9292,7 +9344,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Tunes</source>
-        <translation>曲调</translation>
+        <translation type="vanished">曲调</translation>
     </message>
     <message>
         <source>Enter media file extensions to ignore them on tune sending</source>
@@ -9309,10 +9361,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Tune Controllers</source>
         <translation>调控制器</translation>
-    </message>
-    <message>
-        <source>Publish information about the music being played</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Publish Tunes</source>
@@ -9927,6 +9975,17 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Settings</source>
         <translation>设置</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabAccounts</name>
+    <message>
+        <source>Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage accounts</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12461,11 +12520,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation>账号设置</translation>
+        <translation type="vanished">账号设置</translation>
     </message>
     <message>
         <source>Acc&amp;ount Setup</source>
-        <translation>账号设置(&amp;O)</translation>
+        <translation type="vanished">账号设置(&amp;O)</translation>
     </message>
     <message>
         <source>Options</source>

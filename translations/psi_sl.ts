@@ -335,6 +335,14 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <source>psi/remove</source>
         <translation>psi/remove</translation>
     </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;No accounts created. To create account please click the Add button.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi/options</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountManageDlg</name>
@@ -5248,7 +5256,7 @@ Izgubili ste igro.</translation>
     </message>
     <message>
         <source>Enable word highlighting</source>
-        <translation>Omogoči poudarjanje besed</translation>
+        <translation type="vanished">Omogoči poudarjanje besed</translation>
     </message>
     <message>
         <source>Highlight lines and alert the user if this text is included in chat</source>
@@ -5288,11 +5296,7 @@ Izgubili ste igro.</translation>
     </message>
     <message>
         <source>Enable nick coloring</source>
-        <translation>Omogoči barvanje vzdevkov</translation>
-    </message>
-    <message>
-        <source>Enable hash nick coloring</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Omogoči barvanje vzdevkov</translation>
     </message>
     <message>
         <source>Nick coloring</source>
@@ -5321,6 +5325,42 @@ Izgubili ste igro.</translation>
     <message>
         <source>Removes the selected color from the list</source>
         <translation>Odstrani izbrano barvo s seznama</translation>
+    </message>
+    <message>
+        <source>Select nick coloring type for conference log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished">Brez</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manual palette</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nick Coloring Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show joins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show status changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show status with priority</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show initial joins</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8520,6 +8560,14 @@ Tags: %1</source>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Show status changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show status with priority</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptEvents</name>
@@ -9312,10 +9360,6 @@ p, li { white-space: pre-wrap; }
         <translation>Obrazec</translation>
     </message>
     <message>
-        <source>Tunes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Enter media file extensions to ignore them on tune sending</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9329,10 +9373,6 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Tune Controllers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Publish information about the music being played</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9857,6 +9897,17 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Settings</source>
         <translation>Nastavitve</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabAccounts</name>
+    <message>
+        <source>Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage accounts</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12421,11 +12472,11 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
     </message>
     <message>
         <source>Account Setup</source>
-        <translation>Nastavi račun</translation>
+        <translation type="vanished">Nastavi račun</translation>
     </message>
     <message>
         <source>Acc&amp;ount Setup</source>
-        <translation>N&amp;astavi račun</translation>
+        <translation type="vanished">N&amp;astavi račun</translation>
     </message>
     <message>
         <source>Options</source>

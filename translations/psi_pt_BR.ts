@@ -396,6 +396,14 @@ Clique clicar na caixa de seleção &lt;b&gt;Registrar uma nova conta&lt;/b&gt; 
         <source>psi/remove</source>
         <translation>psi/remove</translation>
     </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;No accounts created. To create account please click the Add button.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi/options</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountManageDlg</name>
@@ -5387,7 +5395,7 @@ Você perdeu o jogo.</translation>
     </message>
     <message>
         <source>Enable word highlighting</source>
-        <translation>Habilitar destaque de palavra</translation>
+        <translation type="vanished">Habilitar destaque de palavra</translation>
     </message>
     <message>
         <source>Highlight lines and alert the user if this text is included in chat</source>
@@ -5427,11 +5435,11 @@ Você perdeu o jogo.</translation>
     </message>
     <message>
         <source>Enable nick coloring</source>
-        <translation>Habilitar apelidos coloridos</translation>
+        <translation type="vanished">Habilitar apelidos coloridos</translation>
     </message>
     <message>
         <source>Enable hash nick coloring</source>
-        <translation>Habilitar apelido colorido piscando</translation>
+        <translation type="vanished">Habilitar apelido colorido piscando</translation>
     </message>
     <message>
         <source>Nick coloring</source>
@@ -5460,6 +5468,42 @@ Você perdeu o jogo.</translation>
     <message>
         <source>Removes the selected color from the list</source>
         <translation>Remove a cor selecionada da lista</translation>
+    </message>
+    <message>
+        <source>Select nick coloring type for conference log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished">Nenhum</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manual palette</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nick Coloring Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show joins</source>
+        <translation type="unfinished">Exibir entradas</translation>
+    </message>
+    <message>
+        <source>Show status changes</source>
+        <translation type="unfinished">Mostrar status de mudanças</translation>
+    </message>
+    <message>
+        <source>Show status with priority</source>
+        <translation type="unfinished">Exibir status com prioridade</translation>
+    </message>
+    <message>
+        <source>Show initial joins</source>
+        <translation type="unfinished">Exibir entradas iniciais</translation>
     </message>
 </context>
 <context>
@@ -8857,6 +8901,14 @@ Tags: %1</translation>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Show status changes</source>
+        <translation type="unfinished">Mostrar status de mudanças</translation>
+    </message>
+    <message>
+        <source>Show status with priority</source>
+        <translation type="unfinished">Exibir status com prioridade</translation>
+    </message>
 </context>
 <context>
     <name>OptEvents</name>
@@ -9762,7 +9814,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Tunes</source>
-        <translation>Músicas</translation>
+        <translation type="vanished">Músicas</translation>
     </message>
     <message>
         <source>Enter media file extensions to ignore them on tune sending</source>
@@ -9779,10 +9831,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Tune Controllers</source>
         <translation>Controlador de Som</translation>
-    </message>
-    <message>
-        <source>Publish information about the music being played</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Publish Tunes</source>
@@ -10405,6 +10453,17 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     <message>
         <source>Settings</source>
         <translation>Configurações</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabAccounts</name>
+    <message>
+        <source>Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage accounts</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12993,11 +13052,11 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation>Configurações da Conta</translation>
+        <translation type="vanished">Configurações da Conta</translation>
     </message>
     <message>
         <source>Acc&amp;ount Setup</source>
-        <translation>Configurações da C&amp;onta</translation>
+        <translation type="vanished">Configurações da C&amp;onta</translation>
     </message>
     <message>
         <source>Options</source>
