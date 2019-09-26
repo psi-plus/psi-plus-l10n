@@ -7749,6 +7749,14 @@ Incoming event(s) from:</source>
         <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
         <translation>Плагін PsiMedia не завантажений або не ініціалізований.&lt;br&gt;Відвідайте &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; для детальнішої інформації.</translation>
     </message>
+    <message>
+        <source>Hide</source>
+        <translation>Сховати</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation>Показати</translation>
+    </message>
 </context>
 <context>
     <name>MainWindow</name>
@@ -15244,14 +15252,6 @@ Thanks for your patience.</source>
     <message>
         <source>Transferring</source>
         <translation>Передача</translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation>Сховати</translation>
-    </message>
-    <message>
-        <source>Show</source>
-        <translation>Показати</translation>
     </message>
 </context>
 <context>

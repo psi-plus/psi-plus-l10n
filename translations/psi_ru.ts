@@ -5337,7 +5337,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -5353,19 +5353,19 @@ You lost the game.</source>
     </message>
     <message>
         <source>Show joins</source>
-        <translation type="unfinished">Показывать сообщения о входах/выходах</translation>
+        <translation>Показывать сообщения о входах/выходах</translation>
     </message>
     <message>
         <source>Show status changes</source>
-        <translation type="unfinished">Показывать смену статусов</translation>
+        <translation>Показывать смену статусов</translation>
     </message>
     <message>
         <source>Show status with priority</source>
-        <translation type="unfinished">Показывать статусное сообщение вместе с приоритетом</translation>
+        <translation>Показывать статусное сообщение вместе с приоритетом</translation>
     </message>
     <message>
         <source>Show initial joins</source>
-        <translation type="unfinished">Показывать изначально вошедших</translation>
+        <translation>Показывать изначально вошедших</translation>
     </message>
 </context>
 <context>
@@ -7744,6 +7744,14 @@ Incoming event(s) from:</source>
         <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
         <translation>Плагин PsiMedia не загружен или не инициализирован.&lt;br&gt;См. подробности на странице &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt;.</translation>
     </message>
+    <message>
+        <source>Hide</source>
+        <translation>Скрыть</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation>Показать</translation>
+    </message>
 </context>
 <context>
     <name>MainWindow</name>
@@ -8559,11 +8567,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show status changes</source>
-        <translation type="unfinished">Показывать смену статусов</translation>
+        <translation>Показывать смену статусов</translation>
     </message>
     <message>
         <source>Show status with priority</source>
-        <translation type="unfinished">Показывать статусное сообщение вместе с приоритетом</translation>
+        <translation>Показывать статусное сообщение вместе с приоритетом</translation>
     </message>
 </context>
 <context>
@@ -9368,10 +9376,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Tune Controllers</source>
         <translation>Контроллеры музыки</translation>
-    </message>
-    <message>
-        <source>Publish information about the music being played</source>
-        <translation type="vanished">Публиковать информацию о прослушиваемой музыке</translation>
     </message>
     <message>
         <source>Publish Tunes</source>
@@ -15245,14 +15249,6 @@ Thanks for your patience.</source>
     <message>
         <source>Transferring</source>
         <translation>Передача</translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation>Скрыть</translation>
-    </message>
-    <message>
-        <source>Show</source>
-        <translation>Показать</translation>
     </message>
 </context>
 <context>

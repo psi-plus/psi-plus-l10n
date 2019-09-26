@@ -53,10 +53,6 @@
         <translation>psi/psiplus_logo</translation>
     </message>
     <message>
-        <source>http://psi-im.org</source>
-        <translation type="vanished">http://psi-im.org</translation>
-    </message>
-    <message>
         <source>Authors</source>
         <translation>Alkotók</translation>
     </message>
@@ -87,10 +83,6 @@
     <message>
         <source>Past Lead Developer</source>
         <translation>Régi Vezető Fejlesztő</translation>
-    </message>
-    <message>
-        <source>Lead Widget Developer</source>
-        <translation type="vanished">Vezető Widget Fejlesztő</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -147,10 +139,6 @@
     <message>
         <source>Language coordinator; Debian Packager</source>
         <translation type="vanished">Nyelvi koordinátor; Debian Csomagkészítő</translation>
-    </message>
-    <message>
-        <source>Language coordinator, miscellaneous assistance</source>
-        <translation type="vanished">Nyelvi koordinátor, vegyes támogatás</translation>
     </message>
     <message>
         <source>Former language coordinator, miscellaneous assistance</source>
@@ -333,21 +321,6 @@ Jelöld be az &lt;b&gt;Új Fiók Regisztrálása&lt;/b&gt; lehetőséget ha szer
     <message>
         <source>Default</source>
         <translation>Alapértelmezett</translation>
-    </message>
-</context>
-<context>
-    <name>AccountLoginPassword</name>
-    <message>
-        <source>Please enter the password for %1:</source>
-        <translation type="vanished">Add meg a jelszót %1 számára:</translation>
-    </message>
-    <message>
-        <source>Please enter your password:</source>
-        <translation type="vanished">Kérlek add meg a jelszavad:</translation>
-    </message>
-    <message>
-        <source>Need Password</source>
-        <translation type="vanished">Jelszó szükséges</translation>
     </message>
 </context>
 <context>
@@ -4702,29 +4675,6 @@ Oka: %3</translation>
     </message>
 </context>
 <context>
-    <name>GCFindDlg</name>
-    <message>
-        <source>Find</source>
-        <translation type="vanished">Keresés</translation>
-    </message>
-    <message>
-        <source>Find:</source>
-        <translation type="vanished">Keresés:</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Bezárás</translation>
-    </message>
-    <message>
-        <source>&amp;Find</source>
-        <translation type="vanished">&amp;Keresés</translation>
-    </message>
-    <message>
-        <source>Search string &apos;%1&apos; not found.</source>
-        <translation type="vanished">Nincs találat: &apos;%1&apos;.</translation>
-    </message>
-</context>
-<context>
     <name>GCMainDlg</name>
     <message>
         <source>Find toolbar</source>
@@ -4785,10 +4735,6 @@ Oka: %1</translation>
     <message>
         <source>Error: You are in or joining this room already!</source>
         <translation>Hiba: Már benn vagy a szobában, vagy már próbálsz csatlakozni!</translation>
-    </message>
-    <message>
-        <source>Unable to join groupchat.	Reason: %1</source>
-        <translation type="vanished">Nem sikerült csatlakozni a csoportbeszélgetéshez	Oka: %1</translation>
     </message>
     <message>
         <source>Unexpected groupchat error: %1</source>
@@ -5102,93 +5048,6 @@ Oka: %1</translation>
     </message>
 </context>
 <context>
-    <name>GCUserView</name>
-    <message>
-        <source>Moderators</source>
-        <translation type="vanished">Moderátorok</translation>
-    </message>
-    <message>
-        <source>Participants</source>
-        <translation type="vanished">Résztvevők</translation>
-    </message>
-    <message>
-        <source>Visitors</source>
-        <translation type="vanished">Látogatók</translation>
-    </message>
-    <message>
-        <source>Send &amp;Message</source>
-        <translation type="vanished">&amp;Üzenet küldése</translation>
-    </message>
-    <message>
-        <source>Open &amp;Chat Window</source>
-        <translation type="vanished">&amp;Beszélgetésablak megnyitása</translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation type="vanished">Hanghívás</translation>
-    </message>
-    <message>
-        <source>E&amp;xecute Command</source>
-        <translation type="vanished">&amp;Parancs végrehajtása</translation>
-    </message>
-    <message>
-        <source>&amp;Kick</source>
-        <translation type="vanished">&amp;Kirúgás</translation>
-    </message>
-    <message>
-        <source>No reason</source>
-        <translation type="vanished">Nincs ok</translation>
-    </message>
-    <message>
-        <source>Custom reason</source>
-        <translation type="vanished">Egyéni ok</translation>
-    </message>
-    <message>
-        <source>&amp;Ban</source>
-        <translation type="vanished">&amp;Kitiltás</translation>
-    </message>
-    <message>
-        <source>Change Role</source>
-        <translation type="vanished">Szerepkör megváltoztatása</translation>
-    </message>
-    <message>
-        <source>Visitor</source>
-        <translation type="vanished">Látogató</translation>
-    </message>
-    <message>
-        <source>Participant</source>
-        <translation type="vanished">Résztvevő</translation>
-    </message>
-    <message>
-        <source>Moderator</source>
-        <translation type="vanished">Moderátor</translation>
-    </message>
-    <message>
-        <source>Change Affiliation</source>
-        <translation type="vanished">Kapcsolat változtatása</translation>
-    </message>
-    <message>
-        <source>Unaffiliated</source>
-        <translation type="vanished">Független</translation>
-    </message>
-    <message>
-        <source>Member</source>
-        <translation type="vanished">Tag</translation>
-    </message>
-    <message>
-        <source>Administrator</source>
-        <translation type="vanished">Adminisztrátor</translation>
-    </message>
-    <message>
-        <source>Owner</source>
-        <translation type="vanished">Tulajdonos</translation>
-    </message>
-    <message>
-        <source>User &amp;Info</source>
-        <translation type="vanished">Ismerős &amp;információi</translation>
-    </message>
-</context>
-<context>
     <name>GameBoard</name>
     <message>
         <source>White</source>
@@ -5467,7 +5326,7 @@ Vesztettél.</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -5483,19 +5342,19 @@ Vesztettél.</translation>
     </message>
     <message>
         <source>Show joins</source>
-        <translation type="unfinished">Csatlakozások megjelenítése</translation>
+        <translation>Csatlakozások megjelenítése</translation>
     </message>
     <message>
         <source>Show status changes</source>
-        <translation type="unfinished">Mutassa az állapotváltozásokat</translation>
+        <translation>Mutassa az állapotváltozásokat</translation>
     </message>
     <message>
         <source>Show status with priority</source>
-        <translation type="unfinished">Mutass az állapotot prioritással együtt</translation>
+        <translation>Mutass az állapotot prioritással együtt</translation>
     </message>
     <message>
         <source>Show initial joins</source>
-        <translation type="unfinished">Mutassa a kezdeti csatlakozásokat</translation>
+        <translation>Mutassa a kezdeti csatlakozásokat</translation>
     </message>
 </context>
 <context>
@@ -5882,10 +5741,6 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
         <source>Set Keys</source>
         <translation>Billentyűk beállítása</translation>
     </message>
-    <message>
-        <source>New Shortcut</source>
-        <translation type="vanished">Új gyorsbillentyű</translation>
-    </message>
 </context>
 <context>
     <name>GroupChatBrowseWindowUI</name>
@@ -5991,10 +5846,6 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     <message>
         <source>Set Groupchat Topic</source>
         <translation>Csoportbeszélgetés témájának beállítása</translation>
-    </message>
-    <message>
-        <source>Text of topic</source>
-        <translation type="vanished">Téma szövege</translation>
     </message>
     <message>
         <source>Any Language</source>
@@ -6264,73 +6115,6 @@ Az ismerős menüjéből vagy a kiegészítő beállításainál is kiválasztha
     </message>
 </context>
 <context>
-    <name>HomeDirMigration</name>
-    <message>
-        <source>Import Wizard</source>
-        <translation type="vanished">Importálás Varázsló</translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Import Settings and Data&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Adatok és Beállítások Importálása&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi+. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;A Psi+ működéséhez szükséges létező profil másolása az új helyre.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Ajánlott)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>Import Psi profile</source>
-        <translation type="vanished">Psi-profil importálása</translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Move the existing profile to the new directory. The old profile will be removed automatically when done.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Létező profil áthelyezése az új helyre. Amikor kész, a régi profil automatikusan törölve lesz.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>Import Psi profile and remove it</source>
-        <translation type="vanished">Psi-profil importálása és törlése</translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi+ profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Új Psi-profil létrehozása. A régi profil nem kerül törlésre, de többé nem választható.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Nem ajánlott)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>Create new profile</source>
-        <translation type="vanished">Új profil létrehozása</translation>
-    </message>
-</context>
-<context>
     <name>HttpAuthEvent</name>
     <message>
         <source>HTTP Authentication Request</source>
@@ -6570,10 +6354,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Iconset Details: %1</source>
         <translation>Ikonkészlet részletei: %1</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Description:</source>
@@ -6827,10 +6607,6 @@ A kiegészítőnek számos egyszerű beállítása segít ebben:
     <message>
         <source>Image %1 bytes received.</source>
         <translation>%1 byte-os kép megérkezett</translation>
-    </message>
-    <message>
-        <source>Image %1 sent &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </source>
-        <translation type="vanished">%1 kép elküldve &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </translation>
     </message>
     <message>
         <source>Authors: </source>
@@ -7216,26 +6992,6 @@ Oka: %1</translation>
         <translation>Gomoku játékkiegészítő - Meghívás</translation>
     </message>
     <message>
-        <source>white</source>
-        <translation type="vanished">fehér</translation>
-    </message>
-    <message>
-        <source>black</source>
-        <translation type="vanished">fekete</translation>
-    </message>
-    <message>
-        <source>Player %1 invites you 
-to play chess. He wants to play %2.</source>
-        <translation type="vanished">%1 meghív téged
-sakkra. Ezt szeretné: %2.</translation>
-    </message>
-    <message>
-        <source>Player %1 invites you 
-to play gomoku. He wants to play %2.</source>
-        <translation type="vanished">%1 meghív téged
-gomokura. Ezt szeretné: %2.</translation>
-    </message>
-    <message>
         <source>second</source>
         <comment>He wants to play second</comment>
         <translation>második</translation>
@@ -7489,22 +7245,6 @@ Currently, the plugin is able to:
 * Detect &gt;quotes in messages
 * Enable clickable @nick, *tag, #message_id and other control elements to insert them into the typing area
 
-Note: To work correctly, the option options.html.chat.render	must be set to true. </source>
-        <translation type="vanished">Ez a kiegészítő a Juick Mikroblogger Szolgáltatás hatékony használatára lett tervezve.
-Jelenleg ezekre képes:
-* @nick, *tag és #message_id színezése üzenetekben a juick@juick.com bottól
-* &gt;idézetek felismerése üzenetekben
-* kattintható @nick, *tag, #message_id és egyéb irányítóelemek behelyezése a szövegdobozba
-
-Megjegyzés: A helyes működéshez az &apos;options.html.chat.render&apos;-nek igaznak (true) kell lennie.</translation>
-    </message>
-    <message>
-        <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
-Currently, the plugin is able to: 
-* Coloring @nick, *tag and #message_id in messages from the juick@juick.com bot
-* Detect &gt;quotes in messages
-* Enable clickable @nick, *tag, #message_id and other control elements to insert them into the typing area
-
 Note: To work correctly, the option options.html.chat.render    must be set to true. </source>
         <translation type="unfinished"></translation>
     </message>
@@ -7724,36 +7464,12 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
         <translation>Személyazonosság:</translation>
     </message>
     <message>
-        <source>Recent:</source>
-        <translation type="vanished">Közelmúlt:</translation>
-    </message>
-    <message>
         <source>Room information</source>
         <translation>Szobainformációk</translation>
     </message>
     <message>
-        <source>Host:</source>
-        <translation type="vanished">Kiszolgáló:</translation>
-    </message>
-    <message>
-        <source>Room:</source>
-        <translation type="vanished">Szoba:</translation>
-    </message>
-    <message>
-        <source>Nickname:</source>
-        <translation type="vanished">Becenév:</translation>
-    </message>
-    <message>
-        <source>Password:</source>
-        <translation type="vanished">Jelszó:</translation>
-    </message>
-    <message>
         <source>Request chat history</source>
         <translation>Beszélgetési előzmény lekérése</translation>
-    </message>
-    <message>
-        <source>Bookmarks:</source>
-        <translation type="vanished">Könyvjelzők:</translation>
     </message>
     <message>
         <source>Nickname</source>
@@ -8009,6 +7725,14 @@ Bejövő esemény(ek) innen:</translation>
         <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Hide</source>
+        <translation>Elrejtés</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation>Megjelenítés</translation>
+    </message>
 </context>
 <context>
     <name>MainWindow</name>
@@ -8195,10 +7919,6 @@ Részletek: %1</translation>
         <translation>%1%2/mp</translation>
     </message>
     <message>
-        <source>%1h%2m%3s remaining</source>
-        <translation type="vanished">Hátralévő idő: %1ó%2p%3mp</translation>
-    </message>
-    <message>
         <source>[Failed]</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8247,7 +7967,7 @@ Részletek: %1</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished">Küldés</translation>
+        <translation>Küldés</translation>
     </message>
     <message>
         <source>%1 File(s)</source>
@@ -8267,11 +7987,11 @@ Részletek: %1</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished">Mentés másként</translation>
+        <translation>Mentés másként</translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished">Minden fájl (*)</translation>
+        <translation>Minden fájl (*)</translation>
     </message>
 </context>
 <context>
@@ -8417,14 +8137,6 @@ Címkék: %1</translation>
         <translation>Engedélyezi távoli irányítást más helyekről</translation>
     </message>
     <message>
-        <source>Check spelling</source>
-        <translation type="vanished">Helyesírás ellenőrzése</translation>
-    </message>
-    <message>
-        <source>Use contacts&apos; message formatting</source>
-        <translation type="vanished">Az ismerős üzenetformázásának használata</translation>
-    </message>
-    <message>
         <source>Single-click triggers default action</source>
         <translation>A kattintás az alap cselekvést indítja</translation>
     </message>
@@ -8443,10 +8155,6 @@ Címkék: %1</translation>
     <message>
         <source>Show subject line in events</source>
         <translation>Tárgymező megjelenítése az eseményekben</translation>
-    </message>
-    <message>
-        <source>Show character counter</source>
-        <translation type="vanished">Karakterszámláló megjelenítése</translation>
     </message>
     <message>
         <source>Automatically get vCard when becoming online</source>
@@ -8693,10 +8401,6 @@ Címkék: %1</translation>
         <translation>Tálcaikon engedélyezése</translation>
     </message>
     <message>
-        <source>Decorate windows</source>
-        <translation type="vanished">Ablakok dekorálása</translation>
-    </message>
-    <message>
         <source>Docklet</source>
         <translation>Tálcaikon</translation>
     </message>
@@ -8723,10 +8427,6 @@ Címkék: %1</translation>
     <message>
         <source>Data transfer base port:</source>
         <translation>Fájlátviteli port:</translation>
-    </message>
-    <message>
-        <source>99999; </source>
-        <translation type="vanished">99999; </translation>
     </message>
     <message>
         <source>(1 TCP, 4 UDP)</source>
@@ -8807,76 +8507,12 @@ Címkék: %1</translation>
         <translation>A beszélgetések tömörített módban való megnyitása</translation>
     </message>
     <message>
-        <source>Use tabbed mode:</source>
-        <translation type="vanished">Fülek használata:</translation>
-    </message>
-    <message>
-        <source>for chats only</source>
-        <translation type="vanished">csak beszélgetésekhez</translation>
-    </message>
-    <message>
-        <source>for mucs only</source>
-        <translation type="vanished">csak konferenciákhoz</translation>
-    </message>
-    <message>
-        <source>for chats and mucs separately</source>
-        <translation type="vanished">beszélgetésekhez és konferenciákhoz külön</translation>
-    </message>
-    <message>
-        <source>for mucs and chats in one window</source>
-        <translation type="vanished">konferenciákhoz és beszélgetésekhez egy ablakban</translation>
-    </message>
-    <message>
-        <source>for mucs, chats and roster in one window</source>
-        <translation type="vanished">konferenciáknál, beszélgetéseknél és címlistánál egy ablakban</translation>
-    </message>
-    <message>
-        <source>[customized]</source>
-        <translation type="vanished">[egyéni]</translation>
-    </message>
-    <message>
-        <source>Show tab buttons</source>
-        <translation type="vanished">Lapok gombjainak megjelenítése</translation>
-    </message>
-    <message>
-        <source>Auto-resize text input field</source>
-        <translation type="vanished">Beviteli mező automatikus átméretezése</translation>
-    </message>
-    <message>
-        <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation type="vanished">Lap-gyorsbillentyűk engedélyezése, Alt+[0-9] </translation>
-    </message>
-    <message>
         <source>Default action</source>
         <translation>Alap cselekvés</translation>
     </message>
     <message>
-        <source>Message</source>
-        <translation type="vanished">Üzenet</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation type="vanished">Beszélgetés</translation>
-    </message>
-    <message>
         <source>Delete chat window contents</source>
         <translation type="vanished">A beszélgetésablak tartalmának törlése</translation>
-    </message>
-    <message>
-        <source>When chat window is closed</source>
-        <translation type="vanished">A beszélgetésablak bezárásakor</translation>
-    </message>
-    <message>
-        <source>One hour after chat window was closed</source>
-        <translation type="vanished">Egy órával a beszélgetésablak bezárása után</translation>
-    </message>
-    <message>
-        <source>One day after chat window was closed</source>
-        <translation type="vanished">Egy nappal a beszélgetésablak bezárása után</translation>
-    </message>
-    <message>
-        <source>Never</source>
-        <translation type="vanished">Soha</translation>
     </message>
     <message>
         <source>&amp;Message</source>
@@ -8896,11 +8532,11 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Show status changes</source>
-        <translation type="unfinished">Mutassa az állapotváltozásokat</translation>
+        <translation>Mutassa az állapotváltozásokat</translation>
     </message>
     <message>
         <source>Show status with priority</source>
-        <translation type="unfinished">Mutass az állapotot prioritással együtt</translation>
+        <translation>Mutass az állapotot prioritással együtt</translation>
     </message>
 </context>
 <context>
@@ -9061,15 +8697,15 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished">Fülek</translation>
+        <translation>Fülek</translation>
     </message>
     <message>
         <source>Action for mouse middle click on tabs:</source>
-        <translation type="unfinished">Középső egérgomb szerepe füleken:</translation>
+        <translation>Középső egérgomb szerepe füleken:</translation>
     </message>
     <message>
         <source>Action for mouse double click on tabs:</source>
-        <translation type="unfinished">Dupla kattintás szerepe füleken:</translation>
+        <translation>Dupla kattintás szerepe füleken:</translation>
     </message>
 </context>
 <context>
@@ -9196,125 +8832,6 @@ Címkék: %1</translation>
     <message>
         <source>Durations, sec.</source>
         <translation>Időtartam, mp</translation>
-    </message>
-</context>
-<context>
-    <name>OptRoster</name>
-    <message>
-        <source>OptApplicationUI</source>
-        <translation type="vanished">OptApplicationUI</translation>
-    </message>
-    <message>
-        <source>Roster window always on top</source>
-        <translation type="vanished">Címlista mindig felül</translation>
-    </message>
-    <message>
-        <source>Auto-resize contact list</source>
-        <translation type="vanished">Címlista automatikus átméretezése</translation>
-    </message>
-    <message>
-        <source>Use left-click for menu</source>
-        <translation type="vanished">Bal gomb használata menühöz</translation>
-    </message>
-    <message>
-        <source>Show menubar</source>
-        <translation type="vanished">Menüsáv megjelenítése</translation>
-    </message>
-    <message>
-        <source>Disables scrollbar in the application window.</source>
-        <translation type="vanished">Görgetősáv kikapcsolása a programablakban</translation>
-    </message>
-    <message>
-        <source>Disable scrollbar</source>
-        <translation type="vanished">Görgetősáv kikapcsolása</translation>
-    </message>
-    <message>
-        <source>Enables avatar frame at the top of roster</source>
-        <translation type="vanished">Engedélyezze a profilkép előnézetét a címlista tetején</translation>
-    </message>
-    <message>
-        <source>Enable roster avatar frame</source>
-        <translation type="vanished">Engedélyezze a profilkép előnézetét a címlistában</translation>
-    </message>
-    <message>
-        <source>Autohide roster after</source>
-        <translation type="vanished">Ezután a címlista automatikus elrejtése</translation>
-    </message>
-    <message>
-        <source>Icons</source>
-        <translation type="vanished">Ikonok</translation>
-    </message>
-    <message>
-        <source>Show avatars in roster</source>
-        <translation type="vanished">Profilképek megjelenítése a címlistában</translation>
-    </message>
-    <message>
-        <source>Avatars</source>
-        <translation type="vanished">Profilképek</translation>
-    </message>
-    <message>
-        <source>Show moods in roster</source>
-        <translation type="vanished">Hangulatok megjelenítése a címlistában</translation>
-    </message>
-    <message>
-        <source>Moods</source>
-        <translation type="vanished">Hangulatok</translation>
-    </message>
-    <message>
-        <source>Show activities in roster</source>
-        <translation type="vanished">Tevékenységek megjelenítése a címlistában</translation>
-    </message>
-    <message>
-        <source>Activities</source>
-        <translation type="vanished">Tevékenységek</translation>
-    </message>
-    <message>
-        <source>Show geolocation in roster</source>
-        <translation type="vanished">Földrajzi helyzet megjelenítése a címlistában</translation>
-    </message>
-    <message>
-        <source>GeoLocation</source>
-        <translation type="vanished">Földrajzi Helyzet</translation>
-    </message>
-    <message>
-        <source>Show icon when contact is listening to music</source>
-        <translation type="vanished">Ikon mutatása ha az ismerős zenét hallgat</translation>
-    </message>
-    <message>
-        <source>Now playing</source>
-        <translation type="vanished">Jelenleg játszik</translation>
-    </message>
-    <message>
-        <source>Show icon of user client</source>
-        <translation type="vanished">Az ismerős kliensikonjának megjelenítése</translation>
-    </message>
-    <message>
-        <source>Clients</source>
-        <translation type="vanished">Kliensek</translation>
-    </message>
-    <message>
-        <source>all client icons</source>
-        <translation type="vanished">minden kliensikon</translation>
-    </message>
-    <message>
-        <source>only highest priority client icon</source>
-        <translation type="vanished">Csak a legmagasabb prioritású kliensikon</translation>
-    </message>
-    <message>
-        <source>Avatar settings</source>
-        <translation type="vanished">Profilkép beállítások</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation type="vanished">Méret</translation>
-    </message>
-    <message>
-        <source>Radius of corners</source>
-        <translation type="vanished">Sarkok rádiusza</translation>
-    </message>
-    <message>
-        <source>seconds (0 - never)</source>
-        <translation type="vanished">másodpercek (0 - soha)</translation>
     </message>
 </context>
 <context>
@@ -10491,14 +10008,6 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
         <translation>Engedélyezi a kliens távoli irányítását más helyekről</translation>
     </message>
     <message>
-        <source>Check this option if you want your spelling to be checked</source>
-        <translation type="vanished">Helyesírás-ellenőrzés engedélyezése</translation>
-    </message>
-    <message>
-        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation type="vanished">Bejövő üzenetek megjelenítése az ismerős stílus-beállítása szerint</translation>
-    </message>
-    <message>
         <source>Check this option if you want the selected text in incoming messages and chat log to be automatically copied to clipboard</source>
         <translation>Bejövő üzenetek és beszélgetésnaplók kijelölt szövege automatikusan vágólapra</translation>
     </message>
@@ -10521,10 +10030,6 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     <message>
         <source>Makes Psi show separate subject line in messages. Uncheck this if you want to save some screen space.</source>
         <translation>A tárgyat külön sorban mutatja üzeneteknél. Kapcsold ki ha spórolni akarsz egy kis helyet.</translation>
-    </message>
-    <message>
-        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation type="vanished">Üzenethossz-számláló. Kapcsold be, ha tudni akarod, hogy milyen hosszú az üzeneted. SMS-nél hasznos lehet.</translation>
     </message>
     <message>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
@@ -10673,10 +10178,6 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
         <translation>Alkalmazás általános beállításai</translation>
     </message>
     <message>
-        <source>Set or remove window decorations for roster and chats. For chats there are special header with close, hide and maximize buttons</source>
-        <translation type="vanished">Ablakdekoráció be- vagy kikapcsolása címlistánál és beszélgetéseknél. Beszélgetéseknél különleges címsorok vannak a bezárás, elrejtés és maximalizálás gombokkal.</translation>
-    </message>
-    <message>
         <source>Makes Psi use a docklet icon, also known as system tray icon.</source>
         <translation>Tálcaikon használata.</translation>
     </message>
@@ -10765,10 +10266,6 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     <message>
         <source>Makes Psi open chat windows in compact mode.</source>
         <translation>Beszélgetésablakok megnyitása tömörített módban.</translation>
-    </message>
-    <message>
-        <source>Makes Psi open chats in a tabbed window.</source>
-        <translation type="vanished">Beszélgetések megnyitása füleken, egy ablakban.</translation>
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
@@ -11066,26 +10563,6 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     <message>
         <source>Roster</source>
         <translation>Címlista</translation>
-    </message>
-    <message>
-        <source>Roster window options</source>
-        <translation type="vanished">Címlistaablak beállításai</translation>
-    </message>
-    <message>
-        <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation type="vanished">Psi főablaka mindig felül.</translation>
-    </message>
-    <message>
-        <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation type="vanished">Psi főablak automatikus átméretezése, hogy minden ismerős neve beleférjen.</translation>
-    </message>
-    <message>
-        <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation type="vanished">Alapértelmezés szerint, a jobb kattintás előhoz az ismerősön egy almenüt. Kapcsold ezt be, ha te inkább ballal kattintanál.</translation>
-    </message>
-    <message>
-        <source>Shows the menubar in the application window.</source>
-        <translation type="vanished">Menüsáv mutatása az alkalmazás ablakában.</translation>
     </message>
     <message>
         <source>Roster options</source>
@@ -12328,14 +11805,6 @@ Jelöld be a &lt;i&gt;Hangulatjelek engedélyezése&lt;/i&gt; opciót, ha szeret
         <translation>Alap művelet</translation>
     </message>
     <message>
-        <source>Message</source>
-        <translation type="vanished">Üzenet</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation type="vanished">Beszélgetés</translation>
-    </message>
-    <message>
         <source>Enable Emoticons</source>
         <translation>Hangulatjelek engedélyezése</translation>
     </message>
@@ -12745,10 +12214,6 @@ Ki akarsz jelentkezni?</translation>
         <translation>Nincs megfelelő metódus az adott biztonsági beállításokhoz (pl. SASL könyvtár túl gyenge, vagy a titkosítatlan bejelentkezés tiltva van)</translation>
     </message>
     <message>
-        <source>Bad server response</source>
-        <translation type="vanished">Rossz szerverválasz</translation>
-    </message>
-    <message>
         <source>Server failed mutual authentication</source>
         <translation>Nem sikerült a kölcsönös hitelesítés a szerverrel</translation>
     </message>
@@ -12763,10 +12228,6 @@ Ki akarsz jelentkezni?</translation>
     <message>
         <source>Invalid SASL mechanism</source>
         <translation>Érvénytelen SASL-eljárás</translation>
-    </message>
-    <message>
-        <source>Invalid realm</source>
-        <translation type="vanished">Érvénytelen tartomány (realm)</translation>
     </message>
     <message>
         <source>SASL mechanism too weak for this account</source>
@@ -13248,14 +12709,6 @@ Oka: %1.</translation>
         <translation>OlvassEl fájl megjelenítése</translation>
     </message>
     <message>
-        <source>User Guide (Online)</source>
-        <translation type="vanished">Felhasználói kézikönyv (Online)</translation>
-    </message>
-    <message>
-        <source>&amp;User Guide (Online)</source>
-        <translation type="vanished">&amp;Felhasználói kézikönyv (Online)</translation>
-    </message>
-    <message>
         <source>Wiki (Online)</source>
         <translation>Wiki (Online)</translation>
     </message>
@@ -13567,10 +13020,6 @@ Oka: %1.</translation>
     <message>
         <source>Options:</source>
         <translation>Beállítások:</translation>
-    </message>
-    <message>
-        <source>Go to &lt;http://psi-im.org/&gt; for more information about Psi.</source>
-        <translation type="vanished">Látogasd meg a &lt;http://psi-im.org/&gt; címet további információkért a Psi-ről.</translation>
     </message>
     <message>
         <source>Compiled with Qt %1</source>
@@ -14643,10 +14092,6 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
     <message>
         <source>File</source>
         <translation>Fájl</translation>
-    </message>
-    <message>
-        <source>Conversion Error</source>
-        <translation type="vanished">Konvertáláshiba</translation>
     </message>
     <message>
         <source>Offline</source>
@@ -15740,23 +15185,15 @@ Türelmét köszönjük.</translation>
     </message>
     <message>
         <source>Accepted</source>
-        <translation type="unfinished">Elfogadva</translation>
+        <translation>Elfogadva</translation>
     </message>
     <message>
         <source>Connecting</source>
-        <translation type="unfinished">Kapcsolódás</translation>
+        <translation>Kapcsolódás</translation>
     </message>
     <message>
         <source>Transferring</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation type="unfinished">Elrejtés</translation>
-    </message>
-    <message>
-        <source>Show</source>
-        <translation type="unfinished">Megjelenítés</translation>
     </message>
 </context>
 <context>
@@ -17726,28 +17163,8 @@ And these work only in groupchat dialog:
 <context>
     <name>TypeAheadFindBar</name>
     <message>
-        <source>Search: </source>
-        <translation type="vanished">Keresés: </translation>
-    </message>
-    <message>
         <source>&amp;Case sensitive</source>
         <translation>&amp;Kezdőbetű érzékeny</translation>
-    </message>
-    <message>
-        <source>First page</source>
-        <translation type="vanished">Első oldal</translation>
-    </message>
-    <message>
-        <source>Previous page</source>
-        <translation type="vanished">Előző oldal</translation>
-    </message>
-    <message>
-        <source>Next page</source>
-        <translation type="vanished">Következő oldal</translation>
-    </message>
-    <message>
-        <source>Last page</source>
-        <translation type="vanished">Utolsó oldal</translation>
     </message>
     <message>
         <source>Search</source>
@@ -18321,17 +17738,6 @@ Ablak bezárása mégis?</translation>
     <message>
         <source>%1 has invited you to a whiteboarding session. Would you like to join?</source>
         <translation>%1 meghívott téged egy rajztábla munkamenetre. Kívánsz csatlakozni?</translation>
-    </message>
-</context>
-<context>
-    <name>WebView</name>
-    <message>
-        <source>Quote</source>
-        <translation type="vanished">Idézet</translation>
-    </message>
-    <message>
-        <source>Ctrl+S</source>
-        <translation type="vanished">Ctrl+S</translation>
     </message>
 </context>
 <context>

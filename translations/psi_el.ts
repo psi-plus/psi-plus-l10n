@@ -7524,6 +7524,14 @@ Incoming event(s) from:</source>
         <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Hide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MainWindow</name>
@@ -7752,7 +7760,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished">Αποστολή</translation>
+        <translation>Αποστολή</translation>
     </message>
     <message>
         <source>%1 File(s)</source>
@@ -14816,14 +14824,6 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Transferring</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -53,10 +53,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>http://psi-im.org</source>
-        <translation type="vanished">http://psi-im.org</translation>
-    </message>
-    <message>
         <source>Authors</source>
         <translation>מחברים</translation>
     </message>
@@ -87,10 +83,6 @@
     <message>
         <source>Past Lead Developer</source>
         <translation>מפתח מוביל בדימוס</translation>
-    </message>
-    <message>
-        <source>Lead Widget Developer</source>
-        <translation type="vanished">מפתח תוכנית תרשימית מוביל</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -147,10 +139,6 @@
     <message>
         <source>Language coordinator; Debian Packager</source>
         <translation type="vanished">מתאם שפה, אורז Debian</translation>
-    </message>
-    <message>
-        <source>Language coordinator, miscellaneous assistance</source>
-        <translation type="vanished">מתאם שפה, סיוע מעורב</translation>
     </message>
     <message>
         <source>Former language coordinator, miscellaneous assistance</source>
@@ -333,21 +321,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <source>Default</source>
         <translation>ברירת מחדל</translation>
-    </message>
-</context>
-<context>
-    <name>AccountLoginPassword</name>
-    <message>
-        <source>Please enter the password for %1:</source>
-        <translation type="vanished">אנא הזן את הסיסמה עבור %1:</translation>
-    </message>
-    <message>
-        <source>Please enter your password:</source>
-        <translation type="vanished">אנא הזן את סיסמתך:</translation>
-    </message>
-    <message>
-        <source>Need Password</source>
-        <translation type="vanished">צריך סיסמה</translation>
     </message>
 </context>
 <context>
@@ -4654,29 +4627,6 @@ Reason: %3</source>
     </message>
 </context>
 <context>
-    <name>GCFindDlg</name>
-    <message>
-        <source>Find</source>
-        <translation type="vanished">מציאה</translation>
-    </message>
-    <message>
-        <source>Find:</source>
-        <translation type="vanished">מצא:</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;סגור</translation>
-    </message>
-    <message>
-        <source>&amp;Find</source>
-        <translation type="vanished">&amp;מצא</translation>
-    </message>
-    <message>
-        <source>Search string &apos;%1&apos; not found.</source>
-        <translation type="vanished">מחרוזת חיפוש &apos;%1&apos; לא נמצאה.</translation>
-    </message>
-</context>
-<context>
     <name>GCMainDlg</name>
     <message>
         <source>Find toolbar</source>
@@ -4737,10 +4687,6 @@ Reason: %1</source>
     <message>
         <source>Error: You are in or joining this room already!</source>
         <translation>שגיאה: הינך כבר בתוך או בתהליך הצטרפות לחדר זה!</translation>
-    </message>
-    <message>
-        <source>Unable to join groupchat.	Reason: %1</source>
-        <translation type="vanished">לא ניתן להצטרף אל שיחת קבוצה.	סיבה: %1</translation>
     </message>
     <message>
         <source>Unexpected groupchat error: %1</source>
@@ -5054,93 +5000,6 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>GCUserView</name>
-    <message>
-        <source>Moderators</source>
-        <translation type="vanished">אחראים</translation>
-    </message>
-    <message>
-        <source>Participants</source>
-        <translation type="vanished">משתתפים</translation>
-    </message>
-    <message>
-        <source>Visitors</source>
-        <translation type="vanished">מבקרים</translation>
-    </message>
-    <message>
-        <source>Send &amp;Message</source>
-        <translation type="vanished">שלח &amp;הודעה</translation>
-    </message>
-    <message>
-        <source>Open &amp;Chat Window</source>
-        <translation type="vanished">פתח &amp;חלון שיחה</translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation type="vanished">שיחה קולית</translation>
-    </message>
-    <message>
-        <source>E&amp;xecute Command</source>
-        <translation type="vanished">הרצת &amp;פקודה</translation>
-    </message>
-    <message>
-        <source>&amp;Kick</source>
-        <translation type="vanished">&amp;בעט</translation>
-    </message>
-    <message>
-        <source>No reason</source>
-        <translation type="vanished">בלי סיבה</translation>
-    </message>
-    <message>
-        <source>Custom reason</source>
-        <translation type="vanished">סיבה מותאמת</translation>
-    </message>
-    <message>
-        <source>&amp;Ban</source>
-        <translation type="vanished">&amp;אסור</translation>
-    </message>
-    <message>
-        <source>Change Role</source>
-        <translation type="vanished">שנה תפקיד</translation>
-    </message>
-    <message>
-        <source>Visitor</source>
-        <translation type="vanished">מבקר</translation>
-    </message>
-    <message>
-        <source>Participant</source>
-        <translation type="vanished">משתתף</translation>
-    </message>
-    <message>
-        <source>Moderator</source>
-        <translation type="vanished">אחראי</translation>
-    </message>
-    <message>
-        <source>Change Affiliation</source>
-        <translation type="vanished">שינוי סינוף</translation>
-    </message>
-    <message>
-        <source>Unaffiliated</source>
-        <translation type="vanished">נטול סינוף</translation>
-    </message>
-    <message>
-        <source>Member</source>
-        <translation type="vanished">חבר</translation>
-    </message>
-    <message>
-        <source>Administrator</source>
-        <translation type="vanished">מנהל</translation>
-    </message>
-    <message>
-        <source>Owner</source>
-        <translation type="vanished">בעלים</translation>
-    </message>
-    <message>
-        <source>User &amp;Info</source>
-        <translation type="vanished">&amp;מידע משתמש</translation>
-    </message>
-</context>
-<context>
     <name>GameBoard</name>
     <message>
         <source>White</source>
@@ -5414,7 +5273,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">ללא</translation>
+        <translation>ללא</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -5430,19 +5289,19 @@ You lost the game.</source>
     </message>
     <message>
         <source>Show joins</source>
-        <translation type="unfinished">הצג כניסות</translation>
+        <translation>הצג כניסות</translation>
     </message>
     <message>
         <source>Show status changes</source>
-        <translation type="unfinished">הצג שינויי מצב</translation>
+        <translation>הצג שינויי מצב</translation>
     </message>
     <message>
         <source>Show status with priority</source>
-        <translation type="unfinished">הצג מצב עם עדיפות</translation>
+        <translation>הצג מצב עם עדיפות</translation>
     </message>
     <message>
         <source>Show initial joins</source>
-        <translation type="unfinished">הצג כניסות ראשוניות</translation>
+        <translation>הצג כניסות ראשוניות</translation>
     </message>
 </context>
 <context>
@@ -5805,10 +5664,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <source>Set Keys</source>
         <translation>קבע מקשים</translation>
     </message>
-    <message>
-        <source>New Shortcut</source>
-        <translation type="vanished">קיצור דרך חדש</translation>
-    </message>
 </context>
 <context>
     <name>GroupChatBrowseWindowUI</name>
@@ -5914,10 +5769,6 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Set Groupchat Topic</source>
         <translation>הגדרת נושא שיחת קבוצה</translation>
-    </message>
-    <message>
-        <source>Text of topic</source>
-        <translation type="vanished">תמליל של נושא</translation>
     </message>
     <message>
         <source>Any Language</source>
@@ -6182,73 +6033,6 @@ You can select or deselect a contact for history removal from the context menu o
     <message>
         <source>Close</source>
         <translation>סגור</translation>
-    </message>
-</context>
-<context>
-    <name>HomeDirMigration</name>
-    <message>
-        <source>Import Wizard</source>
-        <translation type="vanished">אשף ייבוא</translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Import Settings and Data&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;ייבוא הגדרות ונתונים&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi+. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;העתקת דיוקן קיים אל המדור החדש מצריכה להריץ את Psi‪+‬. הדיוקן הישן לא יוסר. ביכולתך להסירו באופן ידני מאוחר יותר.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>Import Psi profile</source>
-        <translation type="vanished">ייבוא דיוקן Psi</translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Move the existing profile to the new directory. The old profile will be removed automatically when done.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;הזז הדיוקן המקורי את המדור החדש. הדיוקן הישן יוסר אוטומטית בעת סיום.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>Import Psi profile and remove it</source>
-        <translation type="vanished">ייבוא דיוקן Psi והסרתו</translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi+ profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;יצירת דיוקן Psi‪+‬ חדש. הדיוקן הישן לא יוסר, אולם לא תהיה ביכולתך לבחורו.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>Create new profile</source>
-        <translation type="vanished">יצירת דיוקן חדש</translation>
     </message>
 </context>
 <context>
@@ -7113,14 +6897,6 @@ Reason: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>white</source>
-        <translation type="vanished">לבן</translation>
-    </message>
-    <message>
-        <source>black</source>
-        <translation type="vanished">שחור</translation>
-    </message>
-    <message>
         <source>second</source>
         <comment>He wants to play second</comment>
         <translation>שני</translation>
@@ -7591,36 +7367,12 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
         <translation>זהות:</translation>
     </message>
     <message>
-        <source>Recent:</source>
-        <translation type="vanished">אחרונות:</translation>
-    </message>
-    <message>
         <source>Room information</source>
         <translation>מידע חדר</translation>
     </message>
     <message>
-        <source>Host:</source>
-        <translation type="vanished">מארח:</translation>
-    </message>
-    <message>
-        <source>Room:</source>
-        <translation type="vanished">חדר:</translation>
-    </message>
-    <message>
-        <source>Nickname:</source>
-        <translation type="vanished">שם כינוי:</translation>
-    </message>
-    <message>
-        <source>Password:</source>
-        <translation type="vanished">סיסמה:</translation>
-    </message>
-    <message>
         <source>Request chat history</source>
         <translation>בקש היסטוריית שיחה</translation>
-    </message>
-    <message>
-        <source>Bookmarks:</source>
-        <translation type="vanished">סימניות:</translation>
     </message>
     <message>
         <source>Nickname</source>
@@ -7875,6 +7627,14 @@ Incoming event(s) from:</source>
         <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Hide</source>
+        <translation>הסתר</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation>הצג</translation>
+    </message>
 </context>
 <context>
     <name>MainWindow</name>
@@ -8056,10 +7816,6 @@ Details: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>%1h%2m%3s remaining</source>
-        <translation type="vanished">%1h%2m%3s נותרו</translation>
-    </message>
-    <message>
         <source>[Failed]</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8108,7 +7864,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished">שליחה</translation>
+        <translation>שליחה</translation>
     </message>
     <message>
         <source>%1 File(s)</source>
@@ -8128,11 +7884,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished">שמור בשם</translation>
+        <translation>שמור בשם</translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished">כל הקבצים (*)</translation>
+        <translation>כל הקבצים (*)</translation>
     </message>
 </context>
 <context>
@@ -8278,14 +8034,6 @@ Tags: %1</source>
         <translation>אפשר שליטה מרוחקת ממקומות אחרים</translation>
     </message>
     <message>
-        <source>Check spelling</source>
-        <translation type="vanished">בדוק איות</translation>
-    </message>
-    <message>
-        <source>Use contacts&apos; message formatting</source>
-        <translation type="vanished">השתמש בעיצוב הודעה של איש קשר</translation>
-    </message>
-    <message>
         <source>Single-click triggers default action</source>
         <translation>לחיצה-בודדת מפעילה פעולה שגרתית</translation>
     </message>
@@ -8304,10 +8052,6 @@ Tags: %1</source>
     <message>
         <source>Show subject line in events</source>
         <translation>הצג שורת נושא באירועים</translation>
-    </message>
-    <message>
-        <source>Show character counter</source>
-        <translation type="vanished">הצג מונה תווים</translation>
     </message>
     <message>
         <source>Automatically get vCard when becoming online</source>
@@ -8554,10 +8298,6 @@ Tags: %1</source>
         <translation>אפשר רציפון</translation>
     </message>
     <message>
-        <source>Decorate windows</source>
-        <translation type="vanished">עטר חלונות</translation>
-    </message>
-    <message>
         <source>Docklet</source>
         <translation>רציפון</translation>
     </message>
@@ -8664,72 +8404,12 @@ Tags: %1</source>
         <translation>פתח שיחות במצב צפוף</translation>
     </message>
     <message>
-        <source>Use tabbed mode:</source>
-        <translation type="vanished">השתמש במצב כרטיסיות:</translation>
-    </message>
-    <message>
-        <source>for chats only</source>
-        <translation type="vanished">עבור שיחות בלבד</translation>
-    </message>
-    <message>
-        <source>for mucs only</source>
-        <translation type="vanished">עבור שיחות מרובות משתתפים בלבד</translation>
-    </message>
-    <message>
-        <source>for chats and mucs separately</source>
-        <translation type="vanished">הן עבור שיחות והן עבור שיחות מרובות משתתפים בנפרד</translation>
-    </message>
-    <message>
-        <source>for mucs and chats in one window</source>
-        <translation type="vanished">הן עבור שיחות והן עבור שיחות מרובות משתתפים בחלון אחד</translation>
-    </message>
-    <message>
-        <source>[customized]</source>
-        <translation type="vanished">[מותאם]</translation>
-    </message>
-    <message>
-        <source>Show tab buttons</source>
-        <translation type="vanished">הצג לחצני כרטיסייה</translation>
-    </message>
-    <message>
-        <source>Auto-resize text input field</source>
-        <translation type="vanished">שנה אוטומטית מידת שדה קלט טקסט</translation>
-    </message>
-    <message>
-        <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation type="vanished">אפשר קיצורי דרך כרטיסייה Alt-[0-9‪]</translation>
-    </message>
-    <message>
         <source>Default action</source>
         <translation>פעולה שגרתית</translation>
     </message>
     <message>
-        <source>Message</source>
-        <translation type="vanished">הודעה</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation type="vanished">שיחה</translation>
-    </message>
-    <message>
         <source>Delete chat window contents</source>
         <translation type="vanished">מחק תכני חלון שיחה</translation>
-    </message>
-    <message>
-        <source>When chat window is closed</source>
-        <translation type="vanished">כאשר חלון שיחה נסגר</translation>
-    </message>
-    <message>
-        <source>One hour after chat window was closed</source>
-        <translation type="vanished">כעבור שעה אחרי ששיחה נסגרה</translation>
-    </message>
-    <message>
-        <source>One day after chat window was closed</source>
-        <translation type="vanished">כעבור יום אחרי ששיחה נסגרה</translation>
-    </message>
-    <message>
-        <source>Never</source>
-        <translation type="vanished">אף פעם</translation>
     </message>
     <message>
         <source>&amp;Message</source>
@@ -8749,11 +8429,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show status changes</source>
-        <translation type="unfinished">הצג שינויי מצב</translation>
+        <translation>הצג שינויי מצב</translation>
     </message>
     <message>
         <source>Show status with priority</source>
-        <translation type="unfinished">הצג מצב עם עדיפות</translation>
+        <translation>הצג מצב עם עדיפות</translation>
     </message>
 </context>
 <context>
@@ -8914,7 +8594,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished">לשוניות</translation>
+        <translation>לשוניות</translation>
     </message>
     <message>
         <source>Action for mouse middle click on tabs:</source>
@@ -9049,93 +8729,6 @@ Tags: %1</source>
     <message>
         <source>Durations, sec.</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>OptRoster</name>
-    <message>
-        <source>Auto-resize contact list</source>
-        <translation type="vanished">שינוי גודל אוטומטי של רשימת קשר</translation>
-    </message>
-    <message>
-        <source>Show menubar</source>
-        <translation type="vanished">הצג שורת תפריט</translation>
-    </message>
-    <message>
-        <source>Disables scrollbar in the application window.</source>
-        <translation type="vanished">נטרל פס גלילה בחלון היישום.</translation>
-    </message>
-    <message>
-        <source>Disable scrollbar</source>
-        <translation type="vanished">נטרל פס גלילה</translation>
-    </message>
-    <message>
-        <source>Icons</source>
-        <translation type="vanished">צלמיות</translation>
-    </message>
-    <message>
-        <source>Show avatars in roster</source>
-        <translation type="vanished">הצגת אווטארים ברשימה</translation>
-    </message>
-    <message>
-        <source>Avatars</source>
-        <translation type="vanished">אווטארים</translation>
-    </message>
-    <message>
-        <source>Show moods in roster</source>
-        <translation type="vanished">הצגת מצבי רוח ברשימה</translation>
-    </message>
-    <message>
-        <source>Moods</source>
-        <translation type="vanished">מצבי רוח</translation>
-    </message>
-    <message>
-        <source>Show activities in roster</source>
-        <translation type="vanished">הצגת פעילויות ברשימה</translation>
-    </message>
-    <message>
-        <source>Activities</source>
-        <translation type="vanished">פעילויות</translation>
-    </message>
-    <message>
-        <source>Show geolocation in roster</source>
-        <translation type="vanished">הצגת מיקום גאוגרפי ברשימה</translation>
-    </message>
-    <message>
-        <source>GeoLocation</source>
-        <translation type="vanished">מיקום גאוגרפי</translation>
-    </message>
-    <message>
-        <source>Show icon when contact is listening to music</source>
-        <translation type="vanished">הצגת צלמית כאשר איש קשר מאזין למוזיקה</translation>
-    </message>
-    <message>
-        <source>Now playing</source>
-        <translation type="vanished">מנגן עכשיו</translation>
-    </message>
-    <message>
-        <source>Show icon of user client</source>
-        <translation type="vanished">הצג צלמית של לקוח משתמש</translation>
-    </message>
-    <message>
-        <source>Clients</source>
-        <translation type="vanished">לקוחות</translation>
-    </message>
-    <message>
-        <source>all client icons</source>
-        <translation type="vanished">כל צלמיות לקוח</translation>
-    </message>
-    <message>
-        <source>Avatar settings</source>
-        <translation type="vanished">הגדרות אווטאר</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation type="vanished">מידה</translation>
-    </message>
-    <message>
-        <source>Radius of corners</source>
-        <translation type="vanished">רדיוס של פינות</translation>
     </message>
 </context>
 <context>
@@ -10244,14 +9837,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>מאפשרת שליטה מרחוק על הלקוח שלך ממקומות אחרים</translation>
     </message>
     <message>
-        <source>Check this option if you want your spelling to be checked</source>
-        <translation type="vanished">סמן את אפשרות זו אם ברצונך כי איות ייבדק</translation>
-    </message>
-    <message>
-        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation type="vanished">במידה ומאופשרת, Psi יציג הודעות נכנסות מעוצבות עם הסגנון שצוין על ידי איש קשר</translation>
-    </message>
-    <message>
         <source>Check this option if you want the selected text in incoming messages and chat log to be automatically copied to clipboard</source>
         <translation>סמן את אפשרות זו אם ברצונך שטקסט נבחר בהודעות נכנסות וביומני שיחות יועתק אוטומטית ללוח גזירות</translation>
     </message>
@@ -10274,10 +9859,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Makes Psi show separate subject line in messages. Uncheck this if you want to save some screen space.</source>
         <translation>במידה ואפשרות זו מסומנת, Psi יציג שורות נושא נפרדות בהודעות. ניתן שלא לסמן את אפשרות זו אם ברצונך לחסוך חלל מרקע.</translation>
-    </message>
-    <message>
-        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation type="vanished">במידה ואפשרות זו מסומנת, Psi יציג מונה אורך הודעה. ניתן לסמן את אפשרות זו אם ברצונך מהו אורך הודעתך. יכולה להיות שימושית בעת שימוש בטרנספורט SMS.</translation>
     </message>
     <message>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
@@ -10514,10 +10095,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Makes Psi open chat windows in compact mode.</source>
         <translation>במידה ואפשרות זו מסומנת, Psi יפתח חלונות שיחה במצב צפוף.</translation>
-    </message>
-    <message>
-        <source>Makes Psi open chats in a tabbed window.</source>
-        <translation type="vanished">במידה ואפשרות זו מסומנת, Psi יפתח שיחות בחלון בעל כרטיסיות.</translation>
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
@@ -10814,18 +10391,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Roster</source>
         <translation>רשימה</translation>
-    </message>
-    <message>
-        <source>Roster window options</source>
-        <translation type="vanished">אפשרויות חלון רשימה</translation>
-    </message>
-    <message>
-        <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation type="vanished">במידה ואפשרות זו מסומנת, החלון הראשי של Psi יימצא תמיד לפני חלונות אחרים.</translation>
-    </message>
-    <message>
-        <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation type="vanished">במידה ואפשרות זו מסומנת, החלון הראשי של Psi ישנה את גודלו אוטומטית כדי להתאים לכל אישי הקשר.</translation>
     </message>
     <message>
         <source>Roster options</source>
@@ -12065,14 +11630,6 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation>פעולה שגרתית</translation>
     </message>
     <message>
-        <source>Message</source>
-        <translation type="vanished">הודעה</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation type="vanished">שיחה</translation>
-    </message>
-    <message>
         <source>Enable Emoticons</source>
         <translation>אפשר רגשונים</translation>
     </message>
@@ -12482,10 +12039,6 @@ Do you want to log out ?</source>
         <translation>אין מנגנון מתאים זמין עבור הגדרות אבטחה נתונות (למשל ספריית SASL רפויה מדי, או שאימות גלוי לא אופשר)</translation>
     </message>
     <message>
-        <source>Bad server response</source>
-        <translation type="vanished">מענה שרת רע</translation>
-    </message>
-    <message>
         <source>Server failed mutual authentication</source>
         <translation>שרת נכשל באימות הדדי</translation>
     </message>
@@ -12500,10 +12053,6 @@ Do you want to log out ?</source>
     <message>
         <source>Invalid SASL mechanism</source>
         <translation>מנגנון SASL שגוי</translation>
-    </message>
-    <message>
-        <source>Invalid realm</source>
-        <translation type="vanished">תחום שגוי</translation>
     </message>
     <message>
         <source>SASL mechanism too weak for this account</source>
@@ -12983,14 +12532,6 @@ Reason: %1.</source>
     <message>
         <source>Show ReadMe file</source>
         <translation>הצג קובץ ReadMe</translation>
-    </message>
-    <message>
-        <source>User Guide (Online)</source>
-        <translation type="vanished">מדריך משתמש (מקוון)</translation>
-    </message>
-    <message>
-        <source>&amp;User Guide (Online)</source>
-        <translation type="vanished">מ&amp;דריך משתמש (מקוון)</translation>
     </message>
     <message>
         <source>Wiki (Online)</source>
@@ -14372,14 +13913,6 @@ Would you like to activate that session now?</source>
         <translation>קובץ</translation>
     </message>
     <message>
-        <source>Conversion Error</source>
-        <translation type="vanished">שגיאת המרה</translation>
-    </message>
-    <message>
-        <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
-        <translation type="vanished">נתוני תצורה של גרסא קודמת של Psi לא נמצאו, אך זה לא היה אפשרי להמיר אותם לעבוד עם הגרסא הנוכחית. ודא כי יש לך את ההרשאה המתאימה ושעותק אחר של Psi אינו מורץ, ונסה שוב.</translation>
-    </message>
-    <message>
         <source>Offline</source>
         <translation>לא מקוון</translation>
     </message>
@@ -15463,23 +14996,15 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Accepted</source>
-        <translation type="unfinished">נתקבלה</translation>
+        <translation>נתקבלה</translation>
     </message>
     <message>
         <source>Connecting</source>
-        <translation type="unfinished">כעת מתחבר</translation>
+        <translation>כעת מתחבר</translation>
     </message>
     <message>
         <source>Transferring</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation type="unfinished">הסתר</translation>
-    </message>
-    <message>
-        <source>Show</source>
-        <translation type="unfinished">הצג</translation>
     </message>
 </context>
 <context>
@@ -17439,28 +16964,8 @@ Note: Some server may disable transport registration to users from different ser
 <context>
     <name>TypeAheadFindBar</name>
     <message>
-        <source>Search: </source>
-        <translation type="vanished">חפש: </translation>
-    </message>
-    <message>
         <source>&amp;Case sensitive</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>First page</source>
-        <translation type="vanished">עמוד ראשון</translation>
-    </message>
-    <message>
-        <source>Previous page</source>
-        <translation type="vanished">עמוד אחורה</translation>
-    </message>
-    <message>
-        <source>Next page</source>
-        <translation type="vanished">עמוד קדימה</translation>
-    </message>
-    <message>
-        <source>Last page</source>
-        <translation type="vanished">עמוד אחרון</translation>
     </message>
     <message>
         <source>Search</source>
@@ -18034,13 +17539,6 @@ Do you still want to close the window?</source>
     <message>
         <source>%1 has invited you to a whiteboarding session. Would you like to join?</source>
         <translation>%1 הזמינך לסשן לוח לבן. האם ברצונך להצטרף?</translation>
-    </message>
-</context>
-<context>
-    <name>WebView</name>
-    <message>
-        <source>Quote</source>
-        <translation type="vanished">ציטוט</translation>
     </message>
 </context>
 <context>

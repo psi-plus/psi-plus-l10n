@@ -5335,7 +5335,7 @@ Hai perso la partita.</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Nessuno</translation>
+        <translation>Nessuno</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -5351,19 +5351,19 @@ Hai perso la partita.</translation>
     </message>
     <message>
         <source>Show joins</source>
-        <translation type="unfinished">Mostra adesioni</translation>
+        <translation>Mostra adesioni</translation>
     </message>
     <message>
         <source>Show status changes</source>
-        <translation type="unfinished">Mostra cambi di stato</translation>
+        <translation>Mostra cambi di stato</translation>
     </message>
     <message>
         <source>Show status with priority</source>
-        <translation type="unfinished">Mostra stato con priorità</translation>
+        <translation>Mostra stato con priorità</translation>
     </message>
     <message>
         <source>Show initial joins</source>
-        <translation type="unfinished">Mostra adesioni iniziali</translation>
+        <translation>Mostra adesioni iniziali</translation>
     </message>
 </context>
 <context>
@@ -7744,6 +7744,14 @@ Evento/i in arrivo da:</translation>
         <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
         <translation>Plugin PsiMedia non caricato o non inizializzato.&lt;br&gt;Controlla &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; per maggiori dettagli.</translation>
     </message>
+    <message>
+        <source>Hide</source>
+        <translation>Nascondi</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation>Mostra</translation>
+    </message>
 </context>
 <context>
     <name>MainWindow</name>
@@ -8560,11 +8568,11 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Show status changes</source>
-        <translation type="unfinished">Mostra cambi di stato</translation>
+        <translation>Mostra cambi di stato</translation>
     </message>
     <message>
         <source>Show status with priority</source>
-        <translation type="unfinished">Mostra stato con priorità</translation>
+        <translation>Mostra stato con priorità</translation>
     </message>
 </context>
 <context>
@@ -9369,10 +9377,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Tune Controllers</source>
         <translation>Controllori Brano</translation>
-    </message>
-    <message>
-        <source>Publish information about the music being played</source>
-        <translation type="vanished">Pubblica informazioni sulla musica che si sta ascoltando</translation>
     </message>
     <message>
         <source>Publish Tunes</source>
@@ -15238,14 +15242,6 @@ Grazie per la tua pazienza.</translation>
     <message>
         <source>Transferring</source>
         <translation>Trasferimento</translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation type="unfinished">Nascondi</translation>
-    </message>
-    <message>
-        <source>Show</source>
-        <translation type="unfinished">Mostra</translation>
     </message>
 </context>
 <context>

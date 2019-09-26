@@ -4568,29 +4568,6 @@ Dôvod: %3</translation>
     </message>
 </context>
 <context>
-    <name>GCFindDlg</name>
-    <message>
-        <source>Find</source>
-        <translation type="vanished">Nájsť</translation>
-    </message>
-    <message>
-        <source>Find:</source>
-        <translation type="vanished">Nájsť:</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Zatvoriť</translation>
-    </message>
-    <message>
-        <source>&amp;Find</source>
-        <translation type="vanished">&amp;Nájsť</translation>
-    </message>
-    <message>
-        <source>Search string &apos;%1&apos; not found.</source>
-        <translation type="vanished">Hľadaný reťazec &apos;%1&apos; nebol nájdený.</translation>
-    </message>
-</context>
-<context>
     <name>GCMainDlg</name>
     <message>
         <source>Find toolbar</source>
@@ -4963,13 +4940,6 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>GCUserView</name>
-    <message>
-        <source>User &amp;Info</source>
-        <translation type="vanished">&amp;Info o Užívateľovi</translation>
-    </message>
-</context>
-<context>
     <name>GameBoard</name>
     <message>
         <source>White</source>
@@ -5234,7 +5204,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Žiadny</translation>
+        <translation>Žiadny</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -7570,6 +7540,14 @@ Incoming event(s) from:</source>
         <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Hide</source>
+        <translation>Skryť</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MainWindow</name>
@@ -7743,15 +7721,11 @@ Details: %1</source>
     </message>
     <message>
         <source>[Stalled]</source>
-        <translation type="unfinished">[Zastavené]</translation>
+        <translation>[Zastavené]</translation>
     </message>
     <message>
         <source>%1%2/s</source>
-        <translation type="unfinished">%1%2/s</translation>
-    </message>
-    <message>
-        <source>%1h%2m%3s remaining</source>
-        <translation type="obsolete">zostáva %1h%2m%3s</translation>
+        <translation>%1%2/s</translation>
     </message>
     <message>
         <source>[Failed]</source>
@@ -7759,7 +7733,7 @@ Details: %1</source>
     </message>
     <message>
         <source>[Done]</source>
-        <translation type="unfinished">[Hotovo]</translation>
+        <translation>[Hotovo]</translation>
     </message>
     <message>
         <source>Reject</source>
@@ -7822,11 +7796,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished">Uložiť Ako</translation>
+        <translation>Uložiť Ako</translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished">Všetky súbory (*)</translation>
+        <translation>Všetky súbory (*)</translation>
     </message>
 </context>
 <context>
@@ -8345,10 +8319,6 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Chat</source>
-        <translation type="vanished">Chat</translation>
-    </message>
-    <message>
         <source>&amp;Message</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8666,13 +8636,6 @@ Tags: %1</source>
     <message>
         <source>Durations, sec.</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>OptRoster</name>
-    <message>
-        <source>Size</source>
-        <translation type="vanished">Veľkosť</translation>
     </message>
 </context>
 <context>
@@ -9763,10 +9726,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Umožní Psi zobrazovať osobytný riadok s Predmetom v správach. Vypni si to, ak chceš ušetriť miesto na obrazovke.</translation>
     </message>
     <message>
-        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation type="vanished">Umožní Psi zobrazovať počítadlo znakov v správach. Vhodné, ak posielaš SMSky a chceš vedieť, koľko znakov si použil.</translation>
-    </message>
-    <message>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
         <translation>Psi vždy pri prihlásení načíta tvoju vCard. Ak chceš ušetriť trochu trafiky, môžeš vypnúť túto možnosť.</translation>
     </message>
@@ -10001,10 +9960,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Makes Psi open chat windows in compact mode.</source>
         <translation>Umožní Psi otvárať chat-y v kompaktnej veľkosti.</translation>
-    </message>
-    <message>
-        <source>Makes Psi open chats in a tabbed window.</source>
-        <translation type="vanished">Umožní Psi otvárať chat-y v záložkách (tab-och).</translation>
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
@@ -11534,10 +11489,6 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Chat</source>
-        <translation type="vanished">Chat</translation>
-    </message>
-    <message>
         <source>Enable Emoticons</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11947,10 +11898,6 @@ Chceš sa odhlásiť?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Bad server response</source>
-        <translation type="vanished">Chybná odpoveď servera</translation>
-    </message>
-    <message>
         <source>Server failed mutual authentication</source>
         <translation>Server odoprel spoločnú autentifikáciu</translation>
     </message>
@@ -11965,10 +11912,6 @@ Chceš sa odhlásiť?</translation>
     <message>
         <source>Invalid SASL mechanism</source>
         <translation>Chybný SASL mechanizmus</translation>
-    </message>
-    <message>
-        <source>Invalid realm</source>
-        <translation type="vanished">Chybné realm</translation>
     </message>
     <message>
         <source>SASL mechanism too weak for this account</source>
@@ -12446,14 +12389,6 @@ Reason: %1.</source>
     <message>
         <source>Show ReadMe file</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>User Guide (Online)</source>
-        <translation type="vanished">Používateľská dokumentácia (Online)</translation>
-    </message>
-    <message>
-        <source>&amp;User Guide (Online)</source>
-        <translation type="vanished">Používateľská dok&amp;umentácia (Online)</translation>
     </message>
     <message>
         <source>Wiki (Online)</source>
@@ -14910,18 +14845,10 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Connecting</source>
-        <translation type="unfinished">Pripájanie</translation>
+        <translation>Pripájanie</translation>
     </message>
     <message>
         <source>Transferring</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation type="unfinished">Skryť</translation>
-    </message>
-    <message>
-        <source>Show</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -85,10 +85,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Lead Widget Developer</source>
-        <translation type="vanished">Ĉefa Fenestraĵprogramisto</translation>
-    </message>
-    <message>
         <source>Developer</source>
         <translation>Programisto</translation>
     </message>
@@ -107,10 +103,6 @@
     <message>
         <source>Psimedia Patcher and Wiki English localization</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Language coordinator, miscellaneous assistance</source>
-        <translation type="vanished">Lingva kunordiganto, diversa helpado</translation>
     </message>
     <message>
         <source>Former language coordinator, miscellaneous assistance</source>
@@ -4582,29 +4574,6 @@ Kialo: %3</translation>
     </message>
 </context>
 <context>
-    <name>GCFindDlg</name>
-    <message>
-        <source>Find</source>
-        <translation type="vanished">Trovi</translation>
-    </message>
-    <message>
-        <source>Find:</source>
-        <translation type="vanished">Trovi:</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Fermi</translation>
-    </message>
-    <message>
-        <source>&amp;Find</source>
-        <translation type="vanished">&amp;Trovi</translation>
-    </message>
-    <message>
-        <source>Search string &apos;%1&apos; not found.</source>
-        <translation type="vanished">Serĉoĉeno &apos;%1&apos; ne troviĝis.</translation>
-    </message>
-</context>
-<context>
     <name>GCMainDlg</name>
     <message>
         <source>Find toolbar</source>
@@ -4978,49 +4947,6 @@ Kialo: %1</translation>
     </message>
 </context>
 <context>
-    <name>GCUserView</name>
-    <message>
-        <source>Moderators</source>
-        <translation type="vanished">Kontrolantoj</translation>
-    </message>
-    <message>
-        <source>Participants</source>
-        <translation type="vanished">Partoprenantoj</translation>
-    </message>
-    <message>
-        <source>Visitors</source>
-        <translation type="vanished">Vizitantoj</translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation type="vanished">Alvoko</translation>
-    </message>
-    <message>
-        <source>&amp;Kick</source>
-        <translation type="vanished">&amp;Forĵeti</translation>
-    </message>
-    <message>
-        <source>&amp;Ban</source>
-        <translation type="vanished">&amp;Forbari</translation>
-    </message>
-    <message>
-        <source>Visitor</source>
-        <translation type="vanished">Vizitanto</translation>
-    </message>
-    <message>
-        <source>Participant</source>
-        <translation type="vanished">Partoprenanto</translation>
-    </message>
-    <message>
-        <source>Moderator</source>
-        <translation type="vanished">Kontrolanto</translation>
-    </message>
-    <message>
-        <source>User &amp;Info</source>
-        <translation type="vanished">Malfermi &amp;babilan fenestron</translation>
-    </message>
-</context>
-<context>
     <name>GameBoard</name>
     <message>
         <source>White</source>
@@ -5285,7 +5211,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Neniu</translation>
+        <translation>Neniu</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -7622,6 +7548,14 @@ Incoming event(s) from:</source>
         <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Hide</source>
+        <translation>Kaŝi</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MainWindow</name>
@@ -7795,15 +7729,11 @@ Details: %1</source>
     </message>
     <message>
         <source>[Stalled]</source>
-        <translation type="unfinished">[Senmova]</translation>
+        <translation>[Senmova]</translation>
     </message>
     <message>
         <source>%1%2/s</source>
-        <translation type="unfinished">%1%2/s</translation>
-    </message>
-    <message>
-        <source>%1h%2m%3s remaining</source>
-        <translation type="obsolete">Restas %1h%2m%3s</translation>
+        <translation>%1%2/s</translation>
     </message>
     <message>
         <source>[Failed]</source>
@@ -7811,7 +7741,7 @@ Details: %1</source>
     </message>
     <message>
         <source>[Done]</source>
-        <translation type="unfinished">[Farita]</translation>
+        <translation>[Farita]</translation>
     </message>
     <message>
         <source>Reject</source>
@@ -7874,11 +7804,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished">Konservi Kiel</translation>
+        <translation>Konservi Kiel</translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished">Ĉiuj dosieroj (*)</translation>
+        <translation>Ĉiuj dosieroj (*)</translation>
     </message>
 </context>
 <context>
@@ -8397,18 +8327,6 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Message</source>
-        <translation type="vanished">Mesaĝo</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation type="vanished">Babilo</translation>
-    </message>
-    <message>
-        <source>Never</source>
-        <translation type="vanished">Neniam</translation>
-    </message>
-    <message>
         <source>&amp;Message</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8726,13 +8644,6 @@ Tags: %1</source>
     <message>
         <source>Durations, sec.</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>OptRoster</name>
-    <message>
-        <source>Size</source>
-        <translation type="vanished">Grandeco</translation>
     </message>
 </context>
 <context>
@@ -9801,14 +9712,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Ŝaltas la foran kontrolon de via kliento el aliaj lokoj</translation>
     </message>
     <message>
-        <source>Check this option if you want your spelling to be checked</source>
-        <translation type="vanished">Ŝaltu tiun opcion se vi volas, ke via ortografio estas kontrolata</translation>
-    </message>
-    <message>
-        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation type="vanished">Se ŝaltita, Psi montros la enirantajn mesaĝojn per la formato, kiun difinis la kontakto</translation>
-    </message>
-    <message>
         <source>Check this option if you want the selected text in incoming messages and chat log to be automatically copied to clipboard</source>
         <translation>Ŝaltu tiun opcion se vi volas, ke la elektita teksto en enirantaj mesaĝoj kaj babila historio estu aŭtomate kopiita en la poŝo</translation>
     </message>
@@ -9831,10 +9734,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Makes Psi show separate subject line in messages. Uncheck this if you want to save some screen space.</source>
         <translation>Psio montru disigitan teman linion en mesaĝoj. Malelektu tion ĉi se vi volas ŝpari iom da ekrana spaco.</translation>
-    </message>
-    <message>
-        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation type="vanished">Psio montru kalkulilon de longeco de mesaĝo. Elektu tion ĉi se vivolas scii kiom longas vian mesaĝon. Tio ĉi eble utilas, se vi uzas SMSan transporton.</translation>
     </message>
     <message>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
@@ -10071,10 +9970,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Makes Psi open chat windows in compact mode.</source>
         <translation>Psi malfermu babilajn fenestrojn en kompakta maniero.</translation>
-    </message>
-    <message>
-        <source>Makes Psi open chats in a tabbed window.</source>
-        <translation type="vanished">Malfermigi Psi babilajn fenestrojn en langeta fenestro.</translation>
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
@@ -11605,14 +11500,6 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Message</source>
-        <translation type="vanished">Mesaĝo</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation type="vanished">Babilo</translation>
-    </message>
-    <message>
         <source>Enable Emoticons</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12022,10 +11909,6 @@ Do you want to log out ?</source>
         <translation>Neniu taŭga meĥanismo haveblas por la difinita sekureca agordo (ekz. SASL biblioteko tro malforta aŭ platteksta aŭtentigo malŝaltita)</translation>
     </message>
     <message>
-        <source>Bad server response</source>
-        <translation type="vanished">Malbona respondo de servilo</translation>
-    </message>
-    <message>
         <source>Server failed mutual authentication</source>
         <translation>Servilo malsukcesis en mutuala aŭtentikado</translation>
     </message>
@@ -12040,10 +11923,6 @@ Do you want to log out ?</source>
     <message>
         <source>Invalid SASL mechanism</source>
         <translation>Nevalida SASLa meĥanismo</translation>
-    </message>
-    <message>
-        <source>Invalid realm</source>
-        <translation type="vanished">Nevalida regno</translation>
     </message>
     <message>
         <source>SASL mechanism too weak for this account</source>
@@ -12522,14 +12401,6 @@ Kialo: %1.</translation>
     <message>
         <source>Show ReadMe file</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>User Guide (Online)</source>
-        <translation type="vanished">Gvido de Uzanto (enrete)</translation>
-    </message>
-    <message>
-        <source>&amp;User Guide (Online)</source>
-        <translation type="vanished">Gvido de &amp;Uzanto (enrete)</translation>
     </message>
     <message>
         <source>Wiki (Online)</source>
@@ -14980,22 +14851,14 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Accepted</source>
-        <translation type="unfinished">Akceptita</translation>
+        <translation>Akceptita</translation>
     </message>
     <message>
         <source>Connecting</source>
-        <translation type="unfinished">Konektantas</translation>
+        <translation>Konektantas</translation>
     </message>
     <message>
         <source>Transferring</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation type="unfinished">Kaŝi</translation>
-    </message>
-    <message>
-        <source>Show</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16736,14 +16599,6 @@ Please correct and try again.</source>
 </context>
 <context>
     <name>TipDlg</name>
-    <message>
-        <source>Hello! Thank you for downloading Psi!
-We hope that you will enjoy using it as we have enjoyed making it!
-&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;http://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="vanished">Saluton! Dankon pro elŝuto de Psi!Ni esperas ke vi ĝuos uzi ĝin same, kiel ni ĝuis farante ĝin!&lt;br&gt;&lt;br&gt;Se vi volas elŝuti tradukon alilingvan, piktogramaron, aŭ novan version de Psi, vi devos viziti la &lt;a href=&quot;http://psi-im.com&quot;&gt;TTT-paĝon de Psi&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Se vi pensas ke vi trovis cimon aŭ vi volas simple babili kun aliaj uzantoj de Psi, vizitu la &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Forumojn de Psi&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;la Teamo de Psi&lt;/i&gt;&lt;/div&gt;</translation>
-    </message>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
         <translation type="vanished">Vi povas elekti plurajn mienpiktogramarojn, kaj fiksi al ili prioritatojn per la elekta dialogujo.</translation>

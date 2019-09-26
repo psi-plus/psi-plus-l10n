@@ -4392,22 +4392,6 @@ that outgoing TCP connections are allowed.</source>
 <context>
     <name>FileShareDownloader::Private</name>
     <message>
-        <source>Bits of binary download failed</source>
-        <translation type="vanished">二进制位数下载失败</translation>
-    </message>
-    <message>
-        <source>Invalid Jingle-FT uri</source>
-        <translation type="vanished">无效Jingle-FT链接</translation>
-    </message>
-    <message>
-        <source>Unexpected content add</source>
-        <translation type="vanished">意外内容添加</translation>
-    </message>
-    <message>
-        <source>Jingle download failed</source>
-        <translation type="vanished">Jingle下载失败</translation>
-    </message>
-    <message>
         <source>Download sources are not given</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5337,7 +5321,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>无</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -5353,19 +5337,19 @@ You lost the game.</source>
     </message>
     <message>
         <source>Show joins</source>
-        <translation type="unfinished">显示加入</translation>
+        <translation>显示加入</translation>
     </message>
     <message>
         <source>Show status changes</source>
-        <translation type="unfinished">显示状态的变化</translation>
+        <translation>显示状态的变化</translation>
     </message>
     <message>
         <source>Show status with priority</source>
-        <translation type="unfinished">显示优先状态</translation>
+        <translation>显示优先状态</translation>
     </message>
     <message>
         <source>Show initial joins</source>
-        <translation type="unfinished">显示初始加入</translation>
+        <translation>显示初始加入</translation>
     </message>
 </context>
 <context>
@@ -7178,7 +7162,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Jingle download failed</source>
-        <translation type="unfinished">Jingle下载失败</translation>
+        <translation>Jingle下载失败</translation>
     </message>
 </context>
 <context>
@@ -7737,6 +7721,14 @@ Incoming event(s) from:</source>
     <message>
         <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
         <translation>PsiMedia插件未加载或未初始化。&lt;br&gt;请查看&lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt;获取更多信息。</translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation>隐藏</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation>显示</translation>
     </message>
 </context>
 <context>
@@ -8552,11 +8544,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show status changes</source>
-        <translation type="unfinished">显示状态的变化</translation>
+        <translation>显示状态的变化</translation>
     </message>
     <message>
         <source>Show status with priority</source>
-        <translation type="unfinished">显示优先状态</translation>
+        <translation>显示优先状态</translation>
     </message>
 </context>
 <context>
@@ -8717,15 +8709,15 @@ Tags: %1</source>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished">标签</translation>
+        <translation>标签</translation>
     </message>
     <message>
         <source>Action for mouse middle click on tabs:</source>
-        <translation type="unfinished">在标签上单击鼠标中键的动作:</translation>
+        <translation>在标签上单击鼠标中键的动作:</translation>
     </message>
     <message>
         <source>Action for mouse double click on tabs:</source>
-        <translation type="unfinished">在标签上双击鼠标中键的动作:</translation>
+        <translation>在标签上双击鼠标中键的动作:</translation>
     </message>
 </context>
 <context>
@@ -15200,14 +15192,6 @@ Thanks for your patience.</source>
     <message>
         <source>Transferring</source>
         <translation>发送中</translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation type="unfinished">隐藏</translation>
-    </message>
-    <message>
-        <source>Show</source>
-        <translation type="unfinished">显示</translation>
     </message>
 </context>
 <context>

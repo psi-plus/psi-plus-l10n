@@ -4567,29 +4567,6 @@ Syy: %3</translation>
     </message>
 </context>
 <context>
-    <name>GCFindDlg</name>
-    <message>
-        <source>Find</source>
-        <translation type="vanished">Etsi</translation>
-    </message>
-    <message>
-        <source>Find:</source>
-        <translation type="vanished">Etsi:</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Sulje</translation>
-    </message>
-    <message>
-        <source>&amp;Find</source>
-        <translation type="vanished">&amp;Etsi</translation>
-    </message>
-    <message>
-        <source>Search string &apos;%1&apos; not found.</source>
-        <translation type="vanished">Hakusanaa &apos;%1&apos; ei löytynyt.</translation>
-    </message>
-</context>
-<context>
     <name>GCMainDlg</name>
     <message>
         <source>Find toolbar</source>
@@ -4962,13 +4939,6 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>GCUserView</name>
-    <message>
-        <source>User &amp;Info</source>
-        <translation type="vanished">&amp;Käyttäjätiedot</translation>
-    </message>
-</context>
-<context>
     <name>GameBoard</name>
     <message>
         <source>White</source>
@@ -5233,7 +5203,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Ei mitään</translation>
+        <translation>Ei mitään</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -7568,6 +7538,14 @@ Incoming event(s) from:</source>
         <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Hide</source>
+        <translation>Piilota</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MainWindow</name>
@@ -7741,15 +7719,11 @@ Details: %1</source>
     </message>
     <message>
         <source>[Stalled]</source>
-        <translation type="unfinished">[Pysähdyksissä]</translation>
+        <translation>[Pysähdyksissä]</translation>
     </message>
     <message>
         <source>%1%2/s</source>
-        <translation type="unfinished">%1%2/s</translation>
-    </message>
-    <message>
-        <source>%1h%2m%3s remaining</source>
-        <translation type="obsolete">%1t%2m%3s jäljellä</translation>
+        <translation>%1%2/s</translation>
     </message>
     <message>
         <source>[Failed]</source>
@@ -7757,7 +7731,7 @@ Details: %1</source>
     </message>
     <message>
         <source>[Done]</source>
-        <translation type="unfinished">[Valmis]</translation>
+        <translation>[Valmis]</translation>
     </message>
     <message>
         <source>Reject</source>
@@ -7820,11 +7794,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished">Tallenna nimellä</translation>
+        <translation>Tallenna nimellä</translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished">Kaikki tiedostot (*)</translation>
+        <translation>Kaikki tiedostot (*)</translation>
     </message>
 </context>
 <context>
@@ -8343,10 +8317,6 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Chat</source>
-        <translation type="vanished">Keskustelu</translation>
-    </message>
-    <message>
         <source>&amp;Message</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8664,13 +8634,6 @@ Tags: %1</source>
     <message>
         <source>Durations, sec.</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>OptRoster</name>
-    <message>
-        <source>Size</source>
-        <translation type="vanished">Koko</translation>
     </message>
 </context>
 <context>
@@ -9759,10 +9722,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Makes Psi show separate subject line in messages. Uncheck this if you want to save some screen space.</source>
         <translation>Saa Psin näyttämään erillisen aiherivin viesteissä. Poista käytöstä, jos tahdot säästää hieman työpöytätilaa.</translation>
-    </message>
-    <message>
-        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation type="vanished">Saa Psin näyttämään viesteille pituuslaskurin. Rastita tämä, jos tahdot tietää kuinka pitkä viestisi on. Voi olla hyödyllinen SMS-välityspalvelua käytettäessä.</translation>
     </message>
     <message>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
@@ -11528,10 +11487,6 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Chat</source>
-        <translation type="vanished">Keskustelu</translation>
-    </message>
-    <message>
         <source>Enable Emoticons</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11940,10 +11895,6 @@ Do you want to log out ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Bad server response</source>
-        <translation type="vanished">Kelvoton vastaus palvelimelta</translation>
-    </message>
-    <message>
         <source>Server failed mutual authentication</source>
         <translation>Palvelin ei läpäissyt molemminpuolista tunnistautumista</translation>
     </message>
@@ -11958,10 +11909,6 @@ Do you want to log out ?</source>
     <message>
         <source>Invalid SASL mechanism</source>
         <translation>Virheellinen SASL-mekanismi</translation>
-    </message>
-    <message>
-        <source>Invalid realm</source>
-        <translation type="vanished">Virheellinen alue</translation>
     </message>
     <message>
         <source>SASL mechanism too weak for this account</source>
@@ -14883,18 +14830,10 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Connecting</source>
-        <translation type="unfinished">yhdistetään</translation>
+        <translation>yhdistetään</translation>
     </message>
     <message>
         <source>Transferring</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation type="unfinished">Piilota</translation>
-    </message>
-    <message>
-        <source>Show</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

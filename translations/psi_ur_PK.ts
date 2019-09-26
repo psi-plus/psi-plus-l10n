@@ -53,10 +53,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>http://psi-im.org</source>
-        <translation type="vanished">http://psi-im.org</translation>
-    </message>
-    <message>
         <source>Authors</source>
         <translation>مصنفین</translation>
     </message>
@@ -89,10 +85,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Lead Widget Developer</source>
-        <translation type="vanished">رہ نما ویجٹ ترقی دہندہ</translation>
-    </message>
-    <message>
         <source>Developer</source>
         <translation>ترقی دہندہ</translation>
     </message>
@@ -111,10 +103,6 @@
     <message>
         <source>Psimedia Patcher and Wiki English localization</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Language coordinator, miscellaneous assistance</source>
-        <translation type="vanished">زبان رابطہ کار، متفرق اعانت</translation>
     </message>
     <message>
         <source>Former language coordinator, miscellaneous assistance</source>
@@ -295,21 +283,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <source>Default</source>
         <translation>طےشدہ</translation>
-    </message>
-</context>
-<context>
-    <name>AccountLoginPassword</name>
-    <message>
-        <source>Please enter the password for %1:</source>
-        <translation type="vanished">‫%1 کے لیے پاس ورڈ داخل کریں:</translation>
-    </message>
-    <message>
-        <source>Please enter your password:</source>
-        <translation type="vanished">اپنا پاس ورڈ داخل کریں:‏</translation>
-    </message>
-    <message>
-        <source>Need Password</source>
-        <translation type="vanished">پاس ورڈ چاہیے</translation>
     </message>
 </context>
 <context>
@@ -4602,29 +4575,6 @@ Reason: %3</source>
     </message>
 </context>
 <context>
-    <name>GCFindDlg</name>
-    <message>
-        <source>Find</source>
-        <translation type="vanished">ڈھونڈیں</translation>
-    </message>
-    <message>
-        <source>Find:</source>
-        <translation type="vanished">ڈھونڈیں:‏</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;بند کریں</translation>
-    </message>
-    <message>
-        <source>&amp;Find</source>
-        <translation type="vanished">ڈھونڈیں</translation>
-    </message>
-    <message>
-        <source>Search string &apos;%1&apos; not found.</source>
-        <translation type="vanished">&apos;%1&apos; تلاش سلک نہیں ملی۔</translation>
-    </message>
-</context>
-<context>
     <name>GCMainDlg</name>
     <message>
         <source>Find toolbar</source>
@@ -4684,10 +4634,6 @@ Reason: %1</source>
     <message>
         <source>Error: You are in or joining this room already!</source>
         <translation>نقص: آپ پہلے ہی اس کمرے میں ہیں یا شامل ہو رہے ہیں!‏</translation>
-    </message>
-    <message>
-        <source>Unable to join groupchat.	Reason: %1</source>
-        <translation type="vanished">گروپ بات چیت میں شامل ہونے میں ناکام۔ دلیل‫: %1‏</translation>
     </message>
     <message>
         <source>Unexpected groupchat error: %1</source>
@@ -5001,73 +4947,6 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>GCUserView</name>
-    <message>
-        <source>Moderators</source>
-        <translation type="vanished">ثالثین</translation>
-    </message>
-    <message>
-        <source>Participants</source>
-        <translation type="vanished">شرکا</translation>
-    </message>
-    <message>
-        <source>Visitors</source>
-        <translation type="vanished">ملاحظہ کار</translation>
-    </message>
-    <message>
-        <source>Send &amp;Message</source>
-        <translation type="vanished">پیغام بھیجیں</translation>
-    </message>
-    <message>
-        <source>Open &amp;Chat Window</source>
-        <translation type="vanished">بات چیت دریچہ کھولیں</translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation type="vanished">آواز کال</translation>
-    </message>
-    <message>
-        <source>E&amp;xecute Command</source>
-        <translation type="vanished">حکم کا نفاذ کریں</translation>
-    </message>
-    <message>
-        <source>&amp;Kick</source>
-        <translation type="vanished">باہر دھکیلیں</translation>
-    </message>
-    <message>
-        <source>No reason</source>
-        <translation type="vanished">کوئی وجہ نہیں</translation>
-    </message>
-    <message>
-        <source>Custom reason</source>
-        <translation type="vanished">کسٹم وجہ</translation>
-    </message>
-    <message>
-        <source>&amp;Ban</source>
-        <translation type="vanished">روک دیں</translation>
-    </message>
-    <message>
-        <source>Change Role</source>
-        <translation type="vanished">رول تبدیل کریں</translation>
-    </message>
-    <message>
-        <source>Visitor</source>
-        <translation type="vanished">ملاحظہ کار</translation>
-    </message>
-    <message>
-        <source>Participant</source>
-        <translation type="vanished">شریک</translation>
-    </message>
-    <message>
-        <source>Moderator</source>
-        <translation type="vanished">ثالث</translation>
-    </message>
-    <message>
-        <source>User &amp;Info</source>
-        <translation type="vanished">صارف معلومات</translation>
-    </message>
-</context>
-<context>
     <name>GameBoard</name>
     <message>
         <source>White</source>
@@ -5340,7 +5219,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">کوئی نہیں</translation>
+        <translation>کوئی نہیں</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -6326,10 +6205,6 @@ You can select or deselect a contact for history removal from the context menu o
     <message>
         <source>Iconset Details: %1</source>
         <translation>شبیہ سیٹ تفصیلات:‫ %1‬</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&gt;psi-im.org&lt;/a&gt; </translation>
     </message>
     <message>
         <source>Description:</source>
@@ -7422,28 +7297,8 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
         <translation>تشخص</translation>
     </message>
     <message>
-        <source>Recent:</source>
-        <translation type="vanished">حالیہ:‏</translation>
-    </message>
-    <message>
         <source>Room information</source>
         <translation>کمرہ معلومات:‏</translation>
-    </message>
-    <message>
-        <source>Host:</source>
-        <translation type="vanished">میزبان:‏</translation>
-    </message>
-    <message>
-        <source>Room:</source>
-        <translation type="vanished">کمرہ:‏</translation>
-    </message>
-    <message>
-        <source>Nickname:</source>
-        <translation type="vanished">عرف:‏</translation>
-    </message>
-    <message>
-        <source>Password:</source>
-        <translation type="vanished">پاس ورڈ:‏</translation>
     </message>
     <message>
         <source>Request chat history</source>
@@ -7700,6 +7555,14 @@ Incoming event(s) from:</source>
         <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Hide</source>
+        <translation>چھپائیں</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MainWindow</name>
@@ -7873,15 +7736,11 @@ Details: %1</source>
     </message>
     <message>
         <source>[Stalled]</source>
-        <translation type="unfinished">[رکا ہوا]</translation>
+        <translation>[رکا ہوا]</translation>
     </message>
     <message>
         <source>%1%2/s</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1h%2m%3s remaining</source>
-        <translation type="obsolete">‏%1h%2m%3s بقیہ</translation>
     </message>
     <message>
         <source>[Failed]</source>
@@ -7889,11 +7748,11 @@ Details: %1</source>
     </message>
     <message>
         <source>[Done]</source>
-        <translation type="unfinished">مکمل</translation>
+        <translation>مکمل</translation>
     </message>
     <message>
         <source>Reject</source>
-        <translation type="unfinished">رد کریں</translation>
+        <translation>رد کریں</translation>
     </message>
     <message>
         <source>Description for</source>
@@ -7927,10 +7786,6 @@ Details: %1</source>
 <context>
     <name>MultiFileTransferDlg</name>
     <message>
-        <source>Dialog</source>
-        <translation type="obsolete">مکالمہ</translation>
-    </message>
-    <message>
         <source>Not selected</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7956,11 +7811,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished">محفوظ کریں بطور</translation>
+        <translation>محفوظ کریں بطور</translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished">تمام مسلیں(*)‏</translation>
+        <translation>تمام مسلیں(*)‏</translation>
     </message>
 </context>
 <context>
@@ -8105,14 +7960,6 @@ Tags: %1</source>
         <translation>دیگر محل وقوع سے بعید کنٹرول اہل بنائیں</translation>
     </message>
     <message>
-        <source>Check spelling</source>
-        <translation type="vanished">ہجے پڑتال کریں</translation>
-    </message>
-    <message>
-        <source>Use contacts&apos; message formatting</source>
-        <translation type="vanished">رابطہ پیغام وضع کاری استعمال کریں</translation>
-    </message>
-    <message>
         <source>Single-click triggers default action</source>
         <translation>سنگل کلک طےشدہ عمل کو تحرک دیتا ہے</translation>
     </message>
@@ -8131,10 +7978,6 @@ Tags: %1</source>
     <message>
         <source>Show subject line in events</source>
         <translation>وقوعات میں موضوع سطر نمائش کریں</translation>
-    </message>
-    <message>
-        <source>Show character counter</source>
-        <translation type="vanished">کریکٹر شمارندہ نمائش کریں</translation>
     </message>
     <message>
         <source>Automatically get vCard when becoming online</source>
@@ -8409,10 +8252,6 @@ Tags: %1</source>
         <translation>کوائف منتقلی بیس پورٹ:‏</translation>
     </message>
     <message>
-        <source>99999; </source>
-        <translation type="vanished">99999; </translation>
-    </message>
-    <message>
         <source>(1 TCP, 4 UDP)</source>
         <translation>(1 TCP, 4 UDP)</translation>
     </message>
@@ -8491,64 +8330,12 @@ Tags: %1</source>
         <translation>بات چیت کمپیکٹ موڈ میں کھولیں</translation>
     </message>
     <message>
-        <source>Use tabbed mode:</source>
-        <translation type="vanished">ٹیب موص استعمال کریں</translation>
-    </message>
-    <message>
-        <source>for chats only</source>
-        <translation type="vanished">صرف بات چیت کےلیے</translation>
-    </message>
-    <message>
-        <source>for mucs only</source>
-        <translation type="vanished">صرف mucs کےلیے</translation>
-    </message>
-    <message>
-        <source>for chats and mucs separately</source>
-        <translation type="vanished">بات چیت اور mucs کےلیے، علیحدہ علیحدہ</translation>
-    </message>
-    <message>
-        <source>for mucs and chats in one window</source>
-        <translation type="vanished">ایک دریچے میں بات چیت اور mucs کےلیے۔</translation>
-    </message>
-    <message>
-        <source>[customized]</source>
-        <translation type="vanished">(اختصاصی)</translation>
-    </message>
-    <message>
-        <source>Auto-resize text input field</source>
-        <translation type="vanished">متن ان پٹ قطعہ باز سائز کریں</translation>
-    </message>
-    <message>
         <source>Default action</source>
         <translation>طےشدہ عمل</translation>
     </message>
     <message>
-        <source>Message</source>
-        <translation type="vanished">پیغام</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation type="vanished">بات چیت کریں</translation>
-    </message>
-    <message>
         <source>Delete chat window contents</source>
         <translation type="vanished">بات چیت دریچہ مشمولات حذف کریں</translation>
-    </message>
-    <message>
-        <source>When chat window is closed</source>
-        <translation type="vanished">جب بات چیت دریچہ بند ہو</translation>
-    </message>
-    <message>
-        <source>One hour after chat window was closed</source>
-        <translation type="vanished">ایک گھنٹے بعد بات چیت دریچہ بند ہو گیا تھا</translation>
-    </message>
-    <message>
-        <source>One day after chat window was closed</source>
-        <translation type="vanished">ایک دن بعد بات چیت دریچہ بند ہو گیا تھا</translation>
-    </message>
-    <message>
-        <source>Never</source>
-        <translation type="vanished">کبھی نہیں</translation>
     </message>
     <message>
         <source>&amp;Message</source>
@@ -8868,17 +8655,6 @@ Tags: %1</source>
     <message>
         <source>Durations, sec.</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>OptRoster</name>
-    <message>
-        <source>OptApplicationUI</source>
-        <translation type="vanished">OptApplicationUI </translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation type="vanished">سائز</translation>
     </message>
 </context>
 <context>
@@ -9947,14 +9723,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>دیگر محل وقوع سے آپ کے وصول کار کا بعید کنٹرول اہل بناتا ہے۔</translation>
     </message>
     <message>
-        <source>Check this option if you want your spelling to be checked</source>
-        <translation type="vanished">اگر آپ چاہتے ہیں کہ آپ کے ہجے پڑتال کیے جائیں تو یہ اختیار با نشان کریں</translation>
-    </message>
-    <message>
-        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation type="vanished">اگر اہل بنایا گیا Psi، آمدہ وضع کردہ پیغامات اس طرز میں دکھائے گا، جو رابطے سے اختصاص کردہ ہیں</translation>
-    </message>
-    <message>
         <source>Check this option if you want the selected text in incoming messages and chat log to be automatically copied to clipboard</source>
         <translation>اگر آپ چاہتے ہیں کہ بات چیت لاگ اور آمدہ پیغامات میں منتخب شدہ متن خودبخود تختہ تراشہ میں نقل ہو جائے تو یہ اختیار با نشان کریں</translation>
     </message>
@@ -9977,10 +9745,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Makes Psi show separate subject line in messages. Uncheck this if you want to save some screen space.</source>
         <translation> اگر آپ سکرین پرکچھ  جگہ بچانا چاہتے ہیں تو اسے بے نشان کریں۔ </translation>
-    </message>
-    <message>
-        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation type="vanished">Psi سے شمارندہ لمبائی پیغام نمائش کرواتا ہے۔  اگر آپ جاننا چاہتے ہیں کہ آپ کا پیغام کتنا لمبا ہے تو اسے بانشان کریں۔ جب آپ ایس ایم ایس ٹرانسپورٹ استعمال کریں تو مفید ہو سکتا ہے۔</translation>
     </message>
     <message>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
@@ -10217,10 +9981,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Makes Psi open chat windows in compact mode.</source>
         <translation>‫Psi کھلی بات چیت دریچے کمپیکٹ موڈ میں بناتا ہے۔</translation>
-    </message>
-    <message>
-        <source>Makes Psi open chats in a tabbed window.</source>
-        <translation type="vanished">‫Psiکھلے بات چیت دریچے جدولی دریچے میں بناتا ہے۔</translation>
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
@@ -11753,14 +11513,6 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation>طےشدہ عمل</translation>
     </message>
     <message>
-        <source>Message</source>
-        <translation type="vanished">پیغام</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation type="vanished">بات چیت کریں</translation>
-    </message>
-    <message>
         <source>Enable Emoticons</source>
         <translation>جذباتیے اہل بنائیں</translation>
     </message>
@@ -12170,10 +11922,6 @@ Do you want to log out ?</source>
         <translation>دی گئی سلامتی سیٹنگوں کے لیے مناسب میکانزم دستیاب نہیں۔( مثلاً‫ SASL لائبریری بہت کمزور ہے، یا سادہ متن توثیق کاری اہل نہیں بنائی گئی)‏</translation>
     </message>
     <message>
-        <source>Bad server response</source>
-        <translation type="vanished">ناقص پیش کار جوابی عمل</translation>
-    </message>
-    <message>
         <source>Server failed mutual authentication</source>
         <translation>پیش کار باہمی توثیق کاری میں ناکام ہوا</translation>
     </message>
@@ -12188,10 +11936,6 @@ Do you want to log out ?</source>
     <message>
         <source>Invalid SASL mechanism</source>
         <translation>ناجائز SASL میکانزم</translation>
-    </message>
-    <message>
-        <source>Invalid realm</source>
-        <translation type="vanished">ناجائز دائرہ اثر</translation>
     </message>
     <message>
         <source>SASL mechanism too weak for this account</source>
@@ -12671,14 +12415,6 @@ Reason: %1.</source>
     <message>
         <source>Show ReadMe file</source>
         <translation>Read Me مسل دکھائیں</translation>
-    </message>
-    <message>
-        <source>User Guide (Online)</source>
-        <translation type="vanished">رہنمائے صارف (آن لائن)‏</translation>
-    </message>
-    <message>
-        <source>&amp;User Guide (Online)</source>
-        <translation type="vanished">رہنمائے صارف (آن لائن)‏</translation>
     </message>
     <message>
         <source>Wiki (Online)</source>
@@ -15130,22 +14866,14 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Accepted</source>
-        <translation type="unfinished">قبول شدہ</translation>
+        <translation>قبول شدہ</translation>
     </message>
     <message>
         <source>Connecting</source>
-        <translation type="unfinished">جڑ رہا ہے</translation>
+        <translation>جڑ رہا ہے</translation>
     </message>
     <message>
         <source>Transferring</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation type="unfinished">چھپائیں</translation>
-    </message>
-    <message>
-        <source>Show</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16918,17 +16646,6 @@ Please correct and try again.</source>
 </context>
 <context>
     <name>TipDlg</name>
-    <message>
-        <source>Hello! Thank you for downloading Psi!
-We hope that you will enjoy using it as we have enjoyed making it!
-&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;http://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="vanished">‫ہیلو Psi ڈاؤن لوڈ کرنے کا شکریہ! ہمیں امید ہے کہ آپ اسے استعمال کرتے ہوئے اتنا ہی لطف اٹھائیں گے جتنا ہم نے اسے بناتے ہوئے اٹھایا ہے! 
-&lt;br&gt;&lt;br&gt; ‫اگر آپ ایک اور زبان ترجمہ، شبیہ سیٹ یا Psi کا ایک نیا ورژن ڈاؤن لوڈ کرنا چاہتے ہیں تو آپ کو &lt;a href=&quot;http://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt; کو ملاحظہ کرنے کی ضرورت ہے۔
-&lt;br&gt;&lt;br&gt;‫اگر آپ سوچتے ہیں کہ آپ ایک گڑ بڑ ڈھونڈ چکے ہیں یا آپ دیگر Psi صارفیں کے ساتھ صرف بات چیت کرنا چاہتے ہیں تو &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; ملاحظہ کریں۔
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</translation>
-    </message>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
         <translation type="vanished">آپ کثیر جزباتیہ شبیہ سیٹ منتخب کر سکتے ہیں، اور اختیارات مکالمے استعمال کرتے ہوئے انھیں ترجیحات تقویض کر سکتے ہیں۔</translation>

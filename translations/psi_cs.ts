@@ -53,10 +53,6 @@
         <translation>psi/psiplus_logo</translation>
     </message>
     <message>
-        <source>http://psi-im.org</source>
-        <translation type="vanished">http://psi-im.org</translation>
-    </message>
-    <message>
         <source>Authors</source>
         <translation>Autoři</translation>
     </message>
@@ -87,10 +83,6 @@
     <message>
         <source>Past Lead Developer</source>
         <translation>Bývalý hlavní vývojář</translation>
-    </message>
-    <message>
-        <source>Lead Widget Developer</source>
-        <translation type="vanished">Vedoucí vývojář widgetů</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -147,10 +139,6 @@
     <message>
         <source>Language coordinator; Debian Packager</source>
         <translation type="vanished">Koordinátor překladu, balíkář pro Debian</translation>
-    </message>
-    <message>
-        <source>Language coordinator, miscellaneous assistance</source>
-        <translation type="vanished">Koordinátor překladu, různá výpomoc</translation>
     </message>
     <message>
         <source>Former language coordinator, miscellaneous assistance</source>
@@ -333,21 +321,6 @@ Klikni na &lt;b&gt;Registrovat nový účet&lt;/b&gt;, pokud chceš, aby se Psi 
     <message>
         <source>Default</source>
         <translation>Výchozí</translation>
-    </message>
-</context>
-<context>
-    <name>AccountLoginPassword</name>
-    <message>
-        <source>Please enter the password for %1:</source>
-        <translation type="vanished">Prosím vlož heslo pro %1:</translation>
-    </message>
-    <message>
-        <source>Please enter your password:</source>
-        <translation type="vanished">Prosím zadej své heslo:</translation>
-    </message>
-    <message>
-        <source>Need Password</source>
-        <translation type="vanished">Potřebuji heslo</translation>
     </message>
 </context>
 <context>
@@ -4697,29 +4670,6 @@ Zdůvodnění: %3</translation>
     </message>
 </context>
 <context>
-    <name>GCFindDlg</name>
-    <message>
-        <source>Find</source>
-        <translation type="vanished">Hledání</translation>
-    </message>
-    <message>
-        <source>Find:</source>
-        <translation type="vanished">Hledání:</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Zavřít</translation>
-    </message>
-    <message>
-        <source>&amp;Find</source>
-        <translation type="vanished">&amp;Hledat</translation>
-    </message>
-    <message>
-        <source>Search string &apos;%1&apos; not found.</source>
-        <translation type="vanished">Hledaný řetězec &apos;%1&apos; nebyl nalezen.</translation>
-    </message>
-</context>
-<context>
     <name>GCMainDlg</name>
     <message>
         <source>Find toolbar</source>
@@ -4780,10 +4730,6 @@ Zdůvodnění: %1</translation>
     <message>
         <source>Error: You are in or joining this room already!</source>
         <translation>Chyba: V místnosti už jsi nebo se znovu připojuješ!</translation>
-    </message>
-    <message>
-        <source>Unable to join groupchat.	Reason: %1</source>
-        <translation type="vanished">Účast ve skupinovém chatu není možná.	Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>Unexpected groupchat error: %1</source>
@@ -5097,93 +5043,6 @@ Zdůvodnění: %1</translation>
     </message>
 </context>
 <context>
-    <name>GCUserView</name>
-    <message>
-        <source>Moderators</source>
-        <translation type="vanished">Moderátoři</translation>
-    </message>
-    <message>
-        <source>Participants</source>
-        <translation type="vanished">Účastníci</translation>
-    </message>
-    <message>
-        <source>Visitors</source>
-        <translation type="vanished">Návštěvníci</translation>
-    </message>
-    <message>
-        <source>Send &amp;Message</source>
-        <translation type="vanished">Po&amp;slat Zprávu</translation>
-    </message>
-    <message>
-        <source>Open &amp;Chat Window</source>
-        <translation type="vanished">Otevřít &amp;Okno Chatu</translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation type="vanished">Hovor</translation>
-    </message>
-    <message>
-        <source>E&amp;xecute Command</source>
-        <translation type="vanished">Vy&amp;konat příkaz</translation>
-    </message>
-    <message>
-        <source>&amp;Kick</source>
-        <translation type="vanished">Vy&amp;kopnout</translation>
-    </message>
-    <message>
-        <source>No reason</source>
-        <translation type="vanished">Žádný důvod</translation>
-    </message>
-    <message>
-        <source>Custom reason</source>
-        <translation type="vanished">Vlastní důvod</translation>
-    </message>
-    <message>
-        <source>&amp;Ban</source>
-        <translation type="vanished">Ode&amp;přít přístup do místnosti</translation>
-    </message>
-    <message>
-        <source>Change Role</source>
-        <translation type="vanished">Změnit Postavení</translation>
-    </message>
-    <message>
-        <source>Visitor</source>
-        <translation type="vanished">Návštěvník</translation>
-    </message>
-    <message>
-        <source>Participant</source>
-        <translation type="vanished">Účastník</translation>
-    </message>
-    <message>
-        <source>Moderator</source>
-        <translation type="vanished">Moderátor</translation>
-    </message>
-    <message>
-        <source>Change Affiliation</source>
-        <translation type="vanished">Změnit přiřazení</translation>
-    </message>
-    <message>
-        <source>Unaffiliated</source>
-        <translation type="vanished">Nepřiřazen</translation>
-    </message>
-    <message>
-        <source>Member</source>
-        <translation type="vanished">Člen</translation>
-    </message>
-    <message>
-        <source>Administrator</source>
-        <translation type="vanished">Administrator</translation>
-    </message>
-    <message>
-        <source>Owner</source>
-        <translation type="vanished">Vlastník</translation>
-    </message>
-    <message>
-        <source>User &amp;Info</source>
-        <translation type="vanished">&amp;Informace o uživateli</translation>
-    </message>
-</context>
-<context>
     <name>GameBoard</name>
     <message>
         <source>White</source>
@@ -5462,7 +5321,7 @@ Hra je prohraná.</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Žádný</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -5478,19 +5337,19 @@ Hra je prohraná.</translation>
     </message>
     <message>
         <source>Show joins</source>
-        <translation type="unfinished">Zobrazit uzly</translation>
+        <translation>Zobrazit uzly</translation>
     </message>
     <message>
         <source>Show status changes</source>
-        <translation type="unfinished">Zobrazit změny stavu</translation>
+        <translation>Zobrazit změny stavu</translation>
     </message>
     <message>
         <source>Show status with priority</source>
-        <translation type="unfinished">Zobrazit stav s prioritou</translation>
+        <translation>Zobrazit stav s prioritou</translation>
     </message>
     <message>
         <source>Show initial joins</source>
-        <translation type="unfinished">Zobrazit počáteční uzly</translation>
+        <translation>Zobrazit počáteční uzly</translation>
     </message>
 </context>
 <context>
@@ -5877,10 +5736,6 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
         <source>Set Keys</source>
         <translation>Nastavit klávesy</translation>
     </message>
-    <message>
-        <source>New Shortcut</source>
-        <translation type="vanished">Nová zkratka</translation>
-    </message>
 </context>
 <context>
     <name>GroupChatBrowseWindowUI</name>
@@ -5986,10 +5841,6 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     <message>
         <source>Set Groupchat Topic</source>
         <translation>Nastav téma skupinového chatu</translation>
-    </message>
-    <message>
-        <source>Text of topic</source>
-        <translation type="vanished">Text tématu</translation>
     </message>
     <message>
         <source>Any Language</source>
@@ -6258,73 +6109,6 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
 </context>
 <context>
-    <name>HomeDirMigration</name>
-    <message>
-        <source>Import Wizard</source>
-        <translation type="vanished">Průvodce importem</translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Import Settings and Data&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Import nastavení a dat&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi+. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Zkopírovat existující profil do nového adresáře, aby bylo možné spustit Psí+. Starý pofil nebude smazán. Můžete ho později smazat ručně.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Doporučeno)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>Import Psi profile</source>
-        <translation type="vanished">Importovat Psi profil</translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Move the existing profile to the new directory. The old profile will be removed automatically when done.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Přesunout existující profil do nového adresáře. Starý profil bude přejmenován automaticky po dokončení.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>Import Psi profile and remove it</source>
-        <translation type="vanished">Importovat Psi profil a smazat ho</translation>
-    </message>
-    <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi+ profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Vytvořit nový Psí+ profil. Starý profil nebude smazán, ale nebudete ho moci vybrat.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Nedoporučeno)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
-        <source>Create new profile</source>
-        <translation type="vanished">Vytvořit nový profil</translation>
-    </message>
-</context>
-<context>
     <name>HttpAuthEvent</name>
     <message>
         <source>HTTP Authentication Request</source>
@@ -6564,10 +6348,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Iconset Details: %1</source>
         <translation>Podrobnosti Ikon: %1</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Description:</source>
@@ -6811,10 +6591,6 @@ The plugin has a number of simple settings that can help you:
         <translation>Přijato %1 bytů obrázku.</translation>
     </message>
     <message>
-        <source>Image %1 sent &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </source>
-        <translation type="vanished">Obrázek %1 odeslán &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt;</translation>
-    </message>
-    <message>
         <source>Authors: </source>
         <translation>Autoři: </translation>
     </message>
@@ -6870,12 +6646,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <source>Allow upscale</source>
         <translation>Povolit zvětšení</translation>
-    </message>
-    <message>
-        <source>This plugin shows the preview image for an image URL.
-</source>
-        <translation type="vanished">Tento plugin zobrazuje náhled obrázku u odkazů na obrázek.
-</translation>
     </message>
     <message>
         <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
@@ -7200,26 +6970,6 @@ Příčina: %1</translation>
     <message>
         <source>Gomoku Game Plugin - Invitation</source>
         <translation>Gomoku herní zásuvný modul -- Pozvání</translation>
-    </message>
-    <message>
-        <source>white</source>
-        <translation type="vanished">bílí</translation>
-    </message>
-    <message>
-        <source>black</source>
-        <translation type="vanished">černí</translation>
-    </message>
-    <message>
-        <source>Player %1 invites you 
-to play chess. He wants to play %2.</source>
-        <translation type="vanished">Hráč %1 Vás zve ke
-hře v šach. Chce hrát za %2.</translation>
-    </message>
-    <message>
-        <source>Player %1 invites you 
-to play gomoku. He wants to play %2.</source>
-        <translation type="vanished">Hráč %1 Vás zve ke
-hře gomoku. Chce hrát za %2.</translation>
     </message>
     <message>
         <source>second</source>
@@ -7694,36 +7444,12 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
         <translation>Identita:</translation>
     </message>
     <message>
-        <source>Recent:</source>
-        <translation type="vanished">Nedávné:</translation>
-    </message>
-    <message>
         <source>Room information</source>
         <translation>Informace o místnosti</translation>
     </message>
     <message>
-        <source>Host:</source>
-        <translation type="vanished">Server:</translation>
-    </message>
-    <message>
-        <source>Room:</source>
-        <translation type="vanished">Místnost:</translation>
-    </message>
-    <message>
-        <source>Nickname:</source>
-        <translation type="vanished">Přezdívka:</translation>
-    </message>
-    <message>
-        <source>Password:</source>
-        <translation type="vanished">Heslo:</translation>
-    </message>
-    <message>
         <source>Request chat history</source>
         <translation>Požádat o záznam historie chatu</translation>
-    </message>
-    <message>
-        <source>Bookmarks:</source>
-        <translation type="vanished">Záložky:</translation>
     </message>
     <message>
         <source>Nickname</source>
@@ -7979,6 +7705,14 @@ Příchozí událost(i) od:</translation>
         <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Hide</source>
+        <translation>Skrýt</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation>Zobrazit</translation>
+    </message>
 </context>
 <context>
     <name>MainWindow</name>
@@ -8165,10 +7899,6 @@ Detaily: %1</translation>
         <translation>%1%2/s</translation>
     </message>
     <message>
-        <source>%1h%2m%3s remaining</source>
-        <translation type="vanished">zbývá %1h%2m%3s</translation>
-    </message>
-    <message>
         <source>[Failed]</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8217,7 +7947,7 @@ Detaily: %1</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Odeslat</translation>
     </message>
     <message>
         <source>%1 File(s)</source>
@@ -8237,11 +7967,11 @@ Detaily: %1</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Uložit jako</translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished">Všechny soubory (*)</translation>
+        <translation>Všechny soubory (*)</translation>
     </message>
 </context>
 <context>
@@ -8387,14 +8117,6 @@ Tagy: %1</translation>
         <translation>Povolit vzdálené ovládání z jiných míst</translation>
     </message>
     <message>
-        <source>Check spelling</source>
-        <translation type="vanished">Kontrola pravopisu</translation>
-    </message>
-    <message>
-        <source>Use contacts&apos; message formatting</source>
-        <translation type="vanished">Používat formátování nastavené kontaktem</translation>
-    </message>
-    <message>
         <source>Single-click triggers default action</source>
         <translation>Jednoduchý klik vyvolá výchozí akci</translation>
     </message>
@@ -8413,10 +8135,6 @@ Tagy: %1</translation>
     <message>
         <source>Show subject line in events</source>
         <translation>Použít předmět u zpráv</translation>
-    </message>
-    <message>
-        <source>Show character counter</source>
-        <translation type="vanished">Zobrazit počítadlo znaků</translation>
     </message>
     <message>
         <source>Automatically get vCard when becoming online</source>
@@ -8663,10 +8381,6 @@ Tagy: %1</translation>
         <translation>Povolit dok</translation>
     </message>
     <message>
-        <source>Decorate windows</source>
-        <translation type="vanished">Dekorovat okna</translation>
-    </message>
-    <message>
         <source>Docklet</source>
         <translation>Systémový dok</translation>
     </message>
@@ -8693,10 +8407,6 @@ Tagy: %1</translation>
     <message>
         <source>Data transfer base port:</source>
         <translation>Základní port pro přenos souborů:</translation>
-    </message>
-    <message>
-        <source>99999; </source>
-        <translation type="vanished">99999; </translation>
     </message>
     <message>
         <source>(1 TCP, 4 UDP)</source>
@@ -8777,76 +8487,12 @@ Tagy: %1</translation>
         <translation>Zobrazit okno chatu v kompaktním zobrazení</translation>
     </message>
     <message>
-        <source>Use tabbed mode:</source>
-        <translation type="vanished">Použij režim záložek:</translation>
-    </message>
-    <message>
-        <source>for chats only</source>
-        <translation type="vanished">pouze pro chat</translation>
-    </message>
-    <message>
-        <source>for mucs only</source>
-        <translation type="vanished">pouze pro multi chat</translation>
-    </message>
-    <message>
-        <source>for chats and mucs separately</source>
-        <translation type="vanished">odděleně pro chat a multi chat</translation>
-    </message>
-    <message>
-        <source>for mucs and chats in one window</source>
-        <translation type="vanished">pro chat a multi chat v jednom okně</translation>
-    </message>
-    <message>
-        <source>for mucs, chats and roster in one window</source>
-        <translation type="vanished">pro chat, chat více lidí a seznam kontaktů v jednom okně</translation>
-    </message>
-    <message>
-        <source>[customized]</source>
-        <translation type="vanished">[přizpůsobený]</translation>
-    </message>
-    <message>
-        <source>Show tab buttons</source>
-        <translation type="vanished">Zobrazit tlačítka záložek</translation>
-    </message>
-    <message>
-        <source>Auto-resize text input field</source>
-        <translation type="vanished">Automaticky měnit velikost vstupního pole</translation>
-    </message>
-    <message>
-        <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation type="vanished">Povolit Alt-[0-9] zkratky pro záložky</translation>
-    </message>
-    <message>
         <source>Default action</source>
         <translation>Výchozí akce</translation>
     </message>
     <message>
-        <source>Message</source>
-        <translation type="vanished">Zpráva</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation type="vanished">Chat</translation>
-    </message>
-    <message>
         <source>Delete chat window contents</source>
         <translation type="vanished">Smazat obsah okna s chatem</translation>
-    </message>
-    <message>
-        <source>When chat window is closed</source>
-        <translation type="vanished">Při uzavření okna chatu</translation>
-    </message>
-    <message>
-        <source>One hour after chat window was closed</source>
-        <translation type="vanished">Jednu hodinu po uzavření okna chatu</translation>
-    </message>
-    <message>
-        <source>One day after chat window was closed</source>
-        <translation type="vanished">Jeden den po uzavření okna chatu</translation>
-    </message>
-    <message>
-        <source>Never</source>
-        <translation type="vanished">Nikdy</translation>
     </message>
     <message>
         <source>&amp;Message</source>
@@ -8866,11 +8512,11 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Show status changes</source>
-        <translation type="unfinished">Zobrazit změny stavu</translation>
+        <translation>Zobrazit změny stavu</translation>
     </message>
     <message>
         <source>Show status with priority</source>
-        <translation type="unfinished">Zobrazit stav s prioritou</translation>
+        <translation>Zobrazit stav s prioritou</translation>
     </message>
 </context>
 <context>
@@ -9031,15 +8677,15 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished">Záložky</translation>
+        <translation>Záložky</translation>
     </message>
     <message>
         <source>Action for mouse middle click on tabs:</source>
-        <translation type="unfinished">Akce na záložkách pro prostřední tlačítko myši:</translation>
+        <translation>Akce na záložkách pro prostřední tlačítko myši:</translation>
     </message>
     <message>
         <source>Action for mouse double click on tabs:</source>
-        <translation type="unfinished">Akce na záložkách pro dvojklik myši:</translation>
+        <translation>Akce na záložkách pro dvojklik myši:</translation>
     </message>
 </context>
 <context>
@@ -9166,125 +8812,6 @@ Tagy: %1</translation>
     <message>
         <source>Durations, sec.</source>
         <translation>Délka trvání ve vteřinách</translation>
-    </message>
-</context>
-<context>
-    <name>OptRoster</name>
-    <message>
-        <source>OptApplicationUI</source>
-        <translation type="vanished">OptApplicationUI</translation>
-    </message>
-    <message>
-        <source>Roster window always on top</source>
-        <translation type="vanished">Okno s kontakty vždy navrchu</translation>
-    </message>
-    <message>
-        <source>Auto-resize contact list</source>
-        <translation type="vanished">Automaticky měnit velikost seznamu kontaktů</translation>
-    </message>
-    <message>
-        <source>Use left-click for menu</source>
-        <translation type="vanished">Levé tlačítko zobrazí menu</translation>
-    </message>
-    <message>
-        <source>Show menubar</source>
-        <translation type="vanished">Zobrazit hlavní nabídku</translation>
-    </message>
-    <message>
-        <source>Disables scrollbar in the application window.</source>
-        <translation type="vanished">Zakáže posuvník v okně aplikace.</translation>
-    </message>
-    <message>
-        <source>Disable scrollbar</source>
-        <translation type="vanished">Zakázat posuvník</translation>
-    </message>
-    <message>
-        <source>Enables avatar frame at the top of roster</source>
-        <translation type="vanished">Povolí rámec avatara nahoře okna kontaktů</translation>
-    </message>
-    <message>
-        <source>Enable roster avatar frame</source>
-        <translation type="vanished">Povolit rámec avatara v seznamu kontaktů</translation>
-    </message>
-    <message>
-        <source>Autohide roster after</source>
-        <translation type="vanished">Automaticky skrýt roster po</translation>
-    </message>
-    <message>
-        <source>Icons</source>
-        <translation type="vanished">Ikony</translation>
-    </message>
-    <message>
-        <source>Show avatars in roster</source>
-        <translation type="vanished">Zobrazovat avatary v rosteru</translation>
-    </message>
-    <message>
-        <source>Avatars</source>
-        <translation type="vanished">Avataři</translation>
-    </message>
-    <message>
-        <source>Show moods in roster</source>
-        <translation type="vanished">Zobrazovat nálady v rosteru</translation>
-    </message>
-    <message>
-        <source>Moods</source>
-        <translation type="vanished">Nálady</translation>
-    </message>
-    <message>
-        <source>Show activities in roster</source>
-        <translation type="vanished">Zobrazit činnosti v rosteru</translation>
-    </message>
-    <message>
-        <source>Activities</source>
-        <translation type="vanished">Činnosti</translation>
-    </message>
-    <message>
-        <source>Show geolocation in roster</source>
-        <translation type="vanished">Zobrazit geolokaci v seznamu kontaktů</translation>
-    </message>
-    <message>
-        <source>GeoLocation</source>
-        <translation type="vanished">GeoLokace</translation>
-    </message>
-    <message>
-        <source>Show icon when contact is listening to music</source>
-        <translation type="vanished">Zobrazit ikonu, když kontakt poslouchá hudbu</translation>
-    </message>
-    <message>
-        <source>Now playing</source>
-        <translation type="vanished">Nyní hraje</translation>
-    </message>
-    <message>
-        <source>Show icon of user client</source>
-        <translation type="vanished">Zobrazovat ikonu uživatelova klienta</translation>
-    </message>
-    <message>
-        <source>Clients</source>
-        <translation type="vanished">Klienti</translation>
-    </message>
-    <message>
-        <source>all client icons</source>
-        <translation type="vanished">ikony všech klientů</translation>
-    </message>
-    <message>
-        <source>only highest priority client icon</source>
-        <translation type="vanished">pouze ikony klientů s nejvyšší prioritou</translation>
-    </message>
-    <message>
-        <source>Avatar settings</source>
-        <translation type="vanished">Nastavení avatara</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation type="vanished">Velikost</translation>
-    </message>
-    <message>
-        <source>Radius of corners</source>
-        <translation type="vanished">Poloměr rohů</translation>
-    </message>
-    <message>
-        <source>seconds (0 - never)</source>
-        <translation type="vanished">vteřin (0 = nikdy)</translation>
     </message>
 </context>
 <context>
@@ -10464,14 +9991,6 @@ zprávy v chatu víde lidí)</translation>
         <translation>Povoluje dálkové ovládání klienta z jiného místa</translation>
     </message>
     <message>
-        <source>Check this option if you want your spelling to be checked</source>
-        <translation type="vanished">Vyber tuto volbu, pokud chceš používat kontrolu pravopisu</translation>
-    </message>
-    <message>
-        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation type="vanished">Po zapnutí této volby bude Psi zobrazovat příchozí zprávy naformátované odesílatelem</translation>
-    </message>
-    <message>
         <source>Check this option if you want the selected text in incoming messages and chat log to be automatically copied to clipboard</source>
         <translation>Vyber tuto volbu, pokud chceš, aby byl text přijatých zpráv a chatů automaticky kopírován do schránky</translation>
     </message>
@@ -10494,10 +10013,6 @@ zprávy v chatu víde lidí)</translation>
     <message>
         <source>Makes Psi show separate subject line in messages. Uncheck this if you want to save some screen space.</source>
         <translation>Zobrazování oddělené řádky předmětu u zpráv. Vypni jestli chceš ušetřit trochu místa na obrazovce.</translation>
-    </message>
-    <message>
-        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation type="vanished">Zobrazování počítadla znaků při psaní zprávy. Zapni tuto volbu, pokud chceš vědět délku zprávy. Může se to hodit při psaní do SMS transportu.</translation>
     </message>
     <message>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
@@ -10646,10 +10161,6 @@ zprávy v chatu víde lidí)</translation>
         <translation>Základní volby aplikace</translation>
     </message>
     <message>
-        <source>Set or remove window decorations for roster and chats. For chats there are special header with close, hide and maximize buttons</source>
-        <translation type="vanished">Nastavit nebo odstranit dekorace oken pro seznam kontaktů a chaty. V chatech je speciální titulek okna s tlačítky pro zavření, skrytí a maximalizaci</translation>
-    </message>
-    <message>
         <source>Makes Psi use a docklet icon, also known as system tray icon.</source>
         <translation>Způsobí, že Psi bude používat ikonu v systémové části panelu, také znamou jako dok nebo tray ikonu.</translation>
     </message>
@@ -10738,10 +10249,6 @@ zprávy v chatu víde lidí)</translation>
     <message>
         <source>Makes Psi open chat windows in compact mode.</source>
         <translation>Zajistí, že se nová okna chatu budou zobrazovat v kompatním tvaru.</translation>
-    </message>
-    <message>
-        <source>Makes Psi open chats in a tabbed window.</source>
-        <translation type="vanished">Zajistí, že se nová okna chatu budou zobrazovat jako panely.</translation>
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
@@ -11039,26 +10546,6 @@ zprávy v chatu víde lidí)</translation>
     <message>
         <source>Roster</source>
         <translation>Seznam kontaktů</translation>
-    </message>
-    <message>
-        <source>Roster window options</source>
-        <translation type="vanished">Možnosti seznamu kontaktů</translation>
-    </message>
-    <message>
-        <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation type="vanished">Způsobí, že hlavní oko Psí bude vždy nad ostatními okny.</translation>
-    </message>
-    <message>
-        <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation type="vanished">Způsobí, že hlavní okno Psí automaticky změní velikost tak, aby se do něj vešly všechny kontakty.</translation>
-    </message>
-    <message>
-        <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation type="vanished">Pravé tlačítko myši na kontaktu standardně aktivuje kontextovou nabídku.  Zatržením této volby způsobí aktivaci levým tlačítkem.</translation>
-    </message>
-    <message>
-        <source>Shows the menubar in the application window.</source>
-        <translation type="vanished">Zobrazí panel nabídek v okně aplikace.</translation>
     </message>
     <message>
         <source>Roster options</source>
@@ -12299,14 +11786,6 @@ Zatrhni pole &lt;i&gt;Zapnout Emotikony&lt;/i&gt; pro zobrazení text např. &lt
         <translation>Výchozí Akce</translation>
     </message>
     <message>
-        <source>Message</source>
-        <translation type="vanished">Zpráva</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation type="vanished">Chat</translation>
-    </message>
-    <message>
         <source>Enable Emoticons</source>
         <translation>Zapnout Emotikony</translation>
     </message>
@@ -12716,10 +12195,6 @@ Odhlásit se?</translation>
         <translation>Není dostupný odpovídající mechanismus pro zvolené nastavení zabezpeční (např. příliš slabá SASL knihovna nebo není zapnuta jednoduchá - plaintext - autentizace)</translation>
     </message>
     <message>
-        <source>Bad server response</source>
-        <translation type="vanished">Špatná odezva serveru</translation>
-    </message>
-    <message>
         <source>Server failed mutual authentication</source>
         <translation>Server nezvládl proměnlivé ověřování</translation>
     </message>
@@ -12734,10 +12209,6 @@ Odhlásit se?</translation>
     <message>
         <source>Invalid SASL mechanism</source>
         <translation>Neplatný SASL mechanizmus</translation>
-    </message>
-    <message>
-        <source>Invalid realm</source>
-        <translation type="vanished">Neplatná říše</translation>
     </message>
     <message>
         <source>SASL mechanism too weak for this account</source>
@@ -13219,14 +12690,6 @@ Důvod: %1.</translation>
         <translation>Ukázat soubor ReadMe</translation>
     </message>
     <message>
-        <source>User Guide (Online)</source>
-        <translation type="vanished">Uživatelská příručka (online)</translation>
-    </message>
-    <message>
-        <source>&amp;User Guide (Online)</source>
-        <translation type="vanished">&amp;Uživatelská příručka (online)</translation>
-    </message>
-    <message>
         <source>Wiki (Online)</source>
         <translation>Wiki (online)</translation>
     </message>
@@ -13538,10 +13001,6 @@ Důvod: %1.</translation>
     <message>
         <source>Options:</source>
         <translation>Volby:</translation>
-    </message>
-    <message>
-        <source>Go to &lt;http://psi-im.org/&gt; for more information about Psi.</source>
-        <translation type="vanished">Pro více informací o Psi jdi na &lt;http://psi-im.org/&gt;.</translation>
     </message>
     <message>
         <source>Compiled with Qt %1</source>
@@ -14614,14 +14073,6 @@ Chceš aktivovat tuto relaci?</translation>
     <message>
         <source>File</source>
         <translation>Soubor</translation>
-    </message>
-    <message>
-        <source>Conversion Error</source>
-        <translation type="vanished">Chyba převodu</translation>
-    </message>
-    <message>
-        <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
-        <translation type="vanished">Byla nalezena konfigurační data pro předchozí verzi Psí, ale nebylo je možné převést tak, aby pracovala se současnou verzi. Ujisti se, že máš dostatečná oprávnění a že neběží jiná instance Psí. Potom to zkus znovu.</translation>
     </message>
     <message>
         <source>Offline</source>
@@ -15723,23 +15174,15 @@ Děkujeme za trpělivost.</translation>
     </message>
     <message>
         <source>Accepted</source>
-        <translation type="unfinished">Přijato</translation>
+        <translation>Přijato</translation>
     </message>
     <message>
         <source>Connecting</source>
-        <translation type="unfinished">Připojování</translation>
+        <translation>Připojování</translation>
     </message>
     <message>
         <source>Transferring</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation type="unfinished">Skrýt</translation>
-    </message>
-    <message>
-        <source>Show</source>
-        <translation type="unfinished">Zobrazit</translation>
     </message>
 </context>
 <context>
@@ -17709,28 +17152,8 @@ Následující funguje pouze v okně groupchatu:
 <context>
     <name>TypeAheadFindBar</name>
     <message>
-        <source>Search: </source>
-        <translation type="vanished">Hledat: </translation>
-    </message>
-    <message>
         <source>&amp;Case sensitive</source>
         <translation>&amp;Uvažovat velikost písmen</translation>
-    </message>
-    <message>
-        <source>First page</source>
-        <translation type="vanished">První strana</translation>
-    </message>
-    <message>
-        <source>Previous page</source>
-        <translation type="vanished">Předchozí strana</translation>
-    </message>
-    <message>
-        <source>Next page</source>
-        <translation type="vanished">Další strana</translation>
-    </message>
-    <message>
-        <source>Last page</source>
-        <translation type="vanished">Poslední strana</translation>
     </message>
     <message>
         <source>Search</source>
@@ -18304,17 +17727,6 @@ Opravdu zavřít okno?</translation>
     <message>
         <source>%1 has invited you to a whiteboarding session. Would you like to join?</source>
         <translation>%1 tě pozval(a) k relaci kreslení na tabuli. Chceš se přidat?</translation>
-    </message>
-</context>
-<context>
-    <name>WebView</name>
-    <message>
-        <source>Quote</source>
-        <translation type="vanished">Citovat</translation>
-    </message>
-    <message>
-        <source>Ctrl+S</source>
-        <translation type="vanished">Ctrl+S</translation>
     </message>
 </context>
 <context>
@@ -19272,10 +18684,6 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     <message>
         <source>&gt;quote</source>
         <translation>&gt;citace</translation>
-    </message>
-    <message>
-        <source>http://link</source>
-        <translation type="vanished">http://odkaz</translation>
     </message>
     <message>
         <source>Use message Id as resource</source>

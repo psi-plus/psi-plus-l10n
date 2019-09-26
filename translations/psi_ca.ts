@@ -4566,29 +4566,6 @@ Raó: %3</translation>
     </message>
 </context>
 <context>
-    <name>GCFindDlg</name>
-    <message>
-        <source>Find</source>
-        <translation type="vanished">Cerca</translation>
-    </message>
-    <message>
-        <source>Find:</source>
-        <translation type="vanished">Cerca:</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Tanca</translation>
-    </message>
-    <message>
-        <source>&amp;Find</source>
-        <translation type="vanished">&amp;Cerca</translation>
-    </message>
-    <message>
-        <source>Search string &apos;%1&apos; not found.</source>
-        <translation type="vanished">No s&apos;ha trobat la cadena &apos;%1&apos;.</translation>
-    </message>
-</context>
-<context>
     <name>GCMainDlg</name>
     <message>
         <source>Find toolbar</source>
@@ -4961,13 +4938,6 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>GCUserView</name>
-    <message>
-        <source>User &amp;Info</source>
-        <translation type="vanished">&amp;Informació de l&apos;usuari</translation>
-    </message>
-</context>
-<context>
     <name>GameBoard</name>
     <message>
         <source>White</source>
@@ -5232,7 +5202,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Cap</translation>
+        <translation>Cap</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -7567,6 +7537,14 @@ Incoming event(s) from:</source>
         <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Hide</source>
+        <translation>Ocultar</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MainWindow</name>
@@ -7740,15 +7718,11 @@ Details: %1</source>
     </message>
     <message>
         <source>[Stalled]</source>
-        <translation type="unfinished">[Encallat]</translation>
+        <translation>[Encallat]</translation>
     </message>
     <message>
         <source>%1%2/s</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1h%2m%3s remaining</source>
-        <translation type="obsolete">falta(en) %1h%2m%3s</translation>
     </message>
     <message>
         <source>[Failed]</source>
@@ -7756,7 +7730,7 @@ Details: %1</source>
     </message>
     <message>
         <source>[Done]</source>
-        <translation type="unfinished">[Fet]</translation>
+        <translation>[Fet]</translation>
     </message>
     <message>
         <source>Reject</source>
@@ -7819,11 +7793,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished">Desa com</translation>
+        <translation>Desa com</translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished">Tots els fitxers (*)</translation>
+        <translation>Tots els fitxers (*)</translation>
     </message>
 </context>
 <context>
@@ -8342,10 +8316,6 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Chat</source>
-        <translation type="vanished">Xerrada</translation>
-    </message>
-    <message>
         <source>&amp;Message</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8663,13 +8633,6 @@ Tags: %1</source>
     <message>
         <source>Durations, sec.</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>OptRoster</name>
-    <message>
-        <source>Size</source>
-        <translation type="vanished">Mida</translation>
     </message>
 </context>
 <context>
@@ -9760,10 +9723,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Fa que Psi mostri una línia d&apos;assumpte separada en els missatges. Desmarqui això si desitja estalviar espai en la pantalla.</translation>
     </message>
     <message>
-        <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation type="vanished">Fa que Psi mostri un comptador de longitud del missatge. Marqui això si desitja saber la longitud del seu missatge. Pot ser útil si està utilitzant un transport de SMS.</translation>
-    </message>
-    <message>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
         <translation>Per defecte, Psi sempre comprova la seva vCard al conectar-se. Si desitja estalviar tràfic de Internet, pot desmarcar aquesta opció.</translation>
     </message>
@@ -9999,10 +9958,6 @@ Activa aquesta opció si vols rebre aquestes alertes igualment.</translation>
     <message>
         <source>Makes Psi open chat windows in compact mode.</source>
         <translation>Fa que Psi obri una finestra de xerrada en mode compacte.</translation>
-    </message>
-    <message>
-        <source>Makes Psi open chats in a tabbed window.</source>
-        <translation type="vanished">Fa que el Psi obri els xats en mode finestra amb pestanyes.</translation>
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
@@ -11533,10 +11488,6 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Chat</source>
-        <translation type="vanished">Xerrada</translation>
-    </message>
-    <message>
         <source>Enable Emoticons</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11945,10 +11896,6 @@ Do you want to log out ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Bad server response</source>
-        <translation type="vanished">Resposta incorrecta del servidor</translation>
-    </message>
-    <message>
         <source>Server failed mutual authentication</source>
         <translation>El servidor ha fallat en la autentificació mútua</translation>
     </message>
@@ -11963,10 +11910,6 @@ Do you want to log out ?</source>
     <message>
         <source>Invalid SASL mechanism</source>
         <translation>Mecanisme SASL invàlid</translation>
-    </message>
-    <message>
-        <source>Invalid realm</source>
-        <translation type="vanished">Regió invàlida</translation>
     </message>
     <message>
         <source>SASL mechanism too weak for this account</source>
@@ -12445,14 +12388,6 @@ Reason: %1.</source>
     <message>
         <source>Show ReadMe file</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>User Guide (Online)</source>
-        <translation type="vanished">Guia d&apos;usuari (En línia)</translation>
-    </message>
-    <message>
-        <source>&amp;User Guide (Online)</source>
-        <translation type="vanished">&amp;Guia d&apos;usuari (En línia)</translation>
     </message>
     <message>
         <source>Wiki (Online)</source>
@@ -14905,18 +14840,10 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Connecting</source>
-        <translation type="unfinished">Connectant</translation>
+        <translation>Connectant</translation>
     </message>
     <message>
         <source>Transferring</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation type="unfinished">Ocultar</translation>
-    </message>
-    <message>
-        <source>Show</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

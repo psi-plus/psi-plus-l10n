@@ -53,10 +53,6 @@
         <translation>psi/psiplus_logo</translation>
     </message>
     <message>
-        <source>http://psi-im.org</source>
-        <translation type="vanished">http://psi-im.org</translation>
-    </message>
-    <message>
         <source>Authors</source>
         <translation>نویسنده ها</translation>
     </message>
@@ -87,10 +83,6 @@
     <message>
         <source>Past Lead Developer</source>
         <translation>رهبر توسعه دهنده پیشین</translation>
-    </message>
-    <message>
-        <source>Lead Widget Developer</source>
-        <translation type="vanished">رهبر توسعه دهنده ابزارک ها</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -295,13 +287,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <source>Default</source>
         <translation>پیش فرض</translation>
-    </message>
-</context>
-<context>
-    <name>AccountLoginPassword</name>
-    <message>
-        <source>Please enter your password:</source>
-        <translation type="vanished">لطفا گذرواژه خود را وارد کنید:</translation>
     </message>
 </context>
 <context>
@@ -4569,13 +4554,6 @@ Reason: %3</source>
     </message>
 </context>
 <context>
-    <name>GCFindDlg</name>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">بستن</translation>
-    </message>
-</context>
-<context>
     <name>GCMainDlg</name>
     <message>
         <source>Find toolbar</source>
@@ -5211,7 +5189,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">هیچ کدام</translation>
+        <translation>هیچ کدام</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -7278,14 +7256,6 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Host:</source>
-        <translation type="vanished">میزبان:</translation>
-    </message>
-    <message>
-        <source>Password:</source>
-        <translation type="vanished">گذرواژه:</translation>
-    </message>
-    <message>
         <source>Request chat history</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7530,6 +7500,14 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8301,10 +8279,6 @@ Tags: %1</source>
     <message>
         <source>Default action</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Never</source>
-        <translation type="vanished">هرگز</translation>
     </message>
     <message>
         <source>&amp;Message</source>
@@ -14802,14 +14776,6 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Transferring</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
