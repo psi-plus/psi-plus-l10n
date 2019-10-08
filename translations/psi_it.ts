@@ -371,11 +371,11 @@ Seleziona &lt;b&gt;Registra Nuovo Account&lt;/b&gt; se vuoi che Psi provi a crea
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;No accounts created. To create account please click the Add button.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nessun account creato. Per crearne uno clicca il pulsante Aggiungi.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>psi/options</source>
-        <translation type="unfinished"></translation>
+        <translation>psi/opzioni</translation>
     </message>
 </context>
 <context>
@@ -5331,7 +5331,7 @@ Hai perso la partita.</translation>
     </message>
     <message>
         <source>Select nick coloring type for conference log</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona il tipo di colorazione dei nick per il log conferenze</translation>
     </message>
     <message>
         <source>None</source>
@@ -5339,15 +5339,15 @@ Hai perso la partita.</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatico</translation>
     </message>
     <message>
         <source>Manual palette</source>
-        <translation type="unfinished"></translation>
+        <translation>Palette manuale</translation>
     </message>
     <message>
         <source>Nick Coloring Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo colorazione nick</translation>
     </message>
     <message>
         <source>Show joins</source>
@@ -10004,11 +10004,11 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     <name>OptionsTabAccounts</name>
     <message>
         <source>Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Account</translation>
     </message>
     <message>
         <source>Manage accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestisci gli account</translation>
     </message>
 </context>
 <context>
