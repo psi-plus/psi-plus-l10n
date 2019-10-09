@@ -10011,7 +10011,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Manage accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление аккаунтами</translation>
     </message>
 </context>
 <context>
