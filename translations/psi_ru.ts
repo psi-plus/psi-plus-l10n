@@ -4211,6 +4211,10 @@ Importantly: a large part of the options are important system settings. These re
         <source>Place current tab at the bottom row in multirow mode</source>
         <translation>Переместить активную вкладку на нижний ряд в режиме многострочной панели вкладок</translation>
     </message>
+    <message>
+        <source>Hide groupchat when closing window</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FancyPopup::Private</name>

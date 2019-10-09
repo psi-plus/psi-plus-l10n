@@ -4207,6 +4207,10 @@ Importante: uma grande parte das opções são as configurações importantes do
         <source>Place current tab at the bottom row in multirow mode</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Hide groupchat when closing window</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FancyPopup::Private</name>

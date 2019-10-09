@@ -4212,6 +4212,10 @@ Importante; gran parte delle opzioni sono importanti impostazioni di sistema, qu
         <source>Place current tab at the bottom row in multirow mode</source>
         <translation>Metti la scheda attuale nella riga in fondo in modalità multiriga</translation>
     </message>
+    <message>
+        <source>Hide groupchat when closing window</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FancyPopup::Private</name>

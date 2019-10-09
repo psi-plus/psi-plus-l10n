@@ -4200,6 +4200,10 @@ Legfőképpen: nagy része a beállításoknak fontos rendszerbeállítás. Ezek
         <source>Place current tab at the bottom row in multirow mode</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Hide groupchat when closing window</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FancyPopup::Private</name>

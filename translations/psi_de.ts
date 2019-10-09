@@ -4212,6 +4212,10 @@ Wichtig: Ein großer Teil der Einstellungen sind wichtige Systemeinstellungen. D
         <source>Place current tab at the bottom row in multirow mode</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Hide groupchat when closing window</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FancyPopup::Private</name>

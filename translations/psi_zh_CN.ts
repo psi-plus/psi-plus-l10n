@@ -4199,6 +4199,10 @@ Importantly: a large part of the options are important system settings. These re
         <source>Place current tab at the bottom row in multirow mode</source>
         <translation>多行选项卡模式将当前选项卡放在底排</translation>
     </message>
+    <message>
+        <source>Hide groupchat when closing window</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FancyPopup::Private</name>
