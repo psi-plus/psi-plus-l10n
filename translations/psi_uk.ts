@@ -4218,7 +4218,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>Hide groupchat when closing window</source>
-        <translation type="unfinished"></translation>
+        <translation>Ховати вкладку конференції при закритті вікна</translation>
     </message>
 </context>
 <context>
