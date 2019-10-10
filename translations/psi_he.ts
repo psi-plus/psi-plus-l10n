@@ -7431,6 +7431,10 @@ Reason: %1</source>
         <translation>אין אפשרות להצטרף לשיחת קבוצה.
 סיבה: %1</translation>
     </message>
+    <message>
+        <source>%1 (%2)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>

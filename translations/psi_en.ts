@@ -7545,6 +7545,10 @@ Reason: %1</source>
         <translation>Unable to join groupchat.
 Reason: %1</translation>
     </message>
+    <message>
+        <source>%1 (%2)</source>
+        <translation type="unfinished">%1 (%2)</translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>

@@ -7523,6 +7523,10 @@ Reason: %1</source>
         <translation>No se puede entrar a la sala de charla.
 Motivo: %1</translation>
     </message>
+    <message>
+        <source>%1 (%2)</source>
+        <translation type="unfinished">%1 (%2)</translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>

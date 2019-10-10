@@ -7526,6 +7526,10 @@ Reason: %1</source>
         <translation>无法加入群组。
 原因: %1</translation>
     </message>
+    <message>
+        <source>%1 (%2)</source>
+        <translation type="unfinished">%1 (%2)</translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>

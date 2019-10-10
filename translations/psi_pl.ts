@@ -7494,6 +7494,10 @@ Reason: %1</source>
         <translation>Nie możesz dołączyć do konferencji.
 Przyczyna: %1</translation>
     </message>
+    <message>
+        <source>%1 (%2)</source>
+        <translation type="unfinished">%1 (%2)</translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>

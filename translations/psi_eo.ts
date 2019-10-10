@@ -7353,6 +7353,10 @@ Reason: %1</source>
         <translation>Ne eblis eniri babilejon.
 Kialo: %1</translation>
     </message>
+    <message>
+        <source>%1 (%2)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>

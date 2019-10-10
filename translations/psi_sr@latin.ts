@@ -7489,6 +7489,10 @@ Reason: %1</source>
         <translation>Ne mogu da se priključim grupnom razgovoru.
 Razlog: %1</translation>
     </message>
+    <message>
+        <source>%1 (%2)</source>
+        <translation type="unfinished">%1 (%2)</translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>

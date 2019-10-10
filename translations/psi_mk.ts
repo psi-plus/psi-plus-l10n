@@ -7359,6 +7359,10 @@ Reason: %1</source>
         <translation>Не може да се приклучите во групниот разговор.
 Причина: %1</translation>
     </message>
+    <message>
+        <source>%1 (%2)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>

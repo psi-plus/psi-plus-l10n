@@ -7369,6 +7369,10 @@ Reason: %1</source>
         <translation>Kunde inte gå med i gruppchatt.
 Orsak: %1</translation>
     </message>
+    <message>
+        <source>%1 (%2)</source>
+        <translation type="unfinished">%1 (%2)</translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>

@@ -7471,6 +7471,10 @@ Reason: %1</source>
         <translation>Impossible de rejoindre le groupe de discussion.
 Cause: %1</translation>
     </message>
+    <message>
+        <source>%1 (%2)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>

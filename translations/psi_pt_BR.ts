@@ -7533,6 +7533,10 @@ Reason: %1</source>
         <translation>Não foi possível entrar no bate-papo em grupo.
 Motivo: %1</translation>
     </message>
+    <message>
+        <source>%1 (%2)</source>
+        <translation type="unfinished">%1 (%2)</translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>
