@@ -12017,6 +12017,13 @@ Reason: %1.</source>
     </message>
 </context>
 <context>
+    <name>PsiAccount::Private</name>
+    <message>
+        <source>requires compliant client</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>PsiActionList::Private</name>
     <message>
         <source>Common Actions</source>
