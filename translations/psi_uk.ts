@@ -12433,7 +12433,7 @@ Reason: %1.</source>
     <name>PsiAccount::Private</name>
     <message>
         <source>requires compliant client</source>
-        <translation type="unfinished"></translation>
+        <translation>вимагає сумісний клієнт</translation>
     </message>
 </context>
 <context>

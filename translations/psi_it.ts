@@ -12428,7 +12428,7 @@ Motivo: %1.</translation>
     <name>PsiAccount::Private</name>
     <message>
         <source>requires compliant client</source>
-        <translation type="unfinished"></translation>
+        <translation>richiede un client compatibile</translation>
     </message>
 </context>
 <context>
