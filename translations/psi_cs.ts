@@ -4392,6 +4392,10 @@ nedostupná.  Pokud jsi za firewallem, je nutné se ujistit,
         <source>Share</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>requires compliant client</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FileShareDownloader::Private</name>
@@ -12366,17 +12370,6 @@ Důvod: %1.</translation>
         <source>Malformed request</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Open Files For Sharing</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PsiAccount::Private</name>
-    <message>
-        <source>requires compliant client</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -12738,11 +12731,11 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Check for Updates...</source>
-        <translation>Zkontrolovat aktualizace...</translation>
+        <translation type="vanished">Zkontrolovat aktualizace...</translation>
     </message>
     <message>
         <source>&amp;Check for Updates...</source>
-        <translation>&amp;Zkontrolovat aktualizace...</translation>
+        <translation type="vanished">&amp;Zkontrolovat aktualizace...</translation>
     </message>
     <message>
         <source>Report a Bug (Online)</source>
@@ -12874,6 +12867,10 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Pin/UnPin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join Psi Discussion Room (Online)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15197,6 +15194,10 @@ Děkujeme za trpělivost.</translation>
     </message>
     <message>
         <source>Transferring</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Files For Sharing</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

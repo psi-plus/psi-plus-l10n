@@ -4392,6 +4392,10 @@ that outgoing TCP connections are allowed.</source>
         <source>Share</source>
         <translation>分享</translation>
     </message>
+    <message>
+        <source>requires compliant client</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FileShareDownloader::Private</name>
@@ -12389,14 +12393,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Open Files For Sharing</source>
-        <translation>打开要分享的文件</translation>
-    </message>
-</context>
-<context>
-    <name>PsiAccount::Private</name>
-    <message>
-        <source>requires compliant client</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">打开要分享的文件</translation>
     </message>
 </context>
 <context>
@@ -12759,11 +12756,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Check for Updates...</source>
-        <translation>检查升级...</translation>
+        <translation type="vanished">检查升级...</translation>
     </message>
     <message>
         <source>&amp;Check for Updates...</source>
-        <translation>检查升级(&amp;C)...</translation>
+        <translation type="vanished">检查升级(&amp;C)...</translation>
     </message>
     <message>
         <source>Report a Bug (Online)</source>
@@ -12904,6 +12901,10 @@ Reason: %1.</source>
     <message>
         <source>Pin/UnPin Tab</source>
         <translation>固定/取消固定标签</translation>
+    </message>
+    <message>
+        <source>Join Psi Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15207,6 +15208,10 @@ Thanks for your patience.</source>
     <message>
         <source>Transferring</source>
         <translation>发送中</translation>
+    </message>
+    <message>
+        <source>Open Files For Sharing</source>
+        <translation type="unfinished">打开要分享的文件</translation>
     </message>
 </context>
 <context>

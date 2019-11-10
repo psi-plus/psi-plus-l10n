@@ -4410,6 +4410,10 @@ ausgehende TCP-Verbindungen erlaubt sind.</translation>
         <source>Share</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>requires compliant client</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FileShareDownloader::Private</name>
@@ -12403,17 +12407,6 @@ Grund: %1.</translation>
         <source>Malformed request</source>
         <translation>Anfrage nicht wohlgeformt</translation>
     </message>
-    <message>
-        <source>Open Files For Sharing</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PsiAccount::Private</name>
-    <message>
-        <source>requires compliant client</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -12775,11 +12768,11 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Check for Updates...</source>
-        <translation>Auf Aktualisierungen prüfen ...</translation>
+        <translation type="vanished">Auf Aktualisierungen prüfen ...</translation>
     </message>
     <message>
         <source>&amp;Check for Updates...</source>
-        <translation>Auf A&amp;ktualisierungen prüfen ...</translation>
+        <translation type="vanished">Auf A&amp;ktualisierungen prüfen ...</translation>
     </message>
     <message>
         <source>Report a Bug (Online)</source>
@@ -12919,6 +12912,10 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Pin/UnPin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join Psi Discussion Room (Online)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15241,6 +15238,10 @@ Vielen Dank für Ihre Geduld.</translation>
     </message>
     <message>
         <source>Transferring</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Files For Sharing</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

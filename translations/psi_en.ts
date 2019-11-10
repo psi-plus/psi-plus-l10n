@@ -4407,6 +4407,10 @@ that outgoing TCP connections are allowed.</translation>
         <source>Share</source>
         <translation>Share</translation>
     </message>
+    <message>
+        <source>requires compliant client</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FileShareDownloader::Private</name>
@@ -12420,14 +12424,7 @@ Reason: %1.</translation>
     </message>
     <message>
         <source>Open Files For Sharing</source>
-        <translation>Open Files For Sharing</translation>
-    </message>
-</context>
-<context>
-    <name>PsiAccount::Private</name>
-    <message>
-        <source>requires compliant client</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Open Files For Sharing</translation>
     </message>
 </context>
 <context>
@@ -12790,11 +12787,11 @@ Reason: %1.</translation>
     </message>
     <message>
         <source>Check for Updates...</source>
-        <translation>Check for Updates...</translation>
+        <translation type="vanished">Check for Updates...</translation>
     </message>
     <message>
         <source>&amp;Check for Updates...</source>
-        <translation>&amp;Check for Updates...</translation>
+        <translation type="vanished">&amp;Check for Updates...</translation>
     </message>
     <message>
         <source>Report a Bug (Online)</source>
@@ -12935,6 +12932,10 @@ Reason: %1.</translation>
     <message>
         <source>Pin/UnPin Tab</source>
         <translation>Pin/UnPin Tab</translation>
+    </message>
+    <message>
+        <source>Join Psi Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15257,6 +15258,10 @@ Thanks for your patience.</translation>
     <message>
         <source>Transferring</source>
         <translation>Transferring</translation>
+    </message>
+    <message>
+        <source>Open Files For Sharing</source>
+        <translation type="unfinished">Open Files For Sharing</translation>
     </message>
 </context>
 <context>

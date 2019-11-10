@@ -4413,6 +4413,10 @@ that outgoing TCP connections are allowed.</source>
         <source>Share</source>
         <translation>Поділитись</translation>
     </message>
+    <message>
+        <source>requires compliant client</source>
+        <translation type="unfinished">вимагає сумісний клієнт</translation>
+    </message>
 </context>
 <context>
     <name>FileShareDownloader::Private</name>
@@ -12426,14 +12430,14 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Open Files For Sharing</source>
-        <translation>Відкрити файли для спільного доступу</translation>
+        <translation type="vanished">Відкрити файли для спільного доступу</translation>
     </message>
 </context>
 <context>
     <name>PsiAccount::Private</name>
     <message>
         <source>requires compliant client</source>
-        <translation>вимагає сумісний клієнт</translation>
+        <translation type="vanished">вимагає сумісний клієнт</translation>
     </message>
 </context>
 <context>
@@ -12796,11 +12800,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Check for Updates...</source>
-        <translation>Перевірка оновлень...</translation>
+        <translation type="vanished">Перевірка оновлень...</translation>
     </message>
     <message>
         <source>&amp;Check for Updates...</source>
-        <translation>&amp;Перевірка оновлень...</translation>
+        <translation type="vanished">&amp;Перевірка оновлень...</translation>
     </message>
     <message>
         <source>Report a Bug (Online)</source>
@@ -12941,6 +12945,10 @@ Reason: %1.</source>
     <message>
         <source>Pin/UnPin Tab</source>
         <translation>Закріпити/Відкріпити вкладку</translation>
+    </message>
+    <message>
+        <source>Join Psi Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15267,6 +15275,10 @@ Thanks for your patience.</source>
     <message>
         <source>Transferring</source>
         <translation>Передача</translation>
+    </message>
+    <message>
+        <source>Open Files For Sharing</source>
+        <translation type="unfinished">Відкрити файли для спільного доступу</translation>
     </message>
 </context>
 <context>

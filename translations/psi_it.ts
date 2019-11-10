@@ -4406,6 +4406,10 @@ siano consentite.</translation>
         <source>Share</source>
         <translation>Condividi</translation>
     </message>
+    <message>
+        <source>requires compliant client</source>
+        <translation type="unfinished">richiede un client compatibile</translation>
+    </message>
 </context>
 <context>
     <name>FileShareDownloader::Private</name>
@@ -12421,14 +12425,14 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Open Files For Sharing</source>
-        <translation>Apri i file per condividere</translation>
+        <translation type="vanished">Apri i file per condividere</translation>
     </message>
 </context>
 <context>
     <name>PsiAccount::Private</name>
     <message>
         <source>requires compliant client</source>
-        <translation>richiede un client compatibile</translation>
+        <translation type="vanished">richiede un client compatibile</translation>
     </message>
 </context>
 <context>
@@ -12791,11 +12795,11 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Check for Updates...</source>
-        <translation>Controllando gli Aggiornamenti...</translation>
+        <translation type="vanished">Controllando gli Aggiornamenti...</translation>
     </message>
     <message>
         <source>&amp;Check for Updates...</source>
-        <translation>&amp;Controllando gli Aggiornamenti...</translation>
+        <translation type="vanished">&amp;Controllando gli Aggiornamenti...</translation>
     </message>
     <message>
         <source>Report a Bug (Online)</source>
@@ -12936,6 +12940,10 @@ Motivo: %1.</translation>
     <message>
         <source>Pin/UnPin Tab</source>
         <translation>Blocca/Sblocca scheda</translation>
+    </message>
+    <message>
+        <source>Join Psi Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15257,6 +15265,10 @@ Grazie per la tua pazienza.</translation>
     <message>
         <source>Transferring</source>
         <translation>Trasferimento</translation>
+    </message>
+    <message>
+        <source>Open Files For Sharing</source>
+        <translation type="unfinished">Apri i file per condividere</translation>
     </message>
 </context>
 <context>
