@@ -4408,7 +4408,7 @@ siano consentite.</translation>
     </message>
     <message>
         <source>requires compliant client</source>
-        <translation type="unfinished">richiede un client compatibile</translation>
+        <translation>richiede un client compatibile</translation>
     </message>
 </context>
 <context>
@@ -12429,13 +12429,6 @@ Motivo: %1.</translation>
     </message>
 </context>
 <context>
-    <name>PsiAccount::Private</name>
-    <message>
-        <source>requires compliant client</source>
-        <translation type="vanished">richiede un client compatibile</translation>
-    </message>
-</context>
-<context>
     <name>PsiActionList::Private</name>
     <message>
         <source>Common Actions</source>
@@ -12943,7 +12936,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Join Psi Discussion Room (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Unisciti alla stanza di discussione di Psi (In linea)</translation>
     </message>
 </context>
 <context>
@@ -15268,7 +15261,7 @@ Grazie per la tua pazienza.</translation>
     </message>
     <message>
         <source>Open Files For Sharing</source>
-        <translation type="unfinished">Apri i file per condividere</translation>
+        <translation>Apri i file per condividere</translation>
     </message>
 </context>
 <context>
