@@ -4415,7 +4415,7 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>requires compliant client</source>
-        <translation type="unfinished">вимагає сумісний клієнт</translation>
+        <translation>вимагає сумісний клієнт</translation>
     </message>
 </context>
 <context>
@@ -12434,13 +12434,6 @@ Reason: %1.</source>
     </message>
 </context>
 <context>
-    <name>PsiAccount::Private</name>
-    <message>
-        <source>requires compliant client</source>
-        <translation type="vanished">вимагає сумісний клієнт</translation>
-    </message>
-</context>
-<context>
     <name>PsiActionList::Private</name>
     <message>
         <source>Common Actions</source>
@@ -12948,7 +12941,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Join Psi Discussion Room (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Увійти до конференції обговорення Psi (Онлайн)</translation>
     </message>
 </context>
 <context>
@@ -15278,7 +15271,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Open Files For Sharing</source>
-        <translation type="unfinished">Відкрити файли для спільного доступу</translation>
+        <translation>Відкрити файли для спільного доступу</translation>
     </message>
 </context>
 <context>
