@@ -1300,6 +1300,65 @@ C&apos;è stato un errore ottenendo l&apos;informazione  Servizio Traduzione ID 
     </message>
 </context>
 <context>
+    <name>AddressTypeDlg</name>
+    <message>
+        <source>Preferred</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Home</source>
+        <translation type="unfinished">Home</translation>
+    </message>
+    <message>
+        <source>Work</source>
+        <translation type="unfinished">Lavoro</translation>
+    </message>
+    <message>
+        <source>Postal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Parcel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Domestic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>International</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fax</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modem</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AttachView</name>
     <message>
         <source>Go to &amp;URL...</source>
@@ -6966,6 +7025,14 @@ Motivo: %1</translation>
         <source>Support</source>
         <translation>Supporto</translation>
     </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished">Modifica</translation>
+    </message>
+    <message>
+        <source>Details</source>
+        <translation type="unfinished">Dettagli</translation>
+    </message>
 </context>
 <context>
     <name>InvateDialog</name>
@@ -8754,6 +8821,14 @@ Argomento MUC per esempio.</translation>
     <message>
         <source>Action for mouse double click on tabs:</source>
         <translation>Azione del doppio click sulle schede:</translation>
+    </message>
+    <message>
+        <source>Record and share audio message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable audio messages</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13598,11 +13673,11 @@ Vuoi attivare quella sessione ora?</translation>
     </message>
     <message>
         <source>Flat</source>
-        <translation>Piatta</translation>
+        <translation type="vanished">Piatta</translation>
     </message>
     <message>
         <source>Display all options as a flat list.</source>
-        <translation>Mostra tutte le opzioni come una lista piatta.</translation>
+        <translation type="vanished">Mostra tutte le opzioni come una lista piatta.</translation>
     </message>
     <message>
         <source>Delete...</source>
@@ -13659,6 +13734,18 @@ Vuoi attivare quella sessione ora?</translation>
     <message>
         <source>Options filter</source>
         <translation>Filtra opzioni</translation>
+    </message>
+    <message>
+        <source>Filter</source>
+        <translation type="unfinished">Filtro</translation>
+    </message>
+    <message>
+        <source>Display options as a flat list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display options as a flat list.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -1292,6 +1292,65 @@ Hiba a Szolgáltatás ID Átalakításakor &quot;%1&quot;.&lt;br&gt;Oka: %2&lt;b
     </message>
 </context>
 <context>
+    <name>AddressTypeDlg</name>
+    <message>
+        <source>Preferred</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Home</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Work</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Postal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Parcel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Domestic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>International</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fax</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modem</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AttachView</name>
     <message>
         <source>Go to &amp;URL...</source>
@@ -6953,6 +7012,14 @@ Oka: %1</translation>
         <source>Support</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished">Szerkesztés</translation>
+    </message>
+    <message>
+        <source>Details</source>
+        <translation type="unfinished">Részletek</translation>
+    </message>
 </context>
 <context>
     <name>InvateDialog</name>
@@ -8718,6 +8785,14 @@ Címkék: %1</translation>
     <message>
         <source>Action for mouse double click on tabs:</source>
         <translation>Dupla kattintás szerepe füleken:</translation>
+    </message>
+    <message>
+        <source>Record and share audio message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable audio messages</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13549,11 +13624,11 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
     </message>
     <message>
         <source>Flat</source>
-        <translation>Kibontott lista</translation>
+        <translation type="vanished">Kibontott lista</translation>
     </message>
     <message>
         <source>Display all options as a flat list.</source>
-        <translation>Minden opció kibontása.</translation>
+        <translation type="vanished">Minden opció kibontása.</translation>
     </message>
     <message>
         <source>Delete...</source>
@@ -13609,6 +13684,18 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
     </message>
     <message>
         <source>Options filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter</source>
+        <translation type="unfinished">Szűrő</translation>
+    </message>
+    <message>
+        <source>Display options as a flat list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display options as a flat list.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
