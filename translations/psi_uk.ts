@@ -1310,7 +1310,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     <name>AddressTypeDlg</name>
     <message>
         <source>Preferred</source>
-        <translation>Кращі</translation>
+        <translation>Пріоритетний</translation>
     </message>
     <message>
         <source>Home</source>
