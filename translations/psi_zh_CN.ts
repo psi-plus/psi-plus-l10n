@@ -282,11 +282,11 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; 获取更多信息!</transla
     </message>
     <message>
         <source>psi/logo_48</source>
-        <translation type="unfinished">psi/logo_48</translation>
+        <translation type="obsolete">psi/logo_48</translation>
     </message>
     <message>
         <source>About Psi</source>
-        <translation type="unfinished">关于PSI</translation>
+        <translation>关于PSI</translation>
     </message>
 </context>
 <context>
@@ -1311,11 +1311,11 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished">首页</translation>
+        <translation>首页</translation>
     </message>
     <message>
         <source>Work</source>
-        <translation type="unfinished"></translation>
+        <translation>工作中</translation>
     </message>
     <message>
         <source>Postal</source>
@@ -7015,11 +7015,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">编辑</translation>
+        <translation>编辑</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished">详情</translation>
+        <translation>详情</translation>
     </message>
 </context>
 <context>
@@ -12987,15 +12987,15 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Join Psi Discussion Room (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>加入Psi讨论室 (在线)</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
-        <translation type="unfinished">Psi论坛 (在线​​)</translation>
+        <translation>Psi论坛 (在线​​)</translation>
     </message>
     <message>
         <source>Psi &amp;Forum (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi论坛 (在线​​)(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;Join Psi Discussion Room (Online)</source>
@@ -13725,7 +13725,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">过滤器</translation>
+        <translation>过滤器</translation>
     </message>
     <message>
         <source>Display options as a flat list</source>
@@ -15318,7 +15318,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Open Files For Sharing</source>
-        <translation type="unfinished">打开要分享的文件</translation>
+        <translation>打开要分享的文件</translation>
     </message>
 </context>
 <context>

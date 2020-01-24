@@ -282,7 +282,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; per ulteriori dettagli!</tra
     </message>
     <message>
         <source>psi/logo_48</source>
-        <translation>psi/logo_48</translation>
+        <translation type="vanished">psi/logo_48</translation>
     </message>
     <message>
         <source>About Psi</source>
