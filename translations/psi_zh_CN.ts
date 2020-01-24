@@ -50,7 +50,7 @@
     </message>
     <message>
         <source>psi/psiplus_logo</source>
-        <translation>psi/psiplus_logo</translation>
+        <translation type="vanished">psi/psiplus_logo</translation>
     </message>
     <message>
         <source>Authors</source>
@@ -279,6 +279,14 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; 获取更多信息!</transla
     <message>
         <source>Patcher and former Russian translator</source>
         <translation>修补者和前俄语翻译</translation>
+    </message>
+    <message>
+        <source>psi/logo_48</source>
+        <translation type="unfinished">psi/logo_48</translation>
+    </message>
+    <message>
+        <source>About Psi</source>
+        <translation type="unfinished">关于PSI</translation>
     </message>
 </context>
 <context>
@@ -12979,6 +12987,18 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Join Psi Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi Forum (Online)</source>
+        <translation type="unfinished">Psi论坛 (在线​​)</translation>
+    </message>
+    <message>
+        <source>Psi &amp;Forum (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Join Psi Discussion Room (Online)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

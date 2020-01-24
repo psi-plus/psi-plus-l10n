@@ -50,7 +50,7 @@
     </message>
     <message>
         <source>psi/psiplus_logo</source>
-        <translation>psi/psiplus_logo</translation>
+        <translation type="vanished">psi/psiplus_logo</translation>
     </message>
     <message>
         <source>Authors</source>
@@ -238,6 +238,14 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Patcher and former Russian translator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi/logo_48</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About Psi</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12575,6 +12583,18 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Join Psi Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi Forum (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi &amp;Forum (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Join Psi Discussion Room (Online)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
