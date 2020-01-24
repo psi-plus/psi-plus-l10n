@@ -282,11 +282,11 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; per ulteriori dettagli!</tra
     </message>
     <message>
         <source>psi/logo_48</source>
-        <translation type="unfinished">psi/logo_48</translation>
+        <translation>psi/logo_48</translation>
     </message>
     <message>
         <source>About Psi</source>
-        <translation type="unfinished">Informazioni su Psi</translation>
+        <translation>Informazioni su Psi</translation>
     </message>
 </context>
 <context>
@@ -13023,15 +13023,15 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
-        <translation type="unfinished">Forum Psi (In linea)</translation>
+        <translation>Forum Psi (In linea)</translation>
     </message>
     <message>
         <source>Psi &amp;Forum (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Forum Psi (in linea)</translation>
     </message>
     <message>
         <source>&amp;Join Psi Discussion Room (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Unisciti alla stanza di discussione di Psi (in linea)</translation>
     </message>
 </context>
 <context>
