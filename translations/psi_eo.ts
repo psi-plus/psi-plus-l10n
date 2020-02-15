@@ -3007,23 +3007,15 @@ Proceed?</source>
     <name>CreateGroupDlg</name>
     <message>
         <source>Create New Group</source>
-        <translation>Krei Novan Grupon</translation>
-    </message>
-    <message>
-        <source>Enter the new group name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Krei Novan Grupon</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Aldoni</translation>
+        <translation type="vanished">Aldoni</translation>
     </message>
     <message>
         <source>&lt;None&gt;</source>
-        <translation>&lt;Neniu&gt;</translation>
-    </message>
-    <message>
-        <source>Choose parent group: </source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&lt;Neniu&gt;</translation>
     </message>
 </context>
 <context>
@@ -12117,14 +12109,6 @@ Kialo: %1.</translation>
     <message>
         <source>Public Key: %1</source>
         <translation>Publika ŝlosilo: %1</translation>
-    </message>
-    <message>
-        <source>Nested Groups Delimiter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set a new delimiter of nested groups</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>

@@ -3083,23 +3083,19 @@ Da nastavim?</translation>
     <name>CreateGroupDlg</name>
     <message>
         <source>Create New Group</source>
-        <translation>Kreiraj novu grupu</translation>
+        <translation type="vanished">Kreiraj novu grupu</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation>Unesi novo ime grupe:</translation>
+        <translation type="vanished">Unesi novo ime grupe:</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Dodaj</translation>
+        <translation type="vanished">Dodaj</translation>
     </message>
     <message>
         <source>&lt;None&gt;</source>
-        <translation>&lt;None&gt;</translation>
-    </message>
-    <message>
-        <source>Choose parent group: </source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&lt;None&gt;</translation>
     </message>
 </context>
 <context>
@@ -12339,14 +12335,6 @@ Reason: %1.</source>
     <message>
         <source>Public Key: %1</source>
         <translation>Javni ključ: %1</translation>
-    </message>
-    <message>
-        <source>Nested Groups Delimiter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set a new delimiter of nested groups</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>

@@ -3060,23 +3060,23 @@ Proceed?</source>
     <name>CreateGroupDlg</name>
     <message>
         <source>Create New Group</source>
-        <translation>グループを作成</translation>
+        <translation type="vanished">グループを作成</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation>新規グループ名を入力してください:</translation>
+        <translation type="vanished">新規グループ名を入力してください:</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>追加</translation>
+        <translation type="vanished">追加</translation>
     </message>
     <message>
         <source>&lt;None&gt;</source>
-        <translation>&lt;なし&gt;</translation>
+        <translation type="vanished">&lt;なし&gt;</translation>
     </message>
     <message>
         <source>Choose parent group: </source>
-        <translation>親グループを選択</translation>
+        <translation type="vanished">親グループを選択</translation>
     </message>
 </context>
 <context>
@@ -12196,14 +12196,6 @@ Reason: %1.</source>
     <message>
         <source>Public Key: %1</source>
         <translation>公開鍵: %1</translation>
-    </message>
-    <message>
-        <source>Nested Groups Delimiter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set a new delimiter of nested groups</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>

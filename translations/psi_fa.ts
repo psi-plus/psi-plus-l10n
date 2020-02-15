@@ -3008,24 +3008,8 @@ Proceed?</source>
 <context>
     <name>CreateGroupDlg</name>
     <message>
-        <source>Create New Group</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter the new group name:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Add</source>
-        <translation>افزودن</translation>
-    </message>
-    <message>
-        <source>&lt;None&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose parent group: </source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">افزودن</translation>
     </message>
 </context>
 <context>
@@ -12052,14 +12036,6 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Public Key: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Nested Groups Delimiter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set a new delimiter of nested groups</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

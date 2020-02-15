@@ -3102,23 +3102,23 @@ Proceed?</source>
     <name>CreateGroupDlg</name>
     <message>
         <source>Create New Group</source>
-        <translation>Crear Nuevo Grupo</translation>
+        <translation type="vanished">Crear Nuevo Grupo</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation>Insertar nuevo nombre del grupo:</translation>
+        <translation type="vanished">Insertar nuevo nombre del grupo:</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Añadir</translation>
+        <translation type="vanished">Añadir</translation>
     </message>
     <message>
         <source>&lt;None&gt;</source>
-        <translation>&lt;Ninguno&gt;</translation>
+        <translation type="vanished">&lt;Ninguno&gt;</translation>
     </message>
     <message>
         <source>Choose parent group: </source>
-        <translation>Elegir grupo padre:</translation>
+        <translation type="vanished">Elegir grupo padre:</translation>
     </message>
 </context>
 <context>
@@ -12425,11 +12425,11 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Nested Groups Delimiter</source>
-        <translation>Delimitador de Grupos Anidados</translation>
+        <translation type="vanished">Delimitador de Grupos Anidados</translation>
     </message>
     <message>
         <source>Set a new delimiter of nested groups</source>
-        <translation>Establecer un nuevo delimitador de grupos anidados</translation>
+        <translation type="vanished">Establecer un nuevo delimitador de grupos anidados</translation>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>

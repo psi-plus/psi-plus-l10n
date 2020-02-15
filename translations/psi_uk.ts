@@ -3119,23 +3119,23 @@ Proceed?</source>
     <name>CreateGroupDlg</name>
     <message>
         <source>Create New Group</source>
-        <translation>Створення нової групи</translation>
+        <translation type="vanished">Створення нової групи</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation>Введіть назву нової групи:</translation>
+        <translation type="vanished">Введіть назву нової групи:</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Додати</translation>
+        <translation type="vanished">Додати</translation>
     </message>
     <message>
         <source>&lt;None&gt;</source>
-        <translation>&lt;Немає&gt;</translation>
+        <translation type="vanished">&lt;Немає&gt;</translation>
     </message>
     <message>
         <source>Choose parent group: </source>
-        <translation>Батьківська група: </translation>
+        <translation type="vanished">Батьківська група: </translation>
     </message>
 </context>
 <context>
@@ -12473,11 +12473,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Nested Groups Delimiter</source>
-        <translation>Розділювач вкладених груп</translation>
+        <translation type="vanished">Розділювач вкладених груп</translation>
     </message>
     <message>
         <source>Set a new delimiter of nested groups</source>
-        <translation>Встановити новий розділювач вкладених груп</translation>
+        <translation type="vanished">Встановити новий розділювач вкладених груп</translation>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>

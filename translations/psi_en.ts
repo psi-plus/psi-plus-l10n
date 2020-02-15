@@ -3111,23 +3111,23 @@ Proceed?</translation>
     <name>CreateGroupDlg</name>
     <message>
         <source>Create New Group</source>
-        <translation>Create New Group</translation>
+        <translation type="vanished">Create New Group</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation>Enter the new group name:</translation>
+        <translation type="vanished">Enter the new group name:</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Add</translation>
+        <translation type="vanished">Add</translation>
     </message>
     <message>
         <source>&lt;None&gt;</source>
-        <translation>&lt;None&gt;</translation>
+        <translation type="vanished">&lt;None&gt;</translation>
     </message>
     <message>
         <source>Choose parent group: </source>
-        <translation>Choose parent group: </translation>
+        <translation type="vanished">Choose parent group: </translation>
     </message>
 </context>
 <context>
@@ -12467,11 +12467,11 @@ Reason: %1.</translation>
     </message>
     <message>
         <source>Nested Groups Delimiter</source>
-        <translation>Nested Groups Delimiter</translation>
+        <translation type="vanished">Nested Groups Delimiter</translation>
     </message>
     <message>
         <source>Set a new delimiter of nested groups</source>
-        <translation>Set a new delimiter of nested groups</translation>
+        <translation type="vanished">Set a new delimiter of nested groups</translation>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>

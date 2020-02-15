@@ -3016,23 +3016,19 @@ Tiếp tục ?</translation>
     <name>CreateGroupDlg</name>
     <message>
         <source>Create New Group</source>
-        <translation>Tạo nhóm mới</translation>
+        <translation type="vanished">Tạo nhóm mới</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation>Gõ tên nhóm mới:</translation>
+        <translation type="vanished">Gõ tên nhóm mới:</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Thêm</translation>
+        <translation type="vanished">Thêm</translation>
     </message>
     <message>
         <source>&lt;None&gt;</source>
-        <translation>&lt;Không có&gt;</translation>
-    </message>
-    <message>
-        <source>Choose parent group: </source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&lt;Không có&gt;</translation>
     </message>
 </context>
 <context>
@@ -12153,14 +12149,6 @@ Lý do : %1.</translation>
     <message>
         <source>Public Key: %1</source>
         <translation>Khoá công: %1</translation>
-    </message>
-    <message>
-        <source>Nested Groups Delimiter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set a new delimiter of nested groups</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>

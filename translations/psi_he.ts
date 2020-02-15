@@ -3054,23 +3054,19 @@ Proceed?</source>
     <name>CreateGroupDlg</name>
     <message>
         <source>Create New Group</source>
-        <translation>יצירת קבוצה חדשה</translation>
+        <translation type="vanished">יצירת קבוצה חדשה</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation>הזן את השם החדש של הקבוצה:</translation>
+        <translation type="vanished">הזן את השם החדש של הקבוצה:</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>הוסף</translation>
+        <translation type="vanished">הוסף</translation>
     </message>
     <message>
         <source>&lt;None&gt;</source>
-        <translation>&lt;ללא&gt;</translation>
-    </message>
-    <message>
-        <source>Choose parent group: </source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&lt;ללא&gt;</translation>
     </message>
 </context>
 <context>
@@ -12248,14 +12244,6 @@ Reason: %1.</source>
     <message>
         <source>Public Key: %1</source>
         <translation>מפתח פומבי: %1</translation>
-    </message>
-    <message>
-        <source>Nested Groups Delimiter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set a new delimiter of nested groups</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>

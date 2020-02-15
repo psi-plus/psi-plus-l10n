@@ -3103,23 +3103,23 @@ Folytatod?</translation>
     <name>CreateGroupDlg</name>
     <message>
         <source>Create New Group</source>
-        <translation>Új csoport létrehozása</translation>
+        <translation type="vanished">Új csoport létrehozása</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation>Add meg az új csoportnevet:</translation>
+        <translation type="vanished">Add meg az új csoportnevet:</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Hozzáadás</translation>
+        <translation type="vanished">Hozzáadás</translation>
     </message>
     <message>
         <source>&lt;None&gt;</source>
-        <translation>&lt;Nincs&gt;</translation>
+        <translation type="vanished">&lt;Nincs&gt;</translation>
     </message>
     <message>
         <source>Choose parent group: </source>
-        <translation>Válassz szülő csoportot:</translation>
+        <translation type="vanished">Válassz szülő csoportot:</translation>
     </message>
 </context>
 <context>
@@ -12434,11 +12434,11 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Nested Groups Delimiter</source>
-        <translation>Beágyazott csoportok határolója</translation>
+        <translation type="vanished">Beágyazott csoportok határolója</translation>
     </message>
     <message>
         <source>Set a new delimiter of nested groups</source>
-        <translation>Új határoló megadása a beágyazott csoportokhoz</translation>
+        <translation type="vanished">Új határoló megadása a beágyazott csoportokhoz</translation>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>

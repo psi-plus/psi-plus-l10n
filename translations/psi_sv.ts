@@ -3016,23 +3016,19 @@ Fortsätt?</translation>
     <name>CreateGroupDlg</name>
     <message>
         <source>Create New Group</source>
-        <translation>Skapa ny grupp</translation>
+        <translation type="vanished">Skapa ny grupp</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation>Skriv namnet på den nya gruppen:</translation>
+        <translation type="vanished">Skriv namnet på den nya gruppen:</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Lägg till</translation>
+        <translation type="vanished">Lägg till</translation>
     </message>
     <message>
         <source>&lt;None&gt;</source>
-        <translation>&lt;Inget&gt;</translation>
-    </message>
-    <message>
-        <source>Choose parent group: </source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&lt;Inget&gt;</translation>
     </message>
 </context>
 <context>
@@ -12152,14 +12148,6 @@ Orsak: %1.</translation>
     <message>
         <source>Public Key: %1</source>
         <translation>Publik nyckel: %1</translation>
-    </message>
-    <message>
-        <source>Nested Groups Delimiter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set a new delimiter of nested groups</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>

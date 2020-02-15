@@ -3091,23 +3091,19 @@ Proceed?</source>
     <name>CreateGroupDlg</name>
     <message>
         <source>Create New Group</source>
-        <translation>建立新群組</translation>
+        <translation type="vanished">建立新群組</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation>輸入新群組的名稱:</translation>
+        <translation type="vanished">輸入新群組的名稱:</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>添加</translation>
+        <translation type="vanished">添加</translation>
     </message>
     <message>
         <source>&lt;None&gt;</source>
-        <translation>&lt;無&gt;</translation>
-    </message>
-    <message>
-        <source>Choose parent group: </source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&lt;無&gt;</translation>
     </message>
 </context>
 <context>
@@ -12385,14 +12381,6 @@ Reason: %1.</source>
     <message>
         <source>Public Key: %1</source>
         <translation>公開金鑰: %1</translation>
-    </message>
-    <message>
-        <source>Nested Groups Delimiter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set a new delimiter of nested groups</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>

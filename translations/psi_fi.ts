@@ -3007,23 +3007,15 @@ Jatka?</translation>
     <name>CreateGroupDlg</name>
     <message>
         <source>Create New Group</source>
-        <translation>Luo uusi ryhmä</translation>
-    </message>
-    <message>
-        <source>Enter the new group name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Luo uusi ryhmä</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Lisää</translation>
+        <translation type="vanished">Lisää</translation>
     </message>
     <message>
         <source>&lt;None&gt;</source>
-        <translation>&lt;Ei mitään&gt;</translation>
-    </message>
-    <message>
-        <source>Choose parent group: </source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&lt;Ei mitään&gt;</translation>
     </message>
 </context>
 <context>
@@ -12102,14 +12094,6 @@ Reason: %1.</source>
     <message>
         <source>Public Key: %1</source>
         <translation>Julkinen avain: %1</translation>
-    </message>
-    <message>
-        <source>Nested Groups Delimiter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set a new delimiter of nested groups</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>

@@ -3102,23 +3102,23 @@ Pokračovat?</translation>
     <name>CreateGroupDlg</name>
     <message>
         <source>Create New Group</source>
-        <translation>Vytvořit novou skupinu</translation>
+        <translation type="vanished">Vytvořit novou skupinu</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation>Zadej jméno nové skupiny:</translation>
+        <translation type="vanished">Zadej jméno nové skupiny:</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Přidat</translation>
+        <translation type="vanished">Přidat</translation>
     </message>
     <message>
         <source>&lt;None&gt;</source>
-        <translation>&lt;Žádná&gt;</translation>
+        <translation type="vanished">&lt;Žádná&gt;</translation>
     </message>
     <message>
         <source>Choose parent group: </source>
-        <translation>Vyber si nadřazenou skupinu: </translation>
+        <translation type="vanished">Vyber si nadřazenou skupinu: </translation>
     </message>
 </context>
 <context>
@@ -12415,11 +12415,11 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Nested Groups Delimiter</source>
-        <translation>Oddělovač vnořených skupin</translation>
+        <translation type="vanished">Oddělovač vnořených skupin</translation>
     </message>
     <message>
         <source>Set a new delimiter of nested groups</source>
-        <translation>Nastav nový oddělovač pro vnořené skupiny</translation>
+        <translation type="vanished">Nastav nový oddělovač pro vnořené skupiny</translation>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>

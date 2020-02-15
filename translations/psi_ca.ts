@@ -3006,23 +3006,15 @@ Continuar?</translation>
     <name>CreateGroupDlg</name>
     <message>
         <source>Create New Group</source>
-        <translation>Crear nou grup</translation>
-    </message>
-    <message>
-        <source>Enter the new group name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Crear nou grup</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Afegeix</translation>
+        <translation type="vanished">Afegeix</translation>
     </message>
     <message>
         <source>&lt;None&gt;</source>
-        <translation>&lt;Cap&gt;</translation>
-    </message>
-    <message>
-        <source>Choose parent group: </source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&lt;Cap&gt;</translation>
     </message>
 </context>
 <context>
@@ -12104,14 +12096,6 @@ Reason: %1.</source>
     <message>
         <source>Public Key: %1</source>
         <translation>Clau pública: %1</translation>
-    </message>
-    <message>
-        <source>Nested Groups Delimiter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set a new delimiter of nested groups</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>

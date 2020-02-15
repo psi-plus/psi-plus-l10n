@@ -3016,23 +3016,19 @@ Nadaljujem?</translation>
     <name>CreateGroupDlg</name>
     <message>
         <source>Create New Group</source>
-        <translation>Ustvari novo skupino</translation>
+        <translation type="vanished">Ustvari novo skupino</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation>Vnesite ime nove skupine:</translation>
+        <translation type="vanished">Vnesite ime nove skupine:</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Dodaj</translation>
+        <translation type="vanished">Dodaj</translation>
     </message>
     <message>
         <source>&lt;None&gt;</source>
-        <translation>&lt;brez&gt;</translation>
-    </message>
-    <message>
-        <source>Choose parent group: </source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&lt;brez&gt;</translation>
     </message>
 </context>
 <context>
@@ -12152,14 +12148,6 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
     <message>
         <source>Public Key: %1</source>
         <translation>Javni ključ: %1</translation>
-    </message>
-    <message>
-        <source>Nested Groups Delimiter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set a new delimiter of nested groups</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>

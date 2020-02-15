@@ -3060,23 +3060,23 @@ Proceed?</source>
     <name>CreateGroupDlg</name>
     <message>
         <source>Create New Group</source>
-        <translation>Създаване на Нова Група</translation>
+        <translation type="vanished">Създаване на Нова Група</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation>Въведете новото име на групата:</translation>
+        <translation type="vanished">Въведете новото име на групата:</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Добавяне</translation>
+        <translation type="vanished">Добавяне</translation>
     </message>
     <message>
         <source>&lt;None&gt;</source>
-        <translation>&lt;Няма&gt;</translation>
+        <translation type="vanished">&lt;Няма&gt;</translation>
     </message>
     <message>
         <source>Choose parent group: </source>
-        <translation>Изберете съдържащата група:</translation>
+        <translation type="vanished">Изберете съдържащата група:</translation>
     </message>
 </context>
 <context>
@@ -12344,11 +12344,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Nested Groups Delimiter</source>
-        <translation>Разделител на Вложени Групи:</translation>
+        <translation type="vanished">Разделител на Вложени Групи:</translation>
     </message>
     <message>
         <source>Set a new delimiter of nested groups</source>
-        <translation>Задаване на нов разделител за вложени групи</translation>
+        <translation type="vanished">Задаване на нов разделител за вложени групи</translation>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
