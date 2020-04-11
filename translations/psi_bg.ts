@@ -237,12 +237,8 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>psi/logo_48</source>
-        <translation type="obsolete">psi/лого_48</translation>
-    </message>
-    <message>
         <source>About Psi</source>
-        <translation type="unfinished">Относно Psi</translation>
+        <translation>Относно Psi</translation>
     </message>
 </context>
 <context>
@@ -1267,7 +1263,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Work</source>
-        <translation type="unfinished">Работя</translation>
+        <translation>Работя</translation>
     </message>
     <message>
         <source>Postal</source>
@@ -6961,11 +6957,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Редактиране</translation>
+        <translation>Редактиране</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished">Данни</translation>
+        <translation>Данни</translation>
     </message>
 </context>
 <context>

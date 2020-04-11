@@ -281,12 +281,8 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; für mehr Informationen!</tr
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>psi/logo_48</source>
-        <translation type="obsolete">psi/logo_48</translation>
-    </message>
-    <message>
         <source>About Psi</source>
-        <translation type="unfinished">Über Psi</translation>
+        <translation>Über Psi</translation>
     </message>
 </context>
 <context>
@@ -1314,11 +1310,11 @@ Beispiele:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppnutzer@somehost.com&lt;br&
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished">Homepage:</translation>
+        <translation>Homepage:</translation>
     </message>
     <message>
         <source>Work</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbeiten</translation>
     </message>
     <message>
         <source>Postal</source>
@@ -7029,11 +7025,11 @@ Grund: %1</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Bearbeiten</translation>
+        <translation>Bearbeiten</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished">Details</translation>
+        <translation>Details</translation>
     </message>
 </context>
 <context>
@@ -13007,7 +13003,7 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
-        <translation type="unfinished">Psi+ Forum (Online)</translation>
+        <translation>Psi+ Forum (Online)</translation>
     </message>
     <message>
         <source>Psi &amp;Forum (Online)</source>
@@ -13741,7 +13737,7 @@ Möchten Sie die Sitzung jetzt aktivieren?</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation>Filter</translation>
     </message>
     <message>
         <source>Display options as a flat list</source>

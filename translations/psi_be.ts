@@ -269,12 +269,8 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>psi/logo_48</source>
-        <translation type="obsolete">psi/logo_48</translation>
-    </message>
-    <message>
         <source>About Psi</source>
-        <translation type="unfinished">Пра «Псі»</translation>
+        <translation>Пра «Псі»</translation>
     </message>
 </context>
 <context>
@@ -1304,7 +1300,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Work</source>
-        <translation type="unfinished"></translation>
+        <translation>Праца</translation>
     </message>
     <message>
         <source>Postal</source>
@@ -7003,11 +6999,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Правіць</translation>
+        <translation>Правіць</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished">Падрабязнасьці</translation>
+        <translation>Падрабязнасьці</translation>
     </message>
 </context>
 <context>
@@ -12954,7 +12950,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
-        <translation type="unfinished">Форум «Псі» (у сеціве)</translation>
+        <translation>Форум «Псі» (у сеціве)</translation>
     </message>
     <message>
         <source>Psi &amp;Forum (Online)</source>
@@ -13685,7 +13681,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Прасейваць</translation>
+        <translation>Прасейваць</translation>
     </message>
     <message>
         <source>Display options as a flat list</source>

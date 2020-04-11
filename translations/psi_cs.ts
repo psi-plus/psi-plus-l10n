@@ -273,12 +273,8 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>psi/logo_48</source>
-        <translation type="obsolete">psi/logo_48</translation>
-    </message>
-    <message>
         <source>About Psi</source>
-        <translation type="unfinished">O Psi</translation>
+        <translation>O Psi</translation>
     </message>
 </context>
 <context>
@@ -1310,7 +1306,7 @@ Vyskytla se chyba při převodu ID služby z &quot;%1&quot;.&lt;br&gt;Důvod: %2
     </message>
     <message>
         <source>Work</source>
-        <translation type="unfinished">Práce</translation>
+        <translation>Práce</translation>
     </message>
     <message>
         <source>Postal</source>
@@ -7002,11 +6998,11 @@ Příčina: %1</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Upravit</translation>
+        <translation>Upravit</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished">Detaily</translation>
+        <translation>Detaily</translation>
     </message>
 </context>
 <context>
@@ -12962,7 +12958,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
-        <translation type="unfinished">Psí fórum (Online)</translation>
+        <translation>Psí fórum (Online)</translation>
     </message>
     <message>
         <source>Psi &amp;Forum (Online)</source>
@@ -13693,7 +13689,7 @@ Chceš aktivovat tuto relaci?</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Filtr</translation>
+        <translation>Filtr</translation>
     </message>
     <message>
         <source>Display options as a flat list</source>
