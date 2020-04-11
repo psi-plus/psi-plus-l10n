@@ -7392,6 +7392,10 @@ Reason: %1</source>
         <source>%1 (%2)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>No response from server for %1 seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>
