@@ -281,10 +281,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; per ulteriori dettagli!</tra
         <translation>Patcher ed ex traduttore russo</translation>
     </message>
     <message>
-        <source>psi/logo_48</source>
-        <translation type="vanished">psi/logo_48</translation>
-    </message>
-    <message>
         <source>About Psi</source>
         <translation>Informazioni su Psi</translation>
     </message>
@@ -7632,7 +7628,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>No response from server for %1 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessuna risposta dal server per %1 secondi</translation>
     </message>
 </context>
 <context>
