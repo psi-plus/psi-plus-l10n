@@ -5696,11 +5696,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>GroupChatDlg</name>
     <message>
         <source>Topic:</source>
-        <translation>Tema:</translation>
+        <translation type="vanished">Tema:</translation>
     </message>
     <message>
         <source>AccountLabel</source>
-        <translation>AccountLabel</translation>
+        <translation type="vanished">AccountLabel</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -12692,6 +12692,14 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
         <source>&amp;Join Psi Discussion Room (Online)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Information</source>
+        <translation type="unfinished">Podatki</translation>
+    </message>
+    <message>
+        <source>Set Topic</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -16057,6 +16065,10 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Shortcuts in the history dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set chat topic</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

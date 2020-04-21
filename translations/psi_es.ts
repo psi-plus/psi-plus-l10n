@@ -5840,11 +5840,11 @@ Para enviar órdenes, son usados los mensajes normales, por lo que este compleme
     <name>GroupChatDlg</name>
     <message>
         <source>Topic:</source>
-        <translation>Tema:</translation>
+        <translation type="vanished">Tema:</translation>
     </message>
     <message>
         <source>AccountLabel</source>
-        <translation>AccountLabel</translation>
+        <translation type="vanished">AccountLabel</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -12982,6 +12982,14 @@ Motivo: %1.</translation>
         <source>&amp;Join Psi Discussion Room (Online)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Information</source>
+        <translation type="unfinished">Información</translation>
+    </message>
+    <message>
+        <source>Set Topic</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -16372,6 +16380,10 @@ Razón: %1</translation>
     </message>
     <message>
         <source>Shortcuts in the history dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set chat topic</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -5852,11 +5852,11 @@ Para o envio de comandos, mensagens normais serão utilizadas, por isso este plu
     <name>GroupChatDlg</name>
     <message>
         <source>Topic:</source>
-        <translation>Tópico:</translation>
+        <translation type="vanished">Tópico:</translation>
     </message>
     <message>
         <source>AccountLabel</source>
-        <translation>Rótulo da Conta</translation>
+        <translation type="vanished">Rótulo da Conta</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -12991,6 +12991,14 @@ Motivo: %1.</translation>
         <source>&amp;Join Psi Discussion Room (Online)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Topic</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -16386,6 +16394,10 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Shortcuts in the history dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set chat topic</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

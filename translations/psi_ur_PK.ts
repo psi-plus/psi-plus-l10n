@@ -5689,11 +5689,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>GroupChatDlg</name>
     <message>
         <source>Topic:</source>
-        <translation>موضوع:‏</translation>
+        <translation type="vanished">موضوع:‏</translation>
     </message>
     <message>
         <source>AccountLabel</source>
-        <translation>اکاؤنٹ لیبل</translation>
+        <translation type="vanished">اکاؤنٹ لیبل</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -12675,6 +12675,14 @@ Reason: %1.</source>
         <source>&amp;Join Psi Discussion Room (Online)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Information</source>
+        <translation type="unfinished">معلومات</translation>
+    </message>
+    <message>
+        <source>Set Topic</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -16026,6 +16034,10 @@ Reason: %1</source>
     </message>
     <message>
         <source>Shortcuts in the history dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set chat topic</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

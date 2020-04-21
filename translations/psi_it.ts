@@ -5852,11 +5852,11 @@ Per inviare comandi, basta usare normali messaggi, uindi questo plugin funzioner
     <name>GroupChatDlg</name>
     <message>
         <source>Topic:</source>
-        <translation>Argomento:</translation>
+        <translation type="vanished">Argomento:</translation>
     </message>
     <message>
         <source>AccountLabel</source>
-        <translation>Etichetta Account</translation>
+        <translation type="vanished">Etichetta Account</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -13033,6 +13033,14 @@ Motivo: %1.</translation>
         <source>&amp;Join Psi Discussion Room (Online)</source>
         <translation>Unisciti alla stanza di discussione di Psi (in linea)</translation>
     </message>
+    <message>
+        <source>Information</source>
+        <translation type="unfinished">Informazioni</translation>
+    </message>
+    <message>
+        <source>Set Topic</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -16428,6 +16436,10 @@ Motivo: %1</translation>
     <message>
         <source>Shortcuts in the history dialog</source>
         <translation>Scorciatoie nella finestra di dialogo della cronologia</translation>
+    </message>
+    <message>
+        <source>Set chat topic</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -5835,11 +5835,11 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     <name>GroupChatDlg</name>
     <message>
         <source>Topic:</source>
-        <translation>Téma:</translation>
+        <translation type="vanished">Téma:</translation>
     </message>
     <message>
         <source>AccountLabel</source>
-        <translation>PopisekÚčtu</translation>
+        <translation type="vanished">PopisekÚčtu</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -12968,6 +12968,14 @@ Důvod: %1.</translation>
         <source>&amp;Join Psi Discussion Room (Online)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Information</source>
+        <translation type="unfinished">Informace</translation>
+    </message>
+    <message>
+        <source>Set Topic</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -16362,6 +16370,10 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>Shortcuts in the history dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set chat topic</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

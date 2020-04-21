@@ -5844,11 +5844,11 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     <name>GroupChatDlg</name>
     <message>
         <source>Topic:</source>
-        <translation>Téma:</translation>
+        <translation type="vanished">Téma:</translation>
     </message>
     <message>
         <source>AccountLabel</source>
-        <translation>AccountLabel</translation>
+        <translation type="vanished">AccountLabel</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -12991,6 +12991,14 @@ Oka: %1.</translation>
         <source>&amp;Join Psi Discussion Room (Online)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Information</source>
+        <translation type="unfinished">Információ</translation>
+    </message>
+    <message>
+        <source>Set Topic</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -16377,6 +16385,10 @@ Oka: %1</translation>
     </message>
     <message>
         <source>Shortcuts in the history dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set chat topic</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

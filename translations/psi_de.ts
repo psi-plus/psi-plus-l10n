@@ -5852,11 +5852,11 @@ Um Befehle zu senden, werden normale Nachrichten verwendet, so dass das Plugin i
     <name>GroupChatDlg</name>
     <message>
         <source>Topic:</source>
-        <translation>Thema:</translation>
+        <translation type="vanished">Thema:</translation>
     </message>
     <message>
         <source>AccountLabel</source>
-        <translation>Kontobezeichnung</translation>
+        <translation type="vanished">Kontobezeichnung</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -13013,6 +13013,14 @@ Grund: %1.</translation>
         <source>&amp;Join Psi Discussion Room (Online)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Information</source>
+        <translation type="unfinished">Information</translation>
+    </message>
+    <message>
+        <source>Set Topic</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -16411,6 +16419,10 @@ Grund: %1</translation>
     <message>
         <source>Shortcuts in the history dialog</source>
         <translation>Tastenkombinationen in der Nachrichtenchronik</translation>
+    </message>
+    <message>
+        <source>Set chat topic</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -5811,11 +5811,11 @@ Do wysyłania poleceń, wykorzystywane są zwykłe wiadomości, więc wtyczka  t
     <name>GroupChatDlg</name>
     <message>
         <source>Topic:</source>
-        <translation>Temat:</translation>
+        <translation type="vanished">Temat:</translation>
     </message>
     <message>
         <source>AccountLabel</source>
-        <translation>Etykieta konta</translation>
+        <translation type="vanished">Etykieta konta</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -12837,6 +12837,14 @@ Przyczyna: %1.</translation>
         <source>&amp;Join Psi Discussion Room (Online)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Information</source>
+        <translation type="unfinished">Informacja</translation>
+    </message>
+    <message>
+        <source>Set Topic</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -16202,6 +16210,10 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source>Shortcuts in the history dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set chat topic</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
