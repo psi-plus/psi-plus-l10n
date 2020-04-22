@@ -270,7 +270,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>About Psi</source>
-        <translation type="unfinished">אודות Psi</translation>
+        <translation>אודות Psi</translation>
     </message>
 </context>
 <context>
@@ -1285,7 +1285,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Work</source>
-        <translation type="unfinished">עבודה</translation>
+        <translation>עבודה</translation>
     </message>
     <message>
         <source>Postal</source>
@@ -1804,16 +1804,12 @@ For sending commands, normal messages are used, so this plugin will always work 
 <context>
     <name>CaptchaDialog</name>
     <message>
-        <source>CAPTCHA</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Loading data...</source>
-        <translation>מטעין כעת נתונים...</translation>
+        <translation type="vanished">מטעין כעת נתונים...</translation>
     </message>
     <message>
         <source>Original message</source>
-        <translation>הודעה מקורית</translation>
+        <translation type="vanished">הודעה מקורית</translation>
     </message>
 </context>
 <context>
@@ -1827,23 +1823,23 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CaptchaFormsPlugin</name>
     <message>
         <source>Captcha Plugin: CAPTCHA from %1</source>
-        <translation>תוסף Captcha: ‏CAPTCHA מתוך %1</translation>
+        <translation type="vanished">תוסף Captcha: ‏CAPTCHA מתוך %1</translation>
     </message>
     <message>
         <source>Error! Image can not be loaded.</source>
-        <translation>שגיאה! תמונה לא ניתנת להטענה.</translation>
+        <translation type="vanished">שגיאה! תמונה לא ניתנת להטענה.</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>מחבר: </translation>
+        <translation type="vanished">מחבר: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>דוא״ל: </translation>
+        <translation type="vanished">דוא״ל: </translation>
     </message>
     <message>
         <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
-        <translation>תוסף זה נועד להעביר captcha ישירות מתוך Psi‪+‬.</translation>
+        <translation type="vanished">תוסף זה נועד להעביר captcha ישירות מתוך Psi‪+‬.</translation>
     </message>
 </context>
 <context>
@@ -6911,11 +6907,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>ערוך</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished">פרטים</translation>
+        <translation>פרטים</translation>
     </message>
 </context>
 <context>
@@ -9454,16 +9450,8 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>אפשרויות</translation>
     </message>
     <message>
-        <source>Auto-popup Captcha dialog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Use proxy settings from account</source>
-        <translation>השתמש בהגדרות ציר מתוך חשבון</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
+        <translation type="vanished">השתמש בהגדרות ציר מתוך חשבון</translation>
     </message>
     <message>
         <source>Contact menu</source>
@@ -9508,10 +9496,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Start program:</source>
         <translation type="vanished">התחל תוכנית:</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Manager</source>
@@ -11351,27 +11335,11 @@ Please enter your passphrase below:</source>
     <name>PreferencesWidget</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
-    </message>
-    <message>
-        <source>@username</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>#post_id</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>* tag</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&gt; quote</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">טופס</translation>
     </message>
     <message>
         <source>message</source>
-        <translation>הודעה</translation>
+        <translation type="vanished">הודעה</translation>
     </message>
 </context>
 <context>
@@ -12774,7 +12742,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
-        <translation type="unfinished">פורום Psi (מקוון)</translation>
+        <translation>פורום Psi (מקוון)</translation>
     </message>
     <message>
         <source>Psi &amp;Forum (Online)</source>
@@ -12786,7 +12754,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished">מידע</translation>
+        <translation>מידע</translation>
     </message>
     <message>
         <source>Set Topic</source>
@@ -13507,7 +13475,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">מסננת</translation>
+        <translation>מסננת</translation>
     </message>
     <message>
         <source>Display options as a flat list</source>

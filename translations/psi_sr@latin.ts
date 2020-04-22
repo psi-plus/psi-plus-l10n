@@ -269,12 +269,8 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>psi/logo_48</source>
-        <translation type="obsolete">psi/logo_48</translation>
-    </message>
-    <message>
         <source>About Psi</source>
-        <translation type="unfinished">O Psi</translation>
+        <translation>O Psi</translation>
     </message>
 </context>
 <context>
@@ -1297,7 +1293,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Work</source>
-        <translation type="unfinished">Posao</translation>
+        <translation>Posao</translation>
     </message>
     <message>
         <source>Postal</source>
@@ -1828,15 +1824,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CaptchaDialog</name>
     <message>
         <source>CAPTCHA</source>
-        <translation>CAPTCHA</translation>
+        <translation type="vanished">CAPTCHA</translation>
     </message>
     <message>
         <source>Loading data...</source>
-        <translation>Učitavanje podateka...</translation>
+        <translation type="vanished">Učitavanje podateka...</translation>
     </message>
     <message>
         <source>Original message</source>
-        <translation>Izvorna poruka</translation>
+        <translation type="vanished">Izvorna poruka</translation>
     </message>
 </context>
 <context>
@@ -1850,23 +1846,23 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CaptchaFormsPlugin</name>
     <message>
         <source>Captcha Plugin: CAPTCHA from %1</source>
-        <translation>Captcha priključak: CAPTCHA od %1</translation>
+        <translation type="vanished">Captcha priključak: CAPTCHA od %1</translation>
     </message>
     <message>
         <source>Error! Image can not be loaded.</source>
-        <translation>Greška! Slika ne može biti učitana.</translation>
+        <translation type="vanished">Greška! Slika ne može biti učitana.</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Autor:</translation>
+        <translation type="vanished">Autor:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-pošta:</translation>
+        <translation type="vanished">E-pošta:</translation>
     </message>
     <message>
         <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
-        <translation>Ovaj priključak je dizajniran da donese captcha direktno od Psi+.</translation>
+        <translation type="vanished">Ovaj priključak je dizajniran da donese captcha direktno od Psi+.</translation>
     </message>
 </context>
 <context>
@@ -6980,11 +6976,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Izmeni</translation>
+        <translation>Izmeni</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished">Detalji</translation>
+        <translation>Detalji</translation>
     </message>
 </context>
 <context>
@@ -9534,15 +9530,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Auto-popup Captcha dialog</source>
-        <translation>Iskačući captcha dijalog</translation>
+        <translation type="vanished">Iskačući captcha dijalog</translation>
     </message>
     <message>
         <source>Use proxy settings from account</source>
-        <translation>Koristi proksi podešavanja naloga</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <translation type="vanished">Koristi proksi podešavanja naloga</translation>
     </message>
     <message>
         <source>Contact menu</source>
@@ -9607,10 +9599,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Start program:</source>
         <translation type="vanished">Pokreni program:</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Manager</source>
@@ -11450,27 +11438,27 @@ Molimo unesite vašu lozinku u nastavku:</translation>
     <name>PreferencesWidget</name>
     <message>
         <source>Form</source>
-        <translation>Forma</translation>
+        <translation type="vanished">Forma</translation>
     </message>
     <message>
         <source>@username</source>
-        <translation>@korisničko ime</translation>
+        <translation type="vanished">@korisničko ime</translation>
     </message>
     <message>
         <source>#post_id</source>
-        <translation>#post_id</translation>
+        <translation type="vanished">#post_id</translation>
     </message>
     <message>
         <source>* tag</source>
-        <translation>* tag</translation>
+        <translation type="vanished">* tag</translation>
     </message>
     <message>
         <source>&gt; quote</source>
-        <translation>&gt; quote</translation>
+        <translation type="vanished">&gt; quote</translation>
     </message>
     <message>
         <source>message</source>
-        <translation>poruka</translation>
+        <translation type="vanished">poruka</translation>
     </message>
 </context>
 <context>
@@ -12877,7 +12865,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
-        <translation type="unfinished">Psi Forum (onlajn)</translation>
+        <translation>Psi Forum (onlajn)</translation>
     </message>
     <message>
         <source>Psi &amp;Forum (Online)</source>
@@ -12889,7 +12877,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished">Informacije</translation>
+        <translation>Informacija</translation>
     </message>
     <message>
         <source>Set Topic</source>
@@ -13604,7 +13592,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation>Filter</translation>
     </message>
     <message>
         <source>Display options as a flat list</source>
@@ -18103,7 +18091,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Disable invitations from conference</source>

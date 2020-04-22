@@ -1765,16 +1765,8 @@ For sending commands, normal messages are used, so this plugin will always work 
 <context>
     <name>CaptchaDialog</name>
     <message>
-        <source>CAPTCHA</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loading data...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Original message</source>
-        <translation>Αρχικό μήνυμα</translation>
+        <translation type="vanished">Αρχικό μήνυμα</translation>
     </message>
 </context>
 <context>
@@ -1787,24 +1779,12 @@ For sending commands, normal messages are used, so this plugin will always work 
 <context>
     <name>CaptchaFormsPlugin</name>
     <message>
-        <source>Captcha Plugin: CAPTCHA from %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error! Image can not be loaded.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Author: </source>
-        <translation>Συγγραφέας:</translation>
+        <translation type="vanished">Συγγραφέας:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Email:</translation>
-    </message>
-    <message>
-        <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Email:</translation>
     </message>
 </context>
 <context>
@@ -9331,16 +9311,8 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Επιλογές</translation>
     </message>
     <message>
-        <source>Auto-popup Captcha dialog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Use proxy settings from account</source>
-        <translation>Χρήση των ρυθμίσειων διακομιστή μεσολάβησης από το λογαριασμό</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Χρήση των ρυθμίσειων διακομιστή μεσολάβησης από το λογαριασμό</translation>
     </message>
     <message>
         <source>Contact menu</source>
@@ -11186,27 +11158,11 @@ Please enter your passphrase below:</source>
     <name>PreferencesWidget</name>
     <message>
         <source>Form</source>
-        <translation>Φόρμα</translation>
-    </message>
-    <message>
-        <source>@username</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>#post_id</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>* tag</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&gt; quote</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Φόρμα</translation>
     </message>
     <message>
         <source>message</source>
-        <translation>μήνυμα</translation>
+        <translation type="vanished">μήνυμα</translation>
     </message>
 </context>
 <context>

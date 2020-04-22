@@ -1292,7 +1292,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Work</source>
-        <translation type="unfinished"></translation>
+        <translation>仕事中</translation>
     </message>
     <message>
         <source>Postal</source>
@@ -1812,15 +1812,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CaptchaDialog</name>
     <message>
         <source>CAPTCHA</source>
-        <translation>CAPTCHA</translation>
-    </message>
-    <message>
-        <source>Loading data...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Original message</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">CAPTCHA</translation>
     </message>
 </context>
 <context>
@@ -1833,24 +1825,12 @@ For sending commands, normal messages are used, so this plugin will always work 
 <context>
     <name>CaptchaFormsPlugin</name>
     <message>
-        <source>Captcha Plugin: CAPTCHA from %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error! Image can not be loaded.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Author: </source>
-        <translation>作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>メールアドレス:</translation>
-    </message>
-    <message>
-        <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">メールアドレス:</translation>
     </message>
 </context>
 <context>
@@ -6910,7 +6890,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished">詳細</translation>
+        <translation>詳細</translation>
     </message>
 </context>
 <context>
@@ -9446,18 +9426,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>オプション</translation>
     </message>
     <message>
-        <source>Auto-popup Captcha dialog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use proxy settings from account</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Contact menu</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11307,27 +11275,11 @@ Please enter your passphrase below:</source>
     <name>PreferencesWidget</name>
     <message>
         <source>Form</source>
-        <translation>フォーム</translation>
-    </message>
-    <message>
-        <source>@username</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>#post_id</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>* tag</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&gt; quote</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">フォーム</translation>
     </message>
     <message>
         <source>message</source>
-        <translation>メッセージ</translation>
+        <translation type="vanished">メッセージ</translation>
     </message>
 </context>
 <context>
@@ -12742,7 +12694,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished">情報</translation>
+        <translation>情報</translation>
     </message>
     <message>
         <source>Set Topic</source>
@@ -13466,7 +13418,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">フィルター</translation>
+        <translation>フィルター</translation>
     </message>
     <message>
         <source>Display options as a flat list</source>

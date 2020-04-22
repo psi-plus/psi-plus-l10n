@@ -1850,15 +1850,15 @@ Für das Versenden von Befehlen werden normale Nachrichten verwendet, so dass di
     <name>CaptchaDialog</name>
     <message>
         <source>CAPTCHA</source>
-        <translation>CAPTCHA</translation>
+        <translation type="vanished">CAPTCHA</translation>
     </message>
     <message>
         <source>Loading data...</source>
-        <translation>Lade Daten ...</translation>
+        <translation type="vanished">Lade Daten ...</translation>
     </message>
     <message>
         <source>Original message</source>
-        <translation>Ursprüngliche Nachricht</translation>
+        <translation type="vanished">Ursprüngliche Nachricht</translation>
     </message>
 </context>
 <context>
@@ -1872,23 +1872,23 @@ Für das Versenden von Befehlen werden normale Nachrichten verwendet, so dass di
     <name>CaptchaFormsPlugin</name>
     <message>
         <source>Captcha Plugin: CAPTCHA from %1</source>
-        <translation>Captcha Plugin: CAPTCHA von %1</translation>
+        <translation type="vanished">Captcha Plugin: CAPTCHA von %1</translation>
     </message>
     <message>
         <source>Error! Image can not be loaded.</source>
-        <translation>Fehler! Bild kann nicht geladen werden.</translation>
+        <translation type="vanished">Fehler! Bild kann nicht geladen werden.</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Autor: </translation>
+        <translation type="vanished">Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
-        <translation>Dieses Plugin zeigt Captchas direkt in Psi+ an.</translation>
+        <translation type="vanished">Dieses Plugin zeigt Captchas direkt in Psi+ an.</translation>
     </message>
 </context>
 <context>
@@ -9594,15 +9594,11 @@ online sind und drücken Sie dann &quot;Geburtstage aktualisieren&quot;. Dies da
     </message>
     <message>
         <source>Auto-popup Captcha dialog</source>
-        <translation>Captcha-Dialog automatisch öffnen</translation>
+        <translation type="vanished">Captcha-Dialog automatisch öffnen</translation>
     </message>
     <message>
         <source>Use proxy settings from account</source>
-        <translation>Nutze Proxy Einstellungen des Kontos</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <translation type="vanished">Nutze Proxy Einstellungen des Kontos</translation>
     </message>
     <message>
         <source>Contact menu</source>
@@ -9699,10 +9695,6 @@ Aktiviere die &quot;Nachrichtenarchivierung&quot;-Option zur Verwendung!</transl
     <message>
         <source>Start program:</source>
         <translation type="vanished">Starte Programm:</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Manager</source>
@@ -11554,27 +11546,27 @@ Bitte geben Sie Ihre Passphrase ein:</translation>
     <name>PreferencesWidget</name>
     <message>
         <source>Form</source>
-        <translation>Formular</translation>
+        <translation type="vanished">Formular</translation>
     </message>
     <message>
         <source>@username</source>
-        <translation>@Benutzername</translation>
+        <translation type="vanished">@Benutzername</translation>
     </message>
     <message>
         <source>#post_id</source>
-        <translation>#Beitrags-ID</translation>
+        <translation type="vanished">#Beitrags-ID</translation>
     </message>
     <message>
         <source>* tag</source>
-        <translation>* Tag</translation>
+        <translation type="vanished">* Tag</translation>
     </message>
     <message>
         <source>&gt; quote</source>
-        <translation>&gt; Zitat</translation>
+        <translation type="vanished">&gt; Zitat</translation>
     </message>
     <message>
         <source>message</source>
-        <translation>Nachricht</translation>
+        <translation type="vanished">Nachricht</translation>
     </message>
 </context>
 <context>
@@ -13015,7 +13007,7 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished">Information</translation>
+        <translation>Information</translation>
     </message>
     <message>
         <source>Set Topic</source>

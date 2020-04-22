@@ -1766,48 +1766,10 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
 </context>
 <context>
-    <name>CaptchaDialog</name>
-    <message>
-        <source>CAPTCHA</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loading data...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Original message</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>CaptchaDlg</name>
     <message>
         <source>Dialog</source>
         <translation>Dialog</translation>
-    </message>
-</context>
-<context>
-    <name>CaptchaFormsPlugin</name>
-    <message>
-        <source>Captcha Plugin: CAPTCHA from %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error! Image can not be loaded.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9398,18 +9360,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Inställningar</translation>
     </message>
     <message>
-        <source>Auto-popup Captcha dialog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use proxy settings from account</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Contact menu</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11259,27 +11209,11 @@ Skriv din lösenfras nedanför:</translation>
     <name>PreferencesWidget</name>
     <message>
         <source>Form</source>
-        <translation>Form</translation>
-    </message>
-    <message>
-        <source>@username</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>#post_id</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>* tag</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&gt; quote</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Form</translation>
     </message>
     <message>
         <source>message</source>
-        <translation>meddelande</translation>
+        <translation type="vanished">meddelande</translation>
     </message>
 </context>
 <context>

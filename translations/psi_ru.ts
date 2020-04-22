@@ -1847,15 +1847,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CaptchaDialog</name>
     <message>
         <source>CAPTCHA</source>
-        <translation>САРТСНА</translation>
+        <translation type="vanished">САРТСНА</translation>
     </message>
     <message>
         <source>Loading data...</source>
-        <translation>Загружаются данные...</translation>
+        <translation type="vanished">Загружаются данные...</translation>
     </message>
     <message>
         <source>Original message</source>
-        <translation>Оригинальное сообщение</translation>
+        <translation type="vanished">Оригинальное сообщение</translation>
     </message>
 </context>
 <context>
@@ -1869,23 +1869,23 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CaptchaFormsPlugin</name>
     <message>
         <source>Captcha Plugin: CAPTCHA from %1</source>
-        <translation>САРТСНА плагин: САРТСНА от %1</translation>
+        <translation type="vanished">САРТСНА плагин: САРТСНА от %1</translation>
     </message>
     <message>
         <source>Error! Image can not be loaded.</source>
-        <translation>Ошибка! Изображение не может быть загружено.</translation>
+        <translation type="vanished">Ошибка! Изображение не может быть загружено.</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор:</translation>
+        <translation type="vanished">Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
-        <translation>Данный плагин предназначен для прохождения САРТСНА непосредственно из Psi+.</translation>
+        <translation type="vanished">Данный плагин предназначен для прохождения САРТСНА непосредственно из Psi+.</translation>
     </message>
 </context>
 <context>
@@ -9609,15 +9609,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Auto-popup Captcha dialog</source>
-        <translation>Автоматически выводить диалог ввода САРТСНА</translation>
+        <translation type="vanished">Автоматически выводить диалог ввода САРТСНА</translation>
     </message>
     <message>
         <source>Use proxy settings from account</source>
-        <translation>Использовать настройки прокси из аккаунта</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
+        <translation type="vanished">Использовать настройки прокси из аккаунта</translation>
     </message>
     <message>
         <source>Contact menu</source>
@@ -9723,10 +9719,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Start program:</source>
         <translation type="vanished">Запустить программу:</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Manager</source>
@@ -11569,27 +11561,27 @@ Please enter your passphrase below:</source>
     <name>PreferencesWidget</name>
     <message>
         <source>Form</source>
-        <translation>Форма</translation>
+        <translation type="vanished">Форма</translation>
     </message>
     <message>
         <source>@username</source>
-        <translation>@пользователь</translation>
+        <translation type="vanished">@пользователь</translation>
     </message>
     <message>
         <source>#post_id</source>
-        <translation>#id сообщения</translation>
+        <translation type="vanished">#id сообщения</translation>
     </message>
     <message>
         <source>* tag</source>
-        <translation>*тег</translation>
+        <translation type="vanished">*тег</translation>
     </message>
     <message>
         <source>&gt; quote</source>
-        <translation>&gt;цитата</translation>
+        <translation type="vanished">&gt;цитата</translation>
     </message>
     <message>
         <source>message</source>
-        <translation>сообщение</translation>
+        <translation type="vanished">сообщение</translation>
     </message>
 </context>
 <context>
@@ -13037,7 +13029,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished">Информация</translation>
+        <translation>Информация</translation>
     </message>
     <message>
         <source>Set Topic</source>

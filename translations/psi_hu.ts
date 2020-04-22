@@ -273,12 +273,8 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>psi/logo_48</source>
-        <translation type="obsolete">psi/logo_48</translation>
-    </message>
-    <message>
         <source>About Psi</source>
-        <translation type="unfinished">Psi+ névjegye</translation>
+        <translation>Psi+ névjegye</translation>
     </message>
 </context>
 <context>
@@ -1311,7 +1307,7 @@ Hiba a Szolgáltatás ID Átalakításakor &quot;%1&quot;.&lt;br&gt;Oka: %2&lt;b
     </message>
     <message>
         <source>Work</source>
-        <translation type="unfinished"></translation>
+        <translation>Meló</translation>
     </message>
     <message>
         <source>Postal</source>
@@ -1844,15 +1840,15 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     <name>CaptchaDialog</name>
     <message>
         <source>CAPTCHA</source>
-        <translation>CAPTCHA</translation>
+        <translation type="vanished">CAPTCHA</translation>
     </message>
     <message>
         <source>Loading data...</source>
-        <translation>Adatok betöltése...</translation>
+        <translation type="vanished">Adatok betöltése...</translation>
     </message>
     <message>
         <source>Original message</source>
-        <translation>Eredeti üzenet</translation>
+        <translation type="vanished">Eredeti üzenet</translation>
     </message>
 </context>
 <context>
@@ -1866,23 +1862,23 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     <name>CaptchaFormsPlugin</name>
     <message>
         <source>Captcha Plugin: CAPTCHA from %1</source>
-        <translation>Captcha Kiegészítő: CAPTCHA innen %1</translation>
+        <translation type="vanished">Captcha Kiegészítő: CAPTCHA innen %1</translation>
     </message>
     <message>
         <source>Error! Image can not be loaded.</source>
-        <translation>Hiba! A képet nem lehet betölteni.</translation>
+        <translation type="vanished">Hiba! A képet nem lehet betölteni.</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Szerző: </translation>
+        <translation type="vanished">Szerző: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-mail: </translation>
+        <translation type="vanished">E-mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
-        <translation>Ez a kiegészítő a captcha-hoz lett tervezve közvetlenül a Psi-ből.</translation>
+        <translation type="vanished">Ez a kiegészítő a captcha-hoz lett tervezve közvetlenül a Psi-ből.</translation>
     </message>
 </context>
 <context>
@@ -7022,11 +7018,11 @@ Oka: %1</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Szerkesztés</translation>
+        <translation>Szerkesztés</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished">Részletek</translation>
+        <translation>Részletek</translation>
     </message>
 </context>
 <context>
@@ -9579,15 +9575,11 @@ Elérhető, és csak azután kattints a &quot;Születésnapok frissítése&quot;
     </message>
     <message>
         <source>Auto-popup Captcha dialog</source>
-        <translation>Automatikusan felugró Captcha-ablak</translation>
+        <translation type="vanished">Automatikusan felugró Captcha-ablak</translation>
     </message>
     <message>
         <source>Use proxy settings from account</source>
-        <translation>A fiók proxy-beállításainak használata</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <translation type="vanished">A fiók proxy-beállításainak használata</translation>
     </message>
     <message>
         <source>Contact menu</source>
@@ -9694,10 +9686,6 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     <message>
         <source>Start program:</source>
         <translation type="vanished">Program indítása:</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Manager</source>
@@ -11540,27 +11528,27 @@ A játékot még elmentheted.</translation>
     <name>PreferencesWidget</name>
     <message>
         <source>Form</source>
-        <translation>Űrlap</translation>
+        <translation type="vanished">Űrlap</translation>
     </message>
     <message>
         <source>@username</source>
-        <translation>@username</translation>
+        <translation type="vanished">@username</translation>
     </message>
     <message>
         <source>#post_id</source>
-        <translation>#post_id</translation>
+        <translation type="vanished">#post_id</translation>
     </message>
     <message>
         <source>* tag</source>
-        <translation>* tag</translation>
+        <translation type="vanished">* tag</translation>
     </message>
     <message>
         <source>&gt; quote</source>
-        <translation>&gt; quote</translation>
+        <translation type="vanished">&gt; quote</translation>
     </message>
     <message>
         <source>message</source>
-        <translation>üzenet</translation>
+        <translation type="vanished">üzenet</translation>
     </message>
 </context>
 <context>
@@ -12981,7 +12969,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
-        <translation type="unfinished">Psi+ fórum (Online)</translation>
+        <translation>Psi+ fórum (Online)</translation>
     </message>
     <message>
         <source>Psi &amp;Forum (Online)</source>
@@ -12993,7 +12981,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished">Információ</translation>
+        <translation>Információ</translation>
     </message>
     <message>
         <source>Set Topic</source>
@@ -13720,7 +13708,7 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Szűrő</translation>
+        <translation>Szűrő</translation>
     </message>
     <message>
         <source>Display options as a flat list</source>

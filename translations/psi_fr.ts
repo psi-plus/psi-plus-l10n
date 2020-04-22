@@ -273,12 +273,8 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>psi/logo_48</source>
-        <translation type="obsolete">psi/logo_48 {48?}</translation>
-    </message>
-    <message>
         <source>About Psi</source>
-        <translation type="unfinished">A propos de Psi</translation>
+        <translation>A propos de Psi</translation>
     </message>
 </context>
 <context>
@@ -1310,7 +1306,7 @@ Erreur lors de la demande d&apos;informations à partir de &quot;%1&quot;.&lt;br
     </message>
     <message>
         <source>Work</source>
-        <translation type="unfinished">Travail</translation>
+        <translation>Travail</translation>
     </message>
     <message>
         <source>Postal</source>
@@ -1843,15 +1839,15 @@ Les commandes sont envoyées sous forme de messages, ce greffon fonctionnera don
     <name>CaptchaDialog</name>
     <message>
         <source>CAPTCHA</source>
-        <translation>CAPTCHA</translation>
+        <translation type="vanished">CAPTCHA</translation>
     </message>
     <message>
         <source>Loading data...</source>
-        <translation>Chargement des données...</translation>
+        <translation type="vanished">Chargement des données...</translation>
     </message>
     <message>
         <source>Original message</source>
-        <translation>Message d&apos;origine</translation>
+        <translation type="vanished">Message d&apos;origine</translation>
     </message>
 </context>
 <context>
@@ -1865,23 +1861,23 @@ Les commandes sont envoyées sous forme de messages, ce greffon fonctionnera don
     <name>CaptchaFormsPlugin</name>
     <message>
         <source>Captcha Plugin: CAPTCHA from %1</source>
-        <translation>Greffon captcha : CAPTCHA par %1</translation>
+        <translation type="vanished">Greffon captcha : CAPTCHA par %1</translation>
     </message>
     <message>
         <source>Error! Image can not be loaded.</source>
-        <translation>Erreur ! Impossible de charger l&apos;image.</translation>
+        <translation type="vanished">Erreur ! Impossible de charger l&apos;image.</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Auteur :</translation>
+        <translation type="vanished">Auteur :</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Courriel :</translation>
+        <translation type="vanished">Courriel :</translation>
     </message>
     <message>
         <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
-        <translation>Ce greffon permet de renseigner les captchas directement à partir de Psi+.</translation>
+        <translation type="vanished">Ce greffon permet de renseigner les captchas directement à partir de Psi+.</translation>
     </message>
 </context>
 <context>
@@ -6573,7 +6569,7 @@ Sincerely yours, Debian Sid.</source>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (En ligne)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -6966,11 +6962,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Éditer</translation>
+        <translation>Éditer</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished">Détails</translation>
+        <translation>Détails</translation>
     </message>
 </context>
 <context>
@@ -9528,18 +9524,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Options</translation>
     </message>
     <message>
-        <source>Auto-popup Captcha dialog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use proxy settings from account</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (En ligne)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Contact menu</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9596,10 +9580,6 @@ notifications pour les mails non lus.</translation>
     <message>
         <source>Start program:</source>
         <translation type="vanished">Démarrer le programme:</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Wiki (En ligne)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Manager</source>
@@ -11440,27 +11420,27 @@ Vous pouvez cependant sauvegarder la partie.</translation>
     <name>PreferencesWidget</name>
     <message>
         <source>Form</source>
-        <translation>Formulaire</translation>
+        <translation type="vanished">Formulaire</translation>
     </message>
     <message>
         <source>@username</source>
-        <translation>@utilisateur</translation>
+        <translation type="vanished">@utilisateur</translation>
     </message>
     <message>
         <source>#post_id</source>
-        <translation>#post_id</translation>
+        <translation type="vanished">#post_id</translation>
     </message>
     <message>
         <source>* tag</source>
-        <translation>* tag</translation>
+        <translation type="vanished">* tag</translation>
     </message>
     <message>
         <source>&gt; quote</source>
-        <translation>&gt; quote</translation>
+        <translation type="vanished">&gt; quote</translation>
     </message>
     <message>
         <source>message</source>
-        <translation>message</translation>
+        <translation type="vanished">message</translation>
     </message>
 </context>
 <context>
@@ -12879,7 +12859,7 @@ Cause: %1.</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
-        <translation type="unfinished">Psi Forum (En ligne)</translation>
+        <translation>Psi Forum (En ligne)</translation>
     </message>
     <message>
         <source>Psi &amp;Forum (Online)</source>
@@ -12891,7 +12871,7 @@ Cause: %1.</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informations</translation>
     </message>
     <message>
         <source>Set Topic</source>
@@ -13617,7 +13597,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Filtre</translation>
+        <translation>Filtre</translation>
     </message>
     <message>
         <source>Display options as a flat list</source>

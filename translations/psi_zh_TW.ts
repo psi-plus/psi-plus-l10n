@@ -273,12 +273,8 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>psi/logo_48</source>
-        <translation type="obsolete">psi/logo_48</translation>
-    </message>
-    <message>
         <source>About Psi</source>
-        <translation type="unfinished">關於PSI</translation>
+        <translation>關於PSI</translation>
     </message>
 </context>
 <context>
@@ -1307,7 +1303,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Work</source>
-        <translation type="unfinished"></translation>
+        <translation>工作中</translation>
     </message>
     <message>
         <source>Postal</source>
@@ -1837,15 +1833,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CaptchaDialog</name>
     <message>
         <source>CAPTCHA</source>
-        <translation>CAPTCHA</translation>
+        <translation type="vanished">CAPTCHA</translation>
     </message>
     <message>
         <source>Loading data...</source>
-        <translation>載入數據</translation>
+        <translation type="vanished">載入數據</translation>
     </message>
     <message>
         <source>Original message</source>
-        <translation>原始資訊</translation>
+        <translation type="vanished">原始資訊</translation>
     </message>
 </context>
 <context>
@@ -1859,23 +1855,23 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CaptchaFormsPlugin</name>
     <message>
         <source>Captcha Plugin: CAPTCHA from %1</source>
-        <translation>驗證碼外掛程式: 驗證碼從%1</translation>
+        <translation type="vanished">驗證碼外掛程式: 驗證碼從%1</translation>
     </message>
     <message>
         <source>Error! Image can not be loaded.</source>
-        <translation>錯誤！圖像不能載入</translation>
+        <translation type="vanished">錯誤！圖像不能載入</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>郵件:</translation>
+        <translation type="vanished">郵件:</translation>
     </message>
     <message>
         <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
-        <translation>這個外掛程式的目的是從PSI+直接通過驗證碼</translation>
+        <translation type="vanished">這個外掛程式的目的是從PSI+直接通過驗證碼</translation>
     </message>
 </context>
 <context>
@@ -6992,11 +6988,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">編輯</translation>
+        <translation>編輯</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished">詳情</translation>
+        <translation>詳情</translation>
     </message>
 </context>
 <context>
@@ -9544,15 +9540,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Auto-popup Captcha dialog</source>
-        <translation>自動彈出驗證對話方塊</translation>
+        <translation type="vanished">自動彈出驗證對話方塊</translation>
     </message>
     <message>
         <source>Use proxy settings from account</source>
-        <translation>使用代理伺服器設置帳戶</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (線上)&lt;/a&gt;</translation>
+        <translation type="vanished">使用代理伺服器設置帳戶</translation>
     </message>
     <message>
         <source>Contact menu</source>
@@ -9649,10 +9641,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Start program:</source>
         <translation type="vanished">啟動程式:</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Wiki (線上)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Manager</source>
@@ -11492,27 +11480,27 @@ Please enter your passphrase below:</source>
     <name>PreferencesWidget</name>
     <message>
         <source>Form</source>
-        <translation>表單</translation>
+        <translation type="vanished">表單</translation>
     </message>
     <message>
         <source>@username</source>
-        <translation>@用戶名稱</translation>
+        <translation type="vanished">@用戶名稱</translation>
     </message>
     <message>
         <source>#post_id</source>
-        <translation>#發佈_身份</translation>
+        <translation type="vanished">#發佈_身份</translation>
     </message>
     <message>
         <source>* tag</source>
-        <translation>*標籤</translation>
+        <translation type="vanished">*標籤</translation>
     </message>
     <message>
         <source>&gt; quote</source>
-        <translation>&gt;引用</translation>
+        <translation type="vanished">&gt;引用</translation>
     </message>
     <message>
         <source>message</source>
-        <translation>信息</translation>
+        <translation type="vanished">信息</translation>
     </message>
 </context>
 <context>
@@ -12923,7 +12911,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
-        <translation type="unfinished">Psi論壇(線上)</translation>
+        <translation>Psi論壇(線上)</translation>
     </message>
     <message>
         <source>Psi &amp;Forum (Online)</source>
@@ -12935,7 +12923,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished">資料</translation>
+        <translation>資料</translation>
     </message>
     <message>
         <source>Set Topic</source>
@@ -13662,7 +13650,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">篩檢程式</translation>
+        <translation>篩檢程式</translation>
     </message>
     <message>
         <source>Display options as a flat list</source>

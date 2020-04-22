@@ -1855,15 +1855,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CaptchaDialog</name>
     <message>
         <source>CAPTCHA</source>
-        <translation>CAPTCHA</translation>
+        <translation type="vanished">CAPTCHA</translation>
     </message>
     <message>
         <source>Loading data...</source>
-        <translation>Завантаження даних...</translation>
+        <translation type="vanished">Завантаження даних...</translation>
     </message>
     <message>
         <source>Original message</source>
-        <translation>Оригінальне повідомлення</translation>
+        <translation type="vanished">Оригінальне повідомлення</translation>
     </message>
 </context>
 <context>
@@ -1877,23 +1877,23 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CaptchaFormsPlugin</name>
     <message>
         <source>Captcha Plugin: CAPTCHA from %1</source>
-        <translation>САРТСНА плагін: САРТСНА от %1</translation>
+        <translation type="vanished">САРТСНА плагін: САРТСНА от %1</translation>
     </message>
     <message>
         <source>Error! Image can not be loaded.</source>
-        <translation>Помилка! Зображення не може бути завантажено.</translation>
+        <translation type="vanished">Помилка! Зображення не може бути завантажено.</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор: </translation>
+        <translation type="vanished">Автор: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Email: </translation>
+        <translation type="vanished">Email: </translation>
     </message>
     <message>
         <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
-        <translation>Цей плагін призначено для проходження САРТСНА безпосередньо з Psi+.</translation>
+        <translation type="vanished">Цей плагін призначено для проходження САРТСНА безпосередньо з Psi+.</translation>
     </message>
 </context>
 <context>
@@ -9614,15 +9614,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Auto-popup Captcha dialog</source>
-        <translation>Автоматично виводити діалог вводу САРТСНА </translation>
+        <translation type="vanished">Автоматично виводити діалог вводу САРТСНА </translation>
     </message>
     <message>
         <source>Use proxy settings from account</source>
-        <translation>Використовувати налаштування проксі з акаунту</translation>
+        <translation type="vanished">Використовувати налаштування проксі з акаунту</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Опис (в інтернеті)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Опис (в інтернеті)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Contact menu</source>
@@ -11574,27 +11574,27 @@ Please enter your passphrase below:</source>
     <name>PreferencesWidget</name>
     <message>
         <source>Form</source>
-        <translation>Форма</translation>
+        <translation type="vanished">Форма</translation>
     </message>
     <message>
         <source>@username</source>
-        <translation>@користувач</translation>
+        <translation type="vanished">@користувач</translation>
     </message>
     <message>
         <source>#post_id</source>
-        <translation>#id повідомлення</translation>
+        <translation type="vanished">#id повідомлення</translation>
     </message>
     <message>
         <source>* tag</source>
-        <translation>*тег</translation>
+        <translation type="vanished">*тег</translation>
     </message>
     <message>
         <source>&gt; quote</source>
-        <translation>&gt;цитата</translation>
+        <translation type="vanished">&gt;цитата</translation>
     </message>
     <message>
         <source>message</source>
-        <translation>повідомлення</translation>
+        <translation type="vanished">повідомлення</translation>
     </message>
 </context>
 <context>

@@ -1851,15 +1851,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CaptchaDialog</name>
     <message>
         <source>CAPTCHA</source>
-        <translation>CAPTCHA</translation>
+        <translation type="vanished">CAPTCHA</translation>
     </message>
     <message>
         <source>Loading data...</source>
-        <translation>Loading data...</translation>
+        <translation type="vanished">Loading data...</translation>
     </message>
     <message>
         <source>Original message</source>
-        <translation>Original message</translation>
+        <translation type="vanished">Original message</translation>
     </message>
 </context>
 <context>
@@ -1873,23 +1873,23 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CaptchaFormsPlugin</name>
     <message>
         <source>Captcha Plugin: CAPTCHA from %1</source>
-        <translation>Captcha Plugin: CAPTCHA from %1</translation>
+        <translation type="vanished">Captcha Plugin: CAPTCHA from %1</translation>
     </message>
     <message>
         <source>Error! Image can not be loaded.</source>
-        <translation>Error! Image can not be loaded.</translation>
+        <translation type="vanished">Error! Image can not be loaded.</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Author: </translation>
+        <translation type="vanished">Author: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Email: </translation>
+        <translation type="vanished">Email: </translation>
     </message>
     <message>
         <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
-        <translation>This plugin is designed to pass of captcha directly from the Psi+.</translation>
+        <translation type="vanished">This plugin is designed to pass of captcha directly from the Psi+.</translation>
     </message>
 </context>
 <context>
@@ -9612,15 +9612,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Auto-popup Captcha dialog</source>
-        <translation>Auto-popup Captcha dialog</translation>
+        <translation type="vanished">Auto-popup Captcha dialog</translation>
     </message>
     <message>
         <source>Use proxy settings from account</source>
-        <translation>Use proxy settings from account</translation>
+        <translation type="vanished">Use proxy settings from account</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Contact menu</source>
@@ -11573,27 +11573,27 @@ Please enter your passphrase below:</translation>
     <name>PreferencesWidget</name>
     <message>
         <source>Form</source>
-        <translation>Form</translation>
+        <translation type="vanished">Form</translation>
     </message>
     <message>
         <source>@username</source>
-        <translation>@username</translation>
+        <translation type="vanished">@username</translation>
     </message>
     <message>
         <source>#post_id</source>
-        <translation>#post_id</translation>
+        <translation type="vanished">#post_id</translation>
     </message>
     <message>
         <source>* tag</source>
-        <translation>* tag</translation>
+        <translation type="vanished">* tag</translation>
     </message>
     <message>
         <source>&gt; quote</source>
-        <translation>&gt; quote</translation>
+        <translation type="vanished">&gt; quote</translation>
     </message>
     <message>
         <source>message</source>
-        <translation>message</translation>
+        <translation type="vanished">message</translation>
     </message>
 </context>
 <context>

@@ -266,7 +266,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>About Psi</source>
-        <translation type="unfinished">O Psi</translation>
+        <translation>O Psi</translation>
     </message>
 </context>
 <context>
@@ -1288,7 +1288,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Work</source>
-        <translation type="unfinished">Praca</translation>
+        <translation>Praca</translation>
     </message>
     <message>
         <source>Postal</source>
@@ -1820,15 +1820,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CaptchaDialog</name>
     <message>
         <source>CAPTCHA</source>
-        <translation>CAPTCHA</translation>
+        <translation type="vanished">CAPTCHA</translation>
     </message>
     <message>
         <source>Loading data...</source>
-        <translation>Ładowanie danych ...</translation>
+        <translation type="vanished">Ładowanie danych ...</translation>
     </message>
     <message>
         <source>Original message</source>
-        <translation>Oryginalna wiadomość</translation>
+        <translation type="vanished">Oryginalna wiadomość</translation>
     </message>
 </context>
 <context>
@@ -1842,23 +1842,23 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CaptchaFormsPlugin</name>
     <message>
         <source>Captcha Plugin: CAPTCHA from %1</source>
-        <translation>dodatek Captcha: CAPTCHA z %1</translation>
+        <translation type="vanished">dodatek Captcha: CAPTCHA z %1</translation>
     </message>
     <message>
         <source>Error! Image can not be loaded.</source>
-        <translation>Błąd! Nie można wczytać obrazu.</translation>
+        <translation type="vanished">Błąd! Nie można wczytać obrazu.</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Autor:</translation>
+        <translation type="vanished">Autor:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>email:</translation>
+        <translation type="vanished">email:</translation>
     </message>
     <message>
         <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
-        <translation>Ta wtyczka ma na celu przekazać CAPTCHA bezpośrednio w Psi+.</translation>
+        <translation type="vanished">Ta wtyczka ma na celu przekazać CAPTCHA bezpośrednio w Psi+.</translation>
     </message>
 </context>
 <context>
@@ -6981,11 +6981,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Edytuj</translation>
+        <translation>Edytuj</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished">Szczegóły</translation>
+        <translation>Szczegóły</translation>
     </message>
 </context>
 <context>
@@ -9525,18 +9525,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Opcje</translation>
     </message>
     <message>
-        <source>Auto-popup Captcha dialog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use proxy settings from account</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Contact menu</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11404,27 +11392,15 @@ Nadal można zapisać grę.</translation>
     <name>PreferencesWidget</name>
     <message>
         <source>Form</source>
-        <translation>Formularz</translation>
+        <translation type="vanished">Formularz</translation>
     </message>
     <message>
         <source>@username</source>
-        <translation>@nazwa użytkownika</translation>
-    </message>
-    <message>
-        <source>#post_id</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>* tag</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&gt; quote</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">@nazwa użytkownika</translation>
     </message>
     <message>
         <source>message</source>
-        <translation>Wiadomość</translation>
+        <translation type="vanished">Wiadomość</translation>
     </message>
 </context>
 <context>
@@ -12827,7 +12803,7 @@ Przyczyna: %1.</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
-        <translation type="unfinished">Forum Psi (Online)</translation>
+        <translation>Forum Psi (Online)</translation>
     </message>
     <message>
         <source>Psi &amp;Forum (Online)</source>
@@ -12839,7 +12815,7 @@ Przyczyna: %1.</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished">Informacja</translation>
+        <translation>Informacja</translation>
     </message>
     <message>
         <source>Set Topic</source>
@@ -13562,7 +13538,7 @@ Czy chcesz teraz aktywować sesję?</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Filtr</translation>
+        <translation>Filtr</translation>
     </message>
     <message>
         <source>Display options as a flat list</source>

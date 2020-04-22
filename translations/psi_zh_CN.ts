@@ -281,10 +281,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; 获取更多信息!</transla
         <translation>修补者和前俄语翻译</translation>
     </message>
     <message>
-        <source>psi/logo_48</source>
-        <translation type="obsolete">psi/logo_48</translation>
-    </message>
-    <message>
         <source>About Psi</source>
         <translation>关于PSI</translation>
     </message>
@@ -1846,15 +1842,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CaptchaDialog</name>
     <message>
         <source>CAPTCHA</source>
-        <translation>CAPTCHA</translation>
+        <translation type="vanished">CAPTCHA</translation>
     </message>
     <message>
         <source>Loading data...</source>
-        <translation>加载数据</translation>
+        <translation type="vanished">加载数据</translation>
     </message>
     <message>
         <source>Original message</source>
-        <translation>原始信息</translation>
+        <translation type="vanished">原始信息</translation>
     </message>
 </context>
 <context>
@@ -1868,23 +1864,23 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CaptchaFormsPlugin</name>
     <message>
         <source>Captcha Plugin: CAPTCHA from %1</source>
-        <translation>验证码插件: 来自 %1 的验证码</translation>
+        <translation type="vanished">验证码插件: 来自 %1 的验证码</translation>
     </message>
     <message>
         <source>Error! Image can not be loaded.</source>
-        <translation>错误！图片不能加载。</translation>
+        <translation type="vanished">错误！图片不能加载。</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>邮件:</translation>
+        <translation type="vanished">邮件:</translation>
     </message>
     <message>
         <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
-        <translation>该插件的目的是从PsI+直接传递验证码</translation>
+        <translation type="vanished">该插件的目的是从PsI+直接传递验证码</translation>
     </message>
 </context>
 <context>
@@ -9590,15 +9586,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Auto-popup Captcha dialog</source>
-        <translation>自动弹出验证对话框</translation>
+        <translation type="vanished">自动弹出验证对话框</translation>
     </message>
     <message>
         <source>Use proxy settings from account</source>
-        <translation>使用代理服务器设置帐户</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
+        <translation type="vanished">使用代理服务器设置帐户</translation>
     </message>
     <message>
         <source>Contact menu</source>
@@ -9697,10 +9689,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Start program:</source>
         <translation type="vanished">启动程序:</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Manager</source>
@@ -11542,27 +11530,27 @@ Please enter your passphrase below:</source>
     <name>PreferencesWidget</name>
     <message>
         <source>Form</source>
-        <translation>窗体</translation>
+        <translation type="vanished">窗体</translation>
     </message>
     <message>
         <source>@username</source>
-        <translation>@用户名称</translation>
+        <translation type="vanished">@用户名称</translation>
     </message>
     <message>
         <source>#post_id</source>
-        <translation>#发布_身份</translation>
+        <translation type="vanished">#发布_身份</translation>
     </message>
     <message>
         <source>* tag</source>
-        <translation>*标签</translation>
+        <translation type="vanished">*标签</translation>
     </message>
     <message>
         <source>&gt; quote</source>
-        <translation>&gt;引用</translation>
+        <translation type="vanished">&gt;引用</translation>
     </message>
     <message>
         <source>message</source>
-        <translation>信息</translation>
+        <translation type="vanished">信息</translation>
     </message>
 </context>
 <context>
@@ -13007,7 +12995,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished">资料</translation>
+        <translation>资料</translation>
     </message>
     <message>
         <source>Set Topic</source>

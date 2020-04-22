@@ -1839,15 +1839,15 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     <name>CaptchaDialog</name>
     <message>
         <source>CAPTCHA</source>
-        <translation>CAPTCHA</translation>
+        <translation type="vanished">CAPTCHA</translation>
     </message>
     <message>
         <source>Loading data...</source>
-        <translation>Načítám data...</translation>
+        <translation type="vanished">Načítám data...</translation>
     </message>
     <message>
         <source>Original message</source>
-        <translation>Původní zpráva</translation>
+        <translation type="vanished">Původní zpráva</translation>
     </message>
 </context>
 <context>
@@ -1861,23 +1861,23 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     <name>CaptchaFormsPlugin</name>
     <message>
         <source>Captcha Plugin: CAPTCHA from %1</source>
-        <translation>Captcha Plugin: CAPTCHA od %1</translation>
+        <translation type="vanished">Captcha Plugin: CAPTCHA od %1</translation>
     </message>
     <message>
         <source>Error! Image can not be loaded.</source>
-        <translation>Chyba! Obrázek nelze zobrazit.</translation>
+        <translation type="vanished">Chyba! Obrázek nelze zobrazit.</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Autor: </translation>
+        <translation type="vanished">Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-mail: </translation>
+        <translation type="vanished">E-mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
-        <translation>Tento zásuvný modul je určen k předávání captcha obrázků přímo z Psi+.</translation>
+        <translation type="vanished">Tento zásuvný modul je určen k předávání captcha obrázků přímo z Psi+.</translation>
     </message>
 </context>
 <context>
@@ -9555,15 +9555,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Auto-popup Captcha dialog</source>
-        <translation>Automaticky vyskakující okno s Captcha</translation>
+        <translation type="vanished">Automaticky vyskakující okno s Captcha</translation>
     </message>
     <message>
         <source>Use proxy settings from account</source>
-        <translation>Použít nastavení proxy z účtu</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <translation type="vanished">Použít nastavení proxy z účtu</translation>
     </message>
     <message>
         <source>Contact menu</source>
@@ -9672,10 +9668,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Start program:</source>
         <translation type="vanished">Spustit program:</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Manager</source>
@@ -11519,27 +11511,27 @@ Prosím vlož svou heslovací frázi:</translation>
     <name>PreferencesWidget</name>
     <message>
         <source>Form</source>
-        <translation>Formulář</translation>
+        <translation type="vanished">Formulář</translation>
     </message>
     <message>
         <source>@username</source>
-        <translation>@uživatelské jméno</translation>
+        <translation type="vanished">@uživatelské jméno</translation>
     </message>
     <message>
         <source>#post_id</source>
-        <translation>#id_zprávy</translation>
+        <translation type="vanished">#id_zprávy</translation>
     </message>
     <message>
         <source>* tag</source>
-        <translation>* značka</translation>
+        <translation type="vanished">* značka</translation>
     </message>
     <message>
         <source>&gt; quote</source>
-        <translation>&gt; citace</translation>
+        <translation type="vanished">&gt; citace</translation>
     </message>
     <message>
         <source>message</source>
-        <translation>zpráva</translation>
+        <translation type="vanished">zpráva</translation>
     </message>
 </context>
 <context>
@@ -12970,7 +12962,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished">Informace</translation>
+        <translation>Informace</translation>
     </message>
     <message>
         <source>Set Topic</source>

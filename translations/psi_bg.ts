@@ -1796,15 +1796,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CaptchaDialog</name>
     <message>
         <source>CAPTCHA</source>
-        <translation>КАПТЧА</translation>
+        <translation type="vanished">КАПТЧА</translation>
     </message>
     <message>
         <source>Loading data...</source>
-        <translation>Зареждане на информация...</translation>
+        <translation type="vanished">Зареждане на информация...</translation>
     </message>
     <message>
         <source>Original message</source>
-        <translation>Оригинално съобщение</translation>
+        <translation type="vanished">Оригинално съобщение</translation>
     </message>
 </context>
 <context>
@@ -1818,23 +1818,23 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CaptchaFormsPlugin</name>
     <message>
         <source>Captcha Plugin: CAPTCHA from %1</source>
-        <translation>Каптча добавка: КАПТЧА от %1</translation>
+        <translation type="vanished">Каптча добавка: КАПТЧА от %1</translation>
     </message>
     <message>
         <source>Error! Image can not be loaded.</source>
-        <translation>Грешка! Изображението не може да бъде заредено.</translation>
+        <translation type="vanished">Грешка! Изображението не може да бъде заредено.</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор:</translation>
+        <translation type="vanished">Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Ел. поща:</translation>
+        <translation type="vanished">Ел. поща:</translation>
     </message>
     <message>
         <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
-        <translation>Тази добавка е проектирана да изпраща каптчата директно от Psi+-то.</translation>
+        <translation type="vanished">Тази добавка е проектирана да изпраща каптчата директно от Psi+-то.</translation>
     </message>
 </context>
 <context>
@@ -9529,16 +9529,8 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Настройки</translation>
     </message>
     <message>
-        <source>Auto-popup Captcha dialog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Use proxy settings from account</source>
-        <translation>Използване на настройки на прокси от акаунт</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Използване на настройки на прокси от акаунт</translation>
     </message>
     <message>
         <source>Contact menu</source>
@@ -11448,27 +11440,19 @@ Please enter your passphrase below:</source>
     <name>PreferencesWidget</name>
     <message>
         <source>Form</source>
-        <translation>От</translation>
+        <translation type="vanished">От</translation>
     </message>
     <message>
         <source>@username</source>
-        <translation>@username</translation>
-    </message>
-    <message>
-        <source>#post_id</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">@username</translation>
     </message>
     <message>
         <source>* tag</source>
-        <translation>* таг</translation>
-    </message>
-    <message>
-        <source>&gt; quote</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">* таг</translation>
     </message>
     <message>
         <source>message</source>
-        <translation>съобщение</translation>
+        <translation type="vanished">съобщение</translation>
     </message>
 </context>
 <context>
@@ -12899,7 +12883,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished">Данни</translation>
+        <translation>Данни</translation>
     </message>
     <message>
         <source>Set Topic</source>
