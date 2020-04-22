@@ -2343,8 +2343,8 @@ Für die Übermittlung von Befehlen werden normale Nachrichten verwendet. Somit 
 <context>
     <name>CleanerMainWindow</name>
     <message>
-        <source>Psi+ Cleaner</source>
-        <translation>Psi+ Cleaner</translation>
+        <source>Psi Cleaner</source>
+        <translation>Psi Cleaner</translation>
     </message>
     <message>
         <source>History</source>
@@ -2686,7 +2686,7 @@ Sie können die Version des Clients und des Betriebssystems selbst festlegen ode
         <translation>Gruppenchatchronik</translation>
     </message>
     <message>
-        <source>This plugin is designed to save groupchat logs in which the Psi+ user sits.
+        <source>This plugin is designed to save groupchat logs in which the Psi user sits.
 Groupchats logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with groupchat.
 
 Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
@@ -3094,7 +3094,7 @@ Fortfahren?</translation>
         <translation>E-Mail:</translation>
     </message>
     <message>
-        <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi+.</source>
+        <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation>Dieses Plugin ermöglicht das einfache Herunterladen und Installieren von neuen Grafiken und anderen Resourcen für Psi+.</translation>
     </message>
 </context>
@@ -4174,8 +4174,8 @@ folgenden Gruppenchats (JIDs eingeben)</translation>
         <translation>Tooltip</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/skins_css&quot;&gt;CSS für Psi+&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:skins_css&quot;&gt;CSS for Psi&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:skins_css&quot;&gt;CSS für Psi+&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Disable wheel scroll</source>
@@ -4250,7 +4250,7 @@ folgenden Gruppenchats (JIDs eingeben)</translation>
         <translation>E-Mail: </translation>
     </message>
     <message>
-        <source>This plugin is designed to allow easy configuration of some advanced options in Psi+.
+        <source>This plugin is designed to allow easy configuration of some advanced options in Psi.
 This plugin gives you access to advanced application options, which do not have a graphical user interface.
 
 Importantly: a large part of the options are important system settings. These require extra attention and properunderstanding of the results when changing the option.</source>
@@ -6184,7 +6184,7 @@ Fortfahren?</translation>
         <translation>E-Mail: </translation>
     </message>
     <message>
-        <source>This plugin is designed to remove the history of selected contacts when the Psi+ is closed.
+        <source>This plugin is designed to remove the history of selected contacts when the Psi is closed.
 You can select or deselect a contact for history removal from the context menu of a contact or via the plugin options.</source>
         <translation>Dieses Plugin dient dazu, den Gesprächsverlauf von bestimmten Kontakten zu löschen, wenn Psi+ geschlossen wird.
 Sie können für Kontakte das Löschen des Verlaufs im jeweiligen Kontakt-Kontextmenü (de-)aktivieren oder alternativ über die Optionen des Plugins konfigurieren.</translation>
@@ -16601,7 +16601,7 @@ Grund: %1</translation>
         <translation>E-Mail: </translation>
     </message>
     <message>
-        <source>This plugin is designed to create, store and apply skins to Psi+.
+        <source>This plugin is designed to create, store and apply skins to Psi.
 Skin - a set of custom settings.
 To download a new skin, create a folder named skins in the PsiData directory and put the new skin in it. You can also just open a skin file.
 Each skin must be in a separate directory. You can also add a screenshot to the skin file.
@@ -16744,7 +16744,7 @@ Dies sorgt für das korrekte Anwenden aller Einstellungen (Symbole, Werkzeugleis
         <translation>E-Mail: </translation>
     </message>
     <message>
-        <source>This plugin is designed to block spam messages and other unwanted information from Psi+ users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
+        <source>This plugin is designed to block spam messages and other unwanted information from Psi users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
 With the plugin settings you can:
 * Define a security question and the answer
 * Define the set of rules that define whether to the trigger plugin for a contact
@@ -16841,7 +16841,7 @@ WARNUNG!!! Bevor Sie einen neuen Transport einrichten, wird empfohlen, dessen JI
     <message>
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
-The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi+ or Miranda IM.</source>
+The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi or Miranda IM.</source>
         <translation>Dieses Plugin ist eine Implementierung von  XEP-0049: Private XML Storage.
 Das Plugin ist voll kompatibel mit Miranda IM
 Das Plugin ist dafür konzipiert, Notizen auf dem Jabber Server zu speichern mit der Möglichkeit, auf sie von überall aus mit Psi+ oder Miranda IM aus zuzugreifen.</translation>

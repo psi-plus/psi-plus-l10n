@@ -2336,7 +2336,7 @@ For sending commands, normal messages are used, so this plugin will always work 
 <context>
     <name>CleanerMainWindow</name>
     <message>
-        <source>Psi+ Cleaner</source>
+        <source>Psi Cleaner</source>
         <translation>Psi+清理器</translation>
     </message>
     <message>
@@ -2678,7 +2678,7 @@ You can specify the version of the client and OS or to select them from the pres
         <translation>群聊历史</translation>
     </message>
     <message>
-        <source>This plugin is designed to save groupchat logs in which the Psi+ user sits.
+        <source>This plugin is designed to save groupchat logs in which the Psi user sits.
 Groupchats logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with groupchat.
 
 Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
@@ -3086,7 +3086,7 @@ Proceed?</source>
         <translation>电子邮箱:</translation>
     </message>
     <message>
-        <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi+.</source>
+        <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation>该插件的目的是更容易下载并安装图标集和其他Psi+资源。</translation>
     </message>
 </context>
@@ -4165,8 +4165,8 @@ This option only has effect if accept-defaults is false.</source>
         <translation>工具提示</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/skins_css&quot;&gt;Psi+的CSS&lt;/a&gt;</translation>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:skins_css&quot;&gt;CSS for Psi&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:skins_css&quot;&gt;Psi+的CSS&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Disable wheel scroll</source>
@@ -4241,7 +4241,7 @@ This option only has effect if accept-defaults is false.</source>
         <translation>邮件:</translation>
     </message>
     <message>
-        <source>This plugin is designed to allow easy configuration of some advanced options in Psi+.
+        <source>This plugin is designed to allow easy configuration of some advanced options in Psi.
 This plugin gives you access to advanced application options, which do not have a graphical user interface.
 
 Importantly: a large part of the options are important system settings. These require extra attention and properunderstanding of the results when changing the option.</source>
@@ -6171,7 +6171,7 @@ Continue?</source>
         <translation>邮件:</translation>
     </message>
     <message>
-        <source>This plugin is designed to remove the history of selected contacts when the Psi+ is closed.
+        <source>This plugin is designed to remove the history of selected contacts when the Psi is closed.
 You can select or deselect a contact for history removal from the context menu of a contact or via the plugin options.</source>
         <translation>该插件的目的是当Psi+关闭时，移除所选联系人的历史记录。
 你可以从联系人的右键菜单中或插件选项选择或取消选择一个联系人的历史记录。</translation>
@@ -16568,7 +16568,7 @@ Reason: %1</source>
         <translation>邮件:</translation>
     </message>
     <message>
-        <source>This plugin is designed to create, store and apply skins to Psi+.
+        <source>This plugin is designed to create, store and apply skins to Psi.
 Skin - a set of custom settings.
 To download a new skin, create a folder named skins in the PsiData directory and put the new skin in it. You can also just open a skin file.
 Each skin must be in a separate directory. You can also add a screenshot to the skin file.
@@ -16711,7 +16711,7 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
         <translation>邮件:</translation>
     </message>
     <message>
-        <source>This plugin is designed to block spam messages and other unwanted information from Psi+ users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
+        <source>This plugin is designed to block spam messages and other unwanted information from Psi users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
 With the plugin settings you can:
 * Define a security question and the answer
 * Define the set of rules that define whether to the trigger plugin for a contact
@@ -16799,7 +16799,7 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     <message>
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
-The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi+ or Miranda IM.</source>
+The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi or Miranda IM.</source>
         <translation>该插件是XEP-0049的一个工具:私人XML存储。
 该插件完全兼容用Miranda IM保存的笔记。
 该插件的目的是对jabber服务器进行记录，以使得在任何地方均可使用Psi+或Miranda IM进入。</translation>
