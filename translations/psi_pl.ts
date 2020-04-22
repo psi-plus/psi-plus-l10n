@@ -1491,7 +1491,7 @@ Do poprawnej pracy, dodatek wymaga, aby klient po drugiej stronie wspierł XEP-0
         <translation>czasy (-1 = nieskończony)</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

@@ -1513,7 +1513,7 @@ Afin de fonctionner correctement, le client du destinataire doit supporter XEP 0
         <translation>fois (-1 : illimité)</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#autoreply_plugin&quot;&gt;Wiki (page web [EN])&lt;/a&gt;</translation>
     </message>
     <message>
