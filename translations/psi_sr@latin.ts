@@ -6562,25 +6562,12 @@ Možete odabrati ili ukloniti kontakt za istoriju preko menija kontakata ili pre
 <context>
     <name>IcqDie</name>
     <message>
-        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
-
-Sincerely yours, Debian Sid.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>I can tell you as a Linux, but do not be mad at me. This human do not use ICQ anymore, so if you are still use that network he will not receive your message and you have to chat to him by Jabber. His JID: %1.
-
-If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
-Sincerely yours, Debian Sid.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Autor:</translation>
+        <translation type="vanished">Autor:</translation>
     </message>
     <message>
         <source>This plugin is designed to help you transfer as many contacts as possible from ICQ to Jabber.
@@ -6591,7 +6578,7 @@ The plugin has a number of simple settings that can help you:
 * set the max count of messages by contact
 * disable the message for the active window/tab
 * disable messages for contacts that are not in your roster</source>
-        <translation>Ovaj dodatak je dizajniran da pomogne transfer kontakata sa ICQ na Jabber.
+        <translation type="vanished">Ovaj dodatak je dizajniran da pomogne transfer kontakata sa ICQ na Jabber.
 Ovaj dodatak ima jednostavna podešavanja da vam pomognu:
 * podešavanje posebne tekstualne poruke
 * isključjuje određene ICQ brojeve
@@ -18052,46 +18039,24 @@ Do you still want to close the window?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Auto Reply Message If Recv:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Auto Reply Message If No Recv:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom options:
--uin - do nothing
-+uin - send replay
-!uin - block message
-[-+!]other - default
-[-+!]nil - not in list
-# - comment to end line</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pause for next Recv message:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>min.</source>
-        <translation>min.</translation>
+        <translation type="vanished">min.</translation>
     </message>
     <message>
         <source>Max messages to contact:</source>
-        <translation>Max poruka za kontakt:</translation>
+        <translation type="vanished">Max poruka za kontakt:</translation>
     </message>
     <message>
         <source>Disable if chat window is active</source>
-        <translation>Isključi ako je prozor aktivan</translation>
+        <translation type="vanished">Isključi ako je prozor aktivan</translation>
     </message>
     <message>
         <source>Transports:</source>
-        <translation>Transporti</translation>
+        <translation type="vanished">Transporti</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Disable invitations from conference</source>

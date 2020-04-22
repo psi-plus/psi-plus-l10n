@@ -6600,7 +6600,7 @@ Az ismerős menüjéből vagy a kiegészítő beállításainál is kiválasztha
         <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
 
 Sincerely yours, Debian Sid.</source>
-        <translation>Linuxként elmondhatom neked, de ne légy mérges rám. Bizonyára egy ember fogja megkapni ezt az üzenetet, de sokkal jobb beszélgetni vele Jabberen. Kockáztatsz, nem tudni az ICQ mikor hal meg, nagyi amúgy is túlélte már. JID-e : %1.
+        <translation type="vanished">Linuxként elmondhatom neked, de ne légy mérges rám. Bizonyára egy ember fogja megkapni ezt az üzenetet, de sokkal jobb beszélgetni vele Jabberen. Kockáztatsz, nem tudni az ICQ mikor hal meg, nagyi amúgy is túlélte már. JID-e : %1.
 
 Tisztelettel, Debian Sid.</translation>
     </message>
@@ -6609,18 +6609,18 @@ Tisztelettel, Debian Sid.</translation>
 
 If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
 Sincerely yours, Debian Sid.</source>
-        <translation>Linuxként elmondhatom neked, de ne légy mérges rám. Ez az ember már nem használ ICQ-t többé, így ha te továbbra is ezt használod nem fogja megkapni az üzeneteid, Jabber-t kell használnod vele. JID-e : %1.
+        <translation type="vanished">Linuxként elmondhatom neked, de ne légy mérges rám. Ez az ember már nem használ ICQ-t többé, így ha te továbbra is ezt használod nem fogja megkapni az üzeneteid, Jabber-t kell használnod vele. JID-e : %1.
 
 Ha nem tudod mi az a Jabber, a Google a Barátod. Mindent tud és boldogan segít annak, aki kérdez tőle.
 Tisztelettel, Debian Sid.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Szerző: </translation>
+        <translation type="vanished">Szerző: </translation>
     </message>
     <message>
         <source>This plugin is designed to help you transfer as many contacts as possible from ICQ to Jabber.
@@ -6631,7 +6631,7 @@ The plugin has a number of simple settings that can help you:
 * set the max count of messages by contact
 * disable the message for the active window/tab
 * disable messages for contacts that are not in your roster</source>
-        <translation>Ez a kiegészítő arra lett tervezve, hogy segítsen neked annyi ismerőst átvinni az ICQ-ból a Jabber-be, amennyit csak lehet.
+        <translation type="vanished">Ez a kiegészítő arra lett tervezve, hogy segítsen neked annyi ismerőst átvinni az ICQ-ból a Jabber-be, amennyit csak lehet.
 A kiegészítőnek számos egyszerű beállítása segít ebben:
 * különleges üzenet beállítása
 * különleges ICQ számok kivételével
@@ -18258,46 +18258,16 @@ Ablak bezárása mégis?</translation>
         <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</translation>
     </message>
     <message>
-        <source>Auto Reply Message If Recv:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Auto Reply Message If No Recv:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Custom options:
--uin - do nothing
-+uin - send replay
-!uin - block message
-[-+!]other - default
-[-+!]nil - not in list
-# - comment to end line</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pause for next Recv message:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>min.</source>
-        <translation>min.</translation>
-    </message>
-    <message>
-        <source>Max messages to contact:</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">min.</translation>
     </message>
     <message>
         <source>Disable if chat window is active</source>
-        <translation>Letiltva, ha a beszélgetésablak aktív</translation>
-    </message>
-    <message>
-        <source>Transports:</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Letiltva, ha a beszélgetésablak aktív</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Disable invitations from conference</source>

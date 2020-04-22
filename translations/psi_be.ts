@@ -6585,25 +6585,12 @@ You can select or deselect a contact for history removal from the context menu o
 <context>
     <name>IcqDie</name>
     <message>
-        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
-
-Sincerely yours, Debian Sid.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>I can tell you as a Linux, but do not be mad at me. This human do not use ICQ anymore, so if you are still use that network he will not receive your message and you have to chat to him by Jabber. His JID: %1.
-
-If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
-Sincerely yours, Debian Sid.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Вікі (у сеціве)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Вікі (у сеціве)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Аўтар: </translation>
+        <translation type="vanished">Аўтар: </translation>
     </message>
     <message>
         <source>This plugin is designed to help you transfer as many contacts as possible from ICQ to Jabber.
@@ -6614,7 +6601,7 @@ The plugin has a number of simple settings that can help you:
 * set the max count of messages by contact
 * disable the message for the active window/tab
 * disable messages for contacts that are not in your roster</source>
-        <translation>Убудова дапамагае перацягнуць як мага болей суразмоўцаў з ICQ на джабэр.
+        <translation type="vanished">Убудова дапамагае перацягнуць як мага болей суразмоўцаў з ICQ на джабэр.
 Убудова мае колькі простых наладаў, якія дапамогуць вам:
 • напісаць адмысловае паведамленьне,
 • выключыць пэўныя нумары ICQ,
@@ -18297,11 +18284,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Auto Reply Message If Recv:</source>
-        <translation>Калі атрымалі паведамленьне, адказваць:</translation>
+        <translation type="vanished">Калі атрымалі паведамленьне, адказваць:</translation>
     </message>
     <message>
         <source>Auto Reply Message If No Recv:</source>
-        <translation>Калі не атрымалі паведамленьне, адказваць:</translation>
+        <translation type="vanished">Калі не атрымалі паведамленьне, адказваць:</translation>
     </message>
     <message>
         <source>Custom options:
@@ -18311,7 +18298,7 @@ Do you still want to close the window?</source>
 [-+!]other - default
 [-+!]nil - not in list
 # - comment to end line</source>
-        <translation>Можнасьці:
+        <translation type="vanished">Можнасьці:
 -uin — нічога не рабіць
 +uin — даслаць адказ
 !uin — затрымаць паведамленьне
@@ -18321,27 +18308,27 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Pause for next Recv message:</source>
-        <translation>Затрымка перад наступным адказам:</translation>
+        <translation type="vanished">Затрымка перад наступным адказам:</translation>
     </message>
     <message>
         <source>min.</source>
-        <translation>хв.</translation>
+        <translation type="vanished">хв.</translation>
     </message>
     <message>
         <source>Max messages to contact:</source>
-        <translation>Абмежаваньне на паведамленьні:</translation>
+        <translation type="vanished">Абмежаваньне на паведамленьні:</translation>
     </message>
     <message>
         <source>Disable if chat window is active</source>
-        <translation>Забараніць, калі гутарка адчыненая</translation>
+        <translation type="vanished">Забараніць, калі гутарка адчыненая</translation>
     </message>
     <message>
         <source>Transports:</source>
-        <translation>Транспарты:</translation>
+        <translation type="vanished">Транспарты:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Вікі (у сеціве)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Вікі (у сеціве)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Disable invitations from conference</source>

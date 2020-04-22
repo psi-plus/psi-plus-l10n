@@ -6612,22 +6612,22 @@ Sie können für Kontakte das Löschen des Verlaufs im jeweiligen Kontakt-Kontex
         <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
 
 Sincerely yours, Debian Sid.</source>
-        <translation>Die Nachricht wird weitergeleitet, aber es ist viel besser, über Jabber zu chatten. Die JID: %1</translation>
+        <translation type="vanished">Die Nachricht wird weitergeleitet, aber es ist viel besser, über Jabber zu chatten. Die JID: %1</translation>
     </message>
     <message>
         <source>I can tell you as a Linux, but do not be mad at me. This human do not use ICQ anymore, so if you are still use that network he will not receive your message and you have to chat to him by Jabber. His JID: %1.
 
 If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
 Sincerely yours, Debian Sid.</source>
-        <translation>Die Nachricht wird nicht weitergeleitet. Bitte verwende Jabber. Die JID: %1</translation>
+        <translation type="vanished">Die Nachricht wird nicht weitergeleitet. Bitte verwende Jabber. Die JID: %1</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Autor: </translation>
+        <translation type="vanished">Autor: </translation>
     </message>
     <message>
         <source>This plugin is designed to help you transfer as many contacts as possible from ICQ to Jabber.
@@ -6638,7 +6638,7 @@ The plugin has a number of simple settings that can help you:
 * set the max count of messages by contact
 * disable the message for the active window/tab
 * disable messages for contacts that are not in your roster</source>
-        <translation>Dieses Plugin hilft, so viele Kontakte wie möglich von ICQ nach Jabber zu überführen.
+        <translation type="vanished">Dieses Plugin hilft, so viele Kontakte wie möglich von ICQ nach Jabber zu überführen.
 Das Plugin hat eine Reihe einfacher Einstellungen die Ihnen helfen können:
 * Festlegen eines bestimmten Nachrichtentexts
 * Ausnehmen bestimmter ICQ-Nummern
@@ -18370,11 +18370,11 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     </message>
     <message>
         <source>Auto Reply Message If Recv:</source>
-        <translation>Autoantwort bei Erhalt:</translation>
+        <translation type="vanished">Autoantwort bei Erhalt:</translation>
     </message>
     <message>
         <source>Auto Reply Message If No Recv:</source>
-        <translation>Autoantwort bei Nicht-Erhalt:</translation>
+        <translation type="vanished">Autoantwort bei Nicht-Erhalt:</translation>
     </message>
     <message>
         <source>Custom options:
@@ -18384,7 +18384,7 @@ Möchten Sie dennoch das Fenster schließen?</translation>
 [-+!]other - default
 [-+!]nil - not in list
 # - comment to end line</source>
-        <translation>Eigene Optionen:
+        <translation type="vanished">Eigene Optionen:
 -uin - Tue nichts
 +uin - Sende Antwort
 !uin Blockiere Nachricht
@@ -18394,27 +18394,27 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     </message>
     <message>
         <source>Pause for next Recv message:</source>
-        <translation>Pause für nächsten Nachrichtenerhalt:</translation>
+        <translation type="vanished">Pause für nächsten Nachrichtenerhalt:</translation>
     </message>
     <message>
         <source>min.</source>
-        <translation>Min.</translation>
+        <translation type="vanished">Min.</translation>
     </message>
     <message>
         <source>Max messages to contact:</source>
-        <translation>Maximale Nachrichten an Kontakt:</translation>
+        <translation type="vanished">Maximale Nachrichten an Kontakt:</translation>
     </message>
     <message>
         <source>Disable if chat window is active</source>
-        <translation>Deaktivieren, wenn Chatfenster aktiv ist</translation>
+        <translation type="vanished">Deaktivieren, wenn Chatfenster aktiv ist</translation>
     </message>
     <message>
         <source>Transports:</source>
-        <translation>Transporte:</translation>
+        <translation type="vanished">Transporte:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Disable invitations from conference</source>

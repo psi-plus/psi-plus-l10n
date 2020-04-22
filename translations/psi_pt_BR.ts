@@ -6608,7 +6608,7 @@ Você pode marcar ou desmarcar um contato para a remoção de histórico a parti
         <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
 
 Sincerely yours, Debian Sid.</source>
-        <translation>Eu posso dizer-lhe como um Linux, mas não fique com raiva de mim. Certamente este humano irá receber esta mensagem. Mas é muito melhor conversar com ele via Jabber. Você está arriscando, nunca se sabe quando o ICQ pode morrer, vovó já sobreviveu a isso. Sua JID: %1.
+        <translation type="vanished">Eu posso dizer-lhe como um Linux, mas não fique com raiva de mim. Certamente este humano irá receber esta mensagem. Mas é muito melhor conversar com ele via Jabber. Você está arriscando, nunca se sabe quando o ICQ pode morrer, vovó já sobreviveu a isso. Sua JID: %1.
 
 Atenciosamente, Debian Sid.</translation>
     </message>
@@ -6617,18 +6617,18 @@ Atenciosamente, Debian Sid.</translation>
 
 If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
 Sincerely yours, Debian Sid.</source>
-        <translation>Eu posso dizer-lhe como um Linux, mas não fique com raiva de mim. Este humano não usa mais o ICQ, por isso, se você ainda usa aquela rede, ele não receberá a sua mensagem e você terá que conversar com ele via Jabber. Sua JID: %1.
+        <translation type="vanished">Eu posso dizer-lhe como um Linux, mas não fique com raiva de mim. Este humano não usa mais o ICQ, por isso, se você ainda usa aquela rede, ele não receberá a sua mensagem e você terá que conversar com ele via Jabber. Sua JID: %1.
 
 Se você não sabe o que é Jabber - use o Google. Ele sabe de tudo e pronto para ajudar a todos que perguntarem a ele.
 Atenciosamente, Debian Sid.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Autor: </translation>
+        <translation type="vanished">Autor: </translation>
     </message>
     <message>
         <source>This plugin is designed to help you transfer as many contacts as possible from ICQ to Jabber.
@@ -6639,7 +6639,7 @@ The plugin has a number of simple settings that can help you:
 * set the max count of messages by contact
 * disable the message for the active window/tab
 * disable messages for contacts that are not in your roster</source>
-        <translation>Este plugin é projetado para ajudá-lo a transferir o maior número possível de contatos do ICQ para Jabber.
+        <translation type="vanished">Este plugin é projetado para ajudá-lo a transferir o maior número possível de contatos do ICQ para Jabber.
 O plugin tem um número de configurações simples que podem ajudá-lo:
 * definir uma mensagem de texto especial
 * excluir números específicos de ICQ
@@ -18332,11 +18332,11 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>Auto Reply Message If Recv:</source>
-        <translation>Mensagem de Resposta Automática Se Recebimento:</translation>
+        <translation type="vanished">Mensagem de Resposta Automática Se Recebimento:</translation>
     </message>
     <message>
         <source>Auto Reply Message If No Recv:</source>
-        <translation>Mensagem de Resposta Automática Se Não Recebimento:</translation>
+        <translation type="vanished">Mensagem de Resposta Automática Se Não Recebimento:</translation>
     </message>
     <message>
         <source>Custom options:
@@ -18346,7 +18346,7 @@ Realmente deseja fechar a janela?</translation>
 [-+!]other - default
 [-+!]nil - not in list
 # - comment to end line</source>
-        <translation>Opções personalizadas:
+        <translation type="vanished">Opções personalizadas:
 -uin - não fazer nada
 +uin - enviar repetição
 !uin -bloquear mensagem
@@ -18356,27 +18356,27 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>Pause for next Recv message:</source>
-        <translation>Pausa para recebimento de mensagem seguinte:</translation>
+        <translation type="vanished">Pausa para recebimento de mensagem seguinte:</translation>
     </message>
     <message>
         <source>min.</source>
-        <translation>min.</translation>
+        <translation type="vanished">min.</translation>
     </message>
     <message>
         <source>Max messages to contact:</source>
-        <translation>Máximo de mensagens para o contato:</translation>
+        <translation type="vanished">Máximo de mensagens para o contato:</translation>
     </message>
     <message>
         <source>Disable if chat window is active</source>
-        <translation>Desativar se janela de chat estiver ativa</translation>
+        <translation type="vanished">Desativar se janela de chat estiver ativa</translation>
     </message>
     <message>
         <source>Transports:</source>
-        <translation>Transportes:</translation>
+        <translation type="vanished">Transportes:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Disable invitations from conference</source>

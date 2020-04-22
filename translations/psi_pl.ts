@@ -6567,25 +6567,8 @@ Można zaznaczyć lub odznaczyć kontakt do usunięcia historii z poziomu menu k
 <context>
     <name>IcqDie</name>
     <message>
-        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
-
-Sincerely yours, Debian Sid.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>I can tell you as a Linux, but do not be mad at me. This human do not use ICQ anymore, so if you are still use that network he will not receive your message and you have to chat to him by Jabber. His JID: %1.
-
-If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
-Sincerely yours, Debian Sid.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Author: </source>
-        <translation>Autor:</translation>
+        <translation type="vanished">Autor:</translation>
     </message>
     <message>
         <source>This plugin is designed to help you transfer as many contacts as possible from ICQ to Jabber.
@@ -6596,7 +6579,7 @@ The plugin has a number of simple settings that can help you:
 * set the max count of messages by contact
 * disable the message for the active window/tab
 * disable messages for contacts that are not in your roster</source>
-        <translation>Ten dodatek jest zaprojektowany, aby pomóc Ci pobrać jak najwięcej kontaktów z ICQ do Jabbera.
+        <translation type="vanished">Ten dodatek jest zaprojektowany, aby pomóc Ci pobrać jak najwięcej kontaktów z ICQ do Jabbera.
 Wtyczka posiada kilka prostych ustawień, które mogą pomóc:
 * Ustaw specjalny tekst wiadomości
 * Wyklucz określone numery ICQ
@@ -18031,14 +18014,6 @@ Czy nadal chcesz zamknąć tablicę?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Auto Reply Message If Recv:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Auto Reply Message If No Recv:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Custom options:
 -uin - do nothing
 +uin - send replay
@@ -18046,7 +18021,7 @@ Czy nadal chcesz zamknąć tablicę?</translation>
 [-+!]other - default
 [-+!]nil - not in list
 # - comment to end line</source>
-        <translation>Opcje niestandardowe:
+        <translation type="vanished">Opcje niestandardowe:
 -uin - nic nie rób
 +uin - wyślij powtórnie
 !uin - blokuj wiadomość
@@ -18055,28 +18030,12 @@ Czy nadal chcesz zamknąć tablicę?</translation>
 # - komentarz do końca linii</translation>
     </message>
     <message>
-        <source>Pause for next Recv message:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>min.</source>
-        <translation>min.</translation>
-    </message>
-    <message>
-        <source>Max messages to contact:</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">min.</translation>
     </message>
     <message>
         <source>Disable if chat window is active</source>
-        <translation>Wyłącz, jeśli okno rozmowy jest aktywne</translation>
-    </message>
-    <message>
-        <source>Transports:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Wyłącz, jeśli okno rozmowy jest aktywne</translation>
     </message>
     <message>
         <source>Disable invitations from conference</source>

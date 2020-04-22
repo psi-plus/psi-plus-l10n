@@ -6614,7 +6614,7 @@ You can select or deselect a contact for history removal from the context menu o
         <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
 
 Sincerely yours, Debian Sid.</source>
-        <translation>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
+        <translation type="vanished">I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
 
 Sincerely yours, Debian Sid.</translation>
     </message>
@@ -6623,18 +6623,18 @@ Sincerely yours, Debian Sid.</translation>
 
 If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
 Sincerely yours, Debian Sid.</source>
-        <translation>I can tell you as a Linux, but do not be mad at me. This human do not use ICQ anymore, so if you are still use that network he will not receive your message and you have to chat to him by Jabber. His JID: %1.
+        <translation type="vanished">I can tell you as a Linux, but do not be mad at me. This human do not use ICQ anymore, so if you are still use that network he will not receive your message and you have to chat to him by Jabber. His JID: %1.
 
 If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
 Sincerely yours, Debian Sid.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Author: </translation>
+        <translation type="vanished">Author: </translation>
     </message>
     <message>
         <source>This plugin is designed to help you transfer as many contacts as possible from ICQ to Jabber.
@@ -6645,7 +6645,7 @@ The plugin has a number of simple settings that can help you:
 * set the max count of messages by contact
 * disable the message for the active window/tab
 * disable messages for contacts that are not in your roster</source>
-        <translation>This plugin is designed to help you transfer as many contacts as possible from ICQ to Jabber.
+        <translation type="vanished">This plugin is designed to help you transfer as many contacts as possible from ICQ to Jabber.
 The plugin has a number of simple settings that can help you:
 * set a special message text
 * exclude specific ICQ numbers
@@ -18404,11 +18404,11 @@ Do you still want to close the window?</translation>
     </message>
     <message>
         <source>Auto Reply Message If Recv:</source>
-        <translation>Auto Reply Message If Recv:</translation>
+        <translation type="vanished">Auto Reply Message If Recv:</translation>
     </message>
     <message>
         <source>Auto Reply Message If No Recv:</source>
-        <translation>Auto Reply Message If No Recv:</translation>
+        <translation type="vanished">Auto Reply Message If No Recv:</translation>
     </message>
     <message>
         <source>Custom options:
@@ -18418,7 +18418,7 @@ Do you still want to close the window?</translation>
 [-+!]other - default
 [-+!]nil - not in list
 # - comment to end line</source>
-        <translation>Custom options:
+        <translation type="vanished">Custom options:
 -uin - do nothing
 +uin - send replay
 !uin - block message
@@ -18428,27 +18428,27 @@ Do you still want to close the window?</translation>
     </message>
     <message>
         <source>Pause for next Recv message:</source>
-        <translation>Pause for next Recv message:</translation>
+        <translation type="vanished">Pause for next Recv message:</translation>
     </message>
     <message>
         <source>min.</source>
-        <translation>min.</translation>
+        <translation type="vanished">min.</translation>
     </message>
     <message>
         <source>Max messages to contact:</source>
-        <translation>Max messages to contact:</translation>
+        <translation type="vanished">Max messages to contact:</translation>
     </message>
     <message>
         <source>Disable if chat window is active</source>
-        <translation>Disable if chat window is active</translation>
+        <translation type="vanished">Disable if chat window is active</translation>
     </message>
     <message>
         <source>Transports:</source>
-        <translation>Transports:</translation>
+        <translation type="vanished">Transports:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Disable invitations from conference</source>

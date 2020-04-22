@@ -6576,7 +6576,7 @@ You can select or deselect a contact for history removal from the context menu o
         <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
 
 Sincerely yours, Debian Sid.</source>
-        <translation>我以Linux可以告訴你，但不要生我的氣。當然這個人將會收到此消息。但是最好跟Jabber對話。你將冒著當ICQ消失了沒有人知道，granny已經過時了。他的JID: %1.
+        <translation type="vanished">我以Linux可以告訴你，但不要生我的氣。當然這個人將會收到此消息。但是最好跟Jabber對話。你將冒著當ICQ消失了沒有人知道，granny已經過時了。他的JID: %1.
 
 真誠的，Debian Sid.</translation>
     </message>
@@ -6585,17 +6585,17 @@ Sincerely yours, Debian Sid.</source>
 
 If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
 Sincerely yours, Debian Sid.</source>
-        <translation>我以Linux可以告訴你，但不要生我的氣。當然這個人不再用ICQ。如果你在用這個軟體的話他將不會在收到你的資訊，請和Jabber進行對話。他的JID: %1.
+        <translation type="vanished">我以Linux可以告訴你，但不要生我的氣。當然這個人不再用ICQ。如果你在用這個軟體的話他將不會在收到你的資訊，請和Jabber進行對話。他的JID: %1.
 
 真誠的，Debian Sid.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (線上)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (線上)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>作者:</translation>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>This plugin is designed to help you transfer as many contacts as possible from ICQ to Jabber.
@@ -6606,7 +6606,7 @@ The plugin has a number of simple settings that can help you:
 * set the max count of messages by contact
 * disable the message for the active window/tab
 * disable messages for contacts that are not in your roster</source>
-        <translation>這個外掛程式的目的是説明你從ICQ到JABBER傳遞盡可能多的連絡人。外掛程式有一些簡單的設置可以幫助你:
+        <translation type="vanished">這個外掛程式的目的是説明你從ICQ到JABBER傳遞盡可能多的連絡人。外掛程式有一些簡單的設置可以幫助你:
 *設置一個特殊的消息文本
 *排除特定的ICQ網路號碼
 *設置時間間隔後，該郵件將被重複
@@ -18240,11 +18240,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Auto Reply Message If Recv:</source>
-        <translation>如果收到，則自動回復資訊:</translation>
+        <translation type="vanished">如果收到，則自動回復資訊:</translation>
     </message>
     <message>
         <source>Auto Reply Message If No Recv:</source>
-        <translation>如果沒有收到，則自動回復資訊:</translation>
+        <translation type="vanished">如果沒有收到，則自動回復資訊:</translation>
     </message>
     <message>
         <source>Custom options:
@@ -18254,7 +18254,7 @@ Do you still want to close the window?</source>
 [-+!]other - default
 [-+!]nil - not in list
 # - comment to end line</source>
-        <translation>自訂選項:
+        <translation type="vanished">自訂選項:
 -uin - 什麼也不做
 +uin - 重新發送
 !uin - 封鎖消息
@@ -18264,27 +18264,27 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Pause for next Recv message:</source>
-        <translation>暫停下一條收到的消息:</translation>
+        <translation type="vanished">暫停下一條收到的消息:</translation>
     </message>
     <message>
         <source>min.</source>
-        <translation>最低限值。</translation>
+        <translation type="vanished">最低限值。</translation>
     </message>
     <message>
         <source>Max messages to contact:</source>
-        <translation>最大資訊聯繫:</translation>
+        <translation type="vanished">最大資訊聯繫:</translation>
     </message>
     <message>
         <source>Disable if chat window is active</source>
-        <translation>如果聊天視窗是活動的，則禁用</translation>
+        <translation type="vanished">如果聊天視窗是活動的，則禁用</translation>
     </message>
     <message>
         <source>Transports:</source>
-        <translation>傳輸:</translation>
+        <translation type="vanished">傳輸:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (線上)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (線上)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Disable invitations from conference</source>

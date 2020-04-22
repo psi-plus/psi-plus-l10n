@@ -6596,7 +6596,7 @@ Puedes marcar o desmarcar un contacto para la eliminación de su historial desde
         <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
 
 Sincerely yours, Debian Sid.</source>
-        <translation>Te lo puedo decir como Linux, pero no te molestes. Ciertamente este humano recibirá este mensaje. Pero es mucho mejor charlar con él por Jabber. Te estás arriesgando, uno nunca sabe cuándo ICQ pueda morir, abuelita ya lo sobrevivió. Su JID: %1.
+        <translation type="vanished">Te lo puedo decir como Linux, pero no te molestes. Ciertamente este humano recibirá este mensaje. Pero es mucho mejor charlar con él por Jabber. Te estás arriesgando, uno nunca sabe cuándo ICQ pueda morir, abuelita ya lo sobrevivió. Su JID: %1.
 
 Sinceramente, Debian Sid.</translation>
     </message>
@@ -6605,18 +6605,18 @@ Sinceramente, Debian Sid.</translation>
 
 If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
 Sincerely yours, Debian Sid.</source>
-        <translation>Te lo puedo decir como Linux, pero no te molestes. Este humano ya no usa ICQ, así que si todavía usas esa red no recibirá tus mensajes y tienes que comunicar con él vía Jabber. Su JID: %1.
+        <translation type="vanished">Te lo puedo decir como Linux, pero no te molestes. Este humano ya no usa ICQ, así que si todavía usas esa red no recibirá tus mensajes y tienes que comunicar con él vía Jabber. Su JID: %1.
 
 Si no conoces lo que es Jabber - usa Google. Él conoce todo y está listo para ayudar a todo el que le pregunte.
 Sinceramente, Debian Sid.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Autor:</translation>
+        <translation type="vanished">Autor:</translation>
     </message>
     <message>
         <source>This plugin is designed to help you transfer as many contacts as possible from ICQ to Jabber.
@@ -6627,7 +6627,7 @@ The plugin has a number of simple settings that can help you:
 * set the max count of messages by contact
 * disable the message for the active window/tab
 * disable messages for contacts that are not in your roster</source>
-        <translation>Este complemento ha sido diseñado para ayudarte a transferir tantos contactos como sean posibles desde ICQ al Jabber.
+        <translation type="vanished">Este complemento ha sido diseñado para ayudarte a transferir tantos contactos como sean posibles desde ICQ al Jabber.
 Tiene un número de pequeñas configuraciones que te ayudarán:
 * establecer texto de mensaje especial
 * excluir números ICQ específicos
@@ -18318,11 +18318,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Auto Reply Message If Recv:</source>
-        <translation>Responder Automáticamente el Mensaje si se Recibe:</translation>
+        <translation type="vanished">Responder Automáticamente el Mensaje si se Recibe:</translation>
     </message>
     <message>
         <source>Auto Reply Message If No Recv:</source>
-        <translation>Responder Automáticamente el Mensaje si no se Recibe:</translation>
+        <translation type="vanished">Responder Automáticamente el Mensaje si no se Recibe:</translation>
     </message>
     <message>
         <source>Custom options:
@@ -18332,7 +18332,7 @@ Do you still want to close the window?</source>
 [-+!]other - default
 [-+!]nil - not in list
 # - comment to end line</source>
-        <translation>Opciones personalizadas:
+        <translation type="vanished">Opciones personalizadas:
 -uin - no hacer nada
 +uin - enviar respuesta
 !uin - bloquear mensaje
@@ -18342,27 +18342,27 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Pause for next Recv message:</source>
-        <translation>Pausar para el próximo mensaje Recibido:</translation>
+        <translation type="vanished">Pausar para el próximo mensaje Recibido:</translation>
     </message>
     <message>
         <source>min.</source>
-        <translation>min.</translation>
+        <translation type="vanished">min.</translation>
     </message>
     <message>
         <source>Max messages to contact:</source>
-        <translation>Máximo de mensajes para contactar:</translation>
+        <translation type="vanished">Máximo de mensajes para contactar:</translation>
     </message>
     <message>
         <source>Disable if chat window is active</source>
-        <translation>Inhabilitar si la ventana de conversación está activa</translation>
+        <translation type="vanished">Inhabilitar si la ventana de conversación está activa</translation>
     </message>
     <message>
         <source>Transports:</source>
-        <translation>Transportes:</translation>
+        <translation type="vanished">Transportes:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Disable invitations from conference</source>
