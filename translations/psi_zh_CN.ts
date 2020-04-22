@@ -15275,7 +15275,7 @@ Password: %5</source>
         <translation>除了这台电脑</translation>
     </message>
     <message>
-        <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
+        <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
 
 Do you want to generate keys now?</source>
         <translation>需要生成账户&quot;%1&quot;的私钥。这需要相当长的时间(从几秒钟到几分钟)，虽然你可以在此期间使用Psi +，但所有信息都将以未加密的方式发送，直到生成密钥为止。 此过程完成后，你将收到通知。
@@ -18733,7 +18733,7 @@ You should authenticate %1 as well by asking your own question.</source>
 <context>
     <name>psiotr::PsiOtrPlugin</name>
     <message>
-        <source>Off-the-Record Messaging plugin for Psi+</source>
+        <source>Off-the-Record Messaging plugin for Psi</source>
         <translation>Psi+场外的记录通讯插件</translation>
     </message>
     <message>

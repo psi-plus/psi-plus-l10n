@@ -15277,7 +15277,7 @@ Senha: %5</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
+        <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
 
 Do you want to generate keys now?</source>
         <translation>Chaves privadas para conta &quot;%1&quot; precisam ser geradas. Isso leva um tempo (alguns segundos ou até alguns minutos), enquanto isso você pode usar Psi+, mas todas as mensagens serão enviadas sem criptografia até as chaves serem geradas. Você será notificado quando esse processo terminar.
@@ -18726,7 +18726,7 @@ You should authenticate %1 as well by asking your own question.</source>
 <context>
     <name>psiotr::PsiOtrPlugin</name>
     <message>
-        <source>Off-the-Record Messaging plugin for Psi+</source>
+        <source>Off-the-Record Messaging plugin for Psi</source>
         <translation>Mensagens Off-the-Record plugin para Psi+</translation>
     </message>
     <message>

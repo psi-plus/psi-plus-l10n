@@ -15258,7 +15258,7 @@ Heslo: %5</translation>
         <translation>Kromě tohoto počítače</translation>
     </message>
     <message>
-        <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
+        <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
 
 Do you want to generate keys now?</source>
         <translation>Musí být generovány soukromé klíče pro účet &quot;%1&quot;. Zabere to nějaký čas (od pár vteřin po pár minut). I po tuto dobu můžeš používat Psí+, ale všechny zprávy budou dočasně odesílány nešifrovaně. Budeš informován o tom, kdy generování skončí.
@@ -18640,7 +18640,7 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
 <context>
     <name>psiotr::PsiOtrPlugin</name>
     <message>
-        <source>Off-the-Record Messaging plugin for Psi+</source>
+        <source>Off-the-Record Messaging plugin for Psi</source>
         <translation>Zásuvný modul pro zprávy mimo záznam (OTR) pro Psí+</translation>
     </message>
     <message>

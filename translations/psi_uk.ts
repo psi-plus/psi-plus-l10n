@@ -15331,7 +15331,7 @@ URL: %4
         <translation>Крім цього комп&apos;ютера</translation>
     </message>
     <message>
-        <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
+        <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
 
 Do you want to generate keys now?</source>
         <translation>Необхідно згенерувати особисті ключі для акаунту &quot;%1&quot;. Це займе деякий час (від пари секунд до декількох хвилин). Ви зможете використовувати Psi+ в цей час, але всі повідомлення будуть незашифрованими, доки ключі не буде згенеровано.
@@ -18798,7 +18798,7 @@ You should authenticate %1 as well by asking your own question.</source>
 <context>
     <name>psiotr::PsiOtrPlugin</name>
     <message>
-        <source>Off-the-Record Messaging plugin for Psi+</source>
+        <source>Off-the-Record Messaging plugin for Psi</source>
         <translation>Плагін OTR для Psi+</translation>
     </message>
     <message>

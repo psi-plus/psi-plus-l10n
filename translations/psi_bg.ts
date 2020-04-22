@@ -15170,7 +15170,7 @@ Password: %5</source>
         <translation>Освен този компютър</translation>
     </message>
     <message>
-        <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
+        <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
 
 Do you want to generate keys now?</source>
         <translation>Личните ключове за акаунт &quot;%1&quot; е нужно да се генерират. Това отнема определено време (от няколко секунди до няколко минути), и докато можете да използвате междувременно Psi+, всички съобщения ще бъдат некриптирани, докато не се генерират ключовете. Ще бъдете уведомени, когато процеса приключи.
@@ -18410,7 +18410,7 @@ You should authenticate %1 as well by asking your own question.</source>
 <context>
     <name>psiotr::PsiOtrPlugin</name>
     <message>
-        <source>Off-the-Record Messaging plugin for Psi+</source>
+        <source>Off-the-Record Messaging plugin for Psi</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
