@@ -2343,7 +2343,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CleanerMainWindow</name>
     <message>
         <source>Psi Cleaner</source>
-        <translation>Чистильщик Psi+</translation>
+        <translation>Чистильщик Psi</translation>
     </message>
     <message>
         <source>History</source>
@@ -13033,7 +13033,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Set Topic</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить тему</translation>
     </message>
 </context>
 <context>
@@ -16445,7 +16445,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Set chat topic</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить тему чата</translation>
     </message>
 </context>
 <context>

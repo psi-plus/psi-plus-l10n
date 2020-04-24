@@ -19,5 +19,5 @@ Keywords=XMPP;Jabber;Chat;InstantMessaging;
 # Translations
 Comment[ru]=Общение в сети XMPP
 GenericName[ru]=XMPP-клиент
-Name[ru]=Psi+
-Icon[ru]=psi-plus
+Name[ru]=Psi
+Icon[ru]=psi

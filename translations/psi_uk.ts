@@ -13040,11 +13040,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished">Інформація</translation>
+        <translation>Інформація</translation>
     </message>
     <message>
         <source>Set Topic</source>
-        <translation type="unfinished"></translation>
+        <translation>Встановити тему</translation>
     </message>
 </context>
 <context>
@@ -16450,7 +16450,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Set chat topic</source>
-        <translation type="unfinished"></translation>
+        <translation>Встановити тему чату</translation>
     </message>
 </context>
 <context>
