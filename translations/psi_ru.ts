@@ -5747,7 +5747,7 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     </message>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Публичный ключ &quot;%1&quot; отправлен</translation>
     </message>
 </context>
 <context>
@@ -13122,11 +13122,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Enable OpenPGP encryption</source>
-        <translation type="unfinished">Включить шифрование OpenPGP</translation>
+        <translation>Включить шифрование OpenPGP</translation>
     </message>
     <message>
         <source>OpenPGP key is not set in your account settings!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ключ OpenPGP не указан в настройках вашего аккаунта!</translation>
     </message>
 </context>
 <context>
