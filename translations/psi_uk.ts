@@ -3105,7 +3105,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email: </translation>
     </message>
 </context>
 <context>
@@ -3730,7 +3730,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Enable OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Увімкнути шифрування OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -5748,11 +5748,11 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email: </translation>
     </message>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Публічний ключ &quot;%1&quot; надіслано</translation>
     </message>
 </context>
 <context>
@@ -7911,7 +7911,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     </message>
     <message>
         <source>About plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Про плагін</translation>
     </message>
 </context>
 <context>
@@ -7926,7 +7926,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email: </translation>
     </message>
 </context>
 <context>
@@ -10705,7 +10705,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>About plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Про плагін</translation>
     </message>
 </context>
 <context>
@@ -13076,7 +13076,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Enable OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Увімкнути шифрування OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -13133,11 +13133,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Enable OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Увімкнути шифрування OpenPGP</translation>
     </message>
     <message>
         <source>OpenPGP key is not set in your account settings!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ключ OpenPGP не встановлений у налаштуваннях вашого акаунта!</translation>
     </message>
 </context>
 <context>
@@ -18513,31 +18513,31 @@ Do you still want to close the window?</source>
     <name>psiomemo::OMEMOPlugin</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email: </translation>
     </message>
     <message>
         <source>Credits: </source>
-        <translation type="unfinished"></translation>
+        <translation>Розробники:</translation>
     </message>
     <message>
         <source>Enable OMEMO encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Увімкнути шифрування OMEMO</translation>
     </message>
     <message>
         <source>OMEMO encryption is not available for this group</source>
-        <translation type="unfinished"></translation>
+        <translation>Шифрування OMEMO недоступне для цієї групи</translation>
     </message>
     <message>
         <source>OMEMO encryption is not available for this contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Шифрування OMEMO недоступне для цього контакту</translation>
     </message>
     <message>
         <source>OMEMO encryption is enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Шифрування OMEMO увімкнено</translation>
     </message>
 </context>
 <context>
