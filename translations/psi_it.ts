@@ -5740,10 +5740,14 @@ Nota: Il plugin controlla solo la radice della tua cartella di posta in arrivo d
     </message>
     <message>
         <source>Public key %1 sent</source>
-        <translation>Chiavi pubblica %1 inviata</translation>
+        <translation type="vanished">Chiavi pubblica %1 inviata</translation>
     </message>
     <message>
         <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13121,6 +13125,14 @@ Motivo: %1.</translation>
     <message>
         <source>Paste and Send</source>
         <translation>Incolla e Invia</translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OpenPGP key is not set in your account settings!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -5689,10 +5689,14 @@ Vous avez perdu.</translation>
     </message>
     <message>
         <source>Public key %1 sent</source>
-        <translation>Clé publique %1 envoyée</translation>
+        <translation type="vanished">Clé publique %1 envoyée</translation>
     </message>
     <message>
         <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12925,6 +12929,14 @@ Cause: %1.</translation>
     <message>
         <source>Paste and Send</source>
         <translation>Coller et envoyer</translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OpenPGP key is not set in your account settings!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

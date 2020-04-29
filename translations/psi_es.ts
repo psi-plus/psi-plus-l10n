@@ -5724,10 +5724,14 @@ Nota: El complemento solo comprueba si hay nuevos mensajes en la raíz de la ban
     </message>
     <message>
         <source>Public key %1 sent</source>
-        <translation>Llave pública %1 enviada</translation>
+        <translation type="vanished">Llave pública %1 enviada</translation>
     </message>
     <message>
         <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13050,6 +13054,14 @@ Motivo: %1.</translation>
     <message>
         <source>Paste and Send</source>
         <translation>Pegar y Enviar</translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OpenPGP key is not set in your account settings!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

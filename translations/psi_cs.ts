@@ -5723,11 +5723,15 @@ Pozn.: zásuvný modul kontroluje pro nové zprávy pouze kořenovou složku př
     </message>
     <message>
         <source>Public key %1 sent</source>
-        <translation>Veřejný klíč %1 odeslán</translation>
+        <translation type="vanished">Veřejný klíč %1 odeslán</translation>
     </message>
     <message>
         <source>Email: </source>
         <translation type="unfinished">E-mail: </translation>
+    </message>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13016,6 +13020,14 @@ Důvod: %1.</translation>
     <message>
         <source>Paste and Send</source>
         <translation>Vložit a poslat</translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OpenPGP key is not set in your account settings!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -5735,10 +5735,14 @@ Note: O plugin verifica apenas a raiz da sua pasta em sua caixa de entrada de se
     </message>
     <message>
         <source>Public key %1 sent</source>
-        <translation>Chave pública %1 enviada</translation>
+        <translation type="vanished">Chave pública %1 enviada</translation>
     </message>
     <message>
         <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13059,6 +13063,14 @@ Motivo: %1.</translation>
     <message>
         <source>Paste and Send</source>
         <translation>Colar e Enviar</translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OpenPGP key is not set in your account settings!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -5739,11 +5739,15 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     </message>
     <message>
         <source>Public key %1 sent</source>
-        <translation>Публичный ключ %1 отправлен</translation>
+        <translation type="vanished">Публичный ключ %1 отправлен</translation>
     </message>
     <message>
         <source>Email: </source>
         <translation>E-Mail: </translation>
+    </message>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13115,6 +13119,14 @@ Reason: %1.</source>
     <message>
         <source>Paste and Send</source>
         <translation>Вставить и отправить</translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
+        <translation type="unfinished">Включить шифрование OpenPGP</translation>
+    </message>
+    <message>
+        <source>OpenPGP key is not set in your account settings!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

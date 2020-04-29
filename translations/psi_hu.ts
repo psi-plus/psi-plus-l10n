@@ -5728,10 +5728,14 @@ Megjegyzés: A kiegészítő csak az &apos;Inbox&apos; mappát ellenőrzi, ha sz
     </message>
     <message>
         <source>Public key %1 sent</source>
-        <translation>%1 Publikus Kulcs elküldve</translation>
+        <translation type="vanished">%1 Publikus Kulcs elküldve</translation>
     </message>
     <message>
         <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13059,6 +13063,14 @@ Oka: %1.</translation>
     <message>
         <source>Paste and Send</source>
         <translation>Beillesztés és küldés</translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OpenPGP key is not set in your account settings!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

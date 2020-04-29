@@ -5740,10 +5740,14 @@ Anmerkung: Das Plugin überprüft lediglich das Hauptverzeichnis Ihres Posteinga
     </message>
     <message>
         <source>Public key %1 sent</source>
-        <translation>Öffentlicher Schlüssel %1 gesendet</translation>
+        <translation type="vanished">Öffentlicher Schlüssel %1 gesendet</translation>
     </message>
     <message>
         <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13085,6 +13089,14 @@ Grund: %1.</translation>
     <message>
         <source>Paste and Send</source>
         <translation>Einfügen und Senden</translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OpenPGP key is not set in your account settings!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

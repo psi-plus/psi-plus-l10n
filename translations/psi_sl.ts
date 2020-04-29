@@ -5539,11 +5539,11 @@ Izgubili ste igro.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Public key %1 sent</source>
+        <source>Email: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Email: </source>
+        <source>Public key &quot;%1&quot; sent</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12654,6 +12654,14 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
     </message>
     <message>
         <source>Paste and Send</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OpenPGP key is not set in your account settings!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
