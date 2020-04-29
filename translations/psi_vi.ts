@@ -2959,11 +2959,11 @@ Tiếp tục ?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>e-mail: </source>
+        <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
+        <source>Email: </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3425,7 +3425,7 @@ Supports per contact on / off message enumeration via the buttons on the chats t
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>Bật tắt mật mã</translation>
+        <translation type="vanished">Bật tắt mật mã</translation>
     </message>
     <message>
         <source>Add URL</source>
@@ -3580,6 +3580,10 @@ Muốn xác nhận yêu cầu này thì bấm cái nút « Xác nhận ». Khôn
     </message>
     <message>
         <source>For all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4880,7 +4884,7 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation>Gói thoại</translation>
+        <translation type="vanished">Gói thoại</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
@@ -5530,10 +5534,6 @@ You lost the game.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>e-mail: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be enough for your needs.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5543,6 +5543,10 @@ You lost the game.</source>
     </message>
     <message>
         <source>Public key %1 sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email: </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7506,11 +7510,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
-        <translation>Ứng dụng này dùng GStreamer %1, một khuôn khổ môi giới nhiều đa nền tảng và nguồn mở bao hàm toàn diện. Để tìm thêm thông tin, hãy thăm &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</translation>
+        <translation type="vanished">Ứng dụng này dùng GStreamer %1, một khuôn khổ môi giới nhiều đa nền tảng và nguồn mở bao hàm toàn diện. Để tìm thêm thông tin, hãy thăm &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</translation>
     </message>
     <message>
         <source>About GStreamer</source>
-        <translation>Giới thiệu GStreamer</translation>
+        <translation type="vanished">Giới thiệu GStreamer</translation>
     </message>
     <message>
         <source>Security Plugins Diagnostic Text</source>
@@ -7567,14 +7571,6 @@ Incoming event(s) from:</source>
         <translation>%1 sự việc được nhận rồi</translation>
     </message>
     <message>
-        <source>psimedia is unavailable</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Hide</source>
         <translation>Ẩn</translation>
     </message>
@@ -7615,7 +7611,7 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>About</source>
-        <translation>Giới thiệu</translation>
+        <translation type="vanished">Giới thiệu</translation>
     </message>
     <message>
         <source>is a network game chess for two players.
@@ -7631,6 +7627,10 @@ vì nó được cấp dưới Giấy phép Công cộng GNU (GPL).
 
 Nga, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
+    <message>
+        <source>About plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MessageFilter</name>
@@ -7639,7 +7639,7 @@ Nga, Tambov, 2005 (denis@silversoft.net)</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>e-mail: </source>
+        <source>Email: </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8308,23 +8308,19 @@ Tags: %1</source>
     <name>OptAvCall</name>
     <message>
         <source>Form</source>
-        <translation>Đơn</translation>
+        <translation type="vanished">Đơn</translation>
     </message>
     <message>
         <source>Audio output:</source>
-        <translation>Kết xuất âm thanh:</translation>
+        <translation type="vanished">Kết xuất âm thanh:</translation>
     </message>
     <message>
         <source>Audio input:</source>
-        <translation>Đầu vào âm thanh:</translation>
+        <translation type="vanished">Đầu vào âm thanh:</translation>
     </message>
     <message>
         <source>Video input:</source>
-        <translation>Đầu vào phim:</translation>
-    </message>
-    <message>
-        <source>Video support:</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Đầu vào phim:</translation>
     </message>
 </context>
 <context>
@@ -9953,15 +9949,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabAvCall</name>
     <message>
         <source>Voice Calling</source>
-        <translation>Gọi thoại</translation>
+        <translation type="vanished">Gọi thoại</translation>
     </message>
     <message>
         <source>Audio and video device configuration</source>
-        <translation>Cấu hình thiết bị âm thanh và phim</translation>
+        <translation type="vanished">Cấu hình thiết bị âm thanh và phim</translation>
     </message>
     <message>
         <source>Audio device configuration</source>
-        <translation>Cấu hình thiết bị âm thanh</translation>
+        <translation type="vanished">Cấu hình thiết bị âm thanh</translation>
     </message>
 </context>
 <context>
@@ -10278,6 +10274,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Open plugin settings dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About plugin</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12534,7 +12534,7 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Toggle Encryption</source>
-        <translation>Bật/tắt mật mã</translation>
+        <translation type="vanished">Bật/tắt mật mã</translation>
     </message>
     <message>
         <source>User Info</source>
@@ -12598,6 +12598,10 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Set Topic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17817,6 +17821,37 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     </message>
 </context>
 <context>
+    <name>psiomemo::OMEMOPlugin</name>
+    <message>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Credits: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable OMEMO encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO encryption is not available for this group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO encryption is not available for this contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>psiotr::AuthenticationDialog</name>
     <message>
         <source>Authenticate %1</source>
@@ -18142,10 +18177,6 @@ You should authenticate %1 as well by asking your own question.</source>
 </context>
 <context>
     <name>psiotr::PsiOtrPlugin</name>
-    <message>
-        <source>Off-the-Record Messaging plugin for Psi</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Authors: %1</source>
         <translation type="unfinished"></translation>

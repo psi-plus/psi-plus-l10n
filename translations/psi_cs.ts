@@ -3080,11 +3080,15 @@ Pokračovat?</translation>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation>e-mail: </translation>
+        <translation type="vanished">e-mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation>Tento plugin je navržen pro zjednodušení stahování a instalace sad ikon i jiných dat pro Psi+.</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished">E-mail: </translation>
     </message>
 </context>
 <context>
@@ -3551,7 +3555,7 @@ Podporuje filtr výpisu pro vybrané kontakty pomocí tlačítek na liště v ok
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>Přepnout šifrování</translation>
+        <translation type="vanished">Přepnout šifrování</translation>
     </message>
     <message>
         <source>Add URL</source>
@@ -3708,6 +3712,10 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
     <message>
         <source>For all</source>
         <translation>Pro všechny</translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5008,7 +5016,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation>Hlasový hovor</translation>
+        <translation type="vanished">Hlasový hovor</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
@@ -5703,7 +5711,7 @@ Pozn.: zásuvný modul kontroluje pro nové zprávy pouze kořenovou složku př
     </message>
     <message>
         <source>e-mail: </source>
-        <translation>e-mail: </translation>
+        <translation type="vanished">e-mail: </translation>
     </message>
     <message>
         <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be enough for your needs.</source>
@@ -5716,6 +5724,10 @@ Pozn.: zásuvný modul kontroluje pro nové zprávy pouze kořenovou složku př
     <message>
         <source>Public key %1 sent</source>
         <translation>Veřejný klíč %1 odeslán</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished">E-mail: </translation>
     </message>
 </context>
 <context>
@@ -7698,11 +7710,11 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
-        <translation>Tato aplikace používá GStreamer %1, rozsáhlý multiplatformní multimediální systém s otevřeným zdrojovým kódem.  Více informací lze nalézt na webu &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</translation>
+        <translation type="vanished">Tato aplikace používá GStreamer %1, rozsáhlý multiplatformní multimediální systém s otevřeným zdrojovým kódem.  Více informací lze nalézt na webu &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</translation>
     </message>
     <message>
         <source>About GStreamer</source>
-        <translation>O systému GStreamer</translation>
+        <translation type="vanished">O systému GStreamer</translation>
     </message>
     <message>
         <source>Security Plugins Diagnostic Text</source>
@@ -7761,14 +7773,6 @@ Příchozí událost(i) od:</translation>
         <translation>Přijato událostí: %1</translation>
     </message>
     <message>
-        <source>psimedia is unavailable</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Hide</source>
         <translation>Skrýt</translation>
     </message>
@@ -7809,7 +7813,7 @@ Příchozí událost(i) od:</translation>
     </message>
     <message>
         <source>About</source>
-        <translation>O</translation>
+        <translation type="vanished">O</translation>
     </message>
     <message>
         <source>is a network game chess for two players.
@@ -7825,6 +7829,10 @@ licencí GPL.
 
 Rusko, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
+    <message>
+        <source>About plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MessageFilter</name>
@@ -7834,7 +7842,11 @@ Rusko, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation>e-mail: </translation>
+        <translation type="vanished">e-mail: </translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished">E-mail: </translation>
     </message>
 </context>
 <context>
@@ -8504,23 +8516,23 @@ Tagy: %1</translation>
     <name>OptAvCall</name>
     <message>
         <source>Form</source>
-        <translation>Formulář</translation>
+        <translation type="vanished">Formulář</translation>
     </message>
     <message>
         <source>Audio output:</source>
-        <translation>Audio výstup:</translation>
+        <translation type="vanished">Audio výstup:</translation>
     </message>
     <message>
         <source>Audio input:</source>
-        <translation>Audio vstup:</translation>
+        <translation type="vanished">Audio vstup:</translation>
     </message>
     <message>
         <source>Video input:</source>
-        <translation>Video vstup:</translation>
+        <translation type="vanished">Video vstup:</translation>
     </message>
     <message>
         <source>Video support:</source>
-        <translation>Podpora videa:</translation>
+        <translation type="vanished">Podpora videa:</translation>
     </message>
 </context>
 <context>
@@ -10264,15 +10276,15 @@ zprávy v chatu víde lidí)</translation>
     <name>OptionsTabAvCall</name>
     <message>
         <source>Voice Calling</source>
-        <translation>Hlasový hovor</translation>
+        <translation type="vanished">Hlasový hovor</translation>
     </message>
     <message>
         <source>Audio and video device configuration</source>
-        <translation>Nastavení audio a video zařízení</translation>
+        <translation type="vanished">Nastavení audio a video zařízení</translation>
     </message>
     <message>
         <source>Audio device configuration</source>
-        <translation>Nastavení audio zařízení</translation>
+        <translation type="vanished">Nastavení audio zařízení</translation>
     </message>
 </context>
 <context>
@@ -10591,6 +10603,10 @@ zprávy v chatu víde lidí)</translation>
     <message>
         <source>Open plugin settings dialog</source>
         <translation>Otevře dialog nastavení zásuvného modulu</translation>
+    </message>
+    <message>
+        <source>About plugin</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12878,7 +12894,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Toggle Encryption</source>
-        <translation>Přepnout šifrování</translation>
+        <translation type="vanished">Přepnout šifrování</translation>
     </message>
     <message>
         <source>User Info</source>
@@ -12942,6 +12958,10 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Set Topic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18280,6 +18300,37 @@ Opravdu zavřít okno?</translation>
     </message>
 </context>
 <context>
+    <name>psiomemo::OMEMOPlugin</name>
+    <message>
+        <source>Author: </source>
+        <translation type="unfinished">Autor: </translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished">E-mail: </translation>
+    </message>
+    <message>
+        <source>Credits: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable OMEMO encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO encryption is not available for this group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO encryption is not available for this contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>psiotr::AuthenticationDialog</name>
     <message>
         <source>Authenticate %1</source>
@@ -18609,7 +18660,7 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     <name>psiotr::PsiOtrPlugin</name>
     <message>
         <source>Off-the-Record Messaging plugin for Psi</source>
-        <translation>Zásuvný modul pro zprávy mimo záznam (OTR) pro Psí+</translation>
+        <translation type="vanished">Zásuvný modul pro zprávy mimo záznam (OTR) pro Psí+</translation>
     </message>
     <message>
         <source>Authors: %1</source>

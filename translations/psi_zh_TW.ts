@@ -3069,11 +3069,15 @@ Proceed?</source>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation>電子郵箱:</translation>
+        <translation type="vanished">電子郵箱:</translation>
     </message>
     <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation>這個外掛程式的目的是更容易下載並安裝圖片和其他PSI資源</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3534,7 +3538,7 @@ Supports per contact on / off message enumeration via the buttons on the chats t
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>切換加密</translation>
+        <translation type="vanished">切換加密</translation>
     </message>
     <message>
         <source>Add URL</source>
@@ -3690,6 +3694,10 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>For all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4992,7 +5000,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation>語音視頻</translation>
+        <translation type="vanished">語音視頻</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
@@ -5687,7 +5695,7 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     </message>
     <message>
         <source>e-mail: </source>
-        <translation>電子郵箱:</translation>
+        <translation type="vanished">電子郵箱:</translation>
     </message>
     <message>
         <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be enough for your needs.</source>
@@ -5700,6 +5708,10 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <message>
         <source>Public key %1 sent</source>
         <translation>公開金鑰: %1發送</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7710,11 +7722,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
-        <translation>這個應用程式使用 GStreamer %1, 一個開放原始碼及跨平臺的多媒體框架。請參閱 &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt; 以獲得更多資料</translation>
+        <translation type="vanished">這個應用程式使用 GStreamer %1, 一個開放原始碼及跨平臺的多媒體框架。請參閱 &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt; 以獲得更多資料</translation>
     </message>
     <message>
         <source>About GStreamer</source>
-        <translation>關於 GStreamer</translation>
+        <translation type="vanished">關於 GStreamer</translation>
     </message>
     <message>
         <source>Security Plugins Diagnostic Text</source>
@@ -7772,14 +7784,6 @@ Incoming event(s) from:</source>
         <translation>接收到 %1 個事件</translation>
     </message>
     <message>
-        <source>psimedia is unavailable</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Hide</source>
         <translation>隱藏</translation>
     </message>
@@ -7820,7 +7824,7 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>About</source>
-        <translation>關於</translation>
+        <translation type="vanished">關於</translation>
     </message>
     <message>
         <source>is a network game chess for two players.
@@ -7836,6 +7840,10 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
 
 Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
+    <message>
+        <source>About plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MessageFilter</name>
@@ -7845,7 +7853,11 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation>電子郵箱:</translation>
+        <translation type="vanished">電子郵箱:</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8514,23 +8526,23 @@ Tags: %1</source>
     <name>OptAvCall</name>
     <message>
         <source>Form</source>
-        <translation>外形</translation>
+        <translation type="vanished">外形</translation>
     </message>
     <message>
         <source>Audio output:</source>
-        <translation>音訊輸出:</translation>
+        <translation type="vanished">音訊輸出:</translation>
     </message>
     <message>
         <source>Audio input:</source>
-        <translation>音訊輸入:</translation>
+        <translation type="vanished">音訊輸入:</translation>
     </message>
     <message>
         <source>Video input:</source>
-        <translation>視頻輸入:</translation>
+        <translation type="vanished">視頻輸入:</translation>
     </message>
     <message>
         <source>Video support:</source>
-        <translation>視頻支援:</translation>
+        <translation type="vanished">視頻支援:</translation>
     </message>
 </context>
 <context>
@@ -10259,15 +10271,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabAvCall</name>
     <message>
         <source>Voice Calling</source>
-        <translation>語音通話</translation>
+        <translation type="vanished">語音通話</translation>
     </message>
     <message>
         <source>Audio and video device configuration</source>
-        <translation>音訊和視頻裝置設置</translation>
+        <translation type="vanished">音訊和視頻裝置設置</translation>
     </message>
     <message>
         <source>Audio device configuration</source>
-        <translation>音訊裝置設置</translation>
+        <translation type="vanished">音訊裝置設置</translation>
     </message>
 </context>
 <context>
@@ -10584,6 +10596,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Open plugin settings dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About plugin</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12863,7 +12879,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Toggle Encryption</source>
-        <translation>切換加密</translation>
+        <translation type="vanished">切換加密</translation>
     </message>
     <message>
         <source>User Info</source>
@@ -12927,6 +12943,10 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Set Topic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18296,6 +18316,37 @@ Do you still want to close the window?</source>
     </message>
 </context>
 <context>
+    <name>psiomemo::OMEMOPlugin</name>
+    <message>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Credits: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable OMEMO encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO encryption is not available for this group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO encryption is not available for this contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>psiotr::AuthenticationDialog</name>
     <message>
         <source>Authenticate %1</source>
@@ -18625,7 +18676,7 @@ You should authenticate %1 as well by asking your own question.</source>
     <name>psiotr::PsiOtrPlugin</name>
     <message>
         <source>Off-the-Record Messaging plugin for Psi</source>
-        <translation>Psi+場外的記錄通訊外掛程式</translation>
+        <translation type="vanished">Psi+場外的記錄通訊外掛程式</translation>
     </message>
     <message>
         <source>Authors: %1</source>

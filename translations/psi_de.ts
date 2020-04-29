@@ -3091,11 +3091,15 @@ Fortfahren?</translation>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation>E-Mail:</translation>
+        <translation type="vanished">E-Mail:</translation>
     </message>
     <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation>Dieses Plugin ermöglicht das einfache Herunterladen und Installieren von neuen Grafiken und anderen Resourcen für Psi+.</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3562,7 +3566,7 @@ Nachrichtennummern können pro Kontakt über die Knöpfe in der Chatwerkzeugleis
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>Verschlüsselung aktivieren/deaktivieren</translation>
+        <translation type="vanished">Verschlüsselung aktivieren/deaktivieren</translation>
     </message>
     <message>
         <source>Add URL</source>
@@ -3719,6 +3723,10 @@ Wenn Sie die Anforderung zulassen möchten, drücken Sie bitte &lt;bestätigen&g
     <message>
         <source>For all</source>
         <translation>Für alle</translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5026,7 +5034,7 @@ Grund: %1</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation>Anruf</translation>
+        <translation type="vanished">Anruf</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
@@ -5720,7 +5728,7 @@ Anmerkung: Das Plugin überprüft lediglich das Hauptverzeichnis Ihres Posteinga
     </message>
     <message>
         <source>e-mail: </source>
-        <translation>E-Mail:</translation>
+        <translation type="vanished">E-Mail:</translation>
     </message>
     <message>
         <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be enough for your needs.</source>
@@ -5733,6 +5741,10 @@ Anmerkung: Das Plugin überprüft lediglich das Hauptverzeichnis Ihres Posteinga
     <message>
         <source>Public key %1 sent</source>
         <translation>Öffentlicher Schlüssel %1 gesendet</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7749,11 +7761,11 @@ Grund: %1</translation>
     </message>
     <message>
         <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
-        <translation>Diese Anwendung verwendet GStreamer %1, ein quelloffenes und plattformunabhängiges Multimedia-Framework. Sie finden weitere Informationen auf &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</translation>
+        <translation type="vanished">Diese Anwendung verwendet GStreamer %1, ein quelloffenes und plattformunabhängiges Multimedia-Framework. Sie finden weitere Informationen auf &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</translation>
     </message>
     <message>
         <source>About GStreamer</source>
-        <translation>Über GStreamer</translation>
+        <translation type="vanished">Über GStreamer</translation>
     </message>
     <message>
         <source>Security Plugins Diagnostic Text</source>
@@ -7812,14 +7824,6 @@ Eingehende(s) Event(s) von:</translation>
         <translation>%1 Nachrichten empfangen</translation>
     </message>
     <message>
-        <source>psimedia is unavailable</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Hide</source>
         <translation>Ausblenden</translation>
     </message>
@@ -7860,7 +7864,7 @@ Eingehende(s) Event(s) von:</translation>
     </message>
     <message>
         <source>About</source>
-        <translation>Über</translation>
+        <translation type="vanished">Über</translation>
     </message>
     <message>
         <source>is a network game chess for two players.
@@ -7876,6 +7880,10 @@ verändern und verbreiten.
 
 Russland, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
+    <message>
+        <source>About plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MessageFilter</name>
@@ -7885,7 +7893,11 @@ Russland, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation>E-Mail:</translation>
+        <translation type="vanished">E-Mail:</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8555,23 +8567,23 @@ Tags: %1</translation>
     <name>OptAvCall</name>
     <message>
         <source>Form</source>
-        <translation>Formular</translation>
+        <translation type="vanished">Formular</translation>
     </message>
     <message>
         <source>Audio output:</source>
-        <translation>Audioausgabe:</translation>
+        <translation type="vanished">Audioausgabe:</translation>
     </message>
     <message>
         <source>Audio input:</source>
-        <translation>Audioeingabe:</translation>
+        <translation type="vanished">Audioeingabe:</translation>
     </message>
     <message>
         <source>Video input:</source>
-        <translation>Videoeingabe:</translation>
+        <translation type="vanished">Videoeingabe:</translation>
     </message>
     <message>
         <source>Video support:</source>
-        <translation>Videounterstützung:</translation>
+        <translation type="vanished">Videounterstützung:</translation>
     </message>
 </context>
 <context>
@@ -10320,15 +10332,15 @@ Aktiviere die &quot;Nachrichtenarchivierung&quot;-Option zur Verwendung!</transl
     <name>OptionsTabAvCall</name>
     <message>
         <source>Voice Calling</source>
-        <translation>Telefonie</translation>
+        <translation type="vanished">Telefonie</translation>
     </message>
     <message>
         <source>Audio and video device configuration</source>
-        <translation>Einstellungen für Audio- und Videogeräte</translation>
+        <translation type="vanished">Einstellungen für Audio- und Videogeräte</translation>
     </message>
     <message>
         <source>Audio device configuration</source>
-        <translation>Einstellungen für Audiogeräte</translation>
+        <translation type="vanished">Einstellungen für Audiogeräte</translation>
     </message>
 </context>
 <context>
@@ -10650,6 +10662,10 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     <message>
         <source>Open plugin settings dialog</source>
         <translation>Öffne den Plugin-Einstellungsdialog</translation>
+    </message>
+    <message>
+        <source>About plugin</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12939,7 +12955,7 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Toggle Encryption</source>
-        <translation>Verschlüsselung ein-/ausschalten</translation>
+        <translation type="vanished">Verschlüsselung ein-/ausschalten</translation>
     </message>
     <message>
         <source>User Info</source>
@@ -13011,6 +13027,10 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Set Topic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18426,6 +18446,37 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     </message>
 </context>
 <context>
+    <name>psiomemo::OMEMOPlugin</name>
+    <message>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Credits: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable OMEMO encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO encryption is not available for this group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO encryption is not available for this contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>psiotr::AuthenticationDialog</name>
     <message>
         <source>Authenticate %1</source>
@@ -18755,7 +18806,7 @@ Sie sollten %1 ebenfalls authentifizieren, indem Sie Ihre eigene Frage stellen.<
     <name>psiotr::PsiOtrPlugin</name>
     <message>
         <source>Off-the-Record Messaging plugin for Psi</source>
-        <translation>Off-the-Record Messaging Plugin für Psi+</translation>
+        <translation type="vanished">Off-the-Record Messaging Plugin für Psi+</translation>
     </message>
     <message>
         <source>Authors: %1</source>

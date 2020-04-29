@@ -2959,11 +2959,11 @@ Fortsätt?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>e-mail: </source>
+        <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
+        <source>Email: </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3425,7 +3425,7 @@ Supports per contact on / off message enumeration via the buttons on the chats t
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>Slå av/på kryptering</translation>
+        <translation type="vanished">Slå av/på kryptering</translation>
     </message>
     <message>
         <source>Add URL</source>
@@ -3579,6 +3579,10 @@ Om du vill bekräfta denna begäran, tryck på Bekräfta-knappen. Annars, tryck 
     </message>
     <message>
         <source>For all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4876,7 +4880,7 @@ Anledning: %1</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation>Röstsamtal</translation>
+        <translation type="vanished">Röstsamtal</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
@@ -5528,10 +5532,6 @@ Du förlorade.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>e-mail: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be enough for your needs.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5541,6 +5541,10 @@ Du förlorade.</translation>
     </message>
     <message>
         <source>Public key %1 sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email: </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7506,11 +7510,11 @@ Orsak: %1</translation>
     </message>
     <message>
         <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
-        <translation>Denna applikation använder GStreamer %1, en omfattande multimedia plattform med öppen källkod och stöd för flera plattformar. För mer information, se &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net&lt;/a&gt;</translation>
+        <translation type="vanished">Denna applikation använder GStreamer %1, en omfattande multimedia plattform med öppen källkod och stöd för flera plattformar. För mer information, se &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net&lt;/a&gt;</translation>
     </message>
     <message>
         <source>About GStreamer</source>
-        <translation>Om GStreamer</translation>
+        <translation type="vanished">Om GStreamer</translation>
     </message>
     <message>
         <source>Security Plugins Diagnostic Text</source>
@@ -7567,14 +7571,6 @@ Incoming event(s) from:</source>
         <translation>%1 händelser mottagna</translation>
     </message>
     <message>
-        <source>psimedia is unavailable</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Hide</source>
         <translation>Göm</translation>
     </message>
@@ -7615,7 +7611,7 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>About</source>
-        <translation>Om</translation>
+        <translation type="vanished">Om</translation>
     </message>
     <message>
         <source>is a network game chess for two players.
@@ -7631,6 +7627,10 @@ det är släppt under GPL.
 
 Ryssland, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
+    <message>
+        <source>About plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MessageFilter</name>
@@ -7639,7 +7639,7 @@ Ryssland, Tambov, 2005 (denis@silversoft.net)</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>e-mail: </source>
+        <source>Email: </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8308,23 +8308,19 @@ Tags: %1</source>
     <name>OptAvCall</name>
     <message>
         <source>Form</source>
-        <translation>Form</translation>
+        <translation type="vanished">Form</translation>
     </message>
     <message>
         <source>Audio output:</source>
-        <translation>Ljud ut:</translation>
+        <translation type="vanished">Ljud ut:</translation>
     </message>
     <message>
         <source>Audio input:</source>
-        <translation>Ljud in:</translation>
+        <translation type="vanished">Ljud in:</translation>
     </message>
     <message>
         <source>Video input:</source>
-        <translation>Bild in:</translation>
-    </message>
-    <message>
-        <source>Video support:</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Bild in:</translation>
     </message>
 </context>
 <context>
@@ -9953,15 +9949,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabAvCall</name>
     <message>
         <source>Voice Calling</source>
-        <translation>Röstsamtal</translation>
+        <translation type="vanished">Röstsamtal</translation>
     </message>
     <message>
         <source>Audio and video device configuration</source>
-        <translation>Konfiguration av ljud och bildenheter</translation>
+        <translation type="vanished">Konfiguration av ljud och bildenheter</translation>
     </message>
     <message>
         <source>Audio device configuration</source>
-        <translation>Konfiguration av ljudenhet</translation>
+        <translation type="vanished">Konfiguration av ljudenhet</translation>
     </message>
 </context>
 <context>
@@ -10278,6 +10274,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Open plugin settings dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About plugin</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12533,7 +12533,7 @@ Orsak: %1.</translation>
     </message>
     <message>
         <source>Toggle Encryption</source>
-        <translation>Slå på/av kryptering</translation>
+        <translation type="vanished">Slå på/av kryptering</translation>
     </message>
     <message>
         <source>User Info</source>
@@ -12597,6 +12597,10 @@ Orsak: %1.</translation>
     </message>
     <message>
         <source>Set Topic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17822,6 +17826,37 @@ Vill du ändå stänga fönstrett?</translation>
     </message>
 </context>
 <context>
+    <name>psiomemo::OMEMOPlugin</name>
+    <message>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Credits: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable OMEMO encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO encryption is not available for this group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO encryption is not available for this contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>psiotr::AuthenticationDialog</name>
     <message>
         <source>Authenticate %1</source>
@@ -18147,10 +18182,6 @@ You should authenticate %1 as well by asking your own question.</source>
 </context>
 <context>
     <name>psiotr::PsiOtrPlugin</name>
-    <message>
-        <source>Off-the-Record Messaging plugin for Psi</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Authors: %1</source>
         <translation type="unfinished"></translation>

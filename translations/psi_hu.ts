@@ -3081,11 +3081,15 @@ Folytatod?</translation>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation>E-mail:</translation>
+        <translation type="vanished">E-mail:</translation>
     </message>
     <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation>Ez a kiegészítő az ikongyűjtemények és más egyebek letöltésének és telepítésének a megkönnyítésére lett tervezve a &apos;Psi+&apos;-hoz.</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3552,7 +3556,7 @@ Ismerősönkénti támogatás, ki-be kapcsolása gombbal, a beszélgetésablak e
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>Titkosítás be/ki</translation>
+        <translation type="vanished">Titkosítás be/ki</translation>
     </message>
     <message>
         <source>Add URL</source>
@@ -3708,6 +3712,10 @@ Ha engedélyezni szeretnéd ezt a kérést, nyomd meg az Megerősítés gombot. 
     <message>
         <source>For all</source>
         <translation>Mindnek</translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5013,7 +5021,7 @@ Oka: %1</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation>Hang hívás</translation>
+        <translation type="vanished">Hang hívás</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
@@ -5708,7 +5716,7 @@ Megjegyzés: A kiegészítő csak az &apos;Inbox&apos; mappát ellenőrzi, ha sz
     </message>
     <message>
         <source>e-mail: </source>
-        <translation>E-mail: </translation>
+        <translation type="vanished">E-mail: </translation>
     </message>
     <message>
         <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be enough for your needs.</source>
@@ -5721,6 +5729,10 @@ Megjegyzés: A kiegészítő csak az &apos;Inbox&apos; mappát ellenőrzi, ha sz
     <message>
         <source>Public key %1 sent</source>
         <translation>%1 Publikus Kulcs elküldve</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7742,11 +7754,11 @@ Oka: %1</translation>
     </message>
     <message>
         <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
-        <translation>Ez a program GStreamer %1-t használ, egy széleskörű nyílt forráskódú és platformfüggetlen multimédia-keretrendszer. További információért látogasd meg a következő címet: &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</translation>
+        <translation type="vanished">Ez a program GStreamer %1-t használ, egy széleskörű nyílt forráskódú és platformfüggetlen multimédia-keretrendszer. További információért látogasd meg a következő címet: &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</translation>
     </message>
     <message>
         <source>About GStreamer</source>
-        <translation>A GStreamerről</translation>
+        <translation type="vanished">A GStreamerről</translation>
     </message>
     <message>
         <source>Security Plugins Diagnostic Text</source>
@@ -7805,14 +7817,6 @@ Bejövő esemény(ek) innen:</translation>
         <translation>%1 esemény várakozik</translation>
     </message>
     <message>
-        <source>psimedia is unavailable</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Hide</source>
         <translation>Elrejtés</translation>
     </message>
@@ -7853,7 +7857,7 @@ Bejövő esemény(ek) innen:</translation>
     </message>
     <message>
         <source>About</source>
-        <translation>Névjegy</translation>
+        <translation type="vanished">Névjegy</translation>
     </message>
     <message>
         <source>is a network game chess for two players.
@@ -7869,6 +7873,10 @@ GPL licenc megengedi.
 
 Oroszország, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
+    <message>
+        <source>About plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MessageFilter</name>
@@ -7878,7 +7886,11 @@ Oroszország, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation>E-mail:</translation>
+        <translation type="vanished">E-mail:</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8548,23 +8560,23 @@ Címkék: %1</translation>
     <name>OptAvCall</name>
     <message>
         <source>Form</source>
-        <translation>Űrlap</translation>
+        <translation type="vanished">Űrlap</translation>
     </message>
     <message>
         <source>Audio output:</source>
-        <translation>Hang kimenet:</translation>
+        <translation type="vanished">Hang kimenet:</translation>
     </message>
     <message>
         <source>Audio input:</source>
-        <translation>Hang bemenet:</translation>
+        <translation type="vanished">Hang bemenet:</translation>
     </message>
     <message>
         <source>Video input:</source>
-        <translation>Videó bemenet:</translation>
+        <translation type="vanished">Videó bemenet:</translation>
     </message>
     <message>
         <source>Video support:</source>
-        <translation>Videó támogatás:</translation>
+        <translation type="vanished">Videó támogatás:</translation>
     </message>
 </context>
 <context>
@@ -10305,15 +10317,15 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     <name>OptionsTabAvCall</name>
     <message>
         <source>Voice Calling</source>
-        <translation>Hang hívás</translation>
+        <translation type="vanished">Hang hívás</translation>
     </message>
     <message>
         <source>Audio and video device configuration</source>
-        <translation>Hang és videoeszköz beállítása</translation>
+        <translation type="vanished">Hang és videoeszköz beállítása</translation>
     </message>
     <message>
         <source>Audio device configuration</source>
-        <translation>Hangeszköz beállítása</translation>
+        <translation type="vanished">Hangeszköz beállítása</translation>
     </message>
 </context>
 <context>
@@ -10632,6 +10644,10 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     <message>
         <source>Open plugin settings dialog</source>
         <translation>Kiegészítő beállításai</translation>
+    </message>
+    <message>
+        <source>About plugin</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12921,7 +12937,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Toggle Encryption</source>
-        <translation>Titkosítás be/kikapcsolása</translation>
+        <translation type="vanished">Titkosítás be/kikapcsolása</translation>
     </message>
     <message>
         <source>User Info</source>
@@ -12985,6 +13001,10 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Set Topic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18279,6 +18299,37 @@ Ablak bezárása mégis?</translation>
     </message>
 </context>
 <context>
+    <name>psiomemo::OMEMOPlugin</name>
+    <message>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Credits: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable OMEMO encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO encryption is not available for this group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO encryption is not available for this contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>psiotr::AuthenticationDialog</name>
     <message>
         <source>Authenticate %1</source>
@@ -18604,10 +18655,6 @@ You should authenticate %1 as well by asking your own question.</source>
 </context>
 <context>
     <name>psiotr::PsiOtrPlugin</name>
-    <message>
-        <source>Off-the-Record Messaging plugin for Psi</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Authors: %1</source>
         <translation type="unfinished"></translation>

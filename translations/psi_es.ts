@@ -3080,11 +3080,15 @@ Proceed?</source>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation>Correo: </translation>
+        <translation type="vanished">Correo: </translation>
     </message>
     <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation>Este plugin está diseñado para hacer fácil la descarga e instalación de iconos y otros recursos para Psi+.</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3550,7 +3554,7 @@ Supports per contact on / off message enumeration via the buttons on the chats t
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>Cambiar el cifrado</translation>
+        <translation type="vanished">Cambiar el cifrado</translation>
     </message>
     <message>
         <source>Add URL</source>
@@ -3706,6 +3710,10 @@ Si deseas confirmar esta petición, pulsa el botón Confirmar.  En caso contrari
     </message>
     <message>
         <source>For all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5009,7 +5017,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation>Llamada de Voz</translation>
+        <translation type="vanished">Llamada de Voz</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
@@ -5704,7 +5712,7 @@ Nota: El complemento solo comprueba si hay nuevos mensajes en la raíz de la ban
     </message>
     <message>
         <source>e-mail: </source>
-        <translation>Correo:</translation>
+        <translation type="vanished">Correo:</translation>
     </message>
     <message>
         <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be enough for your needs.</source>
@@ -5717,6 +5725,10 @@ Nota: El complemento solo comprueba si hay nuevos mensajes en la raíz de la ban
     <message>
         <source>Public key %1 sent</source>
         <translation>Llave pública %1 enviada</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7737,12 +7749,12 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
-        <translation>Esta aplicación utiliza GStreamer %1, un completo framework multimedia de código abierto, y multiplataforma.
+        <translation type="vanished">Esta aplicación utiliza GStreamer %1, un completo framework multimedia de código abierto, y multiplataforma.
 Para más información, visita &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</translation>
     </message>
     <message>
         <source>About GStreamer</source>
-        <translation>Acerca de GStreamer</translation>
+        <translation type="vanished">Acerca de GStreamer</translation>
     </message>
     <message>
         <source>Security Plugins Diagnostic Text</source>
@@ -7800,14 +7812,6 @@ Evento(s) entrante(s) de:</translation>
         <translation>%1 eventos recibidos</translation>
     </message>
     <message>
-        <source>psimedia is unavailable</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Hide</source>
         <translation>Ocultar</translation>
     </message>
@@ -7848,7 +7852,7 @@ Evento(s) entrante(s) de:</translation>
     </message>
     <message>
         <source>About</source>
-        <translation>Acerca de</translation>
+        <translation type="vanished">Acerca de</translation>
     </message>
     <message>
         <source>is a network game chess for two players.
@@ -7863,6 +7867,10 @@ Puedes modificar y redistribuir el código fuente porque está bajo GPL.
 
 Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
+    <message>
+        <source>About plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MessageFilter</name>
@@ -7872,7 +7880,11 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation>Correo: </translation>
+        <translation type="vanished">Correo: </translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8542,23 +8554,23 @@ Etiquetas: %1</translation>
     <name>OptAvCall</name>
     <message>
         <source>Form</source>
-        <translation>Form</translation>
+        <translation type="vanished">Form</translation>
     </message>
     <message>
         <source>Audio output:</source>
-        <translation>Salida de audio:</translation>
+        <translation type="vanished">Salida de audio:</translation>
     </message>
     <message>
         <source>Audio input:</source>
-        <translation>Entrada de audio:</translation>
+        <translation type="vanished">Entrada de audio:</translation>
     </message>
     <message>
         <source>Video input:</source>
-        <translation>Entrada de vídeo:</translation>
+        <translation type="vanished">Entrada de vídeo:</translation>
     </message>
     <message>
         <source>Video support:</source>
-        <translation>Soporte de vídeo:</translation>
+        <translation type="vanished">Soporte de vídeo:</translation>
     </message>
 </context>
 <context>
@@ -10298,15 +10310,15 @@ a las personas frecuentemente contactadas por email.</translation>
     <name>OptionsTabAvCall</name>
     <message>
         <source>Voice Calling</source>
-        <translation>Llamada de voz</translation>
+        <translation type="vanished">Llamada de voz</translation>
     </message>
     <message>
         <source>Audio and video device configuration</source>
-        <translation>Configuración de los dispositivos de audio y vídeo</translation>
+        <translation type="vanished">Configuración de los dispositivos de audio y vídeo</translation>
     </message>
     <message>
         <source>Audio device configuration</source>
-        <translation>Configuración de los dispositivos de audio</translation>
+        <translation type="vanished">Configuración de los dispositivos de audio</translation>
     </message>
 </context>
 <context>
@@ -10625,6 +10637,10 @@ a las personas frecuentemente contactadas por email.</translation>
     <message>
         <source>Open plugin settings dialog</source>
         <translation>Abrir la ventana de ajustes del complemento</translation>
+    </message>
+    <message>
+        <source>About plugin</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12912,7 +12928,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Toggle Encryption</source>
-        <translation>Cambiar cifrado</translation>
+        <translation type="vanished">Cambiar cifrado</translation>
     </message>
     <message>
         <source>User Info</source>
@@ -12976,6 +12992,10 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Set Topic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18374,6 +18394,37 @@ Do you still want to close the window?</source>
     </message>
 </context>
 <context>
+    <name>psiomemo::OMEMOPlugin</name>
+    <message>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Credits: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable OMEMO encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO encryption is not available for this group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO encryption is not available for this contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>psiotr::AuthenticationDialog</name>
     <message>
         <source>Authenticate %1</source>
@@ -18703,7 +18754,7 @@ Deberías autenticar a %1 del mismo modo haciéndole una pregunta.</translation>
     <name>psiotr::PsiOtrPlugin</name>
     <message>
         <source>Off-the-Record Messaging plugin for Psi</source>
-        <translation>Complemento de mensajería Off-the-Record para Psi+</translation>
+        <translation type="vanished">Complemento de mensajería Off-the-Record para Psi+</translation>
     </message>
     <message>
         <source>Authors: %1</source>

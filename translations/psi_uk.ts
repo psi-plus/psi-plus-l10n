@@ -3097,11 +3097,15 @@ Proceed?</source>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation>e-mail: </translation>
+        <translation type="vanished">e-mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation>Цей плагін призначений для полегшення завантаження і установки пакетів з іконками та інших ресурсів для Psi +.</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3568,7 +3572,7 @@ Supports per contact on / off message enumeration via the buttons on the chats t
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>Ввімкнути шифрування</translation>
+        <translation type="vanished">Ввімкнути шифрування</translation>
     </message>
     <message>
         <source>Add URL</source>
@@ -3723,6 +3727,10 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <source>For all</source>
         <translation>Для усіх</translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5029,7 +5037,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation>Подзвонити</translation>
+        <translation type="vanished">Подзвонити</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
@@ -5724,7 +5732,7 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     </message>
     <message>
         <source>e-mail: </source>
-        <translation>e-mail: </translation>
+        <translation type="vanished">e-mail: </translation>
     </message>
     <message>
         <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be enough for your needs.</source>
@@ -5737,6 +5745,10 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <message>
         <source>Public key %1 sent</source>
         <translation>Публічний ключ %1 відправлений</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7766,11 +7778,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
-        <translation>Ця програма використовує GStreamer%1 - багатоплатформовий мультимедійний фреймворк c відкритим вихідним кодом. Для отримання додаткової інформації перегляньте &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt; http://www.gstreamer.net/&lt;/a&gt;</translation>
+        <translation type="vanished">Ця програма використовує GStreamer%1 - багатоплатформовий мультимедійний фреймворк c відкритим вихідним кодом. Для отримання додаткової інформації перегляньте &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt; http://www.gstreamer.net/&lt;/a&gt;</translation>
     </message>
     <message>
         <source>About GStreamer</source>
-        <translation>Про GStreamer</translation>
+        <translation type="vanished">Про GStreamer</translation>
     </message>
     <message>
         <source>Security Plugins Diagnostic Text</source>
@@ -7830,11 +7842,11 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>psimedia is unavailable</source>
-        <translation>psimedia недоступна</translation>
+        <translation type="vanished">psimedia недоступна</translation>
     </message>
     <message>
         <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
-        <translation>Плагін PsiMedia не завантажений або не ініціалізований.&lt;br&gt;Відвідайте &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; для детальнішої інформації.</translation>
+        <translation type="vanished">Плагін PsiMedia не завантажений або не ініціалізований.&lt;br&gt;Відвідайте &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; для детальнішої інформації.</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -7877,7 +7889,7 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>About</source>
-        <translation>Про програму</translation>
+        <translation type="vanished">Про програму</translation>
     </message>
     <message>
         <source>is a network game chess for two players.
@@ -7893,6 +7905,10 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
 
 Росія, Тамбов, 2005 (denis@silversoft.net)</translation>
     </message>
+    <message>
+        <source>About plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MessageFilter</name>
@@ -7902,7 +7918,11 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation>e-mail: </translation>
+        <translation type="vanished">e-mail: </translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8572,23 +8592,23 @@ Tags: %1</source>
     <name>OptAvCall</name>
     <message>
         <source>Form</source>
-        <translation>Форма</translation>
+        <translation type="vanished">Форма</translation>
     </message>
     <message>
         <source>Audio output:</source>
-        <translation>Аудіовихід:</translation>
+        <translation type="vanished">Аудіовихід:</translation>
     </message>
     <message>
         <source>Audio input:</source>
-        <translation>Аудіовхід:</translation>
+        <translation type="vanished">Аудіовхід:</translation>
     </message>
     <message>
         <source>Video input:</source>
-        <translation>Відеовхід:</translation>
+        <translation type="vanished">Відеовхід:</translation>
     </message>
     <message>
         <source>Video support:</source>
-        <translation>Підтримка відео:</translation>
+        <translation type="vanished">Підтримка відео:</translation>
     </message>
 </context>
 <context>
@@ -10351,15 +10371,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabAvCall</name>
     <message>
         <source>Voice Calling</source>
-        <translation>Дзвінки</translation>
+        <translation type="vanished">Дзвінки</translation>
     </message>
     <message>
         <source>Audio and video device configuration</source>
-        <translation>Налаштування аудіо/відео</translation>
+        <translation type="vanished">Налаштування аудіо/відео</translation>
     </message>
     <message>
         <source>Audio device configuration</source>
-        <translation>Налаштування аудіо</translation>
+        <translation type="vanished">Налаштування аудіо</translation>
     </message>
 </context>
 <context>
@@ -10678,6 +10698,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Open plugin settings dialog</source>
         <translation>Відкрити діалог налаштувань плагіну</translation>
+    </message>
+    <message>
+        <source>About plugin</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12972,7 +12996,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Toggle Encryption</source>
-        <translation>Переключити шифрування</translation>
+        <translation type="vanished">Переключити шифрування</translation>
     </message>
     <message>
         <source>User Info</source>
@@ -13045,6 +13069,10 @@ Reason: %1.</source>
     <message>
         <source>Set Topic</source>
         <translation>Встановити тему</translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18470,6 +18498,37 @@ Do you still want to close the window?</source>
     </message>
 </context>
 <context>
+    <name>psiomemo::OMEMOPlugin</name>
+    <message>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Credits: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable OMEMO encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO encryption is not available for this group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO encryption is not available for this contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>psiotr::AuthenticationDialog</name>
     <message>
         <source>Authenticate %1</source>
@@ -18799,7 +18858,7 @@ You should authenticate %1 as well by asking your own question.</source>
     <name>psiotr::PsiOtrPlugin</name>
     <message>
         <source>Off-the-Record Messaging plugin for Psi</source>
-        <translation>Плагін OTR для Psi+</translation>
+        <translation type="vanished">Плагін OTR для Psi+</translation>
     </message>
     <message>
         <source>Authors: %1</source>

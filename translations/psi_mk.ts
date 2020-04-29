@@ -2955,11 +2955,11 @@ Proceed?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>e-mail: </source>
+        <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
+        <source>Email: </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3421,7 +3421,7 @@ Supports per contact on / off message enumeration via the buttons on the chats t
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>Вклучи шифрирање</translation>
+        <translation type="vanished">Вклучи шифрирање</translation>
     </message>
     <message>
         <source>Add URL</source>
@@ -3577,6 +3577,10 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>For all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4873,7 +4877,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation>Гласовен повик</translation>
+        <translation type="vanished">Гласовен повик</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
@@ -5515,10 +5519,6 @@ You lost the game.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>e-mail: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be enough for your needs.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5528,6 +5528,10 @@ You lost the game.</source>
     </message>
     <message>
         <source>Public key %1 sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email: </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7484,11 +7488,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
-        <translation>Оваа апликација користи GStreamer %1, опсежна, слободна и повеќе платформска рамка за мултимедија. Повеќе информации има на &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</translation>
+        <translation type="vanished">Оваа апликација користи GStreamer %1, опсежна, слободна и повеќе платформска рамка за мултимедија. Повеќе информации има на &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</translation>
     </message>
     <message>
         <source>About GStreamer</source>
-        <translation>За GStreamer</translation>
+        <translation type="vanished">За GStreamer</translation>
     </message>
     <message>
         <source>Security Plugins Diagnostic Text</source>
@@ -7545,14 +7549,6 @@ Incoming event(s) from:</source>
         <translation>%1 примени настани</translation>
     </message>
     <message>
-        <source>psimedia is unavailable</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Hide</source>
         <translation>Скриј</translation>
     </message>
@@ -7593,7 +7589,7 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>About</source>
-        <translation>За</translation>
+        <translation type="vanished">За</translation>
     </message>
     <message>
         <source>is a network game chess for two players.
@@ -7604,6 +7600,10 @@ because it is under GPL.
 Russia, Tambov, 2005 (denis@silversoft.net)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>About plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MessageFilter</name>
@@ -7612,7 +7612,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>e-mail: </source>
+        <source>Email: </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8274,29 +8274,6 @@ Tags: %1</source>
     </message>
     <message>
         <source>99999</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>OptAvCall</name>
-    <message>
-        <source>Form</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Audio output:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Audio input:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Video input:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Video support:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9922,15 +9899,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabAvCall</name>
     <message>
         <source>Voice Calling</source>
-        <translation>Гласовен повик</translation>
+        <translation type="vanished">Гласовен повик</translation>
     </message>
     <message>
         <source>Audio and video device configuration</source>
-        <translation>Конфигурирање на уред за аудио и видео</translation>
+        <translation type="vanished">Конфигурирање на уред за аудио и видео</translation>
     </message>
     <message>
         <source>Audio device configuration</source>
-        <translation>Конфигурирање на уред за аудио</translation>
+        <translation type="vanished">Конфигурирање на уред за аудио</translation>
     </message>
 </context>
 <context>
@@ -10247,6 +10224,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Open plugin settings dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About plugin</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12486,7 +12467,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Toggle Encryption</source>
-        <translation>Вклучи шифрирање</translation>
+        <translation type="vanished">Вклучи шифрирање</translation>
     </message>
     <message>
         <source>User Info</source>
@@ -12550,6 +12531,10 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Set Topic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17736,6 +17721,37 @@ Do you still want to close the window?</source>
     </message>
 </context>
 <context>
+    <name>psiomemo::OMEMOPlugin</name>
+    <message>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Credits: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable OMEMO encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO encryption is not available for this group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO encryption is not available for this contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>psiotr::AuthenticationDialog</name>
     <message>
         <source>Authenticate %1</source>
@@ -18061,10 +18077,6 @@ You should authenticate %1 as well by asking your own question.</source>
 </context>
 <context>
     <name>psiotr::PsiOtrPlugin</name>
-    <message>
-        <source>Off-the-Record Messaging plugin for Psi</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Authors: %1</source>
         <translation type="unfinished"></translation>
