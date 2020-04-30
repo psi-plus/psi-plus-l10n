@@ -3686,7 +3686,7 @@ Ako želite da prihvtite ovaj zahtev, molimo pritisnite Confirm dugme. U suprotn
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enable OpenPGP encryption</source>
+        <source>OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11088,7 +11088,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Key Storage Diagnostic Text</source>
-        <translation>Dijagnostičkti tekst ključa skladišta</translation>
+        <translation type="vanished">Dijagnostičkti tekst ključa skladišta</translation>
+    </message>
+    <message>
+        <source>GnuPG info</source>
+        <translation type="unfinished">GnuPG info</translation>
     </message>
 </context>
 <context>
@@ -12883,7 +12887,7 @@ Reason: %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enable OpenPGP encryption</source>
+        <source>OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12946,6 +12950,30 @@ Reason: %1.</source>
     <message>
         <source>OpenPGP key is not set in your account settings!</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint for account &quot;%1&quot;: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assign Open&amp;PGP Key</source>
+        <translation type="unfinished">Dodeli otvoreni&amp;PGP ključ</translation>
+    </message>
+    <message>
+        <source>Unassign Open&amp;PGP Key</source>
+        <translation type="unfinished">Oduzmi otvoreni&amp;PGP ključ</translation>
+    </message>
+    <message>
+        <source>Show own &amp;fingerprint</source>
+        <translation type="unfinished">Pokaži sopstveni &amp;otisak</translation>
     </message>
 </context>
 <context>

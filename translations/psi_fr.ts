@@ -3709,7 +3709,7 @@ Si vous souhaitez confirmer cette demande, cliquez sur le bouton de confirmation
         <translation>Pour tous</translation>
     </message>
     <message>
-        <source>Enable OpenPGP encryption</source>
+        <source>OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11066,7 +11066,11 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>Key Storage Diagnostic Text</source>
-        <translation>Diagnostic du stockage des clés</translation>
+        <translation type="vanished">Diagnostic du stockage des clés</translation>
+    </message>
+    <message>
+        <source>GnuPG info</source>
+        <translation type="unfinished">info GnuPG</translation>
     </message>
 </context>
 <context>
@@ -12874,7 +12878,7 @@ Cause: %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enable OpenPGP encryption</source>
+        <source>OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12936,6 +12940,30 @@ Cause: %1.</translation>
     </message>
     <message>
         <source>OpenPGP key is not set in your account settings!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint for account &quot;%1&quot;: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assign Open&amp;PGP Key</source>
+        <translation type="unfinished">Assigner une clé Open&amp;PGP</translation>
+    </message>
+    <message>
+        <source>Unassign Open&amp;PGP Key</source>
+        <translation type="unfinished">Dé-assigner la clé Open&amp;PGP</translation>
+    </message>
+    <message>
+        <source>Show own &amp;fingerprint</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

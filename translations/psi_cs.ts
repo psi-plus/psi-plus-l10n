@@ -3714,7 +3714,7 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
         <translation>Pro všechny</translation>
     </message>
     <message>
-        <source>Enable OpenPGP encryption</source>
+        <source>OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11157,7 +11157,11 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Key Storage Diagnostic Text</source>
-        <translation>Diagnostický text uložiště klíčů</translation>
+        <translation type="vanished">Diagnostický text uložiště klíčů</translation>
+    </message>
+    <message>
+        <source>GnuPG info</source>
+        <translation type="unfinished">GnuPG info</translation>
     </message>
 </context>
 <context>
@@ -12965,7 +12969,7 @@ Důvod: %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enable OpenPGP encryption</source>
+        <source>OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13028,6 +13032,30 @@ Důvod: %1.</translation>
     <message>
         <source>OpenPGP key is not set in your account settings!</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint for account &quot;%1&quot;: %2</source>
+        <translation type="unfinished">Otisk klíče pro účet &quot;%1&quot;: %2</translation>
+    </message>
+    <message>
+        <source>OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assign Open&amp;PGP Key</source>
+        <translation type="unfinished">Přidělit Open&amp;PGP klíč</translation>
+    </message>
+    <message>
+        <source>Unassign Open&amp;PGP Key</source>
+        <translation type="unfinished">Odebrat Open&amp;PGP Klíč</translation>
+    </message>
+    <message>
+        <source>Show own &amp;fingerprint</source>
+        <translation type="unfinished">Zobrazit &amp;vlastní otisk klíče</translation>
     </message>
 </context>
 <context>

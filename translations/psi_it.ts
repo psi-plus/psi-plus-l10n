@@ -3725,7 +3725,7 @@ Se vuoi confermare questa richeista, premi il tasto Conferma. Altrimenti premi i
         <translation>Per tutti</translation>
     </message>
     <message>
-        <source>Enable OpenPGP encryption</source>
+        <source>OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11248,7 +11248,11 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Key Storage Diagnostic Text</source>
-        <translation>Test Diagostico Deposito Chiavi</translation>
+        <translation type="vanished">Test Diagostico Deposito Chiavi</translation>
+    </message>
+    <message>
+        <source>GnuPG info</source>
+        <translation type="unfinished">Informazioni GnuPG</translation>
     </message>
 </context>
 <context>
@@ -13070,7 +13074,7 @@ Motivo: %1.</translation>
         <translation>Imposta argomento</translation>
     </message>
     <message>
-        <source>Enable OpenPGP encryption</source>
+        <source>OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13133,6 +13137,30 @@ Motivo: %1.</translation>
     <message>
         <source>OpenPGP key is not set in your account settings!</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint for account &quot;%1&quot;: %2</source>
+        <translation type="unfinished">Impronta digitale per account &quot;%1&quot;: %2</translation>
+    </message>
+    <message>
+        <source>OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assign Open&amp;PGP Key</source>
+        <translation type="unfinished">Assegna Chiave Open&amp;PGP</translation>
+    </message>
+    <message>
+        <source>Unassign Open&amp;PGP Key</source>
+        <translation type="unfinished">Rimuovi Chiave Open&amp;PGP</translation>
+    </message>
+    <message>
+        <source>Show own &amp;fingerprint</source>
+        <translation type="unfinished">Mostra propria &amp;impronta digitale</translation>
     </message>
 </context>
 <context>

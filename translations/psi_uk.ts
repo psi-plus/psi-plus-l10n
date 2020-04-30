@@ -3730,7 +3730,11 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Enable OpenPGP encryption</source>
-        <translation>Увімкнути шифрування OpenPGP</translation>
+        <translation type="vanished">Увімкнути шифрування OpenPGP</translation>
+    </message>
+    <message>
+        <source>OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11252,7 +11256,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Key Storage Diagnostic Text</source>
-        <translation>Діагностичне повідомлення сховища ключів</translation>
+        <translation type="vanished">Діагностичне повідомлення сховища ключів</translation>
+    </message>
+    <message>
+        <source>GnuPG info</source>
+        <translation type="unfinished">Інформація GnuPG</translation>
     </message>
 </context>
 <context>
@@ -13076,7 +13084,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Enable OpenPGP encryption</source>
-        <translation>Увімкнути шифрування OpenPGP</translation>
+        <translation type="vanished">Увімкнути шифрування OpenPGP</translation>
+    </message>
+    <message>
+        <source>OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13138,6 +13150,30 @@ Reason: %1.</source>
     <message>
         <source>OpenPGP key is not set in your account settings!</source>
         <translation>Ключ OpenPGP не встановлений у налаштуваннях вашого акаунта!</translation>
+    </message>
+    <message>
+        <source>Fingerprint for account &quot;%1&quot;: %2</source>
+        <translation type="unfinished">Відбиток для акаунту &quot;%1&quot;: %2</translation>
+    </message>
+    <message>
+        <source>OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assign Open&amp;PGP Key</source>
+        <translation type="unfinished">Призначити ключ Open&amp;PGP</translation>
+    </message>
+    <message>
+        <source>Unassign Open&amp;PGP Key</source>
+        <translation type="unfinished">Скасувати ключ Open&amp;PGP</translation>
+    </message>
+    <message>
+        <source>Show own &amp;fingerprint</source>
+        <translation type="unfinished">Показати свій відбито&amp;к</translation>
     </message>
 </context>
 <context>

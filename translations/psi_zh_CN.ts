@@ -3712,7 +3712,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <translation>所有</translation>
     </message>
     <message>
-        <source>Enable OpenPGP encryption</source>
+        <source>OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11209,7 +11209,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Key Storage Diagnostic Text</source>
-        <translation>钥匙储存诊断文字</translation>
+        <translation type="vanished">钥匙储存诊断文字</translation>
+    </message>
+    <message>
+        <source>GnuPG info</source>
+        <translation type="unfinished">GunPG信息</translation>
     </message>
 </context>
 <context>
@@ -13030,7 +13034,7 @@ Reason: %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enable OpenPGP encryption</source>
+        <source>OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13093,6 +13097,30 @@ Reason: %1.</source>
     <message>
         <source>OpenPGP key is not set in your account settings!</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint for account &quot;%1&quot;: %2</source>
+        <translation type="unfinished">账户 &quot;%1&quot; 的指纹 : %2</translation>
+    </message>
+    <message>
+        <source>OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assign Open&amp;PGP Key</source>
+        <translation type="unfinished">分配Open&amp;PGP秘钥</translation>
+    </message>
+    <message>
+        <source>Unassign Open&amp;PGP Key</source>
+        <translation type="unfinished">取消分配Open&amp;PGP秘钥</translation>
+    </message>
+    <message>
+        <source>Show own &amp;fingerprint</source>
+        <translation type="unfinished">显示自己的指纹(&amp;F)</translation>
     </message>
 </context>
 <context>

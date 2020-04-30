@@ -3714,7 +3714,7 @@ Ha engedélyezni szeretnéd ezt a kérést, nyomd meg az Megerősítés gombot. 
         <translation>Mindnek</translation>
     </message>
     <message>
-        <source>Enable OpenPGP encryption</source>
+        <source>OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11198,7 +11198,11 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Key Storage Diagnostic Text</source>
-        <translation>A tárolt kulcsok adatai</translation>
+        <translation type="vanished">A tárolt kulcsok adatai</translation>
+    </message>
+    <message>
+        <source>GnuPG info</source>
+        <translation type="unfinished">GnuPG info</translation>
     </message>
 </context>
 <context>
@@ -13008,7 +13012,7 @@ Oka: %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enable OpenPGP encryption</source>
+        <source>OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13070,6 +13074,30 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>OpenPGP key is not set in your account settings!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint for account &quot;%1&quot;: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable OpenPGP encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assign Open&amp;PGP Key</source>
+        <translation type="unfinished">&amp;OpenPGP-kulcs hozzárendelése</translation>
+    </message>
+    <message>
+        <source>Unassign Open&amp;PGP Key</source>
+        <translation type="unfinished">&amp;OpenPGP-kulcs törlése</translation>
+    </message>
+    <message>
+        <source>Show own &amp;fingerprint</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
