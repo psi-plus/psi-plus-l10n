@@ -1151,7 +1151,7 @@ save the history for this contact.</source>
     </message>
     <message>
         <source>Email address: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email адреса: </translation>
     </message>
 </context>
 <context>
@@ -8018,7 +8018,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>Email</translation>
     </message>
 </context>
 <context>
@@ -15470,51 +15470,51 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>New OMEMO device has been discovered for &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Виявлено новий пристрій OMEMO для &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Do you want to trust this device and allow it to decrypt copies of your messages?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви хочете довіряти цьому пристрою та дозволити йому розшифрувати копії ваших повідомлень?</translation>
     </message>
     <message>
         <source>Do you want to trust this device and allow it to receive the encrypted messages from you?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви хочете довіряти цьому пристрою та дозволити йому отримувати від вас зашифровані повідомлення?</translation>
     </message>
     <message>
         <source>Device public key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Публічний ключ пристрою:</translation>
     </message>
     <message>
         <source>Managing of OMEMO keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Управління ключами OMEMO</translation>
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished"></translation>
+        <translation>Довіряти</translation>
     </message>
     <message>
         <source>Do Not Trust</source>
-        <translation type="unfinished"></translation>
+        <translation>Не довіряти</translation>
     </message>
     <message>
         <source>Delete selected device from list of known devices of user &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалити вибраний пристрій зі списку відомих пристроїв користувача &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Confirm action</source>
-        <translation type="unfinished"></translation>
+        <translation>Підтвердити дію</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Видалити</translation>
+        <translation>Видалити</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Скасувати</translation>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <source>verified</source>
-        <translation type="unfinished"></translation>
+        <translation>перевірено</translation>
     </message>
 </context>
 <context>
@@ -18601,57 +18601,57 @@ Do you still want to close the window?</source>
     <name>psiomemo::ConfigWidget</name>
     <message>
         <source>Fingerprints</source>
-        <translation type="unfinished"></translation>
+        <translation>Відбитки</translation>
     </message>
     <message>
         <source>Own Fingerprint</source>
-        <translation type="unfinished"></translation>
+        <translation>Власний відбиток</translation>
     </message>
     <message>
         <source>Manage Devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Керування пристроями</translation>
     </message>
 </context>
 <context>
     <name>psiomemo::KnownFingerprints</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Видалити</translation>
+        <translation>Видалити</translation>
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished"></translation>
+        <translation>Довіряти</translation>
     </message>
     <message>
         <source>Revoke</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкликати</translation>
     </message>
     <message>
         <source>Contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Контакт</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Відбиток</translation>
+        <translation>Відбиток</translation>
     </message>
     <message>
         <source>trusted</source>
-        <translation type="unfinished"></translation>
+        <translation>довірений</translation>
     </message>
     <message>
         <source>untrusted</source>
-        <translation type="unfinished"></translation>
+        <translation>ненадійний</translation>
     </message>
 </context>
 <context>
     <name>psiomemo::ManageDevices</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Видалити</translation>
+        <translation>Видалити</translation>
     </message>
     <message>
         <source>Device ID</source>
-        <translation type="unfinished"></translation>
+        <translation>ID пристрою</translation>
     </message>
 </context>
 <context>
@@ -18685,7 +18685,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Credits: </source>
-        <translation>Розробники:</translation>
+        <translation>Подяки:</translation>
     </message>
     <message>
         <source>Enable OMEMO encryption</source>
@@ -18717,18 +18717,18 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Manage contact fingerprints</source>
-        <translation type="unfinished"></translation>
+        <translation>Управління відбитками контакту</translation>
     </message>
 </context>
 <context>
     <name>psiomemo::OwnFingerprint</name>
     <message>
         <source>Device ID: </source>
-        <translation type="unfinished"></translation>
+        <translation>ID пристрою:</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished">Відбиток: </translation>
+        <translation>Відбиток: </translation>
     </message>
 </context>
 <context>
@@ -19369,7 +19369,7 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Email:</source>
-        <translation type="unfinished">Email:</translation>
+        <translation>Email:</translation>
     </message>
 </context>
 <context>
