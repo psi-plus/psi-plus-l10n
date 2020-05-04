@@ -1117,15 +1117,15 @@ zapisywał historii dla tego kontaktu.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>E-mail address: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Key type: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Repeat: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email address: </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7868,10 +7868,6 @@ Details: %1</source>
         <translation>Nazwa</translation>
     </message>
     <message>
-        <source>E-Mail</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Created</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7913,6 +7909,10 @@ Details: %1</source>
     </message>
     <message>
         <source>Expiration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15175,6 +15175,54 @@ Thanks for your patience.</source>
         <source>Open Files For Sharing</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>New OMEMO device has been discovered for &quot;%1&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to trust this device and allow it to decrypt copies of your messages?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to trust this device and allow it to receive the encrypted messages from you?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device public key:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Managing of OMEMO keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do Not Trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete selected device from list of known devices of user &quot;%1&quot;?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>verified</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -18107,6 +18155,63 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     </message>
 </context>
 <context>
+    <name>psiomemo::ConfigWidget</name>
+    <message>
+        <source>Fingerprints</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own Fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage Devices</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>psiomemo::KnownFingerprints</name>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Revoke</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>trusted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>untrusted</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>psiomemo::ManageDevices</name>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>psiomemo::OMEMO</name>
     <message>
         <source>The following message is from an untrusted device:</source>
@@ -18165,6 +18270,21 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     </message>
     <message>
         <source>OMEMO encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage contact fingerprints</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>psiomemo::OwnFingerprint</name>
+    <message>
+        <source>Device ID: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint: </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18792,11 +18912,15 @@ do tej wiadomości w juick@conference.jabber.ru</translation>
     </message>
     <message>
         <source>E-Mail:</source>
-        <translation>E-mail:</translation>
+        <translation type="vanished">E-mail:</translation>
     </message>
     <message>
         <source>Close</source>
         <translation>Zamknij</translation>
+    </message>
+    <message>
+        <source>Email:</source>
+        <translation type="unfinished">Email:</translation>
     </message>
 </context>
 <context>
