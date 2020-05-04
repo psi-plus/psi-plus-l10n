@@ -1601,6 +1601,10 @@ La lista delle eccezioni per jid ha due modalità di funzionamento:
         <source>Call negotiation failed.</source>
         <translation>Negoziazione della chiamata fallita.</translation>
     </message>
+    <message>
+        <source>An attempt to send a video file over the call but file name is not set</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AvatarDelegate</name>
@@ -18519,6 +18523,25 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
 </context>
 <context>
+    <name>psiomemo::OMEMO</name>
+    <message>
+        <source>The following message is from an untrusted device:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[UNTRUSTED]: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to build any sessions, the message was not sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 does not seem to support OMEMO, disabling for the entire group!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>psiomemo::OMEMOPlugin</name>
     <message>
         <source>Author: </source>
@@ -18545,7 +18568,19 @@ Vuoi ancora chiudere la finestra?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>OMEMO encryption is enabled</source>
+        <source>Fingerprint for account &quot;%1&quot;: %2</source>
+        <translation type="unfinished">Impronta digitale per account &quot;%1&quot;: %2</translation>
+    </message>
+    <message>
+        <source>Disable OMEMO encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show own &amp;fingerprint</source>
+        <translation type="unfinished">Mostra propria &amp;impronta digitale</translation>
+    </message>
+    <message>
+        <source>OMEMO encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
