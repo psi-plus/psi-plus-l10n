@@ -226,7 +226,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; per ulteriori dettagli!</tra
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cross-platform XMPP client aimed at experienced users.&lt;br/&gt;&lt;br/&gt;Copyright © 2001-2020 The Psi Team.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Client XMPP multipiattaforma rivolto a utenti esperti.&lt;br/&gt;&lt;br/&gt;Copyright © 2001-2020 Il Team Psi.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Client XMPP multipiattaforma rivolto a utenti esperti.&lt;br/&gt;&lt;br/&gt;Copyright © 2001-2020 Il Team Psi.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Past Lead Widget Developer</source>
@@ -283,6 +283,14 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; per ulteriori dettagli!</tra
     <message>
         <source>About Psi</source>
         <translation>Informazioni su Psi</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cross-platform XMPP client aimed at experienced users.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2819,7 +2827,7 @@ Nota: per funzionare correttamente, la barra degli strumenti della conferenza de
     <name>ContactListDragView</name>
     <message>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation type="vanished">%1 (%2)</translation>
     </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
@@ -2916,7 +2924,7 @@ Procedere?</translation>
     <name>ContactListViewDelegate::Private</name>
     <message>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation type="vanished">%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -7648,7 +7656,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation type="vanished">%1 (%2)</translation>
     </message>
     <message>
         <source>No response from server for %1 seconds</source>
