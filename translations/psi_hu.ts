@@ -273,10 +273,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation>Psi+ névjegye</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cross-platform XMPP client aimed at experienced users.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1600,10 +1596,6 @@ A JID-ek kivétellistájának 2 beállítása van:
     <message>
         <source>Call negotiation failed.</source>
         <translation>Hívásegyeztetés meghiúsult.</translation>
-    </message>
-    <message>
-        <source>An attempt to send a video file over the call but file name is not set</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9550,7 +9542,7 @@ A beállításnevek nem lehetnek üresek, vagy végződhetnek pontra, nem tartal
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts
 is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
-        <translation>Ha ezt a kiegészítőt először használod, bizonyosodj meg róla, hogy minden fiókod
+        <translation type="vanished">Ha ezt a kiegészítőt először használod, bizonyosodj meg róla, hogy minden fiókod
 Elérhető, és csak azután kattints a &quot;Születésnapok frissítése&quot; gombra. Eltart egy darabig.</translation>
     </message>
     <message>
@@ -10075,6 +10067,10 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Color for incoming messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you use this plugin at first time, make sure that all your accounts is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18409,10 +18405,6 @@ Ablak bezárása mégis?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Own Fingerprint</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Manage Devices</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18456,6 +18448,18 @@ Ablak bezárása mégis?</translation>
     </message>
     <message>
         <source>Device ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device ID: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint: </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18522,17 +18526,6 @@ Ablak bezárása mégis?</translation>
     </message>
     <message>
         <source>Manage contact fingerprints</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>psiomemo::OwnFingerprint</name>
-    <message>
-        <source>Device ID: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fingerprint: </source>
         <translation type="unfinished"></translation>
     </message>
 </context>

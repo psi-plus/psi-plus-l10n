@@ -269,10 +269,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation>Пра «Псі»</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cross-platform XMPP client aimed at experienced users.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1593,10 +1589,6 @@ The list of exceptions for jids has two operating modes:
     <message>
         <source>Call negotiation failed.</source>
         <translation>Не ўдалося ўзгадніць выклік.</translation>
-    </message>
-    <message>
-        <source>An attempt to send a video file over the call but file name is not set</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9521,7 +9513,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts
 is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
-        <translation>Калі карыстаецеся ўбудоваю ўпершыню, упэўніцеся, што ўсе рахункі
+        <translation type="vanished">Калі карыстаецеся ўбудоваю ўпершыню, упэўніцеся, што ўсе рахункі
 ў сетцы, а потым націсьніце кнопку «Абнавіць народзіны». На гэта спатрэбіцца пэўны час.</translation>
     </message>
     <message>
@@ -10054,6 +10046,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Color for incoming messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you use this plugin at first time, make sure that all your accounts is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18470,10 +18466,6 @@ Do you still want to close the window?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Own Fingerprint</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Manage Devices</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18518,6 +18510,18 @@ Do you still want to close the window?</source>
     <message>
         <source>Device ID</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device ID: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint: </source>
+        <translation type="unfinished">Адбітак: </translation>
     </message>
 </context>
 <context>
@@ -18589,12 +18593,8 @@ Do you still want to close the window?</source>
 <context>
     <name>psiomemo::OwnFingerprint</name>
     <message>
-        <source>Device ID: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished">Адбітак: </translation>
+        <translation type="obsolete">Адбітак: </translation>
     </message>
 </context>
 <context>

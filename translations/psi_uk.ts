@@ -286,10 +286,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation>Про Psi+</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cross-platform XMPP client aimed at experienced users.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1622,7 +1618,7 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>An attempt to send a video file over the call but file name is not set</source>
-        <translation>Спроба надіслати відеофайл через дзвінок, але ім&apos;я файлу не встановлено</translation>
+        <translation type="vanished">Спроба надіслати відеофайл через дзвінок, але ім&apos;я файлу не встановлено</translation>
     </message>
 </context>
 <context>
@@ -9601,7 +9597,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts
 is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
-        <translation>Якщо Ви використовуєте плагін вперше — перевірте, щоб всі Ваші акаунти 
+        <translation type="vanished">Якщо Ви використовуєте плагін вперше — перевірте, щоб всі Ваші акаунти 
 підключено і після цього натисніть &quot;Оновити дні народження&quot;. Це займе деякий час.</translation>
     </message>
     <message>
@@ -10134,6 +10130,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Color for incoming messages numbers</source>
         <translation>Колір для номерів вхідних повідомлень</translation>
+    </message>
+    <message>
+        <source>If you use this plugin at first time, make sure that all your accounts is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18613,7 +18613,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Own Fingerprint</source>
-        <translation>Власний відбиток</translation>
+        <translation type="vanished">Власний відбиток</translation>
     </message>
     <message>
         <source>Manage Devices</source>
@@ -18660,6 +18660,18 @@ Do you still want to close the window?</source>
     <message>
         <source>Device ID</source>
         <translation>ID пристрою</translation>
+    </message>
+    <message>
+        <source>Current device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device ID: </source>
+        <translation type="unfinished">ID пристрою:</translation>
+    </message>
+    <message>
+        <source>Fingerprint: </source>
+        <translation type="unfinished">Відбиток: </translation>
     </message>
 </context>
 <context>
@@ -18732,11 +18744,11 @@ Do you still want to close the window?</source>
     <name>psiomemo::OwnFingerprint</name>
     <message>
         <source>Device ID: </source>
-        <translation>ID пристрою:</translation>
+        <translation type="vanished">ID пристрою:</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation>Відбиток: </translation>
+        <translation type="vanished">Відбиток: </translation>
     </message>
 </context>
 <context>

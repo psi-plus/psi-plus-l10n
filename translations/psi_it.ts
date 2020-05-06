@@ -285,10 +285,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; per ulteriori dettagli!</tra
         <translation>Informazioni su Psi</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cross-platform XMPP client aimed at experienced users.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1612,10 +1608,6 @@ La lista delle eccezioni per jid ha due modalità di funzionamento:
     <message>
         <source>Call negotiation failed.</source>
         <translation>Negoziazione della chiamata fallita.</translation>
-    </message>
-    <message>
-        <source>An attempt to send a video file over the call but file name is not set</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9597,7 +9589,7 @@ I nomi delle opzioni non possono essere vuoti, finire con &apos;.&apos; o conten
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts
 is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
-        <translation>Se usi questo plugin per la prima volta, assicurati che tutti i tuoi account
+        <translation type="vanished">Se usi questo plugin per la prima volta, assicurati che tutti i tuoi account
 siano connessi e schiaccia il pulsante &quot;Aggiorna Compleanni&quot;. Occorre un po&apos; di tempo.</translation>
     </message>
     <message>
@@ -10130,6 +10122,10 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     <message>
         <source>Color for incoming messages numbers</source>
         <translation>Colore per i numeri di messaggi in arrivo</translation>
+    </message>
+    <message>
+        <source>If you use this plugin at first time, make sure that all your accounts is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18593,10 +18589,6 @@ Vuoi ancora chiudere la finestra?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Own Fingerprint</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Manage Devices</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18641,6 +18633,18 @@ Vuoi ancora chiudere la finestra?</translation>
     <message>
         <source>Device ID</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device ID: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint: </source>
+        <translation type="unfinished">Impronta digitale:</translation>
     </message>
 </context>
 <context>
@@ -18712,12 +18716,8 @@ Vuoi ancora chiudere la finestra?</translation>
 <context>
     <name>psiomemo::OwnFingerprint</name>
     <message>
-        <source>Device ID: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished">Impronta digitale:</translation>
+        <translation type="obsolete">Impronta digitale:</translation>
     </message>
 </context>
 <context>

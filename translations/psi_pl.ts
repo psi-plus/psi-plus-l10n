@@ -265,10 +265,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation>O Psi</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cross-platform XMPP client aimed at experienced users.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1577,10 +1573,6 @@ Lista wyjątków JID&apos;ów posiada dwa tryby pracy:
     <message>
         <source>Call negotiation failed.</source>
         <translation>Negocjowanie połączenia nie powiodło się.</translation>
-    </message>
-    <message>
-        <source>An attempt to send a video file over the call but file name is not set</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9473,7 +9465,7 @@ Nazwa nie może być pusta, zakończona &apos;.&apos; lub zawierać &apos;..&apo
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts
 is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
-        <translation>Jeśli korzystasz z tej wtyczki pierwszy raz, upewnij się, że wszystkie twoje konta maja status aktywny i kliknij przycisk &quot;Aktualizuj urodziny&quot;. To zajmuje trochę czasu.</translation>
+        <translation type="vanished">Jeśli korzystasz z tej wtyczki pierwszy raz, upewnij się, że wszystkie twoje konta maja status aktywny i kliknij przycisk &quot;Aktualizuj urodziny&quot;. To zajmuje trochę czasu.</translation>
     </message>
     <message>
         <source>Update Birthdays</source>
@@ -9911,6 +9903,10 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     </message>
     <message>
         <source>Color for incoming messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you use this plugin at first time, make sure that all your accounts is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18165,10 +18161,6 @@ Czy nadal chcesz zamknąć tablicę?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Own Fingerprint</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Manage Devices</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18212,6 +18204,18 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     </message>
     <message>
         <source>Device ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device ID: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint: </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18278,17 +18282,6 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     </message>
     <message>
         <source>Manage contact fingerprints</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>psiomemo::OwnFingerprint</name>
-    <message>
-        <source>Device ID: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fingerprint: </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
