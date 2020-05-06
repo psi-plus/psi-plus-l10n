@@ -15380,10 +15380,6 @@ Děkujeme za trpělivost.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Do Not Trust</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Delete selected device from list of known devices of user &quot;%1&quot;?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15401,6 +15397,10 @@ Děkujeme za trpělivost.</translation>
     </message>
     <message>
         <source>verified</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not trust</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18421,10 +18421,6 @@ Opravdu zavřít okno?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Revoke</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Contact</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18438,6 +18434,14 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>untrusted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>not decided</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18456,12 +18460,42 @@ Opravdu zavřít okno?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Device ID: </source>
+        <source>Fingerprint: </source>
+        <translation type="unfinished">Otisk klíče: </translation>
+    </message>
+    <message>
+        <source>Delete all OMEMO data for current device</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Fingerprint: </source>
-        <translation type="unfinished">Otisk klíče: </translation>
+        <source>Other devices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation type="unfinished">Otisk klíče</translation>
+    </message>
+    <message>
+        <source>Deleting of all OMEMO data for current device will cause to a number of consequences:
+1) All started OMEMO sessions will be forgotten.
+2) You will lose access to encrypted history stored for current device on server side.
+3) New device ID and keys pair will be generated.
+4) You will need to verify keys for all devices of your contacts again.
+5) Your contacts will need to verify new device before you start receive messages from them.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete current device?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>After deleting of device from list of available devices it stops receiving offline messages from your contacts until it will become online and your contacts mark it as trusted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete selected device?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

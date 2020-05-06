@@ -15491,7 +15491,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Do Not Trust</source>
-        <translation>Не доверять</translation>
+        <translation type="vanished">Не доверять</translation>
     </message>
     <message>
         <source>Delete selected device from list of known devices of user &quot;%1&quot;?</source>
@@ -15512,6 +15512,10 @@ Thanks for your patience.</source>
     <message>
         <source>verified</source>
         <translation>проверенный</translation>
+    </message>
+    <message>
+        <source>Do not trust</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18628,7 +18632,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Revoke</source>
-        <translation>Отозвать</translation>
+        <translation type="vanished">Отозвать</translation>
     </message>
     <message>
         <source>Contact</source>
@@ -18645,6 +18649,14 @@ Do you still want to close the window?</source>
     <message>
         <source>untrusted</source>
         <translation>недоверенный</translation>
+    </message>
+    <message>
+        <source>Do not trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>not decided</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18663,11 +18675,45 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Device ID: </source>
-        <translation>ID устройства: </translation>
+        <translation type="vanished">ID устройства: </translation>
     </message>
     <message>
         <source>Fingerprint: </source>
         <translation>Отпечаток: </translation>
+    </message>
+    <message>
+        <source>Delete all OMEMO data for current device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Other devices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation type="unfinished">Отпечаток</translation>
+    </message>
+    <message>
+        <source>Deleting of all OMEMO data for current device will cause to a number of consequences:
+1) All started OMEMO sessions will be forgotten.
+2) You will lose access to encrypted history stored for current device on server side.
+3) New device ID and keys pair will be generated.
+4) You will need to verify keys for all devices of your contacts again.
+5) Your contacts will need to verify new device before you start receive messages from them.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete current device?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>After deleting of device from list of available devices it stops receiving offline messages from your contacts until it will become online and your contacts mark it as trusted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete selected device?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
