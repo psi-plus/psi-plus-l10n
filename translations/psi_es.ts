@@ -2801,7 +2801,7 @@ Nota: Para su correcto funcionamiento, la barra de herramientas &quot;Sala de ch
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="unfinished"></translation>
+        <translation>Salas</translation>
     </message>
 </context>
 <context>
@@ -3096,7 +3096,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email:</translation>
     </message>
 </context>
 <context>
@@ -5736,7 +5736,7 @@ Nota: El complemento solo comprueba si hay nuevos mensajes en la raíz de la ban
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email:</translation>
     </message>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
@@ -7896,7 +7896,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email:</translation>
     </message>
 </context>
 <context>
@@ -11211,7 +11211,7 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation type="unfinished">Información GnuPG</translation>
+        <translation>Información GnuPG</translation>
     </message>
 </context>
 <context>
@@ -13085,7 +13085,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Fingerprint for account &quot;%1&quot;: %2</source>
-        <translation type="unfinished">Huella para la cuenta «%1»: %2</translation>
+        <translation>Huella para la cuenta «%1»: %2</translation>
     </message>
     <message>
         <source>OpenPGP encryption</source>
@@ -13097,15 +13097,15 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
-        <translation type="unfinished">Asignar llave Open&amp;PGP</translation>
+        <translation>Asignar llave Open&amp;PGP</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation type="unfinished">Quitar llave Open&amp;PGP</translation>
+        <translation>Quitar llave Open&amp;PGP</translation>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
-        <translation type="unfinished">Mostrar propia huella &amp;digital</translation>
+        <translation>Mostrar propia huella &amp;digital</translation>
     </message>
 </context>
 <context>
@@ -15423,11 +15423,11 @@ Gracias por tu paciencia.</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Borrar</translation>
+        <translation>Borrar</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>verified</source>
@@ -18512,7 +18512,7 @@ Do you still want to close the window?</source>
     <name>psiomemo::KnownFingerprints</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Borrar</translation>
+        <translation>Borrar</translation>
     </message>
     <message>
         <source>Trust</source>
@@ -18524,7 +18524,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Huella</translation>
+        <translation>Huella</translation>
     </message>
     <message>
         <source>trusted</source>
@@ -18547,7 +18547,7 @@ Do you still want to close the window?</source>
     <name>psiomemo::ManageDevices</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Borrar</translation>
+        <translation>Borrar</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -18559,7 +18559,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished">Huella: </translation>
+        <translation>Huella: </translation>
     </message>
     <message>
         <source>Delete all OMEMO data for current device</source>
@@ -18571,7 +18571,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Huella</translation>
+        <translation>Huella</translation>
     </message>
     <message>
         <source>Deleting of all OMEMO data for current device will cause to a number of consequences:
@@ -18619,11 +18619,11 @@ Do you still want to close the window?</source>
     <name>psiomemo::OMEMOPlugin</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email:</translation>
     </message>
     <message>
         <source>Credits: </source>
@@ -18643,7 +18643,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Fingerprint for account &quot;%1&quot;: %2</source>
-        <translation type="unfinished">Huella para la cuenta «%1»: %2</translation>
+        <translation>Huella para la cuenta «%1»: %2</translation>
     </message>
     <message>
         <source>Disable OMEMO encryption</source>
@@ -18651,7 +18651,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
-        <translation type="unfinished">Mostrar propia huella &amp;digital</translation>
+        <translation>Mostrar propia huella &amp;digital</translation>
     </message>
     <message>
         <source>OMEMO encryption</source>
@@ -18660,13 +18660,6 @@ Do you still want to close the window?</source>
     <message>
         <source>Manage contact fingerprints</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>psiomemo::OwnFingerprint</name>
-    <message>
-        <source>Fingerprint: </source>
-        <translation type="obsolete">Huella: </translation>
     </message>
 </context>
 <context>
@@ -19307,7 +19300,7 @@ a este mensaje en juick@conference.jabber.ru</translation>
     </message>
     <message>
         <source>Email:</source>
-        <translation type="unfinished">Correo electrónico:</translation>
+        <translation>Correo electrónico:</translation>
     </message>
 </context>
 <context>

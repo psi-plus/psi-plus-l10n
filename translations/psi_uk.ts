@@ -2822,7 +2822,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="unfinished">Конференції</translation>
+        <translation>Конференції</translation>
     </message>
 </context>
 <context>

@@ -2759,7 +2759,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="unfinished">Групови Чатове</translation>
+        <translation>Групови Чатове</translation>
     </message>
 </context>
 <context>
@@ -3054,7 +3054,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">Ел. поща:</translation>
+        <translation>Ел. поща:</translation>
     </message>
 </context>
 <context>
@@ -5684,7 +5684,7 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">Ел. поща:</translation>
+        <translation>Ел. поща:</translation>
     </message>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
@@ -7820,7 +7820,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">Ел. поща:</translation>
+        <translation>Ел. поща:</translation>
     </message>
 </context>
 <context>
@@ -11105,7 +11105,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation type="unfinished">GnuPG инфо</translation>
+        <translation>GnuPG инфо</translation>
     </message>
 </context>
 <context>
@@ -15296,11 +15296,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Изтриване</translation>
+        <translation>Изтриване</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отказ</translation>
+        <translation>Отказ</translation>
     </message>
     <message>
         <source>verified</source>
@@ -18147,7 +18147,7 @@ Do you still want to close the window?</source>
     <name>psiomemo::KnownFingerprints</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Изтриване</translation>
+        <translation>Изтриване</translation>
     </message>
     <message>
         <source>Trust</source>
@@ -18159,7 +18159,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Отпечатък</translation>
+        <translation>Отпечатък</translation>
     </message>
     <message>
         <source>trusted</source>
@@ -18182,7 +18182,7 @@ Do you still want to close the window?</source>
     <name>psiomemo::ManageDevices</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Изтриване</translation>
+        <translation>Изтриване</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -18206,7 +18206,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Отпечатък</translation>
+        <translation>Отпечатък</translation>
     </message>
     <message>
         <source>Deleting of all OMEMO data for current device will cause to a number of consequences:
@@ -18254,11 +18254,11 @@ Do you still want to close the window?</source>
     <name>psiomemo::OMEMOPlugin</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished">Автор:</translation>
+        <translation>Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">Ел. поща:</translation>
+        <translation>Ел. поща:</translation>
     </message>
     <message>
         <source>Credits: </source>
@@ -18928,7 +18928,7 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Email:</source>
-        <translation type="unfinished">Ел. поща:</translation>
+        <translation>Ел. поща:</translation>
     </message>
 </context>
 <context>

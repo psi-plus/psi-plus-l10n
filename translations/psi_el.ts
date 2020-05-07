@@ -2686,7 +2686,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="unfinished">Ομάδες</translation>
+        <translation>Ομάδες</translation>
     </message>
 </context>
 <context>
@@ -2968,7 +2968,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">Email:</translation>
+        <translation>Email:</translation>
     </message>
 </context>
 <context>
@@ -5504,7 +5504,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">Email:</translation>
+        <translation>Email:</translation>
     </message>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
@@ -6751,7 +6751,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished">Λεπτομέρειες</translation>
+        <translation>Λεπτομέρειες</translation>
     </message>
 </context>
 <context>
@@ -7585,7 +7585,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">Email:</translation>
+        <translation>Email:</translation>
     </message>
 </context>
 <context>
@@ -14864,11 +14864,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Διαγραφή</translation>
+        <translation>Διαγραφή</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Άκυρο</translation>
+        <translation>Άκυρο</translation>
     </message>
     <message>
         <source>verified</source>
@@ -17670,7 +17670,7 @@ Do you still want to close the window?</source>
     <name>psiomemo::KnownFingerprints</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Διαγραφή</translation>
+        <translation>Διαγραφή</translation>
     </message>
     <message>
         <source>Trust</source>
@@ -17705,7 +17705,7 @@ Do you still want to close the window?</source>
     <name>psiomemo::ManageDevices</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Διαγραφή</translation>
+        <translation>Διαγραφή</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -17777,11 +17777,11 @@ Do you still want to close the window?</source>
     <name>psiomemo::OMEMOPlugin</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished">Συγγραφέας:</translation>
+        <translation>Συγγραφέας:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">Email:</translation>
+        <translation>Email:</translation>
     </message>
     <message>
         <source>Credits: </source>

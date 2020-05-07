@@ -2790,7 +2790,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="unfinished">群聊</translation>
+        <translation>群聊</translation>
     </message>
 </context>
 <context>
@@ -3085,7 +3085,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>電子郵箱:</translation>
     </message>
 </context>
 <context>
@@ -5719,7 +5719,7 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>電子郵箱:</translation>
     </message>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
@@ -7869,7 +7869,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>電子郵箱:</translation>
     </message>
 </context>
 <context>
@@ -11171,7 +11171,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation type="unfinished">GunPG信息</translation>
+        <translation>GunPG信息</translation>
     </message>
 </context>
 <context>
@@ -13048,15 +13048,15 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
-        <translation type="unfinished">指定 Open&amp;PGP 鑰匙</translation>
+        <translation>指定 Open&amp;PGP 鑰匙</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation type="unfinished">取消指定 Open&amp;PGP 鑰匙</translation>
+        <translation>取消指定 Open&amp;PGP 鑰匙</translation>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
-        <translation type="unfinished">顯示自己的指紋(&amp;F)</translation>
+        <translation>顯示自己的指紋(&amp;F)</translation>
     </message>
 </context>
 <context>
@@ -15350,11 +15350,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">刪除</translation>
+        <translation>刪除</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>verified</source>
@@ -18434,7 +18434,7 @@ Do you still want to close the window?</source>
     <name>psiomemo::KnownFingerprints</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">刪除</translation>
+        <translation>刪除</translation>
     </message>
     <message>
         <source>Trust</source>
@@ -18446,7 +18446,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished"></translation>
+        <translation>手紋印</translation>
     </message>
     <message>
         <source>trusted</source>
@@ -18469,7 +18469,7 @@ Do you still want to close the window?</source>
     <name>psiomemo::ManageDevices</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">刪除</translation>
+        <translation>刪除</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -18481,7 +18481,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished"></translation>
+        <translation>指紋:</translation>
     </message>
     <message>
         <source>Delete all OMEMO data for current device</source>
@@ -18493,7 +18493,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished"></translation>
+        <translation>手紋印</translation>
     </message>
     <message>
         <source>Deleting of all OMEMO data for current device will cause to a number of consequences:
@@ -18541,11 +18541,11 @@ Do you still want to close the window?</source>
     <name>psiomemo::OMEMOPlugin</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>電子郵箱:</translation>
     </message>
     <message>
         <source>Credits: </source>
@@ -18573,7 +18573,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
-        <translation type="unfinished">顯示自己的指紋(&amp;F)</translation>
+        <translation>顯示自己的指紋(&amp;F)</translation>
     </message>
     <message>
         <source>OMEMO encryption</source>
@@ -19222,7 +19222,7 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Email:</source>
-        <translation type="unfinished">電子郵箱:</translation>
+        <translation>電子郵箱:</translation>
     </message>
 </context>
 <context>

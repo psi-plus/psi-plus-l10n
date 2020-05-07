@@ -2782,7 +2782,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="unfinished">Grupni razgovor</translation>
+        <translation>Grupni razgovor</translation>
     </message>
 </context>
 <context>
@@ -3077,7 +3077,7 @@ Da nastavim?</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>E-pošta:</translation>
     </message>
 </context>
 <context>
@@ -5702,7 +5702,7 @@ Napomena: Ovaj dodatak provera  vaš Inbox folder u vašem Gmailbox-u za nove po
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>E-pošta:</translation>
     </message>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
@@ -7838,7 +7838,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>E-pošta:</translation>
     </message>
 </context>
 <context>
@@ -11103,7 +11103,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation type="unfinished">GnuPG info</translation>
+        <translation>GnuPG info</translation>
     </message>
 </context>
 <context>
@@ -12976,15 +12976,15 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
-        <translation type="unfinished">Dodeli otvoreni&amp;PGP ključ</translation>
+        <translation>Dodeli otvoreni&amp;PGP ključ</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation type="unfinished">Oduzmi otvoreni&amp;PGP ključ</translation>
+        <translation>Oduzmi otvoreni&amp;PGP ključ</translation>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
-        <translation type="unfinished">Pokaži sopstveni &amp;otisak</translation>
+        <translation>Pokaži sopstveni &amp;otisak</translation>
     </message>
 </context>
 <context>
@@ -15281,11 +15281,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukloni</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Otkaži</translation>
     </message>
     <message>
         <source>verified</source>
@@ -18193,7 +18193,7 @@ Do you still want to close the window?</source>
     <name>psiomemo::KnownFingerprints</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukloni</translation>
     </message>
     <message>
         <source>Trust</source>
@@ -18205,7 +18205,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Otisak</translation>
+        <translation>Otisak</translation>
     </message>
     <message>
         <source>trusted</source>
@@ -18228,7 +18228,7 @@ Do you still want to close the window?</source>
     <name>psiomemo::ManageDevices</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukloni</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -18240,7 +18240,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished">Otisak:</translation>
+        <translation>Otisak:</translation>
     </message>
     <message>
         <source>Delete all OMEMO data for current device</source>
@@ -18252,7 +18252,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Otisak</translation>
+        <translation>Otisak</translation>
     </message>
     <message>
         <source>Deleting of all OMEMO data for current device will cause to a number of consequences:
@@ -18300,11 +18300,11 @@ Do you still want to close the window?</source>
     <name>psiomemo::OMEMOPlugin</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>E-pošta:</translation>
     </message>
     <message>
         <source>Credits: </source>
@@ -18332,7 +18332,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
-        <translation type="unfinished">Pokaži sopstveni &amp;otisak</translation>
+        <translation>Pokaži sopstveni &amp;otisak</translation>
     </message>
     <message>
         <source>OMEMO encryption</source>
@@ -18341,13 +18341,6 @@ Do you still want to close the window?</source>
     <message>
         <source>Manage contact fingerprints</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>psiomemo::OwnFingerprint</name>
-    <message>
-        <source>Fingerprint: </source>
-        <translation type="obsolete">Otisak:</translation>
     </message>
 </context>
 <context>
@@ -18981,7 +18974,7 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Email:</source>
-        <translation type="unfinished">E-pošta:</translation>
+        <translation>E-pošta:</translation>
     </message>
 </context>
 <context>

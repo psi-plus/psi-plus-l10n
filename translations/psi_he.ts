@@ -2753,7 +2753,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="unfinished">שיחות קבוצה</translation>
+        <translation>שיחות קבוצה</translation>
     </message>
 </context>
 <context>
@@ -3037,7 +3037,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">דוא״ל: </translation>
+        <translation>דוא״ל: </translation>
     </message>
 </context>
 <context>
@@ -5638,7 +5638,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">דוא״ל: </translation>
+        <translation>דוא״ל: </translation>
     </message>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
@@ -7740,7 +7740,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">דוא״ל: </translation>
+        <translation>דוא״ל: </translation>
     </message>
 </context>
 <context>
@@ -12831,15 +12831,15 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
-        <translation type="unfinished">הקצה מפתח Open&amp;PGP</translation>
+        <translation>הקצה מפתח Open&amp;PGP</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation type="unfinished">אל תקצה מפתח Open&amp;PGP</translation>
+        <translation>אל תקצה מפתח Open&amp;PGP</translation>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
-        <translation type="unfinished">הצגת &amp;טביעת אצבע עצמית</translation>
+        <translation>הצגת &amp;טביעת אצבע עצמית</translation>
     </message>
 </context>
 <context>
@@ -15139,11 +15139,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>מחק</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">ביטול</translation>
+        <translation>ביטול</translation>
     </message>
     <message>
         <source>verified</source>
@@ -18118,7 +18118,7 @@ Do you still want to close the window?</source>
     <name>psiomemo::KnownFingerprints</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>מחק</translation>
     </message>
     <message>
         <source>Trust</source>
@@ -18130,7 +18130,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">טביעת אצבע</translation>
+        <translation>טביעת אצבע</translation>
     </message>
     <message>
         <source>trusted</source>
@@ -18153,7 +18153,7 @@ Do you still want to close the window?</source>
     <name>psiomemo::ManageDevices</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>מחק</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -18165,7 +18165,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished">טביעת אצבע: </translation>
+        <translation>טביעת אצבע: </translation>
     </message>
     <message>
         <source>Delete all OMEMO data for current device</source>
@@ -18177,7 +18177,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">טביעת אצבע</translation>
+        <translation>טביעת אצבע</translation>
     </message>
     <message>
         <source>Deleting of all OMEMO data for current device will cause to a number of consequences:
@@ -18225,11 +18225,11 @@ Do you still want to close the window?</source>
     <name>psiomemo::OMEMOPlugin</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished">מחבר: </translation>
+        <translation>מחבר: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">דוא״ל: </translation>
+        <translation>דוא״ל: </translation>
     </message>
     <message>
         <source>Credits: </source>
@@ -18257,7 +18257,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
-        <translation type="unfinished">הצגת &amp;טביעת אצבע עצמית</translation>
+        <translation>הצגת &amp;טביעת אצבע עצמית</translation>
     </message>
     <message>
         <source>OMEMO encryption</source>
@@ -18266,13 +18266,6 @@ Do you still want to close the window?</source>
     <message>
         <source>Manage contact fingerprints</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>psiomemo::OwnFingerprint</name>
-    <message>
-        <source>Fingerprint: </source>
-        <translation type="obsolete">טביעת אצבע: </translation>
     </message>
 </context>
 <context>
@@ -18910,7 +18903,7 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Email:</source>
-        <translation type="unfinished">דוא״ל:</translation>
+        <translation>דוא״ל:</translation>
     </message>
 </context>
 <context>

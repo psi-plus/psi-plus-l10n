@@ -2773,7 +2773,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="unfinished">Konferencje</translation>
+        <translation>Konferencje</translation>
     </message>
 </context>
 <context>
@@ -3068,7 +3068,7 @@ Kontynuować?</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>email:</translation>
     </message>
 </context>
 <context>
@@ -5703,7 +5703,7 @@ Uwaga: Wtyczka sprawdza nowe wiadomości tylko w folderze w katalogu głównym n
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>email:</translation>
     </message>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
@@ -7834,7 +7834,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>email:</translation>
     </message>
 </context>
 <context>
@@ -12911,11 +12911,11 @@ Przyczyna: %1.</translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
-        <translation type="unfinished">Przydziel klucz Open&amp;PGP</translation>
+        <translation>Przydziel klucz Open&amp;PGP</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation type="unfinished">Cofnij przydział klucza Open&amp;PGP</translation>
+        <translation>Cofnij przydział klucza Open&amp;PGP</translation>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
@@ -15213,11 +15213,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Kasuj</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <source>verified</source>
@@ -18173,7 +18173,7 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     <name>psiomemo::KnownFingerprints</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Kasuj</translation>
     </message>
     <message>
         <source>Trust</source>
@@ -18208,7 +18208,7 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     <name>psiomemo::ManageDevices</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Kasuj</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -18280,11 +18280,11 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     <name>psiomemo::OMEMOPlugin</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>email:</translation>
     </message>
     <message>
         <source>Credits: </source>
@@ -18955,7 +18955,7 @@ do tej wiadomości w juick@conference.jabber.ru</translation>
     </message>
     <message>
         <source>Email:</source>
-        <translation type="unfinished">Email:</translation>
+        <translation>Email:</translation>
     </message>
 </context>
 <context>

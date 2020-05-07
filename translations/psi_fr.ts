@@ -2800,7 +2800,7 @@ Note : afin de fonctionner correctement, la barre d&apos;outils du salon doit ê
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="unfinished">Salons</translation>
+        <translation>Salons</translation>
     </message>
 </context>
 <context>
@@ -3094,7 +3094,7 @@ Continuer ?</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Courriel :</translation>
     </message>
 </context>
 <context>
@@ -5701,7 +5701,7 @@ Vous avez perdu.</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Courriel :</translation>
     </message>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
@@ -7821,7 +7821,7 @@ Russie, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Courriel :</translation>
     </message>
 </context>
 <context>
@@ -11081,7 +11081,7 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation type="unfinished">info GnuPG</translation>
+        <translation>info GnuPG</translation>
     </message>
 </context>
 <context>
@@ -12967,11 +12967,11 @@ Cause: %1.</translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
-        <translation type="unfinished">Assigner une clé Open&amp;PGP</translation>
+        <translation>Assigner une clé Open&amp;PGP</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation type="unfinished">Dé-assigner la clé Open&amp;PGP</translation>
+        <translation>Dé-assigner la clé Open&amp;PGP</translation>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
@@ -15270,11 +15270,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Supprimer</translation>
+        <translation>Supprimer</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>verified</source>
@@ -18256,7 +18256,7 @@ Do you still want to close the window?</source>
     <name>psiomemo::KnownFingerprints</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Supprimer</translation>
+        <translation>Supprimer</translation>
     </message>
     <message>
         <source>Trust</source>
@@ -18268,7 +18268,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Empreinte</translation>
+        <translation>Empreinte</translation>
     </message>
     <message>
         <source>trusted</source>
@@ -18291,7 +18291,7 @@ Do you still want to close the window?</source>
     <name>psiomemo::ManageDevices</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Supprimer</translation>
+        <translation>Supprimer</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -18303,7 +18303,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished">Empreinte:</translation>
+        <translation>Empreinte:</translation>
     </message>
     <message>
         <source>Delete all OMEMO data for current device</source>
@@ -18315,7 +18315,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Empreinte</translation>
+        <translation>Empreinte</translation>
     </message>
     <message>
         <source>Deleting of all OMEMO data for current device will cause to a number of consequences:
@@ -18363,11 +18363,11 @@ Do you still want to close the window?</source>
     <name>psiomemo::OMEMOPlugin</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Auteur :</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Courriel :</translation>
     </message>
     <message>
         <source>Credits: </source>
@@ -18404,13 +18404,6 @@ Do you still want to close the window?</source>
     <message>
         <source>Manage contact fingerprints</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>psiomemo::OwnFingerprint</name>
-    <message>
-        <source>Fingerprint: </source>
-        <translation type="obsolete">Empreinte:</translation>
     </message>
 </context>
 <context>
@@ -19045,7 +19038,7 @@ vers ce message dans juick@conference.jabber.ru</translation>
     </message>
     <message>
         <source>Email:</source>
-        <translation type="unfinished">Courriel :</translation>
+        <translation>Courriel :</translation>
     </message>
 </context>
 <context>

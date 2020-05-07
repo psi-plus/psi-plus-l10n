@@ -2743,7 +2743,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="unfinished">グループチャット</translation>
+        <translation>グループチャット</translation>
     </message>
 </context>
 <context>
@@ -3034,7 +3034,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">メールアドレス:</translation>
+        <translation>メールアドレス:</translation>
     </message>
 </context>
 <context>
@@ -5617,7 +5617,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">メールアドレス:</translation>
+        <translation>メールアドレス:</translation>
     </message>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
@@ -7720,7 +7720,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">メールアドレス:</translation>
+        <translation>メールアドレス:</translation>
     </message>
 </context>
 <context>
@@ -12762,11 +12762,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
-        <translation type="unfinished">OpenPGP鍵を登録(&amp;P)</translation>
+        <translation>OpenPGP鍵を登録(&amp;P)</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation type="unfinished">OpenPGP鍵を解除(&amp;P)</translation>
+        <translation>OpenPGP鍵を解除(&amp;P)</translation>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
@@ -15056,11 +15056,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">削除</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <source>verified</source>
@@ -17977,7 +17977,7 @@ Do you still want to close the window?</source>
     <name>psiomemo::KnownFingerprints</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">削除</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <source>Trust</source>
@@ -18012,7 +18012,7 @@ Do you still want to close the window?</source>
     <name>psiomemo::ManageDevices</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">削除</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -18084,11 +18084,11 @@ Do you still want to close the window?</source>
     <name>psiomemo::OMEMOPlugin</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">メールアドレス:</translation>
+        <translation>メールアドレス:</translation>
     </message>
     <message>
         <source>Credits: </source>
@@ -18758,7 +18758,7 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Email:</source>
-        <translation type="unfinished">メールアドレス:</translation>
+        <translation>メールアドレス:</translation>
     </message>
 </context>
 <context>

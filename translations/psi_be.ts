@@ -2792,7 +2792,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="unfinished"></translation>
+        <translation>Groupchats</translation>
     </message>
 </context>
 <context>
@@ -3087,7 +3087,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">Эл. пошта: </translation>
+        <translation>Эл. пошта: </translation>
     </message>
 </context>
 <context>
@@ -5728,7 +5728,7 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">Эл. пошта: </translation>
+        <translation>Эл. пошта: </translation>
     </message>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
@@ -7869,7 +7869,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">Эл. пошта: </translation>
+        <translation>Эл. пошта: </translation>
     </message>
 </context>
 <context>
@@ -9581,10 +9581,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="vanished">Ужываць налады пасродку з рахунку</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Вікі (у сеціве)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Contact menu</source>
         <translation>Мэню суразмоўцы</translation>
     </message>
@@ -9689,10 +9685,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Start program:</source>
         <translation type="vanished">Запускаць праґраму:</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Вікі (у сеціве)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Manager</source>
@@ -11196,7 +11188,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation type="unfinished">Звесткі GnuPG</translation>
+        <translation>Звесткі GnuPG</translation>
     </message>
 </context>
 <context>
@@ -12989,7 +12981,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished">Зьвесткі</translation>
+        <translation>Зьвесткі</translation>
     </message>
     <message>
         <source>Set Topic</source>
@@ -13074,15 +13066,15 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
-        <translation type="unfinished">Прызначыць &amp;ключ OpenPGP</translation>
+        <translation>Прызначыць &amp;ключ OpenPGP</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation type="unfinished">Адкінуць прызначаны &amp;ключ OpenPGP</translation>
+        <translation>Адкінуць прызначаны &amp;ключ OpenPGP</translation>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
-        <translation type="unfinished">Паказаць уласны ад&amp;бітак</translation>
+        <translation>Паказаць уласны ад&amp;бітак</translation>
     </message>
 </context>
 <context>
@@ -15399,11 +15391,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Выдаліць</translation>
+        <translation>Выдаліць</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Скасаваць</translation>
+        <translation>Скасаваць</translation>
     </message>
     <message>
         <source>verified</source>
@@ -18478,7 +18470,7 @@ Do you still want to close the window?</source>
     <name>psiomemo::KnownFingerprints</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Выдаліць</translation>
+        <translation>Выдаліць</translation>
     </message>
     <message>
         <source>Trust</source>
@@ -18490,7 +18482,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Адбітак</translation>
+        <translation>Адбітак</translation>
     </message>
     <message>
         <source>trusted</source>
@@ -18513,7 +18505,7 @@ Do you still want to close the window?</source>
     <name>psiomemo::ManageDevices</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Выдаліць</translation>
+        <translation>Выдаліць</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -18525,7 +18517,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished">Адбітак: </translation>
+        <translation>Адбітак: </translation>
     </message>
     <message>
         <source>Delete all OMEMO data for current device</source>
@@ -18537,7 +18529,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Адбітак</translation>
+        <translation>Адбітак</translation>
     </message>
     <message>
         <source>Deleting of all OMEMO data for current device will cause to a number of consequences:
@@ -18585,11 +18577,11 @@ Do you still want to close the window?</source>
     <name>psiomemo::OMEMOPlugin</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished">Аўтар: </translation>
+        <translation>Аўтар: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">Эл. пошта: </translation>
+        <translation>Эл. пошта: </translation>
     </message>
     <message>
         <source>Credits: </source>
@@ -18617,7 +18609,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
-        <translation type="unfinished">Паказаць уласны ад&amp;бітак</translation>
+        <translation>Паказаць уласны ад&amp;бітак</translation>
     </message>
     <message>
         <source>OMEMO encryption</source>
@@ -18626,13 +18618,6 @@ Do you still want to close the window?</source>
     <message>
         <source>Manage contact fingerprints</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>psiomemo::OwnFingerprint</name>
-    <message>
-        <source>Fingerprint: </source>
-        <translation type="obsolete">Адбітак: </translation>
     </message>
 </context>
 <context>
@@ -19274,7 +19259,7 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Email:</source>
-        <translation type="unfinished">Эл. пошта:</translation>
+        <translation>Эл. пошта:</translation>
     </message>
 </context>
 <context>

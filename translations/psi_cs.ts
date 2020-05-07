@@ -2801,7 +2801,7 @@ Pozn.: aby modul pracoval správně, Nástrojová lišta skupinového chatu mus�
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="unfinished">Skupinové chaty</translation>
+        <translation>Skupinové chaty</translation>
     </message>
 </context>
 <context>
@@ -3096,7 +3096,7 @@ Pokračovat?</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">E-mail: </translation>
+        <translation>E-mail: </translation>
     </message>
 </context>
 <context>
@@ -5735,7 +5735,7 @@ Pozn.: zásuvný modul kontroluje pro nové zprávy pouze kořenovou složku př
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">E-mail: </translation>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
@@ -7858,7 +7858,7 @@ Rusko, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">E-mail: </translation>
+        <translation>E-mail: </translation>
     </message>
 </context>
 <context>
@@ -11177,7 +11177,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation type="unfinished">GnuPG info</translation>
+        <translation>GnuPG info</translation>
     </message>
 </context>
 <context>
@@ -13051,7 +13051,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Fingerprint for account &quot;%1&quot;: %2</source>
-        <translation type="unfinished">Otisk klíče pro účet &quot;%1&quot;: %2</translation>
+        <translation>Otisk klíče pro účet &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <source>OpenPGP encryption</source>
@@ -13063,15 +13063,15 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
-        <translation type="unfinished">Přidělit Open&amp;PGP klíč</translation>
+        <translation>Přidělit Open&amp;PGP klíč</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation type="unfinished">Odebrat Open&amp;PGP Klíč</translation>
+        <translation>Odebrat Open&amp;PGP Klíč</translation>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
-        <translation type="unfinished">Zobrazit &amp;vlastní otisk klíče</translation>
+        <translation>Zobrazit &amp;vlastní otisk klíče</translation>
     </message>
 </context>
 <context>
@@ -15393,11 +15393,11 @@ Děkujeme za trpělivost.</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Zrušit</translation>
+        <translation>Zrušit</translation>
     </message>
     <message>
         <source>verified</source>
@@ -18418,7 +18418,7 @@ Opravdu zavřít okno?</translation>
     <name>psiomemo::KnownFingerprints</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit</translation>
     </message>
     <message>
         <source>Trust</source>
@@ -18430,7 +18430,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Otisk klíče</translation>
+        <translation>Otisk klíče</translation>
     </message>
     <message>
         <source>trusted</source>
@@ -18453,7 +18453,7 @@ Opravdu zavřít okno?</translation>
     <name>psiomemo::ManageDevices</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -18465,7 +18465,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished">Otisk klíče: </translation>
+        <translation>Otisk klíče: </translation>
     </message>
     <message>
         <source>Delete all OMEMO data for current device</source>
@@ -18477,7 +18477,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Otisk klíče</translation>
+        <translation>Otisk klíče</translation>
     </message>
     <message>
         <source>Deleting of all OMEMO data for current device will cause to a number of consequences:
@@ -18525,11 +18525,11 @@ Opravdu zavřít okno?</translation>
     <name>psiomemo::OMEMOPlugin</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">E-mail: </translation>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <source>Credits: </source>
@@ -18549,7 +18549,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Fingerprint for account &quot;%1&quot;: %2</source>
-        <translation type="unfinished">Otisk klíče pro účet &quot;%1&quot;: %2</translation>
+        <translation>Otisk klíče pro účet &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <source>Disable OMEMO encryption</source>
@@ -18557,7 +18557,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
-        <translation type="unfinished">Zobrazit &amp;vlastní otisk klíče</translation>
+        <translation>Zobrazit &amp;vlastní otisk klíče</translation>
     </message>
     <message>
         <source>OMEMO encryption</source>
@@ -18566,13 +18566,6 @@ Opravdu zavřít okno?</translation>
     <message>
         <source>Manage contact fingerprints</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>psiomemo::OwnFingerprint</name>
-    <message>
-        <source>Fingerprint: </source>
-        <translation type="obsolete">Otisk klíče: </translation>
     </message>
 </context>
 <context>
@@ -19213,7 +19206,7 @@ zprávu v juick@conference.jabber.ru</translation>
     </message>
     <message>
         <source>Email:</source>
-        <translation type="unfinished">E-mail: </translation>
+        <translation>E-mail: </translation>
     </message>
 </context>
 <context>

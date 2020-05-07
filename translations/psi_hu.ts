@@ -2802,7 +2802,7 @@ Megjegyzés: A helyes működéshez a Csoportbeszélgetés Eszköztárat be kell
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="unfinished">Csoportbeszélgetések</translation>
+        <translation>Csoportbeszélgetések</translation>
     </message>
 </context>
 <context>
@@ -3097,7 +3097,7 @@ Folytatod?</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail: </translation>
     </message>
 </context>
 <context>
@@ -5740,7 +5740,7 @@ Megjegyzés: A kiegészítő csak az &apos;Inbox&apos; mappát ellenőrzi, ha sz
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
@@ -7902,7 +7902,7 @@ Oroszország, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail: </translation>
     </message>
 </context>
 <context>
@@ -11218,7 +11218,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation type="unfinished">GnuPG info</translation>
+        <translation>GnuPG info</translation>
     </message>
 </context>
 <context>
@@ -13106,11 +13106,11 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
-        <translation type="unfinished">&amp;OpenPGP-kulcs hozzárendelése</translation>
+        <translation>&amp;OpenPGP-kulcs hozzárendelése</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation type="unfinished">&amp;OpenPGP-kulcs törlése</translation>
+        <translation>&amp;OpenPGP-kulcs törlése</translation>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
@@ -15428,11 +15428,11 @@ Türelmét köszönjük.</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Törlés</translation>
+        <translation>Törlés</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Mégsem</translation>
+        <translation>Mégsem</translation>
     </message>
     <message>
         <source>verified</source>
@@ -18417,7 +18417,7 @@ Ablak bezárása mégis?</translation>
     <name>psiomemo::KnownFingerprints</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Törlés</translation>
+        <translation>Törlés</translation>
     </message>
     <message>
         <source>Trust</source>
@@ -18429,7 +18429,7 @@ Ablak bezárása mégis?</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Ujjlenyomat</translation>
+        <translation>Ujjlenyomat</translation>
     </message>
     <message>
         <source>trusted</source>
@@ -18452,7 +18452,7 @@ Ablak bezárása mégis?</translation>
     <name>psiomemo::ManageDevices</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Törlés</translation>
+        <translation>Törlés</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -18476,7 +18476,7 @@ Ablak bezárása mégis?</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Ujjlenyomat</translation>
+        <translation>Ujjlenyomat</translation>
     </message>
     <message>
         <source>Deleting of all OMEMO data for current device will cause to a number of consequences:
@@ -18524,11 +18524,11 @@ Ablak bezárása mégis?</translation>
     <name>psiomemo::OMEMOPlugin</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Szerző: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <source>Credits: </source>
@@ -19198,7 +19198,7 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Email:</source>
-        <translation type="unfinished">E-mail: </translation>
+        <translation>E-mail: </translation>
     </message>
 </context>
 <context>

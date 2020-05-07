@@ -1607,10 +1607,6 @@ The list of exceptions for jids has two operating modes:
         <source>Call negotiation failed.</source>
         <translation>Ошибка согласования вызова.</translation>
     </message>
-    <message>
-        <source>An attempt to send a video file over the call but file name is not set</source>
-        <translation type="vanished">Попытка отправить видеофайл через звонок, но имя файла не задано</translation>
-    </message>
 </context>
 <context>
     <name>AvatarDelegate</name>
@@ -2819,7 +2815,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="unfinished">Конференций</translation>
+        <translation>Конференций</translation>
     </message>
 </context>
 <context>
@@ -15494,10 +15490,6 @@ Thanks for your patience.</source>
         <translation>Доверять</translation>
     </message>
     <message>
-        <source>Do Not Trust</source>
-        <translation type="vanished">Не доверять</translation>
-    </message>
-    <message>
         <source>Delete selected device from list of known devices of user &quot;%1&quot;?</source>
         <translation>Удалить выбранное устройство из списка известных устройств пользователя &quot;%1&quot;?</translation>
     </message>
@@ -18616,10 +18608,6 @@ Do you still want to close the window?</source>
         <translation>Отпечатки</translation>
     </message>
     <message>
-        <source>Own Fingerprint</source>
-        <translation type="vanished">Свой отпечаток</translation>
-    </message>
-    <message>
         <source>Manage Devices</source>
         <translation>Управление устройствами</translation>
     </message>
@@ -18633,10 +18621,6 @@ Do you still want to close the window?</source>
     <message>
         <source>Trust</source>
         <translation>Доверять</translation>
-    </message>
-    <message>
-        <source>Revoke</source>
-        <translation type="vanished">Отозвать</translation>
     </message>
     <message>
         <source>Contact</source>
@@ -18676,10 +18660,6 @@ Do you still want to close the window?</source>
     <message>
         <source>Current device</source>
         <translation>Текущее устройство</translation>
-    </message>
-    <message>
-        <source>Device ID: </source>
-        <translation type="vanished">ID устройства: </translation>
     </message>
     <message>
         <source>Fingerprint: </source>
@@ -18790,17 +18770,6 @@ Do you still want to close the window?</source>
     <message>
         <source>Manage contact fingerprints</source>
         <translation>Управление ключами собеседника</translation>
-    </message>
-</context>
-<context>
-    <name>psiomemo::OwnFingerprint</name>
-    <message>
-        <source>Device ID: </source>
-        <translation type="vanished">ID устройства: </translation>
-    </message>
-    <message>
-        <source>Fingerprint: </source>
-        <translation type="vanished">Отпечаток: </translation>
     </message>
 </context>
 <context>

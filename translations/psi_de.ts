@@ -2812,7 +2812,7 @@ Anmerkung: Um korrekt zu funktionieren, muss die Gruppenchatwerkzeugleiste aktiv
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="unfinished">Gruppenchats</translation>
+        <translation>Gruppenchats</translation>
     </message>
 </context>
 <context>
@@ -3107,7 +3107,7 @@ Fortfahren?</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>E-Mail: </translation>
     </message>
 </context>
 <context>
@@ -5752,7 +5752,7 @@ Anmerkung: Das Plugin überprüft lediglich das Hauptverzeichnis Ihres Posteinga
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>E-Mail: </translation>
     </message>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
@@ -7909,7 +7909,7 @@ Russland, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>E-Mail: </translation>
     </message>
 </context>
 <context>
@@ -11236,7 +11236,7 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation type="unfinished">GnuPG-Info</translation>
+        <translation>GnuPG-Info</translation>
     </message>
 </context>
 <context>
@@ -13120,7 +13120,7 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Fingerprint for account &quot;%1&quot;: %2</source>
-        <translation type="unfinished">Fingerabdruck des Kontos &quot;%1&quot;: %2</translation>
+        <translation>Fingerabdruck des Kontos &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <source>OpenPGP encryption</source>
@@ -13132,15 +13132,15 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
-        <translation type="unfinished">Open&amp;PGP-Schlüssel zuweisen</translation>
+        <translation>Open&amp;PGP-Schlüssel zuweisen</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation type="unfinished">Open&amp;PGP-Schlüssel entfernen</translation>
+        <translation>Open&amp;PGP-Schlüssel entfernen</translation>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
-        <translation type="unfinished">Zeige eigenen &amp;Fingerabdruck</translation>
+        <translation>Zeige eigenen &amp;Fingerabdruck</translation>
     </message>
 </context>
 <context>
@@ -15461,11 +15461,11 @@ Vielen Dank für Ihre Geduld.</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Löschen</translation>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Abbrechen</translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>verified</source>
@@ -18564,7 +18564,7 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     <name>psiomemo::KnownFingerprints</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Löschen</translation>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>Trust</source>
@@ -18576,7 +18576,7 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Fingerabdruck</translation>
+        <translation>Fingerabdruck</translation>
     </message>
     <message>
         <source>trusted</source>
@@ -18599,7 +18599,7 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     <name>psiomemo::ManageDevices</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Löschen</translation>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -18611,7 +18611,7 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished">Fingerabdruck: </translation>
+        <translation>Fingerabdruck: </translation>
     </message>
     <message>
         <source>Delete all OMEMO data for current device</source>
@@ -18623,7 +18623,7 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Fingerabdruck</translation>
+        <translation>Fingerabdruck</translation>
     </message>
     <message>
         <source>Deleting of all OMEMO data for current device will cause to a number of consequences:
@@ -18671,11 +18671,11 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     <name>psiomemo::OMEMOPlugin</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>E-Mail: </translation>
     </message>
     <message>
         <source>Credits: </source>
@@ -18695,7 +18695,7 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     </message>
     <message>
         <source>Fingerprint for account &quot;%1&quot;: %2</source>
-        <translation type="unfinished">Fingerabdruck des Kontos &quot;%1&quot;: %2</translation>
+        <translation>Fingerabdruck des Kontos &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <source>Disable OMEMO encryption</source>
@@ -18703,7 +18703,7 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
-        <translation type="unfinished">Zeige eigenen &amp;Fingerabdruck</translation>
+        <translation>Zeige eigenen &amp;Fingerabdruck</translation>
     </message>
     <message>
         <source>OMEMO encryption</source>
@@ -18712,13 +18712,6 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     <message>
         <source>Manage contact fingerprints</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>psiomemo::OwnFingerprint</name>
-    <message>
-        <source>Fingerprint: </source>
-        <translation type="obsolete">Fingerabdruck: </translation>
     </message>
 </context>
 <context>
@@ -19359,7 +19352,7 @@ zu dieser Nachricht in juick@conference.jabber.ru</translation>
     </message>
     <message>
         <source>Email:</source>
-        <translation type="unfinished">E-Mail:</translation>
+        <translation>E-Mail:</translation>
     </message>
 </context>
 <context>

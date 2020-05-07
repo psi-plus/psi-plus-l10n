@@ -2808,7 +2808,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="unfinished"></translation>
+        <translation>Bate-papos em grupos</translation>
     </message>
 </context>
 <context>
@@ -3103,7 +3103,7 @@ Proceder?</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email: </translation>
     </message>
 </context>
 <context>
@@ -5747,7 +5747,7 @@ Note: O plugin verifica apenas a raiz da sua pasta em sua caixa de entrada de se
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email: </translation>
     </message>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
@@ -7907,7 +7907,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email: </translation>
     </message>
 </context>
 <context>
@@ -11220,7 +11220,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation type="unfinished">Informações GnuPG</translation>
+        <translation>Informações GnuPG</translation>
     </message>
 </context>
 <context>
@@ -13094,7 +13094,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Fingerprint for account &quot;%1&quot;: %2</source>
-        <translation type="unfinished">Impressão digital para conta &quot;%1&quot;: %2</translation>
+        <translation>Impressão digital para conta &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <source>OpenPGP encryption</source>
@@ -13106,15 +13106,15 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
-        <translation type="unfinished">Associar Chave Open&amp;PGP</translation>
+        <translation>Associar Chave Open&amp;PGP</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation type="unfinished">Desassociar Chave Open&amp;PGP</translation>
+        <translation>Desassociar Chave Open&amp;PGP</translation>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
-        <translation type="unfinished">Mostrar &amp;impressão digital própria</translation>
+        <translation>Mostrar &amp;impressão digital própria</translation>
     </message>
 </context>
 <context>
@@ -15432,11 +15432,11 @@ Obrigado pela sua paciência.</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>verified</source>
@@ -18526,7 +18526,7 @@ Realmente deseja fechar a janela?</translation>
     <name>psiomemo::KnownFingerprints</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover</translation>
     </message>
     <message>
         <source>Trust</source>
@@ -18538,7 +18538,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished"></translation>
+        <translation>Impressão Digital</translation>
     </message>
     <message>
         <source>trusted</source>
@@ -18561,7 +18561,7 @@ Realmente deseja fechar a janela?</translation>
     <name>psiomemo::ManageDevices</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -18573,7 +18573,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished"></translation>
+        <translation>Impressão digital: </translation>
     </message>
     <message>
         <source>Delete all OMEMO data for current device</source>
@@ -18585,7 +18585,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished"></translation>
+        <translation>Impressão Digital</translation>
     </message>
     <message>
         <source>Deleting of all OMEMO data for current device will cause to a number of consequences:
@@ -18633,11 +18633,11 @@ Realmente deseja fechar a janela?</translation>
     <name>psiomemo::OMEMOPlugin</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Email: </translation>
     </message>
     <message>
         <source>Credits: </source>
@@ -18657,7 +18657,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>Fingerprint for account &quot;%1&quot;: %2</source>
-        <translation type="unfinished">Impressão digital para conta &quot;%1&quot;: %2</translation>
+        <translation>Impressão digital para conta &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <source>Disable OMEMO encryption</source>
@@ -18665,7 +18665,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
-        <translation type="unfinished">Mostrar &amp;impressão digital própria</translation>
+        <translation>Mostrar &amp;impressão digital própria</translation>
     </message>
     <message>
         <source>OMEMO encryption</source>
@@ -19312,7 +19312,7 @@ nesta mensagem em juick@conference.jabber.ru</translation>
     </message>
     <message>
         <source>Email:</source>
-        <translation type="unfinished">Email:</translation>
+        <translation>Email:</translation>
     </message>
 </context>
 <context>
