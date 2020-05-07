@@ -2661,7 +2661,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation>Skupinski klepet</translation>
+        <translation type="vanished">Skupinski klepet</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -2674,6 +2674,10 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <source>Join %1</source>
         <translation>Pridruži se %1</translation>
+    </message>
+    <message>
+        <source>Groupchats</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

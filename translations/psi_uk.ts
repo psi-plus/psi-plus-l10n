@@ -287,7 +287,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Cross-platform XMPP client aimed at experienced users.</source>
-        <translation type="unfinished"></translation>
+        <translation>Міжплатформовий клієнт XMPP, орієнтований на досвідчених користувачів.</translation>
     </message>
 </context>
 <context>
@@ -1616,10 +1616,6 @@ The list of exceptions for jids has two operating modes:
         <source>Call negotiation failed.</source>
         <translation>Здійснення виклику невдале.</translation>
     </message>
-    <message>
-        <source>An attempt to send a video file over the call but file name is not set</source>
-        <translation type="vanished">Спроба надіслати відеофайл через дзвінок, але ім&apos;я файлу не встановлено</translation>
-    </message>
 </context>
 <context>
     <name>AvatarDelegate</name>
@@ -2810,7 +2806,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation>Конференції</translation>
+        <translation type="vanished">Конференції</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -2823,6 +2819,10 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <source>Join %1</source>
         <translation>Приєднатись до %1</translation>
+    </message>
+    <message>
+        <source>Groupchats</source>
+        <translation type="unfinished">Конференції</translation>
     </message>
 </context>
 <context>
@@ -10133,7 +10133,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Якщо ви використовуєте цей плагін вперше, переконайтеся, що всі ваші облікові записи онлайн, а потім натисніть кнопку &quot;Оновити дні народження&quot;. Це займає деякий час.</translation>
     </message>
 </context>
 <context>
@@ -15501,10 +15501,6 @@ Thanks for your patience.</source>
         <translation>Довіряти</translation>
     </message>
     <message>
-        <source>Do Not Trust</source>
-        <translation type="vanished">Не довіряти</translation>
-    </message>
-    <message>
         <source>Delete selected device from list of known devices of user &quot;%1&quot;?</source>
         <translation>Видалити вибраний пристрій зі списку відомих пристроїв користувача &quot;%1&quot;?</translation>
     </message>
@@ -15526,7 +15522,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Do not trust</source>
-        <translation type="unfinished"></translation>
+        <translation>Не довіряти</translation>
     </message>
 </context>
 <context>
@@ -18616,10 +18612,6 @@ Do you still want to close the window?</source>
         <translation>Відбитки</translation>
     </message>
     <message>
-        <source>Own Fingerprint</source>
-        <translation type="vanished">Власний відбиток</translation>
-    </message>
-    <message>
         <source>Manage Devices</source>
         <translation>Керування пристроями</translation>
     </message>
@@ -18633,10 +18625,6 @@ Do you still want to close the window?</source>
     <message>
         <source>Trust</source>
         <translation>Довіряти</translation>
-    </message>
-    <message>
-        <source>Revoke</source>
-        <translation type="vanished">Відкликати</translation>
     </message>
     <message>
         <source>Contact</source>
@@ -18656,11 +18644,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Do not trust</source>
-        <translation type="unfinished"></translation>
+        <translation>Не довіряти</translation>
     </message>
     <message>
         <source>not decided</source>
-        <translation type="unfinished"></translation>
+        <translation>не вирішено</translation>
     </message>
 </context>
 <context>
@@ -18675,27 +18663,23 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Current device</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Device ID: </source>
-        <translation type="obsolete">ID пристрою:</translation>
+        <translation>Поточний пристрій</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished">Відбиток: </translation>
+        <translation>Відбиток: </translation>
     </message>
     <message>
         <source>Delete all OMEMO data for current device</source>
-        <translation type="unfinished"></translation>
+        <translation>Видаліть усі дані OMEMO для поточного пристрою</translation>
     </message>
     <message>
         <source>Other devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Інші пристрої</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Відбиток</translation>
+        <translation>Відбиток</translation>
     </message>
     <message>
         <source>Deleting of all OMEMO data for current device will cause to a number of consequences:
@@ -18705,19 +18689,25 @@ Do you still want to close the window?</source>
 4) You will need to verify keys for all devices of your contacts again.
 5) Your contacts will need to verify new device before you start receive messages from them.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Видалення всіх даних OMEMO для поточного пристрою призведе до низки наслідків:
+1) Усі розпочаті сесії OMEMO будуть забуті.
+2) Ви втратите доступ до зашифрованої історії, що зберігається для поточного пристрою на боці серверу.
+3) Буде створено новий ідентифікатор пристрою та пару ключів.
+4) Вам потрібно буде ще раз перевірити ключі для всіх пристроїв ваших контактів.
+5) Вашим контактам потрібно буде підтвердити новий пристрій, перш ніж ви почнете отримувати від них повідомлення.
+</translation>
     </message>
     <message>
         <source>Delete current device?</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалити поточний пристрій?</translation>
     </message>
     <message>
         <source>After deleting of device from list of available devices it stops receiving offline messages from your contacts until it will become online and your contacts mark it as trusted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Після видалення пристрою зі списку доступних пристроїв він перестає отримувати офлайн-повідомлення від ваших контактів, поки він не стане доступним в Інтернеті, і ваші контакти відзначать його як надійний.</translation>
     </message>
     <message>
         <source>Delete selected device?</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалити вибраний пристрій?</translation>
     </message>
 </context>
 <context>
@@ -18784,17 +18774,6 @@ Do you still want to close the window?</source>
     <message>
         <source>Manage contact fingerprints</source>
         <translation>Управління відбитками контакту</translation>
-    </message>
-</context>
-<context>
-    <name>psiomemo::OwnFingerprint</name>
-    <message>
-        <source>Device ID: </source>
-        <translation type="vanished">ID пристрою:</translation>
-    </message>
-    <message>
-        <source>Fingerprint: </source>
-        <translation type="vanished">Відбиток: </translation>
     </message>
 </context>
 <context>

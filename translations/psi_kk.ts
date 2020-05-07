@@ -2659,7 +2659,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation>Чат бөлмесі</translation>
+        <translation type="vanished">Чат бөлмесі</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -2672,6 +2672,10 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <source>Join %1</source>
         <translation>%1 ішіне кіру</translation>
+    </message>
+    <message>
+        <source>Groupchats</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

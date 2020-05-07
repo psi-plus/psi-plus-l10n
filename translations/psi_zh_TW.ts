@@ -2774,7 +2774,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation>群聊</translation>
+        <translation type="vanished">群聊</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -2787,6 +2787,10 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <source>Join %1</source>
         <translation>加入 %1</translation>
+    </message>
+    <message>
+        <source>Groupchats</source>
+        <translation type="unfinished">群聊</translation>
     </message>
 </context>
 <context>

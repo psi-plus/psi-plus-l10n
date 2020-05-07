@@ -2670,7 +2670,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation>Ομάδα</translation>
+        <translation type="vanished">Ομάδα</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -2683,6 +2683,10 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <source>Join %1</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Groupchats</source>
+        <translation type="unfinished">Ομάδες</translation>
     </message>
 </context>
 <context>

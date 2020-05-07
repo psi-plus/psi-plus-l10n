@@ -2803,7 +2803,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation>Конференции</translation>
+        <translation type="vanished">Конференции</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -2816,6 +2816,10 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <source>Join %1</source>
         <translation>%1</translation>
+    </message>
+    <message>
+        <source>Groupchats</source>
+        <translation type="unfinished">Конференций</translation>
     </message>
 </context>
 <context>

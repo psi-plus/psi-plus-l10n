@@ -2727,7 +2727,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation>グループチャット</translation>
+        <translation type="vanished">グループチャット</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -2740,6 +2740,10 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <source>Join %1</source>
         <translation>%1 に参加</translation>
+    </message>
+    <message>
+        <source>Groupchats</source>
+        <translation type="unfinished">グループチャット</translation>
     </message>
 </context>
 <context>

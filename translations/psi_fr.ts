@@ -2784,7 +2784,7 @@ Note : afin de fonctionner correctement, la barre d&apos;outils du salon doit ê
     </message>
     <message>
         <source>Groupchat</source>
-        <translation>Salon</translation>
+        <translation type="vanished">Salon</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -2797,6 +2797,10 @@ Note : afin de fonctionner correctement, la barre d&apos;outils du salon doit ê
     <message>
         <source>Join %1</source>
         <translation>Rejoindre %1</translation>
+    </message>
+    <message>
+        <source>Groupchats</source>
+        <translation type="unfinished">Salons</translation>
     </message>
 </context>
 <context>

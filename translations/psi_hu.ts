@@ -2786,7 +2786,7 @@ Megjegyzés: A helyes működéshez a Csoportbeszélgetés Eszköztárat be kell
     </message>
     <message>
         <source>Groupchat</source>
-        <translation>Csoportbeszélgetés</translation>
+        <translation type="vanished">Csoportbeszélgetés</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -2799,6 +2799,10 @@ Megjegyzés: A helyes működéshez a Csoportbeszélgetés Eszköztárat be kell
     <message>
         <source>Join %1</source>
         <translation>Csatlakozás ehhez: %1</translation>
+    </message>
+    <message>
+        <source>Groupchats</source>
+        <translation type="unfinished">Csoportbeszélgetések</translation>
     </message>
 </context>
 <context>

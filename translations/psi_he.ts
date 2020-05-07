@@ -2737,7 +2737,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation>שיחת קבוצה</translation>
+        <translation type="vanished">שיחת קבוצה</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -2750,6 +2750,10 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <source>Join %1</source>
         <translation>הצטרף אל %1</translation>
+    </message>
+    <message>
+        <source>Groupchats</source>
+        <translation type="unfinished">שיחות קבוצה</translation>
     </message>
 </context>
 <context>

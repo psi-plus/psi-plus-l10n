@@ -2796,7 +2796,7 @@ Anmerkung: Um korrekt zu funktionieren, muss die Gruppenchatwerkzeugleiste aktiv
     </message>
     <message>
         <source>Groupchat</source>
-        <translation>Gruppenchat (MUC)</translation>
+        <translation type="vanished">Gruppenchat (MUC)</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -2809,6 +2809,10 @@ Anmerkung: Um korrekt zu funktionieren, muss die Gruppenchatwerkzeugleiste aktiv
     <message>
         <source>Join %1</source>
         <translation>%1 betreten</translation>
+    </message>
+    <message>
+        <source>Groupchats</source>
+        <translation type="unfinished">Gruppenchats</translation>
     </message>
 </context>
 <context>

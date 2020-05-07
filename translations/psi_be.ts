@@ -2776,7 +2776,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation>Нарада</translation>
+        <translation type="vanished">Нарада</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -2789,6 +2789,10 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <source>Join %1</source>
         <translation>Далучыцца да «%1»</translation>
+    </message>
+    <message>
+        <source>Groupchats</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

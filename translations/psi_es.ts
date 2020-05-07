@@ -2785,7 +2785,7 @@ Nota: Para su correcto funcionamiento, la barra de herramientas &quot;Sala de ch
     </message>
     <message>
         <source>Groupchat</source>
-        <translation>Sala de charla</translation>
+        <translation type="vanished">Sala de charla</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -2798,6 +2798,10 @@ Nota: Para su correcto funcionamiento, la barra de herramientas &quot;Sala de ch
     <message>
         <source>Join %1</source>
         <translation>Unirse %1</translation>
+    </message>
+    <message>
+        <source>Groupchats</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

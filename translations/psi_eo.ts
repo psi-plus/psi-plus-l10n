@@ -2652,7 +2652,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation>Babilejoj</translation>
+        <translation type="vanished">Babilejoj</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -2665,6 +2665,10 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <source>Join %1</source>
         <translation>Aliĝi al %1</translation>
+    </message>
+    <message>
+        <source>Groupchats</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

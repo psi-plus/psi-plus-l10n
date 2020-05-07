@@ -2652,7 +2652,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation>Skupinový Chat</translation>
+        <translation type="vanished">Skupinový Chat</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -2664,6 +2664,10 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Join %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Groupchats</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

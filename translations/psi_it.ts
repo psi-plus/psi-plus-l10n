@@ -2800,7 +2800,7 @@ Nota: per funzionare correttamente, la barra degli strumenti della conferenza de
     </message>
     <message>
         <source>Groupchat</source>
-        <translation>Conferenza</translation>
+        <translation type="vanished">Conferenza</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -2813,6 +2813,10 @@ Nota: per funzionare correttamente, la barra degli strumenti della conferenza de
     <message>
         <source>Join %1</source>
         <translation>Unisciti a %1</translation>
+    </message>
+    <message>
+        <source>Groupchats</source>
+        <translation type="unfinished">Conferenze</translation>
     </message>
 </context>
 <context>

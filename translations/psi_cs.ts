@@ -2785,7 +2785,7 @@ Pozn.: aby modul pracoval správně, Nástrojová lišta skupinového chatu mus�
     </message>
     <message>
         <source>Groupchat</source>
-        <translation>Skupinový chat</translation>
+        <translation type="vanished">Skupinový chat</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -2798,6 +2798,10 @@ Pozn.: aby modul pracoval správně, Nástrojová lišta skupinového chatu mus�
     <message>
         <source>Join %1</source>
         <translation>Vejít do %1</translation>
+    </message>
+    <message>
+        <source>Groupchats</source>
+        <translation type="unfinished">Skupinové chaty</translation>
     </message>
 </context>
 <context>
