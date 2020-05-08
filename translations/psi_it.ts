@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="it">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="it" version="2.1">
 <context>
     <name>@default</name>
     <message>
@@ -281,12 +279,16 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; per ulteriori dettagli!</tra
         <translation>Patcher ed ex traduttore russo</translation>
     </message>
     <message>
+        <source>psi/logo_48</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>About Psi</source>
         <translation>Informazioni su Psi</translation>
     </message>
     <message>
         <source>Cross-platform XMPP client aimed at experienced users.</source>
-        <translation type="unfinished"></translation>
+        <translation>Client XMPP multipiattaforma rivolto ad utenti esperti.</translation>
     </message>
 </context>
 <context>
@@ -1155,7 +1157,7 @@ salverà la cronologia per questo contatto.</translation>
     </message>
     <message>
         <source>Email address: </source>
-        <translation type="unfinished"></translation>
+        <translation>Indirizzo email:</translation>
     </message>
 </context>
 <context>
@@ -1195,7 +1197,7 @@ salverà la cronologia per questo contatto.</translation>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Bitstream Vera Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; user, simply fill out the XMPP address (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-XMPP&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get XMPP Address&lt;/span&gt; button to generate an XMPP address for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -3159,7 +3161,7 @@ Procedere?</translation>
     </message>
     <message>
         <source>ToolBar will be placed here</source>
-        <comment>Don&apos;t translate this string</comment>
+        <comment>Don't translate this string</comment>
         <translation>La barra degli strumenti sarà posizionata qui</translation>
     </message>
     <message>
@@ -3738,7 +3740,7 @@ Se vuoi confermare questa richeista, premi il tasto Conferma. Altrimenti premi i
     </message>
     <message>
         <source>OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Cifratura OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -4446,7 +4448,7 @@ contact is offline.</source>
         <source>Unable to connect to peer for data transfer.
 
 Ensure that your Data Transfer settings are proper.  If you are behind
-a NAT router or firewall then you&apos;ll need to open the proper TCP port
+a NAT router or firewall then you'll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
         <translation>Impossibile connettersi al peer per il trasferimento di dati.
 
@@ -4458,7 +4460,7 @@ o specificare un Proxy per Trasferimento Dati nelle tue impostazioni d&apos;acco
         <source>Failure to either connect to, or activate, the Data Transfer Proxy.
 
 This means that the Proxy service is either not functioning or it is
-unreachable.  If you are behind a firewall, then you&apos;ll need to ensure
+unreachable.  If you are behind a firewall, then you'll need to ensure
 that outgoing TCP connections are allowed.</source>
         <translation>Connessione, o attivazione, del Proxy di Trasferimento Dati non riuscita.
 
@@ -5760,7 +5762,7 @@ Nota: Il plugin controlla solo la radice della tua cartella di posta in arrivo d
     </message>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiave pubblica &quot;%1&quot; inviata</translation>
     </message>
 </context>
 <context>
@@ -6637,7 +6639,7 @@ Puoi selezionare o deselezionare un contatto dalla rimozione cronologia dal menu
 <context>
     <name>IcqDie</name>
     <message>
-        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
+        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it's much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
 
 Sincerely yours, Debian Sid.</source>
         <translation type="vanished">Posso dirti come un Linux, ma non essere arrabbiato con me. Certamente questo umano riceverà questo messaggio. Ma è molto meglio chiacchierare con lui da Jabber. Stai rischiando, uno non può mai sapere quando ICQ può morire, nonnina ha fatto il suo tempo. Il suo JID: %1.
@@ -6647,7 +6649,7 @@ Sinceramente tuo, Debian Sid.</translation>
     <message>
         <source>I can tell you as a Linux, but do not be mad at me. This human do not use ICQ anymore, so if you are still use that network he will not receive your message and you have to chat to him by Jabber. His JID: %1.
 
-If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
+If you don't know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
 Sincerely yours, Debian Sid.</source>
         <translation type="vanished">Posso dirti come un Linux, ma non essere arrabbiato con me. Questo umano non userà più ICQ, quindi se tu stai ancora usando quella rete egli non riceverà il tuo messaggio e tu dovrai contattarlo da Jabber. Il suo JID:%1.
 
@@ -6725,7 +6727,7 @@ Questo plugin ha una serie di semplici impostazioni che possono aiutarti:
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
-Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
+Your contact's client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
         <translation>Questo plugin è progettato per inviare immagini ai contatti della lista.
 Il client del tuo contatto deve supportare XEP-0071: XHTML-IM e supportare i dati: URI scheme.
@@ -6779,7 +6781,7 @@ Nota: Per funzionare correttamente, l&apos;opzione options.ui.chat.central-toolb
         <translation>Permetti upscale</translation>
     </message>
     <message>
-        <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
+        <source>This plugin shows images URLs' previews in chats for non-webkit Psi version.
 </source>
         <translation>Questo plugin mostra le anteprime degli URL delle immagini in chat per le versioni di Psi non-webkit.
 </translation>
@@ -7325,7 +7327,7 @@ a giocare a Battaglia Navale. Lui vuole giocare %2.</translation>
         <translation>Avviso</translation>
     </message>
     <message>
-        <source>can&apos;t create folder %1 
+        <source>can't create folder %1 
 caching avatars will be not available</source>
         <translation>impossibile creare cartella %1
 le cache avatar non saranno disponibili</translation>
@@ -7918,7 +7920,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>About plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Info plugin</translation>
     </message>
 </context>
 <context>
@@ -8017,7 +8019,7 @@ Dettagli: %1</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>Email</translation>
     </message>
 </context>
 <context>
@@ -9478,7 +9480,7 @@ Argomento MUC per esempio.</translation>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -9966,7 +9968,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
         <translation>Elimina</translation>
     </message>
     <message>
-        <source>Disable stopspam, if don&apos;t match any rule above
+        <source>Disable stopspam, if don't match any rule above
 (does not work for muc private messages)</source>
         <translation>Disattiva StopSpam, se non corrisponde a nessuna regola precedente
 (non funziona per i messaggi privati nelle MUC)</translation>
@@ -10129,7 +10131,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se usi questo plugin per la prima volta, assicurati che tutti i tuoi account siano connessi e premi il pulsante &quot;Aggiorna Compleanni&quot;. Occorre un po&apos; di tempo.</translation>
     </message>
 </context>
 <context>
@@ -10721,7 +10723,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>About plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Info plugin</translation>
     </message>
 </context>
 <context>
@@ -13095,7 +13097,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Cifratura OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -13152,11 +13154,11 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Enable OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Attiva cifratura OpenPGP</translation>
     </message>
     <message>
         <source>OpenPGP key is not set in your account settings!</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiave OpenPGP non impostata nelle impostazioni del tuo account!</translation>
     </message>
     <message>
         <source>Fingerprint for account &quot;%1&quot;: %2</source>
@@ -13164,11 +13166,11 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Cifratura OpenPGP</translation>
     </message>
     <message>
         <source>Disable OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Disattiva cifratura OpenPGP</translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
@@ -13221,7 +13223,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Set status. STATUS must be one of `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</source>
-        <comment>do not translate `online&apos;, `chat&apos;, etc; STATUS is the same as in previous string</comment>
+        <comment>do not translate `online', `chat', etc; STATUS is the same as in previous string</comment>
         <translation>Imposta lo stato. Lo stato deve essere uno tra &quot;Connesso&quot;, &quot;Chat&quot;, &quot;Assente&quot;, &quot;Non Disponibile&quot;, &quot;Occupato&quot;.</translation>
     </message>
     <message>
@@ -14915,31 +14917,19 @@ Descrizione: </translation>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
-        <translation>
-            <numerusform>%n giorno/i</numerusform>
-            <numerusform>%n giorno/i</numerusform>
-        </translation>
+        <translation><numerusform>%n giorno/i</numerusform><numerusform>%n giorno/i</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s) </source>
-        <translation>
-            <numerusform>%n ora/e</numerusform>
-            <numerusform>%n hour(s) </numerusform>
-        </translation>
+        <translation><numerusform>%n ora/e</numerusform><numerusform>%n hour(s) </numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) </source>
-        <translation>
-            <numerusform>%n minuto/i</numerusform>
-            <numerusform>%n minute(s) </numerusform>
-        </translation>
+        <translation><numerusform>%n minuto/i</numerusform><numerusform>%n minute(s) </numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n second(s) </source>
-        <translation>
-            <numerusform>%n secondo/i</numerusform>
-            <numerusform>%n second(s) </numerusform>
-        </translation>
+        <translation><numerusform>%n secondo/i</numerusform><numerusform>%n second(s) </numerusform></translation>
     </message>
     <message>
         <source>Warning</source>
@@ -15468,35 +15458,35 @@ Grazie per la tua pazienza.</translation>
     </message>
     <message>
         <source>New OMEMO device has been discovered for &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un nuovo dispositvo OMEMO è stato scoperto per &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Do you want to trust this device and allow it to decrypt copies of your messages?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vuoi fidarti di questo dispositivo e consentirgli di decifrare copie dei tuoi messaggi?</translation>
     </message>
     <message>
         <source>Do you want to trust this device and allow it to receive the encrypted messages from you?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vuoi fidarti di questo dispositivo e consentirgli di ricevere i messaggi cifrati da te?</translation>
     </message>
     <message>
         <source>Device public key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiave pubblica dispositivo:</translation>
     </message>
     <message>
         <source>Managing of OMEMO keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestione delle chiavi OMEMO</translation>
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished"></translation>
+        <translation>Fidati</translation>
     </message>
     <message>
         <source>Delete selected device from list of known devices of user &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminare il dispositivo selezionato dalla lista dei dispositivi conosciuti dell&apos;utente &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Confirm action</source>
-        <translation type="unfinished"></translation>
+        <translation>Conferma azione</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -15508,11 +15498,11 @@ Grazie per la tua pazienza.</translation>
     </message>
     <message>
         <source>verified</source>
-        <translation type="unfinished"></translation>
+        <translation>verificato</translation>
     </message>
     <message>
         <source>Do not trust</source>
-        <translation type="unfinished"></translation>
+        <translation>Non fidarti</translation>
     </message>
 </context>
 <context>
@@ -15622,11 +15612,8 @@ Reason: %1</source>
     <message numerus="yes">
         <source>celebrates birthday in %n day(s)
 </source>
-        <translation>
-            <numerusform>Festeggia il compleanno in %n giorno/i
-</numerusform>
-            <numerusform>Festeggia il compleanno in %n giorno/i</numerusform>
-        </translation>
+        <translation><numerusform>Festeggia il compleanno in %n giorno/i
+</numerusform><numerusform>Festeggia il compleanno in %n giorno/i</numerusform></translation>
     </message>
     <message>
         <source>celebrates birthday yesterday.
@@ -16030,10 +16017,7 @@ Motivo: %1</translation>
     </message>
     <message numerus="yes">
         <source>Added %n users to your roster.</source>
-        <translation>
-            <numerusform>Aggiunto %n utente alla tua lista.</numerusform>
-            <numerusform>Aggiunto %n utenti alla tua lista.</numerusform>
-        </translation>
+        <translation><numerusform>Aggiunto %n utente alla tua lista.</numerusform><numerusform>Aggiunto %n utenti alla tua lista.</numerusform></translation>
     </message>
     <message>
         <source>Added %1 to your roster.</source>
@@ -17362,7 +17346,7 @@ Correggere e provare ancora.</translation>
         <source>You can type these special commands in chat and groupchat dialogs:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; to clear chat view&lt;/li&gt;
-&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; &apos;/me&apos; is replaced by your nick&lt;/li&gt;
+&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; '/me' is replaced by your nick&lt;/li&gt;
 &lt;/ul&gt;
 And these work only in groupchat dialog:
 &lt;ul&gt;
@@ -18590,11 +18574,11 @@ Vuoi ancora chiudere la finestra?</translation>
     <name>psiomemo::ConfigWidget</name>
     <message>
         <source>Fingerprints</source>
-        <translation type="unfinished"></translation>
+        <translation>Impronte digitali</translation>
     </message>
     <message>
         <source>Manage Devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestisci dispositivi</translation>
     </message>
 </context>
 <context>
@@ -18605,11 +18589,11 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished"></translation>
+        <translation>Fidati</translation>
     </message>
     <message>
         <source>Contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Contatto</translation>
     </message>
     <message>
         <source>Fingerprint</source>
@@ -18617,19 +18601,19 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>trusted</source>
-        <translation type="unfinished"></translation>
+        <translation>fidato</translation>
     </message>
     <message>
         <source>untrusted</source>
-        <translation type="unfinished"></translation>
+        <translation>non fidato</translation>
     </message>
     <message>
         <source>Do not trust</source>
-        <translation type="unfinished"></translation>
+        <translation>Non fidarti</translation>
     </message>
     <message>
         <source>not decided</source>
-        <translation type="unfinished"></translation>
+        <translation>non deciso</translation>
     </message>
 </context>
 <context>
@@ -18640,11 +18624,11 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Device ID</source>
-        <translation type="unfinished"></translation>
+        <translation>ID dispositivo</translation>
     </message>
     <message>
         <source>Current device</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositivo attuale</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
@@ -18652,11 +18636,11 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Delete all OMEMO data for current device</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina tutti i dati OMEMO per il dispositivo attuale</translation>
     </message>
     <message>
         <source>Other devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Altri dispositivi</translation>
     </message>
     <message>
         <source>Fingerprint</source>
@@ -18670,38 +18654,44 @@ Vuoi ancora chiudere la finestra?</translation>
 4) You will need to verify keys for all devices of your contacts again.
 5) Your contacts will need to verify new device before you start receive messages from them.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminare tutti i dati OMEMO per il dispositivo attuale comporta una serie di conseguenze:
+1) Tutte le sessioni OMEMO iniziate verranno dimenticate.
+2) Perderai l&apos;accesso alla cronologia cifrata salvata per il dispositivo attuale lato server.
+3) Verranno generati un nuovo ID dispositivo e una coppia di chiavi.
+4) Dovrai verificare di nuovo le chiavi per tutti i dispositivi dei tuoi contatti.
+5) I tuoi contatti dovranno verificare il nuovo dispositivo prima che tu inizi a ricevere messaggi da loro.
+</translation>
     </message>
     <message>
         <source>Delete current device?</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminare il dispositivo attuale?</translation>
     </message>
     <message>
         <source>After deleting of device from list of available devices it stops receiving offline messages from your contacts until it will become online and your contacts mark it as trusted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dopo l&apos;eliminazione del dispositivo dalla lista dei dispositivi disponibili, esso non riceverà più messaggi offline dai tuoi contatti finchè non tornerà online e i contatti lo verificheranno.</translation>
     </message>
     <message>
         <source>Delete selected device?</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminare il dispositivo selezionato?</translation>
     </message>
 </context>
 <context>
     <name>psiomemo::OMEMO</name>
     <message>
         <source>The following message is from an untrusted device:</source>
-        <translation type="unfinished"></translation>
+        <translation>Il seguente messaggio viene da un dispositivo non fidato:</translation>
     </message>
     <message>
         <source>[UNTRUSTED]: </source>
-        <translation type="unfinished"></translation>
+        <translation>[NON FIDATO]:</translation>
     </message>
     <message>
         <source>Unable to build any sessions, the message was not sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile iniziare alcuna sessione, messaggio non inviato</translation>
     </message>
     <message>
         <source>%1 does not seem to support OMEMO, disabling for the entire group!</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 non sembra supportare OMEMO, disattivazione per tutto il gruppo!</translation>
     </message>
 </context>
 <context>
@@ -18716,19 +18706,19 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Credits: </source>
-        <translation type="unfinished"></translation>
+        <translation>Crediti:</translation>
     </message>
     <message>
         <source>Enable OMEMO encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Attiva cifratura OMEMO</translation>
     </message>
     <message>
         <source>OMEMO encryption is not available for this group</source>
-        <translation type="unfinished"></translation>
+        <translation>La cifratura OMEMO non è disponibile per questo gruppo</translation>
     </message>
     <message>
         <source>OMEMO encryption is not available for this contact</source>
-        <translation type="unfinished"></translation>
+        <translation>La cifratura OMEMO non è disponibile per questo contatto</translation>
     </message>
     <message>
         <source>Fingerprint for account &quot;%1&quot;: %2</source>
@@ -18736,7 +18726,7 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Disable OMEMO encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Disattiva cifratura OMEMO</translation>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
@@ -18744,11 +18734,18 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>OMEMO encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Cifratura OMEMO</translation>
     </message>
     <message>
         <source>Manage contact fingerprints</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestisci impronte del contatto</translation>
+    </message>
+</context>
+<context>
+    <name>psiomemo::OwnFingerprint</name>
+    <message>
+        <source>Fingerprint: </source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19501,7 +19498,7 @@ Reathorization...</source>
 Riautorizzazione...</translation>
     </message>
     <message>
-        <source>Can&apos;t get files!
+        <source>Can't get files!
 Try remove cookies.</source>
         <translation>Impossibile ottenere i file!
 Prova a cancellare i cookie.</translation>
@@ -19592,7 +19589,7 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
