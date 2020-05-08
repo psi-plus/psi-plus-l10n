@@ -15593,15 +15593,7 @@ La primera vez que instales el complemento, necesitarás iniciar sesión en toda
     <name>RipperCCOptions</name>
     <message>
         <source>Form</source>
-        <translation>Form</translation>
-    </message>
-    <message>
-        <source> min.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attention interval: </source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Form</translation>
     </message>
 </context>
 <context>

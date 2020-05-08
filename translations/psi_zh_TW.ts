@@ -15518,15 +15518,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>RipperCCOptions</name>
     <message>
         <source>Form</source>
-        <translation>外形</translation>
-    </message>
-    <message>
-        <source> min.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attention interval: </source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">外形</translation>
     </message>
 </context>
 <context>

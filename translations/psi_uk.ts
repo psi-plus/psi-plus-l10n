@@ -15680,15 +15680,15 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>RipperCCOptions</name>
     <message>
         <source>Form</source>
-        <translation>Від</translation>
+        <translation type="vanished">Від</translation>
     </message>
     <message>
         <source> min.</source>
-        <translation>хв.</translation>
+        <translation type="vanished">хв.</translation>
     </message>
     <message>
         <source>Attention interval: </source>
-        <translation>Інтервал попереджень:</translation>
+        <translation type="vanished">Інтервал попереджень:</translation>
     </message>
 </context>
 <context>

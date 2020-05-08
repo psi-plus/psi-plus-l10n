@@ -15678,15 +15678,15 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>RipperCCOptions</name>
     <message>
         <source>Form</source>
-        <translation>Form</translation>
+        <translation type="vanished">Form</translation>
     </message>
     <message>
         <source> min.</source>
-        <translation> min.</translation>
+        <translation type="vanished"> min.</translation>
     </message>
     <message>
         <source>Attention interval: </source>
-        <translation>Attention interval: </translation>
+        <translation type="vanished">Attention interval: </translation>
     </message>
 </context>
 <context>

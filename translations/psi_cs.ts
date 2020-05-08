@@ -15567,15 +15567,15 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>RipperCCOptions</name>
     <message>
         <source>Form</source>
-        <translation>Formulář</translation>
+        <translation type="vanished">Formulář</translation>
     </message>
     <message>
         <source> min.</source>
-        <translation> min.</translation>
+        <translation type="vanished"> min.</translation>
     </message>
     <message>
         <source>Attention interval: </source>
-        <translation>Interval pozornosti: </translation>
+        <translation type="vanished">Interval pozornosti: </translation>
     </message>
 </context>
 <context>

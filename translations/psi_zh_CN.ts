@@ -15611,15 +15611,15 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>RipperCCOptions</name>
     <message>
         <source>Form</source>
-        <translation>窗体</translation>
+        <translation type="vanished">窗体</translation>
     </message>
     <message>
         <source> min.</source>
-        <translation>最低限值</translation>
+        <translation type="vanished">最低限值</translation>
     </message>
     <message>
         <source>Attention interval: </source>
-        <translation>晃动窗口间隔:</translation>
+        <translation type="vanished">晃动窗口间隔:</translation>
     </message>
 </context>
 <context>

@@ -15607,15 +15607,7 @@ A primeira vez que você instalar este plugin, você precisa para fazer logon em
     <name>RipperCCOptions</name>
     <message>
         <source>Form</source>
-        <translation>Formulário</translation>
-    </message>
-    <message>
-        <source> min.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attention interval: </source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Formulário</translation>
     </message>
 </context>
 <context>

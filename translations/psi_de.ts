@@ -15635,15 +15635,15 @@ Wenn Sie das Plugin zum ersten Mal starten, müssen Sie sich mit allen Konten an
     <name>RipperCCOptions</name>
     <message>
         <source>Form</source>
-        <translation>Formular</translation>
+        <translation type="vanished">Formular</translation>
     </message>
     <message>
         <source> min.</source>
-        <translation>min.</translation>
+        <translation type="vanished">min.</translation>
     </message>
     <message>
         <source>Attention interval: </source>
-        <translation>Aufmerksamkeitsintervall:</translation>
+        <translation type="vanished">Aufmerksamkeitsintervall:</translation>
     </message>
 </context>
 <context>

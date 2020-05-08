@@ -15599,15 +15599,7 @@ Az első alkalomkor, amikor telepítve lesz ez a kiegészítő, be kell jelentke
     <name>RipperCCOptions</name>
     <message>
         <source>Form</source>
-        <translation>Űrlap</translation>
-    </message>
-    <message>
-        <source> min.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attention interval: </source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Űrlap</translation>
     </message>
 </context>
 <context>
