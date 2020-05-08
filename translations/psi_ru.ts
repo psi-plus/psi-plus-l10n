@@ -9656,6 +9656,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="vanished">Использовать настройки прокси из аккаунта</translation>
     </message>
     <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
+    </message>
+    <message>
         <source>Contact menu</source>
         <translation>Пункт меню</translation>
     </message>
@@ -9759,6 +9763,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Start program:</source>
         <translation type="vanished">Запустить программу:</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Manager</source>
