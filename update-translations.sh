@@ -3,15 +3,17 @@
 # Author:  Boris Pek <tehnick-8@yandex.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2019-04-18
+# Updated: 2020-05-10
 # Version: N/A
 
 set -e
 
 export CUR_DIR="$(dirname $(realpath -s ${0}))"
 export MAIN_DIR="$(realpath -s ${CUR_DIR}/..)"
-export PSIPLUS_DIR="${MAIN_DIR}/psi-plus-snapshots"
-export LANG_DIR="${MAIN_DIR}/psi-plus-l10n_transifex"
+
+PSIMEDIA_DIR="${MAIN_DIR}/psimedia"
+PSIPLUS_DIR="${MAIN_DIR}/psi-plus-snapshots"
+LANG_DIR="${MAIN_DIR}/psi-plus-l10n_transifex"
 
 cd "${CUR_DIR}"
 
@@ -129,11 +131,26 @@ case "${1}" in
         echo;
     fi
 
+    if [ -d "${PSIMEDIA_DIR}" ]; then
+        echo "Updating ${PSIMEDIA_DIR}"
+        cd "${PSIMEDIA_DIR}"
+        git pull --all --prune
+        echo;
+    else
+        echo "Creating ${PSIMEDIA_DIR}"
+        cd "${MAIN_DIR}"
+        git clone https://github.com/psi-im/psimedia.git
+        echo;
+    fi
+
     # beginning of magical hack
     cd "${CUR_DIR}"
     rm -fr tmp
     mkdir tmp
     cd tmp/
+
+    mkdir psimedia
+    cp -a "${PSIMEDIA_DIR}"/psiplugin "psimedia/"
 
     cp "${PSIPLUS_DIR}/patches"/*/*.diff ./
     cp "${PSIPLUS_DIR}/patches"/*/*.patch ./
