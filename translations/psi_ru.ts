@@ -13688,15 +13688,15 @@ Would you like to activate that session now?</source>
     <name>PsiMediaPlugin</name>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished">Авторы: </translation>
+        <translation>Авторы: </translation>
     </message>
     <message>
         <source>Thanks To</source>
-        <translation type="unfinished">Благодарности</translation>
+        <translation>Благодарности</translation>
     </message>
     <message>
         <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
-        <translation type="unfinished"></translation>
+        <translation>Медиа плагин обеспечивает функциональность, необходимую для аудио- и видео-звонков, а также может заменить некоторые части QtMultimedia.</translation>
     </message>
 </context>
 <context>
@@ -15542,11 +15542,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Multimedia</source>
-        <translation type="unfinished"></translation>
+        <translation>Мультимедиа</translation>
     </message>
     <message>
         <source>Audio and video device configuration</source>
-        <translation type="unfinished">Настройка аудио/видео</translation>
+        <translation>Настройка аудио/видео</translation>
     </message>
 </context>
 <context>
