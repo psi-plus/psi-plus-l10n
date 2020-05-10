@@ -11200,6 +11200,10 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
         <source>Save queries to log</source>
         <translation>Speichere Abfragen im Log</translation>
     </message>
+    <message>
+        <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PGPKey</name>
@@ -18559,6 +18563,10 @@ Möchten Sie dennoch das Fenster schließen?</translation>
         <source>Manage Devices</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Configuration</source>
+        <translation type="unfinished">Konfiguration</translation>
+    </message>
 </context>
 <context>
     <name>psiomemo::KnownFingerprints</name>
@@ -18711,6 +18719,33 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     </message>
     <message>
         <source>Manage contact fingerprints</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>psiomemo::OmemoConfiguration</name>
+    <message>
+        <source>OMEMO encryption policy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Always enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enabled by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically mark new own devices as trusted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically mark new interlocutors devices as trusted</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
