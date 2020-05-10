@@ -8312,19 +8312,19 @@ Tags: %1</source>
     <name>OptAvCall</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Form</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Audio output:</source>
-        <translation type="vanished">Ljud ut:</translation>
+        <translation>Ljud ut:</translation>
     </message>
     <message>
         <source>Audio input:</source>
-        <translation type="vanished">Ljud in:</translation>
+        <translation>Ljud in:</translation>
     </message>
     <message>
         <source>Video input:</source>
-        <translation type="vanished">Bild in:</translation>
+        <translation>Bild in:</translation>
     </message>
 </context>
 <context>
@@ -13189,6 +13189,21 @@ Vill du aktivera den sessionen nu?</translation>
     </message>
 </context>
 <context>
+    <name>PsiMediaPlugin</name>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thanks To</source>
+        <translation type="unfinished">Tack till</translation>
+    </message>
+    <message>
+        <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>PsiOptions</name>
     <message>
         <source>Away from desk</source>
@@ -14999,6 +15014,14 @@ Thanks for your patience.</source>
     <message>
         <source>Do not trust</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multimedia</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio and video device configuration</source>
+        <translation type="unfinished">Konfiguration av ljud och bildenheter</translation>
     </message>
 </context>
 <context>

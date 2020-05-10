@@ -8513,19 +8513,19 @@ Kartice: %1</translation>
     <name>OptAvCall</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Forma</translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <source>Audio output:</source>
-        <translation type="vanished">Audio izlaz:</translation>
+        <translation>Audio izlaz:</translation>
     </message>
     <message>
         <source>Audio input:</source>
-        <translation type="vanished">Audio ulaz:</translation>
+        <translation>Audio ulaz:</translation>
     </message>
     <message>
         <source>Video input:</source>
-        <translation type="vanished">Video ulaz:</translation>
+        <translation>Video ulaz:</translation>
     </message>
     <message>
         <source>Video support:</source>
@@ -13480,6 +13480,21 @@ Would you like to activate that session now?</source>
     </message>
 </context>
 <context>
+    <name>PsiMediaPlugin</name>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thanks To</source>
+        <translation type="unfinished">Zahvaljujući</translation>
+    </message>
+    <message>
+        <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>PsiOptions</name>
     <message>
         <source>Away from desk</source>
@@ -15298,6 +15313,14 @@ Thanks for your patience.</source>
     <message>
         <source>Do not trust</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multimedia</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio and video device configuration</source>
+        <translation type="unfinished">Konfiguracija audio i video uredjaja</translation>
     </message>
 </context>
 <context>

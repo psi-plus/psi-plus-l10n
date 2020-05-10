@@ -8607,19 +8607,19 @@ Tags: %1</source>
     <name>OptAvCall</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Форма</translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>Audio output:</source>
-        <translation type="vanished">Аудиовыход:</translation>
+        <translation>Аудиовыход:</translation>
     </message>
     <message>
         <source>Audio input:</source>
-        <translation type="vanished">Аудиовход:</translation>
+        <translation>Аудиовход:</translation>
     </message>
     <message>
         <source>Video input:</source>
-        <translation type="vanished">Видеовход:</translation>
+        <translation>Видеовход:</translation>
     </message>
     <message>
         <source>Video support:</source>
@@ -13685,6 +13685,21 @@ Would you like to activate that session now?</source>
     </message>
 </context>
 <context>
+    <name>PsiMediaPlugin</name>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished">Авторы: </translation>
+    </message>
+    <message>
+        <source>Thanks To</source>
+        <translation type="unfinished">Благодарности</translation>
+    </message>
+    <message>
+        <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>PsiOptions</name>
     <message>
         <source>Away from desk</source>
@@ -15524,6 +15539,14 @@ Thanks for your patience.</source>
     <message>
         <source>Do not trust</source>
         <translation>Не доверять</translation>
+    </message>
+    <message>
+        <source>Multimedia</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio and video device configuration</source>
+        <translation type="unfinished">Настройка аудио/видео</translation>
     </message>
 </context>
 <context>

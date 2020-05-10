@@ -8583,19 +8583,19 @@ Tags: %1</translation>
     <name>OptAvCall</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Formular</translation>
+        <translation>Formular</translation>
     </message>
     <message>
         <source>Audio output:</source>
-        <translation type="vanished">Audioausgabe:</translation>
+        <translation>Audioausgabe:</translation>
     </message>
     <message>
         <source>Audio input:</source>
-        <translation type="vanished">Audioeingabe:</translation>
+        <translation>Audioeingabe:</translation>
     </message>
     <message>
         <source>Video input:</source>
-        <translation type="vanished">Videoeingabe:</translation>
+        <translation>Videoeingabe:</translation>
     </message>
     <message>
         <source>Video support:</source>
@@ -13643,6 +13643,21 @@ Möchten Sie die Sitzung jetzt aktivieren?</translation>
     </message>
 </context>
 <context>
+    <name>PsiMediaPlugin</name>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thanks To</source>
+        <translation type="unfinished">Dank an</translation>
+    </message>
+    <message>
+        <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>PsiOptions</name>
     <message>
         <source>Away from desk</source>
@@ -15478,6 +15493,14 @@ Vielen Dank für Ihre Geduld.</translation>
     <message>
         <source>Do not trust</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multimedia</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio and video device configuration</source>
+        <translation type="unfinished">Einstellungen für Audio- und Videogeräte</translation>
     </message>
 </context>
 <context>

@@ -8312,19 +8312,19 @@ Tags: %1</source>
     <name>OptAvCall</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Đơn</translation>
+        <translation>Đơn</translation>
     </message>
     <message>
         <source>Audio output:</source>
-        <translation type="vanished">Kết xuất âm thanh:</translation>
+        <translation>Kết xuất âm thanh:</translation>
     </message>
     <message>
         <source>Audio input:</source>
-        <translation type="vanished">Đầu vào âm thanh:</translation>
+        <translation>Đầu vào âm thanh:</translation>
     </message>
     <message>
         <source>Video input:</source>
-        <translation type="vanished">Đầu vào phim:</translation>
+        <translation>Đầu vào phim:</translation>
     </message>
 </context>
 <context>
@@ -13190,6 +13190,21 @@ Bạn có muốn kích hoạt buổi hợp đó ngay bây giờ không?</transla
     </message>
 </context>
 <context>
+    <name>PsiMediaPlugin</name>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thanks To</source>
+        <translation type="unfinished">Chúng tôi cám ơn</translation>
+    </message>
+    <message>
+        <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>PsiOptions</name>
     <message>
         <source>Away from desk</source>
@@ -14997,6 +15012,14 @@ Thanks for your patience.</source>
     <message>
         <source>Do not trust</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multimedia</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio and video device configuration</source>
+        <translation type="unfinished">Cấu hình thiết bị âm thanh và phim</translation>
     </message>
 </context>
 <context>

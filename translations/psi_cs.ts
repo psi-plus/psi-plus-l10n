@@ -8532,19 +8532,19 @@ Tagy: %1</translation>
     <name>OptAvCall</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Formulář</translation>
+        <translation>Formulář</translation>
     </message>
     <message>
         <source>Audio output:</source>
-        <translation type="vanished">Audio výstup:</translation>
+        <translation>Audio výstup:</translation>
     </message>
     <message>
         <source>Audio input:</source>
-        <translation type="vanished">Audio vstup:</translation>
+        <translation>Audio vstup:</translation>
     </message>
     <message>
         <source>Video input:</source>
-        <translation type="vanished">Video vstup:</translation>
+        <translation>Video vstup:</translation>
     </message>
     <message>
         <source>Video support:</source>
@@ -13571,6 +13571,21 @@ Chceš aktivovat tuto relaci?</translation>
     </message>
 </context>
 <context>
+    <name>PsiMediaPlugin</name>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished">Autoři: </translation>
+    </message>
+    <message>
+        <source>Thanks To</source>
+        <translation type="unfinished">Díky patří</translation>
+    </message>
+    <message>
+        <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>PsiOptions</name>
     <message>
         <source>Away from desk</source>
@@ -15410,6 +15425,14 @@ Děkujeme za trpělivost.</translation>
     <message>
         <source>Do not trust</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multimedia</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio and video device configuration</source>
+        <translation type="unfinished">Nastavení audio a video zařízení</translation>
     </message>
 </context>
 <context>

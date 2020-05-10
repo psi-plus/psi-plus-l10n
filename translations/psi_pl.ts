@@ -8503,19 +8503,19 @@ Etykiety: %1</translation>
     <name>OptAvCall</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Formularz</translation>
+        <translation>Formularz</translation>
     </message>
     <message>
         <source>Audio output:</source>
-        <translation type="vanished">Wyjście audio:</translation>
+        <translation>Wyjście audio:</translation>
     </message>
     <message>
         <source>Audio input:</source>
-        <translation type="vanished">Wejście audio:</translation>
+        <translation>Wejście audio:</translation>
     </message>
     <message>
         <source>Video input:</source>
-        <translation type="vanished">Wejście wideo:</translation>
+        <translation>Wejście wideo:</translation>
     </message>
     <message>
         <source>Video support:</source>
@@ -13415,6 +13415,21 @@ Czy chcesz teraz aktywować sesję?</translation>
     </message>
 </context>
 <context>
+    <name>PsiMediaPlugin</name>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished">Autorzy:</translation>
+    </message>
+    <message>
+        <source>Thanks To</source>
+        <translation type="unfinished">Podziękowania</translation>
+    </message>
+    <message>
+        <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>PsiOptions</name>
     <message>
         <source>Away from desk</source>
@@ -15230,6 +15245,14 @@ Thanks for your patience.</source>
     <message>
         <source>Do not trust</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multimedia</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio and video device configuration</source>
+        <translation type="unfinished">Konfiguracja urządzeń audio i wideo</translation>
     </message>
 </context>
 <context>

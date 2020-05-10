@@ -8580,19 +8580,19 @@ Tags: %1</translation>
     <name>OptAvCall</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Formulário</translation>
+        <translation>Formulário</translation>
     </message>
     <message>
         <source>Audio output:</source>
-        <translation type="vanished">Saída de áudio:</translation>
+        <translation>Saída de áudio:</translation>
     </message>
     <message>
         <source>Audio input:</source>
-        <translation type="vanished">Entrada de áudio:</translation>
+        <translation>Entrada de áudio:</translation>
     </message>
     <message>
         <source>Video input:</source>
-        <translation type="vanished">Entrada de vídeo:</translation>
+        <translation>Entrada de vídeo:</translation>
     </message>
     <message>
         <source>Video support:</source>
@@ -13614,6 +13614,21 @@ Gostaria de ativar a sessão agora?</translation>
     </message>
 </context>
 <context>
+    <name>PsiMediaPlugin</name>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished">Autores: </translation>
+    </message>
+    <message>
+        <source>Thanks To</source>
+        <translation type="unfinished">Agradecimentos</translation>
+    </message>
+    <message>
+        <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>PsiOptions</name>
     <message>
         <source>Away from desk</source>
@@ -15449,6 +15464,14 @@ Obrigado pela sua paciência.</translation>
     <message>
         <source>Do not trust</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multimedia</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio and video device configuration</source>
+        <translation type="unfinished">Configuração de dispositivos de áudio e vídeo</translation>
     </message>
 </context>
 <context>

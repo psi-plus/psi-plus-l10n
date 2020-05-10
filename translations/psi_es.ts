@@ -8570,19 +8570,19 @@ Etiquetas: %1</translation>
     <name>OptAvCall</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Form</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Audio output:</source>
-        <translation type="vanished">Salida de audio:</translation>
+        <translation>Salida de audio:</translation>
     </message>
     <message>
         <source>Audio input:</source>
-        <translation type="vanished">Entrada de audio:</translation>
+        <translation>Entrada de audio:</translation>
     </message>
     <message>
         <source>Video input:</source>
-        <translation type="vanished">Entrada de vídeo:</translation>
+        <translation>Entrada de vídeo:</translation>
     </message>
     <message>
         <source>Video support:</source>
@@ -13605,6 +13605,21 @@ Quieres activar esa sesión ahora?</translation>
     </message>
 </context>
 <context>
+    <name>PsiMediaPlugin</name>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thanks To</source>
+        <translation type="unfinished">Agradecimientos</translation>
+    </message>
+    <message>
+        <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>PsiOptions</name>
     <message>
         <source>Away from desk</source>
@@ -15440,6 +15455,14 @@ Gracias por tu paciencia.</translation>
     <message>
         <source>Do not trust</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multimedia</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio and video device configuration</source>
+        <translation type="unfinished">Configuración de los dispositivos de audio y vídeo</translation>
     </message>
 </context>
 <context>

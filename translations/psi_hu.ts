@@ -8576,19 +8576,19 @@ Címkék: %1</translation>
     <name>OptAvCall</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">Űrlap</translation>
+        <translation>Űrlap</translation>
     </message>
     <message>
         <source>Audio output:</source>
-        <translation type="vanished">Hang kimenet:</translation>
+        <translation>Hang kimenet:</translation>
     </message>
     <message>
         <source>Audio input:</source>
-        <translation type="vanished">Hang bemenet:</translation>
+        <translation>Hang bemenet:</translation>
     </message>
     <message>
         <source>Video input:</source>
-        <translation type="vanished">Videó bemenet:</translation>
+        <translation>Videó bemenet:</translation>
     </message>
     <message>
         <source>Video support:</source>
@@ -13614,6 +13614,21 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
     </message>
 </context>
 <context>
+    <name>PsiMediaPlugin</name>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished">Szerzők: </translation>
+    </message>
+    <message>
+        <source>Thanks To</source>
+        <translation type="unfinished">Köszönet a következőknek</translation>
+    </message>
+    <message>
+        <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>PsiOptions</name>
     <message>
         <source>Away from desk</source>
@@ -15445,6 +15460,14 @@ Türelmét köszönjük.</translation>
     <message>
         <source>Do not trust</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multimedia</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio and video device configuration</source>
+        <translation type="unfinished">Hang és videoeszköz beállítása</translation>
     </message>
 </context>
 <context>
