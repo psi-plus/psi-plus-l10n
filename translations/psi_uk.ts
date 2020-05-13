@@ -625,11 +625,11 @@ When you enable this option you will not be able to find your password in config
         <translation>Увімкнути Менеджмент Потоку якщо це можливо</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This option disables peer-to-peer connections and also connections to TURN servers provided by the other peer.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Warning: &lt;/span&gt;While this hides your IP address, it makes the connection impossible if TURN server options above are invalid or empty.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <source>Disable connections potentially exposing my IP address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Disable connections potentially exposing my IP address</source>
+        <source>This option disables peer-to-peer connections and also connections to TURN servers provided by the other peer.&lt;br&gt;&lt;br&gt;&lt;b&gt;Warning: &lt;/b&gt;While this hides your IP address, it makes the connection impossible if TURN server options above are invalid or empty.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

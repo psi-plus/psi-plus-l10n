@@ -611,6 +611,14 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
         <source>Enable Stream Management if possible</source>
         <translation>Stream-kezelő engedélyezése, ha lehetséges</translation>
     </message>
+    <message>
+        <source>This option disables peer-to-peer connections and also connections to TURN servers provided by the other peer.&lt;br&gt;&lt;br&gt;&lt;b&gt;Warning: &lt;/b&gt;While this hides your IP address, it makes the connection impossible if TURN server options above are invalid or empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable connections potentially exposing my IP address</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>
