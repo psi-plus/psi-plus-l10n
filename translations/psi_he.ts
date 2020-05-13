@@ -746,7 +746,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Secret Key</source>
-        <translation>מפתח סודי</translation>
+        <translation type="vanished">מפתח סודי</translation>
     </message>
     <message>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
@@ -794,6 +794,10 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose Secret Key</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3999,7 +4003,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Show PGP</source>
-        <translation>הצג PGP</translation>
+        <translation type="vanished">הצג PGP</translation>
     </message>
     <message>
         <source>Show client version</source>
@@ -4015,10 +4019,6 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Show &quot;Active Chats&quot; option in contact menu</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show &quot;Assign OpenPGP Key&quot; option in contact menu</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5622,27 +5622,15 @@ You lost the game.</source>
     <name>GnuPG</name>
     <message>
         <source>Author: </source>
-        <translation>מחבר: </translation>
+        <translation type="vanished">מחבר: </translation>
     </message>
     <message>
         <source>e-mail: </source>
         <translation type="vanished">דוא״ל: </translation>
     </message>
     <message>
-        <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be enough for your needs.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Send GnuPG Public Key</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Email: </source>
-        <translation>דוא״ל: </translation>
-    </message>
-    <message>
-        <source>Public key &quot;%1&quot; sent</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">דוא״ל: </translation>
     </message>
 </context>
 <context>
@@ -8056,6 +8044,37 @@ Tags: %1</source>
     </message>
 </context>
 <context>
+    <name>OpenPGP</name>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished">מחברים: </translation>
+    </message>
+    <message>
+        <source>OpenPGP is the most widely used encryption standard. It is extremely simple in usage:
+* Generate a key pair (public key + secret key) or choose existing one and set it in program settings.
+* Protect your secret key with a strong password and never give it to anyone.
+* Share your public key with buddies and get their public keys using any communication channel which you trust (xmpp, email, PGP keys server).
+* Enable PGP encryption in chat with you buddy and have fun the protected conversation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This plugin uses standard command-line tool GnuPG, so attentively check that you properly installed and configured gpg and gpg-agent.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Embedded Keys Manager can do only basic operations like creating, removing, exporting and importing PGP keys. This should be enough to most of users needs. For more complicated cases use special software.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send GnuPG Public Key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptAdvanced</name>
     <message>
         <source>OptAdvancedUI</source>
@@ -9478,10 +9497,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation type="vanished">התחל תוכנית:</translation>
     </message>
     <message>
-        <source>Manager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Add</source>
         <translation>הוסף</translation>
     </message>
@@ -9503,15 +9518,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Settings</source>
-        <translation>הגדרות</translation>
-    </message>
-    <message>
-        <source>Auto import a key from the message body</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Filter the message with a key</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">הגדרות</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -9837,6 +9844,58 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keys Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select &amp;Key...</source>
+        <translation type="unfinished">בחירת &amp;מפתח...</translation>
+    </message>
+    <message>
+        <source>Configuration</source>
+        <translation type="unfinished">תצורה</translation>
+    </message>
+    <message>
+        <source>OpenPGP encryption policy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Always enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enabled by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically assign known keys to contacts with signed presences and no assigned keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show PGP info in tooltips for contacts in roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically import PGP key from the message body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not show messages with PGP keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy fingerprint</source>
+        <translation type="unfinished">העתקת טביעת אצבע</translation>
     </message>
 </context>
 <context>
@@ -12756,10 +12815,6 @@ Reason: %1.</source>
         <source>Set Topic</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -12844,6 +12899,22 @@ Reason: %1.</source>
     <message>
         <source>Show own &amp;fingerprint</source>
         <translation>הצגת &amp;טביעת אצבע עצמית</translation>
+    </message>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose Public Key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send own public key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send public key...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13106,11 +13177,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
-        <translation>הקצה מפתח Open&amp;PGP</translation>
+        <translation type="vanished">הקצה מפתח Open&amp;PGP</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation>אל תקצה מפתח Open&amp;PGP</translation>
+        <translation type="vanished">אל תקצה מפתח Open&amp;PGP</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
@@ -18248,11 +18319,11 @@ Do you still want to close the window?</source>
     <name>psiomemo::OMEMOPlugin</name>
     <message>
         <source>Author: </source>
-        <translation>מחבר: </translation>
+        <translation type="vanished">מחבר: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>דוא״ל: </translation>
+        <translation type="vanished">דוא״ל: </translation>
     </message>
     <message>
         <source>Credits: </source>
@@ -18289,6 +18360,10 @@ Do you still want to close the window?</source>
     <message>
         <source>Manage contact fingerprints</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished">מחברים: </translation>
     </message>
 </context>
 <context>

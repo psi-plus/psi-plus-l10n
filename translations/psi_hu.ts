@@ -752,7 +752,7 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>Secret Key</source>
-        <translation>Titkos kulcs</translation>
+        <translation type="vanished">Titkos kulcs</translation>
     </message>
     <message>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
@@ -801,6 +801,10 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
         <translation>Sream-kezelő protokoll engedélyezése, ha lehetséges. Instabil kapcsolatnál hasznos. A szerverednek támogatnia kell ezt a funkciót. További információért nézd meg, XEP-0184.</translation>
+    </message>
+    <message>
+        <source>Choose Secret Key</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4063,7 +4067,7 @@ Ez az opció csak akkor működik, ha az alapértelmezések elfogadása ki van k
     </message>
     <message>
         <source>Show PGP</source>
-        <translation>PGP megjelenítése</translation>
+        <translation type="vanished">PGP megjelenítése</translation>
     </message>
     <message>
         <source>Show client version</source>
@@ -4083,7 +4087,7 @@ Ez az opció csak akkor működik, ha az alapértelmezések elfogadása ki van k
     </message>
     <message>
         <source>Show &quot;Assign OpenPGP Key&quot; option in contact menu</source>
-        <translation>&quot;OpenPGP kulcs hozzárendelése&quot;-beállítás megjelenítése az ismerősmenüben</translation>
+        <translation type="vanished">&quot;OpenPGP kulcs hozzárendelése&quot;-beállítás megjelenítése az ismerősmenüben</translation>
     </message>
     <message>
         <source>Show &quot;Picture&quot; option in contact menu</source>
@@ -5720,7 +5724,7 @@ Megjegyzés: A kiegészítő csak az &apos;Inbox&apos; mappát ellenőrzi, ha sz
     <name>GnuPG</name>
     <message>
         <source>Author: </source>
-        <translation>Szerző:</translation>
+        <translation type="vanished">Szerző:</translation>
     </message>
     <message>
         <source>e-mail: </source>
@@ -5728,11 +5732,11 @@ Megjegyzés: A kiegészítő csak az &apos;Inbox&apos; mappát ellenőrzi, ha sz
     </message>
     <message>
         <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be enough for your needs.</source>
-        <translation>A GnuPG Kulcskezelő létrehozhat, eltávolíthat, exportálhat és importálhat GnuPG kulcsokat. Csak az alap funkciókra képes, de remélem ez is elég.</translation>
+        <translation type="vanished">A GnuPG Kulcskezelő létrehozhat, eltávolíthat, exportálhat és importálhat GnuPG kulcsokat. Csak az alap funkciókra képes, de remélem ez is elég.</translation>
     </message>
     <message>
         <source>Send GnuPG Public Key</source>
-        <translation>GnuPG Publikus Kulcs küldése</translation>
+        <translation type="vanished">GnuPG Publikus Kulcs küldése</translation>
     </message>
     <message>
         <source>Public key %1 sent</source>
@@ -5740,11 +5744,7 @@ Megjegyzés: A kiegészítő csak az &apos;Inbox&apos; mappát ellenőrzi, ha sz
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-mail: </translation>
-    </message>
-    <message>
-        <source>Public key &quot;%1&quot; sent</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">E-mail: </translation>
     </message>
 </context>
 <context>
@@ -8218,6 +8218,37 @@ Címkék: %1</translation>
     </message>
 </context>
 <context>
+    <name>OpenPGP</name>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished">Szerzők: </translation>
+    </message>
+    <message>
+        <source>OpenPGP is the most widely used encryption standard. It is extremely simple in usage:
+* Generate a key pair (public key + secret key) or choose existing one and set it in program settings.
+* Protect your secret key with a strong password and never give it to anyone.
+* Share your public key with buddies and get their public keys using any communication channel which you trust (xmpp, email, PGP keys server).
+* Enable PGP encryption in chat with you buddy and have fun the protected conversation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This plugin uses standard command-line tool GnuPG, so attentively check that you properly installed and configured gpg and gpg-agent.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Embedded Keys Manager can do only basic operations like creating, removing, exporting and importing PGP keys. This should be enough to most of users needs. For more complicated cases use special software.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send GnuPG Public Key</source>
+        <translation type="unfinished">GnuPG Publikus Kulcs küldése</translation>
+    </message>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptAdvanced</name>
     <message>
         <source>OptAdvancedUI</source>
@@ -9717,7 +9748,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Manager</source>
-        <translation>Kezelő</translation>
+        <translation type="vanished">Kezelő</translation>
     </message>
     <message>
         <source>Add</source>
@@ -9741,15 +9772,15 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Beállítások</translation>
+        <translation type="vanished">Beállítások</translation>
     </message>
     <message>
         <source>Auto import a key from the message body</source>
-        <translation>Kulcs automatikus importálása az üzenetből</translation>
+        <translation type="vanished">Kulcs automatikus importálása az üzenetből</translation>
     </message>
     <message>
         <source>Filter the message with a key</source>
-        <translation>Üzenetek szűrése kulccsal</translation>
+        <translation type="vanished">Üzenetek szűrése kulccsal</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -10075,6 +10106,58 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keys Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select &amp;Key...</source>
+        <translation type="unfinished">&amp;Kulcs Kiválasztása...</translation>
+    </message>
+    <message>
+        <source>Configuration</source>
+        <translation type="unfinished">Beállítások</translation>
+    </message>
+    <message>
+        <source>OpenPGP encryption policy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Always enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enabled by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically assign known keys to contacts with signed presences and no assigned keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show PGP info in tooltips for contacts in roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically import PGP key from the message body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not show messages with PGP keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy fingerprint</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13031,10 +13114,6 @@ Oka: %1.</translation>
         <source>Set Topic</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -13118,6 +13197,22 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose Public Key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send own public key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send public key...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13385,11 +13480,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
-        <translation>&amp;OpenPGP-kulcs hozzárendelése</translation>
+        <translation type="vanished">&amp;OpenPGP-kulcs hozzárendelése</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation>&amp;OpenPGP-kulcs törlése</translation>
+        <translation type="vanished">&amp;OpenPGP-kulcs törlése</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
@@ -18547,11 +18642,11 @@ Ablak bezárása mégis?</translation>
     <name>psiomemo::OMEMOPlugin</name>
     <message>
         <source>Author: </source>
-        <translation>Szerző: </translation>
+        <translation type="vanished">Szerző: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-mail: </translation>
+        <translation type="vanished">E-mail: </translation>
     </message>
     <message>
         <source>Credits: </source>
@@ -18588,6 +18683,10 @@ Ablak bezárása mégis?</translation>
     <message>
         <source>Manage contact fingerprints</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished">Szerzők: </translation>
     </message>
 </context>
 <context>

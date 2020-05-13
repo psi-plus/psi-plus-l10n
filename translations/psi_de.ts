@@ -761,7 +761,7 @@ der Inaktivität getrennt wird (z. B. von Ihrem Provider oder durch Ihren Router
     </message>
     <message>
         <source>Secret Key</source>
-        <translation>Geheimer Schlüssel</translation>
+        <translation type="vanished">Geheimer Schlüssel</translation>
     </message>
     <message>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
@@ -810,6 +810,10 @@ der Inaktivität getrennt wird (z. B. von Ihrem Provider oder durch Ihren Router
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
         <translation>Aktiviert das Stream Management Protokoll, falls möglich. Dieses ist bei instabilen Netzwerkverbindungen hilfreich. Der genutzte Server muss dies unterstützen. Siehe XEP-0184 für weitere Informationen.</translation>
+    </message>
+    <message>
+        <source>Choose Secret Key</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4075,7 +4079,7 @@ folgenden Gruppenchats (JIDs eingeben)</translation>
     </message>
     <message>
         <source>Show PGP</source>
-        <translation>Zeige PGP</translation>
+        <translation type="vanished">Zeige PGP</translation>
     </message>
     <message>
         <source>Show client version</source>
@@ -4095,7 +4099,7 @@ folgenden Gruppenchats (JIDs eingeben)</translation>
     </message>
     <message>
         <source>Show &quot;Assign OpenPGP Key&quot; option in contact menu</source>
-        <translation>Zeige &quot;OpenPGP Schlüssel zuweisen&quot;-Option im Kontaktmenü</translation>
+        <translation type="vanished">Zeige &quot;OpenPGP Schlüssel zuweisen&quot;-Option im Kontaktmenü</translation>
     </message>
     <message>
         <source>Show &quot;Picture&quot; option in contact menu</source>
@@ -5732,7 +5736,7 @@ Anmerkung: Das Plugin überprüft lediglich das Hauptverzeichnis Ihres Posteinga
     <name>GnuPG</name>
     <message>
         <source>Author: </source>
-        <translation>Autor:</translation>
+        <translation type="vanished">Autor:</translation>
     </message>
     <message>
         <source>e-mail: </source>
@@ -5740,11 +5744,11 @@ Anmerkung: Das Plugin überprüft lediglich das Hauptverzeichnis Ihres Posteinga
     </message>
     <message>
         <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be enough for your needs.</source>
-        <translation>GnuPG Key Manager kann GnuPG-Schlüssel erstellen, löschen und importieren. Er kann lediglich grundlegende Funktionen ausführen aber ich hoffe, er genügt Ihren Ansprüchen.</translation>
+        <translation type="vanished">GnuPG Key Manager kann GnuPG-Schlüssel erstellen, löschen und importieren. Er kann lediglich grundlegende Funktionen ausführen aber ich hoffe, er genügt Ihren Ansprüchen.</translation>
     </message>
     <message>
         <source>Send GnuPG Public Key</source>
-        <translation>Sende öffentlichen GnuPG-Schlüssel</translation>
+        <translation type="vanished">Sende öffentlichen GnuPG-Schlüssel</translation>
     </message>
     <message>
         <source>Public key %1 sent</source>
@@ -5752,11 +5756,7 @@ Anmerkung: Das Plugin überprüft lediglich das Hauptverzeichnis Ihres Posteinga
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
-    </message>
-    <message>
-        <source>Public key &quot;%1&quot; sent</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">E-Mail: </translation>
     </message>
 </context>
 <context>
@@ -8225,6 +8225,37 @@ Tags: %1</translation>
     </message>
 </context>
 <context>
+    <name>OpenPGP</name>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OpenPGP is the most widely used encryption standard. It is extremely simple in usage:
+* Generate a key pair (public key + secret key) or choose existing one and set it in program settings.
+* Protect your secret key with a strong password and never give it to anyone.
+* Share your public key with buddies and get their public keys using any communication channel which you trust (xmpp, email, PGP keys server).
+* Enable PGP encryption in chat with you buddy and have fun the protected conversation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This plugin uses standard command-line tool GnuPG, so attentively check that you properly installed and configured gpg and gpg-agent.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Embedded Keys Manager can do only basic operations like creating, removing, exporting and importing PGP keys. This should be enough to most of users needs. For more complicated cases use special software.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send GnuPG Public Key</source>
+        <translation type="unfinished">Sende öffentlichen GnuPG-Schlüssel</translation>
+    </message>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptAdvanced</name>
     <message>
         <source>OptAdvancedUI</source>
@@ -9726,7 +9757,7 @@ Aktiviere die &quot;Nachrichtenarchivierung&quot;-Option zur Verwendung!</transl
     </message>
     <message>
         <source>Manager</source>
-        <translation>Manager</translation>
+        <translation type="vanished">Manager</translation>
     </message>
     <message>
         <source>Add</source>
@@ -9750,15 +9781,15 @@ Aktiviere die &quot;Nachrichtenarchivierung&quot;-Option zur Verwendung!</transl
     </message>
     <message>
         <source>Settings</source>
-        <translation>Einstellungen</translation>
+        <translation type="vanished">Einstellungen</translation>
     </message>
     <message>
         <source>Auto import a key from the message body</source>
-        <translation>Importiere Schlüssel automatisch aus Nachrichten</translation>
+        <translation type="vanished">Importiere Schlüssel automatisch aus Nachrichten</translation>
     </message>
     <message>
         <source>Filter the message with a key</source>
-        <translation>Filtere Schlüsselnachrichten</translation>
+        <translation type="vanished">Filtere Schlüsselnachrichten</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -10085,6 +10116,58 @@ Aktiviere die &quot;Nachrichtenarchivierung&quot;-Option zur Verwendung!</transl
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keys Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select &amp;Key...</source>
+        <translation type="unfinished">Sc&amp;hlüssel auswählen ...</translation>
+    </message>
+    <message>
+        <source>Configuration</source>
+        <translation type="unfinished">Konfiguration</translation>
+    </message>
+    <message>
+        <source>OpenPGP encryption policy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Always enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enabled by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically assign known keys to contacts with signed presences and no assigned keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show PGP info in tooltips for contacts in roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically import PGP key from the message body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not show messages with PGP keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy fingerprint</source>
+        <translation type="unfinished">Kopiere Fingerabdruck</translation>
     </message>
 </context>
 <context>
@@ -13057,10 +13140,6 @@ Grund: %1.</translation>
         <source>Set Topic</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -13145,6 +13224,22 @@ Grund: %1.</translation>
     <message>
         <source>Show own &amp;fingerprint</source>
         <translation>Zeige eigenen &amp;Fingerabdruck</translation>
+    </message>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose Public Key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send own public key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send public key...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13414,11 +13509,11 @@ Migration ist möglich mit Psi-0.15</translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
-        <translation>Open&amp;PGP-Schlüssel zuweisen</translation>
+        <translation type="vanished">Open&amp;PGP-Schlüssel zuweisen</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation>Open&amp;PGP-Schlüssel entfernen</translation>
+        <translation type="vanished">Open&amp;PGP-Schlüssel entfernen</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
@@ -18702,11 +18797,11 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     <name>psiomemo::OMEMOPlugin</name>
     <message>
         <source>Author: </source>
-        <translation>Autor: </translation>
+        <translation type="vanished">Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-Mail: </translation>
+        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>Credits: </source>
@@ -18742,6 +18837,10 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     </message>
     <message>
         <source>Manage contact fingerprints</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authors: </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
