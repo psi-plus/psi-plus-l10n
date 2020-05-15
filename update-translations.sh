@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@yandex.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2020-05-10
+# Updated: 2020-05-15
 # Version: N/A
 
 set -e
@@ -11,7 +11,6 @@ set -e
 export CUR_DIR="$(dirname $(realpath -s ${0}))"
 export MAIN_DIR="$(realpath -s ${CUR_DIR}/..)"
 
-PSIMEDIA_DIR="${MAIN_DIR}/psimedia"
 PSIPLUS_DIR="${MAIN_DIR}/psi-plus-snapshots"
 LANG_DIR="${MAIN_DIR}/psi-plus-l10n_transifex"
 
@@ -131,26 +130,11 @@ case "${1}" in
         echo;
     fi
 
-    if [ -d "${PSIMEDIA_DIR}" ]; then
-        echo "Updating ${PSIMEDIA_DIR}"
-        cd "${PSIMEDIA_DIR}"
-        git pull --all --prune
-        echo;
-    else
-        echo "Creating ${PSIMEDIA_DIR}"
-        cd "${MAIN_DIR}"
-        git clone https://github.com/psi-im/psimedia.git
-        echo;
-    fi
-
     # beginning of magical hack
     cd "${CUR_DIR}"
     rm -fr tmp
     mkdir tmp
     cd tmp/
-
-    mkdir psimedia
-    cp -a "${PSIMEDIA_DIR}"/psiplugin "psimedia/"
 
     cp "${PSIPLUS_DIR}/patches"/*/*.diff ./
     cp "${PSIPLUS_DIR}/patches"/*/*.patch ./
@@ -178,16 +162,31 @@ case "${1}" in
     rm -r translations.pro
 
     echo "HEADERS = \\" >> translations.pro
-    find "${PSIPLUS_DIR}/iris" "${PSIPLUS_DIR}/src" "${CUR_DIR}/tmp" -type f -name "*.h" | \
+    find "${PSIPLUS_DIR}/iris" "${PSIPLUS_DIR}/plugins" "${PSIPLUS_DIR}/src" "${CUR_DIR}/tmp" -type f -name "*.h" | \
+        grep -v "/builddir/" | \
+        grep -v "/plugins/generic/psimedia/demo" | \
+        grep -v "/plugins/generic/psimedia/gstplugin"| \
+        grep -v "/plugins/generic/psimedia/gstprovider" | \
+        grep -v "/plugins/generic/psimedia/psimedia" | \
         while read var; do echo "  ${var} \\" >> translations.pro; done
 
     echo "SOURCES = \\" >> translations.pro
-    find "${PSIPLUS_DIR}/iris" "${PSIPLUS_DIR}/src" "${CUR_DIR}/tmp" -type f -name "*.cpp" | \
+    find "${PSIPLUS_DIR}/iris" "${PSIPLUS_DIR}/plugins" "${PSIPLUS_DIR}/src" "${CUR_DIR}/tmp" -type f -name "*.cpp" | \
+        grep -v "/builddir/" | \
+        grep -v "/plugins/generic/psimedia/demo" | \
+        grep -v "/plugins/generic/psimedia/gstplugin"| \
+        grep -v "/plugins/generic/psimedia/gstprovider" | \
+        grep -v "/plugins/generic/psimedia/psimedia" | \
         while read var; do echo "  ${var} \\" >> translations.pro; done
     echo "  ${CUR_DIR}/tmp/*.cpp" >> translations.pro
 
     echo "FORMS = \\" >> translations.pro
-    find "${PSIPLUS_DIR}/iris" "${PSIPLUS_DIR}/src" "${CUR_DIR}/tmp" -type f -name "*.ui" | \
+    find "${PSIPLUS_DIR}/iris" "${PSIPLUS_DIR}/plugins" "${PSIPLUS_DIR}/src" "${CUR_DIR}/tmp" -type f -name "*.ui" | \
+        grep -v "/builddir/" | \
+        grep -v "/plugins/generic/psimedia/demo" | \
+        grep -v "/plugins/generic/psimedia/gstplugin"| \
+        grep -v "/plugins/generic/psimedia/gstprovider" | \
+        grep -v "/plugins/generic/psimedia/psimedia" | \
         while read var; do echo "  ${var} \\" >> translations.pro; done
     echo "  ${CUR_DIR}/tmp/*.ui" >> translations.pro
 
