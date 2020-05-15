@@ -10855,36 +10855,19 @@ Kialo: %1.</translation>
 <context>
     <name>Passphrase</name>
     <message>
-        <source>OpenPGP Passphrase</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your passphrase is needed to use OpenPGP security.
-Please enter your passphrase below:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remember passphrase</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Nuligi</translation>
+        <translation type="vanished">&amp;Nuligi</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;Bone</translation>
-    </message>
-    <message>
-        <source>psi/keys64</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;Bone</translation>
     </message>
 </context>
 <context>
     <name>PassphraseDlg</name>
     <message>
         <source>%1: OpenPGP Passphrase</source>
-        <translation>%1: OpenPGP Pasfrazo</translation>
+        <translation type="vanished">%1: OpenPGP Pasfrazo</translation>
     </message>
 </context>
 <context>
@@ -14333,39 +14316,39 @@ Description: </source>
     </message>
     <message>
         <source>Invalid passphrase</source>
-        <translation>nevalida pasfrazo</translation>
+        <translation type="vanished">nevalida pasfrazo</translation>
     </message>
     <message>
         <source>Invalid input format</source>
-        <translation>nevalida enigformato</translation>
+        <translation type="vanished">nevalida enigformato</translation>
     </message>
     <message>
         <source>Signing key expired</source>
-        <translation>La marko de la ŝlosilo trodatis</translation>
+        <translation type="vanished">La marko de la ŝlosilo trodatis</translation>
     </message>
     <message>
         <source>Invalid key</source>
-        <translation>Nevalida ŝlosilo</translation>
+        <translation type="vanished">Nevalida ŝlosilo</translation>
     </message>
     <message>
         <source>Encrypting key expired</source>
-        <translation>Ĉifra ŝlosilo trodatis</translation>
+        <translation type="vanished">Ĉifra ŝlosilo trodatis</translation>
     </message>
     <message>
         <source>Encrypting key is untrusted</source>
-        <translation>Ĉifra ŝlosilo estas nefidinda</translation>
+        <translation type="vanished">Ĉifra ŝlosilo estas nefidinda</translation>
     </message>
     <message>
         <source>Encrypting key is invalid</source>
-        <translation>Ĉifra ŝlosilo estas nevalida</translation>
+        <translation type="vanished">Ĉifra ŝlosilo estas nevalida</translation>
     </message>
     <message>
         <source>PGP card is missing</source>
-        <translation>PGP karto estas mankanta</translation>
+        <translation type="vanished">PGP karto estas mankanta</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Nekonata eraro</translation>
+        <translation type="vanished">Nekonata eraro</translation>
     </message>
     <message>
         <source>Socket Error</source>

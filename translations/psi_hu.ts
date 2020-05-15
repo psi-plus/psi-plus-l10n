@@ -11364,36 +11364,32 @@ Oka: %1.</translation>
     <name>Passphrase</name>
     <message>
         <source>OpenPGP Passphrase</source>
-        <translation>OpenPGP jelszó</translation>
+        <translation type="vanished">OpenPGP jelszó</translation>
     </message>
     <message>
         <source>Your passphrase is needed to use OpenPGP security.
 Please enter your passphrase below:</source>
-        <translation>Az OpenPGP-titkosítás használatához jelszó szükséges.
+        <translation type="vanished">Az OpenPGP-titkosítás használatához jelszó szükséges.
 Kérlek add meg a jelszavad:</translation>
     </message>
     <message>
         <source>Remember passphrase</source>
-        <translation>Jelszó megjegyzése</translation>
+        <translation type="vanished">Jelszó megjegyzése</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>Mégsem</translation>
+        <translation type="vanished">Mégsem</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;Rendben</translation>
-    </message>
-    <message>
-        <source>psi/keys64</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;Rendben</translation>
     </message>
 </context>
 <context>
     <name>PassphraseDlg</name>
     <message>
         <source>%1: OpenPGP Passphrase</source>
-        <translation>%1: OpenPGP jelszó</translation>
+        <translation type="vanished">%1: OpenPGP jelszó</translation>
     </message>
 </context>
 <context>
@@ -14924,39 +14920,39 @@ Leírás:</translation>
     </message>
     <message>
         <source>Invalid passphrase</source>
-        <translation>Érvénytelen jelszó</translation>
+        <translation type="vanished">Érvénytelen jelszó</translation>
     </message>
     <message>
         <source>Invalid input format</source>
-        <translation>Érvénytelen beviteli formátum</translation>
+        <translation type="vanished">Érvénytelen beviteli formátum</translation>
     </message>
     <message>
         <source>Signing key expired</source>
-        <translation>Az aláíró kulcs lejárt</translation>
+        <translation type="vanished">Az aláíró kulcs lejárt</translation>
     </message>
     <message>
         <source>Invalid key</source>
-        <translation>Érvénytelen kulcs</translation>
+        <translation type="vanished">Érvénytelen kulcs</translation>
     </message>
     <message>
         <source>Encrypting key expired</source>
-        <translation>A titkosító kulcs lejárt</translation>
+        <translation type="vanished">A titkosító kulcs lejárt</translation>
     </message>
     <message>
         <source>Encrypting key is untrusted</source>
-        <translation>A titkosító kulcs nincs hitelesítve</translation>
+        <translation type="vanished">A titkosító kulcs nincs hitelesítve</translation>
     </message>
     <message>
         <source>Encrypting key is invalid</source>
-        <translation>Érvénytelen titkosító kulcs</translation>
+        <translation type="vanished">Érvénytelen titkosító kulcs</translation>
     </message>
     <message>
         <source>PGP card is missing</source>
-        <translation>PGP-kártya hiányzik</translation>
+        <translation type="vanished">PGP-kártya hiányzik</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Ismeretlen hiba</translation>
+        <translation type="vanished">Ismeretlen hiba</translation>
     </message>
     <message>
         <source>Socket Error</source>

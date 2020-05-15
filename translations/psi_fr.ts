@@ -11219,36 +11219,32 @@ Cause: %1.</translation>
     <name>Passphrase</name>
     <message>
         <source>OpenPGP Passphrase</source>
-        <translation>Phrase de passe OpenPGP</translation>
+        <translation type="vanished">Phrase de passe OpenPGP</translation>
     </message>
     <message>
         <source>Your passphrase is needed to use OpenPGP security.
 Please enter your passphrase below:</source>
-        <translation>Votre mot de passe est nécessaire pour utiliser la sécurité OpenPGP.
+        <translation type="vanished">Votre mot de passe est nécessaire pour utiliser la sécurité OpenPGP.
 Veuillez saisir votre mot de passe ci-dessous :</translation>
     </message>
     <message>
         <source>Remember passphrase</source>
-        <translation>Retenir le mot de passe</translation>
+        <translation type="vanished">Retenir le mot de passe</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>A&amp;nnuler</translation>
+        <translation type="vanished">A&amp;nnuler</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;OK</translation>
-    </message>
-    <message>
-        <source>psi/keys64</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;OK</translation>
     </message>
 </context>
 <context>
     <name>PassphraseDlg</name>
     <message>
         <source>%1: OpenPGP Passphrase</source>
-        <translation>%1: Phrase de passe OpenPGP</translation>
+        <translation type="vanished">%1: Phrase de passe OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -14767,39 +14763,39 @@ Description: </translation>
     </message>
     <message>
         <source>Invalid passphrase</source>
-        <translation>Phrase de passe non valide</translation>
+        <translation type="vanished">Phrase de passe non valide</translation>
     </message>
     <message>
         <source>Invalid input format</source>
-        <translation>Mauvais format d&apos;entrée</translation>
+        <translation type="vanished">Mauvais format d&apos;entrée</translation>
     </message>
     <message>
         <source>Signing key expired</source>
-        <translation>La clé de signature a expiré</translation>
+        <translation type="vanished">La clé de signature a expiré</translation>
     </message>
     <message>
         <source>Invalid key</source>
-        <translation>Clé non valide</translation>
+        <translation type="vanished">Clé non valide</translation>
     </message>
     <message>
         <source>Encrypting key expired</source>
-        <translation>Clé de cryptage expirée</translation>
+        <translation type="vanished">Clé de cryptage expirée</translation>
     </message>
     <message>
         <source>Encrypting key is untrusted</source>
-        <translation>Clé de cryptage pas de confiance</translation>
+        <translation type="vanished">Clé de cryptage pas de confiance</translation>
     </message>
     <message>
         <source>Encrypting key is invalid</source>
-        <translation>Clé de cryptage non valide</translation>
+        <translation type="vanished">Clé de cryptage non valide</translation>
     </message>
     <message>
         <source>PGP card is missing</source>
-        <translation>Il manque la carte PGP</translation>
+        <translation type="vanished">Il manque la carte PGP</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Erreur inconnue</translation>
+        <translation type="vanished">Erreur inconnue</translation>
     </message>
     <message>
         <source>Socket Error</source>

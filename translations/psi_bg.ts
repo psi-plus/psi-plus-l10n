@@ -11239,36 +11239,32 @@ Reason: %1.</source>
     <name>Passphrase</name>
     <message>
         <source>OpenPGP Passphrase</source>
-        <translation>OpenPGP Парола</translation>
+        <translation type="vanished">OpenPGP Парола</translation>
     </message>
     <message>
         <source>Your passphrase is needed to use OpenPGP security.
 Please enter your passphrase below:</source>
-        <translation>Вашата парола е нужна, за да използвате сигурността на OpenPgP.
+        <translation type="vanished">Вашата парола е нужна, за да използвате сигурността на OpenPgP.
 Моля въведете паролата ви отдолу:</translation>
     </message>
     <message>
         <source>Remember passphrase</source>
-        <translation>Запомняне на паролата</translation>
+        <translation type="vanished">Запомняне на паролата</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Отказ</translation>
+        <translation type="vanished">&amp;Отказ</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;Oк</translation>
-    </message>
-    <message>
-        <source>psi/keys64</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;Oк</translation>
     </message>
 </context>
 <context>
     <name>PassphraseDlg</name>
     <message>
         <source>%1: OpenPGP Passphrase</source>
-        <translation>%1: Парола за OpenPGP</translation>
+        <translation type="vanished">%1: Парола за OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -14773,39 +14769,35 @@ Description: </source>
     </message>
     <message>
         <source>Invalid passphrase</source>
-        <translation>Невалидна парола</translation>
+        <translation type="vanished">Невалидна парола</translation>
     </message>
     <message>
         <source>Invalid input format</source>
-        <translation>Невалиден входящ формат</translation>
+        <translation type="vanished">Невалиден входящ формат</translation>
     </message>
     <message>
         <source>Signing key expired</source>
-        <translation>Ключът за подписване е изтекъл</translation>
+        <translation type="vanished">Ключът за подписване е изтекъл</translation>
     </message>
     <message>
         <source>Invalid key</source>
-        <translation>Невалиден ключ</translation>
+        <translation type="vanished">Невалиден ключ</translation>
     </message>
     <message>
         <source>Encrypting key expired</source>
-        <translation>Криптиращият ключ е изтекъл</translation>
-    </message>
-    <message>
-        <source>Encrypting key is untrusted</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Криптиращият ключ е изтекъл</translation>
     </message>
     <message>
         <source>Encrypting key is invalid</source>
-        <translation>Криптиращият ключ е невалиден</translation>
+        <translation type="vanished">Криптиращият ключ е невалиден</translation>
     </message>
     <message>
         <source>PGP card is missing</source>
-        <translation>PGP картата липсва</translation>
+        <translation type="vanished">PGP картата липсва</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Непозната грешка</translation>
+        <translation type="vanished">Непозната грешка</translation>
     </message>
     <message>
         <source>Socket Error</source>

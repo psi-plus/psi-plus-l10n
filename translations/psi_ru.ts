@@ -11426,36 +11426,36 @@ Reason: %1.</source>
     <name>Passphrase</name>
     <message>
         <source>OpenPGP Passphrase</source>
-        <translation>Ключевая фраза OpenPGP</translation>
+        <translation type="vanished">Ключевая фраза OpenPGP</translation>
     </message>
     <message>
         <source>Your passphrase is needed to use OpenPGP security.
 Please enter your passphrase below:</source>
-        <translation>Для использования шифрования OpenPGP нужна ваша ключевая фраза.
+        <translation type="vanished">Для использования шифрования OpenPGP нужна ваша ключевая фраза.
 Введите ключевую фразу:</translation>
     </message>
     <message>
         <source>Remember passphrase</source>
-        <translation>Запомнить ключевую фразу</translation>
+        <translation type="vanished">Запомнить ключевую фразу</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>О&amp;тмена</translation>
+        <translation type="vanished">О&amp;тмена</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;ОК</translation>
+        <translation type="vanished">&amp;ОК</translation>
     </message>
     <message>
         <source>psi/keys64</source>
-        <translation>psi/keys64</translation>
+        <translation type="vanished">psi/keys64</translation>
     </message>
 </context>
 <context>
     <name>PassphraseDlg</name>
     <message>
         <source>%1: OpenPGP Passphrase</source>
-        <translation>%1: ключевая фраза OpenPGP</translation>
+        <translation type="vanished">%1: ключевая фраза OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -15008,39 +15008,39 @@ Description: </source>
     </message>
     <message>
         <source>Invalid passphrase</source>
-        <translation>Неправильный пароль</translation>
+        <translation type="vanished">Неправильный пароль</translation>
     </message>
     <message>
         <source>Invalid input format</source>
-        <translation>Недействительный формат</translation>
+        <translation type="vanished">Недействительный формат</translation>
     </message>
     <message>
         <source>Signing key expired</source>
-        <translation>Подписывающий ключ устарел</translation>
+        <translation type="vanished">Подписывающий ключ устарел</translation>
     </message>
     <message>
         <source>Invalid key</source>
-        <translation>Недействительный ключ</translation>
+        <translation type="vanished">Недействительный ключ</translation>
     </message>
     <message>
         <source>Encrypting key expired</source>
-        <translation>Шифрующий ключ устарел</translation>
+        <translation type="vanished">Шифрующий ключ устарел</translation>
     </message>
     <message>
         <source>Encrypting key is untrusted</source>
-        <translation>Шифрующий ключ не заверен</translation>
+        <translation type="vanished">Шифрующий ключ не заверен</translation>
     </message>
     <message>
         <source>Encrypting key is invalid</source>
-        <translation>Шифрующий ключ недействителен</translation>
+        <translation type="vanished">Шифрующий ключ недействителен</translation>
     </message>
     <message>
         <source>PGP card is missing</source>
-        <translation>PGP карта отсутствует</translation>
+        <translation type="vanished">PGP карта отсутствует</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Неизвестная ошибка</translation>
+        <translation type="vanished">Неизвестная ошибка</translation>
     </message>
     <message>
         <source>Socket Error</source>

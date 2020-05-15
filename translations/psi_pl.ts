@@ -11179,36 +11179,28 @@ Przyczyna: %1.</translation>
     <name>Passphrase</name>
     <message>
         <source>OpenPGP Passphrase</source>
-        <translation>Hasło OpenPGP</translation>
+        <translation type="vanished">Hasło OpenPGP</translation>
     </message>
     <message>
         <source>Your passphrase is needed to use OpenPGP security.
 Please enter your passphrase below:</source>
-        <translation>Twoje hasło jest potrzebne, aby używać szyfrowania OpenPGP.
+        <translation type="vanished">Twoje hasło jest potrzebne, aby używać szyfrowania OpenPGP.
 Wprowadź hasło twojego klucza OpenPGP poniżej:</translation>
     </message>
     <message>
-        <source>Remember passphrase</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Anuluj</translation>
+        <translation type="vanished">&amp;Anuluj</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;OK</translation>
-    </message>
-    <message>
-        <source>psi/keys64</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;OK</translation>
     </message>
 </context>
 <context>
     <name>PassphraseDlg</name>
     <message>
         <source>%1: OpenPGP Passphrase</source>
-        <translation>%1: Hasło OpenPGP</translation>
+        <translation type="vanished">%1: Hasło OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -14693,39 +14685,39 @@ Description: </source>
     </message>
     <message>
         <source>Invalid passphrase</source>
-        <translation>Nieprawidłowe hasło</translation>
+        <translation type="vanished">Nieprawidłowe hasło</translation>
     </message>
     <message>
         <source>Invalid input format</source>
-        <translation>NIeprawidłowy format wejścia</translation>
+        <translation type="vanished">NIeprawidłowy format wejścia</translation>
     </message>
     <message>
         <source>Signing key expired</source>
-        <translation>Klucz podpisu wygasł</translation>
+        <translation type="vanished">Klucz podpisu wygasł</translation>
     </message>
     <message>
         <source>Invalid key</source>
-        <translation>Nieprawidłowy klucz</translation>
+        <translation type="vanished">Nieprawidłowy klucz</translation>
     </message>
     <message>
         <source>Encrypting key expired</source>
-        <translation>Klucz szyfrujący wygasł</translation>
+        <translation type="vanished">Klucz szyfrujący wygasł</translation>
     </message>
     <message>
         <source>Encrypting key is untrusted</source>
-        <translation>Brak zaufania dla klucza szyfrującego</translation>
+        <translation type="vanished">Brak zaufania dla klucza szyfrującego</translation>
     </message>
     <message>
         <source>Encrypting key is invalid</source>
-        <translation>Klucz szyfrujący jest nieprawidłowy</translation>
+        <translation type="vanished">Klucz szyfrujący jest nieprawidłowy</translation>
     </message>
     <message>
         <source>PGP card is missing</source>
-        <translation>Brak karty PGP</translation>
+        <translation type="vanished">Brak karty PGP</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Nieznany błąd</translation>
+        <translation type="vanished">Nieznany błąd</translation>
     </message>
     <message>
         <source>Socket Error</source>

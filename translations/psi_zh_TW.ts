@@ -11317,36 +11317,32 @@ Reason: %1.</source>
     <name>Passphrase</name>
     <message>
         <source>OpenPGP Passphrase</source>
-        <translation>OpenPGP 密碼短語</translation>
+        <translation type="vanished">OpenPGP 密碼短語</translation>
     </message>
     <message>
         <source>Your passphrase is needed to use OpenPGP security.
 Please enter your passphrase below:</source>
-        <translation>你需要密碼短語來使用 OpenPGP。
+        <translation type="vanished">你需要密碼短語來使用 OpenPGP。
 請在下面輸入你的密碼短語:</translation>
     </message>
     <message>
         <source>Remember passphrase</source>
-        <translation>記住密碼</translation>
+        <translation type="vanished">記住密碼</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>取消(&amp;C)</translation>
+        <translation type="vanished">取消(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>確定(&amp;O)</translation>
-    </message>
-    <message>
-        <source>psi/keys64</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">確定(&amp;O)</translation>
     </message>
 </context>
 <context>
     <name>PassphraseDlg</name>
     <message>
         <source>%1: OpenPGP Passphrase</source>
-        <translation>%1: OpenPGP 密碼短語</translation>
+        <translation type="vanished">%1: OpenPGP 密碼短語</translation>
     </message>
 </context>
 <context>
@@ -14854,39 +14850,39 @@ Description: </source>
     </message>
     <message>
         <source>Invalid passphrase</source>
-        <translation>無效的通行短語</translation>
+        <translation type="vanished">無效的通行短語</translation>
     </message>
     <message>
         <source>Invalid input format</source>
-        <translation>無效的輸入格式</translation>
+        <translation type="vanished">無效的輸入格式</translation>
     </message>
     <message>
         <source>Signing key expired</source>
-        <translation>簽署的鑰匙已過期</translation>
+        <translation type="vanished">簽署的鑰匙已過期</translation>
     </message>
     <message>
         <source>Invalid key</source>
-        <translation>無效的鑰匙</translation>
+        <translation type="vanished">無效的鑰匙</translation>
     </message>
     <message>
         <source>Encrypting key expired</source>
-        <translation>加密的鑰匙已過期</translation>
+        <translation type="vanished">加密的鑰匙已過期</translation>
     </message>
     <message>
         <source>Encrypting key is untrusted</source>
-        <translation>加密的鑰匙不可信任</translation>
+        <translation type="vanished">加密的鑰匙不可信任</translation>
     </message>
     <message>
         <source>Encrypting key is invalid</source>
-        <translation>加密的鑰匙是無效的</translation>
+        <translation type="vanished">加密的鑰匙是無效的</translation>
     </message>
     <message>
         <source>PGP card is missing</source>
-        <translation>PGP 卡片遺失</translation>
+        <translation type="vanished">PGP 卡片遺失</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>未知的錯誤</translation>
+        <translation type="vanished">未知的錯誤</translation>
     </message>
     <message>
         <source>Socket Error</source>

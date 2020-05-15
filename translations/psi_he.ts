@@ -11100,36 +11100,32 @@ Reason: %1.</source>
     <name>Passphrase</name>
     <message>
         <source>OpenPGP Passphrase</source>
-        <translation>מימרת סיסמה OpenPGP</translation>
+        <translation type="vanished">מימרת סיסמה OpenPGP</translation>
     </message>
     <message>
         <source>Your passphrase is needed to use OpenPGP security.
 Please enter your passphrase below:</source>
-        <translation>מימרת סיסמה שלך נדרשת כדי לעשות שימוש באבטחת OpenPGP.
+        <translation type="vanished">מימרת סיסמה שלך נדרשת כדי לעשות שימוש באבטחת OpenPGP.
 אנא הזן מימרת סיסמה מטה:</translation>
     </message>
     <message>
         <source>Remember passphrase</source>
-        <translation>זכור מימרתסיסמה</translation>
+        <translation type="vanished">זכור מימרתסיסמה</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;ביטול</translation>
+        <translation type="vanished">&amp;ביטול</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;אישור</translation>
-    </message>
-    <message>
-        <source>psi/keys64</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;אישור</translation>
     </message>
 </context>
 <context>
     <name>PassphraseDlg</name>
     <message>
         <source>%1: OpenPGP Passphrase</source>
-        <translation>%1: מימרת סיסמה OpenPGP</translation>
+        <translation type="vanished">%1: מימרת סיסמה OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -14619,39 +14615,39 @@ Description: </source>
     </message>
     <message>
         <source>Invalid passphrase</source>
-        <translation>מימרת סיסמה שגויה</translation>
+        <translation type="vanished">מימרת סיסמה שגויה</translation>
     </message>
     <message>
         <source>Invalid input format</source>
-        <translation>פורמט קלט שגוי</translation>
+        <translation type="vanished">פורמט קלט שגוי</translation>
     </message>
     <message>
         <source>Signing key expired</source>
-        <translation>חתימת מפתח פקעה</translation>
+        <translation type="vanished">חתימת מפתח פקעה</translation>
     </message>
     <message>
         <source>Invalid key</source>
-        <translation>מפתח שגוי</translation>
+        <translation type="vanished">מפתח שגוי</translation>
     </message>
     <message>
         <source>Encrypting key expired</source>
-        <translation>מפתח מצפין פג</translation>
+        <translation type="vanished">מפתח מצפין פג</translation>
     </message>
     <message>
         <source>Encrypting key is untrusted</source>
-        <translation>מפתח מצפין אינו מהימן</translation>
+        <translation type="vanished">מפתח מצפין אינו מהימן</translation>
     </message>
     <message>
         <source>Encrypting key is invalid</source>
-        <translation>מפתח מצפין הינו שגוי</translation>
+        <translation type="vanished">מפתח מצפין הינו שגוי</translation>
     </message>
     <message>
         <source>PGP card is missing</source>
-        <translation>כרטיס PGP הינו חסר</translation>
+        <translation type="vanished">כרטיס PGP הינו חסר</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>שגיאה לא מוכרת</translation>
+        <translation type="vanished">שגיאה לא מוכרת</translation>
     </message>
     <message>
         <source>Socket Error</source>

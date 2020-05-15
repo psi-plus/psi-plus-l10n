@@ -11027,36 +11027,28 @@ Reason: %1.</source>
     <name>Passphrase</name>
     <message>
         <source>OpenPGP Passphrase</source>
-        <translation>OpenPGPパスフレーズ</translation>
+        <translation type="vanished">OpenPGPパスフレーズ</translation>
     </message>
     <message>
         <source>Your passphrase is needed to use OpenPGP security.
 Please enter your passphrase below:</source>
-        <translation>パスフレーズはOpenPGPセキュリティを使用する為に必要です。
+        <translation type="vanished">パスフレーズはOpenPGPセキュリティを使用する為に必要です。
 以下にパスフレーズを入力してください:</translation>
     </message>
     <message>
-        <source>Remember passphrase</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Cancel</source>
-        <translation>キャンセル(&amp;C)</translation>
+        <translation type="vanished">キャンセル(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;OK</translation>
-    </message>
-    <message>
-        <source>psi/keys64</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;OK</translation>
     </message>
 </context>
 <context>
     <name>PassphraseDlg</name>
     <message>
         <source>%1: OpenPGP Passphrase</source>
-        <translation>%1: OpenPGPパスフレーズ</translation>
+        <translation type="vanished">%1: OpenPGPパスフレーズ</translation>
     </message>
 </context>
 <context>
@@ -14537,39 +14529,39 @@ Description: </source>
     </message>
     <message>
         <source>Invalid passphrase</source>
-        <translation>無効なパスフレーズです</translation>
+        <translation type="vanished">無効なパスフレーズです</translation>
     </message>
     <message>
         <source>Invalid input format</source>
-        <translation>無効な入力フォーマットです</translation>
+        <translation type="vanished">無効な入力フォーマットです</translation>
     </message>
     <message>
         <source>Signing key expired</source>
-        <translation>署名の鍵が有効期限切れです</translation>
+        <translation type="vanished">署名の鍵が有効期限切れです</translation>
     </message>
     <message>
         <source>Invalid key</source>
-        <translation>無効な鍵です</translation>
+        <translation type="vanished">無効な鍵です</translation>
     </message>
     <message>
         <source>Encrypting key expired</source>
-        <translation>暗号化の鍵が有効期限切れです</translation>
+        <translation type="vanished">暗号化の鍵が有効期限切れです</translation>
     </message>
     <message>
         <source>Encrypting key is untrusted</source>
-        <translation>暗号化の鍵が信頼されていません</translation>
+        <translation type="vanished">暗号化の鍵が信頼されていません</translation>
     </message>
     <message>
         <source>Encrypting key is invalid</source>
-        <translation>暗号化の鍵が無効です</translation>
+        <translation type="vanished">暗号化の鍵が無効です</translation>
     </message>
     <message>
         <source>PGP card is missing</source>
-        <translation>PGPカードが見つかりません</translation>
+        <translation type="vanished">PGPカードが見つかりません</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>不明なエラー</translation>
+        <translation type="vanished">不明なエラー</translation>
     </message>
     <message>
         <source>Socket Error</source>

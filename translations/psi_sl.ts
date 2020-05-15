@@ -10923,36 +10923,28 @@ Razlog: %1.</translation>
     <name>Passphrase</name>
     <message>
         <source>OpenPGP Passphrase</source>
-        <translation>Šifrirna fraza za OpenPGP</translation>
+        <translation type="vanished">Šifrirna fraza za OpenPGP</translation>
     </message>
     <message>
         <source>Your passphrase is needed to use OpenPGP security.
 Please enter your passphrase below:</source>
-        <translation>Za uporabo varnosti z OpenPGP je potrebna vaša šifrirna fraza.
+        <translation type="vanished">Za uporabo varnosti z OpenPGP je potrebna vaša šifrirna fraza.
 Vnesite svojo šifrirno frazo:</translation>
     </message>
     <message>
-        <source>Remember passphrase</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Prekliči</translation>
+        <translation type="vanished">&amp;Prekliči</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;V redu</translation>
-    </message>
-    <message>
-        <source>psi/keys64</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;V redu</translation>
     </message>
 </context>
 <context>
     <name>PassphraseDlg</name>
     <message>
         <source>%1: OpenPGP Passphrase</source>
-        <translation>%1: šifrirna fraza za OpenPGP</translation>
+        <translation type="vanished">%1: šifrirna fraza za OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -14433,39 +14425,39 @@ Description: </source>
     </message>
     <message>
         <source>Invalid passphrase</source>
-        <translation>Neveljavna šifrirna fraza</translation>
+        <translation type="vanished">Neveljavna šifrirna fraza</translation>
     </message>
     <message>
         <source>Invalid input format</source>
-        <translation>Neveljaven vhodni format</translation>
+        <translation type="vanished">Neveljaven vhodni format</translation>
     </message>
     <message>
         <source>Signing key expired</source>
-        <translation>Ključ za podpisovanje je potekel</translation>
+        <translation type="vanished">Ključ za podpisovanje je potekel</translation>
     </message>
     <message>
         <source>Invalid key</source>
-        <translation>Neveljaven ključ</translation>
+        <translation type="vanished">Neveljaven ključ</translation>
     </message>
     <message>
         <source>Encrypting key expired</source>
-        <translation>Šifrirni ključ je potekel</translation>
+        <translation type="vanished">Šifrirni ključ je potekel</translation>
     </message>
     <message>
         <source>Encrypting key is untrusted</source>
-        <translation>Šifrirni ključ ni zaupan</translation>
+        <translation type="vanished">Šifrirni ključ ni zaupan</translation>
     </message>
     <message>
         <source>Encrypting key is invalid</source>
-        <translation>Šifrirni ključ ni veljaven</translation>
+        <translation type="vanished">Šifrirni ključ ni veljaven</translation>
     </message>
     <message>
         <source>PGP card is missing</source>
-        <translation>Manjka kartica PGP</translation>
+        <translation type="vanished">Manjka kartica PGP</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Neznana napaka</translation>
+        <translation type="vanished">Neznana napaka</translation>
     </message>
     <message>
         <source>Socket Error</source>

@@ -10939,36 +10939,28 @@ Lý do: %1.</translation>
     <name>Passphrase</name>
     <message>
         <source>OpenPGP Passphrase</source>
-        <translation>Cụm từ mật khẩu OpenPGP</translation>
+        <translation type="vanished">Cụm từ mật khẩu OpenPGP</translation>
     </message>
     <message>
         <source>Your passphrase is needed to use OpenPGP security.
 Please enter your passphrase below:</source>
-        <translation>Để sử dụng khả năng bảo mật của OpenPGP thì yêu cầu cụm từ mật khẩu riêng của bạn.
+        <translation type="vanished">Để sử dụng khả năng bảo mật của OpenPGP thì yêu cầu cụm từ mật khẩu riêng của bạn.
 Hãy gõ vào dưới đây cụm từ mật khẩu:</translation>
     </message>
     <message>
-        <source>Remember passphrase</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Thôi</translation>
+        <translation type="vanished">&amp;Thôi</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;OK</translation>
-    </message>
-    <message>
-        <source>psi/keys64</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;OK</translation>
     </message>
 </context>
 <context>
     <name>PassphraseDlg</name>
     <message>
         <source>%1: OpenPGP Passphrase</source>
-        <translation>%1: cụm từ mật khẩu OpenPGP</translation>
+        <translation type="vanished">%1: cụm từ mật khẩu OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -14450,39 +14442,39 @@ Description: </source>
     </message>
     <message>
         <source>Invalid passphrase</source>
-        <translation>Cụm từ mật khẩu không hợp lệ</translation>
+        <translation type="vanished">Cụm từ mật khẩu không hợp lệ</translation>
     </message>
     <message>
         <source>Invalid input format</source>
-        <translation>Định dạng gõ không hợp lệ</translation>
+        <translation type="vanished">Định dạng gõ không hợp lệ</translation>
     </message>
     <message>
         <source>Signing key expired</source>
-        <translation>Khoá ký đã hết hạn</translation>
+        <translation type="vanished">Khoá ký đã hết hạn</translation>
     </message>
     <message>
         <source>Invalid key</source>
-        <translation>Khoá không hợp lệ</translation>
+        <translation type="vanished">Khoá không hợp lệ</translation>
     </message>
     <message>
         <source>Encrypting key expired</source>
-        <translation>Khoá mật mã đã hết hạn</translation>
+        <translation type="vanished">Khoá mật mã đã hết hạn</translation>
     </message>
     <message>
         <source>Encrypting key is untrusted</source>
-        <translation>Khoá mật mã không đáng tin</translation>
+        <translation type="vanished">Khoá mật mã không đáng tin</translation>
     </message>
     <message>
         <source>Encrypting key is invalid</source>
-        <translation>Khoá mật mã không hợp lệ</translation>
+        <translation type="vanished">Khoá mật mã không hợp lệ</translation>
     </message>
     <message>
         <source>PGP card is missing</source>
-        <translation>Thiếu thẻ PGP</translation>
+        <translation type="vanished">Thiếu thẻ PGP</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Lỗi không rõ</translation>
+        <translation type="vanished">Lỗi không rõ</translation>
     </message>
     <message>
         <source>Socket Error</source>

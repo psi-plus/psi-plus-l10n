@@ -10925,35 +10925,27 @@ Reason: %1.</source>
     <name>Passphrase</name>
     <message>
         <source>OpenPGP Passphrase</source>
-        <translation>پی جی پی پاس فریز کھولیں</translation>
+        <translation type="vanished">پی جی پی پاس فریز کھولیں</translation>
     </message>
     <message>
         <source>Your passphrase is needed to use OpenPGP security.
 Please enter your passphrase below:</source>
-        <translation>آپ کے پیرا فریز کو کھلی پی جی پی سلامتی کی ضرورت ہے۔نیچے اپنا پاس فریز داخل کریں:‏</translation>
-    </message>
-    <message>
-        <source>Remember passphrase</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">آپ کے پیرا فریز کو کھلی پی جی پی سلامتی کی ضرورت ہے۔نیچے اپنا پاس فریز داخل کریں:‏</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>منسوخ کریں</translation>
+        <translation type="vanished">منسوخ کریں</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>ٹھیک ہے</translation>
-    </message>
-    <message>
-        <source>psi/keys64</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">ٹھیک ہے</translation>
     </message>
 </context>
 <context>
     <name>PassphraseDlg</name>
     <message>
         <source>%1: OpenPGP Passphrase</source>
-        <translation>‫%1:پی جی پی پاس فریز کھولیں </translation>
+        <translation type="vanished">‫%1:پی جی پی پاس فریز کھولیں </translation>
     </message>
 </context>
 <context>
@@ -14429,39 +14421,39 @@ Description: </source>
     </message>
     <message>
         <source>Invalid passphrase</source>
-        <translation>ناجائز پاس فریز</translation>
+        <translation type="vanished">ناجائز پاس فریز</translation>
     </message>
     <message>
         <source>Invalid input format</source>
-        <translation>ناجائز ان پٹ وضع</translation>
+        <translation type="vanished">ناجائز ان پٹ وضع</translation>
     </message>
     <message>
         <source>Signing key expired</source>
-        <translation>دستخط کاری کلید زائدالمت</translation>
+        <translation type="vanished">دستخط کاری کلید زائدالمت</translation>
     </message>
     <message>
         <source>Invalid key</source>
-        <translation>ناجائز کلید</translation>
+        <translation type="vanished">ناجائز کلید</translation>
     </message>
     <message>
         <source>Encrypting key expired</source>
-        <translation>خفیہ کاری کلید زائدالمدت</translation>
+        <translation type="vanished">خفیہ کاری کلید زائدالمدت</translation>
     </message>
     <message>
         <source>Encrypting key is untrusted</source>
-        <translation>خفیہ کاری کلید ناقابل بھروسہ ہے</translation>
+        <translation type="vanished">خفیہ کاری کلید ناقابل بھروسہ ہے</translation>
     </message>
     <message>
         <source>Encrypting key is invalid</source>
-        <translation>خفیہ کاری کلید ناجائز ہے</translation>
+        <translation type="vanished">خفیہ کاری کلید ناجائز ہے</translation>
     </message>
     <message>
         <source>PGP card is missing</source>
-        <translation>پی جی پی کارڈ غائب ہے</translation>
+        <translation type="vanished">پی جی پی کارڈ غائب ہے</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>نامعلوم نقص</translation>
+        <translation type="vanished">نامعلوم نقص</translation>
     </message>
     <message>
         <source>Socket Error</source>

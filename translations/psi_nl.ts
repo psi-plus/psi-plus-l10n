@@ -10835,36 +10835,12 @@ Reason: %1.</source>
 <context>
     <name>Passphrase</name>
     <message>
-        <source>OpenPGP Passphrase</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your passphrase is needed to use OpenPGP security.
-Please enter your passphrase below:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remember passphrase</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Annuleren</translation>
+        <translation type="vanished">&amp;Annuleren</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;OK</translation>
-    </message>
-    <message>
-        <source>psi/keys64</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PassphraseDlg</name>
-    <message>
-        <source>%1: OpenPGP Passphrase</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;OK</translation>
     </message>
 </context>
 <context>
@@ -14298,42 +14274,6 @@ Description: </source>
     </message>
     <message>
         <source>&lt;unnamed%1&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Invalid passphrase</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Invalid input format</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Signing key expired</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Invalid key</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Encrypting key expired</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Encrypting key is untrusted</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Encrypting key is invalid</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PGP card is missing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unknown error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

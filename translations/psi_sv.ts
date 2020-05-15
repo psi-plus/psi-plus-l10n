@@ -10939,36 +10939,28 @@ Orsak: %1.</translation>
     <name>Passphrase</name>
     <message>
         <source>OpenPGP Passphrase</source>
-        <translation>OpenPGP-lösenfras</translation>
+        <translation type="vanished">OpenPGP-lösenfras</translation>
     </message>
     <message>
         <source>Your passphrase is needed to use OpenPGP security.
 Please enter your passphrase below:</source>
-        <translation>Din lösenfras krävs för att använda OpenPGP-säkerhet.
+        <translation type="vanished">Din lösenfras krävs för att använda OpenPGP-säkerhet.
 Skriv din lösenfras nedanför:</translation>
     </message>
     <message>
-        <source>Remember passphrase</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Avbryt</translation>
+        <translation type="vanished">&amp;Avbryt</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;Ok</translation>
-    </message>
-    <message>
-        <source>psi/keys64</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;Ok</translation>
     </message>
 </context>
 <context>
     <name>PassphraseDlg</name>
     <message>
         <source>%1: OpenPGP Passphrase</source>
-        <translation>%1: OpenPGP-lösenfras</translation>
+        <translation type="vanished">%1: OpenPGP-lösenfras</translation>
     </message>
 </context>
 <context>
@@ -14448,39 +14440,39 @@ Description: </source>
     </message>
     <message>
         <source>Invalid passphrase</source>
-        <translation>Ogiltig passfras</translation>
+        <translation type="vanished">Ogiltig passfras</translation>
     </message>
     <message>
         <source>Invalid input format</source>
-        <translation>Ogiltigt informat</translation>
+        <translation type="vanished">Ogiltigt informat</translation>
     </message>
     <message>
         <source>Signing key expired</source>
-        <translation>Nyckel för signering har gått ut</translation>
+        <translation type="vanished">Nyckel för signering har gått ut</translation>
     </message>
     <message>
         <source>Invalid key</source>
-        <translation>Ogiltig nyckel</translation>
+        <translation type="vanished">Ogiltig nyckel</translation>
     </message>
     <message>
         <source>Encrypting key expired</source>
-        <translation>Nyckel för kryptering har gått ut</translation>
+        <translation type="vanished">Nyckel för kryptering har gått ut</translation>
     </message>
     <message>
         <source>Encrypting key is untrusted</source>
-        <translation>Nyckel för kryptering är ej betrodd</translation>
+        <translation type="vanished">Nyckel för kryptering är ej betrodd</translation>
     </message>
     <message>
         <source>Encrypting key is invalid</source>
-        <translation>Nyckel för kryptering är ogiltig</translation>
+        <translation type="vanished">Nyckel för kryptering är ogiltig</translation>
     </message>
     <message>
         <source>PGP card is missing</source>
-        <translation>PGP-kort saknas</translation>
+        <translation type="vanished">PGP-kort saknas</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Okänt fel</translation>
+        <translation type="vanished">Okänt fel</translation>
     </message>
     <message>
         <source>Socket Error</source>

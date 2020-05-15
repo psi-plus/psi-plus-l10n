@@ -11323,36 +11323,32 @@ Zdůvodnění: %1.</translation>
     <name>Passphrase</name>
     <message>
         <source>OpenPGP Passphrase</source>
-        <translation>OpenPGP heslovací fráze</translation>
+        <translation type="vanished">OpenPGP heslovací fráze</translation>
     </message>
     <message>
         <source>Your passphrase is needed to use OpenPGP security.
 Please enter your passphrase below:</source>
-        <translation>Je potřeba heslovací fráze, pro použítí OpenPGP zabezpečení.
+        <translation type="vanished">Je potřeba heslovací fráze, pro použítí OpenPGP zabezpečení.
 Prosím vlož svou heslovací frázi:</translation>
     </message>
     <message>
         <source>Remember passphrase</source>
-        <translation>Zapamatovat heslo</translation>
+        <translation type="vanished">Zapamatovat heslo</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Zrušit</translation>
+        <translation type="vanished">&amp;Zrušit</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;OK</translation>
-    </message>
-    <message>
-        <source>psi/keys64</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;OK</translation>
     </message>
 </context>
 <context>
     <name>PassphraseDlg</name>
     <message>
         <source>%1: OpenPGP Passphrase</source>
-        <translation>%1: OpenPGP heslovací fráze</translation>
+        <translation type="vanished">%1: OpenPGP heslovací fráze</translation>
     </message>
 </context>
 <context>
@@ -14881,39 +14877,39 @@ Popis: </translation>
     </message>
     <message>
         <source>Invalid passphrase</source>
-        <translation>Neplatná heslovací fráze</translation>
+        <translation type="vanished">Neplatná heslovací fráze</translation>
     </message>
     <message>
         <source>Invalid input format</source>
-        <translation>Neplatný vstupní formát</translation>
+        <translation type="vanished">Neplatný vstupní formát</translation>
     </message>
     <message>
         <source>Signing key expired</source>
-        <translation>Platnost podepisovacího klíče vypršela</translation>
+        <translation type="vanished">Platnost podepisovacího klíče vypršela</translation>
     </message>
     <message>
         <source>Invalid key</source>
-        <translation>Neplatný klíč</translation>
+        <translation type="vanished">Neplatný klíč</translation>
     </message>
     <message>
         <source>Encrypting key expired</source>
-        <translation>Platnost šifrovacího klíče vypršela</translation>
+        <translation type="vanished">Platnost šifrovacího klíče vypršela</translation>
     </message>
     <message>
         <source>Encrypting key is untrusted</source>
-        <translation>Šifrovací klíč není důveryhodný</translation>
+        <translation type="vanished">Šifrovací klíč není důveryhodný</translation>
     </message>
     <message>
         <source>Encrypting key is invalid</source>
-        <translation>Šifrovací klíč je neplatný</translation>
+        <translation type="vanished">Šifrovací klíč je neplatný</translation>
     </message>
     <message>
         <source>PGP card is missing</source>
-        <translation>Chybí &quot;PGP card&quot;</translation>
+        <translation type="vanished">Chybí &quot;PGP card&quot;</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Neznámá chyba</translation>
+        <translation type="vanished">Neznámá chyba</translation>
     </message>
     <message>
         <source>Socket Error</source>

@@ -11322,36 +11322,32 @@ Reason: %1.</source>
     <name>Passphrase</name>
     <message>
         <source>OpenPGP Passphrase</source>
-        <translation>Таемны выраз OpenPGP</translation>
+        <translation type="vanished">Таемны выраз OpenPGP</translation>
     </message>
     <message>
         <source>Your passphrase is needed to use OpenPGP security.
 Please enter your passphrase below:</source>
-        <translation>Бясьпека OpenPGP патрабуе таемнага выразу.
+        <translation type="vanished">Бясьпека OpenPGP патрабуе таемнага выразу.
 Ніжэй пазначце таемны выраз:</translation>
     </message>
     <message>
         <source>Remember passphrase</source>
-        <translation>Памятаць таемны выраз</translation>
+        <translation type="vanished">Памятаць таемны выраз</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Скасаваць</translation>
+        <translation type="vanished">&amp;Скасаваць</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;Добра</translation>
-    </message>
-    <message>
-        <source>psi/keys64</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;Добра</translation>
     </message>
 </context>
 <context>
     <name>PassphraseDlg</name>
     <message>
         <source>%1: OpenPGP Passphrase</source>
-        <translation>%1: таемны выраз OpenPGP</translation>
+        <translation type="vanished">%1: таемны выраз OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -14872,39 +14868,39 @@ Description: </source>
     </message>
     <message>
         <source>Invalid passphrase</source>
-        <translation>Хібнае таемнае слова</translation>
+        <translation type="vanished">Хібнае таемнае слова</translation>
     </message>
     <message>
         <source>Invalid input format</source>
-        <translation>Хібны фармат упісанага</translation>
+        <translation type="vanished">Хібны фармат упісанага</translation>
     </message>
     <message>
         <source>Signing key expired</source>
-        <translation>Скончыўся тэрмін ключа падпісваньня</translation>
+        <translation type="vanished">Скончыўся тэрмін ключа падпісваньня</translation>
     </message>
     <message>
         <source>Invalid key</source>
-        <translation>Хібны ключ</translation>
+        <translation type="vanished">Хібны ключ</translation>
     </message>
     <message>
         <source>Encrypting key expired</source>
-        <translation>Скончыўся тэрмін ключа шыфраваньня</translation>
+        <translation type="vanished">Скончыўся тэрмін ключа шыфраваньня</translation>
     </message>
     <message>
         <source>Encrypting key is untrusted</source>
-        <translation>Ключ шыфраваньня ня ёсьць давераным</translation>
+        <translation type="vanished">Ключ шыфраваньня ня ёсьць давераным</translation>
     </message>
     <message>
         <source>Encrypting key is invalid</source>
-        <translation>Хібны ключ шыфраваньня</translation>
+        <translation type="vanished">Хібны ключ шыфраваньня</translation>
     </message>
     <message>
         <source>PGP card is missing</source>
-        <translation>Картка PGP адсутнічае</translation>
+        <translation type="vanished">Картка PGP адсутнічае</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Невядомая памылка</translation>
+        <translation type="vanished">Невядомая памылка</translation>
     </message>
     <message>
         <source>Socket Error</source>

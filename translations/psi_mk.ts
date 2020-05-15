@@ -10888,36 +10888,19 @@ Reason: %1.</source>
 <context>
     <name>Passphrase</name>
     <message>
-        <source>OpenPGP Passphrase</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your passphrase is needed to use OpenPGP security.
-Please enter your passphrase below:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remember passphrase</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Откажи</translation>
+        <translation type="vanished">&amp;Откажи</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>В&amp;о ред</translation>
-    </message>
-    <message>
-        <source>psi/keys64</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">В&amp;о ред</translation>
     </message>
 </context>
 <context>
     <name>PassphraseDlg</name>
     <message>
         <source>%1: OpenPGP Passphrase</source>
-        <translation>%1: Лозинка за OpenPGP</translation>
+        <translation type="vanished">%1: Лозинка за OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -14380,39 +14363,39 @@ Description: </source>
     </message>
     <message>
         <source>Invalid passphrase</source>
-        <translation>Погрешна лозинка</translation>
+        <translation type="vanished">Погрешна лозинка</translation>
     </message>
     <message>
         <source>Invalid input format</source>
-        <translation>Погрешен формат за внесување</translation>
+        <translation type="vanished">Погрешен формат за внесување</translation>
     </message>
     <message>
         <source>Signing key expired</source>
-        <translation>Клучот за потпишување е истечен</translation>
+        <translation type="vanished">Клучот за потпишување е истечен</translation>
     </message>
     <message>
         <source>Invalid key</source>
-        <translation>Погрешен клуч</translation>
+        <translation type="vanished">Погрешен клуч</translation>
     </message>
     <message>
         <source>Encrypting key expired</source>
-        <translation>Клучот за шифрирање е истечен</translation>
+        <translation type="vanished">Клучот за шифрирање е истечен</translation>
     </message>
     <message>
         <source>Encrypting key is untrusted</source>
-        <translation>Клучот за шифрирање е недоверлив</translation>
+        <translation type="vanished">Клучот за шифрирање е недоверлив</translation>
     </message>
     <message>
         <source>Encrypting key is invalid</source>
-        <translation>Клучот за шифрирање е невалиден</translation>
+        <translation type="vanished">Клучот за шифрирање е невалиден</translation>
     </message>
     <message>
         <source>PGP card is missing</source>
-        <translation>Недостасува PGP картичката</translation>
+        <translation type="vanished">Недостасува PGP картичката</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Непозната грешка</translation>
+        <translation type="vanished">Непозната грешка</translation>
     </message>
     <message>
         <source>Socket Error</source>
