@@ -2068,7 +2068,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>Habilitar/Desabilitar criptografia</translation>
+        <translation type="vanished">Habilitar/Desabilitar criptografia</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -8225,6 +8225,24 @@ Tags: %1</translation>
     <name>OpenPGP</name>
     <message>
         <source>Authors: </source>
+        <translation type="obsolete">Autores: </translation>
+    </message>
+    <message>
+        <source>Send GnuPG Public Key</source>
+        <translation type="obsolete">Enviar Chave Pública GnuPG</translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpMessaging</name>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPlugin</name>
+    <message>
+        <source>Authors: </source>
         <translation type="unfinished">Autores: </translation>
     </message>
     <message>
@@ -8244,11 +8262,7 @@ Tags: %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Send GnuPG Public Key</source>
-        <translation type="unfinished">Enviar Chave Pública GnuPG</translation>
-    </message>
-    <message>
-        <source>Public key &quot;%1&quot; sent</source>
+        <source>OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10248,6 +10262,10 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     <message>
         <source>Choose Secret Key</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation type="unfinished">ID do usuário</translation>
     </message>
 </context>
 <context>

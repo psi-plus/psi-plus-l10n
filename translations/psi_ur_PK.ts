@@ -1947,7 +1947,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>ٹوگل خفیہ کاری</translation>
+        <translation type="vanished">ٹوگل خفیہ کاری</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -7913,7 +7913,14 @@ Tags: %1</source>
     </message>
 </context>
 <context>
-    <name>OpenPGP</name>
+    <name>OpenPgpMessaging</name>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPlugin</name>
     <message>
         <source>Authors: </source>
         <translation type="unfinished"></translation>
@@ -7935,11 +7942,7 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Send GnuPG Public Key</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Public key &quot;%1&quot; sent</source>
+        <source>OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9799,6 +9802,10 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>Choose Secret Key</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation type="unfinished"> صارف آئی ڈی</translation>
     </message>
 </context>
 <context>

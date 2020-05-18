@@ -2070,7 +2070,7 @@ Grund: %1</translation>
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>Verschlüsselung ein-/ausschalten</translation>
+        <translation type="vanished">Verschlüsselung ein-/ausschalten</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -8227,6 +8227,20 @@ Tags: %1</translation>
 <context>
     <name>OpenPGP</name>
     <message>
+        <source>Send GnuPG Public Key</source>
+        <translation type="obsolete">Sende öffentlichen GnuPG-Schlüssel</translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpMessaging</name>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPlugin</name>
+    <message>
         <source>Authors: </source>
         <translation type="unfinished"></translation>
     </message>
@@ -8247,11 +8261,7 @@ Tags: %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Send GnuPG Public Key</source>
-        <translation type="unfinished">Sende öffentlichen GnuPG-Schlüssel</translation>
-    </message>
-    <message>
-        <source>Public key &quot;%1&quot; sent</source>
+        <source>OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10254,6 +10264,10 @@ Aktiviere die &quot;Nachrichtenarchivierung&quot;-Option zur Verwendung!</transl
     <message>
         <source>Choose Secret Key</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation type="unfinished">Benutzer-ID</translation>
     </message>
 </context>
 <context>

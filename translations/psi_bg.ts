@@ -2008,7 +2008,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>Включване/изключване на кодирането</translation>
+        <translation type="vanished">Включване/изключване на кодирането</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -8119,6 +8119,20 @@ Tags: %1</source>
     <name>OpenPGP</name>
     <message>
         <source>Authors: </source>
+        <translation type="obsolete">Автори:</translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpMessaging</name>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPlugin</name>
+    <message>
+        <source>Authors: </source>
         <translation type="unfinished">Автори:</translation>
     </message>
     <message>
@@ -8138,11 +8152,7 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Send GnuPG Public Key</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Public key &quot;%1&quot; sent</source>
+        <source>OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10116,6 +10126,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Choose Secret Key</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation type="unfinished">Идентификатор на потребител</translation>
     </message>
 </context>
 <context>

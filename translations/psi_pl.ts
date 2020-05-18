@@ -2036,7 +2036,7 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>Przełącz szyfrowanie GnuPG</translation>
+        <translation type="vanished">Przełącz szyfrowanie GnuPG</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -8140,6 +8140,20 @@ Etykiety: %1</translation>
     <name>OpenPGP</name>
     <message>
         <source>Authors: </source>
+        <translation type="obsolete">Autorzy:</translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpMessaging</name>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPlugin</name>
+    <message>
+        <source>Authors: </source>
         <translation type="unfinished">Autorzy:</translation>
     </message>
     <message>
@@ -8159,11 +8173,7 @@ Etykiety: %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Send GnuPG Public Key</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Public key &quot;%1&quot; sent</source>
+        <source>OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10053,6 +10063,10 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     <message>
         <source>Choose Secret Key</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation type="unfinished">ID użytkownika</translation>
     </message>
 </context>
 <context>

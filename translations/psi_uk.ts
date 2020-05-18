@@ -2080,7 +2080,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>Шифрування</translation>
+        <translation type="vanished">Шифрування</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -8253,7 +8253,7 @@ Tags: %1</source>
     <name>OpenPGP</name>
     <message>
         <source>Authors: </source>
-        <translation>Автори:</translation>
+        <translation type="vanished">Автори:</translation>
     </message>
     <message>
         <source>OpenPGP is the most widely used encryption standard. It is extremely simple in usage:
@@ -8261,7 +8261,7 @@ Tags: %1</source>
 * Protect your secret key with a strong password and never give it to anyone.
 * Share your public key with buddies and get their public keys using any communication channel which you trust (xmpp, email, PGP keys server).
 * Enable PGP encryption in chat with you buddy and have fun the protected conversation.</source>
-        <translation>OpenPGP - це найбільш широко використовуваний стандарт шифрування. Це надзвичайно просто:
+        <translation type="vanished">OpenPGP - це найбільш широко використовуваний стандарт шифрування. Це надзвичайно просто:
 * Створіть пару ключів (відкритий ключ + секретний ключ) або виберіть існуючий та встановіть його в налаштуваннях програми.
 * Захистіть свій секретний ключ сильним паролем і ніколи не давайте його нікому.
 * Поділіться своїм відкритим ключем з друзями та отримайте їхні відкриті ключі, використовуючи будь-який канал зв&apos;язку, якому ви довіряєте (xmpp, електронна пошта, сервер ключів PGP).
@@ -8269,19 +8269,57 @@ Tags: %1</source>
     </message>
     <message>
         <source>This plugin uses standard command-line tool GnuPG, so attentively check that you properly installed and configured gpg and gpg-agent.</source>
-        <translation>Цей плагін використовує стандартний інструмент командного рядка GnuPG, тому уважно перевірте, чи правильно ви встановили та налаштували gpg та gpg-агент.</translation>
+        <translation type="vanished">Цей плагін використовує стандартний інструмент командного рядка GnuPG, тому уважно перевірте, чи правильно ви встановили та налаштували gpg та gpg-агент.</translation>
     </message>
     <message>
         <source>Embedded Keys Manager can do only basic operations like creating, removing, exporting and importing PGP keys. This should be enough to most of users needs. For more complicated cases use special software.</source>
-        <translation>Вбудований менеджер ключів може робити лише основні операції, такі як створення, видалення, експорт та імпорт ключів PGP. Цього має бути достатньо для більшості потреб користувачів. Для складніших випадків використовуйте спеціальне програмне забезпечення.</translation>
+        <translation type="vanished">Вбудований менеджер ключів може робити лише основні операції, такі як створення, видалення, експорт та імпорт ключів PGP. Цього має бути достатньо для більшості потреб користувачів. Для складніших випадків використовуйте спеціальне програмне забезпечення.</translation>
     </message>
     <message>
         <source>Send GnuPG Public Key</source>
-        <translation>Надіслати Публічний GnuPG Ключ</translation>
+        <translation type="vanished">Надіслати Публічний GnuPG Ключ</translation>
     </message>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
-        <translation>Публічний ключ &quot;%1&quot; надіслано</translation>
+        <translation type="vanished">Публічний ключ &quot;%1&quot; надіслано</translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpMessaging</name>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation type="unfinished">Публічний ключ &quot;%1&quot; надіслано</translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPlugin</name>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OpenPGP is the most widely used encryption standard. It is extremely simple in usage:
+* Generate a key pair (public key + secret key) or choose existing one and set it in program settings.
+* Protect your secret key with a strong password and never give it to anyone.
+* Share your public key with buddies and get their public keys using any communication channel which you trust (xmpp, email, PGP keys server).
+* Enable PGP encryption in chat with you buddy and have fun the protected conversation.</source>
+        <translation type="unfinished">OpenPGP - це найбільш широко використовуваний стандарт шифрування. Це надзвичайно просто:
+* Створіть пару ключів (відкритий ключ + секретний ключ) або виберіть існуючий та встановіть його в налаштуваннях програми.
+* Захистіть свій секретний ключ сильним паролем і ніколи не давайте його нікому.
+* Поділіться своїм відкритим ключем з друзями та отримайте їхні відкриті ключі, використовуючи будь-який канал зв&apos;язку, якому ви довіряєте (xmpp, електронна пошта, сервер ключів PGP).
+* Увімкніть шифрування PGP у чаті з вашим приятелем та насолоджуйтесь захищеною розмовою.</translation>
+    </message>
+    <message>
+        <source>This plugin uses standard command-line tool GnuPG, so attentively check that you properly installed and configured gpg and gpg-agent.</source>
+        <translation type="unfinished">Цей плагін використовує стандартний інструмент командного рядка GnuPG, тому уважно перевірте, чи правильно ви встановили та налаштували gpg та gpg-агент.</translation>
+    </message>
+    <message>
+        <source>Embedded Keys Manager can do only basic operations like creating, removing, exporting and importing PGP keys. This should be enough to most of users needs. For more complicated cases use special software.</source>
+        <translation type="unfinished">Вбудований менеджер ключів може робити лише основні операції, такі як створення, видалення, експорт та імпорт ключів PGP. Цього має бути достатньо для більшості потреб користувачів. Для складніших випадків використовуйте спеціальне програмне забезпечення.</translation>
+    </message>
+    <message>
+        <source>OpenPGP encryption</source>
+        <translation type="unfinished">Шифрування OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -10303,6 +10341,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Choose Secret Key</source>
         <translation>Виберіть секретний ключ</translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation type="unfinished">ID користувача</translation>
     </message>
 </context>
 <context>

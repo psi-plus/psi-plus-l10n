@@ -2060,7 +2060,7 @@ Oka: %1</translation>
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>Titkosítás bekapcsolása</translation>
+        <translation type="vanished">Titkosítás bekapcsolása</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -8221,6 +8221,24 @@ Címkék: %1</translation>
     <name>OpenPGP</name>
     <message>
         <source>Authors: </source>
+        <translation type="obsolete">Szerzők: </translation>
+    </message>
+    <message>
+        <source>Send GnuPG Public Key</source>
+        <translation type="obsolete">GnuPG Publikus Kulcs küldése</translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpMessaging</name>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPlugin</name>
+    <message>
+        <source>Authors: </source>
         <translation type="unfinished">Szerzők: </translation>
     </message>
     <message>
@@ -8240,11 +8258,7 @@ Címkék: %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Send GnuPG Public Key</source>
-        <translation type="unfinished">GnuPG Publikus Kulcs küldése</translation>
-    </message>
-    <message>
-        <source>Public key &quot;%1&quot; sent</source>
+        <source>OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10245,6 +10259,10 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     <message>
         <source>Choose Secret Key</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation type="unfinished">Felhasználó ID</translation>
     </message>
 </context>
 <context>

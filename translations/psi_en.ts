@@ -2076,7 +2076,7 @@ Reason: %1</translation>
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>Toggle encryption</translation>
+        <translation type="vanished">Toggle encryption</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -8254,6 +8254,24 @@ Tags: %1</translation>
     <name>OpenPGP</name>
     <message>
         <source>Authors: </source>
+        <translation type="obsolete">Authors: </translation>
+    </message>
+    <message>
+        <source>Send GnuPG Public Key</source>
+        <translation type="obsolete">Send GnuPG Public Key</translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpMessaging</name>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPlugin</name>
+    <message>
+        <source>Authors: </source>
         <translation type="unfinished">Authors: </translation>
     </message>
     <message>
@@ -8273,11 +8291,7 @@ Tags: %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Send GnuPG Public Key</source>
-        <translation type="unfinished">Send GnuPG Public Key</translation>
-    </message>
-    <message>
-        <source>Public key &quot;%1&quot; sent</source>
+        <source>OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10302,6 +10316,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Choose Secret Key</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation type="unfinished">User ID</translation>
     </message>
 </context>
 <context>

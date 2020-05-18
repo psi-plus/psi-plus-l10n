@@ -2053,7 +2053,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>切換加密</translation>
+        <translation type="vanished">切換加密</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -8187,6 +8187,24 @@ Tags: %1</source>
     <name>OpenPGP</name>
     <message>
         <source>Authors: </source>
+        <translation type="obsolete">作者:</translation>
+    </message>
+    <message>
+        <source>Send GnuPG Public Key</source>
+        <translation type="obsolete">發送GnuPG公開金鑰</translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpMessaging</name>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPlugin</name>
+    <message>
+        <source>Authors: </source>
         <translation type="unfinished">作者:</translation>
     </message>
     <message>
@@ -8206,11 +8224,7 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Send GnuPG Public Key</source>
-        <translation type="unfinished">發送GnuPG公開金鑰</translation>
-    </message>
-    <message>
-        <source>Public key &quot;%1&quot; sent</source>
+        <source>OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10199,6 +10213,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Choose Secret Key</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation type="unfinished">用戶 ID</translation>
     </message>
 </context>
 <context>

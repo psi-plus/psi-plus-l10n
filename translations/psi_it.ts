@@ -2073,7 +2073,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>Cambia cifratura</translation>
+        <translation type="vanished">Cambia cifratura</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -8260,6 +8260,28 @@ Etichette: %1</translation>
     <name>OpenPGP</name>
     <message>
         <source>Authors: </source>
+        <translation type="obsolete">Autori:</translation>
+    </message>
+    <message>
+        <source>Send GnuPG Public Key</source>
+        <translation type="obsolete">Invia Chiave GnuPG Pubblica</translation>
+    </message>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation type="obsolete">Chiave pubblica &quot;%1&quot; inviata</translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpMessaging</name>
+    <message>
+        <source>Public key &quot;%1&quot; sent</source>
+        <translation type="unfinished">Chiave pubblica &quot;%1&quot; inviata</translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPlugin</name>
+    <message>
+        <source>Authors: </source>
         <translation type="unfinished">Autori:</translation>
     </message>
     <message>
@@ -8279,12 +8301,8 @@ Etichette: %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Send GnuPG Public Key</source>
-        <translation type="unfinished">Invia Chiave GnuPG Pubblica</translation>
-    </message>
-    <message>
-        <source>Public key &quot;%1&quot; sent</source>
-        <translation type="unfinished">Chiave pubblica &quot;%1&quot; inviata</translation>
+        <source>OpenPGP encryption</source>
+        <translation type="unfinished">Cifratura OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -10307,6 +10325,10 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     <message>
         <source>Choose Secret Key</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation type="unfinished">ID Utente</translation>
     </message>
 </context>
 <context>
