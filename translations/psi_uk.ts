@@ -823,10 +823,6 @@ When you enable this option you will not be able to find your password in config
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
         <translation>Вмикає протокол Менеджменту Потоку, якщо це можливо. Це корисно, коли у вас нестабільне з&apos;єднання. Ваш сервер повинен підтримувати цю можливість.  Щоб дізнатись більше, див. XEP-0184.</translation>
     </message>
-    <message>
-        <source>Choose Secret Key</source>
-        <translation type="vanished">Виберіть секретний ключ</translation>
-    </message>
 </context>
 <context>
     <name>AccountReg</name>
@@ -3751,10 +3747,6 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <source>For all</source>
         <translation>Для усіх</translation>
-    </message>
-    <message>
-        <source>OpenPGP encryption</source>
-        <translation type="vanished">Шифрування OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -8296,38 +8288,38 @@ Tags: %1</source>
     <name>OpenPgpPluginNamespace::GpgProcess</name>
     <message>
         <source>Can&apos;t start </source>
-        <translation type="unfinished">Не може стартувати</translation>
+        <translation>Не може стартувати</translation>
     </message>
     <message>
         <source>GnuPG program not found</source>
-        <translation type="unfinished">GnuPG програму не знайдено</translation>
+        <translation>GnuPG програму не знайдено</translation>
     </message>
 </context>
 <context>
     <name>OpenPgpPluginNamespace::PGPKeyDlg</name>
     <message>
         <source>&amp;Diagnostics</source>
-        <translation type="unfinished">&amp;Діагностика</translation>
+        <translation>&amp;Діагностика</translation>
     </message>
     <message>
         <source>Key ID</source>
-        <translation type="unfinished">ID ключа</translation>
+        <translation>ID ключа</translation>
     </message>
     <message>
         <source>User ID</source>
-        <translation type="unfinished">ID користувача</translation>
+        <translation>ID користувача</translation>
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation type="unfinished">Інформація GnuPG</translation>
+        <translation>Інформація GnuPG</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Помилка</translation>
+        <translation>Помилка</translation>
     </message>
     <message>
         <source>Please select a key.</source>
-        <translation type="unfinished">Будь ласка, оберіть ключ.</translation>
+        <translation>Будь ласка, оберіть ключ.</translation>
     </message>
 </context>
 <context>
@@ -10266,51 +10258,51 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&amp;Diagnostics</source>
-        <translation type="unfinished">&amp;Діагностика</translation>
+        <translation>&amp;Діагностика</translation>
     </message>
     <message>
         <source>Known Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Відомі ключі</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Акаунт</translation>
+        <translation>Акаунт</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">Користувач</translation>
+        <translation>Користувач</translation>
     </message>
     <message>
         <source>Key ID</source>
-        <translation type="unfinished">ID ключа</translation>
+        <translation>ID ключа</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Відбиток</translation>
+        <translation>Відбиток</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
-        <translation type="unfinished">Бажаєте видалити наступний ключ?</translation>
+        <translation>Бажаєте видалити наступний ключ?</translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="unfinished">Акаунт:</translation>
+        <translation>Акаунт:</translation>
     </message>
     <message>
         <source>User: </source>
-        <translation type="unfinished">Ім’я користувача:</translation>
+        <translation>Ім’я користувача:</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished">Відбиток: </translation>
+        <translation>Відбиток: </translation>
     </message>
     <message>
         <source>Confirm action</source>
-        <translation type="unfinished">Підтвердити дію</translation>
+        <translation>Підтвердити дію</translation>
     </message>
     <message>
         <source>Choose Secret Key</source>
-        <translation type="unfinished">Виберіть секретний ключ</translation>
+        <translation>Виберіть секретний ключ</translation>
     </message>
 </context>
 <context>
@@ -18824,24 +18816,16 @@ Do you still want to close the window?</source>
 <context>
     <name>psiomemo::ConfigWidget</name>
     <message>
-        <source>Fingerprints</source>
-        <translation type="vanished">Відбитки</translation>
-    </message>
-    <message>
-        <source>Manage Devices</source>
-        <translation type="vanished">Керування пристроями</translation>
-    </message>
-    <message>
         <source>Configuration</source>
         <translation>Налаштування</translation>
     </message>
     <message>
         <source>Known Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Відомі ключі</translation>
     </message>
     <message>
         <source>Own Keys</source>
-        <translation type="unfinished">Власні ключі</translation>
+        <translation>Власні ключі</translation>
     </message>
 </context>
 <context>
@@ -18853,10 +18837,6 @@ Do you still want to close the window?</source>
     <message>
         <source>Trust</source>
         <translation>Довіряти</translation>
-    </message>
-    <message>
-        <source>Contact</source>
-        <translation type="vanished">Контакт</translation>
     </message>
     <message>
         <source>Fingerprint</source>
@@ -18880,7 +18860,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">Користувач</translation>
+        <translation>Користувач</translation>
     </message>
 </context>
 <context>
@@ -19155,7 +19135,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Confirm action</source>
-        <translation type="unfinished">Підтвердити дію</translation>
+        <translation>Підтвердити дію</translation>
     </message>
 </context>
 <context>
@@ -19174,11 +19154,11 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Known Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Відомі ключі</translation>
     </message>
     <message>
         <source>Own Keys</source>
-        <translation type="unfinished">Власні ключі</translation>
+        <translation>Власні ключі</translation>
     </message>
 </context>
 <context>
@@ -19209,7 +19189,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>OTR encryption policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Політика шифрування OTR</translation>
     </message>
 </context>
 <context>
@@ -19276,19 +19256,19 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished">Довіряти</translation>
+        <translation>Довіряти</translation>
     </message>
     <message>
         <source>Do not trust</source>
-        <translation type="unfinished">Не довіряти</translation>
+        <translation>Не довіряти</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
-        <translation type="unfinished">Бажаєте видалити наступний ключ?</translation>
+        <translation>Бажаєте видалити наступний ключ?</translation>
     </message>
     <message>
         <source>Confirm action</source>
-        <translation type="unfinished">Підтвердити дію</translation>
+        <translation>Підтвердити дію</translation>
     </message>
 </context>
 <context>
@@ -19339,7 +19319,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Confirm action</source>
-        <translation type="unfinished">Підтвердити дію</translation>
+        <translation>Підтвердити дію</translation>
     </message>
 </context>
 <context>
@@ -19497,7 +19477,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Confirm action</source>
-        <translation type="unfinished">Підтвердити дію</translation>
+        <translation>Підтвердити дію</translation>
     </message>
 </context>
 <context>
