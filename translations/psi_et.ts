@@ -426,22 +426,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>OpenPGP</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>placeholder2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Select &amp;Key...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use None</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Privacy</source>
         <translation type="unfinished"></translation>
     </message>
@@ -696,7 +680,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>No Key Selected</source>
-        <translation>Võtit ei valitud</translation>
+        <translation type="vanished">Võtit ei valitud</translation>
     </message>
     <message>
         <source>Error</source>
@@ -764,10 +748,6 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose Secret Key</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3567,10 +3547,6 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>For all</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7890,6 +7866,44 @@ Tags: %1</source>
     </message>
 </context>
 <context>
+    <name>OpenPgpPluginNamespace::GpgProcess</name>
+    <message>
+        <source>Can&apos;t start </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GnuPG program not found</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPluginNamespace::PGPKeyDlg</name>
+    <message>
+        <source>&amp;Diagnostics</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Key ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GnuPG info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Viga</translation>
+    </message>
+    <message>
+        <source>Please select a key.</source>
+        <translation type="unfinished">Palun vali võti.</translation>
+    </message>
+</context>
+<context>
     <name>OptAdvanced</name>
     <message>
         <source>OptAdvancedUI</source>
@@ -9278,10 +9292,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Info</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Delete</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9527,10 +9537,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>Kõik failid (*)</translation>
     </message>
     <message>
-        <source>GnuPG info</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Authorizing...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9656,6 +9662,54 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Copy fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Diagnostics</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Key ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the following key?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose Secret Key</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14380,10 +14434,6 @@ The message was not sent.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Failed to generate keys for account &quot;%1&quot;.
 The OTR Plugin will not work.</source>
         <translation type="unfinished"></translation>
@@ -17645,15 +17695,15 @@ Do you still want to close the window?</source>
 <context>
     <name>psiomemo::ConfigWidget</name>
     <message>
-        <source>Fingerprints</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Manage Devices</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17665,10 +17715,6 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Contact</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17689,6 +17735,10 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>not decided</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17929,10 +17979,6 @@ Do you still want to close the window?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>%1 has canceled the authentication process.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17954,28 +18000,28 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>Authentication failed.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::ConfigDialog</name>
     <message>
-        <source>Known fingerprints</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>My private keys</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>psiotr::ConfigOtrWidget</name>
-    <message>
-        <source>OTR Policy</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Disable private messaging</source>
         <translation type="unfinished"></translation>
@@ -17996,13 +18042,13 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>End session when contact goes offline</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>OTR encryption policy</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::FingerprintWidget</name>
-    <message>
-        <source>Delete fingerprint</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Verify fingerprint</source>
         <translation type="unfinished"></translation>
@@ -18028,10 +18074,6 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation>Staatus</translation>
     </message>
     <message>
-        <source>Are you sure you want to delete the following fingerprint?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Account: </source>
         <translation type="unfinished"></translation>
     </message>
@@ -18041,10 +18083,6 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Psi OTR</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18059,15 +18097,27 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>Copy fingerprint</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the following key?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::PrivKeyWidget</name>
     <message>
         <source>Generate new key</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete key</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18091,10 +18141,6 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Are you sure you want to overwrite the following key?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18104,6 +18150,10 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Copy fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18205,10 +18255,6 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Attempting to refresh the private conversation</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18254,6 +18300,10 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>OTR Plugin: event from %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

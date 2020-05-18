@@ -465,19 +465,19 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>OpenPGP</source>
-        <translation>OpenPGP</translation>
+        <translation type="vanished">OpenPGP</translation>
     </message>
     <message>
         <source>placeholder2</source>
-        <translation>placeholder2</translation>
+        <translation type="vanished">placeholder2</translation>
     </message>
     <message>
         <source>Select &amp;Key...</source>
-        <translation>Абраць &amp;ключ…</translation>
+        <translation type="vanished">Абраць &amp;ключ…</translation>
     </message>
     <message>
         <source>Use None</source>
-        <translation>Не ўжываць</translation>
+        <translation type="vanished">Не ўжываць</translation>
     </message>
     <message>
         <source>Privacy</source>
@@ -734,7 +734,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>No Key Selected</source>
-        <translation>Не абралі ключ</translation>
+        <translation type="vanished">Не абралі ключ</translation>
     </message>
     <message>
         <source>Error</source>
@@ -802,10 +802,6 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose Secret Key</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3722,10 +3718,6 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <source>For all</source>
         <translation>Для ўсіх</translation>
-    </message>
-    <message>
-        <source>OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8220,6 +8212,44 @@ Tags: %1</source>
     </message>
 </context>
 <context>
+    <name>OpenPgpPluginNamespace::GpgProcess</name>
+    <message>
+        <source>Can&apos;t start </source>
+        <translation type="unfinished">Нельга пачаць</translation>
+    </message>
+    <message>
+        <source>GnuPG program not found</source>
+        <translation type="unfinished">Праграма GnuPG нязнойдзеная</translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPluginNamespace::PGPKeyDlg</name>
+    <message>
+        <source>&amp;Diagnostics</source>
+        <translation type="unfinished">Дыя&amp;ґностыка</translation>
+    </message>
+    <message>
+        <source>Key ID</source>
+        <translation type="unfinished">Азначальнік ключа</translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation type="unfinished">Азначальнік карыстальніка</translation>
+    </message>
+    <message>
+        <source>GnuPG info</source>
+        <translation type="unfinished">Звесткі GnuPG</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Далі хібу</translation>
+    </message>
+    <message>
+        <source>Please select a key.</source>
+        <translation type="unfinished">Абярыце ключ, калі ласка.</translation>
+    </message>
+</context>
+<context>
     <name>OptAdvanced</name>
     <message>
         <source>OptAdvancedUI</source>
@@ -9743,7 +9773,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Info</source>
-        <translation>Звесткі</translation>
+        <translation type="vanished">Звесткі</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -9997,7 +10027,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation>Звесткі GnuPG</translation>
+        <translation type="vanished">Звесткі GnuPG</translation>
     </message>
     <message>
         <source>Authorizing...</source>
@@ -10126,6 +10156,54 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Copy fingerprint</source>
         <translation type="unfinished">Перапісаць адбітак</translation>
+    </message>
+    <message>
+        <source>&amp;Diagnostics</source>
+        <translation type="unfinished">Дыя&amp;ґностыка</translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished">Рахунак</translation>
+    </message>
+    <message>
+        <source>User</source>
+        <translation type="unfinished">Карыстальнік</translation>
+    </message>
+    <message>
+        <source>Key ID</source>
+        <translation type="unfinished">Азначальнік ключа</translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation type="unfinished">Адбітак</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the following key?</source>
+        <translation type="unfinished">Ці ўпэўненыя вы, што хочаце выдаліць гэты ключ?</translation>
+    </message>
+    <message>
+        <source>Account: </source>
+        <translation type="unfinished">Рахунак: </translation>
+    </message>
+    <message>
+        <source>User: </source>
+        <translation type="unfinished">Карыстальнік: </translation>
+    </message>
+    <message>
+        <source>Fingerprint: </source>
+        <translation type="unfinished">Адбітак: </translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose Secret Key</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15016,7 +15094,7 @@ The message was not sent.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Таемка «Псі»</translation>
+        <translation type="vanished">Таемка «Псі»</translation>
     </message>
     <message>
         <source>Failed to generate keys for account &quot;%1&quot;.
@@ -18564,16 +18642,16 @@ Do you still want to close the window?</source>
 <context>
     <name>psiomemo::ConfigWidget</name>
     <message>
-        <source>Fingerprints</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Manage Devices</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Configuration</source>
         <translation type="unfinished">Настаўленьні</translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18584,10 +18662,6 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Contact</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18609,6 +18683,10 @@ Do you still want to close the window?</source>
     <message>
         <source>not decided</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User</source>
+        <translation type="unfinished">Карыстальнік</translation>
     </message>
 </context>
 <context>
@@ -18857,7 +18935,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Таемка «Псі»</translation>
+        <translation type="vanished">Таемка «Псі»</translation>
     </message>
     <message>
         <source>%1 has canceled the authentication process.</source>
@@ -18883,27 +18961,39 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>Authentication failed.</source>
         <translation>Не ўдалося апазнацца.</translation>
     </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::ConfigDialog</name>
     <message>
         <source>Known fingerprints</source>
-        <translation>Вядомыя адбіткі</translation>
+        <translation type="vanished">Вядомыя адбіткі</translation>
     </message>
     <message>
         <source>My private keys</source>
-        <translation>Мае таемныя ключы</translation>
+        <translation type="vanished">Мае таемныя ключы</translation>
     </message>
     <message>
         <source>Configuration</source>
         <translation>Настаўленьні</translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>psiotr::ConfigOtrWidget</name>
     <message>
         <source>OTR Policy</source>
-        <translation>Правілы таемкі</translation>
+        <translation type="vanished">Правілы таемкі</translation>
     </message>
     <message>
         <source>Disable private messaging</source>
@@ -18925,12 +19015,16 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>End session when contact goes offline</source>
         <translation>Заканчваць сэанс, калі суразмоўца адлучаецца</translation>
     </message>
+    <message>
+        <source>OTR encryption policy</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::FingerprintWidget</name>
     <message>
         <source>Delete fingerprint</source>
-        <translation>Выдаліць адбітак</translation>
+        <translation type="vanished">Выдаліць адбітак</translation>
     </message>
     <message>
         <source>Verify fingerprint</source>
@@ -18958,7 +19052,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Are you sure you want to delete the following fingerprint?</source>
-        <translation>Ці ўпэўненыя вы, што хочаце выдаліць гэты адбітак?</translation>
+        <translation type="vanished">Ці ўпэўненыя вы, што хочаце выдаліць гэты адбітак?</translation>
     </message>
     <message>
         <source>Account: </source>
@@ -18974,7 +19068,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Таемка «Псі»</translation>
+        <translation type="vanished">Таемка «Псі»</translation>
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
@@ -18988,6 +19082,22 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>Copy fingerprint</source>
         <translation>Перапісаць адбітак</translation>
     </message>
+    <message>
+        <source>Trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the following key?</source>
+        <translation type="unfinished">Ці ўпэўненыя вы, што хочаце выдаліць гэты ключ?</translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::PrivKeyWidget</name>
@@ -18997,7 +19107,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Delete key</source>
-        <translation>Выдаліць ключ</translation>
+        <translation type="vanished">Выдаліць ключ</translation>
     </message>
     <message>
         <source>Account</source>
@@ -19021,7 +19131,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Таемка «Псі»</translation>
+        <translation type="vanished">Таемка «Псі»</translation>
     </message>
     <message>
         <source>Are you sure you want to overwrite the following key?</source>
@@ -19034,6 +19144,10 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Copy fingerprint</source>
         <translation>Перапісаць адбітак</translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19139,7 +19253,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Таемка «Псі»</translation>
+        <translation type="vanished">Таемка «Псі»</translation>
     </message>
     <message>
         <source>Attempting to refresh the private conversation</source>
@@ -19187,6 +19301,10 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>OTR Plugin: event from %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

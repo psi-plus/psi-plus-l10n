@@ -477,19 +477,19 @@ Clique clicar na caixa de seleção &lt;b&gt;Registrar uma nova conta&lt;/b&gt; 
     </message>
     <message>
         <source>OpenPGP</source>
-        <translation>OpenPGP</translation>
+        <translation type="vanished">OpenPGP</translation>
     </message>
     <message>
         <source>placeholder2</source>
-        <translation>espaço reservado 2</translation>
+        <translation type="vanished">espaço reservado 2</translation>
     </message>
     <message>
         <source>Select &amp;Key...</source>
-        <translation>Selecionar &amp;Chave...</translation>
+        <translation type="vanished">Selecionar &amp;Chave...</translation>
     </message>
     <message>
         <source>Use None</source>
-        <translation>Não usar</translation>
+        <translation type="vanished">Não usar</translation>
     </message>
     <message>
         <source>Privacy</source>
@@ -748,7 +748,7 @@ Quando você habilitar esta opção, você não será capaz de encontrar a sua s
     </message>
     <message>
         <source>No Key Selected</source>
-        <translation>Nenhuma Chave Selecionada</translation>
+        <translation type="vanished">Nenhuma Chave Selecionada</translation>
     </message>
     <message>
         <source>Error</source>
@@ -816,10 +816,6 @@ Quando você habilitar esta opção, você não será capaz de encontrar a sua s
     </message>
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose Secret Key</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3739,10 +3735,6 @@ Se você deseja confirmar esta solicitação, por favor pressione o botão Confi
     <message>
         <source>For all</source>
         <translation>Para todos</translation>
-    </message>
-    <message>
-        <source>OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8261,6 +8253,44 @@ Tags: %1</translation>
     </message>
 </context>
 <context>
+    <name>OpenPgpPluginNamespace::GpgProcess</name>
+    <message>
+        <source>Can&apos;t start </source>
+        <translation type="unfinished">Não foi possível começar</translation>
+    </message>
+    <message>
+        <source>GnuPG program not found</source>
+        <translation type="unfinished">Programa GnuPG não encontrado</translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPluginNamespace::PGPKeyDlg</name>
+    <message>
+        <source>&amp;Diagnostics</source>
+        <translation type="unfinished">&amp;Diagnósticos</translation>
+    </message>
+    <message>
+        <source>Key ID</source>
+        <translation type="unfinished">ID da Chave</translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation type="unfinished">ID do usuário</translation>
+    </message>
+    <message>
+        <source>GnuPG info</source>
+        <translation type="unfinished">Informações GnuPG</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Erro</translation>
+    </message>
+    <message>
+        <source>Please select a key.</source>
+        <translation type="unfinished">Por favor, selecione uma chave.</translation>
+    </message>
+</context>
+<context>
     <name>OptAdvanced</name>
     <message>
         <source>OptAdvancedUI</source>
@@ -9779,7 +9809,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation>Informações</translation>
+        <translation type="vanished">Informações</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -10041,7 +10071,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation>Informações GnuPG</translation>
+        <translation type="vanished">Informações GnuPG</translation>
     </message>
     <message>
         <source>Authorizing...</source>
@@ -10170,6 +10200,54 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     <message>
         <source>Copy fingerprint</source>
         <translation type="unfinished">Copiar impressão digital</translation>
+    </message>
+    <message>
+        <source>&amp;Diagnostics</source>
+        <translation type="unfinished">&amp;Diagnósticos</translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished">Conta</translation>
+    </message>
+    <message>
+        <source>User</source>
+        <translation type="unfinished">Usuário</translation>
+    </message>
+    <message>
+        <source>Key ID</source>
+        <translation type="unfinished">ID da Chave</translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the following key?</source>
+        <translation type="unfinished">Deseja remover a chave a seguir?</translation>
+    </message>
+    <message>
+        <source>Account: </source>
+        <translation type="unfinished">Conta: </translation>
+    </message>
+    <message>
+        <source>User: </source>
+        <translation type="unfinished">Usuário:</translation>
+    </message>
+    <message>
+        <source>Fingerprint: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose Secret Key</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15064,7 +15142,7 @@ A mensagem não foi enviada.</translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
+        <translation type="vanished">Psi OTR</translation>
     </message>
     <message>
         <source>Failed to generate keys for account &quot;%1&quot;.
@@ -18632,16 +18710,16 @@ Realmente deseja fechar a janela?</translation>
 <context>
     <name>psiomemo::ConfigWidget</name>
     <message>
-        <source>Fingerprints</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Manage Devices</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Configuration</source>
         <translation type="unfinished">Configuração</translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18652,10 +18730,6 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Contact</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18677,6 +18751,10 @@ Realmente deseja fechar a janela?</translation>
     <message>
         <source>not decided</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User</source>
+        <translation type="unfinished">Usuário</translation>
     </message>
 </context>
 <context>
@@ -18925,7 +19003,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
+        <translation type="vanished">Psi OTR</translation>
     </message>
     <message>
         <source>%1 has canceled the authentication process.</source>
@@ -18949,27 +19027,39 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>Authentication failed.</source>
         <translation>Autenticação falhou.</translation>
     </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::ConfigDialog</name>
     <message>
         <source>Known fingerprints</source>
-        <translation>Impressões digitais públicas</translation>
+        <translation type="vanished">Impressões digitais públicas</translation>
     </message>
     <message>
         <source>My private keys</source>
-        <translation>Minhas chaves privadas</translation>
+        <translation type="vanished">Minhas chaves privadas</translation>
     </message>
     <message>
         <source>Configuration</source>
         <translation>Configuração</translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>psiotr::ConfigOtrWidget</name>
     <message>
         <source>OTR Policy</source>
-        <translation>Política OTR</translation>
+        <translation type="vanished">Política OTR</translation>
     </message>
     <message>
         <source>Disable private messaging</source>
@@ -18991,12 +19081,16 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>End session when contact goes offline</source>
         <translation>Terminar sessão quando o contato ficar offline</translation>
     </message>
+    <message>
+        <source>OTR encryption policy</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::FingerprintWidget</name>
     <message>
         <source>Delete fingerprint</source>
-        <translation>Deletar impressão digital</translation>
+        <translation type="vanished">Deletar impressão digital</translation>
     </message>
     <message>
         <source>Verify fingerprint</source>
@@ -19024,7 +19118,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Are you sure you want to delete the following fingerprint?</source>
-        <translation>Deseja deletar a impressão digital a seguir?</translation>
+        <translation type="vanished">Deseja deletar a impressão digital a seguir?</translation>
     </message>
     <message>
         <source>Account: </source>
@@ -19040,7 +19134,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
+        <translation type="vanished">Psi OTR</translation>
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
@@ -19054,6 +19148,22 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>Copy fingerprint</source>
         <translation>Copiar impressão digital</translation>
     </message>
+    <message>
+        <source>Trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the following key?</source>
+        <translation type="unfinished">Deseja remover a chave a seguir?</translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::PrivKeyWidget</name>
@@ -19063,7 +19173,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Delete key</source>
-        <translation>Remover chave</translation>
+        <translation type="vanished">Remover chave</translation>
     </message>
     <message>
         <source>Account</source>
@@ -19087,7 +19197,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
+        <translation type="vanished">Psi OTR</translation>
     </message>
     <message>
         <source>Are you sure you want to overwrite the following key?</source>
@@ -19100,6 +19210,10 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Copy fingerprint</source>
         <translation>Copiar impressão digital</translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19205,7 +19319,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
+        <translation type="vanished">Psi OTR</translation>
     </message>
     <message>
         <source>Attempting to refresh the private conversation</source>
@@ -19254,6 +19368,10 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>OTR Plugin: event from %1</source>
         <translation>Plugin OTR: evento de %1</translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

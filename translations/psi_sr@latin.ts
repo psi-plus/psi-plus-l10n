@@ -463,19 +463,19 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>OpenPGP</source>
-        <translation>Otvoreni PGP</translation>
+        <translation type="vanished">Otvoreni PGP</translation>
     </message>
     <message>
         <source>placeholder2</source>
-        <translation>placeholder2</translation>
+        <translation type="vanished">placeholder2</translation>
     </message>
     <message>
         <source>Select &amp;Key...</source>
-        <translation>Odaberite &amp;ključ ...</translation>
+        <translation type="vanished">Odaberite &amp;ključ ...</translation>
     </message>
     <message>
         <source>Use None</source>
-        <translation>Ne koristi ključ</translation>
+        <translation type="vanished">Ne koristi ključ</translation>
     </message>
     <message>
         <source>Privacy</source>
@@ -732,7 +732,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>No Key Selected</source>
-        <translation>Nije odabran nijedan ključ</translation>
+        <translation type="vanished">Nije odabran nijedan ključ</translation>
     </message>
     <message>
         <source>Error</source>
@@ -800,10 +800,6 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose Secret Key</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3703,10 +3699,6 @@ Ako želite da prihvtite ovaj zahtev, molimo pritisnite Confirm dugme. U suprotn
     </message>
     <message>
         <source>For all</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>OpenPGP encryption</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8190,6 +8182,44 @@ Kartice: %1</translation>
     </message>
 </context>
 <context>
+    <name>OpenPgpPluginNamespace::GpgProcess</name>
+    <message>
+        <source>Can&apos;t start </source>
+        <translation type="unfinished">Ne mogu početi</translation>
+    </message>
+    <message>
+        <source>GnuPG program not found</source>
+        <translation type="unfinished">GnuPG program nije pronađen</translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPluginNamespace::PGPKeyDlg</name>
+    <message>
+        <source>&amp;Diagnostics</source>
+        <translation type="unfinished">&amp;Dijagnoze</translation>
+    </message>
+    <message>
+        <source>Key ID</source>
+        <translation type="unfinished">Key ID</translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation type="unfinished">Korisnik ID</translation>
+    </message>
+    <message>
+        <source>GnuPG info</source>
+        <translation type="unfinished">GnuPG info</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Greška</translation>
+    </message>
+    <message>
+        <source>Please select a key.</source>
+        <translation type="unfinished">Molim, odaberite ključ.</translation>
+    </message>
+</context>
+<context>
     <name>OptAdvanced</name>
     <message>
         <source>OptAdvancedUI</source>
@@ -9659,7 +9689,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Info</source>
-        <translation>Info</translation>
+        <translation type="vanished">Info</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -9912,7 +9942,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation>GnuPG info</translation>
+        <translation type="vanished">GnuPG info</translation>
     </message>
     <message>
         <source>Authorizing...</source>
@@ -10041,6 +10071,54 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>Copy fingerprint</source>
         <translation type="unfinished">Kopiraj otisak</translation>
+    </message>
+    <message>
+        <source>&amp;Diagnostics</source>
+        <translation type="unfinished">&amp;Dijagnoze</translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished">Nalog</translation>
+    </message>
+    <message>
+        <source>User</source>
+        <translation type="unfinished">Korisnik</translation>
+    </message>
+    <message>
+        <source>Key ID</source>
+        <translation type="unfinished">Key ID</translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation type="unfinished">Otisak</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the following key?</source>
+        <translation type="unfinished">Da li ste sigurni da želite da obrišete ključ?</translation>
+    </message>
+    <message>
+        <source>Account: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint: </source>
+        <translation type="unfinished">Otisak:</translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose Secret Key</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14896,7 +14974,7 @@ The message was not sent.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
+        <translation type="vanished">Psi OTR</translation>
     </message>
     <message>
         <source>Failed to generate keys for account &quot;%1&quot;.
@@ -18271,16 +18349,16 @@ Do you still want to close the window?</source>
 <context>
     <name>psiomemo::ConfigWidget</name>
     <message>
-        <source>Fingerprints</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Manage Devices</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Configuration</source>
         <translation type="unfinished">Konfiguracija</translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18291,10 +18369,6 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Contact</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18316,6 +18390,10 @@ Do you still want to close the window?</source>
     <message>
         <source>not decided</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User</source>
+        <translation type="unfinished">Korisnik</translation>
     </message>
 </context>
 <context>
@@ -18564,7 +18642,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
+        <translation type="vanished">Psi OTR</translation>
     </message>
     <message>
         <source>%1 has canceled the authentication process.</source>
@@ -18588,28 +18666,36 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>Authentication failed.</source>
         <translation>Autorizacija neuspela</translation>
     </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::ConfigDialog</name>
     <message>
         <source>Known fingerprints</source>
-        <translation>Poznati otisci</translation>
+        <translation type="vanished">Poznati otisci</translation>
     </message>
     <message>
         <source>My private keys</source>
-        <translation>Moji privatni ključevi</translation>
+        <translation type="vanished">Moji privatni ključevi</translation>
     </message>
     <message>
         <source>Configuration</source>
         <translation>Konfiguracija</translation>
     </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::ConfigOtrWidget</name>
-    <message>
-        <source>OTR Policy</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Disable private messaging</source>
         <translation>Isključi privatne poruke</translation>
@@ -18630,12 +18716,16 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>End session when contact goes offline</source>
         <translation>Zavarši sesiju kad kontakt napusti mrežu</translation>
     </message>
+    <message>
+        <source>OTR encryption policy</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::FingerprintWidget</name>
     <message>
         <source>Delete fingerprint</source>
-        <translation>Ukloni otisak</translation>
+        <translation type="vanished">Ukloni otisak</translation>
     </message>
     <message>
         <source>Verify fingerprint</source>
@@ -18662,10 +18752,6 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation>Statrus</translation>
     </message>
     <message>
-        <source>Are you sure you want to delete the following fingerprint?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Account: </source>
         <translation>Nalog</translation>
     </message>
@@ -18679,7 +18765,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
+        <translation type="vanished">Psi OTR</translation>
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
@@ -18693,6 +18779,22 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>Copy fingerprint</source>
         <translation>Kopiraj otisak</translation>
     </message>
+    <message>
+        <source>Trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the following key?</source>
+        <translation type="unfinished">Da li ste sigurni da želite da obrišete ključ?</translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::PrivKeyWidget</name>
@@ -18702,7 +18804,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Delete key</source>
-        <translation>Ukloni ključ</translation>
+        <translation type="vanished">Ukloni ključ</translation>
     </message>
     <message>
         <source>Account</source>
@@ -18726,7 +18828,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
+        <translation type="vanished">Psi OTR</translation>
     </message>
     <message>
         <source>Are you sure you want to overwrite the following key?</source>
@@ -18739,6 +18841,10 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Copy fingerprint</source>
         <translation>Kopiraj otisak</translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18840,7 +18946,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
+        <translation type="vanished">Psi OTR</translation>
     </message>
     <message>
         <source>Attempting to refresh the private conversation</source>
@@ -18888,6 +18994,10 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>OTR Plugin: event from %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -469,19 +469,19 @@ Jelöld be az &lt;b&gt;Új Fiók Regisztrálása&lt;/b&gt; lehetőséget ha szer
     </message>
     <message>
         <source>OpenPGP</source>
-        <translation>OpenPGP</translation>
+        <translation type="vanished">OpenPGP</translation>
     </message>
     <message>
         <source>placeholder2</source>
-        <translation>placeholder2</translation>
+        <translation type="vanished">placeholder2</translation>
     </message>
     <message>
         <source>Select &amp;Key...</source>
-        <translation>&amp;Kulcs Kiválasztása...</translation>
+        <translation type="vanished">&amp;Kulcs Kiválasztása...</translation>
     </message>
     <message>
         <source>Use None</source>
-        <translation>Ne Használjon</translation>
+        <translation type="vanished">Ne Használjon</translation>
     </message>
     <message>
         <source>Privacy</source>
@@ -740,7 +740,7 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>No Key Selected</source>
-        <translation>Nincs kulcs kiválasztva</translation>
+        <translation type="vanished">Nincs kulcs kiválasztva</translation>
     </message>
     <message>
         <source>Error</source>
@@ -809,10 +809,6 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
         <translation>Sream-kezelő protokoll engedélyezése, ha lehetséges. Instabil kapcsolatnál hasznos. A szerverednek támogatnia kell ezt a funkciót. További információért nézd meg, XEP-0184.</translation>
-    </message>
-    <message>
-        <source>Choose Secret Key</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3732,10 +3728,6 @@ Ha engedélyezni szeretnéd ezt a kérést, nyomd meg az Megerősítés gombot. 
     <message>
         <source>For all</source>
         <translation>Mindnek</translation>
-    </message>
-    <message>
-        <source>OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8257,6 +8249,44 @@ Címkék: %1</translation>
     </message>
 </context>
 <context>
+    <name>OpenPgpPluginNamespace::GpgProcess</name>
+    <message>
+        <source>Can&apos;t start </source>
+        <translation type="unfinished">Nem indítható</translation>
+    </message>
+    <message>
+        <source>GnuPG program not found</source>
+        <translation type="unfinished">GnuPG program nem található</translation>
+    </message>
+</context>
+<context>
+    <name>OpenPgpPluginNamespace::PGPKeyDlg</name>
+    <message>
+        <source>&amp;Diagnostics</source>
+        <translation type="unfinished">&amp;Diagnosztikák</translation>
+    </message>
+    <message>
+        <source>Key ID</source>
+        <translation type="unfinished">Kulcs ID</translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation type="unfinished">Felhasználó ID</translation>
+    </message>
+    <message>
+        <source>GnuPG info</source>
+        <translation type="unfinished">GnuPG info</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Hiba</translation>
+    </message>
+    <message>
+        <source>Please select a key.</source>
+        <translation type="unfinished">Kérlek válassz ki egy kulcsot.</translation>
+    </message>
+</context>
+<context>
     <name>OptAdvanced</name>
     <message>
         <source>OptAdvancedUI</source>
@@ -9776,7 +9806,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation>Információ</translation>
+        <translation type="vanished">Információ</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -10038,7 +10068,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation>GnuPG info</translation>
+        <translation type="vanished">GnuPG info</translation>
     </message>
     <message>
         <source>Authorizing...</source>
@@ -10166,6 +10196,54 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Diagnostics</source>
+        <translation type="unfinished">&amp;Diagnosztikák</translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished">Fiók</translation>
+    </message>
+    <message>
+        <source>User</source>
+        <translation type="unfinished">Felhasználó</translation>
+    </message>
+    <message>
+        <source>Key ID</source>
+        <translation type="unfinished">Kulcs ID</translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation type="unfinished">Ujjlenyomat</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the following key?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User: </source>
+        <translation type="unfinished">Felhasználó: </translation>
+    </message>
+    <message>
+        <source>Fingerprint: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose Secret Key</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15060,7 +15138,7 @@ Az üzenet nem lett elküldve.</translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
+        <translation type="vanished">Psi OTR</translation>
     </message>
     <message>
         <source>Failed to generate keys for account &quot;%1&quot;.
@@ -18523,16 +18601,16 @@ Ablak bezárása mégis?</translation>
 <context>
     <name>psiomemo::ConfigWidget</name>
     <message>
-        <source>Fingerprints</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Manage Devices</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Configuration</source>
         <translation type="unfinished">Beállítások</translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18543,10 +18621,6 @@ Ablak bezárása mégis?</translation>
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Contact</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18568,6 +18642,10 @@ Ablak bezárása mégis?</translation>
     <message>
         <source>not decided</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User</source>
+        <translation type="unfinished">Felhasználó</translation>
     </message>
 </context>
 <context>
@@ -18816,7 +18894,7 @@ Ablak bezárása mégis?</translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
+        <translation type="vanished">Psi OTR</translation>
     </message>
     <message>
         <source>%1 has canceled the authentication process.</source>
@@ -18840,28 +18918,28 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>Authentication failed.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::ConfigDialog</name>
     <message>
-        <source>Known fingerprints</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>My private keys</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Configuration</source>
         <translation>Beállítások</translation>
+    </message>
+    <message>
+        <source>Known Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own Keys</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>psiotr::ConfigOtrWidget</name>
-    <message>
-        <source>OTR Policy</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Disable private messaging</source>
         <translation type="unfinished"></translation>
@@ -18882,13 +18960,13 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>End session when contact goes offline</source>
         <translation>Beszélgetésfolyamat vége, ha az ismerős kijelentkezik</translation>
     </message>
+    <message>
+        <source>OTR encryption policy</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::FingerprintWidget</name>
-    <message>
-        <source>Delete fingerprint</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Verify fingerprint</source>
         <translation type="unfinished"></translation>
@@ -18914,10 +18992,6 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation>Állapot</translation>
     </message>
     <message>
-        <source>Are you sure you want to delete the following fingerprint?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Account: </source>
         <translation type="unfinished"></translation>
     </message>
@@ -18931,7 +19005,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
+        <translation type="vanished">Psi OTR</translation>
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
@@ -18945,6 +19019,22 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>Copy fingerprint</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not trust</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the following key?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiotr::PrivKeyWidget</name>
@@ -18954,7 +19044,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Delete key</source>
-        <translation>Kulcs törlése</translation>
+        <translation type="vanished">Kulcs törlése</translation>
     </message>
     <message>
         <source>Account</source>
@@ -18978,7 +19068,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
+        <translation type="vanished">Psi OTR</translation>
     </message>
     <message>
         <source>Are you sure you want to overwrite the following key?</source>
@@ -18990,6 +19080,10 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Copy fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -19092,7 +19186,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
+        <translation type="vanished">Psi OTR</translation>
     </message>
     <message>
         <source>Attempting to refresh the private conversation</source>
@@ -19140,6 +19234,10 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>OTR Plugin: event from %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm action</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
