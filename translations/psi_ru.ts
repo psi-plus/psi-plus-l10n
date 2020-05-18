@@ -617,7 +617,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>This option disables peer-to-peer connections and also connections to TURN servers provided by the other peer.&lt;br&gt;&lt;br&gt;&lt;b&gt;Warning: &lt;/b&gt;While this hides your IP address, it makes the connection impossible if TURN server options above are invalid or empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Эта опция отключает p2p соединения, а также соединения с серверами TURN, предоставляемые другим узлом.&lt;br&gt;&lt;br&gt;&lt;b&gt;Предупреждение: &lt;/b&gt;это ограничение успешно скрывает ваш IP-адрес, но делает невозможнымы соединения в случаях, если TURN сервер не указан в настройках аккаунта, либо указан нерабочий сервер.</translation>
     </message>
     <message>
         <source>Disable connections potentially exposing my IP address</source>
@@ -813,10 +813,6 @@ When you enable this option you will not be able to find your password in config
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
         <translation>Включает при возможности менеджер потока. Это полезно при нестабильном подключении к сети. Ваш сервер должен поддерживать данную опцию. Подробности см. в XEP-0184.</translation>
-    </message>
-    <message>
-        <source>Choose Secret Key</source>
-        <translation type="vanished">Выберите секретный ключ</translation>
     </message>
 </context>
 <context>
@@ -3747,10 +3743,6 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <source>For all</source>
         <translation>Для всех</translation>
     </message>
-    <message>
-        <source>OpenPGP encryption</source>
-        <translation type="vanished">Шифрование OpenPGP</translation>
-    </message>
 </context>
 <context>
     <name>EventNotifierAction</name>
@@ -5764,14 +5756,6 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <message>
         <source>Public key %1 sent</source>
         <translation type="vanished">Публичный ключ %1 отправлен</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">E-Mail: </translation>
-    </message>
-    <message>
-        <source>Public key &quot;%1&quot; sent</source>
-        <translation type="vanished">Публичный ключ &quot;%1&quot; отправлен</translation>
     </message>
 </context>
 <context>
@@ -13285,10 +13269,6 @@ Reason: %1.</source>
         <source>Set Topic</source>
         <translation>Установить тему</translation>
     </message>
-    <message>
-        <source>OpenPGP encryption</source>
-        <translation type="vanished">Шифрование OpenPGP</translation>
-    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -18841,14 +18821,6 @@ Do you still want to close the window?</source>
 <context>
     <name>psiomemo::ConfigWidget</name>
     <message>
-        <source>Fingerprints</source>
-        <translation type="vanished">Отпечатки</translation>
-    </message>
-    <message>
-        <source>Manage Devices</source>
-        <translation type="vanished">Управление устройствами</translation>
-    </message>
-    <message>
         <source>Configuration</source>
         <translation>Настройка</translation>
     </message>
@@ -18870,10 +18842,6 @@ Do you still want to close the window?</source>
     <message>
         <source>Trust</source>
         <translation>Доверять</translation>
-    </message>
-    <message>
-        <source>Contact</source>
-        <translation type="vanished">Контакт</translation>
     </message>
     <message>
         <source>Fingerprint</source>
@@ -18980,14 +18948,6 @@ Do you still want to close the window?</source>
 </context>
 <context>
     <name>psiomemo::OMEMOPlugin</name>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Автор: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">E-Mail: </translation>
-    </message>
     <message>
         <source>Credits: </source>
         <translation>Благодарности: </translation>
