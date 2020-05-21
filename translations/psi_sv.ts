@@ -18334,10 +18334,6 @@ Vill du ändå stänga fönstrett?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Plausible deniabilit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>No participant can prove who created a specific message.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18367,6 +18363,10 @@ Vill du ändå stänga fönstrett?</translation>
     </message>
     <message>
         <source>* etc.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plausible deniability</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

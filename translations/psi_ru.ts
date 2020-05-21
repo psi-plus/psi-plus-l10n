@@ -19119,7 +19119,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Plausible deniabilit</source>
-        <translation>Правдоподобное отрицание</translation>
+        <translation type="vanished">Правдоподобное отрицание</translation>
     </message>
     <message>
         <source>No participant can prove who created a specific message.</source>
@@ -19152,6 +19152,10 @@ Do you still want to close the window?</source>
     <message>
         <source>* etc.</source>
         <translation>* и т.д.</translation>
+    </message>
+    <message>
+        <source>Plausible deniability</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

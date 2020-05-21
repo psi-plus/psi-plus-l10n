@@ -18614,10 +18614,6 @@ Czy nadal chcesz zamknąć tablicę?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Plausible deniabilit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>No participant can prove who created a specific message.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18647,6 +18643,10 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     </message>
     <message>
         <source>* etc.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plausible deniability</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

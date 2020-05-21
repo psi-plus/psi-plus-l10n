@@ -17973,10 +17973,6 @@ Do you still want to close the window?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Plausible deniabilit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>No participant can prove who created a specific message.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18006,6 +18002,10 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>* etc.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plausible deniability</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
