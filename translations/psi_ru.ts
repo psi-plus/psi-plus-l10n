@@ -8270,22 +8270,6 @@ Tags: %1</source>
         <translation>Авторы: </translation>
     </message>
     <message>
-        <source>OpenPGP is the most widely used encryption standard. It is extremely simple in usage:
-* Generate a key pair (public key + secret key) or choose existing one and set it in program settings.
-* Protect your secret key with a strong password and never give it to anyone.
-* Share your public key with buddies and get their public keys using any communication channel which you trust (xmpp, email, PGP keys server).
-* Enable PGP encryption in chat with you buddy and have fun the protected conversation.</source>
-        <translation type="vanished">OpenPGP является наиболее широко используемым стандартом шифрования. Он чрезвычайно прост в использовании:
-* Сгенерируйте пару ключей (публичный ключ + секретный ключ) или выберите существующую и установите её в настройках программы.
-* Защитите свой секретный ключ надежным паролем и никогда никому его не передавайте.
-* Поделитесь своим открытым ключом с друзьями и получите их открытые ключи, используя любой канал связи, которому вы доверяете (xmpp, электронная почта, сервер ключей PGP).
-* Включите шифрование PGP в чате с вашим приятелем и наслаждайтесь защищенным общением.</translation>
-    </message>
-    <message>
-        <source>This plugin uses standard command-line tool GnuPG, so attentively check that you properly installed and configured gpg and gpg-agent.</source>
-        <translation type="vanished">Этот плагин использует стандартную утилиту командной строки GnuPG, поэтому внимательно проверьте, правильно ли установлены и настроены gpg и gpg-agent.</translation>
-    </message>
-    <message>
         <source>Embedded Keys Manager can do only basic operations like creating, removing, exporting and importing PGP keys. This should be enough to most of users needs. For more complicated cases use special software.</source>
         <translation>Встроенный менеджер ключей может выполнять только базовые операции, такие как создание, удаление, экспорт и импорт ключей PGP. Этого должно быть достаточно для потребностей большинства пользователей. Для более сложных случаев используйте специальное программное обеспечение.</translation>
     </message>
@@ -8304,10 +8288,6 @@ Tags: %1</source>
     <message>
         <source>OpenPGP limitations:&lt;br/&gt;* No support of message copies to multiple devices.&lt;br/&gt;* No support of multi-user chats.</source>
         <translation>Ограничения OpenPGP:&lt;br/&gt;* Нет поддержки копий сообщений на несколько устройств.&lt;br/&gt;* Нет поддержки многопользовательских чатов.</translation>
-    </message>
-    <message>
-        <source>In comparison with OTR and OMEMO, OpenPGP allows to keep encrypted messages history on server side but lucks support of forward secrecy (they are mutually exclusive).</source>
-        <translation type="vanished">По сравнению с OTR и OMEMO, OpenPGP позволяет хранить историю зашифрованных сообщений на стороне сервера, но не поддерживает прямую секретность (они являются взаимоисключающими).</translation>
     </message>
     <message>
         <source>OpenPGP plugin uses standard command-line tool GnuPG, so attentively check that you properly installed and configured gpg and gpg-agent. For example, in your system:</source>
@@ -19120,10 +19100,6 @@ Do you still want to close the window?</source>
     <message>
         <source>Every peer can ensure that a message was not changed by any intermediate node.</source>
         <translation>Каждый узел может гарантировать, что сообщение не было изменено каким-либо промежуточным узлом.</translation>
-    </message>
-    <message>
-        <source>Plausible deniabilit</source>
-        <translation type="vanished">Правдоподобное отрицание</translation>
     </message>
     <message>
         <source>No participant can prove who created a specific message.</source>

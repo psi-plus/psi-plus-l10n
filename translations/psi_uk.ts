@@ -8295,10 +8295,6 @@ Tags: %1</source>
         <translation>Обмеження OpenPGP:&lt;br/&gt;* Не підтримує копії повідомлень на декілька пристроїв.&lt;br/&gt;* Немає підтримки багатокористувацьких чатів.</translation>
     </message>
     <message>
-        <source>In comparison with OTR and OMEMO, OpenPGP allows to keep encrypted messages history on server side but lucks support of forward secrecy (they are mutually exclusive).</source>
-        <translation type="vanished">У порівнянні з OTR та OMEMO, OpenPGP дозволяє зберігати історію зашифрованих повідомлень на боці серверу, але не підтримує прямої секретності (вони є взаємовиключними).</translation>
-    </message>
-    <message>
         <source>OpenPGP plugin uses standard command-line tool GnuPG, so attentively check that you properly installed and configured gpg and gpg-agent. For example, in your system:</source>
         <translation>Плагін OpenPGP використовує стандартний інструментарій командного рядку GnuPG, тому уважно перевірте, чи правильно ви встановили та налаштували gpg та gpg-агент. Наприклад, у вашій системі:</translation>
     </message>
