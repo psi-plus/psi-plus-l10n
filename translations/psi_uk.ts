@@ -8320,7 +8320,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>In comparison with OTR and OMEMO, OpenPGP allows one to keep encrypted messages history on server side but lucks support of forward secrecy (they are mutually exclusive).</source>
-        <translation type="unfinished"></translation>
+        <translation>У порівнянні з OTR та OMEMO, OpenPGP дозволяє зберігати історію зашифрованих повідомлень на боці серверу, але не підтримує прямої секретності (вони є взаємовиключними).</translation>
     </message>
 </context>
 <context>
