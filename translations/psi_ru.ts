@@ -8307,7 +8307,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>In comparison with OTR and OMEMO, OpenPGP allows to keep encrypted messages history on server side but lucks support of forward secrecy (they are mutually exclusive).</source>
-        <translation>По сравнению с OTR и OMEMO, OpenPGP позволяет хранить историю зашифрованных сообщений на стороне сервера, но не поддерживает прямую секретность (они являются взаимоисключающими).</translation>
+        <translation type="vanished">По сравнению с OTR и OMEMO, OpenPGP позволяет хранить историю зашифрованных сообщений на стороне сервера, но не поддерживает прямую секретность (они являются взаимоисключающими).</translation>
     </message>
     <message>
         <source>OpenPGP plugin uses standard command-line tool GnuPG, so attentively check that you properly installed and configured gpg and gpg-agent. For example, in your system:</source>
@@ -8328,6 +8328,10 @@ Tags: %1</source>
     <message>
         <source>2) Edit configuration file %1 if necessary.</source>
         <translation>2) Отредактируйте файл %1 при необходимости.</translation>
+    </message>
+    <message>
+        <source>In comparison with OTR and OMEMO, OpenPGP allows one to keep encrypted messages history on server side but lucks support of forward secrecy (they are mutually exclusive).</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
