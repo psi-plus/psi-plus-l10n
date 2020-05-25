@@ -10352,10 +10352,6 @@ Ime ne sme biti prazno, se ne sme končati s ».« ali vsebovati »..«.</transl
         <source>Plugin Path</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>&lt;b&gt;%1 %2&lt;/b&gt;&lt;br/&gt;&lt;b&gt;%3:&lt;/b&gt; %4</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>OptionsTabPopups</name>
