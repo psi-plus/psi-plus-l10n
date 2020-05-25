@@ -10971,11 +10971,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Authors</source>
-        <translation type="unfinished">Авторы</translation>
+        <translation>Авторы</translation>
     </message>
     <message>
         <source>Plugin Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл</translation>
     </message>
     <message>
         <source>&lt;b&gt;%1 %2&lt;/b&gt;&lt;br/&gt;&lt;b&gt;%3:&lt;/b&gt; %4</source>
@@ -18958,11 +18958,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Device ID</source>
-        <translation type="unfinished">ID устройства</translation>
+        <translation>ID устройства</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">Копировать отпечаток</translation>
+        <translation>Копировать отпечаток</translation>
     </message>
 </context>
 <context>
@@ -19025,7 +19025,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">Копировать отпечаток</translation>
+        <translation>Копировать отпечаток</translation>
     </message>
 </context>
 <context>
