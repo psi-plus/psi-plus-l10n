@@ -1412,11 +1412,11 @@ Erreur lors de la demande d&apos;informations à partir de &quot;%1&quot;.&lt;br
     </message>
     <message>
         <source>Author: </source>
-        <translation>Auteur :</translation>
+        <translation type="vanished">Auteur :</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Courriel :</translation>
+        <translation type="vanished">Courriel :</translation>
     </message>
     <message>
         <source>This plugin is designed to send and receive special messages such as Attentions.
@@ -1526,11 +1526,11 @@ Afin de fonctionner correctement, le client du destinataire doit supporter XEP 0
     </message>
     <message>
         <source>Author: </source>
-        <translation>Auteur :</translation>
+        <translation type="vanished">Auteur :</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Courriel :</translation>
+        <translation type="vanished">Courriel :</translation>
     </message>
     <message>
         <source>This plugin acts as an auto-answering machine. It has a number of simple configuration options, which you can use to:
@@ -2271,11 +2271,11 @@ Vous pouvez cependant sauvegarder la partie.</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Auteur :</translation>
+        <translation type="vanished">Auteur :</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Courriel :</translation>
+        <translation type="vanished">Courriel :</translation>
     </message>
     <message>
         <source>This plugin allows you to play chess with your friends.
@@ -2504,11 +2504,11 @@ Les messages sont utilisés pour envoyer des commandes, il suffit donc de pouvoi
     </message>
     <message>
         <source>Author: </source>
-        <translation>Auteur :</translation>
+        <translation type="vanished">Auteur :</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Courriel :</translation>
+        <translation type="vanished">Courriel :</translation>
     </message>
     <message>
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
@@ -2615,7 +2615,7 @@ Il est possible de prévisualiser les éléments avant de les supprimer.</transl
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>Authors: </source>
-        <translation>Auteurs :</translation>
+        <translation type="vanished">Auteurs :</translation>
     </message>
     <message>
         <source>The plugin is intended for substitution of the client version, his name and operating system type.
@@ -2697,11 +2697,11 @@ Note : afin de fonctionner correctement, la barre d&apos;outils du salon doit ê
     </message>
     <message>
         <source>Author: </source>
-        <translation>Auteur :</translation>
+        <translation type="vanished">Auteur :</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Courriel : </translation>
+        <translation type="vanished">Courriel : </translation>
     </message>
 </context>
 <context>
@@ -3090,7 +3090,7 @@ Continuer ?</translation>
     <name>ContentDownloader</name>
     <message>
         <source>Author: </source>
-        <translation>Auteur :</translation>
+        <translation type="vanished">Auteur :</translation>
     </message>
     <message>
         <source>e-mail: </source>
@@ -3102,7 +3102,7 @@ Continuer ?</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Courriel :</translation>
+        <translation type="vanished">Courriel :</translation>
     </message>
 </context>
 <context>
@@ -3512,7 +3512,7 @@ Continuer ?</translation>
     <name>EnumMessagesPlugin</name>
     <message>
         <source>Authors: </source>
-        <translation>Auteurs :</translation>
+        <translation type="vanished">Auteurs :</translation>
     </message>
     <message>
         <source>Missed messages: %1</source>
@@ -3816,11 +3816,11 @@ Si vous souhaitez confirmer cette demande, cliquez sur le bouton de confirmation
     </message>
     <message>
         <source>Author: </source>
-        <translation>Auteur : </translation>
+        <translation type="vanished">Auteur : </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Courriel : </translation>
+        <translation type="vanished">Courriel : </translation>
     </message>
     <message>
         <source>This plugin adds several additional commands into contacts context menu.</source>
@@ -4246,11 +4246,11 @@ Cette option n&apos;est active que si l&apos;acceptation de la configuration par
     </message>
     <message>
         <source>Author: </source>
-        <translation>Auteur : </translation>
+        <translation type="vanished">Auteur : </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Courriel : </translation>
+        <translation type="vanished">Courriel : </translation>
     </message>
     <message>
         <source>This plugin is designed to allow easy configuration of some advanced options in Psi.
@@ -5737,11 +5737,11 @@ to play gomoku. He wants to play %2.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Auteur : </translation>
+        <translation type="vanished">Auteur : </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Courriel : </translation>
+        <translation type="vanished">Courriel : </translation>
     </message>
     <message>
         <source>This plugin allows you to play gomoku with your friends.
@@ -6148,11 +6148,11 @@ Continue?</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Auteur :</translation>
+        <translation type="vanished">Auteur :</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Courriel :</translation>
+        <translation type="vanished">Courriel :</translation>
     </message>
     <message>
         <source>This plugin is designed to remove the history of selected contacts when the Psi is closed.
@@ -6627,7 +6627,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Authors: </source>
-        <translation>Auteurs :</translation>
+        <translation type="vanished">Auteurs :</translation>
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
@@ -6650,7 +6650,7 @@ Note : Afin de fonctionner correctement, l&apos;option options.ui.chat.central-t
     <name>ImagePreviewPlugin</name>
     <message>
         <source>Author: </source>
-        <translation>Auteur :</translation>
+        <translation type="vanished">Auteur :</translation>
     </message>
     <message>
         <source>512 Kb</source>
@@ -7169,11 +7169,15 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Auteur :</translation>
+        <translation type="vanished">Auteur :</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Courriel :</translation>
+        <translation type="vanished">Courriel :</translation>
+    </message>
+    <message>
+        <source>Treat some jids as services implementing Jabber Disk protocol and handle your files with them.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7258,7 +7262,7 @@ caching avatars will be not available</source>
     </message>
     <message>
         <source>Authors: </source>
-        <translation>Auteurs :</translation>
+        <translation type="vanished">Auteurs :</translation>
     </message>
     <message>
         <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
@@ -7825,7 +7829,7 @@ Russie, Tambov, 2005 (denis@silversoft.net)</translation>
     <name>MessageFilter</name>
     <message>
         <source>Author: </source>
-        <translation>Auteur :</translation>
+        <translation type="vanished">Auteur :</translation>
     </message>
     <message>
         <source>e-mail: </source>
@@ -7833,7 +7837,11 @@ Russie, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Courriel :</translation>
+        <translation type="vanished">Courriel :</translation>
+    </message>
+    <message>
+        <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8164,10 +8172,6 @@ Labels : %1</translation>
 </context>
 <context>
     <name>OpenPgpPlugin</name>
-    <message>
-        <source>Authors: </source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Embedded Keys Manager can do only basic operations like creating, removing, exporting and importing PGP keys. This should be enough to most of users needs. For more complicated cases use special software.</source>
         <translation type="unfinished"></translation>
@@ -10758,7 +10762,7 @@ notifications pour les mails non lus.</translation>
     <message>
         <source>Plugin Path:
 %1</source>
-        <translation>Chemin du greffon : %1</translation>
+        <translation type="vanished">Chemin du greffon : %1</translation>
     </message>
     <message>
         <source>Show information about plugin</source>
@@ -10770,6 +10774,18 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>About plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authors</source>
+        <translation type="unfinished">Auteurs</translation>
+    </message>
+    <message>
+        <source>Plugin Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;%1 %2&lt;/b&gt;&lt;br/&gt;&lt;b&gt;%3:&lt;/b&gt; %4</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11428,11 +11444,11 @@ Veuillez saisir votre mot de passe ci-dessous :</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Auteur :</translation>
+        <translation type="vanished">Auteur :</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Courriel :</translation>
+        <translation type="vanished">Courriel :</translation>
     </message>
     <message>
         <source>This plugin shows popup notifications when users from your roster changes their mood, tune or activity.</source>
@@ -13724,10 +13740,6 @@ Would you like to activate that session now?</source>
 <context>
     <name>PsiMediaPlugin</name>
     <message>
-        <source>Authors: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Thanks To</source>
         <translation type="unfinished">Remerciements à</translation>
     </message>
@@ -15568,11 +15580,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Auteur :</translation>
+        <translation type="vanished">Auteur :</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Courriel :</translation>
+        <translation type="vanished">Courriel :</translation>
     </message>
     <message>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
@@ -15691,11 +15703,11 @@ Cause: %1</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Auteur :</translation>
+        <translation type="vanished">Auteur :</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Courriel :</translation>
+        <translation type="vanished">Courriel :</translation>
     </message>
     <message>
         <source>This plugin is designed to show reminders of upcoming birthdays.
@@ -15936,7 +15948,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Authors: </source>
-        <translation>Auteurs : </translation>
+        <translation type="vanished">Auteurs : </translation>
     </message>
     <message>
         <source>This plugin allows you to make screenshots and save them to your hard drive or upload them to an FTP or HTTP server.
@@ -16929,11 +16941,11 @@ Cela permet de récupérer correctement tous les paramètres (icônes, dispositi
     </message>
     <message>
         <source>Author: </source>
-        <translation>Auteur :</translation>
+        <translation type="vanished">Auteur :</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Courriel :</translation>
+        <translation type="vanished">Courriel :</translation>
     </message>
     <message>
         <source>This plugin is designed to block spam messages and other unwanted information from Psi users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
@@ -16997,11 +17009,11 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     </message>
     <message>
         <source>Author: </source>
-        <translation>Auteur :</translation>
+        <translation type="vanished">Auteur :</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Courriel :</translation>
+        <translation type="vanished">Courriel :</translation>
     </message>
     <message>
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
@@ -17519,7 +17531,7 @@ Et celui-là ne fonctionne que dans une discussion de groupe:
     </message>
     <message>
         <source>Author: </source>
-        <translation>Auteur :</translation>
+        <translation type="vanished">Auteur :</translation>
     </message>
     <message>
         <source>This plugin allows you to convert selected text into another language.
@@ -17627,7 +17639,7 @@ Et celui-là ne fonctionne que dans une discussion de groupe:
     <name>VideoStatusChanger</name>
     <message>
         <source>Authors: </source>
-        <translation>Auteurs :</translation>
+        <translation type="vanished">Auteurs :</translation>
     </message>
     <message>
         <source>This plugin is designed to set the custom status when you watching the video in selected video players. 
@@ -17877,11 +17889,11 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Auteur :</translation>
+        <translation type="vanished">Auteur :</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Courriel :</translation>
+        <translation type="vanished">Courriel :</translation>
     </message>
     <message>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
@@ -18561,6 +18573,14 @@ Do you still want to close the window?</source>
         <source>User</source>
         <translation type="unfinished">Utilisateur</translation>
     </message>
+    <message>
+        <source>Device ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy fingerprint</source>
+        <translation type="unfinished">Copier l&apos;empreinte</translation>
+    </message>
 </context>
 <context>
     <name>psiomemo::ManageDevices</name>
@@ -18613,6 +18633,10 @@ Do you still want to close the window?</source>
     <message>
         <source>Delete selected device?</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy fingerprint</source>
+        <translation type="unfinished">Copier l&apos;empreinte</translation>
     </message>
 </context>
 <context>
@@ -18678,10 +18702,6 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Manage contact fingerprints</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authors: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -19232,10 +19252,6 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Confirm action</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authors: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>

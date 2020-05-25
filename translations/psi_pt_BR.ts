@@ -1422,11 +1422,11 @@ Houve um erro ao obter o ID do Serviço de Traduções de &quot;%1&quot;.&lt;br&
     </message>
     <message>
         <source>Author: </source>
-        <translation>Autor: </translation>
+        <translation type="vanished">Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-mail: </translation>
+        <translation type="vanished">E-mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to send and receive special messages such as Attentions.
@@ -1536,11 +1536,11 @@ Para funcionar corretamente, o plugin requer que o cliente de outra parte suport
     </message>
     <message>
         <source>Author: </source>
-        <translation>Autor: </translation>
+        <translation type="vanished">Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-mail: </translation>
+        <translation type="vanished">E-mail: </translation>
     </message>
     <message>
         <source>This plugin acts as an auto-answering machine. It has a number of simple configuration options, which you can use to:
@@ -2281,11 +2281,11 @@ Você ainda pode salvar a jogo.</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Autor: </translation>
+        <translation type="vanished">Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-mail: </translation>
+        <translation type="vanished">E-mail: </translation>
     </message>
     <message>
         <source>This plugin allows you to play chess with your friends.
@@ -2514,11 +2514,11 @@ Para o envio de comandos, mensagens normais serão utilizadas, por isso este plu
     </message>
     <message>
         <source>Author: </source>
-        <translation>Autor: </translation>
+        <translation type="vanished">Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-mail: </translation>
+        <translation type="vanished">E-mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
@@ -2625,7 +2625,7 @@ Você poderá pré-visualizar os itens antes de remove-los de seu hd.</translati
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>Authors: </source>
-        <translation>Autores: </translation>
+        <translation type="vanished">Autores: </translation>
     </message>
     <message>
         <source>The plugin is intended for substitution of the client version, his name and operating system type.
@@ -2705,11 +2705,11 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Autor: </translation>
+        <translation type="vanished">Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-mail: </translation>
+        <translation type="vanished">E-mail: </translation>
     </message>
 </context>
 <context>
@@ -3099,7 +3099,7 @@ Proceder?</translation>
     <name>ContentDownloader</name>
     <message>
         <source>Author: </source>
-        <translation>Autor: </translation>
+        <translation type="vanished">Autor: </translation>
     </message>
     <message>
         <source>e-mail: </source>
@@ -3111,7 +3111,7 @@ Proceder?</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Email: </translation>
+        <translation type="vanished">Email: </translation>
     </message>
 </context>
 <context>
@@ -3521,7 +3521,7 @@ Proceder?</translation>
     <name>EnumMessagesPlugin</name>
     <message>
         <source>Authors: </source>
-        <translation>Autores: </translation>
+        <translation type="vanished">Autores: </translation>
     </message>
     <message>
         <source>Missed messages: %1</source>
@@ -3828,11 +3828,11 @@ Se você deseja confirmar esta solicitação, por favor pressione o botão Confi
     </message>
     <message>
         <source>Author: </source>
-        <translation>Autor: </translation>
+        <translation type="vanished">Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-mail: </translation>
+        <translation type="vanished">E-mail: </translation>
     </message>
     <message>
         <source>This plugin adds several additional commands into contacts context menu.</source>
@@ -4258,11 +4258,11 @@ Esta opção terá efeito se o aceitar-padrão for falso.</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Autor: </translation>
+        <translation type="vanished">Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-mail: </translation>
+        <translation type="vanished">E-mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to allow easy configuration of some advanced options in Psi.
@@ -5784,11 +5784,11 @@ Ele quer jogar de %2.</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Autor: </translation>
+        <translation type="vanished">Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-mail: </translation>
+        <translation type="vanished">E-mail: </translation>
     </message>
     <message>
         <source>This plugin allows you to play gomoku with your friends.
@@ -6197,11 +6197,11 @@ Continuar?</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Autor: </translation>
+        <translation type="vanished">Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-mail: </translation>
+        <translation type="vanished">E-mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to remove the history of selected contacts when the Psi is closed.
@@ -6713,7 +6713,7 @@ O plugin tem um número de configurações simples que podem ajudá-lo:
     </message>
     <message>
         <source>Authors: </source>
-        <translation>Autores: </translation>
+        <translation type="vanished">Autores: </translation>
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
@@ -6736,7 +6736,7 @@ Nota: Para funcionar corretamente, as opção options.ui.chat.central-toolbar de
     <name>ImagePreviewPlugin</name>
     <message>
         <source>Author: </source>
-        <translation>Autor: </translation>
+        <translation type="vanished">Autor: </translation>
     </message>
     <message>
         <source>512 Kb</source>
@@ -7254,11 +7254,15 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Autor: </translation>
+        <translation type="vanished">Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-mail: </translation>
+        <translation type="vanished">E-mail: </translation>
+    </message>
+    <message>
+        <source>Treat some jids as services implementing Jabber Disk protocol and handle your files with them.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7344,7 +7348,7 @@ avatares de cache não estará disponível</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation>Autores: </translation>
+        <translation type="vanished">Autores: </translation>
     </message>
     <message>
         <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
@@ -7911,7 +7915,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     <name>MessageFilter</name>
     <message>
         <source>Author: </source>
-        <translation>Autor: </translation>
+        <translation type="vanished">Autor: </translation>
     </message>
     <message>
         <source>e-mail: </source>
@@ -7919,7 +7923,11 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Email: </translation>
+        <translation type="vanished">Email: </translation>
+    </message>
+    <message>
+        <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8255,7 +8263,7 @@ Tags: %1</translation>
     <name>OpenPgpPlugin</name>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished">Autores: </translation>
+        <translation type="obsolete">Autores: </translation>
     </message>
     <message>
         <source>Embedded Keys Manager can do only basic operations like creating, removing, exporting and importing PGP keys. This should be enough to most of users needs. For more complicated cases use special software.</source>
@@ -10907,11 +10915,6 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
         <translation>Opções para plugins do Psi</translation>
     </message>
     <message>
-        <source>Plugin Path:
-%1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Show information about plugin</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10921,6 +10924,18 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>About plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authors</source>
+        <translation type="unfinished">Autores</translation>
+    </message>
+    <message>
+        <source>Plugin Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;%1 %2&lt;/b&gt;&lt;br/&gt;&lt;b&gt;%3:&lt;/b&gt; %4</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11579,11 +11594,11 @@ Por favor informe sua frase de segurança abaixo:</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Autor: </translation>
+        <translation type="vanished">Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-mail: </translation>
+        <translation type="vanished">E-mail: </translation>
     </message>
     <message>
         <source>This plugin shows popup notifications when users from your roster changes their mood, tune or activity.</source>
@@ -13877,7 +13892,7 @@ Gostaria de ativar a sessão agora?</translation>
     <name>PsiMediaPlugin</name>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished">Autores: </translation>
+        <translation type="obsolete">Autores: </translation>
     </message>
     <message>
         <source>Thanks To</source>
@@ -15742,11 +15757,11 @@ Obrigado pela sua paciência.</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Autor: </translation>
+        <translation type="vanished">Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-mail: </translation>
+        <translation type="vanished">E-mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
@@ -15870,11 +15885,11 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Autor: </translation>
+        <translation type="vanished">Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Email: </translation>
+        <translation type="vanished">Email: </translation>
     </message>
     <message>
         <source>This plugin is designed to show reminders of upcoming birthdays.
@@ -16112,7 +16127,7 @@ A primeira vez que você instalar este plugin, você precisa para fazer logon em
     </message>
     <message>
         <source>Authors: </source>
-        <translation>Autores: </translation>
+        <translation type="vanished">Autores: </translation>
     </message>
     <message>
         <source>This plugin allows you to make screenshots and save them to your hard drive or upload them to an FTP or HTTP server.
@@ -17104,11 +17119,11 @@ Isto habilita todas as configurações (ícones, layout da Barra de Ferramentas)
     </message>
     <message>
         <source>Author: </source>
-        <translation>Autor: </translation>
+        <translation type="vanished">Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>Email: </translation>
+        <translation type="vanished">Email: </translation>
     </message>
     <message>
         <source>This plugin is designed to block spam messages and other unwanted information from Psi users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
@@ -17189,11 +17204,11 @@ AVISO!!! Antes de registrar um novo transporte, recomenda-se adicionar o seu jid
     </message>
     <message>
         <source>Author: </source>
-        <translation>Autor: </translation>
+        <translation type="vanished">Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-mail: </translation>
+        <translation type="vanished">E-mail: </translation>
     </message>
     <message>
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
@@ -17734,7 +17749,7 @@ Nota: Alguns servidores podem desativar o registro de transporte para usuários 
     </message>
     <message>
         <source>Author: </source>
-        <translation>Autor: </translation>
+        <translation type="vanished">Autor: </translation>
     </message>
     <message>
         <source>This plugin allows you to convert selected text into another language.
@@ -17843,7 +17858,7 @@ Nota: Alguns servidores podem desativar o registro de transporte para usuários 
     <name>VideoStatusChanger</name>
     <message>
         <source>Authors: </source>
-        <translation>Autores: </translation>
+        <translation type="vanished">Autores: </translation>
     </message>
     <message>
         <source>This plugin is designed to set the custom status when you watching the video in selected video players. 
@@ -18121,11 +18136,11 @@ Para funcionar no GNOME MPlayer configurações adicionais não serão necessár
     </message>
     <message>
         <source>Author: </source>
-        <translation>Autor: </translation>
+        <translation type="vanished">Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-mail: </translation>
+        <translation type="vanished">E-mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
@@ -18839,6 +18854,14 @@ Realmente deseja fechar a janela?</translation>
         <source>User</source>
         <translation type="unfinished">Usuário</translation>
     </message>
+    <message>
+        <source>Device ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy fingerprint</source>
+        <translation type="unfinished">Copiar impressão digital</translation>
+    </message>
 </context>
 <context>
     <name>psiomemo::ManageDevices</name>
@@ -18891,6 +18914,10 @@ Realmente deseja fechar a janela?</translation>
     <message>
         <source>Delete selected device?</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy fingerprint</source>
+        <translation type="unfinished">Copiar impressão digital</translation>
     </message>
 </context>
 <context>
@@ -18960,7 +18987,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished">Autores: </translation>
+        <translation type="obsolete">Autores: </translation>
     </message>
     <message>
         <source>OMEMO is an end-to-end encryption protocol that leverages the Double Ratchet encryption scheme to provide multi-end to multi-end encryption, allowing messages to be synchronized securely across multiple clients, even if some of them are offline.</source>
@@ -19538,7 +19565,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished">Autores: </translation>
+        <translation type="obsolete">Autores: </translation>
     </message>
     <message>
         <source>For further information, see &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</source>

@@ -1338,14 +1338,6 @@ There was an error getting the Service ID translation information from &quot;%1&
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>This plugin is designed to send and receive special messages such as Attentions.
 To work correctly, the plugin requires that the client of the other part supports XEP-0224 (for example: Pidgin, Miranda IM with Nudge plugin).</source>
         <translation type="unfinished"></translation>
@@ -1447,14 +1439,6 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Email: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2141,14 +2125,6 @@ to play chess. He wants to play %2.</source>
         <translation>Sauti(*.mawimbi)</translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>This plugin allows you to play chess with your friends.
 The plugin is compatible with a similar plugin for Tkabber.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
@@ -2370,14 +2346,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
 You can preview items before deleting them from your hard drive.</source>
         <translation type="unfinished"></translation>
@@ -2480,10 +2448,6 @@ You can preview items before deleting them from your hard drive.</source>
 <context>
     <name>ClientSwitcherPlugin</name>
     <message>
-        <source>Authors: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The plugin is intended for substitution of the client version, his name and operating system type.
 You can specify the version of the client and OS or to select them from the preset list.
 </source>
@@ -2555,14 +2519,6 @@ You can specify the version of the client and OS or to select them from the pres
 Groupchats logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with groupchat.
 
 Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Email: </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2942,15 +2898,7 @@ Endelea?</translation>
 <context>
     <name>ContentDownloader</name>
     <message>
-        <source>Author: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Email: </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3351,10 +3299,6 @@ Endelea?</translation>
 <context>
     <name>EnumMessagesPlugin</name>
     <message>
-        <source>Authors: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Missed messages: %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3648,14 +3592,6 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Entity Time</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Email: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4065,14 +4001,6 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Email: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5502,14 +5430,6 @@ to play gomoku. He wants to play %2.</source>
         <translation>Sauti(*.mawimbi)</translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>This plugin allows you to play gomoku with your friends.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
         <translation type="unfinished"></translation>
@@ -5902,14 +5822,6 @@ Continue?</source>
     </message>
     <message>
         <source>Clear history on exit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Email: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6373,10 +6285,6 @@ You can select or deselect a contact for history removal from the context menu o
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Authors: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>This plugin is designed to send images to roster contacts.
 Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
@@ -6393,10 +6301,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 </context>
 <context>
     <name>ImagePreviewPlugin</name>
-    <message>
-        <source>Author: </source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>512 Kb</source>
         <translation type="unfinished"></translation>
@@ -6913,11 +6817,7 @@ to play battleship. He wants to play %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Email: </source>
+        <source>Treat some jids as services implementing Jabber Disk protocol and handle your files with them.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6999,10 +6899,6 @@ caching avatars will be not available</source>
     </message>
     <message>
         <source>Add to favorites</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authors: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7546,11 +7442,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
 <context>
     <name>MessageFilter</name>
     <message>
-        <source>Author: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Email: </source>
+        <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7869,10 +7761,6 @@ Tags: %1</source>
 </context>
 <context>
     <name>OpenPgpPlugin</name>
-    <message>
-        <source>Authors: </source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Embedded Keys Manager can do only basic operations like creating, removing, exporting and importing PGP keys. This should be enough to most of users needs. For more complicated cases use special software.</source>
         <translation type="unfinished"></translation>
@@ -10361,11 +10249,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Plugin Path:
-%1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Show information about plugin</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10375,6 +10258,18 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>About plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plugin Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;%1 %2&lt;/b&gt;&lt;br/&gt;&lt;b&gt;%3:&lt;/b&gt; %4</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11005,14 +10900,6 @@ Reason: %1.</source>
     <message>
         <source>Sound (*.wav)</source>
         <translation>Sauti(*.mawimbi)</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This plugin shows popup notifications when users from your roster changes their mood, tune or activity.</source>
@@ -13230,10 +13117,6 @@ Would you like to activate that session now?</source>
 <context>
     <name>PsiMediaPlugin</name>
     <message>
-        <source>Authors: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Thanks To</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15024,14 +14907,6 @@ Thanks for your patience.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15145,14 +15020,6 @@ Sababu: %1</translation>
     <message>
         <source>Sound (*.wav)</source>
         <translation>Sauti(*.mawimbi)</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This plugin is designed to show reminders of upcoming birthdays.
@@ -15378,10 +15245,6 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>ScreenshotPlugin</name>
     <message>
         <source>Upload Image</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authors: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16361,14 +16224,6 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>This plugin is designed to block spam messages and other unwanted information from Psi users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
 With the plugin settings you can:
 * Define a security question and the answer
@@ -16426,14 +16281,6 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     </message>
     <message>
         <source>Storage Notes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Email: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16827,10 +16674,6 @@ Please correct and try again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>This plugin allows you to convert selected text into another language.
 </source>
         <translation type="unfinished"></translation>
@@ -16934,10 +16777,6 @@ Please correct and try again.</source>
 </context>
 <context>
     <name>VideoStatusChanger</name>
-    <message>
-        <source>Authors: </source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>This plugin is designed to set the custom status when you watching the video in selected video players. 
 Note: This plugin is designed to work in Linux family operating systems and in Windows OS. 
@@ -17162,14 +17001,6 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Watch for JID</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Email: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17834,6 +17665,14 @@ Do you still want to close the window?</source>
         <source>User</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Device ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiomemo::ManageDevices</name>
@@ -17885,6 +17724,10 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Delete selected device?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy fingerprint</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17943,10 +17786,6 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Manage contact fingerprints</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authors: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18470,10 +18309,6 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Confirm action</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authors: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
