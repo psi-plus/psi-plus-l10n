@@ -3123,10 +3123,6 @@ Proceed?</source>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation>Цей плагін призначений для полегшення завантаження і установки пакетів з іконками та інших ресурсів для Psi +.</translation>
     </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email: </translation>
-    </message>
 </context>
 <context>
     <name>Crash::CrashDialog</name>
@@ -7275,7 +7271,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Treat some jids as services implementing Jabber Disk protocol and handle your files with them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Розглядайте деякі jids як служби, що реалізують протокол Jabber Disk, і обробляйте ваші файли разом з ними.</translation>
     </message>
 </context>
 <context>
@@ -7949,12 +7945,8 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
         <translation type="vanished">e-mail: </translation>
     </message>
     <message>
-        <source>Email: </source>
-        <translation type="vanished">Email: </translation>
-    </message>
-    <message>
         <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Може скидати вхідні строфи відповідно до різних фільтрів, таких як адреса джерела / місця призначення або певний вміст повідомлення</translation>
     </message>
 </context>
 <context>
@@ -8278,10 +8270,6 @@ Tags: %1</source>
 </context>
 <context>
     <name>OpenPgpPlugin</name>
-    <message>
-        <source>Authors: </source>
-        <translation type="vanished">Автори:</translation>
-    </message>
     <message>
         <source>Embedded Keys Manager can do only basic operations like creating, removing, exporting and importing PGP keys. This should be enough to most of users needs. For more complicated cases use special software.</source>
         <translation>Вбудований менеджер ключів може робити лише основні операції, такі як створення, видалення, експорт та імпорт ключів PGP. Цього має бути достатньо для більшості потреб користувачів. Для складніших випадків використовуйте спеціальне програмне забезпечення.</translation>
@@ -10975,11 +10963,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Authors</source>
-        <translation type="unfinished">Автори</translation>
+        <translation>Автори</translation>
     </message>
     <message>
         <source>Plugin Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Розміщення плагіну</translation>
     </message>
 </context>
 <context>
@@ -13955,10 +13943,6 @@ Would you like to activate that session now?</source>
 </context>
 <context>
     <name>PsiMediaPlugin</name>
-    <message>
-        <source>Authors: </source>
-        <translation type="vanished">Автори:</translation>
-    </message>
     <message>
         <source>Thanks To</source>
         <translation>Подяка</translation>
@@ -18949,11 +18933,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Device ID</source>
-        <translation type="unfinished">ID пристрою</translation>
+        <translation>ID пристрою</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">Копіювати відбиток</translation>
+        <translation>Копіювати відбиток</translation>
     </message>
 </context>
 <context>
@@ -19016,7 +19000,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">Копіювати відбиток</translation>
+        <translation>Копіювати відбиток</translation>
     </message>
 </context>
 <context>
@@ -19075,10 +19059,6 @@ Do you still want to close the window?</source>
     <message>
         <source>Manage contact fingerprints</source>
         <translation>Управління відбитками контакту</translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="vanished">Автори:</translation>
     </message>
     <message>
         <source>OMEMO is an end-to-end encryption protocol that leverages the Double Ratchet encryption scheme to provide multi-end to multi-end encryption, allowing messages to be synchronized securely across multiple clients, even if some of them are offline.</source>
@@ -19655,10 +19635,6 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Confirm action</source>
         <translation>Підтвердити дію</translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="vanished">Автори:</translation>
     </message>
     <message>
         <source>For further information, see &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</source>
