@@ -2823,7 +2823,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation>Конференций</translation>
+        <translation>Конференции</translation>
     </message>
 </context>
 <context>
@@ -3443,7 +3443,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation>Конференций</translation>
+        <translation>Конференции</translation>
     </message>
     <message>
         <source>Always play sound</source>
@@ -11352,7 +11352,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Groupchats</source>
-        <translation>Конференций</translation>
+        <translation>Конференции</translation>
     </message>
     <message>
         <source>Show popup at version iq</source>
