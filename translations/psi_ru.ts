@@ -8273,7 +8273,7 @@ Tags: %1</source>
     <message>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
-        <translation type="unfinished">Произошла ошибка установки вашего состояния.
+        <translation>Произошла ошибка установки вашего состояния.
 Причина: %1.</translation>
     </message>
 </context>
@@ -9246,11 +9246,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Place avatars at left</source>
-        <translation type="unfinished">Разместить аватары слева</translation>
+        <translation>Разместить аватары слева</translation>
     </message>
     <message>
         <source>Place status icon over avatar</source>
-        <translation type="unfinished">Разместить статусные иконки поверх аватара</translation>
+        <translation>Разместить статусные иконки поверх аватара</translation>
     </message>
 </context>
 <context>
@@ -9329,7 +9329,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Place groupchat roster at left</source>
-        <translation type="unfinished">Разместить ростер конференции слева</translation>
+        <translation>Разместить ростер конференции слева</translation>
     </message>
 </context>
 <context>
@@ -10397,7 +10397,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Do not sign own presence status</source>
-        <translation type="unfinished"></translation>
+        <translation>Не подписывать свой статус присутствия</translation>
     </message>
 </context>
 <context>
@@ -19693,7 +19693,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>OTR (Off-the-Record Messaging) allows you to have private conversations over instant messaging by providing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Технология OTR (Off-the-Record Messaging) позволяет проводить личную переписку, обеспечивая:</translation>
     </message>
 </context>
 <context>
