@@ -8270,6 +8270,12 @@ Tags: %1</source>
         <source>Public key &quot;%1&quot; sent</source>
         <translation>Публичный ключ &quot;%1&quot; отправлен</translation>
     </message>
+    <message>
+        <source>There was an error trying to sign your status.
+Reason: %1.</source>
+        <translation type="unfinished">Произошла ошибка установки вашего состояния.
+Причина: %1.</translation>
+    </message>
 </context>
 <context>
     <name>OpenPgpPlugin</name>
@@ -9238,6 +9244,14 @@ Tags: %1</source>
         <source>Radius of corners</source>
         <translation>Радиус углов</translation>
     </message>
+    <message>
+        <source>Place avatars at left</source>
+        <translation type="unfinished">Разместить аватары слева</translation>
+    </message>
+    <message>
+        <source>Place status icon over avatar</source>
+        <translation type="unfinished">Разместить статусные иконки поверх аватара</translation>
+    </message>
 </context>
 <context>
     <name>OptRosterMuc</name>
@@ -9312,6 +9326,10 @@ Tags: %1</source>
     <message>
         <source>Left aligned</source>
         <translation>Выравнивание слева</translation>
+    </message>
+    <message>
+        <source>Place groupchat roster at left</source>
+        <translation type="unfinished">Разместить ростер конференции слева</translation>
     </message>
 </context>
 <context>
@@ -10376,6 +10394,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
 %1</source>
         <translation>Не удалось сохранить файл настроек gpg-agent! Убедитесь, что у вас есть права на запись файла:
 %1</translation>
+    </message>
+    <message>
+        <source>Do not sign own presence status</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12750,7 +12772,7 @@ Details: %1</source>
     <message>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
-        <translation>Произошла ошибка установки вашего состояния.
+        <translation type="vanished">Произошла ошибка установки вашего состояния.
 Причина: %1.</translation>
     </message>
     <message>
@@ -13008,15 +13030,15 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Tip of the Day</source>
-        <translation>Совет дня</translation>
+        <translation type="vanished">Совет дня</translation>
     </message>
     <message>
         <source>&amp;Tip of the Day</source>
-        <translation>&amp;Совет дня</translation>
+        <translation type="vanished">&amp;Совет дня</translation>
     </message>
     <message>
         <source>See many useful tips</source>
-        <translation>Просмотр многих полезных советов</translation>
+        <translation type="vanished">Просмотр многих полезных советов</translation>
     </message>
     <message>
         <source>Transfer Manager</source>
@@ -16667,7 +16689,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Tips</source>
-        <translation>Советы</translation>
+        <translation type="vanished">Советы</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
@@ -19567,7 +19589,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
-        <translation>Технология OTR позволяет проводить личную переписку, обеспечивая:</translation>
+        <translation type="vanished">Технология OTR позволяет проводить личную переписку, обеспечивая:</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -19668,6 +19690,10 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>For further information, see &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</source>
         <translation>Дополнительная информация: &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</translation>
+    </message>
+    <message>
+        <source>OTR (Off-the-Record Messaging) allows you to have private conversations over instant messaging by providing:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -8297,6 +8297,12 @@ Etichette: %1</translation>
         <source>Public key &quot;%1&quot; sent</source>
         <translation type="unfinished">Chiave pubblica &quot;%1&quot; inviata</translation>
     </message>
+    <message>
+        <source>There was an error trying to sign your status.
+Reason: %1.</source>
+        <translation type="unfinished">C&apos;è stato un errore provando a segnare il tuo stato.
+Motivo: %1.</translation>
+    </message>
 </context>
 <context>
     <name>OpenPgpPlugin</name>
@@ -9266,6 +9272,14 @@ Argomento MUC per esempio.</translation>
         <source>Radius of corners</source>
         <translation>Raggio degli angoli</translation>
     </message>
+    <message>
+        <source>Place avatars at left</source>
+        <translation type="unfinished">Posiziona avatar a sinistra</translation>
+    </message>
+    <message>
+        <source>Place status icon over avatar</source>
+        <translation type="unfinished">Posiziona l&apos;icona dello stato sull&apos;avatar</translation>
+    </message>
 </context>
 <context>
     <name>OptRosterMuc</name>
@@ -9340,6 +9354,10 @@ Argomento MUC per esempio.</translation>
     <message>
         <source>Left aligned</source>
         <translation>Allineato a sinistra</translation>
+    </message>
+    <message>
+        <source>Place groupchat roster at left</source>
+        <translation type="unfinished">Posiziona la lista contatti della conferenza a sinistra</translation>
     </message>
 </context>
 <context>
@@ -10401,6 +10419,10 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     <message>
         <source>Attempt to save gpg-agent config is failed! Check that you have write permission for file:
 %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not sign own presence status</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12775,7 +12797,7 @@ Dettagli: %1</translation>
     <message>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
-        <translation>C&apos;è stato un errore provando a segnare il tuo stato.
+        <translation type="vanished">C&apos;è stato un errore provando a segnare il tuo stato.
 Motivo: %1.</translation>
     </message>
     <message>
@@ -13031,15 +13053,15 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Tip of the Day</source>
-        <translation>Suggerimento del Giorno</translation>
+        <translation type="vanished">Suggerimento del Giorno</translation>
     </message>
     <message>
         <source>&amp;Tip of the Day</source>
-        <translation>&amp;Suggerimento del Giorno</translation>
+        <translation type="vanished">&amp;Suggerimento del Giorno</translation>
     </message>
     <message>
         <source>See many useful tips</source>
-        <translation>Leggi molti consigli utili</translation>
+        <translation type="vanished">Leggi molti consigli utili</translation>
     </message>
     <message>
         <source>Transfer Manager</source>
@@ -16682,7 +16704,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Tips</source>
-        <translation>Suggerimenti</translation>
+        <translation type="vanished">Suggerimenti</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
@@ -19593,7 +19615,7 @@ Dovresti autenticare anche %1 ponendo la tua domanda.</translation>
     </message>
     <message>
         <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
-        <translation>La messaggistica Off-the-Record (OTR) ti permette di avere conversazioni private attraverso la messaggistica istantanea fornendo:</translation>
+        <translation type="vanished">La messaggistica Off-the-Record (OTR) ti permette di avere conversazioni private attraverso la messaggistica istantanea fornendo:</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -19693,6 +19715,10 @@ Dovresti autenticare anche %1 ponendo la tua domanda.</translation>
     </message>
     <message>
         <source>For further information, see &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OTR (Off-the-Record Messaging) allows you to have private conversations over instant messaging by providing:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

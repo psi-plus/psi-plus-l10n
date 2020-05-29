@@ -8248,6 +8248,12 @@ Tags: %1</source>
         <source>Public key &quot;%1&quot; sent</source>
         <translation>公钥: &quot;%1&quot; 已发送</translation>
     </message>
+    <message>
+        <source>There was an error trying to sign your status.
+Reason: %1.</source>
+        <translation type="unfinished">签入你的状态时发生错误。
+原因: %1。</translation>
+    </message>
 </context>
 <context>
     <name>OpenPgpPlugin</name>
@@ -9216,6 +9222,14 @@ Tags: %1</source>
         <source>Radius of corners</source>
         <translation>园角</translation>
     </message>
+    <message>
+        <source>Place avatars at left</source>
+        <translation type="unfinished">在左侧放置头像</translation>
+    </message>
+    <message>
+        <source>Place status icon over avatar</source>
+        <translation type="unfinished">在图像上方放置状态图标</translation>
+    </message>
 </context>
 <context>
     <name>OptRosterMuc</name>
@@ -9290,6 +9304,10 @@ Tags: %1</source>
     <message>
         <source>Left aligned</source>
         <translation>左对齐</translation>
+    </message>
+    <message>
+        <source>Place groupchat roster at left</source>
+        <translation type="unfinished">放置群聊名单到左侧</translation>
     </message>
 </context>
 <context>
@@ -10344,6 +10362,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Attempt to save gpg-agent config is failed! Check that you have write permission for file:
 %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not sign own presence status</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12717,7 +12739,7 @@ Details: %1</source>
     <message>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
-        <translation>签入你的状态时发生错误。
+        <translation type="vanished">签入你的状态时发生错误。
 原因: %1。</translation>
     </message>
     <message>
@@ -12973,15 +12995,15 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Tip of the Day</source>
-        <translation>每日提示</translation>
+        <translation type="vanished">每日提示</translation>
     </message>
     <message>
         <source>&amp;Tip of the Day</source>
-        <translation>每日提示(&amp;T)</translation>
+        <translation type="vanished">每日提示(&amp;T)</translation>
     </message>
     <message>
         <source>See many useful tips</source>
-        <translation>看看其他有用的提示</translation>
+        <translation type="vanished">看看其他有用的提示</translation>
     </message>
     <message>
         <source>Transfer Manager</source>
@@ -16598,7 +16620,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Tips</source>
-        <translation>技巧</translation>
+        <translation type="vanished">技巧</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
@@ -19487,7 +19509,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
-        <translation>场外的记录(OTR)消息，可以让你有超过即时通讯提供的私人谈话:</translation>
+        <translation type="vanished">场外的记录(OTR)消息，可以让你有超过即时通讯提供的私人谈话:</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -19588,6 +19610,10 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>For further information, see &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</source>
         <translation>如需进一步信息，请参阅 &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</translation>
+    </message>
+    <message>
+        <source>OTR (Off-the-Record Messaging) allows you to have private conversations over instant messaging by providing:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

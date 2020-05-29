@@ -7690,6 +7690,11 @@ Tags: %1</source>
         <source>Public key &quot;%1&quot; sent</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>There was an error trying to sign your status.
+Reason: %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OpenPgpPlugin</name>
@@ -8630,6 +8635,14 @@ Tags: %1</source>
         <source>Radius of corners</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Place avatars at left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Place status icon over avatar</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptRosterMuc</name>
@@ -8703,6 +8716,10 @@ Tags: %1</source>
     </message>
     <message>
         <source>Left aligned</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Place groupchat roster at left</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9620,6 +9637,10 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>Attempt to save gpg-agent config is failed! Check that you have write permission for file:
 %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not sign own presence status</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11883,11 +11904,6 @@ Details: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>There was an error trying to sign your status.
-Reason: %1.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12116,18 +12132,6 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Quits Psi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Tip of the Day</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Tip of the Day</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>See many useful tips</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15601,10 +15605,6 @@ Reason: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Tips</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Psi Forum (Online)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18113,10 +18113,6 @@ You should authenticate %1 as well by asking your own question.</source>
 <context>
     <name>psiotr::PsiOtrPlugin</name>
     <message>
-        <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Encryption</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18202,6 +18198,10 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>For further information, see &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OTR (Off-the-Record Messaging) allows you to have private conversations over instant messaging by providing:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

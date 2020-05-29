@@ -8169,6 +8169,12 @@ Labels : %1</translation>
         <source>Public key &quot;%1&quot; sent</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>There was an error trying to sign your status.
+Reason: %1.</source>
+        <translation type="unfinished">Il y a eu une erreur lors de la signature de votre état.
+Cause: %1.</translation>
+    </message>
 </context>
 <context>
     <name>OpenPgpPlugin</name>
@@ -9125,6 +9131,14 @@ Labels : %1</translation>
         <source>Radius of corners</source>
         <translation>Arrondi des angles</translation>
     </message>
+    <message>
+        <source>Place avatars at left</source>
+        <translation type="unfinished">Placer les avatars à gauche</translation>
+    </message>
+    <message>
+        <source>Place status icon over avatar</source>
+        <translation type="unfinished">Afficher l&apos;icône de statut au-dessus de l&apos;avatar</translation>
+    </message>
 </context>
 <context>
     <name>OptRosterMuc</name>
@@ -9199,6 +9213,10 @@ Labels : %1</translation>
     <message>
         <source>Left aligned</source>
         <translation>Aligné à gauche</translation>
+    </message>
+    <message>
+        <source>Place groupchat roster at left</source>
+        <translation type="unfinished">Afficher la liste des participants au salon à gauche</translation>
     </message>
 </context>
 <context>
@@ -10183,6 +10201,10 @@ notifications pour les mails non lus.</translation>
     <message>
         <source>Attempt to save gpg-agent config is failed! Check that you have write permission for file:
 %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not sign own presence status</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12550,7 +12572,7 @@ Détails: %1</translation>
     <message>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
-        <translation>Il y a eu une erreur lors de la signature de votre état.
+        <translation type="vanished">Il y a eu une erreur lors de la signature de votre état.
 Cause: %1.</translation>
     </message>
     <message>
@@ -12802,15 +12824,15 @@ Cause: %1.</translation>
     </message>
     <message>
         <source>Tip of the Day</source>
-        <translation>Astuce du Jour</translation>
+        <translation type="vanished">Astuce du Jour</translation>
     </message>
     <message>
         <source>&amp;Tip of the Day</source>
-        <translation>&amp;Astuce du Jour</translation>
+        <translation type="vanished">&amp;Astuce du Jour</translation>
     </message>
     <message>
         <source>See many useful tips</source>
-        <translation>Lisez de nombreuses astuces utiles</translation>
+        <translation type="vanished">Lisez de nombreuses astuces utiles</translation>
     </message>
     <message>
         <source>Transfer Manager</source>
@@ -16405,7 +16427,7 @@ Cause: %1</translation>
     </message>
     <message>
         <source>Tips</source>
-        <translation>Astuces</translation>
+        <translation type="vanished">Astuces</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
@@ -19159,10 +19181,6 @@ You should authenticate %1 as well by asking your own question.</source>
 <context>
     <name>psiotr::PsiOtrPlugin</name>
     <message>
-        <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Encryption</source>
         <translation type="unfinished"></translation>
     </message>
@@ -19252,6 +19270,10 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>For further information, see &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OTR (Off-the-Record Messaging) allows you to have private conversations over instant messaging by providing:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

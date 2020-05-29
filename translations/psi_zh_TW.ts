@@ -8220,6 +8220,12 @@ Tags: %1</source>
         <source>Public key &quot;%1&quot; sent</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>There was an error trying to sign your status.
+Reason: %1.</source>
+        <translation type="unfinished">簽入你的狀態時發生錯誤。
+原因: %1。</translation>
+    </message>
 </context>
 <context>
     <name>OpenPgpPlugin</name>
@@ -9172,6 +9178,14 @@ Tags: %1</source>
         <source>Radius of corners</source>
         <translation>園角</translation>
     </message>
+    <message>
+        <source>Place avatars at left</source>
+        <translation type="unfinished">在左側放置頭像</translation>
+    </message>
+    <message>
+        <source>Place status icon over avatar</source>
+        <translation type="unfinished">在圖像上方放置狀態圖示</translation>
+    </message>
 </context>
 <context>
     <name>OptRosterMuc</name>
@@ -9246,6 +9260,10 @@ Tags: %1</source>
     <message>
         <source>Left aligned</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Place groupchat roster at left</source>
+        <translation type="unfinished">放置群聊名單到左側</translation>
     </message>
 </context>
 <context>
@@ -10289,6 +10307,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Attempt to save gpg-agent config is failed! Check that you have write permission for file:
 %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not sign own presence status</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12650,7 +12672,7 @@ Details: %1</source>
     <message>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
-        <translation>簽入你的狀態時發生錯誤。
+        <translation type="vanished">簽入你的狀態時發生錯誤。
 原因: %1。</translation>
     </message>
     <message>
@@ -12894,15 +12916,15 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Tip of the Day</source>
-        <translation>每日提示</translation>
+        <translation type="vanished">每日提示</translation>
     </message>
     <message>
         <source>&amp;Tip of the Day</source>
-        <translation>每日提示(&amp;T)</translation>
+        <translation type="vanished">每日提示(&amp;T)</translation>
     </message>
     <message>
         <source>See many useful tips</source>
-        <translation>看看其他有用的提示</translation>
+        <translation type="vanished">看看其他有用的提示</translation>
     </message>
     <message>
         <source>Transfer Manager</source>
@@ -16492,7 +16514,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Tips</source>
-        <translation>技巧</translation>
+        <translation type="vanished">技巧</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
@@ -19375,7 +19397,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
-        <translation>場外的記錄(OTR)消息，可以讓你有超過即時通訊提供的私人談話:</translation>
+        <translation type="vanished">場外的記錄(OTR)消息，可以讓你有超過即時通訊提供的私人談話:</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -19475,6 +19497,10 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>For further information, see &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OTR (Off-the-Record Messaging) allows you to have private conversations over instant messaging by providing:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -8210,6 +8210,12 @@ Tagy: %1</translation>
         <source>Public key &quot;%1&quot; sent</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>There was an error trying to sign your status.
+Reason: %1.</source>
+        <translation type="unfinished">Chyba při označování stavu.
+Důvod: %1.</translation>
+    </message>
 </context>
 <context>
     <name>OpenPgpPlugin</name>
@@ -9162,6 +9168,14 @@ Tagy: %1</translation>
         <source>Radius of corners</source>
         <translation>Poloměr rohů</translation>
     </message>
+    <message>
+        <source>Place avatars at left</source>
+        <translation type="unfinished">Umístit avatary nalevo</translation>
+    </message>
+    <message>
+        <source>Place status icon over avatar</source>
+        <translation type="unfinished">Umístit stavovou ikonu přes avatara</translation>
+    </message>
 </context>
 <context>
     <name>OptRosterMuc</name>
@@ -9236,6 +9250,10 @@ Tagy: %1</translation>
     <message>
         <source>Left aligned</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Place groupchat roster at left</source>
+        <translation type="unfinished">Umístit okno skupinového chatu vlevo</translation>
     </message>
 </context>
 <context>
@@ -10294,6 +10312,10 @@ zprávy v chatu víde lidí)</translation>
     <message>
         <source>Attempt to save gpg-agent config is failed! Check that you have write permission for file:
 %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not sign own presence status</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12662,7 +12684,7 @@ Detaily: %1</translation>
     <message>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
-        <translation>Chyba při označování stavu.
+        <translation type="vanished">Chyba při označování stavu.
 Důvod: %1.</translation>
     </message>
     <message>
@@ -12914,15 +12936,15 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Tip of the Day</source>
-        <translation>Tip dne</translation>
+        <translation type="vanished">Tip dne</translation>
     </message>
     <message>
         <source>&amp;Tip of the Day</source>
-        <translation>&amp;Tip dne</translation>
+        <translation type="vanished">&amp;Tip dne</translation>
     </message>
     <message>
         <source>See many useful tips</source>
-        <translation>Ukáže spoustu použitelných tipů</translation>
+        <translation type="vanished">Ukáže spoustu použitelných tipů</translation>
     </message>
     <message>
         <source>Transfer Manager</source>
@@ -16553,7 +16575,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>Tips</source>
-        <translation>Tipy</translation>
+        <translation type="vanished">Tipy</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
@@ -19372,7 +19394,7 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     </message>
     <message>
         <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
-        <translation>Zprávy mimo záznam ti dovolují soukromě konverzovat přes IM díky:</translation>
+        <translation type="vanished">Zprávy mimo záznam ti dovolují soukromě konverzovat přes IM díky:</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -19472,6 +19494,10 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     </message>
     <message>
         <source>For further information, see &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OTR (Off-the-Record Messaging) allows you to have private conversations over instant messaging by providing:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
