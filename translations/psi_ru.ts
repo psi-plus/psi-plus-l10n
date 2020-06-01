@@ -2138,11 +2138,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Encryption is enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Шифрование включено</translation>
     </message>
     <message>
         <source>Encryption is disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Шифрование отключено</translation>
     </message>
 </context>
 <context>
@@ -5136,11 +5136,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Encryption is enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Шифрование включено</translation>
     </message>
     <message>
         <source>Encryption is disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Шифрование отключено</translation>
     </message>
 </context>
 <context>
