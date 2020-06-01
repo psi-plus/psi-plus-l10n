@@ -1964,15 +1964,23 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Encryption Enabled</source>
-        <translation>Ĉifrado Aktiviĝis</translation>
+        <translation type="vanished">Ĉifrado Aktiviĝis</translation>
     </message>
     <message>
         <source>Encryption Disabled</source>
-        <translation>Ĉifrado Malaktiviĝis</translation>
+        <translation type="vanished">Ĉifrado Malaktiviĝis</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
         <translation>%1 finis la babiladon</translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4847,6 +4855,14 @@ Kialo: %1</translation>
     </message>
     <message>
         <source>%1 has been removed from the room by %2 due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

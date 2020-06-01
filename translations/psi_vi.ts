@@ -1985,15 +1985,23 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     </message>
     <message>
         <source>Encryption Enabled</source>
-        <translation>Mật mã đã bật</translation>
+        <translation type="vanished">Mật mã đã bật</translation>
     </message>
     <message>
         <source>Encryption Disabled</source>
-        <translation>Mật mã bị tắt</translation>
+        <translation type="vanished">Mật mã bị tắt</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
         <translation>%1 đã kết thúc nói</translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4888,6 +4896,14 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>%1 has been removed from the room by %2 due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

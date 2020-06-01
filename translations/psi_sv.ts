@@ -1985,15 +1985,23 @@ Vill du ändå stänga fönstret?</translation>
     </message>
     <message>
         <source>Encryption Enabled</source>
-        <translation>Kryptering påslaget</translation>
+        <translation type="vanished">Kryptering påslaget</translation>
     </message>
     <message>
         <source>Encryption Disabled</source>
-        <translation>Kryptering avslaget</translation>
+        <translation type="vanished">Kryptering avslaget</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
         <translation>%1 avslutade konversationen</translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4884,6 +4892,14 @@ Anledning: %1</translation>
     </message>
     <message>
         <source>%1 has been removed from the room by %2 due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

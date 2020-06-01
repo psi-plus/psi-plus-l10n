@@ -1970,14 +1970,22 @@ Bado unataka kufunga dirisha?</translation>
     </message>
     <message>
         <source>Encryption Enabled</source>
-        <translation>Kufungiwa habari kumewezeshwa</translation>
+        <translation type="vanished">Kufungiwa habari kumewezeshwa</translation>
     </message>
     <message>
         <source>Encryption Disabled</source>
-        <translation>Kufungiwa habari kumesimamishwa (kumeharibiwa)</translation>
+        <translation type="vanished">Kufungiwa habari kumesimamishwa (kumeharibiwa)</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4843,6 +4851,14 @@ Reason: %1</source>
     </message>
     <message>
         <source>%1 has been removed from the room by %2 due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

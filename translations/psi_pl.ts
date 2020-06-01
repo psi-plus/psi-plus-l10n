@@ -2090,15 +2090,23 @@ Czy nadal chcesz zamknąć to okno?</translation>
     </message>
     <message>
         <source>Encryption Enabled</source>
-        <translation>Szyfrowanie GnuPG włączone</translation>
+        <translation type="vanished">Szyfrowanie GnuPG włączone</translation>
     </message>
     <message>
         <source>Encryption Disabled</source>
-        <translation>Szyfrowanie GnuPG wyłączone</translation>
+        <translation type="vanished">Szyfrowanie GnuPG wyłączone</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
         <translation>%1 zakończył rozmowę</translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5076,6 +5084,14 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source>%1 has been removed from the room by %2 due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

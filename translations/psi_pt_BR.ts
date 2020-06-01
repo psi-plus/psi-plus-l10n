@@ -2122,15 +2122,23 @@ Ainda deseja fechar esta janela?</translation>
     </message>
     <message>
         <source>Encryption Enabled</source>
-        <translation>Criptografia Habilitada</translation>
+        <translation type="vanished">Criptografia Habilitada</translation>
     </message>
     <message>
         <source>Encryption Disabled</source>
-        <translation>Criptografia Desabilitada</translation>
+        <translation type="vanished">Criptografia Desabilitada</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
         <translation>%1 terminou o bate-papo</translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5116,6 +5124,14 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>%1 has been removed from the room by %2 due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -2098,15 +2098,23 @@ Da li i dalje želite da zatvorite prozor?</translation>
     </message>
     <message>
         <source>Encryption Enabled</source>
-        <translation>Šifrovanje omogućeno</translation>
+        <translation type="vanished">Šifrovanje omogućeno</translation>
     </message>
     <message>
         <source>Encryption Disabled</source>
-        <translation>Šifrovanje onemogućeno</translation>
+        <translation type="vanished">Šifrovanje onemogućeno</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
         <translation>&amp;Završi privatnu konverzaciju</translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5077,6 +5085,14 @@ Reason: %1</translation>
     </message>
     <message>
         <source>%1 has been removed from the room by %2 due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

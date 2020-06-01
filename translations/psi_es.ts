@@ -2118,15 +2118,23 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Encryption Enabled</source>
-        <translation>Cifrado activado</translation>
+        <translation type="vanished">Cifrado activado</translation>
     </message>
     <message>
         <source>Encryption Disabled</source>
-        <translation>Cifrado desactivado</translation>
+        <translation type="vanished">Cifrado desactivado</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
         <translation>%1 terminó la conversación</translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5105,6 +5113,14 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>%1 has been removed from the room by %2 due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

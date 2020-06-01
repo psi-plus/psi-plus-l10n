@@ -1985,15 +1985,23 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Encryption Enabled</source>
-        <translation> خفیہ کاری اہل بنائی گئی</translation>
+        <translation type="vanished"> خفیہ کاری اہل بنائی گئی</translation>
     </message>
     <message>
         <source>Encryption Disabled</source>
-        <translation> خفیہ کاری نااہل بنائی گئی</translation>
+        <translation type="vanished"> خفیہ کاری نااہل بنائی گئی</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
         <translation>%1 نے تبادلہ خیال اختتام کیا</translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4878,6 +4886,14 @@ Reason: %1</source>
     </message>
     <message>
         <source>%1 has been removed from the room by %2 due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

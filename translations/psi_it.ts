@@ -2127,15 +2127,23 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Encryption Enabled</source>
-        <translation>Cifratura Abilitata</translation>
+        <translation type="vanished">Cifratura Abilitata</translation>
     </message>
     <message>
         <source>Encryption Disabled</source>
-        <translation>Cifratura Disabilitata</translation>
+        <translation type="vanished">Cifratura Disabilitata</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
         <translation>%1 ha terminato la conversazione</translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5127,6 +5135,14 @@ Motivo: %1</translation>
     <message>
         <source>%1 has been removed from the room by %2 due to technical problem</source>
         <translation>%1 è stato rimosso dalla stanza da %2 a causa di un problema tecnico</translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

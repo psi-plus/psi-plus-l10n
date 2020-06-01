@@ -2114,15 +2114,23 @@ Biztosan be akarod zárni az ablakot?</translation>
     </message>
     <message>
         <source>Encryption Enabled</source>
-        <translation>Titkosítás bekapcsolva</translation>
+        <translation type="vanished">Titkosítás bekapcsolva</translation>
     </message>
     <message>
         <source>Encryption Disabled</source>
-        <translation>Titkosítás kikapcsolva</translation>
+        <translation type="vanished">Titkosítás kikapcsolva</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
         <translation>%1 befejezte a beszélgetést</translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5109,6 +5117,14 @@ Oka: %1</translation>
     </message>
     <message>
         <source>%1 has been removed from the room by %2 due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

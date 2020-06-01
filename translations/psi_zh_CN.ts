@@ -2121,15 +2121,23 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Encryption Enabled</source>
-        <translation>加密已启用</translation>
+        <translation type="vanished">加密已启用</translation>
     </message>
     <message>
         <source>Encryption Disabled</source>
-        <translation>加密已关闭</translation>
+        <translation type="vanished">加密已关闭</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
         <translation>%1 结束对话</translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5110,6 +5118,14 @@ Reason: %1</source>
     <message>
         <source>%1 has been removed from the room by %2 due to technical problem</source>
         <translation>%1 因为技术问题已经被 %2 从聊天室被删除了</translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

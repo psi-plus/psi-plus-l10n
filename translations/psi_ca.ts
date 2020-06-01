@@ -1964,14 +1964,22 @@ Tot hi això desitja tancar la finestra?</translation>
     </message>
     <message>
         <source>Encryption Enabled</source>
-        <translation>Xifrat activat</translation>
+        <translation type="vanished">Xifrat activat</translation>
     </message>
     <message>
         <source>Encryption Disabled</source>
-        <translation>Xifrat desactivat</translation>
+        <translation type="vanished">Xifrat desactivat</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4834,6 +4842,14 @@ Reason: %1</source>
     </message>
     <message>
         <source>%1 has been removed from the room by %2 due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

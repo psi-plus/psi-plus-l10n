@@ -2130,15 +2130,23 @@ Do you still want to close the window?</translation>
     </message>
     <message>
         <source>Encryption Enabled</source>
-        <translation>Encryption Enabled</translation>
+        <translation type="vanished">Encryption Enabled</translation>
     </message>
     <message>
         <source>Encryption Disabled</source>
-        <translation>Encryption Disabled</translation>
+        <translation type="vanished">Encryption Disabled</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
         <translation>%1 ended the conversation</translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5128,6 +5136,14 @@ Reason: %1</translation>
     <message>
         <source>%1 has been removed from the room by %2 due to technical problem</source>
         <translation>%1 has been removed from the room by %2 due to technical problem</translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

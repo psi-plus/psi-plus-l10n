@@ -1964,14 +1964,22 @@ Wilt u nog steeds het venster sluiten?</translation>
     </message>
     <message>
         <source>Encryption Enabled</source>
-        <translation>Encryptie ingeschakeld</translation>
+        <translation type="vanished">Encryptie ingeschakeld</translation>
     </message>
     <message>
         <source>Encryption Disabled</source>
-        <translation>Encryptie uitgeschakeld</translation>
+        <translation type="vanished">Encryptie uitgeschakeld</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4835,6 +4843,14 @@ Reason: %1</source>
     </message>
     <message>
         <source>%1 has been removed from the room by %2 due to technical problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
