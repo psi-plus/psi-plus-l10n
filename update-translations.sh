@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@yandex.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2020-05-15
+# Updated: 2020-06-03
 # Version: N/A
 
 set -e
@@ -66,15 +66,12 @@ case "${1}" in
 
 ;;
 "install")
-    # Installing precompiled localization files into default directory.
+    # Installing precompiled localization files into ${DESTDIR}.
 
-    if [ ${USER} != "root" ]; then
-        echo "You are not a root now!"
-        exit 1
-    fi
-
-    mkdir -p /usr/share/psi-plus/translations/
-    cp out/*.qm /usr/share/psi-plus/translations/
+    [ -z "${DESTDIR}" ] && DESTDIR="/usr"
+    
+    mkdir -p "${DESTDIR}/share/psi-plus/translations/"
+    cp out/*.qm "${DESTDIR}/share/psi-plus/translations/"
 
 ;;
 "tarball")
