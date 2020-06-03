@@ -2813,7 +2813,7 @@ Pozn.: aby modul pracoval správně, Nástrojová lišta skupinového chatu mus�
     </message>
     <message>
         <source>Join %1</source>
-        <translation>Vejít do %1</translation>
+        <translation type="vanished">Vejít do %1</translation>
     </message>
     <message>
         <source>Groupchats</source>
@@ -19434,7 +19434,7 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     </message>
     <message>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages he sees are authentic and unmodified.</source>
-        <translation>Zprávy, které posíláš, nemají digitální podpisy zkontrolovatelné třetí stranou. Kdokoliv může podvrhnout zprávy po ukončení konverzace tak, aby vypadaly, že přichází od tebe. Nicméně, během konverzace si tvůj protějšek může být jistý, že zprávy jsou od tebe a nemodifikované.</translation>
+        <translation type="vanished">Zprávy, které posíláš, nemají digitální podpisy zkontrolovatelné třetí stranou. Kdokoliv může podvrhnout zprávy po ukončení konverzace tak, aby vypadaly, že přichází od tebe. Nicméně, během konverzace si tvůj protějšek může být jistý, že zprávy jsou od tebe a nemodifikované.</translation>
     </message>
     <message>
         <source>Perfect forward secrecy</source>
@@ -19513,7 +19513,51 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>OTR (Off-the-Record Messaging) allows you to have private conversations over instant messaging by providing:</source>
+        <source>Off-the-Record Messaging (OTR) is a cryptographic protocol that provides encryption for instant messaging conversations. In addition to authentication and encryption, OTR provides forward secrecy and malleable encryption.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows to use it for protecting conversations via XMPP transports (to ICQ, Skype, Telegram, QQ, vkontakte and other networks).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OTR features:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* Fast and easy update of encryption keys.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* Simple and convenient authentication of interlocutor without necessity of comparing public key fingerprints through an outside communication channel.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OTR limitations:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* No support of offline messages.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* No support of carbon copies to other XMPP resources.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* No support of multi-user chats.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>* No support of file transfer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OTR provides the following guarantees:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages (s)he sees are authentic and unmodified.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
