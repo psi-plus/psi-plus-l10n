@@ -19753,11 +19753,11 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>OTR provides the following guarantees:</source>
-        <translation type="unfinished"></translation>
+        <translation>OTR предоставляет следующие гарантии:</translation>
     </message>
     <message>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages (s)he sees are authentic and unmodified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправленные сообщения не имеют цифровой подписи, проверяемой третьим лицом. Кто угодно сможет подделать историю переписки так, чтобы сообщения выглядели приходящими от вас. Зато во время разговора ваш корреспондент будет уверен, что сообщения от вас подлинны и не подделаны.</translation>
     </message>
 </context>
 <context>
