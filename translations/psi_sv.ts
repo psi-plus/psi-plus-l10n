@@ -2003,6 +2003,10 @@ Vill du ändå stänga fönstret?</translation>
         <source>Encryption is disabled</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>%1 encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ChatEdit</name>
@@ -4900,6 +4904,10 @@ Anledning: %1</translation>
     </message>
     <message>
         <source>Encryption is disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 encryption is enabled</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

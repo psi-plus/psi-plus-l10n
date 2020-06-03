@@ -2136,6 +2136,10 @@ Do you still want to close the window?</source>
         <source>Encryption is disabled</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>%1 encryption is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ChatEdit</name>
@@ -5121,6 +5125,10 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Encryption is disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 encryption is enabled</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
