@@ -2154,7 +2154,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>%1 encryption is enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Шифрування %1 увімкнено</translation>
     </message>
 </context>
 <context>
@@ -5149,7 +5149,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>%1 encryption is enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Шифрування %1 увімкнено</translation>
     </message>
 </context>
 <context>
