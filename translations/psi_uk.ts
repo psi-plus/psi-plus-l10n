@@ -19692,7 +19692,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows to use it for protecting conversations via XMPP transports (to ICQ, Skype, Telegram, QQ, vkontakte and other networks).</source>
-        <translation>У порівнянні з OpenPGP і OMEMO протокол OTR не залежить від специфічних структур XMPP, що дозволяє використовувати його для захисту розмов через транспорти XMPP (в ICQ, Skype, Telegram, QQ, вконтакте та інших мережах).</translation>
+        <translation type="vanished">У порівнянні з OpenPGP і OMEMO протокол OTR не залежить від специфічних структур XMPP, що дозволяє використовувати його для захисту розмов через транспорти XMPP (в ICQ, Skype, Telegram, QQ, вконтакте та інших мережах).</translation>
     </message>
     <message>
         <source>OTR features:</source>
@@ -19733,6 +19733,10 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages (s)he sees are authentic and unmodified.</source>
         <translation>Відправлені вами повідомлення не мають цифрових підписів, які можуть бути перевірені третьою стороною. Будь-хто може підробити повідомлення після розмови, щоб вони виглядали так, як ніби вони від вас. Однак під час розмови ваш кореспондент впевнений, що повідомлення, які він(вона) бачить, є справжніми і не змінені.</translation>
+    </message>
+    <message>
+        <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows one to use it for protecting conversations via XMPP transports (to ICQ, Skype, Telegram, QQ, vkontakte and other networks).</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

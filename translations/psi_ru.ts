@@ -19725,7 +19725,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows to use it for protecting conversations via XMPP transports (to ICQ, Skype, Telegram, QQ, vkontakte and other networks).</source>
-        <translation>По сравнению с OpenPGP и OMEMO протокол OTR не зависит от специфических структур XMPP, что позволяет использовать его для защиты разговоров через транспорты XMPP (в ICQ, Skype, Telegram, QQ, вконтакте и других сетях).</translation>
+        <translation type="vanished">По сравнению с OpenPGP и OMEMO протокол OTR не зависит от специфических структур XMPP, что позволяет использовать его для защиты разговоров через транспорты XMPP (в ICQ, Skype, Telegram, QQ, вконтакте и других сетях).</translation>
     </message>
     <message>
         <source>OTR features:</source>
@@ -19766,6 +19766,10 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages (s)he sees are authentic and unmodified.</source>
         <translation>Отправленные сообщения не имеют цифровой подписи, проверяемой третьим лицом. Кто угодно сможет подделать историю переписки так, чтобы сообщения выглядели приходящими от вас. Зато во время разговора ваш корреспондент будет уверен, что сообщения от вас подлинны и не подделаны.</translation>
+    </message>
+    <message>
+        <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows one to use it for protecting conversations via XMPP transports (to ICQ, Skype, Telegram, QQ, vkontakte and other networks).</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
