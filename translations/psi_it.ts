@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="it" version="2.1">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="it">
 <context>
     <name>@default</name>
     <message>
@@ -277,10 +279,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; per ulteriori dettagli!</tra
     <message>
         <source>Patcher and former Russian translator</source>
         <translation>Patcher ed ex traduttore russo</translation>
-    </message>
-    <message>
-        <source>psi/logo_48</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>About Psi</source>
@@ -1205,7 +1203,7 @@ salverà la cronologia per questo contatto.</translation>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Bitstream Vera Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; user, simply fill out the XMPP address (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-XMPP&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get XMPP Address&lt;/span&gt; button to generate an XMPP address for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -2149,7 +2147,7 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>%1 encryption is enabled</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3131,10 +3129,6 @@ Procedere?</translation>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation>Questo plugin è progettato per rendere facile lo scaricamento e l&apos;installazione di set di icone e altre risorse per Psi+.</translation>
     </message>
-    <message>
-        <source>Email: </source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>Crash::CrashDialog</name>
@@ -3181,7 +3175,7 @@ Procedere?</translation>
     </message>
     <message>
         <source>ToolBar will be placed here</source>
-        <comment>Don't translate this string</comment>
+        <comment>Don&apos;t translate this string</comment>
         <translation>La barra degli strumenti sarà posizionata qui</translation>
     </message>
     <message>
@@ -4464,7 +4458,7 @@ contact is offline.</source>
         <source>Unable to connect to peer for data transfer.
 
 Ensure that your Data Transfer settings are proper.  If you are behind
-a NAT router or firewall then you'll need to open the proper TCP port
+a NAT router or firewall then you&apos;ll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
         <translation>Impossibile connettersi al peer per il trasferimento di dati.
 
@@ -4476,7 +4470,7 @@ o specificare un Proxy per Trasferimento Dati nelle tue impostazioni d&apos;acco
         <source>Failure to either connect to, or activate, the Data Transfer Proxy.
 
 This means that the Proxy service is either not functioning or it is
-unreachable.  If you are behind a firewall, then you'll need to ensure
+unreachable.  If you are behind a firewall, then you&apos;ll need to ensure
 that outgoing TCP connections are allowed.</source>
         <translation>Connessione, o attivazione, del Proxy di Trasferimento Dati non riuscita.
 
@@ -5148,7 +5142,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>%1 encryption is enabled</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5783,10 +5777,6 @@ Nota: Il plugin controlla solo la radice della tua cartella di posta in arrivo d
     <message>
         <source>Public key %1 sent</source>
         <translation type="vanished">Chiavi pubblica %1 inviata</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6663,7 +6653,7 @@ Puoi selezionare o deselezionare un contatto dalla rimozione cronologia dal menu
 <context>
     <name>IcqDie</name>
     <message>
-        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it's much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
+        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
 
 Sincerely yours, Debian Sid.</source>
         <translation type="vanished">Posso dirti come un Linux, ma non essere arrabbiato con me. Certamente questo umano riceverà questo messaggio. Ma è molto meglio chiacchierare con lui da Jabber. Stai rischiando, uno non può mai sapere quando ICQ può morire, nonnina ha fatto il suo tempo. Il suo JID: %1.
@@ -6673,7 +6663,7 @@ Sinceramente tuo, Debian Sid.</translation>
     <message>
         <source>I can tell you as a Linux, but do not be mad at me. This human do not use ICQ anymore, so if you are still use that network he will not receive your message and you have to chat to him by Jabber. His JID: %1.
 
-If you don't know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
+If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
 Sincerely yours, Debian Sid.</source>
         <translation type="vanished">Posso dirti come un Linux, ma non essere arrabbiato con me. Questo umano non userà più ICQ, quindi se tu stai ancora usando quella rete egli non riceverà il tuo messaggio e tu dovrai contattarlo da Jabber. Il suo JID:%1.
 
@@ -6751,7 +6741,7 @@ Questo plugin ha una serie di semplici impostazioni che possono aiutarti:
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
-Your contact's client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
+Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
         <translation>Questo plugin è progettato per inviare immagini ai contatti della lista.
 Il client del tuo contatto deve supportare XEP-0071: XHTML-IM e supportare i dati: URI scheme.
@@ -6805,7 +6795,7 @@ Nota: Per funzionare correttamente, l&apos;opzione options.ui.chat.central-toolb
         <translation>Permetti upscale</translation>
     </message>
     <message>
-        <source>This plugin shows images URLs' previews in chats for non-webkit Psi version.
+        <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
 </source>
         <translation>Questo plugin mostra le anteprime degli URL delle immagini in chat per le versioni di Psi non-webkit.
 </translation>
@@ -7355,7 +7345,7 @@ a giocare a Battaglia Navale. Lui vuole giocare %2.</translation>
         <translation>Avviso</translation>
     </message>
     <message>
-        <source>can't create folder %1 
+        <source>can&apos;t create folder %1 
 caching avatars will be not available</source>
         <translation>impossibile creare cartella %1
 le cache avatar non saranno disponibili</translation>
@@ -7974,12 +7964,8 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
         <translation type="vanished">e-mail: </translation>
     </message>
     <message>
-        <source>Email: </source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8094,6 +8080,29 @@ Dettagli: %1</translation>
     <message>
         <source>&lt;unset&gt;</source>
         <translation>&lt;unset&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>MucInfo</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished">Finestra</translation>
+    </message>
+    <message>
+        <source>Account:</source>
+        <translation type="unfinished">Account:</translation>
+    </message>
+    <message>
+        <source>ID:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished">Nome:</translation>
+    </message>
+    <message>
+        <source>Description:</source>
+        <translation type="unfinished">Descrizione:</translation>
     </message>
 </context>
 <context>
@@ -8295,17 +8304,6 @@ Etichette: %1</translation>
     </message>
 </context>
 <context>
-    <name>OpenPGP</name>
-    <message>
-        <source>Authors: </source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Send GnuPG Public Key</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
     <name>OpenPgpMessaging</name>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
@@ -8321,12 +8319,8 @@ Motivo: %1.</translation>
 <context>
     <name>OpenPgpPlugin</name>
     <message>
-        <source>Authors: </source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Embedded Keys Manager can do only basic operations like creating, removing, exporting and importing PGP keys. This should be enough to most of users needs. For more complicated cases use special software.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OpenPGP encryption</source>
@@ -8334,39 +8328,39 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>OpenPGP is the most widely used encryption standard. It is extremely simple in usage:&lt;br/&gt;* Generate a key pair (public key + secret key) or choose existing one and set it in program settings.&lt;br/&gt;* Protect your secret key with a strong password and never give it to anyone.&lt;br/&gt;* Share your public key with buddies and get their public keys using any communication channel which you trust (xmpp, email, PGP keys server).&lt;br/&gt;* Enable PGP encryption in chat with you buddy and have fun the protected conversation.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OpenPGP features:&lt;br/&gt;* Offline messages.&lt;br/&gt;* File transfer. (Not supported by plugin yet.)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OpenPGP limitations:&lt;br/&gt;* No support of message copies to multiple devices.&lt;br/&gt;* No support of multi-user chats.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OpenPGP plugin uses standard command-line tool GnuPG, so attentively check that you properly installed and configured gpg and gpg-agent. For example, in your system:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1) Download and install &quot;%1&quot; from official website:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1) Install gpg and gpg-agent using Homebrew:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1) Install gpg and gpg-agent using system packaging tool.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>2) Edit configuration file %1 if necessary.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>In comparison with OTR and OMEMO, OpenPGP allows one to keep encrypted messages history on server side but lucks support of forward secrecy (they are mutually exclusive).</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9649,7 +9643,7 @@ Argomento MUC per esempio.</translation>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -10137,7 +10131,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
         <translation>Elimina</translation>
     </message>
     <message>
-        <source>Disable stopspam, if don't match any rule above
+        <source>Disable stopspam, if don&apos;t match any rule above
 (does not work for muc private messages)</source>
         <translation>Disattiva StopSpam, se non corrisponde a nessuna regola precedente
 (non funziona per i messaggi privati nelle MUC)</translation>
@@ -10304,11 +10298,11 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Keys Manager</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Own Keys</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select &amp;Key...</source>
@@ -10320,35 +10314,35 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>OpenPGP encryption policy</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Always enabled</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enabled by default</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Disabled by default</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Automatically assign known keys to contacts with signed presences and no assigned keys</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show PGP info in tooltips for contacts in roster</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Automatically import PGP key from the message body</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do not show messages with PGP keys</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
@@ -10360,7 +10354,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Known Keys</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Account</source>
@@ -10400,7 +10394,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Choose Secret Key</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User ID</source>
@@ -10408,23 +10402,23 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>gpg-agent configuration</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt; This option affects all programs which use gpg-agent in your system!</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ask password confirmation each</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open configuration file</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Attempt to reload gpg-agent config is failed. You need to restart your system to see changes in gpg-agent settings.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Warning</source>
@@ -10433,11 +10427,11 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     <message>
         <source>Attempt to save gpg-agent config is failed! Check that you have write permission for file:
 %1</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do not sign own presence status</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11037,7 +11031,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Plugin Path</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11554,7 +11548,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13452,7 +13446,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Command&gt;</source>
-        <translation>Comando&gt;</translation>
+        <translation type="vanished">Comando&gt;</translation>
     </message>
     <message>
         <source>turn off autojid</source>
@@ -13504,15 +13498,19 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Choose Public Key</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send own public key</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send public key...</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Command</source>
+        <translation type="unfinished">Comando</translation>
     </message>
 </context>
 <context>
@@ -13553,7 +13551,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Set status. STATUS must be one of `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</source>
-        <comment>do not translate `online', `chat', etc; STATUS is the same as in previous string</comment>
+        <comment>do not translate `online&apos;, `chat&apos;, etc; STATUS is the same as in previous string</comment>
         <translation>Imposta lo stato. Lo stato deve essere uno tra &quot;Connesso&quot;, &quot;Chat&quot;, &quot;Assente&quot;, &quot;Non Disponibile&quot;, &quot;Occupato&quot;.</translation>
     </message>
     <message>
@@ -14013,16 +14011,12 @@ Vuoi attivare quella sessione ora?</translation>
 <context>
     <name>PsiMediaPlugin</name>
     <message>
-        <source>Authors: </source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Thanks To</source>
         <translation>Grazie A</translation>
     </message>
     <message>
         <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15262,19 +15256,31 @@ Descrizione: </translation>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
-        <translation><numerusform>%n giorno/i</numerusform><numerusform>%n giorno/i</numerusform></translation>
+        <translation>
+            <numerusform>%n giorno/i</numerusform>
+            <numerusform>%n giorno/i</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s) </source>
-        <translation><numerusform>%n ora/e</numerusform><numerusform>%n hour(s) </numerusform></translation>
+        <translation>
+            <numerusform>%n ora/e</numerusform>
+            <numerusform>%n hour(s) </numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) </source>
-        <translation><numerusform>%n minuto/i</numerusform><numerusform>%n minute(s) </numerusform></translation>
+        <translation>
+            <numerusform>%n minuto/i</numerusform>
+            <numerusform>%n minute(s) </numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>%n second(s) </source>
-        <translation><numerusform>%n secondo/i</numerusform><numerusform>%n second(s) </numerusform></translation>
+        <translation>
+            <numerusform>%n secondo/i</numerusform>
+            <numerusform>%n second(s) </numerusform>
+        </translation>
     </message>
     <message>
         <source>Warning</source>
@@ -15851,7 +15857,7 @@ Grazie per la tua pazienza.</translation>
     </message>
     <message>
         <source>Multimedia</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Audio and video device configuration</source>
@@ -15965,8 +15971,11 @@ Reason: %1</source>
     <message numerus="yes">
         <source>celebrates birthday in %n day(s)
 </source>
-        <translation><numerusform>Festeggia il compleanno in %n giorno/i
-</numerusform><numerusform>Festeggia il compleanno in %n giorno/i</numerusform></translation>
+        <translation>
+            <numerusform>Festeggia il compleanno in %n giorno/i
+</numerusform>
+            <numerusform>Festeggia il compleanno in %n giorno/i</numerusform>
+        </translation>
     </message>
     <message>
         <source>celebrates birthday yesterday.
@@ -16370,7 +16379,10 @@ Motivo: %1</translation>
     </message>
     <message numerus="yes">
         <source>Added %n users to your roster.</source>
-        <translation><numerusform>Aggiunto %n utente alla tua lista.</numerusform><numerusform>Aggiunto %n utenti alla tua lista.</numerusform></translation>
+        <translation>
+            <numerusform>Aggiunto %n utente alla tua lista.</numerusform>
+            <numerusform>Aggiunto %n utenti alla tua lista.</numerusform>
+        </translation>
     </message>
     <message>
         <source>Added %1 to your roster.</source>
@@ -17699,7 +17711,7 @@ Correggere e provare ancora.</translation>
         <source>You can type these special commands in chat and groupchat dialogs:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; to clear chat view&lt;/li&gt;
-&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; '/me' is replaced by your nick&lt;/li&gt;
+&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; &apos;/me&apos; is replaced by your nick&lt;/li&gt;
 &lt;/ul&gt;
 And these work only in groupchat dialog:
 &lt;ul&gt;
@@ -18931,11 +18943,11 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Known Keys</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Own Keys</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19066,14 +19078,6 @@ Vuoi ancora chiudere la finestra?</translation>
 <context>
     <name>psiomemo::OMEMOPlugin</name>
     <message>
-        <source>Author: </source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Credits: </source>
         <translation>Crediti:</translation>
     </message>
@@ -19110,28 +19114,24 @@ Vuoi ancora chiudere la finestra?</translation>
         <translation>Gestisci impronte del contatto</translation>
     </message>
     <message>
-        <source>Authors: </source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>OMEMO is an end-to-end encryption protocol that leverages the Double Ratchet encryption scheme to provide multi-end to multi-end encryption, allowing messages to be synchronized securely across multiple clients, even if some of them are offline.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>In comparison with OTR, the OMEMO protocol offers multi-users encrypted chat, safe message synchronization between user&apos;s devices, offline messages queuing, forward secrecy and file transfer.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OMEMO provides the following guarantees:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Confidentiality</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Nobody else except sender and receiver is able to read the content of a message.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Perfect forward secrecy</source>
@@ -19139,7 +19139,7 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Compromised key material does not compromise previous or future message exchanges.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Authentication</source>
@@ -19147,85 +19147,78 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Every peer is able to authenticate the sender or receiver of a message.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Immutability</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Every peer can ensure that a message was not changed by any intermediate node.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No participant can prove who created a specific message.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Asynchronicity</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The usability of the protocol does not depend on the online status of any participant.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OMEMO is not intended to protect against the following use cases:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>* An attacker has permanent access to your device. (Temporary access is covered by perfect forward secrecy.)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>* You lost your device and an attacker can read messages on your notification screen.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>* Any kind of denial-of-service attack.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>* etc.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Plausible deniability</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>psiomemo::OmemoConfiguration</name>
     <message>
         <source>OMEMO encryption policy</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Always enabled</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enabled by default</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Disabled by default</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Automatically mark new own devices as trusted</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Automatically mark new interlocutors devices as trusted</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>psiomemo::OwnFingerprint</name>
-    <message>
-        <source>Fingerprint: </source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19371,11 +19364,11 @@ Dovresti autenticare anche %1 ponendo la tua domanda.</translation>
     </message>
     <message>
         <source>Known Keys</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Own Keys</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19406,7 +19399,7 @@ Dovresti autenticare anche %1 ponendo la tua domanda.</translation>
     </message>
     <message>
         <source>OTR encryption policy</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19697,60 +19690,56 @@ Dovresti autenticare anche %1 ponendo la tua domanda.</translation>
         <translation>Conferma azione</translation>
     </message>
     <message>
-        <source>Authors: </source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>For further information, see &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Off-the-Record Messaging (OTR) is a cryptographic protocol that provides encryption for instant messaging conversations. In addition to authentication and encryption, OTR provides forward secrecy and malleable encryption.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OTR features:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>* Fast and easy update of encryption keys.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>* Simple and convenient authentication of interlocutor without necessity of comparing public key fingerprints through an outside communication channel.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OTR limitations:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>* No support of offline messages.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>* No support of carbon copies to other XMPP resources.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>* No support of multi-user chats.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>* No support of file transfer.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OTR provides the following guarantees:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages (s)he sees are authentic and unmodified.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows one to use it for protecting conversations via XMPP transports (to ICQ, Skype, Telegram, QQ, vkontakte and other networks).</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -20074,7 +20063,7 @@ Reathorization...</source>
 Riautorizzazione...</translation>
     </message>
     <message>
-        <source>Can't get files!
+        <source>Can&apos;t get files!
 Try remove cookies.</source>
         <translation>Impossibile ottenere i file!
 Prova a cancellare i cookie.</translation>
@@ -20165,7 +20154,7 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;

@@ -7644,6 +7644,29 @@ Details: %1</source>
     </message>
 </context>
 <context>
+    <name>MucInfo</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished">مکالمہ</translation>
+    </message>
+    <message>
+        <source>Account:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ID:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished">نام:‏</translation>
+    </message>
+    <message>
+        <source>Description:</source>
+        <translation type="unfinished">تصریح:‏</translation>
+    </message>
+</context>
+<context>
     <name>MultiFileTransferDelegate</name>
     <message>
         <source>[Pending]</source>
@@ -12747,7 +12770,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Command&gt;</source>
-        <translation>حکم &gt;</translation>
+        <translation type="vanished">حکم &gt;</translation>
     </message>
     <message>
         <source>turn off autojid</source>
@@ -12808,6 +12831,10 @@ Reason: %1.</source>
     <message>
         <source>Send public key...</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Command</source>
+        <translation type="unfinished">حکم</translation>
     </message>
 </context>
 <context>

@@ -8031,6 +8031,29 @@ Details: %1</source>
     </message>
 </context>
 <context>
+    <name>MucInfo</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished">對話</translation>
+    </message>
+    <message>
+        <source>Account:</source>
+        <translation type="unfinished">帳戶:</translation>
+    </message>
+    <message>
+        <source>ID:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished">名稱:</translation>
+    </message>
+    <message>
+        <source>Description:</source>
+        <translation type="unfinished">描述:</translation>
+    </message>
+</context>
+<context>
     <name>MultiFileTransferDelegate</name>
     <message>
         <source>[Pending]</source>
@@ -13317,7 +13340,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Command&gt;</source>
-        <translation>指令&gt;</translation>
+        <translation type="vanished">指令&gt;</translation>
     </message>
     <message>
         <source>turn off autojid</source>
@@ -13378,6 +13401,10 @@ Reason: %1.</source>
     <message>
         <source>Send public key...</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Command</source>
+        <translation type="unfinished">指令</translation>
     </message>
 </context>
 <context>

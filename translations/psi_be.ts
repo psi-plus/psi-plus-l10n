@@ -8027,6 +8027,29 @@ Details: %1</source>
     </message>
 </context>
 <context>
+    <name>MucInfo</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished">Размова</translation>
+    </message>
+    <message>
+        <source>Account:</source>
+        <translation type="unfinished">Рахунак:</translation>
+    </message>
+    <message>
+        <source>ID:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished">Назва:</translation>
+    </message>
+    <message>
+        <source>Description:</source>
+        <translation type="unfinished">Апісаньне:</translation>
+    </message>
+</context>
+<context>
     <name>MultiFileTransferDelegate</name>
     <message>
         <source>[Pending]</source>
@@ -13323,7 +13346,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Command&gt;</source>
-        <translation>Загад&gt;</translation>
+        <translation type="vanished">Загад&gt;</translation>
     </message>
     <message>
         <source>turn off autojid</source>
@@ -13384,6 +13407,10 @@ Reason: %1.</source>
     <message>
         <source>Send public key...</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Command</source>
+        <translation type="unfinished">Загад</translation>
     </message>
 </context>
 <context>

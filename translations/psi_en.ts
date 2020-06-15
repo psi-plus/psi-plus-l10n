@@ -8097,6 +8097,29 @@ Details: %1</translation>
     </message>
 </context>
 <context>
+    <name>MucInfo</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished">Dialog</translation>
+    </message>
+    <message>
+        <source>Account:</source>
+        <translation type="unfinished">Account:</translation>
+    </message>
+    <message>
+        <source>ID:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished">Name:</translation>
+    </message>
+    <message>
+        <source>Description:</source>
+        <translation type="unfinished">Description:</translation>
+    </message>
+</context>
+<context>
     <name>MultiFileTransferDelegate</name>
     <message>
         <source>[Pending]</source>
@@ -13453,7 +13476,7 @@ Reason: %1.</translation>
     </message>
     <message>
         <source>Command&gt;</source>
-        <translation>Command&gt;</translation>
+        <translation type="vanished">Command&gt;</translation>
     </message>
     <message>
         <source>turn off autojid</source>
@@ -13514,6 +13537,10 @@ Reason: %1.</translation>
     <message>
         <source>Send public key...</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Command</source>
+        <translation type="unfinished">Command</translation>
     </message>
 </context>
 <context>
