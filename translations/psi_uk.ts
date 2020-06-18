@@ -8091,23 +8091,23 @@ Details: %1</source>
     <name>MucInfo</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Діалог</translation>
+        <translation>Діалог</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished">Акаунт:</translation>
+        <translation>Акаунт:</translation>
     </message>
     <message>
         <source>ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>ID:</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ім’я:</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>Опис:</translation>
     </message>
 </context>
 <context>
@@ -13516,7 +13516,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Command</source>
-        <translation type="unfinished">Команда</translation>
+        <translation>Команда</translation>
     </message>
 </context>
 <context>
@@ -19718,10 +19718,6 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation>Off-the-Record Messaging (OTR) - це криптографічний протокол, який забезпечує шифрування для обміну миттєвими повідомленнями. На додаток до аутентифікації і шифрування OTR забезпечує пряму секретність і гнучке шифрування.</translation>
     </message>
     <message>
-        <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows to use it for protecting conversations via XMPP transports (to ICQ, Skype, Telegram, QQ, vkontakte and other networks).</source>
-        <translation type="vanished">У порівнянні з OpenPGP і OMEMO протокол OTR не залежить від специфічних структур XMPP, що дозволяє використовувати його для захисту розмов через транспорти XMPP (в ICQ, Skype, Telegram, QQ, вконтакте та інших мережах).</translation>
-    </message>
-    <message>
         <source>OTR features:</source>
         <translation>Можливості OTR:</translation>
     </message>
@@ -19763,7 +19759,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows one to use it for protecting conversations via XMPP transports (to ICQ, Skype, Telegram, QQ, vkontakte and other networks).</source>
-        <translation type="unfinished"></translation>
+        <translation>У порівнянні з OpenPGP і OMEMO, протокол OTR не залежить від специфічних структур XMPP, що дозволяє використовувати його для захисту розмов через транспорти XMPP (в ICQ, Skype, Telegram, QQ, vkontakte та інших мережах).</translation>
     </message>
 </context>
 <context>
