@@ -8632,11 +8632,27 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Link</source>
-        <translation>Ссылка</translation>
+        <translation type="vanished">Ссылка</translation>
     </message>
     <message>
         <source>Visited Link</source>
-        <translation>Посещённая ссылка</translation>
+        <translation type="vanished">Посещённая ссылка</translation>
+    </message>
+    <message>
+        <source>Tooltip:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visited Link:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Link:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tooltip background:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -8627,11 +8627,27 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Link</source>
-        <translation>Link</translation>
+        <translation type="vanished">Link</translation>
     </message>
     <message>
         <source>Visited Link</source>
-        <translation>Besuchter Link</translation>
+        <translation type="vanished">Besuchter Link</translation>
+    </message>
+    <message>
+        <source>Tooltip:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visited Link:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Link:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tooltip background:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

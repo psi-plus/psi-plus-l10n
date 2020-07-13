@@ -8539,10 +8539,22 @@ Cause: %1.</translation>
     </message>
     <message>
         <source>Link</source>
-        <translation>Lien</translation>
+        <translation type="vanished">Lien</translation>
     </message>
     <message>
-        <source>Visited Link</source>
+        <source>Tooltip:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visited Link:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Link:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tooltip background:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

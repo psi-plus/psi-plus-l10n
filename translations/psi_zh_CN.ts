@@ -8622,11 +8622,27 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Link</source>
-        <translation>链接</translation>
+        <translation type="vanished">链接</translation>
     </message>
     <message>
         <source>Visited Link</source>
-        <translation>访问过的链接</translation>
+        <translation type="vanished">访问过的链接</translation>
+    </message>
+    <message>
+        <source>Tooltip:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visited Link:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Link:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tooltip background:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

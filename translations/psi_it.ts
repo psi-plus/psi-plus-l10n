@@ -8633,11 +8633,27 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Link</source>
-        <translation>Collegamento</translation>
+        <translation type="vanished">Collegamento</translation>
     </message>
     <message>
         <source>Visited Link</source>
-        <translation>Link Visitato</translation>
+        <translation type="vanished">Link Visitato</translation>
+    </message>
+    <message>
+        <source>Tooltip:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Visited Link:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Link:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tooltip background:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

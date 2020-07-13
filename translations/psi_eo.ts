@@ -8133,11 +8133,19 @@ Kialo: %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Link</source>
+        <source>Tooltip:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Visited Link</source>
+        <source>Visited Link:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Link:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tooltip background:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
