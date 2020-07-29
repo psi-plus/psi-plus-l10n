@@ -2611,27 +2611,27 @@ Sie können Elemente ansehen, bevor sie von der Festplatte gelöscht werden. </t
     <name>ClientSwitcher::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation>Suche: </translation>
+        <translation type="vanished">Suche: </translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation>&amp;Groß-/Kleinschreibung</translation>
+        <translation type="vanished">&amp;Groß-/Kleinschreibung</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation>Erste Seite</translation>
+        <translation type="vanished">Erste Seite</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation>Vorherige Seite</translation>
+        <translation type="vanished">Vorherige Seite</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation>Nächste Seite</translation>
+        <translation type="vanished">Nächste Seite</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation>Letzte Seite</translation>
+        <translation type="vanished">Letzte Seite</translation>
     </message>
 </context>
 <context>
@@ -2650,7 +2650,7 @@ Sie können die Version des Clients und des Betriebssystems selbst festlegen ode
     </message>
     <message>
         <source>%1 has requested your version</source>
-        <translation>%1 hat Ihre Version abgefragt</translation>
+        <translation type="vanished">%1 hat Ihre Version abgefragt</translation>
     </message>
 </context>
 <context>
@@ -11335,7 +11335,7 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     </message>
     <message>
         <source>General</source>
-        <translation>Allgemein</translation>
+        <translation type="vanished">Allgemein</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -11399,39 +11399,39 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     </message>
     <message>
         <source>Enable for:</source>
-        <translation>Aktiviere für:</translation>
+        <translation type="vanished">Aktiviere für:</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation>Kontakte</translation>
+        <translation type="vanished">Kontakte</translation>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation>Gruppenchats</translation>
+        <translation type="vanished">Gruppenchats</translation>
     </message>
     <message>
         <source>Show popup at version iq</source>
-        <translation>Zeige Popup bei Versions-IQ</translation>
+        <translation type="vanished">Zeige Popup bei Versions-IQ</translation>
     </message>
     <message>
         <source>never</source>
-        <translation>niemals</translation>
+        <translation type="vanished">niemals</translation>
     </message>
     <message>
         <source>if iq replaced</source>
-        <translation>falls iq ersetzt</translation>
+        <translation type="vanished">falls iq ersetzt</translation>
     </message>
     <message>
         <source>always</source>
-        <translation>immer</translation>
+        <translation type="vanished">immer</translation>
     </message>
     <message>
         <source>Logs</source>
-        <translation>Logs</translation>
+        <translation type="vanished">Logs</translation>
     </message>
     <message>
         <source>View log</source>
-        <translation>Zeige Log</translation>
+        <translation type="vanished">Zeige Log</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -11543,10 +11543,14 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     </message>
     <message>
         <source>Save queries to log</source>
-        <translation>Speichere Abfragen im Log</translation>
+        <translation type="vanished">Speichere Abfragen im Log</translation>
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OS version</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

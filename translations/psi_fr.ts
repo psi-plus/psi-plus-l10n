@@ -2600,27 +2600,27 @@ Il est possible de prévisualiser les éléments avant de les supprimer.</transl
     <name>ClientSwitcher::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation>Rechercher:</translation>
+        <translation type="vanished">Rechercher:</translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation>Sensible à la &amp;casse</translation>
+        <translation type="vanished">Sensible à la &amp;casse</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation>Première page</translation>
+        <translation type="vanished">Première page</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation>Page précédente</translation>
+        <translation type="vanished">Page précédente</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation>Page suivante</translation>
+        <translation type="vanished">Page suivante</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation>Dernière page</translation>
+        <translation type="vanished">Dernière page</translation>
     </message>
 </context>
 <context>
@@ -2638,7 +2638,7 @@ Vous pouvez spécifier la version du client ou le système ou sélectionner une 
     </message>
     <message>
         <source>%1 has requested your version</source>
-        <translation>%1 a demandé votre version</translation>
+        <translation type="vanished">%1 a demandé votre version</translation>
     </message>
 </context>
 <context>
@@ -11168,7 +11168,7 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>Général</translation>
+        <translation type="vanished">Général</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -11232,39 +11232,31 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>Enable for:</source>
-        <translation>Disponible pour:</translation>
+        <translation type="vanished">Disponible pour:</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation>Contacts</translation>
+        <translation type="vanished">Contacts</translation>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation>Salons</translation>
-    </message>
-    <message>
-        <source>Show popup at version iq</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Salons</translation>
     </message>
     <message>
         <source>never</source>
-        <translation>jamais</translation>
-    </message>
-    <message>
-        <source>if iq replaced</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">jamais</translation>
     </message>
     <message>
         <source>always</source>
-        <translation>Toujours</translation>
+        <translation type="vanished">Toujours</translation>
     </message>
     <message>
         <source>Logs</source>
-        <translation>Logs</translation>
+        <translation type="vanished">Logs</translation>
     </message>
     <message>
         <source>View log</source>
-        <translation>Voir le log</translation>
+        <translation type="vanished">Voir le log</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -11375,11 +11367,11 @@ notifications pour les mails non lus.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save queries to log</source>
+        <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
+        <source>OS version</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

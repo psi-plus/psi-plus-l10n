@@ -2446,42 +2446,11 @@ You can preview items before deleting them from your hard drive.</source>
     </message>
 </context>
 <context>
-    <name>ClientSwitcher::TypeAheadFindBar</name>
-    <message>
-        <source>Search: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Case sensitive</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>First page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Previous page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Next page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Last page</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>The plugin is intended for substitution of the client version, his name and operating system type.
 You can specify the version of the client and OS or to select them from the preset list.
 </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1 has requested your version</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10748,7 +10717,7 @@ Inställningsnamn kan inte vara tomma, sluta på &apos;.&apos; eller innehålla 
     </message>
     <message>
         <source>General</source>
-        <translation>Allmän</translation>
+        <translation type="vanished">Allmän</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -10808,42 +10777,6 @@ Inställningsnamn kan inte vara tomma, sluta på &apos;.&apos; eller innehålla 
     </message>
     <message>
         <source>Caps version</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable for:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Contacts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Groupchats</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show popup at version iq</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>never</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>if iq replaced</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>always</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Logs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>View log</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10955,11 +10888,11 @@ Inställningsnamn kan inte vara tomma, sluta på &apos;.&apos; eller innehålla 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save queries to log</source>
+        <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
+        <source>OS version</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

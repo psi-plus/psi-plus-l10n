@@ -2615,27 +2615,27 @@ Puoi visualizzare gli elementi prima di cancellarli dal disco rigido.</translati
     <name>ClientSwitcher::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation>Cerca:</translation>
+        <translation type="vanished">Cerca:</translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation>&amp;Distingui maiuscole</translation>
+        <translation type="vanished">&amp;Distingui maiuscole</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation>Prima pagina</translation>
+        <translation type="vanished">Prima pagina</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation>Pagina precedente</translation>
+        <translation type="vanished">Pagina precedente</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation>Pagina successiva</translation>
+        <translation type="vanished">Pagina successiva</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation>Ultima pagina</translation>
+        <translation type="vanished">Ultima pagina</translation>
     </message>
 </context>
 <context>
@@ -2654,7 +2654,7 @@ Puoi specificare la versione del client e dell&apos;OS o selezionarli da una lis
     </message>
     <message>
         <source>%1 has requested your version</source>
-        <translation>%1 ha richiesto la tua versione</translation>
+        <translation type="vanished">%1 ha richiesto la tua versione</translation>
     </message>
 </context>
 <context>
@@ -11352,7 +11352,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>General</source>
-        <translation>Generale</translation>
+        <translation type="vanished">Generale</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -11416,39 +11416,39 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Enable for:</source>
-        <translation>Abilita per:</translation>
+        <translation type="vanished">Abilita per:</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation>Contatti</translation>
+        <translation type="vanished">Contatti</translation>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation>Conferenze</translation>
+        <translation type="vanished">Conferenze</translation>
     </message>
     <message>
         <source>Show popup at version iq</source>
-        <translation>Mostra popup alla versione iq</translation>
+        <translation type="vanished">Mostra popup alla versione iq</translation>
     </message>
     <message>
         <source>never</source>
-        <translation>mai</translation>
+        <translation type="vanished">mai</translation>
     </message>
     <message>
         <source>if iq replaced</source>
-        <translation>Se iq sostituito</translation>
+        <translation type="vanished">Se iq sostituito</translation>
     </message>
     <message>
         <source>always</source>
-        <translation>sempre</translation>
+        <translation type="vanished">sempre</translation>
     </message>
     <message>
         <source>Logs</source>
-        <translation>Registri</translation>
+        <translation type="vanished">Registri</translation>
     </message>
     <message>
         <source>View log</source>
-        <translation>Mostra registro</translation>
+        <translation type="vanished">Mostra registro</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -11560,10 +11560,14 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Save queries to log</source>
-        <translation>salva query nel registro</translation>
+        <translation type="vanished">salva query nel registro</translation>
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OS version</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

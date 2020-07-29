@@ -2601,27 +2601,27 @@ Az elemeket megtekintheted, mielőtt törlöd őket a merevlemezről.</translati
     <name>ClientSwitcher::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation>Keresés: </translation>
+        <translation type="vanished">Keresés: </translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation>&amp;Kezdőbetű érzékeny</translation>
+        <translation type="vanished">&amp;Kezdőbetű érzékeny</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation>Első oldal</translation>
+        <translation type="vanished">Első oldal</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation>Előző oldal</translation>
+        <translation type="vanished">Előző oldal</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation>Következő oldal</translation>
+        <translation type="vanished">Következő oldal</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation>Utolsó oldal</translation>
+        <translation type="vanished">Utolsó oldal</translation>
     </message>
 </context>
 <context>
@@ -2640,7 +2640,7 @@ Megadhatod a kliens verzióját és az operációs rendszert vagy kiválaszthato
     </message>
     <message>
         <source>%1 has requested your version</source>
-        <translation>%1 elkérte a verziód</translation>
+        <translation type="vanished">%1 elkérte a verziód</translation>
     </message>
 </context>
 <context>
@@ -11321,7 +11321,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>Általános</translation>
+        <translation type="vanished">Általános</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -11385,39 +11385,39 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Enable for:</source>
-        <translation>Engedélyezés ehhez:</translation>
+        <translation type="vanished">Engedélyezés ehhez:</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation>Ismerősök</translation>
+        <translation type="vanished">Ismerősök</translation>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation>Csoportbeszélgetések</translation>
+        <translation type="vanished">Csoportbeszélgetések</translation>
     </message>
     <message>
         <source>Show popup at version iq</source>
-        <translation>Felugró ablak iq-verziónál</translation>
+        <translation type="vanished">Felugró ablak iq-verziónál</translation>
     </message>
     <message>
         <source>never</source>
-        <translation>soha</translation>
+        <translation type="vanished">soha</translation>
     </message>
     <message>
         <source>if iq replaced</source>
-        <translation>ha &quot;iq&quot; áthelyezve</translation>
+        <translation type="vanished">ha &quot;iq&quot; áthelyezve</translation>
     </message>
     <message>
         <source>always</source>
-        <translation>mindig</translation>
+        <translation type="vanished">mindig</translation>
     </message>
     <message>
         <source>Logs</source>
-        <translation>Naplók</translation>
+        <translation type="vanished">Naplók</translation>
     </message>
     <message>
         <source>View log</source>
-        <translation>Napló megtekintése</translation>
+        <translation type="vanished">Napló megtekintése</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -11529,10 +11529,14 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Save queries to log</source>
-        <translation>Kérdések mentése naplófájlba</translation>
+        <translation type="vanished">Kérdések mentése naplófájlba</translation>
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OS version</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

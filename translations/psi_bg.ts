@@ -2550,27 +2550,23 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClientSwitcher::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation>Търсене:</translation>
-    </message>
-    <message>
-        <source>&amp;Case sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Търсене:</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation>Първа страница</translation>
+        <translation type="vanished">Първа страница</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation>Предишна страница</translation>
+        <translation type="vanished">Предишна страница</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation>Следваща страница</translation>
+        <translation type="vanished">Следваща страница</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation>Последна страница</translation>
+        <translation type="vanished">Последна страница</translation>
     </message>
 </context>
 <context>
@@ -2589,7 +2585,7 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
     <message>
         <source>%1 has requested your version</source>
-        <translation>%1 изиска вашата версия</translation>
+        <translation type="vanished">%1 изиска вашата версия</translation>
     </message>
 </context>
 <context>
@@ -11188,7 +11184,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>General</source>
-        <translation>Общи</translation>
+        <translation type="vanished">Общи</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -11252,39 +11248,31 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enable for:</source>
-        <translation>Включване за:</translation>
+        <translation type="vanished">Включване за:</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation>Контакти</translation>
+        <translation type="vanished">Контакти</translation>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation>Групови Чатове</translation>
-    </message>
-    <message>
-        <source>Show popup at version iq</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Групови Чатове</translation>
     </message>
     <message>
         <source>never</source>
-        <translation>никога</translation>
-    </message>
-    <message>
-        <source>if iq replaced</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">никога</translation>
     </message>
     <message>
         <source>always</source>
-        <translation>винаги</translation>
+        <translation type="vanished">винаги</translation>
     </message>
     <message>
         <source>Logs</source>
-        <translation>Журнали</translation>
+        <translation type="vanished">Журнали</translation>
     </message>
     <message>
         <source>View log</source>
-        <translation>Преглед на журнал</translation>
+        <translation type="vanished">Преглед на журнал</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -11395,11 +11383,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save queries to log</source>
+        <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
+        <source>OS version</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

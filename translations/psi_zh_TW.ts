@@ -2590,27 +2590,27 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClientSwitcher::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation>搜索:</translation>
+        <translation type="vanished">搜索:</translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation>區分大小寫(&amp;C)</translation>
+        <translation type="vanished">區分大小寫(&amp;C)</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation>第一頁</translation>
+        <translation type="vanished">第一頁</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation>上一頁</translation>
+        <translation type="vanished">上一頁</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation>下一頁</translation>
+        <translation type="vanished">下一頁</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation>最後一頁</translation>
+        <translation type="vanished">最後一頁</translation>
     </message>
 </context>
 <context>
@@ -2628,7 +2628,7 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
     <message>
         <source>%1 has requested your version</source>
-        <translation>%1需要版本</translation>
+        <translation type="vanished">%1需要版本</translation>
     </message>
 </context>
 <context>
@@ -11269,7 +11269,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>General</source>
-        <translation>通常</translation>
+        <translation type="vanished">通常</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -11333,39 +11333,39 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enable for:</source>
-        <translation>啟用:</translation>
+        <translation type="vanished">啟用:</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation>連絡人</translation>
+        <translation type="vanished">連絡人</translation>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation>群聊</translation>
+        <translation type="vanished">群聊</translation>
     </message>
     <message>
         <source>Show popup at version iq</source>
-        <translation>在IQ版本中顯示彈出</translation>
+        <translation type="vanished">在IQ版本中顯示彈出</translation>
     </message>
     <message>
         <source>never</source>
-        <translation>從不</translation>
+        <translation type="vanished">從不</translation>
     </message>
     <message>
         <source>if iq replaced</source>
-        <translation>如果IQ被取代</translation>
+        <translation type="vanished">如果IQ被取代</translation>
     </message>
     <message>
         <source>always</source>
-        <translation>總是</translation>
+        <translation type="vanished">總是</translation>
     </message>
     <message>
         <source>Logs</source>
-        <translation>日誌</translation>
+        <translation type="vanished">日誌</translation>
     </message>
     <message>
         <source>View log</source>
-        <translation>查看日誌</translation>
+        <translation type="vanished">查看日誌</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -11476,11 +11476,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#video_status_changer_plugin&quot;&gt;Wiki (線上)&lt;/a&gt;</translation>
     </message>
     <message>
-        <source>Save queries to log</source>
+        <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
+        <source>OS version</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

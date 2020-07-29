@@ -2617,27 +2617,27 @@ You can preview items before deleting them from your hard drive.</translation>
     <name>ClientSwitcher::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation>Search: </translation>
+        <translation type="vanished">Search: </translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation>&amp;Case sensitive</translation>
+        <translation type="vanished">&amp;Case sensitive</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation>First page</translation>
+        <translation type="vanished">First page</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation>Previous page</translation>
+        <translation type="vanished">Previous page</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation>Next page</translation>
+        <translation type="vanished">Next page</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation>Last page</translation>
+        <translation type="vanished">Last page</translation>
     </message>
 </context>
 <context>
@@ -2656,7 +2656,7 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
     <message>
         <source>%1 has requested your version</source>
-        <translation>%1 has requested your version</translation>
+        <translation type="vanished">%1 has requested your version</translation>
     </message>
 </context>
 <context>
@@ -11382,7 +11382,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>General</source>
-        <translation>General</translation>
+        <translation type="vanished">General</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -11446,39 +11446,39 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enable for:</source>
-        <translation>Enable for:</translation>
+        <translation type="vanished">Enable for:</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation>Contacts</translation>
+        <translation type="vanished">Contacts</translation>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation>Groupchats</translation>
+        <translation type="vanished">Groupchats</translation>
     </message>
     <message>
         <source>Show popup at version iq</source>
-        <translation>Show popup at version iq</translation>
+        <translation type="vanished">Show popup at version iq</translation>
     </message>
     <message>
         <source>never</source>
-        <translation>never</translation>
+        <translation type="vanished">never</translation>
     </message>
     <message>
         <source>if iq replaced</source>
-        <translation>if iq replaced</translation>
+        <translation type="vanished">if iq replaced</translation>
     </message>
     <message>
         <source>always</source>
-        <translation>always</translation>
+        <translation type="vanished">always</translation>
     </message>
     <message>
         <source>Logs</source>
-        <translation>Logs</translation>
+        <translation type="vanished">Logs</translation>
     </message>
     <message>
         <source>View log</source>
-        <translation>View log</translation>
+        <translation type="vanished">View log</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -11590,10 +11590,14 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Save queries to log</source>
-        <translation>Save queries to log</translation>
+        <translation type="vanished">Save queries to log</translation>
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OS version</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

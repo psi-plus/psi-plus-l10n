@@ -2610,27 +2610,27 @@ Você poderá pré-visualizar os itens antes de remove-los de seu hd.</translati
     <name>ClientSwitcher::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation>Pesquisar: </translation>
+        <translation type="vanished">Pesquisar: </translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation>&amp;Maiúsculas de Minusculas</translation>
+        <translation type="vanished">&amp;Maiúsculas de Minusculas</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation>Primeira página</translation>
+        <translation type="vanished">Primeira página</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation>Página anterior</translation>
+        <translation type="vanished">Página anterior</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation>Próxima página</translation>
+        <translation type="vanished">Próxima página</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation>Última página</translation>
+        <translation type="vanished">Última página</translation>
     </message>
 </context>
 <context>
@@ -2649,7 +2649,7 @@ Você poderá especificar a versão do cliente e Sistema Operacional ou para a l
     </message>
     <message>
         <source>%1 has requested your version</source>
-        <translation>%1 requeriu sua versão</translation>
+        <translation type="vanished">%1 requeriu sua versão</translation>
     </message>
 </context>
 <context>
@@ -11318,7 +11318,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>Geral</translation>
+        <translation type="vanished">Geral</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -11382,39 +11382,39 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Enable for:</source>
-        <translation>Ativar para:</translation>
+        <translation type="vanished">Ativar para:</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation>Contatos</translation>
+        <translation type="vanished">Contatos</translation>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation>Bate-papos em grupos</translation>
+        <translation type="vanished">Bate-papos em grupos</translation>
     </message>
     <message>
         <source>Show popup at version iq</source>
-        <translation>Exibir pop-up na versão iq</translation>
+        <translation type="vanished">Exibir pop-up na versão iq</translation>
     </message>
     <message>
         <source>never</source>
-        <translation>nunca</translation>
+        <translation type="vanished">nunca</translation>
     </message>
     <message>
         <source>if iq replaced</source>
-        <translation>se iq substituído</translation>
+        <translation type="vanished">se iq substituído</translation>
     </message>
     <message>
         <source>always</source>
-        <translation>sempre</translation>
+        <translation type="vanished">sempre</translation>
     </message>
     <message>
         <source>Logs</source>
-        <translation>Registros</translation>
+        <translation type="vanished">Registros</translation>
     </message>
     <message>
         <source>View log</source>
-        <translation>Ver registro</translation>
+        <translation type="vanished">Ver registro</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -11525,11 +11525,11 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
         <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
-        <source>Save queries to log</source>
+        <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
+        <source>OS version</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

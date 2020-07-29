@@ -2584,27 +2584,23 @@ You can preview items before deleting them from your hard drive.</translation>
     <name>ClientSwitcher::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation>Pretraži:</translation>
-    </message>
-    <message>
-        <source>&amp;Case sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Pretraži:</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation>Prva strana</translation>
+        <translation type="vanished">Prva strana</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation>Prethodna strana</translation>
+        <translation type="vanished">Prethodna strana</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation>Sledeća strana</translation>
+        <translation type="vanished">Sledeća strana</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation>Poslednja strana</translation>
+        <translation type="vanished">Poslednja strana</translation>
     </message>
 </context>
 <context>
@@ -2620,10 +2616,6 @@ You can specify the version of the client and OS or to select them from the pres
         <translation>Ovaj dodatak je namenjen za .zamenu verzije klijenta, njegovo ime i tip operativnog sistema
 Možete navesti verziju klijenta i OS ili odabrati ih sa unapred spremljene liste.
 </translation>
-    </message>
-    <message>
-        <source>%1 has requested your version</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11180,7 +11172,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>General</source>
-        <translation>Opšte</translation>
+        <translation type="vanished">Opšte</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -11244,39 +11236,39 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Enable for:</source>
-        <translation>Omogući za:</translation>
+        <translation type="vanished">Omogući za:</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation>Kontakti</translation>
+        <translation type="vanished">Kontakti</translation>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation>Grupni razgovor</translation>
+        <translation type="vanished">Grupni razgovor</translation>
     </message>
     <message>
         <source>Show popup at version iq</source>
-        <translation>Pokaži iskačuće prozore verzije iq</translation>
+        <translation type="vanished">Pokaži iskačuće prozore verzije iq</translation>
     </message>
     <message>
         <source>never</source>
-        <translation>nikad</translation>
+        <translation type="vanished">nikad</translation>
     </message>
     <message>
         <source>if iq replaced</source>
-        <translation>ako je iq zamenjen</translation>
+        <translation type="vanished">ako je iq zamenjen</translation>
     </message>
     <message>
         <source>always</source>
-        <translation>uvek</translation>
+        <translation type="vanished">uvek</translation>
     </message>
     <message>
         <source>Logs</source>
-        <translation>Logovi</translation>
+        <translation type="vanished">Logovi</translation>
     </message>
     <message>
         <source>View log</source>
-        <translation>Pokaži log</translation>
+        <translation type="vanished">Pokaži log</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -11387,11 +11379,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
-        <source>Save queries to log</source>
+        <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
+        <source>OS version</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

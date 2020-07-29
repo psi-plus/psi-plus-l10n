@@ -2602,27 +2602,27 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClientSwitcher::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation>Buscar:</translation>
+        <translation type="vanished">Buscar:</translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation>&amp;Sensible a mayúsculas</translation>
+        <translation type="vanished">&amp;Sensible a mayúsculas</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation>Primera página</translation>
+        <translation type="vanished">Primera página</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation>Página anterior</translation>
+        <translation type="vanished">Página anterior</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation>Próxima página</translation>
+        <translation type="vanished">Próxima página</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation>Última página</translation>
+        <translation type="vanished">Última página</translation>
     </message>
 </context>
 <context>
@@ -2639,7 +2639,7 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
     <message>
         <source>%1 has requested your version</source>
-        <translation>%1 ha solicitado tu versión</translation>
+        <translation type="vanished">%1 ha solicitado tu versión</translation>
     </message>
 </context>
 <context>
@@ -11306,7 +11306,7 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>General</translation>
+        <translation type="vanished">General</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -11370,39 +11370,39 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>Enable for:</source>
-        <translation>Habilitar para:</translation>
+        <translation type="vanished">Habilitar para:</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation>Contactos</translation>
+        <translation type="vanished">Contactos</translation>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation>Salas</translation>
+        <translation type="vanished">Salas</translation>
     </message>
     <message>
         <source>Show popup at version iq</source>
-        <translation>Mostrar ventana emergente al recibir una petición de versión</translation>
+        <translation type="vanished">Mostrar ventana emergente al recibir una petición de versión</translation>
     </message>
     <message>
         <source>never</source>
-        <translation>nunca</translation>
+        <translation type="vanished">nunca</translation>
     </message>
     <message>
         <source>if iq replaced</source>
-        <translation>si se reemplaza el iq</translation>
+        <translation type="vanished">si se reemplaza el iq</translation>
     </message>
     <message>
         <source>always</source>
-        <translation>siempre</translation>
+        <translation type="vanished">siempre</translation>
     </message>
     <message>
         <source>Logs</source>
-        <translation>Registros</translation>
+        <translation type="vanished">Registros</translation>
     </message>
     <message>
         <source>View log</source>
-        <translation>Ver registro</translation>
+        <translation type="vanished">Ver registro</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -11514,10 +11514,14 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>Save queries to log</source>
-        <translation>Guardar consultas a un archivo de trazas</translation>
+        <translation type="vanished">Guardar consultas a un archivo de trazas</translation>
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OS version</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

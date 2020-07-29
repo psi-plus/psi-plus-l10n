@@ -2600,27 +2600,27 @@ Můžete si položky prohlédnout před tím, než je smažete.</translation>
     <name>ClientSwitcher::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation>Hledat: </translation>
+        <translation type="vanished">Hledat: </translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation>&amp;Uvažovat velikost písmen</translation>
+        <translation type="vanished">&amp;Uvažovat velikost písmen</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation>První strana</translation>
+        <translation type="vanished">První strana</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation>Předchozí strana</translation>
+        <translation type="vanished">Předchozí strana</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation>Další strana</translation>
+        <translation type="vanished">Další strana</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation>Poslední strana</translation>
+        <translation type="vanished">Poslední strana</translation>
     </message>
 </context>
 <context>
@@ -2639,7 +2639,7 @@ Můžete nastavit vše ručně, nebo si vybrat některou z předdefinovaných mo
     </message>
     <message>
         <source>%1 has requested your version</source>
-        <translation>%1 se ptá na vaší verzi</translation>
+        <translation type="vanished">%1 se ptá na vaší verzi</translation>
     </message>
 </context>
 <context>
@@ -11280,7 +11280,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>Obecné</translation>
+        <translation type="vanished">Obecné</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -11344,39 +11344,39 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Enable for:</source>
-        <translation>Povoleno pro:</translation>
+        <translation type="vanished">Povoleno pro:</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation>Kontakty</translation>
+        <translation type="vanished">Kontakty</translation>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation>Skupinové chaty</translation>
+        <translation type="vanished">Skupinové chaty</translation>
     </message>
     <message>
         <source>Show popup at version iq</source>
-        <translation>Zobrazit vyskakovácí okno na verzi IQ</translation>
+        <translation type="vanished">Zobrazit vyskakovácí okno na verzi IQ</translation>
     </message>
     <message>
         <source>never</source>
-        <translation>nikdy</translation>
+        <translation type="vanished">nikdy</translation>
     </message>
     <message>
         <source>if iq replaced</source>
-        <translation>v případě výmeny IQ</translation>
+        <translation type="vanished">v případě výmeny IQ</translation>
     </message>
     <message>
         <source>always</source>
-        <translation>vždy</translation>
+        <translation type="vanished">vždy</translation>
     </message>
     <message>
         <source>Logs</source>
-        <translation>Logy</translation>
+        <translation type="vanished">Logy</translation>
     </message>
     <message>
         <source>View log</source>
-        <translation>Zobrazit log</translation>
+        <translation type="vanished">Zobrazit log</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -11488,10 +11488,14 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Save queries to log</source>
-        <translation>Uložit požadavky do logu</translation>
+        <translation type="vanished">Uložit požadavky do logu</translation>
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OS version</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

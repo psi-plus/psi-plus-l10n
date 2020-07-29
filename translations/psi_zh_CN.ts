@@ -2605,27 +2605,27 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClientSwitcher::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation>搜索:</translation>
+        <translation type="vanished">搜索:</translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation>区分大小写(&amp;C)</translation>
+        <translation type="vanished">区分大小写(&amp;C)</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation>第一页</translation>
+        <translation type="vanished">第一页</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation>上一页</translation>
+        <translation type="vanished">上一页</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation>下一页</translation>
+        <translation type="vanished">下一页</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation>最后一页</translation>
+        <translation type="vanished">最后一页</translation>
     </message>
 </context>
 <context>
@@ -2643,7 +2643,7 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
     <message>
         <source>%1 has requested your version</source>
-        <translation>%1需要版本</translation>
+        <translation type="vanished">%1需要版本</translation>
     </message>
 </context>
 <context>
@@ -11334,7 +11334,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>General</source>
-        <translation>通常</translation>
+        <translation type="vanished">通常</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -11398,39 +11398,39 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enable for:</source>
-        <translation>启用:</translation>
+        <translation type="vanished">启用:</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation>联系人</translation>
+        <translation type="vanished">联系人</translation>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation>群聊</translation>
+        <translation type="vanished">群聊</translation>
     </message>
     <message>
         <source>Show popup at version iq</source>
-        <translation>在IQ版本中显示弹出</translation>
+        <translation type="vanished">在IQ版本中显示弹出</translation>
     </message>
     <message>
         <source>never</source>
-        <translation>从不</translation>
+        <translation type="vanished">从不</translation>
     </message>
     <message>
         <source>if iq replaced</source>
-        <translation>如果IQ被取代</translation>
+        <translation type="vanished">如果IQ被取代</translation>
     </message>
     <message>
         <source>always</source>
-        <translation>总是</translation>
+        <translation type="vanished">总是</translation>
     </message>
     <message>
         <source>Logs</source>
-        <translation>日志</translation>
+        <translation type="vanished">日志</translation>
     </message>
     <message>
         <source>View log</source>
-        <translation>查看日志</translation>
+        <translation type="vanished">查看日志</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -11542,10 +11542,14 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Save queries to log</source>
-        <translation>将查询保存到日志中</translation>
+        <translation type="vanished">将查询保存到日志中</translation>
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OS version</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

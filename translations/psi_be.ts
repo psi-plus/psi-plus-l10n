@@ -2594,27 +2594,27 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClientSwitcher::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation>Шукаць: </translation>
+        <translation type="vanished">Шукаць: </translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation>&amp;Улічваць памер літар</translation>
+        <translation type="vanished">&amp;Улічваць памер літар</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation>Першая бачына</translation>
+        <translation type="vanished">Першая бачына</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation>Апошняя бачына</translation>
+        <translation type="vanished">Апошняя бачына</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation>Наступная</translation>
+        <translation type="vanished">Наступная</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation>Папярэдняя</translation>
+        <translation type="vanished">Папярэдняя</translation>
     </message>
 </context>
 <context>
@@ -2633,7 +2633,7 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
     <message>
         <source>%1 has requested your version</source>
-        <translation>%1 запытваецца на вэрсію</translation>
+        <translation type="vanished">%1 запытваецца на вэрсію</translation>
     </message>
 </context>
 <context>
@@ -11274,7 +11274,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>General</source>
-        <translation>Агульнае</translation>
+        <translation type="vanished">Агульнае</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -11338,39 +11338,39 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enable for:</source>
-        <translation>Дзейнічае для:</translation>
+        <translation type="vanished">Дзейнічае для:</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation>суразмоўцаў</translation>
+        <translation type="vanished">суразмоўцаў</translation>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation>Groupchats</translation>
+        <translation type="vanished">Groupchats</translation>
     </message>
     <message>
         <source>Show popup at version iq</source>
-        <translation>Вынырцы па запытах вэрсіі</translation>
+        <translation type="vanished">Вынырцы па запытах вэрсіі</translation>
     </message>
     <message>
         <source>never</source>
-        <translation>ніколі</translation>
+        <translation type="vanished">ніколі</translation>
     </message>
     <message>
         <source>if iq replaced</source>
-        <translation>калі вэрсію замянілі</translation>
+        <translation type="vanished">калі вэрсію замянілі</translation>
     </message>
     <message>
         <source>always</source>
-        <translation>заўжды</translation>
+        <translation type="vanished">заўжды</translation>
     </message>
     <message>
         <source>Logs</source>
-        <translation>Справаздачы</translation>
+        <translation type="vanished">Справаздачы</translation>
     </message>
     <message>
         <source>View log</source>
-        <translation>Зірнуць</translation>
+        <translation type="vanished">Зірнуць</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -11481,11 +11481,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#video_status_changer_plugin&quot;&gt;Вікі (у сеціве)&lt;/a&gt;</translation>
     </message>
     <message>
-        <source>Save queries to log</source>
+        <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
+        <source>OS version</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
