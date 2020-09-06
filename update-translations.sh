@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@yandex.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2020-06-03
+# Updated: 2020-09-06
 # Version: N/A
 
 set -e
@@ -151,7 +151,7 @@ case "${1}" in
     rm ${PATCHES}
 
     cd "${PSIPLUS_DIR}/src"
-    python ../admin/update_options_ts.py ../options/default.xml > \
+    python2 ../admin/update_options_ts.py ../options/default.xml > \
         "${CUR_DIR}/tmp/option_translations.cpp"
     # ending of magical hack
 
