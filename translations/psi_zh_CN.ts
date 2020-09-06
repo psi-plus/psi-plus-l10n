@@ -17669,7 +17669,7 @@ Please correct and try again.</source>
     <name>TipDlg</name>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
-        <translation type="vanished">你可以选择多个表情图标图标集, 在选项对话框中指定他们使用的优先级。</translation>
+        <translation>你可以选择多个表情图标图标集, 在选项对话框中指定他们使用的优先级。</translation>
     </message>
     <message>
         <source>You can use multiple useful shortcuts while typing chat messages:&lt;br&gt;
@@ -17681,7 +17681,7 @@ Please correct and try again.</source>
 &lt;li&gt;Ctrl+U to clear edit buffer&lt;/li&gt;
 &lt;li&gt;Ctrl+PgUp/PgDn to scroll chat view&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation type="vanished">当你在输入对话信息时, 你可以使用许多有用的快捷键:&lt;br&gt;
+        <translation>当你在输入对话信息时, 你可以使用许多有用的快捷键:&lt;br&gt;
 &lt;ul&gt;
 &lt;li&gt;按 Ctrl+Enter 来发送信息&lt;/li&gt;
 &lt;li&gt;按 Ctrl+M 来换行&lt;/li&gt;
@@ -17701,7 +17701,7 @@ And these work only in groupchat dialog:
 &lt;ul&gt;
 &lt;li&gt;&quot;/nick &amp;lt;new_nickname&amp;gt;&quot; to change your nickname&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation type="vanished">你可以在对话及群组对话框中下达以下特殊指令:
+        <translation>你可以在对话及群组对话框中下达以下特殊指令:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; 清除对话窗口内容&lt;/li&gt;
 &lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; &apos;/me&apos; 由你的昵称替代&lt;/li&gt;
@@ -17713,51 +17713,51 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation type="vanished">你知道你可以注册多个XMPP账户与PSI吗？是否可以从你的个人账户分开工作，可以。如果你是一个超级用户，在不稳定的服务器上测试最新的一个XMPP特性，你可以做到 - 在没有第二个客户端连接到您的服务器稳定运行。只要在“帐户设置”屏幕中单击“添加”。</translation>
+        <translation>你知道你可以注册多个XMPP账户与PSI吗？是否可以从你的个人账户分开工作，可以。如果你是一个超级用户，在不稳定的服务器上测试最新的一个XMPP特性，你可以做到 - 在没有第二个客户端连接到您的服务器稳定运行。只要在“帐户设置”屏幕中单击“添加”。</translation>
     </message>
     <message>
         <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="vanished">你想在第三方IM网络聊天，如AIM和ICQ？尝试启用“传输特定的图标”选项。这将允许你快速地看一眼你的好友正在使用哪个网络。然后你就可以说服他切换到XMPP。&lt;icon name=&quot;psi/smile&quot;&gt;</translation>
+        <translation>你想在第三方IM网络聊天，如AIM和ICQ？尝试启用“传输特定的图标”选项。这将允许你快速地看一眼你的好友正在使用哪个网络。然后你就可以说服他切换到XMPP。&lt;icon name=&quot;psi/smile&quot;&gt;</translation>
     </message>
     <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
-        <translation type="vanished">你知道你可以在账号设置对话框中启用/停用账号吗? 这对你很少在使用的账号是满有用的, 如此一来它不会弄乱你的名单。</translation>
+        <translation>你知道你可以在账号设置对话框中启用/停用账号吗? 这对你很少在使用的账号是满有用的, 如此一来它不会弄乱你的名单。</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
-        <translation type="vanished">不喜欢那些按钮的位置吗?  想要一个改变状态到离开的快捷键吗?  请尝试设置工具栏，它可以从工具栏右键菜单中找到。  你甚至可以让工具浮动显示!</translation>
+        <translation>不喜欢那些按钮的位置吗?  想要一个改变状态到离开的快捷键吗?  请尝试设置工具栏，它可以从工具栏右键菜单中找到。  你甚至可以让工具浮动显示!</translation>
     </message>
     <message>
         <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation type="vanished">你知道Psi是一个唯一的XMPP客户端，可让您连接到多个服务器在同一时间？你应该知道“mrcool@jabber.org”给你的朋友，“John.J.Smith_the_fourth@ mycompany.com”业务联营。</translation>
+        <translation>你知道Psi是一个唯一的XMPP客户端，可让您连接到多个服务器在同一时间？你应该知道“mrcool@jabber.org”给你的朋友，“John.J.Smith_the_fourth@ mycompany.com”业务联营。</translation>
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
-        <translation type="vanished">你是从Gadu-Gadu或Trillian跑过来的而且想念那些酷的表情图标吗?  别紧张, 我们早有准备!  看看 &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt;, 有一大堆的 &quot;图标集&quot; 可以加到Psi里。让Psi有你想要的样子!</translation>
+        <translation>你是从Gadu-Gadu或Trillian跑过来的而且想念那些酷的表情图标吗?  别紧张, 我们早有准备!  看看 &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt;, 有一大堆的 &quot;图标集&quot; 可以加到Psi里。让Psi有你想要的样子!</translation>
     </message>
     <message>
         <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will &quot;perform the default action&quot; on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
-        <translation type="vanished">你知道在许多 Psi 的对象中, 单击中键 (3键鼠标中间那个按键) 会 &quot;执行默认的行动&quot; 吗?  在联系人上或弹出窗口上按按看中键吧。</translation>
+        <translation>你知道在许多 Psi 的对象中, 单击中键 (3键鼠标中间那个按键) 会 &quot;执行默认的行动&quot; 吗?  在联系人上或弹出窗口上按按看中键吧。</translation>
     </message>
     <message>
         <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation type="vanished">为了从不同的IM网络添加联系人，你要从你的XMPP服务器添加相应的代理。看一下Psi菜单 - &gt;服务发现。</translation>
+        <translation>为了从不同的IM网络添加联系人，你要从你的XMPP服务器添加相应的代理。看一下Psi菜单 - &gt;服务发现。</translation>
     </message>
     <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
-        <translation type="vanished">您可以用鼠标右键单击服务器名称名册中执行不同的行动。您可以更改状态，修改帐户设置，执行管理选项(如果您有权限)，以及更多。</translation>
+        <translation>您可以用鼠标右键单击服务器名称名册中执行不同的行动。您可以更改状态，修改帐户设置，执行管理选项(如果您有权限)，以及更多。</translation>
     </message>
     <message>
         <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
 &lt;br&gt;&lt;br&gt;
 Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation type="vanished">寻找一个运输或聊天室，但你的服务器提供没有适当的吗？使用PSI菜单 - &gt;服务发现看&lt;i&gt;a任何&lt;/i&gt; 的XMPP服务器很好的服务，通过在地址栏键入其领域。
+        <translation>寻找一个运输或聊天室，但你的服务器提供没有适当的吗？使用PSI菜单 - &gt;服务发现看&lt;i&gt;a任何&lt;/i&gt; 的XMPP服务器很好的服务，通过在地址栏键入其领域。
 - 
 注:有些服务器可能会禁止车辆登记用户从不同的服务器上，但是这是不常见的。</translation>
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
-        <translation type="vanished">如果你在群聊里聊天缺口完成相当频繁，是一个非常宝贵的功能。最有用的快捷键为&lt;tt&gt;标签标签&lt; / tt&gt;的新线开始使用时，或后一步插入谁最后直接解决你的人的绰号。然后，您可以继续按&lt;TT&gt;标签&lt; / tt&gt;的，它会循环上所有的人都在房间里的刻痕时对于较复杂的方案: &lt;TT&gt; mblsha &lt; / TT &gt; ，即&lt;tt&gt;怪物&lt;/ TT &gt;和&lt;tt&gt; MBL革命&lt;/ tt&gt;的都坐在同一个房间里。如果你写入&lt;TT&gt;米&lt; / TT &gt;按&lt;TT&gt;标签&lt;/ tt&gt;中也不会造成任何明显的行动。这是因为有多个缺口，开始使用&lt;tt&gt; M &lt; / TT &gt; ，你可以继续为&lt;tt&gt;标签&lt; / tt&gt;的所有开始使用&lt;tt&gt;米的缺口，通过循环&lt;/ P &gt;写字母越多，直到有一个独特的完成。当你按在&lt;tt&gt; B &lt; / tt&gt;的按钮，然后按&lt;TT&gt;标签&lt;/ P &gt;完成到&lt;tt&gt; MBL &lt; / TT &gt;。越多，您使用此功能，你越有可能来喜欢它，依赖它。有人尝试缺口完成，你就会意识到它是多么强大。</translation>
+        <translation>如果你在群聊里聊天缺口完成相当频繁，是一个非常宝贵的功能。最有用的快捷键为&lt;tt&gt;标签标签&lt; / tt&gt;的新线开始使用时，或后一步插入谁最后直接解决你的人的绰号。然后，您可以继续按&lt;TT&gt;标签&lt; / tt&gt;的，它会循环上所有的人都在房间里的刻痕时对于较复杂的方案: &lt;TT&gt; mblsha &lt; / TT &gt; ，即&lt;tt&gt;怪物&lt;/ TT &gt;和&lt;tt&gt; MBL革命&lt;/ tt&gt;的都坐在同一个房间里。如果你写入&lt;TT&gt;米&lt; / TT &gt;按&lt;TT&gt;标签&lt;/ tt&gt;中也不会造成任何明显的行动。这是因为有多个缺口，开始使用&lt;tt&gt; M &lt; / TT &gt; ，你可以继续为&lt;tt&gt;标签&lt; / tt&gt;的所有开始使用&lt;tt&gt;米的缺口，通过循环&lt;/ P &gt;写字母越多，直到有一个独特的完成。当你按在&lt;tt&gt; B &lt; / tt&gt;的按钮，然后按&lt;TT&gt;标签&lt;/ P &gt;完成到&lt;tt&gt; MBL &lt; / TT &gt;。越多，您使用此功能，你越有可能来喜欢它，依赖它。有人尝试缺口完成，你就会意识到它是多么强大。</translation>
     </message>
     <message>
         <source>This is the last tip.
@@ -17767,7 +17767,7 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>Contributed by</source>
-        <translation type="vanished">贡献者</translation>
+        <translation>贡献者</translation>
     </message>
     <message>
         <source>Hello! Thank you for downloading Psi!
@@ -17780,6 +17780,19 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;如果你想要下载另一个语言的翻译, 图标集或新版的 Psi, 那么你需要造访&lt;a href=&quot;https://psi-im.org&quot;&gt;Psi 首页&lt;/a&gt;。
 &lt;br&gt;&lt;br&gt;如果你想说你发现了一个漏洞或是你想要和其他 Psi 使用者对话, 那么请造访&lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi 论坛&lt;/a&gt;。
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;Psi 团队&lt;/i&gt;&lt;/div&gt;</translation>
+    </message>
+    <message>
+        <source>Hello! Thank you for downloading Psi!
+We hope that you will enjoy using it as we have enjoyed making it!
+&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is the last tip.
+&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

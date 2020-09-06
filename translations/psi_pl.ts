@@ -17276,7 +17276,7 @@ Please correct and try again.</source>
     <name>TipDlg</name>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
-        <translation type="vanished">Możesz korzystać jednocześnie z wielu zestawów emotikon i zmieniać ich priorytety przy użyciu okna &lt;b&gt;Preferencji&lt;/b&gt; (Psi|Preferencje).</translation>
+        <translation>Możesz korzystać jednocześnie z wielu zestawów emotikon i zmieniać ich priorytety przy użyciu okna &lt;b&gt;Preferencji&lt;/b&gt; (Psi|Preferencje).</translation>
     </message>
     <message>
         <source>You can use multiple useful shortcuts while typing chat messages:&lt;br&gt;
@@ -17288,7 +17288,7 @@ Please correct and try again.</source>
 &lt;li&gt;Ctrl+U to clear edit buffer&lt;/li&gt;
 &lt;li&gt;Ctrl+PgUp/PgDn to scroll chat view&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation type="vanished">Możesz używać różnych użytecznych skrótów klawiszowych podczas prowadzenia rozmów:&lt;br&gt;
+        <translation>Możesz używać różnych użytecznych skrótów klawiszowych podczas prowadzenia rozmów:&lt;br&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;i&gt;Alt-S&lt;/i&gt;, &lt;i&gt;Ctrl-Enter&lt;/i&gt; albo &lt;i&gt;Enter&lt;/i&gt;, aby wysłać wiadomość,&lt;/li&gt;
 &lt;li&gt;&lt;i&gt;Ctrl-M&lt;/i&gt; albo &lt;i&gt;Shift-Enter&lt;/i&gt;, aby wstawić znak końca linii,&lt;/li&gt;
@@ -17310,7 +17310,7 @@ And these work only in groupchat dialog:
 &lt;ul&gt;
 &lt;li&gt;&quot;/nick &amp;lt;new_nickname&amp;gt;&quot; to change your nickname&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation type="vanished">W trakcie prowadzenia rozmów oraz prowadzenia konferencji działają następujące specjalne polecenia:
+        <translation>W trakcie prowadzenia rozmów oraz prowadzenia konferencji działają następujące specjalne polecenia:
 &lt;dl&gt;
 &lt;dt&gt;/clear&lt;/dt&gt;
 &lt;dd&gt;czyści okno rozmowy&lt;/dd&gt;
@@ -17325,27 +17325,27 @@ Poniższe polecenie działa jedynie w trakcie prowadzenia konferencji:
     </message>
     <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
-        <translation type="vanished">Czy wiesz, że możesz używać pól wyboru w &lt;b&gt;Konfiguracji kont&lt;/b&gt; aby włączać i wyłączać konta? To może być przydatne w sytuacji, gdy posiadasz konta z których rzadko korzystasz, a nie chcesz aby zaśmiecały Ci listę kontaktów.</translation>
+        <translation>Czy wiesz, że możesz używać pól wyboru w &lt;b&gt;Konfiguracji kont&lt;/b&gt; aby włączać i wyłączać konta? To może być przydatne w sytuacji, gdy posiadasz konta z których rzadko korzystasz, a nie chcesz aby zaśmiecały Ci listę kontaktów.</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
-        <translation type="vanished">Nie podoba Ci się położenie przycisków? Chcesz mieć przycisk do zmiany Twojego stanu na Nieobecny? Sprawdź &lt;b&gt;Konfigurację paska narzędzi&lt;/b&gt;. która jest dostępna w menu kontekstowym paska narzędzi. Możesz nawet mieć pływający pasek narzędzi!</translation>
+        <translation>Nie podoba Ci się położenie przycisków? Chcesz mieć przycisk do zmiany Twojego stanu na Nieobecny? Sprawdź &lt;b&gt;Konfigurację paska narzędzi&lt;/b&gt;. która jest dostępna w menu kontekstowym paska narzędzi. Możesz nawet mieć pływający pasek narzędzi!</translation>
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
-        <translation type="vanished">Zmieniłeś swój komunikator z Gadu-Gadu, Tlena, czy ICQ? Brakuje Ci ulubionych emotikon? Nie martw się, już o tym pomyśleliśmy! Sprawdź stronę &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; aby znaleźć setki zestawów ikon, które mogą być wykorzystane w Psi tak, abyś czuł się jak w starym komunikatorze. Dodatkowo, instalator Psi dla Windows zawiera kilka najpopularniejszych zestawów emotikon, tak byś nie musiał ich poszukiwać!</translation>
+        <translation>Zmieniłeś swój komunikator z Gadu-Gadu, Tlena, czy ICQ? Brakuje Ci ulubionych emotikon? Nie martw się, już o tym pomyśleliśmy! Sprawdź stronę &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; aby znaleźć setki zestawów ikon, które mogą być wykorzystane w Psi tak, abyś czuł się jak w starym komunikatorze. Dodatkowo, instalator Psi dla Windows zawiera kilka najpopularniejszych zestawów emotikon, tak byś nie musiał ich poszukiwać!</translation>
     </message>
     <message>
         <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will &quot;perform the default action&quot; on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
-        <translation type="vanished">Czy wiesz że kliknięcie środkowym przyciskiem (przy użyciu odpowiedniego przycisku lub rolki myszki) wykona &lt;i&gt;domyślną akcję&lt;/i&gt; dla wielu obiektów w Psi? Spróbuj środkowych kliknięć na kontakcie lub okienku komunikatu.</translation>
+        <translation>Czy wiesz że kliknięcie środkowym przyciskiem (przy użyciu odpowiedniego przycisku lub rolki myszki) wykona &lt;i&gt;domyślną akcję&lt;/i&gt; dla wielu obiektów w Psi? Spróbuj środkowych kliknięć na kontakcie lub okienku komunikatu.</translation>
     </message>
     <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
-        <translation type="vanished">Możesz kliknąć prawym przyciskiem na nazwie serwera (lub konta) w liście kontaktów, aby móc wykonać różne czynności. Możesz zmieniać status, modyfikować właściwości konta, wykonywać pewne czynności administracyjne (jeśli masz do tego uprawnienia) a nawet więcej.</translation>
+        <translation>Możesz kliknąć prawym przyciskiem na nazwie serwera (lub konta) w liście kontaktów, aby móc wykonać różne czynności. Możesz zmieniać status, modyfikować właściwości konta, wykonywać pewne czynności administracyjne (jeśli masz do tego uprawnienia) a nawet więcej.</translation>
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
-        <translation type="vanished">Jeżeli dosyć często uczestniczysz w konferencjach, uzupełnianie pseudonimów na pewno Ci się przyda. Najprzydatniejszym skrótem jest &lt;tt&gt;Tab-Tab&lt;/tt&gt;, który użyty na początku linii lub po spacji wstawia pseudonim osoby, do której się ostatnio odzywałeś. Możesz również naciskać &lt;tt&gt;Tab&lt;/tt&gt; by przechodzić w pętli po pseudonimach wszystkich osób na konferencji.&lt;br/&gt;&lt;br/&gt;Przykładowy scenariusz: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; oraz &lt;tt&gt;mbl-revolution&lt;/tt&gt; znajdują się w jednym pokoju konferencyjnym. Jeśli wpiszesz &lt;tt&gt;m&lt;/tt&gt; i naciśniesz &lt;tt&gt;Tab&lt;/tt&gt;, to nie zauważysz żadnej reakcji, jednak ponieważ jest kilka pseudonimów zaczynających się od &lt;tt&gt;m&lt;/tt&gt;, to możesz naciskać &lt;tt&gt;Tab&lt;/tt&gt; aby przechodzić po wszystkich pseudonimach zaczynających się od &lt;tt&gt;m&lt;/tt&gt; albo dopisać dalsze litery do momentu uzyskania jednoznaczego dopasowania. Jeśli więc dopiszesz &lt;tt&gt;b&lt;/tt&gt;, a potem naciśniesz &lt;tt&gt;Tab&lt;/tt&gt;, to uzyskasz uzupełnienie pseudonimu do &lt;tt&gt;mbl&lt;/tt&gt;. Im więcej będziesz korzystać z tej funkcjonalności, tym bardziej Ci się będzie ona podobać i więcej będziez na niej polegać. Spróbuj uzupełniania pseudonimów i wkrótce przekonasz się jak potężnym jest narzędziem.</translation>
+        <translation>Jeżeli dosyć często uczestniczysz w konferencjach, uzupełnianie pseudonimów na pewno Ci się przyda. Najprzydatniejszym skrótem jest &lt;tt&gt;Tab-Tab&lt;/tt&gt;, który użyty na początku linii lub po spacji wstawia pseudonim osoby, do której się ostatnio odzywałeś. Możesz również naciskać &lt;tt&gt;Tab&lt;/tt&gt; by przechodzić w pętli po pseudonimach wszystkich osób na konferencji.&lt;br/&gt;&lt;br/&gt;Przykładowy scenariusz: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; oraz &lt;tt&gt;mbl-revolution&lt;/tt&gt; znajdują się w jednym pokoju konferencyjnym. Jeśli wpiszesz &lt;tt&gt;m&lt;/tt&gt; i naciśniesz &lt;tt&gt;Tab&lt;/tt&gt;, to nie zauważysz żadnej reakcji, jednak ponieważ jest kilka pseudonimów zaczynających się od &lt;tt&gt;m&lt;/tt&gt;, to możesz naciskać &lt;tt&gt;Tab&lt;/tt&gt; aby przechodzić po wszystkich pseudonimach zaczynających się od &lt;tt&gt;m&lt;/tt&gt; albo dopisać dalsze litery do momentu uzyskania jednoznaczego dopasowania. Jeśli więc dopiszesz &lt;tt&gt;b&lt;/tt&gt;, a potem naciśniesz &lt;tt&gt;Tab&lt;/tt&gt;, to uzyskasz uzupełnienie pseudonimu do &lt;tt&gt;mbl&lt;/tt&gt;. Im więcej będziesz korzystać z tej funkcjonalności, tym bardziej Ci się będzie ona podobać i więcej będziez na niej polegać. Spróbuj uzupełniania pseudonimów i wkrótce przekonasz się jak potężnym jest narzędziem.</translation>
     </message>
     <message>
         <source>This is the last tip.
@@ -17354,7 +17354,42 @@ Poniższe polecenie działa jedynie w trakcie prowadzenia konferencji:
     </message>
     <message>
         <source>Contributed by</source>
-        <translation type="vanished">Nadesłane przez</translation>
+        <translation>Nadesłane przez</translation>
+    </message>
+    <message>
+        <source>Hello! Thank you for downloading Psi!
+We hope that you will enjoy using it as we have enjoyed making it!
+&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
+&lt;br&gt;&lt;br&gt;
+Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is the last tip.
+&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

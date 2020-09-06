@@ -16847,7 +16847,7 @@ Rätta och försök igen.</translation>
     <name>TipDlg</name>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
-        <translation type="vanished">Du kan välja flera emotikon-ikonuppsättningar, och ge dem prioriteter i inställningsdialogen.</translation>
+        <translation>Du kan välja flera emotikon-ikonuppsättningar, och ge dem prioriteter i inställningsdialogen.</translation>
     </message>
     <message>
         <source>You can use multiple useful shortcuts while typing chat messages:&lt;br&gt;
@@ -16859,7 +16859,7 @@ Rätta och försök igen.</translation>
 &lt;li&gt;Ctrl+U to clear edit buffer&lt;/li&gt;
 &lt;li&gt;Ctrl+PgUp/PgDn to scroll chat view&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation type="vanished">Du kan använda olika praktiska genvägar när du skriver chattmeddelanden:&lt;br&gt;
+        <translation>Du kan använda olika praktiska genvägar när du skriver chattmeddelanden:&lt;br&gt;
 &lt;ul&gt;
 &lt;li&gt;Ctrl+Enter för att skicka meddelandet&lt;/li&gt;
 &lt;li&gt;Ctrl+M för att lägga till ny-radstecknet&lt;/li&gt;
@@ -16879,7 +16879,7 @@ And these work only in groupchat dialog:
 &lt;ul&gt;
 &lt;li&gt;&quot;/nick &amp;lt;new_nickname&amp;gt;&quot; to change your nickname&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation type="vanished">Du kan skriva de här specialkommandona i chattar och gruppchattdialoger:
+        <translation>Du kan skriva de här specialkommandona i chattar och gruppchattdialoger:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; för att rensa chattvyn&lt;/li&gt;
 &lt;li&gt;&quot;/me &amp;lt;meddelande&amp;gt;&quot; &apos;/me&apos; byts mot ditt smeknamn&lt;/li&gt;
@@ -16892,27 +16892,27 @@ Dessa  funkar bara i gruppchattdialogen:
     </message>
     <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
-        <translation type="vanished">Visste du att du kan använda kryssrutorna i Kontoinställningarna för att slå på/av konton? Det kan vara bra om du har ett konto du använder sällan, så att det inte gör din kontaktlista onödigt stor.</translation>
+        <translation>Visste du att du kan använda kryssrutorna i Kontoinställningarna för att slå på/av konton? Det kan vara bra om du har ett konto du använder sällan, så att det inte gör din kontaktlista onödigt stor.</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
-        <translation type="vanished">Är knapparna på fel plats? Vill du ha ett snabbt sätt att ändra status till Borta? Titta i fönstret Konfigurerra verktygsrader, som du når via verkrtygsradens kontextmeny. Du kan till och med göra flytande verktygsrader!</translation>
+        <translation>Är knapparna på fel plats? Vill du ha ett snabbt sätt att ändra status till Borta? Titta i fönstret Konfigurerra verktygsrader, som du når via verkrtygsradens kontextmeny. Du kan till och med göra flytande verktygsrader!</translation>
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
-        <translation type="vanished">Har du tidigare använd Gadu Gadu eller Trillian och saknar de häftiga emotikonerna? Var inte ledsen, vi fixar det! Kolla på &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; för massor av ikonuppsättningar du kan stoppa in i Psi för att få den att se ut som du vill!</translation>
+        <translation>Har du tidigare använd Gadu Gadu eller Trillian och saknar de häftiga emotikonerna? Var inte ledsen, vi fixar det! Kolla på &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; för massor av ikonuppsättningar du kan stoppa in i Psi för att få den att se ut som du vill!</translation>
     </message>
     <message>
         <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will &quot;perform the default action&quot; on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
-        <translation type="vanished">Visste du att ett mellanklick (mellanknappen på möss med 3 knappar) betyder &quot;utför standardhandlingen&quot; på många saker i Psi? Testa att mellanklicka på en kontakt eller ett extrafönster.</translation>
+        <translation>Visste du att ett mellanklick (mellanknappen på möss med 3 knappar) betyder &quot;utför standardhandlingen&quot; på många saker i Psi? Testa att mellanklicka på en kontakt eller ett extrafönster.</translation>
     </message>
     <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
-        <translation type="vanished">Du kan högerklicka på servernamnet i din kontaktlista för att göra många olika saker - du kan byta status, ändra kontoinställningar eller utföra administrativa uppgifter (om du har rättigheter).</translation>
+        <translation>Du kan högerklicka på servernamnet i din kontaktlista för att göra många olika saker - du kan byta status, ändra kontoinställningar eller utföra administrativa uppgifter (om du har rättigheter).</translation>
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
-        <translation type="vanished">Om du ofta använder gruppchat så är automatkomplettering av smeknamn en ovärderlig finess. De mest användbara genvägarna är &lt;tt&gt;Tab-Tab&lt;/tt&gt;; först på raden eller efter på en ny rad stoppar det in smeknamnet av den som sist skrev direkt till dig. Du kan sedan fortsätta och trycka &lt;tt&gt;Tab&lt;/tt&gt; så snurrar et igenom smeknamnen för alla i rummet.&lt;br/&gt;&lt;br/&gt;För ett mer komplicerat scenario:&lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; och &lt;tt&gt;mbl-revolution&lt;/tt&gt; är alla i samma rum. Om du skriver &lt;tt&gt;m&lt;/tt&gt; och trycker &lt;tt&gt;Tab&lt;/tt&gt; så händer inget särskilt. Det är för att det finns flera smeknamn som börjar på &lt;tt&gt;m&lt;/tt&gt; och du kan antingen fortsätta med &lt;tt&gt;Tab&lt;/tt&gt; för att snurra genom alla smeknamn som börjar med &lt;tt&gt;m&lt;/tt&gt; eller skriva fler bokstäver tills det finns en unik komplettering. Om du trycker &lt;tt&gt;b&lt;/tt&gt; och sedan &lt;tt&gt;Tab&lt;/tt&gt; ska den komplettera till &lt;tt&gt;mbl&lt;/tt&gt;. Ju mer du använder denna finess, desto troligare är det att du lär dig gilla och bero på den. Testa att komplettera någons namn så förstår du hur kraftfullt det är.</translation>
+        <translation>Om du ofta använder gruppchat så är automatkomplettering av smeknamn en ovärderlig finess. De mest användbara genvägarna är &lt;tt&gt;Tab-Tab&lt;/tt&gt;; först på raden eller efter på en ny rad stoppar det in smeknamnet av den som sist skrev direkt till dig. Du kan sedan fortsätta och trycka &lt;tt&gt;Tab&lt;/tt&gt; så snurrar et igenom smeknamnen för alla i rummet.&lt;br/&gt;&lt;br/&gt;För ett mer komplicerat scenario:&lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; och &lt;tt&gt;mbl-revolution&lt;/tt&gt; är alla i samma rum. Om du skriver &lt;tt&gt;m&lt;/tt&gt; och trycker &lt;tt&gt;Tab&lt;/tt&gt; så händer inget särskilt. Det är för att det finns flera smeknamn som börjar på &lt;tt&gt;m&lt;/tt&gt; och du kan antingen fortsätta med &lt;tt&gt;Tab&lt;/tt&gt; för att snurra genom alla smeknamn som börjar med &lt;tt&gt;m&lt;/tt&gt; eller skriva fler bokstäver tills det finns en unik komplettering. Om du trycker &lt;tt&gt;b&lt;/tt&gt; och sedan &lt;tt&gt;Tab&lt;/tt&gt; ska den komplettera till &lt;tt&gt;mbl&lt;/tt&gt;. Ju mer du använder denna finess, desto troligare är det att du lär dig gilla och bero på den. Testa att komplettera någons namn så förstår du hur kraftfullt det är.</translation>
     </message>
     <message>
         <source>This is the last tip.
@@ -16922,7 +16922,42 @@ Dessa  funkar bara i gruppchattdialogen:
     </message>
     <message>
         <source>Contributed by</source>
-        <translation type="vanished">Inskickat av</translation>
+        <translation>Inskickat av</translation>
+    </message>
+    <message>
+        <source>Hello! Thank you for downloading Psi!
+We hope that you will enjoy using it as we have enjoyed making it!
+&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
+&lt;br&gt;&lt;br&gt;
+Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is the last tip.
+&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

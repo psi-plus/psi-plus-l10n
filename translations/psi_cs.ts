@@ -17592,7 +17592,7 @@ Opravte ho a zkuste to znovu.</translation>
     <name>TipDlg</name>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
-        <translation type="vanished">Můžeš si vybrat několik různých sad smajlíků a nastavit jim různé priority v konfiguračním dialogu.</translation>
+        <translation>Můžeš si vybrat několik různých sad smajlíků a nastavit jim různé priority v konfiguračním dialogu.</translation>
     </message>
     <message>
         <source>You can use multiple useful shortcuts while typing chat messages:&lt;br&gt;
@@ -17604,7 +17604,7 @@ Opravte ho a zkuste to znovu.</translation>
 &lt;li&gt;Ctrl+U to clear edit buffer&lt;/li&gt;
 &lt;li&gt;Ctrl+PgUp/PgDn to scroll chat view&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation type="vanished">Při psaní zpráv můžeš použít mnoho užitečných zkratek:&lt;br&gt;
+        <translation>Při psaní zpráv můžeš použít mnoho užitečných zkratek:&lt;br&gt;
 &lt;ul&gt;
 &lt;li&gt;Ctrl+Enter odešle zprávu&lt;/li&gt;
 &lt;li&gt;Ctrl+M přidá do zprávy nový řádek&lt;/li&gt;
@@ -17624,7 +17624,7 @@ And these work only in groupchat dialog:
 &lt;ul&gt;
 &lt;li&gt;&quot;/nick &amp;lt;new_nickname&amp;gt;&quot; to change your nickname&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation type="vanished">V oknech chatu a skupinového chatu je možné používat tyto speciální příkazy:
+        <translation>V oknech chatu a skupinového chatu je možné používat tyto speciální příkazy:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; pro vymazání okna&lt;/li&gt;
 &lt;li&gt;&quot;/me &amp;lt;zpráva&amp;gt;&quot; &apos;/me&apos; bude nahrazeno vaší přezdívkou&lt;/li&gt;
@@ -17636,27 +17636,27 @@ Následující funguje pouze v okně groupchatu:
     </message>
     <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
-        <translation type="vanished">Víš že můžeš pomocí zaškrtávacích políček v dialogu pro konfiguraci účtů vypínat a zapínat jednotlivé účty? To může být užitečné, pokud některé účty používáš zřídka a zbytečně zabírají místo na obrazovce.</translation>
+        <translation>Víš že můžeš pomocí zaškrtávacích políček v dialogu pro konfiguraci účtů vypínat a zapínat jednotlivé účty? To může být užitečné, pokud některé účty používáš zřídka a zbytečně zabírají místo na obrazovce.</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
-        <translation type="vanished">Nelíbí se ti tlačítka tam, kde jsou?  Chceš tlačítko pro rychlou změnu stavu na &quot;Pryč&quot;?  Podívej se do okna &quot;Konfigurovat panely nástrojů&quot;, které je dostupné přes kontextové menu panelů nástrojů.  Můžeš dokonce vytvořit plovoucí nástrojový panel!</translation>
+        <translation>Nelíbí se ti tlačítka tam, kde jsou?  Chceš tlačítko pro rychlou změnu stavu na &quot;Pryč&quot;?  Podívej se do okna &quot;Konfigurovat panely nástrojů&quot;, které je dostupné přes kontextové menu panelů nástrojů.  Můžeš dokonce vytvořit plovoucí nástrojový panel!</translation>
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
-        <translation type="vanished">Přecházíš z Gadu-Gadu nebo Trillianu a schází ti skvělé emotikony?  Neboj se, můžeš přejít!  Koukni na &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; na &quot;tuny&quot; sad s ikonami, které mohou být přidany do Psi pro vytvoření vzhledu, jaký se ti líbí!</translation>
+        <translation>Přecházíš z Gadu-Gadu nebo Trillianu a schází ti skvělé emotikony?  Neboj se, můžeš přejít!  Koukni na &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; na &quot;tuny&quot; sad s ikonami, které mohou být přidany do Psi pro vytvoření vzhledu, jaký se ti líbí!</translation>
     </message>
     <message>
         <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will &quot;perform the default action&quot; on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
-        <translation type="vanished">Věděl(a) jsi, že prostřední klik (prostřední tlačítko na třítlačítkové myši) &quot;vykonává výchozí akci&quot; na mnoha objektech v Psi?  Zkus prostřední klik na kontakt nebo na vyskakovací okno.</translation>
+        <translation>Věděl(a) jsi, že prostřední klik (prostřední tlačítko na třítlačítkové myši) &quot;vykonává výchozí akci&quot; na mnoha objektech v Psi?  Zkus prostřední klik na kontakt nebo na vyskakovací okno.</translation>
     </message>
     <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
-        <translation type="vanished">Můžeš provést pravý klik na jméno serveru v seznamu pro provádění různých akcí.  Můžeš změnit stav, upravit nastavení účtu, provést administrátorské volby (pokud máš práva) a další.</translation>
+        <translation>Můžeš provést pravý klik na jméno serveru v seznamu pro provádění různých akcí.  Můžeš změnit stav, upravit nastavení účtu, provést administrátorské volby (pokud máš práva) a další.</translation>
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
-        <translation type="vanished">Pokud často používáš skupinový chat, je doplňování přezdívky tabulátorem neocenitelná vlastnost. Nejužitečnější zkratka je &lt;tt&gt;Tab-Tab&lt;/tt&gt;; pokud ji použiješ na začátku řádku nebo po mezeře, vloží se přezdívka toho, kdo na tebe naposledy promluvil. Pak můžeš pokračovat v mačkání &lt;tt&gt;Tab&lt;/tt&gt; a procházet tak postupně přezdívky všech lidí v místnosti.&lt;br/&gt;&lt;br/&gt;Trochu komplikovanější příklad: &lt;tt&gt;Petr&lt;/tt&gt;, &lt;tt&gt;Pavel&lt;/tt&gt;, a &lt;tt&gt;Pavla&lt;/tt&gt; jsou ve stejné místnosti. Pokud napíšeš &lt;tt&gt;p&lt;/tt&gt; a stiskneš &lt;tt&gt;Tab&lt;/tt&gt;, nestane se nic zajímavého. Je to tím, že máme víc přezdívek začínajících písmenem &lt;tt&gt;p&lt;/tt&gt;. Můžete buď znovu zmáčknout &lt;tt&gt;Tab&lt;/tt&gt; a procházet přezdívkami začínajícími písmenem &lt;tt&gt;p&lt;/tt&gt; nebo doplnit další písmena, aby bylo doplnění jednoznačné. Pokud dopíšeš písmeno &lt;tt&gt;a&lt;/tt&gt; a stiskneš &lt;tt&gt;Tab&lt;/tt&gt;, přezdívka se doplní na &lt;tt&gt;Pav&lt;/tt&gt;. Čím víc tuto funkci budeš používat, tím spíš se ti začne líbit a budeš na ni spoléhat. Zkus doplňování přezdívky a uvidíš, jak mocná funkce to je.</translation>
+        <translation>Pokud často používáš skupinový chat, je doplňování přezdívky tabulátorem neocenitelná vlastnost. Nejužitečnější zkratka je &lt;tt&gt;Tab-Tab&lt;/tt&gt;; pokud ji použiješ na začátku řádku nebo po mezeře, vloží se přezdívka toho, kdo na tebe naposledy promluvil. Pak můžeš pokračovat v mačkání &lt;tt&gt;Tab&lt;/tt&gt; a procházet tak postupně přezdívky všech lidí v místnosti.&lt;br/&gt;&lt;br/&gt;Trochu komplikovanější příklad: &lt;tt&gt;Petr&lt;/tt&gt;, &lt;tt&gt;Pavel&lt;/tt&gt;, a &lt;tt&gt;Pavla&lt;/tt&gt; jsou ve stejné místnosti. Pokud napíšeš &lt;tt&gt;p&lt;/tt&gt; a stiskneš &lt;tt&gt;Tab&lt;/tt&gt;, nestane se nic zajímavého. Je to tím, že máme víc přezdívek začínajících písmenem &lt;tt&gt;p&lt;/tt&gt;. Můžete buď znovu zmáčknout &lt;tt&gt;Tab&lt;/tt&gt; a procházet přezdívkami začínajícími písmenem &lt;tt&gt;p&lt;/tt&gt; nebo doplnit další písmena, aby bylo doplnění jednoznačné. Pokud dopíšeš písmeno &lt;tt&gt;a&lt;/tt&gt; a stiskneš &lt;tt&gt;Tab&lt;/tt&gt;, přezdívka se doplní na &lt;tt&gt;Pav&lt;/tt&gt;. Čím víc tuto funkci budeš používat, tím spíš se ti začne líbit a budeš na ni spoléhat. Zkus doplňování přezdívky a uvidíš, jak mocná funkce to je.</translation>
     </message>
     <message>
         <source>This is the last tip.
@@ -17666,7 +17666,42 @@ Následující funguje pouze v okně groupchatu:
     </message>
     <message>
         <source>Contributed by</source>
-        <translation type="vanished">Zaslal</translation>
+        <translation>Zaslal</translation>
+    </message>
+    <message>
+        <source>Hello! Thank you for downloading Psi!
+We hope that you will enjoy using it as we have enjoyed making it!
+&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
+&lt;br&gt;&lt;br&gt;
+Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is the last tip.
+&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
