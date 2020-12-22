@@ -4180,31 +4180,35 @@ Tùy chọn này chỉ có hiệu lực nếu giá trị chấp nhận mặc đ�
     </message>
     <message>
         <source>Show status icons on tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiển thị trạng thái icon trên tab</translation>
+    </message>
+    <message>
+        <source>Hide tab when close chat window</source>
+        <translation type="vanished">Ẩn tab khi đóng cửa sổ trò chuyện</translation>
     </message>
     <message>
         <source>Allow closing inactive tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Cho phép đóng các tab không hoạt động</translation>
     </message>
     <message>
         <source>Action for mouse middle click on tabs:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hành động nhập giữa chuột trên tab</translation>
     </message>
     <message>
         <source>Action for mouse double click on tabs:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hành động nhập đúp chuột trên tab</translation>
     </message>
     <message>
         <source>Enable windows flashing</source>
-        <translation type="unfinished"></translation>
+        <translation>Bật tính năng cửa sổ nhấp nháy</translation>
     </message>
     <message>
         <source>Enable &quot;Single Account&quot; mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Bất chế độ &quot;Single Account&quot;</translation>
     </message>
     <message>
         <source>Enable XML-console on login</source>
-        <translation type="unfinished"></translation>
+        <translation>Bật XML-console khi đăng nhập</translation>
     </message>
     <message>
         <source>Enable last activity server</source>
@@ -4630,7 +4634,7 @@ Lý do : %3</translation>
     </message>
     <message>
         <source>&amp;Open Containing Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Mở thư mục chứa</translation>
     </message>
     <message>
         <source>Cl&amp;ear</source>
@@ -4641,7 +4645,7 @@ Lý do : %3</translation>
     <name>FileTransferHandler</name>
     <message>
         <source>Querying proxy...</source>
-        <translation type="unfinished"></translation>
+        <translation>Truy vấn proxy...</translation>
     </message>
     <message>
         <source>Proxy query successful.</source>
@@ -5636,7 +5640,7 @@ Bạn đã thua!</translation>
     <name>GetTextDlg</name>
     <message>
         <source>Enter text</source>
-        <translation type="unfinished"></translation>
+        <translation>Nhập văn bản</translation>
     </message>
     <message>
         <source>Select Font</source>
@@ -5646,12 +5650,24 @@ Bạn đã thua!</translation>
 <context>
     <name>GmailNotifyPlugin</name>
     <message>
+        <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
+        <translation type="vanished">&lt;b&gt;mail.google.com - thư đến&lt;/b&gt;</translation>
+    </message>
+    <message>
         <source>Choose a sound file</source>
         <translation type="vanished">Chọn tập tin âm thanh</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
         <translation type="vanished">Âm thanh (*.wav)</translation>
+    </message>
+    <message>
+        <source>Choose a program</source>
+        <translation type="vanished">Chọn một chương trình</translation>
+    </message>
+    <message>
+        <source>Block gmail contact</source>
+        <translation type="vanished">Chặn liên lạc gmail</translation>
     </message>
     <message>
         <source>Authors: </source>
@@ -5839,11 +5855,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiểu tin nhắn nhóm trò chuyện</translation>
     </message>
     <message>
         <source>Configure your groupchat theme here</source>
-        <translation type="unfinished"></translation>
+        <translation>Cấu hình chủ đề nhóm trò chuyện tại đây</translation>
     </message>
 </context>
 <context>
@@ -5854,7 +5870,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>Ẩn</translation>
     </message>
     <message>
         <source>&amp;Create New...</source>
@@ -5873,7 +5889,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>GroupchatTopicDlg</name>
     <message>
         <source>Set Groupchat Topic</source>
-        <translation type="unfinished"></translation>
+        <translation>Đặt chủ đề trò chuyện nhóm</translation>
     </message>
     <message>
         <source>Any Language</source>
@@ -5896,11 +5912,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Nghiêng</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Gạch dưới</translation>
     </message>
     <message>
         <source>Strike Out</source>
@@ -5908,11 +5924,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Text Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Màu văn bản</translation>
     </message>
     <message>
         <source>Background Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Màu nền</translation>
     </message>
     <message>
         <source>Font</source>
@@ -8834,11 +8850,11 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Action for mouse middle click on tabs:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hành động nhập giữa chuột trên tab</translation>
     </message>
     <message>
         <source>Action for mouse double click on tabs:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hành động nhập đúp chuột trên tab</translation>
     </message>
     <message>
         <source>Record and share audio message</source>
