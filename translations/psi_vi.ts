@@ -89,12 +89,24 @@
         <translation>Các thành viên tích cực:</translation>
     </message>
     <message>
+        <source>Founder, Patcher and MS Windows Packager</source>
+        <translation type="vanished">Người sáng lập, Người vá lỗi và đóng gói MS Windows</translation>
+    </message>
+    <message>
         <source>Founder and Lead Patcher</source>
         <translation>Nhà sáng lập và vá lỗi</translation>
     </message>
     <message>
         <source>Patcher and Plugins Writer</source>
         <translation>Tác giả bản vá lỗi và trình cắm</translation>
+    </message>
+    <message>
+        <source>Ubuntu Packager</source>
+        <translation type="vanished">Nhà đóng gói Ubuntu</translation>
+    </message>
+    <message>
+        <source>Mandriva Linux Packager</source>
+        <translation type="vanished">Nhà đóng gói Mandriva Linux</translation>
     </message>
     <message>
         <source>Psimedia Patcher and Wiki English localization</source>
@@ -185,8 +197,12 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; để biết thêm chi tiế
         <translation>https://psi-im.org</translation>
     </message>
     <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cross-platform XMPP client aimed at experienced users.&lt;br/&gt;&lt;br/&gt;Copyright © 2001-2020 The Psi Team.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ứng dụng máy khách XMPP đa nền tảng hướng đến người dùng có kinh nghiệm.&lt;br/&gt;&lt;br/&gt;Bản quyền © 2001-2020 Nhóm Psi.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
         <source>Past Lead Widget Developer</source>
-        <translation type="unfinished">Nhà phát triển tiện ích trước</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Developer and Maintainer</source>
@@ -198,7 +214,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; để biết thêm chi tiế
     </message>
     <message>
         <source>Founder, Patcher and former MS Windows Packager</source>
-        <translation type="unfinished">Nhà sáng lập, vá lỗi và Cựu đóng gói MS Windows</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Founder, Patcher and former Designer</source>
@@ -235,10 +251,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; để biết thêm chi tiế
     <message>
         <source>Patcher and former Russian translator</source>
         <translation>Nhà vá lỗi và Cựu biên dịch Nga ngữ</translation>
-    </message>
-    <message>
-        <source>psi/logo_48</source>
-        <translation type="vanished">psi/logo_48</translation>
     </message>
     <message>
         <source>About Psi</source>
@@ -339,11 +351,11 @@ Bấm vào &lt;b&gt;Đăng ký tài khoản mới&lt;/b&gt; hộp chọn nếu b
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;No accounts created. To create account please click the Add button.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Không có tài khoản nào được tạo. Để tạo tài khoản, vui lòng nhấp vào nút Thêm.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>psi/options</source>
-        <translation type="unfinished"></translation>
+        <translation>psi/tùy chọn</translation>
     </message>
 </context>
 <context>
@@ -389,7 +401,7 @@ Bấm vào &lt;b&gt;Đăng ký tài khoản mới&lt;/b&gt; hộp chọn nếu b
     </message>
     <message>
         <source>XMPP Address:</source>
-        <translation type="unfinished">Địa chỉ XMPP:</translation>
+        <translation>Địa chỉ XMPP:</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -413,7 +425,7 @@ Bấm vào &lt;b&gt;Đăng ký tài khoản mới&lt;/b&gt; hộp chọn nếu b
     </message>
     <message>
         <source>Restore last status</source>
-        <translation type="unfinished"></translation>
+        <translation>Khôi phục trạng thái cuối cùng</translation>
     </message>
     <message>
         <source>Automatically reconnect if disconnected</source>
@@ -541,7 +553,7 @@ Bấm vào &lt;b&gt;Đăng ký tài khoản mới&lt;/b&gt; hộp chọn nếu b
     </message>
     <message>
         <source>Data Transfer</source>
-        <translation type="unfinished"></translation>
+        <translation>Truyền dữ liệu</translation>
     </message>
     <message>
         <source>In-Band only (slow)</source>
@@ -1366,6 +1378,14 @@ There was an error getting the Service ID translation information from &quot;%1&
         <translation>Bạn đã gửi tin nhắn Chú ý đến %1</translation>
     </message>
     <message>
+        <source>Author: </source>
+        <translation type="vanished">Tác giả:</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="vanished">Email: </translation>
+    </message>
+    <message>
         <source>This plugin is designed to send and receive special messages such as Attentions.
 To work correctly, the plugin requires that the client of the other part supports XEP-0224 (for example: Pidgin, Miranda IM with Nudge plugin).</source>
         <translation>Trình cắm này được thiết kế để gửi và nhận các tin nhắn đặc biệt như Chú ý (Attentions).
@@ -1431,7 +1451,7 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Enable if status is:</source>
-        <translation type="unfinished">Bật nếu trạng thái là:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Auto Reply Message:</source>
@@ -1470,6 +1490,14 @@ To work correctly, the plugin requires that the client of the other part support
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#autoreply_plugin&quot;&gt;Wiki (Trực tuyến)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>Author: </source>
+        <translation type="vanished">Tác giả:</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="vanished">Email: </translation>
     </message>
     <message>
         <source>This plugin acts as an auto-answering machine. It has a number of simple configuration options, which you can use to:
@@ -1794,6 +1822,17 @@ Dùng gửi lệnh, tin nhắn thông thường, trình cắm này luôn hoạt 
     </message>
 </context>
 <context>
+    <name>CaptchaFormsPlugin</name>
+    <message>
+        <source>Author: </source>
+        <translation type="vanished">Tác giả:</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="vanished">Email: </translation>
+    </message>
+</context>
+<context>
     <name>CertificateDisplay</name>
     <message>
         <source>Certificate Information</source>
@@ -1960,7 +1999,7 @@ Lý do: %1</translation>
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation type="vanished">Bật/tắt mã hóa</translation>
+        <translation type="vanished">Bật/tắt mật mã</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -2134,7 +2173,7 @@ chơi Cờ Vua. Người chơi đi %2.</translation>
     </message>
     <message>
         <source>Chess Plugin</source>
-        <translation type="unfinished">Trình cắm Cờ Vua</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Chess!</source>
@@ -2172,7 +2211,7 @@ chơi Cờ Vua. Người chơi đi %2.</translation>
     </message>
     <message>
         <source>Chess Plugin: Invitation from %1</source>
-        <translation type="unfinished">Chơi Cờ Vua: Lời mời từ %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -2181,6 +2220,14 @@ chơi Cờ Vua. Người chơi đi %2.</translation>
     <message>
         <source>Sound (*.wav)</source>
         <translation>Âm thanh (*.wav)</translation>
+    </message>
+    <message>
+        <source>Author: </source>
+        <translation type="vanished">Tác giả:</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="vanished">Email: </translation>
     </message>
     <message>
         <source>This plugin allows you to play chess with your friends.
@@ -2408,6 +2455,14 @@ Trình cắm tương thích với Tkabber.
         <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#cleaner_plugin&quot;&gt;Wiki (Trực tuyến)&lt;/a&gt;</translation>
     </message>
     <message>
+        <source>Author: </source>
+        <translation type="vanished">Tác giả:</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="vanished">Email: </translation>
+    </message>
+    <message>
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
 You can preview items before deleting them from your hard drive.</source>
         <translation>Trình cắm này dùng để xóa bộ nhớ tạm hình đại diện, lưu bản sao lưu vCards và nhật ký trên máy.
@@ -2470,7 +2525,7 @@ Bạn có thể xem trước khi xóa hoàn toàn khỏi ổ cứng.</translatio
     <name>ClearingViewer</name>
     <message>
         <source>Check</source>
-        <translation></translation>
+        <translation>Chọn</translation>
     </message>
     <message>
         <source>Uncheck</source>
@@ -2482,14 +2537,39 @@ Bạn có thể xem trước khi xóa hoàn toàn khỏi ổ cứng.</translatio
     </message>
 </context>
 <context>
+    <name>ClientSwitcher::TypeAheadFindBar</name>
+    <message>
+        <source>Search: </source>
+        <translation type="vanished">Tìm kiếm:</translation>
+    </message>
+    <message>
+        <source>First page</source>
+        <translation type="vanished">Trang đầu</translation>
+    </message>
+    <message>
+        <source>Previous page</source>
+        <translation type="vanished">Trang trước</translation>
+    </message>
+    <message>
+        <source>Next page</source>
+        <translation type="vanished">Trang kế</translation>
+    </message>
+    <message>
+        <source>Last page</source>
+        <translation type="vanished">Trang cuối</translation>
+    </message>
+</context>
+<context>
     <name>ClientSwitcherPlugin</name>
+    <message>
+        <source>Authors: </source>
+        <translation type="vanished">Tác giả:</translation>
+    </message>
     <message>
         <source>The plugin is intended for substitution of the client version, his name and operating system type.
 You can specify the version of the client and OS or to select them from the preset list.
 </source>
-        <translation type="unfinished">Trình cắm được thiết kế để thay thế ứng dụng máy khách, tên và hệ điều hành.
-Bạn có thể chỉ định phiên bản của máy khách và hệ điều hành hoặc chọn từ danh sách có sẵn.
-</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2507,7 +2587,7 @@ Bạn có thể chỉ định phiên bản của máy khách và hệ điều h�
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished">&amp;Thận trọng</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>First page</source>
@@ -2557,6 +2637,14 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
 Nhật ký trò chuyện nhóm có thể xem được từ thiết lập trình cắm hoặc bằng cách nhấp vào nút thích hợp trên thanh công cụ cửa sổ / tab đang hoạt động với nhóm trò chuyện.
 
 Lưu ý: Để hoạt động chính xác, Thanh công cụ trò chuyện nhóm phải được bật.</translation>
+    </message>
+    <message>
+        <source>Author: </source>
+        <translation type="vanished">Tác giả:</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="vanished">Email: </translation>
     </message>
 </context>
 <context>
@@ -2945,6 +3033,10 @@ Tiếp tục?</translation>
 <context>
     <name>ContentDownloader</name>
     <message>
+        <source>Author: </source>
+        <translation type="vanished">Tác giả:</translation>
+    </message>
+    <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation>Trình cắm này giúp bạn dễ dàng tải xuống và cài đặt các bộ biểu tượng cũng như các tài nguyên khác cho Psi.</translation>
     </message>
@@ -3267,7 +3359,7 @@ Tiếp tục?</translation>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="unfinished">Nhóm trò chuyện</translation>
+        <translation>Nhóm trò chuyện</translation>
     </message>
     <message>
         <source>Always play sound</source>
@@ -3350,6 +3442,10 @@ Tiếp tục?</translation>
 </context>
 <context>
     <name>EnumMessagesPlugin</name>
+    <message>
+        <source>Authors: </source>
+        <translation type="vanished">Tác giả:</translation>
+    </message>
     <message>
         <source>Missed messages: %1</source>
         <translation>Tin nhắn bị nhỡ: %1</translation>
@@ -3653,6 +3749,14 @@ Nếu bạn muốn xác nhận yêu cầu này, vui lòng nhấn nút Xác nhậ
         <translation>Thời gian qui chiếu</translation>
     </message>
     <message>
+        <source>Author: </source>
+        <translation type="vanished">Tác giả:</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="vanished">Email: </translation>
+    </message>
+    <message>
         <source>This plugin adds several additional commands into contacts context menu.</source>
         <translation>Trình cắm này thêm một số lệnh bổ sung vào menu ngữ cảnh của danh bạ.</translation>
     </message>
@@ -3669,7 +3773,7 @@ Nếu bạn muốn xác nhận yêu cầu này, vui lòng nhấn nút Xác nhậ
     </message>
     <message>
         <source>Roster</source>
-        <translation type="unfinished">Danh sách</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Menu</source>
@@ -4062,6 +4166,14 @@ Tùy chọn này chỉ có hiệu lực nếu giá trị chấp nhận mặc đ�
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Author: </source>
+        <translation type="vanished">Tác giả:</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="vanished">Email: </translation>
     </message>
     <message>
         <source>This plugin is designed to allow easy configuration of some advanced options in Psi.
@@ -4837,7 +4949,7 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="vanished">Gọi thoại</translation>
+        <translation type="vanished">Gói thoại</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
@@ -5287,8 +5399,8 @@ Bạn đã thua!</translation>
         <translation>Trục xoay:</translation>
     </message>
     <message>
-        <source>Trục xoay GPS (direction in which the entity is heading to reach its next waypoint), measured in decimal degrees relative to true north</source>
-        <translation type="vanished">GPS xoay trục (hướng mà thực thể đang hướng tới điểm tham chiếu tiếp theo), được đo bằng độ thập phân so với hướng bắc thực</translation>
+        <source>GPS bearing (direction in which the entity is heading to reach its next waypoint), measured in decimal degrees relative to true north</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Building:</source>
@@ -5414,10 +5526,6 @@ Bạn đã thua!</translation>
         <source>Cancel</source>
         <translation>Hủy</translation>
     </message>
-    <message>
-        <source>GPS bearing (direction in which the entity is heading to reach its next waypoint), measured in decimal degrees relative to true north</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>GetPassDlg</name>
@@ -5486,6 +5594,10 @@ Bạn đã thua!</translation>
         <source>Sound (*.wav)</source>
         <translation type="vanished">Âm thanh (*.wav)</translation>
     </message>
+    <message>
+        <source>Authors: </source>
+        <translation type="vanished">Tác giả:</translation>
+    </message>
 </context>
 <context>
     <name>Gnome3StatusWatcher</name>
@@ -5496,6 +5608,13 @@ Bạn đã thua!</translation>
     <message>
         <source>This plugin is designed to add support of GNOME 3 presence status changes</source>
         <translation>Trình cắm này được thiết kế để thêm hỗ trợ các thay đổi trạng thái của GNOME 3</translation>
+    </message>
+</context>
+<context>
+    <name>GnuPG</name>
+    <message>
+        <source>Author: </source>
+        <translation type="vanished">Tác giả:</translation>
     </message>
 </context>
 <context>
@@ -5524,6 +5643,14 @@ chơi gomoku. Người này muốn chơi %2.</translation>
     <message>
         <source>Sound (*.wav)</source>
         <translation>Âm thanh (*.wav)</translation>
+    </message>
+    <message>
+        <source>Author: </source>
+        <translation type="vanished">Tác giả:</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="vanished">Email: </translation>
     </message>
     <message>
         <source>This plugin allows you to play gomoku with your friends.
@@ -5623,7 +5750,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished">Gởi</translation>
+        <translation>Gởi</translation>
     </message>
 </context>
 <context>
@@ -5730,7 +5857,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished">Cài lại</translation>
+        <translation>Cài lại</translation>
     </message>
 </context>
 <context>
@@ -5753,7 +5880,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>deleted</source>
-        <translation type="unfinished">đã xóa</translation>
+        <translation>đã xóa</translation>
     </message>
 </context>
 <context>
@@ -5864,7 +5991,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>deleted</source>
-        <translation type="unfinished">đã xóa</translation>
+        <translation>đã xóa</translation>
     </message>
     <message>
         <source>%1 of %2 matches</source>
@@ -5929,6 +6056,14 @@ Tiếp tục?</translation>
     <message>
         <source>Clear history on exit</source>
         <translation>Xóa lịch sử khi thoát</translation>
+    </message>
+    <message>
+        <source>Author: </source>
+        <translation type="vanished">Tác giả:</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="vanished">Email: </translation>
     </message>
     <message>
         <source>This plugin is designed to remove the history of selected contacts when the Psi is closed.
@@ -6354,6 +6489,13 @@ Bạn có thể chọn hoặc bỏ chọn một liên lạc để xóa lịch s�
     </message>
 </context>
 <context>
+    <name>IcqDie</name>
+    <message>
+        <source>Author: </source>
+        <translation type="vanished">Tác giả:</translation>
+    </message>
+</context>
+<context>
     <name>ImagePlugin</name>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -6377,7 +6519,7 @@ Bạn có thể chọn hoặc bỏ chọn một liên lạc để xóa lịch s�
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg *.ico)</source>
-        <translation type="unfinished">Hình ảnh (*.png *.gif *.jpg *.jpeg *.ico)</translation>
+        <translation>Hình ảnh (*.png *.gif *.jpg *.jpeg *.ico)</translation>
     </message>
     <message>
         <source>The image size is too large.</source>
@@ -6390,6 +6532,10 @@ Bạn có thể chọn hoặc bỏ chọn một liên lạc để xóa lịch s�
     <message>
         <source>Image %1 bytes received.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authors: </source>
+        <translation type="vanished">Tác giả:</translation>
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
@@ -6408,6 +6554,10 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 </context>
 <context>
     <name>ImagePreviewPlugin</name>
+    <message>
+        <source>Author: </source>
+        <translation type="vanished">Tác giả:</translation>
+    </message>
     <message>
         <source>512 Kb</source>
         <translation type="unfinished"></translation>
@@ -6721,7 +6871,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished">Chi tiết</translation>
+        <translation>Chi tiết</translation>
     </message>
 </context>
 <context>
@@ -6836,7 +6986,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished">Gởi</translation>
+        <translation>Gởi</translation>
     </message>
     <message>
         <source>Jabber Disk - %1</source>
@@ -6900,7 +7050,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn có chắc?</translation>
     </message>
     <message>
         <source>Input Dir Name</source>
@@ -6920,6 +7070,14 @@ to play battleship. He wants to play %2.</source>
     <message>
         <source>Jabber Disk</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Author: </source>
+        <translation type="vanished">Tác giả:</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="vanished">Email: </translation>
     </message>
     <message>
         <source>Treat some jids as services implementing Jabber Disk protocol and handle your files with them.</source>
@@ -7005,6 +7163,10 @@ caching avatars will be not available</source>
     <message>
         <source>Add to favorites</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authors: </source>
+        <translation type="vanished">Tác giả:</translation>
     </message>
     <message>
         <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
@@ -7305,11 +7467,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Add to bookmarks</source>
-        <translation type="unfinished">Thêm đánh dấu</translation>
+        <translation>Thêm đánh dấu</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Bỏ</translation>
     </message>
 </context>
 <context>
@@ -7391,7 +7553,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">Lưu</translation>
+        <translation>Lưu</translation>
     </message>
     <message>
         <source>Ok</source>
@@ -7567,6 +7729,10 @@ Nga, Tambov, 2005 (denis@silversoft.net)</translation>
 <context>
     <name>MessageFilter</name>
     <message>
+        <source>Author: </source>
+        <translation type="vanished">Tác giả:</translation>
+    </message>
+    <message>
         <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7684,7 +7850,7 @@ Details: %1</source>
     <name>MucInfo</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Hộp thoại</translation>
+        <translation>Hộp thoại</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -7696,11 +7862,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Tên:</translation>
+        <translation>Tên:</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished">Mô tả:</translation>
+        <translation>Mô tả:</translation>
     </message>
 </context>
 <context>
@@ -7735,19 +7901,19 @@ Details: %1</source>
     </message>
     <message>
         <source>%1d</source>
-        <translation type="unfinished">%1d</translation>
+        <translation type="unfinished">%1. {1d?}</translation>
     </message>
     <message>
         <source>%1h</source>
-        <translation type="unfinished">%1h</translation>
+        <translation type="unfinished">%1. {1h?}</translation>
     </message>
     <message>
         <source>%1m</source>
-        <translation type="unfinished">%1m</translation>
+        <translation type="unfinished">%1. {1m?}</translation>
     </message>
     <message>
         <source>%1s</source>
-        <translation type="unfinished">%1s</translation>
+        <translation type="unfinished">%1. {1s?}</translation>
     </message>
     <message>
         <source>%1 remaining</source>
@@ -7766,7 +7932,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished">Gởi</translation>
+        <translation>Gởi</translation>
     </message>
     <message>
         <source>%1 File(s)</source>
@@ -7858,7 +8024,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">Lưu</translation>
+        <translation>Lưu</translation>
     </message>
     <message>
         <source>Close window</source>
@@ -7909,7 +8075,7 @@ Tags: %1</source>
     <message>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
-        <translation type="unfinished">Gặp lỗi khi thử ký trạng thái của bạn.
+        <translation>Gặp lỗi khi thử ký trạng thái của bạn.
 Lý do : %1.</translation>
     </message>
 </context>
@@ -7964,26 +8130,26 @@ Lý do : %1.</translation>
     <name>OpenPgpPluginNamespace::GpgProcess</name>
     <message>
         <source>Can&apos;t start </source>
-        <translation type="unfinished">Không thể bắt đầu</translation>
+        <translation>Không thể bắt đầu</translation>
     </message>
     <message>
         <source>GnuPG program not found</source>
-        <translation type="unfinished">Không tìm thất chương trình GnuPG</translation>
+        <translation>Không tìm thất chương trình GnuPG</translation>
     </message>
 </context>
 <context>
     <name>OpenPgpPluginNamespace::PGPKeyDlg</name>
     <message>
         <source>&amp;Diagnostics</source>
-        <translation type="unfinished">Chẩn đ&amp;oán</translation>
+        <translation>Chẩn đ&amp;oán</translation>
     </message>
     <message>
         <source>Key ID</source>
-        <translation type="unfinished">ID khoá</translation>
+        <translation>ID khoá</translation>
     </message>
     <message>
         <source>User ID</source>
-        <translation type="unfinished">ID người dùng</translation>
+        <translation>ID người dùng</translation>
     </message>
     <message>
         <source>GnuPG info</source>
@@ -7991,11 +8157,11 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Lỗi</translation>
+        <translation>Lỗi</translation>
     </message>
     <message>
         <source>Please select a key.</source>
-        <translation type="unfinished">Hãy chọn một khoá.</translation>
+        <translation>Hãy chọn một khoá.</translation>
     </message>
 </context>
 <context>
@@ -8432,11 +8598,11 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Show status changes</source>
-        <translation type="unfinished">Hiển thị các thay đổi trạng thái</translation>
+        <translation>Hiển thị các thay đổi trạng thái</translation>
     </message>
     <message>
         <source>Show status with priority</source>
-        <translation type="unfinished">Hiển thị trạng thái với mức độ ưu tiên</translation>
+        <translation>Hiển thị trạng thái với mức độ ưu tiên</translation>
     </message>
 </context>
 <context>
@@ -8538,7 +8704,7 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="unfinished">Tự động viết hoa chữ cái đầu tiên trong câu</translation>
+        <translation>Tự động viết hoa chữ cái đầu tiên trong câu</translation>
     </message>
 </context>
 <context>
@@ -8597,7 +8763,7 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished">Thẻ Tabs</translation>
+        <translation>Thẻ Tabs</translation>
     </message>
     <message>
         <source>Action for mouse middle click on tabs:</source>
@@ -8735,7 +8901,7 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Avatar size:</source>
-        <translation type="unfinished">Cỡ hình đại diện:</translation>
+        <translation>Cỡ hình đại diện:</translation>
     </message>
     <message>
         <source>Durations, sec.</source>
@@ -8798,7 +8964,7 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>GeoLocation</source>
-        <translation type="unfinished">Vị trí địa lý</translation>
+        <translation>Vị trí địa lý</translation>
     </message>
     <message>
         <source>Show moods in roster</source>
@@ -8814,7 +8980,7 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="unfinished">Hình đại diện</translation>
+        <translation>Hình đại diện</translation>
     </message>
     <message>
         <source>Show activities in roster</source>
@@ -8866,11 +9032,11 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Place avatars at left</source>
-        <translation type="unfinished">Đặt hình đại diện bên trái</translation>
+        <translation>Đặt hình đại diện bên trái</translation>
     </message>
     <message>
         <source>Place status icon over avatar</source>
-        <translation type="unfinished">Đặt biểu tượng trạng thái trên hình đại diện</translation>
+        <translation>Đặt biểu tượng trạng thái trên hình đại diện</translation>
     </message>
 </context>
 <context>
@@ -8921,7 +9087,7 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="unfinished">Hình đại diện</translation>
+        <translation>Hình đại diện</translation>
     </message>
     <message>
         <source>Avatar settings</source>
@@ -8949,7 +9115,7 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Place groupchat roster at left</source>
-        <translation type="unfinished">Đặt danh sách nhóm trò chuyện bên trái</translation>
+        <translation>Đặt danh sách nhóm trò chuyện bên trái</translation>
     </message>
 </context>
 <context>
@@ -9338,7 +9504,7 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     </message>
     <message>
         <source>Clear Birthdays Cache</source>
-        <translation type="unfinished">Xóa Ngày sinh lưu tạm</translation>
+        <translation>Xóa Ngày sinh lưu tạm</translation>
     </message>
     <message>
         <source>Check Birthdays</source>
@@ -9406,11 +9572,11 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     </message>
     <message>
         <source>Import</source>
-        <translation type="unfinished">Nhập</translation>
+        <translation>Nhập</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished">Xuất</translation>
+        <translation>Xuất</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -9434,7 +9600,7 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished">Giây</translation>
+        <translation>Giây</translation>
     </message>
     <message>
         <source>Disable popups if status is DND</source>
@@ -9454,7 +9620,7 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     </message>
     <message>
         <source>Activity</source>
-        <translation type="unfinished">Hoạt động</translation>
+        <translation>Hoạt động</translation>
     </message>
     <message>
         <source>Geolocation</source>
@@ -9462,7 +9628,7 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     </message>
     <message>
         <source>Sound:</source>
-        <translation type="unfinished">Âm thanh:</translation>
+        <translation>Âm thanh:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -9498,7 +9664,7 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     </message>
     <message>
         <source>Owner</source>
-        <translation type="unfinished">Chủ sở hữu</translation>
+        <translation>Chủ sở hữu</translation>
     </message>
     <message>
         <source>Admin</source>
@@ -9506,7 +9672,7 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     </message>
     <message>
         <source>Member</source>
-        <translation type="unfinished">Thành viên</translation>
+        <translation>Thành viên</translation>
     </message>
     <message>
         <source>None</source>
@@ -9546,15 +9712,15 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     </message>
     <message>
         <source>View Log</source>
-        <translation type="unfinished">Xem nhật ký</translation>
+        <translation>Xem nhật ký</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished">Cài lại</translation>
+        <translation>Cài lại</translation>
     </message>
     <message>
         <source>Send maximum</source>
-        <translation type="unfinished">Gởi tối đa</translation>
+        <translation>Gởi tối đa</translation>
     </message>
     <message>
         <source>times</source>
@@ -9562,11 +9728,11 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     </message>
     <message>
         <source>Timeout to reset counter:</source>
-        <translation type="unfinished">Thời hạn đặt lại bộ đếm:</translation>
+        <translation>Thời hạn đặt lại bộ đếm:</translation>
     </message>
     <message>
         <source>min.</source>
-        <translation type="unfinished">tối thiểu.</translation>
+        <translation>tối thiểu.</translation>
     </message>
     <message>
         <source>Log blocked messages to contact&apos;s history</source>
@@ -9591,7 +9757,7 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     </message>
     <message>
         <source>Delete selected</source>
-        <translation type="unfinished">Xóa được chọn</translation>
+        <translation>Xóa được chọn</translation>
     </message>
     <message>
         <source>Add row</source>
@@ -9747,7 +9913,7 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     </message>
     <message>
         <source>Select &amp;Key...</source>
-        <translation type="unfinished">Chọn &amp;khoá...</translation>
+        <translation>Chọn &amp;khoá...</translation>
     </message>
     <message>
         <source>Configuration</source>
@@ -9791,7 +9957,7 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     </message>
     <message>
         <source>&amp;Diagnostics</source>
-        <translation type="unfinished">Chẩn đ&amp;oán</translation>
+        <translation>Chẩn đ&amp;oán</translation>
     </message>
     <message>
         <source>Known Keys</source>
@@ -9799,7 +9965,7 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Tài khoản</translation>
+        <translation>Tài khoản</translation>
     </message>
     <message>
         <source>User</source>
@@ -9807,7 +9973,7 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     </message>
     <message>
         <source>Key ID</source>
-        <translation type="unfinished">ID khoá</translation>
+        <translation>ID khoá</translation>
     </message>
     <message>
         <source>Fingerprint</source>
@@ -9839,7 +10005,7 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     </message>
     <message>
         <source>User ID</source>
-        <translation type="unfinished">ID người dùng</translation>
+        <translation>ID người dùng</translation>
     </message>
     <message>
         <source>gpg-agent configuration</source>
@@ -9863,7 +10029,7 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Cảnh báo</translation>
+        <translation>Cảnh báo</translation>
     </message>
     <message>
         <source>Attempt to save gpg-agent config is failed! Check that you have write permission for file:
@@ -10277,7 +10443,7 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     <name>OptionsTabIconsetActivity</name>
     <message>
         <source>Activity</source>
-        <translation type="unfinished">Hoạt động</translation>
+        <translation>Hoạt động</translation>
     </message>
     <message>
         <source>Select your activity iconset</source>
@@ -10458,11 +10624,11 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     </message>
     <message>
         <source>About plugin</source>
-        <translation type="unfinished">Trình cắm</translation>
+        <translation>Trình cắm</translation>
     </message>
     <message>
         <source>Authors</source>
-        <translation type="unfinished">Tác giả</translation>
+        <translation>Tác giả</translation>
     </message>
     <message>
         <source>Plugin Path</source>
@@ -10484,7 +10650,7 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     <name>OptionsTabRoster</name>
     <message>
         <source>Roster</source>
-        <translation type="unfinished">Danh sách</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Roster options</source>
@@ -10495,7 +10661,7 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     <name>OptionsTabRosterMain</name>
     <message>
         <source>Roster</source>
-        <translation type="unfinished">Danh sách</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Roster window options</source>
@@ -10834,6 +11000,14 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Groupchats</source>
+        <translation type="vanished">Nhóm trò chuyện</translation>
+    </message>
+    <message>
+        <source>never</source>
+        <translation type="vanished">Không bao giờ</translation>
+    </message>
+    <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10863,7 +11037,7 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     </message>
     <message>
         <source>Capture the desktop</source>
-        <translation type="unfinished">Chụp desktop</translation>
+        <translation>Chụp desktop</translation>
     </message>
     <message>
         <source>Capture active window</source>
@@ -10871,7 +11045,7 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     </message>
     <message>
         <source>Select capture area</source>
-        <translation type="unfinished">Chọn vùng chụp</translation>
+        <translation>Chọn vùng chụp</translation>
     </message>
     <message>
         <source>Servers:</source>
@@ -11083,6 +11257,14 @@ Hãy gõ vào dưới đây cụm từ mật khẩu:</translation>
         <translation>Âm thanh (*.wav)</translation>
     </message>
     <message>
+        <source>Author: </source>
+        <translation type="vanished">Tác giả:</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="vanished">Email: </translation>
+    </message>
+    <message>
         <source>This plugin shows popup notifications when users from your roster changes their mood, tune or activity.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11148,7 +11330,7 @@ Hãy gõ vào dưới đây cụm từ mật khẩu:</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished">Thoát</translation>
+        <translation>Thoát</translation>
     </message>
     <message>
         <source>Skin</source>
@@ -11164,11 +11346,11 @@ Hãy gõ vào dưới đây cụm từ mật khẩu:</translation>
     </message>
     <message>
         <source>Load game</source>
-        <translation type="unfinished">Tải trò chơi</translation>
+        <translation>Tải trò chơi</translation>
     </message>
     <message>
         <source>Save game</source>
-        <translation type="unfinished">Lưu lại trò chơi</translation>
+        <translation>Lưu lại trò chơi</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -11176,7 +11358,7 @@ Hãy gõ vào dưới đây cụm từ mật khẩu:</translation>
     </message>
     <message>
         <source>Resign</source>
-        <translation type="unfinished">Từ bỏ</translation>
+        <translation>Từ bỏ</translation>
     </message>
     <message>
         <source>Switch color</source>
@@ -11247,7 +11429,7 @@ Hãy gõ vào dưới đây cụm từ mật khẩu:</translation>
     <message>
         <source>Your opponent has closed the board!
  You can still save the game.</source>
-        <translation type="unfinished">Đối thủ của bạn đã tắt trò chơi!
+        <translation>Đối thủ của bạn đã tắt trò chơi!
  Bạn vẫn có thể lưu trò chơi.</translation>
     </message>
     <message>
@@ -11256,11 +11438,11 @@ Hãy gõ vào dưới đây cụm từ mật khẩu:</translation>
     </message>
     <message>
         <source>You Lose.</source>
-        <translation type="unfinished">Bạn thua rồi.</translation>
+        <translation>Bạn thua rồi.</translation>
     </message>
     <message>
         <source>You Win!</source>
-        <translation type="unfinished">Bạn thắng rồi!</translation>
+        <translation>Bạn thắng rồi!</translation>
     </message>
     <message>
         <source>You really want to begin new game?</source>
@@ -11272,7 +11454,7 @@ Hãy gõ vào dưới đây cụm từ mật khẩu:</translation>
     </message>
     <message>
         <source>Battleship game</source>
-        <translation type="unfinished">Trò chơi Battleship</translation>
+        <translation>Trò chơi Battleship</translation>
     </message>
     <message>
         <source>Freeze ships position</source>
@@ -11322,6 +11504,10 @@ Hãy gõ vào dưới đây cụm từ mật khẩu:</translation>
         <translation type="vanished">Đơn</translation>
     </message>
     <message>
+        <source>@username</source>
+        <translation type="vanished">@tên_tài_khoản</translation>
+    </message>
+    <message>
         <source>message</source>
         <translation type="vanished">tin nhẳn</translation>
     </message>
@@ -11349,15 +11535,15 @@ Hãy gõ vào dưới đây cụm từ mật khẩu:</translation>
     </message>
     <message>
         <source>Name: </source>
-        <translation type="unfinished">Tên:</translation>
+        <translation>Tên:</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished">Tác giả:</translation>
+        <translation>Tác giả:</translation>
     </message>
     <message>
         <source>Version: </source>
-        <translation type="unfinished">Phiên bản:</translation>
+        <translation>Phiên bản:</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -12146,7 +12332,7 @@ Chi tiết: %1</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn có chắc?</translation>
     </message>
     <message>
         <source>Name:	</source>
@@ -12515,7 +12701,7 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Choose status...</source>
-        <translation type="unfinished">Chọn trạng thái</translation>
+        <translation>Chọn trạng thái</translation>
     </message>
     <message>
         <source>Choose...</source>
@@ -12527,7 +12713,7 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Reconnect</source>
-        <translation type="unfinished">Kết nối lại</translation>
+        <translation>Kết nối lại</translation>
     </message>
     <message>
         <source>Reconnect all active accounts</source>
@@ -12739,7 +12925,7 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished">Thông tin</translation>
+        <translation>Thông tin</translation>
     </message>
     <message>
         <source>Set Topic</source>
@@ -12758,7 +12944,7 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Find toolbar</source>
-        <translation type="unfinished">Tìm thanh công cụ</translation>
+        <translation>Tìm thanh công cụ</translation>
     </message>
     <message>
         <source>Chat Toolbar</source>
@@ -12796,7 +12982,7 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="unfinished">Dán và gởi</translation>
+        <translation>Dán và gởi</translation>
     </message>
     <message>
         <source>Enable OpenPGP encryption</source>
@@ -12820,11 +13006,11 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
-        <translation type="unfinished">Gán khoá Open&amp;PGP</translation>
+        <translation>Gán khoá Open&amp;PGP</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation type="unfinished">Bỏ gán khoá Open&amp;PGP</translation>
+        <translation>Bỏ gán khoá Open&amp;PGP</translation>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
@@ -12848,7 +13034,7 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Command</source>
-        <translation type="unfinished">Lệnh</translation>
+        <translation>Lệnh</translation>
     </message>
 </context>
 <context>
@@ -13259,7 +13445,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Copy Groupchat JID</source>
-        <translation type="unfinished">Sao chép JID nhóm trò chuyện</translation>
+        <translation>Sao chép JID nhóm trò chuyện</translation>
     </message>
     <message>
         <source>Advanc&amp;ed</source>
@@ -13343,7 +13529,7 @@ Bạn có muốn kích hoạt buổi hợp đó ngay bây giờ không?</transla
     <name>PsiMediaPlugin</name>
     <message>
         <source>Thanks To</source>
-        <translation type="unfinished">Chúng tôi cám ơn</translation>
+        <translation>Chúng tôi cám ơn</translation>
     </message>
     <message>
         <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
@@ -13526,7 +13712,7 @@ Bạn có muốn kích hoạt buổi hợp đó ngay bây giờ không?</transla
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Lọc</translation>
+        <translation>Lọc</translation>
     </message>
     <message>
         <source>Display options as a flat list</source>
@@ -13571,7 +13757,7 @@ Bạn có muốn kích hoạt buổi hợp đó ngay bây giờ không?</transla
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished">Nhà riêng</translation>
+        <translation>Nhà riêng</translation>
     </message>
 </context>
 <context>
@@ -14016,7 +14202,7 @@ Bạn có muốn kích hoạt buổi hợp đó ngay bây giờ không?</transla
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished">Khác</translation>
+        <translation>Khác</translation>
     </message>
     <message>
         <source>Choose file</source>
@@ -14984,7 +15170,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Activity</source>
-        <translation type="unfinished">Hoạt động</translation>
+        <translation>Hoạt động</translation>
     </message>
     <message>
         <source>Listening to</source>
@@ -15141,7 +15327,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Xoá</translation>
+        <translation>Xoá</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -15161,7 +15347,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Audio and video device configuration</source>
-        <translation type="unfinished">Cấu hình thiết bị âm thanh và phim</translation>
+        <translation>Cấu hình thiết bị âm thanh và phim</translation>
     </message>
 </context>
 <context>
@@ -15169,6 +15355,14 @@ Thanks for your patience.</source>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Author: </source>
+        <translation type="vanished">Tác giả:</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="vanished">Email: </translation>
     </message>
     <message>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
@@ -15179,11 +15373,11 @@ Thanks for your patience.</source>
     <name>Redirector</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished">Tác giả:</translation>
+        <translation>Tác giả:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">Email: </translation>
+        <translation>Email: </translation>
     </message>
     <message>
         <source>Redirects all incoming messages to some jid and allows one to redirect messages back.</source>
@@ -15285,6 +15479,14 @@ Lý do : %1</translation>
         <translation>Âm thanh (*.wav)</translation>
     </message>
     <message>
+        <source>Author: </source>
+        <translation type="vanished">Tác giả:</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="vanished">Email: </translation>
+    </message>
+    <message>
         <source>This plugin is designed to show reminders of upcoming birthdays.
 The first time you install this plugin, you need to log on to all of your accounts, go to the plugin settings and click &quot;Update Birthdays&quot;.The plugin will then collect the information about the birthdays of all the users in your roster, but when the &apos;Use vCards cache&apos; option isselected, the users&apos; vCards that are cached on your hard disk will be used. </source>
         <translation type="unfinished"></translation>
@@ -15323,7 +15525,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Nick</source>
-        <translation type="unfinished"></translation>
+        <translation>Biệt hiệu</translation>
     </message>
     <message>
         <source>Set Mood for all active accounts</source>
@@ -15516,6 +15718,10 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <source>Upload Image</source>
         <translation>Tải hình ảnh lên</translation>
+    </message>
+    <message>
+        <source>Authors: </source>
+        <translation type="vanished">Tác giả:</translation>
     </message>
     <message>
         <source>This plugin allows you to make screenshots and save them to your hard drive or upload them to an FTP or HTTP server.
@@ -15992,7 +16198,7 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>About Psi</source>
-        <translation type="unfinished">Giới thiệu Psi</translation>
+        <translation>Giới thiệu Psi</translation>
     </message>
     <message>
         <source>About PsiMedia</source>
@@ -16280,7 +16486,7 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">Lưu</translation>
+        <translation>Lưu</translation>
     </message>
     <message>
         <source>Create new skin from current settings</source>
@@ -16312,7 +16518,7 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation type="unfinished">Lỗi chưa biết!</translation>
+        <translation>Lỗi chưa biết!</translation>
     </message>
     <message>
         <source>Save a skin file</source>
@@ -16352,11 +16558,11 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished">Tác giả:</translation>
+        <translation>Tác giả:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">Email: </translation>
+        <translation>Email: </translation>
     </message>
     <message>
         <source>This plugin is designed to create, store and apply skins to Psi.
@@ -16486,6 +16692,14 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Author: </source>
+        <translation type="vanished">Tác giả:</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="vanished">Email: </translation>
+    </message>
+    <message>
         <source>This plugin is designed to block spam messages and other unwanted information from Psi users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
 With the plugin settings you can:
 * Define a security question and the answer
@@ -16512,27 +16726,27 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     <name>Stopspam::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation type="unfinished">Tìm kiếm:</translation>
+        <translation>Tìm kiếm:</translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished">&amp;Thận trọng</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>First page</source>
-        <translation type="unfinished">Trang đầu</translation>
+        <translation>Trang đầu</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation type="unfinished">Trang trước</translation>
+        <translation>Trang trước</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation type="unfinished">Trang kế</translation>
+        <translation>Trang kế</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation type="unfinished">Trang cuối</translation>
+        <translation>Trang cuối</translation>
     </message>
 </context>
 <context>
@@ -16544,6 +16758,14 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     <message>
         <source>Storage Notes</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Author: </source>
+        <translation type="vanished">Tác giả:</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="vanished">Email: </translation>
     </message>
     <message>
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
@@ -16941,12 +17163,24 @@ Chỉ trong hộp thoại chát nhóm:
 &lt;/ul&gt;</translation>
     </message>
     <message>
+        <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
         <translation>Không cần phải xoá tài khoản để tắt nó, nhất là tạm thời. Chỉ đơn giản bật/tắt hộp chọn trong phần « Thiết lập tài khoản ». Có ích để tắt tài khoản ít dùng, để tiết kiệm sức chứa trên bảng liệt kê.</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
         <translation>Bạn có muốn di chuyển cái nút, hoặc thêm cái nút lối tắt không? Dễ làm. Xem cửa sổ « Cấu hình thanh công cụ » (mục trong trình đơn ngữ cảnh của thanh công cụ). Ngay cả có khả năng tạo thanh công cụ nổi được !</translation>
+    </message>
+    <message>
+        <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
@@ -16957,8 +17191,18 @@ Chỉ trong hộp thoại chát nhóm:
         <translation>Cú nhấn giữa (nhấn cái nút giữa trên con chuột có ba cái nút) sẽ thực hiện hành động mặc định với nhiều đối tượng trong Psi. Hãy thử nhấn-giữa vào liên lạc hay điều bật lên.</translation>
     </message>
     <message>
+        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
         <translation>Bạn có khả năng nhấn-phải vào tên máy phục vụ trong bảng liệt kê, để thực hiện vài hành động khác nhau. Có thể thay đổi trạng thái, sửa đổi thiết lập tài khoản, đặt tùy chọn quản trị (nếu có quyền) v.v.</translation>
+    </message>
+    <message>
+        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
+&lt;br&gt;&lt;br&gt;
+Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
@@ -16980,28 +17224,6 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
-&lt;br&gt;&lt;br&gt;
-Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17085,11 +17307,15 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>Not translating &quot;Nickname:&quot;</source>
-        <translation type="unfinished">Biệt danh</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Restore Defaults Settings</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Author: </source>
+        <translation type="vanished">Tác giả:</translation>
     </message>
     <message>
         <source>This plugin allows you to convert selected text into another language.
@@ -17108,7 +17334,7 @@ Note: Some server may disable transport registration to users from different ser
     <name>TypeAheadFindBar</name>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished">&amp;Thận trọng</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Search</source>
@@ -17196,6 +17422,10 @@ Note: Some server may disable transport registration to users from different ser
 <context>
     <name>VideoStatusChanger</name>
     <message>
+        <source>Authors: </source>
+        <translation type="vanished">Tác giả:</translation>
+    </message>
+    <message>
         <source>This plugin is designed to set the custom status when you watching the video in selected video players. 
 Note: This plugin is designed to work in Linux family operating systems and in Windows OS. 
 
@@ -17240,7 +17470,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn có chắc?</translation>
     </message>
     <message>
         <source>Save log</source>
@@ -17310,7 +17540,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn có chắc?</translation>
     </message>
     <message>
         <source>Save log</source>
@@ -17326,15 +17556,15 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Check</source>
-        <translation type="unfinished">Chọn</translation>
+        <translation>Chọn</translation>
     </message>
     <message>
         <source>Uncheck</source>
-        <translation type="unfinished">Bỏ chọn</translation>
+        <translation>Bỏ chọn</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished">Đảo ngược</translation>
+        <translation>Đảo ngược</translation>
     </message>
 </context>
 <context>
@@ -17432,6 +17662,14 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <message>
         <source>Watch for JID</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Author: </source>
+        <translation type="vanished">Tác giả:</translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="vanished">Email: </translation>
     </message>
     <message>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
@@ -17746,7 +17984,7 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     </message>
     <message>
         <source>Query version</source>
-        <translation type="unfinished">Truy vấn phiên bản</translation>
+        <translation>Truy vấn phiên bản</translation>
     </message>
     <message>
         <source>Add to roster</source>
@@ -17784,7 +18022,7 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     </message>
     <message>
         <source>Feature not implemented</source>
-        <translation type="unfinished">Tính năng không triển khai</translation>
+        <translation>Tính năng không triển khai</translation>
     </message>
     <message>
         <source>The feature requested is not implemented by the recipient or server and therefore cannot be processed.</source>
@@ -17904,7 +18142,7 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     </message>
     <message>
         <source>Service unavailable</source>
-        <translation type="unfinished">Dịch vụ chưa có sẵn</translation>
+        <translation>Dịch vụ chưa có sẵn</translation>
     </message>
     <message>
         <source>The server or recipient does not currently provide the requested service.</source>
@@ -18039,6 +18277,14 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>min.</source>
+        <translation type="vanished">tối thiểu.</translation>
+    </message>
+    <message>
+        <source>Disable if chat window is active</source>
+        <translation type="vanished">Tắt nếu cửa sổ trò chuyện đang hoạt động</translation>
+    </message>
+    <message>
         <source>Disable invitations from conference</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18066,7 +18312,7 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     <name>psiomemo::KnownFingerprints</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Xoá</translation>
+        <translation>Xoá</translation>
     </message>
     <message>
         <source>Trust</source>
@@ -18109,7 +18355,7 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     <name>psiomemo::ManageDevices</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Xoá</translation>
+        <translation>Xoá</translation>
     </message>
     <message>
         <source>Device ID</source>
