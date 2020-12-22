@@ -12,7 +12,7 @@
     <name>AHCFormDlg</name>
     <message>
         <source>Form</source>
-        <translation>Đơn</translation>
+        <translation>Mẫu biểu</translation>
     </message>
     <message>
         <source>Finish</source>
@@ -20,11 +20,11 @@
     </message>
     <message>
         <source>Previous</source>
-        <translation>Lùi</translation>
+        <translation>Trước</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation>Tiếp</translation>
+        <translation>Tiếp theo</translation>
     </message>
 </context>
 <context>
@@ -47,6 +47,10 @@
     <message>
         <source>About</source>
         <translation>Giới thiệu</translation>
+    </message>
+    <message>
+        <source>psi/psiplus_logo</source>
+        <translation type="vanished">psi/psiplus_logo</translation>
     </message>
     <message>
         <source>Authors</source>
@@ -74,19 +78,19 @@
     </message>
     <message>
         <source>Past Lead Developer and Maintainer</source>
-        <translation>Nhà phát triển và Duy trì trước</translation>
+        <translation>Người phát triển và Duy trì trước đây</translation>
     </message>
     <message>
         <source>Past Lead Developer</source>
-        <translation>Nhà phát triển trước</translation>
+        <translation>Người phát triển trước đây</translation>
     </message>
     <message>
         <source>Developer</source>
-        <translation>Nhà phát triển</translation>
+        <translation>Người phát triển</translation>
     </message>
     <message>
         <source>Active project members are presents below:</source>
-        <translation>Các thành viên tích cực:</translation>
+        <translation>Các thành viên dự án tích cực:</translation>
     </message>
     <message>
         <source>Founder, Patcher and MS Windows Packager</source>
@@ -94,7 +98,15 @@
     </message>
     <message>
         <source>Founder and Lead Patcher</source>
-        <translation>Nhà sáng lập và vá lỗi</translation>
+        <translation>Người sáng lập và Người tạo bản vá lỗi</translation>
+    </message>
+    <message>
+        <source>Founder, Designer and Patcher</source>
+        <translation type="vanished">Người sáng lập, Thiết kế và Người tạo bản vá lỗi</translation>
+    </message>
+    <message>
+        <source>Patcher, Plugins Writer and Fedora Packager</source>
+        <translation type="vanished">Tác giả tạo bản vá lỗi, Trình cắm và Người đóng gói Fedora</translation>
     </message>
     <message>
         <source>Patcher and Plugins Writer</source>
@@ -102,11 +114,15 @@
     </message>
     <message>
         <source>Ubuntu Packager</source>
-        <translation type="vanished">Nhà đóng gói Ubuntu</translation>
+        <translation type="vanished">Người đóng gói Ubuntu</translation>
     </message>
     <message>
         <source>Mandriva Linux Packager</source>
-        <translation type="vanished">Nhà đóng gói Mandriva Linux</translation>
+        <translation type="vanished">Người đóng gói Mandriva Linux</translation>
+    </message>
+    <message>
+        <source>Patcher and Russian localization</source>
+        <translation type="vanished">Người đóng gói và Địa phương hóa tiếng Nga</translation>
     </message>
     <message>
         <source>Psimedia Patcher and Wiki English localization</source>
@@ -114,15 +130,15 @@
     </message>
     <message>
         <source>Former language coordinator, miscellaneous assistance</source>
-        <translation>Cựu điều phối viên ngôn ngữ, hỗ trợ</translation>
+        <translation>Cựu điều phối viên ngôn ngữ, hỗ trợ khác</translation>
     </message>
     <message>
         <source>Build setup, miscellaneous assistance</source>
-        <translation>Cài đặt và trợ giúp</translation>
+        <translation>Xây dựng bản cài đặt và trợ giúp khác</translation>
     </message>
     <message>
         <source>Many icons are from his Crystal icon theme</source>
-        <translation>Các icon thuộc nhóm icon Crystal</translation>
+        <translation>Các icon thuộc chủ đề icon Crystal</translation>
     </message>
     <message>
         <source>Graphics</source>
@@ -130,7 +146,7 @@
     </message>
     <message>
         <source>Original Mac Port</source>
-        <translation>Nguyên bản Mac OS</translation>
+        <translation>Chuyển sang nguyên bản Mac OS</translation>
     </message>
     <message>
         <source>Mac OS X Port</source>
@@ -323,7 +339,7 @@ Bấm vào &lt;b&gt;Đăng ký tài khoản mới&lt;/b&gt; hộp chọn nếu b
     </message>
     <message>
         <source>Server</source>
-        <translation>Máy phục vụ</translation>
+        <translation>Máy chủ</translation>
     </message>
     <message>
         <source>Status</source>
@@ -331,7 +347,7 @@ Bấm vào &lt;b&gt;Đăng ký tài khoản mới&lt;/b&gt; hộp chọn nếu b
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>Thê&amp;m</translation>
+        <translation>&amp;Thêm</translation>
     </message>
     <message>
         <source>psi/addContact</source>
@@ -343,7 +359,7 @@ Bấm vào &lt;b&gt;Đăng ký tài khoản mới&lt;/b&gt; hộp chọn nếu b
     </message>
     <message>
         <source>Rem&amp;ove</source>
-        <translation>&amp;Bỏ</translation>
+        <translation>&amp;Xóa</translation>
     </message>
     <message>
         <source>psi/remove</source>
@@ -374,11 +390,11 @@ Bấm vào &lt;b&gt;Đăng ký tài khoản mới&lt;/b&gt; hộp chọn nếu b
     </message>
     <message>
         <source>Please disconnect before removing the account.</source>
-        <translation>Hãy ngưng kết nối trước khi gỡ bỏ tài khoản.</translation>
+        <translation>Vui lòng ngắt kết nối trước khi xóa tài khoản.</translation>
     </message>
     <message>
         <source>&amp;Disconnect</source>
-        <translation>N_gắt kết nối</translation>
+        <translation>Ngắt kết nối</translation>
     </message>
 </context>
 <context>
@@ -445,11 +461,11 @@ Bấm vào &lt;b&gt;Đăng ký tài khoản mới&lt;/b&gt; hộp chọn nếu b
     </message>
     <message>
         <source>&lt;qt&gt;Information about you is stored as a VCard on the server, which other people can retrieve at any time.&lt;/qt&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;qt&gt;Thông tin về bạn được lưu trữ dưới dạng VCard trên máy chủ mà người khác có thể truy xuất bất kỳ lúc nào.&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>Edit Personal &amp;Details...</source>
-        <translation>Sửa ch&amp;i tiết cá nhân...</translation>
+        <translation>Sửa chi tiết cá nhân...</translation>
     </message>
     <message>
         <source>OpenPGP</source>
@@ -481,15 +497,15 @@ Bấm vào &lt;b&gt;Đăng ký tài khoản mới&lt;/b&gt; hộp chọn nếu b
     </message>
     <message>
         <source>Remove</source>
-        <translation>Bỏ</translation>
+        <translation>Xóa</translation>
     </message>
     <message>
         <source>You are using advanced settings. This list may not be accurate.</source>
-        <translation>Bạn đang sử dụng thiết lập cấp cao. Có thể là danh sách này không phải chính xác.</translation>
+        <translation>Bạn đang sử dụng thiết lập nâng cao. Danh sách này có thể không chính xác.</translation>
     </message>
     <message>
         <source>Advanced ...</source>
-        <translation>Cấp cao ...</translation>
+        <translation>Nâng cao ...</translation>
     </message>
     <message>
         <source>Connection</source>
@@ -517,7 +533,7 @@ Bấm vào &lt;b&gt;Đăng ký tài khoản mới&lt;/b&gt; hộp chọn nếu b
     </message>
     <message>
         <source>Host:</source>
-        <translation>Máy:</translation>
+        <translation>Máy chủ:</translation>
     </message>
     <message>
         <source>Port:</source>
@@ -525,19 +541,19 @@ Bấm vào &lt;b&gt;Đăng ký tài khoản mới&lt;/b&gt; hộp chọn nếu b
     </message>
     <message>
         <source>Encrypt connection:</source>
-        <translation>Mật mã hoá kết nối:</translation>
+        <translation>Mã hoá kết nối:</translation>
     </message>
     <message>
         <source>Allow plaintext authentication:</source>
-        <translation>Cho phép xác thực nhập thô :</translation>
+        <translation>Cho phép xác thực thuần văn bản:</translation>
     </message>
     <message>
         <source>Require mutual authentication</source>
-        <translation>Cần thiết xác thực lẫn nhau</translation>
+        <translation>Yêu cầu xác thực lẫn nhau</translation>
     </message>
     <message>
         <source>SASL Security Level:</source>
-        <translation>Cấp bảo mật SASL:</translation>
+        <translation>Cấp độ bảo mật SASL:</translation>
     </message>
     <message>
         <source>Misc.</source>
@@ -557,11 +573,11 @@ Bấm vào &lt;b&gt;Đăng ký tài khoản mới&lt;/b&gt; hộp chọn nếu b
     </message>
     <message>
         <source>In-Band only (slow)</source>
-        <translation type="unfinished"></translation>
+        <translation>Chỉ trong Ban (chậm)</translation>
     </message>
     <message>
         <source>Proxy:</source>
-        <translation>Ủy nhiệm:</translation>
+        <translation>Proxy:</translation>
     </message>
     <message>
         <source>STUN/TURN</source>
@@ -618,27 +634,27 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL</source>
-        <translation>SSL thừa tự</translation>
+        <translation>SSL kế thừa</translation>
     </message>
     <message>
         <source>Over encrypted connection</source>
-        <translation>Qua kết nối đã mật mã</translation>
+        <translation>Qua kết nối được mã hóa</translation>
     </message>
     <message>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Thủ công</translation>
     </message>
     <message>
         <source>Use host name</source>
-        <translation type="unfinished"></translation>
+        <translation>Dùng tên máy chủ</translation>
     </message>
     <message>
         <source>Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>Đã sửa</translation>
     </message>
     <message>
         <source>Depends on status</source>
-        <translation type="unfinished"></translation>
+        <translation>Tùy thuộc trạng thái</translation>
     </message>
     <message>
         <source>Delete current host from the list</source>
@@ -654,7 +670,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Integrity</source>
-        <translation>Tính nguyên vẹn</translation>
+        <translation>Tính toàn vẹn</translation>
     </message>
     <message>
         <source>Baseline</source>
@@ -1815,6 +1831,21 @@ Dùng gửi lệnh, tin nhắn thông thường, trình cắm này luôn hoạt 
     </message>
 </context>
 <context>
+    <name>CaptchaDialog</name>
+    <message>
+        <source>CAPTCHA</source>
+        <translation type="vanished">Xác thực CAPTCHA</translation>
+    </message>
+    <message>
+        <source>Loading data...</source>
+        <translation type="vanished">Đang tải dữ liệu...</translation>
+    </message>
+    <message>
+        <source>Original message</source>
+        <translation type="vanished">Tin nhắn gốc</translation>
+    </message>
+</context>
+<context>
     <name>CaptchaDlg</name>
     <message>
         <source>Dialog</source>
@@ -1824,12 +1855,24 @@ Dùng gửi lệnh, tin nhắn thông thường, trình cắm này luôn hoạt 
 <context>
     <name>CaptchaFormsPlugin</name>
     <message>
+        <source>Captcha Plugin: CAPTCHA from %1</source>
+        <translation type="vanished">Trình cắm Captcha: CAPTCHA từ %1</translation>
+    </message>
+    <message>
+        <source>Error! Image can not be loaded.</source>
+        <translation type="vanished">Lỗi! Không thể tải hình ảnh.</translation>
+    </message>
+    <message>
         <source>Author: </source>
         <translation type="vanished">Tác giả:</translation>
     </message>
     <message>
         <source>Email: </source>
         <translation type="vanished">Email: </translation>
+    </message>
+    <message>
+        <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
+        <translation type="vanished">Trình cắm này được thiết kế để chuyển xác thực captcha trực tiếp từ Psi +.</translation>
     </message>
 </context>
 <context>
@@ -2173,7 +2216,7 @@ chơi Cờ Vua. Người chơi đi %2.</translation>
     </message>
     <message>
         <source>Chess Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Trình cắm Cờ Vua</translation>
     </message>
     <message>
         <source>Chess!</source>
@@ -2211,7 +2254,7 @@ chơi Cờ Vua. Người chơi đi %2.</translation>
     </message>
     <message>
         <source>Chess Plugin: Invitation from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Trình cắm Cờ Vua: Lời mời từ %1</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -2393,7 +2436,7 @@ Trình cắm tương thích với Tkabber.
     </message>
     <message>
         <source>Are You Sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn có chắc?</translation>
     </message>
     <message>
         <source>Clear vCards</source>
@@ -2570,6 +2613,10 @@ Bạn có thể xem trước khi xóa hoàn toàn khỏi ổ cứng.</translatio
 You can specify the version of the client and OS or to select them from the preset list.
 </source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 has requested your version</source>
+        <translation type="vanished">%1  đã yêu cầu phiên bản của bạn</translation>
     </message>
 </context>
 <context>
@@ -2958,7 +3005,7 @@ Tiếp tục?</translation>
     </message>
     <message>
         <source>Can&apos;t open file %1 for reading</source>
-        <translation type="unfinished"></translation>
+        <translation>Không thể mở tập tin %1 để đọc</translation>
     </message>
     <message>
         <source>File %1 is not xml file</source>
@@ -3035,6 +3082,10 @@ Tiếp tục?</translation>
     <message>
         <source>Author: </source>
         <translation type="vanished">Tác giả:</translation>
+    </message>
+    <message>
+        <source>e-mail: </source>
+        <translation type="vanished">email: </translation>
     </message>
     <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
@@ -3166,7 +3217,7 @@ Tiếp tục?</translation>
     </message>
     <message>
         <source>Unregister</source>
-        <translation type="unfinished"></translation>
+        <translation>Hủy đăng ký</translation>
     </message>
     <message>
         <source>&amp;Unregister</source>
@@ -3773,7 +3824,7 @@ Nếu bạn muốn xác nhận yêu cầu này, vui lòng nhấn nút Xác nhậ
     </message>
     <message>
         <source>Roster</source>
-        <translation type="unfinished"></translation>
+        <translation>Bảng liệt kê</translation>
     </message>
     <message>
         <source>Menu</source>
@@ -3996,6 +4047,10 @@ Tùy chọn này chỉ có hiệu lực nếu giá trị chấp nhận mặc đ�
         <translation>Hiển thị trạng thái cuối cùng</translation>
     </message>
     <message>
+        <source>Show PGP</source>
+        <translation type="vanished">Hiển thị PGP</translation>
+    </message>
+    <message>
         <source>Show client version</source>
         <translation>Hiển thị phiên bản máy khách</translation>
     </message>
@@ -4010,6 +4065,10 @@ Tùy chọn này chỉ có hiệu lực nếu giá trị chấp nhận mặc đ�
     <message>
         <source>Show &quot;Active Chats&quot; option in contact menu</source>
         <translation>Hiển thị &quot; Trò chuyện Đang hoạt động&quot; tùy chọn trong menu liên lạc</translation>
+    </message>
+    <message>
+        <source>Show &quot;Assign OpenPGP Key&quot; option in contact menu</source>
+        <translation type="vanished">Hiền thị tùy chọn &quot;Assign OpenPGP Key&quot; trong menu liên lạc</translation>
     </message>
     <message>
         <source>Show &quot;Picture&quot; option in contact menu</source>
@@ -4057,7 +4116,7 @@ Tùy chọn này chỉ có hiệu lực nếu giá trị chấp nhận mặc đ�
     </message>
     <message>
         <source>Visitors color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Màu khách truy cập:</translation>
     </message>
     <message>
         <source>No Role color:</source>
@@ -4073,35 +4132,35 @@ Tùy chọn này chỉ có hiệu lực nếu giá trị chấp nhận mặc đ�
     </message>
     <message>
         <source>ToolTip text color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Màu văn bản ToolTip:</translation>
     </message>
     <message>
         <source>ToolTip background color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Màu nền ToolTip:</translation>
     </message>
     <message>
         <source>ToolTip coloring:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tô màu ToolTip:</translation>
     </message>
     <message>
         <source>Text color for &quot;composing&quot; events on tabs:</source>
-        <translation type="unfinished"></translation>
+        <translation>Màu văn bản cho sự kiện &quot;đang soạn thảo&quot; trên tab</translation>
     </message>
     <message>
         <source>Text color for &quot;unread&quot; events on tabs:</source>
-        <translation type="unfinished"></translation>
+        <translation>Màu văn bản cho sự kiện &quot;chưa đọc&quot; trên tab</translation>
     </message>
     <message>
         <source>Colors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Màu sắc</translation>
     </message>
     <message>
         <source>Popup</source>
-        <translation type="unfinished"></translation>
+        <translation>Popup</translation>
     </message>
     <message>
         <source>Tooltip</source>
-        <translation type="unfinished"></translation>
+        <translation>Tooltip</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:skins_css&quot;&gt;CSS for Psi&lt;/a&gt;</source>
@@ -4109,15 +4168,15 @@ Tùy chọn này chỉ có hiệu lực nếu giá trị chấp nhận mặc đ�
     </message>
     <message>
         <source>Disable wheel scroll</source>
-        <translation type="unfinished"></translation>
+        <translation>Tắt cuộn màn hình</translation>
     </message>
     <message>
         <source>Put tabs at bottom of chat window</source>
-        <translation type="unfinished"></translation>
+        <translation>Đặt các tab bên dưới chửa sổ trò chuyện</translation>
     </message>
     <message>
         <source>Show Close Button on tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiển thị nút Đóng trên các tab</translation>
     </message>
     <message>
         <source>Show status icons on tabs</source>
@@ -5615,6 +5674,10 @@ Bạn đã thua!</translation>
     <message>
         <source>Author: </source>
         <translation type="vanished">Tác giả:</translation>
+    </message>
+    <message>
+        <source>e-mail: </source>
+        <translation type="vanished">email: </translation>
     </message>
 </context>
 <context>
@@ -7731,6 +7794,10 @@ Nga, Tambov, 2005 (denis@silversoft.net)</translation>
     <message>
         <source>Author: </source>
         <translation type="vanished">Tác giả:</translation>
+    </message>
+    <message>
+        <source>e-mail: </source>
+        <translation type="vanished">email: </translation>
     </message>
     <message>
         <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
@@ -10650,7 +10717,7 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     <name>OptionsTabRoster</name>
     <message>
         <source>Roster</source>
-        <translation type="unfinished"></translation>
+        <translation>Bảng liệt kê</translation>
     </message>
     <message>
         <source>Roster options</source>
@@ -10661,7 +10728,7 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     <name>OptionsTabRosterMain</name>
     <message>
         <source>Roster</source>
-        <translation type="unfinished"></translation>
+        <translation>Bảng liệt kê</translation>
     </message>
     <message>
         <source>Roster window options</source>
@@ -16542,7 +16609,7 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>Are You Sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn có chắc?</translation>
     </message>
     <message>
         <source>Overwrite Skin</source>
