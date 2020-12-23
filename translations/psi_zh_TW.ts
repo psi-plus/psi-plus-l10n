@@ -3109,13 +3109,6 @@ Proceed?</source>
     </message>
 </context>
 <context>
-    <name>Crash::CrashDialog</name>
-    <message>
-        <source>Crash handler log</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>CreateGroupDlg</name>
     <message>
         <source>Create New Group</source>
@@ -8237,17 +8230,6 @@ Tags: %1</source>
     <message>
         <source>Notes has been saved.</source>
         <translation>筆記已經保存</translation>
-    </message>
-</context>
-<context>
-    <name>OAuth2SASLContext</name>
-    <message>
-        <source>Copy authorization code from opened web page.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter authorization code</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14160,11 +14142,11 @@ Would you like to activate that session now?</source>
     <name>PsiWindowHeader</name>
     <message>
         <source>PsiWindowHeader</source>
-        <translation>PSI窗口標題</translation>
+        <translation type="vanished">PSI窗口標題</translation>
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="vanished">...</translation>
     </message>
 </context>
 <context>
@@ -16800,11 +16782,11 @@ Reason: %1</source>
     <name>ShowChangeLogForm</name>
     <message>
         <source>New version is available!</source>
-        <translation>新版本可用！</translation>
+        <translation type="vanished">新版本可用！</translation>
     </message>
     <message>
         <source>Open download page?</source>
-        <translation>打開下載頁面？</translation>
+        <translation type="vanished">打開下載頁面？</translation>
     </message>
 </context>
 <context>

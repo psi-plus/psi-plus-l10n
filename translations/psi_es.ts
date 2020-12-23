@@ -3123,7 +3123,7 @@ Proceed?</source>
     <name>Crash::CrashDialog</name>
     <message>
         <source>Crash handler log</source>
-        <translation>Registro manejador de errores</translation>
+        <translation type="vanished">Registro manejador de errores</translation>
     </message>
 </context>
 <context>
@@ -8265,17 +8265,6 @@ Etiquetas: %1</translation>
     <message>
         <source>Notes has been saved.</source>
         <translation>Las notas han sido guardadas.</translation>
-    </message>
-</context>
-<context>
-    <name>OAuth2SASLContext</name>
-    <message>
-        <source>Copy authorization code from opened web page.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter authorization code</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14206,11 +14195,11 @@ Quieres activar esa sesión ahora?</translation>
     <name>PsiWindowHeader</name>
     <message>
         <source>PsiWindowHeader</source>
-        <translation>PsiWindowHeader</translation>
+        <translation type="vanished">PsiWindowHeader</translation>
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="vanished">...</translation>
     </message>
 </context>
 <context>
@@ -16875,11 +16864,11 @@ Razón: %1</translation>
     <name>ShowChangeLogForm</name>
     <message>
         <source>New version is available!</source>
-        <translation>¡Hay una nueva versión disponible!</translation>
+        <translation type="vanished">¡Hay una nueva versión disponible!</translation>
     </message>
     <message>
         <source>Open download page?</source>
-        <translation>¿Abrir página de descarga?</translation>
+        <translation type="vanished">¿Abrir página de descarga?</translation>
     </message>
 </context>
 <context>

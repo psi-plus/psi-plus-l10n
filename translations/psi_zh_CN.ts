@@ -3127,7 +3127,7 @@ Proceed?</source>
     <name>Crash::CrashDialog</name>
     <message>
         <source>Crash handler log</source>
-        <translation>清除句柄日志</translation>
+        <translation type="vanished">清除句柄日志</translation>
     </message>
 </context>
 <context>
@@ -8282,11 +8282,11 @@ Tags: %1</source>
     <name>OAuth2SASLContext</name>
     <message>
         <source>Copy authorization code from opened web page.</source>
-        <translation>从打开的网页复制验证代码</translation>
+        <translation type="vanished">从打开的网页复制验证代码</translation>
     </message>
     <message>
         <source>Enter authorization code</source>
-        <translation>输入验证代码</translation>
+        <translation type="vanished">输入验证代码</translation>
     </message>
 </context>
 <context>
@@ -14258,11 +14258,11 @@ Would you like to activate that session now?</source>
     <name>PsiWindowHeader</name>
     <message>
         <source>PsiWindowHeader</source>
-        <translation>PSI窗口标题</translation>
+        <translation type="vanished">PSI窗口标题</translation>
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="vanished">...</translation>
     </message>
 </context>
 <context>
@@ -16914,11 +16914,11 @@ Reason: %1</source>
     <name>ShowChangeLogForm</name>
     <message>
         <source>New version is available!</source>
-        <translation>新版本可用！</translation>
+        <translation type="vanished">新版本可用！</translation>
     </message>
     <message>
         <source>Open download page?</source>
-        <translation>打开下载页面？</translation>
+        <translation type="vanished">打开下载页面？</translation>
     </message>
 </context>
 <context>

@@ -3134,7 +3134,7 @@ Procedere?</translation>
     <name>Crash::CrashDialog</name>
     <message>
         <source>Crash handler log</source>
-        <translation>Gestore registri crash</translation>
+        <translation type="vanished">Gestore registri crash</translation>
     </message>
 </context>
 <context>
@@ -8296,11 +8296,11 @@ Etichette: %1</translation>
     <name>OAuth2SASLContext</name>
     <message>
         <source>Copy authorization code from opened web page.</source>
-        <translation>Copia il codice di autorizzazione dalla pagina web aperta.</translation>
+        <translation type="vanished">Copia il codice di autorizzazione dalla pagina web aperta.</translation>
     </message>
     <message>
         <source>Enter authorization code</source>
-        <translation>Inserisci codice di autorizzazione</translation>
+        <translation type="vanished">Inserisci codice di autorizzazione</translation>
     </message>
 </context>
 <context>
@@ -14273,11 +14273,11 @@ Vuoi attivare quella sessione ora?</translation>
     <name>PsiWindowHeader</name>
     <message>
         <source>PsiWindowHeader</source>
-        <translation>PsiIntestazioneFinestra</translation>
+        <translation type="vanished">PsiIntestazioneFinestra</translation>
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="vanished">...</translation>
     </message>
 </context>
 <context>
@@ -16951,11 +16951,11 @@ Motivo: %1</translation>
     <name>ShowChangeLogForm</name>
     <message>
         <source>New version is available!</source>
-        <translation>Nuova versione disponibile!</translation>
+        <translation type="vanished">Nuova versione disponibile!</translation>
     </message>
     <message>
         <source>Open download page?</source>
-        <translation>Aprire la pagina di download?</translation>
+        <translation type="vanished">Aprire la pagina di download?</translation>
     </message>
 </context>
 <context>

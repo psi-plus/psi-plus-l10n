@@ -3111,13 +3111,6 @@ Proceed?</source>
     </message>
 </context>
 <context>
-    <name>Crash::CrashDialog</name>
-    <message>
-        <source>Crash handler log</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>CreateGroupDlg</name>
     <message>
         <source>Create New Group</source>
@@ -8240,11 +8233,11 @@ Tags: %1</source>
     <name>OAuth2SASLContext</name>
     <message>
         <source>Copy authorization code from opened web page.</source>
-        <translation>Скапіяваць код апазнаньня з адкрытай ўэб-старонкі.</translation>
+        <translation type="vanished">Скапіяваць код апазнаньня з адкрытай ўэб-старонкі.</translation>
     </message>
     <message>
         <source>Enter authorization code</source>
-        <translation>Увясці код апазнаньня</translation>
+        <translation type="vanished">Увясці код апазнаньня</translation>
     </message>
 </context>
 <context>
@@ -14166,11 +14159,11 @@ Would you like to activate that session now?</source>
     <name>PsiWindowHeader</name>
     <message>
         <source>PsiWindowHeader</source>
-        <translation>PsiWindowHeader</translation>
+        <translation type="vanished">PsiWindowHeader</translation>
     </message>
     <message>
         <source>...</source>
-        <translation>…</translation>
+        <translation type="vanished">…</translation>
     </message>
 </context>
 <context>
@@ -16841,11 +16834,11 @@ Reason: %1</source>
     <name>ShowChangeLogForm</name>
     <message>
         <source>New version is available!</source>
-        <translation>Ёсьць новая вэрсія!</translation>
+        <translation type="vanished">Ёсьць новая вэрсія!</translation>
     </message>
     <message>
         <source>Open download page?</source>
-        <translation>Ці адчыніць бачыну спампоўваць?</translation>
+        <translation type="vanished">Ці адчыніць бачыну спампоўваць?</translation>
     </message>
 </context>
 <context>

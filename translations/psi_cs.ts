@@ -3123,7 +3123,7 @@ Pokračovat?</translation>
     <name>Crash::CrashDialog</name>
     <message>
         <source>Crash handler log</source>
-        <translation>Záznam obsluhy pádů</translation>
+        <translation type="vanished">Záznam obsluhy pádů</translation>
     </message>
 </context>
 <context>
@@ -8233,11 +8233,11 @@ Tagy: %1</translation>
     <name>OAuth2SASLContext</name>
     <message>
         <source>Copy authorization code from opened web page.</source>
-        <translation>Zkopírujte autorizační kód z otevřené webové stránky.</translation>
+        <translation type="vanished">Zkopírujte autorizační kód z otevřené webové stránky.</translation>
     </message>
     <message>
         <source>Enter authorization code</source>
-        <translation>Vložte autorizační kód</translation>
+        <translation type="vanished">Vložte autorizační kód</translation>
     </message>
 </context>
 <context>
@@ -14184,11 +14184,11 @@ Chceš aktivovat tuto relaci?</translation>
     <name>PsiWindowHeader</name>
     <message>
         <source>PsiWindowHeader</source>
-        <translation>PsiWindowHeader</translation>
+        <translation type="vanished">PsiWindowHeader</translation>
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="vanished">...</translation>
     </message>
 </context>
 <context>
@@ -16865,11 +16865,11 @@ Zdůvodnění: %1</translation>
     <name>ShowChangeLogForm</name>
     <message>
         <source>New version is available!</source>
-        <translation>Je k dispozici nová verze!</translation>
+        <translation type="vanished">Je k dispozici nová verze!</translation>
     </message>
     <message>
         <source>Open download page?</source>
-        <translation>Otevřít stránku pro stažení?</translation>
+        <translation type="vanished">Otevřít stránku pro stažení?</translation>
     </message>
 </context>
 <context>

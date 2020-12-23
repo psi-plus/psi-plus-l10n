@@ -3121,7 +3121,7 @@ Continuer ?</translation>
     <name>Crash::CrashDialog</name>
     <message>
         <source>Crash handler log</source>
-        <translation>Log du gestionnaire de plantages</translation>
+        <translation type="vanished">Log du gestionnaire de plantages</translation>
     </message>
 </context>
 <context>
@@ -8196,11 +8196,11 @@ Labels : %1</translation>
     <name>OAuth2SASLContext</name>
     <message>
         <source>Copy authorization code from opened web page.</source>
-        <translation>Copiez le code de validation depuis la page web ouverte.</translation>
+        <translation type="vanished">Copiez le code de validation depuis la page web ouverte.</translation>
     </message>
     <message>
         <source>Enter authorization code</source>
-        <translation>Entrez le code de validation</translation>
+        <translation type="vanished">Entrez le code de validation</translation>
     </message>
 </context>
 <context>
@@ -14055,11 +14055,11 @@ Would you like to activate that session now?</source>
     <name>PsiWindowHeader</name>
     <message>
         <source>PsiWindowHeader</source>
-        <translation>PsiWindowHeader</translation>
+        <translation type="vanished">PsiWindowHeader</translation>
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="vanished">...</translation>
     </message>
 </context>
 <context>
@@ -16705,11 +16705,11 @@ Cause: %1</translation>
     <name>ShowChangeLogForm</name>
     <message>
         <source>New version is available!</source>
-        <translation>Nouvelle version disponible!</translation>
+        <translation type="vanished">Nouvelle version disponible!</translation>
     </message>
     <message>
         <source>Open download page?</source>
-        <translation>Ouvrir la page de téléchargement?</translation>
+        <translation type="vanished">Ouvrir la page de téléchargement?</translation>
     </message>
 </context>
 <context>

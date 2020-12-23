@@ -3140,7 +3140,7 @@ Proceed?</translation>
     <name>Crash::CrashDialog</name>
     <message>
         <source>Crash handler log</source>
-        <translation>Crash handler log</translation>
+        <translation type="vanished">Crash handler log</translation>
     </message>
 </context>
 <context>
@@ -8310,11 +8310,11 @@ Tags: %1</translation>
     <name>OAuth2SASLContext</name>
     <message>
         <source>Copy authorization code from opened web page.</source>
-        <translation>Copy authorization code from opened web page.</translation>
+        <translation type="vanished">Copy authorization code from opened web page.</translation>
     </message>
     <message>
         <source>Enter authorization code</source>
-        <translation>Enter authorization code</translation>
+        <translation type="vanished">Enter authorization code</translation>
     </message>
 </context>
 <context>
@@ -14307,11 +14307,11 @@ Would you like to activate that session now?</translation>
     <name>PsiWindowHeader</name>
     <message>
         <source>PsiWindowHeader</source>
-        <translation>PsiWindowHeader</translation>
+        <translation type="vanished">PsiWindowHeader</translation>
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="vanished">...</translation>
     </message>
 </context>
 <context>
@@ -16988,11 +16988,11 @@ Reason: %1</translation>
     <name>ShowChangeLogForm</name>
     <message>
         <source>New version is available!</source>
-        <translation>New version is available!</translation>
+        <translation type="vanished">New version is available!</translation>
     </message>
     <message>
         <source>Open download page?</source>
-        <translation>Open download page?</translation>
+        <translation type="vanished">Open download page?</translation>
     </message>
 </context>
 <context>

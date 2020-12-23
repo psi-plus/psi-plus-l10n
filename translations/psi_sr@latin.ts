@@ -3093,13 +3093,6 @@ Da nastavim?</translation>
     </message>
 </context>
 <context>
-    <name>Crash::CrashDialog</name>
-    <message>
-        <source>Crash handler log</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>CreateGroupDlg</name>
     <message>
         <source>Create New Group</source>
@@ -8196,17 +8189,6 @@ Kartice: %1</translation>
     <message>
         <source>Notes has been saved.</source>
         <translation>Napomene su sačuvane</translation>
-    </message>
-</context>
-<context>
-    <name>OAuth2SASLContext</name>
-    <message>
-        <source>Copy authorization code from opened web page.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter authorization code</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14038,11 +14020,11 @@ Would you like to activate that session now?</source>
     <name>PsiWindowHeader</name>
     <message>
         <source>PsiWindowHeader</source>
-        <translation>PsiNaslovProzora</translation>
+        <translation type="vanished">PsiNaslovProzora</translation>
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="vanished">...</translation>
     </message>
 </context>
 <context>
@@ -16683,11 +16665,11 @@ Razlog: %1</translation>
     <name>ShowChangeLogForm</name>
     <message>
         <source>New version is available!</source>
-        <translation>Nova verzija je dostupna!</translation>
+        <translation type="vanished">Nova verzija je dostupna!</translation>
     </message>
     <message>
         <source>Open download page?</source>
-        <translation>Otvori stranu za preuzimanje?</translation>
+        <translation type="vanished">Otvori stranu za preuzimanje?</translation>
     </message>
 </context>
 <context>

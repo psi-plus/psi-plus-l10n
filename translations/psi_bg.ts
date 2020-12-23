@@ -3069,7 +3069,7 @@ Proceed?</source>
     <name>Crash::CrashDialog</name>
     <message>
         <source>Crash handler log</source>
-        <translation>Журнал на Обработчика на сривове</translation>
+        <translation type="vanished">Журнал на Обработчика на сривове</translation>
     </message>
 </context>
 <context>
@@ -8171,11 +8171,11 @@ Tags: %1</source>
     <name>OAuth2SASLContext</name>
     <message>
         <source>Copy authorization code from opened web page.</source>
-        <translation>Копиране на авторизационен код от отворена страница.</translation>
+        <translation type="vanished">Копиране на авторизационен код от отворена страница.</translation>
     </message>
     <message>
         <source>Enter authorization code</source>
-        <translation>Въведете авторизационен код</translation>
+        <translation type="vanished">Въведете авторизационен код</translation>
     </message>
 </context>
 <context>
@@ -14050,12 +14050,8 @@ Would you like to activate that session now?</source>
 <context>
     <name>PsiWindowHeader</name>
     <message>
-        <source>PsiWindowHeader</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="vanished">...</translation>
     </message>
 </context>
 <context>
@@ -16711,11 +16707,11 @@ Reason: %1</source>
     <name>ShowChangeLogForm</name>
     <message>
         <source>New version is available!</source>
-        <translation>Нова версия е налична!</translation>
+        <translation type="vanished">Нова версия е налична!</translation>
     </message>
     <message>
         <source>Open download page?</source>
-        <translation>Отваряне на страницата за сваляне?</translation>
+        <translation type="vanished">Отваряне на страницата за сваляне?</translation>
     </message>
 </context>
 <context>

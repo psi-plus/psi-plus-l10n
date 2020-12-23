@@ -3124,7 +3124,7 @@ Folytatod?</translation>
     <name>Crash::CrashDialog</name>
     <message>
         <source>Crash handler log</source>
-        <translation>Összeomlást kezelő napló</translation>
+        <translation type="vanished">Összeomlást kezelő napló</translation>
     </message>
 </context>
 <context>
@@ -8277,11 +8277,11 @@ Címkék: %1</translation>
     <name>OAuth2SASLContext</name>
     <message>
         <source>Copy authorization code from opened web page.</source>
-        <translation>Hitelesítési kód másolása megnyitott weboldalról.</translation>
+        <translation type="vanished">Hitelesítési kód másolása megnyitott weboldalról.</translation>
     </message>
     <message>
         <source>Enter authorization code</source>
-        <translation>Hitelesítési kód megadása</translation>
+        <translation type="vanished">Hitelesítési kód megadása</translation>
     </message>
 </context>
 <context>
@@ -14227,11 +14227,11 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
     <name>PsiWindowHeader</name>
     <message>
         <source>PsiWindowHeader</source>
-        <translation>PsiWindowHeader</translation>
+        <translation type="vanished">PsiWindowHeader</translation>
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="vanished">...</translation>
     </message>
 </context>
 <context>
@@ -16892,11 +16892,11 @@ Oka: %1</translation>
     <name>ShowChangeLogForm</name>
     <message>
         <source>New version is available!</source>
-        <translation>Új verzió érhető el!</translation>
+        <translation type="vanished">Új verzió érhető el!</translation>
     </message>
     <message>
         <source>Open download page?</source>
-        <translation>Letöltési oldal megnyitása?</translation>
+        <translation type="vanished">Letöltési oldal megnyitása?</translation>
     </message>
 </context>
 <context>

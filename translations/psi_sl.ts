@@ -2898,13 +2898,6 @@ Nadaljujem?</translation>
     </message>
 </context>
 <context>
-    <name>Crash::CrashDialog</name>
-    <message>
-        <source>Crash handler log</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>CreateGroupDlg</name>
     <message>
         <source>Create New Group</source>
@@ -7816,17 +7809,6 @@ Tags: %1</source>
     </message>
     <message>
         <source>Notes has been saved.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>OAuth2SASLContext</name>
-    <message>
-        <source>Copy authorization code from opened web page.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter authorization code</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13512,12 +13494,8 @@ Ali želite aktivirati to sejo?</translation>
 <context>
     <name>PsiWindowHeader</name>
     <message>
-        <source>PsiWindowHeader</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="vanished">...</translation>
     </message>
 </context>
 <context>
@@ -16126,17 +16104,6 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Set chat topic</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ShowChangeLogForm</name>
-    <message>
-        <source>New version is available!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open download page?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
