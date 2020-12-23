@@ -1037,6 +1037,17 @@ Lý do : %1</translation>
     </message>
 </context>
 <context>
+    <name>ActionsList</name>
+    <message>
+        <source> Enable Off the Record Chat.
+When checked, the server will not
+save the history for this contact.</source>
+        <translation type="vanished">Bật Tắt Ghi âm Trò chuyện. 
+Khi được chọn, máy chủ sẽ không
+lưu lịch sử cho liên lạc này.</translation>
+    </message>
+</context>
+<context>
     <name>ActiveProfiles</name>
     <message>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
@@ -1467,7 +1478,7 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Enable if status is:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bật nếu trạng thái là:</translation>
     </message>
     <message>
         <source>Auto Reply Message:</source>
@@ -2612,7 +2623,9 @@ Bạn có thể xem trước khi xóa hoàn toàn khỏi ổ cứng.</translatio
         <source>The plugin is intended for substitution of the client version, his name and operating system type.
 You can specify the version of the client and OS or to select them from the preset list.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Trình cắmđược thiết kế để thay thế phiên bản ứng dụng máy khách, tên và loại hệ điều hành.
+Bạn có thể chỉ định phiên bản của máy khách và hệ điều hành hoặc chọn chúng từ danh sách thể hiện.
+</translation>
     </message>
     <message>
         <source>%1 has requested your version</source>
@@ -5371,6 +5384,10 @@ Bạn đã thua!</translation>
         <translation type="vanished">Bật tô màu Biệt danh</translation>
     </message>
     <message>
+        <source>Enable hash nick coloring</source>
+        <translation type="vanished">Bật màu Biệt danh băm &apos;hash nick&apos;</translation>
+    </message>
+    <message>
         <source>Nick coloring</source>
         <translation>Tô màu Biệt danh</translation>
     </message>
@@ -5463,7 +5480,7 @@ Bạn đã thua!</translation>
     </message>
     <message>
         <source>GPS bearing (direction in which the entity is heading to reach its next waypoint), measured in decimal degrees relative to true north</source>
-        <translation type="unfinished"></translation>
+        <translation>GPS xoay trục (hướng mà thực thể đang hướng tới điểm tham chiếu tiếp theo), được đo bằng độ thập phân so với hướng chính bắc.</translation>
     </message>
     <message>
         <source>Building:</source>
@@ -5650,6 +5667,22 @@ Bạn đã thua!</translation>
 <context>
     <name>GmailNotifyPlugin</name>
     <message>
+        <source>No-save state for contact %1 is changed</source>
+        <translation type="vanished">Trạng thái không Lưu cho liên lạc %1 đã được thay đổi</translation>
+    </message>
+    <message>
+        <source>Settings for an account %1 are changed</source>
+        <translation type="vanished">Thiết lập cho tài khoản %1 đã được thay đổi</translation>
+    </message>
+    <message>
+        <source>Shared Status for an account %1 is updated</source>
+        <translation type="vanished">Trạng thái được Chia sẻ cho tài khoản %1 đã được cập nhật</translation>
+    </message>
+    <message>
+        <source>Attributes for contact %1 are changed</source>
+        <translation type="vanished">Các thuộc tính cho liên lạc %1 đã được thay đổi</translation>
+    </message>
+    <message>
         <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
         <translation type="vanished">&lt;b&gt;mail.google.com - thư đến&lt;/b&gt;</translation>
     </message>
@@ -5672,6 +5705,12 @@ Bạn đã thua!</translation>
     <message>
         <source>Authors: </source>
         <translation type="vanished">Tác giả:</translation>
+    </message>
+    <message>
+        <source>Shows notifications of new messages in your Gmailbox.
+Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
+        <translation type="vanished">Hiển thị thông báo tin nhắn mới trong Gmailbox của bạn. 
+Lưu ý: Trình cắm chỉ kiểm tra thư mục gốc của Hộp thư đến trong Gmailbox của bạn để tìm tin nhắn mới. Khi sử dụng tính năng lọc thư phía máy chủ, bạn có thể không được thông báo tất cả các tin nhắn mới.</translation>
     </message>
 </context>
 <context>
@@ -5908,7 +5947,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>HTMLTextMenu</name>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Đậm</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -5932,7 +5971,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Font</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -5970,11 +6009,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Refresh history</source>
-        <translation type="unfinished"></translation>
+        <translation>Làm mới lịch sử</translation>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Làm mới</translation>
     </message>
     <message>
         <source>&amp;First</source>
@@ -5994,11 +6033,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Remove history</source>
-        <translation type="unfinished"></translation>
+        <translation>Xóa lịch sử</translation>
     </message>
     <message>
         <source>Are you sure you want to completely remove history for a contact %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn có chắc chắn muốn xóa hoàn toàn lịch sử của liên lạc %1 không?</translation>
     </message>
     <message>
         <source>Export message history</source>
@@ -6018,15 +6057,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Open chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Mở trò chuyện</translation>
     </message>
     <message>
         <source>&amp;Export history</source>
-        <translation type="unfinished"></translation>
+        <translation>Kết xuất lịch sử</translation>
     </message>
     <message>
         <source>&amp;Delete history</source>
-        <translation type="unfinished"></translation>
+        <translation>Xóa lịch sử</translation>
     </message>
     <message>
         <source>History</source>
@@ -6034,11 +6073,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Sao chép</translation>
     </message>
     <message>
         <source>Copy link to the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Sao chép liên kết vào bảng nhớ tạm</translation>
     </message>
     <message>
         <source>Open</source>
@@ -6046,7 +6085,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Open link in browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Mở lên kết trên Trình duyệt</translation>
     </message>
     <message>
         <source>Close</source>
@@ -6054,7 +6093,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Close history</source>
-        <translation type="unfinished"></translation>
+        <translation>Đóng lịch sử</translation>
     </message>
     <message>
         <source>All contacts</source>
@@ -6356,33 +6395,33 @@ Bạn có thể chọn hoặc bỏ chọn một liên lạc để xóa lịch s�
     </message>
     <message>
         <source>Activity iconsets</source>
-        <translation type="unfinished"></translation>
+        <translation>Bộ icon Hoạt động</translation>
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiển thị chi tiết</translation>
     </message>
 </context>
 <context>
     <name>IconsetAffiliation</name>
     <message>
         <source>IconsetClientUI</source>
-        <translation type="unfinished"></translation>
+        <translation>IconsetClientUI</translation>
     </message>
     <message>
         <source>Affiliation iconsets</source>
-        <translation type="unfinished"></translation>
+        <translation>Bộ icon Liên kết</translation>
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiển thị chi tiết</translation>
     </message>
 </context>
 <context>
     <name>IconsetClient</name>
     <message>
         <source>IconsetClientUI</source>
-        <translation type="unfinished"></translation>
+        <translation>IconsetClientUI</translation>
     </message>
     <message>
         <source>Client iconsets</source>
@@ -6390,7 +6429,7 @@ Bạn có thể chọn hoặc bỏ chọn một liên lạc để xóa lịch s�
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiển thị chi tiết</translation>
     </message>
 </context>
 <context>
@@ -6478,7 +6517,7 @@ Bạn có thể chọn hoặc bỏ chọn một liên lạc để xóa lịch s�
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiển thị chi tiết</translation>
     </message>
 </context>
 <context>
@@ -11368,7 +11407,7 @@ Hãy gõ vào dưới đây cụm từ mật khẩu:</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Sao chép</translation>
     </message>
     <message>
         <source>Blur</source>
@@ -17343,7 +17382,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Sao chép</translation>
     </message>
     <message>
         <source>Paste</source>
