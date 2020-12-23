@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@yandex.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2020-09-06
+# Updated: 2020-12-23
 # Version: N/A
 
 set -e
@@ -133,23 +133,6 @@ case "${1}" in
     mkdir tmp
     cd tmp/
 
-    cp "${PSIPLUS_DIR}/patches"/*/*.diff ./
-    cp "${PSIPLUS_DIR}/patches"/*/*.patch ./
-    PATCHES=$(ls *.diff *.patch)
-    FILES="$(grep '^--- a/' ${PATCHES} | sed -e 's|^.*:--- a/\(.*\)$|\1|' | sort -u)
-           $(grep '^--- psi.orig/' ${PATCHES} | sed -e 's|^.*:--- psi.orig/\(.*\)$|\1|' | sort -u)"
-    DIRS="$(dirname ${FILES} | sort -u | grep -v "^\.$")"
-    for DIR in ${DIRS} ; do
-        mkdir -p ${DIR}
-    done
-    for FILE in ${FILES} ; do
-        cp -f ${PSIPLUS_DIR}/${FILE} "${FILE}" 2>/dev/null || true
-    done
-    for PATCH in ${PATCHES} ; do
-        patch -f -p1 < "${PATCH}" > applied_patches.log || true
-    done
-    rm ${PATCHES}
-
     cd "${PSIPLUS_DIR}/src"
     python3 ../admin/update_options_ts.py ../options/default.xml > \
         "${CUR_DIR}/tmp/option_translations.cpp"
@@ -192,7 +175,7 @@ case "${1}" in
 
     lupdate -verbose ./translations.pro
 
-    cp "${PSIPLUS_DIR}"/*.desktop "${CUR_DIR}/desktop-file/"
+    cp "${PSIPLUS_DIR}"/linux/*.desktop "${CUR_DIR}/desktop-file/"
 
     git status
 
@@ -204,7 +187,7 @@ case "${1}" in
 
     lupdate -verbose ./translations.pro
 
-    cp "${PSIPLUS_DIR}"/*.desktop "${CUR_DIR}/desktop-file/"
+    cp "${PSIPLUS_DIR}"/linux/*.desktop "${CUR_DIR}/desktop-file/"
 
     git status
 
@@ -216,7 +199,7 @@ case "${1}" in
 
     lupdate -verbose -no-obsolete ./translations.pro
 
-    cp "${PSIPLUS_DIR}"/*.desktop "${CUR_DIR}/desktop-file/"
+    cp "${PSIPLUS_DIR}"/linux/*.desktop "${CUR_DIR}/desktop-file/"
 
     git status
 
