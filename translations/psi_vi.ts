@@ -6513,7 +6513,7 @@ Bạn có thể chọn hoặc bỏ chọn một liên lạc để xóa lịch s�
     </message>
     <message>
         <source>Mood iconsets</source>
-        <translation type="unfinished"></translation>
+        <translation>Bộ icon tâm trạng</translation>
     </message>
     <message>
         <source>&amp;Show Details</source>
