@@ -11573,7 +11573,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>OS version</source>
-        <translation type="unfinished"></translation>
+        <translation>Версія ОС</translation>
     </message>
 </context>
 <context>
@@ -17838,12 +17838,17 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Вітаємо! Дякуємо, що завантажили Psi!
+Ми сподіваємось, що вам сподобається користуватися ним, як і нам сподобалось його робити! 
+&lt;br&gt;&lt;br&gt;Якщо вам необхідно завантажити інший переклад, пакет іконок, або нову версію Psi, вам необхідно завітати на &lt;a href=&quot;https://psi-im.org&quot;&gt;Домашню сторінку Psi&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;Якщо ви гадаєте, що знайшли баг, або ви просто бажаєте поспілкуватись з іншими користувачами Psi, відвідайте &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Форуми Psi&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;команда Psi&lt;/i&gt;&lt;/div&gt;</translation>
     </message>
     <message>
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation type="unfinished"></translation>
+        <translation>Це остання порада.
+&lt;br&gt;&lt;br&gt;Якщо ви хочете надати свою пораду, будь ласка, опублікуйте ії на &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Форумах Psi&lt;/a&gt; (або надішліть поштою до одного з розробників), і ми неодмінно долучимо ії в наступному релізі.</translation>
     </message>
 </context>
 <context>
