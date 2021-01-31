@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@yandex.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2020-12-23
+# Updated: 2021-02-01
 # Version: N/A
 
 set -e
@@ -11,6 +11,7 @@ set -e
 export CUR_DIR="$(dirname $(realpath -s ${0}))"
 export MAIN_DIR="$(realpath -s ${CUR_DIR}/..)"
 
+PROGRAM_NAME="psi-plus"
 PSIPLUS_DIR="${MAIN_DIR}/psi-plus-snapshots"
 LANG_DIR="${MAIN_DIR}/psi-plus-l10n_transifex"
 
@@ -79,14 +80,15 @@ case "${1}" in
 
     CUR_TAG="$(git tag -l  | sort -r -V | head -n1)"
 
-    rm -rf psi-plus-translations-*
-    mkdir psi-plus-translations-${CUR_TAG}
-    cp out/*.qm psi-plus-translations-${CUR_TAG}
+    rm -rf ${PROGRAM_NAME}-translations-*
+    mkdir ${PROGRAM_NAME}-translations-${CUR_TAG}
+    cp out/*.qm ${PROGRAM_NAME}-translations-${CUR_TAG}
 
-    tar -cJf psi-plus-translations-${CUR_TAG}.tar.xz psi-plus-translations-${CUR_TAG}
-    echo "Tarball with precompiled translation files is ready for upload:"
-    [ ! -z "$(which realpath)" ] && echo "$(realpath ${CUR_DIR}/psi-plus-translations-${CUR_TAG}.tar.xz)"
-    echo "https://sourceforge.net/projects/psiplus/files/Translations/"
+    tar -cJf ${PROGRAM_NAME}-translations-${CUR_TAG}.tar.xz \
+             ${PROGRAM_NAME}-translations-${CUR_TAG}
+    echo "Tarball with precompiled translation files is ready:"
+    [ ! -z "$(which realpath)" ] && \
+        echo "$(realpath ${CUR_DIR}/${PROGRAM_NAME}-translations-${CUR_TAG}.tar.xz)"
 
 ;;
 "tr")
