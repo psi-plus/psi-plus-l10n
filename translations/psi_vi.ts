@@ -3355,27 +3355,27 @@ Tiếp tục?</translation>
     <name>Drawer</name>
     <message>
         <source>Error moving</source>
-        <translation>Lỗi khi di chuyển</translation>
+        <translation type="vanished">Lỗi khi di chuyển</translation>
     </message>
     <message>
         <source>You cannot move this figure because the king is in check</source>
-        <translation>Bị chiếu tướng nên không thể đi</translation>
+        <translation type="vanished">Bị chiếu tướng nên không thể đi</translation>
     </message>
     <message>
         <source>To castle</source>
-        <translation>Quân xe</translation>
+        <translation type="vanished">Quân xe</translation>
     </message>
     <message>
         <source>Do you want to castle?</source>
-        <translation>Bạn có muốn ăn quân xe không?</translation>
+        <translation type="vanished">Bạn có muốn ăn quân xe không?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Có</translation>
+        <translation type="vanished">Có</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Không</translation>
+        <translation type="vanished">Không</translation>
     </message>
 </context>
 <context>
@@ -4290,7 +4290,7 @@ Importantly: a large part of the options are important system settings. These re
     <name>FigureDialog</name>
     <message>
         <source>What figure should I set?</source>
-        <translation>Có nên đặt hình nào?</translation>
+        <translation type="vanished">Có nên đặt hình nào?</translation>
     </message>
 </context>
 <context>
@@ -5146,147 +5146,147 @@ Lý do : %1</translation>
     <name>GameBoard</name>
     <message>
         <source>White</source>
-        <translation>Trắng</translation>
+        <translation type="vanished">Trắng</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>Đen</translation>
+        <translation type="vanished">Đen</translation>
     </message>
     <message>
         <source>game with</source>
-        <translation>lượt chơi với</translation>
+        <translation type="vanished">lượt chơi với</translation>
     </message>
     <message>
         <source>Game chat</source>
-        <translation>Trò chuyện khi chơi</translation>
+        <translation type="vanished">Trò chuyện khi chơi</translation>
     </message>
     <message>
         <source>History</source>
-        <translation>Lịch sử</translation>
+        <translation type="vanished">Lịch sử</translation>
     </message>
     <message>
         <source>Looking up the host</source>
-        <translation>Đang tra cứu máy chủ</translation>
+        <translation type="vanished">Đang tra cứu máy chủ</translation>
     </message>
     <message>
         <source>Accepted a new connection</source>
-        <translation>Đã chấp nhận một kết nối mới</translation>
+        <translation type="vanished">Đã chấp nhận một kết nối mới</translation>
     </message>
     <message>
         <source>The host found</source>
-        <translation>Máy chủ được tìm thấy</translation>
+        <translation type="vanished">Máy chủ được tìm thấy</translation>
     </message>
     <message>
         <source>Connected to the host</source>
-        <translation>Đã kết nối với máy chủ</translation>
+        <translation type="vanished">Đã kết nối với máy chủ</translation>
     </message>
     <message>
         <source>Socket Error...</source>
-        <translation>Lỗi ổ cắm (socket)...</translation>
+        <translation type="vanished">Lỗi ổ cắm (socket)...</translation>
     </message>
     <message>
         <source>You have a socket error number</source>
-        <translation>Bạn có một số lỗi ổ cắm (socket)</translation>
+        <translation type="vanished">Bạn có một số lỗi ổ cắm (socket)</translation>
     </message>
     <message>
         <source>game from</source>
-        <translation>lượt chơi từ</translation>
+        <translation type="vanished">lượt chơi từ</translation>
     </message>
     <message>
         <source>Accepted the</source>
-        <translation>Có chấp nhận</translation>
+        <translation type="vanished">Có chấp nhận</translation>
     </message>
     <message>
         <source>Your move...</source>
-        <translation>Bạn đi...</translation>
+        <translation type="vanished">Bạn đi...</translation>
     </message>
     <message>
         <source>Waiting a move...</source>
-        <translation>Đợi đi...</translation>
+        <translation type="vanished">Đợi đi...</translation>
     </message>
     <message>
         <source>End the game</source>
-        <translation>Kết thúc trò chơi</translation>
+        <translation type="vanished">Kết thúc trò chơi</translation>
     </message>
     <message>
         <source>Want you to end the game?
 You will lose it</source>
-        <translation>Muốn bạn kết thúc trò chơi?
+        <translation type="vanished">Muốn bạn kết thúc trò chơi?
 Bạn sẽ thua</translation>
     </message>
     <message>
         <source>Yes, end</source>
-        <translation>Kết thúc</translation>
+        <translation type="vanished">Kết thúc</translation>
     </message>
     <message>
         <source>No, continue</source>
-        <translation>Không, tiếp tục</translation>
+        <translation type="vanished">Không, tiếp tục</translation>
     </message>
     <message>
         <source>B</source>
-        <translation>B</translation>
+        <translation type="vanished">B</translation>
     </message>
     <message>
         <source>K</source>
-        <translation>K</translation>
+        <translation type="vanished">K</translation>
     </message>
     <message>
         <source>C</source>
-        <translation>C</translation>
+        <translation type="vanished">C</translation>
     </message>
     <message>
         <source>Q</source>
-        <translation>Q</translation>
+        <translation type="vanished">Q</translation>
     </message>
     <message>
         <source>Error!</source>
-        <translation>Lỗi!</translation>
+        <translation type="vanished">Lỗi!</translation>
     </message>
     <message>
         <source>Lookup Error</source>
-        <translation>Lỗi tra cứu!</translation>
+        <translation type="vanished">Lỗi tra cứu!</translation>
     </message>
     <message>
         <source>The host</source>
-        <translation>Máy chủ</translation>
+        <translation type="vanished">Máy chủ</translation>
     </message>
     <message>
         <source>not found.</source>
-        <translation>không tìm thấy.</translation>
+        <translation type="vanished">không tìm thấy.</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>Lưu ảnh</translation>
+        <translation type="vanished">Lưu ảnh</translation>
     </message>
     <message>
         <source>Do you want to save the image?</source>
-        <translation>Bạn có muốn lưu ảnh này không?</translation>
+        <translation type="vanished">Bạn có muốn lưu ảnh này không?</translation>
     </message>
     <message>
         <source>Yes, save</source>
-        <translation>Lưu</translation>
+        <translation type="vanished">Lưu</translation>
     </message>
     <message>
         <source>No, don&apos;t save</source>
-        <translation>Không, đừng Lưu</translation>
+        <translation type="vanished">Không, đừng Lưu</translation>
     </message>
     <message>
         <source>Game over</source>
-        <translation>Trò chơi kết thúc</translation>
+        <translation type="vanished">Trò chơi kết thúc</translation>
     </message>
     <message>
         <source>You scored the game</source>
-        <translation>Bạn đã ghi điểm</translation>
+        <translation type="vanished">Bạn đã ghi điểm</translation>
     </message>
     <message>
         <source>You have a mate.
 You lost the game.</source>
-        <translation>Bạn bị chiếu!
+        <translation type="vanished">Bạn bị chiếu!
 Bạn đã thua!</translation>
     </message>
     <message>
         <source>You have a stalemate</source>
-        <translation>Bạn trong thế bí!</translation>
+        <translation type="vanished">Bạn trong thế bí!</translation>
     </message>
 </context>
 <context>
@@ -6671,10 +6671,26 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
 </context>
 <context>
-    <name>ImagePreviewPlugin</name>
+    <name>ImagePreviewOptions</name>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Tác giả:</translation>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum image size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image preview size in pixels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow upscale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exceptions</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>512 Kb</source>
@@ -6696,17 +6712,12 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>10 Mb</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>ImagePreviewPlugin</name>
     <message>
-        <source>Maximum image size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Image preview size in pixels</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Allow upscale</source>
-        <translation type="unfinished"></translation>
+        <source>Author: </source>
+        <translation type="vanished">Tác giả:</translation>
     </message>
     <message>
         <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
@@ -7795,31 +7806,31 @@ Incoming event(s) from:</source>
     <name>MainWindow</name>
     <message>
         <source>New</source>
-        <translation>Mới</translation>
+        <translation type="vanished">Mới</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>Lưu ảnh</translation>
+        <translation type="vanished">Lưu ảnh</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation>Thoát</translation>
+        <translation type="vanished">Thoát</translation>
     </message>
     <message>
         <source>About the game</source>
-        <translation>Giới thiệu về trò chơi này</translation>
+        <translation type="vanished">Giới thiệu về trò chơi này</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation>Trò chơi</translation>
+        <translation type="vanished">Trò chơi</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Trợ giúp</translation>
+        <translation type="vanished">Trợ giúp</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation>Sẵn sàng</translation>
+        <translation type="vanished">Sẵn sàng</translation>
     </message>
     <message>
         <source>About</source>
@@ -7832,7 +7843,7 @@ You can modify and redistribute the source code
 because it is under GPL.
 
 Russia, Tambov, 2005 (denis@silversoft.net)</source>
-        <translation>là trò chơi cờ vua cho hai người.
+        <translation type="vanished">là trò chơi cờ vua cho hai người.
 Chương trình này chứa cả hai ứng dụng khách và trình phục vụ.
 Bạn có quyền sửa đổi và phát hành lại mã nguồn,
 vì nó được cấp dưới Giấy phép Công cộng GNU (GPL).
@@ -7841,7 +7852,7 @@ Nga, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>About plugin</source>
-        <translation>Trình cắm</translation>
+        <translation type="vanished">Trình cắm</translation>
     </message>
 </context>
 <context>
@@ -14861,11 +14872,11 @@ Description: </source>
     </message>
     <message>
         <source>Socket Error</source>
-        <translation>Lỗi ổ cắm</translation>
+        <translation type="vanished">Lỗi ổ cắm</translation>
     </message>
     <message>
         <source>Cannot create a server socket!</source>
-        <translation>Không thể tạo ổ cắm kiểu máy phục vụ !</translation>
+        <translation type="vanished">Không thể tạo ổ cắm kiểu máy phục vụ !</translation>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
@@ -15966,31 +15977,31 @@ Lý do : %1</translation>
     <name>SelectGame</name>
     <message>
         <source>New game with...</source>
-        <translation>Lượt chơi mới với...</translation>
+        <translation type="vanished">Lượt chơi mới với...</translation>
     </message>
     <message>
         <source>To play with </source>
-        <translation>Để chơi với</translation>
+        <translation type="vanished">Để chơi với</translation>
     </message>
     <message>
         <source>Choose your game</source>
-        <translation>Chọn lượt chơi</translation>
+        <translation type="vanished">Chọn lượt chơi</translation>
     </message>
     <message>
         <source>White game</source>
-        <translation>Chơi màu trắng</translation>
+        <translation type="vanished">Chơi màu trắng</translation>
     </message>
     <message>
         <source>Black game</source>
-        <translation>Chơi màu đen</translation>
+        <translation type="vanished">Chơi màu đen</translation>
     </message>
     <message>
         <source>Play!</source>
-        <translation>Chơi đi !</translation>
+        <translation type="vanished">Chơi đi !</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Thôi</translation>
+        <translation type="vanished">Thôi</translation>
     </message>
 </context>
 <context>

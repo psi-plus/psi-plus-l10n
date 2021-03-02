@@ -3390,27 +3390,27 @@ Proceed?</translation>
     <name>Drawer</name>
     <message>
         <source>Error moving</source>
-        <translation>Error moving</translation>
+        <translation type="vanished">Error moving</translation>
     </message>
     <message>
         <source>You cannot move this figure because the king is in check</source>
-        <translation>You cannot move this figure because the king is in check</translation>
+        <translation type="vanished">You cannot move this figure because the king is in check</translation>
     </message>
     <message>
         <source>To castle</source>
-        <translation>To castle</translation>
+        <translation type="vanished">To castle</translation>
     </message>
     <message>
         <source>Do you want to castle?</source>
-        <translation>Do you want to castle?</translation>
+        <translation type="vanished">Do you want to castle?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Yes</translation>
+        <translation type="vanished">Yes</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>No</translation>
+        <translation type="vanished">No</translation>
     </message>
 </context>
 <context>
@@ -4329,7 +4329,7 @@ Importantly: a large part of the options are important system settings. These re
     <name>FigureDialog</name>
     <message>
         <source>What figure should I set?</source>
-        <translation>What figure should I set?</translation>
+        <translation type="vanished">What figure should I set?</translation>
     </message>
 </context>
 <context>
@@ -5184,147 +5184,147 @@ Reason: %1</translation>
     <name>GameBoard</name>
     <message>
         <source>White</source>
-        <translation>White</translation>
+        <translation type="vanished">White</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>Black</translation>
+        <translation type="vanished">Black</translation>
     </message>
     <message>
         <source>game with</source>
-        <translation>game with</translation>
+        <translation type="vanished">game with</translation>
     </message>
     <message>
         <source>Game chat</source>
-        <translation>Game chat</translation>
+        <translation type="vanished">Game chat</translation>
     </message>
     <message>
         <source>History</source>
-        <translation>History</translation>
+        <translation type="vanished">History</translation>
     </message>
     <message>
         <source>Looking up the host</source>
-        <translation>Looking up the host</translation>
+        <translation type="vanished">Looking up the host</translation>
     </message>
     <message>
         <source>Accepted a new connection</source>
-        <translation>Accepted a new connection</translation>
+        <translation type="vanished">Accepted a new connection</translation>
     </message>
     <message>
         <source>The host found</source>
-        <translation>The host found</translation>
+        <translation type="vanished">The host found</translation>
     </message>
     <message>
         <source>Connected to the host</source>
-        <translation>Connected to the host</translation>
+        <translation type="vanished">Connected to the host</translation>
     </message>
     <message>
         <source>Socket Error...</source>
-        <translation>Socket Error...</translation>
+        <translation type="vanished">Socket Error...</translation>
     </message>
     <message>
         <source>You have a socket error number</source>
-        <translation>You have a socket error number</translation>
+        <translation type="vanished">You have a socket error number</translation>
     </message>
     <message>
         <source>game from</source>
-        <translation>game from</translation>
+        <translation type="vanished">game from</translation>
     </message>
     <message>
         <source>Accepted the</source>
-        <translation>Accepted the</translation>
+        <translation type="vanished">Accepted the</translation>
     </message>
     <message>
         <source>Your move...</source>
-        <translation>Your move...</translation>
+        <translation type="vanished">Your move...</translation>
     </message>
     <message>
         <source>Waiting a move...</source>
-        <translation>Waiting a move...</translation>
+        <translation type="vanished">Waiting a move...</translation>
     </message>
     <message>
         <source>End the game</source>
-        <translation>End the game</translation>
+        <translation type="vanished">End the game</translation>
     </message>
     <message>
         <source>Want you to end the game?
 You will lose it</source>
-        <translation>Want you to end the game?
+        <translation type="vanished">Want you to end the game?
 You will lose it</translation>
     </message>
     <message>
         <source>Yes, end</source>
-        <translation>Yes, end</translation>
+        <translation type="vanished">Yes, end</translation>
     </message>
     <message>
         <source>No, continue</source>
-        <translation>No, continue</translation>
+        <translation type="vanished">No, continue</translation>
     </message>
     <message>
         <source>B</source>
-        <translation>B</translation>
+        <translation type="vanished">B</translation>
     </message>
     <message>
         <source>K</source>
-        <translation>K</translation>
+        <translation type="vanished">K</translation>
     </message>
     <message>
         <source>C</source>
-        <translation>C</translation>
+        <translation type="vanished">C</translation>
     </message>
     <message>
         <source>Q</source>
-        <translation>Q</translation>
+        <translation type="vanished">Q</translation>
     </message>
     <message>
         <source>Error!</source>
-        <translation>Error!</translation>
+        <translation type="vanished">Error!</translation>
     </message>
     <message>
         <source>Lookup Error</source>
-        <translation>Lookup Error</translation>
+        <translation type="vanished">Lookup Error</translation>
     </message>
     <message>
         <source>The host</source>
-        <translation>The host</translation>
+        <translation type="vanished">The host</translation>
     </message>
     <message>
         <source>not found.</source>
-        <translation>not found.</translation>
+        <translation type="vanished">not found.</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>Save image</translation>
+        <translation type="vanished">Save image</translation>
     </message>
     <message>
         <source>Do you want to save the image?</source>
-        <translation>Do you want to save the image?</translation>
+        <translation type="vanished">Do you want to save the image?</translation>
     </message>
     <message>
         <source>Yes, save</source>
-        <translation>Yes, save</translation>
+        <translation type="vanished">Yes, save</translation>
     </message>
     <message>
         <source>No, don&apos;t save</source>
-        <translation>No, don&apos;t save</translation>
+        <translation type="vanished">No, don&apos;t save</translation>
     </message>
     <message>
         <source>Game over</source>
-        <translation>Game over</translation>
+        <translation type="vanished">Game over</translation>
     </message>
     <message>
         <source>You scored the game</source>
-        <translation>You scored the game</translation>
+        <translation type="vanished">You scored the game</translation>
     </message>
     <message>
         <source>You have a mate.
 You lost the game.</source>
-        <translation>You have a mate.
+        <translation type="vanished">You have a mate.
 You lost the game.</translation>
     </message>
     <message>
         <source>You have a stalemate</source>
-        <translation>You have a stalemate</translation>
+        <translation type="vanished">You have a stalemate</translation>
     </message>
 </context>
 <context>
@@ -6767,6 +6767,49 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
 </context>
 <context>
+    <name>ImagePreviewOptions</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Form</translation>
+    </message>
+    <message>
+        <source>Maximum image size</source>
+        <translation type="unfinished">Maximum image size</translation>
+    </message>
+    <message>
+        <source>Image preview size in pixels</source>
+        <translation type="unfinished">Image preview size in pixels</translation>
+    </message>
+    <message>
+        <source>Allow upscale</source>
+        <translation type="unfinished">Allow upscale</translation>
+    </message>
+    <message>
+        <source>Exceptions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>512 Kb</source>
+        <translation type="unfinished">512 Kb</translation>
+    </message>
+    <message>
+        <source>1 Mb</source>
+        <translation type="unfinished">1 Mb</translation>
+    </message>
+    <message>
+        <source>2 Mb</source>
+        <translation type="unfinished">2 Mb</translation>
+    </message>
+    <message>
+        <source>5 Mb</source>
+        <translation type="unfinished">5 Mb</translation>
+    </message>
+    <message>
+        <source>10 Mb</source>
+        <translation type="unfinished">10 Mb</translation>
+    </message>
+</context>
+<context>
     <name>ImagePreviewPlugin</name>
     <message>
         <source>Author: </source>
@@ -6774,35 +6817,35 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>512 Kb</source>
-        <translation>512 Kb</translation>
+        <translation type="vanished">512 Kb</translation>
     </message>
     <message>
         <source>1 Mb</source>
-        <translation>1 Mb</translation>
+        <translation type="vanished">1 Mb</translation>
     </message>
     <message>
         <source>2 Mb</source>
-        <translation>2 Mb</translation>
+        <translation type="vanished">2 Mb</translation>
     </message>
     <message>
         <source>5 Mb</source>
-        <translation>5 Mb</translation>
+        <translation type="vanished">5 Mb</translation>
     </message>
     <message>
         <source>10 Mb</source>
-        <translation>10 Mb</translation>
+        <translation type="vanished">10 Mb</translation>
     </message>
     <message>
         <source>Maximum image size</source>
-        <translation>Maximum image size</translation>
+        <translation type="vanished">Maximum image size</translation>
     </message>
     <message>
         <source>Image preview size in pixels</source>
-        <translation>Image preview size in pixels</translation>
+        <translation type="vanished">Image preview size in pixels</translation>
     </message>
     <message>
         <source>Allow upscale</source>
-        <translation>Allow upscale</translation>
+        <translation type="vanished">Allow upscale</translation>
     </message>
     <message>
         <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
@@ -7914,31 +7957,31 @@ Incoming event(s) from:</translation>
     <name>MainWindow</name>
     <message>
         <source>New</source>
-        <translation>New</translation>
+        <translation type="vanished">New</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>Save image</translation>
+        <translation type="vanished">Save image</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation>Quit</translation>
+        <translation type="vanished">Quit</translation>
     </message>
     <message>
         <source>About the game</source>
-        <translation>About the game</translation>
+        <translation type="vanished">About the game</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation>Game</translation>
+        <translation type="vanished">Game</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Help</translation>
+        <translation type="vanished">Help</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation>Ready</translation>
+        <translation type="vanished">Ready</translation>
     </message>
     <message>
         <source>About</source>
@@ -7951,16 +7994,12 @@ You can modify and redistribute the source code
 because it is under GPL.
 
 Russia, Tambov, 2005 (denis@silversoft.net)</source>
-        <translation>is a network game chess for two players.
+        <translation type="vanished">is a network game chess for two players.
 It has a client and a server in the same program.
 You can modify and redistribute the source code
 because it is under GPL.
 
 Russia, Tambov, 2005 (denis@silversoft.net)</translation>
-    </message>
-    <message>
-        <source>About plugin</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15302,11 +15341,11 @@ Description: </translation>
     </message>
     <message>
         <source>Socket Error</source>
-        <translation>Socket Error</translation>
+        <translation type="vanished">Socket Error</translation>
     </message>
     <message>
         <source>Cannot create a server socket!</source>
-        <translation>Cannot create a server socket!</translation>
+        <translation type="vanished">Cannot create a server socket!</translation>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
@@ -16450,31 +16489,31 @@ Reason: %1</translation>
     <name>SelectGame</name>
     <message>
         <source>New game with...</source>
-        <translation>New game with...</translation>
+        <translation type="vanished">New game with...</translation>
     </message>
     <message>
         <source>To play with </source>
-        <translation>To play with </translation>
+        <translation type="vanished">To play with </translation>
     </message>
     <message>
         <source>Choose your game</source>
-        <translation>Choose your game</translation>
+        <translation type="vanished">Choose your game</translation>
     </message>
     <message>
         <source>White game</source>
-        <translation>White game</translation>
+        <translation type="vanished">White game</translation>
     </message>
     <message>
         <source>Black game</source>
-        <translation>Black game</translation>
+        <translation type="vanished">Black game</translation>
     </message>
     <message>
         <source>Play!</source>
-        <translation>Play!</translation>
+        <translation type="vanished">Play!</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancel</translation>
+        <translation type="vanished">Cancel</translation>
     </message>
 </context>
 <context>

@@ -3390,27 +3390,27 @@ Proceed?</source>
     <name>Drawer</name>
     <message>
         <source>Error moving</source>
-        <translation>Помилка переміщення</translation>
+        <translation type="vanished">Помилка переміщення</translation>
     </message>
     <message>
         <source>You cannot move this figure because the king is in check</source>
-        <translation>Ви не можете перемістити цю фігуру бо Вам шах</translation>
+        <translation type="vanished">Ви не можете перемістити цю фігуру бо Вам шах</translation>
     </message>
     <message>
         <source>To castle</source>
-        <translation>Зробити рокіровку</translation>
+        <translation type="vanished">Зробити рокіровку</translation>
     </message>
     <message>
         <source>Do you want to castle?</source>
-        <translation>Ви хочете зробити рокіровку?</translation>
+        <translation type="vanished">Ви хочете зробити рокіровку?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Так</translation>
+        <translation type="vanished">Так</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Ні</translation>
+        <translation type="vanished">Ні</translation>
     </message>
 </context>
 <context>
@@ -4327,7 +4327,7 @@ Importantly: a large part of the options are important system settings. These re
     <name>FigureDialog</name>
     <message>
         <source>What figure should I set?</source>
-        <translation>Яку фігуру встановити?</translation>
+        <translation type="vanished">Яку фігуру встановити?</translation>
     </message>
 </context>
 <context>
@@ -5182,147 +5182,147 @@ Reason: %1</source>
     <name>GameBoard</name>
     <message>
         <source>White</source>
-        <translation>Білі</translation>
+        <translation type="vanished">Білі</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>Чорні</translation>
+        <translation type="vanished">Чорні</translation>
     </message>
     <message>
         <source>game with</source>
-        <translation>грати з</translation>
+        <translation type="vanished">грати з</translation>
     </message>
     <message>
         <source>Game chat</source>
-        <translation>Чат гри</translation>
+        <translation type="vanished">Чат гри</translation>
     </message>
     <message>
         <source>History</source>
-        <translation>Історія</translation>
+        <translation type="vanished">Історія</translation>
     </message>
     <message>
         <source>Looking up the host</source>
-        <translation>Пошук серверу</translation>
+        <translation type="vanished">Пошук серверу</translation>
     </message>
     <message>
         <source>Accepted a new connection</source>
-        <translation>Прийнято нове з&apos;єднання</translation>
+        <translation type="vanished">Прийнято нове з&apos;єднання</translation>
     </message>
     <message>
         <source>The host found</source>
-        <translation>Сервер знайдено</translation>
+        <translation type="vanished">Сервер знайдено</translation>
     </message>
     <message>
         <source>Connected to the host</source>
-        <translation>Підключено до серверу</translation>
+        <translation type="vanished">Підключено до серверу</translation>
     </message>
     <message>
         <source>Socket Error...</source>
-        <translation>Помилка сокету...</translation>
+        <translation type="vanished">Помилка сокету...</translation>
     </message>
     <message>
         <source>You have a socket error number</source>
-        <translation>У вас помилка сокету номер</translation>
+        <translation type="vanished">У вас помилка сокету номер</translation>
     </message>
     <message>
         <source>game from</source>
-        <translation>грати від</translation>
+        <translation type="vanished">грати від</translation>
     </message>
     <message>
         <source>Accepted the</source>
-        <translation>Прийнято</translation>
+        <translation type="vanished">Прийнято</translation>
     </message>
     <message>
         <source>Your move...</source>
-        <translation>Ваш хід...</translation>
+        <translation type="vanished">Ваш хід...</translation>
     </message>
     <message>
         <source>Waiting a move...</source>
-        <translation>Очікування ходу...</translation>
+        <translation type="vanished">Очікування ходу...</translation>
     </message>
     <message>
         <source>End the game</source>
-        <translation>Кінець гри</translation>
+        <translation type="vanished">Кінець гри</translation>
     </message>
     <message>
         <source>Want you to end the game?
 You will lose it</source>
-        <translation>Завершити гру?
+        <translation type="vanished">Завершити гру?
 Ви програєте</translation>
     </message>
     <message>
         <source>Yes, end</source>
-        <translation>Так, завершити</translation>
+        <translation type="vanished">Так, завершити</translation>
     </message>
     <message>
         <source>No, continue</source>
-        <translation>Ні, продовжити</translation>
+        <translation type="vanished">Ні, продовжити</translation>
     </message>
     <message>
         <source>B</source>
-        <translation>B</translation>
+        <translation type="vanished">B</translation>
     </message>
     <message>
         <source>K</source>
-        <translation>К</translation>
+        <translation type="vanished">К</translation>
     </message>
     <message>
         <source>C</source>
-        <translation>С</translation>
+        <translation type="vanished">С</translation>
     </message>
     <message>
         <source>Q</source>
-        <translation>Q</translation>
+        <translation type="vanished">Q</translation>
     </message>
     <message>
         <source>Error!</source>
-        <translation>Помилка!</translation>
+        <translation type="vanished">Помилка!</translation>
     </message>
     <message>
         <source>Lookup Error</source>
-        <translation>Помилка пошуку</translation>
+        <translation type="vanished">Помилка пошуку</translation>
     </message>
     <message>
         <source>The host</source>
-        <translation>Сервер</translation>
+        <translation type="vanished">Сервер</translation>
     </message>
     <message>
         <source>not found.</source>
-        <translation>не знайдено.</translation>
+        <translation type="vanished">не знайдено.</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>Зберегти зображення</translation>
+        <translation type="vanished">Зберегти зображення</translation>
     </message>
     <message>
         <source>Do you want to save the image?</source>
-        <translation>Зберегти зображення?</translation>
+        <translation type="vanished">Зберегти зображення?</translation>
     </message>
     <message>
         <source>Yes, save</source>
-        <translation>Так, зберегти</translation>
+        <translation type="vanished">Так, зберегти</translation>
     </message>
     <message>
         <source>No, don&apos;t save</source>
-        <translation>Ні, не зберігати</translation>
+        <translation type="vanished">Ні, не зберігати</translation>
     </message>
     <message>
         <source>Game over</source>
-        <translation>Кінець гри</translation>
+        <translation type="vanished">Кінець гри</translation>
     </message>
     <message>
         <source>You scored the game</source>
-        <translation>Ви виграли гру</translation>
+        <translation type="vanished">Ви виграли гру</translation>
     </message>
     <message>
         <source>You have a mate.
 You lost the game.</source>
-        <translation>Вам мат.
+        <translation type="vanished">Вам мат.
 Ви програли.</translation>
     </message>
     <message>
         <source>You have a stalemate</source>
-        <translation>У вас пат</translation>
+        <translation type="vanished">У вас пат</translation>
     </message>
 </context>
 <context>
@@ -6762,6 +6762,49 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
 </context>
 <context>
+    <name>ImagePreviewOptions</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum image size</source>
+        <translation type="unfinished">Максимальний розмір зображення</translation>
+    </message>
+    <message>
+        <source>Image preview size in pixels</source>
+        <translation type="unfinished">Розмір зображення для попереднього перегляду в пікселях</translation>
+    </message>
+    <message>
+        <source>Allow upscale</source>
+        <translation type="unfinished">Дозволити збільшення</translation>
+    </message>
+    <message>
+        <source>Exceptions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>512 Kb</source>
+        <translation type="unfinished">512 Кб</translation>
+    </message>
+    <message>
+        <source>1 Mb</source>
+        <translation type="unfinished">1 Мб</translation>
+    </message>
+    <message>
+        <source>2 Mb</source>
+        <translation type="unfinished">2 Мб</translation>
+    </message>
+    <message>
+        <source>5 Mb</source>
+        <translation type="unfinished">5 Мб</translation>
+    </message>
+    <message>
+        <source>10 Mb</source>
+        <translation type="unfinished">10 Мб</translation>
+    </message>
+</context>
+<context>
     <name>ImagePreviewPlugin</name>
     <message>
         <source>Author: </source>
@@ -6769,35 +6812,35 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>512 Kb</source>
-        <translation>512 Кб</translation>
+        <translation type="vanished">512 Кб</translation>
     </message>
     <message>
         <source>1 Mb</source>
-        <translation>1 Мб</translation>
+        <translation type="vanished">1 Мб</translation>
     </message>
     <message>
         <source>2 Mb</source>
-        <translation>2 Мб</translation>
+        <translation type="vanished">2 Мб</translation>
     </message>
     <message>
         <source>5 Mb</source>
-        <translation>5 Мб</translation>
+        <translation type="vanished">5 Мб</translation>
     </message>
     <message>
         <source>10 Mb</source>
-        <translation>10 Мб</translation>
+        <translation type="vanished">10 Мб</translation>
     </message>
     <message>
         <source>Maximum image size</source>
-        <translation>Максимальний розмір зображення</translation>
+        <translation type="vanished">Максимальний розмір зображення</translation>
     </message>
     <message>
         <source>Image preview size in pixels</source>
-        <translation>Розмір зображення для попереднього перегляду в пікселях</translation>
+        <translation type="vanished">Розмір зображення для попереднього перегляду в пікселях</translation>
     </message>
     <message>
         <source>Allow upscale</source>
-        <translation>Дозволити збільшення</translation>
+        <translation type="vanished">Дозволити збільшення</translation>
     </message>
     <message>
         <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
@@ -7909,31 +7952,31 @@ Incoming event(s) from:</source>
     <name>MainWindow</name>
     <message>
         <source>New</source>
-        <translation>Створити</translation>
+        <translation type="vanished">Створити</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>Зберегти зображення</translation>
+        <translation type="vanished">Зберегти зображення</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation>Вийти</translation>
+        <translation type="vanished">Вийти</translation>
     </message>
     <message>
         <source>About the game</source>
-        <translation>Про гру</translation>
+        <translation type="vanished">Про гру</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation>Гра</translation>
+        <translation type="vanished">Гра</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Довідка</translation>
+        <translation type="vanished">Довідка</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation>Готовий</translation>
+        <translation type="vanished">Готовий</translation>
     </message>
     <message>
         <source>About</source>
@@ -7946,7 +7989,7 @@ You can modify and redistribute the source code
 because it is under GPL.
 
 Russia, Tambov, 2005 (denis@silversoft.net)</source>
-        <translation>це мережева гра в шахи для двох гравців.
+        <translation type="vanished">це мережева гра в шахи для двох гравців.
 І іліент, і сервер реалізовані в програмі.
 Ви можете змінювати і поширювати
 вихідний код під під ліцензією GPL.
@@ -7955,7 +7998,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     </message>
     <message>
         <source>About plugin</source>
-        <translation>Про плагін</translation>
+        <translation type="vanished">Про плагін</translation>
     </message>
 </context>
 <context>
@@ -15274,11 +15317,11 @@ Description: </source>
     </message>
     <message>
         <source>Socket Error</source>
-        <translation>Помилка сокету</translation>
+        <translation type="vanished">Помилка сокету</translation>
     </message>
     <message>
         <source>Cannot create a server socket!</source>
-        <translation>Неможливо створити сокет серверу!</translation>
+        <translation type="vanished">Неможливо створити сокет серверу!</translation>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
@@ -16425,31 +16468,31 @@ Reason: %1</source>
     <name>SelectGame</name>
     <message>
         <source>New game with...</source>
-        <translation>Нова гра з...</translation>
+        <translation type="vanished">Нова гра з...</translation>
     </message>
     <message>
         <source>To play with </source>
-        <translation>Грати з </translation>
+        <translation type="vanished">Грати з </translation>
     </message>
     <message>
         <source>Choose your game</source>
-        <translation>Оберіть гру</translation>
+        <translation type="vanished">Оберіть гру</translation>
     </message>
     <message>
         <source>White game</source>
-        <translation>Грати білими</translation>
+        <translation type="vanished">Грати білими</translation>
     </message>
     <message>
         <source>Black game</source>
-        <translation>Грати чорними</translation>
+        <translation type="vanished">Грати чорними</translation>
     </message>
     <message>
         <source>Play!</source>
-        <translation>Грати!</translation>
+        <translation type="vanished">Грати!</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Скасувати</translation>
+        <translation type="vanished">Скасувати</translation>
     </message>
 </context>
 <context>

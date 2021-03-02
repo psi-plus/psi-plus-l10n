@@ -3140,27 +3140,27 @@ Nadaljujem?</translation>
     <name>Drawer</name>
     <message>
         <source>Error moving</source>
-        <translation>Napaka pri premikanju</translation>
+        <translation type="vanished">Napaka pri premikanju</translation>
     </message>
     <message>
         <source>You cannot move this figure because the king is in check</source>
-        <translation>Te figure ne morete premakniti, ker je kralj v šahu</translation>
+        <translation type="vanished">Te figure ne morete premakniti, ker je kralj v šahu</translation>
     </message>
     <message>
         <source>To castle</source>
-        <translation>Rokada</translation>
+        <translation type="vanished">Rokada</translation>
     </message>
     <message>
         <source>Do you want to castle?</source>
-        <translation>Ali želite narediti rokado?</translation>
+        <translation type="vanished">Ali želite narediti rokado?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Da</translation>
+        <translation type="vanished">Da</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Ne</translation>
+        <translation type="vanished">Ne</translation>
     </message>
 </context>
 <context>
@@ -4040,7 +4040,7 @@ Importantly: a large part of the options are important system settings. These re
     <name>FigureDialog</name>
     <message>
         <source>What figure should I set?</source>
-        <translation>Katero figuro naj nastavim?</translation>
+        <translation type="vanished">Katero figuro naj nastavim?</translation>
     </message>
 </context>
 <context>
@@ -4891,147 +4891,131 @@ Razlog: %1</translation>
     <name>GameBoard</name>
     <message>
         <source>White</source>
-        <translation>Beli</translation>
+        <translation type="vanished">Beli</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>Črni</translation>
+        <translation type="vanished">Črni</translation>
     </message>
     <message>
         <source>game with</source>
-        <translation>igra z</translation>
+        <translation type="vanished">igra z</translation>
     </message>
     <message>
         <source>Game chat</source>
-        <translation>Klepet v igri</translation>
+        <translation type="vanished">Klepet v igri</translation>
     </message>
     <message>
         <source>History</source>
-        <translation>Zgodovina</translation>
+        <translation type="vanished">Zgodovina</translation>
     </message>
     <message>
         <source>Looking up the host</source>
-        <translation>Iskanje gostitelja</translation>
+        <translation type="vanished">Iskanje gostitelja</translation>
     </message>
     <message>
         <source>Accepted a new connection</source>
-        <translation>Sprejeta je bila nova povezava</translation>
+        <translation type="vanished">Sprejeta je bila nova povezava</translation>
     </message>
     <message>
         <source>The host found</source>
-        <translation>Gostitelj je bil najden</translation>
+        <translation type="vanished">Gostitelj je bil najden</translation>
     </message>
     <message>
         <source>Connected to the host</source>
-        <translation>Povezan z gostiteljem</translation>
+        <translation type="vanished">Povezan z gostiteljem</translation>
     </message>
     <message>
         <source>Socket Error...</source>
-        <translation>Napaka vtičnice ...</translation>
+        <translation type="vanished">Napaka vtičnice ...</translation>
     </message>
     <message>
         <source>You have a socket error number</source>
-        <translation>Prišlo je do napake vtičnice s številko</translation>
+        <translation type="vanished">Prišlo je do napake vtičnice s številko</translation>
     </message>
     <message>
         <source>game from</source>
-        <translation>igra od</translation>
+        <translation type="vanished">igra od</translation>
     </message>
     <message>
         <source>Accepted the</source>
-        <translation>Je sprejel</translation>
+        <translation type="vanished">Je sprejel</translation>
     </message>
     <message>
         <source>Your move...</source>
-        <translation>Vaša poteza ...</translation>
+        <translation type="vanished">Vaša poteza ...</translation>
     </message>
     <message>
         <source>Waiting a move...</source>
-        <translation>Čakanje na potezo ...</translation>
+        <translation type="vanished">Čakanje na potezo ...</translation>
     </message>
     <message>
         <source>End the game</source>
-        <translation>Zaključi igro</translation>
+        <translation type="vanished">Zaključi igro</translation>
     </message>
     <message>
         <source>Want you to end the game?
 You will lose it</source>
-        <translation>Ali želite zaključiti igro?
+        <translation type="vanished">Ali želite zaključiti igro?
 S tem boste izgubili</translation>
     </message>
     <message>
         <source>Yes, end</source>
-        <translation>Da, zaključi</translation>
+        <translation type="vanished">Da, zaključi</translation>
     </message>
     <message>
         <source>No, continue</source>
-        <translation>Ne, nadaljuj</translation>
-    </message>
-    <message>
-        <source>B</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>K</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>C</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Q</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Ne, nadaljuj</translation>
     </message>
     <message>
         <source>Error!</source>
-        <translation>Napaka.</translation>
+        <translation type="vanished">Napaka.</translation>
     </message>
     <message>
         <source>Lookup Error</source>
-        <translation>Napaka pri iskanju</translation>
+        <translation type="vanished">Napaka pri iskanju</translation>
     </message>
     <message>
         <source>The host</source>
-        <translation>Gostitelj</translation>
+        <translation type="vanished">Gostitelj</translation>
     </message>
     <message>
         <source>not found.</source>
-        <translation>ni bil najden.</translation>
+        <translation type="vanished">ni bil najden.</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>Shrani sliko</translation>
+        <translation type="vanished">Shrani sliko</translation>
     </message>
     <message>
         <source>Do you want to save the image?</source>
-        <translation>Ali želite shraniti sliko?</translation>
+        <translation type="vanished">Ali želite shraniti sliko?</translation>
     </message>
     <message>
         <source>Yes, save</source>
-        <translation>Da, shrani</translation>
+        <translation type="vanished">Da, shrani</translation>
     </message>
     <message>
         <source>No, don&apos;t save</source>
-        <translation>Ne, ne shrani</translation>
+        <translation type="vanished">Ne, ne shrani</translation>
     </message>
     <message>
         <source>Game over</source>
-        <translation>Konec igre</translation>
+        <translation type="vanished">Konec igre</translation>
     </message>
     <message>
         <source>You scored the game</source>
-        <translation>Zmagali ste</translation>
+        <translation type="vanished">Zmagali ste</translation>
     </message>
     <message>
         <source>You have a mate.
 You lost the game.</source>
-        <translation>Bili ste matirani.
+        <translation type="vanished">Bili ste matirani.
 Izgubili ste igro.</translation>
     </message>
     <message>
         <source>You have a stalemate</source>
-        <translation>Prišlo je do pata</translation>
+        <translation type="vanished">Prišlo je do pata</translation>
     </message>
 </context>
 <context>
@@ -6332,7 +6316,27 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
 </context>
 <context>
-    <name>ImagePreviewPlugin</name>
+    <name>ImagePreviewOptions</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Obrazec</translation>
+    </message>
+    <message>
+        <source>Maximum image size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image preview size in pixels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow upscale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exceptions</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>512 Kb</source>
         <translation type="unfinished"></translation>
@@ -6353,18 +6357,9 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>10 Mb</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Maximum image size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Image preview size in pixels</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Allow upscale</source>
-        <translation type="unfinished"></translation>
-    </message>
+</context>
+<context>
+    <name>ImagePreviewPlugin</name>
     <message>
         <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
 </source>
@@ -7438,31 +7433,31 @@ Incoming event(s) from:</source>
     <name>MainWindow</name>
     <message>
         <source>New</source>
-        <translation>Nova</translation>
+        <translation type="vanished">Nova</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>Shrani sliko</translation>
+        <translation type="vanished">Shrani sliko</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation>Končaj</translation>
+        <translation type="vanished">Končaj</translation>
     </message>
     <message>
         <source>About the game</source>
-        <translation>O igri</translation>
+        <translation type="vanished">O igri</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation>Igra</translation>
+        <translation type="vanished">Igra</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Pomoč</translation>
+        <translation type="vanished">Pomoč</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation>Pripravljen</translation>
+        <translation type="vanished">Pripravljen</translation>
     </message>
     <message>
         <source>About</source>
@@ -7475,16 +7470,12 @@ You can modify and redistribute the source code
 because it is under GPL.
 
 Russia, Tambov, 2005 (denis@silversoft.net)</source>
-        <translation>je omrežna igra šaha za dva igralca.
+        <translation type="vanished">je omrežna igra šaha za dva igralca.
 V istem programu vsebuje odjemalca in strežnika.
 Lahko spreminjate in razširjate izvorno kodo,
 ker je le ta izdana pod licenco GPL.
 
 Rusija, Tambov, 2005 (denis@silversoft.net)</translation>
-    </message>
-    <message>
-        <source>About plugin</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14474,11 +14465,11 @@ Description: </source>
     </message>
     <message>
         <source>Socket Error</source>
-        <translation>Napaka vtičnice</translation>
+        <translation type="vanished">Napaka vtičnice</translation>
     </message>
     <message>
         <source>Cannot create a server socket!</source>
-        <translation>Ni moč ustvariti vtičnice za strežnik.</translation>
+        <translation type="vanished">Ni moč ustvariti vtičnice za strežnik.</translation>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
@@ -15577,31 +15568,31 @@ Razlog: %1</translation>
     <name>SelectGame</name>
     <message>
         <source>New game with...</source>
-        <translation>Nova igra z ...</translation>
+        <translation type="vanished">Nova igra z ...</translation>
     </message>
     <message>
         <source>To play with </source>
-        <translation>Za igro z </translation>
+        <translation type="vanished">Za igro z </translation>
     </message>
     <message>
         <source>Choose your game</source>
-        <translation>Izberite svojo igro</translation>
+        <translation type="vanished">Izberite svojo igro</translation>
     </message>
     <message>
         <source>White game</source>
-        <translation>Bela igra</translation>
+        <translation type="vanished">Bela igra</translation>
     </message>
     <message>
         <source>Black game</source>
-        <translation>Črna igra</translation>
+        <translation type="vanished">Črna igra</translation>
     </message>
     <message>
         <source>Play!</source>
-        <translation>Igraj!</translation>
+        <translation type="vanished">Igraj!</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Prekliči</translation>
+        <translation type="vanished">Prekliči</translation>
     </message>
 </context>
 <context>

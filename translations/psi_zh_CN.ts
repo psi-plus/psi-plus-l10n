@@ -3377,27 +3377,27 @@ Proceed?</source>
     <name>Drawer</name>
     <message>
         <source>Error moving</source>
-        <translation>移动错误</translation>
+        <translation type="vanished">移动错误</translation>
     </message>
     <message>
         <source>You cannot move this figure because the king is in check</source>
-        <translation>你不能移动这步棋因为已经将军了</translation>
+        <translation type="vanished">你不能移动这步棋因为已经将军了</translation>
     </message>
     <message>
         <source>To castle</source>
-        <translation>到城堡</translation>
+        <translation type="vanished">到城堡</translation>
     </message>
     <message>
         <source>Do you want to castle?</source>
-        <translation>你想要到城堡吗?</translation>
+        <translation type="vanished">你想要到城堡吗?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>确定</translation>
+        <translation type="vanished">确定</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>否</translation>
+        <translation type="vanished">否</translation>
     </message>
 </context>
 <context>
@@ -4315,7 +4315,7 @@ Importantly: a large part of the options are important system settings. These re
     <name>FigureDialog</name>
     <message>
         <source>What figure should I set?</source>
-        <translation>我要设置哪一个设置档?</translation>
+        <translation type="vanished">我要设置哪一个设置档?</translation>
     </message>
 </context>
 <context>
@@ -5166,147 +5166,147 @@ Reason: %1</source>
     <name>GameBoard</name>
     <message>
         <source>White</source>
-        <translation>白</translation>
+        <translation type="vanished">白</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>黑</translation>
+        <translation type="vanished">黑</translation>
     </message>
     <message>
         <source>game with</source>
-        <translation>玩游戏与</translation>
+        <translation type="vanished">玩游戏与</translation>
     </message>
     <message>
         <source>Game chat</source>
-        <translation>游戏对话</translation>
+        <translation type="vanished">游戏对话</translation>
     </message>
     <message>
         <source>History</source>
-        <translation>历史</translation>
+        <translation type="vanished">历史</translation>
     </message>
     <message>
         <source>Looking up the host</source>
-        <translation>查找主机</translation>
+        <translation type="vanished">查找主机</translation>
     </message>
     <message>
         <source>Accepted a new connection</source>
-        <translation>接受新连接</translation>
+        <translation type="vanished">接受新连接</translation>
     </message>
     <message>
         <source>The host found</source>
-        <translation>已找到主机</translation>
+        <translation type="vanished">已找到主机</translation>
     </message>
     <message>
         <source>Connected to the host</source>
-        <translation>连接到主机</translation>
+        <translation type="vanished">连接到主机</translation>
     </message>
     <message>
         <source>Socket Error...</source>
-        <translation>socket 错误...</translation>
+        <translation type="vanished">socket 错误...</translation>
     </message>
     <message>
         <source>You have a socket error number</source>
-        <translation>你有一个 socket 错误号码</translation>
+        <translation type="vanished">你有一个 socket 错误号码</translation>
     </message>
     <message>
         <source>game from</source>
-        <translation>游戏从</translation>
+        <translation type="vanished">游戏从</translation>
     </message>
     <message>
         <source>Accepted the</source>
-        <translation>接受</translation>
+        <translation type="vanished">接受</translation>
     </message>
     <message>
         <source>Your move...</source>
-        <translation>你的移动...</translation>
+        <translation type="vanished">你的移动...</translation>
     </message>
     <message>
         <source>Waiting a move...</source>
-        <translation>等待移动...</translation>
+        <translation type="vanished">等待移动...</translation>
     </message>
     <message>
         <source>End the game</source>
-        <translation>结束游戏</translation>
+        <translation type="vanished">结束游戏</translation>
     </message>
     <message>
         <source>Want you to end the game?
 You will lose it</source>
-        <translation>你想要结束游戏吗?
+        <translation type="vanished">你想要结束游戏吗?
 你会输掉喔</translation>
     </message>
     <message>
         <source>Yes, end</source>
-        <translation>是，结束</translation>
+        <translation type="vanished">是，结束</translation>
     </message>
     <message>
         <source>No, continue</source>
-        <translation>否, 继续</translation>
+        <translation type="vanished">否, 继续</translation>
     </message>
     <message>
         <source>B</source>
-        <translation>B</translation>
+        <translation type="vanished">B</translation>
     </message>
     <message>
         <source>K</source>
-        <translation>K</translation>
+        <translation type="vanished">K</translation>
     </message>
     <message>
         <source>C</source>
-        <translation>C</translation>
+        <translation type="vanished">C</translation>
     </message>
     <message>
         <source>Q</source>
-        <translation>Q</translation>
+        <translation type="vanished">Q</translation>
     </message>
     <message>
         <source>Error!</source>
-        <translation>错误!</translation>
+        <translation type="vanished">错误!</translation>
     </message>
     <message>
         <source>Lookup Error</source>
-        <translation>查找时发生错误</translation>
+        <translation type="vanished">查找时发生错误</translation>
     </message>
     <message>
         <source>The host</source>
-        <translation>主机</translation>
+        <translation type="vanished">主机</translation>
     </message>
     <message>
         <source>not found.</source>
-        <translation>找不到。</translation>
+        <translation type="vanished">找不到。</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>保存图片</translation>
+        <translation type="vanished">保存图片</translation>
     </message>
     <message>
         <source>Do you want to save the image?</source>
-        <translation>你要保存图片吗?</translation>
+        <translation type="vanished">你要保存图片吗?</translation>
     </message>
     <message>
         <source>Yes, save</source>
-        <translation>是，保存</translation>
+        <translation type="vanished">是，保存</translation>
     </message>
     <message>
         <source>No, don&apos;t save</source>
-        <translation>否, 不要储存</translation>
+        <translation type="vanished">否, 不要储存</translation>
     </message>
     <message>
         <source>Game over</source>
-        <translation>游戏结束</translation>
+        <translation type="vanished">游戏结束</translation>
     </message>
     <message>
         <source>You scored the game</source>
-        <translation>你得分了</translation>
+        <translation type="vanished">你得分了</translation>
     </message>
     <message>
         <source>You have a mate.
 You lost the game.</source>
-        <translation>你被将军了。
+        <translation type="vanished">你被将军了。
 你输了这场游戏。</translation>
     </message>
     <message>
         <source>You have a stalemate</source>
-        <translation>你现在无路可走</translation>
+        <translation type="vanished">你现在无路可走</translation>
     </message>
 </context>
 <context>
@@ -6743,6 +6743,49 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
 </context>
 <context>
+    <name>ImagePreviewOptions</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum image size</source>
+        <translation type="unfinished">最大图片大小</translation>
+    </message>
+    <message>
+        <source>Image preview size in pixels</source>
+        <translation type="unfinished">像素图片预览大小</translation>
+    </message>
+    <message>
+        <source>Allow upscale</source>
+        <translation type="unfinished">允许高端</translation>
+    </message>
+    <message>
+        <source>Exceptions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>512 Kb</source>
+        <translation type="unfinished">512 Kb</translation>
+    </message>
+    <message>
+        <source>1 Mb</source>
+        <translation type="unfinished">1 Mb</translation>
+    </message>
+    <message>
+        <source>2 Mb</source>
+        <translation type="unfinished">2 Mb</translation>
+    </message>
+    <message>
+        <source>5 Mb</source>
+        <translation type="unfinished">5 Mb</translation>
+    </message>
+    <message>
+        <source>10 Mb</source>
+        <translation type="unfinished">10 Mb</translation>
+    </message>
+</context>
+<context>
     <name>ImagePreviewPlugin</name>
     <message>
         <source>Author: </source>
@@ -6750,35 +6793,35 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>512 Kb</source>
-        <translation>512 Kb</translation>
+        <translation type="vanished">512 Kb</translation>
     </message>
     <message>
         <source>1 Mb</source>
-        <translation>1 Mb</translation>
+        <translation type="vanished">1 Mb</translation>
     </message>
     <message>
         <source>2 Mb</source>
-        <translation>2 Mb</translation>
+        <translation type="vanished">2 Mb</translation>
     </message>
     <message>
         <source>5 Mb</source>
-        <translation>5 Mb</translation>
+        <translation type="vanished">5 Mb</translation>
     </message>
     <message>
         <source>10 Mb</source>
-        <translation>10 Mb</translation>
+        <translation type="vanished">10 Mb</translation>
     </message>
     <message>
         <source>Maximum image size</source>
-        <translation>最大图片大小</translation>
+        <translation type="vanished">最大图片大小</translation>
     </message>
     <message>
         <source>Image preview size in pixels</source>
-        <translation>像素图片预览大小</translation>
+        <translation type="vanished">像素图片预览大小</translation>
     </message>
     <message>
         <source>Allow upscale</source>
-        <translation>允许高端</translation>
+        <translation type="vanished">允许高端</translation>
     </message>
     <message>
         <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
@@ -7887,31 +7930,31 @@ Incoming event(s) from:</source>
     <name>MainWindow</name>
     <message>
         <source>New</source>
-        <translation>新</translation>
+        <translation type="vanished">新</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>保存图片</translation>
+        <translation type="vanished">保存图片</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation>退出</translation>
+        <translation type="vanished">退出</translation>
     </message>
     <message>
         <source>About the game</source>
-        <translation>关于游戏</translation>
+        <translation type="vanished">关于游戏</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation>游戏</translation>
+        <translation type="vanished">游戏</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>帮助</translation>
+        <translation type="vanished">帮助</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation>准备好了</translation>
+        <translation type="vanished">准备好了</translation>
     </message>
     <message>
         <source>About</source>
@@ -7924,7 +7967,7 @@ You can modify and redistribute the source code
 because it is under GPL.
 
 Russia, Tambov, 2005 (denis@silversoft.net)</source>
-        <translation>是一个给两人玩的网络西洋棋游戏。
+        <translation type="vanished">是一个给两人玩的网络西洋棋游戏。
 服务器和客户端在同一个程序中。
 你可以修改和再散布原始码，
 因为它是使用 GPL 的。
@@ -7933,7 +7976,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>About plugin</source>
-        <translation>关于插件</translation>
+        <translation type="vanished">关于插件</translation>
     </message>
 </context>
 <context>
@@ -15241,11 +15284,11 @@ Description: </source>
     </message>
     <message>
         <source>Socket Error</source>
-        <translation>socket 错误</translation>
+        <translation type="vanished">socket 错误</translation>
     </message>
     <message>
         <source>Cannot create a server socket!</source>
-        <translation>无法建立服务器 socket!</translation>
+        <translation type="vanished">无法建立服务器 socket!</translation>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
@@ -16376,31 +16419,31 @@ Reason: %1</source>
     <name>SelectGame</name>
     <message>
         <source>New game with...</source>
-        <translation>新游戏...</translation>
+        <translation type="vanished">新游戏...</translation>
     </message>
     <message>
         <source>To play with </source>
-        <translation>玩游戏与</translation>
+        <translation type="vanished">玩游戏与</translation>
     </message>
     <message>
         <source>Choose your game</source>
-        <translation>选择你的游戏</translation>
+        <translation type="vanished">选择你的游戏</translation>
     </message>
     <message>
         <source>White game</source>
-        <translation>白游戏</translation>
+        <translation type="vanished">白游戏</translation>
     </message>
     <message>
         <source>Black game</source>
-        <translation>黑游戏</translation>
+        <translation type="vanished">黑游戏</translation>
     </message>
     <message>
         <source>Play!</source>
-        <translation>玩!</translation>
+        <translation type="vanished">玩!</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>取消</translation>
+        <translation type="vanished">取消</translation>
     </message>
 </context>
 <context>

@@ -3374,27 +3374,27 @@ Folytatod?</translation>
     <name>Drawer</name>
     <message>
         <source>Error moving</source>
-        <translation>Hiba a lépés közben</translation>
+        <translation type="vanished">Hiba a lépés közben</translation>
     </message>
     <message>
         <source>You cannot move this figure because the king is in check</source>
-        <translation>Nem mozgathatod ezt a figurát, mert sakkban van a királyod</translation>
+        <translation type="vanished">Nem mozgathatod ezt a figurát, mert sakkban van a királyod</translation>
     </message>
     <message>
         <source>To castle</source>
-        <translation>Sáncolás</translation>
+        <translation type="vanished">Sáncolás</translation>
     </message>
     <message>
         <source>Do you want to castle?</source>
-        <translation>Szeretnél sáncolni?</translation>
+        <translation type="vanished">Szeretnél sáncolni?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Igen</translation>
+        <translation type="vanished">Igen</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Nem</translation>
+        <translation type="vanished">Nem</translation>
     </message>
 </context>
 <context>
@@ -4311,7 +4311,7 @@ Legfőképpen: nagy része a beállításoknak fontos rendszerbeállítás. Ezek
     <name>FigureDialog</name>
     <message>
         <source>What figure should I set?</source>
-        <translation>Milyen figurát állítsak be?</translation>
+        <translation type="vanished">Milyen figurát állítsak be?</translation>
     </message>
 </context>
 <context>
@@ -5166,147 +5166,147 @@ Oka: %1</translation>
     <name>GameBoard</name>
     <message>
         <source>White</source>
-        <translation>Fehér</translation>
+        <translation type="vanished">Fehér</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>Fekete</translation>
+        <translation type="vanished">Fekete</translation>
     </message>
     <message>
         <source>game with</source>
-        <translation>játék a következővel:</translation>
+        <translation type="vanished">játék a következővel:</translation>
     </message>
     <message>
         <source>Game chat</source>
-        <translation>Játékbeszélgetés</translation>
+        <translation type="vanished">Játékbeszélgetés</translation>
     </message>
     <message>
         <source>History</source>
-        <translation>Előzmények</translation>
+        <translation type="vanished">Előzmények</translation>
     </message>
     <message>
         <source>Looking up the host</source>
-        <translation>Kiszolgáló felkeresése</translation>
+        <translation type="vanished">Kiszolgáló felkeresése</translation>
     </message>
     <message>
         <source>Accepted a new connection</source>
-        <translation>Új kapcsolat elfogadva</translation>
+        <translation type="vanished">Új kapcsolat elfogadva</translation>
     </message>
     <message>
         <source>The host found</source>
-        <translation>A kiszolgáló megtalálva</translation>
+        <translation type="vanished">A kiszolgáló megtalálva</translation>
     </message>
     <message>
         <source>Connected to the host</source>
-        <translation>Csatlakozva a kiszolgálóhoz</translation>
+        <translation type="vanished">Csatlakozva a kiszolgálóhoz</translation>
     </message>
     <message>
         <source>Socket Error...</source>
-        <translation>Sockethiba...</translation>
+        <translation type="vanished">Sockethiba...</translation>
     </message>
     <message>
         <source>You have a socket error number</source>
-        <translation>Sockethiba</translation>
+        <translation type="vanished">Sockethiba</translation>
     </message>
     <message>
         <source>game from</source>
-        <translation>játék innen: </translation>
+        <translation type="vanished">játék innen: </translation>
     </message>
     <message>
         <source>Accepted the</source>
-        <translation>Elfogadta a</translation>
+        <translation type="vanished">Elfogadta a</translation>
     </message>
     <message>
         <source>Your move...</source>
-        <translation>Te jössz...</translation>
+        <translation type="vanished">Te jössz...</translation>
     </message>
     <message>
         <source>Waiting a move...</source>
-        <translation>Várakozás lépésre...</translation>
+        <translation type="vanished">Várakozás lépésre...</translation>
     </message>
     <message>
         <source>End the game</source>
-        <translation>Játék befejezése</translation>
+        <translation type="vanished">Játék befejezése</translation>
     </message>
     <message>
         <source>Want you to end the game?
 You will lose it</source>
-        <translation>Biztosan be akarod fejezni a játékot?
+        <translation type="vanished">Biztosan be akarod fejezni a játékot?
 Elveszíted.</translation>
     </message>
     <message>
         <source>Yes, end</source>
-        <translation>Igen, vége</translation>
+        <translation type="vanished">Igen, vége</translation>
     </message>
     <message>
         <source>No, continue</source>
-        <translation>Nem, folytatás</translation>
+        <translation type="vanished">Nem, folytatás</translation>
     </message>
     <message>
         <source>B</source>
-        <translation>B</translation>
+        <translation type="vanished">B</translation>
     </message>
     <message>
         <source>K</source>
-        <translation>K</translation>
+        <translation type="vanished">K</translation>
     </message>
     <message>
         <source>C</source>
-        <translation>C</translation>
+        <translation type="vanished">C</translation>
     </message>
     <message>
         <source>Q</source>
-        <translation>Q</translation>
+        <translation type="vanished">Q</translation>
     </message>
     <message>
         <source>Error!</source>
-        <translation>Hiba!</translation>
+        <translation type="vanished">Hiba!</translation>
     </message>
     <message>
         <source>Lookup Error</source>
-        <translation>Keresési hiba</translation>
+        <translation type="vanished">Keresési hiba</translation>
     </message>
     <message>
         <source>The host</source>
-        <translation>A kiszolgáló</translation>
+        <translation type="vanished">A kiszolgáló</translation>
     </message>
     <message>
         <source>not found.</source>
-        <translation>nem található.</translation>
+        <translation type="vanished">nem található.</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>Kép mentése</translation>
+        <translation type="vanished">Kép mentése</translation>
     </message>
     <message>
         <source>Do you want to save the image?</source>
-        <translation>El akarod menteni a képet?</translation>
+        <translation type="vanished">El akarod menteni a képet?</translation>
     </message>
     <message>
         <source>Yes, save</source>
-        <translation>Igen, mentés</translation>
+        <translation type="vanished">Igen, mentés</translation>
     </message>
     <message>
         <source>No, don&apos;t save</source>
-        <translation>Nem, nincs mentés</translation>
+        <translation type="vanished">Nem, nincs mentés</translation>
     </message>
     <message>
         <source>Game over</source>
-        <translation>Játék vége</translation>
+        <translation type="vanished">Játék vége</translation>
     </message>
     <message>
         <source>You scored the game</source>
-        <translation>Te nyerted a játékot</translation>
+        <translation type="vanished">Te nyerted a játékot</translation>
     </message>
     <message>
         <source>You have a mate.
 You lost the game.</source>
-        <translation>Mattot kaptál.
+        <translation type="vanished">Mattot kaptál.
 Vesztettél.</translation>
     </message>
     <message>
         <source>You have a stalemate</source>
-        <translation>A játék döntetlen lett</translation>
+        <translation type="vanished">A játék döntetlen lett</translation>
     </message>
 </context>
 <context>
@@ -6749,10 +6749,26 @@ Megjegyzés: A helyes működéshez az &apos;options.ui.chat.central-toolbar&apo
     </message>
 </context>
 <context>
-    <name>ImagePreviewPlugin</name>
+    <name>ImagePreviewOptions</name>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Szerző: </translation>
+        <source>Form</source>
+        <translation type="unfinished">Űrlap</translation>
+    </message>
+    <message>
+        <source>Maximum image size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image preview size in pixels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow upscale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exceptions</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>512 Kb</source>
@@ -6774,17 +6790,12 @@ Megjegyzés: A helyes működéshez az &apos;options.ui.chat.central-toolbar&apo
         <source>10 Mb</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>ImagePreviewPlugin</name>
     <message>
-        <source>Maximum image size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Image preview size in pixels</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Allow upscale</source>
-        <translation type="unfinished"></translation>
+        <source>Author: </source>
+        <translation type="vanished">Szerző: </translation>
     </message>
     <message>
         <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
@@ -7881,31 +7892,31 @@ Bejövő esemény(ek) innen:</translation>
     <name>MainWindow</name>
     <message>
         <source>New</source>
-        <translation>Új</translation>
+        <translation type="vanished">Új</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>Kép mentése</translation>
+        <translation type="vanished">Kép mentése</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation>Kilépés</translation>
+        <translation type="vanished">Kilépés</translation>
     </message>
     <message>
         <source>About the game</source>
-        <translation>A játékról</translation>
+        <translation type="vanished">A játékról</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation>Játék</translation>
+        <translation type="vanished">Játék</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Súgó</translation>
+        <translation type="vanished">Súgó</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation>Kész</translation>
+        <translation type="vanished">Kész</translation>
     </message>
     <message>
         <source>About</source>
@@ -7918,16 +7929,12 @@ You can modify and redistribute the source code
 because it is under GPL.
 
 Russia, Tambov, 2005 (denis@silversoft.net)</source>
-        <translation>hálózati sakkjáték két játékosnak
+        <translation type="vanished">hálózati sakkjáték két játékosnak
 Kliens és szerver rész egyben van a programban.
 Módosíthatod a forráskódot, mert a használt
 GPL licenc megengedi.
 
 Oroszország, Tambov, 2005 (denis@silversoft.net)</translation>
-    </message>
-    <message>
-        <source>About plugin</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15222,11 +15229,11 @@ Leírás:</translation>
     </message>
     <message>
         <source>Socket Error</source>
-        <translation>Sockethiba</translation>
+        <translation type="vanished">Sockethiba</translation>
     </message>
     <message>
         <source>Cannot create a server socket!</source>
-        <translation>Nem sikerült a szerversocket létrehozása!</translation>
+        <translation type="vanished">Nem sikerült a szerversocket létrehozása!</translation>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
@@ -16354,31 +16361,31 @@ Oka: %1</translation>
     <name>SelectGame</name>
     <message>
         <source>New game with...</source>
-        <translation>Új játék indítása...</translation>
+        <translation type="vanished">Új játék indítása...</translation>
     </message>
     <message>
         <source>To play with </source>
-        <translation>Játék a következővel:</translation>
+        <translation type="vanished">Játék a következővel:</translation>
     </message>
     <message>
         <source>Choose your game</source>
-        <translation>Játékválasztás</translation>
+        <translation type="vanished">Játékválasztás</translation>
     </message>
     <message>
         <source>White game</source>
-        <translation>Fehér játék</translation>
+        <translation type="vanished">Fehér játék</translation>
     </message>
     <message>
         <source>Black game</source>
-        <translation>Fekete játék</translation>
+        <translation type="vanished">Fekete játék</translation>
     </message>
     <message>
         <source>Play!</source>
-        <translation>Indítás!</translation>
+        <translation type="vanished">Indítás!</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Mégsem</translation>
+        <translation type="vanished">Mégsem</translation>
     </message>
 </context>
 <context>

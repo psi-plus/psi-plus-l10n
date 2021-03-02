@@ -3149,27 +3149,15 @@ Proceed?</source>
     <name>Drawer</name>
     <message>
         <source>Error moving</source>
-        <translation>ہٹانے میں نقص</translation>
-    </message>
-    <message>
-        <source>You cannot move this figure because the king is in check</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>To castle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you want to castle?</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">ہٹانے میں نقص</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>ہاں</translation>
+        <translation type="vanished">ہاں</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>نہیں</translation>
+        <translation type="vanished">نہیں</translation>
     </message>
 </context>
 <context>
@@ -4045,13 +4033,6 @@ Importantly: a large part of the options are important system settings. These re
     </message>
 </context>
 <context>
-    <name>FigureDialog</name>
-    <message>
-        <source>What figure should I set?</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>FileEvent</name>
     <message>
         <source>This user wants to send you a file.</source>
@@ -4897,145 +4878,15 @@ Reason: %1</source>
     <name>GameBoard</name>
     <message>
         <source>White</source>
-        <translation>صفید</translation>
+        <translation type="vanished">صفید</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>کالا</translation>
-    </message>
-    <message>
-        <source>game with</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Game chat</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>History</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Looking up the host</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Accepted a new connection</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The host found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Connected to the host</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Socket Error...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You have a socket error number</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>game from</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Accepted the</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your move...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Waiting a move...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>End the game</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Want you to end the game?
-You will lose it</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Yes, end</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No, continue</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>B</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>K</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>C</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Q</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Lookup Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The host</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>not found.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">کالا</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>نقش محفوظ کریں</translation>
-    </message>
-    <message>
-        <source>Do you want to save the image?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Yes, save</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No, don&apos;t save</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Game over</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You scored the game</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You have a mate.
-You lost the game.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You have a stalemate</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">نقش محفوظ کریں</translation>
     </message>
 </context>
 <context>
@@ -6336,7 +6187,27 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
 </context>
 <context>
-    <name>ImagePreviewPlugin</name>
+    <name>ImagePreviewOptions</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">فارم </translation>
+    </message>
+    <message>
+        <source>Maximum image size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image preview size in pixels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow upscale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exceptions</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>512 Kb</source>
         <translation type="unfinished"></translation>
@@ -6357,18 +6228,9 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>10 Mb</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Maximum image size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Image preview size in pixels</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Allow upscale</source>
-        <translation type="unfinished"></translation>
-    </message>
+</context>
+<context>
+    <name>ImagePreviewPlugin</name>
     <message>
         <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
 </source>
@@ -7445,48 +7307,35 @@ Incoming event(s) from:</source>
     <name>MainWindow</name>
     <message>
         <source>New</source>
-        <translation>نیا</translation>
+        <translation type="vanished">نیا</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>نقش محفوظ کریں</translation>
+        <translation type="vanished">نقش محفوظ کریں</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation>کنارہ کریں</translation>
+        <translation type="vanished">کنارہ کریں</translation>
     </message>
     <message>
         <source>About the game</source>
-        <translation>گیم کے بارے میں</translation>
+        <translation type="vanished">گیم کے بارے میں</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation>گیم</translation>
+        <translation type="vanished">گیم</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>مدد</translation>
+        <translation type="vanished">مدد</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation>تیار</translation>
+        <translation type="vanished">تیار</translation>
     </message>
     <message>
         <source>About</source>
         <translation type="vanished">متعلق</translation>
-    </message>
-    <message>
-        <source>is a network game chess for two players.
-It has a client and a server in the same program.
-You can modify and redistribute the source code
-because it is under GPL.
-
-Russia, Tambov, 2005 (denis@silversoft.net)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>About plugin</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14468,14 +14317,6 @@ Description: </source>
         <source>Unknown error</source>
         <translation type="vanished">نامعلوم نقص</translation>
     </message>
-    <message>
-        <source>Socket Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot create a server socket!</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message numerus="yes">
         <source>%n day(s) </source>
         <translation type="unfinished">
@@ -15560,32 +15401,8 @@ Reason: %1</source>
 <context>
     <name>SelectGame</name>
     <message>
-        <source>New game with...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>To play with </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose your game</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>White game</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Black game</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Play!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cancel</source>
-        <translation>منسوخ کریں</translation>
+        <translation type="vanished">منسوخ کریں</translation>
     </message>
 </context>
 <context>

@@ -3284,27 +3284,27 @@ Proceed?</source>
     <name>Drawer</name>
     <message>
         <source>Error moving</source>
-        <translation>移動中のエラー</translation>
+        <translation type="vanished">移動中のエラー</translation>
     </message>
     <message>
         <source>You cannot move this figure because the king is in check</source>
-        <translation>キングがチェックされている為、この駒を動かすことが出来ません</translation>
+        <translation type="vanished">キングがチェックされている為、この駒を動かすことが出来ません</translation>
     </message>
     <message>
         <source>To castle</source>
-        <translation>キャスリング</translation>
+        <translation type="vanished">キャスリング</translation>
     </message>
     <message>
         <source>Do you want to castle?</source>
-        <translation>キャスリングしますか?</translation>
+        <translation type="vanished">キャスリングしますか?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>はい</translation>
+        <translation type="vanished">はい</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>いいえ</translation>
+        <translation type="vanished">いいえ</translation>
     </message>
 </context>
 <context>
@@ -4204,7 +4204,7 @@ Importantly: a large part of the options are important system settings. These re
     <name>FigureDialog</name>
     <message>
         <source>What figure should I set?</source>
-        <translation>何の駒をセットしますか?</translation>
+        <translation type="vanished">何の駒をセットしますか?</translation>
     </message>
 </context>
 <context>
@@ -5052,145 +5052,145 @@ Reason: %1</source>
     <name>GameBoard</name>
     <message>
         <source>White</source>
-        <translation>白</translation>
+        <translation type="vanished">白</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>黒</translation>
+        <translation type="vanished">黒</translation>
     </message>
     <message>
         <source>game with</source>
-        <translation>ゲーム - </translation>
+        <translation type="vanished">ゲーム - </translation>
     </message>
     <message>
         <source>Game chat</source>
-        <translation>ゲームチャット</translation>
+        <translation type="vanished">ゲームチャット</translation>
     </message>
     <message>
         <source>History</source>
-        <translation>履歴</translation>
+        <translation type="vanished">履歴</translation>
     </message>
     <message>
         <source>Looking up the host</source>
-        <translation>ホストを検索中</translation>
+        <translation type="vanished">ホストを検索中</translation>
     </message>
     <message>
         <source>Accepted a new connection</source>
-        <translation>新しい接続を受け付けました</translation>
+        <translation type="vanished">新しい接続を受け付けました</translation>
     </message>
     <message>
         <source>The host found</source>
-        <translation>ホストが見つかりませんでした</translation>
+        <translation type="vanished">ホストが見つかりませんでした</translation>
     </message>
     <message>
         <source>Connected to the host</source>
-        <translation>ホストに接続しました</translation>
+        <translation type="vanished">ホストに接続しました</translation>
     </message>
     <message>
         <source>Socket Error...</source>
-        <translation>ソケットエラ...</translation>
+        <translation type="vanished">ソケットエラ...</translation>
     </message>
     <message>
         <source>You have a socket error number</source>
-        <translation>ソケットエラー番号があります</translation>
+        <translation type="vanished">ソケットエラー番号があります</translation>
     </message>
     <message>
         <source>game from</source>
-        <translation>ゲーム -</translation>
+        <translation type="vanished">ゲーム -</translation>
     </message>
     <message>
         <source>Accepted the</source>
-        <translation>受け付けました - </translation>
+        <translation type="vanished">受け付けました - </translation>
     </message>
     <message>
         <source>Your move...</source>
-        <translation>あなたの移動...</translation>
+        <translation type="vanished">あなたの移動...</translation>
     </message>
     <message>
         <source>Waiting a move...</source>
-        <translation>移動を待ってます...</translation>
+        <translation type="vanished">移動を待ってます...</translation>
     </message>
     <message>
         <source>End the game</source>
-        <translation>ゲーム終了</translation>
+        <translation type="vanished">ゲーム終了</translation>
     </message>
     <message>
         <source>Want you to end the game?
 You will lose it</source>
-        <translation>ゲームを終了しますか? あなたは負けになります</translation>
+        <translation type="vanished">ゲームを終了しますか? あなたは負けになります</translation>
     </message>
     <message>
         <source>Yes, end</source>
-        <translation>はい、終了します</translation>
+        <translation type="vanished">はい、終了します</translation>
     </message>
     <message>
         <source>No, continue</source>
-        <translation>いいえ、続けます</translation>
+        <translation type="vanished">いいえ、続けます</translation>
     </message>
     <message>
         <source>B</source>
-        <translation>B</translation>
+        <translation type="vanished">B</translation>
     </message>
     <message>
         <source>K</source>
-        <translation>K</translation>
+        <translation type="vanished">K</translation>
     </message>
     <message>
         <source>C</source>
-        <translation>C</translation>
+        <translation type="vanished">C</translation>
     </message>
     <message>
         <source>Q</source>
-        <translation>Q</translation>
+        <translation type="vanished">Q</translation>
     </message>
     <message>
         <source>Error!</source>
-        <translation>エラー!</translation>
+        <translation type="vanished">エラー!</translation>
     </message>
     <message>
         <source>Lookup Error</source>
-        <translation>検索エラー</translation>
+        <translation type="vanished">検索エラー</translation>
     </message>
     <message>
         <source>The host</source>
-        <translation>ホスト</translation>
+        <translation type="vanished">ホスト</translation>
     </message>
     <message>
         <source>not found.</source>
-        <translation>見つかりません。</translation>
+        <translation type="vanished">見つかりません。</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>画像を保存</translation>
+        <translation type="vanished">画像を保存</translation>
     </message>
     <message>
         <source>Do you want to save the image?</source>
-        <translation>画像を保存しますか?</translation>
+        <translation type="vanished">画像を保存しますか?</translation>
     </message>
     <message>
         <source>Yes, save</source>
-        <translation>はい、保存します</translation>
+        <translation type="vanished">はい、保存します</translation>
     </message>
     <message>
         <source>No, don&apos;t save</source>
-        <translation>いいえ、保存しません</translation>
+        <translation type="vanished">いいえ、保存しません</translation>
     </message>
     <message>
         <source>Game over</source>
-        <translation>ゲームオーバー</translation>
+        <translation type="vanished">ゲームオーバー</translation>
     </message>
     <message>
         <source>You scored the game</source>
-        <translation>あなたのゲームスコア</translation>
+        <translation type="vanished">あなたのゲームスコア</translation>
     </message>
     <message>
         <source>You have a mate.
 You lost the game.</source>
-        <translation>チェックメイトされました。このゲームはあなたの負けです。</translation>
+        <translation type="vanished">チェックメイトされました。このゲームはあなたの負けです。</translation>
     </message>
     <message>
         <source>You have a stalemate</source>
-        <translation>ステイルメイトになりました</translation>
+        <translation type="vanished">ステイルメイトになりました</translation>
     </message>
 </context>
 <context>
@@ -6537,10 +6537,26 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
 </context>
 <context>
-    <name>ImagePreviewPlugin</name>
+    <name>ImagePreviewOptions</name>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">作者:</translation>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum image size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image preview size in pixels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow upscale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exceptions</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>512 Kb</source>
@@ -6562,17 +6578,12 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>10 Mb</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>ImagePreviewPlugin</name>
     <message>
-        <source>Maximum image size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Image preview size in pixels</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Allow upscale</source>
-        <translation type="unfinished"></translation>
+        <source>Author: </source>
+        <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
@@ -7661,31 +7672,31 @@ Incoming event(s) from:</source>
     <name>MainWindow</name>
     <message>
         <source>New</source>
-        <translation>新規</translation>
+        <translation type="vanished">新規</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>画像を保存</translation>
+        <translation type="vanished">画像を保存</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation>終了</translation>
+        <translation type="vanished">終了</translation>
     </message>
     <message>
         <source>About the game</source>
-        <translation>ゲームについて</translation>
+        <translation type="vanished">ゲームについて</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation>ゲーム</translation>
+        <translation type="vanished">ゲーム</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>ヘルプ</translation>
+        <translation type="vanished">ヘルプ</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation>準備</translation>
+        <translation type="vanished">準備</translation>
     </message>
     <message>
         <source>About</source>
@@ -7698,15 +7709,11 @@ You can modify and redistribute the source code
 because it is under GPL.
 
 Russia, Tambov, 2005 (denis@silversoft.net)</source>
-        <translation>2人でプレイするネットワークチェスゲームです。
+        <translation type="vanished">2人でプレイするネットワークチェスゲームです。
 サーバーとクライアントは同じプログラムです。
 GPLなのであなたはソースコードを変更し、再配布することが出来ます。
 
 Russia, Tambov, 2005 (denis@silversoft.net)</translation>
-    </message>
-    <message>
-        <source>About plugin</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14732,11 +14739,11 @@ Description: </source>
     </message>
     <message>
         <source>Socket Error</source>
-        <translation>ソケットエラー</translation>
+        <translation type="vanished">ソケットエラー</translation>
     </message>
     <message>
         <source>Cannot create a server socket!</source>
-        <translation>サーバーソケットを作成出来ません!</translation>
+        <translation type="vanished">サーバーソケットを作成出来ません!</translation>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
@@ -15839,31 +15846,31 @@ Reason: %1</source>
     <name>SelectGame</name>
     <message>
         <source>New game with...</source>
-        <translation>新しいゲーム...</translation>
+        <translation type="vanished">新しいゲーム...</translation>
     </message>
     <message>
         <source>To play with </source>
-        <translation>プレイする - </translation>
+        <translation type="vanished">プレイする - </translation>
     </message>
     <message>
         <source>Choose your game</source>
-        <translation>ゲームを選択してください</translation>
+        <translation type="vanished">ゲームを選択してください</translation>
     </message>
     <message>
         <source>White game</source>
-        <translation>白のゲーム</translation>
+        <translation type="vanished">白のゲーム</translation>
     </message>
     <message>
         <source>Black game</source>
-        <translation>黒のゲーム</translation>
+        <translation type="vanished">黒のゲーム</translation>
     </message>
     <message>
         <source>Play!</source>
-        <translation>開始!</translation>
+        <translation type="vanished">開始!</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>キャンセル</translation>
+        <translation type="vanished">キャンセル</translation>
     </message>
 </context>
 <context>

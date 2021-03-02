@@ -3151,27 +3151,27 @@ Fortsätt?</translation>
     <name>Drawer</name>
     <message>
         <source>Error moving</source>
-        <translation>Fel vid flyttning</translation>
+        <translation type="vanished">Fel vid flyttning</translation>
     </message>
     <message>
         <source>You cannot move this figure because the king is in check</source>
-        <translation>Du kan inte flytta den här figuren eftersom kungen står i schack</translation>
+        <translation type="vanished">Du kan inte flytta den här figuren eftersom kungen står i schack</translation>
     </message>
     <message>
         <source>To castle</source>
-        <translation>Rockad</translation>
+        <translation type="vanished">Rockad</translation>
     </message>
     <message>
         <source>Do you want to castle?</source>
-        <translation>Vill du göra rockad?</translation>
+        <translation type="vanished">Vill du göra rockad?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Ja</translation>
+        <translation type="vanished">Ja</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Nej</translation>
+        <translation type="vanished">Nej</translation>
     </message>
 </context>
 <context>
@@ -4049,7 +4049,7 @@ Importantly: a large part of the options are important system settings. These re
     <name>FigureDialog</name>
     <message>
         <source>What figure should I set?</source>
-        <translation>Vilken figur ska jag använda?</translation>
+        <translation type="vanished">Vilken figur ska jag använda?</translation>
     </message>
 </context>
 <context>
@@ -4903,147 +4903,147 @@ Anledning: %1</translation>
     <name>GameBoard</name>
     <message>
         <source>White</source>
-        <translation>Vit</translation>
+        <translation type="vanished">Vit</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>Svart</translation>
+        <translation type="vanished">Svart</translation>
     </message>
     <message>
         <source>game with</source>
-        <translation>spel med</translation>
+        <translation type="vanished">spel med</translation>
     </message>
     <message>
         <source>Game chat</source>
-        <translation>spelchatt</translation>
+        <translation type="vanished">spelchatt</translation>
     </message>
     <message>
         <source>History</source>
-        <translation>Historik</translation>
+        <translation type="vanished">Historik</translation>
     </message>
     <message>
         <source>Looking up the host</source>
-        <translation>Letar upp värden</translation>
+        <translation type="vanished">Letar upp värden</translation>
     </message>
     <message>
         <source>Accepted a new connection</source>
-        <translation>Accepterade en ny anslutning</translation>
+        <translation type="vanished">Accepterade en ny anslutning</translation>
     </message>
     <message>
         <source>The host found</source>
-        <translation>Värden funnen</translation>
+        <translation type="vanished">Värden funnen</translation>
     </message>
     <message>
         <source>Connected to the host</source>
-        <translation>Ansluten till värden</translation>
+        <translation type="vanished">Ansluten till värden</translation>
     </message>
     <message>
         <source>Socket Error...</source>
-        <translation>Socketfel...</translation>
+        <translation type="vanished">Socketfel...</translation>
     </message>
     <message>
         <source>You have a socket error number</source>
-        <translation>Du har ett socketfel med nummer</translation>
+        <translation type="vanished">Du har ett socketfel med nummer</translation>
     </message>
     <message>
         <source>game from</source>
-        <translation>spelet från</translation>
+        <translation type="vanished">spelet från</translation>
     </message>
     <message>
         <source>Accepted the</source>
-        <translation>Accepterade</translation>
+        <translation type="vanished">Accepterade</translation>
     </message>
     <message>
         <source>Your move...</source>
-        <translation>Ditt drag...</translation>
+        <translation type="vanished">Ditt drag...</translation>
     </message>
     <message>
         <source>Waiting a move...</source>
-        <translation>Väntar på drag...</translation>
+        <translation type="vanished">Väntar på drag...</translation>
     </message>
     <message>
         <source>End the game</source>
-        <translation>Avsluta spelet</translation>
+        <translation type="vanished">Avsluta spelet</translation>
     </message>
     <message>
         <source>Want you to end the game?
 You will lose it</source>
-        <translation>Vill du avsluta spelet?
+        <translation type="vanished">Vill du avsluta spelet?
 Du förlorar</translation>
     </message>
     <message>
         <source>Yes, end</source>
-        <translation>Ja, avsluta</translation>
+        <translation type="vanished">Ja, avsluta</translation>
     </message>
     <message>
         <source>No, continue</source>
-        <translation>Nej, forstätt</translation>
+        <translation type="vanished">Nej, forstätt</translation>
     </message>
     <message>
         <source>B</source>
-        <translation>L</translation>
+        <translation type="vanished">L</translation>
     </message>
     <message>
         <source>K</source>
-        <translation>K</translation>
+        <translation type="vanished">K</translation>
     </message>
     <message>
         <source>C</source>
-        <translation>T</translation>
+        <translation type="vanished">T</translation>
     </message>
     <message>
         <source>Q</source>
-        <translation>D</translation>
+        <translation type="vanished">D</translation>
     </message>
     <message>
         <source>Error!</source>
-        <translation>Fel!</translation>
+        <translation type="vanished">Fel!</translation>
     </message>
     <message>
         <source>Lookup Error</source>
-        <translation>Uppslagsfel</translation>
+        <translation type="vanished">Uppslagsfel</translation>
     </message>
     <message>
         <source>The host</source>
-        <translation>Värden</translation>
+        <translation type="vanished">Värden</translation>
     </message>
     <message>
         <source>not found.</source>
-        <translation>ej funnen.</translation>
+        <translation type="vanished">ej funnen.</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>Spara bild</translation>
+        <translation type="vanished">Spara bild</translation>
     </message>
     <message>
         <source>Do you want to save the image?</source>
-        <translation>Vill du spara bilden?</translation>
+        <translation type="vanished">Vill du spara bilden?</translation>
     </message>
     <message>
         <source>Yes, save</source>
-        <translation>Ja, spara</translation>
+        <translation type="vanished">Ja, spara</translation>
     </message>
     <message>
         <source>No, don&apos;t save</source>
-        <translation>Nej, spara inte</translation>
+        <translation type="vanished">Nej, spara inte</translation>
     </message>
     <message>
         <source>Game over</source>
-        <translation>Slut på spelet</translation>
+        <translation type="vanished">Slut på spelet</translation>
     </message>
     <message>
         <source>You scored the game</source>
-        <translation>Du vann spelet</translation>
+        <translation type="vanished">Du vann spelet</translation>
     </message>
     <message>
         <source>You have a mate.
 You lost the game.</source>
-        <translation>Du är satt i matt.
+        <translation type="vanished">Du är satt i matt.
 Du förlorade.</translation>
     </message>
     <message>
         <source>You have a stalemate</source>
-        <translation>Det blev remi</translation>
+        <translation type="vanished">Det blev remi</translation>
     </message>
 </context>
 <context>
@@ -6344,7 +6344,27 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
 </context>
 <context>
-    <name>ImagePreviewPlugin</name>
+    <name>ImagePreviewOptions</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum image size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image preview size in pixels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow upscale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exceptions</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>512 Kb</source>
         <translation type="unfinished"></translation>
@@ -6365,18 +6385,9 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>10 Mb</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Maximum image size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Image preview size in pixels</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Allow upscale</source>
-        <translation type="unfinished"></translation>
-    </message>
+</context>
+<context>
+    <name>ImagePreviewPlugin</name>
     <message>
         <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
 </source>
@@ -7454,31 +7465,31 @@ Incoming event(s) from:</source>
     <name>MainWindow</name>
     <message>
         <source>New</source>
-        <translation>Ny</translation>
+        <translation type="vanished">Ny</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>Spara bild</translation>
+        <translation type="vanished">Spara bild</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation>Avsluta</translation>
+        <translation type="vanished">Avsluta</translation>
     </message>
     <message>
         <source>About the game</source>
-        <translation>Om spelet</translation>
+        <translation type="vanished">Om spelet</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation>Spel</translation>
+        <translation type="vanished">Spel</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Hjälp</translation>
+        <translation type="vanished">Hjälp</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation>Klar</translation>
+        <translation type="vanished">Klar</translation>
     </message>
     <message>
         <source>About</source>
@@ -7491,16 +7502,12 @@ You can modify and redistribute the source code
 because it is under GPL.
 
 Russia, Tambov, 2005 (denis@silversoft.net)</source>
-        <translation>är ett schackspel över nätet för två spelare.
+        <translation type="vanished">är ett schackspel över nätet för två spelare.
 Det har klient och server i samma program.
 Du kan ändra och distribuera källkoden eftersom
 det är släppt under GPL.
 
 Ryssland, Tambov, 2005 (denis@silversoft.net)</translation>
-    </message>
-    <message>
-        <source>About plugin</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14489,11 +14496,11 @@ Description: </source>
     </message>
     <message>
         <source>Socket Error</source>
-        <translation>Socketfel</translation>
+        <translation type="vanished">Socketfel</translation>
     </message>
     <message>
         <source>Cannot create a server socket!</source>
-        <translation>Kan inte skapa en serversocket!</translation>
+        <translation type="vanished">Kan inte skapa en serversocket!</translation>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
@@ -15580,31 +15587,31 @@ Orsak: %1</translation>
     <name>SelectGame</name>
     <message>
         <source>New game with...</source>
-        <translation>Nytt spel med...</translation>
+        <translation type="vanished">Nytt spel med...</translation>
     </message>
     <message>
         <source>To play with </source>
-        <translation>För att spela med</translation>
+        <translation type="vanished">För att spela med</translation>
     </message>
     <message>
         <source>Choose your game</source>
-        <translation>Välj färg</translation>
+        <translation type="vanished">Välj färg</translation>
     </message>
     <message>
         <source>White game</source>
-        <translation>Vit</translation>
+        <translation type="vanished">Vit</translation>
     </message>
     <message>
         <source>Black game</source>
-        <translation>Svart</translation>
+        <translation type="vanished">Svart</translation>
     </message>
     <message>
         <source>Play!</source>
-        <translation>Spel!</translation>
+        <translation type="vanished">Spel!</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Avbryt</translation>
+        <translation type="vanished">Avbryt</translation>
     </message>
 </context>
 <context>

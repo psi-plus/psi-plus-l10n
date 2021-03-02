@@ -3373,27 +3373,27 @@ Pokračovat?</translation>
     <name>Drawer</name>
     <message>
         <source>Error moving</source>
-        <translation>Chyba při přesouvání</translation>
+        <translation type="vanished">Chyba při přesouvání</translation>
     </message>
     <message>
         <source>You cannot move this figure because the king is in check</source>
-        <translation>Nelze posunout tuto figuru, protože král je v šachu</translation>
+        <translation type="vanished">Nelze posunout tuto figuru, protože král je v šachu</translation>
     </message>
     <message>
         <source>To castle</source>
-        <translation>Rošáda</translation>
+        <translation type="vanished">Rošáda</translation>
     </message>
     <message>
         <source>Do you want to castle?</source>
-        <translation>Chcete provést rošádu?</translation>
+        <translation type="vanished">Chcete provést rošádu?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Ano</translation>
+        <translation type="vanished">Ano</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Ne</translation>
+        <translation type="vanished">Ne</translation>
     </message>
 </context>
 <context>
@@ -4308,7 +4308,7 @@ Importantly: a large part of the options are important system settings. These re
     <name>FigureDialog</name>
     <message>
         <source>What figure should I set?</source>
-        <translation>Jakou přílohu mám nastavit?</translation>
+        <translation type="vanished">Jakou přílohu mám nastavit?</translation>
     </message>
 </context>
 <context>
@@ -5161,147 +5161,147 @@ Zdůvodnění: %1</translation>
     <name>GameBoard</name>
     <message>
         <source>White</source>
-        <translation>Bílí</translation>
+        <translation type="vanished">Bílí</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>Černí</translation>
+        <translation type="vanished">Černí</translation>
     </message>
     <message>
         <source>game with</source>
-        <translation>hra s</translation>
+        <translation type="vanished">hra s</translation>
     </message>
     <message>
         <source>Game chat</source>
-        <translation>Herní chat</translation>
+        <translation type="vanished">Herní chat</translation>
     </message>
     <message>
         <source>History</source>
-        <translation>Historie</translation>
+        <translation type="vanished">Historie</translation>
     </message>
     <message>
         <source>Looking up the host</source>
-        <translation>Vyhledávám počítač</translation>
+        <translation type="vanished">Vyhledávám počítač</translation>
     </message>
     <message>
         <source>Accepted a new connection</source>
-        <translation>Nové spojení přijato</translation>
+        <translation type="vanished">Nové spojení přijato</translation>
     </message>
     <message>
         <source>The host found</source>
-        <translation>Počítač nalezen</translation>
+        <translation type="vanished">Počítač nalezen</translation>
     </message>
     <message>
         <source>Connected to the host</source>
-        <translation>Připojeno ke stroji</translation>
+        <translation type="vanished">Připojeno ke stroji</translation>
     </message>
     <message>
         <source>Socket Error...</source>
-        <translation>Chyba soketu...</translation>
+        <translation type="vanished">Chyba soketu...</translation>
     </message>
     <message>
         <source>You have a socket error number</source>
-        <translation>Obdržena chyba soketu číslo</translation>
+        <translation type="vanished">Obdržena chyba soketu číslo</translation>
     </message>
     <message>
         <source>game from</source>
-        <translation>hra od</translation>
+        <translation type="vanished">hra od</translation>
     </message>
     <message>
         <source>Accepted the</source>
-        <translation>Přijal</translation>
+        <translation type="vanished">Přijal</translation>
     </message>
     <message>
         <source>Your move...</source>
-        <translation>Váš tah...</translation>
+        <translation type="vanished">Váš tah...</translation>
     </message>
     <message>
         <source>Waiting a move...</source>
-        <translation>Čěkám na tah...</translation>
+        <translation type="vanished">Čěkám na tah...</translation>
     </message>
     <message>
         <source>End the game</source>
-        <translation>Ukončit hru</translation>
+        <translation type="vanished">Ukončit hru</translation>
     </message>
     <message>
         <source>Want you to end the game?
 You will lose it</source>
-        <translation>Chcete ukončit hru?
+        <translation type="vanished">Chcete ukončit hru?
 Tímto ji prohrajete</translation>
     </message>
     <message>
         <source>Yes, end</source>
-        <translation>Ano, ukončit</translation>
+        <translation type="vanished">Ano, ukončit</translation>
     </message>
     <message>
         <source>No, continue</source>
-        <translation>Ne, pokračovat</translation>
+        <translation type="vanished">Ne, pokračovat</translation>
     </message>
     <message>
         <source>B</source>
-        <translation>B</translation>
+        <translation type="vanished">B</translation>
     </message>
     <message>
         <source>K</source>
-        <translation>K</translation>
+        <translation type="vanished">K</translation>
     </message>
     <message>
         <source>C</source>
-        <translation>C</translation>
+        <translation type="vanished">C</translation>
     </message>
     <message>
         <source>Q</source>
-        <translation>Q</translation>
+        <translation type="vanished">Q</translation>
     </message>
     <message>
         <source>Error!</source>
-        <translation>Chyba!</translation>
+        <translation type="vanished">Chyba!</translation>
     </message>
     <message>
         <source>Lookup Error</source>
-        <translation>Nelze nalézt</translation>
+        <translation type="vanished">Nelze nalézt</translation>
     </message>
     <message>
         <source>The host</source>
-        <translation>Host</translation>
+        <translation type="vanished">Host</translation>
     </message>
     <message>
         <source>not found.</source>
-        <translation>nenalezen.</translation>
+        <translation type="vanished">nenalezen.</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>Uložit obrázek</translation>
+        <translation type="vanished">Uložit obrázek</translation>
     </message>
     <message>
         <source>Do you want to save the image?</source>
-        <translation>Chcete uložit obrázek?</translation>
+        <translation type="vanished">Chcete uložit obrázek?</translation>
     </message>
     <message>
         <source>Yes, save</source>
-        <translation>Ano, uložit</translation>
+        <translation type="vanished">Ano, uložit</translation>
     </message>
     <message>
         <source>No, don&apos;t save</source>
-        <translation>Ne, neukládat</translation>
+        <translation type="vanished">Ne, neukládat</translation>
     </message>
     <message>
         <source>Game over</source>
-        <translation>Konec hry</translation>
+        <translation type="vanished">Konec hry</translation>
     </message>
     <message>
         <source>You scored the game</source>
-        <translation>Zabodoval jsi ve hře</translation>
+        <translation type="vanished">Zabodoval jsi ve hře</translation>
     </message>
     <message>
         <source>You have a mate.
 You lost the game.</source>
-        <translation>Máte mat.
+        <translation type="vanished">Máte mat.
 Hra je prohraná.</translation>
     </message>
     <message>
         <source>You have a stalemate</source>
-        <translation>Jsi na mrtvém bodu</translation>
+        <translation type="vanished">Jsi na mrtvém bodu</translation>
     </message>
 </context>
 <context>
@@ -6705,6 +6705,49 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
 </context>
 <context>
+    <name>ImagePreviewOptions</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Formulář</translation>
+    </message>
+    <message>
+        <source>Maximum image size</source>
+        <translation type="unfinished">Maximální velikost obrázku</translation>
+    </message>
+    <message>
+        <source>Image preview size in pixels</source>
+        <translation type="unfinished">Velikost náhledu obrázku v bodech</translation>
+    </message>
+    <message>
+        <source>Allow upscale</source>
+        <translation type="unfinished">Povolit zvětšení</translation>
+    </message>
+    <message>
+        <source>Exceptions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>512 Kb</source>
+        <translation type="unfinished">512 Kb</translation>
+    </message>
+    <message>
+        <source>1 Mb</source>
+        <translation type="unfinished">1 Mb</translation>
+    </message>
+    <message>
+        <source>2 Mb</source>
+        <translation type="unfinished">2 Mb</translation>
+    </message>
+    <message>
+        <source>5 Mb</source>
+        <translation type="unfinished">5 Mb</translation>
+    </message>
+    <message>
+        <source>10 Mb</source>
+        <translation type="unfinished">10 Mb</translation>
+    </message>
+</context>
+<context>
     <name>ImagePreviewPlugin</name>
     <message>
         <source>Author: </source>
@@ -6712,35 +6755,35 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>512 Kb</source>
-        <translation>512 Kb</translation>
+        <translation type="vanished">512 Kb</translation>
     </message>
     <message>
         <source>1 Mb</source>
-        <translation>1 Mb</translation>
+        <translation type="vanished">1 Mb</translation>
     </message>
     <message>
         <source>2 Mb</source>
-        <translation>2 Mb</translation>
+        <translation type="vanished">2 Mb</translation>
     </message>
     <message>
         <source>5 Mb</source>
-        <translation>5 Mb</translation>
+        <translation type="vanished">5 Mb</translation>
     </message>
     <message>
         <source>10 Mb</source>
-        <translation>10 Mb</translation>
+        <translation type="vanished">10 Mb</translation>
     </message>
     <message>
         <source>Maximum image size</source>
-        <translation>Maximální velikost obrázku</translation>
+        <translation type="vanished">Maximální velikost obrázku</translation>
     </message>
     <message>
         <source>Image preview size in pixels</source>
-        <translation>Velikost náhledu obrázku v bodech</translation>
+        <translation type="vanished">Velikost náhledu obrázku v bodech</translation>
     </message>
     <message>
         <source>Allow upscale</source>
-        <translation>Povolit zvětšení</translation>
+        <translation type="vanished">Povolit zvětšení</translation>
     </message>
     <message>
         <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
@@ -7837,31 +7880,31 @@ Příchozí událost(i) od:</translation>
     <name>MainWindow</name>
     <message>
         <source>New</source>
-        <translation>Nový</translation>
+        <translation type="vanished">Nový</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>Uložit obrázek</translation>
+        <translation type="vanished">Uložit obrázek</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation>Ukončit</translation>
+        <translation type="vanished">Ukončit</translation>
     </message>
     <message>
         <source>About the game</source>
-        <translation>O hře</translation>
+        <translation type="vanished">O hře</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation>Hra</translation>
+        <translation type="vanished">Hra</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Nápověda</translation>
+        <translation type="vanished">Nápověda</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation>Připraven</translation>
+        <translation type="vanished">Připraven</translation>
     </message>
     <message>
         <source>About</source>
@@ -7874,16 +7917,12 @@ You can modify and redistribute the source code
 because it is under GPL.
 
 Russia, Tambov, 2005 (denis@silversoft.net)</source>
-        <translation>je síťová hra v šachy pro dva hráče.
+        <translation type="vanished">je síťová hra v šachy pro dva hráče.
 Obsahuje klienta a server v jednom programu.
 Můžeš měnit a šířit jejich kód, protože je pod
 licencí GPL.
 
 Rusko, Tambov, 2005 (denis@silversoft.net)</translation>
-    </message>
-    <message>
-        <source>About plugin</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15179,11 +15218,11 @@ Popis: </translation>
     </message>
     <message>
         <source>Socket Error</source>
-        <translation>Chyba socketu</translation>
+        <translation type="vanished">Chyba socketu</translation>
     </message>
     <message>
         <source>Cannot create a server socket!</source>
-        <translation>Nepodařilo se vytvořit serverový socket!</translation>
+        <translation type="vanished">Nepodařilo se vytvořit serverový socket!</translation>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
@@ -16327,31 +16366,31 @@ Zdůvodnění: %1</translation>
     <name>SelectGame</name>
     <message>
         <source>New game with...</source>
-        <translation>Nová hra s...</translation>
+        <translation type="vanished">Nová hra s...</translation>
     </message>
     <message>
         <source>To play with </source>
-        <translation>Hrát s </translation>
+        <translation type="vanished">Hrát s </translation>
     </message>
     <message>
         <source>Choose your game</source>
-        <translation>Vyber si svou hru</translation>
+        <translation type="vanished">Vyber si svou hru</translation>
     </message>
     <message>
         <source>White game</source>
-        <translation>Hrát za bílé</translation>
+        <translation type="vanished">Hrát za bílé</translation>
     </message>
     <message>
         <source>Black game</source>
-        <translation>Hrát za černé</translation>
+        <translation type="vanished">Hrát za černé</translation>
     </message>
     <message>
         <source>Play!</source>
-        <translation>Hrát!</translation>
+        <translation type="vanished">Hrát!</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Zrušit</translation>
+        <translation type="vanished">Zrušit</translation>
     </message>
 </context>
 <context>
