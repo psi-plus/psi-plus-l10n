@@ -6765,43 +6765,43 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>ImagePreviewOptions</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>Maximum image size</source>
-        <translation type="unfinished">Максимальний розмір зображення</translation>
+        <translation>Максимальний розмір зображення</translation>
     </message>
     <message>
         <source>Image preview size in pixels</source>
-        <translation type="unfinished">Розмір зображення для попереднього перегляду в пікселях</translation>
+        <translation>Розмір зображення для попереднього перегляду в пікселях</translation>
     </message>
     <message>
         <source>Allow upscale</source>
-        <translation type="unfinished">Дозволити збільшення</translation>
+        <translation>Дозволити збільшення</translation>
     </message>
     <message>
         <source>Exceptions</source>
-        <translation type="unfinished"></translation>
+        <translation>Винятки</translation>
     </message>
     <message>
         <source>512 Kb</source>
-        <translation type="unfinished">512 Кб</translation>
+        <translation>512 Кб</translation>
     </message>
     <message>
         <source>1 Mb</source>
-        <translation type="unfinished">1 Мб</translation>
+        <translation>1 Мб</translation>
     </message>
     <message>
         <source>2 Mb</source>
-        <translation type="unfinished">2 Мб</translation>
+        <translation>2 Мб</translation>
     </message>
     <message>
         <source>5 Mb</source>
-        <translation type="unfinished">5 Мб</translation>
+        <translation>5 Мб</translation>
     </message>
     <message>
         <source>10 Mb</source>
-        <translation type="unfinished">10 Мб</translation>
+        <translation>10 Мб</translation>
     </message>
 </context>
 <context>
@@ -7995,10 +7995,6 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
 вихідний код під під ліцензією GPL.
 
 Росія, Тамбов, 2005 (denis@silversoft.net)</translation>
-    </message>
-    <message>
-        <source>About plugin</source>
-        <translation type="vanished">Про плагін</translation>
     </message>
 </context>
 <context>
