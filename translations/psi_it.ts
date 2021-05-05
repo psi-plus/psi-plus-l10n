@@ -1315,8 +1315,13 @@ Assicurati di aver inserito un indirizzo XMPP corretto.</translation>
     <message>
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[XMPP address of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP address of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[XMPP address of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;
+        <translation type="vanished">&lt;qt&gt;
 C&apos;è stato un errore ottenendo l&apos;informazione  Servizio Traduzione ID da &quot;%1&quot;.&lt;br&gt;Motivo: %2&lt;br&gt;&lt;br&gt;Il servizio potrebbe non supportare questa funzione.  In questo caso sarà necessario inserire l&apos;indirizzo XMPP manualmente per il contatto che vuoi aggiungere.  Esempi:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUtente@qualchehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUtente@[XMPP indirizzo del Trasporto AIM]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[L&apos;indirizzo XMPP del Trasporto ICQ]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[Indirizzo XMPP del Trasporto MSN]&lt;br&gt;&amp;nbsp;&amp;nbsp;UtenteYahoo@[Indirizzo XMPP del Trasporto Yahoo]&lt;br&gt;&lt;/qt&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;qt&gt;
+There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%gmail.com@[XMPP address of Transport]&lt;br&gt;&lt;/qt&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

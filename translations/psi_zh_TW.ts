@@ -1299,8 +1299,13 @@ Make sure you enter a fully qualified XMPP address.</source>
     <message>
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[XMPP address of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP address of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[XMPP address of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;
+        <translation type="vanished">&lt;qt&gt;
 讓服務從&quot;%1&quot;的ID轉換資訊時出現錯誤 - 原因:&lt;br&gt;%2&lt;br&gt;&lt;br&gt; 該服務可能不支援此功能。在這種情況下，你將需要輸入你想添加的接觸XMPP位址手動。例子:&lt;br&gt;&amp;nbsp;&amp;nbsp; xmppUser@somehost.com - aolUser[AIM運輸的XMPP地址]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[ICQ運輸的XMPP地址] &lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[MSN運輸的XMPP地址] &lt;br&gt;&amp;nbsp;&amp;nbsp; yahooUser@[XMPP雅虎運輸的地址]&lt;br&gt;&lt;/qt&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;qt&gt;
+There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%gmail.com@[XMPP address of Transport]&lt;br&gt;&lt;/qt&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

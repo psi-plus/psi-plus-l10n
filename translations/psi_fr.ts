@@ -1302,8 +1302,13 @@ Assurez-vous d&apos;utiliser une adresse XMPP complète.</translation>
     <message>
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[XMPP address of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP address of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[XMPP address of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;
+        <translation type="vanished">&lt;qt&gt;
 Erreur lors de la demande d&apos;informations à partir de &quot;%1&quot;.&lt;br&gt;Cause : %2&lt;br&gt;&lt;br&gt;Le service peut ne pas supporter cette fonctionnalité.  Dans ce cas, vous devez manuellement saisir l&apos;adresse XMPP du contact que vous souhaitez ajouter.  Exemples :&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;utilisateur@hôte.com&lt;br&gt;&amp;nbsp;&amp;nbsp;utilisateurAOL@[serveur AIM]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[serveur ICQ]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[serveur MSN]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[serveur Yahoo]&lt;br&gt;&lt;/qt&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;qt&gt;
+There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%gmail.com@[XMPP address of Transport]&lt;br&gt;&lt;/qt&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
