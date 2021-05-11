@@ -1328,7 +1328,8 @@ There was an error getting the Service ID translation information from &quot;%1&
     <message>
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%gmail.com@[XMPP address of Transport]&lt;br&gt;&lt;/qt&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;qt&gt;
+Під час отримання інформації про трансляцію Service ID з &quot;%1&quot;.&lt;br&gt;Причина: %2&lt;br&gt;&lt;br&gt;Можливо, даний сервіс не підтримує цю функцію. В цьому випадку вам необхідно ввести XMPP адресу контакта вручну. Приклади:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP адреса транспотру]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%gmail.com@[XMPP  адреса транспотру]&lt;br&gt;&lt;/qt&gt;</translation>
     </message>
 </context>
 <context>
