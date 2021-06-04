@@ -13476,6 +13476,25 @@ Ali želite aktivirati to sejo?</translation>
     </message>
 </context>
 <context>
+    <name>PsiThumbnailToolBar</name>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished">Možnosti</translation>
+    </message>
+    <message>
+        <source>Online</source>
+        <translation type="unfinished">Na zvezi</translation>
+    </message>
+    <message>
+        <source>Offline</source>
+        <translation type="unfinished">Brez zveze</translation>
+    </message>
+    <message>
+        <source>Show Next Event</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>PsiToolBar</name>
     <message>
         <source>&amp;Configure Toolbar...</source>

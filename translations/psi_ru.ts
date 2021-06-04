@@ -14315,6 +14315,25 @@ Would you like to activate that session now?</source>
     </message>
 </context>
 <context>
+    <name>PsiThumbnailToolBar</name>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online</source>
+        <translation type="unfinished">Доступен</translation>
+    </message>
+    <message>
+        <source>Offline</source>
+        <translation type="unfinished">Отключён</translation>
+    </message>
+    <message>
+        <source>Show Next Event</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>PsiToolBar</name>
     <message>
         <source>&amp;Configure Toolbar...</source>

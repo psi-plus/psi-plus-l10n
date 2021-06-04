@@ -14229,6 +14229,25 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
     </message>
 </context>
 <context>
+    <name>PsiThumbnailToolBar</name>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished">Beállítások</translation>
+    </message>
+    <message>
+        <source>Online</source>
+        <translation type="unfinished">Elérhető</translation>
+    </message>
+    <message>
+        <source>Offline</source>
+        <translation type="unfinished">Kijelentkezve</translation>
+    </message>
+    <message>
+        <source>Show Next Event</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>PsiToolBar</name>
     <message>
         <source>&amp;Configure Toolbar...</source>

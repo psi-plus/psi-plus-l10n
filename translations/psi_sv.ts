@@ -13507,6 +13507,25 @@ Vill du aktivera den sessionen nu?</translation>
     </message>
 </context>
 <context>
+    <name>PsiThumbnailToolBar</name>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished">Inställningar</translation>
+    </message>
+    <message>
+        <source>Online</source>
+        <translation type="unfinished">Tillgänglig</translation>
+    </message>
+    <message>
+        <source>Offline</source>
+        <translation type="unfinished">Ej ansluten</translation>
+    </message>
+    <message>
+        <source>Show Next Event</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>PsiToolBar</name>
     <message>
         <source>&amp;Configure Toolbar...</source>
