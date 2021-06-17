@@ -18992,6 +18992,10 @@ Do you still want to close the window?</source>
         <source>%1 does not seem to support OMEMO, disabling for the entire group!</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>You received a message encrypted with OMEMO but your client doesn&apos;t support OMEMO or its support is currently disabled.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>psiomemo::OMEMOPlugin</name>
