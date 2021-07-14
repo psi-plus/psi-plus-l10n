@@ -19198,7 +19198,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>You received a message encrypted with OMEMO but your client doesn&apos;t support OMEMO or its support is currently disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви отримали повідомлення, зашифроване за допомогою OMEMO, але ваш клієнт не підтримує OMEMO або його підтримка відключена.</translation>
     </message>
 </context>
 <context>

@@ -78,7 +78,7 @@
     </message>
     <message>
         <source>Past Lead Developer and Maintainer</source>
-        <translation>Bývalý hlavní vývojář a maintainer</translation>
+        <translation>Bývalý hlavní vývojář a správce</translation>
     </message>
     <message>
         <source>Past Lead Developer</source>
@@ -98,7 +98,7 @@
     </message>
     <message>
         <source>Founder and Lead Patcher</source>
-        <translation>Zakladatel a hlavní patcher</translation>
+        <translation>Zakladatel a hlavní záplatovač</translation>
     </message>
     <message>
         <source>Founder, Designer and Patcher</source>
@@ -114,7 +114,7 @@
     </message>
     <message>
         <source>Patcher and Plugins Writer</source>
-        <translation>Patcher a autor pluginů</translation>
+        <translation>Záplatovač a autor zásuvných modulů</translation>
     </message>
     <message>
         <source>Patcher and Ubuntu Packager</source>
@@ -134,7 +134,7 @@
     </message>
     <message>
         <source>Psimedia Patcher and Wiki English localization</source>
-        <translation>Patcher Psimedia a lokalizace anglické wiki</translation>
+        <translation>Záplatovač Psimedia a lokalizace anglické wiki</translation>
     </message>
     <message>
         <source>Language coordinator; Debian Packager</source>
@@ -142,11 +142,11 @@
     </message>
     <message>
         <source>Former language coordinator, miscellaneous assistance</source>
-        <translation>Předešlý kordinátor překladu, různá výpomoc</translation>
+        <translation>Předešlý koordinátor překladu, různá výpomoc</translation>
     </message>
     <message>
         <source>Build setup, miscellaneous assistance</source>
-        <translation>Build setup, rozmanitá asistence</translation>
+        <translation>Nastavení překladu, různá asistence</translation>
     </message>
     <message>
         <source>Many icons are from his Crystal icon theme</source>
@@ -202,7 +202,9 @@
 Join the translation team today! Go to 
 &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
 https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
-        <translation type="unfinished"></translation>
+        <translation>Jiri Slaby&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:jirislaby@gmail.com&quot;&gt;jirislaby@gmail.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Překladatel&lt;br&gt;</translation>
     </message>
     <message>
         <source>Original Author</source>
@@ -217,36 +219,40 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation>https://psi-im.org</translation>
     </message>
     <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cross-platform XMPP client aimed at experienced users.&lt;br/&gt;&lt;br/&gt;Copyright © 2001-2020 The Psi Team.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Multiplatformní XMPP klient zaměřený na pokročilé uživatele.&lt;br/&gt;&lt;br/&gt;Copyright © 2001-2020 Psi tým.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
         <source>Past Lead Widget Developer</source>
-        <translation type="unfinished"></translation>
+        <translation>Bývalý hlavní vývojář grafických komponent</translation>
     </message>
     <message>
         <source>Developer and Maintainer</source>
-        <translation type="unfinished"></translation>
+        <translation>Vývojář a správce</translation>
     </message>
     <message>
         <source>Language coordinator, macOS port, miscellaneous assistance</source>
-        <translation type="unfinished"></translation>
+        <translation>Koordinátor jazyků, port pro macOS, různá výpomoc</translation>
     </message>
     <message>
         <source>Founder, Patcher and former MS Windows Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakladatel, záplatovač a dřívější balíkář pro MS Windows</translation>
     </message>
     <message>
         <source>Founder, Patcher and former Designer</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakladatel, záplatovač a bývalý návrhář</translation>
     </message>
     <message>
         <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>Hlavní záplatovač a autor zásuvných modulů; dřívější balíkář pro macOS</translation>
     </message>
     <message>
         <source>Language coordinator; Patcher; Debian and Ubuntu Packager; MS Windows and macOS Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>Koordinátor jazyků; záplatovač; balíkář pro Debian a Ubuntu; balíkář pro MS Windows a macOS</translation>
     </message>
     <message>
         <source>Patcher and Plugins Writer; MS Windows Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>Záplatovač a autor zásuvných modulů; balíkář pro MS Windows</translation>
     </message>
     <message>
         <source>Patcher and Plugins Writer; former Fedora Packager</source>
@@ -274,7 +280,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Cross-platform XMPP client aimed at experienced users.</source>
-        <translation type="unfinished"></translation>
+        <translation>Multiplatformní XMPP klient zaměřený na pokročilé uživatele.</translation>
     </message>
 </context>
 <context>
@@ -601,11 +607,11 @@ Klikni na &lt;b&gt;Registrovat nový účet&lt;/b&gt;, pokud chceš, aby se Psi 
 When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
         <translation>&lt;b&gt;Pozor!&lt;/b&gt;
 &lt;br/&gt;
-Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních souborech. Bude tam jen hash hesla. To znamená, že při zapomenutí hesla, nebude žádná možnost obnovit jej, pokud ho nemáš uložené někde jinde.</translation>
+Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních souborech. Bude tam jen haš hesla. To znamená, že při zapomenutí hesla, nebude žádná možnost obnovit jej, pokud ho nemáš uložené někde jinde.</translation>
     </message>
     <message>
         <source>Store hash instead of plaintext password if server supports this feature.</source>
-        <translation>Uložit hash hesla namísto hesla, pokud to server dovoluje.</translation>
+        <translation>Uložit haš hesla namísto hesla, pokud to server dovoluje.</translation>
     </message>
     <message>
         <source>Enable Stream Management if possible</source>
@@ -617,7 +623,7 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
     </message>
     <message>
         <source>Disable connections potentially exposing my IP address</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakázat spojení, která potenciálně můžou odkrýt moji IP adresu</translation>
     </message>
 </context>
 <context>
@@ -692,7 +698,7 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
     </message>
     <message>
         <source>Automatically login to this account on Psi startup.  Useful if you have Psi automatically launched when an Internet connection is detected.</source>
-        <translation>Automatické přihlášení k tomuto účtu při startu Psi.  Užitečné, když je Psi spoustěno automaticky při zjistění připojení k Internetu.</translation>
+        <translation>Automatické přihlášení k tomuto účtu při startu Psi.  Užitečné, když je Psi spouštěno automaticky při zjištění připojení k Internetu.</translation>
     </message>
     <message>
         <source>Makes Psi try to connect when the computer resumes after a sleep.</source>
@@ -756,7 +762,7 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
     </message>
     <message>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation>Není možné zapnout SSL/TLS.  Plugin nenalezen.</translation>
+        <translation>Není možné zapnout SSL/TLS.  Zásuvný modul nenalezen.</translation>
     </message>
     <message>
         <source>Secret Key</source>
@@ -1308,7 +1314,8 @@ Vyskytla se chyba při převodu ID služby z &quot;%1&quot;.&lt;br&gt;Důvod: %2
     <message>
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%gmail.com@[XMPP address of Transport]&lt;br&gt;&lt;/qt&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;qt&gt;
+Vyskytla se chyba při převodu ID služby z &quot;%1&quot;.&lt;br&gt;Důvod: %2&lt;br&gt;&lt;br&gt;Služba nemusí podporovat tuto vlastnost. V tomto případě musíš adresu XMPP pro přidávaný kontakt napsat ručně.  Příklady:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[adresa XMPP transportu]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%gmail.com@[adresa XMPP transportu]&lt;br&gt;&lt;/qt&gt;</translation>
     </message>
 </context>
 <context>
@@ -1327,15 +1334,15 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Postal</source>
-        <translation type="unfinished"></translation>
+        <translation>Poštovní</translation>
     </message>
     <message>
         <source>Parcel</source>
-        <translation type="unfinished"></translation>
+        <translation>Balíček</translation>
     </message>
     <message>
         <source>Domestic</source>
-        <translation type="unfinished"></translation>
+        <translation>Domácí</translation>
     </message>
     <message>
         <source>International</source>
@@ -1359,7 +1366,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Schránka</translation>
     </message>
     <message>
         <source>Video</source>
@@ -1409,7 +1416,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Attention Plugin</source>
-        <translation>Attention Plugin</translation>
+        <translation>Zásuvný modul Attention</translation>
     </message>
     <message>
         <source>You sent Attention message to %1</source>
@@ -1434,7 +1441,7 @@ Aby pracoval správně, je nutné, aby protistrana podporovala XEP-0224 (např. 
     <name>AuthEvent</name>
     <message>
         <source>%1 wants to subscribe to your presence.</source>
-        <translation>%1 žádá potrzení pro umožnění zjišťování tvého stavu.</translation>
+        <translation>%1 žádá potvrzení pro umožnění zjišťování tvého stavu.</translation>
     </message>
     <message>
         <source>%1 authorized you to view his status.</source>
@@ -1549,17 +1556,17 @@ Aby pracoval správně, je nutné, aby protistrana podporovala XEP-0224 (např. 
 The list of exceptions for jids has two operating modes:
 * auto-responder is switched off for the list of exceptions, for the others is switched on (Disable mode)
 * auto-responder is switched on for the list of exceptions, for the others is switched off (Enable mode) </source>
-        <translation>Tento plugin se chová jako záznamník. Má několik jednoduchých nastavení, která můžete použít na:
+        <translation>Tento zásuvný modul se chová jako záznamník. Má několik jednoduchých nastavení, která můžete použít na:
 * nastavit zprávu pro automatickou odpověď
-* vynechat konkrétní jidy, včetně konferencí, z objektů dostávajících automatické odpovědi (pokud je jid konference, vyjímka se týká i všech soukromých zpráv)
+* vynechat konkrétní JIDy, včetně konferencí, z objektů dostávajících automatické odpovědi (pokud je jid konference, vyjímka se týká i všech soukromých zpráv)
 * vypnout automatickou odpověď pro vybrané účty
 * nastavit počet odeslaných automatických odpovědí
 * nastavit interval po kterém bude počitadlo odeslaných automatických odpovědí vynulováno
 * vypnout automatické odpovědi pro aktivní tab
 * vypnout automatické odpovědi pro kontakty které nejsou v rosteru
-Seznam vyjímek pro jidy má dva módy:
-* automatické odpovědi jsou vypnuty pro list vyjímek, zapnuty pro ostatní (Mód vypnuto)
-* automatické odpovědi jsou zapnuty pro seznam vyjímek, vypnuty pro ostatní (Mód zapnuto) </translation>
+Seznam výjimek pro JIDy má dva módy:
+* automatické odpovědi jsou vypnuty pro list výjimek, zapnuty pro ostatní (Mód vypnuto)
+* automatické odpovědi jsou zapnuty pro seznam výjimek, vypnuty pro ostatní (Mód zapnuto) </translation>
     </message>
 </context>
 <context>
@@ -1640,11 +1647,11 @@ Seznam vyjímek pro jidy má dva módy:
     <name>BOBFileShareDownloader</name>
     <message>
         <source>&quot;Bits Of Binary&quot; data source is offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Zdroj pro &quot;Bits Of Binary&quot; je offline</translation>
     </message>
     <message>
         <source>Download using &quot;Bits Of Binary&quot; failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Selhalo stažení pomocí &quot;Bits Of Binary&quot;</translation>
     </message>
 </context>
 <context>
@@ -1668,7 +1675,7 @@ Seznam vyjímek pro jidy má dva módy:
     <message>
         <source>This plugin allows you to play battleship with your friends.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation>Tento zásuvný modul ti dovolí hrát lodě s tvými přeteli.
+        <translation>Tento zásuvný modul ti dovolí hrát lodě s tvými přáteli.
 Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný modul bude fungovat kdekoliv přihlásíte. Abyste pozvali kamaráda hrát, můžete použít seznam kontaktů nebo tlačítko na liště v okně chatu.</translation>
     </message>
     <message>
@@ -2154,7 +2161,7 @@ Opravdu zavřít toto okno?</translation>
     </message>
     <message>
         <source>Recording (%1 sec left)</source>
-        <translation>Nahrávaní (zbýva %1 vteřin)</translation>
+        <translation>Nahrávaní (zbývá %1 vteřin)</translation>
     </message>
     <message>
         <source>Record and share audio note while pressed</source>
@@ -2200,7 +2207,7 @@ Opravdu zavřít toto okno?</translation>
     </message>
     <message>
         <source>Configure your chat theme here</source>
-        <translation>Nastavte si zde theme vašeho chatu</translation>
+        <translation>Nastavte si zde téma svého chatu</translation>
     </message>
 </context>
 <context>
@@ -2239,7 +2246,7 @@ hře v šach. Chce hrát za %2.</translation>
     </message>
     <message>
         <source>Chess Plugin</source>
-        <translation>Šachový plugin</translation>
+        <translation>Zásuvný modul Šachy</translation>
     </message>
     <message>
         <source>Chess!</source>
@@ -2277,7 +2284,7 @@ Pořád si ale můžete uložit hru.</translation>
     </message>
     <message>
         <source>Chess Plugin: Invitation from %1</source>
-        <translation>Šachový plugin: Pozvánka od %1</translation>
+        <translation>Zásuvný modul Šachy: pozvánka od %1</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -2299,8 +2306,8 @@ Pořád si ale můžete uložit hru.</translation>
         <source>This plugin allows you to play chess with your friends.
 The plugin is compatible with a similar plugin for Tkabber.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation>Tento plugin Vám umožňuje hrát šachy s Vašimi přáteli.
-Plugin je kompatibilné s podobným pluginem pro Tkabber.
+        <translation>Tento zásuvný modul Vám umožňuje hrát šachy s Vašimi přáteli.
+Zásuvný modul je kompatibilní s podobným zásuvným modulem pro Tkabber.
 Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný modul bude fungovat kdekoliv přihlásíte. Abyste pozvali kamaráda hrát, můžete použít seznam kontaktů nebo tlačítko na liště v okně chatu.</translation>
     </message>
 </context>
@@ -2355,7 +2362,7 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     <message>
         <source>  White     Black
 </source>
-        <translation>  Bilí     Černí
+        <translation>  Bílí     Černí
 </translation>
     </message>
 </context>
@@ -2391,7 +2398,7 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     </message>
     <message>
         <source>Deselect All Files</source>
-        <translation>Odvybrat všechny soubory</translation>
+        <translation>Zrušit výběr všech souborů</translation>
     </message>
     <message>
         <source>0</source>
@@ -2499,15 +2506,15 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     </message>
     <message>
         <source>Cache Not Found!</source>
-        <translation>Cache nenalezena!</translation>
+        <translation>Keš nenalezena!</translation>
     </message>
     <message>
         <source>Clear Birthdays Cache</source>
-        <translation>Vymazat cache narozenin</translation>
+        <translation>Vymazat keš narozenin</translation>
     </message>
     <message>
         <source>Birthdays Cache Successfully Cleared</source>
-        <translation>Cache narozenin byla úspěšně vymazána</translation>
+        <translation>Keš narozenin byla úspěšně vymazána</translation>
     </message>
 </context>
 <context>
@@ -2531,7 +2538,7 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     <message>
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
 You can preview items before deleting them from your hard drive.</source>
-        <translation>Tento plugin je určen k pročištění cache avatarů, uložených lokálních kopií vCard a historie.
+        <translation>Tento zásuvný modul je určen k pročištění keše avatarů, uložených lokálních kopií vCard a historie.
 Můžete si položky prohlédnout před tím, než je smažete.</translation>
     </message>
 </context>
@@ -2639,7 +2646,7 @@ Můžete si položky prohlédnout před tím, než je smažete.</translation>
         <source>The plugin is intended for substitution of the client version, his name and operating system type.
 You can specify the version of the client and OS or to select them from the preset list.
 </source>
-        <translation>Tento plugin je určen k nahrazování verze klienta, jeho jména a operačního systému.
+        <translation>Tento zásuvný modul je určen k nahrazování verze klienta, jeho jména a operačního systému.
 Můžete nastavit vše ručně, nebo si vybrat některou z předdefinovaných možností.
 </translation>
     </message>
@@ -2710,7 +2717,7 @@ Groupchats logs can be viewed from the plugin settings or by clicking on the app
 
 Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <translation>Tento zásuvný modul dokáže ukládat záznamy skupinových chatů, do kterých se uživatel Psí+ přihlásí.
-Záznamy skupinových chatů jsou k náhlednutí v nastavení zásuvného modulu nebo když klikneš na odpovídající tlačítko v nástrojové liště aktivního okna/záložky se skupinovým chatem.
+Záznamy skupinových chatů jsou k nahlédnutí v nastavení zásuvného modulu nebo když klikneš na odpovídající tlačítko v nástrojové liště aktivního okna/záložky se skupinovým chatem.
 
 Pozn.: aby modul pracoval správně, Nástrojová lišta skupinového chatu musí být povolena.</translation>
     </message>
@@ -2815,7 +2822,7 @@ Pozn.: aby modul pracoval správně, Nástrojová lišta skupinového chatu mus�
     </message>
     <message>
         <source>Plugins</source>
-        <translation>Pluginy</translation>
+        <translation>Zásuvné moduly</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
@@ -3054,7 +3061,7 @@ Pokračovat?</translation>
     </message>
     <message>
         <source>Do you really want to import these contacts?</source>
-        <translation>Opravdu chete importovat tyto kontakty?</translation>
+        <translation>Opravdu chcete importovat tyto kontakty?</translation>
     </message>
 </context>
 <context>
@@ -3118,7 +3125,7 @@ Pokračovat?</translation>
     </message>
     <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
-        <translation>Tento plugin je navržen pro zjednodušení stahování a instalace sad ikon i jiných dat pro Psi+.</translation>
+        <translation>Tento zásuvný modul je navržen pro zjednodušení stahování a instalace sad ikon i jiných dat pro Psi+.</translation>
     </message>
 </context>
 <context>
@@ -3425,7 +3432,7 @@ Pokračovat?</translation>
     </message>
     <message>
         <source>*Regular expressions can be used</source>
-        <translation>*Lze použí regulární výrazy</translation>
+        <translation>*Lze použít regulární výrazy</translation>
     </message>
     <message>
         <source>**List of words can be used.
@@ -3795,7 +3802,7 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
     </message>
     <message>
         <source>You are not authorized to retrieve Last Activity information</source>
-        <translation>Nemáš oprávnění na ziskání informace o poslední činnosti</translation>
+        <translation>Nemáš oprávnění na získání informace o poslední činnosti</translation>
     </message>
     <message>
         <source>%1 Time</source>
@@ -3843,7 +3850,7 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
     </message>
     <message>
         <source>This plugin adds several additional commands into contacts context menu.</source>
-        <translation>Tento plugin přídává několik nových příkazů do kontextového menu u kontaktů.</translation>
+        <translation>Tento zásuvný modul přidává několik nových příkazů do kontextového menu u kontaktů.</translation>
     </message>
 </context>
 <context>
@@ -3914,7 +3921,7 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
     </message>
     <message>
         <source>Automatically scroll down the log when a message was sent</source>
-        <translation>Automaticky zaskrolovat dolů v historii po odeslání zprávy</translation>
+        <translation>Automaticky posunovat dolů v historii po odeslání zprávy</translation>
     </message>
     <message>
         <source>Show status changes</source>
@@ -3989,7 +3996,8 @@ Toto nastavení má účinek pouze je-li akceptovat-výchozí vypnuto.</translat
     <message>
         <source>Disable autojoin to following groupchats:
 (specify JIDs)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakázat automatické přihlášení do následujících skupinových chatů:
+(zadej JIDy)</translation>
     </message>
     <message>
         <source>Groupchat leave status message:</source>
@@ -4013,7 +4021,7 @@ Toto nastavení má účinek pouze je-li akceptovat-výchozí vypnuto.</translat
     </message>
     <message>
         <source>Show affiliation icons</source>
-        <translation>Zobrazi ikony přiřazení</translation>
+        <translation>Zobrazit ikony přiřazení</translation>
     </message>
     <message>
         <source>Show client icons</source>
@@ -4053,7 +4061,7 @@ Toto nastavení má účinek pouze je-li akceptovat-výchozí vypnuto.</translat
     </message>
     <message>
         <source>Contact name and status message in a row</source>
-        <translation>Jméno konktaku a stavová zpráva v řadě</translation>
+        <translation>Jméno kontaktu a stavová zpráva v řadě</translation>
     </message>
     <message>
         <source>If contact does not have avatar, use default avatar</source>
@@ -4133,7 +4141,7 @@ Toto nastavení má účinek pouze je-li akceptovat-výchozí vypnuto.</translat
     </message>
     <message>
         <source>Link color:</source>
-        <translation>Barva linků:</translation>
+        <translation>Barva odkazů:</translation>
     </message>
     <message>
         <source>Mailto color:</source>
@@ -4201,7 +4209,7 @@ Toto nastavení má účinek pouze je-li akceptovat-výchozí vypnuto.</translat
     </message>
     <message>
         <source>Disable wheel scroll</source>
-        <translation>Vypnout skrolování kolečkem</translation>
+        <translation>Vypnout posun kolečkem</translation>
     </message>
     <message>
         <source>Put tabs at bottom of chat window</source>
@@ -4292,11 +4300,11 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>Place current tab at the bottom row in multirow mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Umísti současnou záložku na spodek řádku ve víceřádkovém režimu</translation>
     </message>
     <message>
         <source>Hide groupchat when closing window</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrýt okno skupinového chatu při zavření okna</translation>
     </message>
 </context>
 <context>
@@ -4498,18 +4506,18 @@ nedostupná.  Pokud jsi za firewallem, je nutné se ujistit,
     <name>FileShareDownloader::Private</name>
     <message>
         <source>Download sources are not given</source>
-        <translation type="unfinished"></translation>
+        <translation>Zdroje ke stažení nebyly určeny</translation>
     </message>
 </context>
 <context>
     <name>FileSharingItem</name>
     <message>
         <source>Published on HttpUpload service</source>
-        <translation type="unfinished"></translation>
+        <translation>Publikováno na službě HttpUpload</translation>
     </message>
     <message>
         <source>Failed to publish on HttpUpload service</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepovedlo se publikovat na službě HttpUpload</translation>
     </message>
 </context>
 <context>
@@ -4790,7 +4798,7 @@ Zdůvodnění: %3</translation>
     </message>
     <message>
         <source>Copy Groupchat JID</source>
-        <translation>Zkopírovat JID skupionvého chatu</translation>
+        <translation>Zkopírovat JID skupinového chatu</translation>
     </message>
     <message>
         <source> by %1</source>
@@ -4922,7 +4930,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>You have been kicked from the room</source>
-        <translation>Byl jste byhozen z této místnosti</translation>
+        <translation>Byl jste vyhozen z této místnosti</translation>
     </message>
     <message>
         <source>You have been kicked from the room by %1</source>
@@ -5022,7 +5030,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>Bookmark conference</source>
-        <translation>Zazáložkovat konferenci</translation>
+        <translation>Dát konferenci do záložek</translation>
     </message>
     <message>
         <source>Unable to join groupchat.    Reason: %1</source>
@@ -5094,7 +5102,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>Administrator</source>
-        <translation>Administrator</translation>
+        <translation>Administrátor</translation>
     </message>
     <message>
         <source>Owner</source>
@@ -5106,19 +5114,19 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>You have been removed from the room due to technical problem</source>
-        <translation type="unfinished"></translation>
+        <translation>Byl jsi odebrán z místnosti kvůli technickému problému</translation>
     </message>
     <message>
         <source>You have been removed from the room by %1 due to technical problem</source>
-        <translation type="unfinished"></translation>
+        <translation>Byl jsi odebrán z místnosti %1 kvůli technickému problému</translation>
     </message>
     <message>
         <source>%1 has been removed from the room due to technical problem</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 byl odebrán z místnosti kvůli technickému problému</translation>
     </message>
     <message>
         <source>%1 has been removed from the room by %2 due to technical problem</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 byl odebrán z místnosti %2 kvůli technickému problému</translation>
     </message>
     <message>
         <source>Encryption is enabled</source>
@@ -5414,7 +5422,7 @@ Hra je prohraná.</translation>
     </message>
     <message>
         <source>This is the list of colours with which nicks will be drawn in group chat.</source>
-        <translation>Toto je seznam barev, kterými budou zvýrazněny přezdívky v group chatu.</translation>
+        <translation>Toto je seznam barev, kterými budou zvýrazněny přezdívky ve skupinovém chatu.</translation>
     </message>
     <message>
         <source>Type a colourcode here, or press the palette to the right</source>
@@ -5434,7 +5442,7 @@ Hra je prohraná.</translation>
     </message>
     <message>
         <source>Select nick coloring type for conference log</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvol si obarvování přezdívek v záznamu konference</translation>
     </message>
     <message>
         <source>None</source>
@@ -5477,11 +5485,11 @@ Hra je prohraná.</translation>
     </message>
     <message>
         <source>Altitude:</source>
-        <translation>Namořská výška:</translation>
+        <translation>Nadmořská výška:</translation>
     </message>
     <message>
         <source>Altitude in meters above or below sea level</source>
-        <translation>Namořská výška v metrech</translation>
+        <translation>Nadmořská výška v metrech</translation>
     </message>
     <message>
         <source>Area:</source>
@@ -6004,7 +6012,7 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     </message>
     <message>
         <source>Reset</source>
-        <translation>Vyresetovat</translation>
+        <translation>Vynulovat</translation>
     </message>
 </context>
 <context>
@@ -6114,7 +6122,7 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     </message>
     <message>
         <source>Open link in browser</source>
-        <translation>Otevřít link v browseru</translation>
+        <translation>Otevřít odkaz v prohlížeči</translation>
     </message>
     <message>
         <source>Close</source>
@@ -6215,7 +6223,8 @@ Pokračovat?</translation>
     <message>
         <source>This plugin is designed to remove the history of selected contacts when the Psi is closed.
 You can select or deselect a contact for history removal from the context menu of a contact or via the plugin options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tento zásuvný modul byl navržen, aby odebíral historii vybraných kontaktů při zavření Psi.
+V kontextovém menu nebo ve volbách zásuvného modulu můžeš vybrat nebo zrušit výběr kontaktů, pro které má být historie odebrána.</translation>
     </message>
 </context>
 <context>
@@ -6229,7 +6238,7 @@ You can select or deselect a contact for history removal from the context menu o
     <name>HttpAuthEvent</name>
     <message>
         <source>HTTP Authentication Request</source>
-        <translation>Autentikační HTTP požadavek</translation>
+        <translation>HTTP požadavek pro ověření</translation>
     </message>
 </context>
 <context>
@@ -6377,7 +6386,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>This plugin allows uploading images and other files via XEP-0363.</source>
-        <translation>Tento plugin dovoluje nahrávání obrázků a jiných souborů přes XEP-0363.</translation>
+        <translation>Tento zásuvný modul dovoluje nahrávání obrázků a jiných souborů přes XEP-0363.</translation>
     </message>
     <message>
         <source>Error requesting slot</source>
@@ -6385,11 +6394,11 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Either put or get URL is missing in the server&apos;s reply.</source>
-        <translation>V odpovědi serveru cybí buď PUT, nebo GET adresa.</translation>
+        <translation>V odpovědi serveru chybí buď PUT, nebo GET adresa.</translation>
     </message>
     <message>
         <source>Error uploading</source>
-        <translation>Chyba při nuhrávání</translation>
+        <translation>Chyba při nahrávání</translation>
     </message>
     <message>
         <source>No data to upload, this maybe a result of timeout or other error.</source>
@@ -6401,11 +6410,11 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Chyba nahrávání %1; HTTP kód %2, zpráva: %3</translation>
     </message>
     <message>
         <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Něco se pokazilo, prosím, zkus to znovu, nebo zakaž šifrování OMEMO</translation>
     </message>
 </context>
 <context>
@@ -6695,7 +6704,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>An image from the clipboard is sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrázek ze schránky byl odeslán</translation>
     </message>
     <message>
         <source>Image %1 is sent</source>
@@ -7101,7 +7110,7 @@ Příčina: %1</translation>
     <name>InvitationDialog</name>
     <message>
         <source>Chess Plugin - Invitation</source>
-        <translation>Šachový plugin - pozvánka</translation>
+        <translation>Šachový zásuvný modul - pozvánka</translation>
     </message>
     <message>
         <source>Accept</source>
@@ -7215,7 +7224,7 @@ abyste si zahráli. Chce hrát %2.</translation>
     </message>
     <message>
         <source>Hash</source>
-        <translation>Hash</translation>
+        <translation>Haš</translation>
     </message>
     <message>
         <source>Link</source>
@@ -7285,19 +7294,19 @@ abyste si zahráli. Chce hrát %2.</translation>
     <name>JingleFileShareDownloader</name>
     <message>
         <source>Jingle data source is offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Zdroj dat Jingle je offline</translation>
     </message>
     <message>
         <source>Invalid Jingle-FT URI</source>
-        <translation type="unfinished"></translation>
+        <translation>Špatné URL Jingle-FT</translation>
     </message>
     <message>
         <source>Unexpected incoming content</source>
-        <translation type="unfinished"></translation>
+        <translation>Neočekávaný obsah na příjmu</translation>
     </message>
     <message>
         <source>Jingle download failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Stahovaní Jingle selhalo</translation>
     </message>
 </context>
 <context>
@@ -7472,7 +7481,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Banned</source>
-        <translation>Zabanovaní</translation>
+        <translation>Zakázaný</translation>
     </message>
 </context>
 <context>
@@ -7644,7 +7653,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>You are in or joining this room already!</source>
-        <translation>V téhle místosti už jsi!</translation>
+        <translation>V téhle místnosti už jsi!</translation>
     </message>
     <message>
         <source>Unable to join groupchat.
@@ -7658,7 +7667,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>No response from server for %1 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Žádná odpověď od serveru za %1 vteřin</translation>
     </message>
     <message>
         <source>Remove from bookmarks</source>
@@ -7681,7 +7690,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>You are not allowed to ban this user.</source>
-        <translation>Tomuto uživateli nemůžeš udělit ban.</translation>
+        <translation>Tomuto uživateli nemůžeš udělit zákaz.</translation>
     </message>
     <message>
         <source>You are not allowed to grant voice to this user.</source>
@@ -7783,7 +7792,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation>Nástoje</translation>
+        <translation>Nástroje</translation>
     </message>
     <message>
         <source>Help</source>
@@ -7870,6 +7879,10 @@ Příchozí událost(i) od:</translation>
         <translation type="vanished">psimedia není k dispozici</translation>
     </message>
     <message>
+        <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
+        <translation type="vanished">Zásuvný modul PsiMedia není nahraný nebo inicializovaný.&lt;br&gt;Prosím navštiv &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; pro více podrobností.</translation>
+    </message>
+    <message>
         <source>Hide</source>
         <translation>Skrýt</translation>
     </message>
@@ -7939,7 +7952,7 @@ Rusko, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Umí zahodí příchozí postoje na základě různých filtrů jako zdrojová/cílová adresa nebo určitý obsah zprávy.</translation>
     </message>
 </context>
 <context>
@@ -8053,7 +8066,7 @@ Detaily: %1</translation>
     <name>MoodDlg</name>
     <message>
         <source>&lt;unset&gt;</source>
-        <translation>&lt;unset&gt;</translation>
+        <translation>&lt;nenastaveno&gt;</translation>
     </message>
 </context>
 <context>
@@ -8259,7 +8272,7 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Storage Notes Plugin</source>
-        <translation>Storage Notes Plugin</translation>
+        <translation>Zásuvný modul Storage Notes</translation>
     </message>
     <message>
         <source>Notes has been saved.</source>
@@ -8298,7 +8311,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Šifrování OpenPGP</translation>
     </message>
     <message>
         <source>OpenPGP is the most widely used encryption standard. It is extremely simple in usage:&lt;br/&gt;* Generate a key pair (public key + secret key) or choose existing one and set it in program settings.&lt;br/&gt;* Protect your secret key with a strong password and never give it to anyone.&lt;br/&gt;* Share your public key with buddies and get their public keys using any communication channel which you trust (xmpp, email, PGP keys server).&lt;br/&gt;* Enable PGP encryption in chat with you buddy and have fun the protected conversation.</source>
@@ -8306,11 +8319,11 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>OpenPGP features:&lt;br/&gt;* Offline messages.&lt;br/&gt;* File transfer. (Not supported by plugin yet.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Funkce OpenPGP:&lt;br/&gt;* Offline zprávy.&lt;br/&gt;* Přenos souborů. (Zatím zásuvným modulem nepodporováno.)</translation>
     </message>
     <message>
         <source>OpenPGP limitations:&lt;br/&gt;* No support of message copies to multiple devices.&lt;br/&gt;* No support of multi-user chats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Omezení OpenPGP:&lt;br/&gt;* Nepodporovány kopie zpráv na více zařízení.&lt;br/&gt;* Žádná podpora pro víceuživatelské chaty.</translation>
     </message>
     <message>
         <source>OpenPGP plugin uses standard command-line tool GnuPG, so attentively check that you properly installed and configured gpg and gpg-agent. For example, in your system:</source>
@@ -8318,19 +8331,19 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>1) Download and install &quot;%1&quot; from official website:</source>
-        <translation type="unfinished"></translation>
+        <translation>1) Stáhnout a nainstalovat &quot;%1&quot; z oficiální stránky:</translation>
     </message>
     <message>
         <source>1) Install gpg and gpg-agent using Homebrew:</source>
-        <translation type="unfinished"></translation>
+        <translation>1) Nainstalovat gpg and gpg-agenta pomocí Homebrew:</translation>
     </message>
     <message>
         <source>1) Install gpg and gpg-agent using system packaging tool.</source>
-        <translation type="unfinished"></translation>
+        <translation>1) Nainstalovat gpg a gpg-agenta pomocí systémového správce balíků.</translation>
     </message>
     <message>
         <source>2) Edit configuration file %1 if necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>2) Upravit konfigurační soubor %1, je-li třeba.</translation>
     </message>
     <message>
         <source>In comparison with OTR and OMEMO, OpenPGP allows one to keep encrypted messages history on server side but lucks support of forward secrecy (they are mutually exclusive).</source>
@@ -8391,7 +8404,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Disables the sending of message events such as &quot;Contact is Typing...&quot;</source>
-        <translation>Zakazuje posilání událostí jako &quot;Kontakt píše...&quot;</translation>
+        <translation>Zakazuje posílání událostí jako &quot;Kontakt píše...&quot;</translation>
     </message>
     <message>
         <source>Do not send composing events</source>
@@ -8570,7 +8583,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Specifies the color for additional text of system messages. MUC topic for example.</source>
-        <translation>Udává barvu pro další textz systémových zpráv. Např. témata chatu více lidí.</translation>
+        <translation>Udává barvu pro další texty systémových zpráv. Např. témata chatu více lidí.</translation>
     </message>
     <message>
         <source>Additional message text:</source>
@@ -8735,11 +8748,11 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Keep accounts&apos; passwords in more secure system keyring manager instead of profile settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uchovat hesla k účtům ve více bezpečném správci klíčů namísto v nastavení profilu.</translation>
     </message>
     <message>
         <source>Use system keyring manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Použít správce klíčů</translation>
     </message>
     <message>
         <source>99999</source>
@@ -8812,6 +8825,18 @@ Důvod: %1.</translation>
         <translation>&amp;Chat</translation>
     </message>
     <message>
+        <source>&amp;When chat window is closed</source>
+        <translation type="vanished">&amp;Když je chatovací okno zavřeno</translation>
+    </message>
+    <message>
+        <source>&amp;One hour after chat window was closed</source>
+        <translation type="vanished">&amp;Hodinu po zavření okna chatu</translation>
+    </message>
+    <message>
+        <source>One &amp;day after chat window was closed</source>
+        <translation type="vanished">Jeden &amp;den  po zavření okna chatu</translation>
+    </message>
+    <message>
         <source>&amp;Never</source>
         <translation type="vanished">&amp;Nikdy</translation>
     </message>
@@ -8821,7 +8846,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Počet zpráv z historie chatu zobrazených v záznamu chatu pro kontakt&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Show status changes</source>
@@ -8915,11 +8940,11 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Enable Spell Checking</source>
-        <translation type="unfinished"></translation>
+        <translation>Povolit kontrolu pravopisu</translation>
     </message>
     <message>
         <source>Available spellcheck dictionaries</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostupné slovníky na kontrolu pravopisu</translation>
     </message>
     <message>
         <source>No dictionaries found</source>
@@ -8978,7 +9003,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Show previews for links</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazovat náhledy pro odkazy</translation>
     </message>
     <message>
         <source>Use contacts&apos; message formatting</source>
@@ -9002,7 +9027,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Record and share audio message</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaznamenat a sdílet zvukovou zprávu</translation>
     </message>
     <message>
         <source>Enable audio messages</source>
@@ -9274,7 +9299,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Hides scrollbar in the roster widget.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skryje posuvník v okně rosteru.</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
@@ -9286,7 +9311,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Show icon if contact status like online, away and others.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazí ikonu, pokud je stav kontaktu online, pryč, nebo jiný.</translation>
     </message>
     <message>
         <source>Status</source>
@@ -9302,7 +9327,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Show who is the boss and who is nothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit, kdo je boss a kdo je nikdo</translation>
     </message>
     <message>
         <source>Affiliations</source>
@@ -9334,11 +9359,11 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Align avatars to the left edge of the roster. Otherwise to the right.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zarovnat avatary na levou stranu rosteru. Jinak doprava.</translation>
     </message>
     <message>
         <source>Left aligned</source>
-        <translation>Zarvonání vlevo</translation>
+        <translation>Zarovnání vlevo</translation>
     </message>
     <message>
         <source>Place groupchat roster at left</source>
@@ -9688,7 +9713,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Can&apos;t edit this type of setting, sorry.</source>
-        <translation>Nemohu upravit tento typ nastasvení, sorry.</translation>
+        <translation>Nemohu upravit tento typ nastavení, promiň.</translation>
     </message>
     <message>
         <source>Please enter option name.
@@ -9719,7 +9744,7 @@ Názvy voleb nemůžou být prázdné, končit &apos;.&apos; nebo obsahovat &apo
     </message>
     <message>
         <source>Don&apos;t hide popup if status is Away or XA</source>
-        <translation>Neskrývat vyskakovací ikna když je stav Pryč nebo XA</translation>
+        <translation>Neskrývat vyskakovací okna když je stav Pryč nebo XA</translation>
     </message>
     <message>
         <source>Disable notifications if status is DND</source>
@@ -9745,7 +9770,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Clear Birthdays Cache</source>
-        <translation>Smazat cache narozenin</translation>
+        <translation>Smazat keš narozenin</translation>
     </message>
     <message>
         <source>Check Birthdays</source>
@@ -9961,7 +9986,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Per contact delay between the popup notifications of the same events</source>
-        <translation>Prodleva mezi vyskakovacími okny jednoho typu na jednotlivý konktakt</translation>
+        <translation>Prodleva mezi vyskakovacími okny jednoho typu na jednotlivý kontakt</translation>
     </message>
     <message>
         <source>Delay between popups</source>
@@ -10105,7 +10130,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Log blocked messages to contact&apos;s history</source>
-        <translation>Logovat blokované zprávy do historie kontaktů</translation>
+        <translation>Zaznamenávat blokované zprávy do historie kontaktů</translation>
     </message>
     <message>
         <source>Del</source>
@@ -10272,7 +10297,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Color for incoming messages numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva pro čísla příchozích zpráv</translation>
     </message>
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
@@ -10280,7 +10305,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Keys Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Správce klíčů</translation>
     </message>
     <message>
         <source>Own Keys</source>
@@ -10296,7 +10321,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>OpenPGP encryption policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Politika pro šifrování OpenPGP</translation>
     </message>
     <message>
         <source>Always enabled</source>
@@ -10304,11 +10329,11 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Enabled by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Výchozí povolena</translation>
     </message>
     <message>
         <source>Disabled by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Výchozí zakázána</translation>
     </message>
     <message>
         <source>Automatically assign known keys to contacts with signed presences and no assigned keys</source>
@@ -10316,7 +10341,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Show PGP info in tooltips for contacts in roster</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit PGP informace v bublinkové nápovědě pro kontakty v rosteru</translation>
     </message>
     <message>
         <source>Automatically import PGP key from the message body</source>
@@ -10384,7 +10409,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>gpg-agent configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurace gpg-agenta</translation>
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt; This option affects all programs which use gpg-agent in your system!</source>
@@ -10396,7 +10421,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Open configuration file</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít konfigurační soubor</translation>
     </message>
     <message>
         <source>Attempt to reload gpg-agent config is failed. You need to restart your system to see changes in gpg-agent settings.</source>
@@ -10413,7 +10438,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Do not sign own presence status</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodepisovat vlastní stav přítomnosti</translation>
     </message>
 </context>
 <context>
@@ -10474,7 +10499,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Enables as-you-type JID autocompletion in message dialog.</source>
-        <translation>Povolí automatické dokončování JID v okně zpávy během psaní.</translation>
+        <translation>Povolí automatické dokončování JID v okně zprávy během psaní.</translation>
     </message>
     <message>
         <source>Automatically attaches URLs from clipboard to the messages when enabled</source>
@@ -10636,7 +10661,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Makes Psi use a docklet icon, also known as system tray icon.</source>
-        <translation>Způsobí, že Psi bude používat ikonu v systémové části panelu, také znamou jako dok nebo tray ikonu.</translation>
+        <translation>Způsobí, že Psi bude používat ikonu v systémové části panelu, také známou jako dok nebo tray ikonu.</translation>
     </message>
     <message>
         <source>Normally, single-clicking on the Psi docklet icon brings the main window to the foreground.  Check this option if you would rather use a double-click.</source>
@@ -10722,7 +10747,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Makes Psi open chat windows in compact mode.</source>
-        <translation>Zajistí, že se nová okna chatu budou zobrazovat v kompatním tvaru.</translation>
+        <translation>Zajistí, že se nová okna chatu budou zobrazovat v kompaktním tvaru.</translation>
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
@@ -10927,7 +10952,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Enables automatic substitution of the first letter in a sentence to the same capital letter</source>
-        <translation type="unfinished"></translation>
+        <translation>Povolí automatické nahrazení prvního písmena ve větě za velké</translation>
     </message>
 </context>
 <context>
@@ -11100,7 +11125,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Are you sure you would like to restore the default shortcuts?</source>
-        <translation>Seš si jist(a), že chceš obnovit výchozí zkratky?</translation>
+        <translation>Jsi si jist(a), že chceš obnovit výchozí zkratky?</translation>
     </message>
 </context>
 <context>
@@ -11115,7 +11140,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>If your system supports multiple sound players, you may choose your preferred sound player application here.</source>
-        <translation>Pokud tvůj systém podporuje více přehrávačů zvuků, můžes si vybrat aplikaci přehrávače zvuků, kterou preferuješ.</translation>
+        <translation>Pokud tvůj systém podporuje více přehrávačů zvuků, můžeš si vybrat aplikaci přehrávače zvuků, kterou preferuješ.</translation>
     </message>
     <message>
         <source>Enable this option if you wish to hear sound alerts when your status is &quot;away&quot; or &quot;extended away&quot;.</source>
@@ -11204,11 +11229,11 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Press this button to create a new status message preset.</source>
-        <translation>Stiskni toto tláčítko pro vytvoření nové předvolby stavové zprávy.</translation>
+        <translation>Stiskni toto tlačítko pro vytvoření nové předvolby stavové zprávy.</translation>
     </message>
     <message>
         <source>Press this button to delete a status message preset.</source>
-        <translation>Stiskni toto tláčítko pro smazání předvolby stavové zprávy.</translation>
+        <translation>Stiskni toto tlačítko pro smazání předvolby stavové zprávy.</translation>
     </message>
     <message>
         <source>You may edit the message here for the currently selected status message preset in the list to the above.</source>
@@ -11247,7 +11272,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Tunes no-video filter and controllers switcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Ladí filtr no-video a ovládá přepínač</translation>
     </message>
 </context>
 <context>
@@ -11728,7 +11753,7 @@ Prosím vlož svou heslovací frázi:</translation>
     <name>PluginManager</name>
     <message>
         <source>This plugin has no user configurable options</source>
-        <translation>Tento zásuvný modul nemá žadné uživatelem nastavitelné volby</translation>
+        <translation>Tento zásuvný modul nemá žádné uživatelem nastavitelné volby</translation>
     </message>
 </context>
 <context>
@@ -11883,11 +11908,11 @@ Prosím vlož svou heslovací frázi:</translation>
     </message>
     <message>
         <source>Press button and make move if you want to propose draw</source>
-        <translation>Stiskni a proveď tah pokud chceš navhrnout nerozhodnou hru</translation>
+        <translation>Stiskni a proveď tah pokud chceš navrhnout nerozhodnou hru</translation>
     </message>
     <message>
         <source>Propose a draw</source>
-        <translation>Navhrnout nerozhodný výsledek</translation>
+        <translation>Navrhnout nerozhodný výsledek</translation>
     </message>
     <message>
         <source>Press button if you want to accept the draw proposal</source>
@@ -12019,7 +12044,7 @@ Prosím vlož svou heslovací frázi:</translation>
     </message>
     <message>
         <source>Rename List</source>
-        <translation>Seznam přejmenování</translation>
+        <translation>Přejmenovat seznam</translation>
     </message>
     <message>
         <source>Delete List</source>
@@ -12051,7 +12076,7 @@ Prosím vlož svou heslovací frázi:</translation>
     </message>
     <message>
         <source>Edit ...</source>
-        <translation>Uprav ...</translation>
+        <translation>Upravit ...</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -12086,7 +12111,7 @@ Prosím vlož svou heslovací frázi:</translation>
     </message>
     <message>
         <source>Rename List</source>
-        <translation>Seznam přejmenování</translation>
+        <translation>Přejmenovat seznam</translation>
     </message>
     <message>
         <source>Input new name</source>
@@ -12152,7 +12177,7 @@ Prosím vlož svou heslovací frázi:</translation>
     </message>
     <message>
         <source>Subscription</source>
-        <translation>Předplatné</translation>
+        <translation>Přihlášení</translation>
     </message>
     <message>
         <source>*</source>
@@ -12558,7 +12583,7 @@ Odhlásit se?</translation>
     </message>
     <message>
         <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
-        <translation>Tento účet byl nastaven tak, aby používal &quot;Zastaralý SSL port&quot;, ale to už není podporováno. Pokud tvůj XMPP server není úplně starý, tato změna se tě nedotkne. Pokud máš problémy s připojením, prosím, zkonstroluj si nastavení svého účtu nebo kontaktuj svého administrátora XMPP serveru.</translation>
+        <translation>Tento účet byl nastaven tak, aby používal &quot;Zastaralý SSL port&quot;, ale to už není podporováno. Pokud tvůj XMPP server není úplně starý, tato změna se tě nedotkne. Pokud máš problémy s připojením, prosím, zkontroluj si nastavení svého účtu nebo kontaktuj svého administrátora XMPP serveru.</translation>
     </message>
     <message>
         <source>Server Authentication</source>
@@ -12590,7 +12615,7 @@ Odhlásit se?</translation>
     </message>
     <message>
         <source>Conflict (remote login replacing this one)</source>
-        <translation>Konflikt. (vzdálené přihlášení nahradilo toto stavající)</translation>
+        <translation>Konflikt. (vzdálené přihlášení nahradilo toto stávající)</translation>
     </message>
     <message>
         <source>Timed out from inactivity</source>
@@ -12650,7 +12675,7 @@ Odhlásit se?</translation>
     </message>
     <message>
         <source>Host no longer hosted</source>
-        <translation>Počítač už není hostěn</translation>
+        <translation>Počítač už není hostován</translation>
     </message>
     <message>
         <source>Host unknown</source>
@@ -12690,7 +12715,7 @@ Odhlásit se?</translation>
     </message>
     <message>
         <source>No appropriate mechanism available for given security settings (e.g. SASL library too weak, or plaintext authentication not enabled)</source>
-        <translation>Není dostupný odpovídající mechanismus pro zvolené nastavení zabezpeční (např. příliš slabá SASL knihovna nebo není zapnuta jednoduchá - plaintext - autentizace)</translation>
+        <translation>Není dostupný odpovídající mechanismus pro zvolené nastavení zabezpečení (např. příliš slabá SASL knihovna nebo není zapnuta jednoduchá - plaintext - autentizace)</translation>
     </message>
     <message>
         <source>Server failed mutual authentication</source>
@@ -12826,42 +12851,46 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nelze se připojit: šifrování je povoleno, ale není k dispozici žádné QCA úložiště klíčů.</translation>
     </message>
     <message>
         <source>Server refused to resume the session (SM)</source>
-        <translation type="unfinished"></translation>
+        <translation>Server odmítnul obnovu sezení (SM)</translation>
     </message>
     <message>
         <source>Invalid From</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatné Od</translation>
     </message>
     <message>
         <source>Stream reset (security implications)</source>
-        <translation type="unfinished"></translation>
+        <translation>Proud vyl anulován (bezpečnostní důsledek)</translation>
     </message>
     <message>
         <source>Authentication aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Ověřování zrušeno</translation>
     </message>
     <message>
         <source>Account disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Účet zakázán</translation>
     </message>
     <message>
         <source>Credentials expired</source>
-        <translation type="unfinished"></translation>
+        <translation>Přihlašovací údaje vypršely</translation>
     </message>
     <message>
         <source>Malformed request</source>
-        <translation type="unfinished"></translation>
+        <translation>Deformovaný požadavek</translation>
+    </message>
+    <message>
+        <source>Open Files For Sharing</source>
+        <translation type="vanished">Otevřít soubory pro sdílení</translation>
     </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
     <message>
         <source>Common Actions</source>
-        <translation>Bězné činnosti</translation>
+        <translation>Běžné činnosti</translation>
     </message>
     <message>
         <source>View Groups</source>
@@ -13365,7 +13394,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Join Psi Discussion Room (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Připojit se k diskuzní místnosti Psi (Online)</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
@@ -13377,7 +13406,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>&amp;Join Psi Discussion Room (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Připojit se k diskuzní místnosti Psi (Online)</translation>
     </message>
     <message>
         <source>Information</source>
@@ -13417,7 +13446,7 @@ Důvod: %1.</translation>
     <message>
         <source>Are you sure you want to clear the chat window?
 (note: does not affect saved history)</source>
-        <translation>Seš si jist(a), že chceš vymazat okno chatu?
+        <translation>Jsi si jist(a), že chceš vymazat okno chatu?
 (poznámka: toto neovlivní uloženou historii)</translation>
     </message>
     <message>
@@ -13442,11 +13471,11 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Enable OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Povolit šifrování OpenPGP</translation>
     </message>
     <message>
         <source>OpenPGP key is not set in your account settings!</source>
-        <translation type="unfinished"></translation>
+        <translation>Není nastaven OpenPGP klíč ve tvém nastavení!</translation>
     </message>
     <message>
         <source>Fingerprint for account &quot;%1&quot;: %2</source>
@@ -13454,11 +13483,11 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Šifrování OpenPGP</translation>
     </message>
     <message>
         <source>Disable OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakázat šifrování OpenPGP</translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
@@ -13478,15 +13507,15 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Choose Public Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyber veřejný klíč</translation>
     </message>
     <message>
         <source>Send own public key</source>
-        <translation type="unfinished"></translation>
+        <translation>Poslat vlastní veřejný klíč</translation>
     </message>
     <message>
         <source>Send public key...</source>
-        <translation type="unfinished"></translation>
+        <translation>Poslat veřejný klíč...</translation>
     </message>
     <message>
         <source>Command</source>
@@ -13587,11 +13616,11 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Go to &lt;https://psi-im.org/&gt; for more information about Psi.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jdi na &lt;https://psi-im.org/&gt; pro více informací o Psi.</translation>
     </message>
     <message>
         <source>Psi is a cross-platform XMPP client aimed at experienced users.</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi je multiplatformní XMPP klient zaměřený na pokročilé uživatele.</translation>
     </message>
 </context>
 <context>
@@ -13676,14 +13705,17 @@ To možná znamená, že je již puštěna jiná instance Psi. To může způsob
     </message>
     <message>
         <source>Migration is impossible</source>
-        <translation type="unfinished"></translation>
+        <translation>Migrace není možná</translation>
     </message>
     <message>
         <source>Found no more supported configuration file from some very old version:
 %1
 
 Migration is possible with Psi-0.15</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenalezeno více podporovaných konfiguračních souborů z nějakých velmi starých verzí:
+%1
+
+Migrace je možná s Psi-0.15</translation>
     </message>
 </context>
 <context>
@@ -13833,7 +13865,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation>Opravdu chceš odebrat opravnění od &lt;b&gt;%1&lt;/b&gt;?</translation>
+        <translation>Opravdu chceš odebrat oprávnění od &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
@@ -13905,7 +13937,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Copy Groupchat JID</source>
-        <translation>Zkopírovat JID skupionvého chatu</translation>
+        <translation>Zkopírovat JID skupinového chatu</translation>
     </message>
     <message>
         <source>Advanc&amp;ed</source>
@@ -13993,7 +14025,7 @@ Chceš aktivovat tuto relaci?</translation>
     </message>
     <message>
         <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zásuvný modul Media poskytuje Audio/Video hovory a může nahradit nějaké části QtMultimedia.</translation>
     </message>
 </context>
 <context>
@@ -14175,11 +14207,11 @@ Chceš aktivovat tuto relaci?</translation>
     </message>
     <message>
         <source>Display options as a flat list</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit volby jako plochý seznam</translation>
     </message>
     <message>
         <source>Display options as a flat list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit volby jako plochý seznam.</translation>
     </message>
 </context>
 <context>
@@ -14223,19 +14255,19 @@ Chceš aktivovat tuto relaci?</translation>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Možnosti</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished">Online</translation>
+        <translation>Online</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Offline</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <source>Show Next Event</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit další událost</translation>
     </message>
 </context>
 <context>
@@ -14372,7 +14404,7 @@ Chceš aktivovat tuto relaci?</translation>
     </message>
     <message>
         <source>Doing Chores</source>
-        <translation type="unfinished"></translation>
+        <translation>Dělá domácí práce</translation>
     </message>
     <message>
         <source>Buying Groceries</source>
@@ -14404,7 +14436,7 @@ Chceš aktivovat tuto relaci?</translation>
     </message>
     <message>
         <source>Running An Errand</source>
-        <translation type="unfinished"></translation>
+        <translation>Řeší nějakou záležitost</translation>
     </message>
     <message>
         <source>Walking The Dog</source>
@@ -14488,7 +14520,7 @@ Chceš aktivovat tuto relaci?</translation>
     </message>
     <message>
         <source>Grooming</source>
-        <translation type="unfinished"></translation>
+        <translation>Péče o sebe</translation>
     </message>
     <message>
         <source>At The Spa</source>
@@ -14628,7 +14660,7 @@ Chceš aktivovat tuto relaci?</translation>
     </message>
     <message>
         <source>Commuting</source>
-        <translation type="unfinished"></translation>
+        <translation>Jízda z práce/do práce</translation>
     </message>
     <message>
         <source>Driving</source>
@@ -14884,7 +14916,7 @@ Popis: </translation>
     </message>
     <message>
         <source>Contemplative</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamyšlený</translation>
     </message>
     <message>
         <source>Contented</source>
@@ -14908,7 +14940,7 @@ Popis: </translation>
     </message>
     <message>
         <source>Dejected</source>
-        <translation type="unfinished"></translation>
+        <translation>Sklíčený</translation>
     </message>
     <message>
         <source>Depressed</source>
@@ -14924,7 +14956,7 @@ Popis: </translation>
     </message>
     <message>
         <source>Dismayed</source>
-        <translation type="unfinished"></translation>
+        <translation>Zděšený</translation>
     </message>
     <message>
         <source>Distracted</source>
@@ -15048,7 +15080,7 @@ Popis: </translation>
     </message>
     <message>
         <source>Outraged</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobouřený</translation>
     </message>
     <message>
         <source>Playful</source>
@@ -15124,7 +15156,7 @@ Popis: </translation>
     </message>
     <message>
         <source>Thirsty</source>
-        <translation>Žiznivý</translation>
+        <translation>Žíznivý</translation>
     </message>
     <message>
         <source>Tired</source>
@@ -15136,7 +15168,7 @@ Popis: </translation>
     </message>
     <message>
         <source>Weak</source>
-        <translation>labý</translation>
+        <translation>Slabý</translation>
     </message>
     <message>
         <source>Worried</source>
@@ -15361,7 +15393,7 @@ Zpráva nebyla odeslána.</translation>
     <message>
         <source>Failed to generate keys for account &quot;%1&quot;.
 The OTR Plugin will not work.</source>
-        <translation>Selhalo generování klíču pro účet &quot;%1&quot;.
+        <translation>Selhalo generování klíčů pro účet &quot;%1&quot;.
 Zásuvný modul OTR nebude pracovat správně.</translation>
     </message>
     <message>
@@ -15782,15 +15814,15 @@ Děkujeme za trpělivost.</translation>
     </message>
     <message>
         <source>Prepare local offer</source>
-        <translation type="unfinished"></translation>
+        <translation>Připravit lokální nabídku</translation>
     </message>
     <message>
         <source>IQ unacknowledged</source>
-        <translation type="unfinished"></translation>
+        <translation>IQ nepotvrzeno</translation>
     </message>
     <message>
         <source>Waiting accept</source>
-        <translation type="unfinished"></translation>
+        <translation>Čeká na přijetí</translation>
     </message>
     <message>
         <source>Accepted</source>
@@ -15806,27 +15838,27 @@ Děkujeme za trpělivost.</translation>
     </message>
     <message>
         <source>Open Files For Sharing</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít soubory pro sdílení</translation>
     </message>
     <message>
         <source>New OMEMO device has been discovered for &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bylo objeveno nové OMEMO zařízení pro &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Do you want to trust this device and allow it to decrypt copies of your messages?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chceš tomuto zařízení důvěřovat a povolit mu dešifrovat kopie svých zpráv?</translation>
     </message>
     <message>
         <source>Do you want to trust this device and allow it to receive the encrypted messages from you?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chceš tomuto zařízení důvěřovat a povolit mu přijímat zprávy od tebe?</translation>
     </message>
     <message>
         <source>Device public key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Veřejný klíč zařízení:</translation>
     </message>
     <message>
         <source>Managing of OMEMO keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Správa OMEMO klíčů</translation>
     </message>
     <message>
         <source>Trust</source>
@@ -15834,7 +15866,7 @@ Děkujeme za trpělivost.</translation>
     </message>
     <message>
         <source>Delete selected device from list of known devices of user &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Smazat zvolené zařízení ze seznamu známých zařízení uživatele &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Confirm action</source>
@@ -15881,7 +15913,7 @@ Děkujeme za trpělivost.</translation>
     </message>
     <message>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
-        <translation>Tento plugin zobrazuje x-statusy u kontaktů používajících QIP Infium</translation>
+        <translation>Tento zásuvný modul zobrazuje x-statusy u kontaktů používajících QIP Infium</translation>
     </message>
 </context>
 <context>
@@ -15896,7 +15928,7 @@ Děkujeme za trpělivost.</translation>
     </message>
     <message>
         <source>Redirects all incoming messages to some jid and allows one to redirect messages back.</source>
-        <translation>Přesměrovává všechny příchozí zprávy na nějake JID a dovoluje přesměrovávat zpět.</translation>
+        <translation>Přesměrovává všechny příchozí zprávy na nějaké JID a dovoluje přesměrovávat zpět.</translation>
     </message>
 </context>
 <context>
@@ -16451,11 +16483,11 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>Add template string</source>
-        <translation>Přidat řětězec šablony</translation>
+        <translation>Přidat řetězec šablony</translation>
     </message>
     <message>
         <source>Add template string as submenu</source>
-        <translation>Přidat řětězec šablony jako podnabídku</translation>
+        <translation>Přidat řetězec šablony jako podnabídku</translation>
     </message>
     <message>
         <source>Add separator</source>
@@ -16851,7 +16883,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>Common actions</source>
-        <translation>Bězné činnosti</translation>
+        <translation>Běžné činnosti</translation>
     </message>
     <message>
         <source>Scroll up</source>
@@ -16919,7 +16951,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>Shortcuts in the history dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Klávesové zkratky v okně historie</translation>
     </message>
     <message>
         <source>Set chat topic</source>
@@ -17222,7 +17254,7 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     </message>
     <message>
         <source>Stop Spam Plugin</source>
-        <translation>Zasuvný modul Stop Spam</translation>
+        <translation>Zásuvný modul Stop Spam</translation>
     </message>
     <message>
         <source> pass the test</source>
@@ -17721,7 +17753,7 @@ Následující funguje pouze v okně groupchatu:
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
-        <translation>Přecházíš z Gadu-Gadu nebo Trillianu a schází ti skvělé emotikony?  Neboj se, můžeš přejít!  Koukni na &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; na &quot;tuny&quot; sad s ikonami, které mohou být přidany do Psi pro vytvoření vzhledu, jaký se ti líbí!</translation>
+        <translation>Přecházíš z Gadu-Gadu nebo Trillianu a schází ti skvělé emotikony?  Neboj se, můžeš přejít!  Koukni na &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; na &quot;tuny&quot; sad s ikonami, které mohou být přidány do Psi pro vytvoření vzhledu, jaký se ti líbí!</translation>
     </message>
     <message>
         <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will &quot;perform the default action&quot; on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
@@ -17857,7 +17889,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
     <message>
         <source>This plugin allows you to convert selected text into another language.
 </source>
-        <translation>Tento plugin umožňuje převést vybraný text do jiného jazyka.
+        <translation>Tento zásuvný modul umožňuje převést vybraný text do jiného jazyka.
 </translation>
     </message>
 </context>
@@ -18160,7 +18192,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Accepting</source>
-        <translation>Příjímám</translation>
+        <translation>Přijímám</translation>
     </message>
     <message>
         <source>Rejecting</source>
@@ -18363,7 +18395,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Set new width:</source>
-        <translation>Nastvit novou šířku:</translation>
+        <translation>Nastavit novou šířku:</translation>
     </message>
     <message>
         <source>Width:</source>
@@ -18604,7 +18636,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>The recipient or server can no longer be contacted at this address.</source>
-        <translation>Příjemce nebo server již nemůže být kontktován na této adrese.</translation>
+        <translation>Příjemce nebo server již nemůže být kontaktován na této adrese.</translation>
     </message>
     <message>
         <source>Internal server error</source>
@@ -18612,7 +18644,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
-        <translation>Server nemohl zpracovat událost kvůli špatné konfiguraci nebo jiné blíže nespecikované interní chybě serveru.</translation>
+        <translation>Server nemohl zpracovat událost kvůli špatné konfiguraci nebo jiné blíže neurčené interní chybě serveru.</translation>
     </message>
     <message>
         <source>Item not found</source>
@@ -18716,7 +18748,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>The requesting entity is not authorized to access the requested service because a subscription is required.</source>
-        <translation>Požadující entita není oprávněná k přístupu na požadovanou službu, protože je třeba příhlášení.</translation>
+        <translation>Požadující entita není oprávněná k přístupu na požadovanou službu, protože je třeba přihlášení.</translation>
     </message>
     <message>
         <source>Undefined condition</source>
@@ -18732,7 +18764,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>The recipient or server understood the request but was not expecting it at this time (e.g., the request was out of order).</source>
-        <translation>Příjemce nebo server rozumněli požadavku, ale teď jej neočekávali (např. požadavek byl ve špatném pořadí).</translation>
+        <translation>Příjemce nebo server rozuměli požadavku, ale teď jej neočekávali (např. požadavek byl ve špatném pořadí).</translation>
     </message>
 </context>
 <context>
@@ -18973,7 +19005,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Delete all OMEMO data for current device</source>
-        <translation type="unfinished"></translation>
+        <translation>Smazat všechna data OMEMO pro toto zařízení</translation>
     </message>
     <message>
         <source>Other devices</source>
@@ -18995,7 +19027,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Delete current device?</source>
-        <translation type="unfinished"></translation>
+        <translation>Smazat současné zařízení?</translation>
     </message>
     <message>
         <source>After deleting of device from list of available devices it stops receiving offline messages from your contacts until it will become online and your contacts mark it as trusted.</source>
@@ -19014,42 +19046,42 @@ Opravdu zavřít okno?</translation>
     <name>psiomemo::OMEMO</name>
     <message>
         <source>The following message is from an untrusted device:</source>
-        <translation type="unfinished"></translation>
+        <translation>Následující zpráva je z nedůvěryhodného zařízení:</translation>
     </message>
     <message>
         <source>[UNTRUSTED]: </source>
-        <translation type="unfinished"></translation>
+        <translation>[NEDŮVĚRYHODNÝ]: </translation>
     </message>
     <message>
         <source>Unable to build any sessions, the message was not sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Nelze sestavit žádná sezení, zpráva nebyla odeslána</translation>
     </message>
     <message>
         <source>%1 does not seem to support OMEMO, disabling for the entire group!</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 nevypadá, že podporuje OMEMO, vypínám pro celou skupinu!</translation>
     </message>
     <message>
         <source>You received a message encrypted with OMEMO but your client doesn&apos;t support OMEMO or its support is currently disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obdržel jsi zprávu šifrovanou pomocí OMEMO, ale tvůj klient nepodporuje OMEMO, nebo je jeho podpora momentálně zakázána.</translation>
     </message>
 </context>
 <context>
     <name>psiomemo::OMEMOPlugin</name>
     <message>
         <source>Credits: </source>
-        <translation type="unfinished"></translation>
+        <translation>Zásluhy: </translation>
     </message>
     <message>
         <source>Enable OMEMO encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Povolit šifrování OMEMO</translation>
     </message>
     <message>
         <source>OMEMO encryption is not available for this group</source>
-        <translation type="unfinished"></translation>
+        <translation>Šifrování OMEMO není momentálně k dispozici pro tuto skupinu</translation>
     </message>
     <message>
         <source>OMEMO encryption is not available for this contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Šifrování OMEMO není momentálně k dispozici pro tento kontakt</translation>
     </message>
     <message>
         <source>Fingerprint for account &quot;%1&quot;: %2</source>
@@ -19057,7 +19089,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Disable OMEMO encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakázat šifrování OMEMO</translation>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
@@ -19065,11 +19097,11 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>OMEMO encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Šifrování OMEMO</translation>
     </message>
     <message>
         <source>Manage contact fingerprints</source>
-        <translation type="unfinished"></translation>
+        <translation>Spravovat otisky klíče kontaktů</translation>
     </message>
     <message>
         <source>OMEMO is an end-to-end encryption protocol that leverages the Double Ratchet encryption scheme to provide multi-end to multi-end encryption, allowing messages to be synchronized securely across multiple clients, even if some of them are offline.</source>
@@ -19081,11 +19113,11 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>OMEMO provides the following guarantees:</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO garantuje následující:</translation>
     </message>
     <message>
         <source>Confidentiality</source>
-        <translation type="unfinished"></translation>
+        <translation>Přesvědčení</translation>
     </message>
     <message>
         <source>Nobody else except sender and receiver is able to read the content of a message.</source>
@@ -19109,7 +19141,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Immutability</source>
-        <translation type="unfinished"></translation>
+        <translation>Nezměnitelnost</translation>
     </message>
     <message>
         <source>Every peer can ensure that a message was not changed by any intermediate node.</source>
@@ -19145,7 +19177,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>* etc.</source>
-        <translation type="unfinished"></translation>
+        <translation>* atd.</translation>
     </message>
     <message>
         <source>Plausible deniability</source>
@@ -19156,7 +19188,7 @@ Opravdu zavřít okno?</translation>
     <name>psiomemo::OmemoConfiguration</name>
     <message>
         <source>OMEMO encryption policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Politika šifrování OMEMO</translation>
     </message>
     <message>
         <source>Always enabled</source>
@@ -19164,11 +19196,11 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Enabled by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Výchozí povoleno</translation>
     </message>
     <message>
         <source>Disabled by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Výchozí zakázáno</translation>
     </message>
     <message>
         <source>Automatically mark new own devices as trusted</source>
@@ -19283,7 +19315,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>An error occurred during the authentication process.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastala chyba při procesu ověření.</translation>
     </message>
     <message>
         <source>Authentication successful.</source>
@@ -19293,7 +19325,7 @@ Opravdu zavřít okno?</translation>
         <source>You have been successfully authenticated.
 
 You should authenticate %1 as well by asking your own question.</source>
-        <translation>Ǔspěšně jsi byl ověřen.
+        <translation>Úspěšně jsi byl ověřen.
 
 Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</translation>
     </message>
@@ -19353,11 +19385,11 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     </message>
     <message>
         <source>End session when contact goes offline</source>
-        <translation>Ukončit sezení když je konktakt offline</translation>
+        <translation>Ukončit sezení když je kontakt offline</translation>
     </message>
     <message>
         <source>OTR encryption policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Politika šifrování OTR</translation>
     </message>
 </context>
 <context>
@@ -19569,7 +19601,7 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     </message>
     <message>
         <source>You are assured the correspondent is who you think it is.</source>
-        <translation>Můžes si být jistý, že protějšek je ten, kdo si myslíš, že je.</translation>
+        <translation>Můžeš si být jistý, že protějšek je ten, kdo si myslíš, že je.</translation>
     </message>
     <message>
         <source>Deniability</source>
@@ -19621,7 +19653,7 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     </message>
     <message>
         <source>%1 has ended the private conversation with you; you should do the same.</source>
-        <translation>%1 ukončil soukromou konverzaci s tebou; měl bys uděla to stejné.</translation>
+        <translation>%1 ukončil soukromou konverzaci s tebou; měl bys udělat to stejné.</translation>
     </message>
     <message>
         <source>Private conversation refreshed</source>
@@ -19657,7 +19689,7 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     </message>
     <message>
         <source>OTR features:</source>
-        <translation type="unfinished"></translation>
+        <translation>Výhody OTR:</translation>
     </message>
     <message>
         <source>* Fast and easy update of encryption keys.</source>
@@ -19669,7 +19701,7 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     </message>
     <message>
         <source>OTR limitations:</source>
-        <translation type="unfinished"></translation>
+        <translation>Omezení OTR:</translation>
     </message>
     <message>
         <source>* No support of offline messages.</source>
@@ -20029,7 +20061,7 @@ Zkus odstranit cookies.</translation>
     <message>
         <source>Filelist downloaded
 (%1 files)</source>
-        <translation>Seznam souboru načten
+        <translation>Seznam souborů stažen
 (%1 souborů)</translation>
     </message>
     <message>
