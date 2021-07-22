@@ -256,23 +256,23 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Patcher and Plugins Writer; former Fedora Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>Záplatovač a autor zásuvných modulů; balíkář pro Fedoru</translation>
     </message>
     <message>
         <source>Patcher and former Ubuntu Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>Záplatovač a balíkář pro Ubuntu</translation>
     </message>
     <message>
         <source>former Ubuntu Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>dřívější Ubuntu balíkář</translation>
     </message>
     <message>
         <source>former Mandriva Linux Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>dřívější balíkář pro Mandriva Linux</translation>
     </message>
     <message>
         <source>Patcher and former Russian translator</source>
-        <translation type="unfinished"></translation>
+        <translation>Záplatovač a dřívější překladatel do ruštiny</translation>
     </message>
     <message>
         <source>About Psi</source>
@@ -619,7 +619,7 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
     </message>
     <message>
         <source>This option disables peer-to-peer connections and also connections to TURN servers provided by the other peer.&lt;br&gt;&lt;br&gt;&lt;b&gt;Warning: &lt;/b&gt;While this hides your IP address, it makes the connection impossible if TURN server options above are invalid or empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tato volba zakazuje peer-to-peer spojení i spojení na TURN servery poskytované druhou stranou.&lt;br&gt;&lt;br&gt;&lt;b&gt;Varování: &lt;/b&gt;zatímco tato volba skryje tvoji IP adresu, nedovolí spojení pokud je nastavení TURN serveru výše nesprávné nebo prázdné.</translation>
     </message>
     <message>
         <source>Disable connections potentially exposing my IP address</source>
@@ -734,7 +734,7 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
     </message>
     <message>
         <source>This option sets the user (and realm) you want to authenticate as. This overrides the XMPP address you are logging in as.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tato volba nastaví uživatele (a realm) pod kterým se chceš přihlásit. Má přednost před XMPP adresou, kterou se přihlašuješ.</translation>
     </message>
     <message>
         <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
@@ -6795,7 +6795,8 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Tento zásuvný modul zobrazuje náhledy URL obrázků v chatu na ne-webkitových verzích Psi.
+</translation>
     </message>
 </context>
 <context>
@@ -7287,7 +7288,7 @@ abyste si zahráli. Chce hrát %2.</translation>
     </message>
     <message>
         <source>Treat some jids as services implementing Jabber Disk protocol and handle your files with them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Považovat některé JIDy jako služby implementující protokol Jabber Disku a spravuj s nimi svoje soubory.</translation>
     </message>
 </context>
 <context>
@@ -8347,7 +8348,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>In comparison with OTR and OMEMO, OpenPGP allows one to keep encrypted messages history on server side but lucks support of forward secrecy (they are mutually exclusive).</source>
-        <translation type="unfinished"></translation>
+        <translation>V porovnání s OTR a OMEMO, OpenPGP dovoluje ponechat si šifrovanou historii na straně serveru, ale chybí mu podpora pro dopředné utajení (jsou výlučné).</translation>
     </message>
 </context>
 <context>
@@ -10349,7 +10350,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Do not show messages with PGP keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Nezobrazovat zprávy s PGP klíči</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
@@ -10417,7 +10418,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Ask password confirmation each</source>
-        <translation type="unfinished"></translation>
+        <translation>Ptát se opakovaně na heslo</translation>
     </message>
     <message>
         <source>Open configuration file</source>
@@ -17340,7 +17341,9 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi or Miranda IM.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tento zásuvný modul je implementací XEP-0049: privátní XML úložiště
+Tento zásuvný modul je plně kompatibilní s poznámkami uloženými v IM Miranda.
+Tento zásuvný modul je navržen tak, aby uchovával poznámky na jabber serveru s možností přístupu k nim kdekoliv z Psi nebo IM Miranda.</translation>
     </message>
 </context>
 <context>
@@ -17761,7 +17764,7 @@ Následující funguje pouze v okně groupchatu:
     </message>
     <message>
         <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation type="unfinished"></translation>
+        <translation>K přidání kontaktů z jiných IM sítí, je třeba přidat odpovídajícího agenta z tvého XMPP serveru. Podívej se na Psi menu -&gt; Vyhledávání služeb.</translation>
     </message>
     <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
@@ -18708,7 +18711,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>The requesting entity is not authorized to access the requested service because registration is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Požadovaná entita není autorizována k přístupu na požadovanou službu, protože je nutná registrace.</translation>
     </message>
     <message>
         <source>Remote server not found</source>
@@ -19121,7 +19124,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Nobody else except sender and receiver is able to read the content of a message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nikdo kromě odesílatele a příijemce není schopný číst obsah zprávy.</translation>
     </message>
     <message>
         <source>Perfect forward secrecy</source>
@@ -19204,7 +19207,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Automatically mark new own devices as trusted</source>
-        <translation type="unfinished"></translation>
+        <translation>Automaticky označit nově vlastněné zařízení jako důvěryhodné</translation>
     </message>
     <message>
         <source>Automatically mark new interlocutors devices as trusted</source>
