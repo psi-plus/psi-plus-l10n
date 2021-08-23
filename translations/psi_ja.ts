@@ -615,7 +615,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Enable Stream Management if possible</source>
-        <translation>可能であればストリームマネジメントを有効にする</translation>
+        <translation>可能であればストリーム管理を有効にする</translation>
     </message>
     <message>
         <source>This option disables peer-to-peer connections and also connections to TURN servers provided by the other peer.&lt;br&gt;&lt;br&gt;&lt;b&gt;Warning: &lt;/b&gt;While this hides your IP address, it makes the connection impossible if TURN server options above are invalid or empty.</source>
@@ -814,7 +814,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
-        <translation type="unfinished"></translation>
+        <translation>ストリーム管理プロトコルを可能な限り有効にします。接続が不安定な場合などに便利です。お使いのサーバーがこのオプションをサポートしている必要があります。詳細については、XEP-0184を参照してください。</translation>
     </message>
 </context>
 <context>
@@ -4092,7 +4092,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Popup</source>
-        <translation type="unfinished"></translation>
+        <translation>ポップアップ</translation>
     </message>
     <message>
         <source>Tooltip</source>
@@ -8740,7 +8740,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Show previews for links</source>
-        <translation type="unfinished"></translation>
+        <translation>リンクのプレビューを表示</translation>
     </message>
     <message>
         <source>Use contacts&apos; message formatting</source>
@@ -9308,7 +9308,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Status menus</source>
-        <translation type="unfinished"></translation>
+        <translation>ステータスメニュー</translation>
     </message>
     <message>
         <source>Show presets in menus:</source>
@@ -9950,7 +9950,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Known Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>既知の鍵</translation>
     </message>
     <message>
         <source>Account</source>
@@ -9958,7 +9958,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished"></translation>
+        <translation>ユーザー</translation>
     </message>
     <message>
         <source>Key ID</source>
@@ -13743,15 +13743,15 @@ Would you like to activate that session now?</source>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished">オプション</translation>
+        <translation>オプション</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished">オンライン</translation>
+        <translation>オンライン</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">オフライン</translation>
+        <translation>オフライン</translation>
     </message>
     <message>
         <source>Show Next Event</source>
@@ -17146,7 +17146,7 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Psiは一つのクライアントで複数のサーバーに同時に接続できる事を知っていますか? あなたは友人に &quot;mrcool@jabber.org&quot; として知らせつつ、仕事仲間に &quot;John.J.Smith_the_fourth@mycompany.com&quot; として知らせることが出来ます。</translation>
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
@@ -17158,7 +17158,7 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation type="unfinished"></translation>
+        <translation>異なるIMネットワークのコンタクトを追加する為にはXMPPサーバーから対応するエージェントを追加する必要があります。 Psiメニュー -&gt; サービスディスカバリーを見てください。</translation>
     </message>
     <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
@@ -17168,7 +17168,9 @@ And these work only in groupchat dialog:
         <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
 &lt;br&gt;&lt;br&gt;
 Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>あなたの使用しているサーバーが提供していないトランスポートやチャットルームを探していますか? メニュー -&gt; サービスディスカバリーのアドレスフィールドに任意のXMPPサーバーのドメインを入力してください。
+&lt;br&gt;&lt;br&gt;
+注意: 幾つかのサーバーは異なるサーバーからのトランスポート登録を禁止しているかもしれません、ただしこれはまだ一般的ではありません。</translation>
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
@@ -17183,6 +17185,18 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <source>Contributed by</source>
         <translation>貢献 - </translation>
+    </message>
+    <message>
+        <source>Hello! Thank you for downloading Psi!
+We hope that you will enjoy using it as we have enjoyed making it!
+&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
+        <translation type="vanished">こんにちは! Psiをダウンロードしてくれてありがとう!
+私たちは皆さんにPsiを楽しんで使ってもらえるように、私たちも楽しみながら開発をしています!
+&lt;br&gt;&lt;br&gt;他の言語パックやアイコン集、Psiの最新バージョンをダウンロードしたい場合はこちらを見てください &lt;a href=&quot;https://psi-im.org&quot;&gt;Psiホームページ&lt;/a&gt;。
+&lt;br&gt;&lt;br&gt;バグを見つけたり、その他のPsiユーザー達と会話したいと思った時はこちらを見てください &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psiフォーラム&lt;/a&gt;。
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;Psiチームより&lt;/i&gt;&lt;/div&gt;</translation>
     </message>
     <message>
         <source>Hello! Thank you for downloading Psi!
@@ -18259,7 +18273,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Known Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>既知の鍵</translation>
     </message>
     <message>
         <source>Own Keys</source>
@@ -18298,7 +18312,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished"></translation>
+        <translation>ユーザー</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -18668,7 +18682,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Known Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>既知の鍵</translation>
     </message>
     <message>
         <source>Own Keys</source>
@@ -18714,7 +18728,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished"></translation>
+        <translation>ユーザー</translation>
     </message>
     <message>
         <source>Fingerprint</source>

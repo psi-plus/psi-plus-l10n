@@ -5,7 +5,7 @@
     <name>@default</name>
     <message>
         <source>language_name</source>
-        <translation>中文繁體</translation>
+        <translation>中文（繁體，臺灣）</translation>
     </message>
 </context>
 <context>
@@ -3108,10 +3108,6 @@ Proceed?</source>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation>這個外掛程式的目的是更容易下載並安裝圖片和其他PSI資源</translation>
     </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">電子郵箱:</translation>
-    </message>
 </context>
 <context>
     <name>CreateGroupDlg</name>
@@ -5743,10 +5739,6 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
         <source>Public key %1 sent</source>
         <translation type="vanished">公開金鑰: %1發送</translation>
     </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">電子郵箱:</translation>
-    </message>
 </context>
 <context>
     <name>GomokuGame::InvitationDialog</name>
@@ -6723,7 +6715,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>ImagePreviewOptions</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>外形</translation>
     </message>
     <message>
         <source>Maximum image size</source>
@@ -7646,11 +7638,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Add to bookmarks</source>
-        <translation type="unfinished">添加到書簽</translation>
+        <translation>添加到書簽</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>刪除</translation>
     </message>
 </context>
 <context>
@@ -7913,10 +7905,6 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
         <translation type="vanished">電子郵箱:</translation>
     </message>
     <message>
-        <source>Email: </source>
-        <translation type="vanished">電子郵箱:</translation>
-    </message>
-    <message>
         <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8039,11 +8027,11 @@ Details: %1</source>
     <name>MucInfo</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">對話</translation>
+        <translation>對話</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished">帳戶:</translation>
+        <translation>帳戶:</translation>
     </message>
     <message>
         <source>ID:</source>
@@ -8051,11 +8039,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">名稱:</translation>
+        <translation>名稱:</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished">描述:</translation>
+        <translation>描述:</translation>
     </message>
 </context>
 <context>
@@ -8245,17 +8233,6 @@ Tags: %1</source>
     </message>
 </context>
 <context>
-    <name>OpenPGP</name>
-    <message>
-        <source>Authors: </source>
-        <translation type="obsolete">作者:</translation>
-    </message>
-    <message>
-        <source>Send GnuPG Public Key</source>
-        <translation type="obsolete">發送GnuPG公開金鑰</translation>
-    </message>
-</context>
-<context>
     <name>OpenPgpMessaging</name>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
@@ -8264,16 +8241,12 @@ Tags: %1</source>
     <message>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
-        <translation type="unfinished">簽入你的狀態時發生錯誤。
+        <translation>簽入你的狀態時發生錯誤。
 原因: %1。</translation>
     </message>
 </context>
 <context>
     <name>OpenPgpPlugin</name>
-    <message>
-        <source>Authors: </source>
-        <translation type="obsolete">作者:</translation>
-    </message>
     <message>
         <source>Embedded Keys Manager can do only basic operations like creating, removing, exporting and importing PGP keys. This should be enough to most of users needs. For more complicated cases use special software.</source>
         <translation type="unfinished"></translation>
@@ -8323,38 +8296,38 @@ Reason: %1.</source>
     <name>OpenPgpPluginNamespace::GpgProcess</name>
     <message>
         <source>Can&apos;t start </source>
-        <translation type="unfinished">啟動失敗</translation>
+        <translation>啟動失敗</translation>
     </message>
     <message>
         <source>GnuPG program not found</source>
-        <translation type="unfinished">找不到GunPG程式</translation>
+        <translation>找不到GunPG程式</translation>
     </message>
 </context>
 <context>
     <name>OpenPgpPluginNamespace::PGPKeyDlg</name>
     <message>
         <source>&amp;Diagnostics</source>
-        <translation type="unfinished">診斷(&amp;D)</translation>
+        <translation>診斷(&amp;D)</translation>
     </message>
     <message>
         <source>Key ID</source>
-        <translation type="unfinished">鑰匙 ID</translation>
+        <translation>鑰匙 ID</translation>
     </message>
     <message>
         <source>User ID</source>
-        <translation type="unfinished">用戶 ID</translation>
+        <translation>用戶 ID</translation>
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation type="unfinished">GunPG信息</translation>
+        <translation>GunPG信息</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">錯誤</translation>
+        <translation>錯誤</translation>
     </message>
     <message>
         <source>Please select a key.</source>
-        <translation type="unfinished">請選擇鑰匙。</translation>
+        <translation>請選擇鑰匙。</translation>
     </message>
 </context>
 <context>
@@ -9233,11 +9206,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Place avatars at left</source>
-        <translation type="unfinished">在左側放置頭像</translation>
+        <translation>在左側放置頭像</translation>
     </message>
     <message>
         <source>Place status icon over avatar</source>
-        <translation type="unfinished">在圖像上方放置狀態圖示</translation>
+        <translation>在圖像上方放置狀態圖示</translation>
     </message>
 </context>
 <context>
@@ -9316,7 +9289,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Place groupchat roster at left</source>
-        <translation type="unfinished">放置群聊名單到左側</translation>
+        <translation>放置群聊名單到左側</translation>
     </message>
 </context>
 <context>
@@ -10239,11 +10212,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Select &amp;Key...</source>
-        <translation type="unfinished">選擇鑰匙(&amp;K)...</translation>
+        <translation>選擇鑰匙(&amp;K)...</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">格局</translation>
+        <translation>格局</translation>
     </message>
     <message>
         <source>OpenPGP encryption policy</source>
@@ -10279,11 +10252,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished"></translation>
+        <translation>複製手紋印</translation>
     </message>
     <message>
         <source>&amp;Diagnostics</source>
-        <translation type="unfinished">診斷(&amp;D)</translation>
+        <translation>診斷(&amp;D)</translation>
     </message>
     <message>
         <source>Known Keys</source>
@@ -10291,35 +10264,35 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">帳號</translation>
+        <translation>帳號</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">用戶</translation>
+        <translation>用戶</translation>
     </message>
     <message>
         <source>Key ID</source>
-        <translation type="unfinished">鑰匙 ID</translation>
+        <translation>鑰匙 ID</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished"></translation>
+        <translation>手紋印</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
-        <translation type="unfinished">你確定要刪除選定的金鑰？</translation>
+        <translation>你確定要刪除選定的金鑰？</translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="unfinished"></translation>
+        <translation>帳戶:</translation>
     </message>
     <message>
         <source>User: </source>
-        <translation type="unfinished"></translation>
+        <translation>用戶:</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished"></translation>
+        <translation>指紋:</translation>
     </message>
     <message>
         <source>Confirm action</source>
@@ -10331,7 +10304,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>User ID</source>
-        <translation type="unfinished">用戶 ID</translation>
+        <translation>用戶 ID</translation>
     </message>
     <message>
         <source>gpg-agent configuration</source>
@@ -10355,7 +10328,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">警告</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <source>Attempt to save gpg-agent config is failed! Check that you have write permission for file:
@@ -10954,7 +10927,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Authors</source>
-        <translation type="unfinished">作者</translation>
+        <translation>作者</translation>
     </message>
     <message>
         <source>Plugin Path</source>
@@ -13410,7 +13383,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Command</source>
-        <translation type="unfinished">指令</translation>
+        <translation>指令</translation>
     </message>
 </context>
 <context>
@@ -13908,12 +13881,8 @@ Would you like to activate that session now?</source>
 <context>
     <name>PsiMediaPlugin</name>
     <message>
-        <source>Authors: </source>
-        <translation type="obsolete">作者:</translation>
-    </message>
-    <message>
         <source>Thanks To</source>
-        <translation type="unfinished">感謝</translation>
+        <translation>感謝</translation>
     </message>
     <message>
         <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
@@ -14147,15 +14116,15 @@ Would you like to activate that session now?</source>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished">選項</translation>
+        <translation>選項</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished">線上</translation>
+        <translation>線上</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">離線</translation>
+        <translation>離線</translation>
     </message>
     <message>
         <source>Show Next Event</source>
@@ -15758,7 +15727,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Audio and video device configuration</source>
-        <translation type="unfinished">音訊和視頻裝置設置</translation>
+        <translation>音訊和視頻裝置設置</translation>
     </message>
 </context>
 <context>
@@ -18824,7 +18793,7 @@ Do you still want to close the window?</source>
     <name>psiomemo::ConfigWidget</name>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">格局</translation>
+        <translation>格局</translation>
     </message>
     <message>
         <source>Known Keys</source>
@@ -18867,7 +18836,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">用戶</translation>
+        <translation>用戶</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -18875,7 +18844,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished"></translation>
+        <translation>複製手紋印</translation>
     </message>
 </context>
 <context>
@@ -18932,7 +18901,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished"></translation>
+        <translation>複製手紋印</translation>
     </message>
 </context>
 <context>
@@ -18960,14 +18929,6 @@ Do you still want to close the window?</source>
 </context>
 <context>
     <name>psiomemo::OMEMOPlugin</name>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">作者:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">電子郵箱:</translation>
-    </message>
     <message>
         <source>Credits: </source>
         <translation type="unfinished"></translation>
@@ -19005,10 +18966,6 @@ Do you still want to close the window?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Authors: </source>
-        <translation type="obsolete">作者:</translation>
-    </message>
-    <message>
         <source>OMEMO is an end-to-end encryption protocol that leverages the Double Ratchet encryption scheme to provide multi-end to multi-end encryption, allowing messages to be synchronized securely across multiple clients, even if some of them are offline.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -19030,7 +18987,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Perfect forward secrecy</source>
-        <translation type="unfinished">完善的正向保密</translation>
+        <translation>完善的正向保密</translation>
     </message>
     <message>
         <source>Compromised key material does not compromise previous or future message exchanges.</source>
@@ -19038,7 +18995,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="unfinished">認證</translation>
+        <translation>認證</translation>
     </message>
     <message>
         <source>Every peer is able to authenticate the sender or receiver of a message.</source>
@@ -19369,7 +19326,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
-        <translation type="unfinished">你確定要刪除選定的金鑰？</translation>
+        <translation>你確定要刪除選定的金鑰？</translation>
     </message>
     <message>
         <source>Confirm action</source>
@@ -19583,10 +19540,6 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Confirm action</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="obsolete">作者:</translation>
     </message>
     <message>
         <source>For further information, see &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</source>

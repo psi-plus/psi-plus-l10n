@@ -5,7 +5,7 @@
     <name>@default</name>
     <message>
         <source>language_name</source>
-        <translation>中文(简体)</translation>
+        <translation>中文（简体，中国）</translation>
     </message>
 </context>
 <context>
@@ -1302,7 +1302,7 @@ Make sure you enter a fully qualified XMPP address.</source>
     </message>
     <message>
         <source>Added %1 to your roster.</source>
-        <translation>已添加%1到你的名单。</translation>
+        <translation>已添加%1到你的联系人名单。</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1470,7 +1470,7 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Disable if contact isn&apos;t from your roster</source>
-        <translation>如果联系人不是来自你的名册内则禁用</translation>
+        <translation>如果联系人不是来自你的联系人名单内则禁用</translation>
     </message>
     <message>
         <source>Online</source>
@@ -1564,7 +1564,7 @@ The list of exceptions for jids has two operating modes:
 *设置多个发送自动消息
 *设置时间间隔之后，一些自动应答计数器将重置
 *禁用自动应答的主动标签
-*禁用自动应答如果联系人不在你的名单上
+*禁用自动应答如果联系人不在你的联系人名单上
 例外的清单为jid双操作模式:
 *关闭自动应答的例外列表，为除此之外的人打开(关闭模式)
 *开启自动应答的例外列表，为除此之外的人关闭(启用模式)</translation>
@@ -2138,15 +2138,15 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Encryption is enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>加密已启用</translation>
     </message>
     <message>
         <source>Encryption is disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>加密已关闭</translation>
     </message>
     <message>
         <source>%1 encryption is enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>%1  加密已启用</translation>
     </message>
 </context>
 <context>
@@ -3021,7 +3021,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Roster file</source>
-        <translation>名单文件</translation>
+        <translation>联系人名单文件</translation>
     </message>
     <message>
         <source>Save error!</source>
@@ -3122,10 +3122,6 @@ Proceed?</source>
     <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation>该插件的目的是更容易下载并安装图标集和其他Psi+资源。</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">电子邮箱:</translation>
     </message>
 </context>
 <context>
@@ -3297,11 +3293,11 @@ Proceed?</source>
     </message>
     <message>
         <source>Add to roster</source>
-        <translation>添加到名单</translation>
+        <translation>添加到联系人名单</translation>
     </message>
     <message>
         <source>&amp;Add to roster</source>
-        <translation>添加到名单(&amp;A)</translation>
+        <translation>添加到联系人名单(&amp;A)</translation>
     </message>
     <message>
         <source>Query version</source>
@@ -3743,7 +3739,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to modify your roster (%1). Click the button labelled &quot;Add/Auth&quot; to authorize the modification.</source>
-        <translation>&lt;big&gt;[系统信息]&lt;/big&gt;&lt;br&gt;这个用户想要修改你的名单 (%1)。单击 &quot;添加/授权&quot; 按钮来授权这个修改。</translation>
+        <translation>&lt;big&gt;[系统信息]&lt;/big&gt;&lt;br&gt;这个用户想要修改你的联系人名单 (%1)。单击 &quot;添加/授权&quot; 按钮来授权这个修改。</translation>
     </message>
     <message>
         <source>For all</source>
@@ -3864,7 +3860,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Roster</source>
-        <translation>花名册</translation>
+        <translation>联系人名单</translation>
     </message>
     <message>
         <source>Menu</source>
@@ -4004,7 +4000,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Place groupchat roster at left</source>
-        <translation>放置群聊名单到左侧</translation>
+        <translation>群联系人放置到左侧</translation>
     </message>
     <message>
         <source>Show groups</source>
@@ -4052,11 +4048,11 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Lockdown roster</source>
-        <translation>锁定名册</translation>
+        <translation>锁定联系人名单</translation>
     </message>
     <message>
         <source>Place roster at left in &quot;all-in-one-window&quot; mode</source>
-        <translation>在左侧以&quot;all-in-one-window&quot;模式放置名册</translation>
+        <translation>联系人名单在左侧以&quot;all-in-one-window&quot;模式放置</translation>
     </message>
     <message>
         <source>Contact name and status message in a row</source>
@@ -4164,7 +4160,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Groupchat roster coloring:</source>
-        <translation>群聊名单着色:</translation>
+        <translation>群聊联系人名单配色:</translation>
     </message>
     <message>
         <source>Enable sound notifications for every groupchat message</source>
@@ -5130,15 +5126,15 @@ Reason: %1</source>
     </message>
     <message>
         <source>Encryption is enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>加密已启用</translation>
     </message>
     <message>
         <source>Encryption is disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>加密已关闭</translation>
     </message>
     <message>
         <source>%1 encryption is enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>%1  加密已启用</translation>
     </message>
 </context>
 <context>
@@ -5454,7 +5450,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Manual palette</source>
-        <translation type="unfinished"></translation>
+        <translation>手动配色</translation>
     </message>
     <message>
         <source>Nick Coloring Type</source>
@@ -6561,7 +6557,7 @@ You can select or deselect a contact for history removal from the context menu o
     <name>IconsetRoster</name>
     <message>
         <source>IconsetRosterUI</source>
-        <translation>名单图表集接口</translation>
+        <translation>联系人图表集接口</translation>
     </message>
     <message>
         <source>Default</source>
@@ -6569,7 +6565,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Default roster iconset:</source>
-        <translation>默认名单图表集:</translation>
+        <translation>默认联系人名单图表集:</translation>
     </message>
     <message>
         <source>&amp;Show details</source>
@@ -6734,7 +6730,7 @@ The plugin has a number of simple settings that can help you:
         <source>This plugin is designed to send images to roster contacts.
 Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
-        <translation>该插件的目的是将图像发送给名单内的联系人。
+        <translation>该插件的目的是将图像发送给联系人名单内的联系人。
 你的联系人的客户端必须支持XEP-0071: XHTML-IM和data:URI方案。
 注意:要想正常工作，选项的options.ui.chat.central-toolbar必须设置为启用。</translation>
     </message>
@@ -6751,43 +6747,43 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>ImagePreviewOptions</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>窗体</translation>
     </message>
     <message>
         <source>Maximum image size</source>
-        <translation type="unfinished">最大图片大小</translation>
+        <translation>最大图片大小</translation>
     </message>
     <message>
         <source>Image preview size in pixels</source>
-        <translation type="unfinished">像素图片预览大小</translation>
+        <translation>像素图片预览大小</translation>
     </message>
     <message>
         <source>Allow upscale</source>
-        <translation type="unfinished">允许高端</translation>
+        <translation>允许高端</translation>
     </message>
     <message>
         <source>Exceptions</source>
-        <translation type="unfinished"></translation>
+        <translation>例外</translation>
     </message>
     <message>
         <source>512 Kb</source>
-        <translation type="unfinished">512 Kb</translation>
+        <translation>512 Kb</translation>
     </message>
     <message>
         <source>1 Mb</source>
-        <translation type="unfinished">1 Mb</translation>
+        <translation>1 Mb</translation>
     </message>
     <message>
         <source>2 Mb</source>
-        <translation type="unfinished">2 Mb</translation>
+        <translation>2 Mb</translation>
     </message>
     <message>
         <source>5 Mb</source>
-        <translation type="unfinished">5 Mb</translation>
+        <translation>5 Mb</translation>
     </message>
     <message>
         <source>10 Mb</source>
-        <translation type="unfinished">10 Mb</translation>
+        <translation>10 Mb</translation>
     </message>
 </context>
 <context>
@@ -7979,10 +7975,6 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
 
 Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
-    <message>
-        <source>About plugin</source>
-        <translation type="vanished">关于插件</translation>
-    </message>
 </context>
 <context>
     <name>MessageFilter</name>
@@ -7992,10 +7984,6 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation type="vanished">电子邮箱:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
         <translation type="vanished">电子邮箱:</translation>
     </message>
     <message>
@@ -8121,11 +8109,11 @@ Details: %1</source>
     <name>MucInfo</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">对话</translation>
+        <translation>对话</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished">帐户:</translation>
+        <translation>帐户:</translation>
     </message>
     <message>
         <source>ID:</source>
@@ -8133,11 +8121,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">名称:</translation>
+        <translation>名称:</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished">描述:</translation>
+        <translation>描述:</translation>
     </message>
 </context>
 <context>
@@ -8346,16 +8334,12 @@ Tags: %1</source>
     <message>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
-        <translation type="unfinished">签入你的状态时发生错误。
+        <translation>签入你的状态时发生错误。
 原因: %1。</translation>
     </message>
 </context>
 <context>
     <name>OpenPgpPlugin</name>
-    <message>
-        <source>Authors: </source>
-        <translation type="vanished">作者:</translation>
-    </message>
     <message>
         <source>Embedded Keys Manager can do only basic operations like creating, removing, exporting and importing PGP keys. This should be enough to most of users needs. For more complicated cases use special software.</source>
         <translation>内置密钥管理器仅能进行基本操作，例如创建、移除、导入和导出PGP密钥。这应当对大多数用户足够了。如果需要更多复杂情况请使用专用软件。</translation>
@@ -8499,7 +8483,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Animate the roster when a contact comes online</source>
-        <translation>当联系人上线时在名单使用动画</translation>
+        <translation>当联系人上线时在联系人列表使用动画</translation>
     </message>
     <message>
         <source>Scroll roster to contact on event</source>
@@ -8658,7 +8642,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Roster:</source>
-        <translation>名单:</translation>
+        <translation>联系人:</translation>
     </message>
     <message>
         <source>Popup:</source>
@@ -8678,19 +8662,19 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Tooltip:</source>
-        <translation type="unfinished"></translation>
+        <translation>工具提示:</translation>
     </message>
     <message>
         <source>Visited Link:</source>
-        <translation type="unfinished"></translation>
+        <translation>访问过的链接：</translation>
     </message>
     <message>
         <source>Link:</source>
-        <translation type="unfinished"></translation>
+        <translation>链接:</translation>
     </message>
     <message>
         <source>Tooltip background:</source>
-        <translation type="unfinished"></translation>
+        <translation>提示背景:</translation>
     </message>
 </context>
 <context>
@@ -8721,7 +8705,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Roster opacity:</source>
-        <translation>名单不透明度:</translation>
+        <translation>联系人列表不透明度:</translation>
     </message>
     <message>
         <source>Chat dialog opacity:</source>
@@ -8767,7 +8751,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Make roster window a &quot;tool window&quot;</source>
-        <translation>让名单窗口为一个 &quot;工具窗口&quot;</translation>
+        <translation>让联系人窗口为一个 &quot;工具窗口&quot;</translation>
     </message>
     <message>
         <source>Check for updates on startup</source>
@@ -8775,7 +8759,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Quit when closing the roster window</source>
-        <translation>退出时关闭名单窗口</translation>
+        <translation>退出时关闭联系人窗口</translation>
     </message>
     <message>
         <source>Data transfer base port:</source>
@@ -8936,7 +8920,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Raise roster window on new event</source>
-        <translation>在新事件时弹出名单窗口</translation>
+        <translation>在新事件时弹出联系人列表窗口</translation>
     </message>
     <message>
         <source>Ignore events from contacts not already in your roster</source>
@@ -9251,7 +9235,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Autohide roster after</source>
-        <translation>自动隐藏名单后</translation>
+        <translation>自动隐藏联系人列表后</translation>
     </message>
     <message>
         <source>seconds (0 - never)</source>
@@ -9335,11 +9319,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Place avatars at left</source>
-        <translation type="unfinished">在左侧放置头像</translation>
+        <translation>在左侧放置头像</translation>
     </message>
     <message>
         <source>Place status icon over avatar</source>
-        <translation type="unfinished">在图像上方放置状态图标</translation>
+        <translation>在图像上方放置状态图标</translation>
     </message>
 </context>
 <context>
@@ -9418,7 +9402,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Place groupchat roster at left</source>
-        <translation type="unfinished">放置群聊名单到左侧</translation>
+        <translation>放置群聊名单到左侧</translation>
     </message>
 </context>
 <context>
@@ -9733,7 +9717,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Publish Tunes</source>
-        <translation type="unfinished"></translation>
+        <translation>发布音乐</translation>
     </message>
 </context>
 <context>
@@ -10380,15 +10364,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Show PGP info in tooltips for contacts in roster</source>
-        <translation type="unfinished"></translation>
+        <translation>在名单中联系人的工具提示中显示 PGP 信息</translation>
     </message>
     <message>
         <source>Automatically import PGP key from the message body</source>
-        <translation type="unfinished"></translation>
+        <translation>从消息正文中自动导入 PGP 密钥</translation>
     </message>
     <message>
         <source>Do not show messages with PGP keys</source>
-        <translation type="unfinished"></translation>
+        <translation>不显示带有 PGP 密钥的消息</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
@@ -10473,11 +10457,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Attempt to save gpg-agent config is failed! Check that you have write permission for file:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>尝试保存 gpg-agent 配置失败！ 检查您是否具有文件的写权限：
+%1</translation>
     </message>
     <message>
         <source>Do not sign own presence status</source>
-        <translation type="unfinished"></translation>
+        <translation>不签署自己的存在状态</translation>
     </message>
 </context>
 <context>
@@ -11073,11 +11058,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Authors</source>
-        <translation type="unfinished">作者</translation>
+        <translation>作者</translation>
     </message>
     <message>
         <source>Plugin Path</source>
-        <translation type="unfinished"></translation>
+        <translation>插件路径</translation>
     </message>
 </context>
 <context>
@@ -11594,11 +11579,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;注意力！&lt;/b&gt; 粗心使用 Client Switcher Plugin 可能会导致无法使用 OMEMO 和 OpenPGP 加密。 非常小心地使用这个插件的功能......</translation>
     </message>
     <message>
         <source>OS version</source>
-        <translation type="unfinished"></translation>
+        <translation>系统版本</translation>
     </message>
 </context>
 <context>
@@ -13446,7 +13431,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>&amp;Join Psi Discussion Room (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>加入 Psi 讨论室(在线)(&amp;Join)</translation>
     </message>
     <message>
         <source>Information</source>
@@ -13559,7 +13544,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Command</source>
-        <translation type="unfinished">指令</translation>
+        <translation>指令</translation>
     </message>
 </context>
 <context>
@@ -14060,16 +14045,12 @@ Would you like to activate that session now?</source>
 <context>
     <name>PsiMediaPlugin</name>
     <message>
-        <source>Authors: </source>
-        <translation type="vanished">作者:</translation>
-    </message>
-    <message>
         <source>Thanks To</source>
         <translation>感谢</translation>
     </message>
     <message>
         <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
-        <translation type="unfinished"></translation>
+        <translation>媒体插件提供音频/视频通话所需的功能，还可以替换 QtMultimedia 的某些部分。</translation>
     </message>
 </context>
 <context>
@@ -14299,19 +14280,19 @@ Would you like to activate that session now?</source>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished">选项</translation>
+        <translation>选项</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished">在线</translation>
+        <translation>在线</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">离线</translation>
+        <translation>离线</translation>
     </message>
     <message>
         <source>Show Next Event</source>
-        <translation type="unfinished"></translation>
+        <translation>显示下一个事件</translation>
     </message>
 </context>
 <context>
@@ -15863,15 +15844,15 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>New OMEMO device has been discovered for &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>已为“%1”发现新的 OMEMO 设备。</translation>
     </message>
     <message>
         <source>Do you want to trust this device and allow it to decrypt copies of your messages?</source>
-        <translation type="unfinished"></translation>
+        <translation>您想信任此设备并允许它解密您的邮件副本吗？</translation>
     </message>
     <message>
         <source>Do you want to trust this device and allow it to receive the encrypted messages from you?</source>
-        <translation type="unfinished"></translation>
+        <translation>您想信任此设备并允许它接收来自您的加密消息吗？</translation>
     </message>
     <message>
         <source>Device public key:</source>
@@ -15879,7 +15860,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Managing of OMEMO keys</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO Keys管理</translation>
     </message>
     <message>
         <source>Trust</source>
@@ -15887,7 +15868,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Delete selected device from list of known devices of user &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Delete selected device from list of known devices of user &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Confirm action</source>
@@ -15903,7 +15884,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>verified</source>
-        <translation type="unfinished"></translation>
+        <translation>已验证</translation>
     </message>
     <message>
         <source>Do not trust</source>
@@ -17854,12 +17835,17 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>你好！ 感谢您下载 Psi！
+我们希望您会喜欢使用它，因为我们喜欢制作它！
+&lt;br&gt;&lt;br&gt;如果您想下载其他语言的翻译、图标集或 Psi 的新版本，则需要访问&lt;a href=&quot;https://psi-im.org&quot;&gt; Psi 主页。&lt;/a&gt;
+&lt;br&gt;&lt;br&gt;如果您认为您发现了一个错误，或者您只是想与其他Psi 用户聊天，请访问&lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi 论坛&lt;/a&gt;。
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;Psi 团队&lt;/i&gt;&lt;/div&gt;</translation>
     </message>
     <message>
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation type="unfinished"></translation>
+        <translation>这是最后一个提示。
+&lt;br&gt;&lt;br&gt;如果您想贡献您自己的“每日提示”，&lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;请在 Psi 论坛上发布&lt;/a&gt;（或邮寄给其中一位开发人员），我们很乐意将其集成到下一个版本中。</translation>
     </message>
 </context>
 <context>
@@ -19033,11 +19019,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>trusted</source>
-        <translation type="unfinished"></translation>
+        <translation>值得信赖</translation>
     </message>
     <message>
         <source>untrusted</source>
-        <translation type="unfinished"></translation>
+        <translation>不可信</translation>
     </message>
     <message>
         <source>Do not trust</source>
@@ -19045,7 +19031,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>not decided</source>
-        <translation type="unfinished"></translation>
+        <translation>未决定</translation>
     </message>
     <message>
         <source>User</source>
@@ -19053,11 +19039,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Device ID</source>
-        <translation type="unfinished">设备ID</translation>
+        <translation>设备ID</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished"></translation>
+        <translation>复制手纹印</translation>
     </message>
 </context>
 <context>
@@ -19080,7 +19066,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Delete all OMEMO data for current device</source>
-        <translation type="unfinished"></translation>
+        <translation>删除当前设备的所有 OMEMO 数据</translation>
     </message>
     <message>
         <source>Other devices</source>
@@ -19098,7 +19084,13 @@ Do you still want to close the window?</source>
 4) You will need to verify keys for all devices of your contacts again.
 5) Your contacts will need to verify new device before you start receive messages from them.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>删除当前设备的所有 OMEMO 数据将导致多种后果：
+1) 所有开始的 OMEMO 会话都将被遗忘。
+2) 您将无法访问在服务器端为当前设备存储的加密历史记录。
+3) 将生成新的设备 ID 和密钥对。
+4) 您将需要再次验证您联系人的所有设备的密钥。
+5) 在您开始接收来自他们的消息之前，您的联系人需要验证新设备。
+</translation>
     </message>
     <message>
         <source>Delete current device?</source>
@@ -19106,7 +19098,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>After deleting of device from list of available devices it stops receiving offline messages from your contacts until it will become online and your contacts mark it as trusted.</source>
-        <translation type="unfinished"></translation>
+        <translation>从可用设备列表中删除设备后，它会停止从您的联系人接收离线消息，直到它变为在线并且您的联系人将其标记为受信任。</translation>
     </message>
     <message>
         <source>Delete selected device?</source>
@@ -19114,49 +19106,49 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished"></translation>
+        <translation>复制手纹印</translation>
     </message>
 </context>
 <context>
     <name>psiomemo::OMEMO</name>
     <message>
         <source>The following message is from an untrusted device:</source>
-        <translation type="unfinished"></translation>
+        <translation>以下消息来自不受信任的设备：</translation>
     </message>
     <message>
         <source>[UNTRUSTED]: </source>
-        <translation type="unfinished"></translation>
+        <translation>[不信任]：</translation>
     </message>
     <message>
         <source>Unable to build any sessions, the message was not sent</source>
-        <translation type="unfinished"></translation>
+        <translation>无法建立任何会话，消息未发送</translation>
     </message>
     <message>
         <source>%1 does not seem to support OMEMO, disabling for the entire group!</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 似乎不支持 OMEMO，对整个组禁用！</translation>
     </message>
     <message>
         <source>You received a message encrypted with OMEMO but your client doesn&apos;t support OMEMO or its support is currently disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>您收到了一条用 OMEMO 加密的消息，但您的客户端不支持 OMEMO 或其支持当前已禁用。</translation>
     </message>
 </context>
 <context>
     <name>psiomemo::OMEMOPlugin</name>
     <message>
         <source>Credits: </source>
-        <translation type="unfinished"></translation>
+        <translation>学分：</translation>
     </message>
     <message>
         <source>Enable OMEMO encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>启用 OMEMO 加密</translation>
     </message>
     <message>
         <source>OMEMO encryption is not available for this group</source>
-        <translation type="unfinished"></translation>
+        <translation>此群组无法使用 OMEMO 加密</translation>
     </message>
     <message>
         <source>OMEMO encryption is not available for this contact</source>
-        <translation type="unfinished"></translation>
+        <translation>此联系人无法使用 OMEMO 加密</translation>
     </message>
     <message>
         <source>Fingerprint for account &quot;%1&quot;: %2</source>
@@ -19164,7 +19156,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Disable OMEMO encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>禁用 OMEMO 加密</translation>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
@@ -19172,35 +19164,31 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>OMEMO encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO加密</translation>
     </message>
     <message>
         <source>Manage contact fingerprints</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="vanished">作者:</translation>
+        <translation>管理联系人指纹</translation>
     </message>
     <message>
         <source>OMEMO is an end-to-end encryption protocol that leverages the Double Ratchet encryption scheme to provide multi-end to multi-end encryption, allowing messages to be synchronized securely across multiple clients, even if some of them are offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO 是一种端到端加密协议，它利用双棘轮加密方案提供多端到多端加密，允许跨多个客户端安全地同步消息，即使其中一些客户端处于离线状态。</translation>
     </message>
     <message>
         <source>In comparison with OTR, the OMEMO protocol offers multi-users encrypted chat, safe message synchronization between user&apos;s devices, offline messages queuing, forward secrecy and file transfer.</source>
-        <translation type="unfinished"></translation>
+        <translation>与 OTR 相比，OMEMO 协议提供了多用户加密聊天、用户设备之间安全的消息同步、离线消息排队、前向保密和文件传输。</translation>
     </message>
     <message>
         <source>OMEMO provides the following guarantees:</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO 提供以下保证：</translation>
     </message>
     <message>
         <source>Confidentiality</source>
-        <translation type="unfinished"></translation>
+        <translation>保密</translation>
     </message>
     <message>
         <source>Nobody else except sender and receiver is able to read the content of a message.</source>
-        <translation type="unfinished"></translation>
+        <translation>除了发送者和接收者之外，没有其他人能够读取消息的内容。</translation>
     </message>
     <message>
         <source>Perfect forward secrecy</source>
@@ -19208,7 +19196,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Compromised key material does not compromise previous or future message exchanges.</source>
-        <translation type="unfinished"></translation>
+        <translation>泄露的密钥材料不会危及之前或未来的消息交换。</translation>
     </message>
     <message>
         <source>Authentication</source>
@@ -19216,43 +19204,43 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Every peer is able to authenticate the sender or receiver of a message.</source>
-        <translation type="unfinished"></translation>
+        <translation>每个对等点都能够验证消息的发送者或接收者。</translation>
     </message>
     <message>
         <source>Immutability</source>
-        <translation type="unfinished"></translation>
+        <translation>不变性</translation>
     </message>
     <message>
         <source>Every peer can ensure that a message was not changed by any intermediate node.</source>
-        <translation type="unfinished"></translation>
+        <translation>每个对等点都可以确保任何中间节点都没有更改消息。</translation>
     </message>
     <message>
         <source>No participant can prove who created a specific message.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有参与者可以证明谁创建了特定消息。</translation>
     </message>
     <message>
         <source>Asynchronicity</source>
-        <translation type="unfinished"></translation>
+        <translation>异步性</translation>
     </message>
     <message>
         <source>The usability of the protocol does not depend on the online status of any participant.</source>
-        <translation type="unfinished"></translation>
+        <translation>该协议的可用性不取决于任何参与者的在线状态。</translation>
     </message>
     <message>
         <source>OMEMO is not intended to protect against the following use cases:</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO 并非旨在防止以下用例：</translation>
     </message>
     <message>
         <source>* An attacker has permanent access to your device. (Temporary access is covered by perfect forward secrecy.)</source>
-        <translation type="unfinished"></translation>
+        <translation>* 攻击者可以永久访问您的设备。 （临时访问被完美的前向保密所覆盖。）</translation>
     </message>
     <message>
         <source>* You lost your device and an attacker can read messages on your notification screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>* 您丢失了设备，攻击者可以在您的通知屏幕上阅读消息。</translation>
     </message>
     <message>
         <source>* Any kind of denial-of-service attack.</source>
-        <translation type="unfinished"></translation>
+        <translation>* 任何类型的拒绝服务攻击。</translation>
     </message>
     <message>
         <source>* etc.</source>
@@ -19260,7 +19248,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Plausible deniability</source>
-        <translation type="unfinished"></translation>
+        <translation>合理的否认</translation>
     </message>
 </context>
 <context>
@@ -19759,60 +19747,56 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation>确认动作</translation>
     </message>
     <message>
-        <source>Authors: </source>
-        <translation type="vanished">作者:</translation>
-    </message>
-    <message>
         <source>For further information, see &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</source>
         <translation>如需进一步信息，请参阅 &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</translation>
     </message>
     <message>
         <source>Off-the-Record Messaging (OTR) is a cryptographic protocol that provides encryption for instant messaging conversations. In addition to authentication and encryption, OTR provides forward secrecy and malleable encryption.</source>
-        <translation type="unfinished"></translation>
+        <translation>Off-the-Record Messaging (OTR) 是一种加密协议，可为即时消息对话提供加密。 除了身份验证和加密，OTR 还提供前向保密和可延展加密。</translation>
     </message>
     <message>
         <source>OTR features:</source>
-        <translation type="unfinished"></translation>
+        <translation>OTR特点：</translation>
     </message>
     <message>
         <source>* Fast and easy update of encryption keys.</source>
-        <translation type="unfinished"></translation>
+        <translation>* 快速轻松地更新加密密钥。</translation>
     </message>
     <message>
         <source>* Simple and convenient authentication of interlocutor without necessity of comparing public key fingerprints through an outside communication channel.</source>
-        <translation type="unfinished"></translation>
+        <translation>* 简单方便的对话者身份验证，无需通过外部通信渠道比较公钥指纹。</translation>
     </message>
     <message>
         <source>OTR limitations:</source>
-        <translation type="unfinished"></translation>
+        <translation>OTR 限制：</translation>
     </message>
     <message>
         <source>* No support of offline messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>* 不支持离线消息。</translation>
     </message>
     <message>
         <source>* No support of carbon copies to other XMPP resources.</source>
-        <translation type="unfinished"></translation>
+        <translation>* 不支持其他 XMPP 资源的抄送。</translation>
     </message>
     <message>
         <source>* No support of multi-user chats.</source>
-        <translation type="unfinished"></translation>
+        <translation>* 不支持多用户聊天。</translation>
     </message>
     <message>
         <source>* No support of file transfer.</source>
-        <translation type="unfinished"></translation>
+        <translation>* 不支持文件传输。</translation>
     </message>
     <message>
         <source>OTR provides the following guarantees:</source>
-        <translation type="unfinished"></translation>
+        <translation>OTR 提供以下保证：</translation>
     </message>
     <message>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages (s)he sees are authentic and unmodified.</source>
-        <translation type="unfinished"></translation>
+        <translation>您发送的消息没有可由第三方检查的数字签名。 任何人都可以在对话后伪造消息，使它们看起来像是来自您。 但是，在对话期间，您的通讯员可以确信他看到的消息是真实且未经修改的。</translation>
     </message>
     <message>
         <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows one to use it for protecting conversations via XMPP transports (to ICQ, Skype, Telegram, QQ, vkontakte and other networks).</source>
-        <translation type="unfinished"></translation>
+        <translation>与 OpenPGP 和 OMEMO 相比，OTR 协议不依赖于 XMPP 特定结构，允许使用它来保护通过 XMPP 传输（到 ICQ、Skype、Telegram、QQ、vkontakte 和其他网络）的对话。</translation>
     </message>
 </context>
 <context>
