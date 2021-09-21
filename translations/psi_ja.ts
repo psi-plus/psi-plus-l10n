@@ -230,7 +230,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Language coordinator, macOS port, miscellaneous assistance</source>
-        <translation type="unfinished"></translation>
+        <translation>言語コーディネーター、macOSポート、様々な支援</translation>
     </message>
     <message>
         <source>Founder, Patcher and former MS Windows Packager</source>
@@ -8787,7 +8787,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>バージョン</translation>
     </message>
     <message>
         <source>A</source>
@@ -11050,7 +11050,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Delete current server</source>
-        <translation type="unfinished"></translation>
+        <translation>現在のサーバーを削除</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -11058,7 +11058,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Edit current server</source>
-        <translation type="unfinished"></translation>
+        <translation>現在のサーバーを編集</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -13376,7 +13376,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Unblock</source>
-        <translation type="unfinished"></translation>
+        <translation>ブロック解除</translation>
     </message>
     <message>
         <source>&amp;Log On</source>
@@ -13724,7 +13724,7 @@ Would you like to activate that session now?</source>
     <name>PsiThemeModel</name>
     <message>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>バージョン</translation>
     </message>
     <message>
         <source>Authors</source>
@@ -16763,7 +16763,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     <name>TabDlg</name>
     <message>
         <source>Hide Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>タブを隠す</translation>
     </message>
     <message>
         <source>Detach Tab</source>
@@ -16779,7 +16779,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>Hide Current Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>現在のタブを隠す</translation>
     </message>
     <message>
         <source>Hide All Tabs</source>
