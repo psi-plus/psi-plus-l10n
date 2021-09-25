@@ -234,15 +234,15 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Founder, Patcher and former MS Windows Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>創立者、開発者、元MS Windows向けパッケージング</translation>
     </message>
     <message>
         <source>Founder, Patcher and former Designer</source>
-        <translation type="unfinished"></translation>
+        <translation>創立者、開発者、元デザイナー</translation>
     </message>
     <message>
         <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>開発リーダー、プラグイン開発者、元MacOS向けパッケージング</translation>
     </message>
     <message>
         <source>Language coordinator; Patcher; Debian and Ubuntu Packager; MS Windows and macOS Packager</source>
@@ -258,19 +258,19 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Patcher and former Ubuntu Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>開発者、元Ubuntu向けパッケージング</translation>
     </message>
     <message>
         <source>former Ubuntu Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>元Ubuntu向けパッケージング</translation>
     </message>
     <message>
         <source>former Mandriva Linux Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>元Mandriva Linux向けパッケージング</translation>
     </message>
     <message>
         <source>Patcher and former Russian translator</source>
-        <translation type="unfinished"></translation>
+        <translation>開発者、元ロシア語翻訳者</translation>
     </message>
     <message>
         <source>About Psi</source>
@@ -714,7 +714,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Sends so called &quot;Keep-alive&quot; packets periodically.  It is useful if your connection is set to be automatically disconnected after a certain period of inactivity (for example, by your ISP) and you want to keep it up all the time.</source>
-        <translation>いわゆる &quot;Keep-alive&quot;パケットを定期的に送信します。これは一定の無通信状態が続いた際に(たとえばISPによって)自動的に接続が切られる場合に便利です。</translation>
+        <translation>いわゆる &quot;Keep-alive&quot;パケットを定期的に送信します。これは一定の無通信状態が続いた際に(例えばISPによって)自動的に接続が切られる場合に便利です。</translation>
     </message>
     <message>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
@@ -1000,7 +1000,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Password does not match account.  Please try again.</source>
-        <translation>パスワードが一致していません、再度試してください。</translation>
+        <translation>パスワードが一致しません、再度試してください。</translation>
     </message>
     <message>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; ?</source>
@@ -1133,7 +1133,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>E-mail address: </source>
-        <translation type="vanished">メールアドレス:</translation>
+        <translation type="vanished">電子メールアドレス:</translation>
     </message>
     <message>
         <source>Key type: </source>
@@ -1284,7 +1284,7 @@ Make sure you enter a fully qualified XMPP address.</source>
     </message>
     <message>
         <source>Added %1 to your roster.</source>
-        <translation>%1 をコンタクトリストに追加しました。</translation>
+        <translation>%1 を名簿に追加しました。</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1742,7 +1742,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Sending bandwidth:</source>
-        <translation>帯域を送信する:</translation>
+        <translation>送信帯域:</translation>
     </message>
     <message>
         <source>Call status</source>
@@ -2943,7 +2943,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Roster file</source>
-        <translation type="unfinished"></translation>
+        <translation>名簿ファイル</translation>
     </message>
     <message>
         <source>Save error!</source>
@@ -3036,6 +3036,10 @@ Proceed?</source>
     <message>
         <source>Author: </source>
         <translation type="vanished">作者:</translation>
+    </message>
+    <message>
+        <source>e-mail: </source>
+        <translation type="vanished">電子メール:</translation>
     </message>
     <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
@@ -3394,7 +3398,7 @@ Proceed?</source>
     <name>EditServerDlg</name>
     <message>
         <source>Server Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>サーバーの設定</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -3434,7 +3438,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Use proxy server</source>
-        <translation type="unfinished"></translation>
+        <translation>プロキシサーバーを使う</translation>
     </message>
 </context>
 <context>
@@ -5528,7 +5532,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Password does not match</source>
-        <translation type="unfinished"></translation>
+        <translation>パスワードが一致しません</translation>
     </message>
 </context>
 <context>
@@ -5604,6 +5608,10 @@ You lost the game.</source>
     <message>
         <source>Author: </source>
         <translation type="vanished">作者:</translation>
+    </message>
+    <message>
+        <source>e-mail: </source>
+        <translation type="vanished">電子メール:</translation>
     </message>
 </context>
 <context>
@@ -6600,7 +6608,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>E-Mail:</source>
-        <translation>メールアドレス:</translation>
+        <translation>電子メール:</translation>
     </message>
     <message>
         <source>Birthday:</source>
@@ -7732,6 +7740,10 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
         <translation type="vanished">作者:</translation>
     </message>
     <message>
+        <source>e-mail: </source>
+        <translation type="vanished">電子メール:</translation>
+    </message>
+    <message>
         <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7854,11 +7866,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウント:</translation>
     </message>
     <message>
         <source>ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>ID:</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -8142,7 +8154,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation type="unfinished"></translation>
+        <translation>GnuPG情報</translation>
     </message>
     <message>
         <source>Error</source>
@@ -8372,7 +8384,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Roster:</source>
-        <translation>コンタクトリスト:</translation>
+        <translation>名簿:</translation>
     </message>
     <message>
         <source>Popup:</source>
@@ -8481,7 +8493,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Quit when closing the roster window</source>
-        <translation type="unfinished"></translation>
+        <translation>名簿ウィンドウを閉じるときに終了</translation>
     </message>
     <message>
         <source>Data transfer base port:</source>
@@ -8622,7 +8634,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Raise roster window on new event</source>
-        <translation>イベント受信時にウィンドウを表示</translation>
+        <translation>イベント受信時に名簿ウィンドウを表示</translation>
     </message>
     <message>
         <source>Ignore events from contacts not already in your roster</source>
@@ -8677,11 +8689,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Enable Spell Checking</source>
-        <translation type="unfinished"></translation>
+        <translation>スペルチェックを有効にする</translation>
     </message>
     <message>
         <source>Available spellcheck dictionaries</source>
-        <translation type="unfinished"></translation>
+        <translation>スペルチェックの辞書が利用可能です</translation>
     </message>
     <message>
         <source>No dictionaries found</source>
@@ -9005,7 +9017,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="unfinished"></translation>
+        <translation>アバターの設定</translation>
     </message>
     <message>
         <source>Size</source>
@@ -9080,7 +9092,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="unfinished"></translation>
+        <translation>アバターの設定</translation>
     </message>
     <message>
         <source>Size</source>
@@ -9552,6 +9564,14 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Account Settings</source>
+        <translation type="vanished">アカウントの設定</translation>
+    </message>
+    <message>
+        <source>Mail Notifications Settings</source>
+        <translation type="vanished">メール通知の設定</translation>
+    </message>
+    <message>
         <source>Add</source>
         <translation>追加</translation>
     </message>
@@ -9815,6 +9835,10 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>All files (*)</source>
         <translation>全てのファイル(*)</translation>
+    </message>
+    <message>
+        <source>GnuPG info</source>
+        <translation type="vanished">GnuPG情報</translation>
     </message>
     <message>
         <source>Authorizing...</source>
@@ -10537,7 +10561,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Check this option if you want your spelling to be checked</source>
-        <translation>ペルチェックを行いたい場合このオプションを有効にします</translation>
+        <translation>スペルチェックを行いたい場合、このオプションを有効にします</translation>
     </message>
     <message>
         <source>Enables automatic substitution of the first letter in a sentence to the same capital letter</source>
@@ -10930,7 +10954,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウント:</translation>
     </message>
     <message>
         <source>For all accounts</source>
@@ -10998,7 +11022,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Shortcut:</source>
-        <translation type="unfinished"></translation>
+        <translation>ショートカット:</translation>
     </message>
     <message>
         <source>Format:</source>
@@ -11144,7 +11168,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation type="unfinished"></translation>
+        <translation>GnuPG情報</translation>
     </message>
 </context>
 <context>
@@ -12040,7 +12064,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <name>ProxySettingsDlg</name>
     <message>
         <source>Proxy Server Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>プロキシサーバーの設定</translation>
     </message>
     <message>
         <source>Type:</source>
@@ -13800,7 +13824,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>E-mail</source>
-        <translation>メールアドレス</translation>
+        <translation>電子メール</translation>
     </message>
     <message>
         <source>Address</source>
@@ -15780,7 +15804,7 @@ Settings for authorization on some hostings can be found here: http://code.googl
     </message>
     <message>
         <source>E-Mail Address</source>
-        <translation>メールアドレス</translation>
+        <translation>電子メールアドレス</translation>
     </message>
     <message>
         <source>XMPP Address</source>
@@ -17138,7 +17162,7 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
-        <translation>アカウント設定ダイアログのチェックボックスでアカウントを有効・無効化出来る事を知っていますか? これは滅多に使用しないアカウントを無効化してコンタクトリストを整理するのに役立つかもしれません。</translation>
+        <translation>アカウント設定ダイアログのチェックボックスでアカウントを有効・無効化出来る事を知っていますか? これは滅多に使用しないアカウントを無効化して名簿を整理するのに役立つかもしれません。</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
@@ -17162,7 +17186,7 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
-        <translation>コンタクトリスト内のサーバー名を右クリックして幾つかの機能を実行することが出来ます。ステータスを変更したり、アカウント設定を変更したり、権限があれば管理設定を行うことも出来ます。</translation>
+        <translation>名簿内のサーバー名を右クリックして幾つかの機能を実行することが出来ます。ステータスを変更したり、アカウント設定を変更したり、権限があれば管理設定を行うことも出来ます。</translation>
     </message>
     <message>
         <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
@@ -17474,6 +17498,10 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <message>
         <source>Subject:</source>
         <translation type="vanished">件名:</translation>
+    </message>
+    <message>
+        <source>Account:</source>
+        <translation type="vanished">アカウント:</translation>
     </message>
     <message>
         <source>Previous</source>
@@ -17968,7 +17996,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Add to roster</source>
-        <translation>コンタクトリストに追加</translation>
+        <translation>名簿に追加</translation>
     </message>
     <message>
         <source>Message Carbons</source>
@@ -19228,7 +19256,7 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>E-Mail:</source>
-        <translation type="vanished">メールアドレス:</translation>
+        <translation type="vanished">電子メール:</translation>
     </message>
     <message>
         <source>Close</source>
