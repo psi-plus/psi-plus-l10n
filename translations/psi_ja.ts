@@ -3924,7 +3924,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Show status icons</source>
-        <translation type="unfinished"></translation>
+        <translation>ステータスアイコンを表示</translation>
     </message>
     <message>
         <source>Show affiliation icons</source>
@@ -3976,7 +3976,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Place status icon over avatar</source>
-        <translation type="unfinished"></translation>
+        <translation>アバターの上にステータスアイコンを配置</translation>
     </message>
     <message>
         <source>Automatically remove temporary contacts</source>
@@ -4120,7 +4120,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Show status icons on tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>タブ上にステータスアイコンを表示</translation>
     </message>
     <message>
         <source>Allow closing inactive tabs</source>
@@ -7682,7 +7682,7 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>表示</translation>
     </message>
 </context>
 <context>
@@ -7778,6 +7778,10 @@ Details: %1</source>
     <message>
         <source>Name</source>
         <translation>名称</translation>
+    </message>
+    <message>
+        <source>E-Mail</source>
+        <translation type="vanished">電子メール</translation>
     </message>
     <message>
         <source>Created</source>
@@ -9037,7 +9041,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Place status icon over avatar</source>
-        <translation type="unfinished"></translation>
+        <translation>アバターの上にステータスアイコンを配置</translation>
     </message>
 </context>
 <context>
@@ -13328,7 +13332,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>表示</translation>
     </message>
     <message>
         <source>Leave</source>
@@ -17491,6 +17495,10 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
 </context>
 <context>
     <name>ViewMailDlg</name>
+    <message>
+        <source>E-Mail</source>
+        <translation type="vanished">電子メール</translation>
+    </message>
     <message>
         <source>From:</source>
         <translation type="vanished">差出人:</translation>
