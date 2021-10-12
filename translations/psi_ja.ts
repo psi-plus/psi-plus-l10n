@@ -8701,7 +8701,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>No dictionaries found</source>
-        <translation type="unfinished"></translation>
+        <translation>辞書が見つかりません</translation>
     </message>
     <message>
         <source>OptInputUI</source>
@@ -8822,7 +8822,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Enable popup notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>ポップアップ通知を有効にする</translation>
     </message>
     <message>
         <source>Notifications type</source>
@@ -8834,7 +8834,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Popup notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>ポップアップ通知</translation>
     </message>
     <message>
         <source>On incoming message event</source>
