@@ -6274,7 +6274,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation type="unfinished"></translation>
+        <translation>詳細を表示(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -6289,7 +6289,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation type="unfinished"></translation>
+        <translation>詳細を表示(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -6304,7 +6304,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation type="unfinished"></translation>
+        <translation>詳細を表示(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -6392,7 +6392,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation type="unfinished"></translation>
+        <translation>詳細を表示(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -11594,7 +11594,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Rename List</source>
-        <translation type="unfinished"></translation>
+        <translation>リスト名を変更</translation>
     </message>
     <message>
         <source>Delete List</source>
@@ -11661,7 +11661,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Rename List</source>
-        <translation type="unfinished"></translation>
+        <translation>リスト名を変更</translation>
     </message>
     <message>
         <source>Input new name</source>
@@ -12440,11 +12440,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Show Roster Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>名簿グループを表示</translation>
     </message>
     <message>
         <source>Enable/disable groups in roster</source>
-        <translation type="unfinished"></translation>
+        <translation>名簿内のグループを有効化または無効化</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
@@ -16330,7 +16330,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Rename the selected contact</source>
-        <translation type="unfinished"></translation>
+        <translation>選択されたコンタクト名を変更</translation>
     </message>
     <message>
         <source>Log on to the selected transport</source>
