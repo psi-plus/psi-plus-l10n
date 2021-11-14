@@ -280,7 +280,11 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Cross-platform XMPP client aimed at experienced users.</source>
-        <translation>Multiplatformní XMPP klient zaměřený na pokročilé uživatele.</translation>
+        <translation type="vanished">Multiplatformní XMPP klient zaměřený na pokročilé uživatele.</translation>
+    </message>
+    <message>
+        <source>Cross-platform XMPP client designed for experienced users.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2214,11 +2218,11 @@ Opravdu zavřít toto okno?</translation>
     <name>ChatWebView</name>
     <message>
         <source>Quote</source>
-        <translation>Citovat</translation>
+        <translation type="vanished">Citovat</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
+        <translation type="vanished">Ctrl+S</translation>
     </message>
 </context>
 <context>
@@ -10135,7 +10139,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Del</source>
-        <translation>Del</translation>
+        <translation type="vanished">Del</translation>
     </message>
     <message>
         <source>Disable stopspam, if don&apos;t match any rule above
@@ -10752,7 +10756,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Ovládá délku uchovávání záznamu chatu v paměti po uzavření okna chatu.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Ovládá délku uchovávání záznamu chatu v paměti po uzavření okna chatu.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
@@ -11199,7 +11203,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the Jabber server.</source>
-        <translation>Způsobí, že Psí nastaví automaticky stav na &quot;offline&quot;, když je počítač v klidu déle, než je nastavená doba. Tohle tě odpojí z Jabber serveru.</translation>
+        <translation type="vanished">Způsobí, že Psí nastaví automaticky stav na &quot;offline&quot;, když je počítač v klidu déle, než je nastavená doba. Tohle tě odpojí z Jabber serveru.</translation>
     </message>
     <message>
         <source>Specifies an extended message to use if you allow Psi to set your status automatically.  See options above.</source>
@@ -11208,6 +11212,10 @@ zprávy v chatu víde lidí)</translation>
     <message>
         <source>Specifies priority of auto-away status. If empty, Psi will use account&apos;s default priority.</source>
         <translation>Udává prioritu stavu &quot;automaticky pryč&quot;. Pokud je prázdné, Psí použije výchozí hodnotu účtu.</translation>
+    </message>
+    <message>
+        <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the XMPP server.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11250,7 +11258,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Jabber allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
-        <translation>Jabber dovoluje přidat rozšířenou stavovou zprávu na všechny typy stavů. Standardně se Psí neptá na rozšířenou stavovou zprávu, když si nastavíš stav na &quot;online&quot;. Zatrhni tuto volbu, pokud chceš, aby se ptal.</translation>
+        <translation type="vanished">Jabber dovoluje přidat rozšířenou stavovou zprávu na všechny typy stavů. Standardně se Psí neptá na rozšířenou stavovou zprávu, když si nastavíš stav na &quot;online&quot;. Zatrhni tuto volbu, pokud chceš, aby se ptal.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -11263,6 +11271,10 @@ zprávy v chatu víde lidí)</translation>
     <message>
         <source>You already have a preset with that name!</source>
         <translation>Předvolba s tímto jménem již existuje!</translation>
+    </message>
+    <message>
+        <source>XMPP allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13621,7 +13633,11 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Psi is a cross-platform XMPP client aimed at experienced users.</source>
-        <translation>Psi je multiplatformní XMPP klient zaměřený na pokročilé uživatele.</translation>
+        <translation type="vanished">Psi je multiplatformní XMPP klient zaměřený na pokročilé uživatele.</translation>
+    </message>
+    <message>
+        <source>Psi is a cross-platform XMPP client designed for experienced users.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17341,9 +17357,15 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi or Miranda IM.</source>
-        <translation>Tento zásuvný modul je implementací XEP-0049: privátní XML úložiště
+        <translation type="vanished">Tento zásuvný modul je implementací XEP-0049: privátní XML úložiště
 Tento zásuvný modul je plně kompatibilní s poznámkami uloženými v IM Miranda.
 Tento zásuvný modul je navržen tak, aby uchovával poznámky na jabber serveru s možností přístupu k nim kdekoliv z Psi nebo IM Miranda.</translation>
+    </message>
+    <message>
+        <source>This plugin is an implementation of XEP-0049: Private XML Storage.
+The plugin is fully compatible with notes saved using Miranda IM.
+The plugin is designed to keep notes on the XMPP server with the ability to access them from anywhere using Psi or Miranda IM.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

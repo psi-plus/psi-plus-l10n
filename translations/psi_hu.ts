@@ -273,7 +273,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation>Psi+ névjegye</translation>
     </message>
     <message>
-        <source>Cross-platform XMPP client aimed at experienced users.</source>
+        <source>Cross-platform XMPP client designed for experienced users.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2207,11 +2207,11 @@ Biztosan be akarod zárni az ablakot?</translation>
     <name>ChatWebView</name>
     <message>
         <source>Quote</source>
-        <translation>Idézet</translation>
+        <translation type="vanished">Idézet</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
+        <translation type="vanished">Ctrl+S</translation>
     </message>
 </context>
 <context>
@@ -10125,7 +10125,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Del</source>
-        <translation>Del</translation>
+        <translation type="vanished">Del</translation>
     </message>
     <message>
         <source>Disable stopspam, if don&apos;t match any rule above
@@ -10741,7 +10741,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Beszélgetésnapló megőrzésének ideje, a beszélgetésablak bezárása után.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Beszélgetésnapló megőrzésének ideje, a beszélgetésablak bezárása után.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
@@ -11188,7 +11188,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the Jabber server.</source>
-        <translation>Automatikus &quot;Kijelentkezve&quot;-állapot, ha egy megadott ideig nincs tevékenység a gépnél. Ezzel bontod a kapcsolatot a Jabber-szerverrel.</translation>
+        <translation type="vanished">Automatikus &quot;Kijelentkezve&quot;-állapot, ha egy megadott ideig nincs tevékenység a gépnél. Ezzel bontod a kapcsolatot a Jabber-szerverrel.</translation>
     </message>
     <message>
         <source>Specifies an extended message to use if you allow Psi to set your status automatically.  See options above.</source>
@@ -11197,6 +11197,10 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     <message>
         <source>Specifies priority of auto-away status. If empty, Psi will use account&apos;s default priority.</source>
         <translation>Automatikus &quot;Távol&quot;-állapot prioritásának beállítása. Ha üres, a Psi a fiók alapértelmezettét fogja használni.</translation>
+    </message>
+    <message>
+        <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the XMPP server.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11239,7 +11243,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Jabber allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
-        <translation>A Jabber lehetővé teszi, hogy külön üzeneteket adj meg minden állapotnál. Alapértelmezés szerint, a Psi nem kér ilyen üzenetet, ha &quot;elérhető&quot; módra váltasz. Kapcsold ezt be ha mégis szeretnél üzenetet írni hozzájuk.</translation>
+        <translation type="vanished">A Jabber lehetővé teszi, hogy külön üzeneteket adj meg minden állapotnál. Alapértelmezés szerint, a Psi nem kér ilyen üzenetet, ha &quot;elérhető&quot; módra váltasz. Kapcsold ezt be ha mégis szeretnél üzenetet írni hozzájuk.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -11252,6 +11256,10 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     <message>
         <source>You already have a preset with that name!</source>
         <translation>Már van ilyen nevű előbeállításod!</translation>
+    </message>
+    <message>
+        <source>XMPP allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13595,7 +13603,7 @@ Oka: %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Psi is a cross-platform XMPP client aimed at experienced users.</source>
+        <source>Psi is a cross-platform XMPP client designed for experienced users.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17300,7 +17308,7 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     <message>
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
-The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi or Miranda IM.</source>
+The plugin is designed to keep notes on the XMPP server with the ability to access them from anywhere using Psi or Miranda IM.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

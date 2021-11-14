@@ -269,7 +269,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation>O Psi</translation>
     </message>
     <message>
-        <source>Cross-platform XMPP client aimed at experienced users.</source>
+        <source>Cross-platform XMPP client designed for experienced users.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2186,11 +2186,11 @@ Da li i dalje želite da zatvorite prozor?</translation>
     <name>ChatWebView</name>
     <message>
         <source>Quote</source>
-        <translation>Citat</translation>
+        <translation type="vanished">Citat</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
+        <translation type="vanished">Ctrl+S</translation>
     </message>
 </context>
 <context>
@@ -9907,7 +9907,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Del</source>
-        <translation>Del</translation>
+        <translation type="vanished">Del</translation>
     </message>
     <message>
         <source>Disable stopspam, if don&apos;t match any rule above
@@ -10522,7 +10522,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
-        <translation>&lt;p&gt;Određuje koliko dugo će se u memoriji čuvati dnevnik razgovora posle zatvaranja prozora.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;Određuje koliko dugo će se u memoriji čuvati dnevnik razgovora posle zatvaranja prozora.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
@@ -10963,7 +10963,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the Jabber server.</source>
-        <translation>Čini da Psi automatski postavi stanje nepovezanosti ako je vaš rečunar neaktivan određeni vremenski period.  Ovo vas isključuje sa Džaber servera.</translation>
+        <translation type="vanished">Čini da Psi automatski postavi stanje nepovezanosti ako je vaš rečunar neaktivan određeni vremenski period.  Ovo vas isključuje sa Džaber servera.</translation>
     </message>
     <message>
         <source>Specifies an extended message to use if you allow Psi to set your status automatically.  See options above.</source>
@@ -10972,6 +10972,10 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>Specifies priority of auto-away status. If empty, Psi will use account&apos;s default priority.</source>
         <translation>Odredite prioritet za status odsutnosti. Ako je prazno, Psi će koristiti podrazumevani prioritet naloga.</translation>
+    </message>
+    <message>
+        <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the XMPP server.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11014,7 +11018,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Jabber allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
-        <translation>Džaber vam omogućava da postavite detaljniju poruku za sve vrste stanja.  Psi po pravilu ne postavlja upit o detaljnoj poruci kada ste povezani.  Omogućite ovu opciju ako želite takav upit.</translation>
+        <translation type="vanished">Džaber vam omogućava da postavite detaljniju poruku za sve vrste stanja.  Psi po pravilu ne postavlja upit o detaljnoj poruci kada ste povezani.  Omogućite ovu opciju ako želite takav upit.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -11027,6 +11031,10 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>You already have a preset with that name!</source>
         <translation>Već postoji poruka sa tim nazivom!</translation>
+    </message>
+    <message>
+        <source>XMPP allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13346,7 +13354,7 @@ Details: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Psi is a cross-platform XMPP client aimed at experienced users.</source>
+        <source>Psi is a cross-platform XMPP client designed for experienced users.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17011,7 +17019,7 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     <message>
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
-The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi or Miranda IM.</source>
+The plugin is designed to keep notes on the XMPP server with the ability to access them from anywhere using Psi or Miranda IM.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

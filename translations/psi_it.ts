@@ -286,7 +286,11 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; per ulteriori dettagli!</tra
     </message>
     <message>
         <source>Cross-platform XMPP client aimed at experienced users.</source>
-        <translation>Client XMPP multipiattaforma rivolto ad utenti esperti.</translation>
+        <translation type="vanished">Client XMPP multipiattaforma rivolto ad utenti esperti.</translation>
+    </message>
+    <message>
+        <source>Cross-platform XMPP client designed for experienced users.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2220,11 +2224,11 @@ Vuoi ancora chiudere la finestra?</translation>
     <name>ChatWebView</name>
     <message>
         <source>Quote</source>
-        <translation>Cita</translation>
+        <translation type="vanished">Cita</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
+        <translation type="vanished">Ctrl+S</translation>
     </message>
 </context>
 <context>
@@ -10192,7 +10196,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Del</source>
-        <translation>Elimina</translation>
+        <translation type="vanished">Elimina</translation>
     </message>
     <message>
         <source>Disable stopspam, if don&apos;t match any rule above
@@ -10808,7 +10812,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Controlla quanto a lungo il registro della chat sarà tenuto in memoria dopo che la finestra di chat viene chiusa.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Controlla quanto a lungo il registro della chat sarà tenuto in memoria dopo che la finestra di chat viene chiusa.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
@@ -11255,7 +11259,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the Jabber server.</source>
-        <translation>Imposta automaticamente lo stato &quot;Disconnesso&quot; se il tuo computer è inattivo per la quantità di tempo specificata. Questo ti disconnetterà dal server.</translation>
+        <translation type="vanished">Imposta automaticamente lo stato &quot;Disconnesso&quot; se il tuo computer è inattivo per la quantità di tempo specificata. Questo ti disconnetterà dal server.</translation>
     </message>
     <message>
         <source>Specifies an extended message to use if you allow Psi to set your status automatically.  See options above.</source>
@@ -11264,6 +11268,10 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     <message>
         <source>Specifies priority of auto-away status. If empty, Psi will use account&apos;s default priority.</source>
         <translation>Specifica priorità dello stato auto-assente. Se vuoto, Psi userà le priorità predefinite dell&apos;account.</translation>
+    </message>
+    <message>
+        <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the XMPP server.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11306,7 +11314,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Jabber allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
-        <translation>Jabber ti consente di mettere messaggi di stato estesi su tutti i tipi di stato. Normalmente, Psi non ti chiede un messaggio esteso quando imposti il tuo stato su &quot;Connesso&quot;. Seleziona questa opzione se vuoi avere questa richiesta.</translation>
+        <translation type="vanished">Jabber ti consente di mettere messaggi di stato estesi su tutti i tipi di stato. Normalmente, Psi non ti chiede un messaggio esteso quando imposti il tuo stato su &quot;Connesso&quot;. Seleziona questa opzione se vuoi avere questa richiesta.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -11319,6 +11327,10 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     <message>
         <source>You already have a preset with that name!</source>
         <translation>Hai già una preimpostazione con questo nome!</translation>
+    </message>
+    <message>
+        <source>XMPP allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13679,7 +13691,11 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Psi is a cross-platform XMPP client aimed at experienced users.</source>
-        <translation>Psi è un client XMPP multipiattaforma rivolto a utenti esperti.</translation>
+        <translation type="vanished">Psi è un client XMPP multipiattaforma rivolto a utenti esperti.</translation>
+    </message>
+    <message>
+        <source>Psi is a cross-platform XMPP client designed for experienced users.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17422,9 +17438,15 @@ ATTENZIONE!!! Prima di registrare un nuovo trasporto, è consigliato di aggiunge
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi or Miranda IM.</source>
-        <translation>Questo plugin è un implementazione di XEP-0049: Archiviazione Privata XML.
+        <translation type="vanished">Questo plugin è un implementazione di XEP-0049: Archiviazione Privata XML.
 Il plugin è completamente compatibile con le note salvate usando Miranda IM.
 Il plugin è progettato per tenere le note sul server Jabber con l&apos;abilità di accedervi da ovunque usando Psi+ o Miranda IM.</translation>
+    </message>
+    <message>
+        <source>This plugin is an implementation of XEP-0049: Private XML Storage.
+The plugin is fully compatible with notes saved using Miranda IM.
+The plugin is designed to keep notes on the XMPP server with the ability to access them from anywhere using Psi or Miranda IM.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -269,7 +269,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation>Пра «Псі»</translation>
     </message>
     <message>
-        <source>Cross-platform XMPP client aimed at experienced users.</source>
+        <source>Cross-platform XMPP client designed for experienced users.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2200,11 +2200,11 @@ Do you still want to close the window?</source>
     <name>ChatWebView</name>
     <message>
         <source>Quote</source>
-        <translation>Цытаваць</translation>
+        <translation type="vanished">Цытаваць</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
+        <translation type="vanished">Ctrl+S</translation>
     </message>
 </context>
 <context>
@@ -10081,7 +10081,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Del</source>
-        <translation>Прыбраць</translation>
+        <translation type="vanished">Прыбраць</translation>
     </message>
     <message>
         <source>Disable stopspam, if don&apos;t match any rule above
@@ -10697,7 +10697,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Вызначае, колькі трымаць у памяці апошнія паведамленьні пасьля таго, як гутарку зачынілі.&lt;/P&gt;</translation>
+        <translation type="vanished">&lt;P&gt;Вызначае, колькі трымаць у памяці апошнія паведамленьні пасьля таго, як гутарку зачынілі.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
@@ -11138,7 +11138,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the Jabber server.</source>
-        <translation>Стан будзе зьмяняцца на «па-за сеткаю», калі кампутар бязьдзейнічае пэўны час.  Гэта значыць, што вы адлучыцеся ад джабэру.</translation>
+        <translation type="vanished">Стан будзе зьмяняцца на «па-за сеткаю», калі кампутар бязьдзейнічае пэўны час.  Гэта значыць, што вы адлучыцеся ад джабэру.</translation>
     </message>
     <message>
         <source>Specifies an extended message to use if you allow Psi to set your status automatically.  See options above.</source>
@@ -11147,6 +11147,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Specifies priority of auto-away status. If empty, Psi will use account&apos;s default priority.</source>
         <translation>Пяршынства самарушна вызначанага стану. Калі нічога не пазначаць, застанецца звычайнае для рахунку пяршынства.</translation>
+    </message>
+    <message>
+        <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the XMPP server.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11189,7 +11193,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Jabber allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
-        <translation>Джабэр дазваляе апіваць усе віды стану.  Звычайна «Псі» не прапануе апісаць стан «у сетцы».  Абярыце гэта, каб вам прапаноўвалі апісаць стан «у сетцы».</translation>
+        <translation type="vanished">Джабэр дазваляе апіваць усе віды стану.  Звычайна «Псі» не прапануе апісаць стан «у сетцы».  Абярыце гэта, каб вам прапаноўвалі апісаць стан «у сетцы».</translation>
     </message>
     <message>
         <source>Error</source>
@@ -11202,6 +11206,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>You already have a preset with that name!</source>
         <translation>Нарыхтоўка з такою назваю ўжо існуе!</translation>
+    </message>
+    <message>
+        <source>XMPP allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13532,7 +13540,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Psi is a cross-platform XMPP client aimed at experienced users.</source>
-        <translation>Psi — міжплятформавы кліент XMPP для дасьведчаных карыстальнікаў.</translation>
+        <translation type="vanished">Psi — міжплятформавы кліент XMPP для дасьведчаных карыстальнікаў.</translation>
+    </message>
+    <message>
+        <source>Psi is a cross-platform XMPP client designed for experienced users.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17255,9 +17267,15 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi or Miranda IM.</source>
-        <translation>Убудова дзейнічае як пашырэньне XEP-0049 — асабістае сховішча XML.
+        <translation type="vanished">Убудова дзейнічае як пашырэньне XEP-0049 — асабістае сховішча XML.
 Убудова цалкам сумяшчальная з нататкамі, якія захоўвае кліент «Міранда».
 Убудова дазваляе захоўваць нататкі на паслужніку джабэру і дае магчымасьць праглядаць іх праз «Псі+» ці «Міранду».</translation>
+    </message>
+    <message>
+        <source>This plugin is an implementation of XEP-0049: Private XML Storage.
+The plugin is fully compatible with notes saved using Miranda IM.
+The plugin is designed to keep notes on the XMPP server with the ability to access them from anywhere using Psi or Miranda IM.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
