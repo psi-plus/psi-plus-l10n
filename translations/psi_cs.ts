@@ -279,10 +279,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation>O Psi</translation>
     </message>
     <message>
-        <source>Cross-platform XMPP client aimed at experienced users.</source>
-        <translation type="vanished">Multiplatformní XMPP klient zaměřený na pokročilé uživatele.</translation>
-    </message>
-    <message>
         <source>Cross-platform XMPP client designed for experienced users.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -19575,7 +19571,7 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     </message>
     <message>
         <source>&amp;End private conversation</source>
-        <translation>&amp;Ukončil soukromou konverzaci</translation>
+        <translation>&amp;Ukončit soukromou konverzaci</translation>
     </message>
     <message>
         <source>&amp;Authenticate contact</source>

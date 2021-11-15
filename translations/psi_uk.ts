@@ -286,12 +286,8 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation>Про Psi+</translation>
     </message>
     <message>
-        <source>Cross-platform XMPP client aimed at experienced users.</source>
-        <translation type="vanished">Міжплатформовий клієнт XMPP, орієнтований на досвідчених користувачів.</translation>
-    </message>
-    <message>
         <source>Cross-platform XMPP client designed for experienced users.</source>
-        <translation type="unfinished"></translation>
+        <translation>Міжплатформовий клієнт XMPP, розроблений для досвідчених користувачів.</translation>
     </message>
 </context>
 <context>
@@ -11273,7 +11269,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the XMPP server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматично виходити з мережі при бездіяльності протягом певного періоду часу. Відбудеться відключення від XMPP сервера.</translation>
     </message>
 </context>
 <context>
@@ -11332,7 +11328,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>XMPP allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
-        <translation type="unfinished"></translation>
+        <translation>В XMPP можливо використовувати розширені статус-повідомлення для всіх статусів.  Зазвичай Psi не пропонує Вам використовувати їх, коли Ви встановлюєте статус &quot;в мережі&quot;.  Увімкніть цю опцію, якщо хочете скористатись цією можливістю.</translation>
     </message>
 </context>
 <context>
@@ -13698,7 +13694,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Psi is a cross-platform XMPP client designed for experienced users.</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi - мульти-платформовий XMPP-клієнт для досвідчених користувачів.</translation>
     </message>
 </context>
 <context>
@@ -17456,7 +17452,9 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the XMPP server with the ability to access them from anywhere using Psi or Miranda IM.</source>
-        <translation type="unfinished"></translation>
+        <translation>Цей плагін - реалізація XEP-0049: Власне XML Сховище.
+Плагін повністю сумісний з нотатками, збереженими в клієнті Miranda IM.
+Призначений для зберігання нотаток на XMPP-сервері, з можливістю доступу до них з будь-якого місця через клієнт Psi + або Miranda IM.</translation>
     </message>
 </context>
 <context>
