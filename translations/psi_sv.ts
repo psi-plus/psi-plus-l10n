@@ -17665,10 +17665,6 @@ Vill du ändå stänga fönstrett?</translation>
         <translation>TJänsteupptäckaren</translation>
     </message>
     <message>
-        <source>VCard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Execute command</source>
         <translation>Utför kommando</translation>
     </message>
@@ -17684,11 +17680,15 @@ Vill du ändå stänga fönstrett?</translation>
         <source>Message Carbons</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>vCard</source>
+        <translation type="unfinished">vCard</translation>
+    </message>
 </context>
 <context>
     <name>XMPP::JT_VCard</name>
     <message>
-        <source>No VCard available</source>
+        <source>No vCard available</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

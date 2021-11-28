@@ -18090,7 +18090,7 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     </message>
     <message>
         <source>VCard</source>
-        <translation>Wizytówka</translation>
+        <translation type="vanished">Wizytówka</translation>
     </message>
     <message>
         <source>Execute command</source>
@@ -18108,12 +18108,20 @@ Czy nadal chcesz zamknąć tablicę?</translation>
         <source>Message Carbons</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>vCard</source>
+        <translation type="unfinished">Wizytówka</translation>
+    </message>
 </context>
 <context>
     <name>XMPP::JT_VCard</name>
     <message>
         <source>No VCard available</source>
-        <translation>Nie znaleziono wizytówki</translation>
+        <translation type="vanished">Nie znaleziono wizytówki</translation>
+    </message>
+    <message>
+        <source>No vCard available</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

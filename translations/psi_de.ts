@@ -18670,7 +18670,7 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     </message>
     <message>
         <source>VCard</source>
-        <translation>Visitenkarte</translation>
+        <translation type="vanished">Visitenkarte</translation>
     </message>
     <message>
         <source>Execute command</source>
@@ -18688,12 +18688,20 @@ Möchten Sie dennoch das Fenster schließen?</translation>
         <source>Message Carbons</source>
         <translation>Nachrichtenkopien</translation>
     </message>
+    <message>
+        <source>vCard</source>
+        <translation type="unfinished">Visitenkarte</translation>
+    </message>
 </context>
 <context>
     <name>XMPP::JT_VCard</name>
     <message>
         <source>No VCard available</source>
-        <translation>Keine Visitenkarte verfügbar</translation>
+        <translation type="vanished">Keine Visitenkarte verfügbar</translation>
+    </message>
+    <message>
+        <source>No vCard available</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

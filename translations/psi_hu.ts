@@ -18539,7 +18539,7 @@ Ablak bezárása mégis?</translation>
     </message>
     <message>
         <source>VCard</source>
-        <translation>vCard</translation>
+        <translation type="vanished">vCard</translation>
     </message>
     <message>
         <source>Execute command</source>
@@ -18557,12 +18557,20 @@ Ablak bezárása mégis?</translation>
         <source>Message Carbons</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>vCard</source>
+        <translation type="unfinished">vCard</translation>
+    </message>
 </context>
 <context>
     <name>XMPP::JT_VCard</name>
     <message>
         <source>No VCard available</source>
-        <translation>Nincs elérhető vCard</translation>
+        <translation type="vanished">Nincs elérhető vCard</translation>
+    </message>
+    <message>
+        <source>No vCard available</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

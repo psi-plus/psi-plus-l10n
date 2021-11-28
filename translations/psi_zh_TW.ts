@@ -18446,7 +18446,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>VCard</source>
-        <translation>虛擬名片</translation>
+        <translation type="vanished">虛擬名片</translation>
     </message>
     <message>
         <source>Execute command</source>
@@ -18464,12 +18464,20 @@ Do you still want to close the window?</source>
         <source>Message Carbons</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>vCard</source>
+        <translation type="unfinished">虛擬名片</translation>
+    </message>
 </context>
 <context>
     <name>XMPP::JT_VCard</name>
     <message>
         <source>No VCard available</source>
-        <translation>沒有可用的虛擬名片</translation>
+        <translation type="vanished">沒有可用的虛擬名片</translation>
+    </message>
+    <message>
+        <source>No vCard available</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

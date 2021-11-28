@@ -18591,7 +18591,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>VCard</source>
-        <translation>VCard</translation>
+        <translation type="vanished">VCard</translation>
     </message>
     <message>
         <source>Execute command</source>
@@ -18609,12 +18609,20 @@ Opravdu zavřít okno?</translation>
         <source>Message Carbons</source>
         <translation>Kopie zprávy</translation>
     </message>
+    <message>
+        <source>vCard</source>
+        <translation type="unfinished">Vizitka</translation>
+    </message>
 </context>
 <context>
     <name>XMPP::JT_VCard</name>
     <message>
         <source>No VCard available</source>
-        <translation>Žádná vizitka k dispozici</translation>
+        <translation type="vanished">Žádná vizitka k dispozici</translation>
+    </message>
+    <message>
+        <source>No vCard available</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -18596,7 +18596,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>VCard</source>
-        <translation>VCard</translation>
+        <translation type="vanished">VCard</translation>
     </message>
     <message>
         <source>Execute command</source>
@@ -18614,12 +18614,20 @@ Realmente deseja fechar a janela?</translation>
         <source>Message Carbons</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>vCard</source>
+        <translation type="unfinished">vCard</translation>
+    </message>
 </context>
 <context>
     <name>XMPP::JT_VCard</name>
     <message>
         <source>No VCard available</source>
-        <translation>Nenhum VCard disponível</translation>
+        <translation type="vanished">Nenhum VCard disponível</translation>
+    </message>
+    <message>
+        <source>No vCard available</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

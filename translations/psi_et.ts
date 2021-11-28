@@ -17099,10 +17099,6 @@ Do you still want to close the window?</source>
         <translation>Teenuse Otsing</translation>
     </message>
     <message>
-        <source>VCard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Execute command</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17118,11 +17114,15 @@ Do you still want to close the window?</source>
         <source>Message Carbons</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>vCard</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XMPP::JT_VCard</name>
     <message>
-        <source>No VCard available</source>
+        <source>No vCard available</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

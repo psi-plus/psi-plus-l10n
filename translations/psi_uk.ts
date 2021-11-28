@@ -18720,7 +18720,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>VCard</source>
-        <translation>vCard</translation>
+        <translation type="vanished">vCard</translation>
     </message>
     <message>
         <source>Execute command</source>
@@ -18738,12 +18738,20 @@ Do you still want to close the window?</source>
         <source>Message Carbons</source>
         <translation>Message Carbons</translation>
     </message>
+    <message>
+        <source>vCard</source>
+        <translation type="unfinished">vCard</translation>
+    </message>
 </context>
 <context>
     <name>XMPP::JT_VCard</name>
     <message>
         <source>No VCard available</source>
-        <translation>vCard недоступно</translation>
+        <translation type="vanished">vCard недоступно</translation>
+    </message>
+    <message>
+        <source>No vCard available</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
