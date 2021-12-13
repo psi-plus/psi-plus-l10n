@@ -5378,7 +5378,7 @@ Vesztettél.</translation>
     </message>
     <message>
         <source>Words which will cause a notification in group chat.</source>
-        <translation>Szavak megadása, amelyeket jelez majd a Psi+ a csoportbeszélgetések alatt.</translation>
+        <translation type="vanished">Szavak megadása, amelyeket jelez majd a Psi+ a csoportbeszélgetések alatt.</translation>
     </message>
     <message>
         <source>This is the list of words which when said in group chat will cause the user to be notified.</source>
@@ -5418,7 +5418,7 @@ Vesztettél.</translation>
     </message>
     <message>
         <source>Colors used for nicks in groupchat</source>
-        <translation>Használt színek beceneveknél a csoportbeszélgetésben</translation>
+        <translation type="vanished">Használt színek beceneveknél a csoportbeszélgetésben</translation>
     </message>
     <message>
         <source>This is the list of colours with which nicks will be drawn in group chat.</source>
@@ -5430,7 +5430,7 @@ Vesztettél.</translation>
     </message>
     <message>
         <source>Adds the color to the list</source>
-        <translation>Szín hozzáadása a listához</translation>
+        <translation type="vanished">Szín hozzáadása a listához</translation>
     </message>
     <message>
         <source>Adds the new color to the list</source>
@@ -5475,6 +5475,14 @@ Vesztettél.</translation>
     <message>
         <source>Show initial joins</source>
         <translation>Mutassa a kezdeti csatlakozásokat</translation>
+    </message>
+    <message>
+        <source>Show kick messages caused by some technical problems like client&apos;s connection loss for example.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show technical kicks</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

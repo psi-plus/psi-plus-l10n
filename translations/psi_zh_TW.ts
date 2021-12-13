@@ -5346,7 +5346,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Words which will cause a notification in group chat.</source>
-        <translation>在群組裡會產生提示的文字。</translation>
+        <translation type="vanished">在群組裡會產生提示的文字。</translation>
     </message>
     <message>
         <source>This is the list of words which when said in group chat will cause the user to be notified.</source>
@@ -5386,7 +5386,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Colors used for nicks in groupchat</source>
-        <translation>群組所使用的昵稱顏色標示</translation>
+        <translation type="vanished">群組所使用的昵稱顏色標示</translation>
     </message>
     <message>
         <source>This is the list of colours with which nicks will be drawn in group chat.</source>
@@ -5398,7 +5398,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Adds the color to the list</source>
-        <translation>添加這個顏色到清單</translation>
+        <translation type="vanished">添加這個顏色到清單</translation>
     </message>
     <message>
         <source>Adds the new color to the list</source>
@@ -5443,6 +5443,14 @@ You lost the game.</source>
     <message>
         <source>Show initial joins</source>
         <translation>顯示初始加入</translation>
+    </message>
+    <message>
+        <source>Show kick messages caused by some technical problems like client&apos;s connection loss for example.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show technical kicks</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

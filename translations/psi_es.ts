@@ -5374,7 +5374,7 @@ Perderás el juego.</translation>
     </message>
     <message>
         <source>Words which will cause a notification in group chat.</source>
-        <translation>Palabras que causarán una notificación en la sala.</translation>
+        <translation type="vanished">Palabras que causarán una notificación en la sala.</translation>
     </message>
     <message>
         <source>This is the list of words which when said in group chat will cause the user to be notified.</source>
@@ -5414,7 +5414,7 @@ Perderás el juego.</translation>
     </message>
     <message>
         <source>Colors used for nicks in groupchat</source>
-        <translation>Colores usados para los apodos en las salas de charla</translation>
+        <translation type="vanished">Colores usados para los apodos en las salas de charla</translation>
     </message>
     <message>
         <source>This is the list of colours with which nicks will be drawn in group chat.</source>
@@ -5426,7 +5426,7 @@ Perderás el juego.</translation>
     </message>
     <message>
         <source>Adds the color to the list</source>
-        <translation>Añade el color a la lista</translation>
+        <translation type="vanished">Añade el color a la lista</translation>
     </message>
     <message>
         <source>Adds the new color to the list</source>
@@ -5471,6 +5471,14 @@ Perderás el juego.</translation>
     <message>
         <source>Show initial joins</source>
         <translation>Mostar uniones iniciales</translation>
+    </message>
+    <message>
+        <source>Show kick messages caused by some technical problems like client&apos;s connection loss for example.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show technical kicks</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

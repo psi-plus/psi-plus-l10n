@@ -4942,7 +4942,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Words which will cause a notification in group chat.</source>
-        <translation>الفاظ جو گروپ بات چیت میں کسی اعلان کا سبب بنیں گے۔</translation>
+        <translation type="vanished">الفاظ جو گروپ بات چیت میں کسی اعلان کا سبب بنیں گے۔</translation>
     </message>
     <message>
         <source>This is the list of words which when said in group chat will cause the user to be notified.</source>
@@ -4978,7 +4978,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Colors used for nicks in groupchat</source>
-        <translation>گروپ بات چیت میں استعمال شدہ رنگ برائے عرف</translation>
+        <translation type="vanished">گروپ بات چیت میں استعمال شدہ رنگ برائے عرف</translation>
     </message>
     <message>
         <source>This is the list of colours with which nicks will be drawn in group chat.</source>
@@ -4990,7 +4990,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Adds the color to the list</source>
-        <translation>فہرست میں رنگ کا اضافہ کرتا ہے</translation>
+        <translation type="vanished">فہرست میں رنگ کا اضافہ کرتا ہے</translation>
     </message>
     <message>
         <source>Adds the new color to the list</source>
@@ -5034,6 +5034,14 @@ Reason: %1</source>
     </message>
     <message>
         <source>Show initial joins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show kick messages caused by some technical problems like client&apos;s connection loss for example.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show technical kicks</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

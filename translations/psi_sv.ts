@@ -5099,7 +5099,7 @@ Du förlorade.</translation>
     </message>
     <message>
         <source>Words which will cause a notification in group chat.</source>
-        <translation>Ord som orsakar en notifiering i gruppchatt.</translation>
+        <translation type="vanished">Ord som orsakar en notifiering i gruppchatt.</translation>
     </message>
     <message>
         <source>This is the list of words which when said in group chat will cause the user to be notified.</source>
@@ -5135,7 +5135,7 @@ Du förlorade.</translation>
     </message>
     <message>
         <source>Colors used for nicks in groupchat</source>
-        <translation>Färger som används för smeknamn i gruppchatt</translation>
+        <translation type="vanished">Färger som används för smeknamn i gruppchatt</translation>
     </message>
     <message>
         <source>This is the list of colours with which nicks will be drawn in group chat.</source>
@@ -5147,7 +5147,7 @@ Du förlorade.</translation>
     </message>
     <message>
         <source>Adds the color to the list</source>
-        <translation>Lägg till färgen till listan</translation>
+        <translation type="vanished">Lägg till färgen till listan</translation>
     </message>
     <message>
         <source>Adds the new color to the list</source>
@@ -5191,6 +5191,14 @@ Du förlorade.</translation>
     </message>
     <message>
         <source>Show initial joins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show kick messages caused by some technical problems like client&apos;s connection loss for example.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show technical kicks</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
