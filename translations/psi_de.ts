@@ -627,6 +627,10 @@ Wenn Sie diese Option aktivieren, können Sie Ihr Passwort nicht in den Konfigur
         <source>Disable connections potentially exposing my IP address</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Use this proxy server for HTTP file upload</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>
@@ -818,6 +822,10 @@ der Inaktivität getrennt wird (z. B. von Ihrem Provider oder durch Ihren Router
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
         <translation>Aktiviert das Stream Management Protokoll, falls möglich. Dieses ist bei instabilen Netzwerkverbindungen hilfreich. Der genutzte Server muss dies unterstützen. Siehe XEP-0184 für weitere Informationen.</translation>
+    </message>
+    <message>
+        <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7549,7 +7557,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Affiliations</source>
-        <translation>Angliederungen</translation>
+        <translation type="vanished">Angliederungen</translation>
     </message>
     <message>
         <source>Filter:</source>
@@ -7565,7 +7573,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>General</source>
-        <translation>Allgemein</translation>
+        <translation type="vanished">Allgemein</translation>
     </message>
     <message>
         <source>message</source>
@@ -7585,7 +7593,19 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>&amp;VCard</source>
-        <translation>&amp;VCard</translation>
+        <translation type="vanished">&amp;VCard</translation>
+    </message>
+    <message>
+        <source>&amp;General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Affiliations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Profile</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8143,6 +8163,14 @@ Details: %1</translation>
     <message>
         <source>Description:</source>
         <translation type="unfinished">Beschreibung:</translation>
+    </message>
+    <message>
+        <source>&amp;General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Profile</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

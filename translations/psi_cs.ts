@@ -625,6 +625,10 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
         <source>Disable connections potentially exposing my IP address</source>
         <translation>Zakázat spojení, která potenciálně můžou odkrýt moji IP adresu</translation>
     </message>
+    <message>
+        <source>Use this proxy server for HTTP file upload</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>
@@ -815,6 +819,10 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
         <translation>Povolí Stream Management protokol, pokud je dostupný. Je užitečný, pokud máš nestabilní připojení, ale musí to podporovat tvůj server. Pro víc informací viz XEP-0184.</translation>
+    </message>
+    <message>
+        <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7501,7 +7509,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Affiliations</source>
-        <translation>Vztahy (affiliations)</translation>
+        <translation type="vanished">Vztahy (affiliations)</translation>
     </message>
     <message>
         <source>Filter:</source>
@@ -7517,7 +7525,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>General</source>
-        <translation>Všeobecné</translation>
+        <translation type="vanished">Všeobecné</translation>
     </message>
     <message>
         <source>message</source>
@@ -7537,7 +7545,19 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>&amp;VCard</source>
-        <translation>&amp;Vizitka</translation>
+        <translation type="vanished">&amp;Vizitka</translation>
+    </message>
+    <message>
+        <source>&amp;General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Affiliations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Profile</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8099,6 +8119,14 @@ Detaily: %1</translation>
     <message>
         <source>Description:</source>
         <translation>Popis:</translation>
+    </message>
+    <message>
+        <source>&amp;General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Profile</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

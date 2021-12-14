@@ -605,6 +605,10 @@ When you enable this option you will not be able to find your password in config
         <source>Disable connections potentially exposing my IP address</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Use this proxy server for HTTP file upload</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>
@@ -794,6 +798,10 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7231,7 +7239,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Affiliations</source>
-        <translation>שיוכים</translation>
+        <translation type="vanished">שיוכים</translation>
     </message>
     <message>
         <source>Filter:</source>
@@ -7247,7 +7255,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>General</source>
-        <translation>כללי</translation>
+        <translation type="vanished">כללי</translation>
     </message>
     <message>
         <source>message</source>
@@ -7266,7 +7274,15 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
         <translation>סגור</translation>
     </message>
     <message>
-        <source>&amp;VCard</source>
+        <source>&amp;General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Affiliations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Profile</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7806,6 +7822,14 @@ Details: %1</source>
     <message>
         <source>Description:</source>
         <translation type="unfinished">תיאור:</translation>
+    </message>
+    <message>
+        <source>&amp;General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Profile</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

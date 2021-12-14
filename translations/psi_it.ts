@@ -635,6 +635,10 @@ Quando abiliti questa opzione non sarai in grado di trovare la tua password nei 
         <source>Disable connections potentially exposing my IP address</source>
         <translation>Disattiva le connessioni che potenzialmente espongono il mio indirizzo IP</translation>
     </message>
+    <message>
+        <source>Use this proxy server for HTTP file upload</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>
@@ -826,6 +830,10 @@ Quando abiliti questa opzione non sarai in grado di trovare la tua password nei 
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
         <translation>Abilita il protocollo Gestione Flusso se possibile, è utile se hai una connessione instabile. Il tuo server deve supportare questa opzione, per ulteriori informazioni, vedi XEP-0184.</translation>
+    </message>
+    <message>
+        <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7561,7 +7569,7 @@ Nota: per funzionare correttamente, l&apos;opzione options.html.chat.render    d
     </message>
     <message>
         <source>Affiliations</source>
-        <translation>Affiliazioni</translation>
+        <translation type="vanished">Affiliazioni</translation>
     </message>
     <message>
         <source>Filter:</source>
@@ -7577,7 +7585,7 @@ Nota: per funzionare correttamente, l&apos;opzione options.html.chat.render    d
     </message>
     <message>
         <source>General</source>
-        <translation>Generale</translation>
+        <translation type="vanished">Generale</translation>
     </message>
     <message>
         <source>message</source>
@@ -7597,7 +7605,19 @@ Nota: per funzionare correttamente, l&apos;opzione options.html.chat.render    d
     </message>
     <message>
         <source>&amp;VCard</source>
-        <translation>&amp;VCard</translation>
+        <translation type="vanished">&amp;VCard</translation>
+    </message>
+    <message>
+        <source>&amp;General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Affiliations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Profile</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8163,6 +8183,14 @@ Dettagli: %1</translation>
     <message>
         <source>Description:</source>
         <translation type="unfinished">Descrizione:</translation>
+    </message>
+    <message>
+        <source>&amp;General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Profile</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
