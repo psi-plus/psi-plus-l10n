@@ -634,7 +634,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Use this proxy server for HTTP file upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Використовуйте цей проксі-сервер для завантаження файлів по HTTP</translation>
     </message>
 </context>
 <context>
@@ -829,7 +829,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Використовуйте той самий проксі-сервер для завантаження по HTTP, що й налаштований для з’єднання XMPP. В іншому випадку використовуйте проксі-сервер програми за замовчуванням.</translation>
     </message>
 </context>
 <context>
@@ -5503,11 +5503,11 @@ You lost the game.</source>
     </message>
     <message>
         <source>Show kick messages caused by some technical problems like client&apos;s connection loss for example.</source>
-        <translation type="unfinished"></translation>
+        <translation>Показувати повідомлення про помилки, викликані деякими технічними проблемами, наприклад, втратою з’єднання клієнтом.</translation>
     </message>
     <message>
         <source>Show technical kicks</source>
-        <translation type="unfinished"></translation>
+        <translation>Показувати технічні проблеми</translation>
     </message>
 </context>
 <context>
@@ -7611,15 +7611,15 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>&amp;General</source>
-        <translation type="unfinished"></translation>
+        <translation>Загальне</translation>
     </message>
     <message>
         <source>&amp;Affiliations</source>
-        <translation type="unfinished"></translation>
+        <translation>Ролі</translation>
     </message>
     <message>
         <source>&amp;Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Профіль</translation>
     </message>
 </context>
 <context>
@@ -8184,11 +8184,11 @@ Details: %1</source>
     </message>
     <message>
         <source>&amp;General</source>
-        <translation type="unfinished"></translation>
+        <translation>Загальне</translation>
     </message>
     <message>
         <source>&amp;Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Профіль</translation>
     </message>
 </context>
 <context>
