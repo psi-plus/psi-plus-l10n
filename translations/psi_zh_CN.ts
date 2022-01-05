@@ -35,7 +35,7 @@
     </message>
     <message>
         <source>Command:</source>
-        <translation>指令:</translation>
+        <translation>命令:</translation>
     </message>
     <message>
         <source>Execute</source>
@@ -66,7 +66,7 @@
     </message>
     <message>
         <source>License</source>
-        <translation>执照</translation>
+        <translation>许可</translation>
     </message>
     <message>
         <source>About Psi+</source>
@@ -78,11 +78,11 @@
     </message>
     <message>
         <source>Past Lead Developer and Maintainer</source>
-        <translation>前领导开发人员和维护人员</translation>
+        <translation>过去的首席开发人员和维护人员</translation>
     </message>
     <message>
         <source>Past Lead Developer</source>
-        <translation>前领导开发人员</translation>
+        <translation>过去的首席开发人员</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -94,51 +94,51 @@
     </message>
     <message>
         <source>Founder, Patcher and MS Windows Packager</source>
-        <translation type="vanished">创办者, 修补者和MS Windows打包者</translation>
+        <translation type="vanished">创始人、修补程序和 MS Windows 程序</translation>
     </message>
     <message>
         <source>Founder and Lead Patcher</source>
-        <translation>创办者和领导修补者</translation>
+        <translation>创始人兼首席补丁</translation>
     </message>
     <message>
         <source>Founder, Designer and Patcher</source>
-        <translation type="vanished">创办者, 设计师和修补者</translation>
+        <translation type="vanished">创始人、设计师和修补程序</translation>
     </message>
     <message>
         <source>Lead Patcher and Plugins Writer; Mac OS X Packager</source>
-        <translation type="vanished">领导修补者和插件作者; Mac OS X打包者</translation>
+        <translation type="vanished">首席修补程序和插件编写者； Mac OS X 程序</translation>
     </message>
     <message>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
-        <translation type="vanished">修补者, 插件作者和Fedora打包者</translation>
+        <translation type="vanished">修补程序、插件编写器和 Fedora 程序</translation>
     </message>
     <message>
         <source>Patcher and Plugins Writer</source>
-        <translation>修补者和插件作者</translation>
+        <translation>修补程序和插件编写</translation>
     </message>
     <message>
         <source>Patcher and Ubuntu Packager</source>
-        <translation type="vanished">修补者和Ubuntu打包者</translation>
+        <translation type="vanished">修补程序和 Ubuntu 程序</translation>
     </message>
     <message>
         <source>Ubuntu Packager</source>
-        <translation type="vanished">Ubuntu打包者</translation>
+        <translation type="vanished">Ubuntu 程序</translation>
     </message>
     <message>
         <source>Mandriva Linux Packager</source>
-        <translation type="vanished">Mandriva Linux打包者</translation>
+        <translation type="vanished">Mandriva Linux 程序</translation>
     </message>
     <message>
         <source>Patcher and Russian localization</source>
-        <translation type="vanished">修补者和俄语翻译</translation>
+        <translation type="vanished">修补程序和俄语本地化</translation>
     </message>
     <message>
         <source>Psimedia Patcher and Wiki English localization</source>
-        <translation>Psimedia修补者和Wiki英语翻译</translation>
+        <translation>Psimedia修补程序和维基英语本地化</translation>
     </message>
     <message>
         <source>Language coordinator; Debian Packager</source>
-        <translation type="vanished">语言协调员; Debian包</translation>
+        <translation type="vanished">语言协调员； Debian 程序</translation>
     </message>
     <message>
         <source>Former language coordinator, miscellaneous assistance</source>
@@ -146,19 +146,19 @@
     </message>
     <message>
         <source>Build setup, miscellaneous assistance</source>
-        <translation>编译设置, 其它协助</translation>
+        <translation>构建设置、其他帮助</translation>
     </message>
     <message>
         <source>Many icons are from his Crystal icon theme</source>
-        <translation>许多的图标来自他的水晶图标主题</translation>
+        <translation>许多图标都来自他的 Crystal 图标主题</translation>
     </message>
     <message>
         <source>Graphics</source>
-        <translation>图学</translation>
+        <translation>图形</translation>
     </message>
     <message>
         <source>Original Mac Port</source>
-        <translation>原始Mac端口</translation>
+        <translation>原始 Mac 端口</translation>
     </message>
     <message>
         <source>Mac OS X Port</source>
@@ -166,7 +166,7 @@
     </message>
     <message>
         <source>Original End User Documentation</source>
-        <translation>原始终结用户文件</translation>
+        <translation>原始终端用户文档</translation>
     </message>
     <message>
         <source>Webmaster, Marketing</source>
@@ -174,11 +174,11 @@
     </message>
     <message>
         <source>Bug Tracker Management</source>
-        <translation>漏洞追踪管理</translation>
+        <translation>错误跟踪器管理</translation>
     </message>
     <message>
         <source>Patches</source>
-        <translation>补丁</translation>
+        <translation>修补程序</translation>
     </message>
     <message>
         <source>Sponsor</source>
@@ -186,7 +186,7 @@
     </message>
     <message>
         <source>Sponsor (Summer of Code)</source>
-        <translation>赞助 (代码之加法器)</translation>
+        <translation>赞助 (Summer of Code)</translation>
     </message>
     <message>
         <source>Security plugin: %1</source>
@@ -202,15 +202,10 @@
 Join the translation team today! Go to 
 &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
 https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
-        <translation>匿名&lt;note text=&quot;replace with your real name&quot;&gt; &lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://me.com&quot;&gt;http://me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;XMPP: &lt;a href=&quot;xmpp:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;翻译者&lt;br&gt;
-&lt;br&gt;
-现在加入翻译团队! 到 
-&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
-https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; 获取更多信息!</translation>
+        <translation>翻译:&lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;匿名&lt;br&gt;
+现在加入翻译团队! 到 &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; 获取更多信息!
+</translation>
     </message>
     <message>
         <source>Original Author</source>
@@ -226,11 +221,11 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; 获取更多信息!</transla
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cross-platform XMPP client aimed at experienced users.&lt;br/&gt;&lt;br/&gt;Copyright © 2001-2020 The Psi Team.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;面向有经验的用户的跨平台XMPP客户端。&lt;br/&gt;&lt;br/&gt;Copyright © 2001-2020 The Psi Team.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;针对经验丰富的用户的跨平台 XMPP 客户端。&lt;br/&gt;&lt;br/&gt;版权所有 © 2001-2020 Psi 团队。&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Past Lead Widget Developer</source>
-        <translation>前领导小组件开发者</translation>
+        <translation>过去的首席小工具开发者</translation>
     </message>
     <message>
         <source>Developer and Maintainer</source>
@@ -2763,7 +2758,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>&amp;Contacts Manager</source>
-        <translation>和联系人管理(&amp;C)</translation>
+        <translation>联系人管理器(&amp;C)</translation>
     </message>
     <message>
         <source>Manage Bookmarks</source>
