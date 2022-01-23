@@ -629,7 +629,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Use this proxy server for HTTP file upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать прокси сервер для отправки файлов через HTTP</translation>
     </message>
 </context>
 <context>
@@ -824,7 +824,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать для отправки файлов по HTTP тот же прокси сервер, что и для подключения по XMPP. Иначе будет использован прокси сервер по умолчанию.</translation>
     </message>
 </context>
 <context>
@@ -5508,11 +5508,11 @@ You lost the game.</source>
     </message>
     <message>
         <source>Show kick messages caused by some technical problems like client&apos;s connection loss for example.</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать сообщения об отключении, вызванные техническими проблемами вроде потери соединения клиента.</translation>
     </message>
     <message>
         <source>Show technical kicks</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать технические отключения</translation>
     </message>
 </context>
 <context>
@@ -7616,15 +7616,15 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>&amp;General</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Общее</translation>
     </message>
     <message>
         <source>&amp;Affiliations</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Участники</translation>
     </message>
     <message>
         <source>&amp;Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Профиль</translation>
     </message>
 </context>
 <context>
@@ -8193,11 +8193,11 @@ Details: %1</source>
     </message>
     <message>
         <source>&amp;General</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Общее</translation>
     </message>
     <message>
         <source>&amp;Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Профиль</translation>
     </message>
 </context>
 <context>
@@ -18795,7 +18795,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>vCard</source>
-        <translation type="unfinished">vCard</translation>
+        <translation>vCard</translation>
     </message>
 </context>
 <context>
@@ -18806,7 +18806,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>No vCard available</source>
-        <translation type="unfinished"></translation>
+        <translation>vCard недоступен</translation>
     </message>
 </context>
 <context>
