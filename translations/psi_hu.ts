@@ -3756,10 +3756,21 @@ Ha engedélyezni szeretnéd ezt a kérést, nyomd meg az Megerősítés gombot. 
     </message>
 </context>
 <context>
+    <name>EventNotifier</name>
+    <message>
+        <source>Clear all events</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read next event</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>EventNotifierAction</name>
     <message>
         <source>&lt;Event notifier&gt;</source>
-        <translation>&lt;Esemény értesítő&gt;</translation>
+        <translation type="vanished">&lt;Esemény értesítő&gt;</translation>
     </message>
 </context>
 <context>
@@ -7919,6 +7930,14 @@ Bejövő esemény(ek) innen:</translation>
     <message>
         <source>Show</source>
         <translation>Megjelenítés</translation>
+    </message>
+    <message>
+        <source>Question</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to clear all events?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12998,7 +13017,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Special item that displays number of pending events</source>
-        <translation>Speciális elem, ami a várakozó események számát mutatja</translation>
+        <translation type="vanished">Speciális elem, ami a várakozó események számát mutatja</translation>
     </message>
     <message>
         <source>Active contacts</source>
@@ -14141,7 +14160,7 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation>Eseményértesítő</translation>
+        <translation type="vanished">Eseményértesítő</translation>
     </message>
     <message>
         <source>Auto Status (idle)</source>
@@ -16644,7 +16663,7 @@ Oka: %1</translation>
     </message>
     <message>
         <source>Event Notifier</source>
-        <translation>Eseményértesítő</translation>
+        <translation type="vanished">Eseményértesítő</translation>
     </message>
     <message>
         <source>View Groups</source>

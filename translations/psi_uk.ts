@@ -3772,10 +3772,21 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
 </context>
 <context>
+    <name>EventNotifier</name>
+    <message>
+        <source>Clear all events</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read next event</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>EventNotifierAction</name>
     <message>
         <source>&lt;Event notifier&gt;</source>
-        <translation>&lt;Лічільник повідомлень&gt;</translation>
+        <translation type="vanished">&lt;Лічільник повідомлень&gt;</translation>
     </message>
 </context>
 <context>
@@ -7980,6 +7991,14 @@ Incoming event(s) from:</source>
     <message>
         <source>Show</source>
         <translation>Показати</translation>
+    </message>
+    <message>
+        <source>Question</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to clear all events?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13076,7 +13095,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Special item that displays number of pending events</source>
-        <translation>Спеціальний елемент, який показує число протягом подій</translation>
+        <translation type="vanished">Спеціальний елемент, який показує число протягом подій</translation>
     </message>
     <message>
         <source>Active contacts</source>
@@ -14230,7 +14249,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation>Лічильник подій</translation>
+        <translation type="vanished">Лічильник подій</translation>
     </message>
     <message>
         <source>Auto Status (idle)</source>
@@ -16752,7 +16771,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Event Notifier</source>
-        <translation>Обробка подій</translation>
+        <translation type="vanished">Обробка подій</translation>
     </message>
     <message>
         <source>View Groups</source>

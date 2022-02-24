@@ -3497,10 +3497,21 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
 </context>
 <context>
+    <name>EventNotifier</name>
+    <message>
+        <source>Clear all events</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read next event</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>EventNotifierAction</name>
     <message>
         <source>&lt;Event notifier&gt;</source>
-        <translation>&lt;وقوعہ اعلان کنندہ&gt;</translation>
+        <translation type="vanished">&lt;وقوعہ اعلان کنندہ&gt;</translation>
     </message>
 </context>
 <context>
@@ -7313,6 +7324,14 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Question</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to clear all events?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12090,7 +12109,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Special item that displays number of pending events</source>
-        <translation>خاص شے جو زیر غور وقوع کے نمبر دکھاتا ہے</translation>
+        <translation type="vanished">خاص شے جو زیر غور وقوع کے نمبر دکھاتا ہے</translation>
     </message>
     <message>
         <source>Active contacts</source>
@@ -13215,7 +13234,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation>وقوعہ اعلان کنندہ</translation>
+        <translation type="vanished">وقوعہ اعلان کنندہ</translation>
     </message>
     <message>
         <source>Auto Status (idle)</source>
@@ -15625,10 +15644,6 @@ Reason: %1</source>
     </message>
     <message>
         <source>Enable Groups</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Event Notifier</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

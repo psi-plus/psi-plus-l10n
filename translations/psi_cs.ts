@@ -3760,10 +3760,21 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
     </message>
 </context>
 <context>
+    <name>EventNotifier</name>
+    <message>
+        <source>Clear all events</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read next event</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>EventNotifierAction</name>
     <message>
         <source>&lt;Event notifier&gt;</source>
-        <translation>&lt;Hlásič událostí&gt;</translation>
+        <translation type="vanished">&lt;Hlásič událostí&gt;</translation>
     </message>
 </context>
 <context>
@@ -7918,6 +7929,14 @@ Příchozí událost(i) od:</translation>
     <message>
         <source>Show</source>
         <translation>Zobrazit</translation>
+    </message>
+    <message>
+        <source>Question</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to clear all events?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13015,7 +13034,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Special item that displays number of pending events</source>
-        <translation>Speciální položka, která zobrazuje počet nevyřízených událostí</translation>
+        <translation type="vanished">Speciální položka, která zobrazuje počet nevyřízených událostí</translation>
     </message>
     <message>
         <source>Active contacts</source>
@@ -14169,7 +14188,7 @@ Chceš aktivovat tuto relaci?</translation>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation>Hlásič událostí</translation>
+        <translation type="vanished">Hlásič událostí</translation>
     </message>
     <message>
         <source>Auto Status (idle)</source>
@@ -16688,7 +16707,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>Event Notifier</source>
-        <translation>Hlásič událostí</translation>
+        <translation type="vanished">Hlásič událostí</translation>
     </message>
     <message>
         <source>View Groups</source>

@@ -3771,10 +3771,21 @@ Se vuoi confermare questa richeista, premi il tasto Conferma. Altrimenti premi i
     </message>
 </context>
 <context>
+    <name>EventNotifier</name>
+    <message>
+        <source>Clear all events</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read next event</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>EventNotifierAction</name>
     <message>
         <source>&lt;Event notifier&gt;</source>
-        <translation>&lt;Notificatore evento&gt;</translation>
+        <translation type="vanished">&lt;Notificatore evento&gt;</translation>
     </message>
 </context>
 <context>
@@ -7978,6 +7989,14 @@ Evento/i in arrivo da:</translation>
     <message>
         <source>Show</source>
         <translation>Mostra</translation>
+    </message>
+    <message>
+        <source>Question</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to clear all events?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13077,7 +13096,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Special item that displays number of pending events</source>
-        <translation>Voce speciale che mostra il numero di eventi in sospeso</translation>
+        <translation type="vanished">Voce speciale che mostra il numero di eventi in sospeso</translation>
     </message>
     <message>
         <source>Active contacts</source>
@@ -14231,7 +14250,7 @@ Vuoi attivare quella sessione ora?</translation>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation>Notificatore eventi</translation>
+        <translation type="vanished">Notificatore eventi</translation>
     </message>
     <message>
         <source>Auto Status (idle)</source>
@@ -16747,7 +16766,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Event Notifier</source>
-        <translation>Notificatore eventi</translation>
+        <translation type="vanished">Notificatore eventi</translation>
     </message>
     <message>
         <source>View Groups</source>

@@ -3514,9 +3514,13 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
 </context>
 <context>
-    <name>EventNotifierAction</name>
+    <name>EventNotifier</name>
     <message>
-        <source>&lt;Event notifier&gt;</source>
+        <source>Clear all events</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read next event</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7360,6 +7364,14 @@ Incoming event(s) from:</source>
     <message>
         <source>Show</source>
         <translation>Προβολή</translation>
+    </message>
+    <message>
+        <source>Question</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to clear all events?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12130,10 +12142,6 @@ Details: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Special item that displays number of pending events</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Active contacts</source>
         <translation>Ενεργές επαφές</translation>
     </message>
@@ -13218,10 +13226,6 @@ Would you like to activate that session now?</source>
     <message>
         <source>Show contacts</source>
         <translation>Προβολή επαφών</translation>
-    </message>
-    <message>
-        <source>Event notifier</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Auto Status (idle)</source>
@@ -15603,10 +15607,6 @@ Reason: %1</source>
     <message>
         <source>Enable Groups</source>
         <translation>Ενεργοποίηση Ομάδων</translation>
-    </message>
-    <message>
-        <source>Event Notifier</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View Groups</source>

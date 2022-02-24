@@ -3751,10 +3751,21 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
 </context>
 <context>
+    <name>EventNotifier</name>
+    <message>
+        <source>Clear all events</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read next event</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>EventNotifierAction</name>
     <message>
         <source>&lt;Event notifier&gt;</source>
-        <translation>&lt;事件提示器&gt;</translation>
+        <translation type="vanished">&lt;事件提示器&gt;</translation>
     </message>
 </context>
 <context>
@@ -7949,6 +7960,14 @@ Incoming event(s) from:</source>
     <message>
         <source>Show</source>
         <translation>显示</translation>
+    </message>
+    <message>
+        <source>Question</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to clear all events?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13035,7 +13054,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Special item that displays number of pending events</source>
-        <translation>显示待处理事件个数的特殊项目</translation>
+        <translation type="vanished">显示待处理事件个数的特殊项目</translation>
     </message>
     <message>
         <source>Active contacts</source>
@@ -14189,7 +14208,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation>事件提示器</translation>
+        <translation type="vanished">事件提示器</translation>
     </message>
     <message>
         <source>Auto Status (idle)</source>
@@ -16683,7 +16702,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Event Notifier</source>
-        <translation>事件提示器</translation>
+        <translation type="vanished">事件提示器</translation>
     </message>
     <message>
         <source>View Groups</source>

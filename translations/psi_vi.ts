@@ -3741,10 +3741,21 @@ Nếu bạn muốn xác nhận yêu cầu này, vui lòng nhấn nút Xác nhậ
     </message>
 </context>
 <context>
+    <name>EventNotifier</name>
+    <message>
+        <source>Clear all events</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read next event</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>EventNotifierAction</name>
     <message>
         <source>&lt;Event notifier&gt;</source>
-        <translation>&lt;Thông báo sự kiện&gt;</translation>
+        <translation type="vanished">&lt;Thông báo sự kiện&gt;</translation>
     </message>
 </context>
 <context>
@@ -7832,6 +7843,14 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Question</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to clear all events?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12660,7 +12679,7 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Special item that displays number of pending events</source>
-        <translation>Mục đặc biệt hiển thị số sự kiện bị hoãn</translation>
+        <translation type="vanished">Mục đặc biệt hiển thị số sự kiện bị hoãn</translation>
     </message>
     <message>
         <source>Active contacts</source>
@@ -13788,7 +13807,7 @@ Bạn có muốn kích hoạt buổi hợp đó ngay bây giờ không?</transla
     </message>
     <message>
         <source>Event notifier</source>
-        <translation>Bộ thông báo sự kiện</translation>
+        <translation type="vanished">Bộ thông báo sự kiện</translation>
     </message>
     <message>
         <source>Auto Status (idle)</source>
@@ -16244,10 +16263,6 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>Enable Groups</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Event Notifier</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

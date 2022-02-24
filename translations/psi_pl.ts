@@ -3676,10 +3676,21 @@ Jeśli chcesz potwierdzić te żądanie, naciśnij przycisk Potwierdź. W przeci
     </message>
 </context>
 <context>
+    <name>EventNotifier</name>
+    <message>
+        <source>Clear all events</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read next event</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>EventNotifierAction</name>
     <message>
         <source>&lt;Event notifier&gt;</source>
-        <translation>&lt;Zdarzenia&gt;</translation>
+        <translation type="vanished">&lt;Zdarzenia&gt;</translation>
     </message>
 </context>
 <context>
@@ -7797,6 +7808,14 @@ Przychodzące zdarzenie(a) od:</translation>
     <message>
         <source>Show</source>
         <translation>Pokaż</translation>
+    </message>
+    <message>
+        <source>Question</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to clear all events?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12651,7 +12670,7 @@ Przyczyna: %1.</translation>
     </message>
     <message>
         <source>Special item that displays number of pending events</source>
-        <translation>Wyświetla liczbę oczekujących zdarzeń</translation>
+        <translation type="vanished">Wyświetla liczbę oczekujących zdarzeń</translation>
     </message>
     <message>
         <source>Active contacts</source>
@@ -13782,7 +13801,7 @@ Czy chcesz teraz aktywować sesję?</translation>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation>Wskaźnik zdarzeń</translation>
+        <translation type="vanished">Wskaźnik zdarzeń</translation>
     </message>
     <message>
         <source>Auto Status (idle)</source>
@@ -16236,7 +16255,7 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source>Event Notifier</source>
-        <translation>Powiadomienia zdarzeń</translation>
+        <translation type="vanished">Powiadomienia zdarzeń</translation>
     </message>
     <message>
         <source>View Groups</source>

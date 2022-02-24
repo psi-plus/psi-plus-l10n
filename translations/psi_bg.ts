@@ -3697,10 +3697,21 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
 </context>
 <context>
+    <name>EventNotifier</name>
+    <message>
+        <source>Clear all events</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read next event</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>EventNotifierAction</name>
     <message>
         <source>&lt;Event notifier&gt;</source>
-        <translation>&lt;Известяване при съобщение&gt;</translation>
+        <translation type="vanished">&lt;Известяване при съобщение&gt;</translation>
     </message>
 </context>
 <context>
@@ -7832,6 +7843,14 @@ Incoming event(s) from:</source>
     <message>
         <source>Show</source>
         <translation>Показване</translation>
+    </message>
+    <message>
+        <source>Question</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to clear all events?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12850,7 +12869,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Special item that displays number of pending events</source>
-        <translation>Елемент, показващ броя изчакващи събития</translation>
+        <translation type="vanished">Елемент, показващ броя изчакващи събития</translation>
     </message>
     <message>
         <source>Active contacts</source>
@@ -13992,7 +14011,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation>Известяване за събитие</translation>
+        <translation type="vanished">Известяване за събитие</translation>
     </message>
     <message>
         <source>Auto Status (idle)</source>
@@ -16478,7 +16497,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Event Notifier</source>
-        <translation>Известяване за Събитие</translation>
+        <translation type="vanished">Известяване за Събитие</translation>
     </message>
     <message>
         <source>View Groups</source>

@@ -3751,10 +3751,21 @@ Si vous souhaitez confirmer cette demande, cliquez sur le bouton de confirmation
     </message>
 </context>
 <context>
+    <name>EventNotifier</name>
+    <message>
+        <source>Clear all events</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read next event</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>EventNotifierAction</name>
     <message>
         <source>&lt;Event notifier&gt;</source>
-        <translation>&lt;notification d&apos;évènement&gt;</translation>
+        <translation type="vanished">&lt;notification d&apos;évènement&gt;</translation>
     </message>
 </context>
 <context>
@@ -7862,6 +7873,14 @@ Incoming event(s) from:</source>
     <message>
         <source>Show</source>
         <translation>Afficher</translation>
+    </message>
+    <message>
+        <source>Question</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to clear all events?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12851,7 +12870,7 @@ Cause: %1.</translation>
     </message>
     <message>
         <source>Special item that displays number of pending events</source>
-        <translation>Objet spécial qui montre les évènements en attente</translation>
+        <translation type="vanished">Objet spécial qui montre les évènements en attente</translation>
     </message>
     <message>
         <source>Active contacts</source>
@@ -13989,7 +14008,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation>Notification d&apos;évènements</translation>
+        <translation type="vanished">Notification d&apos;évènements</translation>
     </message>
     <message>
         <source>Auto Status (idle)</source>
@@ -16473,10 +16492,6 @@ Cause: %1</translation>
     </message>
     <message>
         <source>Enable Groups</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Event Notifier</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

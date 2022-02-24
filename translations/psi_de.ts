@@ -3767,10 +3767,21 @@ Wenn Sie die Anforderung zulassen möchten, drücken Sie bitte &lt;bestätigen&g
     </message>
 </context>
 <context>
+    <name>EventNotifier</name>
+    <message>
+        <source>Clear all events</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read next event</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>EventNotifierAction</name>
     <message>
         <source>&lt;Event notifier&gt;</source>
-        <translation>&lt;Ereignisbenachrichtigung&gt;</translation>
+        <translation type="vanished">&lt;Ereignisbenachrichtigung&gt;</translation>
     </message>
 </context>
 <context>
@@ -7958,6 +7969,14 @@ Eingehende(s) Event(s) von:</translation>
     <message>
         <source>Show</source>
         <translation>Einblenden</translation>
+    </message>
+    <message>
+        <source>Question</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to clear all events?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13048,7 +13067,7 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Special item that displays number of pending events</source>
-        <translation>Element, das die Anzahl der wartenden Nachrichten anzeigt</translation>
+        <translation type="vanished">Element, das die Anzahl der wartenden Nachrichten anzeigt</translation>
     </message>
     <message>
         <source>Active contacts</source>
@@ -14198,7 +14217,7 @@ Möchten Sie die Sitzung jetzt aktivieren?</translation>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation>Ereignis-Benachrichtigung</translation>
+        <translation type="vanished">Ereignis-Benachrichtigung</translation>
     </message>
     <message>
         <source>Auto Status (idle)</source>
@@ -16717,7 +16736,7 @@ Grund: %1</translation>
     </message>
     <message>
         <source>Event Notifier</source>
-        <translation>Ereignis-Benachrichtigung</translation>
+        <translation type="vanished">Ereignis-Benachrichtigung</translation>
     </message>
     <message>
         <source>View Groups</source>
