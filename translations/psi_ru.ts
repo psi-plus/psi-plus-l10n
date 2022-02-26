@@ -3780,11 +3780,11 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <name>EventNotifier</name>
     <message>
         <source>Clear all events</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить все события</translation>
     </message>
     <message>
         <source>Read next event</source>
-        <translation type="unfinished"></translation>
+        <translation>Прочитать следующее событие</translation>
     </message>
 </context>
 <context>
@@ -7999,11 +7999,11 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished"></translation>
+        <translation>Вопрос</translation>
     </message>
     <message>
         <source>Are you sure you want to clear all events?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы действительно хотите удалить все события?</translation>
     </message>
 </context>
 <context>
