@@ -8331,6 +8331,17 @@ Etiquetas: %1</translation>
     </message>
 </context>
 <context>
+    <name>NoughtsAndCrossesPlugin</name>
+    <message>
+        <source>Send command: noughtsandcrosses start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi plugin to play noughts and crosses</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OpenPGP</name>
     <message>
         <source>Send GnuPG Public Key</source>
@@ -13629,6 +13640,10 @@ Motivo: %1.</translation>
         <source>Psi is a cross-platform XMPP client designed for experienced users.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Receive next pending event.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiCon</name>
@@ -17662,6 +17677,49 @@ Por favor, corrige y reintenta.</translation>
     <message>
         <source>Alt+S</source>
         <translation>Alt+E</translation>
+    </message>
+</context>
+<context>
+    <name>TicTacToe</name>
+    <message>
+        <source>Opponent starts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play!</source>
+        <translation type="unfinished">¡Jugar!</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation type="unfinished">Salir</translation>
+    </message>
+    <message>
+        <source>Click Play to start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make your move</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Waiting for other player</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You won!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opponent won!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It&apos;s a draw</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

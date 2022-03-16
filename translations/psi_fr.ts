@@ -8284,6 +8284,17 @@ Labels : %1</translation>
     </message>
 </context>
 <context>
+    <name>NoughtsAndCrossesPlugin</name>
+    <message>
+        <source>Send command: noughtsandcrosses start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi plugin to play noughts and crosses</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OAuth2SASLContext</name>
     <message>
         <source>Copy authorization code from opened web page.</source>
@@ -13514,6 +13525,10 @@ Cause: %1.</translation>
         <source>Psi is a cross-platform XMPP client designed for experienced users.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Receive next pending event.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiCon</name>
@@ -17495,6 +17510,49 @@ SVP corrigez et réessayez.</translation>
     <message>
         <source>Alt+S</source>
         <translation>Alt+S</translation>
+    </message>
+</context>
+<context>
+    <name>TicTacToe</name>
+    <message>
+        <source>Opponent starts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play!</source>
+        <translation type="unfinished">Jouer!</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation type="unfinished">Quitter</translation>
+    </message>
+    <message>
+        <source>Click Play to start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make your move</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Waiting for other player</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You won!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opponent won!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It&apos;s a draw</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
