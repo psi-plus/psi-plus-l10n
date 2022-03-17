@@ -8401,11 +8401,11 @@ Tags: %1</source>
     <name>NoughtsAndCrossesPlugin</name>
     <message>
         <source>Send command: noughtsandcrosses start</source>
-        <translation type="unfinished"></translation>
+        <translation>Надішліть команду: noughtsandcrosses start</translation>
     </message>
     <message>
         <source>Psi plugin to play noughts and crosses</source>
-        <translation type="unfinished"></translation>
+        <translation>Плагін Psi для гри в хрестики-нулики</translation>
     </message>
 </context>
 <context>
@@ -13764,7 +13764,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Receive next pending event.</source>
-        <translation type="unfinished"></translation>
+        <translation>Отримати наступну очікувану подію.</translation>
     </message>
 </context>
 <context>
@@ -17826,43 +17826,43 @@ Please correct and try again.</source>
     <name>TicTacToe</name>
     <message>
         <source>Opponent starts</source>
-        <translation type="unfinished"></translation>
+        <translation>Суперник починає</translation>
     </message>
     <message>
         <source>You start</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви починаєте</translation>
     </message>
     <message>
         <source>Play!</source>
-        <translation type="unfinished">Грати!</translation>
+        <translation>Грати!</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Вихід</translation>
     </message>
     <message>
         <source>Click Play to start</source>
-        <translation type="unfinished"></translation>
+        <translation>Натисніть Грати, щоб почати</translation>
     </message>
     <message>
         <source>Make your move</source>
-        <translation type="unfinished"></translation>
+        <translation>Зробіть свій хід</translation>
     </message>
     <message>
         <source>Waiting for other player</source>
-        <translation type="unfinished"></translation>
+        <translation>Чекаємо іншого гравця</translation>
     </message>
     <message>
         <source>You won!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви перемогли!</translation>
     </message>
     <message>
         <source>Opponent won!</source>
-        <translation type="unfinished"></translation>
+        <translation>Суперник переміг!</translation>
     </message>
     <message>
         <source>It&apos;s a draw</source>
-        <translation type="unfinished"></translation>
+        <translation>Нічия</translation>
     </message>
 </context>
 <context>
