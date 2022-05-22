@@ -3754,11 +3754,11 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <name>EventNotifier</name>
     <message>
         <source>Clear all events</source>
-        <translation type="unfinished"></translation>
+        <translation>清除所有事件</translation>
     </message>
     <message>
         <source>Read next event</source>
-        <translation type="unfinished"></translation>
+        <translation>读取下一个事件</translation>
     </message>
 </context>
 <context>
@@ -7963,11 +7963,11 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished"></translation>
+        <translation>问题</translation>
     </message>
     <message>
         <source>Are you sure you want to clear all events?</source>
-        <translation type="unfinished"></translation>
+        <translation>你确定你想清除所有事件吗？</translation>
     </message>
 </context>
 <context>
@@ -8369,11 +8369,11 @@ Tags: %1</source>
     <name>NoughtsAndCrossesPlugin</name>
     <message>
         <source>Send command: noughtsandcrosses start</source>
-        <translation type="unfinished"></translation>
+        <translation>发送命令：noughtsandcrosses start</translation>
     </message>
     <message>
         <source>Psi plugin to play noughts and crosses</source>
-        <translation type="unfinished"></translation>
+        <translation>玩井字棋游戏的 Psi 插件</translation>
     </message>
 </context>
 <context>
@@ -13723,7 +13723,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Receive next pending event.</source>
-        <translation type="unfinished"></translation>
+        <translation>接收下一个待定事件</translation>
     </message>
 </context>
 <context>
@@ -17756,43 +17756,43 @@ Please correct and try again.</source>
     <name>TicTacToe</name>
     <message>
         <source>Opponent starts</source>
-        <translation type="unfinished"></translation>
+        <translation>对手开始</translation>
     </message>
     <message>
         <source>You start</source>
-        <translation type="unfinished"></translation>
+        <translation>你开始</translation>
     </message>
     <message>
         <source>Play!</source>
-        <translation type="unfinished">玩!</translation>
+        <translation>玩!</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished">退出</translation>
+        <translation>退出</translation>
     </message>
     <message>
         <source>Click Play to start</source>
-        <translation type="unfinished"></translation>
+        <translation>点击 Play 开始</translation>
     </message>
     <message>
         <source>Make your move</source>
-        <translation type="unfinished"></translation>
+        <translation>采取行动</translation>
     </message>
     <message>
         <source>Waiting for other player</source>
-        <translation type="unfinished"></translation>
+        <translation>等待其他玩家</translation>
     </message>
     <message>
         <source>You won!</source>
-        <translation type="unfinished"></translation>
+        <translation>你赢了！</translation>
     </message>
     <message>
         <source>Opponent won!</source>
-        <translation type="unfinished"></translation>
+        <translation>对手赢了！</translation>
     </message>
     <message>
         <source>It&apos;s a draw</source>
-        <translation type="unfinished"></translation>
+        <translation>平局</translation>
     </message>
 </context>
 <context>
