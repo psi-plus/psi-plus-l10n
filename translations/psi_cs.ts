@@ -280,7 +280,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Cross-platform XMPP client designed for experienced users.</source>
-        <translation type="unfinished"></translation>
+        <translation>Multiplatformní XMPP klient vyvinutý pro pokročilé uživatele.</translation>
     </message>
 </context>
 <context>
@@ -627,7 +627,7 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
     </message>
     <message>
         <source>Use this proxy server for HTTP file upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Použít tento proxy server pro nahrávání souborů přes HTTP</translation>
     </message>
 </context>
 <context>
@@ -722,7 +722,7 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
     </message>
     <message>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaškrtni tuto volbu, aby se použilo šifrované spojení SSL na XMPP server.  Tuto volbu můžes použít pokud ji tvůj server podporuje a pokud máš nainstalovaný potřebný zásuvný modul pro qca-ossl.  Pro více informací se podívej na domovskou stránku Psí.</translation>
     </message>
     <message>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
@@ -3763,11 +3763,11 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
     <name>EventNotifier</name>
     <message>
         <source>Clear all events</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyčistit všechny události</translation>
     </message>
     <message>
         <source>Read next event</source>
-        <translation type="unfinished"></translation>
+        <translation>Přečíst další událost</translation>
     </message>
 </context>
 <context>
@@ -5501,7 +5501,7 @@ Hra je prohraná.</translation>
     </message>
     <message>
         <source>Show technical kicks</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit technická vyhození</translation>
     </message>
 </context>
 <context>
@@ -7560,15 +7560,15 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>&amp;General</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Obecné</translation>
     </message>
     <message>
         <source>&amp;Affiliations</source>
-        <translation type="unfinished"></translation>
+        <translation>Př&amp;iřazení</translation>
     </message>
     <message>
         <source>&amp;Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Profil</translation>
     </message>
 </context>
 <context>
@@ -7932,11 +7932,11 @@ Příchozí událost(i) od:</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished"></translation>
+        <translation>Otázka</translation>
     </message>
     <message>
         <source>Are you sure you want to clear all events?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jsi si jistý, že chceš vymazat všechny události?</translation>
     </message>
 </context>
 <context>
@@ -8141,11 +8141,11 @@ Detaily: %1</translation>
     </message>
     <message>
         <source>&amp;General</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Obecné</translation>
     </message>
     <message>
         <source>&amp;Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Profil</translation>
     </message>
 </context>
 <context>
@@ -8339,11 +8339,11 @@ Tagy: %1</translation>
     <name>NoughtsAndCrossesPlugin</name>
     <message>
         <source>Send command: noughtsandcrosses start</source>
-        <translation type="unfinished"></translation>
+        <translation>Poslat příkaz: noughtsandcrosses start</translation>
     </message>
     <message>
         <source>Psi plugin to play noughts and crosses</source>
-        <translation type="unfinished"></translation>
+        <translation>Zásuvný modul pro hrání mlýna pro Psí</translation>
     </message>
 </context>
 <context>
@@ -10404,7 +10404,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Automatically assign known keys to contacts with signed presences and no assigned keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Automaticky přiřadit známé klíče ke kontaktům s podepsanou přítomností a žádnými klíči</translation>
     </message>
     <message>
         <source>Show PGP info in tooltips for contacts in roster</source>
@@ -10412,7 +10412,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Automatically import PGP key from the message body</source>
-        <translation type="unfinished"></translation>
+        <translation>Automaticky importovat PGP klíč z těla zprávy</translation>
     </message>
     <message>
         <source>Do not show messages with PGP keys</source>
@@ -10480,7 +10480,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt; This option affects all programs which use gpg-agent in your system!</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Pozor!&lt;/b&gt; Tato volba ovlivňuje všechny programy které ve tvém systému používají gpg-agent!</translation>
     </message>
     <message>
         <source>Ask password confirmation each</source>
@@ -12350,7 +12350,9 @@ Používej pouze písmena a číslice.  Nepoužívej interpunkci nebo mezery.</t
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
 &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;qt&gt;Čistě preventivně, naposledy se ptám, jestli toto je to, co chceš opravdu udělat.  Následující složky budou smazány!&lt;br&gt;&lt;br&gt;
+&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+Pokračovat?</translation>
     </message>
     <message>
         <source>Unable to delete the folders completely.  Ensure you have the proper permission.</source>
@@ -13699,11 +13701,11 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Psi is a cross-platform XMPP client designed for experienced users.</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi je multiplatformní XMPP klient zaměřený na pokročilé uživatele.</translation>
     </message>
     <message>
         <source>Receive next pending event.</source>
-        <translation type="unfinished"></translation>
+        <translation>Přijmout další čekající událost.</translation>
     </message>
 </context>
 <context>
@@ -17733,43 +17735,43 @@ Opravte ho a zkuste to znovu.</translation>
     <name>TicTacToe</name>
     <message>
         <source>Opponent starts</source>
-        <translation type="unfinished"></translation>
+        <translation>Soupeř začíná</translation>
     </message>
     <message>
         <source>You start</source>
-        <translation type="unfinished"></translation>
+        <translation>Ty začínáš</translation>
     </message>
     <message>
         <source>Play!</source>
-        <translation type="unfinished">Hrát!</translation>
+        <translation>Hrát!</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukončit</translation>
     </message>
     <message>
         <source>Click Play to start</source>
-        <translation type="unfinished"></translation>
+        <translation>Stiskni Hrát pro start</translation>
     </message>
     <message>
         <source>Make your move</source>
-        <translation type="unfinished"></translation>
+        <translation>Táhni</translation>
     </message>
     <message>
         <source>Waiting for other player</source>
-        <translation type="unfinished"></translation>
+        <translation>Čekání na druhého hráče</translation>
     </message>
     <message>
         <source>You won!</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyhrál jsi!</translation>
     </message>
     <message>
         <source>Opponent won!</source>
-        <translation type="unfinished"></translation>
+        <translation>Soupeř vyhrál!</translation>
     </message>
     <message>
         <source>It&apos;s a draw</source>
-        <translation type="unfinished"></translation>
+        <translation>Remíza</translation>
     </message>
 </context>
 <context>
@@ -18724,7 +18726,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>vCard</source>
-        <translation type="unfinished">Vizitka</translation>
+        <translation>Vizitka</translation>
     </message>
 </context>
 <context>
@@ -18735,7 +18737,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>No vCard available</source>
-        <translation type="unfinished"></translation>
+        <translation>Žádná vizitka k dispozici</translation>
     </message>
 </context>
 <context>
@@ -19823,7 +19825,7 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     </message>
     <message>
         <source>For further information, see &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pro další informace se podívej na &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</translation>
     </message>
     <message>
         <source>Off-the-Record Messaging (OTR) is a cryptographic protocol that provides encryption for instant messaging conversations. In addition to authentication and encryption, OTR provides forward secrecy and malleable encryption.</source>
@@ -19847,23 +19849,23 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     </message>
     <message>
         <source>* No support of offline messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>* Žádná podpora pro offline zprávy.</translation>
     </message>
     <message>
         <source>* No support of carbon copies to other XMPP resources.</source>
-        <translation type="unfinished"></translation>
+        <translation>* Žádná podpora pro kopie dalším XMPP zdrojům.</translation>
     </message>
     <message>
         <source>* No support of multi-user chats.</source>
-        <translation type="unfinished"></translation>
+        <translation>* Žádná podpora pro víceuživatelské chaty.</translation>
     </message>
     <message>
         <source>* No support of file transfer.</source>
-        <translation type="unfinished"></translation>
+        <translation>* Žádná podpora pro přenos souborů.</translation>
     </message>
     <message>
         <source>OTR provides the following guarantees:</source>
-        <translation type="unfinished"></translation>
+        <translation>OTR poskytuje následující garance:</translation>
     </message>
     <message>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages (s)he sees are authentic and unmodified.</source>
