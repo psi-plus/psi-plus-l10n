@@ -277,10 +277,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation>Psiについて</translation>
     </message>
     <message>
-        <source>Cross-platform XMPP client aimed at experienced users.</source>
-        <translation type="vanished">上級ユーザーを対象にしたクロスプラットホームなXMPPクライアント。</translation>
-    </message>
-    <message>
         <source>Cross-platform XMPP client designed for experienced users.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11128,7 +11124,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Add new server</source>
-        <translation type="unfinished"></translation>
+        <translation>新しいサーバーを追加</translation>
     </message>
     <message>
         <source>Add</source>
@@ -17156,11 +17152,11 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>Play!</source>
-        <translation type="unfinished">開始!</translation>
+        <translation>開始!</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished">終了</translation>
+        <translation>終了</translation>
     </message>
     <message>
         <source>Click Play to start</source>
@@ -17337,7 +17333,11 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>こんにちは! Psiをダウンロードしてくれてありがとう!
+私たちは皆さんにPsiを楽しんで使ってもらえるように、私たちも楽しみながら開発をしています!
+&lt;br&gt;&lt;br&gt;他の言語パックやアイコン集、Psiの最新バージョンをダウンロードしたい場合はこちらを見てください &lt;a href=&quot;https://psi-im.org&quot;&gt;Psiホームページ&lt;/a&gt;。
+&lt;br&gt;&lt;br&gt;バグを見つけたり、その他のPsiユーザー達と会話したいと思った時はこちらを見てください &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psiフォーラム&lt;/a&gt;。
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;Psiチームより&lt;/i&gt;&lt;/div&gt;</translation>
     </message>
     <message>
         <source>This is the last tip.
@@ -18117,7 +18117,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>vCard</source>
-        <translation type="unfinished">vCard</translation>
+        <translation>vCard</translation>
     </message>
 </context>
 <context>
