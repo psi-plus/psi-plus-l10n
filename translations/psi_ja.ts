@@ -12822,11 +12822,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Psi+ Forum (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi+フォーラム(オンライン)</translation>
     </message>
     <message>
         <source>Psi+ &amp;Forum (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi+フォーラム(オンライン)(&amp;F)</translation>
     </message>
     <message>
         <source>Join Psi+ Discussion Room (Online)</source>
@@ -12835,6 +12835,14 @@ Reason: %1.</source>
     <message>
         <source>&amp;Join Psi+ Discussion Room (Online)</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check for Updates...</source>
+        <translation type="vanished">更新を確認する...</translation>
+    </message>
+    <message>
+        <source>&amp;Check for Updates...</source>
+        <translation type="vanished">更新を確認する...(&amp;C)</translation>
     </message>
     <message>
         <source>Report a Bug (Online)</source>
@@ -12974,11 +12982,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Psiフォーラム(オンライン)</translation>
     </message>
     <message>
         <source>Psi &amp;Forum (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Psiフォーラム(オンライン)(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;Join Psi Discussion Room (Online)</source>
@@ -15375,7 +15383,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Transferring</source>
-        <translation type="unfinished"></translation>
+        <translation>転送中</translation>
     </message>
     <message>
         <source>Open Files For Sharing</source>
@@ -16256,7 +16264,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Psiフォーラム(オンライン)</translation>
     </message>
     <message>
         <source>Open Help</source>
