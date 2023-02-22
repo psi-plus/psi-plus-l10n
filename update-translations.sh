@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@yandex.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2021-02-01
+# Updated: 2023-02-23
 # Version: N/A
 
 set -e
@@ -100,7 +100,7 @@ case "${1}" in
     git status
 
     cd "${LANG_DIR}"
-    tx pull -a -s
+    tx pull
 
     cd "${LANG_DIR}/translations/psi-plus.full/"
     cp *.ts "${CUR_DIR}/translations/"
@@ -238,7 +238,8 @@ case "${1}" in
         mkdir -p "${MAIN_DIR}/psi-plus-l10n_transifex/.tx"
         cp "transifex.config" "${MAIN_DIR}/psi-plus-l10n_transifex/.tx/config"
         cd "${MAIN_DIR}/psi-plus-l10n_transifex"
-        tx pull -a -s
+        tx pull -s
+        tx pull -a
     fi
 
 ;;
