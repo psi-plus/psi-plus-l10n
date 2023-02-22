@@ -3095,10 +3095,6 @@ Da nastavim?</translation>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation>Ovaj dodatak kreiran je da napravi lako preuzimanje i instaliranje seta ikona i drugih resursa za Psi+.</translation>
     </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">E-pošta:</translation>
-    </message>
 </context>
 <context>
     <name>CreateGroupDlg</name>
@@ -5683,10 +5679,6 @@ Napomena: Ovaj dodatak provera  vaš Inbox folder u vašem Gmailbox-u za nove po
         <source>Send GnuPG Public Key</source>
         <translation type="vanished">Pošalji GnuPG javni ključ</translation>
     </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">E-pošta:</translation>
-    </message>
 </context>
 <context>
     <name>GomokuGame::InvitationDialog</name>
@@ -6650,7 +6642,7 @@ Napomena: Da bi radili ispravno, opcija options.ui.chat.central-toolbar mora bit
     <name>ImagePreviewOptions</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Forma</translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <source>Maximum image size</source>
@@ -7583,11 +7575,11 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Add to bookmarks</source>
-        <translation type="unfinished">Dodaj u označeno</translation>
+        <translation>Dodaj u označeno</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukloni</translation>
     </message>
 </context>
 <context>
@@ -7855,10 +7847,6 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
         <translation type="vanished">e-pošta</translation>
     </message>
     <message>
-        <source>Email: </source>
-        <translation type="vanished">E-pošta:</translation>
-    </message>
-    <message>
         <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7982,11 +7970,11 @@ Detalji: %1</translation>
     <name>MucInfo</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Dijalog</translation>
+        <translation>Dijalog</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished">Nalog:</translation>
+        <translation>Nalog:</translation>
     </message>
     <message>
         <source>ID:</source>
@@ -7994,11 +7982,11 @@ Detalji: %1</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ime:</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished">Opis:</translation>
+        <translation>Opis:</translation>
     </message>
     <message>
         <source>&amp;General</source>
@@ -8208,13 +8196,6 @@ Kartice: %1</translation>
     </message>
 </context>
 <context>
-    <name>OpenPGP</name>
-    <message>
-        <source>Send GnuPG Public Key</source>
-        <translation type="obsolete">Pošalji GnuPG javni ključ</translation>
-    </message>
-</context>
-<context>
     <name>OpenPgpMessaging</name>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
@@ -8277,38 +8258,38 @@ Reason: %1.</source>
     <name>OpenPgpPluginNamespace::GpgProcess</name>
     <message>
         <source>Can&apos;t start </source>
-        <translation type="unfinished">Ne mogu početi</translation>
+        <translation>Ne mogu početi</translation>
     </message>
     <message>
         <source>GnuPG program not found</source>
-        <translation type="unfinished">GnuPG program nije pronađen</translation>
+        <translation>GnuPG program nije pronađen</translation>
     </message>
 </context>
 <context>
     <name>OpenPgpPluginNamespace::PGPKeyDlg</name>
     <message>
         <source>&amp;Diagnostics</source>
-        <translation type="unfinished">&amp;Dijagnoze</translation>
+        <translation>&amp;Dijagnoze</translation>
     </message>
     <message>
         <source>Key ID</source>
-        <translation type="unfinished">Key ID</translation>
+        <translation>Key ID</translation>
     </message>
     <message>
         <source>User ID</source>
-        <translation type="unfinished">Korisnik ID</translation>
+        <translation>Korisnik ID</translation>
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation type="unfinished">GnuPG info</translation>
+        <translation>GnuPG info</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Greška</translation>
+        <translation>Greška</translation>
     </message>
     <message>
         <source>Please select a key.</source>
-        <translation type="unfinished">Molim, odaberite ključ.</translation>
+        <translation>Molim, odaberite ključ.</translation>
     </message>
 </context>
 <context>
@@ -9187,11 +9168,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Place avatars at left</source>
-        <translation type="unfinished">Postavi avatare levo</translation>
+        <translation>Postavi avatare levo</translation>
     </message>
     <message>
         <source>Place status icon over avatar</source>
-        <translation type="unfinished">Podesi statusnu ikonu preko avatara</translation>
+        <translation>Podesi statusnu ikonu preko avatara</translation>
     </message>
 </context>
 <context>
@@ -10146,11 +10127,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Select &amp;Key...</source>
-        <translation type="unfinished">Odaberite &amp;ključ ...</translation>
+        <translation>Odaberite &amp;ključ ...</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">Konfiguracija</translation>
+        <translation>Konfiguracija</translation>
     </message>
     <message>
         <source>OpenPGP encryption policy</source>
@@ -10186,11 +10167,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">Kopiraj otisak</translation>
+        <translation>Kopiraj otisak</translation>
     </message>
     <message>
         <source>&amp;Diagnostics</source>
-        <translation type="unfinished">&amp;Dijagnoze</translation>
+        <translation>&amp;Dijagnoze</translation>
     </message>
     <message>
         <source>Known Keys</source>
@@ -10198,35 +10179,35 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Nalog</translation>
+        <translation>Nalog</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">Korisnik</translation>
+        <translation>Korisnik</translation>
     </message>
     <message>
         <source>Key ID</source>
-        <translation type="unfinished">Key ID</translation>
+        <translation>Key ID</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Otisak</translation>
+        <translation>Otisak</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
-        <translation type="unfinished">Da li ste sigurni da želite da obrišete ključ?</translation>
+        <translation>Da li ste sigurni da želite da obrišete ključ?</translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="unfinished"></translation>
+        <translation>Nalog</translation>
     </message>
     <message>
         <source>User: </source>
-        <translation type="unfinished"></translation>
+        <translation>Korisnik:</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished">Otisak:</translation>
+        <translation>Otisak:</translation>
     </message>
     <message>
         <source>Confirm action</source>
@@ -10238,7 +10219,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>User ID</source>
-        <translation type="unfinished">Korisnik ID</translation>
+        <translation>Korisnik ID</translation>
     </message>
     <message>
         <source>gpg-agent configuration</source>
@@ -10262,7 +10243,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Upozorenje</translation>
     </message>
     <message>
         <source>Attempt to save gpg-agent config is failed! Check that you have write permission for file:
@@ -10861,7 +10842,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Authors</source>
-        <translation type="unfinished">Autori</translation>
+        <translation>Autori</translation>
     </message>
     <message>
         <source>Plugin Path</source>
@@ -13213,6 +13194,14 @@ Details: %1</source>
         <source>Set Topic</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Manage Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Manage Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -13316,7 +13305,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Command</source>
-        <translation type="unfinished">Komanda</translation>
+        <translation>Komanda</translation>
     </message>
 </context>
 <context>
@@ -13815,7 +13804,7 @@ Would you like to activate that session now?</source>
     <name>PsiMediaPlugin</name>
     <message>
         <source>Thanks To</source>
-        <translation type="unfinished">Zahvaljujući</translation>
+        <translation>Zahvaljujući</translation>
     </message>
     <message>
         <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
@@ -14041,15 +14030,15 @@ Would you like to activate that session now?</source>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Opcije</translation>
+        <translation>Opcije</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished">Na vezi</translation>
+        <translation>Na vezi</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Nepovezan</translation>
+        <translation>Nepovezan</translation>
     </message>
     <message>
         <source>Show Next Event</source>
@@ -15651,7 +15640,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Audio and video device configuration</source>
-        <translation type="unfinished">Konfiguracija audio i video uredjaja</translation>
+        <translation>Konfiguracija audio i video uredjaja</translation>
     </message>
 </context>
 <context>
@@ -17387,11 +17376,11 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>Play!</source>
-        <translation type="unfinished">Emituj!</translation>
+        <translation>Emituj!</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Napusti</translation>
     </message>
     <message>
         <source>Click Play to start</source>
@@ -17468,18 +17457,6 @@ Please correct and try again.</source>
 <context>
     <name>TipDlg</name>
     <message>
-        <source>Contributed by</source>
-        <translation>Priložio</translation>
-    </message>
-    <message>
-        <source>Hello! Thank you for downloading Psi!
-We hope that you will enjoy using it as we have enjoyed making it!
-&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17551,6 +17528,18 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contributed by</source>
+        <translation>Priložio</translation>
+    </message>
+    <message>
+        <source>Hello! Thank you for downloading Psi!
+We hope that you will enjoy using it as we have enjoyed making it!
+&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18345,7 +18334,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>vCard</source>
-        <translation type="unfinished">vKartica</translation>
+        <translation>vKartica</translation>
     </message>
 </context>
 <context>
@@ -18666,7 +18655,7 @@ Do you still want to close the window?</source>
     <name>psiomemo::ConfigWidget</name>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">Konfiguracija</translation>
+        <translation>Konfiguracija</translation>
     </message>
     <message>
         <source>Known Keys</source>
@@ -18709,7 +18698,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">Korisnik</translation>
+        <translation>Korisnik</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -18717,7 +18706,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">Kopiraj otisak</translation>
+        <translation>Kopiraj otisak</translation>
     </message>
 </context>
 <context>
@@ -18774,7 +18763,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">Kopiraj otisak</translation>
+        <translation>Kopiraj otisak</translation>
     </message>
 </context>
 <context>
@@ -18802,14 +18791,6 @@ Do you still want to close the window?</source>
 </context>
 <context>
     <name>psiomemo::OMEMOPlugin</name>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">E-pošta:</translation>
-    </message>
     <message>
         <source>Credits: </source>
         <translation type="unfinished"></translation>
@@ -18876,7 +18857,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="unfinished">Autentifikacija</translation>
+        <translation>Autentifikacija</translation>
     </message>
     <message>
         <source>Every peer is able to authenticate the sender or receiver of a message.</source>
@@ -19197,7 +19178,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
-        <translation type="unfinished">Da li ste sigurni da želite da obrišete ključ?</translation>
+        <translation>Da li ste sigurni da želite da obrišete ključ?</translation>
     </message>
     <message>
         <source>Confirm action</source>

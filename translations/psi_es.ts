@@ -3127,10 +3127,6 @@ Proceed?</source>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation>Este plugin está diseñado para hacer fácil la descarga e instalación de iconos y otros recursos para Psi+.</translation>
     </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email:</translation>
-    </message>
 </context>
 <context>
     <name>Crash::CrashDialog</name>
@@ -5794,10 +5790,6 @@ Nota: El complemento solo comprueba si hay nuevos mensajes en la raíz de la ban
         <source>Public key %1 sent</source>
         <translation type="vanished">Llave pública %1 enviada</translation>
     </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email:</translation>
-    </message>
 </context>
 <context>
     <name>GomokuGame::InvitationDialog</name>
@@ -6780,7 +6772,7 @@ Nota: Para su correcto funcionamiento, la opción options.ui.chat.central-toolba
     <name>ImagePreviewOptions</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Maximum image size</source>
@@ -7715,11 +7707,11 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Add to bookmarks</source>
-        <translation type="unfinished">Añadir a marcadores</translation>
+        <translation>Añadir a marcadores</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Eliminar</translation>
+        <translation>Eliminar</translation>
     </message>
 </context>
 <context>
@@ -7990,10 +7982,6 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
         <translation type="vanished">Correo: </translation>
     </message>
     <message>
-        <source>Email: </source>
-        <translation type="vanished">Email:</translation>
-    </message>
-    <message>
         <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8116,11 +8104,11 @@ Detalles: %1</translation>
     <name>MucInfo</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Diálogo</translation>
+        <translation>Diálogo</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished">Cuenta:</translation>
+        <translation>Cuenta:</translation>
     </message>
     <message>
         <source>ID:</source>
@@ -8128,11 +8116,11 @@ Detalles: %1</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Nombre:</translation>
+        <translation>Nombre:</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished">Descripción:</translation>
+        <translation>Descripción:</translation>
     </message>
     <message>
         <source>&amp;General</source>
@@ -8342,13 +8330,6 @@ Etiquetas: %1</translation>
     </message>
 </context>
 <context>
-    <name>OpenPGP</name>
-    <message>
-        <source>Send GnuPG Public Key</source>
-        <translation type="obsolete">Enviar llave pública GnuPG</translation>
-    </message>
-</context>
-<context>
     <name>OpenPgpMessaging</name>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
@@ -8357,7 +8338,7 @@ Etiquetas: %1</translation>
     <message>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
-        <translation type="unfinished">Ha ocurrido un error al intentar firmar tu estado.
+        <translation>Ha ocurrido un error al intentar firmar tu estado.
 Motivo: %1.</translation>
     </message>
 </context>
@@ -8412,38 +8393,38 @@ Motivo: %1.</translation>
     <name>OpenPgpPluginNamespace::GpgProcess</name>
     <message>
         <source>Can&apos;t start </source>
-        <translation type="unfinished">No se puede iniciar </translation>
+        <translation>No se puede iniciar </translation>
     </message>
     <message>
         <source>GnuPG program not found</source>
-        <translation type="unfinished">Programa GnuPG no encontrado</translation>
+        <translation>Programa GnuPG no encontrado</translation>
     </message>
 </context>
 <context>
     <name>OpenPgpPluginNamespace::PGPKeyDlg</name>
     <message>
         <source>&amp;Diagnostics</source>
-        <translation type="unfinished">&amp;Diagnósticos</translation>
+        <translation>&amp;Diagnósticos</translation>
     </message>
     <message>
         <source>Key ID</source>
-        <translation type="unfinished">Identificador llave</translation>
+        <translation>Identificador llave</translation>
     </message>
     <message>
         <source>User ID</source>
-        <translation type="unfinished">Identificador de usuario</translation>
+        <translation>Identificador de usuario</translation>
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation type="unfinished">Información GnuPG</translation>
+        <translation>Información GnuPG</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <source>Please select a key.</source>
-        <translation type="unfinished">Seleccione una clave.</translation>
+        <translation>Seleccione una clave.</translation>
     </message>
 </context>
 <context>
@@ -9322,11 +9303,11 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Place avatars at left</source>
-        <translation type="unfinished">Ubicar avatares a la izquierda</translation>
+        <translation>Ubicar avatares a la izquierda</translation>
     </message>
     <message>
         <source>Place status icon over avatar</source>
-        <translation type="unfinished">Ubicar icono de estado sobre el avatar</translation>
+        <translation>Ubicar icono de estado sobre el avatar</translation>
     </message>
 </context>
 <context>
@@ -9405,7 +9386,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Place groupchat roster at left</source>
-        <translation type="unfinished">Colocar la lista de usuarios de la sala a la izquierda.</translation>
+        <translation>Colocar la lista de usuarios de la sala a la izquierda.</translation>
     </message>
 </context>
 <context>
@@ -10339,11 +10320,11 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>Select &amp;Key...</source>
-        <translation type="unfinished">Seleccionar &amp;llave...</translation>
+        <translation>Seleccionar &amp;llave...</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">Configuración</translation>
+        <translation>Configuración</translation>
     </message>
     <message>
         <source>OpenPGP encryption policy</source>
@@ -10379,11 +10360,11 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">Copiar huella</translation>
+        <translation>Copiar huella</translation>
     </message>
     <message>
         <source>&amp;Diagnostics</source>
-        <translation type="unfinished">&amp;Diagnósticos</translation>
+        <translation>&amp;Diagnósticos</translation>
     </message>
     <message>
         <source>Known Keys</source>
@@ -10391,35 +10372,35 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Cuenta</translation>
+        <translation>Cuenta</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">Usuario</translation>
+        <translation>Usuario</translation>
     </message>
     <message>
         <source>Key ID</source>
-        <translation type="unfinished">Identificador llave</translation>
+        <translation>Identificador llave</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Huella</translation>
+        <translation>Huella</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
-        <translation type="unfinished">¿Estás seguro que deseas borrar la siguiente llave?</translation>
+        <translation>¿Estás seguro que deseas borrar la siguiente llave?</translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="unfinished">Cuenta: </translation>
+        <translation>Cuenta: </translation>
     </message>
     <message>
         <source>User: </source>
-        <translation type="unfinished"></translation>
+        <translation>Usuario:</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished">Huella: </translation>
+        <translation>Huella: </translation>
     </message>
     <message>
         <source>Confirm action</source>
@@ -10431,7 +10412,7 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>User ID</source>
-        <translation type="unfinished">Identificador de usuario</translation>
+        <translation>Identificador de usuario</translation>
     </message>
     <message>
         <source>gpg-agent configuration</source>
@@ -10455,7 +10436,7 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Advertencia</translation>
     </message>
     <message>
         <source>Attempt to save gpg-agent config is failed! Check that you have write permission for file:
@@ -11060,7 +11041,7 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>Authors</source>
-        <translation type="unfinished">Autores</translation>
+        <translation>Autores</translation>
     </message>
     <message>
         <source>Plugin Path</source>
@@ -13434,6 +13415,14 @@ Motivo: %1.</translation>
         <source>Set Topic</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Manage Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Manage Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -13537,7 +13526,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Command</source>
-        <translation type="unfinished">Comando</translation>
+        <translation>Comando</translation>
     </message>
 </context>
 <context>
@@ -14040,7 +14029,7 @@ Quieres activar esa sesión ahora?</translation>
     <name>PsiMediaPlugin</name>
     <message>
         <source>Thanks To</source>
-        <translation type="unfinished">Agradecimientos</translation>
+        <translation>Agradecimientos</translation>
     </message>
     <message>
         <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
@@ -14274,15 +14263,15 @@ Quieres activar esa sesión ahora?</translation>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Opciones</translation>
+        <translation>Opciones</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished">Conectado</translation>
+        <translation>Conectado</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Desconectado</translation>
+        <translation>Desconectado</translation>
     </message>
     <message>
         <source>Show Next Event</source>
@@ -15909,7 +15898,7 @@ Gracias por tu paciencia.</translation>
     </message>
     <message>
         <source>Audio and video device configuration</source>
-        <translation type="unfinished">Configuración de los dispositivos de audio y vídeo</translation>
+        <translation>Configuración de los dispositivos de audio y vídeo</translation>
     </message>
 </context>
 <context>
@@ -17691,11 +17680,11 @@ Por favor, corrige y reintenta.</translation>
     </message>
     <message>
         <source>Play!</source>
-        <translation type="unfinished">¡Jugar!</translation>
+        <translation>¡Jugar!</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished">Salir</translation>
+        <translation>Salir</translation>
     </message>
     <message>
         <source>Click Play to start</source>
@@ -18688,7 +18677,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>vCard</source>
-        <translation type="unfinished">vCard</translation>
+        <translation>vCard</translation>
     </message>
 </context>
 <context>
@@ -19037,7 +19026,7 @@ Do you still want to close the window?</source>
     <name>psiomemo::ConfigWidget</name>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">Configuración</translation>
+        <translation>Configuración</translation>
     </message>
     <message>
         <source>Known Keys</source>
@@ -19080,7 +19069,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">Usuario</translation>
+        <translation>Usuario</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -19088,7 +19077,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">Copiar huella</translation>
+        <translation>Copiar huella</translation>
     </message>
 </context>
 <context>
@@ -19145,7 +19134,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">Copiar huella</translation>
+        <translation>Copiar huella</translation>
     </message>
 </context>
 <context>
@@ -19173,14 +19162,6 @@ Do you still want to close the window?</source>
 </context>
 <context>
     <name>psiomemo::OMEMOPlugin</name>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email:</translation>
-    </message>
     <message>
         <source>Credits: </source>
         <translation type="unfinished"></translation>
@@ -19239,7 +19220,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Perfect forward secrecy</source>
-        <translation type="unfinished">Confidencialidad directa perfecta</translation>
+        <translation>Confidencialidad directa perfecta</translation>
     </message>
     <message>
         <source>Compromised key material does not compromise previous or future message exchanges.</source>
@@ -19247,7 +19228,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="unfinished">Autenticación</translation>
+        <translation>Autenticación</translation>
     </message>
     <message>
         <source>Every peer is able to authenticate the sender or receiver of a message.</source>
@@ -19578,7 +19559,7 @@ Deberías autenticar a %1 del mismo modo haciéndole una pregunta.</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
-        <translation type="unfinished">¿Estás seguro que deseas borrar la siguiente llave?</translation>
+        <translation>¿Estás seguro que deseas borrar la siguiente llave?</translation>
     </message>
     <message>
         <source>Confirm action</source>

@@ -3125,10 +3125,6 @@ Continuer ?</translation>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation>Ce greffon facilite le téléchargement et l&apos;installation de jeux d&apos;icônes et autres ressources pour Psi+.</translation>
     </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Courriel :</translation>
-    </message>
 </context>
 <context>
     <name>Crash::CrashDialog</name>
@@ -5759,10 +5755,6 @@ Vous avez perdu.</translation>
         <source>Public key %1 sent</source>
         <translation type="vanished">Clé publique %1 envoyée</translation>
     </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Courriel :</translation>
-    </message>
 </context>
 <context>
     <name>GomokuGame::InvitationDialog</name>
@@ -6706,11 +6698,11 @@ Note : Afin de fonctionner correctement, l&apos;option options.ui.chat.central-t
     <name>ImagePreviewOptions</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Formulaire</translation>
+        <translation>Formulaire</translation>
     </message>
     <message>
         <source>Maximum image size</source>
-        <translation type="unfinished">Taille maximum de l&apos;image</translation>
+        <translation>Taille maximum de l&apos;image</translation>
     </message>
     <message>
         <source>Image preview size in pixels</source>
@@ -6726,23 +6718,23 @@ Note : Afin de fonctionner correctement, l&apos;option options.ui.chat.central-t
     </message>
     <message>
         <source>512 Kb</source>
-        <translation type="unfinished">512 Kb</translation>
+        <translation>512 Kb</translation>
     </message>
     <message>
         <source>1 Mb</source>
-        <translation type="unfinished">1 Mb</translation>
+        <translation>1 Mb</translation>
     </message>
     <message>
         <source>2 Mb</source>
-        <translation type="unfinished">2 Mb</translation>
+        <translation>2 Mb</translation>
     </message>
     <message>
         <source>5 Mb</source>
-        <translation type="unfinished">5 Mb</translation>
+        <translation>5 Mb</translation>
     </message>
     <message>
         <source>10 Mb</source>
-        <translation type="unfinished">10 Mb</translation>
+        <translation>10 Mb</translation>
     </message>
 </context>
 <context>
@@ -7667,11 +7659,11 @@ Cause: %1</translation>
     </message>
     <message>
         <source>Add to bookmarks</source>
-        <translation type="unfinished">Ajouter aux favoris</translation>
+        <translation>Ajouter aux favoris</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer</translation>
     </message>
 </context>
 <context>
@@ -7943,10 +7935,6 @@ Russie, Tambov, 2005 (denis@silversoft.net)</translation>
         <translation type="vanished">Courriel :</translation>
     </message>
     <message>
-        <source>Email: </source>
-        <translation type="vanished">Courriel :</translation>
-    </message>
-    <message>
         <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8069,11 +8057,11 @@ Détails : %1</translation>
     <name>MucInfo</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Dialogue</translation>
+        <translation>Dialogue</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished">Compte:</translation>
+        <translation>Compte:</translation>
     </message>
     <message>
         <source>ID:</source>
@@ -8081,11 +8069,11 @@ Détails : %1</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>Description :</translation>
     </message>
     <message>
         <source>&amp;General</source>
@@ -8306,13 +8294,6 @@ Labels : %1</translation>
     </message>
 </context>
 <context>
-    <name>OpenPGP</name>
-    <message>
-        <source>Send GnuPG Public Key</source>
-        <translation type="obsolete">Envoyer la clé publique GnuPG</translation>
-    </message>
-</context>
-<context>
     <name>OpenPgpMessaging</name>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
@@ -8321,7 +8302,7 @@ Labels : %1</translation>
     <message>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
-        <translation type="unfinished">Il y a eu une erreur lors de la signature de votre état.
+        <translation>Il y a eu une erreur lors de la signature de votre état.
 Cause: %1.</translation>
     </message>
 </context>
@@ -8380,34 +8361,34 @@ Cause: %1.</translation>
     </message>
     <message>
         <source>GnuPG program not found</source>
-        <translation type="unfinished">GnuPG non détecté</translation>
+        <translation>GnuPG non détecté</translation>
     </message>
 </context>
 <context>
     <name>OpenPgpPluginNamespace::PGPKeyDlg</name>
     <message>
         <source>&amp;Diagnostics</source>
-        <translation type="unfinished">&amp;Diagnostics</translation>
+        <translation>&amp;Diagnostics</translation>
     </message>
     <message>
         <source>Key ID</source>
-        <translation type="unfinished">Identifiant de clé</translation>
+        <translation>Identifiant de clé</translation>
     </message>
     <message>
         <source>User ID</source>
-        <translation type="unfinished">Identifiant de l&apos;utilisateur</translation>
+        <translation>Identifiant de l&apos;utilisateur</translation>
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation type="unfinished">info GnuPG</translation>
+        <translation>info GnuPG</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Erreur</translation>
+        <translation>Erreur</translation>
     </message>
     <message>
         <source>Please select a key.</source>
-        <translation type="unfinished">Sélectionnez une clé SVP.</translation>
+        <translation>Sélectionnez une clé SVP.</translation>
     </message>
 </context>
 <context>
@@ -9294,11 +9275,11 @@ Cause: %1.</translation>
     </message>
     <message>
         <source>Place avatars at left</source>
-        <translation type="unfinished">Placer les avatars à gauche</translation>
+        <translation>Placer les avatars à gauche</translation>
     </message>
     <message>
         <source>Place status icon over avatar</source>
-        <translation type="unfinished">Afficher l&apos;icône de statut au-dessus de l&apos;avatar</translation>
+        <translation>Afficher l&apos;icône de statut au-dessus de l&apos;avatar</translation>
     </message>
 </context>
 <context>
@@ -9377,7 +9358,7 @@ Cause: %1.</translation>
     </message>
     <message>
         <source>Place groupchat roster at left</source>
-        <translation type="unfinished">Afficher la liste des participants au salon à gauche</translation>
+        <translation>Afficher la liste des participants au salon à gauche</translation>
     </message>
 </context>
 <context>
@@ -10241,11 +10222,11 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>Select &amp;Key...</source>
-        <translation type="unfinished">Selectionner une &amp;Clé...</translation>
+        <translation>Selectionner une &amp;Clé...</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">Configuration</translation>
+        <translation>Configuration</translation>
     </message>
     <message>
         <source>OpenPGP encryption policy</source>
@@ -10281,11 +10262,11 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">Copier l&apos;empreinte</translation>
+        <translation>Copier l&apos;empreinte</translation>
     </message>
     <message>
         <source>&amp;Diagnostics</source>
-        <translation type="unfinished">&amp;Diagnostics</translation>
+        <translation>&amp;Diagnostics</translation>
     </message>
     <message>
         <source>Known Keys</source>
@@ -10293,19 +10274,19 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Compte</translation>
+        <translation>Compte</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">Utilisateur</translation>
+        <translation>Utilisateur</translation>
     </message>
     <message>
         <source>Key ID</source>
-        <translation type="unfinished">Identifiant de clé</translation>
+        <translation>Identifiant de clé</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Empreinte</translation>
+        <translation>Empreinte</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
@@ -10313,15 +10294,15 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="unfinished">Compte:</translation>
+        <translation>Compte:</translation>
     </message>
     <message>
         <source>User: </source>
-        <translation type="unfinished">Utilisateur:</translation>
+        <translation>Utilisateur:</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished">Empreinte:</translation>
+        <translation>Empreinte:</translation>
     </message>
     <message>
         <source>Confirm action</source>
@@ -10333,7 +10314,7 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>User ID</source>
-        <translation type="unfinished">Identifiant de l&apos;utilisateur</translation>
+        <translation>Identifiant de l&apos;utilisateur</translation>
     </message>
     <message>
         <source>gpg-agent configuration</source>
@@ -10357,7 +10338,7 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Avertissement</translation>
     </message>
     <message>
         <source>Attempt to save gpg-agent config is failed! Check that you have write permission for file:
@@ -10961,7 +10942,7 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>Authors</source>
-        <translation type="unfinished">Auteurs</translation>
+        <translation>Auteurs</translation>
     </message>
     <message>
         <source>Plugin Path</source>
@@ -13319,6 +13300,14 @@ Cause: %1.</translation>
         <source>Set Topic</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Manage Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Manage Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -13422,7 +13411,7 @@ Cause: %1.</translation>
     </message>
     <message>
         <source>Command</source>
-        <translation type="unfinished">Commande</translation>
+        <translation>Commande</translation>
     </message>
 </context>
 <context>
@@ -13924,7 +13913,7 @@ Would you like to activate that session now?</source>
     <name>PsiMediaPlugin</name>
     <message>
         <source>Thanks To</source>
-        <translation type="unfinished">Remerciements à</translation>
+        <translation>Remerciements à</translation>
     </message>
     <message>
         <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
@@ -14158,15 +14147,15 @@ Would you like to activate that session now?</source>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Options</translation>
+        <translation>Options</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished"></translation>
+        <translation>En ligne</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Hors-ligne</translation>
+        <translation>Hors-ligne</translation>
     </message>
     <message>
         <source>Show Next Event</source>
@@ -15771,7 +15760,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Audio and video device configuration</source>
-        <translation type="unfinished">Configuration des périphériques audio/vidéo</translation>
+        <translation>Configuration des périphériques audio/vidéo</translation>
     </message>
 </context>
 <context>
@@ -17524,11 +17513,11 @@ SVP corrigez et réessayez.</translation>
     </message>
     <message>
         <source>Play!</source>
-        <translation type="unfinished">Jouer!</translation>
+        <translation>Jouer!</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished">Quitter</translation>
+        <translation>Quitter</translation>
     </message>
     <message>
         <source>Click Play to start</source>
@@ -17664,6 +17653,10 @@ Et celui-là ne fonctionne que dans une discussion de groupe:
         <translation>Vous n&apos;aimez pas les boutons tels qu&apos;ils sont?  Vous voulez un bouton pour changer rapidement votre état en Absent?  Configurez les barres d&apos;outils par le biais du menu contextuel, accessible par un clic-droit sur n&apos;importe quelle barre.   Vous pouvez même créer une barre flottante!</translation>
     </message>
     <message>
+        <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
         <translation>Utilisiez-vous Gadu-Gadu ou Trillian avant de vous convertir à Psi?  Et leurs émoticônes vous manquent?  N&apos;ayez pas de crainte! Allez sur le site &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; pour télécharger de nombreuses listes d&apos;icônes afin de retrouver vos emoticônes favorites sous Psi !</translation>
     </message>
@@ -17672,8 +17665,18 @@ Et celui-là ne fonctionne que dans une discussion de groupe:
         <translation>Saviez-vous que le &quot;bouton du milieu&quot; sur votre souris permet d&apos;effectuer l&apos;action par défaut dans de nombreux cas sous Psi?  Essayez-le sur un contact ou une pop-up.</translation>
     </message>
     <message>
+        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
         <translation>Vous pouvez effectuer un clic-droit sur le nom de votre compte dans la liste de contacts afin d&apos;effectuer différentes actions. Vous pouvez ainsi modifier les paramètres de ce compte, effectuer des options administratives (si vous en avez la permission), et plus encore.</translation>
+    </message>
+    <message>
+        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
+&lt;br&gt;&lt;br&gt;
+Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
@@ -17694,20 +17697,6 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
-&lt;br&gt;&lt;br&gt;
-Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18487,7 +18476,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>vCard</source>
-        <translation type="unfinished">Carte de Visite</translation>
+        <translation>Carte de Visite</translation>
     </message>
 </context>
 <context>
@@ -18804,7 +18793,7 @@ Do you still want to close the window?</source>
     <name>psiomemo::ConfigWidget</name>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">Configuration</translation>
+        <translation>Configuration</translation>
     </message>
     <message>
         <source>Known Keys</source>
@@ -18847,7 +18836,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">Utilisateur</translation>
+        <translation>Utilisateur</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -18855,7 +18844,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">Copier l&apos;empreinte</translation>
+        <translation>Copier l&apos;empreinte</translation>
     </message>
 </context>
 <context>
@@ -18912,7 +18901,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">Copier l&apos;empreinte</translation>
+        <translation>Copier l&apos;empreinte</translation>
     </message>
 </context>
 <context>
@@ -18940,14 +18929,6 @@ Do you still want to close the window?</source>
 </context>
 <context>
     <name>psiomemo::OMEMOPlugin</name>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Auteur :</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Courriel :</translation>
-    </message>
     <message>
         <source>Credits: </source>
         <translation type="unfinished"></translation>

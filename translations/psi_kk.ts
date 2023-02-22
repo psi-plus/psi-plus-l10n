@@ -229,10 +229,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>psi/logo_48</source>
-        <translation type="obsolete">psi/logo_48</translation>
-    </message>
-    <message>
         <source>About Psi</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1266,7 +1262,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Work</source>
-        <translation type="unfinished">Жұмыс</translation>
+        <translation>Жұмыс</translation>
     </message>
     <message>
         <source>Postal</source>
@@ -6119,7 +6115,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>ImagePreviewOptions</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Форма</translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>Maximum image size</source>
@@ -6438,7 +6434,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished">Көбірек білу</translation>
+        <translation>Көбірек білу</translation>
     </message>
 </context>
 <context>
@@ -7030,7 +7026,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Өшіру</translation>
+        <translation>Өшіру</translation>
     </message>
 </context>
 <context>
@@ -7375,7 +7371,7 @@ Details: %1</source>
     <name>MucInfo</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Сұхбат</translation>
+        <translation>Сұхбат</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -7387,11 +7383,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Аты:</translation>
+        <translation>Аты:</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>Сипаттамасы:</translation>
     </message>
     <message>
         <source>&amp;General</source>
@@ -7673,7 +7669,7 @@ Reason: %1.</source>
     <name>OpenPgpPluginNamespace::PGPKeyDlg</name>
     <message>
         <source>&amp;Diagnostics</source>
-        <translation type="unfinished">Диа&amp;гностика</translation>
+        <translation>Диа&amp;гностика</translation>
     </message>
     <message>
         <source>Key ID</source>
@@ -7681,7 +7677,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>User ID</source>
-        <translation type="unfinished">Пайдаланушы ID-і</translation>
+        <translation>Пайдаланушы ID-і</translation>
     </message>
     <message>
         <source>GnuPG info</source>
@@ -7689,7 +7685,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Қате</translation>
+        <translation>Қате</translation>
     </message>
     <message>
         <source>Please select a key.</source>
@@ -9439,7 +9435,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Select &amp;Key...</source>
-        <translation type="unfinished">&amp;Кілтті таңдаңыз...</translation>
+        <translation>&amp;Кілтті таңдаңыз...</translation>
     </message>
     <message>
         <source>Configuration</source>
@@ -9483,7 +9479,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>&amp;Diagnostics</source>
-        <translation type="unfinished">Диа&amp;гностика</translation>
+        <translation>Диа&amp;гностика</translation>
     </message>
     <message>
         <source>Known Keys</source>
@@ -9491,7 +9487,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Тіркелгі</translation>
+        <translation>Тіркелгі</translation>
     </message>
     <message>
         <source>User</source>
@@ -9531,7 +9527,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>User ID</source>
-        <translation type="unfinished">Пайдаланушы ID-і</translation>
+        <translation>Пайдаланушы ID-і</translation>
     </message>
     <message>
         <source>gpg-agent configuration</source>
@@ -9555,7 +9551,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Ескерту</translation>
+        <translation>Ескерту</translation>
     </message>
     <message>
         <source>Attempt to save gpg-agent config is failed! Check that you have write permission for file:
@@ -10119,7 +10115,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Authors</source>
-        <translation type="unfinished">Авторлар</translation>
+        <translation>Авторлар</translation>
     </message>
     <message>
         <source>Plugin Path</source>
@@ -12360,10 +12356,18 @@ Details: %1</source>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished">Ақпараты</translation>
+        <translation>Ақпараты</translation>
     </message>
     <message>
         <source>Set Topic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Manage Accounts</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12440,7 +12444,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
-        <translation type="unfinished">OpenPGP кілтін орнату</translation>
+        <translation>OpenPGP кілтін орнату</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
@@ -12468,7 +12472,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Command</source>
-        <translation type="unfinished">Команда</translation>
+        <translation>Команда</translation>
     </message>
 </context>
 <context>
@@ -12962,7 +12966,7 @@ Would you like to activate that session now?</source>
     <name>PsiMediaPlugin</name>
     <message>
         <source>Thanks To</source>
-        <translation type="unfinished">Алғыс білдіреміз</translation>
+        <translation>Алғыс білдіреміз</translation>
     </message>
     <message>
         <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
@@ -13136,7 +13140,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Сүзгі</translation>
+        <translation>Сүзгі</translation>
     </message>
     <message>
         <source>Display options as a flat list</source>
@@ -13188,15 +13192,15 @@ Would you like to activate that session now?</source>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Баптаулар</translation>
+        <translation>Баптаулар</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished">Желіде</translation>
+        <translation>Желіде</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Желіде емес</translation>
+        <translation>Желіде емес</translation>
     </message>
     <message>
         <source>Show Next Event</source>
@@ -14730,11 +14734,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Өшіру</translation>
+        <translation>Өшіру</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Бас тарту</translation>
+        <translation>Бас тарту</translation>
     </message>
     <message>
         <source>verified</source>
@@ -16402,7 +16406,7 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished">Шығу</translation>
+        <translation>Шығу</translation>
     </message>
     <message>
         <source>Click Play to start</source>
@@ -16479,14 +16483,6 @@ Please correct and try again.</source>
 <context>
     <name>TipDlg</name>
     <message>
-        <source>Hello! Thank you for downloading Psi!
-We hope that you will enjoy using it as we have enjoyed making it!
-&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16561,12 +16557,20 @@ Note: Some server may disable transport registration to users from different ser
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This is the last tip.
-&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
+        <source>Contributed by</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Contributed by</source>
+        <source>Hello! Thank you for downloading Psi!
+We hope that you will enjoy using it as we have enjoyed making it!
+&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is the last tip.
+&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17316,7 +17320,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>vCard</source>
-        <translation type="unfinished">vCard</translation>
+        <translation>vCard</translation>
     </message>
 </context>
 <context>
@@ -17628,7 +17632,7 @@ Do you still want to close the window?</source>
     <name>psiomemo::KnownFingerprints</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Өшіру</translation>
+        <translation>Өшіру</translation>
     </message>
     <message>
         <source>Trust</source>
@@ -17671,7 +17675,7 @@ Do you still want to close the window?</source>
     <name>psiomemo::ManageDevices</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Өшіру</translation>
+        <translation>Өшіру</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -18560,7 +18564,7 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Email:</source>
-        <translation type="unfinished">Эл. пошта:</translation>
+        <translation>Эл. пошта:</translation>
     </message>
 </context>
 <context>

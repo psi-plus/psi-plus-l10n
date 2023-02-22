@@ -12163,6 +12163,14 @@ Details: %1</source>
         <source>Set Topic</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Manage Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Manage Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>

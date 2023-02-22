@@ -273,10 +273,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; để biết thêm chi tiế
         <translation>Giới thiệu Psi</translation>
     </message>
     <message>
-        <source>Cross-platform XMPP client aimed at experienced users.</source>
-        <translation type="vanished">Ứng dụng máy khách XMPP đa nền tảng hướng đến người dùng có kinh nghiệm.</translation>
-    </message>
-    <message>
         <source>Cross-platform XMPP client designed for experienced users.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6710,7 +6706,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>ImagePreviewOptions</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Mẫu biểu</translation>
     </message>
     <message>
         <source>Maximum image size</source>
@@ -7901,10 +7897,6 @@ Bạn có quyền sửa đổi và phát hành lại mã nguồn,
 vì nó được cấp dưới Giấy phép Công cộng GNU (GPL).
 
 Nga, Tambov, 2005 (denis@silversoft.net)</translation>
-    </message>
-    <message>
-        <source>About plugin</source>
-        <translation type="vanished">Trình cắm</translation>
     </message>
 </context>
 <context>
@@ -13120,6 +13112,14 @@ Lý do : %1.</translation>
         <source>Set Topic</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Manage Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Manage Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -13957,15 +13957,15 @@ Bạn có muốn kích hoạt buổi hợp đó ngay bây giờ không?</transla
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Tùy chọn</translation>
+        <translation>Tùy chọn</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished">Trực tuyến</translation>
+        <translation>Trực tuyến</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Ngoại tuyến</translation>
+        <translation>Ngoại tuyến</translation>
     </message>
     <message>
         <source>Show Next Event</source>
@@ -17274,11 +17274,11 @@ Hãy sửa chữa và thử lại.</translation>
     </message>
     <message>
         <source>Play!</source>
-        <translation type="unfinished">Chơi đi !</translation>
+        <translation>Chơi đi !</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished">Thoát</translation>
+        <translation>Thoát</translation>
     </message>
     <message>
         <source>Click Play to start</source>
@@ -18232,7 +18232,7 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     </message>
     <message>
         <source>vCard</source>
-        <translation type="unfinished">vCard</translation>
+        <translation>vCard</translation>
     </message>
 </context>
 <context>

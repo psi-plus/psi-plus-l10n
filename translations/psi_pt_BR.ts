@@ -3134,10 +3134,6 @@ Proceder?</translation>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation>Este plugin foi projetado para facilmente fazer download e instalar um conjunto de ícones e outros recursos do Psi+.</translation>
     </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email: </translation>
-    </message>
 </context>
 <context>
     <name>Crash::CrashDialog</name>
@@ -5805,10 +5801,6 @@ Note: O plugin verifica apenas a raiz da sua pasta em sua caixa de entrada de se
         <source>Public key %1 sent</source>
         <translation type="vanished">Chave pública %1 enviada</translation>
     </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email: </translation>
-    </message>
 </context>
 <context>
     <name>GomokuGame::InvitationDialog</name>
@@ -6792,7 +6784,7 @@ Nota: Para funcionar corretamente, as opção options.ui.chat.central-toolbar de
     <name>ImagePreviewOptions</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulário</translation>
     </message>
     <message>
         <source>Maximum image size</source>
@@ -6812,23 +6804,23 @@ Nota: Para funcionar corretamente, as opção options.ui.chat.central-toolbar de
     </message>
     <message>
         <source>512 Kb</source>
-        <translation type="unfinished">512 Kb</translation>
+        <translation>512 Kb</translation>
     </message>
     <message>
         <source>1 Mb</source>
-        <translation type="unfinished">1 Mb</translation>
+        <translation>1 Mb</translation>
     </message>
     <message>
         <source>2 Mb</source>
-        <translation type="unfinished">2 Mb</translation>
+        <translation>2 Mb</translation>
     </message>
     <message>
         <source>5 Mb</source>
-        <translation type="unfinished">5 Mb</translation>
+        <translation>5 Mb</translation>
     </message>
     <message>
         <source>10 Mb</source>
-        <translation type="unfinished">10 Mb</translation>
+        <translation>10 Mb</translation>
     </message>
 </context>
 <context>
@@ -7745,11 +7737,11 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Add to bookmarks</source>
-        <translation type="unfinished">Adcionar para os favoritos</translation>
+        <translation>Adcionar para os favoritos</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Remover</translation>
+        <translation>Remover</translation>
     </message>
 </context>
 <context>
@@ -8021,10 +8013,6 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
         <translation type="vanished">e-mail: </translation>
     </message>
     <message>
-        <source>Email: </source>
-        <translation type="vanished">Email: </translation>
-    </message>
-    <message>
         <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8146,11 +8134,11 @@ Details: %1</source>
     <name>MucInfo</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Diálogo</translation>
+        <translation>Diálogo</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished">Conta:</translation>
+        <translation>Conta:</translation>
     </message>
     <message>
         <source>ID:</source>
@@ -8158,11 +8146,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Nome:</translation>
+        <translation>Nome:</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished">Descrição:</translation>
+        <translation>Descrição:</translation>
     </message>
     <message>
         <source>&amp;General</source>
@@ -8372,17 +8360,6 @@ Tags: %1</translation>
     </message>
 </context>
 <context>
-    <name>OpenPGP</name>
-    <message>
-        <source>Authors: </source>
-        <translation type="obsolete">Autores: </translation>
-    </message>
-    <message>
-        <source>Send GnuPG Public Key</source>
-        <translation type="obsolete">Enviar Chave Pública GnuPG</translation>
-    </message>
-</context>
-<context>
     <name>OpenPgpMessaging</name>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
@@ -8391,16 +8368,12 @@ Tags: %1</translation>
     <message>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
-        <translation type="unfinished">Ocorreu um erro definindo seu status.
+        <translation>Ocorreu um erro definindo seu status.
 Motivo: %1.</translation>
     </message>
 </context>
 <context>
     <name>OpenPgpPlugin</name>
-    <message>
-        <source>Authors: </source>
-        <translation type="obsolete">Autores: </translation>
-    </message>
     <message>
         <source>Embedded Keys Manager can do only basic operations like creating, removing, exporting and importing PGP keys. This should be enough to most of users needs. For more complicated cases use special software.</source>
         <translation type="unfinished"></translation>
@@ -8450,38 +8423,38 @@ Motivo: %1.</translation>
     <name>OpenPgpPluginNamespace::GpgProcess</name>
     <message>
         <source>Can&apos;t start </source>
-        <translation type="unfinished">Não foi possível começar</translation>
+        <translation>Não foi possível começar</translation>
     </message>
     <message>
         <source>GnuPG program not found</source>
-        <translation type="unfinished">Programa GnuPG não encontrado</translation>
+        <translation>Programa GnuPG não encontrado</translation>
     </message>
 </context>
 <context>
     <name>OpenPgpPluginNamespace::PGPKeyDlg</name>
     <message>
         <source>&amp;Diagnostics</source>
-        <translation type="unfinished">&amp;Diagnósticos</translation>
+        <translation>&amp;Diagnósticos</translation>
     </message>
     <message>
         <source>Key ID</source>
-        <translation type="unfinished">ID da Chave</translation>
+        <translation>ID da Chave</translation>
     </message>
     <message>
         <source>User ID</source>
-        <translation type="unfinished">ID do usuário</translation>
+        <translation>ID do usuário</translation>
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation type="unfinished">Informações GnuPG</translation>
+        <translation>Informações GnuPG</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Erro</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <source>Please select a key.</source>
-        <translation type="unfinished">Por favor, selecione uma chave.</translation>
+        <translation>Por favor, selecione uma chave.</translation>
     </message>
 </context>
 <context>
@@ -9360,11 +9333,11 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Place avatars at left</source>
-        <translation type="unfinished">Colocar avatares a esquerda</translation>
+        <translation>Colocar avatares a esquerda</translation>
     </message>
     <message>
         <source>Place status icon over avatar</source>
-        <translation type="unfinished">Colocar ícone de status sobre o avatar</translation>
+        <translation>Colocar ícone de status sobre o avatar</translation>
     </message>
 </context>
 <context>
@@ -9443,7 +9416,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Place groupchat roster at left</source>
-        <translation type="unfinished">Colocar lista de bate-papo em grupo à esquerda</translation>
+        <translation>Colocar lista de bate-papo em grupo à esquerda</translation>
     </message>
 </context>
 <context>
@@ -10377,11 +10350,11 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Select &amp;Key...</source>
-        <translation type="unfinished">Selecionar &amp;Chave...</translation>
+        <translation>Selecionar &amp;Chave...</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">Configuração</translation>
+        <translation>Configuração</translation>
     </message>
     <message>
         <source>OpenPGP encryption policy</source>
@@ -10417,11 +10390,11 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">Copiar impressão digital</translation>
+        <translation>Copiar impressão digital</translation>
     </message>
     <message>
         <source>&amp;Diagnostics</source>
-        <translation type="unfinished">&amp;Diagnósticos</translation>
+        <translation>&amp;Diagnósticos</translation>
     </message>
     <message>
         <source>Known Keys</source>
@@ -10429,35 +10402,35 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Conta</translation>
+        <translation>Conta</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">Usuário</translation>
+        <translation>Usuário</translation>
     </message>
     <message>
         <source>Key ID</source>
-        <translation type="unfinished">ID da Chave</translation>
+        <translation>ID da Chave</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished"></translation>
+        <translation>Impressão Digital</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
-        <translation type="unfinished">Deseja remover a chave a seguir?</translation>
+        <translation>Deseja remover a chave a seguir?</translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="unfinished">Conta: </translation>
+        <translation>Conta: </translation>
     </message>
     <message>
         <source>User: </source>
-        <translation type="unfinished">Usuário:</translation>
+        <translation>Usuário:</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished"></translation>
+        <translation>Impressão digital: </translation>
     </message>
     <message>
         <source>Confirm action</source>
@@ -10469,7 +10442,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>User ID</source>
-        <translation type="unfinished">ID do usuário</translation>
+        <translation>ID do usuário</translation>
     </message>
     <message>
         <source>gpg-agent configuration</source>
@@ -10493,7 +10466,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Aviso</translation>
+        <translation>Aviso</translation>
     </message>
     <message>
         <source>Attempt to save gpg-agent config is failed! Check that you have write permission for file:
@@ -11092,7 +11065,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Authors</source>
-        <translation type="unfinished">Autores</translation>
+        <translation>Autores</translation>
     </message>
     <message>
         <source>Plugin Path</source>
@@ -13462,6 +13435,14 @@ Motivo: %1.</translation>
         <source>Set Topic</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Manage Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Manage Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -13565,7 +13546,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Command</source>
-        <translation type="unfinished">Comando</translation>
+        <translation>Comando</translation>
     </message>
 </context>
 <context>
@@ -14067,12 +14048,8 @@ Gostaria de ativar a sessão agora?</translation>
 <context>
     <name>PsiMediaPlugin</name>
     <message>
-        <source>Authors: </source>
-        <translation type="obsolete">Autores: </translation>
-    </message>
-    <message>
         <source>Thanks To</source>
-        <translation type="unfinished">Agradecimentos</translation>
+        <translation>Agradecimentos</translation>
     </message>
     <message>
         <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
@@ -14306,15 +14283,15 @@ Gostaria de ativar a sessão agora?</translation>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Opções</translation>
+        <translation>Opções</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished">Online</translation>
+        <translation>Online</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Offline</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <source>Show Next Event</source>
@@ -15941,7 +15918,7 @@ Obrigado pela sua paciência.</translation>
     </message>
     <message>
         <source>Audio and video device configuration</source>
-        <translation type="unfinished">Configuração de dispositivos de áudio e vídeo</translation>
+        <translation>Configuração de dispositivos de áudio e vídeo</translation>
     </message>
 </context>
 <context>
@@ -17727,11 +17704,11 @@ Por favor corrija e tente novamente.</translation>
     </message>
     <message>
         <source>Play!</source>
-        <translation type="unfinished">Jogar!</translation>
+        <translation>Jogar!</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished">Sair</translation>
+        <translation>Sair</translation>
     </message>
     <message>
         <source>Click Play to start</source>
@@ -18725,7 +18702,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>vCard</source>
-        <translation type="unfinished">vCard</translation>
+        <translation>vCard</translation>
     </message>
 </context>
 <context>
@@ -19074,7 +19051,7 @@ Realmente deseja fechar a janela?</translation>
     <name>psiomemo::ConfigWidget</name>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">Configuração</translation>
+        <translation>Configuração</translation>
     </message>
     <message>
         <source>Known Keys</source>
@@ -19117,7 +19094,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">Usuário</translation>
+        <translation>Usuário</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -19125,7 +19102,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">Copiar impressão digital</translation>
+        <translation>Copiar impressão digital</translation>
     </message>
 </context>
 <context>
@@ -19182,7 +19159,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">Copiar impressão digital</translation>
+        <translation>Copiar impressão digital</translation>
     </message>
 </context>
 <context>
@@ -19210,14 +19187,6 @@ Realmente deseja fechar a janela?</translation>
 </context>
 <context>
     <name>psiomemo::OMEMOPlugin</name>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email: </translation>
-    </message>
     <message>
         <source>Credits: </source>
         <translation type="unfinished"></translation>
@@ -19255,10 +19224,6 @@ Realmente deseja fechar a janela?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Authors: </source>
-        <translation type="obsolete">Autores: </translation>
-    </message>
-    <message>
         <source>OMEMO is an end-to-end encryption protocol that leverages the Double Ratchet encryption scheme to provide multi-end to multi-end encryption, allowing messages to be synchronized securely across multiple clients, even if some of them are offline.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -19280,7 +19245,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>Perfect forward secrecy</source>
-        <translation type="unfinished">Perfeita frente de sigilo</translation>
+        <translation>Perfeita frente de sigilo</translation>
     </message>
     <message>
         <source>Compromised key material does not compromise previous or future message exchanges.</source>
@@ -19288,7 +19253,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="unfinished">Autenticação</translation>
+        <translation>Autenticação</translation>
     </message>
     <message>
         <source>Every peer is able to authenticate the sender or receiver of a message.</source>
@@ -19617,7 +19582,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
-        <translation type="unfinished">Deseja remover a chave a seguir?</translation>
+        <translation>Deseja remover a chave a seguir?</translation>
     </message>
     <message>
         <source>Confirm action</source>
@@ -19831,10 +19796,6 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Confirm action</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="obsolete">Autores: </translation>
     </message>
     <message>
         <source>For further information, see &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</source>

@@ -3048,10 +3048,6 @@ Proceed?</source>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
-    </message>
 </context>
 <context>
     <name>CreateGroupDlg</name>
@@ -5569,10 +5565,6 @@ You lost the game.</source>
         <source>e-mail: </source>
         <translation type="vanished">דוא״ל: </translation>
     </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
-    </message>
 </context>
 <context>
     <name>GomokuGame::InvitationDialog</name>
@@ -6509,7 +6501,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>ImagePreviewOptions</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>טופס</translation>
     </message>
     <message>
         <source>Maximum image size</source>
@@ -7437,11 +7429,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Add to bookmarks</source>
-        <translation type="unfinished">הוספה אל סימניות</translation>
+        <translation>הוספה אל סימניות</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">הסר</translation>
+        <translation>הסר</translation>
     </message>
 </context>
 <context>
@@ -7698,10 +7690,6 @@ Incoming event(s) from:</source>
         <translation type="vanished">דוא״ל: </translation>
     </message>
     <message>
-        <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
-    </message>
-    <message>
         <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7824,11 +7812,11 @@ Details: %1</source>
     <name>MucInfo</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">דו שיח</translation>
+        <translation>דו שיח</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished"></translation>
+        <translation>חשבון:</translation>
     </message>
     <message>
         <source>ID:</source>
@@ -7836,11 +7824,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">שם:</translation>
+        <translation>שם:</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished">תיאור:</translation>
+        <translation>תיאור:</translation>
     </message>
     <message>
         <source>&amp;General</source>
@@ -8050,13 +8038,6 @@ Tags: %1</source>
     </message>
 </context>
 <context>
-    <name>OpenPGP</name>
-    <message>
-        <source>Authors: </source>
-        <translation type="obsolete">מחברים: </translation>
-    </message>
-</context>
-<context>
     <name>OpenPgpMessaging</name>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
@@ -8065,16 +8046,12 @@ Tags: %1</source>
     <message>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
-        <translation type="unfinished">אירעה שגיאה בניסיון לחתום את מצבך.
+        <translation>אירעה שגיאה בניסיון לחתום את מצבך.
 סיבה: %1.</translation>
     </message>
 </context>
 <context>
     <name>OpenPgpPlugin</name>
-    <message>
-        <source>Authors: </source>
-        <translation type="obsolete">מחברים: </translation>
-    </message>
     <message>
         <source>Embedded Keys Manager can do only basic operations like creating, removing, exporting and importing PGP keys. This should be enough to most of users needs. For more complicated cases use special software.</source>
         <translation type="unfinished"></translation>
@@ -8135,15 +8112,15 @@ Reason: %1.</source>
     <name>OpenPgpPluginNamespace::PGPKeyDlg</name>
     <message>
         <source>&amp;Diagnostics</source>
-        <translation type="unfinished">&amp;דיאגנוסטיקה</translation>
+        <translation>&amp;דיאגנוסטיקה</translation>
     </message>
     <message>
         <source>Key ID</source>
-        <translation type="unfinished">מזהה מפתח</translation>
+        <translation>מזהה מפתח</translation>
     </message>
     <message>
         <source>User ID</source>
-        <translation type="unfinished">מזהה משתמש</translation>
+        <translation>מזהה משתמש</translation>
     </message>
     <message>
         <source>GnuPG info</source>
@@ -8151,11 +8128,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">שגיאה</translation>
+        <translation>שגיאה</translation>
     </message>
     <message>
         <source>Please select a key.</source>
-        <translation type="unfinished">אנא בחר מפתח.</translation>
+        <translation>אנא בחר מפתח.</translation>
     </message>
 </context>
 <context>
@@ -9034,11 +9011,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Place avatars at left</source>
-        <translation type="unfinished">השם אווטארים בימין</translation>
+        <translation>השם אווטארים בימין</translation>
     </message>
     <message>
         <source>Place status icon over avatar</source>
-        <translation type="unfinished">השם צלמית מצב על אווטאר</translation>
+        <translation>השם צלמית מצב על אווטאר</translation>
     </message>
 </context>
 <context>
@@ -9955,11 +9932,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Select &amp;Key...</source>
-        <translation type="unfinished">בחירת &amp;מפתח...</translation>
+        <translation>בחירת &amp;מפתח...</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">תצורה</translation>
+        <translation>תצורה</translation>
     </message>
     <message>
         <source>OpenPGP encryption policy</source>
@@ -9995,11 +9972,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">העתקת טביעת אצבע</translation>
+        <translation>העתקת טביעת אצבע</translation>
     </message>
     <message>
         <source>&amp;Diagnostics</source>
-        <translation type="unfinished">&amp;דיאגנוסטיקה</translation>
+        <translation>&amp;דיאגנוסטיקה</translation>
     </message>
     <message>
         <source>Known Keys</source>
@@ -10007,35 +9984,35 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">חשבון</translation>
+        <translation>חשבון</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">משתמש</translation>
+        <translation>משתמש</translation>
     </message>
     <message>
         <source>Key ID</source>
-        <translation type="unfinished">מזהה מפתח</translation>
+        <translation>מזהה מפתח</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">טביעת אצבע</translation>
+        <translation>טביעת אצבע</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
-        <translation type="unfinished">האם אתה בטוח כי ברצונך למחוק את המפתח הבא?</translation>
+        <translation>האם אתה בטוח כי ברצונך למחוק את המפתח הבא?</translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="unfinished">חשבון: </translation>
+        <translation>חשבון: </translation>
     </message>
     <message>
         <source>User: </source>
-        <translation type="unfinished">משתמש: </translation>
+        <translation>משתמש: </translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished">טביעת אצבע: </translation>
+        <translation>טביעת אצבע: </translation>
     </message>
     <message>
         <source>Confirm action</source>
@@ -10047,7 +10024,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>User ID</source>
-        <translation type="unfinished">מזהה משתמש</translation>
+        <translation>מזהה משתמש</translation>
     </message>
     <message>
         <source>gpg-agent configuration</source>
@@ -10071,7 +10048,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">אזהרה</translation>
+        <translation>אזהרה</translation>
     </message>
     <message>
         <source>Attempt to save gpg-agent config is failed! Check that you have write permission for file:
@@ -10670,7 +10647,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Authors</source>
-        <translation type="unfinished">מחברים</translation>
+        <translation>מחברים</translation>
     </message>
     <message>
         <source>Plugin Path</source>
@@ -12991,6 +12968,14 @@ Reason: %1.</source>
         <source>Set Topic</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Manage Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Manage Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -13094,7 +13079,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Command</source>
-        <translation type="unfinished">פקודה</translation>
+        <translation>פקודה</translation>
     </message>
 </context>
 <context>
@@ -13590,12 +13575,8 @@ Would you like to activate that session now?</source>
 <context>
     <name>PsiMediaPlugin</name>
     <message>
-        <source>Authors: </source>
-        <translation type="obsolete">מחברים: </translation>
-    </message>
-    <message>
         <source>Thanks To</source>
-        <translation type="unfinished">תודות</translation>
+        <translation>תודות</translation>
     </message>
     <message>
         <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
@@ -13829,15 +13810,15 @@ Would you like to activate that session now?</source>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished">אפשרויות</translation>
+        <translation>אפשרויות</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished">מקוון</translation>
+        <translation>מקוון</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">לא מקוון</translation>
+        <translation>לא מקוון</translation>
     </message>
     <message>
         <source>Show Next Event</source>
@@ -15433,7 +15414,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Audio and video device configuration</source>
-        <translation type="unfinished">תצורת התקן שמע ווידאו</translation>
+        <translation>תצורת התקן שמע ווידאו</translation>
     </message>
 </context>
 <context>
@@ -17136,11 +17117,11 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>Play!</source>
-        <translation type="unfinished">שחק!</translation>
+        <translation>שחק!</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished">יציאה</translation>
+        <translation>יציאה</translation>
     </message>
     <message>
         <source>Click Play to start</source>
@@ -18413,7 +18394,7 @@ Do you still want to close the window?</source>
     <name>psiomemo::ConfigWidget</name>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">תצורה</translation>
+        <translation>תצורה</translation>
     </message>
     <message>
         <source>Known Keys</source>
@@ -18456,7 +18437,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">משתמש</translation>
+        <translation>משתמש</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -18464,7 +18445,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">העתקת טביעת אצבע</translation>
+        <translation>העתקת טביעת אצבע</translation>
     </message>
 </context>
 <context>
@@ -18521,7 +18502,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">העתקת טביעת אצבע</translation>
+        <translation>העתקת טביעת אצבע</translation>
     </message>
 </context>
 <context>
@@ -18549,14 +18530,6 @@ Do you still want to close the window?</source>
 </context>
 <context>
     <name>psiomemo::OMEMOPlugin</name>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
-    </message>
     <message>
         <source>Credits: </source>
         <translation type="unfinished"></translation>
@@ -18592,10 +18565,6 @@ Do you still want to close the window?</source>
     <message>
         <source>Manage contact fingerprints</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="obsolete">מחברים: </translation>
     </message>
     <message>
         <source>OMEMO is an end-to-end encryption protocol that leverages the Double Ratchet encryption scheme to provide multi-end to multi-end encryption, allowing messages to be synchronized securely across multiple clients, even if some of them are offline.</source>
@@ -18944,7 +18913,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
-        <translation type="unfinished">האם אתה בטוח כי ברצונך למחוק את המפתח הבא?</translation>
+        <translation>האם אתה בטוח כי ברצונך למחוק את המפתח הבא?</translation>
     </message>
     <message>
         <source>Confirm action</source>
@@ -19138,10 +19107,6 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Confirm action</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="obsolete">מחברים: </translation>
     </message>
     <message>
         <source>For further information, see &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</source>

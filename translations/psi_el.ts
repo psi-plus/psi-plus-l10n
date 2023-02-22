@@ -6245,7 +6245,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>ImagePreviewOptions</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Φόρμα</translation>
+        <translation>Φόρμα</translation>
     </message>
     <message>
         <source>Maximum image size</source>
@@ -12560,6 +12560,14 @@ Details: %1</source>
         <source>Set Topic</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Manage Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Manage Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -13367,15 +13375,15 @@ Would you like to activate that session now?</source>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Επιλογές</translation>
+        <translation>Επιλογές</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished">Σε σύνδεση</translation>
+        <translation>Σε σύνδεση</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Εκτός Σύνδεσης</translation>
     </message>
     <message>
         <source>Show Next Event</source>
@@ -16612,7 +16620,7 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished">Έξοδος</translation>
+        <translation>Έξοδος</translation>
     </message>
     <message>
         <source>Click Play to start</source>

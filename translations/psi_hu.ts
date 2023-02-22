@@ -3128,10 +3128,6 @@ Folytatod?</translation>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation>Ez a kiegészítő az ikongyűjtemények és más egyebek letöltésének és telepítésének a megkönnyítésére lett tervezve a &apos;Psi+&apos;-hoz.</translation>
     </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">E-mail: </translation>
-    </message>
 </context>
 <context>
     <name>Crash::CrashDialog</name>
@@ -5798,10 +5794,6 @@ Megjegyzés: A kiegészítő csak az &apos;Inbox&apos; mappát ellenőrzi, ha sz
         <source>Public key %1 sent</source>
         <translation type="vanished">%1 Publikus Kulcs elküldve</translation>
     </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">E-mail: </translation>
-    </message>
 </context>
 <context>
     <name>GomokuGame::InvitationDialog</name>
@@ -6784,7 +6776,7 @@ Megjegyzés: A helyes működéshez az &apos;options.ui.chat.central-toolbar&apo
     <name>ImagePreviewOptions</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Űrlap</translation>
+        <translation>Űrlap</translation>
     </message>
     <message>
         <source>Maximum image size</source>
@@ -7724,11 +7716,11 @@ Oka: %1</translation>
     </message>
     <message>
         <source>Add to bookmarks</source>
-        <translation type="unfinished">Hozzáadás a könyvjelzőkhöz</translation>
+        <translation>Hozzáadás a könyvjelzőkhöz</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Eltávolítás</translation>
     </message>
 </context>
 <context>
@@ -8000,10 +7992,6 @@ Oroszország, Tambov, 2005 (denis@silversoft.net)</translation>
         <translation type="vanished">E-mail:</translation>
     </message>
     <message>
-        <source>Email: </source>
-        <translation type="vanished">E-mail: </translation>
-    </message>
-    <message>
         <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8126,11 +8114,11 @@ Részletek: %1</translation>
     <name>MucInfo</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Párbeszéd</translation>
+        <translation>Párbeszéd</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished">Fiók:</translation>
+        <translation>Fiók:</translation>
     </message>
     <message>
         <source>ID:</source>
@@ -8138,11 +8126,11 @@ Részletek: %1</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Név:</translation>
+        <translation>Név:</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished">Leírás:</translation>
+        <translation>Leírás:</translation>
     </message>
     <message>
         <source>&amp;General</source>
@@ -8363,17 +8351,6 @@ Címkék: %1</translation>
     </message>
 </context>
 <context>
-    <name>OpenPGP</name>
-    <message>
-        <source>Authors: </source>
-        <translation type="obsolete">Szerzők: </translation>
-    </message>
-    <message>
-        <source>Send GnuPG Public Key</source>
-        <translation type="obsolete">GnuPG Publikus Kulcs küldése</translation>
-    </message>
-</context>
-<context>
     <name>OpenPgpMessaging</name>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
@@ -8382,16 +8359,12 @@ Címkék: %1</translation>
     <message>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
-        <translation type="unfinished">Hiba történt a bejelentkezés közben.
+        <translation>Hiba történt a bejelentkezés közben.
 Oka: %1.</translation>
     </message>
 </context>
 <context>
     <name>OpenPgpPlugin</name>
-    <message>
-        <source>Authors: </source>
-        <translation type="obsolete">Szerzők: </translation>
-    </message>
     <message>
         <source>Embedded Keys Manager can do only basic operations like creating, removing, exporting and importing PGP keys. This should be enough to most of users needs. For more complicated cases use special software.</source>
         <translation type="unfinished"></translation>
@@ -8441,38 +8414,38 @@ Oka: %1.</translation>
     <name>OpenPgpPluginNamespace::GpgProcess</name>
     <message>
         <source>Can&apos;t start </source>
-        <translation type="unfinished">Nem indítható</translation>
+        <translation>Nem indítható</translation>
     </message>
     <message>
         <source>GnuPG program not found</source>
-        <translation type="unfinished">GnuPG program nem található</translation>
+        <translation>GnuPG program nem található</translation>
     </message>
 </context>
 <context>
     <name>OpenPgpPluginNamespace::PGPKeyDlg</name>
     <message>
         <source>&amp;Diagnostics</source>
-        <translation type="unfinished">&amp;Diagnosztikák</translation>
+        <translation>&amp;Diagnosztikák</translation>
     </message>
     <message>
         <source>Key ID</source>
-        <translation type="unfinished">Kulcs ID</translation>
+        <translation>Kulcs ID</translation>
     </message>
     <message>
         <source>User ID</source>
-        <translation type="unfinished">Felhasználó ID</translation>
+        <translation>Felhasználó ID</translation>
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation type="unfinished">GnuPG info</translation>
+        <translation>GnuPG info</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Hiba</translation>
+        <translation>Hiba</translation>
     </message>
     <message>
         <source>Please select a key.</source>
-        <translation type="unfinished">Kérlek válassz ki egy kulcsot.</translation>
+        <translation>Kérlek válassz ki egy kulcsot.</translation>
     </message>
 </context>
 <context>
@@ -9351,11 +9324,11 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Place avatars at left</source>
-        <translation type="unfinished">Profilképek balra helyezése</translation>
+        <translation>Profilképek balra helyezése</translation>
     </message>
     <message>
         <source>Place status icon over avatar</source>
-        <translation type="unfinished">Állapotikon megjelenítése a profilkép felett</translation>
+        <translation>Állapotikon megjelenítése a profilkép felett</translation>
     </message>
 </context>
 <context>
@@ -9434,7 +9407,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Place groupchat roster at left</source>
-        <translation type="unfinished">Tegye a csoportbeszélgetés címlistáját balra</translation>
+        <translation>Tegye a csoportbeszélgetés címlistáját balra</translation>
     </message>
 </context>
 <context>
@@ -10369,11 +10342,11 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Select &amp;Key...</source>
-        <translation type="unfinished">&amp;Kulcs Kiválasztása...</translation>
+        <translation>&amp;Kulcs Kiválasztása...</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">Beállítások</translation>
+        <translation>Beállítások</translation>
     </message>
     <message>
         <source>OpenPGP encryption policy</source>
@@ -10413,7 +10386,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>&amp;Diagnostics</source>
-        <translation type="unfinished">&amp;Diagnosztikák</translation>
+        <translation>&amp;Diagnosztikák</translation>
     </message>
     <message>
         <source>Known Keys</source>
@@ -10421,19 +10394,19 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Fiók</translation>
+        <translation>Fiók</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">Felhasználó</translation>
+        <translation>Felhasználó</translation>
     </message>
     <message>
         <source>Key ID</source>
-        <translation type="unfinished">Kulcs ID</translation>
+        <translation>Kulcs ID</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Ujjlenyomat</translation>
+        <translation>Ujjlenyomat</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
@@ -10445,7 +10418,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>User: </source>
-        <translation type="unfinished">Felhasználó: </translation>
+        <translation>Felhasználó: </translation>
     </message>
     <message>
         <source>Fingerprint: </source>
@@ -10461,7 +10434,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>User ID</source>
-        <translation type="unfinished">Felhasználó ID</translation>
+        <translation>Felhasználó ID</translation>
     </message>
     <message>
         <source>gpg-agent configuration</source>
@@ -10485,7 +10458,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Figyelmeztetés</translation>
+        <translation>Figyelmeztetés</translation>
     </message>
     <message>
         <source>Attempt to save gpg-agent config is failed! Check that you have write permission for file:
@@ -11090,7 +11063,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Authors</source>
-        <translation type="unfinished">Alkotók</translation>
+        <translation>Alkotók</translation>
     </message>
     <message>
         <source>Plugin Path</source>
@@ -13466,6 +13439,14 @@ Oka: %1.</translation>
         <source>Set Topic</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Manage Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Manage Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -13569,7 +13550,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Command</source>
-        <translation type="unfinished">Parancs</translation>
+        <translation>Parancs</translation>
     </message>
 </context>
 <context>
@@ -14071,12 +14052,8 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
 <context>
     <name>PsiMediaPlugin</name>
     <message>
-        <source>Authors: </source>
-        <translation type="obsolete">Szerzők: </translation>
-    </message>
-    <message>
         <source>Thanks To</source>
-        <translation type="unfinished">Köszönet a következőknek</translation>
+        <translation>Köszönet a következőknek</translation>
     </message>
     <message>
         <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
@@ -14310,15 +14287,15 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Beállítások</translation>
+        <translation>Beállítások</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished">Elérhető</translation>
+        <translation>Elérhető</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Kijelentkezve</translation>
+        <translation>Kijelentkezve</translation>
     </message>
     <message>
         <source>Show Next Event</source>
@@ -15941,7 +15918,7 @@ Türelmét köszönjük.</translation>
     </message>
     <message>
         <source>Audio and video device configuration</source>
-        <translation type="unfinished">Hang és videoeszköz beállítása</translation>
+        <translation>Hang és videoeszköz beállítása</translation>
     </message>
 </context>
 <context>
@@ -17689,11 +17666,11 @@ Javítsd és próbáld újra.</translation>
     </message>
     <message>
         <source>Play!</source>
-        <translation type="unfinished">Indítás!</translation>
+        <translation>Indítás!</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished">Kilépés</translation>
+        <translation>Kilépés</translation>
     </message>
     <message>
         <source>Click Play to start</source>
@@ -17814,12 +17791,24 @@ And these work only in groupchat dialog:
 &lt;/ul&gt;</translation>
     </message>
     <message>
+        <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
         <translation>Tudtad, hogy engedélyezheted vagy letilthatod a fiókjaidat? Ez hasznos lehet abban az esetben, ha ritkán használod valamelyiket, így nem szemeteli tele a partnerlistádat.</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
         <translation>Nem tetszenek a gombok helyei? Szeretnél egy parancsikont az egyik állapothoz? Nézd meg az Eszköztárak testreszabása menüpontot, az eszköztárak alatt. Még úszó eszköztárat is készíthetsz!</translation>
+    </message>
+    <message>
+        <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
@@ -17830,8 +17819,18 @@ And these work only in groupchat dialog:
         <translation>Tudtad, hogy egy középgombos kattintás (az egered közepén lévő görgővel, vágod) az alapértelmezett cselekvést hajtja végre szinte mindenen a Psi-ben? Próbáld ki.</translation>
     </message>
     <message>
+        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
         <translation>Jobb gombra egy szerver nevén a címlistádban sok dolgot hajthatsz végre. Az állapotodat, fiókodat adminisztrálhatod, vagy ha van hozzá jogod, egyéb moderátori dolgokat is elvégezhetsz.</translation>
+    </message>
+    <message>
+        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
+&lt;br&gt;&lt;br&gt;
+Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
@@ -17853,28 +17852,6 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
-&lt;br&gt;&lt;br&gt;
-Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18672,7 +18649,7 @@ Ablak bezárása mégis?</translation>
     </message>
     <message>
         <source>vCard</source>
-        <translation type="unfinished">vCard</translation>
+        <translation>vCard</translation>
     </message>
 </context>
 <context>
@@ -18985,7 +18962,7 @@ Ablak bezárása mégis?</translation>
     <name>psiomemo::ConfigWidget</name>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">Beállítások</translation>
+        <translation>Beállítások</translation>
     </message>
     <message>
         <source>Known Keys</source>
@@ -19028,7 +19005,7 @@ Ablak bezárása mégis?</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">Felhasználó</translation>
+        <translation>Felhasználó</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -19122,14 +19099,6 @@ Ablak bezárása mégis?</translation>
 <context>
     <name>psiomemo::OMEMOPlugin</name>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Szerző: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">E-mail: </translation>
-    </message>
-    <message>
         <source>Credits: </source>
         <translation type="unfinished"></translation>
     </message>
@@ -19164,10 +19133,6 @@ Ablak bezárása mégis?</translation>
     <message>
         <source>Manage contact fingerprints</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="obsolete">Szerzők: </translation>
     </message>
     <message>
         <source>OMEMO is an end-to-end encryption protocol that leverages the Double Ratchet encryption scheme to provide multi-end to multi-end encryption, allowing messages to be synchronized securely across multiple clients, even if some of them are offline.</source>
@@ -19702,10 +19667,6 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Confirm action</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="obsolete">Szerzők: </translation>
     </message>
     <message>
         <source>For further information, see &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</source>

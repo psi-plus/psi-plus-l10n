@@ -13350,6 +13350,14 @@ Reason: %1.</source>
         <source>Set Topic</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Manage Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Manage Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -17576,11 +17584,11 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>Play!</source>
-        <translation type="unfinished">玩!</translation>
+        <translation>玩!</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished">退出</translation>
+        <translation>退出</translation>
     </message>
     <message>
         <source>Click Play to start</source>
@@ -18575,7 +18583,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>vCard</source>
-        <translation type="unfinished">虛擬名片</translation>
+        <translation>虛擬名片</translation>
     </message>
 </context>
 <context>

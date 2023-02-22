@@ -285,10 +285,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; per ulteriori dettagli!</tra
         <translation>Informazioni su Psi</translation>
     </message>
     <message>
-        <source>Cross-platform XMPP client aimed at experienced users.</source>
-        <translation type="vanished">Client XMPP multipiattaforma rivolto ad utenti esperti.</translation>
-    </message>
-    <message>
         <source>Cross-platform XMPP client designed for experienced users.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6796,19 +6792,19 @@ Nota: Per funzionare correttamente, l&apos;opzione options.ui.chat.central-toolb
     <name>ImagePreviewOptions</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Modulo</translation>
+        <translation>Modulo</translation>
     </message>
     <message>
         <source>Maximum image size</source>
-        <translation type="unfinished">Dimensione massima immagine</translation>
+        <translation>Dimensione massima immagine</translation>
     </message>
     <message>
         <source>Image preview size in pixels</source>
-        <translation type="unfinished">Dimensione anteprima immagine in pixel</translation>
+        <translation>Dimensione anteprima immagine in pixel</translation>
     </message>
     <message>
         <source>Allow upscale</source>
-        <translation type="unfinished">Permetti upscale</translation>
+        <translation>Permetti upscale</translation>
     </message>
     <message>
         <source>Exceptions</source>
@@ -6816,23 +6812,23 @@ Nota: Per funzionare correttamente, l&apos;opzione options.ui.chat.central-toolb
     </message>
     <message>
         <source>512 Kb</source>
-        <translation type="unfinished">512 Kb</translation>
+        <translation>512 Kb</translation>
     </message>
     <message>
         <source>1 Mb</source>
-        <translation type="unfinished">1 Mb</translation>
+        <translation>1 Mb</translation>
     </message>
     <message>
         <source>2 Mb</source>
-        <translation type="unfinished">2 Mb</translation>
+        <translation>2 Mb</translation>
     </message>
     <message>
         <source>5 Mb</source>
-        <translation type="unfinished">5 Mb</translation>
+        <translation>5 Mb</translation>
     </message>
     <message>
         <source>10 Mb</source>
-        <translation type="unfinished">10 Mb</translation>
+        <translation>10 Mb</translation>
     </message>
 </context>
 <context>
@@ -8047,10 +8043,6 @@ perchè è sotto GPL
 
 Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
-    <message>
-        <source>About plugin</source>
-        <translation type="vanished">Info plugin</translation>
-    </message>
 </context>
 <context>
     <name>MessageFilter</name>
@@ -8185,11 +8177,11 @@ Dettagli: %1</translation>
     <name>MucInfo</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Finestra</translation>
+        <translation>Finestra</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished">Account:</translation>
+        <translation>Account:</translation>
     </message>
     <message>
         <source>ID:</source>
@@ -8197,11 +8189,11 @@ Dettagli: %1</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Nome:</translation>
+        <translation>Nome:</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished">Descrizione:</translation>
+        <translation>Descrizione:</translation>
     </message>
     <message>
         <source>&amp;General</source>
@@ -13553,6 +13545,14 @@ Motivo: %1.</translation>
         <source>Set Topic</source>
         <translation>Imposta argomento</translation>
     </message>
+    <message>
+        <source>Manage Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Manage Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -13656,7 +13656,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Command</source>
-        <translation type="unfinished">Comando</translation>
+        <translation>Comando</translation>
     </message>
 </context>
 <context>
@@ -14400,15 +14400,15 @@ Vuoi attivare quella sessione ora?</translation>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Opzioni</translation>
+        <translation>Opzioni</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished">Connesso</translation>
+        <translation>Connesso</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Disconnesso</translation>
+        <translation>Disconnesso</translation>
     </message>
     <message>
         <source>Show Next Event</source>
@@ -17826,11 +17826,11 @@ Correggere e provare ancora.</translation>
     </message>
     <message>
         <source>Play!</source>
-        <translation type="unfinished">Gioca!</translation>
+        <translation>Gioca!</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished">Esci</translation>
+        <translation>Esci</translation>
     </message>
     <message>
         <source>Click Play to start</source>
@@ -18833,7 +18833,7 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>vCard</source>
-        <translation type="unfinished">vCard</translation>
+        <translation>vCard</translation>
     </message>
 </context>
 <context>

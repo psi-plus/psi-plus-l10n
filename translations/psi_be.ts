@@ -3118,10 +3118,6 @@ Proceed?</source>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation>Убудова дазваляе лёгка спампоўваць ды ўсталёўваць наборы значкаў ды іншыя файлы для «Псі+».</translation>
     </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Эл. пошта: </translation>
-    </message>
 </context>
 <context>
     <name>CreateGroupDlg</name>
@@ -5775,10 +5771,6 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
         <source>Public key %1 sent</source>
         <translation type="vanished">Публічны ключ «%1» адпраўлены</translation>
     </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Эл. пошта: </translation>
-    </message>
 </context>
 <context>
     <name>GomokuGame::InvitationDialog</name>
@@ -6743,11 +6735,11 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>ImagePreviewOptions</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Maximum image size</source>
-        <translation type="unfinished">Максімальны памер выявы</translation>
+        <translation>Максімальны памер выявы</translation>
     </message>
     <message>
         <source>Image preview size in pixels</source>
@@ -7680,11 +7672,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Add to bookmarks</source>
-        <translation type="unfinished">Закласьці</translation>
+        <translation>Закласьці</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Забраць</translation>
     </message>
 </context>
 <context>
@@ -7956,10 +7948,6 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
         <translation type="vanished">Эл. пошта: </translation>
     </message>
     <message>
-        <source>Email: </source>
-        <translation type="vanished">Эл. пошта: </translation>
-    </message>
-    <message>
         <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8082,11 +8070,11 @@ Details: %1</source>
     <name>MucInfo</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Размова</translation>
+        <translation>Размова</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished">Рахунак:</translation>
+        <translation>Рахунак:</translation>
     </message>
     <message>
         <source>ID:</source>
@@ -8094,11 +8082,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Назва:</translation>
+        <translation>Назва:</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished">Апісаньне:</translation>
+        <translation>Апісаньне:</translation>
     </message>
     <message>
         <source>&amp;General</source>
@@ -8319,17 +8307,6 @@ Tags: %1</source>
     </message>
 </context>
 <context>
-    <name>OpenPGP</name>
-    <message>
-        <source>Authors: </source>
-        <translation type="obsolete">Аўтары: </translation>
-    </message>
-    <message>
-        <source>Send GnuPG Public Key</source>
-        <translation type="obsolete">Адправіць публічны GnuPG-ключ</translation>
-    </message>
-</context>
-<context>
     <name>OpenPgpMessaging</name>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
@@ -8338,16 +8315,12 @@ Tags: %1</source>
     <message>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
-        <translation type="unfinished">Далі хібу, калі спрабавалі усталяваць стан.
+        <translation>Далі хібу, калі спрабавалі усталяваць стан.
 Падстава: %1.</translation>
     </message>
 </context>
 <context>
     <name>OpenPgpPlugin</name>
-    <message>
-        <source>Authors: </source>
-        <translation type="obsolete">Аўтары: </translation>
-    </message>
     <message>
         <source>Embedded Keys Manager can do only basic operations like creating, removing, exporting and importing PGP keys. This should be enough to most of users needs. For more complicated cases use special software.</source>
         <translation type="unfinished"></translation>
@@ -8397,38 +8370,38 @@ Reason: %1.</source>
     <name>OpenPgpPluginNamespace::GpgProcess</name>
     <message>
         <source>Can&apos;t start </source>
-        <translation type="unfinished">Нельга пачаць</translation>
+        <translation>Нельга пачаць</translation>
     </message>
     <message>
         <source>GnuPG program not found</source>
-        <translation type="unfinished">Праграма GnuPG нязнойдзеная</translation>
+        <translation>Праграма GnuPG нязнойдзеная</translation>
     </message>
 </context>
 <context>
     <name>OpenPgpPluginNamespace::PGPKeyDlg</name>
     <message>
         <source>&amp;Diagnostics</source>
-        <translation type="unfinished">Дыя&amp;ґностыка</translation>
+        <translation>Дыя&amp;ґностыка</translation>
     </message>
     <message>
         <source>Key ID</source>
-        <translation type="unfinished">Азначальнік ключа</translation>
+        <translation>Азначальнік ключа</translation>
     </message>
     <message>
         <source>User ID</source>
-        <translation type="unfinished">Азначальнік карыстальніка</translation>
+        <translation>Азначальнік карыстальніка</translation>
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation type="unfinished">Звесткі GnuPG</translation>
+        <translation>Звесткі GnuPG</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Далі хібу</translation>
+        <translation>Далі хібу</translation>
     </message>
     <message>
         <source>Please select a key.</source>
-        <translation type="unfinished">Абярыце ключ, калі ласка.</translation>
+        <translation>Абярыце ключ, калі ласка.</translation>
     </message>
 </context>
 <context>
@@ -9311,11 +9284,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Place avatars at left</source>
-        <translation type="unfinished">Увасабленьні — леваруч</translation>
+        <translation>Увасабленьні — леваруч</translation>
     </message>
     <message>
         <source>Place status icon over avatar</source>
-        <translation type="unfinished">Значак стану — па-над увасабленьнем</translation>
+        <translation>Значак стану — па-над увасабленьнем</translation>
     </message>
 </context>
 <context>
@@ -10321,11 +10294,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Select &amp;Key...</source>
-        <translation type="unfinished">Абраць &amp;ключ…</translation>
+        <translation>Абраць &amp;ключ…</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">Настаўленьні</translation>
+        <translation>Настаўленьні</translation>
     </message>
     <message>
         <source>OpenPGP encryption policy</source>
@@ -10361,11 +10334,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">Перапісаць адбітак</translation>
+        <translation>Перапісаць адбітак</translation>
     </message>
     <message>
         <source>&amp;Diagnostics</source>
-        <translation type="unfinished">Дыя&amp;ґностыка</translation>
+        <translation>Дыя&amp;ґностыка</translation>
     </message>
     <message>
         <source>Known Keys</source>
@@ -10373,35 +10346,35 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Рахунак</translation>
+        <translation>Рахунак</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">Карыстальнік</translation>
+        <translation>Карыстальнік</translation>
     </message>
     <message>
         <source>Key ID</source>
-        <translation type="unfinished">Азначальнік ключа</translation>
+        <translation>Азначальнік ключа</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Адбітак</translation>
+        <translation>Адбітак</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
-        <translation type="unfinished">Ці ўпэўненыя вы, што хочаце выдаліць гэты ключ?</translation>
+        <translation>Ці ўпэўненыя вы, што хочаце выдаліць гэты ключ?</translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="unfinished">Рахунак: </translation>
+        <translation>Рахунак: </translation>
     </message>
     <message>
         <source>User: </source>
-        <translation type="unfinished">Карыстальнік: </translation>
+        <translation>Карыстальнік: </translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished">Адбітак: </translation>
+        <translation>Адбітак: </translation>
     </message>
     <message>
         <source>Confirm action</source>
@@ -10413,7 +10386,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>User ID</source>
-        <translation type="unfinished">Азначальнік карыстальніка</translation>
+        <translation>Азначальнік карыстальніка</translation>
     </message>
     <message>
         <source>gpg-agent configuration</source>
@@ -10437,7 +10410,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Перасьцярога</translation>
+        <translation>Перасьцярога</translation>
     </message>
     <message>
         <source>Attempt to save gpg-agent config is failed! Check that you have write permission for file:
@@ -11036,7 +11009,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Authors</source>
-        <translation type="unfinished">Аўтары</translation>
+        <translation>Аўтары</translation>
     </message>
     <message>
         <source>Plugin Path</source>
@@ -13398,6 +13371,14 @@ Reason: %1.</source>
         <source>Set Topic</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Manage Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Manage Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -13501,7 +13482,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Command</source>
-        <translation type="unfinished">Загад</translation>
+        <translation>Загад</translation>
     </message>
 </context>
 <context>
@@ -14007,12 +13988,8 @@ Would you like to activate that session now?</source>
 <context>
     <name>PsiMediaPlugin</name>
     <message>
-        <source>Authors: </source>
-        <translation type="obsolete">Аўтары: </translation>
-    </message>
-    <message>
         <source>Thanks To</source>
-        <translation type="unfinished">Падзякі</translation>
+        <translation>Падзякі</translation>
     </message>
     <message>
         <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
@@ -14246,15 +14223,15 @@ Would you like to activate that session now?</source>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Можнасьці</translation>
+        <translation>Можнасьці</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished">У сетцы</translation>
+        <translation>У сетцы</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Па-за сеткаю</translation>
+        <translation>Па-за сеткаю</translation>
     </message>
     <message>
         <source>Show Next Event</source>
@@ -15880,7 +15857,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Audio and video device configuration</source>
-        <translation type="unfinished">Прылады гуку ды відэа</translation>
+        <translation>Прылады гуку ды відэа</translation>
     </message>
 </context>
 <context>
@@ -17651,11 +17628,11 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>Play!</source>
-        <translation type="unfinished">Гуляць!</translation>
+        <translation>Гуляць!</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished">Выйсьці</translation>
+        <translation>Выйсьці</translation>
     </message>
     <message>
         <source>Click Play to start</source>
@@ -18649,7 +18626,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>vCard</source>
-        <translation type="unfinished">Візытоўка</translation>
+        <translation>Візытоўка</translation>
     </message>
 </context>
 <context>
@@ -18998,7 +18975,7 @@ Do you still want to close the window?</source>
     <name>psiomemo::ConfigWidget</name>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">Настаўленьні</translation>
+        <translation>Настаўленьні</translation>
     </message>
     <message>
         <source>Known Keys</source>
@@ -19041,7 +19018,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">Карыстальнік</translation>
+        <translation>Карыстальнік</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -19049,7 +19026,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">Перапісаць адбітак</translation>
+        <translation>Перапісаць адбітак</translation>
     </message>
 </context>
 <context>
@@ -19106,7 +19083,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">Перапісаць адбітак</translation>
+        <translation>Перапісаць адбітак</translation>
     </message>
 </context>
 <context>
@@ -19134,14 +19111,6 @@ Do you still want to close the window?</source>
 </context>
 <context>
     <name>psiomemo::OMEMOPlugin</name>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Аўтар: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Эл. пошта: </translation>
-    </message>
     <message>
         <source>Credits: </source>
         <translation type="unfinished"></translation>
@@ -19179,10 +19148,6 @@ Do you still want to close the window?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Authors: </source>
-        <translation type="obsolete">Аўтары: </translation>
-    </message>
-    <message>
         <source>OMEMO is an end-to-end encryption protocol that leverages the Double Ratchet encryption scheme to provide multi-end to multi-end encryption, allowing messages to be synchronized securely across multiple clients, even if some of them are offline.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -19204,7 +19169,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Perfect forward secrecy</source>
-        <translation type="unfinished">Дасканалая прамая таемнасьць</translation>
+        <translation>Дасканалая прамая таемнасьць</translation>
     </message>
     <message>
         <source>Compromised key material does not compromise previous or future message exchanges.</source>
@@ -19212,7 +19177,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="unfinished">Апазнаваць</translation>
+        <translation>Апазнаваць</translation>
     </message>
     <message>
         <source>Every peer is able to authenticate the sender or receiver of a message.</source>
@@ -19543,7 +19508,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
-        <translation type="unfinished">Ці ўпэўненыя вы, што хочаце выдаліць гэты ключ?</translation>
+        <translation>Ці ўпэўненыя вы, што хочаце выдаліць гэты ключ?</translation>
     </message>
     <message>
         <source>Confirm action</source>
@@ -19757,10 +19722,6 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Confirm action</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="obsolete">Аўтары: </translation>
     </message>
     <message>
         <source>For further information, see &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</source>

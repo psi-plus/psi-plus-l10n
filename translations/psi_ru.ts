@@ -277,10 +277,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation>О Psi+</translation>
     </message>
     <message>
-        <source>Cross-platform XMPP client aimed at experienced users.</source>
-        <translation type="vanished">Мультиплатформенный XMPP-клиент для опытных пользователей.</translation>
-    </message>
-    <message>
         <source>Cross-platform XMPP client designed for experienced users.</source>
         <translation>Кроссплатформенный XMPP-клиент для опытных пользователей.</translation>
     </message>
@@ -8054,10 +8050,6 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
 
 Россия, Тамбов, 2005 (denis@silversoft.net)</translation>
     </message>
-    <message>
-        <source>About plugin</source>
-        <translation type="vanished">О плагине</translation>
-    </message>
 </context>
 <context>
     <name>MessageFilter</name>
@@ -13564,6 +13556,14 @@ Reason: %1.</source>
         <source>Set Topic</source>
         <translation>Установить тему</translation>
     </message>
+    <message>
+        <source>Manage Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Manage Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -17853,11 +17853,11 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>Play!</source>
-        <translation type="unfinished">Играть!</translation>
+        <translation>Играть!</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished">Выход</translation>
+        <translation>Выход</translation>
     </message>
     <message>
         <source>Click Play to start</source>

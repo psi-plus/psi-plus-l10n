@@ -1249,7 +1249,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Work</source>
-        <translation type="unfinished">Laboro</translation>
+        <translation>Laboro</translation>
     </message>
     <message>
         <source>Postal</source>
@@ -7033,7 +7033,7 @@ Kialo: %1</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Forigi</translation>
+        <translation>Forigi</translation>
     </message>
 </context>
 <context>
@@ -7607,7 +7607,7 @@ Tags: %1</source>
     <message>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
-        <translation type="unfinished">Okazis eraro provante signi vian staton.
+        <translation>Okazis eraro provante signi vian staton.
 Kialo: %1.</translation>
     </message>
 </context>
@@ -7689,11 +7689,11 @@ Kialo: %1.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Eraro</translation>
+        <translation>Eraro</translation>
     </message>
     <message>
         <source>Please select a key.</source>
-        <translation type="unfinished">Bonvolu elekti ŝlosilon.</translation>
+        <translation>Bonvolu elekti ŝlosilon.</translation>
     </message>
 </context>
 <context>
@@ -8066,15 +8066,15 @@ Kialo: %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Audio output:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Audio input:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Video input:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Audio output:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9549,7 +9549,7 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Averto</translation>
     </message>
     <message>
         <source>Attempt to save gpg-agent config is failed! Check that you have write permission for file:
@@ -12378,10 +12378,18 @@ Kialo: %1.</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished">Informo</translation>
+        <translation>Informo</translation>
     </message>
     <message>
         <source>Set Topic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Manage Accounts</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13205,15 +13213,15 @@ Would you like to activate that session now?</source>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Opcioj</translation>
+        <translation>Opcioj</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished"></translation>
+        <translation>Konektita</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Senkonekta</translation>
     </message>
     <message>
         <source>Show Next Event</source>
@@ -16434,7 +16442,7 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished">Eliri</translation>
+        <translation>Eliri</translation>
     </message>
     <message>
         <source>Click Play to start</source>
@@ -16523,12 +16531,24 @@ Kaj tiuj ĉi uzeblos nur en dialogujo de babilejo:
 &lt;/ul&gt;</translation>
     </message>
     <message>
+        <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
         <translation>Ĉu vi sciis ke vi povas uzi elektujojn en la dialogujo pri agori kontojn, por aktivigi/malaktivigi kontojn? Tio eble utilas al vi, se vi uzas iun konton nur maloftege, kaj vi ne volas ke ĝi ĝenu en la kontaktlisto.</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
         <translation>Ĉu vi ne ŝatas la nunan lokon de la butonoj?  Ĉu vi volas kroman butonon por ŝanĝi vian staton al Fora?  Rigardu la fenestron pri agordo de ilobretoj, kiu disponeblas per la kunteksta menuo de la ilobretoj.  Vi povas eĉ fari ke ilobreto flosu!</translation>
+    </message>
+    <message>
+        <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
@@ -16539,8 +16559,18 @@ Kaj tiuj ĉi uzeblos nur en dialogujo de babilejo:
         <translation>Ĉu vi sciis ke la meza musbutono (tiu meza, de tributonaj musoj) uzatas por &quot;ordoni la antaŭsupozitan agon&quot; sur plurajn objektojn en Psio?  Provu klaki per la meza buttono sur kontakton aŭ ŝprucaĵon.</translation>
     </message>
     <message>
+        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
         <translation>Vi povas dekstre-klaki sur la nomo de servilo en via kontaktolisto por fari diversaĵojn.  Vi povas ŝanĝi vian staton, ŝanĝi la agordojn de via konto, ŝanĝu administraĵojn (se vi rajtas), kaj pli.</translation>
+    </message>
+    <message>
+        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
+&lt;br&gt;&lt;br&gt;
+Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
@@ -16561,28 +16591,6 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
-&lt;br&gt;&lt;br&gt;
-Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17335,7 +17343,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>vCard</source>
-        <translation type="unfinished">vCard</translation>
+        <translation>vCard</translation>
     </message>
 </context>
 <context>

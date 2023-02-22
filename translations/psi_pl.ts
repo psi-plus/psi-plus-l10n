@@ -3067,10 +3067,6 @@ Kontynuować?</translation>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation>Ten dodatek stworzono aby ułatwić pobieranie i instalowanie zestawów ikon i innych zasobów dla Psi+</translation>
     </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">email:</translation>
-    </message>
 </context>
 <context>
     <name>CreateGroupDlg</name>
@@ -5706,10 +5702,6 @@ Uwaga: Wtyczka sprawdza nowe wiadomości tylko w folderze w katalogu głównym n
         <source>e-mail: </source>
         <translation type="vanished">email:</translation>
     </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">email:</translation>
-    </message>
 </context>
 <context>
     <name>GomokuGame::InvitationDialog</name>
@@ -6669,7 +6661,7 @@ Nota: Do poprawnej pracy opcja: options.ui.chat.central-toolbar musi mieć warto
     <name>ImagePreviewOptions</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Formularz</translation>
+        <translation>Formularz</translation>
     </message>
     <message>
         <source>Maximum image size</source>
@@ -7602,11 +7594,11 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source>Add to bookmarks</source>
-        <translation type="unfinished">Dodaj do zakładek</translation>
+        <translation>Dodaj do zakładek</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Usuń</translation>
+        <translation>Usuń</translation>
     </message>
 </context>
 <context>
@@ -7864,10 +7856,6 @@ Przychodzące zdarzenie(a) od:</translation>
         <translation type="vanished">email:</translation>
     </message>
     <message>
-        <source>Email: </source>
-        <translation type="vanished">email:</translation>
-    </message>
-    <message>
         <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7985,7 +7973,7 @@ Details: %1</source>
     <name>MucInfo</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Dialog</translation>
+        <translation>Dialog</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -7997,11 +7985,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Nazwa:</translation>
+        <translation>Nazwa:</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished">Opis:</translation>
+        <translation>Opis:</translation>
     </message>
     <message>
         <source>&amp;General</source>
@@ -8211,13 +8199,6 @@ Etykiety: %1</translation>
     </message>
 </context>
 <context>
-    <name>OpenPGP</name>
-    <message>
-        <source>Authors: </source>
-        <translation type="obsolete">Autorzy:</translation>
-    </message>
-</context>
-<context>
     <name>OpenPgpMessaging</name>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
@@ -8226,16 +8207,12 @@ Etykiety: %1</translation>
     <message>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
-        <translation type="unfinished">Wystąpił błąd podczas podpisywania statusu.
+        <translation>Wystąpił błąd podczas podpisywania statusu.
 Przyczyna: %1.</translation>
     </message>
 </context>
 <context>
     <name>OpenPgpPlugin</name>
-    <message>
-        <source>Authors: </source>
-        <translation type="obsolete">Autorzy:</translation>
-    </message>
     <message>
         <source>Embedded Keys Manager can do only basic operations like creating, removing, exporting and importing PGP keys. This should be enough to most of users needs. For more complicated cases use special software.</source>
         <translation type="unfinished"></translation>
@@ -8296,15 +8273,15 @@ Przyczyna: %1.</translation>
     <name>OpenPgpPluginNamespace::PGPKeyDlg</name>
     <message>
         <source>&amp;Diagnostics</source>
-        <translation type="unfinished">&amp;Diagnostyka</translation>
+        <translation>&amp;Diagnostyka</translation>
     </message>
     <message>
         <source>Key ID</source>
-        <translation type="unfinished">ID klucza</translation>
+        <translation>ID klucza</translation>
     </message>
     <message>
         <source>User ID</source>
-        <translation type="unfinished">ID użytkownika</translation>
+        <translation>ID użytkownika</translation>
     </message>
     <message>
         <source>GnuPG info</source>
@@ -8312,11 +8289,11 @@ Przyczyna: %1.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Błąd</translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <source>Please select a key.</source>
-        <translation type="unfinished">Proszę wybrać klucz.</translation>
+        <translation>Proszę wybrać klucz.</translation>
     </message>
 </context>
 <context>
@@ -9196,11 +9173,11 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     </message>
     <message>
         <source>Place avatars at left</source>
-        <translation type="unfinished">Umieść awatary po lewej</translation>
+        <translation>Umieść awatary po lewej</translation>
     </message>
     <message>
         <source>Place status icon over avatar</source>
-        <translation type="unfinished">Umieść Ikonę stanu za awatarem</translation>
+        <translation>Umieść Ikonę stanu za awatarem</translation>
     </message>
 </context>
 <context>
@@ -10098,7 +10075,7 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     </message>
     <message>
         <source>Select &amp;Key...</source>
-        <translation type="unfinished">Wybierz &amp;Klucz...</translation>
+        <translation>Wybierz &amp;Klucz...</translation>
     </message>
     <message>
         <source>Configuration</source>
@@ -10142,7 +10119,7 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     </message>
     <message>
         <source>&amp;Diagnostics</source>
-        <translation type="unfinished">&amp;Diagnostyka</translation>
+        <translation>&amp;Diagnostyka</translation>
     </message>
     <message>
         <source>Known Keys</source>
@@ -10150,7 +10127,7 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Konto</translation>
+        <translation>Konto</translation>
     </message>
     <message>
         <source>User</source>
@@ -10158,7 +10135,7 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     </message>
     <message>
         <source>Key ID</source>
-        <translation type="unfinished">ID klucza</translation>
+        <translation>ID klucza</translation>
     </message>
     <message>
         <source>Fingerprint</source>
@@ -10190,7 +10167,7 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     </message>
     <message>
         <source>User ID</source>
-        <translation type="unfinished">ID użytkownika</translation>
+        <translation>ID użytkownika</translation>
     </message>
     <message>
         <source>gpg-agent configuration</source>
@@ -10214,7 +10191,7 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostrzeżenie</translation>
     </message>
     <message>
         <source>Attempt to save gpg-agent config is failed! Check that you have write permission for file:
@@ -10813,7 +10790,7 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     </message>
     <message>
         <source>Authors</source>
-        <translation type="unfinished">Autorzy</translation>
+        <translation>Autorzy</translation>
     </message>
     <message>
         <source>Plugin Path</source>
@@ -13111,6 +13088,14 @@ Przyczyna: %1.</translation>
         <source>Set Topic</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Manage Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Manage Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -13214,7 +13199,7 @@ Przyczyna: %1.</translation>
     </message>
     <message>
         <source>Command</source>
-        <translation type="unfinished">Polecenie</translation>
+        <translation>Polecenie</translation>
     </message>
 </context>
 <context>
@@ -13712,12 +13697,8 @@ Czy chcesz teraz aktywować sesję?</translation>
 <context>
     <name>PsiMediaPlugin</name>
     <message>
-        <source>Authors: </source>
-        <translation type="obsolete">Autorzy:</translation>
-    </message>
-    <message>
         <source>Thanks To</source>
-        <translation type="unfinished">Podziękowania</translation>
+        <translation>Podziękowania</translation>
     </message>
     <message>
         <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
@@ -13951,15 +13932,15 @@ Czy chcesz teraz aktywować sesję?</translation>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcje</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostępny</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Niedostępny</translation>
     </message>
     <message>
         <source>Show Next Event</source>
@@ -15558,7 +15539,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Audio and video device configuration</source>
-        <translation type="unfinished">Konfiguracja urządzeń audio i wideo</translation>
+        <translation>Konfiguracja urządzeń audio i wideo</translation>
     </message>
 </context>
 <context>
@@ -17273,7 +17254,7 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Wujdź</translation>
     </message>
     <message>
         <source>Click Play to start</source>
@@ -17387,12 +17368,24 @@ Poniższe polecenie działa jedynie w trakcie prowadzenia konferencji:
 &lt;/dl&gt;</translation>
     </message>
     <message>
+        <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
         <translation>Czy wiesz, że możesz używać pól wyboru w &lt;b&gt;Konfiguracji kont&lt;/b&gt; aby włączać i wyłączać konta? To może być przydatne w sytuacji, gdy posiadasz konta z których rzadko korzystasz, a nie chcesz aby zaśmiecały Ci listę kontaktów.</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
         <translation>Nie podoba Ci się położenie przycisków? Chcesz mieć przycisk do zmiany Twojego stanu na Nieobecny? Sprawdź &lt;b&gt;Konfigurację paska narzędzi&lt;/b&gt;. która jest dostępna w menu kontekstowym paska narzędzi. Możesz nawet mieć pływający pasek narzędzi!</translation>
+    </message>
+    <message>
+        <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
@@ -17403,8 +17396,18 @@ Poniższe polecenie działa jedynie w trakcie prowadzenia konferencji:
         <translation>Czy wiesz że kliknięcie środkowym przyciskiem (przy użyciu odpowiedniego przycisku lub rolki myszki) wykona &lt;i&gt;domyślną akcję&lt;/i&gt; dla wielu obiektów w Psi? Spróbuj środkowych kliknięć na kontakcie lub okienku komunikatu.</translation>
     </message>
     <message>
+        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
         <translation>Możesz kliknąć prawym przyciskiem na nazwie serwera (lub konta) w liście kontaktów, aby móc wykonać różne czynności. Możesz zmieniać status, modyfikować właściwości konta, wykonywać pewne czynności administracyjne (jeśli masz do tego uprawnienia) a nawet więcej.</translation>
+    </message>
+    <message>
+        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
+&lt;br&gt;&lt;br&gt;
+Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
@@ -17425,28 +17428,6 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
-&lt;br&gt;&lt;br&gt;
-Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18219,7 +18200,7 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     </message>
     <message>
         <source>vCard</source>
-        <translation type="unfinished">Wizytówka</translation>
+        <translation>Wizytówka</translation>
     </message>
 </context>
 <context>
@@ -18681,14 +18662,6 @@ Czy nadal chcesz zamknąć tablicę?</translation>
 <context>
     <name>psiomemo::OMEMOPlugin</name>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">email:</translation>
-    </message>
-    <message>
         <source>Credits: </source>
         <translation type="unfinished"></translation>
     </message>
@@ -18725,10 +18698,6 @@ Czy nadal chcesz zamknąć tablicę?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Authors: </source>
-        <translation type="obsolete">Autorzy:</translation>
-    </message>
-    <message>
         <source>OMEMO is an end-to-end encryption protocol that leverages the Double Ratchet encryption scheme to provide multi-end to multi-end encryption, allowing messages to be synchronized securely across multiple clients, even if some of them are offline.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18750,7 +18719,7 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     </message>
     <message>
         <source>Perfect forward secrecy</source>
-        <translation type="unfinished">Doskonałe utajnienie przekazywania</translation>
+        <translation>Doskonałe utajnienie przekazywania</translation>
     </message>
     <message>
         <source>Compromised key material does not compromise previous or future message exchanges.</source>
@@ -18758,7 +18727,7 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="unfinished">Uwierzytelnienie</translation>
+        <translation>Uwierzytelnienie</translation>
     </message>
     <message>
         <source>Every peer is able to authenticate the sender or receiver of a message.</source>
@@ -19249,10 +19218,6 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Confirm action</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="obsolete">Autorzy:</translation>
     </message>
     <message>
         <source>For further information, see &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</source>

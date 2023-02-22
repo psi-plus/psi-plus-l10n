@@ -7010,7 +7010,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Remover</translation>
+        <translation>Remover</translation>
     </message>
 </context>
 <context>
@@ -7665,11 +7665,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Erro</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <source>Please select a key.</source>
-        <translation type="unfinished">Por favor escolha a chave.</translation>
+        <translation>Por favor escolha a chave.</translation>
     </message>
 </context>
 <context>
@@ -8042,15 +8042,15 @@ Reason: %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Audio output:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Audio input:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Video input:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Audio output:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9523,7 +9523,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Alerta</translation>
+        <translation>Alerta</translation>
     </message>
     <message>
         <source>Attempt to save gpg-agent config is failed! Check that you have write permission for file:
@@ -12335,10 +12335,18 @@ Details: %1</source>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished">Informação</translation>
+        <translation>Informação</translation>
     </message>
     <message>
         <source>Set Topic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage Accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Manage Accounts</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13152,15 +13160,15 @@ Would you like to activate that session now?</source>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Opções</translation>
+        <translation>Opções</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished">Ligado</translation>
+        <translation>Ligado</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Desligado</translation>
+        <translation>Desligado</translation>
     </message>
     <message>
         <source>Show Next Event</source>
@@ -16345,7 +16353,7 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished">Sair</translation>
+        <translation>Sair</translation>
     </message>
     <message>
         <source>Click Play to start</source>
@@ -16389,14 +16397,6 @@ Please correct and try again.</source>
 </context>
 <context>
     <name>TipDlg</name>
-    <message>
-        <source>Hello! Thank you for downloading Psi!
-We hope that you will enjoy using it as we have enjoyed making it!
-&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
         <translation type="unfinished"></translation>
@@ -16472,12 +16472,20 @@ Note: Some server may disable transport registration to users from different ser
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This is the last tip.
-&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
+        <source>Contributed by</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Contributed by</source>
+        <source>Hello! Thank you for downloading Psi!
+We hope that you will enjoy using it as we have enjoyed making it!
+&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is the last tip.
+&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
