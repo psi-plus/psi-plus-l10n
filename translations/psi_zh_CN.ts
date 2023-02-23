@@ -13513,11 +13513,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Manage Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>管理账号</translation>
     </message>
     <message>
         <source>&amp;Manage Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>管理账号(&amp;M)</translation>
     </message>
 </context>
 <context>
