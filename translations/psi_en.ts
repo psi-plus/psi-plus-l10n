@@ -13548,11 +13548,11 @@ Reason: %1.</translation>
     </message>
     <message>
         <source>Manage Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Manage Accounts</translation>
     </message>
     <message>
         <source>&amp;Manage Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Manage Accounts</translation>
     </message>
 </context>
 <context>
