@@ -97,6 +97,10 @@
         <translation type="vanished">Themelues, Ana Grafike dhe Arnues</translation>
     </message>
     <message>
+        <source>Patcher, Plugins Writer and Fedora Packager</source>
+        <translation type="vanished">Arnues, Shkrues Shtojcash dhe Paketues për Fedora-n</translation>
+    </message>
+    <message>
         <source>Patcher and Plugins Writer</source>
         <translation>Arnues dhe Shkrues Shtojcash</translation>
     </message>
@@ -230,11 +234,11 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Patcher and Plugins Writer; MS Windows Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>Arnues dhe Shkrues Shtojcash, Paketues për MS Windows</translation>
     </message>
     <message>
         <source>Patcher and Plugins Writer; former Fedora Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>Arnues dhe Shkrues Shtojcash, ish-Paketues për Fedora-n</translation>
     </message>
     <message>
         <source>Patcher and former Ubuntu Packager</source>
@@ -250,7 +254,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Patcher and former Russian translator</source>
-        <translation type="unfinished"></translation>
+        <translation>Arnues dhe ish-përkthyes për rusishten</translation>
     </message>
     <message>
         <source>About Psi</source>
@@ -740,7 +744,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>S’aktivizohet dot SSL/TLS.  S’u gjet shtojcë.</translation>
     </message>
     <message>
         <source>Secret Key</source>
@@ -752,7 +756,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>&lt;i&gt;XMPP Address&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;i&gt;Adresa XMPP&lt;/i&gt; duhet të jetë e dhënë në formatin &lt;i&gt;user@host&lt;/i&gt;.</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -898,7 +902,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Cannot enable SSL/TLS. QCA2 Plugin not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>S’aktivizohet dot SSL/TLS. S’u gjet Shtojcë QCA2.</translation>
     </message>
     <message>
         <source>There was an error retrieving the server list</source>
@@ -931,7 +935,8 @@ When you enable this option you will not be able to find your password in config
     <message>
         <source>There was an error registering the account.
 Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pati një gabim në regjistrimin e llogarisë.
+Arsye: %1</translation>
     </message>
 </context>
 <context>
@@ -1402,11 +1407,11 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>%1 authorized you to view his status.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ju autorizoi të shihni gjendjen e tij.</translation>
     </message>
     <message>
         <source>%1 removed your authorization to view his status!</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 hoqi autorizimin tuaj për të parë gjendjen e tij!</translation>
     </message>
 </context>
 <context>
@@ -1425,7 +1430,7 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Disable if contact isn&apos;t from your roster</source>
-        <translation type="unfinished"></translation>
+        <translation>Çaktivizojeni, nëse kontakti s’është prej grupit tuaj</translation>
     </message>
     <message>
         <source>Online</source>
@@ -1466,11 +1471,12 @@ To work correctly, the plugin requires that the client of the other part support
     <message>
         <source>You can also specify a part of JID
 (without any additional symbols)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mundeni edhe të përcaktoni një pjesë të JID-së
+(pa ndonjë simbol shtesë)</translation>
     </message>
     <message>
         <source>Disable for your accounts (specify your JIDs):</source>
-        <translation type="unfinished"></translation>
+        <translation>Çaktivizojeni për llogaritë tuaja (specifikoni JID-të tuaja):</translation>
     </message>
     <message>
         <source>Timeout to reset counter:</source>
@@ -2197,7 +2203,8 @@ to play chess. He wants to play %2.</source>
     <message>
         <source>Your opponent has closed the board!
  You can still save the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kundërshtari juaj e mbylli fushën!
+ Mundeni ende të ruani lojën.</translation>
     </message>
     <message>
         <source>The game was rejected</source>
@@ -2303,7 +2310,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CleanerMainWindow</name>
     <message>
         <source>Psi Cleaner</source>
-        <translation type="unfinished"></translation>
+        <translation>Spastrues Psi</translation>
     </message>
     <message>
         <source>History</source>
@@ -2339,7 +2346,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source> files selected</source>
-        <translation type="unfinished"></translation>
+        <translation> kartela të përzgjedhura</translation>
     </message>
     <message>
         <source>Delete selected files</source>
@@ -2761,7 +2768,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjalosje në grup</translation>
     </message>
 </context>
 <context>
@@ -3310,6 +3317,14 @@ Proceed?</source>
         <translation type="vanished">Gabim gjatë kalimit</translation>
     </message>
     <message>
+        <source>To castle</source>
+        <translation type="vanished">Për rrokadë</translation>
+    </message>
+    <message>
+        <source>Do you want to castle?</source>
+        <translation type="vanished">Doni të bëhet rrokadë?</translation>
+    </message>
+    <message>
         <source>Yes</source>
         <translation type="vanished">Po</translation>
     </message>
@@ -3322,11 +3337,11 @@ Proceed?</source>
     <name>EDBFlatFile::File</name>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;big&gt;[Mesazh Sistemi]&lt;/big&gt;&lt;br&gt;S’jeni i autorizuar.</translation>
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;Your authorization has been removed!</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;big&gt;[Mesazhi Sistemi]&lt;/big&gt;&lt;br&gt;Autorizimi juaj është hequr!</translation>
     </message>
 </context>
 <context>
@@ -3362,7 +3377,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjalosje në grup</translation>
     </message>
     <message>
         <source>Always play sound</source>
@@ -3587,7 +3602,7 @@ Supports per contact on / off message enumeration via the buttons on the chats t
     </message>
     <message>
         <source>Please type in a transaction identifier first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ju lutemi, së pari shtypni një identifikues transaksioni.</translation>
     </message>
     <message>
         <source>Please complete all required fields (marked with a &apos;*&apos;).</source>
@@ -3617,11 +3632,11 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;big&gt;[Mesazh Sistemi]&lt;/big&gt;&lt;br&gt;S’jeni i autorizuar.</translation>
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;Your authorization has been removed!</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;big&gt;[Mesazhi Sistemi]&lt;/big&gt;&lt;br&gt;Autorizimi juaj është hequr!</translation>
     </message>
     <message>
         <source>%1 additions</source>
@@ -3833,7 +3848,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalojeni automatikisht si të madhe shkronjën e parë në një togfjalësh</translation>
     </message>
     <message>
         <source>Automatically scroll down the log when a message was sent</source>
@@ -3983,7 +3998,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Place status icon over avatar</source>
-        <translation type="unfinished"></translation>
+        <translation>Vendos ikonë gjendjeje mbi avatarin</translation>
     </message>
     <message>
         <source>Automatically remove temporary contacts</source>
@@ -4019,7 +4034,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Show &quot;Active Chats&quot; option in contact menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Shfaq mundësi “Fjalosje Aktive” te menu kontaktesh</translation>
     </message>
     <message>
         <source>Show &quot;Picture&quot; option in contact menu</source>
@@ -4115,7 +4130,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:skins_css&quot;&gt;CSS for Psi&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:skins_css&quot;&gt;CSS për Psi&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Disable wheel scroll</source>
@@ -4155,7 +4170,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Enable XML-console on login</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivizo konsolë XML me hyrjen</translation>
     </message>
     <message>
         <source>Enable last activity server</source>
@@ -4163,11 +4178,11 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Disable popup notifications if status is DND</source>
-        <translation type="unfinished"></translation>
+        <translation>Çaktivizo njoftime flluskë, nëse gjendja është MMB</translation>
     </message>
     <message>
         <source>Disable popup notifications if status is Away</source>
-        <translation type="unfinished"></translation>
+        <translation>Çaktivizo njoftime flluskë, nëse gjendja është I larguar</translation>
     </message>
     <message>
         <source>Notifications</source>
@@ -4194,7 +4209,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>Allow groupchat highlight events</source>
-        <translation type="unfinished"></translation>
+        <translation>Lejo akte theksim te fjalosje në grup</translation>
     </message>
     <message>
         <source>Enable multirow tabs</source>
@@ -4366,7 +4381,7 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>File I/O error</source>
-        <translation type="unfinished"></translation>
+        <translation>Gabim I/O kartele</translation>
     </message>
     <message>
         <source>Unable to accept the file.  Perhaps the sender has cancelled the request.</source>
@@ -4609,7 +4624,7 @@ Arsye: %3</translation>
     </message>
     <message>
         <source>Unable to connect to peer for data transfer.</source>
-        <translation type="unfinished"></translation>
+        <translation>S’arrihet të lidhet me palën tjetër për shpërngulje të dhënash.</translation>
     </message>
     <message>
         <source>Unable to connect to proxy for data transfer.</source>
@@ -4719,7 +4734,8 @@ Arsye: %1</translation>
     <message>
         <source>Are you sure you want to clear the chat window?
 (note: does not affect saved history)</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeni i sigurt se doni të spastrohet dritarja e fjalosjes?
+(shënim: s’prek historikun e ruajtur tashmë)</translation>
     </message>
     <message>
         <source>Disconnected.</source>
@@ -4923,7 +4939,7 @@ Arsye: %1</translation>
     </message>
     <message>
         <source>Unable to join groupchat.    Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>S’arrihet të hyhet në fjalosje në grup.    Arsye: %1</translation>
     </message>
     <message>
         <source>Paste and Send</source>
@@ -5182,6 +5198,10 @@ You lost the game.</source>
         <translation type="vanished">Jeni mat.
 E humbët lojën.</translation>
     </message>
+    <message>
+        <source>You have a stalemate</source>
+        <translation type="vanished">Jeni pat</translation>
+    </message>
 </context>
 <context>
     <name>GameModel</name>
@@ -5201,7 +5221,7 @@ E humbët lojën.</translation>
     <name>GameSessionList</name>
     <message>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
-        <translation type="unfinished"></translation>
+        <translation>Nga: %1&lt;br /&gt;Loja u hodh poshtë</translation>
     </message>
 </context>
 <context>
@@ -5220,7 +5240,7 @@ E humbët lojën.</translation>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
-        <translation type="unfinished"></translation>
+        <translation>Nga: %1&lt;br /&gt;Loja u hodh poshtë</translation>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;Game error.</source>
@@ -5263,7 +5283,7 @@ E humbët lojën.</translation>
     </message>
     <message>
         <source>Removes the selected word from the highlight list</source>
-        <translation type="unfinished"></translation>
+        <translation>Heq prej listës së theksuar fjalën e përzgjedhur</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -5343,7 +5363,7 @@ E humbët lojën.</translation>
     </message>
     <message>
         <source>Show technical kicks</source>
-        <translation type="unfinished"></translation>
+        <translation>Shfaq përzënie teknike</translation>
     </message>
 </context>
 <context>
@@ -5524,7 +5544,7 @@ E humbët lojën.</translation>
     <name>GetSkinName</name>
     <message>
         <source>Get Skin Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Merr Emër Lëkurçeje</translation>
     </message>
     <message>
         <source>Name: </source>
@@ -6486,6 +6506,10 @@ You can select or deselect a contact for history removal from the context menu o
 <context>
     <name>IcqDie</name>
     <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Në internet)&lt;/a&gt;</translation>
+    </message>
+    <message>
         <source>Author: </source>
         <translation type="vanished">Autor: </translation>
     </message>
@@ -6913,7 +6937,7 @@ Reason: %1</source>
     <name>InvateDialog</name>
     <message>
         <source>Gomoku Game Plugin - Invite</source>
-        <translation type="unfinished"></translation>
+        <translation>Shtojcë Loje Gomoku - Ftojeni</translation>
     </message>
     <message>
         <source>Opponent:</source>
@@ -6952,7 +6976,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Gomoku Game Plugin - Invitation</source>
-        <translation type="unfinished"></translation>
+        <translation>Shtojcë Loje Gomoku - Ftesë</translation>
     </message>
     <message>
         <source>second</source>
@@ -7025,7 +7049,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Jabber Disk - %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Disk Jabber - %1</translation>
     </message>
     <message>
         <source>&lt;b&gt;You:&lt;/b&gt; </source>
@@ -7181,7 +7205,7 @@ caching avatars will be not available</source>
     </message>
     <message>
         <source> replied:</source>
-        <translation type="unfinished"></translation>
+        <translation>u përgjigj:</translation>
     </message>
     <message>
         <source>Send personal message to %1</source>
@@ -7258,7 +7282,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>…</translation>
     </message>
     <message>
         <source>psi/arrowUp</source>
@@ -7462,7 +7486,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Host</source>
-        <translation type="unfinished"></translation>
+        <translation>Strehë</translation>
     </message>
     <message>
         <source>&amp;Favorites</source>
@@ -7498,7 +7522,8 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     <message>
         <source>Unable to join groupchat.
 Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>S’arrihet të hyhet te fjalosje në grup.
+Arsye: %1</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
@@ -7789,7 +7814,8 @@ Akt(e) ardhës nga:</translation>
     <message>
         <source>There was an error communicating with the XMPP server.
 Details: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pati një gabim komunikimi me shërbyesin XMPP.
+Hollësi: %1</translation>
     </message>
 </context>
 <context>
@@ -7836,7 +7862,7 @@ Details: %1</source>
     </message>
     <message>
         <source>JID (or part of JID)</source>
-        <translation type="unfinished"></translation>
+        <translation>JID (ose pjesë të JID-së)</translation>
     </message>
     <message>
         <source>Watch for JIDs</source>
@@ -8084,7 +8110,7 @@ Etiketa: %1</translation>
     </message>
     <message>
         <source>Some changes are not saved. Are you sure you want to quit?</source>
-        <translation type="unfinished"></translation>
+        <translation>Disa ndryshime s’u ruajtën. Jeni i sigurt se doni të dilet?</translation>
     </message>
     <message>
         <source>Some changes are not saved. Are you sure you want to continue?</source>
@@ -8130,7 +8156,8 @@ Etiketa: %1</translation>
     <message>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pati një gabim kur u provua të nënshkruhej gjendja juaj.
+Arsye: %1.</translation>
     </message>
 </context>
 <context>
@@ -8270,7 +8297,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Show subject line in events</source>
-        <translation type="unfinished"></translation>
+        <translation>Shfaq rresht subjekti në akte</translation>
     </message>
     <message>
         <source>Automatically get vCard when becoming online</source>
@@ -8290,7 +8317,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Treat incoming messages and chats as:</source>
-        <translation type="unfinished"></translation>
+        <translation>Trajtoji mesazhet ardhës dhe fjalosjet si:</translation>
     </message>
     <message>
         <source>Determined by sender</source>
@@ -8306,7 +8333,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Messages (Chats if Chatting)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesazhe (Fjalosje, nëse Po bisedohet)</translation>
     </message>
 </context>
 <context>
@@ -8566,7 +8593,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Data transfer external address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresë e jashtme shpërnguljeje të dhënash:</translation>
     </message>
     <message>
         <source>Proxy Settings</source>
@@ -8597,15 +8624,15 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Audio output:</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio në dalje:</translation>
     </message>
     <message>
         <source>Audio input:</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio në hyrje:</translation>
     </message>
     <message>
         <source>Video input:</source>
-        <translation type="unfinished"></translation>
+        <translation>Video në hyrje:</translation>
     </message>
     <message>
         <source>Video support:</source>
@@ -8759,14 +8786,14 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Animate</source>
-        <translation type="unfinished"></translation>
+        <translation>Animizoje</translation>
     </message>
 </context>
 <context>
     <name>OptInput</name>
     <message>
         <source>Auto-resize text input field</source>
-        <translation type="unfinished"></translation>
+        <translation>Vetëripërmaso fushë dhënieje tekstesh</translation>
     </message>
     <message>
         <source>Enable Spell Checking</source>
@@ -8786,7 +8813,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalojeni automatikisht si të madhe shkronjën e parë në një togfjalësh</translation>
     </message>
 </context>
 <context>
@@ -8857,7 +8884,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Record and share audio message</source>
-        <translation type="unfinished"></translation>
+        <translation>Incizoni dhe ndani me të tjerë mesazh audio</translation>
     </message>
     <message>
         <source>Enable audio messages</source>
@@ -8919,7 +8946,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Show incoming message on popup</source>
-        <translation type="unfinished"></translation>
+        <translation>Shfaq mesazh ardhës në flluskë</translation>
     </message>
     <message>
         <source>On incoming headline event</source>
@@ -9014,7 +9041,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Çaktivizon shtyllë rrëshqitjes te dritarja e aplikacionit</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
@@ -9054,7 +9081,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Moods</source>
-        <translation type="unfinished"></translation>
+        <translation>Humore</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
@@ -9118,7 +9145,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Place status icon over avatar</source>
-        <translation type="unfinished"></translation>
+        <translation>Vendos ikonë gjendjeje mbi avatarin</translation>
     </message>
 </context>
 <context>
@@ -9259,7 +9286,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Receive online status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Merr gjendje në linjë:</translation>
     </message>
     <message>
         <source>Receive message:</source>
@@ -9283,11 +9310,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Receive next chat:</source>
-        <translation type="unfinished"></translation>
+        <translation>Merr fjalosjen pasuese:</translation>
     </message>
     <message>
         <source>Receive first chat:</source>
-        <translation type="unfinished"></translation>
+        <translation>Merr fjalosjen e parë:</translation>
     </message>
     <message>
         <source>Receive offline status:</source>
@@ -9429,7 +9456,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Show &quot;Edit presets...&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Shfaq “Përpunoni paracaktime…”</translation>
     </message>
     <message>
         <source>Show &quot;Choose...&quot;</source>
@@ -9437,7 +9464,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Show &quot;Reconnect&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Shfaq “Rilidhu”</translation>
     </message>
     <message>
         <source>Presets</source>
@@ -9457,7 +9484,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Selected preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Paracaktim i përzgjedhur</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -9496,7 +9523,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Add extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>Shtoni zgjerime</translation>
     </message>
     <message>
         <source>Ignored media file extensions on psi tunes sending</source>
@@ -9652,7 +9679,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Toolbar action</source>
-        <translation type="unfinished"></translation>
+        <translation>Veprim te paneli</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -9685,6 +9712,10 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>Enable Off the Record Chats</source>
         <translation type="vanished">Aktivizo Fjalosje “Off the Record”</translation>
+    </message>
+    <message>
+        <source> Enable &quot;Mail notifications&quot; option!</source>
+        <translation type="vanished">Aktivizo mundësinë “Njoftime me email”!</translation>
     </message>
     <message>
         <source>Mail Notifications Settings</source>
@@ -10021,7 +10052,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>…</translation>
     </message>
     <message>
         <source>Name</source>
@@ -10049,11 +10080,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Show message if it satisfies the rule</source>
-        <translation type="unfinished"></translation>
+        <translation>Shfaqe mesazhin, nëse plotëson rregullin</translation>
     </message>
     <message>
         <source>Color for incoming messages numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Ngjyrë për numra mesazhesh ardhës</translation>
     </message>
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
@@ -10077,7 +10108,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>OpenPGP encryption policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Rregulla fshehtëzimesh OpenPGP</translation>
     </message>
     <message>
         <source>Always enabled</source>
@@ -10105,7 +10136,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Do not show messages with PGP keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Mos shfaq mesazhe me kyçe PGP</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
@@ -10157,7 +10188,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Choose Secret Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgjidhni Kyç të Fshehtë</translation>
     </message>
     <message>
         <source>User ID</source>
@@ -10173,11 +10204,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Ask password confirmation each</source>
-        <translation type="unfinished"></translation>
+        <translation>Kërko ripohim fjalëkalimi çdo</translation>
     </message>
     <message>
         <source>Open configuration file</source>
-        <translation type="unfinished"></translation>
+        <translation>Hap kartelë formësimi</translation>
     </message>
     <message>
         <source>Attempt to reload gpg-agent config is failed. You need to restart your system to see changes in gpg-agent settings.</source>
@@ -10208,11 +10239,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <name>OptionsTabAccounts</name>
     <message>
         <source>Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Llogari</translation>
     </message>
     <message>
         <source>Manage accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Administroni llogari</translation>
     </message>
 </context>
 <context>
@@ -10223,7 +10254,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Extra uncategorized options</source>
-        <translation type="unfinished"></translation>
+        <translation>Mundësi ekstra pa kategori</translation>
     </message>
     <message>
         <source>Enables the sending and requesting of message events such as &apos;Contact is Typing&apos;, ...</source>
@@ -10239,7 +10270,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Send receipts to contacts by request.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dërgo dëftesa te kontakte sipas kërkesës.</translation>
     </message>
     <message>
         <source>Enables remote controlling your client from other locations</source>
@@ -10290,38 +10321,38 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <name>OptionsTabAppearance</name>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Dukje</translation>
     </message>
     <message>
         <source>Psi&apos;s appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Dukje e Psi-së</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabAppearanceGeneral</name>
     <message>
         <source>Fonts &amp;&amp; Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Shkronja &amp;&amp; Ngjyra</translation>
     </message>
     <message>
         <source>Fonts &amp;&amp; Color Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Rregullime Shkronjash &amp;&amp; Ngjyrash</translation>
     </message>
     <message>
         <source>Specifies the font style for the main window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Përcakton stilin e shkronjave për dritaren kryesore.</translation>
     </message>
     <message>
         <source>Specifies the font style for message windows.</source>
-        <translation type="unfinished"></translation>
+        <translation>Përcakton stil shkronjash për dritare fjalosjeje.</translation>
     </message>
     <message>
         <source>Specifies the font style for chat windows.</source>
-        <translation type="unfinished"></translation>
+        <translation>Përcakton stil shkronjash për dritare fjalosjeje.</translation>
     </message>
     <message>
         <source>Specifies the font style for popup windows.</source>
-        <translation type="unfinished"></translation>
+        <translation>Përcakton stil shkronjash për dritare flluskë.</translation>
     </message>
     <message>
         <source>Selects a font for the roster window using the font selection dialog.</source>
@@ -10341,23 +10372,23 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>online</source>
-        <translation type="unfinished"></translation>
+        <translation>në linjë</translation>
     </message>
     <message>
         <source>offline</source>
-        <translation type="unfinished"></translation>
+        <translation>jo në linjë</translation>
     </message>
     <message>
         <source>away</source>
-        <translation type="unfinished"></translation>
+        <translation>i larguar</translation>
     </message>
     <message>
         <source>do not disturb</source>
-        <translation type="unfinished"></translation>
+        <translation>mos më bezdisni</translation>
     </message>
     <message>
         <source>Status message</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesazh gjendjeje</translation>
     </message>
 </context>
 <context>
@@ -10368,52 +10399,52 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Miscellaneous Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Rregullime të Ndryshme</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabAppearanceTheme</name>
     <message>
         <source>Psi Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Temë Psi</translation>
     </message>
     <message>
         <source>Adium Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema Adium</translation>
     </message>
     <message>
         <source>Show theme screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Shfaq foto ekranit të temës</translation>
     </message>
     <message>
         <source>%1 Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Foto ekrani %1</translation>
     </message>
     <message>
         <source>No Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Pa Figurë</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabAppearanceThemes</name>
     <message>
         <source>Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema</translation>
     </message>
     <message>
         <source>Configure themes</source>
-        <translation type="unfinished"></translation>
+        <translation>Formësoni tema</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabApplication</name>
     <message>
         <source>Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplikacion</translation>
     </message>
     <message>
         <source>General application options</source>
-        <translation type="unfinished"></translation>
+        <translation>Mundësi të përgjithshme aplikacioni</translation>
     </message>
     <message>
         <source>Makes Psi use a docklet icon, also known as system tray icon.</source>
@@ -10445,7 +10476,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>(TCP: Disabled, UDP: Auto)</source>
-        <translation type="unfinished"></translation>
+        <translation>(TCP: E çaktivizuar, UDP: Auto)</translation>
     </message>
     <message>
         <source>(TCP: %1, UDP: %1-%2)</source>
@@ -10455,8 +10486,16 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
 <context>
     <name>OptionsTabAvCall</name>
     <message>
+        <source>Voice Calling</source>
+        <translation type="vanished">Thirrje me Zë</translation>
+    </message>
+    <message>
         <source>Audio and video device configuration</source>
         <translation type="vanished">Formësim pajisjesh audio dhe video</translation>
+    </message>
+    <message>
+        <source>Audio device configuration</source>
+        <translation type="vanished">Formësim pajisjesh audio</translation>
     </message>
 </context>
 <context>
@@ -10467,7 +10506,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Configure the chat dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Formësoni dialog fjalosjeje</translation>
     </message>
     <message>
         <source>Make the default action open a normal message window.</source>
@@ -10502,7 +10541,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <name>OptionsTabEvents</name>
     <message>
         <source>Events</source>
-        <translation type="unfinished"></translation>
+        <translation>Akte</translation>
     </message>
     <message>
         <source>The events behaviour</source>
@@ -10557,7 +10596,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Configure the groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Formësoni fjalosjen në grup</translation>
     </message>
 </context>
 <context>
@@ -10604,7 +10643,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <name>OptionsTabIconsetEmoticons</name>
     <message>
         <source>Emoticons</source>
-        <translation type="unfinished"></translation>
+        <translation>Emotikone</translation>
     </message>
     <message>
         <source>Select your emoticon iconsets</source>
@@ -10619,7 +10658,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <name>OptionsTabIconsetMoods</name>
     <message>
         <source>Moods</source>
-        <translation type="unfinished"></translation>
+        <translation>Humore</translation>
     </message>
     <message>
         <source>Select your mood iconset</source>
@@ -10630,7 +10669,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <name>OptionsTabIconsetRoster</name>
     <message>
         <source>Roster Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikona Liste</translation>
     </message>
     <message>
         <source>Select iconsets for your roster</source>
@@ -10638,15 +10677,15 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Transport</source>
-        <translation type="unfinished"></translation>
+        <translation>Transport</translation>
     </message>
     <message>
         <source>vk.com</source>
-        <translation type="unfinished"></translation>
+        <translation>vk.com</translation>
     </message>
     <message>
         <source>Weather</source>
-        <translation type="unfinished"></translation>
+        <translation>Moti</translation>
     </message>
     <message>
         <source>Toggles use of transport icons to the contacts, that use that transports.</source>
@@ -10657,7 +10696,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <name>OptionsTabIconsetSystem</name>
     <message>
         <source>System Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikona Sistemi</translation>
     </message>
     <message>
         <source>Select the system iconset</source>
@@ -10691,7 +10730,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Messages options</source>
-        <translation type="unfinished"></translation>
+        <translation>Mundësi mesazhesh</translation>
     </message>
 </context>
 <context>
@@ -10702,7 +10741,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Сommon options for messages section</source>
-        <translation type="unfinished"></translation>
+        <translation>Mundësi të rëndomta për pjesën mesazhe</translation>
     </message>
     <message>
         <source>Makes Psi open chats in a tabbed window.</source>
@@ -10729,7 +10768,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>General plugin options</source>
-        <translation type="unfinished"></translation>
+        <translation>Mundësi të përgjithshme të shtojcës</translation>
     </message>
 </context>
 <context>
@@ -10740,11 +10779,17 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Options for Psi plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Mundësi për shtojca Psi</translation>
+    </message>
+    <message>
+        <source>Plugin Path:
+%1</source>
+        <translation type="vanished">Shteg Shtojce:
+%1</translation>
     </message>
     <message>
         <source>Show information about plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Shfaq hollësi rreth shtojcës</translation>
     </message>
     <message>
         <source>Open plugin settings dialog</source>
@@ -10752,7 +10797,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>About plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Rreth shtojcës</translation>
     </message>
     <message>
         <source>Authors</source>
@@ -10760,18 +10805,18 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Plugin Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Shteg Shtojce</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabPopups</name>
     <message>
         <source>Popups</source>
-        <translation type="unfinished"></translation>
+        <translation>Flluska</translation>
     </message>
     <message>
         <source>The popups behaviour</source>
-        <translation type="unfinished"></translation>
+        <translation>Sjellje flluskash</translation>
     </message>
 </context>
 <context>
@@ -10782,7 +10827,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Roster options</source>
-        <translation type="unfinished"></translation>
+        <translation>Mundësi liste</translation>
     </message>
 </context>
 <context>
@@ -10809,7 +10854,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Shows the menubar in the application window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Shfaq shtyllën e menuve te dritare aplikacionesh.</translation>
     </message>
 </context>
 <context>
@@ -10827,23 +10872,23 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <name>OptionsTabShortcuts</name>
     <message>
         <source>Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Shkurtore</translation>
     </message>
     <message>
         <source>Options for Psi Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Mundësi për Shkurtore Psi-je</translation>
     </message>
     <message>
         <source>Unnamed group</source>
-        <translation type="unfinished"></translation>
+        <translation>Grup i paemër</translation>
     </message>
     <message>
         <source>Key %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tastin %1</translation>
     </message>
     <message>
         <source>Restore default shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Rikthe shkurtore parazgjedhje</translation>
     </message>
     <message>
         <source>Are you sure you would like to restore the default shortcuts?</source>
@@ -10854,11 +10899,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <name>OptionsTabSound</name>
     <message>
         <source>Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Tinguj</translation>
     </message>
     <message>
         <source>Configure how Psi sounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Formësoni tinguj në Psi</translation>
     </message>
     <message>
         <source>If your system supports multiple sound players, you may choose your preferred sound player application here.</source>
@@ -10874,11 +10919,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Windows Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Tingull në Windows</translation>
     </message>
     <message>
         <source>Mac OS Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Tingull në Mac OS</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -10897,7 +10942,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Status preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Parapëlqime për gjendjen</translation>
     </message>
 </context>
 <context>
@@ -10990,7 +11035,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <name>OptionsTabStatusPep</name>
     <message>
         <source>PEP</source>
-        <translation type="unfinished"></translation>
+        <translation>PEP</translation>
     </message>
     <message>
         <source>Tunes no-video filter and controllers switcher</source>
@@ -11005,7 +11050,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Configure Psi toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>Formësoni panele Psi-je</translation>
     </message>
     <message>
         <source>Chat</source>
@@ -11024,7 +11069,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Options for advanced users</source>
-        <translation type="unfinished"></translation>
+        <translation>Mundësi për përdorues të thelluar</translation>
     </message>
     <message>
         <source>Please note: This editor will change the options directly. Pressing Cancel will not revert these changes.</source>
@@ -11043,7 +11088,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Vlerë</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -11073,7 +11118,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>For all accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Për krejt llogaritë</translation>
     </message>
     <message>
         <source>Response mode</source>
@@ -11081,15 +11126,15 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>allow</source>
-        <translation type="unfinished"></translation>
+        <translation>lejoje</translation>
     </message>
     <message>
         <source>not implemented</source>
-        <translation type="unfinished"></translation>
+        <translation>e pasendërtuar</translation>
     </message>
     <message>
         <source>ignore</source>
-        <translation type="unfinished"></translation>
+        <translation>shpërfille</translation>
     </message>
     <message>
         <source>Deny iq time request</source>
@@ -11097,27 +11142,27 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>OS</source>
-        <translation type="unfinished"></translation>
+        <translation>OS</translation>
     </message>
     <message>
         <source>Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjedhe</translation>
     </message>
     <message>
         <source>OS name</source>
-        <translation type="unfinished"></translation>
+        <translation>Emër OS-i</translation>
     </message>
     <message>
         <source>Client</source>
-        <translation type="unfinished"></translation>
+        <translation>Klient</translation>
     </message>
     <message>
         <source>Client name</source>
-        <translation type="unfinished"></translation>
+        <translation>Emër klienti</translation>
     </message>
     <message>
         <source>Client version</source>
-        <translation type="unfinished"></translation>
+        <translation>Version klienti</translation>
     </message>
     <message>
         <source>Caps node</source>
@@ -11128,16 +11173,40 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Enable for:</source>
+        <translation type="vanished">Aktivizoje për:</translation>
+    </message>
+    <message>
+        <source>Contacts</source>
+        <translation type="vanished">Kontakte</translation>
+    </message>
+    <message>
+        <source>Groupchats</source>
+        <translation type="vanished">Fjalosje në grup</translation>
+    </message>
+    <message>
         <source>never</source>
         <translation type="vanished">kurrë</translation>
     </message>
     <message>
+        <source>always</source>
+        <translation type="vanished">përherë</translation>
+    </message>
+    <message>
+        <source>Logs</source>
+        <translation type="vanished">Regjistra</translation>
+    </message>
+    <message>
+        <source>View log</source>
+        <translation type="vanished">Shihni regjistrin</translation>
+    </message>
+    <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;Wiki (Në internet)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Shortcut:</source>
-        <translation type="unfinished"></translation>
+        <translation>Shkurtore:</translation>
     </message>
     <message>
         <source>Format:</source>
@@ -11145,7 +11214,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>File Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Emër Kartele:</translation>
     </message>
     <message>
         <source>Modify hotkey</source>
@@ -11173,7 +11242,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Servers:</source>
-        <translation type="unfinished"></translation>
+        <translation>Shërbyes:</translation>
     </message>
     <message>
         <source>*to specify the order of servers, use the drag-n-drop </source>
@@ -11181,7 +11250,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Add new server</source>
-        <translation type="unfinished"></translation>
+        <translation>Shtoni shërbyes të ri</translation>
     </message>
     <message>
         <source>Add</source>
@@ -11189,7 +11258,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Delete current server</source>
-        <translation type="unfinished"></translation>
+        <translation>Fshije shërbyesin e tanishëm</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -11197,7 +11266,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Edit current server</source>
-        <translation type="unfinished"></translation>
+        <translation>Përpunojeni shërbyesin e tanishëm</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -11205,19 +11274,19 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#screenshot_plugin&quot;&gt;Wiki (Në internet)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Enable for players:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivizoje për lojtarë:</translation>
     </message>
     <message>
         <source>Detect full screen applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Pikas aplikacione “sa krejt ekrani”</translation>
     </message>
     <message>
         <source>Set status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Caktoni gjendjen:</translation>
     </message>
     <message>
         <source>Status message:</source>
@@ -11240,12 +11309,16 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Save queries to log</source>
+        <translation type="vanished">Ruaji kërkimet te regjistrimi</translation>
+    </message>
+    <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OS version</source>
-        <translation type="unfinished"></translation>
+        <translation>Version OS-i</translation>
     </message>
 </context>
 <context>
@@ -11298,7 +11371,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>OpenPGP Diagnostic Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst Diagnostikimi OpenPGP</translation>
     </message>
     <message>
         <source>There was an error trying to send the message encrypted.
@@ -11310,11 +11383,11 @@ Reason: %1.</source>
     <name>PassDialog</name>
     <message>
         <source>Wrong Account Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjalëkalim i Gabuar Llogarie</translation>
     </message>
     <message>
         <source>Save Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruaje Fjalëkalimin</translation>
     </message>
     <message>
         <source>OK</source>
@@ -11326,11 +11399,19 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Please enter your password for %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ju lutemi, jepni fjalëkalimin tuaj për %1:</translation>
     </message>
 </context>
 <context>
     <name>Passphrase</name>
+    <message>
+        <source>OpenPGP Passphrase</source>
+        <translation type="vanished">Frazëkalim OpenPGP</translation>
+    </message>
+    <message>
+        <source>Remember passphrase</source>
+        <translation type="vanished">Mbaje mend frazëkalimin</translation>
+    </message>
     <message>
         <source>&amp;Cancel</source>
         <translation type="vanished">&amp;Anuloje</translation>
@@ -11345,18 +11426,25 @@ Reason: %1.</source>
     </message>
 </context>
 <context>
+    <name>PassphraseDlg</name>
+    <message>
+        <source>%1: OpenPGP Passphrase</source>
+        <translation type="vanished">%1: Frazëkalim OpenPGP</translation>
+    </message>
+</context>
+<context>
     <name>PepPlugin</name>
     <message>
         <source>Now listening: </source>
-        <translation type="unfinished"></translation>
+        <translation>Tani po dëgjohet: </translation>
     </message>
     <message>
         <source>Mood changed to &quot;%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Humori u ndryshua si &quot;$1</translation>
     </message>
     <message>
         <source>Activity changed to &quot;%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Veprimtaria u ndryshua si &quot;%1</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -11387,7 +11475,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Rreze</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -11424,7 +11512,7 @@ Reason: %1.</source>
     <name>PluginWindow</name>
     <message>
         <source>Gomoku Game</source>
-        <translation type="unfinished"></translation>
+        <translation>Lojë Gomoku</translation>
     </message>
     <message>
         <source>Opponent:</source>
@@ -11444,7 +11532,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Lëkurçe</translation>
     </message>
     <message>
         <source>File</source>
@@ -11452,7 +11540,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>New game</source>
-        <translation type="unfinished"></translation>
+        <translation>Lojë e re</translation>
     </message>
     <message>
         <source>Load game</source>
@@ -11472,7 +11560,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Switch color</source>
-        <translation type="unfinished"></translation>
+        <translation>Ndërroje ngjyrën</translation>
     </message>
     <message>
         <source>Standard</source>
@@ -11480,23 +11568,23 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Yellow wood</source>
-        <translation type="unfinished"></translation>
+        <translation>Dru i verdhë</translation>
     </message>
     <message>
         <source>Waiting for opponent</source>
-        <translation type="unfinished"></translation>
+        <translation>Në pritje të kundërshtarit</translation>
     </message>
     <message>
         <source>Waiting for accept</source>
-        <translation type="unfinished"></translation>
+        <translation>Po pritet pranimi</translation>
     </message>
     <message>
         <source>Your turn</source>
-        <translation type="unfinished"></translation>
+        <translation>Radha juaj</translation>
     </message>
     <message>
         <source>End of game</source>
-        <translation type="unfinished"></translation>
+        <translation>Fund i lojës</translation>
     </message>
     <message>
         <source>Error</source>
@@ -11504,19 +11592,19 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Win!</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitore!</translation>
     </message>
     <message>
         <source>Lose.</source>
-        <translation type="unfinished"></translation>
+        <translation>Humbje!</translation>
     </message>
     <message>
         <source>Draw.</source>
-        <translation type="unfinished"></translation>
+        <translation>Barazim.</translation>
     </message>
     <message>
         <source>You</source>
-        <translation type="unfinished"></translation>
+        <translation>Ju</translation>
     </message>
     <message>
         <source>Opp</source>
@@ -11530,20 +11618,21 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Gomoku Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Shtojcë Gomoku</translation>
     </message>
     <message>
         <source>Game Error!</source>
-        <translation type="unfinished"></translation>
+        <translation>Gabim Loje!</translation>
     </message>
     <message>
         <source>Your opponent has closed the board!
  You can still save the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kundërshtari juaj e mbylli fushën!
+ Mundeni ende të ruani lojën.</translation>
     </message>
     <message>
         <source>You want to switch color?</source>
-        <translation type="unfinished"></translation>
+        <translation>Doni të ndërrohet ngjyra?</translation>
     </message>
     <message>
         <source>You Lose.</source>
@@ -11575,7 +11664,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Propose a draw</source>
-        <translation type="unfinished"></translation>
+        <translation>Propozoni një barazim</translation>
     </message>
     <message>
         <source>Press button if you want to accept the draw proposal</source>
@@ -11583,15 +11672,15 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Accept the draw proposal</source>
-        <translation type="unfinished"></translation>
+        <translation>Pranoni propozimin për barazim</translation>
     </message>
     <message>
         <source>Press button if you want to resign</source>
-        <translation type="unfinished"></translation>
+        <translation>Shtypeni butonin, nëse doni të dorëzoheni</translation>
     </message>
     <message>
         <source>Resign the game</source>
-        <translation type="unfinished"></translation>
+        <translation>Dorëzohuni në lojë</translation>
     </message>
     <message>
         <source>--</source>
@@ -11625,14 +11714,14 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Not an image</source>
-        <translation type="unfinished"></translation>
+        <translation>S’është figurë</translation>
     </message>
 </context>
 <context>
     <name>Previewer</name>
     <message>
         <source>Preview Skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Bëni Paraparje të Lëkurçes</translation>
     </message>
     <message>
         <source>Preview unavailable</source>
@@ -11660,7 +11749,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Skin is not valid!</source>
-        <translation type="unfinished"></translation>
+        <translation>Lëkurçja s’është e vlefshme!</translation>
     </message>
 </context>
 <context>
@@ -11671,19 +11760,19 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Default List (all sessions):</source>
-        <translation type="unfinished"></translation>
+        <translation>Listë Parazgjedhje (krejt sesionet):</translation>
     </message>
     <message>
         <source>Active List (current session):</source>
-        <translation type="unfinished"></translation>
+        <translation>Listë Aktive (sesion i tanishëm):</translation>
     </message>
     <message>
         <source>List Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Përpunues Liste</translation>
     </message>
     <message>
         <source>List:</source>
-        <translation type="unfinished"></translation>
+        <translation>Listë:</translation>
     </message>
     <message>
         <source>New List</source>
@@ -11695,11 +11784,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Delete List</source>
-        <translation type="unfinished"></translation>
+        <translation>Fshije Listën</translation>
     </message>
     <message>
         <source>Automatically activate this list on connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivizoje automatikisht këtë listë gjatë lidhjes</translation>
     </message>
     <message>
         <source>Rules</source>
@@ -11723,7 +11812,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Edit ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Përpunojeni …</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -11734,7 +11823,7 @@ Reason: %1.</source>
     <name>PrivacyDlg</name>
     <message>
         <source>%1: Privacy Lists</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Lista Privatësie</translation>
     </message>
     <message>
         <source>&lt;None&gt;</source>
@@ -11746,7 +11835,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Enter the name of the new list:</source>
-        <translation type="unfinished"></translation>
+        <translation>Jepni emrin e listës së re:</translation>
     </message>
     <message>
         <source>Error</source>
@@ -11754,7 +11843,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>A list with this name already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ka tashmë një listë me këtë emër.</translation>
     </message>
     <message>
         <source>Rename List</source>
@@ -11762,14 +11851,14 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Input new name</source>
-        <translation type="unfinished"></translation>
+        <translation>Jepni emër të ri</translation>
     </message>
 </context>
 <context>
     <name>PrivacyRule</name>
     <message>
         <source>Edit Privacy Rule</source>
-        <translation type="unfinished"></translation>
+        <translation>Përpunoni Rregull Privatësie</translation>
     </message>
     <message>
         <source>Then:</source>
@@ -11781,7 +11870,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Queries</source>
-        <translation type="unfinished"></translation>
+        <translation>Kërkesa</translation>
     </message>
     <message>
         <source>Outgoing Presence</source>
@@ -11851,7 +11940,7 @@ Reason: %1.</source>
     <name>ProfileManage</name>
     <message>
         <source>Manage Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Administroni Profile</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -11863,7 +11952,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Riemërtojeni</translation>
     </message>
     <message>
         <source>Rem&amp;ove</source>
@@ -11878,7 +11967,7 @@ Reason: %1.</source>
     <name>ProfileManageDlg</name>
     <message>
         <source>Rename Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Riemërtoni Profil</translation>
     </message>
     <message>
         <source>Please enter a new name for the profile.  Keep it simple.
@@ -11887,7 +11976,7 @@ Only use letters or numbers.  No punctuation or spaces.</source>
     </message>
     <message>
         <source>There is already another profile with this name.  Please choose another.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ka tashmë një profil tjetër me këtë emër. Ju lutemi, zgjidhni një tjetër.</translation>
     </message>
     <message>
         <source>Unable to rename the profile.  Please do not use any special characters.</source>
@@ -11895,7 +11984,7 @@ Only use letters or numbers.  No punctuation or spaces.</source>
     </message>
     <message>
         <source>Delete Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Fshije Profilin</translation>
     </message>
     <message>
         <source>&lt;qt&gt;Are you sure you want to delete the &quot;&lt;b&gt;%1&lt;/b&gt;&quot; profile?  This will delete all of the profile&apos;s message history as well as associated settings!&lt;/qt&gt;</source>
@@ -11903,11 +11992,11 @@ Only use letters or numbers.  No punctuation or spaces.</source>
     </message>
     <message>
         <source>No, I changed my mind</source>
-        <translation type="unfinished"></translation>
+        <translation>Jo, ndërrova mendje</translation>
     </message>
     <message>
         <source>Delete it!</source>
-        <translation type="unfinished"></translation>
+        <translation>Fshije!</translation>
     </message>
     <message>
         <source>&amp;No</source>
@@ -11944,15 +12033,15 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Profile Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Emër Profili:</translation>
     </message>
     <message>
         <source>Default Action</source>
-        <translation type="unfinished"></translation>
+        <translation>Veprim Parazgjedhje</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivizo Emotikone</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -11960,7 +12049,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>&amp;Create</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Krijoje</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -11987,7 +12076,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>There is already an existing profile with this name.  Please choose another.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ka tashmë një profil ekzistues me këtë emër.  Ju lutemi, zgjidhni një tjetër.</translation>
     </message>
     <message>
         <source>Unable to create the profile.  Please do not use any special characters.</source>
@@ -11998,19 +12087,19 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <name>ProfileOpen</name>
     <message>
         <source>Open Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Hapni Profil</translation>
     </message>
     <message>
         <source>left</source>
-        <translation type="unfinished"></translation>
+        <translation>majtas</translation>
     </message>
     <message>
         <source>Image goes here</source>
-        <translation type="unfinished"></translation>
+        <translation>Këtu vihen figura</translation>
     </message>
     <message>
         <source>right</source>
-        <translation type="unfinished"></translation>
+        <translation>djathtas</translation>
     </message>
     <message>
         <source>Profile:</source>
@@ -12018,11 +12107,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>&amp;Automatically open on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Hape &amp;automatikisht gjatë nisjesh</translation>
     </message>
     <message>
         <source>Language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjuhë:</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
@@ -12034,7 +12123,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>&amp;Profiles...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Profile…</translation>
     </message>
     <message>
         <source>psi/profile</source>
@@ -12042,7 +12131,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Hape</translation>
     </message>
     <message>
         <source>psi/logo_16</source>
@@ -12053,7 +12142,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <name>ProfileOpenDlg</name>
     <message>
         <source>Select a profile to open from this list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Përzgjidhni nga kjo listë një profil për hapje.</translation>
     </message>
     <message>
         <source>Select a language you would like Psi to use from this list.  You can download extra language packs from the Psi homepage.</source>
@@ -12068,7 +12157,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <name>Proxy</name>
     <message>
         <source>Proxy Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Profile Ndërmjetësish</translation>
     </message>
     <message>
         <source>&amp;New</source>
@@ -12104,7 +12193,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Use authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Përdor mirëfilltësim</translation>
     </message>
     <message>
         <source>Username:</source>
@@ -12130,11 +12219,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <name>ProxyDlg</name>
     <message>
         <source>Enter the hostname and port of your proxy server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jepni strehëemër dhe portë të shërbyesit tuaj ndërmjetës:</translation>
     </message>
     <message>
         <source>Consult your network administrator if necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Këshillohuni me përgjegjësin e rrjetit tuaj, në u dashtë.</translation>
     </message>
     <message>
         <source>Enter your proxy server login (username) or leave this field blank if the proxy server does not require it.</source>
@@ -12160,7 +12249,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <name>ProxySettingsDlg</name>
     <message>
         <source>Proxy Server Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Rregullime Shërbyesi Ndërmjetës</translation>
     </message>
     <message>
         <source>Type:</source>
@@ -12180,7 +12269,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>User:</source>
-        <translation type="unfinished"></translation>
+        <translation>Përdorues:</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -12199,7 +12288,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Disable Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Çaktivizoni Llogari</translation>
     </message>
     <message>
         <source>The account is currently active.
@@ -12208,11 +12297,11 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Reconnecting</source>
-        <translation type="unfinished"></translation>
+        <translation>Po rilidhet</translation>
     </message>
     <message>
         <source>Encryption Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Gabim Fshehtëzimi</translation>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA2 SSL/TLS plugin is available.</source>
@@ -12220,7 +12309,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Feature Removed</source>
-        <translation type="unfinished"></translation>
+        <translation>Veçori e Hequr</translation>
     </message>
     <message>
         <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
@@ -12244,15 +12333,15 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>XML Parsing Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Gabim përtypjeje XML-je</translation>
     </message>
     <message>
         <source>XMPP Protocol Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Gabim Protokolli XMPP</translation>
     </message>
     <message>
         <source>Generic stream error</source>
-        <translation type="unfinished"></translation>
+        <translation>Gabim elementar rrëkeze</translation>
     </message>
     <message>
         <source>Conflict (remote login replacing this one)</source>
@@ -12260,7 +12349,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Timed out from inactivity</source>
-        <translation type="unfinished"></translation>
+        <translation>Mbarim kohe nga mosveprimtari</translation>
     </message>
     <message>
         <source>Internal server error</source>
@@ -12268,27 +12357,27 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Invalid XML</source>
-        <translation type="unfinished"></translation>
+        <translation>XML e pavlefshme</translation>
     </message>
     <message>
         <source>Policy violation</source>
-        <translation type="unfinished"></translation>
+        <translation>Dhunim rregullash</translation>
     </message>
     <message>
         <source>Server out of resources</source>
-        <translation type="unfinished"></translation>
+        <translation>Mbarim burimesh shërbyesi</translation>
     </message>
     <message>
         <source>Server is shutting down</source>
-        <translation type="unfinished"></translation>
+        <translation>Shërbyesi po fiket</translation>
     </message>
     <message>
         <source>XMPP Stream Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Gabim Rrëkeze XMPP: %1</translation>
     </message>
     <message>
         <source>Unable to connect to server</source>
-        <translation type="unfinished"></translation>
+        <translation>S’arrihet të lidhet me shërbyesin</translation>
     </message>
     <message>
         <source>Host not found</source>
@@ -12296,15 +12385,15 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Error connecting to proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Gabim gjatë lidhjes me ndërmjetësin</translation>
     </message>
     <message>
         <source>Error during proxy negotiation</source>
-        <translation type="unfinished"></translation>
+        <translation>Gabim gjatë tratative me ndërmjetësin</translation>
     </message>
     <message>
         <source>Proxy authentication failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Mirëfilltësimi i ndërmjetësit dështoi</translation>
     </message>
     <message>
         <source>Socket/stream error</source>
@@ -12312,7 +12401,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Connection Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Gabim Lidhjeje: %1</translation>
     </message>
     <message>
         <source>Host no longer hosted</source>
@@ -12320,15 +12409,15 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Host unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Strehë e panjohur</translation>
     </message>
     <message>
         <source>A required remote connection failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Një lidhje e largët e domosdoshme dështoi</translation>
     </message>
     <message>
         <source>See other host: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Shihni tjetër strehë: %1</translation>
     </message>
     <message>
         <source>Server does not support proper XMPP version</source>
@@ -12340,19 +12429,19 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Server rejected STARTTLS</source>
-        <translation type="unfinished"></translation>
+        <translation>Shërbyesi hodhi poshtë STARTTLS</translation>
     </message>
     <message>
         <source>TLS handshake error</source>
-        <translation type="unfinished"></translation>
+        <translation>Gabim duarshtrëngimi TLS</translation>
     </message>
     <message>
         <source>Broken security layer (TLS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Shtresë sigurie (TLS) e dëmtuar</translation>
     </message>
     <message>
         <source>Unable to login</source>
-        <translation type="unfinished"></translation>
+        <translation>S’arrihet të hyhet</translation>
     </message>
     <message>
         <source>No appropriate mechanism available for given security settings (e.g. SASL library too weak, or plaintext authentication not enabled)</source>
@@ -12368,31 +12457,31 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Invalid account information</source>
-        <translation type="unfinished"></translation>
+        <translation>Hollësi të pavlefshme llogarie</translation>
     </message>
     <message>
         <source>Invalid SASL mechanism</source>
-        <translation type="unfinished"></translation>
+        <translation>Mekanizëm SASL i pavlefshëm</translation>
     </message>
     <message>
         <source>SASL mechanism too weak for this account</source>
-        <translation type="unfinished"></translation>
+        <translation>Mekanizëm SASL tepër i dobët për këtë llogari</translation>
     </message>
     <message>
         <source>Wrong Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjalëkalim i Gabuar</translation>
     </message>
     <message>
         <source>Temporary auth failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Dështim i përkohshëm mirëfilltësimi</translation>
     </message>
     <message>
         <source>Authentication error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Gabim mirëfilltësimi: %1</translation>
     </message>
     <message>
         <source>Broken security layer (SASL)</source>
-        <translation type="unfinished"></translation>
+        <translation>Shtresë sigurie (SASL) e dëmtuar</translation>
     </message>
     <message>
         <source>None</source>
@@ -12401,7 +12490,8 @@ Do you want to log out ?</source>
     <message>
         <source>There was an error communicating with the server.
 Details: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pati një gabim komunikimi me shërbyesin.
+Hollësi: %1</translation>
     </message>
     <message>
         <source>Whiteboard invitation</source>
@@ -12417,7 +12507,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Logged out</source>
-        <translation type="unfinished"></translation>
+        <translation>I dalë</translation>
     </message>
     <message>
         <source>You must be connected to the server in order to do this.</source>
@@ -12433,15 +12523,15 @@ Details: %1</source>
     </message>
     <message>
         <source>Name:	</source>
-        <translation type="unfinished"></translation>
+        <translation>Emër:	</translation>
     </message>
     <message>
         <source>Version:	</source>
-        <translation type="unfinished"></translation>
+        <translation>Version:	</translation>
     </message>
     <message>
         <source>Os:	</source>
-        <translation type="unfinished"></translation>
+        <translation>Os:	</translation>
     </message>
     <message>
         <source>Version Query Information</source>
@@ -12452,12 +12542,18 @@ Details: %1</source>
         <translation>Titull</translation>
     </message>
     <message>
+        <source>There was an error trying to sign your status.
+Reason: %1.</source>
+        <translation type="vanished">Pati një gabim kur u provua të nënshkruhej gjendja juaj.
+Arsye: %1.</translation>
+    </message>
+    <message>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[GABIM: Ky mesazh është i fshehtëzuar dhe s’jeni në gjendje ta shfshehtëzoni.]</translation>
     </message>
     <message>
         <source>No key</source>
-        <translation type="unfinished"></translation>
+        <translation>S’ka kyç</translation>
     </message>
     <message>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
@@ -12465,15 +12561,15 @@ Details: %1</source>
     </message>
     <message>
         <source>&amp;Choose key manually</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zgjidhni kyç dorazi</translation>
     </message>
     <message>
         <source>Do &amp;nothing</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mos bëj gjë</translation>
     </message>
     <message>
         <source>Public Key: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kyç Publik: %1</translation>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
@@ -12493,19 +12589,19 @@ Details: %1</source>
     </message>
     <message>
         <source>Authentication aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Mirëfilltësim i ndërprerë</translation>
     </message>
     <message>
         <source>Account disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Llogaria u çaktivizua</translation>
     </message>
     <message>
         <source>Credentials expired</source>
-        <translation type="unfinished"></translation>
+        <translation>Kredenciale kanë skaduar</translation>
     </message>
     <message>
         <source>Malformed request</source>
-        <translation type="unfinished"></translation>
+        <translation>Kërkesë e keqformuar</translation>
     </message>
     <message>
         <source>Open Files For Sharing</source>
@@ -12516,7 +12612,7 @@ Details: %1</source>
     <name>PsiActionList::Private</name>
     <message>
         <source>Common Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Veprime të Rëndomta</translation>
     </message>
     <message>
         <source>View Groups</source>
@@ -12528,11 +12624,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Show Roster Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Shfaq Grupe Liste</translation>
     </message>
     <message>
         <source>Enable/disable groups in roster</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivizo/çaktivizo grupe në listë</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
@@ -12552,7 +12648,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Show Agents/Transports</source>
-        <translation type="unfinished"></translation>
+        <translation>Shfaq Agjentë/Transporte</translation>
     </message>
     <message>
         <source>Toggles visibility of agents/transports in roster</source>
@@ -12568,7 +12664,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Show Status Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Shfaq Mesazhe Gjendjesh</translation>
     </message>
     <message>
         <source>Toggles visibility of status messages of contacts</source>
@@ -12576,11 +12672,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Show Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Shfaq Kontakte</translation>
     </message>
     <message>
         <source>&amp;Psi</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Psi</translation>
     </message>
     <message>
         <source>The main Psi button, that provides access to many actions</source>
@@ -12620,7 +12716,7 @@ Details: %1</source>
     </message>
     <message>
         <source>New Blank Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesazh i Ri i Zbrazët</translation>
     </message>
     <message>
         <source>New &amp;Blank Message</source>
@@ -12632,11 +12728,15 @@ Details: %1</source>
     </message>
     <message>
         <source>Join &amp;Groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Hyni në &amp;Fjalosje Grupi</translation>
     </message>
     <message>
         <source>Account Setup</source>
         <translation type="vanished">Ujdisje Llogarie</translation>
+    </message>
+    <message>
+        <source>Acc&amp;ount Setup</source>
+        <translation type="vanished">Ujdisje &amp;Llogarie</translation>
     </message>
     <message>
         <source>Options</source>
@@ -12644,15 +12744,15 @@ Details: %1</source>
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mundësi</translation>
     </message>
     <message>
         <source>Configure Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>Formësoni Panele</translation>
     </message>
     <message>
         <source>Configure Tool&amp;bars</source>
-        <translation type="unfinished"></translation>
+        <translation>Formësoni &amp;Panele</translation>
     </message>
     <message>
         <source>Change Profile</source>
@@ -12660,7 +12760,7 @@ Details: %1</source>
     </message>
     <message>
         <source>&amp;Change Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ndryshoni Profil</translation>
     </message>
     <message>
         <source>Play Sounds</source>
@@ -12668,7 +12768,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Play &amp;Sounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Luaj &amp;Tinguj</translation>
     </message>
     <message>
         <source>Toggles whether sound should be played or not</source>
@@ -12684,7 +12784,19 @@ Details: %1</source>
     </message>
     <message>
         <source>Quits Psi</source>
-        <translation type="unfinished"></translation>
+        <translation>Bën daljen nga Psi</translation>
+    </message>
+    <message>
+        <source>Tip of the Day</source>
+        <translation type="vanished">Ndihmëza e Ditës</translation>
+    </message>
+    <message>
+        <source>&amp;Tip of the Day</source>
+        <translation type="vanished">&amp;Ndihmëza e Ditës</translation>
+    </message>
+    <message>
+        <source>See many useful tips</source>
+        <translation type="vanished">Shihni mjaft ndihmëza të dobishme</translation>
     </message>
     <message>
         <source>Transfer Manager</source>
@@ -12696,11 +12808,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Opens the transfer manager dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Hap dialogu i përgjegjësit të shpërnguljeve</translation>
     </message>
     <message>
         <source>Menu Items</source>
-        <translation type="unfinished"></translation>
+        <translation>Zëra Menuje</translation>
     </message>
     <message>
         <source>Publish Tune</source>
@@ -12736,7 +12848,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Set Geolocation for all active accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Ujdisni Gjeolokalizim për krejt llogaritë aktive</translation>
     </message>
     <message>
         <source>Publish</source>
@@ -12748,11 +12860,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Smaller alternative to the Status button</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternativë më e vogël ndaj butonit Gjendje</translation>
     </message>
     <message>
         <source>Changes your global status to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>E ndryshon gjendjen tuaj në “%1”</translation>
     </message>
     <message>
         <source>Online</source>
@@ -12772,7 +12884,7 @@ Details: %1</source>
     </message>
     <message>
         <source>DND</source>
-        <translation type="unfinished"></translation>
+        <translation>MMB</translation>
     </message>
     <message>
         <source>Choose status...</source>
@@ -12784,7 +12896,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Show dialog to set your status</source>
-        <translation type="unfinished"></translation>
+        <translation>Shfaq dialog që të caktoni gjendjen tuaj</translation>
     </message>
     <message>
         <source>Reconnect</source>
@@ -12792,7 +12904,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Reconnect all active accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Rilidh krejt llogaritë aktive</translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -12812,35 +12924,35 @@ Details: %1</source>
     </message>
     <message>
         <source>&amp;ReadMe</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ReadMe</translation>
     </message>
     <message>
         <source>Show ReadMe file</source>
-        <translation type="unfinished"></translation>
+        <translation>Shfaq kartelë ReadMe</translation>
     </message>
     <message>
         <source>Wiki (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiki (Në internet)</translation>
     </message>
     <message>
         <source>&amp;Wiki (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Wiki (Në internet)</translation>
     </message>
     <message>
         <source>Home Page (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Faqe Hyrëse (Në internet)</translation>
     </message>
     <message>
         <source>&amp;Home Page (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Faqe Hyrëse (Në internet)</translation>
     </message>
     <message>
         <source>Psi+ Forum (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Forum Psi+ (Në Internet)</translation>
     </message>
     <message>
         <source>Psi+ &amp;Forum (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Forum Psi+ (Në Internet)</translation>
     </message>
     <message>
         <source>Join Psi+ Discussion Room (Online)</source>
@@ -12851,12 +12963,20 @@ Details: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Check for Updates...</source>
+        <translation type="vanished">Kontrollo për Përditësime…</translation>
+    </message>
+    <message>
+        <source>&amp;Check for Updates...</source>
+        <translation type="vanished">&amp;Kontrollo për Përditësime…</translation>
+    </message>
+    <message>
         <source>Report a Bug (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Njoftoni një të Metë (Në internet)</translation>
     </message>
     <message>
         <source>Report a &amp;Bug (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Njoftoni një të &amp;Metë (Në internet)</translation>
     </message>
     <message>
         <source>About</source>
@@ -12872,7 +12992,7 @@ Details: %1</source>
     </message>
     <message>
         <source>About &amp;Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>Rreth &amp;Qt-s</translation>
     </message>
     <message>
         <source>About GStreamer</source>
@@ -12880,19 +13000,19 @@ Details: %1</source>
     </message>
     <message>
         <source>About &amp;GStreamer</source>
-        <translation type="unfinished"></translation>
+        <translation>Mbi &amp;GStreamer-in</translation>
     </message>
     <message>
         <source>Security Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Shtojca Sigurie</translation>
     </message>
     <message>
         <source>Security &amp;Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Shtojca Sigurie</translation>
     </message>
     <message>
         <source>Key Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Depozitë Kyçesh</translation>
     </message>
     <message>
         <source>&amp;Key Storage</source>
@@ -12904,7 +13024,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Clear Chat Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Spastro Dritare Fjalosjeje</translation>
     </message>
     <message>
         <source>Find</source>
@@ -12916,11 +13036,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Set Text Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Caktoni Format Tekstesh</translation>
     </message>
     <message>
         <source>Add Contact To Roster</source>
-        <translation type="unfinished"></translation>
+        <translation>Shtoje Kontaktin Te Listë</translation>
     </message>
     <message>
         <source>Add Contact</source>
@@ -12928,7 +13048,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Select Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Përzgjidh Ikonë</translation>
     </message>
     <message>
         <source>Voice Call</source>
@@ -12939,28 +13059,32 @@ Details: %1</source>
         <translation>Dërgo Kartelë</translation>
     </message>
     <message>
+        <source>Toggle Encryption</source>
+        <translation type="vanished">Aktivizo/Çaktivizo Fshehtëzim</translation>
+    </message>
+    <message>
         <source>User Info</source>
         <translation>Hollësi Përdoruesi</translation>
     </message>
     <message>
         <source>Message History</source>
-        <translation type="unfinished"></translation>
+        <translation>Historik Mesazhesh</translation>
     </message>
     <message>
         <source>Toggle Compact/Full Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Ndërro Madhësi Kompakte/Të plotë</translation>
     </message>
     <message>
         <source>Chat basic buttons</source>
-        <translation type="unfinished"></translation>
+        <translation>Butona elementarë fjalosjeje</translation>
     </message>
     <message>
         <source>Groupchat basic buttons</source>
-        <translation type="unfinished"></translation>
+        <translation>Butona elementarë fjalosjeje në grup</translation>
     </message>
     <message>
         <source>Configure Room</source>
-        <translation type="unfinished"></translation>
+        <translation>ormësoni Dhomën</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -12984,7 +13108,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Pin/UnPin Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Fiksoje/Shfiksoje Skedën</translation>
     </message>
     <message>
         <source>Join Psi Discussion Room (Online)</source>
@@ -12996,7 +13120,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Psi &amp;Forum (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Forum Psi-je (Në Internet)</translation>
     </message>
     <message>
         <source>&amp;Join Psi Discussion Room (Online)</source>
@@ -13008,22 +13132,22 @@ Details: %1</source>
     </message>
     <message>
         <source>Set Topic</source>
-        <translation type="unfinished"></translation>
+        <translation>Caktoni Temën</translation>
     </message>
     <message>
         <source>Manage Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Administroni Llogari</translation>
     </message>
     <message>
         <source>&amp;Manage Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Administroni Llogari</translation>
     </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
     <message>
         <source>Copy user JID</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopjo JID përdorues-i</translation>
     </message>
     <message>
         <source>Input command...</source>
@@ -13035,7 +13159,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Chat Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Panel Fjalosjeje</translation>
     </message>
     <message>
         <source>Contact has been switched: %1</source>
@@ -13048,19 +13172,24 @@ Details: %1</source>
     <message>
         <source>Are you sure you want to clear the chat window?
 (note: does not affect saved history)</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeni i sigurt se doni të spastrohet dritarja e fjalosjes?
+(shënim: s’prek historikun e ruajtur tashmë)</translation>
     </message>
     <message>
         <source>Error: Can not parse command: </source>
-        <translation type="unfinished"></translation>
+        <translation>Gabim: S’përtypet dot urdhri: </translation>
+    </message>
+    <message>
+        <source>Command&gt;</source>
+        <translation type="vanished">Urdhër&gt;</translation>
     </message>
     <message>
         <source>turn off autojid</source>
-        <translation type="unfinished"></translation>
+        <translation>çaktivizo autojid</translation>
     </message>
     <message>
         <source>turn on autojid</source>
-        <translation type="unfinished"></translation>
+        <translation>aktivizo autojid</translation>
     </message>
     <message>
         <source>Paste and Send</source>
@@ -13068,7 +13197,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Enable OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivizo fshehtëzim OpenPGP</translation>
     </message>
     <message>
         <source>OpenPGP key is not set in your account settings!</source>
@@ -13084,7 +13213,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Disable OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Çaktivizo fshehtëzim OpenPGP</translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
@@ -13104,15 +13233,15 @@ Details: %1</source>
     </message>
     <message>
         <source>Choose Public Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgjidhni Kyç Publik</translation>
     </message>
     <message>
         <source>Send own public key</source>
-        <translation type="unfinished"></translation>
+        <translation>Dërgoni kyç publik të vetes</translation>
     </message>
     <message>
         <source>Send public key...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dërgo kyç publik…</translation>
     </message>
     <message>
         <source>Command</source>
@@ -13172,15 +13301,15 @@ Details: %1</source>
     </message>
     <message>
         <source>Show this help message and exit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Shfaq këtë mesazh ndihme dhe dil.</translation>
     </message>
     <message>
         <source>Show version information and exit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Shfaq hollësi versioni dhe dil.</translation>
     </message>
     <message>
         <source>Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation>Përdorimi:</translation>
     </message>
     <message>
         <source>PROFILE</source>
@@ -13200,12 +13329,12 @@ Details: %1</source>
     </message>
     <message>
         <source>Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mundësi:</translation>
     </message>
     <message>
         <source>Compiled with Qt %1</source>
         <comment>%1 will contain Qt version number</comment>
-        <translation type="unfinished"></translation>
+        <translation>I përpiluar me Qt %1</translation>
     </message>
     <message>
         <source>Go to &lt;https://psi-im.org/&gt; for more information about Psi.</source>
@@ -13244,7 +13373,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Unsupported URI type</source>
-        <translation type="unfinished"></translation>
+        <translation>Lloj URI e pambuluar</translation>
     </message>
     <message>
         <source>Information</source>
@@ -13264,15 +13393,15 @@ Details: %1</source>
     </message>
     <message>
         <source>I understand</source>
-        <translation type="unfinished"></translation>
+        <translation>E kuptoj</translation>
     </message>
     <message>
         <source>Call ended</source>
-        <translation type="unfinished"></translation>
+        <translation>Thirrja përfundoi</translation>
     </message>
     <message>
         <source>Other party canceled call.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pala tjetër anuloi thirrjen.</translation>
     </message>
     <message>
         <source>Unable to bind to port %1 for Data Transfer.
@@ -13281,11 +13410,11 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Computer went to sleep</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompjuteri ra në gjumë</translation>
     </message>
     <message>
         <source>Account setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Ujdisje llogarie</translation>
     </message>
     <message>
         <source>You need to set up an account to start. Would you like to register a new account, or use an existing account?</source>
@@ -13297,11 +13426,11 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Use existing account</source>
-        <translation type="unfinished"></translation>
+        <translation>Përdorni llogari ekzistuese</translation>
     </message>
     <message>
         <source>Migration is impossible</source>
-        <translation type="unfinished"></translation>
+        <translation>Migrim është i pamundur</translation>
     </message>
     <message>
         <source>Found no more supported configuration file from some very old version:
@@ -13338,7 +13467,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;History</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Historik</translation>
     </message>
     <message>
         <source>Add/Authorize to Contact List</source>
@@ -13366,7 +13495,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Send &amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>Dërgo &amp;Kartelë</translation>
     </message>
     <message>
         <source>Sen&amp;d Status</source>
@@ -13410,19 +13539,19 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Leave</source>
-        <translation type="unfinished"></translation>
+        <translation>Braktise</translation>
     </message>
     <message>
         <source>Block</source>
-        <translation type="unfinished"></translation>
+        <translation>Bllokoje</translation>
     </message>
     <message>
         <source>Always Visible</source>
-        <translation type="unfinished"></translation>
+        <translation>Përherë i Dukshëm</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Foto</translation>
     </message>
     <message>
         <source>Invitation</source>
@@ -13442,15 +13571,15 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Authorize</source>
-        <translation type="unfinished"></translation>
+        <translation>Autorizoje</translation>
     </message>
     <message>
         <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>U dërgua autorizim te &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>U kërkua autorizim nga &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -13458,7 +13587,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeni i sigurt se doni të hiqet autorizimi nga &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
@@ -13470,15 +13599,15 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Choose an Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgjidhni një Figurë</translation>
     </message>
     <message>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation type="unfinished"></translation>
+        <translation>Krejt kartelat (*.png *.jpg *.gif)</translation>
     </message>
     <message>
         <source>Unblock</source>
-        <translation type="unfinished"></translation>
+        <translation>Zhbllokoje</translation>
     </message>
     <message>
         <source>&amp;Log On</source>
@@ -13518,15 +13647,15 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Active Chats</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjalosje &amp;Aktive</translation>
     </message>
     <message>
         <source>&amp;Authorization</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Autorizim</translation>
     </message>
     <message>
         <source>Copy User JID</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopjo JID Përdoruesi</translation>
     </message>
     <message>
         <source>Copy Groupchat JID</source>
@@ -13538,7 +13667,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Add To Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Shtoje Te Faqerojtësit</translation>
     </message>
 </context>
 <context>
@@ -13550,7 +13679,8 @@ Migration is possible with Psi-0.15</source>
     <message>
         <source>Unable to join groupchat.
 Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>S’arrihet të hyhet te fjalosje në grup.
+Arsye: %1</translation>
     </message>
     <message>
         <source>Unable to create groupchat.
@@ -13560,22 +13690,23 @@ Reason: %1</source>
     <message>
         <source>Unable to destroy groupchat.
 Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>S’arrihet të asgjësohet fjalosje në grup.
+Arsye: %1</translation>
     </message>
 </context>
 <context>
     <name>PsiGroupChatBrowseWindow::Private</name>
     <message>
         <source>Destroy</source>
-        <translation type="unfinished"></translation>
+        <translation>Asgjësoje</translation>
     </message>
     <message>
         <source>Create Groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Krijoni Fjalosje Grupi</translation>
     </message>
     <message>
         <source>Choose a name for the groupchat you want to create:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgjidhni një emër për fjalosjen në grup që doni të krijoni:</translation>
     </message>
 </context>
 <context>
@@ -13586,11 +13717,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>There was an error creating the default profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pati një gabim në krijimin e profilit parazgjedhje.</translation>
     </message>
     <message>
         <source>Profile already in use</source>
-        <translation type="unfinished"></translation>
+        <translation>Profil tashmë në përdorim</translation>
     </message>
     <message>
         <source>The &quot;%1&quot; profile is already in use.
@@ -13599,7 +13730,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Activate</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivizoje</translation>
     </message>
     <message>
         <source>Cannot open this profile - it is already running, but not responding</source>
@@ -13621,7 +13752,7 @@ Would you like to activate that session now?</source>
     <name>PsiOptions</name>
     <message>
         <source>Away from desk</source>
-        <translation type="unfinished"></translation>
+        <translation>Larg tryezës</translation>
     </message>
     <message>
         <source>I am away from my desk.  Leave a message.</source>
@@ -13645,11 +13776,11 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Sleep</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjumë</translation>
     </message>
     <message>
         <source>Sleep is good.  Zzzzz</source>
-        <translation type="unfinished"></translation>
+        <translation>Gjumi është i mirë.  Zzzzz</translation>
     </message>
     <message>
         <source>Work</source>
@@ -13657,11 +13788,11 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Can&apos;t chat.  Gotta work.</source>
-        <translation type="unfinished"></translation>
+        <translation>S’kam kohë për muhabet.  Më duhet të punoj.</translation>
     </message>
     <message>
         <source>Air</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajër</translation>
     </message>
     <message>
         <source>Stepping out to get some fresh air.</source>
@@ -13669,15 +13800,15 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Movie</source>
-        <translation type="unfinished"></translation>
+        <translation>Film</translation>
     </message>
     <message>
         <source>Out to a movie.  Is that OK with you?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jashtë për film.  Ju prish punë?</translation>
     </message>
     <message>
         <source>Secret</source>
-        <translation type="unfinished"></translation>
+        <translation>E fshehtë</translation>
     </message>
     <message>
         <source>I&apos;m not available right now and that&apos;s all you need to know.</source>
@@ -13685,15 +13816,15 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Out for the night</source>
-        <translation type="unfinished"></translation>
+        <translation>Jashtë natën</translation>
     </message>
     <message>
         <source>Out for the night.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jashtë natën.</translation>
     </message>
     <message>
         <source>Greece</source>
-        <translation type="unfinished"></translation>
+        <translation>Greqi</translation>
     </message>
     <message>
         <source>I have gone to a far away place.  I will be back someday!</source>
@@ -13705,7 +13836,11 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Show contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Shfaq kontakte</translation>
+    </message>
+    <message>
+        <source>Event notifier</source>
+        <translation type="vanished">Njoftues aktesh</translation>
     </message>
     <message>
         <source>Auto Status (idle)</source>
@@ -13720,11 +13855,15 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>(no selection)</source>
-        <translation type="unfinished"></translation>
+        <translation>(pa përzgjedhje)</translation>
+    </message>
+    <message>
+        <source>Display all options as a flat list.</source>
+        <translation type="vanished">Shfaqi krejt mundësitë si një listë e sheshtë.</translation>
     </message>
     <message>
         <source>Delete...</source>
-        <translation type="unfinished"></translation>
+        <translation>Fshini…</translation>
     </message>
     <message>
         <source>Reset...</source>
@@ -13748,7 +13887,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>(internal node)</source>
-        <translation type="unfinished"></translation>
+        <translation>(nyjë e brendshme)</translation>
     </message>
     <message>
         <source>Type:</source>
@@ -13764,7 +13903,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Psi+: Option Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi+: Përpunues Mundësish</translation>
     </message>
     <message>
         <source>Really reset options %1 to default value?</source>
@@ -13776,7 +13915,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Options filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtër mundësish</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -13784,11 +13923,11 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Display options as a flat list</source>
-        <translation type="unfinished"></translation>
+        <translation>Shfaqi mundësitë si një listë të sheshtë</translation>
     </message>
     <message>
         <source>Display options as a flat list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Shfaqi mundësitë si një listë të sheshtë.</translation>
     </message>
 </context>
 <context>
@@ -13821,7 +13960,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Released on</source>
-        <translation type="unfinished"></translation>
+        <translation>Hedhur në qarkullim më</translation>
     </message>
     <message>
         <source>Home</source>
@@ -13844,21 +13983,28 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Show Next Event</source>
-        <translation type="unfinished"></translation>
+        <translation>Shfaq Aktin Pasues</translation>
     </message>
 </context>
 <context>
     <name>PsiToolBar</name>
     <message>
         <source>&amp;Configure Toolbar...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Formësoni Panelin…</translation>
+    </message>
+</context>
+<context>
+    <name>PsiWindowHeader</name>
+    <message>
+        <source>...</source>
+        <translation type="vanished">…</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Emër përdoruesi</translation>
     </message>
     <message>
         <source>Nickname</source>
@@ -13882,19 +14028,19 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>E-mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Email</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresë</translation>
     </message>
     <message>
         <source>City</source>
-        <translation type="unfinished"></translation>
+        <translation>Qytet</translation>
     </message>
     <message>
         <source>State</source>
-        <translation type="unfinished"></translation>
+        <translation>Shtet</translation>
     </message>
     <message>
         <source>Zipcode</source>
@@ -13902,15 +14048,15 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Telefon</translation>
     </message>
     <message>
         <source>URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datë</translation>
     </message>
     <message>
         <source>Misc</source>
@@ -13918,71 +14064,71 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>No certificate presented.</source>
-        <translation type="unfinished"></translation>
+        <translation>S’u paraqit dëshmi.</translation>
     </message>
     <message>
         <source>Hostname mismatch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mospërputhje strehëemrash.</translation>
     </message>
     <message>
         <source>Invalid Certificate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dëshmi e Pavlefshme.</translation>
     </message>
     <message>
         <source>General validation error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gabim i përgjithshëm vlerësimi.</translation>
     </message>
     <message>
         <source>The %1 certificate failed the authenticity test.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dëshmia %1 s’kaloi provën e të qenit e mirëfilltë.</translation>
     </message>
     <message>
         <source>&amp;Details...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Hollësi…</translation>
     </message>
     <message>
         <source>&amp;Connect anyway</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lidhu, sido qoftë</translation>
     </message>
     <message>
         <source>&amp;Trust this certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Besoje këtë dëshmi</translation>
     </message>
     <message>
         <source>&amp;Trust this domain</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Besoje këtë përkatësi</translation>
     </message>
     <message>
         <source>The server did not present a certificate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Shërbyesi s’paraqiti dëshmi.</translation>
     </message>
     <message>
         <source>Certificate is valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dëshmia është e vlefshme.</translation>
     </message>
     <message>
         <source>The hostname does not match the one the certificate was issued to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Strehëemri nuk përputhet me atë të cilit i qe lëshuar dëshmia.</translation>
     </message>
     <message>
         <source>General certificate validation error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gabim i përgjithshëm vleftësimi dëshmie.</translation>
     </message>
     <message>
         <source>Doing Chores</source>
-        <translation type="unfinished"></translation>
+        <translation>Po Bëj Punë</translation>
     </message>
     <message>
         <source>Buying Groceries</source>
-        <translation type="unfinished"></translation>
+        <translation>Po Bëj Pazaret</translation>
     </message>
     <message>
         <source>Cleaning</source>
-        <translation type="unfinished"></translation>
+        <translation>Po pastroj</translation>
     </message>
     <message>
         <source>Cooking</source>
-        <translation type="unfinished"></translation>
+        <translation>Po gatuaj</translation>
     </message>
     <message>
         <source>Doing Maintenance</source>
@@ -13990,11 +14136,11 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Doing The Dishes</source>
-        <translation type="unfinished"></translation>
+        <translation>Po laj Pjatat</translation>
     </message>
     <message>
         <source>Doing The Laundry</source>
-        <translation type="unfinished"></translation>
+        <translation>Po Laj Rrobat</translation>
     </message>
     <message>
         <source>Gardening</source>
@@ -14006,23 +14152,23 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Walking The Dog</source>
-        <translation type="unfinished"></translation>
+        <translation>Po shëtis Qenin</translation>
     </message>
     <message>
         <source>Drinking</source>
-        <translation type="unfinished"></translation>
+        <translation>Po pimë</translation>
     </message>
     <message>
         <source>Having A Beer</source>
-        <translation type="unfinished"></translation>
+        <translation>Po Pi Birrë</translation>
     </message>
     <message>
         <source>Having Coffee</source>
-        <translation type="unfinished"></translation>
+        <translation>Po Pi Kafe</translation>
     </message>
     <message>
         <source>Having Tea</source>
-        <translation type="unfinished"></translation>
+        <translation>Po Pi Çaj</translation>
     </message>
     <message>
         <source>Eating</source>
@@ -14034,15 +14180,15 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Having Breakfast</source>
-        <translation type="unfinished"></translation>
+        <translation>Po Ha Mëngjes</translation>
     </message>
     <message>
         <source>Having Lunch</source>
-        <translation type="unfinished"></translation>
+        <translation>Po Ha Drekë</translation>
     </message>
     <message>
         <source>Having Dinner</source>
-        <translation type="unfinished"></translation>
+        <translation>Po Ha Darkë</translation>
     </message>
     <message>
         <source>Exercising</source>
@@ -14090,11 +14236,11 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>At The Spa</source>
-        <translation type="unfinished"></translation>
+        <translation>Në Spa</translation>
     </message>
     <message>
         <source>Brushing Teeth</source>
-        <translation type="unfinished"></translation>
+        <translation>Po Laj Dhëmbët</translation>
     </message>
     <message>
         <source>Getting A Haircut</source>
@@ -14106,11 +14252,11 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Taking A Bath</source>
-        <translation type="unfinished"></translation>
+        <translation>Po Bëj Banjë</translation>
     </message>
     <message>
         <source>Taking A Shower</source>
-        <translation type="unfinished"></translation>
+        <translation>Po Bëj Dush</translation>
     </message>
     <message>
         <source>Having Appointment</source>
@@ -14122,7 +14268,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Day Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Pushim</translation>
     </message>
     <message>
         <source>Hanging Out</source>
@@ -14134,7 +14280,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>On Vacation</source>
-        <translation type="unfinished"></translation>
+        <translation>Me Pushime</translation>
     </message>
     <message>
         <source>Praying</source>
@@ -14146,11 +14292,11 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Sleeping</source>
-        <translation type="unfinished"></translation>
+        <translation>Në gjumë</translation>
     </message>
     <message>
         <source>Thinking</source>
-        <translation type="unfinished"></translation>
+        <translation>Po Vras Mendjen</translation>
     </message>
     <message>
         <source>Relaxing</source>
@@ -14158,7 +14304,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Fishing</source>
-        <translation type="unfinished"></translation>
+        <translation>Po Peshkoj</translation>
     </message>
     <message>
         <source>Gaming</source>
@@ -14186,7 +14332,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Smoking</source>
-        <translation type="unfinished"></translation>
+        <translation>Po tymos</translation>
     </message>
     <message>
         <source>Socializing</source>
@@ -14198,15 +14344,15 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Watching TV</source>
-        <translation type="unfinished"></translation>
+        <translation>Po Shoh TV</translation>
     </message>
     <message>
         <source>Watching A Movie</source>
-        <translation type="unfinished"></translation>
+        <translation>Po Shoh Një Film</translation>
     </message>
     <message>
         <source>Talking</source>
-        <translation type="unfinished"></translation>
+        <translation>Po Bisedoj</translation>
     </message>
     <message>
         <source>In Real Life</source>
@@ -14214,7 +14360,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>On The Phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Në Telefon</translation>
     </message>
     <message>
         <source>On Video Phone</source>
@@ -14234,23 +14380,23 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>In A Car</source>
-        <translation type="unfinished"></translation>
+        <translation>Në Një Makinë</translation>
     </message>
     <message>
         <source>On A Bus</source>
-        <translation type="unfinished"></translation>
+        <translation>Në Autobus</translation>
     </message>
     <message>
         <source>On A Plane</source>
-        <translation type="unfinished"></translation>
+        <translation>Në Avion</translation>
     </message>
     <message>
         <source>On A Train</source>
-        <translation type="unfinished"></translation>
+        <translation>Në Tren</translation>
     </message>
     <message>
         <source>On A Trip</source>
-        <translation type="unfinished"></translation>
+        <translation>Në Udhëtim</translation>
     </message>
     <message>
         <source>Walking</source>
@@ -14258,23 +14404,23 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Working</source>
-        <translation type="unfinished"></translation>
+        <translation>Po punoj</translation>
     </message>
     <message>
         <source>Coding</source>
-        <translation type="unfinished"></translation>
+        <translation>Po programoj</translation>
     </message>
     <message>
         <source>In A Meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Në Mbledhje</translation>
     </message>
     <message>
         <source>Studying</source>
-        <translation type="unfinished"></translation>
+        <translation>Po mësoj</translation>
     </message>
     <message>
         <source>Writing</source>
-        <translation type="unfinished"></translation>
+        <translation>Po shkruaj</translation>
     </message>
     <message>
         <source>Other</source>
@@ -14322,11 +14468,11 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Invitation to %1 from %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ftesë për %1 nga %2</translation>
     </message>
     <message>
         <source>Invitation to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ftesë për %1</translation>
     </message>
     <message>
         <source>Latitude/Longitude/Altitude: </source>
@@ -14340,7 +14486,8 @@ Bearing: </source>
     <message>
         <source>
 Error: </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Gabim: </translation>
     </message>
     <message>
         <source>
@@ -14350,47 +14497,56 @@ Datum: </source>
     <message>
         <source>
 Country: </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Vend: </translation>
     </message>
     <message>
         <source>
 Postalcode: </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Kod postar: </translation>
     </message>
     <message>
         <source>
 Region: </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Rajon: </translation>
     </message>
     <message>
         <source>
 Locality: </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Lokalitet: </translation>
     </message>
     <message>
         <source>
 Area: </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Zonë: </translation>
     </message>
     <message>
         <source>
 Street: </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Rrugë: </translation>
     </message>
     <message>
         <source>
 Floor: </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Kat: </translation>
     </message>
     <message>
         <source>
 Room: </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Dhoma: </translation>
     </message>
     <message>
         <source>
 Description: </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Përshkrim: </translation>
     </message>
     <message>
         <source>Warning: %1 is deprecated and will be removed in the future</source>
@@ -14402,7 +14558,7 @@ Description: </source>
     </message>
     <message>
         <source>Please instead press %1 and enter &apos;%2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ju lutemi, në vend të kësaj shtypni %1 dhe jepni “%2”.</translation>
     </message>
     <message>
         <source>%1 is now %2</source>
@@ -14410,15 +14566,15 @@ Description: </source>
     </message>
     <message>
         <source>Afraid</source>
-        <translation type="unfinished"></translation>
+        <translation>I frikësuar</translation>
     </message>
     <message>
         <source>Amazed</source>
-        <translation type="unfinished"></translation>
+        <translation>I mahnitur</translation>
     </message>
     <message>
         <source>Angry</source>
-        <translation type="unfinished"></translation>
+        <translation>I nxehur</translation>
     </message>
     <message>
         <source>Amorous</source>
@@ -14426,7 +14582,7 @@ Description: </source>
     </message>
     <message>
         <source>Annoyed</source>
-        <translation type="unfinished"></translation>
+        <translation>I bezdisur</translation>
     </message>
     <message>
         <source>Anxious</source>
@@ -14434,107 +14590,107 @@ Description: </source>
     </message>
     <message>
         <source>Aroused</source>
-        <translation type="unfinished"></translation>
+        <translation>I eksituar</translation>
     </message>
     <message>
         <source>Ashamed</source>
-        <translation type="unfinished"></translation>
+        <translation>I turpëruar</translation>
     </message>
     <message>
         <source>Bored</source>
-        <translation type="unfinished"></translation>
+        <translation>I mërzitur</translation>
     </message>
     <message>
         <source>Brave</source>
-        <translation type="unfinished"></translation>
+        <translation>Trim</translation>
     </message>
     <message>
         <source>Calm</source>
-        <translation type="unfinished"></translation>
+        <translation>I qetë</translation>
     </message>
     <message>
         <source>Cautious</source>
-        <translation type="unfinished"></translation>
+        <translation>I matur</translation>
     </message>
     <message>
         <source>Cold</source>
-        <translation type="unfinished"></translation>
+        <translation>Ftohtë</translation>
     </message>
     <message>
         <source>Confident</source>
-        <translation type="unfinished"></translation>
+        <translation>Me vetëbesim</translation>
     </message>
     <message>
         <source>Confused</source>
-        <translation type="unfinished"></translation>
+        <translation>Toruahumbur</translation>
     </message>
     <message>
         <source>Contemplative</source>
-        <translation type="unfinished"></translation>
+        <translation>Soditës</translation>
     </message>
     <message>
         <source>Contented</source>
-        <translation type="unfinished"></translation>
+        <translation>I kënaqur</translation>
     </message>
     <message>
         <source>Cranky</source>
-        <translation type="unfinished"></translation>
+        <translation>Zevzek</translation>
     </message>
     <message>
         <source>Crazy</source>
-        <translation type="unfinished"></translation>
+        <translation>I lojtur</translation>
     </message>
     <message>
         <source>Creative</source>
-        <translation type="unfinished"></translation>
+        <translation>Krijues</translation>
     </message>
     <message>
         <source>Curious</source>
-        <translation type="unfinished"></translation>
+        <translation>Kureshtar</translation>
     </message>
     <message>
         <source>Dejected</source>
-        <translation type="unfinished"></translation>
+        <translation>I dëshpëruar</translation>
     </message>
     <message>
         <source>Depressed</source>
-        <translation type="unfinished"></translation>
+        <translation>I ligështuar</translation>
     </message>
     <message>
         <source>Disappointed</source>
-        <translation type="unfinished"></translation>
+        <translation>I zhgënjyer</translation>
     </message>
     <message>
         <source>Disgusted</source>
-        <translation type="unfinished"></translation>
+        <translation>I neveritur</translation>
     </message>
     <message>
         <source>Dismayed</source>
-        <translation type="unfinished"></translation>
+        <translation>I tronditur</translation>
     </message>
     <message>
         <source>Distracted</source>
-        <translation type="unfinished"></translation>
+        <translation>I shpërqendruar</translation>
     </message>
     <message>
         <source>Embarrassed</source>
-        <translation type="unfinished"></translation>
+        <translation>I turpëruar</translation>
     </message>
     <message>
         <source>Envious</source>
-        <translation type="unfinished"></translation>
+        <translation>Ziliqar</translation>
     </message>
     <message>
         <source>Excited</source>
-        <translation type="unfinished"></translation>
+        <translation>I ngazëllyer</translation>
     </message>
     <message>
         <source>Flirtatious</source>
-        <translation type="unfinished"></translation>
+        <translation>Joshës</translation>
     </message>
     <message>
         <source>Frustrated</source>
-        <translation type="unfinished"></translation>
+        <translation>I bezdisur</translation>
     </message>
     <message>
         <source>Grumpy</source>
@@ -14542,35 +14698,35 @@ Description: </source>
     </message>
     <message>
         <source>Guilty</source>
-        <translation type="unfinished"></translation>
+        <translation>Fajtor</translation>
     </message>
     <message>
         <source>Happy</source>
-        <translation type="unfinished"></translation>
+        <translation>I lumtur</translation>
     </message>
     <message>
         <source>Hopeful</source>
-        <translation type="unfinished"></translation>
+        <translation>Optimist</translation>
     </message>
     <message>
         <source>Hot</source>
-        <translation type="unfinished"></translation>
+        <translation>Vapë</translation>
     </message>
     <message>
         <source>Humbled</source>
-        <translation type="unfinished"></translation>
+        <translation>I përulur</translation>
     </message>
     <message>
         <source>Humiliated</source>
-        <translation type="unfinished"></translation>
+        <translation>I poshtëruar</translation>
     </message>
     <message>
         <source>Hungry</source>
-        <translation type="unfinished"></translation>
+        <translation>I uritur</translation>
     </message>
     <message>
         <source>Hurt</source>
-        <translation type="unfinished"></translation>
+        <translation>I lënduar</translation>
     </message>
     <message>
         <source>Impressed</source>
@@ -14582,15 +14738,15 @@ Description: </source>
     </message>
     <message>
         <source>In Love</source>
-        <translation type="unfinished"></translation>
+        <translation>I dashuruar</translation>
     </message>
     <message>
         <source>Indignant</source>
-        <translation type="unfinished"></translation>
+        <translation>I zemëruar</translation>
     </message>
     <message>
         <source>Interested</source>
-        <translation type="unfinished"></translation>
+        <translation>I interesuar</translation>
     </message>
     <message>
         <source>Intoxicated</source>
@@ -14598,87 +14754,87 @@ Description: </source>
     </message>
     <message>
         <source>Invincible</source>
-        <translation type="unfinished"></translation>
+        <translation>I pamposhtur</translation>
     </message>
     <message>
         <source>Jealous</source>
-        <translation type="unfinished"></translation>
+        <translation>Xheloz</translation>
     </message>
     <message>
         <source>Lonely</source>
-        <translation type="unfinished"></translation>
+        <translation>I vetmuar</translation>
     </message>
     <message>
         <source>Lucky</source>
-        <translation type="unfinished"></translation>
+        <translation>Fatlum</translation>
     </message>
     <message>
         <source>Mean</source>
-        <translation type="unfinished"></translation>
+        <translation>Shpirtvogël</translation>
     </message>
     <message>
         <source>Moody</source>
-        <translation type="unfinished"></translation>
+        <translation>I zymtë</translation>
     </message>
     <message>
         <source>Nervous</source>
-        <translation type="unfinished"></translation>
+        <translation>Nervoz</translation>
     </message>
     <message>
         <source>Neutral</source>
-        <translation type="unfinished"></translation>
+        <translation>Asnjanës</translation>
     </message>
     <message>
         <source>Offended</source>
-        <translation type="unfinished"></translation>
+        <translation>I fyer</translation>
     </message>
     <message>
         <source>Outraged</source>
-        <translation type="unfinished"></translation>
+        <translation>I tërbuar</translation>
     </message>
     <message>
         <source>Playful</source>
-        <translation type="unfinished"></translation>
+        <translation>Lojcak</translation>
     </message>
     <message>
         <source>Proud</source>
-        <translation type="unfinished"></translation>
+        <translation>Krenar</translation>
     </message>
     <message>
         <source>Relaxed</source>
-        <translation type="unfinished"></translation>
+        <translation>I çlodhur</translation>
     </message>
     <message>
         <source>Relieved</source>
-        <translation type="unfinished"></translation>
+        <translation>I lehtësuar</translation>
     </message>
     <message>
         <source>Remorseful</source>
-        <translation type="unfinished"></translation>
+        <translation>Ndërgjegjebrerë</translation>
     </message>
     <message>
         <source>Restless</source>
-        <translation type="unfinished"></translation>
+        <translation>I palodhur</translation>
     </message>
     <message>
         <source>Sad</source>
-        <translation type="unfinished"></translation>
+        <translation>I trishtuar</translation>
     </message>
     <message>
         <source>Sarcastic</source>
-        <translation type="unfinished"></translation>
+        <translation>Sarkastik</translation>
     </message>
     <message>
         <source>Serious</source>
-        <translation type="unfinished"></translation>
+        <translation>Serioz</translation>
     </message>
     <message>
         <source>Shocked</source>
-        <translation type="unfinished"></translation>
+        <translation>I tronditur</translation>
     </message>
     <message>
         <source>Shy</source>
-        <translation type="unfinished"></translation>
+        <translation>I turpshëm</translation>
     </message>
     <message>
         <source>Sick</source>
@@ -14702,19 +14858,19 @@ Description: </source>
     </message>
     <message>
         <source>Surprised</source>
-        <translation type="unfinished"></translation>
+        <translation>I befasuar</translation>
     </message>
     <message>
         <source>Thankful</source>
-        <translation type="unfinished"></translation>
+        <translation>Mirënjohës</translation>
     </message>
     <message>
         <source>Thirsty</source>
-        <translation type="unfinished"></translation>
+        <translation>I etur</translation>
     </message>
     <message>
         <source>Tired</source>
-        <translation type="unfinished"></translation>
+        <translation>I lodhur</translation>
     </message>
     <message>
         <source>Else</source>
@@ -14722,11 +14878,11 @@ Description: </source>
     </message>
     <message>
         <source>Weak</source>
-        <translation type="unfinished"></translation>
+        <translation>I dobët</translation>
     </message>
     <message>
         <source>Worried</source>
-        <translation type="unfinished"></translation>
+        <translation>I shqetësuar</translation>
     </message>
     <message>
         <source>a moderator</source>
@@ -14734,7 +14890,7 @@ Description: </source>
     </message>
     <message>
         <source>moderator</source>
-        <translation type="unfinished"></translation>
+        <translation>moderator</translation>
     </message>
     <message>
         <source>a participant</source>
@@ -14742,7 +14898,7 @@ Description: </source>
     </message>
     <message>
         <source>participant</source>
-        <translation type="unfinished"></translation>
+        <translation>pjesëmarrës</translation>
     </message>
     <message>
         <source>a visitor</source>
@@ -14750,7 +14906,7 @@ Description: </source>
     </message>
     <message>
         <source>visitor</source>
-        <translation type="unfinished"></translation>
+        <translation>vizitor</translation>
     </message>
     <message>
         <source>an owner</source>
@@ -14758,7 +14914,7 @@ Description: </source>
     </message>
     <message>
         <source>owner</source>
-        <translation type="unfinished"></translation>
+        <translation>i zoti</translation>
     </message>
     <message>
         <source>an administrator</source>
@@ -14766,7 +14922,7 @@ Description: </source>
     </message>
     <message>
         <source>administrator</source>
-        <translation type="unfinished"></translation>
+        <translation>përgjegjës</translation>
     </message>
     <message>
         <source>a member</source>
@@ -14774,7 +14930,7 @@ Description: </source>
     </message>
     <message>
         <source>member</source>
-        <translation type="unfinished"></translation>
+        <translation>anëtar</translation>
     </message>
     <message>
         <source>an outcast</source>
@@ -14791,6 +14947,30 @@ Description: </source>
     <message>
         <source>&lt;unnamed%1&gt;</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid passphrase</source>
+        <translation type="vanished">Frazëkalim i pavlefshëm</translation>
+    </message>
+    <message>
+        <source>Invalid input format</source>
+        <translation type="vanished">Format i pavlefshëm dhëniesh</translation>
+    </message>
+    <message>
+        <source>Invalid key</source>
+        <translation type="vanished">Kyç i pavlefshëm</translation>
+    </message>
+    <message>
+        <source>PGP card is missing</source>
+        <translation type="vanished">Mungon kartë PGP</translation>
+    </message>
+    <message>
+        <source>Unknown error</source>
+        <translation type="vanished">Gabim i panjohur</translation>
+    </message>
+    <message>
+        <source>Socket Error</source>
+        <translation type="vanished">Gabim Socket-i</translation>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
@@ -14859,7 +15039,7 @@ Description: </source>
     </message>
     <message>
         <source>Subscribe</source>
-        <translation type="unfinished"></translation>
+        <translation>Pajtomëni</translation>
     </message>
     <message>
         <source>Show last 10 messages with tag %1</source>
@@ -14867,7 +15047,7 @@ Description: </source>
     </message>
     <message>
         <source>Unsubscribe</source>
-        <translation type="unfinished"></translation>
+        <translation>Shpajtomëni</translation>
     </message>
     <message>
         <source>Encrypting message to %1 failed.
@@ -14880,7 +15060,7 @@ The message was not sent.</source>
     </message>
     <message>
         <source>encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>e fshehtëzuar</translation>
     </message>
     <message>
         <source>finished</source>
@@ -14930,7 +15110,7 @@ The OTR Plugin will not work.</source>
     </message>
     <message>
         <source>All Tags</source>
-        <translation type="unfinished"></translation>
+        <translation>Krejt Etiketat</translation>
     </message>
     <message>
         <source>Name: %1
@@ -14958,11 +15138,11 @@ Password: %5</source>
     </message>
     <message>
         <source>Chat Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesazh Fjalosjeje</translation>
     </message>
     <message>
         <source>Groupchat Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesazh Fjalosjeje Në Grup</translation>
     </message>
     <message>
         <source>Error</source>
@@ -14970,7 +15150,7 @@ Password: %5</source>
     </message>
     <message>
         <source>There was an error changing the list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pati një gabim në ndryshimin e listës.</translation>
     </message>
     <message>
         <source>There was an error processing your request.</source>
@@ -14990,7 +15170,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Messages,</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesazhe,</translation>
     </message>
     <message>
         <source>Presence-In,</source>
@@ -15002,7 +15182,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Queries,</source>
-        <translation type="unfinished"></translation>
+        <translation>Kërkesa</translation>
     </message>
     <message>
         <source>Else %1 %2</source>
@@ -16644,7 +16824,7 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     </message>
     <message>
         <source>Edit presets...</source>
-        <translation type="unfinished"></translation>
+        <translation>Përpunoni paracaktime…</translation>
     </message>
 </context>
 <context>
@@ -17899,7 +18079,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafika Vektoriale të Përshkallëzueshme (*.svg)</translation>
     </message>
 </context>
 <context>
@@ -17953,7 +18133,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafika Vektoriale të Përshkallëzueshme (*.svg)</translation>
     </message>
     <message>
         <source>Whiteboarding Invitation?</source>
@@ -18377,6 +18557,10 @@ Do you still want to close the window?</source>
     <message>
         <source>Transports:</source>
         <translation type="vanished">Transporte:</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Në internet)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Disable invitations from conference</source>
