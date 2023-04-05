@@ -178,7 +178,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>https://psi-im.org</source>
-        <translation type="unfinished"></translation>
+        <translation>https://psi-im.org</translation>
     </message>
     <message>
         <source>Past Lead Widget Developer</source>
