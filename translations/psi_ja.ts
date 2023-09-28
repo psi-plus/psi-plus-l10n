@@ -12171,7 +12171,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Reconnecting</source>
-        <translation type="unfinished"></translation>
+        <translation>再接続中</translation>
     </message>
     <message>
         <source>Encryption Error</source>
