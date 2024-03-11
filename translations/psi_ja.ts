@@ -278,7 +278,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Cross-platform XMPP client designed for experienced users.</source>
-        <translation type="unfinished"></translation>
+        <translation>上級ユーザー用に設計されたクロスプラットホームなXMPPクライアント。</translation>
     </message>
 </context>
 <context>
@@ -329,7 +329,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Default</source>
-        <translation>デフォルト</translation>
+        <translation>規定</translation>
     </message>
 </context>
 <context>
@@ -627,7 +627,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Use this proxy server for HTTP file upload</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTPファイルのアップロードにこのプロキシサーバーを使用する</translation>
     </message>
 </context>
 <context>
@@ -822,7 +822,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTPアップロードには、XMPP接続用に設定されたものと同じプロキシを使用します。そうでない場合は、アプリケーションの規定プロキシを使用します。</translation>
     </message>
 </context>
 <context>
@@ -1049,7 +1049,18 @@ Reason: %1</source>
     </message>
     <message>
         <source>Ignore all global actions for this account. For example, autostatus, mood, activity etc.</source>
-        <translation type="unfinished"></translation>
+        <translation>このアカウントのすべてのグローバル動作を無視します。例えば、自動ステータス、気分、アクティビティなど。</translation>
+    </message>
+</context>
+<context>
+    <name>ActionsList</name>
+    <message>
+        <source> Enable Off the Record Chat.
+When checked, the server will not
+save the history for this contact.</source>
+        <translation type="vanished">記録を残さないチャットを有効にします。
+印が付けられると、サーバーは
+この連絡先用の履歴を保存しなくなります。</translation>
     </message>
 </context>
 <context>
@@ -1838,6 +1849,10 @@ For sending commands, normal messages are used, so this plugin will always work 
         <source>CAPTCHA</source>
         <translation type="vanished">CAPTCHA</translation>
     </message>
+    <message>
+        <source>Loading data...</source>
+        <translation type="vanished">データを読み込み中</translation>
+    </message>
 </context>
 <context>
     <name>CaptchaDlg</name>
@@ -1849,12 +1864,24 @@ For sending commands, normal messages are used, so this plugin will always work 
 <context>
     <name>CaptchaFormsPlugin</name>
     <message>
+        <source>Captcha Plugin: CAPTCHA from %1</source>
+        <translation type="vanished">Captchaプラグイン: %1からのCAPTCHA</translation>
+    </message>
+    <message>
+        <source>Error! Image can not be loaded.</source>
+        <translation type="vanished">エラー! 画像が読み込まれません。</translation>
+    </message>
+    <message>
         <source>Author: </source>
         <translation type="vanished">作者:</translation>
     </message>
     <message>
         <source>Email: </source>
         <translation type="vanished">メールアドレス:</translation>
+    </message>
+    <message>
+        <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
+        <translation type="vanished">このプラグインは、Psi+から直接captchaを渡すように設計されています。</translation>
     </message>
 </context>
 <context>
@@ -2202,36 +2229,37 @@ to play chess. He wants to play %2.</source>
     </message>
     <message>
         <source>You are already playing!</source>
-        <translation type="unfinished"></translation>
+        <translation>既に遊んでいます!</translation>
     </message>
     <message>
         <source>Your opponent has closed the board!
  You can still save the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>相手が盤を閉じました！
+あなたはゲームをセーブすることができます。</translation>
     </message>
     <message>
         <source>The game was rejected</source>
-        <translation type="unfinished"></translation>
+        <translation>ゲームは拒絶されました</translation>
     </message>
     <message>
         <source>You Lose.</source>
-        <translation type="unfinished"></translation>
+        <translation>敗北。</translation>
     </message>
     <message>
         <source>You Win!</source>
-        <translation type="unfinished"></translation>
+        <translation>勝利!</translation>
     </message>
     <message>
         <source>Draw!</source>
-        <translation type="unfinished"></translation>
+        <translation>引き分け!</translation>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation type="unfinished"></translation>
+        <translation>不明なエラー!</translation>
     </message>
     <message>
         <source>Chess Plugin: Invitation from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>チェスのプラグイン: %1からの招待</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -2253,7 +2281,9 @@ to play chess. He wants to play %2.</source>
         <source>This plugin allows you to play chess with your friends.
 The plugin is compatible with a similar plugin for Tkabber.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"></translation>
+        <translation>このプラグインは、友達とチェスをすることができるようになります。
+このプラグインはTkabber用の同様のプラグインと互換性があります。
+コマンドの送信には通常のメッセージが使用されるため、このプラグインはログインできる場所であればどこでも常に動作します。対局に友達を招待するには、チャットウィンドウのコンタクトメニュー項目またはツールバーのボタンを使用します。</translation>
     </message>
 </context>
 <context>
@@ -2314,7 +2344,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CleanerMainWindow</name>
     <message>
         <source>Psi Cleaner</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi消去器</translation>
     </message>
     <message>
         <source>History</source>
@@ -2342,7 +2372,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Deselect All Files</source>
-        <translation>全てのファイルを解除</translation>
+        <translation>全てのファイルの選択を解除</translation>
     </message>
     <message>
         <source>0</source>
@@ -2350,19 +2380,19 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source> files selected</source>
-        <translation type="unfinished"></translation>
+        <translation>選択されたファイル</translation>
     </message>
     <message>
         <source>Delete selected files</source>
-        <translation type="unfinished"></translation>
+        <translation>選択されたファイルを削除</translation>
     </message>
     <message>
         <source>Delete selected</source>
-        <translation type="unfinished"></translation>
+        <translation>選択されたものを削除</translation>
     </message>
     <message>
         <source>Close Psi Cleaner</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi消去器を閉じる</translation>
     </message>
     <message>
         <source>Close</source>
@@ -3718,7 +3748,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation type="unfinished"></translation>
+        <translation>不明なエラー!</translation>
     </message>
     <message>
         <source>Service unavailable</source>
@@ -5250,7 +5280,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>You are already playing!</source>
-        <translation type="unfinished"></translation>
+        <translation>既に遊んでいます!</translation>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
@@ -6426,11 +6456,11 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Default</source>
-        <translation>デフォルト</translation>
+        <translation>規定</translation>
     </message>
     <message>
         <source>Default roster iconset:</source>
-        <translation>デフォルト名簿アイコン集:</translation>
+        <translation>規定の名簿アイコン集:</translation>
     </message>
     <message>
         <source>&amp;Show details</source>
@@ -8263,7 +8293,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Single-click triggers default action</source>
-        <translation>シングルクリックのデフォルト動作</translation>
+        <translation>シングルクリックの規定動作</translation>
     </message>
     <message>
         <source>Automatically copy selected text to clipboard</source>
@@ -8637,7 +8667,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Default action</source>
-        <translation>デフォルト動作</translation>
+        <translation>規定動作</translation>
     </message>
     <message>
         <source>Delete chat window contents</source>
@@ -9209,7 +9239,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Restore defaults</source>
-        <translation>デフォルトに戻す</translation>
+        <translation>規定に戻す</translation>
     </message>
 </context>
 <context>
@@ -9280,7 +9310,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Reset to defaults</source>
-        <translation>デフォルトにリセット</translation>
+        <translation>規定にリセット</translation>
     </message>
 </context>
 <context>
@@ -9824,7 +9854,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Delete selected</source>
-        <translation type="unfinished"></translation>
+        <translation>選択されたものを削除</translation>
     </message>
     <message>
         <source>Add row</source>
@@ -9976,11 +10006,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Keys Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>鍵管理</translation>
     </message>
     <message>
         <source>Own Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>自分の鍵</translation>
     </message>
     <message>
         <source>Select &amp;Key...</source>
@@ -9988,35 +10018,35 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>設定</translation>
     </message>
     <message>
         <source>OpenPGP encryption policy</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenPGP暗号化方針</translation>
     </message>
     <message>
         <source>Always enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>常に有効化</translation>
     </message>
     <message>
         <source>Enabled by default</source>
-        <translation type="unfinished"></translation>
+        <translation>規定では有効化</translation>
     </message>
     <message>
         <source>Disabled by default</source>
-        <translation type="unfinished"></translation>
+        <translation>規定では無効化</translation>
     </message>
     <message>
         <source>Automatically assign known keys to contacts with signed presences and no assigned keys</source>
-        <translation type="unfinished"></translation>
+        <translation>署名済みのプレゼンスがあり、鍵が割り当てられていないコンタクトに、既知の鍵を自動的に割り当てる</translation>
     </message>
     <message>
         <source>Show PGP info in tooltips for contacts in roster</source>
-        <translation type="unfinished"></translation>
+        <translation>名簿内のコンタクト用ツールチップにPGP情報を表示</translation>
     </message>
     <message>
         <source>Automatically import PGP key from the message body</source>
-        <translation type="unfinished"></translation>
+        <translation>メッセージ本文からPGP鍵を自動で取り入れる</translation>
     </message>
     <message>
         <source>Do not show messages with PGP keys</source>
@@ -10052,15 +10082,15 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
-        <translation type="unfinished"></translation>
+        <translation>本当に以下の鍵を削除してもよろしいですか？</translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="unfinished"></translation>
+        <translation>アカウント:</translation>
     </message>
     <message>
         <source>User: </source>
-        <translation type="unfinished"></translation>
+        <translation>ユーザー:</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
@@ -10072,7 +10102,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Choose Secret Key</source>
-        <translation type="unfinished"></translation>
+        <translation>秘密鍵を選択</translation>
     </message>
     <message>
         <source>User ID</source>
@@ -10080,11 +10110,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>gpg-agent configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>gpg-agentの設定</translation>
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt; This option affects all programs which use gpg-agent in your system!</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;注意!&lt;/b&gt; この選択は、あなたのシステム内のgpg-agentを使用する全てのプログラムに作用します!</translation>
     </message>
     <message>
         <source>Ask password confirmation each</source>
@@ -10092,7 +10122,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Open configuration file</source>
-        <translation type="unfinished"></translation>
+        <translation>設定ファイルを開く</translation>
     </message>
     <message>
         <source>Attempt to reload gpg-agent config is failed. You need to restart your system to see changes in gpg-agent settings.</source>
@@ -10105,7 +10135,8 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>Attempt to save gpg-agent config is failed! Check that you have write permission for file:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>gpg-agent設定を保存する試みは失敗しました! ファイルが書き込み権限を有しているか、確認してください:
+%1</translation>
     </message>
     <message>
         <source>Do not sign own presence status</source>
@@ -10166,7 +10197,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Normally, a double-click on a contact will invoke the default action.  Check this option if you&apos;d rather invoke with a single-click.</source>
-        <translation>通常、コンタクトをダブルクリックするとデフォルトの動作を呼び出します。シングルクリックで呼び出したい場合にこれをチェックします。</translation>
+        <translation>通常、コンタクトをダブルクリックすると規定の動作を呼び出します。シングルクリックで呼び出したい場合にこれをチェックします。</translation>
     </message>
     <message>
         <source>Enables as-you-type JID autocompletion in message dialog.</source>
@@ -10186,7 +10217,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
-        <translation>デフォルトでPsiはログイン時にvCardを確認します。トラフィックを抑えたい場合、このオプションを外してください。</translation>
+        <translation>規定でPsiはログイン時にvCardを確認します。トラフィックを抑えたい場合、このオプションを外してください。</translation>
     </message>
     <message>
         <source>Makes Psi animate contact names in the main window when they come online.</source>
@@ -10356,7 +10387,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Default</source>
-        <translation>デフォルト</translation>
+        <translation>規定</translation>
     </message>
     <message>
         <source>(TCP: Disabled, UDP: Auto)</source>
@@ -10394,11 +10425,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Make the default action open a normal message window.</source>
-        <translation>デフォルトの動作で通常のメッセージウィンドウを開く様にします。</translation>
+        <translation>規定の動作で通常のメッセージウィンドウを開く様にします。</translation>
     </message>
     <message>
         <source>Make the default action open a chat window.</source>
-        <translation>デフォルトの動作で通常のチャットウィンドウを開く様にします。</translation>
+        <translation>規定の動作で通常のチャットウィンドウを開く様にします。</translation>
     </message>
     <message>
         <source>&lt;P&gt;When checked, pressing Enter in a chat window will send your message.  You must use Shift+Enter in order to create a newline in the chat message.  If unchecked, messages are sent by pressing Alt-S or Control-Enter, just as they are with regular messages.&lt;/P&gt;</source>
@@ -10786,11 +10817,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Restore default shortcuts</source>
-        <translation>デフォルトのショートカットに戻す</translation>
+        <translation>規定のショートカットに戻す</translation>
     </message>
     <message>
         <source>Are you sure you would like to restore the default shortcuts?</source>
-        <translation>本当にデフォルトのショートカットに戻してよろしいですか?</translation>
+        <translation>本当に規定のショートカットに戻してよろしいですか?</translation>
     </message>
 </context>
 <context>
@@ -11100,7 +11131,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Default action</source>
-        <translation>デフォルト動作</translation>
+        <translation>規定動作</translation>
     </message>
     <message>
         <source>Capture the desktop</source>
@@ -11496,7 +11527,8 @@ Please enter your passphrase below:</source>
     <message>
         <source>Your opponent has closed the board!
  You can still save the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>相手が盤を閉じました！
+あなたはゲームをセーブすることができます。</translation>
     </message>
     <message>
         <source>You want to switch color?</source>
@@ -11504,11 +11536,11 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>You Lose.</source>
-        <translation type="unfinished"></translation>
+        <translation>負け。</translation>
     </message>
     <message>
         <source>You Win!</source>
-        <translation type="unfinished"></translation>
+        <translation>勝利!</translation>
     </message>
     <message>
         <source>You really want to begin new game?</source>
@@ -11628,7 +11660,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Default List (all sessions):</source>
-        <translation>デフォルトリス卜(すべてのセッション):</translation>
+        <translation>規定リス卜(すべてのセッション):</translation>
     </message>
     <message>
         <source>Active List (current session):</source>
@@ -11900,7 +11932,7 @@ The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a co
 Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
         <translation>&lt;i&gt;プロファイル名&lt;/i&gt;は出来るだけ単純にしてください。それは一つの単語からなる文字列か数字のみにするべきです。&lt;br&gt;
 &lt;br&gt;
-&lt;i&gt;デフォルトの動作&lt;/i&gt;はコンタクトの一覧をダブルクリックした時に起こる動作です。これらの選択は &lt;b&gt;メッセージ&lt;/b&gt;(ICQスタイル)と&lt;b&gt;チャット&lt;/b&gt;(AIMスタイル)です。これは後からでもオプションメニューで変更出来ます。&lt;br&gt;
+&lt;i&gt;規定の動作&lt;/i&gt;はコンタクトの一覧をダブルクリックした時に起こる動作です。これらの選択は &lt;b&gt;メッセージ&lt;/b&gt;(ICQスタイル)と&lt;b&gt;チャット&lt;/b&gt;(AIMスタイル)です。これは後からでもオプションメニューで変更出来ます。&lt;br&gt;
 &lt;br&gt;
 &lt;b&gt;:-)&lt;/b&gt;の様なテキストを&lt;icon name=&quot;psi/smile&quot;&gt;という様な画像で置き換える場合&lt;i&gt;顔文字を有効にする&lt;/i&gt;チェックボックスを有効にします。</translation>
     </message>
@@ -11910,7 +11942,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Default Action</source>
-        <translation>デフォルトの動作</translation>
+        <translation>規定の動作</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -13590,7 +13622,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>There was an error creating the default profile.</source>
-        <translation>デフォルトプロファイルの作成中にエラーが発生しました。</translation>
+        <translation>規定プロファイルの作成中にエラーが発生しました。</translation>
     </message>
     <message>
         <source>Profile already in use</source>
@@ -16605,7 +16637,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation type="unfinished"></translation>
+        <translation>不明なエラー!</translation>
     </message>
     <message>
         <source>Save a skin file</source>
@@ -17299,7 +17331,7 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will &quot;perform the default action&quot; on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
-        <translation>Psiでは多くのオブジェクトをミドルクリックして&quot;デフォルト動作を実行&quot;出来る事を知っていますか?(ミドルクリックは3ボタンマウスにあります)コンタクト上でミドルクリックを試してみてください。</translation>
+        <translation>Psiでは多くのオブジェクトを中クリックして&quot;規定の動作を実行&quot;出来る事を知っていますか?(中クリックは3ボタンマウスにあります)コンタクトかポップアップ上で中クリックを試してみてください。</translation>
     </message>
     <message>
         <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
@@ -17514,7 +17546,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
     </message>
     <message>
         <source>User Info</source>
-        <translation>ユーザー情報N</translation>
+        <translation>ユーザー情報</translation>
     </message>
 </context>
 <context>
@@ -18434,7 +18466,7 @@ Do you still want to close the window?</source>
     <name>psiomemo::ConfigWidget</name>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>設定</translation>
     </message>
     <message>
         <source>Known Keys</source>
@@ -18442,7 +18474,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Own Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>自分の鍵</translation>
     </message>
 </context>
 <context>
@@ -18691,19 +18723,19 @@ Do you still want to close the window?</source>
     <name>psiomemo::OmemoConfiguration</name>
     <message>
         <source>OMEMO encryption policy</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO暗号化方針</translation>
     </message>
     <message>
         <source>Always enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>常に有効化</translation>
     </message>
     <message>
         <source>Enabled by default</source>
-        <translation type="unfinished"></translation>
+        <translation>規定では有効化</translation>
     </message>
     <message>
         <source>Disabled by default</source>
-        <translation type="unfinished"></translation>
+        <translation>規定では無効化</translation>
     </message>
     <message>
         <source>Automatically mark new own devices as trusted</source>
@@ -18794,11 +18826,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="unfinished"></translation>
+        <translation>アカウント:</translation>
     </message>
     <message>
         <source>User: </source>
-        <translation type="unfinished"></translation>
+        <translation>ユーザー:</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
@@ -18843,7 +18875,7 @@ You should authenticate %1 as well by asking your own question.</source>
     <name>psiotr::ConfigDialog</name>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>設定</translation>
     </message>
     <message>
         <source>Known Keys</source>
@@ -18851,7 +18883,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Own Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>自分の鍵</translation>
     </message>
 </context>
 <context>
@@ -18909,11 +18941,11 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="unfinished"></translation>
+        <translation>アカウント:</translation>
     </message>
     <message>
         <source>User: </source>
-        <translation type="unfinished"></translation>
+        <translation>ユーザー:</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
@@ -18945,7 +18977,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
-        <translation type="unfinished"></translation>
+        <translation>本当に以下の鍵を削除してもよろしいですか？</translation>
     </message>
     <message>
         <source>Confirm action</source>
@@ -18968,11 +19000,11 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
-        <translation type="unfinished"></translation>
+        <translation>本当に以下の鍵を削除してもよろしいですか？</translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="unfinished"></translation>
+        <translation>アカウント:</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
