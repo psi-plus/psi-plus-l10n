@@ -1979,11 +1979,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Иә</translation>
+        <translation type="vanished">&amp;Иә</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>Ж&amp;оқ</translation>
+        <translation type="vanished">Ж&amp;оқ</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
@@ -12624,7 +12624,7 @@ Details: %1</source>
     </message>
     <message>
         <source>I understand</source>
-        <translation>Мен түсінемін</translation>
+        <translation type="vanished">Мен түсінемін</translation>
     </message>
     <message>
         <source>Call ended</source>
@@ -12818,11 +12818,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Иә</translation>
+        <translation type="vanished">&amp;Иә</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>Ж&amp;оқ</translation>
+        <translation type="vanished">Ж&amp;оқ</translation>
     </message>
     <message>
         <source>Choose an Image</source>

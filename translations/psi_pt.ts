@@ -1960,11 +1960,11 @@ Ainda deseja fechar a janela?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Sim</translation>
+        <translation type="vanished">&amp;Sim</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Não</translation>
+        <translation type="vanished">&amp;Não</translation>
     </message>
     <message>
         <source>Encryption Enabled</source>
@@ -12595,10 +12595,6 @@ Details: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>I understand</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Call ended</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12786,11 +12782,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Sim</translation>
+        <translation type="vanished">&amp;Sim</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Não</translation>
+        <translation type="vanished">&amp;Não</translation>
     </message>
     <message>
         <source>Choose an Image</source>

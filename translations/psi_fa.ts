@@ -1955,14 +1955,6 @@ Do you still want to close the window?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>%1 ended the conversation</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12460,10 +12452,6 @@ Details: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>I understand</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Call ended</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12647,14 +12635,6 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

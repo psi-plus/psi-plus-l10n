@@ -1964,11 +1964,11 @@ Wilt u nog steeds het venster sluiten?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ja</translation>
+        <translation type="vanished">&amp;Ja</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nee</translation>
+        <translation type="vanished">&amp;Nee</translation>
     </message>
     <message>
         <source>Encryption Enabled</source>
@@ -12596,10 +12596,6 @@ Details: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>I understand</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Call ended</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12787,11 +12783,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ja</translation>
+        <translation type="vanished">&amp;Ja</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nee</translation>
+        <translation type="vanished">&amp;Nee</translation>
     </message>
     <message>
         <source>Choose an Image</source>

@@ -1981,11 +1981,11 @@ Ali še vedno želite zapreti to okno?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Da</translation>
+        <translation type="vanished">&amp;Da</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Encryption Enabled</source>
@@ -12949,7 +12949,7 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
     </message>
     <message>
         <source>I understand</source>
-        <translation>Razumem</translation>
+        <translation type="vanished">Razumem</translation>
     </message>
     <message>
         <source>Call ended</source>
@@ -13148,11 +13148,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Da</translation>
+        <translation type="vanished">&amp;Da</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Choose an Image</source>

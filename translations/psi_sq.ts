@@ -2063,11 +2063,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Po</translation>
+        <translation type="vanished">&amp;Po</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Jo</translation>
+        <translation type="vanished">&amp;Jo</translation>
     </message>
     <message>
         <source>Encryption Enabled</source>
@@ -13393,7 +13393,7 @@ Arsye: %1.</translation>
     </message>
     <message>
         <source>I understand</source>
-        <translation>E kuptoj</translation>
+        <translation type="vanished">E kuptoj</translation>
     </message>
     <message>
         <source>Call ended</source>
@@ -13591,11 +13591,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Po</translation>
+        <translation type="vanished">&amp;Po</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Jo</translation>
+        <translation type="vanished">&amp;Jo</translation>
     </message>
     <message>
         <source>Choose an Image</source>

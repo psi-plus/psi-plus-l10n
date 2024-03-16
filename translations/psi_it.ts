@@ -2132,11 +2132,11 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Sì</translation>
+        <translation type="vanished">&amp;Sì</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;No</translation>
+        <translation type="vanished">&amp;No</translation>
     </message>
     <message>
         <source>Encryption Enabled</source>
@@ -13812,7 +13812,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>I understand</source>
-        <translation>Capisco</translation>
+        <translation type="vanished">Capisco</translation>
     </message>
     <message>
         <source>Call ended</source>
@@ -14014,11 +14014,11 @@ La migrazione è possibile con Psi-0.15</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Sì</translation>
+        <translation type="vanished">&amp;Sì</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;No</translation>
+        <translation type="vanished">&amp;No</translation>
     </message>
     <message>
         <source>Choose an Image</source>

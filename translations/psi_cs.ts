@@ -2126,11 +2126,11 @@ Opravdu zavřít toto okno?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ano</translation>
+        <translation type="vanished">&amp;Ano</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Encryption Enabled</source>
@@ -13760,7 +13760,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>I understand</source>
-        <translation>Rozumím</translation>
+        <translation type="vanished">Rozumím</translation>
     </message>
     <message>
         <source>Call ended</source>
@@ -13962,11 +13962,11 @@ Migrace je možná s Psi-0.15</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ano</translation>
+        <translation type="vanished">&amp;Ano</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Choose an Image</source>

@@ -1964,11 +1964,11 @@ Tahdotko silti sulkea ikkunan?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Kyllä</translation>
+        <translation type="vanished">&amp;Kyllä</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ei</translation>
+        <translation type="vanished">&amp;Ei</translation>
     </message>
     <message>
         <source>Encryption Enabled</source>
@@ -12558,10 +12558,6 @@ Details: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>I understand</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Call ended</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12749,11 +12745,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Kyllä</translation>
+        <translation type="vanished">&amp;Kyllä</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ei</translation>
+        <translation type="vanished">&amp;Ei</translation>
     </message>
     <message>
         <source>Choose an Image</source>

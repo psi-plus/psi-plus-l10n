@@ -2090,11 +2090,11 @@ Czy nadal chcesz zamknąć to okno?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Tak</translation>
+        <translation type="vanished">&amp;Tak</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nie</translation>
+        <translation type="vanished">&amp;Nie</translation>
     </message>
     <message>
         <source>Encryption Enabled</source>
@@ -13347,7 +13347,7 @@ Przyczyna: %1.</translation>
     </message>
     <message>
         <source>I understand</source>
-        <translation>Rozumiem</translation>
+        <translation type="vanished">Rozumiem</translation>
     </message>
     <message>
         <source>Call ended</source>
@@ -13546,11 +13546,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Tak</translation>
+        <translation type="vanished">&amp;Tak</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nie</translation>
+        <translation type="vanished">&amp;Nie</translation>
     </message>
     <message>
         <source>Choose an Image</source>

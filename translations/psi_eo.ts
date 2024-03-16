@@ -1964,11 +1964,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Jes</translation>
+        <translation type="vanished">&amp;Jes</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Encryption Enabled</source>
@@ -12638,7 +12638,7 @@ Kialo: %1.</translation>
     </message>
     <message>
         <source>I understand</source>
-        <translation>Mi komprenas</translation>
+        <translation type="vanished">Mi komprenas</translation>
     </message>
     <message>
         <source>Call ended</source>
@@ -12829,11 +12829,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Jes</translation>
+        <translation type="vanished">&amp;Jes</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Choose an Image</source>

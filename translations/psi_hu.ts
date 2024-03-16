@@ -2119,11 +2119,11 @@ Biztosan be akarod zárni az ablakot?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Igen</translation>
+        <translation type="vanished">&amp;Igen</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nem</translation>
+        <translation type="vanished">&amp;Nem</translation>
     </message>
     <message>
         <source>Encryption Enabled</source>
@@ -13702,7 +13702,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>I understand</source>
-        <translation>Megértettem</translation>
+        <translation type="vanished">Megértettem</translation>
     </message>
     <message>
         <source>Call ended</source>
@@ -13901,11 +13901,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Igen</translation>
+        <translation type="vanished">&amp;Igen</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nem</translation>
+        <translation type="vanished">&amp;Nem</translation>
     </message>
     <message>
         <source>Choose an Image</source>

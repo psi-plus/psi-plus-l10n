@@ -1981,11 +1981,11 @@ Vill du ändå stänga fönstret?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ja</translation>
+        <translation type="vanished">&amp;Ja</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nej</translation>
+        <translation type="vanished">&amp;Nej</translation>
     </message>
     <message>
         <source>Encryption Enabled</source>
@@ -12980,7 +12980,7 @@ Orsak: %1.</translation>
     </message>
     <message>
         <source>I understand</source>
-        <translation>Jag förstår</translation>
+        <translation type="vanished">Jag förstår</translation>
     </message>
     <message>
         <source>Call ended</source>
@@ -13179,11 +13179,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ja</translation>
+        <translation type="vanished">&amp;Ja</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nej</translation>
+        <translation type="vanished">&amp;Nej</translation>
     </message>
     <message>
         <source>Choose an Image</source>

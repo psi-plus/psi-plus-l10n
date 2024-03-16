@@ -2112,11 +2112,11 @@ Bạn vẫn muốn đóng cửa sổ?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Có</translation>
+        <translation type="vanished">&amp;Có</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Không</translation>
+        <translation type="vanished">&amp;Không</translation>
     </message>
     <message>
         <source>Encryption Enabled</source>
@@ -13371,7 +13371,7 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>I understand</source>
-        <translation>Tôi hiểu</translation>
+        <translation type="vanished">Tôi hiểu</translation>
     </message>
     <message>
         <source>Call ended</source>
@@ -13570,11 +13570,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Có</translation>
+        <translation type="vanished">&amp;Có</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Không</translation>
+        <translation type="vanished">&amp;Không</translation>
     </message>
     <message>
         <source>Choose an Image</source>
