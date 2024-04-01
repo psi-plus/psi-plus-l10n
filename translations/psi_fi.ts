@@ -842,11 +842,11 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Kyllä</translation>
+        <translation type="vanished">&amp;Kyllä</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ei</translation>
+        <translation type="vanished">&amp;Ei</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2011,6 +2011,10 @@ Tahdotko silti sulkea ikkunan?</translation>
     </message>
     <message>
         <source>Record and share audio note while pressed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio recording failed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4053,11 +4057,11 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Kyllä</translation>
+        <translation type="vanished">&amp;Kyllä</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ei</translation>
+        <translation type="vanished">&amp;Ei</translation>
     </message>
     <message>
         <source>Choose a file</source>
@@ -6336,11 +6340,11 @@ Oletko varma, että tahdot hylätä ne?</translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>Sulje ja hylkää</translation>
+        <translation type="vanished">Sulje ja hylkää</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>Älä sulje</translation>
+        <translation type="vanished">Älä sulje</translation>
     </message>
     <message>
         <source>Success</source>
@@ -6900,14 +6904,6 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Are you absolutely certain you want to destroy this room?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11221,11 +11217,11 @@ Käytä vain kirjaimia tai numeroita, ei välimerkkejä tai välilyöntejä.</tr
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ei</translation>
+        <translation type="vanished">&amp;Ei</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Kyllä</translation>
+        <translation type="vanished">&amp;Kyllä</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -11775,11 +11771,11 @@ Details: %1</source>
     </message>
     <message>
         <source>&amp;Choose key manually</source>
-        <translation>&amp;Valitse avain käsin</translation>
+        <translation type="vanished">&amp;Valitse avain käsin</translation>
     </message>
     <message>
         <source>Do &amp;nothing</source>
-        <translation>Älä tee &amp;mitään</translation>
+        <translation type="vanished">Älä tee &amp;mitään</translation>
     </message>
     <message>
         <source>Public Key: %1</source>
@@ -14723,11 +14719,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Kyllä</translation>
+        <translation type="vanished">&amp;Kyllä</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ei</translation>
+        <translation type="vanished">&amp;Ei</translation>
     </message>
     <message>
         <source>Fetching registration form for %1 ...</source>
@@ -16974,11 +16970,11 @@ The contents of the whiteboard will be lost.</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Kyllä</translation>
+        <translation type="vanished">&amp;Kyllä</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ei</translation>
+        <translation type="vanished">&amp;Ei</translation>
     </message>
     <message>
         <source>A new whiteboard message was just received.
@@ -17397,14 +17393,6 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>You have entered malformed XML input. Are you sure you want to send this ?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

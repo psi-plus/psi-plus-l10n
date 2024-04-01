@@ -854,11 +854,11 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Da</translation>
+        <translation type="vanished">&amp;Da</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2028,6 +2028,10 @@ Ali še vedno želite zapreti to okno?</translation>
     </message>
     <message>
         <source>Record and share audio note while pressed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio recording failed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4118,11 +4122,11 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Da</translation>
+        <translation type="vanished">&amp;Da</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Choose a file</source>
@@ -6566,11 +6570,11 @@ Ste prepičani, da jih želite zavreči?</translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>Zapri in zavrzi</translation>
+        <translation type="vanished">Zapri in zavrzi</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>Ne zapiraj</translation>
+        <translation type="vanished">Ne zapiraj</translation>
     </message>
     <message>
         <source>Success</source>
@@ -7139,11 +7143,11 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Yes</source>
-        <translation>Da</translation>
+        <translation type="vanished">Da</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Ne</translation>
+        <translation type="vanished">Ne</translation>
     </message>
     <message>
         <source>There was an error retrieving the room configuration</source>
@@ -11566,11 +11570,11 @@ Uporabljajte samo črke in številke, brez presledkov ali ločil.</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Da</translation>
+        <translation type="vanished">&amp;Da</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -12133,11 +12137,11 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
     </message>
     <message>
         <source>&amp;Choose key manually</source>
-        <translation>&amp;Ročno izberi ključ</translation>
+        <translation type="vanished">&amp;Ročno izberi ključ</translation>
     </message>
     <message>
         <source>Do &amp;nothing</source>
-        <translation>&amp;Ne naredi ničesar</translation>
+        <translation type="vanished">&amp;Ne naredi ničesar</translation>
     </message>
     <message>
         <source>Public Key: %1</source>
@@ -15197,11 +15201,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Da</translation>
+        <translation type="vanished">&amp;Da</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Fetching registration form for %1 ...</source>
@@ -17566,11 +17570,11 @@ Vsebina table bo izgubljena.</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Da</translation>
+        <translation type="vanished">&amp;Da</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>A new whiteboard message was just received.
@@ -17994,11 +17998,11 @@ Ali še vedno želite zapreti okno?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Da</translation>
+        <translation type="vanished">Da</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Ne</translation>
+        <translation type="vanished">Ne</translation>
     </message>
 </context>
 <context>

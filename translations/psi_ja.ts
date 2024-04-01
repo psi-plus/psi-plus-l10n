@@ -904,11 +904,11 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>はい(&amp;Y)</translation>
+        <translation type="vanished">はい(&amp;Y)</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>いいえ(&amp;N)</translation>
+        <translation type="vanished">いいえ(&amp;N)</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2145,6 +2145,10 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Record and share audio note while pressed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio recording failed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4332,11 +4336,11 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>はい(&amp;Y)</translation>
+        <translation type="vanished">はい(&amp;Y)</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>いいえ(&amp;N)</translation>
+        <translation type="vanished">いいえ(&amp;N)</translation>
     </message>
     <message>
         <source>Choose a file</source>
@@ -6841,11 +6845,11 @@ Are you sure you want to discard them?</source>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>削除する</translation>
+        <translation type="vanished">削除する</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>削除しない</translation>
+        <translation type="vanished">削除しない</translation>
     </message>
     <message>
         <source>Success</source>
@@ -7425,11 +7429,11 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Yes</source>
-        <translation>はい</translation>
+        <translation type="vanished">はい</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>いいえ</translation>
+        <translation type="vanished">いいえ</translation>
     </message>
     <message>
         <source>There was an error retrieving the room configuration</source>
@@ -11901,11 +11905,11 @@ Only use letters or numbers.  No punctuation or spaces.</source>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>いいえ(&amp;N)</translation>
+        <translation type="vanished">いいえ(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>はい(&amp;Y)</translation>
+        <translation type="vanished">はい(&amp;Y)</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -12467,11 +12471,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>&amp;Choose key manually</source>
-        <translation>手動で鍵を選択(&amp;C)</translation>
+        <translation type="vanished">手動で鍵を選択(&amp;C)</translation>
     </message>
     <message>
         <source>Do &amp;nothing</source>
-        <translation>何もしない(&amp;n)</translation>
+        <translation type="vanished">何もしない(&amp;n)</translation>
     </message>
     <message>
         <source>Public Key: %1</source>
@@ -15544,11 +15548,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>はい(&amp;Y)</translation>
+        <translation type="vanished">はい(&amp;Y)</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>いいえ(&amp;N)</translation>
+        <translation type="vanished">いいえ(&amp;N)</translation>
     </message>
     <message>
         <source>Fetching registration form for %1 ...</source>
@@ -17956,11 +17960,11 @@ The contents of the whiteboard will be lost.</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>はい(&amp;Y)</translation>
+        <translation type="vanished">はい(&amp;Y)</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>いいえ(&amp;N)</translation>
+        <translation type="vanished">いいえ(&amp;N)</translation>
     </message>
     <message>
         <source>A new whiteboard message was just received.
@@ -18392,11 +18396,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Yes</source>
-        <translation>はい</translation>
+        <translation type="vanished">はい</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>いいえ</translation>
+        <translation type="vanished">いいえ</translation>
     </message>
 </context>
 <context>

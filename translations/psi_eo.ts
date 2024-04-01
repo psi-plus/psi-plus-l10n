@@ -842,11 +842,11 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Jes</translation>
+        <translation type="vanished">&amp;Jes</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2011,6 +2011,10 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Record and share audio note while pressed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio recording failed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4067,11 +4071,11 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Jes</translation>
+        <translation type="vanished">&amp;Jes</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Choose a file</source>
@@ -6356,11 +6360,11 @@ Are you sure you want to discard them?</source>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>Fermi kaj forĵeti</translation>
+        <translation type="vanished">Fermi kaj forĵeti</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>Ne fermi</translation>
+        <translation type="vanished">Ne fermi</translation>
     </message>
     <message>
         <source>Success</source>
@@ -6925,11 +6929,11 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Yes</source>
-        <translation>Jes</translation>
+        <translation type="vanished">Jes</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Ne</translation>
+        <translation type="vanished">Ne</translation>
     </message>
     <message>
         <source>There was an error retrieving the room configuration</source>
@@ -11270,11 +11274,11 @@ Uzu nur literojn aŭ numerojn.  Neniun interpunkcion aŭ spacetojn.</translation
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Jes</translation>
+        <translation type="vanished">&amp;Jes</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -11831,11 +11835,11 @@ Kialo: %1.</translation>
     </message>
     <message>
         <source>&amp;Choose key manually</source>
-        <translation>&amp;Elekti ŝlosilon mane</translation>
+        <translation type="vanished">&amp;Elekti ŝlosilon mane</translation>
     </message>
     <message>
         <source>Do &amp;nothing</source>
-        <translation>&amp;Fari nenion</translation>
+        <translation type="vanished">&amp;Fari nenion</translation>
     </message>
     <message>
         <source>Public Key: %1</source>
@@ -14853,11 +14857,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Jes</translation>
+        <translation type="vanished">&amp;Jes</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Fetching registration form for %1 ...</source>
@@ -17138,11 +17142,11 @@ La enhavo de la blanka tabulo estas forperdota.</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Jes</translation>
+        <translation type="vanished">&amp;Jes</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>A new whiteboard message was just received.
@@ -17566,11 +17570,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Jes</translation>
+        <translation type="vanished">Jes</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Ne</translation>
+        <translation type="vanished">Ne</translation>
     </message>
 </context>
 <context>

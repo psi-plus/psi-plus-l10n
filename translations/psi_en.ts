@@ -910,11 +910,11 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Yes</translation>
+        <translation type="vanished">&amp;Yes</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;No</translation>
+        <translation type="vanished">&amp;No</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2180,6 +2180,10 @@ Do you still want to close the window?</translation>
     <message>
         <source>Record and share audio note while pressed</source>
         <translation>Record and share audio note while pressed</translation>
+    </message>
+    <message>
+        <source>Audio recording failed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4420,11 +4424,11 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Yes</translation>
+        <translation type="vanished">&amp;Yes</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;No</translation>
+        <translation type="vanished">&amp;No</translation>
     </message>
     <message>
         <source>Choose a file</source>
@@ -7063,11 +7067,11 @@ Are you sure you want to discard them?</translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>Close and discard</translation>
+        <translation type="vanished">Close and discard</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>Don&apos;t close</translation>
+        <translation type="vanished">Don&apos;t close</translation>
     </message>
     <message>
         <source>Success</source>
@@ -7662,11 +7666,11 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Yes</source>
-        <translation>Yes</translation>
+        <translation type="vanished">Yes</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>No</translation>
+        <translation type="vanished">No</translation>
     </message>
     <message>
         <source>There was an error retrieving the room configuration</source>
@@ -12393,11 +12397,11 @@ Only use letters or numbers.  No punctuation or spaces.</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;No</translation>
+        <translation type="vanished">&amp;No</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Yes</translation>
+        <translation type="vanished">&amp;Yes</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -12961,11 +12965,11 @@ Reason: %1.</translation>
     </message>
     <message>
         <source>&amp;Choose key manually</source>
-        <translation>&amp;Choose key manually</translation>
+        <translation type="vanished">&amp;Choose key manually</translation>
     </message>
     <message>
         <source>Do &amp;nothing</source>
-        <translation>Do &amp;nothing</translation>
+        <translation type="vanished">Do &amp;nothing</translation>
     </message>
     <message>
         <source>Public Key: %1</source>
@@ -16097,11 +16101,11 @@ Thanks for your patience.</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Yes</translation>
+        <translation type="vanished">&amp;Yes</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;No</translation>
+        <translation type="vanished">&amp;No</translation>
     </message>
     <message>
         <source>Fetching registration form for %1 ...</source>
@@ -18638,11 +18642,11 @@ The contents of the whiteboard will be lost.</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Yes</translation>
+        <translation type="vanished">&amp;Yes</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;No</translation>
+        <translation type="vanished">&amp;No</translation>
     </message>
     <message>
         <source>A new whiteboard message was just received.
@@ -19074,11 +19078,11 @@ Do you still want to close the window?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Yes</translation>
+        <translation type="vanished">Yes</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>No</translation>
+        <translation type="vanished">No</translation>
     </message>
 </context>
 <context>

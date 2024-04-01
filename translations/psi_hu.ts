@@ -898,11 +898,11 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Igen</translation>
+        <translation type="vanished">&amp;Igen</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nem</translation>
+        <translation type="vanished">&amp;Nem</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2166,6 +2166,10 @@ Biztosan be akarod zárni az ablakot?</translation>
     </message>
     <message>
         <source>Record and share audio note while pressed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio recording failed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4405,11 +4409,11 @@ Legfőképpen: nagy része a beállításoknak fontos rendszerbeállítás. Ezek
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Igen</translation>
+        <translation type="vanished">&amp;Igen</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nem</translation>
+        <translation type="vanished">&amp;Nem</translation>
     </message>
     <message>
         <source>Choose a file</source>
@@ -7015,11 +7019,11 @@ Biztosan el akarod vetni őket?</translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>Bezárás és elvetés</translation>
+        <translation type="vanished">Bezárás és elvetés</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>Ne zárja be</translation>
+        <translation type="vanished">Ne zárja be</translation>
     </message>
     <message>
         <source>Success</source>
@@ -7608,11 +7612,11 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Yes</source>
-        <translation>Igen</translation>
+        <translation type="vanished">Igen</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Nem</translation>
+        <translation type="vanished">Nem</translation>
     </message>
     <message>
         <source>There was an error retrieving the room configuration</source>
@@ -12298,11 +12302,11 @@ számok, pontok vagy szóközök nélkül.</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nem</translation>
+        <translation type="vanished">&amp;Nem</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Igen</translation>
+        <translation type="vanished">&amp;Igen</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -12866,11 +12870,11 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>&amp;Choose key manually</source>
-        <translation>Kulcs &amp;kiválasztása kézileg</translation>
+        <translation type="vanished">Kulcs &amp;kiválasztása kézileg</translation>
     </message>
     <message>
         <source>Do &amp;nothing</source>
-        <translation>Ne csináljon &amp;semmit</translation>
+        <translation type="vanished">Ne csináljon &amp;semmit</translation>
     </message>
     <message>
         <source>Public Key: %1</source>
@@ -15979,11 +15983,11 @@ Türelmét köszönjük.</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Igen</translation>
+        <translation type="vanished">&amp;Igen</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nem</translation>
+        <translation type="vanished">&amp;Nem</translation>
     </message>
     <message>
         <source>Fetching registration form for %1 ...</source>
@@ -18440,11 +18444,11 @@ A rajztábla tartalma el fog veszni.</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Igen</translation>
+        <translation type="vanished">&amp;Igen</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nem</translation>
+        <translation type="vanished">&amp;Nem</translation>
     </message>
     <message>
         <source>A new whiteboard message was just received.
@@ -18876,11 +18880,11 @@ Ablak bezárása mégis?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Igen</translation>
+        <translation type="vanished">Igen</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Nem</translation>
+        <translation type="vanished">Nem</translation>
     </message>
 </context>
 <context>

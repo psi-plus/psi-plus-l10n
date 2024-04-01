@@ -907,11 +907,11 @@ der Inaktivität getrennt wird (z. B. von Ihrem Provider oder durch Ihren Router
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ja</translation>
+        <translation type="vanished">&amp;Ja</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nein</translation>
+        <translation type="vanished">&amp;Nein</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2176,6 +2176,10 @@ Möchten Sie das Fenster trotzdem schließen?</translation>
     </message>
     <message>
         <source>Record and share audio note while pressed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio recording failed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4417,11 +4421,11 @@ Wichtig: Ein großer Teil der Einstellungen sind wichtige Systemeinstellungen. D
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ja</translation>
+        <translation type="vanished">&amp;Ja</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nein</translation>
+        <translation type="vanished">&amp;Nein</translation>
     </message>
     <message>
         <source>Choose a file</source>
@@ -7054,11 +7058,11 @@ Sollen sie verworfen werden?</translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>Schließen und verwerfen</translation>
+        <translation type="vanished">Schließen und verwerfen</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>Nicht schließen</translation>
+        <translation type="vanished">Nicht schließen</translation>
     </message>
     <message>
         <source>Success</source>
@@ -7647,11 +7651,11 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Yes</source>
-        <translation>Ja</translation>
+        <translation type="vanished">Ja</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Nein</translation>
+        <translation type="vanished">Nein</translation>
     </message>
     <message>
         <source>There was an error retrieving the room configuration</source>
@@ -12356,11 +12360,11 @@ Verwenden Sie nur Buchstaben und Zahlen, keine Satzzeichen oder Leerzeichen.</tr
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nein</translation>
+        <translation type="vanished">&amp;Nein</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ja</translation>
+        <translation type="vanished">&amp;Ja</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -12924,11 +12928,11 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>&amp;Choose key manually</source>
-        <translation>Schlüssel manuell aus&amp;wählen</translation>
+        <translation type="vanished">Schlüssel manuell aus&amp;wählen</translation>
     </message>
     <message>
         <source>Do &amp;nothing</source>
-        <translation>&amp;Nichts tun</translation>
+        <translation type="vanished">&amp;Nichts tun</translation>
     </message>
     <message>
         <source>Public Key: %1</source>
@@ -16052,11 +16056,11 @@ Vielen Dank für Ihre Geduld.</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ja</translation>
+        <translation type="vanished">&amp;Ja</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nein</translation>
+        <translation type="vanished">&amp;Nein</translation>
     </message>
     <message>
         <source>Fetching registration form for %1 ...</source>
@@ -18583,11 +18587,11 @@ Der Inhalt der Weißwandtafel geht verloren.</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ja</translation>
+        <translation type="vanished">&amp;Ja</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nein</translation>
+        <translation type="vanished">&amp;Nein</translation>
     </message>
     <message>
         <source>A new whiteboard message was just received.
@@ -19019,11 +19023,11 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Ja</translation>
+        <translation type="vanished">Ja</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Nein</translation>
+        <translation type="vanished">Nein</translation>
     </message>
 </context>
 <context>

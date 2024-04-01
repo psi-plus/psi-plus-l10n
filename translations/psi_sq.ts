@@ -882,11 +882,11 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Po</translation>
+        <translation type="vanished">&amp;Po</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Jo</translation>
+        <translation type="vanished">&amp;Jo</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2110,6 +2110,10 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Record and share audio note while pressed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio recording failed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4306,11 +4310,11 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Po</translation>
+        <translation type="vanished">&amp;Po</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Jo</translation>
+        <translation type="vanished">&amp;Jo</translation>
     </message>
     <message>
         <source>Choose a file</source>
@@ -6845,11 +6849,11 @@ Are you sure you want to discard them?</source>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>Mbylle dhe hidhe tej</translation>
+        <translation type="vanished">Mbylle dhe hidhe tej</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>Mos e mbyll</translation>
+        <translation type="vanished">Mos e mbyll</translation>
     </message>
     <message>
         <source>Success</source>
@@ -7431,11 +7435,11 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Yes</source>
-        <translation>Po</translation>
+        <translation type="vanished">Po</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Jo</translation>
+        <translation type="vanished">Jo</translation>
     </message>
     <message>
         <source>There was an error retrieving the room configuration</source>
@@ -12000,11 +12004,11 @@ Only use letters or numbers.  No punctuation or spaces.</source>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Jo</translation>
+        <translation type="vanished">&amp;Jo</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Po</translation>
+        <translation type="vanished">&amp;Po</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -12561,11 +12565,11 @@ Arsye: %1.</translation>
     </message>
     <message>
         <source>&amp;Choose key manually</source>
-        <translation>&amp;Zgjidhni kyç dorazi</translation>
+        <translation type="vanished">&amp;Zgjidhni kyç dorazi</translation>
     </message>
     <message>
         <source>Do &amp;nothing</source>
-        <translation>&amp;Mos bëj gjë</translation>
+        <translation type="vanished">&amp;Mos bëj gjë</translation>
     </message>
     <message>
         <source>Public Key: %1</source>
@@ -15628,11 +15632,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Po</translation>
+        <translation type="vanished">&amp;Po</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Jo</translation>
+        <translation type="vanished">&amp;Jo</translation>
     </message>
     <message>
         <source>Fetching registration form for %1 ...</source>
@@ -18046,11 +18050,11 @@ The contents of the whiteboard will be lost.</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Po</translation>
+        <translation type="vanished">&amp;Po</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Jo</translation>
+        <translation type="vanished">&amp;Jo</translation>
     </message>
     <message>
         <source>A new whiteboard message was just received.
@@ -18481,11 +18485,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Po</translation>
+        <translation type="vanished">Po</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Jo</translation>
+        <translation type="vanished">Jo</translation>
     </message>
 </context>
 <context>

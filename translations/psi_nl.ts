@@ -842,11 +842,11 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ja</translation>
+        <translation type="vanished">&amp;Ja</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nee</translation>
+        <translation type="vanished">&amp;Nee</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2011,6 +2011,10 @@ Wilt u nog steeds het venster sluiten?</translation>
     </message>
     <message>
         <source>Record and share audio note while pressed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio recording failed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4053,11 +4057,11 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ja</translation>
+        <translation type="vanished">&amp;Ja</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nee</translation>
+        <translation type="vanished">&amp;Nee</translation>
     </message>
     <message>
         <source>Choose a file</source>
@@ -6336,11 +6340,11 @@ Wilt u doorgaan zonder op te slaan?</translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>Niet opslaan en sluiten</translation>
+        <translation type="vanished">Niet opslaan en sluiten</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>Niet sluiten</translation>
+        <translation type="vanished">Niet sluiten</translation>
     </message>
     <message>
         <source>Success</source>
@@ -6901,14 +6905,6 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Are you absolutely certain you want to destroy this room?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11234,11 +11230,11 @@ Gebruik alleen cijfers en letters.  Geen interpunctie of spaties.</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nee</translation>
+        <translation type="vanished">&amp;Nee</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ja</translation>
+        <translation type="vanished">&amp;Ja</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -11789,11 +11785,11 @@ Details: %1</source>
     </message>
     <message>
         <source>&amp;Choose key manually</source>
-        <translation>&amp;Kies sleutel handmatig</translation>
+        <translation type="vanished">&amp;Kies sleutel handmatig</translation>
     </message>
     <message>
         <source>Do &amp;nothing</source>
-        <translation>Doe &amp;niets</translation>
+        <translation type="vanished">Doe &amp;niets</translation>
     </message>
     <message>
         <source>Public Key: %1</source>
@@ -14761,11 +14757,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ja</translation>
+        <translation type="vanished">&amp;Ja</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nee</translation>
+        <translation type="vanished">&amp;Nee</translation>
     </message>
     <message>
         <source>Fetching registration form for %1 ...</source>
@@ -17012,11 +17008,11 @@ The contents of the whiteboard will be lost.</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ja</translation>
+        <translation type="vanished">&amp;Ja</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nee</translation>
+        <translation type="vanished">&amp;Nee</translation>
     </message>
     <message>
         <source>A new whiteboard message was just received.
@@ -17435,14 +17431,6 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>You have entered malformed XML input. Are you sure you want to send this ?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

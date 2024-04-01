@@ -911,11 +911,11 @@ Quando abiliti questa opzione non sarai in grado di trovare la tua password nei 
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Sì</translation>
+        <translation type="vanished">&amp;Sì</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;No</translation>
+        <translation type="vanished">&amp;No</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2180,6 +2180,10 @@ Vuoi ancora chiudere la finestra?</translation>
     <message>
         <source>Record and share audio note while pressed</source>
         <translation>Registra e condividi una nota vocale durante la pressione</translation>
+    </message>
+    <message>
+        <source>Audio recording failed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4421,11 +4425,11 @@ Importante; gran parte delle opzioni sono importanti impostazioni di sistema, qu
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Sì</translation>
+        <translation type="vanished">&amp;Sì</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;No</translation>
+        <translation type="vanished">&amp;No</translation>
     </message>
     <message>
         <source>Choose a file</source>
@@ -7064,11 +7068,11 @@ Sei sicuro di volerle scartare?</translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>Chiudi e Annulla</translation>
+        <translation type="vanished">Chiudi e Annulla</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>Non chiudere</translation>
+        <translation type="vanished">Non chiudere</translation>
     </message>
     <message>
         <source>Success</source>
@@ -7663,11 +7667,11 @@ Nota: per funzionare correttamente, l&apos;opzione options.html.chat.render    d
     </message>
     <message>
         <source>Yes</source>
-        <translation>Si</translation>
+        <translation type="vanished">Si</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>No</translation>
+        <translation type="vanished">No</translation>
     </message>
     <message>
         <source>There was an error retrieving the room configuration</source>
@@ -12392,11 +12396,11 @@ Usa solo lettere o numeri. Nessun carattere di punteggiatura o spazio.</translat
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;No</translation>
+        <translation type="vanished">&amp;No</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Sì</translation>
+        <translation type="vanished">&amp;Sì</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -12960,11 +12964,11 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>&amp;Choose key manually</source>
-        <translation>&amp;Scegli chiave manualmente</translation>
+        <translation type="vanished">&amp;Scegli chiave manualmente</translation>
     </message>
     <message>
         <source>Do &amp;nothing</source>
-        <translation>Non fare &amp;nulla</translation>
+        <translation type="vanished">Non fare &amp;nulla</translation>
     </message>
     <message>
         <source>Public Key: %1</source>
@@ -16095,11 +16099,11 @@ Grazie per la tua pazienza.</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Sì</translation>
+        <translation type="vanished">&amp;Sì</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;No</translation>
+        <translation type="vanished">&amp;No</translation>
     </message>
     <message>
         <source>Fetching registration form for %1 ...</source>
@@ -18624,11 +18628,11 @@ I contenuti della lavagna saranno perduti.</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Sì</translation>
+        <translation type="vanished">&amp;Sì</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;No</translation>
+        <translation type="vanished">&amp;No</translation>
     </message>
     <message>
         <source>A new whiteboard message was just received.
@@ -19060,11 +19064,11 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Sì</translation>
+        <translation type="vanished">Sì</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>No</translation>
+        <translation type="vanished">No</translation>
     </message>
 </context>
 <context>

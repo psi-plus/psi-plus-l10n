@@ -838,11 +838,11 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Да</translation>
+        <translation type="vanished">&amp;Да</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Не</translation>
+        <translation type="vanished">&amp;Не</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2012,6 +2012,10 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Record and share audio note while pressed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio recording failed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4079,11 +4083,11 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Да</translation>
+        <translation type="vanished">&amp;Да</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Не</translation>
+        <translation type="vanished">&amp;Не</translation>
     </message>
     <message>
         <source>Choose a file</source>
@@ -6370,11 +6374,11 @@ Are you sure you want to discard them?</source>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>Затвори и отфрли</translation>
+        <translation type="vanished">Затвори и отфрли</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>Не затворај</translation>
+        <translation type="vanished">Не затворај</translation>
     </message>
     <message>
         <source>Success</source>
@@ -6938,11 +6942,11 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Yes</source>
-        <translation>Да</translation>
+        <translation type="vanished">Да</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Не</translation>
+        <translation type="vanished">Не</translation>
     </message>
     <message>
         <source>There was an error retrieving the room configuration</source>
@@ -11306,11 +11310,11 @@ Only use letters or numbers.  No punctuation or spaces.</source>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Не</translation>
+        <translation type="vanished">&amp;Не</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Да</translation>
+        <translation type="vanished">&amp;Да</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -11868,11 +11872,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>&amp;Choose key manually</source>
-        <translation>Рачно бирање на &amp;клуч</translation>
+        <translation type="vanished">Рачно бирање на &amp;клуч</translation>
     </message>
     <message>
         <source>Do &amp;nothing</source>
-        <translation>Забора&amp;ви</translation>
+        <translation type="vanished">Забора&amp;ви</translation>
     </message>
     <message>
         <source>Public Key: %1</source>
@@ -14911,11 +14915,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Да</translation>
+        <translation type="vanished">&amp;Да</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Не</translation>
+        <translation type="vanished">&amp;Не</translation>
     </message>
     <message>
         <source>Fetching registration form for %1 ...</source>
@@ -17198,11 +17202,11 @@ The contents of the whiteboard will be lost.</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Да</translation>
+        <translation type="vanished">&amp;Да</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Не</translation>
+        <translation type="vanished">&amp;Не</translation>
     </message>
     <message>
         <source>A new whiteboard message was just received.
@@ -17626,11 +17630,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Да</translation>
+        <translation type="vanished">Да</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Не</translation>
+        <translation type="vanished">Не</translation>
     </message>
 </context>
 <context>

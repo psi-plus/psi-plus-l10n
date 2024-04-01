@@ -905,11 +905,11 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>确定(&amp;Y)</translation>
+        <translation type="vanished">确定(&amp;Y)</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>否(&amp;N)</translation>
+        <translation type="vanished">否(&amp;N)</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2175,6 +2175,10 @@ Do you still want to close the window?</source>
     <message>
         <source>Record and share audio note while pressed</source>
         <translation>按下时录制并共享音频备忘</translation>
+    </message>
+    <message>
+        <source>Audio recording failed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4413,11 +4417,11 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>确定(&amp;Y)</translation>
+        <translation type="vanished">确定(&amp;Y)</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>否(&amp;N)</translation>
+        <translation type="vanished">否(&amp;N)</translation>
     </message>
     <message>
         <source>Choose a file</source>
@@ -7050,11 +7054,11 @@ Are you sure you want to discard them?</source>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>关闭并放弃</translation>
+        <translation type="vanished">关闭并放弃</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>不要关闭</translation>
+        <translation type="vanished">不要关闭</translation>
     </message>
     <message>
         <source>Success</source>
@@ -7648,11 +7652,11 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Yes</source>
-        <translation>确定</translation>
+        <translation type="vanished">确定</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>否</translation>
+        <translation type="vanished">否</translation>
     </message>
     <message>
         <source>There was an error retrieving the room configuration</source>
@@ -12367,11 +12371,11 @@ Only use letters or numbers.  No punctuation or spaces.</source>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>否(&amp;N)</translation>
+        <translation type="vanished">否(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>确定(&amp;Y)</translation>
+        <translation type="vanished">确定(&amp;Y)</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -12935,11 +12939,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>&amp;Choose key manually</source>
-        <translation>手动选择密钥(&amp;C)</translation>
+        <translation type="vanished">手动选择密钥(&amp;C)</translation>
     </message>
     <message>
         <source>Do &amp;nothing</source>
-        <translation>什么都不做(&amp;N)</translation>
+        <translation type="vanished">什么都不做(&amp;N)</translation>
     </message>
     <message>
         <source>Public Key: %1</source>
@@ -16053,11 +16057,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>确定(&amp;Y)</translation>
+        <translation type="vanished">确定(&amp;Y)</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>否(&amp;N)</translation>
+        <translation type="vanished">否(&amp;N)</translation>
     </message>
     <message>
         <source>Fetching registration form for %1 ...</source>
@@ -18589,11 +18593,11 @@ The contents of the whiteboard will be lost.</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>确定(&amp;Y)</translation>
+        <translation type="vanished">确定(&amp;Y)</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>否(&amp;N)</translation>
+        <translation type="vanished">否(&amp;N)</translation>
     </message>
     <message>
         <source>A new whiteboard message was just received.
@@ -19025,11 +19029,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Yes</source>
-        <translation>确定</translation>
+        <translation type="vanished">确定</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>否</translation>
+        <translation type="vanished">否</translation>
     </message>
 </context>
 <context>

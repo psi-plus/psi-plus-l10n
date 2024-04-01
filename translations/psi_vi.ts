@@ -896,11 +896,11 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Có</translation>
+        <translation type="vanished">&amp;Có</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Không</translation>
+        <translation type="vanished">&amp;Không</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2160,6 +2160,10 @@ Bạn vẫn muốn đóng cửa sổ?</translation>
     <message>
         <source>Record and share audio note while pressed</source>
         <translation>Ghi âm và chia sẻ bản ghi khi được nhấn giữ</translation>
+    </message>
+    <message>
+        <source>Audio recording failed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4388,11 +4392,11 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Có</translation>
+        <translation type="vanished">&amp;Có</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Không</translation>
+        <translation type="vanished">&amp;Không</translation>
     </message>
     <message>
         <source>Choose a file</source>
@@ -6945,11 +6949,11 @@ Có chắc muốn bỏ thay đổi này không?</translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>Đóng và bỏ</translation>
+        <translation type="vanished">Đóng và bỏ</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>Đừng đóng</translation>
+        <translation type="vanished">Đừng đóng</translation>
     </message>
     <message>
         <source>Success</source>
@@ -7529,11 +7533,11 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Yes</source>
-        <translation>Có</translation>
+        <translation type="vanished">Có</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Không</translation>
+        <translation type="vanished">Không</translation>
     </message>
     <message>
         <source>There was an error retrieving the room configuration</source>
@@ -11988,11 +11992,11 @@ Gõ chỉ chữ và số, không phải dấu chấm câu hoăc khoảng cách.<
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Không</translation>
+        <translation type="vanished">&amp;Không</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Có</translation>
+        <translation type="vanished">&amp;Có</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -12555,11 +12559,11 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>&amp;Choose key manually</source>
-        <translation>Tự &amp;chọn khoá</translation>
+        <translation type="vanished">Tự &amp;chọn khoá</translation>
     </message>
     <message>
         <source>Do &amp;nothing</source>
-        <translation>Đừ&amp;ng làm gì</translation>
+        <translation type="vanished">Đừ&amp;ng làm gì</translation>
     </message>
     <message>
         <source>Public Key: %1</source>
@@ -15616,11 +15620,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Có</translation>
+        <translation type="vanished">&amp;Có</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>Khô&amp;ng</translation>
+        <translation type="vanished">Khô&amp;ng</translation>
     </message>
     <message>
         <source>Fetching registration form for %1 ...</source>
@@ -18023,11 +18027,11 @@ Nội dung của bảng trắng sẽ bị mất.</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Có</translation>
+        <translation type="vanished">&amp;Có</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>Khô&amp;ng</translation>
+        <translation type="vanished">Khô&amp;ng</translation>
     </message>
     <message>
         <source>A new whiteboard message was just received.
@@ -18459,11 +18463,11 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Có</translation>
+        <translation type="vanished">Có</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Không</translation>
+        <translation type="vanished">Không</translation>
     </message>
 </context>
 <context>

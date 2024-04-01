@@ -904,11 +904,11 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ano</translation>
+        <translation type="vanished">&amp;Ano</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2174,6 +2174,10 @@ Opravdu zavřít toto okno?</translation>
     <message>
         <source>Record and share audio note while pressed</source>
         <translation>Nahrávat a sdílet zvukovou poznámku pokud stisknuto</translation>
+    </message>
+    <message>
+        <source>Audio recording failed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4411,11 +4415,11 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ano</translation>
+        <translation type="vanished">&amp;Ano</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Choose a file</source>
@@ -7014,11 +7018,11 @@ Jsi si jistý, že je chceš zahodit?</translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>Zavřít a zahodit změny</translation>
+        <translation type="vanished">Zavřít a zahodit změny</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>Nezavírat</translation>
+        <translation type="vanished">Nezavírat</translation>
     </message>
     <message>
         <source>Success</source>
@@ -7607,11 +7611,11 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Yes</source>
-        <translation>Ano</translation>
+        <translation type="vanished">Ano</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Ne</translation>
+        <translation type="vanished">Ne</translation>
     </message>
     <message>
         <source>There was an error retrieving the room configuration</source>
@@ -12340,11 +12344,11 @@ Používej pouze písmena a číslice.  Nepoužívej interpunkci nebo mezery.</t
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ano</translation>
+        <translation type="vanished">&amp;Ano</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -12908,11 +12912,11 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>&amp;Choose key manually</source>
-        <translation>&amp;Vyber klíč ručně</translation>
+        <translation type="vanished">&amp;Vyber klíč ručně</translation>
     </message>
     <message>
         <source>Do &amp;nothing</source>
-        <translation>Nedělej &amp;nic</translation>
+        <translation type="vanished">Nedělej &amp;nic</translation>
     </message>
     <message>
         <source>Public Key: %1</source>
@@ -16048,11 +16052,11 @@ Děkujeme za trpělivost.</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ano</translation>
+        <translation type="vanished">&amp;Ano</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Fetching registration form for %1 ...</source>
@@ -18525,11 +18529,11 @@ Obsah tabule bude ztracen.</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ano</translation>
+        <translation type="vanished">&amp;Ano</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>A new whiteboard message was just received.
@@ -18961,11 +18965,11 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Ano</translation>
+        <translation type="vanished">Ano</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Ne</translation>
+        <translation type="vanished">Ne</translation>
     </message>
 </context>
 <context>
