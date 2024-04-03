@@ -2178,7 +2178,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Audio recording failed</source>
-        <translation type="unfinished"></translation>
+        <translation>录音失败</translation>
     </message>
 </context>
 <context>
