@@ -12966,6 +12966,14 @@ Důvod: %1.</translation>
         <source>Open Files For Sharing</source>
         <translation type="vanished">Otevřít soubory pro sdílení</translation>
     </message>
+    <message>
+        <source>Keychain failure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi switched to the internal password storage because system password manager is unavailable (%s).</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -14043,6 +14051,13 @@ Migrace je možná s Psi-0.15</translation>
     <message>
         <source>Add To Bookmarks</source>
         <translation>Přidat do záložek</translation>
+    </message>
+</context>
+<context>
+    <name>PsiDBusNotifier</name>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished">Otevřít</translation>
     </message>
 </context>
 <context>
@@ -16646,11 +16661,11 @@ Zdůvodnění: %1</translation>
     <name>SeparatorAction</name>
     <message>
         <source>&lt;Separator&gt;</source>
-        <translation>&lt;Oddělovač&gt;</translation>
+        <translation type="vanished">&lt;Oddělovač&gt;</translation>
     </message>
     <message>
         <source>Separator</source>
-        <translation>Oddělovač</translation>
+        <translation type="vanished">Oddělovač</translation>
     </message>
 </context>
 <context>

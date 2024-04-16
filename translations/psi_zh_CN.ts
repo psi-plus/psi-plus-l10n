@@ -12993,6 +12993,14 @@ Reason: %1.</source>
         <source>Open Files For Sharing</source>
         <translation type="vanished">打开要分享的文件</translation>
     </message>
+    <message>
+        <source>Keychain failure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi switched to the internal password storage because system password manager is unavailable (%s).</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -14070,6 +14078,13 @@ Psi-0.15可以迁移</translation>
     <message>
         <source>Add To Bookmarks</source>
         <translation>添加到书签</translation>
+    </message>
+</context>
+<context>
+    <name>PsiDBusNotifier</name>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished">打开</translation>
     </message>
 </context>
 <context>
@@ -16649,11 +16664,11 @@ Reason: %1</source>
     <name>SeparatorAction</name>
     <message>
         <source>&lt;Separator&gt;</source>
-        <translation>&lt;分隔&gt;</translation>
+        <translation type="vanished">&lt;分隔&gt;</translation>
     </message>
     <message>
         <source>Separator</source>
-        <translation>分隔</translation>
+        <translation type="vanished">分隔</translation>
     </message>
 </context>
 <context>

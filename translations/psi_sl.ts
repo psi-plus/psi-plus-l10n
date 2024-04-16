@@ -12179,6 +12179,14 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
         <source>Malformed request</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Keychain failure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi switched to the internal password storage because system password manager is unavailable (%s).</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -13229,6 +13237,13 @@ Migration is possible with Psi-0.15</source>
     <message>
         <source>Add To Bookmarks</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PsiDBusNotifier</name>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished">Odpri</translation>
     </message>
 </context>
 <context>
@@ -15771,11 +15786,11 @@ Razlog: %1</translation>
     <name>SeparatorAction</name>
     <message>
         <source>&lt;Separator&gt;</source>
-        <translation>&lt;Ločilo&gt;</translation>
+        <translation type="vanished">&lt;Ločilo&gt;</translation>
     </message>
     <message>
         <source>Separator</source>
-        <translation>Ločilo</translation>
+        <translation type="vanished">Ločilo</translation>
     </message>
 </context>
 <context>

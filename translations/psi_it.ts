@@ -13018,6 +13018,14 @@ Motivo: %1.</translation>
         <source>Open Files For Sharing</source>
         <translation type="vanished">Apri i file per condividere</translation>
     </message>
+    <message>
+        <source>Keychain failure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi switched to the internal password storage because system password manager is unavailable (%s).</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -14095,6 +14103,13 @@ La migrazione è possibile con Psi-0.15</translation>
     <message>
         <source>Add To Bookmarks</source>
         <translation>Aggiungi Ai Segnalibri</translation>
+    </message>
+</context>
+<context>
+    <name>PsiDBusNotifier</name>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished">Apri</translation>
     </message>
 </context>
 <context>
@@ -16695,11 +16710,11 @@ Motivo: %1</translation>
     <name>SeparatorAction</name>
     <message>
         <source>&lt;Separator&gt;</source>
-        <translation>&lt;Separatore&gt;</translation>
+        <translation type="vanished">&lt;Separatore&gt;</translation>
     </message>
     <message>
         <source>Separator</source>
-        <translation>Separatore</translation>
+        <translation type="vanished">Separatore</translation>
     </message>
 </context>
 <context>

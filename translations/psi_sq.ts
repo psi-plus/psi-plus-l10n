@@ -12611,6 +12611,14 @@ Arsye: %1.</translation>
         <source>Open Files For Sharing</source>
         <translation type="vanished">Hap Kartela Për Ndarje Me të Tjerë</translation>
     </message>
+    <message>
+        <source>Keychain failure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi switched to the internal password storage because system password manager is unavailable (%s).</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -13672,6 +13680,13 @@ Migration is possible with Psi-0.15</source>
     <message>
         <source>Add To Bookmarks</source>
         <translation>Shtoje Te Faqerojtësit</translation>
+    </message>
+</context>
+<context>
+    <name>PsiDBusNotifier</name>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished">Hape</translation>
     </message>
 </context>
 <context>
@@ -16212,11 +16227,11 @@ Reason: %1</source>
     <name>SeparatorAction</name>
     <message>
         <source>&lt;Separator&gt;</source>
-        <translation>&lt;Ndarës&gt;</translation>
+        <translation type="vanished">&lt;Ndarës&gt;</translation>
     </message>
     <message>
         <source>Separator</source>
-        <translation>Ndarës</translation>
+        <translation type="vanished">Ndarës</translation>
     </message>
 </context>
 <context>

@@ -12781,6 +12781,14 @@ Cause: %1.</translation>
         <source>Malformed request</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Keychain failure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi switched to the internal password storage because system password manager is unavailable (%s).</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -13843,6 +13851,13 @@ Migration is possible with Psi-0.15</source>
     <message>
         <source>Add To Bookmarks</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PsiDBusNotifier</name>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished">Ouvrir</translation>
     </message>
 </context>
 <context>
@@ -16414,11 +16429,11 @@ Cause: %1</translation>
     <name>SeparatorAction</name>
     <message>
         <source>&lt;Separator&gt;</source>
-        <translation>&lt;Séparateur&gt;</translation>
+        <translation type="vanished">&lt;Séparateur&gt;</translation>
     </message>
     <message>
         <source>Separator</source>
-        <translation>Séparateur</translation>
+        <translation type="vanished">Séparateur</translation>
     </message>
 </context>
 <context>
