@@ -8246,6 +8246,10 @@ Details: %1</source>
         <source>Open Destination Folder</source>
         <translation>打开目标文件夹</translation>
     </message>
+    <message>
+        <source>not defined</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MultiFileTransferDlg</name>
@@ -8287,6 +8291,10 @@ Details: %1</source>
     <message>
         <source>Transferred: %1/%2 bytes</source>
         <translation>已发送: %1/%2 字节</translation>
+    </message>
+    <message>
+        <source>not defined</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12995,11 +13003,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Keychain failure</source>
-        <translation type="unfinished"></translation>
+        <translation>密钥链失败</translation>
     </message>
     <message>
         <source>Psi switched to the internal password storage because system password manager is unavailable (%s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi 切换到了内部密码存储因为系统密码管理器不可用（%）。</translation>
     </message>
 </context>
 <context>
@@ -14084,7 +14092,7 @@ Psi-0.15可以迁移</translation>
     <name>PsiDBusNotifier</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished">打开</translation>
+        <translation>打开</translation>
     </message>
 </context>
 <context>
