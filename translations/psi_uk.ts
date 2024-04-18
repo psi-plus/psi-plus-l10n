@@ -8268,6 +8268,10 @@ Details: %1</source>
         <source>Open Destination Folder</source>
         <translation>Відкрити папку призначення</translation>
     </message>
+    <message>
+        <source>not defined</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MultiFileTransferDlg</name>
@@ -8309,6 +8313,10 @@ Details: %1</source>
     <message>
         <source>Transferred: %1/%2 bytes</source>
         <translation>Передано: %1/%2 байт</translation>
+    </message>
+    <message>
+        <source>not defined</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

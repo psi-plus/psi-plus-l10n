@@ -8206,6 +8206,10 @@ Detaily: %1</translation>
         <source>Open Destination Folder</source>
         <translation>Otevřít cílovou složku</translation>
     </message>
+    <message>
+        <source>not defined</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MultiFileTransferDlg</name>
@@ -8247,6 +8251,10 @@ Detaily: %1</translation>
     <message>
         <source>Transferred: %1/%2 bytes</source>
         <translation>Přeneseno: %1/%2 bytů</translation>
+    </message>
+    <message>
+        <source>not defined</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

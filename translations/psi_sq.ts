@@ -8000,6 +8000,10 @@ Hollësi: %1</translation>
         <source>Open Destination Folder</source>
         <translation>Hap Dosjen Vendmbërritje</translation>
     </message>
+    <message>
+        <source>not defined</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MultiFileTransferDlg</name>
@@ -8041,6 +8045,10 @@ Hollësi: %1</translation>
     <message>
         <source>Transferred: %1/%2 bytes</source>
         <translation>Të shpërngulur: %1/%2 bajte</translation>
+    </message>
+    <message>
+        <source>not defined</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

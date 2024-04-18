@@ -8262,6 +8262,10 @@ Dettagli: %1</translation>
         <source>Open Destination Folder</source>
         <translation>Apri cartella di destinazione</translation>
     </message>
+    <message>
+        <source>not defined</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MultiFileTransferDlg</name>
@@ -8303,6 +8307,10 @@ Dettagli: %1</translation>
     <message>
         <source>Transferred: %1/%2 bytes</source>
         <translation>Trasferiti: %1/%2 byte</translation>
+    </message>
+    <message>
+        <source>not defined</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
