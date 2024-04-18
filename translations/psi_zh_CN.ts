@@ -8248,7 +8248,7 @@ Details: %1</source>
     </message>
     <message>
         <source>not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>未定义</translation>
     </message>
 </context>
 <context>
@@ -8294,7 +8294,7 @@ Details: %1</source>
     </message>
     <message>
         <source>not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>未定义</translation>
     </message>
 </context>
 <context>
