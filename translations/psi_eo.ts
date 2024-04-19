@@ -7775,10 +7775,6 @@ Kialo: %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Treat incoming messages and chats as:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7796,6 +7792,10 @@ Kialo: %1.</translation>
     </message>
     <message>
         <source>Messages (Chats if Chatting)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9659,7 +9659,11 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation>Psi ignoru ĉiujn envenantajn &quot;ĉefliniajn&quot;eventojn, kiel sistemvastajn novaĵojn pri MSN, anoncadojn, ktp.</translation>
+        <translation type="vanished">Psi ignoru ĉiujn envenantajn &quot;ĉefliniajn&quot;eventojn, kiel sistemvastajn novaĵojn pri MSN, anoncadojn, ktp.</translation>
+    </message>
+    <message>
+        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

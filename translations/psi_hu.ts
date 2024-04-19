@@ -8528,7 +8528,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation>&quot;Főcím&quot; események mellőzése (pl. MSN-jelzések)</translation>
+        <translation type="vanished">&quot;Főcím&quot; események mellőzése (pl. MSN-jelzések)</translation>
     </message>
     <message>
         <source>Treat incoming messages and chats as:</source>
@@ -8549,6 +8549,10 @@ Oka: %1.</translation>
     <message>
         <source>Messages (Chats if Chatting)</source>
         <translation>Üzenetekként (Beszélgetésként beszélgetés esetén)</translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10568,7 +10572,11 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation>Ha bekapcsolod, a Psi elrejti a &quot;főcím&quot;-eseményeket, mint például a rendszert érintő híreket MSN-en, hirdetéseket, stb.</translation>
+        <translation type="vanished">Ha bekapcsolod, a Psi elrejti a &quot;főcím&quot;-eseményeket, mint például a rendszert érintő híreket MSN-en, hirdetéseket, stb.</translation>
+    </message>
+    <message>
+        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

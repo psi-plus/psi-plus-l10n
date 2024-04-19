@@ -8590,7 +8590,7 @@ Reason: %1.</translation>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</translation>
+        <translation type="vanished">Ignore &quot;Headline&quot; events (e.g. MSN alerts)</translation>
     </message>
     <message>
         <source>Treat incoming messages and chats as:</source>
@@ -8611,6 +8611,10 @@ Reason: %1.</translation>
     <message>
         <source>Messages (Chats if Chatting)</source>
         <translation>Messages (Chats if Chatting)</translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10659,7 +10663,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</translation>
+        <translation type="vanished">Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</translation>
+    </message>
+    <message>
+        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -8060,7 +8060,7 @@ Orsak: %1.</translation>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation>Ignorera &quot;notis&quot;-händelser (till exempel MSN-notifieringar)</translation>
+        <translation type="vanished">Ignorera &quot;notis&quot;-händelser (till exempel MSN-notifieringar)</translation>
     </message>
     <message>
         <source>Treat incoming messages and chats as:</source>
@@ -8081,6 +8081,10 @@ Orsak: %1.</translation>
     <message>
         <source>Messages (Chats if Chatting)</source>
         <translation>Meddelanden (chattar om du chattar)</translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9951,7 +9955,11 @@ Inställningsnamn kan inte vara tomma, sluta på &apos;.&apos; eller innehålla 
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation>Går så att Psi ignorerar alla inkommande &quot;notiser&quot;, som MSNs systemmedelanden, etc.</translation>
+        <translation type="vanished">Går så att Psi ignorerar alla inkommande &quot;notiser&quot;, som MSNs systemmedelanden, etc.</translation>
+    </message>
+    <message>
+        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

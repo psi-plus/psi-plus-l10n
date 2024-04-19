@@ -7737,10 +7737,6 @@ Reason: %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Treat incoming messages and chats as:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7758,6 +7754,10 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Messages (Chats if Chatting)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9622,7 +9622,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation>Huifanya Psi ipuuze  matukio yajayo kwa &apos;&apos;ufupi&apos;&apos;, kama vile habari za mtambo kwa ujumla juu ya MSN, matangazo, nk.</translation>
+        <translation type="vanished">Huifanya Psi ipuuze  matukio yajayo kwa &apos;&apos;ufupi&apos;&apos;, kama vile habari za mtambo kwa ujumla juu ya MSN, matangazo, nk.</translation>
+    </message>
+    <message>
+        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -8471,7 +8471,7 @@ Cause: %1.</translation>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation>Ignorer les évènements &quot;en-tête&quot; (ex: les alertes MSN)</translation>
+        <translation type="vanished">Ignorer les évènements &quot;en-tête&quot; (ex: les alertes MSN)</translation>
     </message>
     <message>
         <source>Treat incoming messages and chats as:</source>
@@ -8492,6 +8492,10 @@ Cause: %1.</translation>
     <message>
         <source>Messages (Chats if Chatting)</source>
         <translation>Messages (Discussion si une discussion est en cours)</translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10448,7 +10452,11 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation>Fait que Psi ignore les évènements à en-tête, du type nouvelles-système sous MSN, annonces, etc.</translation>
+        <translation type="vanished">Fait que Psi ignore les évènements à en-tête, du type nouvelles-système sous MSN, annonces, etc.</translation>
+    </message>
+    <message>
+        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

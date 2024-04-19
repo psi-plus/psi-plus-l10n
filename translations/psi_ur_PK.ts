@@ -7888,7 +7888,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation>‫&apos;&apos;شہ سرخی&apos;&apos; وقوعات نظرانداز کریں (مثلاً MSN انتباہ  )</translation>
+        <translation type="vanished">‫&apos;&apos;شہ سرخی&apos;&apos; وقوعات نظرانداز کریں (مثلاً MSN انتباہ  )</translation>
     </message>
     <message>
         <source>Treat incoming messages and chats as:</source>
@@ -7909,6 +7909,10 @@ Reason: %1.</source>
     <message>
         <source>Messages (Chats if Chatting)</source>
         <translation>پیغامات (بات چیت اگر بات چیت کر رہے ہوں)‏</translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9779,7 +9783,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation>‫MSN پر نظام وار خبروں، اعلانات وغیرہ  کی طرح تمام آمدہ &quot; شہ سرخی&quot; وقوعات کو‫ Psi سے نظر انداز کرواتا ہے۔</translation>
+        <translation type="vanished">‫MSN پر نظام وار خبروں، اعلانات وغیرہ  کی طرح تمام آمدہ &quot; شہ سرخی&quot; وقوعات کو‫ Psi سے نظر انداز کرواتا ہے۔</translation>
+    </message>
+    <message>
+        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

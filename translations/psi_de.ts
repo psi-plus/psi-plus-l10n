@@ -8567,7 +8567,7 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation>&quot;Headline&quot;-Nachrichten (z. B. MSN-Alerts) ignorieren</translation>
+        <translation type="vanished">&quot;Headline&quot;-Nachrichten (z. B. MSN-Alerts) ignorieren</translation>
     </message>
     <message>
         <source>Treat incoming messages and chats as:</source>
@@ -8588,6 +8588,10 @@ Grund: %1.</translation>
     <message>
         <source>Messages (Chats if Chatting)</source>
         <translation>Nachrichten (Chats beim Chatten)</translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10619,7 +10623,11 @@ Aktiviere die &quot;Nachrichtenarchivierung&quot;-Option zur Verwendung!</transl
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation>Psi ignoriert alle eintreffenden &quot;Headline&quot;-Nachrichten. Diese werden von bestimmten Diensten wie z. B. Newstickern verschickt.</translation>
+        <translation type="vanished">Psi ignoriert alle eintreffenden &quot;Headline&quot;-Nachrichten. Diese werden von bestimmten Diensten wie z. B. Newstickern verschickt.</translation>
+    </message>
+    <message>
+        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

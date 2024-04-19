@@ -8440,10 +8440,6 @@ Reason: %1.</source>
         <translation>Скролиране на листа с контакти при събитие</translation>
     </message>
     <message>
-        <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Treat incoming messages and chats as:</source>
         <translation>Третиране на входящите съобщения и чатове като:</translation>
     </message>
@@ -8462,6 +8458,10 @@ Reason: %1.</source>
     <message>
         <source>Messages (Chats if Chatting)</source>
         <translation>Съобщения (Чатове ако Чати)</translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10450,7 +10450,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation>Psi да пренебрегва всички събития от вида „новини“, като например тези в системата за съобщения MSN, обявленията от мрежата и т.н.</translation>
+        <translation type="vanished">Psi да пренебрегва всички събития от вида „новини“, като например тези в системата за съобщения MSN, обявленията от мрежата и т.н.</translation>
+    </message>
+    <message>
+        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

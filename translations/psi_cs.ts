@@ -8535,7 +8535,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation>Ignorovat události typu &quot;Headline&quot; (např. MSN upozornění)</translation>
+        <translation type="vanished">Ignorovat události typu &quot;Headline&quot; (např. MSN upozornění)</translation>
     </message>
     <message>
         <source>Treat incoming messages and chats as:</source>
@@ -8556,6 +8556,10 @@ Důvod: %1.</translation>
     <message>
         <source>Messages (Chats if Chatting)</source>
         <translation>Jako zprávy (ale: jako chaty při otevřeném okně chatu)</translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10606,7 +10610,11 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation>Způsobí, že Psi bude ignorovat všechny příchozí události typu &quot;oznámení (headline)&quot;, jako systémové novinky na MSN, sdělení, atd.</translation>
+        <translation type="vanished">Způsobí, že Psi bude ignorovat všechny příchozí události typu &quot;oznámení (headline)&quot;, jako systémové novinky na MSN, sdělení, atd.</translation>
+    </message>
+    <message>
+        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

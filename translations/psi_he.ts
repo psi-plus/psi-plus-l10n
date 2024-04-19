@@ -8215,7 +8215,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation>התעלם מאירועי &quot;כותרת&quot; (למשל התראות MSN)</translation>
+        <translation type="vanished">התעלם מאירועי &quot;כותרת&quot; (למשל התראות MSN)</translation>
     </message>
     <message>
         <source>Treat incoming messages and chats as:</source>
@@ -8236,6 +8236,10 @@ Reason: %1.</source>
     <message>
         <source>Messages (Chats if Chatting)</source>
         <translation>הודעות (שיחות במידה ומשוחחים)</translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10158,7 +10162,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation>במידה ואפשרות זו מסומנת, Psi יתעלם מכל אירועי &quot;כותרת&quot;, כמו חדשות system-wide אצל MSN, מודעות, וכו׳.</translation>
+        <translation type="vanished">במידה ואפשרות זו מסומנת, Psi יתעלם מכל אירועי &quot;כותרת&quot;, כמו חדשות system-wide אצל MSN, מודעות, וכו׳.</translation>
+    </message>
+    <message>
+        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

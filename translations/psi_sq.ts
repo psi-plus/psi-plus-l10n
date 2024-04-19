@@ -8324,10 +8324,6 @@ Arsye: %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Treat incoming messages and chats as:</source>
         <translation>Trajtoji mesazhet ardhës dhe fjalosjet si:</translation>
     </message>
@@ -8346,6 +8342,10 @@ Arsye: %1.</translation>
     <message>
         <source>Messages (Chats if Chatting)</source>
         <translation>Mesazhe (Fjalosje, nëse Po bisedohet)</translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10325,7 +10325,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
+        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -7745,10 +7745,6 @@ Reason: %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Treat incoming messages and chats as:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7766,6 +7762,10 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Messages (Chats if Chatting)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9627,7 +9627,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation>Zorgt ervoor dat Psi &apos;headline&apos;-berichten, zoals MSN-nieuwsberichten, aankondigingen, enz. worden genegeerd.</translation>
+        <translation type="vanished">Zorgt ervoor dat Psi &apos;headline&apos;-berichten, zoals MSN-nieuwsberichten, aankondigingen, enz. worden genegeerd.</translation>
+    </message>
+    <message>
+        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

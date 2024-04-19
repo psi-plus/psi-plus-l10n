@@ -8376,7 +8376,7 @@ Przyczyna: %1.</translation>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation>Ignoruj zdarzenia typu &quot;Nagłówek&quot; (np. ostrzeżenia MSN, nagłówki RSS)</translation>
+        <translation type="vanished">Ignoruj zdarzenia typu &quot;Nagłówek&quot; (np. ostrzeżenia MSN, nagłówki RSS)</translation>
     </message>
     <message>
         <source>Treat incoming messages and chats as:</source>
@@ -8397,6 +8397,10 @@ Przyczyna: %1.</translation>
     <message>
         <source>Messages (Chats if Chatting)</source>
         <translation>Wiadomości (Rozmowy gdy rozmawiam)</translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10301,7 +10305,11 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation>Powoduje, że Psi ignoruje wszystkie wiadomości typu &quot;Nagłówek&quot;, np. systemowe ogłoszenia w MSN, nagłówki RSS, itp.</translation>
+        <translation type="vanished">Powoduje, że Psi ignoruje wszystkie wiadomości typu &quot;Nagłówek&quot;, np. systemowe ogłoszenia w MSN, nagłówki RSS, itp.</translation>
+    </message>
+    <message>
+        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

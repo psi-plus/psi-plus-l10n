@@ -8028,7 +8028,7 @@ Razlog: %1.</translation>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation>Prezri »naslovne« dogodke (npr. opozorila MSN)</translation>
+        <translation type="vanished">Prezri »naslovne« dogodke (npr. opozorila MSN)</translation>
     </message>
     <message>
         <source>Treat incoming messages and chats as:</source>
@@ -8049,6 +8049,10 @@ Razlog: %1.</translation>
     <message>
         <source>Messages (Chats if Chatting)</source>
         <translation>Sporočila (klepete, če klepetate)</translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9919,7 +9923,11 @@ Ime ne sme biti prazno, se ne sme končati s ».« ali vsebovati »..«.</transl
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation>Psi spregleda vsa prihajajoča »naslovna« sporočila kot so na primer najave in sistemska sporočila na MSN.</translation>
+        <translation type="vanished">Psi spregleda vsa prihajajoča »naslovna« sporočila kot so na primer najave in sistemska sporočila na MSN.</translation>
+    </message>
+    <message>
+        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -8591,7 +8591,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation>Ignora gli avvisi &quot;Intestazione&quot; (ad esempio gli avvisi di MSN)</translation>
+        <translation type="vanished">Ignora gli avvisi &quot;Intestazione&quot; (ad esempio gli avvisi di MSN)</translation>
     </message>
     <message>
         <source>Treat incoming messages and chats as:</source>
@@ -8612,6 +8612,10 @@ Motivo: %1.</translation>
     <message>
         <source>Messages (Chats if Chatting)</source>
         <translation>Messaggi (Chat se stai chattando)</translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10658,7 +10662,11 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation>Permetti a Psi di ignorare tutte le azioni &quot;intestazione&quot; in arrivo, quali notizie di sistema su MSN, ecc.</translation>
+        <translation type="vanished">Permetti a Psi di ignorare tutte le azioni &quot;intestazione&quot; in arrivo, quali notizie di sistema su MSN, ecc.</translation>
+    </message>
+    <message>
+        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

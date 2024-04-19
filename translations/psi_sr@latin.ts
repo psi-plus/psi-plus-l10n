@@ -8372,7 +8372,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation>Zanemari „naslovne“ događaje (npr. MSN najave)</translation>
+        <translation type="vanished">Zanemari „naslovne“ događaje (npr. MSN najave)</translation>
     </message>
     <message>
         <source>Treat incoming messages and chats as:</source>
@@ -8393,6 +8393,10 @@ Reason: %1.</source>
     <message>
         <source>Messages (Chats if Chatting)</source>
         <translation>Poruke (razgovori)</translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10353,7 +10357,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation>Čini da Psi zanemaruje sve ulazne „naslove“ — sistemske vesti na MSN-u, najave, itd.</translation>
+        <translation type="vanished">Čini da Psi zanemaruje sve ulazne „naslove“ — sistemske vesti na MSN-u, najave, itd.</translation>
+    </message>
+    <message>
+        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

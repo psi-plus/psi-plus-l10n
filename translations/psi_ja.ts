@@ -8337,7 +8337,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation>&quot;見だし&quot;イベントを無視(例えばMSNの警告など)</translation>
+        <translation type="vanished">&quot;見だし&quot;イベントを無視(例えばMSNの警告など)</translation>
     </message>
     <message>
         <source>Treat incoming messages and chats as:</source>
@@ -8358,6 +8358,10 @@ Reason: %1.</source>
     <message>
         <source>Messages (Chats if Chatting)</source>
         <translation>メッセージ(チャット中であれば)</translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10241,7 +10245,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation>例えばMSNのシステムニュースやアナウンスなどの全ての&quot;見出し&quot;イベントを無視します。</translation>
+        <translation type="vanished">例えばMSNのシステムニュースやアナウンスなどの全ての&quot;見出し&quot;イベントを無視します。</translation>
+    </message>
+    <message>
+        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
