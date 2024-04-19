@@ -2191,7 +2191,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Audio recording failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка аудіозапису</translation>
     </message>
 </context>
 <context>
@@ -8270,7 +8270,7 @@ Details: %1</source>
     </message>
     <message>
         <source>not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>не визначено</translation>
     </message>
 </context>
 <context>
@@ -8316,7 +8316,7 @@ Details: %1</source>
     </message>
     <message>
         <source>not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>не визначено</translation>
     </message>
 </context>
 <context>
@@ -8597,7 +8597,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation>Ігнорувати &quot;оголошення&quot; (наприклад, новини MSN)</translation>
+        <translation type="vanished">Ігнорувати &quot;оголошення&quot; (наприклад, новини MSN)</translation>
     </message>
     <message>
         <source>Treat incoming messages and chats as:</source>
@@ -8618,6 +8618,10 @@ Reason: %1.</source>
     <message>
         <source>Messages (Chats if Chatting)</source>
         <translation>Як повідомлення (як чати, якщо йде чат)</translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10664,7 +10668,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation>Примушує Psi ігнорувати усі &quot;заголовочні&quot; події, такі як новини в MSN, оголошення та ін.</translation>
+        <translation type="vanished">Примушує Psi ігнорувати усі &quot;заголовочні&quot; події, такі як новини в MSN, оголошення та ін.</translation>
+    </message>
+    <message>
+        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13035,11 +13043,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Keychain failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка брелока</translation>
     </message>
     <message>
         <source>Psi switched to the internal password storage because system password manager is unavailable (%s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi переключився на внутрішнє сховище паролів, оскільки системний менеджер паролів недоступний (%s).</translation>
     </message>
 </context>
 <context>
@@ -13574,11 +13582,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Manage Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Керувати акаунтами</translation>
     </message>
     <message>
         <source>&amp;Manage Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Керувати акаунтами</translation>
     </message>
 </context>
 <context>
@@ -14124,7 +14132,7 @@ Migration is possible with Psi-0.15</source>
     <name>PsiDBusNotifier</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Відкрити</translation>
+        <translation>Відкрити</translation>
     </message>
 </context>
 <context>

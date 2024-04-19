@@ -8574,7 +8574,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation>忽略 &quot;标题&quot; 事件 (例如, MSN 提示)</translation>
+        <translation type="vanished">忽略 &quot;标题&quot; 事件 (例如, MSN 提示)</translation>
     </message>
     <message>
         <source>Treat incoming messages and chats as:</source>
@@ -8595,6 +8595,10 @@ Reason: %1.</source>
     <message>
         <source>Messages (Chats if Chatting)</source>
         <translation>信息 (对话时则为对话)</translation>
+    </message>
+    <message>
+        <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10634,7 +10638,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation>让 Psi 忽略所有进来的 &quot;标题&quot; 事件, 如 MSN 的系统信息或公告等。</translation>
+        <translation type="vanished">让 Psi 忽略所有进来的 &quot;标题&quot; 事件, 如 MSN 的系统信息或公告等。</translation>
+    </message>
+    <message>
+        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
