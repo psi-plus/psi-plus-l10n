@@ -8598,7 +8598,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
-        <translation type="unfinished"></translation>
+        <translation>忽略 &quot;标题&quot; 事件 (例如, 公告)</translation>
     </message>
 </context>
 <context>
@@ -10642,7 +10642,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
-        <translation type="unfinished"></translation>
+        <translation>让 Psi 忽略所有传入的 &quot;标题&quot; 事件, 如公告等。</translation>
     </message>
 </context>
 <context>
