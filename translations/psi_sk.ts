@@ -6649,7 +6649,7 @@ to play battleship. He wants to play %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Jingle download failed</source>
+        <source>Jingle download failed: %s</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7208,6 +7208,14 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>Are you sure you want to clear all events?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable Sounds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Sounds</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7990,10 +7998,6 @@ Reason: %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Use &quot;double-click&quot; style (like ICQ)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Start minimized</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8039,6 +8043,10 @@ Reason: %1.</source>
     </message>
     <message>
         <source>99999</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use &quot;double-click&quot; style</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11267,14 +11275,6 @@ Proceed?</source>
         <translation>Nový Profil</translation>
     </message>
     <message>
-        <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
-&lt;br&gt;
-The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; (ICQ style) and&lt;b&gt; Chat&lt;/b&gt; (AIM style). You can change this later from the Options menu.&lt;br&gt;
-&lt;br&gt;
-Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Profile Name:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11309,6 +11309,14 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <source>&amp;Chat</source>
         <translation>&amp;Chat</translation>
+    </message>
+    <message>
+        <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
+&lt;br&gt;
+The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; and&lt;b&gt; Chat&lt;/b&gt;. You can change this later from the Options menu.&lt;br&gt;
+&lt;br&gt;
+Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12008,16 +12016,12 @@ Details: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Play Sounds</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Play &amp;Sounds</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Toggles whether sound should be played or not</source>
-        <translation>Prepne, či je možné prehrať zvuk, alebo nie</translation>
+        <translation type="vanished">Prepne, či je možné prehrať zvuk, alebo nie</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -16457,10 +16461,6 @@ And these work only in groupchat dialog:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16513,6 +16513,10 @@ We hope that you will enjoy using it as we have enjoyed making it!
     <message>
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you chat on third-party IM networks such as Telegram and WhatsApp?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

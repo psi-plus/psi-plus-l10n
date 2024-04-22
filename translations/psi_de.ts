@@ -7377,7 +7377,7 @@ Schiffe versenken ein. Er möchte %2 spielen.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Jingle download failed</source>
+        <source>Jingle download failed: %s</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7972,6 +7972,14 @@ Eingehende(s) Event(s) von:</translation>
     </message>
     <message>
         <source>Are you sure you want to clear all events?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable Sounds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Sounds</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8823,7 +8831,7 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Use &quot;double-click&quot; style (like ICQ)</source>
-        <translation>Doppelklick verwenden (wie ICQ)</translation>
+        <translation type="vanished">Doppelklick verwenden (wie ICQ)</translation>
     </message>
     <message>
         <source>Start minimized</source>
@@ -8872,6 +8880,10 @@ Grund: %1.</translation>
     <message>
         <source>99999</source>
         <translation>99999</translation>
+    </message>
+    <message>
+        <source>Use &quot;double-click&quot; style</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12407,7 +12419,7 @@ Fortfahren?</translation>
 The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; (ICQ style) and&lt;b&gt; Chat&lt;/b&gt; (AIM style). You can change this later from the Options menu.&lt;br&gt;
 &lt;br&gt;
 Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation>Halten Sie Ihren &lt;i&gt;Profil-Namen&lt;/i&gt; einfach. Er sollte aus einem einzigen Wort bestehen, das nur Buchstaben und/oder Zahlen enthält.&lt;br&gt;
+        <translation type="vanished">Halten Sie Ihren &lt;i&gt;Profil-Namen&lt;/i&gt; einfach. Er sollte aus einem einzigen Wort bestehen, das nur Buchstaben und/oder Zahlen enthält.&lt;br&gt;
 &lt;br&gt;
 Die &lt;i&gt;Standard-Aktion&lt;/i&gt; legt fest, was passiert, wenn Sie auf einen Kontakt in Ihrer Liste doppel-klicken. Sie haben die Möglichkeit, zwischen &lt;b&gt;Nachricht&lt;/b&gt; (ICQ-Stil) und &lt;b&gt;Chat&lt;/b&gt; (AIM-Stil) zu wählen. Diese Auswahl können Sie auch später noch im Optionsdialog ändern.&lt;br&gt;
 &lt;br&gt;
@@ -12448,6 +12460,14 @@ Aktivieren Sie die Option &quot;Emoticons verwenden&quot;, wenn Sie statt dem Te
     <message>
         <source>&amp;Chat</source>
         <translation>&amp;Chatten</translation>
+    </message>
+    <message>
+        <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
+&lt;br&gt;
+The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; and&lt;b&gt; Chat&lt;/b&gt;. You can change this later from the Options menu.&lt;br&gt;
+&lt;br&gt;
+Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13163,7 +13183,7 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Play Sounds</source>
-        <translation>Klänge abspielen</translation>
+        <translation type="vanished">Klänge abspielen</translation>
     </message>
     <message>
         <source>Play &amp;Sounds</source>
@@ -13171,7 +13191,7 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Toggles whether sound should be played or not</source>
-        <translation>Schaltet die Klänge ein und aus</translation>
+        <translation type="vanished">Schaltet die Klänge ein und aus</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -17951,7 +17971,7 @@ Und diese funktionieren nur in Chat-Räumen:
     </message>
     <message>
         <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation>Chatten Sie auch in anderen Netzen wie zum Beispiel AIM oder ICQ?  Aktivieren Sie die Option &quot;Transportspezifische Symbole&quot;.  So können Sie mit einem Blick sehen, welches Netzwerk Ihr Kontakt verwendet und ihn sofort vom Wechsel zu XMPP überzeugen. &lt;icon name=&quot;psi/smile&quot;&gt;</translation>
+        <translation type="vanished">Chatten Sie auch in anderen Netzen wie zum Beispiel AIM oder ICQ?  Aktivieren Sie die Option &quot;Transportspezifische Symbole&quot;.  So können Sie mit einem Blick sehen, welches Netzwerk Ihr Kontakt verwendet und ihn sofort vom Wechsel zu XMPP überzeugen. &lt;icon name=&quot;psi/smile&quot;&gt;</translation>
     </message>
     <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
@@ -18023,6 +18043,10 @@ We hope that you will enjoy using it as we have enjoyed making it!
     <message>
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you chat on third-party IM networks such as Telegram and WhatsApp?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

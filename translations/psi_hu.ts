@@ -7338,7 +7338,7 @@ torpedóra. Ezt szeretné: %2.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Jingle download failed</source>
+        <source>Jingle download failed: %s</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7933,6 +7933,14 @@ Bejövő esemény(ek) innen:</translation>
     </message>
     <message>
         <source>Are you sure you want to clear all events?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable Sounds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Sounds</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8780,7 +8788,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Use &quot;double-click&quot; style (like ICQ)</source>
-        <translation>&quot;Dupla kattintásos&quot; mód (ICQ-féle)</translation>
+        <translation type="vanished">&quot;Dupla kattintásos&quot; mód (ICQ-féle)</translation>
     </message>
     <message>
         <source>Start minimized</source>
@@ -8829,6 +8837,10 @@ Oka: %1.</translation>
     <message>
         <source>99999</source>
         <translation type="unfinished">99999</translation>
+    </message>
+    <message>
+        <source>Use &quot;double-click&quot; style</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12349,7 +12361,7 @@ Folytatás?</translation>
 The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; (ICQ style) and&lt;b&gt; Chat&lt;/b&gt; (AIM style). You can change this later from the Options menu.&lt;br&gt;
 &lt;br&gt;
 Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation>Legyen a &lt;i&gt;Profilnév&lt;/i&gt; egyszerű. Egy sima szó általában, legfeljebb egy-két számmal.&lt;br&gt;
+        <translation type="vanished">Legyen a &lt;i&gt;Profilnév&lt;/i&gt; egyszerű. Egy sima szó általában, legfeljebb egy-két számmal.&lt;br&gt;
 &lt;br&gt;
 Az &lt;i&gt;Alap művelet&lt;/i&gt; történik, ha duplán kattintasz valakire a címlistában. A választások &lt;b&gt;Üzenet&lt;/b&gt; (ICQ stílus) vagy &lt;b&gt;Beszélgetés&lt;/b&gt; (AIM stílus). Ezt később megváltoztathatod a Beállításoknál.&lt;br&gt;
 &lt;br&gt;
@@ -12390,6 +12402,14 @@ Jelöld be a &lt;i&gt;Hangulatjelek engedélyezése&lt;/i&gt; opciót, ha szeret
     <message>
         <source>&amp;Chat</source>
         <translation>&amp;Beszélgetés</translation>
+    </message>
+    <message>
+        <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
+&lt;br&gt;
+The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; and&lt;b&gt; Chat&lt;/b&gt;. You can change this later from the Options menu.&lt;br&gt;
+&lt;br&gt;
+Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13105,7 +13125,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Play Sounds</source>
-        <translation>Hangok lejátszása</translation>
+        <translation type="vanished">Hangok lejátszása</translation>
     </message>
     <message>
         <source>Play &amp;Sounds</source>
@@ -13113,7 +13133,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Toggles whether sound should be played or not</source>
-        <translation>Hangok be/kikapcsolása</translation>
+        <translation type="vanished">Hangok be/kikapcsolása</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -17830,10 +17850,6 @@ And these work only in groupchat dialog:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
         <translation>Tudtad, hogy engedélyezheted vagy letilthatod a fiókjaidat? Ez hasznos lehet abban az esetben, ha ritkán használod valamelyiket, így nem szemeteli tele a partnerlistádat.</translation>
     </message>
@@ -17892,6 +17908,10 @@ We hope that you will enjoy using it as we have enjoyed making it!
     <message>
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you chat on third-party IM networks such as Telegram and WhatsApp?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

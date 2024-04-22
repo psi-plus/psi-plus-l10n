@@ -7374,7 +7374,11 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Jingle download failed</source>
-        <translation>Jingle下载失败</translation>
+        <translation type="vanished">Jingle下载失败</translation>
+    </message>
+    <message>
+        <source>Jingle download failed: %s</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7981,6 +7985,14 @@ Incoming event(s) from:</source>
     <message>
         <source>Are you sure you want to clear all events?</source>
         <translation>是否确定要清除所有事件？</translation>
+    </message>
+    <message>
+        <source>Disable Sounds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Sounds</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8830,7 +8842,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Use &quot;double-click&quot; style (like ICQ)</source>
-        <translation>使用 &quot;双击&quot; 模式(像 ICQ)</translation>
+        <translation type="vanished">使用 &quot;双击&quot; 模式(像 ICQ)</translation>
     </message>
     <message>
         <source>Start minimized</source>
@@ -8879,6 +8891,10 @@ Reason: %1.</source>
     <message>
         <source>99999</source>
         <translation>99999</translation>
+    </message>
+    <message>
+        <source>Use &quot;double-click&quot; style</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12418,7 +12434,7 @@ Proceed?</source>
 The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; (ICQ style) and&lt;b&gt; Chat&lt;/b&gt; (AIM style). You can change this later from the Options menu.&lt;br&gt;
 &lt;br&gt;
 Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation>单纯保持你的&lt;i&gt;个人配置名称&lt;/i&gt;。它应该仅由几个字母或数字组成。&lt;br&gt;
+        <translation type="vanished">单纯保持你的&lt;i&gt;个人配置名称&lt;/i&gt;。它应该仅由几个字母或数字组成。&lt;br&gt;
 &lt;br&gt;
 所谓的&lt;i&gt;默认行动&lt;/i&gt;指的是当你双击清单里的联系人时会执行的动作。 有&lt;b&gt;信息&lt;/b&gt; (ICQ 风格) 和&lt;b&gt;对话&lt;/b&gt; (AIM 风格) 两种。你稍后可以从选项菜单更改。&lt;br&gt;
 &lt;br&gt;
@@ -12459,6 +12475,14 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <source>&amp;Chat</source>
         <translation>对话(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
+&lt;br&gt;
+The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; and&lt;b&gt; Chat&lt;/b&gt;. You can change this later from the Options menu.&lt;br&gt;
+&lt;br&gt;
+Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13178,7 +13202,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Play Sounds</source>
-        <translation>播放声音</translation>
+        <translation type="vanished">播放声音</translation>
     </message>
     <message>
         <source>Play &amp;Sounds</source>
@@ -13186,7 +13210,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Toggles whether sound should be played or not</source>
-        <translation>切换什么声音要播放或不播放</translation>
+        <translation type="vanished">切换什么声音要播放或不播放</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -17947,7 +17971,7 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation>你想在第三方IM网络聊天，如AIM和ICQ？尝试启用“传输特定的图标”选项。这将允许你快速地看一眼你的好友正在使用哪个网络。然后你就可以说服他切换到XMPP。&lt;icon name=&quot;psi/smile&quot;&gt;</translation>
+        <translation type="vanished">你想在第三方IM网络聊天，如AIM和ICQ？尝试启用“传输特定的图标”选项。这将允许你快速地看一眼你的好友正在使用哪个网络。然后你就可以说服他切换到XMPP。&lt;icon name=&quot;psi/smile&quot;&gt;</translation>
     </message>
     <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
@@ -18028,6 +18052,10 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
         <translation>这是最后一个提示。
 &lt;br&gt;&lt;br&gt;如果您想贡献您自己的“每日提示”，&lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;请在 Psi 论坛上发布&lt;/a&gt;（或邮寄给其中一位开发人员），我们很乐意将其集成到下一个版本中。</translation>
+    </message>
+    <message>
+        <source>Do you chat on third-party IM networks such as Telegram and WhatsApp?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -6878,7 +6878,7 @@ to play battleship. He wants to play %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Jingle download failed</source>
+        <source>Jingle download failed: %s</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7458,6 +7458,14 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>Are you sure you want to clear all events?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable Sounds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Sounds</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8276,7 +8284,7 @@ Razlog: %1.</translation>
     </message>
     <message>
         <source>Use &quot;double-click&quot; style (like ICQ)</source>
-        <translation>Uporabi način z dvojnim klikom (kot ICQ)</translation>
+        <translation type="vanished">Uporabi način z dvojnim klikom (kot ICQ)</translation>
     </message>
     <message>
         <source>Start minimized</source>
@@ -8325,6 +8333,10 @@ Razlog: %1.</translation>
     <message>
         <source>99999</source>
         <translation type="unfinished">99999</translation>
+    </message>
+    <message>
+        <source>Use &quot;double-click&quot; style</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11615,7 +11627,7 @@ Proceed?</source>
 The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; (ICQ style) and&lt;b&gt; Chat&lt;/b&gt; (AIM style). You can change this later from the Options menu.&lt;br&gt;
 &lt;br&gt;
 Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation>&lt;i&gt;Ime profila&lt;/i&gt; naj bo čimbolj preprosto. Vsebuje naj le eno besedo sestavljeno samo iz črk in številk.&lt;br&gt;
+        <translation type="vanished">&lt;i&gt;Ime profila&lt;/i&gt; naj bo čimbolj preprosto. Vsebuje naj le eno besedo sestavljeno samo iz črk in številk.&lt;br&gt;
 &lt;br&gt;
 &lt;i&gt;Privzeto dejanje&lt;/i&gt; določa, kaj se zgodi, ko dvo-kliknete na stik na vašem seznamu. Izbiro lahko kasneje spremenite v nastavitvah.&lt;br&gt;
 &lt;br&gt;
@@ -11656,6 +11668,14 @@ Omogočite &lt;i&gt;Ikone čustev&lt;/i&gt;, če želite, da Psi smeškote, kot 
     <message>
         <source>&amp;Chat</source>
         <translation>&amp;Klepet</translation>
+    </message>
+    <message>
+        <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
+&lt;br&gt;
+The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; and&lt;b&gt; Chat&lt;/b&gt;. You can change this later from the Options menu.&lt;br&gt;
+&lt;br&gt;
+Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12364,7 +12384,7 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
     </message>
     <message>
         <source>Play Sounds</source>
-        <translation>Predvajaj zvoke</translation>
+        <translation type="vanished">Predvajaj zvoke</translation>
     </message>
     <message>
         <source>Play &amp;Sounds</source>
@@ -12372,7 +12392,7 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
     </message>
     <message>
         <source>Toggles whether sound should be played or not</source>
-        <translation>Preklopi med igranjem in ne igranjem zvokov</translation>
+        <translation type="vanished">Preklopi med igranjem in ne igranjem zvokov</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -16997,10 +17017,6 @@ Naslednji deluje le v skupinskih klepetih:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
         <translation>Ali ste vedeli, da lahko v pogovornem oknu Nastavi račun omogočite in onemogočite posamezne račune? To je lahko uporabno v primeru, da določenega računa ne uporabljate pogosto in nočete, da se njegovi stiki vidijo na seznamu stikov.</translation>
     </message>
@@ -17059,6 +17075,10 @@ We hope that you will enjoy using it as we have enjoyed making it!
     <message>
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you chat on third-party IM networks such as Telegram and WhatsApp?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
