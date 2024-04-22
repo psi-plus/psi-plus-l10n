@@ -7394,7 +7394,11 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Jingle download failed</source>
-        <translation>Помилка Jingle завантаження</translation>
+        <translation type="vanished">Помилка Jingle завантаження</translation>
+    </message>
+    <message>
+        <source>Jingle download failed: %s</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8003,6 +8007,14 @@ Incoming event(s) from:</source>
     <message>
         <source>Are you sure you want to clear all events?</source>
         <translation>Ви впевнені, що хочете очистити всі події?</translation>
+    </message>
+    <message>
+        <source>Disable Sounds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Sounds</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8621,7 +8633,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ігнорувати події &quot;Заголовок&quot; (наприклад, оголошення)</translation>
     </message>
 </context>
 <context>
@@ -8853,7 +8865,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Use &quot;double-click&quot; style (like ICQ)</source>
-        <translation>Керувати подвійним кліком</translation>
+        <translation type="vanished">Керувати подвійним кліком</translation>
     </message>
     <message>
         <source>Start minimized</source>
@@ -8902,6 +8914,10 @@ Reason: %1.</source>
     <message>
         <source>99999</source>
         <translation>99999</translation>
+    </message>
+    <message>
+        <source>Use &quot;double-click&quot; style</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10672,7 +10688,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
-        <translation type="unfinished"></translation>
+        <translation>Змушує Psi ігнорувати всі вхідні події із заголовками, як-то оголошення тощо.</translation>
     </message>
 </context>
 <context>
@@ -12450,7 +12466,7 @@ Proceed?</source>
 The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; (ICQ style) and&lt;b&gt; Chat&lt;/b&gt; (AIM style). You can change this later from the Options menu.&lt;br&gt;
 &lt;br&gt;
 Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation>Виберіть просту й зрозумілу &lt;i&gt;Назву профіля&lt;/i&gt;. Вона повинна бути словом, що складається з букв та цифр.&lt;br&gt;
+        <translation type="vanished">Виберіть просту й зрозумілу &lt;i&gt;Назву профіля&lt;/i&gt;. Вона повинна бути словом, що складається з букв та цифр.&lt;br&gt;
 &lt;br&gt;
 &lt;i&gt;Дія за замовчуванням&lt;/i&gt; - дія, що відбувається при подвійному клацанні по контакту з вашого списку. Можливі варіанти: &lt;b&gt;Повідомлення&lt;/b&gt; (як в ICQ) або &lt;b&gt;Чат&lt;/b&gt; (як в AIM). Цей режим можє бути змінений пізніше в меню налаштувань.&lt;br&gt;
 &lt;br&gt;
@@ -12491,6 +12507,14 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <source>&amp;Chat</source>
         <translation>&amp;Розмова</translation>
+    </message>
+    <message>
+        <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
+&lt;br&gt;
+The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; and&lt;b&gt; Chat&lt;/b&gt;. You can change this later from the Options menu.&lt;br&gt;
+&lt;br&gt;
+Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13210,7 +13234,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Play Sounds</source>
-        <translation>Програвати звуки</translation>
+        <translation type="vanished">Програвати звуки</translation>
     </message>
     <message>
         <source>Play &amp;Sounds</source>
@@ -13218,7 +13242,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Toggles whether sound should be played or not</source>
-        <translation>Визначає, чи будуть програватися звуки чи ні</translation>
+        <translation type="vanished">Визначає, чи будуть програватися звуки чи ні</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -18008,7 +18032,7 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation>Ви спілкуєтесь з користувачами AIM та ICQ? Використовуйте транспорти, що надаються серверами XMPP. Потім ви можете вмовити ваших співрозмовників використовувати XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</translation>
+        <translation type="vanished">Ви спілкуєтесь з користувачами AIM та ICQ? Використовуйте транспорти, що надаються серверами XMPP. Потім ви можете вмовити ваших співрозмовників використовувати XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</translation>
     </message>
     <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
@@ -18089,6 +18113,10 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
         <translation>Це остання порада.
 &lt;br&gt;&lt;br&gt;Якщо ви хочете надати свою пораду, будь ласка, опублікуйте ії на &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Форумах Psi&lt;/a&gt; (або надішліть поштою до одного з розробників), і ми неодмінно долучимо ії в наступному релізі.</translation>
+    </message>
+    <message>
+        <source>Do you chat on third-party IM networks such as Telegram and WhatsApp?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
