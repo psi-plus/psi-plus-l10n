@@ -7378,7 +7378,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Jingle download failed: %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Jingle下载失败了：%s</translation>
     </message>
 </context>
 <context>
@@ -7988,11 +7988,11 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>Disable Sounds</source>
-        <translation type="unfinished"></translation>
+        <translation>停用声音</translation>
     </message>
     <message>
         <source>Enable Sounds</source>
-        <translation type="unfinished"></translation>
+        <translation>启用声音</translation>
     </message>
 </context>
 <context>
@@ -8894,7 +8894,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Use &quot;double-click&quot; style</source>
-        <translation type="unfinished"></translation>
+        <translation>使用“双击”样式</translation>
     </message>
 </context>
 <context>
@@ -12482,7 +12482,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
 The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; and&lt;b&gt; Chat&lt;/b&gt;. You can change this later from the Options menu.&lt;br&gt;
 &lt;br&gt;
 Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>保持你的&lt;i&gt;个人资料名称&lt;/i&gt;简单。名称应为仅由字母或数字组成的单个单词 。&lt;br&gt;
+&lt;br&gt;
+&lt;i&gt;默认操作 &lt;/i&gt;表示当你双击列表内的联系人时会发生什么。选项为&lt;b&gt;消息 &lt;/b&gt;和&lt;b&gt; 聊天 &lt;/b&gt;你稍后可从“选项”菜单进行更改。&lt;br&gt;
+&lt;br&gt;
+勾选 &lt;i&gt;启用表情符号&lt;/i&gt;复选框，如果你想把类似 &lt;b&gt;:-)&lt;/b&gt; 这样的文本转成像 &lt;icon name=&quot;psi/smile&quot;&gt; 这样的图形。</translation>
     </message>
 </context>
 <context>
@@ -18055,7 +18059,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
     </message>
     <message>
         <source>Do you chat on third-party IM networks such as Telegram and WhatsApp?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>你在诸如 Telegram 和 WhatsApp 这样的第三方 IM 网络上聊天吗？试试启用“特定于传输的图标”选项。这允许你快速看一眼你的好友正在使用的聊天网络。接着你可以说服你的好友切换到 XMPP 来。</translation>
     </message>
 </context>
 <context>
