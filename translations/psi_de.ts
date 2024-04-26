@@ -19035,6 +19035,14 @@ Möchten Sie dennoch das Fenster schließen?</translation>
         <source>The recipient or server understood the request but was not expecting it at this time (e.g., the request was out of order).</source>
         <translation>Der Empfänger oder Server hat die Nachricht erhalten, aber nicht zu diesem Zeitpunkt erwartet (z. B., die Anfrage passt nicht in den Kontext).</translation>
     </message>
+    <message>
+        <source>Policy violation</source>
+        <translation type="unfinished">Methodenverletzung</translation>
+    </message>
+    <message>
+        <source>The sender has violated some service policy.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XMPP::Task</name>

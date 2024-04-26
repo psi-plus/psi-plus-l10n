@@ -19049,6 +19049,14 @@ Do you still want to close the window?</source>
         <source>The recipient or server understood the request but was not expecting it at this time (e.g., the request was out of order).</source>
         <translation>收件人或服务器理解了请求，但没想到在这个时候(例如，请求的顺序)。</translation>
     </message>
+    <message>
+        <source>Policy violation</source>
+        <translation type="unfinished">违反原则</translation>
+    </message>
+    <message>
+        <source>The sender has violated some service policy.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XMPP::Task</name>

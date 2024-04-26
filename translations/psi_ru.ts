@@ -19119,6 +19119,14 @@ Do you still want to close the window?</source>
         <source>The recipient or server understood the request but was not expecting it at this time (e.g., the request was out of order).</source>
         <translation>Сервер принял запрос, но не ожидает его в данный момент (возможно — запрос выбился из очереди).</translation>
     </message>
+    <message>
+        <source>Policy violation</source>
+        <translation type="unfinished">Нарушение правил</translation>
+    </message>
+    <message>
+        <source>The sender has violated some service policy.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XMPP::Task</name>

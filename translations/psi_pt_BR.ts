@@ -18945,6 +18945,14 @@ Realmente deseja fechar a janela?</translation>
         <source>The recipient or server understood the request but was not expecting it at this time (e.g., the request was out of order).</source>
         <translation>O destinatário ou servidor entendeu o pedido, mas não estava esperando isso no momento (exemplo: o pedido estava fora de ordem).</translation>
     </message>
+    <message>
+        <source>Policy violation</source>
+        <translation type="unfinished">Violação de política</translation>
+    </message>
+    <message>
+        <source>The sender has violated some service policy.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XMPP::Task</name>

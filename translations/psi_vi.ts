@@ -18471,6 +18471,14 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
         <source>The recipient or server understood the request but was not expecting it at this time (e.g., the request was out of order).</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Policy violation</source>
+        <translation type="unfinished">Vi phạm chính sách</translation>
+    </message>
+    <message>
+        <source>The sender has violated some service policy.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XMPP::Task</name>

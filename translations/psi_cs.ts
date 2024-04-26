@@ -18977,6 +18977,14 @@ Opravdu zavřít okno?</translation>
         <source>The recipient or server understood the request but was not expecting it at this time (e.g., the request was out of order).</source>
         <translation>Příjemce nebo server rozuměli požadavku, ale teď jej neočekávali (např. požadavek byl ve špatném pořadí).</translation>
     </message>
+    <message>
+        <source>Policy violation</source>
+        <translation type="unfinished">Porušení zásady</translation>
+    </message>
+    <message>
+        <source>The sender has violated some service policy.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XMPP::Task</name>

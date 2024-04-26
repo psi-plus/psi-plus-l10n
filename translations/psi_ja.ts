@@ -18404,6 +18404,14 @@ Do you still want to close the window?</source>
         <source>The recipient or server understood the request but was not expecting it at this time (e.g., the request was out of order).</source>
         <translation>宛先かサーバーは要求を理解できましたが、これは予期されていませんでした(例: 規定外の要求)。</translation>
     </message>
+    <message>
+        <source>Policy violation</source>
+        <translation type="unfinished">ポリシー違反</translation>
+    </message>
+    <message>
+        <source>The sender has violated some service policy.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XMPP::Task</name>

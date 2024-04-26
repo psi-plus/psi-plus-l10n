@@ -18869,6 +18869,14 @@ Do you still want to close the window?</source>
         <source>The recipient or server understood the request but was not expecting it at this time (e.g., the request was out of order).</source>
         <translation>Атрымальнік ці паслужнік зразумелі запыт, але не чакалі яго ў гэты час (напрыклад, запыт быў па-за чаргою).</translation>
     </message>
+    <message>
+        <source>Policy violation</source>
+        <translation type="unfinished">Парушэньне спосабу кіраваньня</translation>
+    </message>
+    <message>
+        <source>The sender has violated some service policy.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XMPP::Task</name>
