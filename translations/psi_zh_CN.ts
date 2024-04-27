@@ -5117,7 +5117,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Unaffiliated</source>
-        <translation>无党派</translation>
+        <translation>无从属关系</translation>
     </message>
     <message>
         <source>Member</source>
@@ -5501,7 +5501,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Show kick messages caused by some technical problems like client&apos;s connection loss for example.</source>
-        <translation>显示由一些技术问题引起的踢消息，例如客户端的连接丢失。</translation>
+        <translation>显示由一些技术问题引起的踢出消息，例如客户端的连接中断。</translation>
     </message>
     <message>
         <source>Show technical kicks</source>
@@ -8697,7 +8697,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>DND contacts:</source>
-        <translation>请勿打扰的联系人:</translation>
+        <translation>请勿打扰的联系人：</translation>
     </message>
     <message>
         <source>Offline contacts:</source>
@@ -9015,7 +9015,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Allow auto-open even when Away/XA</source>
-        <translation>允许在 离开/XA 的状态下自动打开</translation>
+        <translation>即使在离开/延长离开时也允许自动打开</translation>
     </message>
     <message>
         <source>Allow auto-open even from unlisted users</source>
@@ -9551,7 +9551,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Play sounds when away/XA</source>
-        <translation>状态为 离开/XA 也播放声音</translation>
+        <translation>状态为离开/延长离开也播放声音</translation>
     </message>
     <message>
         <source>Play sounds for all messages in groupchat</source>
@@ -9630,7 +9630,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Auto XA after:</source>
-        <translation>自动 XA :</translation>
+        <translation>自动延长离开后：</translation>
     </message>
     <message>
         <source>Auto away after:</source>
@@ -9658,11 +9658,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Free For Chat:</source>
-        <translation>免费聊天:</translation>
+        <translation>有空聊天：</translation>
     </message>
     <message>
         <source>XA:</source>
-        <translation>XA:</translation>
+        <translation>延长离开：</translation>
     </message>
     <message>
         <source>Do Not Disturb:</source>
@@ -9729,11 +9729,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Hide Free for Chat, Away, Not Available and Do not Disturb</source>
-        <translation>隐藏免费聊天，离开，不可用，请勿打扰</translation>
+        <translation>隐藏有空聊天、离开、没空、请勿打扰</translation>
     </message>
     <message>
         <source>Hide standard statuses (Chat, Away, XA, DND)</source>
-        <translation>隐藏标准状态(聊天，离开，XA，DND)</translation>
+        <translation>隐藏标准状态(聊天、离开、延长离开、请勿打扰)</translation>
     </message>
     <message>
         <source>Show &quot;Edit presets...&quot;</source>
@@ -9882,11 +9882,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Don&apos;t hide popup if status is Away or XA</source>
-        <translation>如果状态是离开或XA，不要隐藏弹出窗口</translation>
+        <translation>如果状态为离开或延长离开，则不要隐藏弹出窗口</translation>
     </message>
     <message>
         <source>Disable notifications if status is DND</source>
-        <translation>如果状态是DND,禁用通知</translation>
+        <translation>如果状态是请勿打扰，则禁用通知</translation>
     </message>
     <message>
         <source>Play sound:</source>
@@ -10041,7 +10041,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enable Off the Record Chats</source>
-        <translation type="vanished">禁用聊天记录</translation>
+        <translation type="vanished">启用 OTR 聊天</translation>
     </message>
     <message>
         <source> Enable &quot;Mail notifications&quot; option!</source>
@@ -10125,7 +10125,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Disable popups if status is DND</source>
-        <translation>如果状态是DND，禁用弹出窗口</translation>
+        <translation>如果状态是请勿打扰，则禁用弹出窗口</translation>
     </message>
     <message>
         <source>Enable notifications for:</source>
@@ -10177,7 +10177,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enable Stop Spam for private messages in groupchat</source>
-        <translation>在群聊里为私人讯息启用阻止垃圾邮件</translation>
+        <translation>对群聊中的私信启用“停止垃圾消息”</translation>
     </message>
     <message>
         <source>Enable Stop Spam for affiliations:</source>
@@ -10299,7 +10299,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Disable sound if chat window is active</source>
-        <translation>如果对话窗口活动则禁用声音</translation>
+        <translation>如果聊天窗口处于活动状态，则禁用声音</translation>
     </message>
     <message>
         <source>Show Watch for JID button in contact context menu</source>
@@ -10618,7 +10618,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Check this option if you want the selected text in incoming messages and chat log to be automatically copied to clipboard</source>
-        <translation>如果你想要在选择进来的信息和对话纪录之后自动贴到剪贴板, 那么核取这个选项</translation>
+        <translation>如果想要将传入消息和聊天日志中的选定文本自动复制到剪贴板，请选中此选项</translation>
     </message>
     <message>
         <source>Normally, a double-click on a contact will invoke the default action.  Check this option if you&apos;d rather invoke with a single-click.</source>
@@ -10634,7 +10634,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;P&gt;Specifies how to treat incoming events:&lt;/P&gt;&lt;P&gt;&lt;B&gt;Normal&lt;/B&gt; - messages come as messages, chats come as chats.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Messages&lt;/B&gt; - All messages/chats come as messages, no matter what their original form was.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Chats&lt;/B&gt; - All messages/chats come as chats, no matter what their original form was.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;指定如何处理传入的事件:&lt;/P&gt;&lt;P&gt;&lt;B&gt;正常&lt;/B&gt; - 消息来消息，聊天室来聊天。&lt;/P&gt;&lt;P&gt;&lt;B&gt;讯息&lt;/B&gt;- 所有消息/聊天来的消息，无论其原来的形式是什么&lt;/P&gt; &lt;P&gt;&lt;B&gt;聊天&lt;/B&gt; - 所有消息/聊天作为聊天，不管其原始形式是什么。&lt;/P&gt;</translation>
+        <translation>&lt;P&gt;指定如何处理传入事件：&lt;/P&gt;&lt;P&gt;&lt;B&gt;正常&lt;/B&gt; - 消息是消息，聊天是聊天。&lt;/P&gt;&lt;P&gt;&lt;B&gt;消息&lt;/B&gt;- 所有消息/聊天都以消息的形式出现，无论其原始形式是什么。&lt;/P&gt; &lt;P&gt;&lt;B&gt;聊天&lt;/B&gt; - 所有消息/聊天都以聊天的形式出现，无论其原始形式是什么。&lt;/P&gt;</translation>
     </message>
     <message>
         <source>Makes Psi show separate subject line in messages. Uncheck this if you want to save some screen space.</source>
@@ -10692,7 +10692,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Specifies the font style for chat windows.</source>
-        <translation>指定对话窗口的字型样式。</translation>
+        <translation>指定聊天窗口的字体样式。</translation>
     </message>
     <message>
         <source>Specifies the font style for popup windows.</source>
@@ -10708,7 +10708,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Selects a font for chat windows using the font selection dialog.</source>
-        <translation>从字型选择对话框中选择对话窗口使用的字型。</translation>
+        <translation>使用字体选择对话框为聊天窗口选择字体。</translation>
     </message>
     <message>
         <source>Specifies the text color for a contact name in the main window when that user is &quot;%1&quot;.</source>
@@ -10846,11 +10846,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabChat</name>
     <message>
         <source>Chat</source>
-        <translation>对话</translation>
+        <translation>聊天</translation>
     </message>
     <message>
         <source>Configure the chat dialog</source>
-        <translation>设置对话对话框</translation>
+        <translation>配置聊天对话框</translation>
     </message>
     <message>
         <source>Make the default action open a normal message window.</source>
@@ -10858,7 +10858,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Make the default action open a chat window.</source>
-        <translation>让默认的行动打开一个对话窗口。</translation>
+        <translation>让默认操作打开聊天窗口。</translation>
     </message>
     <message>
         <source>&lt;P&gt;When checked, pressing Enter in a chat window will send your message.  You must use Shift+Enter in order to create a newline in the chat message.  If unchecked, messages are sent by pressing Alt-S or Control-Enter, just as they are with regular messages.&lt;/P&gt;</source>
@@ -11015,7 +11015,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;P&gt;Emoticons are short sequences of characters that are used to convey an emotion or idea.&lt;/P&gt;&lt;P&gt;Enable this option if you want Psi to replace common emoticons with a graphical image.&lt;/P&gt;&lt;P&gt;For example, &lt;B&gt;:-)&lt;/B&gt; would be replaced by &lt;icon name=&quot;psi/smile&quot;&gt;&lt;/P&gt;</source>
-        <translation>&lt;P&gt;表情图标是用来表示表情或想法的短字符。&lt;/P&gt;&lt;P&gt;如果你想要Psi以图片取代常用的表情符号，则启用此选项&lt;/P&gt;&lt;P&gt;例如，&lt;B&gt;:-)&lt;/B&gt; 会被取代为&lt;icon name=&quot;psi/smile&quot;&gt;&lt;/P&gt;</translation>
+        <translation>&lt;P&gt;表情符号是用来表达情感或想法的短字符序列。&lt;/P&gt;&lt;P&gt;如果想要 Psi 用图像替换常见表情符号，请启用此选项。&lt;/P&gt;&lt;P&gt;例如，&lt;B&gt;:-)&lt;/B&gt; 将替换为&lt;icon name=&quot;psi/smile&quot;&gt;&lt;/P&gt;</translation>
     </message>
 </context>
 <context>
@@ -13314,7 +13314,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Free for Chat</source>
-        <translation>有空聊天·</translation>
+        <translation>有空聊天</translation>
     </message>
     <message>
         <source>Away</source>
@@ -13719,7 +13719,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Open XMPP URI. (e.g. xmpp:someone@example.org?chat) For security reasons, this must be the last option.</source>
-        <translation>Open XMPP URI. (e.g. xmpp:someone@example.org?chat) 基安全原因, 这是最后的选项。</translation>
+        <translation>打开 XMPP URI。(例如 xmpp:someone@example.org?chat) 出于安全考虑，这必须是最后选项。</translation>
     </message>
     <message>
         <source>STATUS</source>
@@ -13729,7 +13729,7 @@ Reason: %1.</source>
     <message>
         <source>Set status. STATUS must be one of `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</source>
         <comment>do not translate `online&apos;, `chat&apos;, etc; STATUS is the same as in previous string</comment>
-        <translation>设置状态。状态只能设置成 `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;。</translation>
+        <translation>设置状态。状态必须是“在线”、“聊天”、“离开”、“延长离开”、“请勿打扰”、“离线”之一。</translation>
     </message>
     <message>
         <source>MSG</source>
@@ -14927,7 +14927,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Free for Chat</source>
-        <translation>自由对话</translation>
+        <translation>有空聊天</translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -15404,7 +15404,7 @@ Description: </source>
     </message>
     <message>
         <source>unaffiliated</source>
-        <translation>未附属的</translation>
+        <translation>无从属关系</translation>
     </message>
     <message>
         <source>&lt;unnamed%1&gt;</source>
@@ -16858,11 +16858,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Status XA</source>
-        <translation>XA状态</translation>
+        <translation>状态延长离开</translation>
     </message>
     <message>
         <source>Status DND</source>
-        <translation>DND状态</translation>
+        <translation>状态请勿打扰</translation>
     </message>
     <message>
         <source>Status Invisible</source>
@@ -19051,11 +19051,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Policy violation</source>
-        <translation type="unfinished">违反原则</translation>
+        <translation>违反原则</translation>
     </message>
     <message>
         <source>The sender has violated some service policy.</source>
-        <translation type="unfinished"></translation>
+        <translation>发送者违反了某些服务其策略。</translation>
     </message>
 </context>
 <context>
@@ -19143,7 +19143,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Disable invitations if status is DND</source>
-        <translation>如果状态是DND，则禁用邀请</translation>
+        <translation>如果状态是请勿打扰，则禁用邀请</translation>
     </message>
     <message>
         <source>Disable invitations from groupchat</source>
@@ -20037,26 +20037,26 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Login:</source>
-        <translation>登录:</translation>
+        <translation>登录：</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>密码:</translation>
+        <translation>密码：</translation>
     </message>
     <message>
         <source>Remember</source>
-        <translation>记起</translation>
+        <translation>记住</translation>
     </message>
     <message>
         <source>Captcha:</source>
-        <translation>验证码:</translation>
+        <translation>验证码：</translation>
     </message>
 </context>
 <context>
     <name>screenshotplugin::GrepShortcutKeyDialog</name>
     <message>
         <source>New Shortcut</source>
-        <translation>新的快捷键</translation>
+        <translation>新建快捷方式</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -20064,7 +20064,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Set Keys</source>
-        <translation>选择按键</translation>
+        <translation>设置按键</translation>
     </message>
 </context>
 <context>
@@ -20095,7 +20095,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>@username</source>
-        <translation>@用户名称</translation>
+        <translation>@用户名</translation>
     </message>
     <message>
         <source>*tag</source>
@@ -20103,7 +20103,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>#message id</source>
-        <translation>#信息 ID</translation>
+        <translation>#消息 ID</translation>
     </message>
     <message>
         <source>&gt;quote</source>
@@ -20111,7 +20111,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Use message Id as resource</source>
-        <translation>作为资源使用消息ID</translation>
+        <translation>使用消息 ID 作为资源</translation>
     </message>
     <message>
         <source>Show Photo</source>
@@ -20124,8 +20124,8 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Replaces message id with a link
 to this message in juick@conference.jabber.ru</source>
-        <translation>用链接来替换消息ID到
-此消息在juick@conference.jabber.ru</translation>
+        <translation>用链接替换消息 ID
+此消息在 juick@conference.jabber.ru</translation>
     </message>
     <message>
         <source>Clear avatar cache</source>
@@ -20144,27 +20144,27 @@ to this message in juick@conference.jabber.ru</source>
     <name>uploadDialog</name>
     <message>
         <source>File: </source>
-        <translation>文件:</translation>
+        <translation>文件：</translation>
     </message>
     <message>
         <source>Progress: </source>
-        <translation>程序:</translation>
+        <translation>进展：</translation>
     </message>
     <message>
         <source>Elapsed time: </source>
-        <translation>经过的时间:</translation>
+        <translation>已用时间：</translation>
     </message>
     <message>
         <source>Speed: </source>
-        <translation>速度:</translation>
+        <translation>速度：</translation>
     </message>
     <message>
         <source> kb/sec</source>
-        <translation>字节/秒</translation>
+        <translation>kb/秒</translation>
     </message>
     <message>
         <source>Upload completed. Waiting for verification.</source>
-        <translation>上传完成。等待验证</translation>
+        <translation>上传完成。正在等待验证。</translation>
     </message>
     <message>
         <source>Done</source>
@@ -20176,38 +20176,38 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Link: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
-        <translation>链接: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
+        <translation>链接：&lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
     <name>uploadDialogClass</name>
     <message>
         <source>Uploading...</source>
-        <translation>上传中...</translation>
+        <translation>正在上传…</translation>
     </message>
     <message>
         <source>Upload started.</source>
-        <translation>开始上传</translation>
+        <translation>上传已开始。</translation>
     </message>
     <message>
         <source>File: </source>
-        <translation>文件:</translation>
+        <translation>文件：</translation>
     </message>
     <message>
         <source>Progress:</source>
-        <translation>程序:</translation>
+        <translation>进展：</translation>
     </message>
     <message>
         <source>Elapsed time:</source>
-        <translation>经过的时间:</translation>
+        <translation>已用时间：</translation>
     </message>
     <message>
         <source>Speed:</source>
-        <translation>速度:</translation>
+        <translation>速度：</translation>
     </message>
     <message>
         <source>Link: </source>
-        <translation>链接:</translation>
+        <translation>链接：</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -20218,19 +20218,19 @@ to this message in juick@conference.jabber.ru</source>
     <name>vCardView</name>
     <message>
         <source>Full Name:</source>
-        <translation>全名:</translation>
+        <translation>全名：</translation>
     </message>
     <message>
         <source>Nick:</source>
-        <translation>绰号:</translation>
+        <translation>昵称：</translation>
     </message>
     <message>
         <source>Birthday:</source>
-        <translation>生日:</translation>
+        <translation>生日：</translation>
     </message>
     <message>
         <source>E-Mail:</source>
-        <translation type="vanished">电子邮箱:</translation>
+        <translation type="vanished">电子邮件：</translation>
     </message>
     <message>
         <source>Close</source>
@@ -20238,7 +20238,7 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Email:</source>
-        <translation>电子邮箱:</translation>
+        <translation>电子邮件：</translation>
     </message>
 </context>
 <context>
@@ -20253,7 +20253,7 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation>你确定吗？</translation>
+        <translation>是否确定？</translation>
     </message>
     <message>
         <source>Set password</source>
@@ -20265,7 +20265,7 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Copy URL</source>
-        <translation>复制URL</translation>
+        <translation>复制 URL</translation>
     </message>
     <message>
         <source>Prolongate</source>
@@ -20276,7 +20276,7 @@ to this message in juick@conference.jabber.ru</source>
     <name>yandexnarodManageClass</name>
     <message>
         <source>Form</source>
-        <translation>形式</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <source>Get Filelist</source>
@@ -20288,11 +20288,11 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Actions:</source>
-        <translation>行动:</translation>
+        <translation>操作：</translation>
     </message>
     <message>
         <source>Copy URL</source>
-        <translation>拷贝URL</translation>
+        <translation>复制 URL</translation>
     </message>
     <message>
         <source>Prolongate</source>
@@ -20305,12 +20305,12 @@ to this message in juick@conference.jabber.ru</source>
     <message>
         <source>line1
 line2</source>
-        <translation>行1
-行2</translation>
+        <translation>行 1
+行 2</translation>
     </message>
     <message>
         <source>Files list:</source>
-        <translation>文件列表:</translation>
+        <translation>文件列表：</translation>
     </message>
     <message>
         <source>New Item</source>
@@ -20333,48 +20333,49 @@ line2</source>
     <name>yandexnarodNetMan</name>
     <message>
         <source>Downloading filelist...</source>
-        <translation>下载文件列表</translation>
+        <translation>正在下载文件列表…</translation>
     </message>
     <message>
         <source>Deleting files...</source>
-        <translation>删除文件...</translation>
+        <translation>正在删除文件…</translation>
     </message>
     <message>
         <source>Prolongate files...</source>
-        <translation>延长文件...</translation>
+        <translation>延长文件…</translation>
     </message>
     <message>
         <source>Cookies are obsolete!
 Reathorization...</source>
-        <translation>浏览数据过时！
-重新授权</translation>
+        <translation>Cookies 已经过时了！
+重新授权…</translation>
     </message>
     <message>
         <source>Can&apos;t get files!
 Try remove cookies.</source>
-        <translation>找不到文件！尝试移除 cookies.</translation>
+        <translation>无法获取文件！
+尝试移除 Cookies。</translation>
     </message>
     <message>
         <source>Filelist downloaded
 (%1 files)</source>
-        <translation>已下载文件列表
+        <translation>文件列表已下载
 (%1 文件)</translation>
     </message>
     <message>
         <source>File(s) deleted</source>
-        <translation>文件删除</translation>
+        <translation>文件已删除</translation>
     </message>
     <message>
         <source>File(s) prolongated</source>
-        <translation>延长文件</translation>
+        <translation>文件已延长</translation>
     </message>
     <message>
         <source>Password is set</source>
-        <translation>设置密码</translation>
+        <translation>密码已设置</translation>
     </message>
     <message>
         <source>Password is deleted</source>
-        <translation>删除密码</translation>
+        <translation>密码已删除</translation>
     </message>
 </context>
 <context>
@@ -20389,7 +20390,7 @@ Try remove cookies.</source>
     </message>
     <message>
         <source>File sent to %1</source>
-        <translation>文件发送到%1</translation>
+        <translation>文件已发送到 %1</translation>
     </message>
     <message>
         <source>Yandex Narod Plugin</source>
@@ -20400,7 +20401,7 @@ Try remove cookies.</source>
 http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
 
 </source>
-        <translation>从QutIM Yandex.Narod的插件移植
+        <translation>从 QutIM Yandex.Narod 的插件移植
 http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
 
 </translation>
@@ -20434,7 +20435,7 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
     </message>
     <message>
         <source>Send file template</source>
-        <translation>发送临时文件</translation>
+        <translation>发送文件模板</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -20450,7 +20451,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>%N - file name; %U - file URL; %S - file size</source>
-        <translation>%N - 文件名; %U - 文件地址; %S - 文件大小</translation>
+        <translation>%N - 文件名；%U - 文件 URL；%S - 文件大小</translation>
     </message>
     <message>
         <source>Clear Cookies</source>
