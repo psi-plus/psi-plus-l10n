@@ -13936,19 +13936,15 @@ Would you like to activate that session now?</source>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation>オプション</translation>
+        <translation type="vanished">オプション</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation>オンライン</translation>
+        <translation type="vanished">オンライン</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>オフライン</translation>
-    </message>
-    <message>
-        <source>Show Next Event</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">オフライン</translation>
     </message>
 </context>
 <context>

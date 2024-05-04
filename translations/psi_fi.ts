@@ -13141,20 +13141,12 @@ Would you like to activate that session now?</source>
 <context>
     <name>PsiThumbnailToolBar</name>
     <message>
-        <source>Options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Online</source>
-        <translation>linjoilla</translation>
+        <translation type="vanished">linjoilla</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>poissa linjoilta</translation>
-    </message>
-    <message>
-        <source>Show Next Event</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">poissa linjoilta</translation>
     </message>
 </context>
 <context>

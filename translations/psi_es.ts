@@ -14318,19 +14318,15 @@ Quieres activar esa sesión ahora?</translation>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation>Opciones</translation>
+        <translation type="vanished">Opciones</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation>Conectado</translation>
+        <translation type="vanished">Conectado</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>Desconectado</translation>
-    </message>
-    <message>
-        <source>Show Next Event</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Desconectado</translation>
     </message>
 </context>
 <context>

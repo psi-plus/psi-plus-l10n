@@ -14407,19 +14407,19 @@ Chceš aktivovat tuto relaci?</translation>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation>Možnosti</translation>
+        <translation type="vanished">Možnosti</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation>Online</translation>
+        <translation type="vanished">Online</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>Offline</translation>
+        <translation type="vanished">Offline</translation>
     </message>
     <message>
         <source>Show Next Event</source>
-        <translation>Zobrazit další událost</translation>
+        <translation type="vanished">Zobrazit další událost</translation>
     </message>
 </context>
 <context>

@@ -13306,19 +13306,15 @@ Would you like to activate that session now?</source>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation>Опции</translation>
+        <translation type="vanished">Опции</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation>Тука сум</translation>
+        <translation type="vanished">Тука сум</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>Се исклучив</translation>
-    </message>
-    <message>
-        <source>Show Next Event</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Се исклучив</translation>
     </message>
 </context>
 <context>

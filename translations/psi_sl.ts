@@ -13589,19 +13589,15 @@ Ali želite aktivirati to sejo?</translation>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation>Možnosti</translation>
+        <translation type="vanished">Možnosti</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation>Na zvezi</translation>
+        <translation type="vanished">Na zvezi</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>Brez zveze</translation>
-    </message>
-    <message>
-        <source>Show Next Event</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Brez zveze</translation>
     </message>
 </context>
 <context>

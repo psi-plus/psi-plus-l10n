@@ -14470,19 +14470,19 @@ Would you like to activate that session now?</source>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation>Опции</translation>
+        <translation type="vanished">Опции</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation>Доступен</translation>
+        <translation type="vanished">Доступен</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>Отключён</translation>
+        <translation type="vanished">Отключён</translation>
     </message>
     <message>
         <source>Show Next Event</source>
-        <translation>Показать следующее сообщение</translation>
+        <translation type="vanished">Показать следующее сообщение</translation>
     </message>
 </context>
 <context>

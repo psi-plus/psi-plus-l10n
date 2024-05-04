@@ -13248,19 +13248,15 @@ Would you like to activate that session now?</source>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation>Opcioj</translation>
+        <translation type="vanished">Opcioj</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation>Konektita</translation>
+        <translation type="vanished">Konektita</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>Senkonekta</translation>
-    </message>
-    <message>
-        <source>Show Next Event</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Senkonekta</translation>
     </message>
 </context>
 <context>

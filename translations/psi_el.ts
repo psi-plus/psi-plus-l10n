@@ -13390,19 +13390,15 @@ Would you like to activate that session now?</source>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation>Επιλογές</translation>
+        <translation type="vanished">Επιλογές</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation>Σε σύνδεση</translation>
+        <translation type="vanished">Σε σύνδεση</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>Εκτός Σύνδεσης</translation>
-    </message>
-    <message>
-        <source>Show Next Event</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Εκτός Σύνδεσης</translation>
     </message>
 </context>
 <context>

@@ -14278,19 +14278,15 @@ Would you like to activate that session now?</source>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation>Можнасьці</translation>
+        <translation type="vanished">Можнасьці</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation>У сетцы</translation>
+        <translation type="vanished">У сетцы</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>Па-за сеткаю</translation>
-    </message>
-    <message>
-        <source>Show Next Event</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Па-за сеткаю</translation>
     </message>
 </context>
 <context>

@@ -13987,19 +13987,15 @@ Czy chcesz teraz aktywować sesję?</translation>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation>Opcje</translation>
+        <translation type="vanished">Opcje</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation>Dostępny</translation>
+        <translation type="vanished">Dostępny</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>Niedostępny</translation>
-    </message>
-    <message>
-        <source>Show Next Event</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Niedostępny</translation>
     </message>
 </context>
 <context>

@@ -13865,19 +13865,15 @@ Would you like to activate that session now?</source>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation>אפשרויות</translation>
+        <translation type="vanished">אפשרויות</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation>מקוון</translation>
+        <translation type="vanished">מקוון</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>לא מקוון</translation>
-    </message>
-    <message>
-        <source>Show Next Event</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">לא מקוון</translation>
     </message>
 </context>
 <context>

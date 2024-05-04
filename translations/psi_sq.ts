@@ -14002,19 +14002,19 @@ Would you like to activate that session now?</source>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation>Mundësi</translation>
+        <translation type="vanished">Mundësi</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation>Në linjë</translation>
+        <translation type="vanished">Në linjë</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>Jo në linjë</translation>
+        <translation type="vanished">Jo në linjë</translation>
     </message>
     <message>
         <source>Show Next Event</source>
-        <translation>Shfaq Aktin Pasues</translation>
+        <translation type="vanished">Shfaq Aktin Pasues</translation>
     </message>
 </context>
 <context>

@@ -14081,19 +14081,15 @@ Would you like to activate that session now?</source>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation>Opcije</translation>
+        <translation type="vanished">Opcije</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation>Na vezi</translation>
+        <translation type="vanished">Na vezi</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>Nepovezan</translation>
-    </message>
-    <message>
-        <source>Show Next Event</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Nepovezan</translation>
     </message>
 </context>
 <context>

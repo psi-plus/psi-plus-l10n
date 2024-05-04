@@ -14342,19 +14342,15 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation>Beállítások</translation>
+        <translation type="vanished">Beállítások</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation>Elérhető</translation>
+        <translation type="vanished">Elérhető</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>Kijelentkezve</translation>
-    </message>
-    <message>
-        <source>Show Next Event</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Kijelentkezve</translation>
     </message>
 </context>
 <context>

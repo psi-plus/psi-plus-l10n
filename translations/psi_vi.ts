@@ -14012,19 +14012,15 @@ Bạn có muốn kích hoạt buổi hợp đó ngay bây giờ không?</transla
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation>Tùy chọn</translation>
+        <translation type="vanished">Tùy chọn</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation>Trực tuyến</translation>
+        <translation type="vanished">Trực tuyến</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>Ngoại tuyến</translation>
-    </message>
-    <message>
-        <source>Show Next Event</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Ngoại tuyến</translation>
     </message>
 </context>
 <context>

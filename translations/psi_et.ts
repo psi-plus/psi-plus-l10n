@@ -13177,19 +13177,15 @@ Would you like to activate that session now?</source>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation>Valikud</translation>
+        <translation type="vanished">Valikud</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation>Ühendatud</translation>
+        <translation type="vanished">Ühendatud</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>Ühendamata</translation>
-    </message>
-    <message>
-        <source>Show Next Event</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Ühendamata</translation>
     </message>
 </context>
 <context>

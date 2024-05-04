@@ -13443,19 +13443,15 @@ Would you like to activate that session now?</source>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation>اختیارات</translation>
+        <translation type="vanished">اختیارات</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation>آن لائن</translation>
+        <translation type="vanished">آن لائن</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>آف لائن</translation>
-    </message>
-    <message>
-        <source>Show Next Event</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">آف لائن</translation>
     </message>
 </context>
 <context>

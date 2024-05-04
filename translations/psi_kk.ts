@@ -13215,19 +13215,15 @@ Would you like to activate that session now?</source>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation>Баптаулар</translation>
+        <translation type="vanished">Баптаулар</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation>Желіде</translation>
+        <translation type="vanished">Желіде</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>Желіде емес</translation>
-    </message>
-    <message>
-        <source>Show Next Event</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Желіде емес</translation>
     </message>
 </context>
 <context>

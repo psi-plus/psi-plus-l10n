@@ -13620,19 +13620,15 @@ Vill du aktivera den sessionen nu?</translation>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation>Inställningar</translation>
+        <translation type="vanished">Inställningar</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation>Tillgänglig</translation>
+        <translation type="vanished">Tillgänglig</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>Ej ansluten</translation>
-    </message>
-    <message>
-        <source>Show Next Event</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Ej ansluten</translation>
     </message>
 </context>
 <context>

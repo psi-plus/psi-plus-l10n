@@ -14253,19 +14253,15 @@ Would you like to activate that session now?</source>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation>選項</translation>
+        <translation type="vanished">選項</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation>線上</translation>
+        <translation type="vanished">線上</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>離線</translation>
-    </message>
-    <message>
-        <source>Show Next Event</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">離線</translation>
     </message>
 </context>
 <context>

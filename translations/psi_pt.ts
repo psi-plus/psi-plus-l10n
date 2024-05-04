@@ -13183,19 +13183,15 @@ Would you like to activate that session now?</source>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation>Opções</translation>
+        <translation type="vanished">Opções</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation>Ligado</translation>
+        <translation type="vanished">Ligado</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>Desligado</translation>
-    </message>
-    <message>
-        <source>Show Next Event</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Desligado</translation>
     </message>
 </context>
 <context>
