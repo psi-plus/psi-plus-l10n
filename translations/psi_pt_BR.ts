@@ -820,11 +820,11 @@ Quando você habilitar esta opção, você não será capaz de encontrar a sua s
     </message>
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilita o protocolo Stream Management, se possível. É útil se você tiver uma conexão instável. Seu servidor deve ser compatível com essa opção. Para saber mais, consulte XEP-0184.</translation>
     </message>
     <message>
         <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Use o mesmo proxy para upload HTTP que o configurado para conexão XMPP. Caso contrário, use o proxy padrão do aplicativo.</translation>
     </message>
 </context>
 <context>
@@ -1326,7 +1326,7 @@ Houve um erro ao obter o ID do Serviço de Traduções de &quot;%1&quot;.&lt;br&
     <message>
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%gmail.com@[XMPP address of Transport]&lt;br&gt;&lt;/qt&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;qt&gt; Houve um erro ao obter as informações de tradução do ID do Serviço de &quot;%1&quot;.&lt;br&gt;Motivo: %2&lt;br&gt;&lt;br&gt;O serviço pode não suportar este recurso. Neste caso, você precisará inserir manualmente o endereço XMPP para o contato que deseja adicionar. Exemplos:&lt;br&gt;&lt;br&gt;&#xa0;&#xa0;xmppUser@somehost.com&lt;br&gt;&#xa0;&#xa0;1234567@[endereço XMPP do Transporte]&lt;br&gt;&#xa0;&#xa0;joe%gmail.com@[endereço XMPP do Transporte]&lt;br&gt;&lt;/qt&gt;</translation>
     </message>
 </context>
 <context>
@@ -1686,7 +1686,8 @@ A lista de exceções para as jids tem dois modos de funcionamento:
     <message>
         <source>This plugin allows you to play battleship with your friends.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esse plug-in permite que você jogue batalha naval com seus amigos.
+Para enviar comandos, são usadas mensagens normais, portanto esse plug-in sempre funcionará onde quer que você possa fazer login. Para convidar um amigo para um jogo, você pode usar o item de menu de contato ou o botão na barra de ferramentas em uma janela de bate-papo.</translation>
     </message>
     <message>
         <source>Battleship game</source>
@@ -3559,7 +3560,8 @@ Proceder?</translation>
     <message>
         <source>The plugin is designed to enumerate messages, adding the messages numbers in chat logs and notification of missed messages. 
 Supports per contact on / off message enumeration via the buttons on the chats toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>O plugin foi concebido para enumerar mensagens, adicionar os números das mensagens nos registos de conversação e notificar as mensagens perdidas. 
+Suporta a enumeração de mensagens por contacto através dos botões na barra de ferramentas dos chats.</translation>
     </message>
 </context>
 <context>
@@ -5140,7 +5142,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>You have been removed from the room due to technical problem</source>
-        <translation type="unfinished"></translation>
+        <translation>Foi retirado da sala devido a um problema técnico</translation>
     </message>
     <message>
         <source>You have been removed from the room by %1 due to technical problem</source>
@@ -6449,7 +6451,7 @@ Você pode marcar ou desmarcar um contato para a remoção de histórico a parti
     </message>
     <message>
         <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Algo deu errado, tente novamente ou desative a criptografia OMEMO</translation>
     </message>
 </context>
 <context>
@@ -7441,7 +7443,13 @@ Currently, the plugin is able to:
 * Enable clickable @nick, *tag, #message_id and other control elements to insert them into the typing area
 
 Note: To work correctly, the option options.html.chat.render    must be set to true. </source>
-        <translation type="unfinished"></translation>
+        <translation>Este plug-in foi projetado para funcionar de forma eficiente e confortável com o serviço de microblogs Juick.
+Atualmente, o plug-in é capaz de: 
+* Colorir @nick, *tag e #message_id em mensagens do bot juick@juick.com
+* Detectar aspas em mensagens
+* Habilitar @nick, *tag, #message_id e outros elementos de controle clicáveis para inseri-los na área de digitação
+
+Observação: para funcionar corretamente, a opção options.html.chat.render deve ser definida como true. </translation>
     </message>
 </context>
 <context>
@@ -8026,7 +8034,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Pode descartar estrofes recebidas de acordo com vários filtros, como endereço de origem/destino ou conteúdo específico da mensagem</translation>
     </message>
 </context>
 <context>
@@ -8396,27 +8404,27 @@ Motivo: %1.</translation>
     <name>OpenPgpPlugin</name>
     <message>
         <source>Embedded Keys Manager can do only basic operations like creating, removing, exporting and importing PGP keys. This should be enough to most of users needs. For more complicated cases use special software.</source>
-        <translation type="unfinished"></translation>
+        <translation>O Embedded Keys Manager pode realizar apenas operações básicas, como criação, remoção, exportação e importação de chaves PGP. Isso deve ser suficiente para a maioria das necessidades dos usuários. Para casos mais complicados, use um software especial.</translation>
     </message>
     <message>
         <source>OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Criptografia OpenPGP</translation>
     </message>
     <message>
         <source>OpenPGP is the most widely used encryption standard. It is extremely simple in usage:&lt;br/&gt;* Generate a key pair (public key + secret key) or choose existing one and set it in program settings.&lt;br/&gt;* Protect your secret key with a strong password and never give it to anyone.&lt;br/&gt;* Share your public key with buddies and get their public keys using any communication channel which you trust (xmpp, email, PGP keys server).&lt;br/&gt;* Enable PGP encryption in chat with you buddy and have fun the protected conversation.</source>
-        <translation type="unfinished"></translation>
+        <translation>O OpenPGP é o padrão de criptografia mais amplamente usado. É extremamente simples de usar:&lt;br/&gt;* Gere um par de chaves (chave pública + chave secreta) ou escolha uma já existente e defina-a nas configurações do programa.&lt;br/&gt;* Proteja sua chave secreta com uma senha forte e nunca a forneça a ninguém.&lt;br/&gt;* Compartilhe sua chave pública com amigos e obtenha as chaves públicas deles usando qualquer canal de comunicação em que você confie (xmpp, e-mail, servidor de chaves PGP).&lt;br/&gt;* Ative a criptografia PGP no bate-papo com seu amigo e divirta-se com a conversa protegida.</translation>
     </message>
     <message>
         <source>OpenPGP features:&lt;br/&gt;* Offline messages.&lt;br/&gt;* File transfer. (Not supported by plugin yet.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Funcionalidades do OpenPGP:&lt;br/&gt;* Mensagens off-line.&lt;br/&gt;* Transferência de arquivos. (Ainda não suportado pelo plug-in).</translation>
     </message>
     <message>
         <source>OpenPGP limitations:&lt;br/&gt;* No support of message copies to multiple devices.&lt;br/&gt;* No support of multi-user chats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Limitações do OpenPGP:&lt;br/&gt;* Não há suporte para cópias de mensagens em vários dispositivos.&lt;br/&gt;* Não há suporte para bate-papos com vários usuários.</translation>
     </message>
     <message>
         <source>OpenPGP plugin uses standard command-line tool GnuPG, so attentively check that you properly installed and configured gpg and gpg-agent. For example, in your system:</source>
-        <translation type="unfinished"></translation>
+        <translation>O plugin OpenPGP utiliza a ferramenta de linha de comando padrão GnuPG, então verifique atentamente se você instalou e configurou corretamente o gpg e o gpg-agent. Por exemplo, em seu sistema:</translation>
     </message>
     <message>
         <source>1) Download and install &quot;%1&quot; from official website:</source>
@@ -8436,7 +8444,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>In comparison with OTR and OMEMO, OpenPGP allows one to keep encrypted messages history on server side but lucks support of forward secrecy (they are mutually exclusive).</source>
-        <translation type="unfinished"></translation>
+        <translation>Em comparação com o OTR e o OMEMO, o OpenPGP permite manter o histórico de mensagens criptografadas no lado do servidor, mas não oferece suporte ao sigilo de encaminhamento (eles são mutuamente exclusivos).</translation>
     </message>
 </context>
 <context>
@@ -10386,7 +10394,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>OpenPGP encryption policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Política de criptografia OpenPGP</translation>
     </message>
     <message>
         <source>Always enabled</source>
@@ -10406,15 +10414,15 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Show PGP info in tooltips for contacts in roster</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar informações de PGP em dicas de ferramentas para contatos na lista</translation>
     </message>
     <message>
         <source>Automatically import PGP key from the message body</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar automaticamente a chave PGP do corpo da mensagem</translation>
     </message>
     <message>
         <source>Do not show messages with PGP keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Não mostrar mensagens com chaves PGP</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
@@ -11273,7 +11281,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the XMPP server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Faz com que o Psi defina automaticamente seu status como “off-line” se o computador ficar inativo durante o período de tempo especificado. Isso o desconectará do servidor XMPP.</translation>
     </message>
 </context>
 <context>
@@ -11332,7 +11340,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>XMPP allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
-        <translation type="unfinished"></translation>
+        <translation>O XMPP permite que você coloque mensagens de status estendidas em todos os tipos de status. Normalmente, o Psi não solicita uma mensagem estendida quando você define seu status como “online”. Marque essa opção se você quiser receber esse aviso.</translation>
     </message>
 </context>
 <context>
@@ -11622,7 +11630,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Atenção!&lt;/b&gt; O uso impensado do Client Switcher Plugin pode causar a impossibilidade de usar a criptografia OMEMO e OpenPGP. Use as funções desse plug-in com muito cuidado...</translation>
     </message>
     <message>
         <source>OS version</source>
@@ -13546,11 +13554,11 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Enable OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Ativar a criptografia OpenPGP</translation>
     </message>
     <message>
         <source>OpenPGP key is not set in your account settings!</source>
-        <translation type="unfinished"></translation>
+        <translation>A chave OpenPGP não está definida nas configurações de sua conta!</translation>
     </message>
     <message>
         <source>Fingerprint for account &quot;%1&quot;: %2</source>
@@ -13558,11 +13566,11 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Criptografia OpenPGP</translation>
     </message>
     <message>
         <source>Disable OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Desativar a criptografia OpenPGP</translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
@@ -14028,7 +14036,7 @@ Migration is possible with Psi-0.15</source>
     <name>PsiDBusNotifier</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Abrir</translation>
+        <translation>Abrir</translation>
     </message>
 </context>
 <context>
@@ -14108,7 +14116,7 @@ Gostaria de ativar a sessão agora?</translation>
     </message>
     <message>
         <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
-        <translation type="unfinished"></translation>
+        <translation>O plug-in de mídia fornece a funcionalidade necessária para chamadas de áudio/vídeo e também pode substituir algumas partes do QtMultimedia.</translation>
     </message>
 </context>
 <context>
@@ -15917,15 +15925,15 @@ Obrigado pela sua paciência.</translation>
     </message>
     <message>
         <source>New OMEMO device has been discovered for &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Foi descoberto um novo dispositivo OMEMO para &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Do you want to trust this device and allow it to decrypt copies of your messages?</source>
-        <translation type="unfinished"></translation>
+        <translation>Você quer confiar nesse dispositivo e permitir que ele descriptografe cópias de suas mensagens?</translation>
     </message>
     <message>
         <source>Do you want to trust this device and allow it to receive the encrypted messages from you?</source>
-        <translation type="unfinished"></translation>
+        <translation>Deseja confiar nesse dispositivo e permitir que ele receba suas mensagens criptografadas?</translation>
     </message>
     <message>
         <source>Device public key:</source>
@@ -15933,7 +15941,7 @@ Obrigado pela sua paciência.</translation>
     </message>
     <message>
         <source>Managing of OMEMO keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerenciamento de chaves OMEMO</translation>
     </message>
     <message>
         <source>Trust</source>
@@ -17445,7 +17453,9 @@ O plugin foi projetado para manter as notas no servidor jabber com a capacidade 
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the XMPP server with the ability to access them from anywhere using Psi or Miranda IM.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este plug-in é uma implementação do XEP-0049: armazenamento privado de XML.
+O plug-in é totalmente compatível com as anotações salvas usando o Miranda IM.
+O plug-in foi projetado para manter as anotações no servidor XMPP com a capacidade de acessá-las de qualquer lugar usando o Psi ou o Miranda IM.</translation>
     </message>
 </context>
 <context>
@@ -18943,7 +18953,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>Policy violation</source>
-        <translation type="unfinished">Violação de política</translation>
+        <translation>Violação de política</translation>
     </message>
     <message>
         <source>The sender has violated some service policy.</source>
@@ -19188,7 +19198,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>Delete all OMEMO data for current device</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluir todos os dados OMEMO do dispositivo atual</translation>
     </message>
     <message>
         <source>Other devices</source>
@@ -19206,7 +19216,12 @@ Realmente deseja fechar a janela?</translation>
 4) You will need to verify keys for all devices of your contacts again.
 5) Your contacts will need to verify new device before you start receive messages from them.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>A eliminação de todos os dados do OMEMO para o dispositivo atual terá uma série de consequências:
+1) Todas as sessões OMEMO iniciadas serão esquecidas.
+2) O utilizador perderá o acesso ao histórico encriptado armazenado para o dispositivo atual no lado do servidor.
+3) Será gerado um novo par de chaves e ID do dispositivo.
+4) Terá de verificar novamente as chaves de todos os dispositivos dos seus contatos.
+5) Os seus contatos terão de verificar o novo dispositivo antes de começar a receber mensagens deles.</translation>
     </message>
     <message>
         <source>Delete current device?</source>
@@ -19214,11 +19229,11 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>After deleting of device from list of available devices it stops receiving offline messages from your contacts until it will become online and your contacts mark it as trusted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Depois de eliminar um dispositivo da lista de dispositivos disponíveis, este deixa de receber mensagens offline dos seus contatos até ficar online e os seus contatos o marcarem como fiável.</translation>
     </message>
     <message>
         <source>Delete selected device?</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar o dispositivo selecionado?</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
@@ -19229,11 +19244,11 @@ Realmente deseja fechar a janela?</translation>
     <name>psiomemo::OMEMO</name>
     <message>
         <source>The following message is from an untrusted device:</source>
-        <translation type="unfinished"></translation>
+        <translation>A mensagem seguinte provém de um dispositivo não fiável:</translation>
     </message>
     <message>
         <source>[UNTRUSTED]: </source>
-        <translation type="unfinished"></translation>
+        <translation>[NÃO CONFIÁVEL]: </translation>
     </message>
     <message>
         <source>Unable to build any sessions, the message was not sent</source>
@@ -19245,7 +19260,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>You received a message encrypted with OMEMO but your client doesn&apos;t support OMEMO or its support is currently disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Recebeu uma mensagem encriptada com OMEMO mas o seu cliente não suporta OMEMO ou o seu suporte está atualmente desativado.</translation>
     </message>
 </context>
 <context>
@@ -19256,15 +19271,15 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>Enable OMEMO encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Ativar a criptografia OMEMO</translation>
     </message>
     <message>
         <source>OMEMO encryption is not available for this group</source>
-        <translation type="unfinished"></translation>
+        <translation>A criptografia OMEMO não está disponível para esse grupo</translation>
     </message>
     <message>
         <source>OMEMO encryption is not available for this contact</source>
-        <translation type="unfinished"></translation>
+        <translation>A criptografia OMEMO não está disponível para este contato</translation>
     </message>
     <message>
         <source>Fingerprint for account &quot;%1&quot;: %2</source>
@@ -19272,7 +19287,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>Disable OMEMO encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Desativar a criptografia OMEMO</translation>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
@@ -19288,15 +19303,15 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>OMEMO is an end-to-end encryption protocol that leverages the Double Ratchet encryption scheme to provide multi-end to multi-end encryption, allowing messages to be synchronized securely across multiple clients, even if some of them are offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>O OMEMO é um protocolo de encriptação extremo-a-extremo que utiliza o esquema de encriptação Double Ratchet para fornecer encriptação multi-fim a multi-fim, permitindo que as mensagens sejam sincronizadas de forma segura entre vários clientes, mesmo que alguns deles estejam offline.</translation>
     </message>
     <message>
         <source>In comparison with OTR, the OMEMO protocol offers multi-users encrypted chat, safe message synchronization between user&apos;s devices, offline messages queuing, forward secrecy and file transfer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Em comparação com o OTR, o protocolo OMEMO oferece conversação encriptada entre vários utilizadores, sincronização segura de mensagens entre os dispositivos dos utilizadores, enfileiramento de mensagens offline, sigilo de encaminhamento e transferência de ficheiros.</translation>
     </message>
     <message>
         <source>OMEMO provides the following guarantees:</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO oferece as seguintes garantias:</translation>
     </message>
     <message>
         <source>Confidentiality</source>
@@ -19344,7 +19359,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>OMEMO is not intended to protect against the following use cases:</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO não se destina a proteger contra os seguintes casos de utilização:</translation>
     </message>
     <message>
         <source>* An attacker has permanent access to your device. (Temporary access is covered by perfect forward secrecy.)</source>
@@ -19352,7 +19367,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>* You lost your device and an attacker can read messages on your notification screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>* Perdeu o seu dispositivo e um atacante pode ler as mensagens no seu ecrã de notificações.</translation>
     </message>
     <message>
         <source>* Any kind of denial-of-service attack.</source>
@@ -19371,7 +19386,7 @@ Realmente deseja fechar a janela?</translation>
     <name>psiomemo::OmemoConfiguration</name>
     <message>
         <source>OMEMO encryption policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Política de criptografia da OMEMO</translation>
     </message>
     <message>
         <source>Always enabled</source>
@@ -19387,11 +19402,11 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>Automatically mark new own devices as trusted</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcar automaticamente novos dispositivos próprios como confiáveis</translation>
     </message>
     <message>
         <source>Automatically mark new interlocutors devices as trusted</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcar automaticamente novos dispositivos interlocutores como confiáveis</translation>
     </message>
 </context>
 <context>
@@ -19498,7 +19513,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>An error occurred during the authentication process.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocorreu um erro durante o processo de autenticação.</translation>
     </message>
     <message>
         <source>Authentication successful.</source>
@@ -19570,7 +19585,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>OTR encryption policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Política de criptografia OTR</translation>
     </message>
 </context>
 <context>
@@ -19862,15 +19877,15 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>For further information, see &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para obter mais informações, consulte &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</translation>
     </message>
     <message>
         <source>Off-the-Record Messaging (OTR) is a cryptographic protocol that provides encryption for instant messaging conversations. In addition to authentication and encryption, OTR provides forward secrecy and malleable encryption.</source>
-        <translation type="unfinished"></translation>
+        <translation>O Off-the-Record Messaging (OTR) é um protocolo criptográfico que fornece encriptação para conversas de mensagens instantâneas. Para além da autenticação e da encriptação, o OTR fornece sigilo de encaminhamento e encriptação maleável.</translation>
     </message>
     <message>
         <source>OTR features:</source>
-        <translation type="unfinished"></translation>
+        <translation>Funcionalidades OTR:</translation>
     </message>
     <message>
         <source>* Fast and easy update of encryption keys.</source>
@@ -19878,11 +19893,11 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>* Simple and convenient authentication of interlocutor without necessity of comparing public key fingerprints through an outside communication channel.</source>
-        <translation type="unfinished"></translation>
+        <translation>* Autenticação simples e conveniente do interlocutor sem a necessidade de comparar impressões digitais de chaves públicas por meio de um canal de comunicação externo.</translation>
     </message>
     <message>
         <source>OTR limitations:</source>
-        <translation type="unfinished"></translation>
+        <translation>Limitações do OTR:</translation>
     </message>
     <message>
         <source>* No support of offline messages.</source>
@@ -19890,7 +19905,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>* No support of carbon copies to other XMPP resources.</source>
-        <translation type="unfinished"></translation>
+        <translation>* Não há suporte para cópias de carbono para outros recursos XMPP.</translation>
     </message>
     <message>
         <source>* No support of multi-user chats.</source>
@@ -19902,15 +19917,15 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>OTR provides the following guarantees:</source>
-        <translation type="unfinished"></translation>
+        <translation>A OTR oferece as seguintes garantias:</translation>
     </message>
     <message>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages (s)he sees are authentic and unmodified.</source>
-        <translation type="unfinished"></translation>
+        <translation>As mensagens que envia não têm assinaturas digitais que possam ser verificadas por terceiros. Qualquer pessoa pode falsificar mensagens após uma conversa para as fazer parecer que vieram de si. No entanto, durante uma conversa, o seu correspondente tem a garantia de que as mensagens que vê são autênticas e não foram modificadas.</translation>
     </message>
     <message>
         <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows one to use it for protecting conversations via XMPP transports (to ICQ, Skype, Telegram, QQ, vkontakte and other networks).</source>
-        <translation type="unfinished"></translation>
+        <translation>Em comparação com o OpenPGP e o OMEMO, o protocolo OTR não depende de estruturas específicas do XMPP, o que permite utilizá-lo para proteger conversas através de transportes XMPP (para ICQ, Skype, Telegram, QQ, vkontakte e outras redes).</translation>
     </message>
 </context>
 <context>
