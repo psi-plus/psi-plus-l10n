@@ -1567,15 +1567,15 @@ The list of exceptions for jids has two operating modes:
 * auto-responder is switched on for the list of exceptions, for the others is switched off (Enable mode) </source>
         <translation>此插件可以充当一个自动应答机。它有一个简单的配置选项，您可以使用：
 * 设置一个文本消息自动应答
-* 从自动应答的对象中排除指定 JID，包括群聊，(如果设置了 JID 群聊，排除将包括所有的私信)
+* 从自动应答的对象中排除指定 JID，包括群聊，（如果设置了 JID 群聊，排除将包括所有的私信）
 * 禁用自动应答的一些账号
-*设置发送自动消息数
-*设置时间间隔之后，一些自动应答计数器将重置
-*禁用自动应答的活动页
-*禁用自动应答，对于不在您的花名册中的联系人
+* 设置发送自动消息数
+* 设置时间间隔之后，一些自动应答计数器将重置
+* 禁用自动应答的活动页
+* 禁用自动应答，对于不在您的花名册中的联系人
 JID 的例外列表有两种操作模式：
-*关闭自动应答的例外列表，为除此之外的人打开(禁用模式)
-*开启自动应答的例外列表，为除此之外的人关闭(启用模式)</translation>
+* 关闭自动应答的例外列表，为除此之外的人打开（禁用模式）
+* 开启自动应答的例外列表，为除此之外的人关闭（启用模式）</translation>
     </message>
 </context>
 <context>
@@ -4059,15 +4059,15 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Sort style for contacts:</source>
-        <translation>排序方式接触:</translation>
+        <translation>联系人的排序样式：</translation>
     </message>
     <message>
         <source>Avatars size:</source>
-        <translation>头像大小:</translation>
+        <translation>头像大小：</translation>
     </message>
     <message>
         <source>Avatars radius:</source>
-        <translation>头像半径:</translation>
+        <translation>头像半径：</translation>
     </message>
     <message>
         <source>Resolve nicks on contact add</source>
@@ -4075,11 +4075,11 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Lockdown roster</source>
-        <translation>锁定通讯录</translation>
+        <translation>锁定花名册</translation>
     </message>
     <message>
         <source>Place roster at left in &quot;all-in-one-window&quot; mode</source>
-        <translation>通讯录在左侧以&quot;all-in-one-window&quot;模式放置</translation>
+        <translation>在“all-in-one-window”模式下将花名册放置在左侧</translation>
     </message>
     <message>
         <source>Contact name and status message in a row</source>
@@ -4095,11 +4095,11 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Automatically remove temporary contacts</source>
-        <translation>自动删除临时联系人</translation>
+        <translation>自动移除临时联系人</translation>
     </message>
     <message>
         <source>Tooltips:</source>
-        <translation>工具提示:</translation>
+        <translation>工具提示：</translation>
     </message>
     <message>
         <source>Show avatar</source>
@@ -4131,7 +4131,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Show &quot;Assign OpenPGP Key&quot; option in contact menu</source>
-        <translation type="vanished">在联系人右键菜单里显示“分配OpenPGP秘钥”选项</translation>
+        <translation type="vanished">在联系人右键菜单里显示“分配 OpenPGP 密钥”选项</translation>
     </message>
     <message>
         <source>Show &quot;Picture&quot; option in contact menu</source>
@@ -4139,7 +4139,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Show &quot;Change Profile&quot; option in main menu</source>
-        <translation>在主菜单里显示“更改配置文件”选项</translation>
+        <translation>在主菜单里显示“更改个人资料”选项</translation>
     </message>
     <message>
         <source>Show &quot;Chat&quot; option in status menu</source>
@@ -4147,7 +4147,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Show &quot;Invisible&quot; option in status menu</source>
-        <translation>在状态菜单中显示“不可见”的选项</translation>
+        <translation>在状态菜单中显示“隐身”的选项</translation>
     </message>
     <message>
         <source>Show &quot;XA&quot; option in status menu</source>
@@ -4155,27 +4155,27 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Enable single messages</source>
-        <translation>启用单一信息</translation>
+        <translation>启用单条消息</translation>
     </message>
     <message>
         <source>Popup border color:</source>
-        <translation>弹出边框颜色:</translation>
+        <translation>弹出边框颜色：</translation>
     </message>
     <message>
         <source>Link color:</source>
-        <translation>链接颜色:</translation>
+        <translation>链接颜色：</translation>
     </message>
     <message>
         <source>Mailto color:</source>
-        <translation>邮件颜色</translation>
+        <translation>邮件颜色：</translation>
     </message>
     <message>
         <source>Moderators color:</source>
-        <translation>主持人颜色:</translation>
+        <translation>主持人颜色：</translation>
     </message>
     <message>
         <source>Participants color:</source>
-        <translation>参与者颜色:</translation>
+        <translation>参与者颜色：</translation>
     </message>
     <message>
         <source>Visitors color:</source>
@@ -4183,43 +4183,43 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>No Role color:</source>
-        <translation>无角色颜色:</translation>
+        <translation>没有角色颜色：</translation>
     </message>
     <message>
         <source>Groupchat roster coloring:</source>
-        <translation>群聊花名册配色:</translation>
+        <translation>群聊花名册着色：</translation>
     </message>
     <message>
         <source>Enable sound notifications for every groupchat message</source>
-        <translation>启用声音通知为每一个群聊消息</translation>
+        <translation>为每条群聊消息启用声音通知</translation>
     </message>
     <message>
         <source>ToolTip text color:</source>
-        <translation>提示文本颜色:</translation>
+        <translation>工具提示文本颜色：</translation>
     </message>
     <message>
         <source>ToolTip background color:</source>
-        <translation>提示背景颜色:</translation>
+        <translation>工具提示背景颜色：</translation>
     </message>
     <message>
         <source>ToolTip coloring:</source>
-        <translation>提示着色:</translation>
+        <translation>工具提示着色：</translation>
     </message>
     <message>
         <source>Text color for &quot;composing&quot; events on tabs:</source>
-        <translation>标签上“排版”项目的文本颜色:</translation>
+        <translation>标签页上“撰写”事件的文本颜色：</translation>
     </message>
     <message>
         <source>Text color for &quot;unread&quot; events on tabs:</source>
-        <translation>标签上“未读”项目的文本颜色:</translation>
+        <translation>标签页上“未读”事件的文本颜色：</translation>
     </message>
     <message>
         <source>Colors:</source>
-        <translation>颜色:</translation>
+        <translation>颜色：</translation>
     </message>
     <message>
         <source>Popup</source>
-        <translation>弹出</translation>
+        <translation>弹窗</translation>
     </message>
     <message>
         <source>Tooltip</source>
@@ -4227,7 +4227,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:skins_css&quot;&gt;CSS for Psi&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:skins_css&quot;&gt;Psi+的CSS&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;https://psi-plus.com/wiki/en:skins_css&quot;&gt;Psi 的 CSS&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Disable wheel scroll</source>
@@ -4235,31 +4235,31 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Put tabs at bottom of chat window</source>
-        <translation>把标签放到聊天窗口的底部</translation>
+        <translation>把标签页放到聊天窗口的底部</translation>
     </message>
     <message>
         <source>Show Close Button on tabs</source>
-        <translation>显示关闭按钮上的标签</translation>
+        <translation>在标签页上显示关闭按钮</translation>
     </message>
     <message>
         <source>Show status icons on tabs</source>
-        <translation>显示状态图标标签</translation>
+        <translation>在标签页上显示状态图标</translation>
     </message>
     <message>
         <source>Hide tab when close chat window</source>
-        <translation type="vanished">当关闭聊天窗口时，隐藏标签</translation>
+        <translation type="vanished">关闭聊天窗口时隐藏标签页</translation>
     </message>
     <message>
         <source>Allow closing inactive tabs</source>
-        <translation>允许关闭无效的标签</translation>
+        <translation>允许关闭不活动的标签页</translation>
     </message>
     <message>
         <source>Action for mouse middle click on tabs:</source>
-        <translation>在标签上单击鼠标中键的动作:</translation>
+        <translation>鼠标中键单击标签页的操作：</translation>
     </message>
     <message>
         <source>Action for mouse double click on tabs:</source>
-        <translation>在标签上双击鼠标中键的动作:</translation>
+        <translation>鼠标中键双击标签页的操作：</translation>
     </message>
     <message>
         <source>Enable windows flashing</source>
@@ -4271,11 +4271,11 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Enable XML-console on login</source>
-        <translation>启用“XML-控制台”模式登录</translation>
+        <translation>登录时启用 XML 控制台</translation>
     </message>
     <message>
         <source>Enable last activity server</source>
-        <translation>启用服务器活动</translation>
+        <translation>启用最后活动服务</translation>
     </message>
     <message>
         <source>Disable popup notifications if status is DND</source>
@@ -4295,37 +4295,37 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">作者:</translation>
+        <translation type="vanished">作者：</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">邮件:</translation>
+        <translation type="vanished">电子邮件：</translation>
     </message>
     <message>
         <source>This plugin is designed to allow easy configuration of some advanced options in Psi.
 This plugin gives you access to advanced application options, which do not have a graphical user interface.
 
 Importantly: a large part of the options are important system settings. These require extra attention and properunderstanding of the results when changing the option.</source>
-        <translation>该插件的目的是更容易的在Psi+设置一些高级设置。
-该插件可以让你访问没有图形界面的高级应用设置。
+        <translation>此插件的设计允许在 Psi 中轻松配置一些高级选项。
+此插件允许您访问高级应用程序选项，这些选项没有图形用户界面。
 
-更重要的是:大部分选项都是重要的系统设置。 在更改选项时，需额外关注结果并需对结果正确理解。</translation>
+重要的是：很大一部分选项是重要的系统设置。更改选项时，需要特别注意并正确理解结果。</translation>
     </message>
     <message>
         <source>Allow groupchat highlight events</source>
-        <translation>允许群聊高亮事件</translation>
+        <translation>允许群聊突出显示事件</translation>
     </message>
     <message>
         <source>Enable multirow tabs</source>
-        <translation>启用多行选项卡</translation>
+        <translation>启用多行标签页</translation>
     </message>
     <message>
         <source>Store MUC private messages in history</source>
-        <translation>在历史记录存储 MUC 私信</translation>
+        <translation>在历史记录中存储群聊私信</translation>
     </message>
     <message>
         <source>Place current tab at the bottom row in multirow mode</source>
-        <translation>多行选项卡模式将当前选项卡放在底排</translation>
+        <translation>多行标签页模式将当前标签页放在最下面一行</translation>
     </message>
     <message>
         <source>Hide groupchat when closing window</source>
@@ -4357,7 +4357,7 @@ Importantly: a large part of the options are important system settings. These re
     <name>FileRequestDlg</name>
     <message>
         <source>Identity: </source>
-        <translation>身份: </translation>
+        <translation>身份：</translation>
     </message>
     <message>
         <source>Send File</source>
@@ -4389,11 +4389,11 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>Time:</source>
-        <translation>时间:</translation>
+        <translation>时间：</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation>从:</translation>
+        <translation>来自：</translation>
     </message>
     <message>
         <source>Receive File</source>
@@ -4417,7 +4417,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="vanished">确定(&amp;Y)</translation>
+        <translation type="vanished">是(&amp;Y)</translation>
     </message>
     <message>
         <source>&amp;No</source>
@@ -4445,7 +4445,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>Requesting...</source>
-        <translation>请求中...</translation>
+        <translation>正在请求…</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -4457,7 +4457,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>Accepting...</source>
-        <translation>接收中…</translation>
+        <translation>正在接收…</translation>
     </message>
     <message>
         <source>Accepted!</source>
@@ -4465,16 +4465,16 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>File was rejected by remote user.</source>
-        <translation>档案被远程使用者拒绝。</translation>
+        <translation>文件被远程用户拒绝。</translation>
     </message>
     <message>
         <source>Unable to negotiate transfer.
 
 This can happen if the contact did not understand our request, or if the
 contact is offline.</source>
-        <translation>无法协调发送。
-这可能发生你的联系人不了解我们的请求,
-或是联系人离线。</translation>
+        <translation>无法协调传输。
+
+如果联系人不理解我们的请求，或者联系人处于离线状态，则可能会发生这种情况。</translation>
     </message>
     <message>
         <source>Unable to connect to peer for data transfer.
@@ -4482,10 +4482,9 @@ contact is offline.</source>
 Ensure that your Data Transfer settings are proper.  If you are behind
 a NAT router or firewall then you&apos;ll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
-        <translation>无法连到 peer 来发送数据。
-确定你的档发送设置适当。  如果你在 NAT 路由器
-或是防火墙后面, 那你需要打开适当的 TCP 埠, 或是
-在你的账号设置里指定一个文件发送的代理服务器。</translation>
+        <translation>无法连接到对等端进行数据传输。
+
+确保数据传输设置正确。如果您在 NAT 路由器或防火墙后面，则需要打开正确的 TCP 端口或在账号设置中指定数据传输代理。</translation>
     </message>
     <message>
         <source>Failure to either connect to, or activate, the Data Transfer Proxy.
@@ -4493,24 +4492,24 @@ or specify a Data Transfer Proxy in your account settings.</source>
 This means that the Proxy service is either not functioning or it is
 unreachable.  If you are behind a firewall, then you&apos;ll need to ensure
 that outgoing TCP connections are allowed.</source>
-        <translation>连接或启始文件发送代理服务器错误。
-这表示代理服务不是无作用就是无法连接。
-如果你在防火墙后面, 你需要确定允许 TCP 联外。</translation>
+        <translation>无法连接或激活数据传输代理。
+
+这意味着代理服务要么不起作用，要么无法访问。如果您在防火墙后面，则需要确保允许传出 TCP 连接。</translation>
     </message>
     <message>
         <source>File I/O error</source>
-        <translation>档案 I/O 错误</translation>
+        <translation>文件 I/O 错误</translation>
     </message>
     <message>
         <source>Unable to accept the file.  Perhaps the sender has cancelled the request.</source>
-        <translation>无法接受档案。也许发送者已经取消了请求。</translation>
+        <translation>无法接收文件。也许发送者已经取消了请求。</translation>
     </message>
 </context>
 <context>
     <name>FileShareDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="vanished">对话</translation>
+        <translation type="vanished">对话框</translation>
     </message>
     <message>
         <source>Share Files</source>
@@ -4529,18 +4528,18 @@ that outgoing TCP connections are allowed.</source>
     <name>FileShareDownloader::Private</name>
     <message>
         <source>Download sources are not given</source>
-        <translation>下载的资源没有给出</translation>
+        <translation>未提供下载源</translation>
     </message>
 </context>
 <context>
     <name>FileSharingItem</name>
     <message>
         <source>Published on HttpUpload service</source>
-        <translation>发布到HttpUpload服务</translation>
+        <translation>在 HttpUpload 服务上发布</translation>
     </message>
     <message>
         <source>Failed to publish on HttpUpload service</source>
-        <translation>无法发布到HttpUpload服务</translation>
+        <translation>无法在 HttpUpload 服务上发布</translation>
     </message>
 </context>
 <context>
@@ -4555,11 +4554,11 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>To:</source>
-        <translation>到:</translation>
+        <translation>到：</translation>
     </message>
     <message>
         <source>File:</source>
-        <translation>档案:</translation>
+        <translation>文件：</translation>
     </message>
     <message>
         <source>psi/browse</source>
@@ -4567,11 +4566,11 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>Size:</source>
-        <translation>大小:</translation>
+        <translation>大小：</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation>描述:</translation>
+        <translation>描述：</translation>
     </message>
     <message>
         <source>stop</source>
@@ -4590,11 +4589,11 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>[Done]</source>
-        <translation>[完成]</translation>
+        <translation>[已完成]</translation>
     </message>
     <message>
         <source>[Error: %1]</source>
-        <translation>[错误: %1]</translation>
+        <translation>[错误：%1]</translation>
     </message>
     <message>
         <source>[Stalled]</source>
@@ -4610,7 +4609,7 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>File</source>
-        <translation>档案</translation>
+        <translation>文件</translation>
     </message>
     <message>
         <source>To</source>
@@ -4618,7 +4617,7 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>From</source>
-        <translation>从</translation>
+        <translation>来自</translation>
     </message>
     <message>
         <source>Status</source>
@@ -4646,7 +4645,7 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>Peer</source>
-        <translation>同行</translation>
+        <translation>对等端</translation>
     </message>
     <message>
         <source>Size</source>
@@ -4654,7 +4653,7 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>Transferred</source>
-        <translation>已发送</translation>
+        <translation>已传输</translation>
     </message>
     <message>
         <source>Time remaining</source>
@@ -4679,12 +4678,12 @@ that outgoing TCP connections are allowed.</source>
     <message>
         <source>Transfer of %1 with %2 failed.
 Reason: %3</source>
-        <translation>和 %2 发送 %1 错误。
-原因: %3</translation>
+        <translation>与 %2 传输 %1 错误。
+原因：%3</translation>
     </message>
     <message>
         <source>File I/O error (%1)</source>
-        <translation>档案 I/O 错误 (%1)</translation>
+        <translation>文件 I/O 错误 (%1)</translation>
     </message>
 </context>
 <context>
@@ -4706,47 +4705,47 @@ Reason: %3</source>
     <name>FileTransferHandler</name>
     <message>
         <source>Querying proxy...</source>
-        <translation>查询代理...</translation>
+        <translation>正在查询代理…</translation>
     </message>
     <message>
         <source>Proxy query successful.</source>
-        <translation>代理服务器查询成功。</translation>
+        <translation>代理查询成功。</translation>
     </message>
     <message>
         <source>Proxy query failed!</source>
-        <translation>代理服务器查询失败!</translation>
+        <translation>代理查询失败！</translation>
     </message>
     <message>
         <source>Requesting data transfer channel...</source>
-        <translation>要求文件发送频道...</translation>
+        <translation>正在请求数据传输通道…</translation>
     </message>
     <message>
         <source>Peer accepted request.</source>
-        <translation>Peer 已接受请求。</translation>
+        <translation>对等端已接受请求。</translation>
     </message>
     <message>
         <source>Connecting to peer...</source>
-        <translation>连接到 peer...</translation>
+        <translation>正在连接到对等端…</translation>
     </message>
     <message>
         <source>Connecting to proxy...</source>
-        <translation>连接到代理服务器...</translation>
+        <translation>正在连接到代理…</translation>
     </message>
     <message>
         <source>Waiting for peer activation...</source>
-        <translation>等待 peer 起始...</translation>
+        <translation>正在等待对等端激活…</translation>
     </message>
     <message>
         <source>Unable to negotiate transfer.</source>
-        <translation>无法协调发送。</translation>
+        <translation>无法协调传输。</translation>
     </message>
     <message>
         <source>Unable to connect to peer for data transfer.</source>
-        <translation>无法连接到 peer 来发送数据。</translation>
+        <translation>无法连接到对等端进行数据传输。</translation>
     </message>
     <message>
         <source>Unable to connect to proxy for data transfer.</source>
-        <translation>无法连接到代理服务器来发送数据。</translation>
+        <translation>无法连接到代理进行数据传输。</translation>
     </message>
     <message>
         <source>Lost connection / Cancelled.</source>
@@ -4783,7 +4782,7 @@ Reason: %3</source>
     <name>Form</name>
     <message>
         <source>Proxy Authentication Required</source>
-        <translation>需要代理认证</translation>
+        <translation>需要代理身份验证</translation>
     </message>
     <message>
         <source>Load Content List</source>
@@ -4817,7 +4816,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Enter Command...</source>
-        <translation>输入指令...</translation>
+        <translation>输入命令…</translation>
     </message>
     <message>
         <source>Copy Groupchat JID</source>
@@ -4825,13 +4824,13 @@ Reason: %3</source>
     </message>
     <message>
         <source> by %1</source>
-        <translation> 以 %1</translation>
+        <translation>由 %1</translation>
     </message>
     <message>
         <source>
 Reason: %1</source>
         <translation>
-原因: %1</translation>
+原因：%1</translation>
     </message>
     <message>
         <source>Edit Bookmark</source>
@@ -4843,7 +4842,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Error: Cannot parse command: </source>
-        <translation>错误: 无法分析指令: </translation>
+        <translation>错误：无法分析命令：</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -4857,19 +4856,19 @@ Reason: %1</source>
     </message>
     <message>
         <source>Disconnected.</source>
-        <translation>已断线。</translation>
+        <translation>已断开连接。</translation>
     </message>
     <message>
         <source>Reconnecting...</source>
-        <translation>重新连接中...</translation>
+        <translation>正在重新连接…</translation>
     </message>
     <message>
         <source>Error: You are in or joining this room already!</source>
-        <translation>错误: 你已经在或正在加入这个聊天室!</translation>
+        <translation>错误：您已在或正在加入此聊天室！</translation>
     </message>
     <message>
         <source>Unexpected groupchat error: %1</source>
-        <translation>未预期的群组错误: %1</translation>
+        <translation>意外的群聊错误：%1</translation>
     </message>
     <message>
         <source>Please choose a different nickname</source>
@@ -4877,23 +4876,23 @@ Reason: %1</source>
     </message>
     <message>
         <source>An error occurred (errorcode: %1)</source>
-        <translation>发生错误 (错误码: %1)</translation>
+        <translation>发生错误 (错误码：%1)</translation>
     </message>
     <message>
         <source>New room created</source>
-        <translation>新聊天室已建立</translation>
+        <translation>新房间已创建</translation>
     </message>
     <message>
         <source>%1 has joined the room</source>
-        <translation>%1 已经加入聊天室</translation>
+        <translation>%1 已加入房间</translation>
     </message>
     <message>
         <source>%3 has joined the room as %1 and %2</source>
-        <translation>%3 已经以 %1 和 %2 加入聊天室</translation>
+        <translation>%3 已作为 %1 和 %2 加入房间</translation>
     </message>
     <message>
         <source>%2 has joined the room as %1</source>
-        <translation>%2 已经以 %1 加入聊天室</translation>
+        <translation>%2 已作为 %1 加入房间</translation>
     </message>
     <message>
         <source> and now is %1</source>
@@ -4909,23 +4908,23 @@ Reason: %1</source>
     </message>
     <message>
         <source> (Reason: %1)</source>
-        <translation>(原因: %1)</translation>
+        <translation>(原因：%1)</translation>
     </message>
     <message>
         <source>This room has been destroyed.</source>
-        <translation>聊天室已经被解散了。</translation>
+        <translation>此房间已经被解散了。</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation>原因: %1</translation>
+        <translation>原因：%1</translation>
     </message>
     <message>
         <source>Do you want to join the alternate venue &apos;%1&apos;?</source>
-        <translation>你想要加入另外一方 &apos;%1&apos; 吗?</translation>
+        <translation>是否要加入备用场地 “%1”？</translation>
     </message>
     <message>
         <source>Room Destroyed</source>
-        <translation>聊天室已解散</translation>
+        <translation>房间已解散</translation>
     </message>
     <message>
         <source>Banned</source>
@@ -4933,11 +4932,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>You have been banned from the room</source>
-        <translation>你已经被这个聊天室封禁了</translation>
+        <translation>您已经被此房间封禁了</translation>
     </message>
     <message>
         <source>You have been banned from the room by %1</source>
-        <translation>你已经被 %1 从这个聊天室封禁了</translation>
+        <translation>您已经被 %1 从此房间封禁了</translation>
     </message>
     <message>
         <source>%1 has been banned</source>
@@ -4953,11 +4952,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>You have been kicked from the room</source>
-        <translation>你已经被踢出聊天室了</translation>
+        <translation>您已经被踢出此房间了</translation>
     </message>
     <message>
         <source>You have been kicked from the room by %1</source>
-        <translation>你已经被 %1 踢出聊天室了</translation>
+        <translation>您已经被 %1 踢出此房间了</translation>
     </message>
     <message>
         <source>%1 has been kicked</source>
@@ -4973,55 +4972,55 @@ Reason: %1</source>
     </message>
     <message>
         <source>You have been removed from the room due to an affiliation change</source>
-        <translation>由于从属关系的更改您已经从聊天室被移除了</translation>
+        <translation>由于从属关系的更改您已经从此房间移除了</translation>
     </message>
     <message>
         <source>You have been removed from the room by %1 due to an affiliation change</source>
-        <translation>由于从属关系的更改您已经被 %1 从聊天室移除了</translation>
+        <translation>由于从属关系的更改您已经被 %1 从此房间移除了</translation>
     </message>
     <message>
         <source>%1 has been removed from the room due to an affilliation change</source>
-        <translation>%1 由于从属关系的更改已经从聊天室移除了</translation>
+        <translation>%1 由于从属关系的更改已经从此房间移除了</translation>
     </message>
     <message>
         <source>%1 has been removed from the room by %2 due to an affilliation change</source>
-        <translation>%1 由于从属关系的更改已经被 %2 从聊天室移除了</translation>
+        <translation>%1 由于从属关系的更改已经被 %2 从此房间移除了</translation>
     </message>
     <message>
         <source>You have been removed from the room because the room was made members only</source>
-        <translation>您已经从这个聊天室被移除了, 因为这聊天室是限定成员的</translation>
+        <translation>您已经从此房间移除了, 因为此房间是仅成员进入</translation>
     </message>
     <message>
         <source>You have been removed from the room by %1 because the room was made members only</source>
-        <translation>您已经被 %1 从聊天室中移除, 因为此聊天室为成员限定</translation>
+        <translation>您已经被 %1 从此房间移除，因为此房间是仅成员进入</translation>
     </message>
     <message>
         <source>%1 has been removed from the room because the room was made members-only</source>
-        <translation>%1 已经从这个聊天室被移除了, 因为这聊天室是限定成员的</translation>
+        <translation>%1 已经从此房间移除了，因为此房间是仅成员进入</translation>
     </message>
     <message>
         <source>%1 has been removed from the room by %2 because the room was made members-only</source>
-        <translation>%1 已经被 %2 从这个聊天室移除了, 因为这聊天室是限定成员的</translation>
+        <translation>%1 已经被 %2 从此房间移除了，因为此房间是仅成员进入</translation>
     </message>
     <message>
         <source>%1 is now known as %2</source>
-        <translation>%1 现在叫做 %2</translation>
+        <translation>%1 现在称为 %2</translation>
     </message>
     <message>
         <source>%1 has left the room</source>
-        <translation>%1 已经离开聊天室</translation>
+        <translation>%1 已经离开此房间</translation>
     </message>
     <message>
         <source>The topic has been set to</source>
-        <translation>该主题已被设置为</translation>
+        <translation>话题已被设置为</translation>
     </message>
     <message>
         <source> has unset the topic</source>
-        <translation>已取消设置的话题</translation>
+        <translation>已取消设置话题</translation>
     </message>
     <message>
         <source> has set the topic to</source>
-        <translation>已成立的主题</translation>
+        <translation>已设置的话题</translation>
     </message>
     <message>
         <source>Connected.</source>
@@ -5041,23 +5040,23 @@ Reason: %1</source>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation>名称(&amp;N):</translation>
+        <translation>名称(&amp;N)：</translation>
     </message>
     <message>
         <source>N&amp;ick:</source>
-        <translation>昵称(&amp;I):</translation>
+        <translation>昵称(&amp;I)：</translation>
     </message>
     <message>
         <source>&amp;Auto join:</source>
-        <translation>自动加入:(&amp;A)</translation>
+        <translation>自动加入(&amp;A)：</translation>
     </message>
     <message>
         <source>Bookmark conference</source>
-        <translation>书签会议</translation>
+        <translation>为群聊添加书签</translation>
     </message>
     <message>
         <source>Unable to join groupchat.    Reason: %1</source>
-        <translation>无法加入群组。原因: %1</translation>
+        <translation>无法加入群聊。原因：%1</translation>
     </message>
     <message>
         <source>Paste and Send</source>
@@ -5065,19 +5064,19 @@ Reason: %1</source>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation>发送信息(&amp;M)</translation>
+        <translation>发送消息(&amp;M)</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation>打开对话窗口(&amp;C)</translation>
+        <translation>打开聊天窗口(&amp;C)</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="vanished">语音视频</translation>
+        <translation type="vanished">语音通话</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation>执行指令(&amp;X)</translation>
+        <translation>执行命令(&amp;X)</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
@@ -5137,19 +5136,19 @@ Reason: %1</source>
     </message>
     <message>
         <source>You have been removed from the room due to technical problem</source>
-        <translation>由于技术问题您已经从聊天室被移除了</translation>
+        <translation>由于技术问题您已经从此房间移除了</translation>
     </message>
     <message>
         <source>You have been removed from the room by %1 due to technical problem</source>
-        <translation>由于技术问题您已经被 %1 从聊天室移除了</translation>
+        <translation>由于技术问题您已经被 %1 从此房间移除了</translation>
     </message>
     <message>
         <source>%1 has been removed from the room due to technical problem</source>
-        <translation>由于技术问题 %1 已经从聊天室被移除了</translation>
+        <translation>由于技术问题 %1 已经从此房间移除了</translation>
     </message>
     <message>
         <source>%1 has been removed from the room by %2 due to technical problem</source>
-        <translation>由于技术问题 %1 已经被 %2 从聊天室被移除了</translation>
+        <translation>由于技术问题 %1 已经被 %2 从此房间移除了</translation>
     </message>
     <message>
         <source>Encryption is enabled</source>
@@ -5172,7 +5171,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Command</source>
-        <translation>指令</translation>
+        <translation>命令</translation>
     </message>
 </context>
 <context>
@@ -5206,7 +5205,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Game chat</source>
-        <translation type="vanished">游戏对话</translation>
+        <translation type="vanished">游戏聊天</translation>
     </message>
     <message>
         <source>History</source>
@@ -5230,11 +5229,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Socket Error...</source>
-        <translation type="vanished">socket 错误...</translation>
+        <translation type="vanished">socket 错误…</translation>
     </message>
     <message>
         <source>You have a socket error number</source>
-        <translation type="vanished">你有一个 socket 错误号码</translation>
+        <translation type="vanished">您有一个 socket 错误号</translation>
     </message>
     <message>
         <source>game from</source>
@@ -5246,11 +5245,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Your move...</source>
-        <translation type="vanished">你的移动...</translation>
+        <translation type="vanished">您的移动…</translation>
     </message>
     <message>
         <source>Waiting a move...</source>
-        <translation type="vanished">等待移动...</translation>
+        <translation type="vanished">正在等待移动…</translation>
     </message>
     <message>
         <source>End the game</source>
@@ -5259,8 +5258,8 @@ Reason: %1</source>
     <message>
         <source>Want you to end the game?
 You will lose it</source>
-        <translation type="vanished">你想要结束游戏吗?
-你会输掉喔</translation>
+        <translation type="vanished">您想要结束游戏吗？
+您会输掉</translation>
     </message>
     <message>
         <source>Yes, end</source>
@@ -5288,7 +5287,7 @@ You will lose it</source>
     </message>
     <message>
         <source>Error!</source>
-        <translation type="vanished">错误!</translation>
+        <translation type="vanished">错误！</translation>
     </message>
     <message>
         <source>Lookup Error</source>
@@ -5308,7 +5307,7 @@ You will lose it</source>
     </message>
     <message>
         <source>Do you want to save the image?</source>
-        <translation type="vanished">你要保存图片吗?</translation>
+        <translation type="vanished">是否要保存图片？</translation>
     </message>
     <message>
         <source>Yes, save</source>
@@ -5385,7 +5384,7 @@ You lost the game.</source>
     <name>GeneralGroupchat</name>
     <message>
         <source>GeneralGroupchatUI</source>
-        <translation>GeneralGroupchatUI</translation>
+        <translation>常规群聊用户界面</translation>
     </message>
     <message>
         <source>Enable word highlighting</source>
@@ -5393,7 +5392,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Highlight lines and alert the user if this text is included in chat</source>
-        <translation>如果在对话中包含此文字则高亮显示并提醒用户</translation>
+        <translation>如果聊天中包含此文本，高亮显示并提醒用户</translation>
     </message>
     <message>
         <source>Word highlighting</source>
@@ -5401,11 +5400,11 @@ You lost the game.</source>
     </message>
     <message>
         <source>Words which will cause a notification in group chat.</source>
-        <translation type="vanished">在群组里会产生提示的文字。</translation>
+        <translation type="vanished">会在群聊中引起通知的文字。</translation>
     </message>
     <message>
         <source>This is the list of words which when said in group chat will cause the user to be notified.</source>
-        <translation>这些是在群组里被提到时会提醒用户的文字。</translation>
+        <translation>这些是在群聊中提到时会通知用户的文字。</translation>
     </message>
     <message>
         <source>Type a new word here and press &quot;Add Word&quot; for it to be added to the highlight list</source>
@@ -5765,8 +5764,8 @@ You lost the game.</source>
     <message>
         <source>Shows notifications of new messages in your Gmailbox.
 Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
-        <translation type="vanished">在您的gmailbox里显示新信息的通知。
-注:插件只检查您的gmailbox里的收件箱文件夹里的新邮件。当使用服务器端的邮件过滤时，可能不会通知您所有的新邮件.</translation>
+        <translation type="vanished">显示 Gmailbox 中新邮件的通知。
+注意：插件只检查 Gmailbox 中收件箱文件夹的根目录中是否有新邮件。使用服务器端邮件筛选时，可能不会通知您所有的新邮件。</translation>
     </message>
 </context>
 <context>
@@ -5841,8 +5840,8 @@ to play gomoku. He wants to play %2.</source>
     <message>
         <source>This plugin allows you to play gomoku with your friends.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation>这个插件允许你和朋友玩五子棋。
-使用了普通信息来发送命令，因此该插件将始终在您能够登录的任何地方工作。要邀请朋友参与游戏，你可以使用在联系人右键菜单的项目或聊天窗口的工具栏上的按钮。</translation>
+        <translation>此插件允许您和您的朋友玩五子棋。
+使用普通消息来发送命令，因此此插件将始终在您能够登录的任何地方工作。要邀请朋友参与游戏，您可以使用联系人右键菜单项或聊天窗口工具栏上的按钮。</translation>
     </message>
     <message>
         <source>Gomoku game</source>
@@ -6058,7 +6057,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Private messages</source>
-        <translation>私人信息</translation>
+        <translation>私信</translation>
     </message>
     <message>
         <source>All contacts</source>
@@ -6109,7 +6108,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Export message history</source>
-        <translation>导出信息历史</translation>
+        <translation>导出消息历史记录</translation>
     </message>
     <message>
         <source>Text files (*.txt);;All files (*.*)</source>
@@ -6441,7 +6440,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
-        <translation>上传错误 %1; HTTP代码 %2, 信息: %3</translation>
+        <translation>上传错误 %1；HTTP 代码 %2，消息：%3</translation>
     </message>
     <message>
         <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
@@ -6680,18 +6679,19 @@ You can select or deselect a contact for history removal from the context menu o
         <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
 
 Sincerely yours, Debian Sid.</source>
-        <translation type="vanished">我可以告诉你，我正在使用Linux，但不要生我的气。当然这个人将会收到此消息。但是最好用Jabber对话。你冒着风险，因你永远不知道ICQ什么时候会死，奶奶已经过时了。他的JID: %1.
+        <translation type="vanished">作为一个 Linux 用户，我可以告诉您，但不要生我的气。当然，这个人将会收到此消息。但最好是通过 Jabber 和他聊天。您在冒险，人们永远不知道 ICQ 什么时候会死，Granny 已经活得比它长了。他的 JID：%1。
 
-此致，Debian Sid.</translation>
+此致，Debian Sid。</translation>
     </message>
     <message>
         <source>I can tell you as a Linux, but do not be mad at me. This human do not use ICQ anymore, so if you are still use that network he will not receive your message and you have to chat to him by Jabber. His JID: %1.
 
 If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
 Sincerely yours, Debian Sid.</source>
-        <translation type="vanished">我以Linux可以告诉你，但不要生我的气。当然这个人不再用ICQ。如果你在用这个软件的话他将不会在收到你的信息，请和Jabber进行对话。他的JID: %1.
+        <translation type="vanished">作为一个 Linux 用户，我可以告诉您，但不要生我的气。这个人不再使用 ICQ 了，所以如果您还在使用那个网络，他将不会收到您的消息，您必须通过 Jabber 和他聊天。他的 JID：%1。
 
-真诚的，Debian Sid.</translation>
+如果您不知道 Jabber 是什么，那就用 Google 吧。它知道一切，并随时准备帮助每一个提出要求的人。
+此致，Debian Sid。</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -6710,13 +6710,14 @@ The plugin has a number of simple settings that can help you:
 * set the max count of messages by contact
 * disable the message for the active window/tab
 * disable messages for contacts that are not in your roster</source>
-        <translation type="vanished">该插件的目的是帮助你从ICQ到JABBER传递尽可能多的联系人。插件有一些简单的设置可以帮助你:
-*设置一个特殊的信息文本
-*排除特定的ICQ号码
-*设置时间间隔后，该信息将被重复
-*设置发送给联系人的信息的最大数
-*禁止发送给活动窗口/选项卡信息
-*禁止发送给不在你通讯录内的联系人的信息</translation>
+        <translation type="vanished">此插件旨在帮助您将尽可能多的联系人从 ICQ 转移到 Jabber。
+此插件有许多简单的设置，可以帮助您：
+* 设置特殊的消息文本
+* 排除特定的 ICQ 号码
+* 设置消息重复的时间间隔
+* 按联系人设置消息的最大计数
+* 禁用活动窗口/选项卡的消息
+* 禁用不在您花名册中的联系人的消息</translation>
     </message>
 </context>
 <context>
@@ -7454,13 +7455,13 @@ Currently, the plugin is able to:
 * Enable clickable @nick, *tag, #message_id and other control elements to insert them into the typing area
 
 Note: To work correctly, the option options.html.chat.render    must be set to true. </source>
-        <translation>该插件的目的是使用Juick微博服务来高效舒适地运作。
-目前，该插件能够:
-*从juick@juick.com机器人给信息中的&quot;@昵称&quot;、&quot;*标签&quot;和&quot;#信息id&quot;上色
-*在信息中检测&quot;&gt;引用&quot;
-*可点击&quot;@昵称&quot;、&quot;*标签&quot;、&quot;#信息id&quot;和其他控制元素来将它们插入输入区域。
+        <translation>此插件旨在高效、舒适地与 Juick 微博服务配合使用。
+目前，此插件能够 
+* 在来自 juick@juick.com 机器人的消息中着色 @nick、*标签和 #message_id
+* 检测消息中的引号
+* 启用可点击的 @nick、*tag、#message_id 和其他控制元素，将其插入打字区
 
-注意:要正常工作，选项的options.html.chat.render    必须设置为启用。</translation>
+注意：option options.html.chat.render 选项必须设为启用才能正常工作。</translation>
     </message>
 </context>
 <context>
@@ -8056,7 +8057,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
-        <translation>可以根据源/目标地址或特定消息内容等各种过滤器删除传入的节</translation>
+        <translation>可以根据如源/目目标地址或特定消息内容各种过滤器删除传入的节</translation>
     </message>
 </context>
 <context>
@@ -8453,7 +8454,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>OpenPGP limitations:&lt;br/&gt;* No support of message copies to multiple devices.&lt;br/&gt;* No support of multi-user chats.</source>
-        <translation>OpenPGP 限制：&lt;br/&gt;* 不支持将消息复制到多个设备。&lt;br/&gt;* 不支持多用户聊天。</translation>
+        <translation>OpenPGP 限制：&lt;br/&gt;* 不支持将消息复制到多台设备。&lt;br/&gt;* 不支持多用户聊天。</translation>
     </message>
     <message>
         <source>OpenPGP plugin uses standard command-line tool GnuPG, so attentively check that you properly installed and configured gpg and gpg-agent. For example, in your system:</source>
@@ -8534,7 +8535,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Disables the sending of message events such as &quot;Contact is Typing...&quot;</source>
-        <translation>禁止发送消息事件，如“联系正在输入......”</translation>
+        <translation>禁止发送诸如“联系人正在输入…”之类的消息事件</translation>
     </message>
     <message>
         <source>Do not send composing events</source>
@@ -8590,7 +8591,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Treat incoming messages and chats as:</source>
-        <translation>将进来的信息和对话视为:</translation>
+        <translation>将传入消息和聊天视为：</translation>
     </message>
     <message>
         <source>Determined by sender</source>
@@ -8598,7 +8599,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Messages</source>
-        <translation>信息</translation>
+        <translation>消息</translation>
     </message>
     <message>
         <source>Chats</source>
@@ -8606,7 +8607,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Messages (Chats if Chatting)</source>
-        <translation>信息 (对话时则为对话)</translation>
+        <translation>消息（聊天时为聊天）</translation>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
@@ -8665,19 +8666,19 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Specifies the color for sent messages in chat and history windows.</source>
-        <translation>指定聊天时已发送信息及历史窗口信息的颜色。</translation>
+        <translation>指定聊天和历史记录窗口中已发送消息的颜色。</translation>
     </message>
     <message>
         <source>Sent message foreground:</source>
-        <translation>已发送信息的前景:</translation>
+        <translation>已发送的消息前台：</translation>
     </message>
     <message>
         <source>Specifies the color for received messages in chat and history windows.</source>
-        <translation>指定聊天时接收到信息及历史窗口信息的颜色。</translation>
+        <translation>指定聊天和历史记录窗口中已接收消息的颜色。</translation>
     </message>
     <message>
         <source>Received message foreground:</source>
-        <translation>已接收信息的前景:</translation>
+        <translation>已接收消息的前台：</translation>
     </message>
     <message>
         <source>Specifies the color for informational messages in chat windows, like status changes and offline messages.</source>
@@ -8685,7 +8686,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Informational messages in chats:</source>
-        <translation>对话时的数据信息:</translation>
+        <translation>聊天中的信息性消息：</translation>
     </message>
     <message>
         <source>Online contacts:</source>
@@ -8717,11 +8718,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Specifies the color for additional text of system messages. MUC topic for example.</source>
-        <translation>指定系统消息的附加文本的颜色。例如MUC的主题。</translation>
+        <translation>指定系统消息的附加文本的颜色，例如群聊话题。</translation>
     </message>
     <message>
         <source>Additional message text:</source>
-        <translation>额外的消息文本:</translation>
+        <translation>附加消息文本：</translation>
     </message>
     <message>
         <source>Fonts</source>
@@ -8733,7 +8734,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Message:</source>
-        <translation>信息:</translation>
+        <translation>消息：</translation>
     </message>
     <message>
         <source>Choose...</source>
@@ -8928,15 +8929,15 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Enter key sends chat messages</source>
-        <translation>按 Enter 键来发送对话信息</translation>
+        <translation>Enter 键发送聊天消息</translation>
     </message>
     <message>
         <source>Alert chat messages even if chat window is open</source>
-        <translation>提示对话信息, 即使已打开对话窗口</translation>
+        <translation>即使聊天窗口打开，也会提醒聊天消息</translation>
     </message>
     <message>
         <source>Raise chat window on receiving new messages</source>
-        <translation>接收到新信息时弹出对话窗口</translation>
+        <translation>收到新消息时弹出聊天窗口</translation>
     </message>
     <message>
         <source>Switch tab on receiving new messages</source>
@@ -8956,7 +8957,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation>信息(&amp;M)</translation>
+        <translation>消息(&amp;M)</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
@@ -8984,7 +8985,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;与联系人的聊天记录中将显示在聊天日志中的消息数&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;与联系人的聊天历史记录中将显示在聊天日志中的消息数&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Show status changes</source>
@@ -9003,7 +9004,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Auto-open new messages</source>
-        <translation>自动打开新的信息</translation>
+        <translation>自动打开新消息</translation>
     </message>
     <message>
         <source>Auto-open new headlines</source>
@@ -9113,19 +9114,19 @@ Reason: %1.</source>
     </message>
     <message>
         <source>for mucs only</source>
-        <translation>仅MUC</translation>
+        <translation>仅限群聊</translation>
     </message>
     <message>
         <source>for chats and mucs separately</source>
-        <translation>使对话和MUC分开</translation>
+        <translation>使对话和群聊分开</translation>
     </message>
     <message>
         <source>for mucs and chats in one window</source>
-        <translation>使对话和MUC在一个窗口</translation>
+        <translation>使对话和群聊在一个窗口</translation>
     </message>
     <message>
         <source>for mucs, chats and roster in one window</source>
-        <translation>使MUC，聊天和通讯录在一个窗口</translation>
+        <translation>使群聊、聊天和花名册在一个窗口</translation>
     </message>
     <message>
         <source>[customized]</source>
@@ -9145,7 +9146,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Use contacts&apos; message formatting</source>
-        <translation>使用联系人的信息格式设置</translation>
+        <translation>使用联系人的消息格式设置</translation>
     </message>
     <message>
         <source>Show character counter</source>
@@ -9165,7 +9166,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Record and share audio message</source>
-        <translation>录制和分享音频信息</translation>
+        <translation>录制和分享音频消息</translation>
     </message>
     <message>
         <source>Enable audio messages</source>
@@ -9223,11 +9224,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>On incoming message event</source>
-        <translation>在进来的对话信息</translation>
+        <translation>传入消息事件</translation>
     </message>
     <message>
         <source>Show incoming message on popup</source>
-        <translation>传入消息上显示弹出</translation>
+        <translation>在弹出窗口中显示传入消息</translation>
     </message>
     <message>
         <source>On incoming headline event</source>
@@ -9255,7 +9256,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Enable popup notifications for every muc message</source>
-        <translation>为每个MUC信息启用弹出通知</translation>
+        <translation>为每条群聊消息启用弹出通知</translation>
     </message>
     <message>
         <source>Limitations</source>
@@ -9555,7 +9556,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Play sounds for all messages in groupchat</source>
-        <translation>为群组中的所有信息拨放声音</translation>
+        <translation>在群聊中播放所有消息的声音</translation>
     </message>
     <message>
         <source>Enter a filename or !beep for a system beep</source>
@@ -9571,15 +9572,15 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Receive message:</source>
-        <translation>接收信息:</translation>
+        <translation>接收消息：</translation>
     </message>
     <message>
         <source>Send message:</source>
-        <translation>发送信息:</translation>
+        <translation>发送消息：</translation>
     </message>
     <message>
         <source>System message:</source>
-        <translation>系统信息:</translation>
+        <translation>系统消息：</translation>
     </message>
     <message>
         <source>Incoming file transfer:</source>
@@ -9603,7 +9604,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Receive MUC message</source>
-        <translation>接收MUC信息</translation>
+        <translation>接收群聊消息</translation>
     </message>
     <message>
         <source>Reset to defaults</source>
@@ -10007,7 +10008,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Message archiving</source>
-        <translation type="vanished">信息归档</translation>
+        <translation type="vanished">消息存档</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will
@@ -10034,10 +10035,8 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
  logging of individual conversations and
  sends notifications.
  Enable &quot;Message archiving&quot; option for use!</source>
-        <translation type="vanished">Google Talk服务器禁止服务器端
-的个体对话登入以及
-发送通告。
-使用请启用“信息归档”选项！</translation>
+        <translation type="vanished">Google Talk 服务器禁用服务器端对个人对话的记录和发送通知。
+启用“消息存档”选项以供使用！</translation>
     </message>
     <message>
         <source>Enable Off the Record Chats</source>
@@ -10053,11 +10052,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Show all unread messages</source>
-        <translation type="vanished">显示所有未读的信息</translation>
+        <translation type="vanished">显示所有未读消息</translation>
     </message>
     <message>
         <source>Show new messages only</source>
-        <translation type="vanished">只显示新信息</translation>
+        <translation type="vanished">仅显示新消息</translation>
     </message>
     <message>
         <source>Start program:</source>
@@ -10097,11 +10096,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Auto import a key from the message body</source>
-        <translation type="vanished">从信息本身自动一键输出</translation>
+        <translation type="vanished">从消息正文自动导入密钥</translation>
     </message>
     <message>
         <source>Filter the message with a key</source>
-        <translation type="vanished">用一键过滤信息</translation>
+        <translation type="vanished">用关键字过滤消息</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -10217,11 +10216,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Block all private messages</source>
-        <translation>屏蔽所有私人消息</translation>
+        <translation>屏蔽所有私信</translation>
     </message>
     <message>
         <source>Send message:</source>
-        <translation>发送消息:</translation>
+        <translation>发送消息：</translation>
     </message>
     <message>
         <source>Misc</source>
@@ -10266,8 +10265,8 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Disable stopspam, if don&apos;t match any rule above
 (does not work for muc private messages)</source>
-        <translation>如果不匹配任何上述规则，则禁用禁止刷屏
-(不为MUC私人信息工作)</translation>
+        <translation>如果不匹配上述任何规则，则禁用停止垃圾消息
+（不适用于群聊私信）</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -10291,7 +10290,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Messages</source>
-        <translation>信息</translation>
+        <translation>消息</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -16918,7 +16917,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Help Psi MUC</source>
-        <translation>帮助Psi MUC</translation>
+        <translation>帮助 Psi 群聊</translation>
     </message>
     <message>
         <source>Report Bug</source>
@@ -17582,7 +17581,7 @@ The plugin is designed to keep notes on the XMPP server with the ability to acce
     </message>
     <message>
         <source>Use for New Mucs</source>
-        <translation>用新的MUC</translation>
+        <translation>用于新的群聊</translation>
     </message>
     <message>
         <source>%1 Conversations</source>
@@ -19432,7 +19431,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Every peer is able to authenticate the sender or receiver of a message.</source>
-        <translation>每个对等点都能够验证消息的发送者或接收者。</translation>
+        <translation>每个对等端都能够对消息的发送方或接收方进行身份验证。</translation>
     </message>
     <message>
         <source>Immutability</source>
@@ -19440,7 +19439,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Every peer can ensure that a message was not changed by any intermediate node.</source>
-        <translation>每个对等节点都可以确保消息不被任何中间节点更改。</translation>
+        <translation>每个对等端都可以确保消息不被任何中间节点更改。</translation>
     </message>
     <message>
         <source>No participant can prove who created a specific message.</source>
