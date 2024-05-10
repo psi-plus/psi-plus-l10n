@@ -1713,6 +1713,10 @@ For sending commands, normal messages are used, so this plugin will always work 
         <source>Auto-join:</source>
         <translation>自動参加:</translation>
     </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished">名前:</translation>
+    </message>
 </context>
 <context>
     <name>BookmarkManageDlg</name>
@@ -4953,7 +4957,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>キャンセル</translation>
+        <translation type="vanished">キャンセル</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -4965,10 +4969,6 @@ Reason: %1</source>
     </message>
     <message>
         <source>&amp;Auto join:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bookmark conference</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

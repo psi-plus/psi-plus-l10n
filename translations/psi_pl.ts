@@ -1702,6 +1702,10 @@ For sending commands, normal messages are used, so this plugin will always work 
         <source>Auto-join:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished">Nazwa:</translation>
+    </message>
 </context>
 <context>
     <name>BookmarkManageDlg</name>
@@ -4953,7 +4957,7 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Rezygnuj</translation>
+        <translation type="vanished">Rezygnuj</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -4969,7 +4973,7 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source>Bookmark conference</source>
-        <translation>Zakładka konferencji</translation>
+        <translation type="vanished">Zakładka konferencji</translation>
     </message>
     <message>
         <source>Unable to join groupchat.    Reason: %1</source>

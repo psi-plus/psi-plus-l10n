@@ -1740,6 +1740,10 @@ Para enviar comandos, são usadas mensagens normais, portanto esse plug-in sempr
         <source>Auto-join:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished">Nome:</translation>
+    </message>
 </context>
 <context>
     <name>BookmarkManageDlg</name>
@@ -5042,7 +5046,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation type="vanished">Cancelar</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -5058,7 +5062,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Bookmark conference</source>
-        <translation>Conferência favorita</translation>
+        <translation type="vanished">Conferência favorita</translation>
     </message>
     <message>
         <source>Unable to join groupchat.    Reason: %1</source>

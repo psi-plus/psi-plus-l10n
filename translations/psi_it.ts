@@ -1743,6 +1743,10 @@ Per inviare comandi, basta usare normali messaggi, quindi questo plugin funzione
         <source>Auto-join:</source>
         <translation>Partecipa automaticamente:</translation>
     </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished">Nome:</translation>
+    </message>
 </context>
 <context>
     <name>BookmarkManageDlg</name>
@@ -5046,7 +5050,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annulla</translation>
+        <translation type="vanished">Annulla</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -5062,7 +5066,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Bookmark conference</source>
-        <translation>Aggiungi conferenza ai segnalibri</translation>
+        <translation type="vanished">Aggiungi conferenza ai segnalibri</translation>
     </message>
     <message>
         <source>Unable to join groupchat.    Reason: %1</source>

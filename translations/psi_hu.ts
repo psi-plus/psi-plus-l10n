@@ -1731,6 +1731,10 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
         <source>Auto-join:</source>
         <translation>Automatikus csatlakozás:</translation>
     </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished">Név:</translation>
+    </message>
 </context>
 <context>
     <name>BookmarkManageDlg</name>
@@ -5033,7 +5037,7 @@ Oka: %1</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Mégsem</translation>
+        <translation type="vanished">Mégsem</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -5049,7 +5053,7 @@ Oka: %1</translation>
     </message>
     <message>
         <source>Bookmark conference</source>
-        <translation>Konferencia könyvjelzőhöz</translation>
+        <translation type="vanished">Konferencia könyvjelzőhöz</translation>
     </message>
     <message>
         <source>Unable to join groupchat.    Reason: %1</source>

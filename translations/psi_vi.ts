@@ -1724,6 +1724,10 @@ Dùng gửi lệnh, tin nhắn thông thường, trình cắm này luôn hoạt 
         <source>Auto-join:</source>
         <translation>Tham gia tự động:</translation>
     </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished">Tên:</translation>
+    </message>
 </context>
 <context>
     <name>BookmarkManageDlg</name>
@@ -5017,7 +5021,7 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Hủy</translation>
+        <translation type="vanished">Hủy</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -5033,7 +5037,7 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>Bookmark conference</source>
-        <translation>Hội thảo đánh dấu</translation>
+        <translation type="vanished">Hội thảo đánh dấu</translation>
     </message>
     <message>
         <source>Unable to join groupchat.    Reason: %1</source>

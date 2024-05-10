@@ -1724,6 +1724,10 @@ For sending commands, normal messages are used, so this plugin will always work 
         <source>Auto-join:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished">名稱:</translation>
+    </message>
 </context>
 <context>
     <name>BookmarkManageDlg</name>
@@ -5005,7 +5009,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>取消</translation>
+        <translation type="vanished">取消</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -5021,7 +5025,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Bookmark conference</source>
-        <translation>書簽會議</translation>
+        <translation type="vanished">書簽會議</translation>
     </message>
     <message>
         <source>Unable to join groupchat.    Reason: %1</source>

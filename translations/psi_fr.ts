@@ -1730,6 +1730,10 @@ Les commandes sont envoyées sous forme de messages, ce greffon fonctionnera don
         <source>Auto-join:</source>
         <translation>Rejoindre automatiquement :</translation>
     </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>BookmarkManageDlg</name>
@@ -5020,7 +5024,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annuler</translation>
+        <translation type="vanished">Annuler</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -5036,7 +5040,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Bookmark conference</source>
-        <translation>Ajouter la conférence aux favoris</translation>
+        <translation type="vanished">Ajouter la conférence aux favoris</translation>
     </message>
     <message>
         <source>Unable to join groupchat.    Reason: %1</source>

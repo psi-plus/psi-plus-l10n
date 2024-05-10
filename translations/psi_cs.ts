@@ -1737,6 +1737,10 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
         <source>Auto-join:</source>
         <translation>Automaticky připojit:</translation>
     </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished">Jméno:</translation>
+    </message>
 </context>
 <context>
     <name>BookmarkManageDlg</name>
@@ -5037,7 +5041,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Zrušit</translation>
+        <translation type="vanished">Zrušit</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -5053,7 +5057,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>Bookmark conference</source>
-        <translation>Dát konferenci do záložek</translation>
+        <translation type="vanished">Dát konferenci do záložek</translation>
     </message>
     <message>
         <source>Unable to join groupchat.    Reason: %1</source>

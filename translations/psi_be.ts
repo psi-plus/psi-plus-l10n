@@ -1724,6 +1724,10 @@ For sending commands, normal messages are used, so this plugin will always work 
         <source>Auto-join:</source>
         <translation>Аўтадалучэнне:</translation>
     </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished">Назва:</translation>
+    </message>
 </context>
 <context>
     <name>BookmarkManageDlg</name>
@@ -5014,7 +5018,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Скасаваць</translation>
+        <translation type="vanished">Скасаваць</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -5030,7 +5034,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Bookmark conference</source>
-        <translation>Закласьці нараду</translation>
+        <translation type="vanished">Закласьці нараду</translation>
     </message>
     <message>
         <source>Unable to join groupchat.    Reason: %1</source>

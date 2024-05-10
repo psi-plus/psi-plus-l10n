@@ -1631,6 +1631,10 @@ For sending commands, normal messages are used, so this plugin will always work 
         <source>Auto-join:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished">Namn:</translation>
+    </message>
 </context>
 <context>
     <name>BookmarkManageDlg</name>
@@ -4754,7 +4758,7 @@ Anledning: %1</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Avbryt</translation>
+        <translation type="vanished">Avbryt</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -4766,10 +4770,6 @@ Anledning: %1</translation>
     </message>
     <message>
         <source>&amp;Auto join:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bookmark conference</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

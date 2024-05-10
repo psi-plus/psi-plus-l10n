@@ -1618,6 +1618,10 @@ For sending commands, normal messages are used, so this plugin will always work 
         <source>Auto-join:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>BookmarkManageDlg</name>
@@ -4690,10 +4694,6 @@ Kialo: %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Name:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4703,10 +4703,6 @@ Kialo: %1</translation>
     </message>
     <message>
         <source>&amp;Auto join:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bookmark conference</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

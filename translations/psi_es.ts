@@ -1735,6 +1735,10 @@ Para el envío de comandos, se usan mensajes normales, por lo que este complemen
         <source>Auto-join:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished">Nombre:</translation>
+    </message>
 </context>
 <context>
     <name>BookmarkManageDlg</name>
@@ -5029,7 +5033,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation type="vanished">Cancelar</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -5045,7 +5049,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Bookmark conference</source>
-        <translation>Marcar sala</translation>
+        <translation type="vanished">Marcar sala</translation>
     </message>
     <message>
         <source>Unable to join groupchat.    Reason: %1</source>

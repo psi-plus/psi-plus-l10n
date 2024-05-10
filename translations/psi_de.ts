@@ -1741,6 +1741,10 @@ Für das Versenden von Befehlen werden normale Nachrichten verwendet, so dass di
         <source>Auto-join:</source>
         <translation>Autom. beitreten:</translation>
     </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished">Name:</translation>
+    </message>
 </context>
 <context>
     <name>BookmarkManageDlg</name>
@@ -5046,7 +5050,7 @@ Grund: %1</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Abbrechen</translation>
+        <translation type="vanished">Abbrechen</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -5062,7 +5066,7 @@ Grund: %1</translation>
     </message>
     <message>
         <source>Bookmark conference</source>
-        <translation>Lesezeichen für Konferenz erstellen</translation>
+        <translation type="vanished">Lesezeichen für Konferenz erstellen</translation>
     </message>
     <message>
         <source>Unable to join groupchat.    Reason: %1</source>

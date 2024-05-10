@@ -1738,6 +1738,10 @@ For sending commands, normal messages are used, so this plugin will always work 
         <source>Auto-join:</source>
         <translation>自动加入：</translation>
     </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>BookmarkManageDlg</name>
@@ -5036,7 +5040,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>取消</translation>
+        <translation type="vanished">取消</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -5052,7 +5056,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Bookmark conference</source>
-        <translation>为群聊添加书签</translation>
+        <translation type="vanished">为群聊添加书签</translation>
     </message>
     <message>
         <source>Unable to join groupchat.    Reason: %1</source>
@@ -5408,7 +5412,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Type a new word here and press &quot;Add Word&quot; for it to be added to the highlight list</source>
-        <translation>输入新文字并按 &quot;加入文字&quot; 来把它加到高亮列表中</translation>
+        <translation>在此处输入新文字，然后按“添加文字”将其添加到高亮列表中</translation>
     </message>
     <message>
         <source>Adds the new word to the list</source>
@@ -5428,7 +5432,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Enable nick coloring</source>
-        <translation type="vanished">启用昵称颜色标示</translation>
+        <translation type="vanished">启用昵称着色</translation>
     </message>
     <message>
         <source>Enable hash nick coloring</source>
@@ -5436,35 +5440,35 @@ You lost the game.</source>
     </message>
     <message>
         <source>Nick coloring</source>
-        <translation>昵称颜色标示</translation>
+        <translation>昵称着色</translation>
     </message>
     <message>
         <source>Colors used for nicks in groupchat</source>
-        <translation type="vanished">群组所使用的昵称颜色标示</translation>
+        <translation type="vanished">群聊中用于昵称的颜色</translation>
     </message>
     <message>
         <source>This is the list of colours with which nicks will be drawn in group chat.</source>
-        <translation>这是群组时昵称会以颜色标示的清单。</translation>
+        <translation>这是群聊中昵称的颜色列表。</translation>
     </message>
     <message>
         <source>Type a colourcode here, or press the palette to the right</source>
-        <translation>键入一个颜色码这里，或按到右边的调色板</translation>
+        <translation>在此处键入颜色代码，或按右侧的调色板</translation>
     </message>
     <message>
         <source>Adds the color to the list</source>
-        <translation type="vanished">添加这个颜色到清单</translation>
+        <translation type="vanished">将颜色添加到列表中</translation>
     </message>
     <message>
         <source>Adds the new color to the list</source>
-        <translation>添加这个新颜色到清单</translation>
+        <translation>将新颜色添加到列表中</translation>
     </message>
     <message>
         <source>Removes the selected color from the list</source>
-        <translation>从清单中删除所选择的颜色</translation>
+        <translation>从列表中移除选定的颜色</translation>
     </message>
     <message>
         <source>Select nick coloring type for conference log</source>
-        <translation>选择在会议日志中的昵称着色类型</translation>
+        <translation>为群聊日志选择昵称着色类型</translation>
     </message>
     <message>
         <source>None</source>
@@ -5492,7 +5496,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Show status with priority</source>
-        <translation>显示优先状态</translation>
+        <translation>显示具有优先级的状态</translation>
     </message>
     <message>
         <source>Show initial joins</source>
@@ -5504,7 +5508,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Show technical kicks</source>
-        <translation>显示技术踢</translation>
+        <translation>显示技术性踢出</translation>
     </message>
 </context>
 <context>
@@ -5515,35 +5519,35 @@ You lost the game.</source>
     </message>
     <message>
         <source>Altitude:</source>
-        <translation>海拔高度:</translation>
+        <translation>海拔高度：</translation>
     </message>
     <message>
         <source>Altitude in meters above or below sea level</source>
-        <translation>在高于或低于海平面米的海拔高度</translation>
+        <translation>海拔高度，以米为单位，高于或低于海平面</translation>
     </message>
     <message>
         <source>Area:</source>
-        <translation>面积:</translation>
+        <translation>区域：</translation>
     </message>
     <message>
         <source>A named area such as a campus or neighborhood</source>
-        <translation>如校园或附近的一个命名区域</translation>
+        <translation>命名的区域，如校区或街区</translation>
     </message>
     <message>
         <source>Bearing:</source>
-        <translation>轴承:</translation>
+        <translation>方位：</translation>
     </message>
     <message>
         <source>GPS bearing (direction in which the entity is heading to reach its next waypoint), measured in decimal degrees relative to true north</source>
-        <translation>GPS轴承(实体标题，以达到其下一个航点的方向)，在相对正北十进制度测量</translation>
+        <translation>GPS 方位（实体到达下一个航路点的方向），相对于正北以十进制度测量</translation>
     </message>
     <message>
         <source>Building:</source>
-        <translation>建设:</translation>
+        <translation>建筑：</translation>
     </message>
     <message>
         <source>A specific building on a street or in an area</source>
-        <translation>一个街道或一个地区的具体建筑物</translation>
+        <translation>街道或区域内的特定建筑</translation>
     </message>
     <message>
         <source>Country:</source>
@@ -5555,95 +5559,95 @@ You lost the game.</source>
     </message>
     <message>
         <source>Datum:</source>
-        <translation>基准面:</translation>
+        <translation>基准：</translation>
     </message>
     <message>
         <source>GPS datum</source>
-        <translation>GPS基准</translation>
+        <translation>GPS 基准</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation>描述:</translation>
+        <translation>描述：</translation>
     </message>
     <message>
         <source>A natural-language name for or description of the location</source>
-        <translation>自然语言的名称或说明的位置</translation>
+        <translation>地点的自然语言名称或描述</translation>
     </message>
     <message>
         <source>Error:</source>
-        <translation>错误:</translation>
+        <translation>错误：</translation>
     </message>
     <message>
         <source>Horizontal GPS error in arc minutes; this element is deprecated in favor of &lt;accuracy/&gt;</source>
-        <translation>在弧分卧式GPS错误；在利于&lt;accuracy/&gt;这个元素被废弃</translation>
+        <translation>水平 GPS 误差，以弧分为单位；此元素已弃用，取而代之的是 &lt;accuracy/&gt;</translation>
     </message>
     <message>
         <source>Floor:</source>
-        <translation>楼层:</translation>
+        <translation>楼层：</translation>
     </message>
     <message>
         <source>A particular floor in a building</source>
-        <translation>特别是建筑物中的地板</translation>
+        <translation>建筑物中的特定楼层</translation>
     </message>
     <message>
         <source>Latitude:</source>
-        <translation>纬度:</translation>
+        <translation>纬度：</translation>
     </message>
     <message>
         <source>Latitude in decimal degrees North</source>
-        <translation>纬度在北十进制度</translation>
+        <translation>北纬，以十进制为单位</translation>
     </message>
     <message>
         <source>Locality:</source>
-        <translation>位置:</translation>
+        <translation>地点：</translation>
     </message>
     <message>
         <source>A locality within the administrative region, such as a town or city</source>
-        <translation>一个地方行政区域内，如一个城市或城市</translation>
+        <translation>行政区域内的地点，例如城镇或城市</translation>
     </message>
     <message>
         <source>Longitude:</source>
-        <translation>经度:</translation>
+        <translation>经度：</translation>
     </message>
     <message>
         <source>Longitude in decimal degrees East</source>
-        <translation>经度十进制</translation>
+        <translation>经度，以十进制为单位</translation>
     </message>
     <message>
         <source>Postalcode:</source>
-        <translation>邮政编码:</translation>
+        <translation>邮编：</translation>
     </message>
     <message>
         <source>A code used for postal delivery</source>
-        <translation>邮箱编码</translation>
+        <translation>用于邮寄的代码</translation>
     </message>
     <message>
         <source>Region:</source>
-        <translation>地区:</translation>
+        <translation>区域：</translation>
     </message>
     <message>
         <source>An administrative region of the nation, such as a state or province</source>
-        <translation>一个国家的行政区域，如一个国家或省</translation>
+        <translation>一个国家的行政区域，如一个州或省</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation>聊天室:</translation>
+        <translation>房间：</translation>
     </message>
     <message>
         <source>A particular room in a building</source>
-        <translation>在建筑物内的一个特定的房间</translation>
+        <translation>建筑物中的特定房间</translation>
     </message>
     <message>
         <source>Street:</source>
-        <translation>街:</translation>
+        <translation>街道：</translation>
     </message>
     <message>
         <source>A thoroughfare within the locality, or a crossing of two thoroughfares</source>
-        <translation>一个在当地的通途，或两个交通要道的路口</translation>
+        <translation>区域内的一条主干道，或两条主干道的交叉口</translation>
     </message>
     <message>
         <source>Text:</source>
-        <translation>文字:</translation>
+        <translation>文字：</translation>
     </message>
     <message>
         <source>A catch-all element that captures any other information about the location</source>
@@ -5670,11 +5674,11 @@ You lost the game.</source>
     </message>
     <message>
         <source>Password:</source>
-        <translation>密码:</translation>
+        <translation>密码：</translation>
     </message>
     <message>
         <source>Confirm password:</source>
-        <translation>确认密码:</translation>
+        <translation>确认密码：</translation>
     </message>
     <message>
         <source>Password does not match</source>
@@ -5685,23 +5689,23 @@ You lost the game.</source>
     <name>GetSkinName</name>
     <message>
         <source>Get Skin Name</source>
-        <translation>获得皮肤名称</translation>
+        <translation>获取皮肤名称</translation>
     </message>
     <message>
         <source>Name: </source>
-        <translation>名称:</translation>
+        <translation>名称：</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>作者:</translation>
+        <translation>作者：</translation>
     </message>
     <message>
         <source>Version: </source>
-        <translation>版本:</translation>
+        <translation>版本：</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>确定</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5739,7 +5743,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
-        <translation type="vanished">&lt;b&gt;邮件.google.com - 来件!&lt;/b&gt;</translation>
+        <translation type="vanished">&lt;b&gt;mail.google.com - 收到的邮件！&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -5759,7 +5763,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="vanished">作者:</translation>
+        <translation type="vanished">作者：</translation>
     </message>
     <message>
         <source>Shows notifications of new messages in your Gmailbox.
@@ -5772,7 +5776,7 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <name>Gnome3StatusWatcher</name>
     <message>
         <source>Authors: </source>
-        <translation>作者:</translation>
+        <translation>作者：</translation>
     </message>
     <message>
         <source>This plugin is designed to add support of GNOME 3 presence status changes</source>
@@ -5783,23 +5787,23 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <name>GnuPG</name>
     <message>
         <source>Author: </source>
-        <translation type="vanished">作者:</translation>
+        <translation type="vanished">作者：</translation>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation type="vanished">电子邮箱:</translation>
+        <translation type="vanished">电子邮件：</translation>
     </message>
     <message>
         <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be enough for your needs.</source>
-        <translation type="vanished">GnuPG密钥管理器可以创建，删除，导出和导入GnuPG密钥。它可以做的只有基本的操作，但我希望这将是足够满足您的需求。</translation>
+        <translation type="vanished">GnuPG 密钥管理器可以创建、移除、导出和导入 GnuPG 密钥。它只能进行基本操作，但我希望它足以满足您的需求。</translation>
     </message>
     <message>
         <source>Send GnuPG Public Key</source>
-        <translation type="vanished">发送GnuPG公钥</translation>
+        <translation type="vanished">发送 GnuPG 公钥</translation>
     </message>
     <message>
         <source>Public key %1 sent</source>
-        <translation type="vanished">公钥: %1发送</translation>
+        <translation type="vanished">公钥 %1 已发送</translation>
     </message>
 </context>
 <context>
@@ -5815,8 +5819,8 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <message>
         <source>Player %1 invites you 
 to play gomoku. He wants to play %2.</source>
-        <translation>玩家 %1 邀请你
-下五子棋. 他想玩 %2.</translation>
+        <translation>玩家 %1 邀请您
+下五子棋。他想玩 %2。</translation>
     </message>
 </context>
 <context>
@@ -5831,11 +5835,11 @@ to play gomoku. He wants to play %2.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">作者:</translation>
+        <translation type="vanished">作者：</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">邮件:</translation>
+        <translation type="vanished">电子邮件：</translation>
     </message>
     <message>
         <source>This plugin allows you to play gomoku with your friends.
@@ -5849,25 +5853,25 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Gomoku game!</source>
-        <translation>五子棋游戏!</translation>
+        <translation>五子棋游戏！</translation>
     </message>
 </context>
 <context>
     <name>GoogleFileTransferProgressDialog</name>
     <message>
         <source>Transferring %1</source>
-        <translation>发送中 %1</translation>
+        <translation>正在传输 %1</translation>
     </message>
 </context>
 <context>
     <name>GpgProcess</name>
     <message>
         <source>Can&apos;t start </source>
-        <translation>启动失败</translation>
+        <translation>无法启动</translation>
     </message>
     <message>
         <source>GnuPG program not found</source>
-        <translation>找不到GunPG程序</translation>
+        <translation>未找到 GnuPG 程序</translation>
     </message>
 </context>
 <context>
@@ -5896,11 +5900,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>GroupChatBrowseWindowUI</name>
     <message>
         <source>Groupchat</source>
-        <translation>群组聊天</translation>
+        <translation>群聊</translation>
     </message>
     <message>
         <source>Groupchat server:</source>
-        <translation>群组聊天服务器:</translation>
+        <translation>群聊服务器：</translation>
     </message>
     <message>
         <source>&amp;Browse</source>
@@ -5908,22 +5912,22 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Specify groupchat name manually:</source>
-        <translation>手动指定组名:</translation>
+        <translation>手动指定群聊名：</translation>
     </message>
     <message>
         <source>Show your name in the groupchat as:</source>
-        <translation>在群聊中显示您的名称为:</translation>
+        <translation>在群聊中显示您的名称为：</translation>
     </message>
 </context>
 <context>
     <name>GroupChatDlg</name>
     <message>
         <source>Topic:</source>
-        <translation type="vanished">主题:</translation>
+        <translation type="vanished">话题：</translation>
     </message>
     <message>
         <source>AccountLabel</source>
-        <translation type="vanished">账号标识</translation>
+        <translation type="vanished">账号标签</translation>
     </message>
     <message>
         <source>Select icon</source>
@@ -5931,7 +5935,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Actions</source>
-        <translation>行动</translation>
+        <translation>操作</translation>
     </message>
     <message>
         <source>Send</source>
@@ -5961,11 +5965,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
-        <translation>群聊消息风格</translation>
+        <translation>群聊消息样式</translation>
     </message>
     <message>
         <source>Configure your groupchat theme here</source>
-        <translation>在这里配置你的群聊的主题</translation>
+        <translation>在此处配置群聊主题</translation>
     </message>
 </context>
 <context>
@@ -5980,22 +5984,22 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Create New...</source>
-        <translation>建立新的(&amp;C)...</translation>
+        <translation>创建新的(&amp;C)…</translation>
     </message>
     <message>
         <source>Create New Group</source>
-        <translation>建立新群组</translation>
+        <translation>创建新群组</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation>输入新群组的名称:</translation>
+        <translation>输入新群组名称：</translation>
     </message>
 </context>
 <context>
     <name>GroupchatTopicDlg</name>
     <message>
         <source>Set Groupchat Topic</source>
-        <translation>设置群聊主题</translation>
+        <translation>设置群聊话题</translation>
     </message>
     <message>
         <source>Any Language</source>
@@ -6026,11 +6030,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Strike Out</source>
-        <translation>重拳出击</translation>
+        <translation>删除线</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation>文字颜色</translation>
+        <translation>文本颜色</translation>
     </message>
     <message>
         <source>Background Color</source>
@@ -6053,7 +6057,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Not in list</source>
-        <translation>不在清单里</translation>
+        <translation>不在列表中</translation>
     </message>
     <message>
         <source>Private messages</source>
@@ -6088,7 +6092,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Previous</source>
-        <translation>前一个(&amp;P)</translation>
+        <translation>上一个(&amp;P)</translation>
     </message>
     <message>
         <source>&amp;Next</source>
@@ -6096,11 +6100,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Last</source>
-        <translation>最新的(&amp;L)</translation>
+        <translation>最新(&amp;L)</translation>
     </message>
     <message>
         <source>Remove history</source>
-        <translation>清除历史</translation>
+        <translation>移除历史记录</translation>
     </message>
     <message>
         <source>Are you sure you want to completely remove history for a contact %1?</source>
@@ -6128,7 +6132,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Export history</source>
-        <translation>导出历史(&amp;E)</translation>
+        <translation>导出历史记录(&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Delete history</source>
@@ -6136,7 +6140,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>History</source>
-        <translation>历史文件</translation>
+        <translation>历史记录</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -6160,7 +6164,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Close history</source>
-        <translation>关闭历史文件</translation>
+        <translation>关闭历史记录</translation>
     </message>
     <message>
         <source>All contacts</source>
@@ -6168,7 +6172,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Search:</source>
-        <translation>搜索:</translation>
+        <translation>搜索：</translation>
     </message>
     <message>
         <source>All accounts</source>
@@ -6180,7 +6184,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>%1 of %2 matches</source>
-        <translation>%2里有%1个匹配</translation>
+        <translation>%2 个中 %1 个匹配</translation>
     </message>
     <message>
         <source>No matches were found</source>
@@ -6191,11 +6195,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>HistoryImport</name>
     <message>
         <source>Status:</source>
-        <translation>状态:</translation>
+        <translation>状态：</translation>
     </message>
     <message>
         <source>Progress:</source>
-        <translation>程序:</translation>
+        <translation>进度：</translation>
     </message>
     <message>
         <source>Ok</source>
@@ -6207,7 +6211,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Import</source>
-        <translation>输入</translation>
+        <translation>导入</translation>
     </message>
     <message>
         <source>Error</source>
@@ -6220,7 +6224,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Found %1 files for import.
 Continue?</source>
-        <translation>找到导入的%1个文件。
+        <translation>找到 %1 个要导入的文件。
 继续？</translation>
     </message>
     <message>
@@ -6236,7 +6240,7 @@ Continue?</source>
     </message>
     <message>
         <source>Remove history for contacts:</source>
-        <translation>删除联系人历史</translation>
+        <translation>移除联系人的历史记录：</translation>
     </message>
     <message>
         <source>Clear history on exit</source>
@@ -6244,17 +6248,17 @@ Continue?</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="vanished">作者:</translation>
+        <translation type="vanished">作者：</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="vanished">邮件:</translation>
+        <translation type="vanished">电子邮件：</translation>
     </message>
     <message>
         <source>This plugin is designed to remove the history of selected contacts when the Psi is closed.
 You can select or deselect a contact for history removal from the context menu of a contact or via the plugin options.</source>
-        <translation>该插件的目的是当Psi+关闭时，移除所选联系人的历史记录。
-你可以从联系人的右键菜单中或插件选项选择或取消选择一个联系人的历史记录。</translation>
+        <translation>此插件用于在 Psi 关闭时移除所选联系人的历史记录。
+您可以从联系人的右键菜单或通过插件选项选择或取消选择要删除历史记录的联系人。</translation>
     </message>
 </context>
 <context>
@@ -6268,14 +6272,14 @@ You can select or deselect a contact for history removal from the context menu o
     <name>HttpAuthEvent</name>
     <message>
         <source>HTTP Authentication Request</source>
-        <translation>HTTP 验证要求</translation>
+        <translation>HTTP 身份验证请求</translation>
     </message>
 </context>
 <context>
     <name>HttpConnect</name>
     <message>
         <source>Authentication failed</source>
-        <translation>验证失败</translation>
+        <translation>身份验证失败</translation>
     </message>
     <message>
         <source>Host not found</source>
@@ -6283,7 +6287,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Access denied</source>
-        <translation>存取被拒绝</translation>
+        <translation>访问被拒绝</translation>
     </message>
     <message>
         <source>Connection refused</source>
@@ -6298,7 +6302,7 @@ You can select or deselect a contact for history removal from the context menu o
     <name>HttpProxyGetStream</name>
     <message>
         <source>Authentication failed</source>
-        <translation>验证失败</translation>
+        <translation>身份验证失败</translation>
     </message>
     <message>
         <source>Host not found</source>
@@ -6306,7 +6310,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Access denied</source>
-        <translation>存取被拒绝</translation>
+        <translation>访问被拒绝</translation>
     </message>
     <message>
         <source>Connection refused</source>
@@ -6321,7 +6325,7 @@ You can select or deselect a contact for history removal from the context menu o
     <name>HttpProxyPost</name>
     <message>
         <source>Authentication failed</source>
-        <translation>验证失败</translation>
+        <translation>身份验证失败</translation>
     </message>
     <message>
         <source>Host not found</source>
@@ -6360,7 +6364,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Authors: </source>
-        <translation>作者:</translation>
+        <translation>作者：</translation>
     </message>
     <message>
         <source>Image preview width</source>
@@ -6376,7 +6380,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>JPEG quality</source>
-        <translation>JPEG质量</translation>
+        <translation>JPEG 质量</translation>
     </message>
     <message>
         <source>Please wait</source>
@@ -6384,7 +6388,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Another upload operation is already in progress. Please wait up to %1 sec for it to complete or fail.</source>
-        <translation>其他上传操作正在进行。请等待%1秒让它完成或失败。</translation>
+        <translation>另一项上传操作正在进行中。请等待最多 %1 秒以完成或失败。</translation>
     </message>
     <message>
         <source>Not supported</source>
@@ -6404,19 +6408,19 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Error opening file %1</source>
-        <translation>打开文件错误 %1</translation>
+        <translation>打开文件 %1 时出错</translation>
     </message>
     <message>
         <source>The file size is too large.</source>
-        <translation>文件大小过大。</translation>
+        <translation>文件大小太大。</translation>
     </message>
     <message>
         <source>File size must be less than %1 bytes</source>
-        <translation>文件大小必须小于%1字节</translation>
+        <translation>文件大小必须小于 %1 字节</translation>
     </message>
     <message>
         <source>This plugin allows uploading images and other files via XEP-0363.</source>
-        <translation>该插件允许你通过XEP-0363上传图片和其他文件。</translation>
+        <translation>此插件允许通过 XEP-0363 上传图片和其他文件。</translation>
     </message>
     <message>
         <source>Error requesting slot</source>
@@ -18483,7 +18487,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>In progress</source>
-        <translation>处理中</translation>
+        <translation>正在进行中</translation>
     </message>
     <message>
         <source>Terminated</source>
@@ -20145,7 +20149,7 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Progress: </source>
-        <translation>进展：</translation>
+        <translation>进度：</translation>
     </message>
     <message>
         <source>Elapsed time: </source>
@@ -20192,7 +20196,7 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Progress:</source>
-        <translation>进展：</translation>
+        <translation>进度：</translation>
     </message>
     <message>
         <source>Elapsed time:</source>
