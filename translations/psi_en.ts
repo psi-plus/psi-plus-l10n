@@ -13824,6 +13824,10 @@ Reason: %1.</translation>
         <source>Receive next pending event.</source>
         <translation>Receive next pending event.</translation>
     </message>
+    <message>
+        <source>Use software widgets rendering. In some cases default hardware rendering may lead to graphical glitches and crashes. This option may help.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiCon</name>
