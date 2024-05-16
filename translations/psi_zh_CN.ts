@@ -1211,7 +1211,7 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;要添加 &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; 用户，只需在底部填写 XMPP 地址（以及可选的昵称和组），然后按&lt;span style=&quot; font-style:italic;&quot;&gt;添加&lt;/span&gt;。&lt;br /&gt;&lt;br /&gt;要添加&lt;span style=&quot; font-weight:600;&quot;&gt;非 XMPP&lt;/span&gt; 服务中的联系人，请确保首先在服务中注册（请查看主菜单中的服务发现），然后从顶部的框中选择服务。按照&lt;span style=&quot; font-style:italic;&quot;&gt;服务 ID 转换&lt;/span&gt;框中的说明，然后按&lt;span style=&quot; font-style:italic;&quot;&gt;获取 XMPP 地址&lt;/span&gt;按钮生成联系人的 XMPP 地址。&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;要添加 &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; 用户，只需在底部填写 XMPP 地址（以及可选的昵称和群组），然后按&lt;span style=&quot; font-style:italic;&quot;&gt;添加&lt;/span&gt;。&lt;br /&gt;&lt;br /&gt;要添加&lt;span style=&quot; font-weight:600;&quot;&gt;非 XMPP&lt;/span&gt; 服务中的联系人，请确保首先在服务中注册（请查看主菜单中的服务发现），然后从顶部的框中选择服务。按照&lt;span style=&quot; font-style:italic;&quot;&gt;服务 ID 转换&lt;/span&gt;框中的说明，然后按&lt;span style=&quot; font-style:italic;&quot;&gt;获取 XMPP 地址&lt;/span&gt;按钮生成联系人的 XMPP 地址。&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Service:</source>
@@ -1239,7 +1239,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Group:</source>
-        <translation>组：</translation>
+        <translation>群组：</translation>
     </message>
     <message>
         <source>Resolve</source>
@@ -1442,8 +1442,8 @@ There was an error getting the Service ID translation information from &quot;%1&
     <message>
         <source>This plugin is designed to send and receive special messages such as Attentions.
 To work correctly, the plugin requires that the client of the other part supports XEP-0224 (for example: Pidgin, Miranda IM with Nudge plugin).</source>
-        <translation>该插件的目的是发送和接收特殊的消息，如“注意”等。
-为了正确工作，插件要求对方的客户端支持 XEP-0224（例如：Pidgin, Miranda IM 的 Nudge 插件）。</translation>
+        <translation>此插件旨在发送和接收特殊的消息，如“注意”等。
+为了正常工作，插件要求对方的客户端支持 XEP-0224（例如：Pidgin、Miranda IM 的 Nudge 插件）。</translation>
     </message>
 </context>
 <context>
@@ -1960,7 +1960,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Subject Details:</source>
-        <translation>话题详细信息：</translation>
+        <translation>主题详细信息：</translation>
     </message>
     <message>
         <source>Issuer Details:</source>
@@ -2201,7 +2201,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Subject:</source>
-        <translation>话题：</translation>
+        <translation>主题：</translation>
     </message>
     <message>
         <source>URL:</source>
@@ -2580,7 +2580,7 @@ You can preview items before deleting them from your hard drive.</source>
     </message>
     <message>
         <source>Domain</source>
-        <translation>域</translation>
+        <translation>域名</translation>
     </message>
     <message>
         <source>Size</source>
@@ -2903,7 +2903,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Send Message to Group</source>
-        <translation>发送消息到群组</translation>
+        <translation>发送邮件到群组</translation>
     </message>
     <message>
         <source>Hide All</source>
@@ -2929,7 +2929,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation>这将导致此群组中的所有联系人与此群组解除关联。
+        <translation>这将导致此群组中的所有联系人与群组解除关联。
 
 是否继续？</translation>
     </message>
@@ -2964,7 +2964,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Field</source>
-        <translation>领域</translation>
+        <translation>字段</translation>
     </message>
     <message>
         <source>Action</source>
@@ -2976,7 +2976,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Message</source>
-        <translation>消息</translation>
+        <translation>邮件</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -3000,7 +3000,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Move to group</source>
-        <translation>移动到分组</translation>
+        <translation>移动到群组</translation>
     </message>
     <message>
         <source>Export</source>
@@ -3024,7 +3024,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Are you sure want to delete selected contacts?</source>
-        <translation>是否确定要删除已选的联系人？</translation>
+        <translation>是否确定要删除所选联系人？</translation>
     </message>
     <message>
         <source>Invalid</source>
@@ -3064,7 +3064,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Nothing to do..</source>
-        <translation>无事可做..</translation>
+        <translation>无事可做…</translation>
     </message>
     <message>
         <source>No contacts found in file %1</source>
@@ -3095,7 +3095,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Domain</source>
-        <translation>域</translation>
+        <translation>域名</translation>
     </message>
     <message>
         <source>Subscription</source>
@@ -3170,7 +3170,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Choose parent group: </source>
-        <translation type="vanished">选择父群组：</translation>
+        <translation type="vanished">选择父级群组：</translation>
     </message>
 </context>
 <context>
@@ -3575,11 +3575,11 @@ Supports per contact on / off message enumeration via the buttons on the chats t
     </message>
     <message>
         <source>To:</source>
-        <translation>至：</translation>
+        <translation>收件人：</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation>来自：</translation>
+        <translation>发件人：</translation>
     </message>
     <message>
         <source>Type:</source>
@@ -3587,7 +3587,7 @@ Supports per contact on / off message enumeration via the buttons on the chats t
     </message>
     <message>
         <source>Normal</source>
-        <translation>正常</translation>
+        <translation>普通</translation>
     </message>
     <message>
         <source>Chat</source>
@@ -3603,7 +3603,7 @@ Supports per contact on / off message enumeration via the buttons on the chats t
     </message>
     <message>
         <source>Message length</source>
-        <translation>消息长度</translation>
+        <translation>邮件长度</translation>
     </message>
     <message>
         <source>Toggle encryption</source>
@@ -3623,7 +3623,7 @@ Supports per contact on / off message enumeration via the buttons on the chats t
     </message>
     <message>
         <source>Subject:</source>
-        <translation>话题：</translation>
+        <translation>主题：</translation>
     </message>
     <message>
         <source>Transaction &amp;identifier:</source>
@@ -3781,7 +3781,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <name>EventNotifierAction</name>
     <message>
         <source>&lt;Event notifier&gt;</source>
-        <translation type="vanished">&lt;Event notifier&gt;</translation>
+        <translation type="vanished">&lt;事件通知程序&gt;</translation>
     </message>
 </context>
 <context>
@@ -4035,11 +4035,11 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Show groups</source>
-        <translation>显示组</translation>
+        <translation>显示群组</translation>
     </message>
     <message>
         <source>Use slim group heading</source>
-        <translation>使用精简组标题</translation>
+        <translation>使用精简群组标题</translation>
     </message>
     <message>
         <source>Show status icons</source>
@@ -5068,7 +5068,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation>发送消息(&amp;M)</translation>
+        <translation>发送邮件(&amp;M)</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
@@ -7033,7 +7033,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>View names</source>
-        <translation>视图名称</translation>
+        <translation>查看名字</translation>
     </message>
     <message>
         <source>Open web browser</source>
@@ -7433,7 +7433,7 @@ caching avatars will be not available</source>
     </message>
     <message>
         <source>Send personal message to %1</source>
-        <translation>发送私信给 %1</translation>
+        <translation>发送个人消息给 %1</translation>
     </message>
     <message>
         <source>Subscribe to %1&apos;s blog</source>
@@ -7870,7 +7870,7 @@ Reason: %1</source>
     <name>MainWin</name>
     <message>
         <source>View</source>
-        <translation>视图</translation>
+        <translation>查看</translation>
     </message>
     <message>
         <source>Status</source>
@@ -8176,7 +8176,7 @@ Details: %1</source>
     <name>MoodDlg</name>
     <message>
         <source>&lt;unset&gt;</source>
-        <translation>&lt;unset&gt;</translation>
+        <translation>&lt;未设置&gt;</translation>
     </message>
 </context>
 <context>
@@ -8577,7 +8577,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Show subject line in events</source>
-        <translation>在事件中显示话题线</translation>
+        <translation>在事件中显示主题线</translation>
     </message>
     <message>
         <source>Automatically get vCard when becoming online</source>
@@ -8597,7 +8597,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Treat incoming messages and chats as:</source>
-        <translation>将收到的消息和聊天视为：</translation>
+        <translation>将收到的邮件和聊天视为：</translation>
     </message>
     <message>
         <source>Determined by sender</source>
@@ -8605,7 +8605,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Messages</source>
-        <translation>消息</translation>
+        <translation>邮件</translation>
     </message>
     <message>
         <source>Chats</source>
@@ -8613,7 +8613,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Messages (Chats if Chatting)</source>
-        <translation>消息（聊天时为聊天）</translation>
+        <translation>邮件（如果是聊天还是聊天）</translation>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
@@ -8740,7 +8740,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Message:</source>
-        <translation>消息：</translation>
+        <translation>邮件：</translation>
     </message>
     <message>
         <source>Choose...</source>
@@ -8963,7 +8963,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation>消息(&amp;M)</translation>
+        <translation>邮件(&amp;M)</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
@@ -9116,11 +9116,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>for chats only</source>
-        <translation>仅限聊天</translation>
+        <translation>仅用于聊天</translation>
     </message>
     <message>
         <source>for mucs only</source>
-        <translation>仅限群聊</translation>
+        <translation>仅用于群聊</translation>
     </message>
     <message>
         <source>for chats and mucs separately</source>
@@ -10103,11 +10103,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Auto import a key from the message body</source>
-        <translation type="vanished">从消息正文自动导入密钥</translation>
+        <translation type="vanished">从邮件正文自动导入密钥</translation>
     </message>
     <message>
         <source>Filter the message with a key</source>
-        <translation type="vanished">使用密钥过滤消息</translation>
+        <translation type="vanished">使用密钥过滤邮件</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -10640,11 +10640,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;P&gt;Specifies how to treat incoming events:&lt;/P&gt;&lt;P&gt;&lt;B&gt;Normal&lt;/B&gt; - messages come as messages, chats come as chats.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Messages&lt;/B&gt; - All messages/chats come as messages, no matter what their original form was.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Chats&lt;/B&gt; - All messages/chats come as chats, no matter what their original form was.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;指定如何处理传入事件：&lt;/P&gt;&lt;P&gt;&lt;B&gt;正常&lt;/B&gt; - 消息是消息，聊天是聊天。&lt;/P&gt;&lt;P&gt;&lt;B&gt;消息&lt;/B&gt;- 所有消息/聊天都以消息的形式出现，无论其原始形式是什么。&lt;/P&gt; &lt;P&gt;&lt;B&gt;聊天&lt;/B&gt; - 所有消息/聊天都以聊天的形式出现，无论其原始形式是什么。&lt;/P&gt;</translation>
+        <translation>&lt;P&gt;指定如何处理传入事件：&lt;/P&gt;&lt;P&gt;&lt;B&gt;正常&lt;/B&gt; - 邮件是邮件，聊天是聊天。&lt;/P&gt;&lt;P&gt;&lt;B&gt;邮件&lt;/B&gt;- 所有邮件/聊天都以邮件的形式出现，无论其原始形式是什么。&lt;/P&gt; &lt;P&gt;&lt;B&gt;聊天&lt;/B&gt; - 所有邮件/聊天都以聊天的形式出现，无论其原始形式是什么。&lt;/P&gt;</translation>
     </message>
     <message>
         <source>Makes Psi show separate subject line in messages. Uncheck this if you want to save some screen space.</source>
-        <translation>使 Psi 在消息中显示单独的话题线。如果想节省屏幕空间，请取消选中此项。</translation>
+        <translation>让 Psi 在消息中显示单独的主题线。如果想节省屏幕空间，请取消选中此项。</translation>
     </message>
     <message>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
@@ -12096,11 +12096,11 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>@username</source>
-        <translation type="vanished">@username</translation>
+        <translation type="vanished">@用户名</translation>
     </message>
     <message>
         <source>#post_id</source>
-        <translation type="vanished">#post_id</translation>
+        <translation type="vanished">#发布_ID</translation>
     </message>
     <message>
         <source>* tag</source>
@@ -12476,7 +12476,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation>消息(&amp;M)</translation>
+        <translation>邮件(&amp;M)</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
@@ -13001,11 +13001,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Nested Groups Delimiter</source>
-        <translation type="vanished">嵌套组分隔符</translation>
+        <translation type="vanished">嵌套群组分隔符</translation>
     </message>
     <message>
         <source>Set a new delimiter of nested groups</source>
-        <translation type="vanished">给嵌套组设置新分隔符</translation>
+        <translation type="vanished">设置嵌套群组的新分隔符</translation>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
@@ -13013,7 +13013,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Server refused to resume the session (SM)</source>
-        <translation>服务器拒绝恢复会话 (SM)</translation>
+        <translation>服务器拒绝恢复会话（流管理）</translation>
     </message>
     <message>
         <source>Invalid From</source>
@@ -13060,19 +13060,19 @@ Reason: %1.</source>
     </message>
     <message>
         <source>View Groups</source>
-        <translation>查看组</translation>
+        <translation>查看群组</translation>
     </message>
     <message>
         <source>Toggle visibility of special roster groups</source>
-        <translation>切换特殊联系人列表组是否显示</translation>
+        <translation>切换特殊联系人列表群组是否显示</translation>
     </message>
     <message>
         <source>Show Roster Groups</source>
-        <translation>显示联系人列表组</translation>
+        <translation>显示联系人列表群组</translation>
     </message>
     <message>
         <source>Enable/disable groups in roster</source>
-        <translation>启用/禁用联系人列表中的组</translation>
+        <translation>启用/禁用联系人列表中的群组</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
@@ -13943,7 +13943,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation>发送消息(&amp;M)</translation>
+        <translation>发送邮件(&amp;M)</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
@@ -14313,7 +14313,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation type="vanished">事件通知器</translation>
+        <translation type="vanished">事件通知程序</translation>
     </message>
     <message>
         <source>Auto Status (idle)</source>
@@ -14411,7 +14411,7 @@ Would you like to activate that session now?</source>
     <name>PsiPopup</name>
     <message>
         <source>Subject:</source>
-        <translation>话题：</translation>
+        <translation>主题：</translation>
     </message>
     <message>
         <source> is typing...</source>
@@ -14577,7 +14577,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>&amp;Trust this domain</source>
-        <translation>信任此域(&amp;T)</translation>
+        <translation>信任此域名(&amp;T)</translation>
     </message>
     <message>
         <source>The server did not present a certificate.</source>
@@ -15033,11 +15033,11 @@ Description: </source>
     </message>
     <message>
         <source>Warning: %1 is deprecated and will be removed in the future</source>
-        <translation>警告：%1已弃用，将来将会移除</translation>
+        <translation>警告：%1 已弃用，以后将会移除</translation>
     </message>
     <message>
         <source>Please set a shortcut for &apos;Change to quick command mode&apos;, use that shortcut and enter &apos;%1&apos;.</source>
-        <translation>请设置“更改为快速命令模式”的快捷方式，使用该快捷方式并输入 &apos;%1&apos;。</translation>
+        <translation>请设置“更改为快捷命令模式”的快捷键，使用该快捷键并输入“%1”。</translation>
     </message>
     <message>
         <source>Please instead press %1 and enter &apos;%2&apos;.</source>
@@ -15405,7 +15405,7 @@ Description: </source>
     </message>
     <message>
         <source>administrator</source>
-        <translation>管理者</translation>
+        <translation>管理员</translation>
     </message>
     <message>
         <source>a member</source>
@@ -15961,11 +15961,11 @@ URL：%4
     </message>
     <message>
         <source>This computer only</source>
-        <translation>仅此计算机</translation>
+        <translation>仅此客户端</translation>
     </message>
     <message>
         <source>Except this computer</source>
-        <translation>除了此计算机</translation>
+        <translation>除了此客户端</translation>
     </message>
     <message>
         <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
@@ -16821,15 +16821,15 @@ Reason: %1</source>
     </message>
     <message>
         <source>Enable Groups</source>
-        <translation>启用组</translation>
+        <translation>启用群组</translation>
     </message>
     <message>
         <source>Event Notifier</source>
-        <translation type="vanished">事件通知器</translation>
+        <translation type="vanished">事件通知程序</translation>
     </message>
     <message>
         <source>View Groups</source>
-        <translation>查看组</translation>
+        <translation>查看群组</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
@@ -17005,7 +17005,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Change to quick command mode</source>
-        <translation>更改为快速命令模式</translation>
+        <translation>更改为快捷命令模式</translation>
     </message>
     <message>
         <source>Show last message</source>
@@ -17378,7 +17378,7 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     </message>
     <message>
         <source>Set Status for group</source>
-        <translation>设置组的状态</translation>
+        <translation>设置群组的状态</translation>
     </message>
     <message>
         <source>Status:</source>
@@ -17489,7 +17489,7 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
 * 定义正确答案情况下发送的文本消息
 * 通过弹出窗口启用通知
 * 允许在联系人历史记录中保存被屏蔽的消息
-* 定义话题的数量
+* 定义主题邮件的数量
 * 设置时间间隔，在此时间间隔后重置发送的问题数量
 * 在群聊中屏蔽私信
 * 选择对哪些等级和角色的群聊参与者禁用屏蔽消息功能
@@ -17829,7 +17829,7 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>Quick XML &gt;&gt;</source>
-        <translation>Quick XML &gt;&gt;</translation>
+        <translation>快捷 XML &gt;&gt;</translation>
     </message>
     <message>
         <source>To:</source>
@@ -17841,7 +17841,7 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation>消息(&amp;M)</translation>
+        <translation>邮件(&amp;M)</translation>
     </message>
     <message>
         <source>IQ &amp;Version</source>
@@ -18036,7 +18036,7 @@ And these work only in groupchat dialog:
         <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
 &lt;br&gt;&lt;br&gt;
 Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation>正在寻找传输或群聊，但您的服务器没有提供&lt;i&gt;任何&lt;/i&gt;合适的服务？使用 Psi 菜单-&gt;服务发现，通过在地址栏中输入其域，在任何 XMPP 服务器上查找好的服务。
+        <translation>正在寻找传输或群聊，但您的服务器没有提供&lt;i&gt;任何&lt;/i&gt;合适的服务？使用 Psi 菜单-&gt;服务发现，通过在地址栏中输入其域名，在任何 XMPP 服务器上查找好的服务。
 &lt;br&gt;&lt;br&gt;
 注意：有些服务器可能会禁用对来自不同服务器的用户的传输注册，但这还不常见。</translation>
     </message>
@@ -18648,7 +18648,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Scroll view</source>
-        <translation>滚动视图</translation>
+        <translation>滚动查看</translation>
     </message>
     <message>
         <source>Scroll</source>
@@ -18829,7 +18829,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>SM</source>
-        <translation>SM</translation>
+        <translation>流管理</translation>
     </message>
 </context>
 <context>
@@ -19692,19 +19692,19 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Disable private messaging</source>
-        <translation>禁止私信</translation>
+        <translation>禁用私人消息</translation>
     </message>
     <message>
         <source>Manually start private messaging</source>
-        <translation>手动启动私信</translation>
+        <translation>手动启用私人消息</translation>
     </message>
     <message>
         <source>Automatically start private messaging</source>
-        <translation>自动启动私信</translation>
+        <translation>自动启用私人消息</translation>
     </message>
     <message>
         <source>Require private messaging</source>
-        <translation>需要私信</translation>
+        <translation>需要私人消息</translation>
     </message>
     <message>
         <source>End session when contact goes offline</source>
