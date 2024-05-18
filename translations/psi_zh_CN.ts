@@ -444,7 +444,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Automatically connect after sleep</source>
-        <translation>休眠唤醒后自动连接</translation>
+        <translation>睡眠唤醒后自动连接</translation>
     </message>
     <message>
         <source>Restore last status</source>
@@ -7029,11 +7029,11 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Edit names</source>
-        <translation>编辑名字</translation>
+        <translation>编辑名称</translation>
     </message>
     <message>
         <source>View names</source>
-        <translation>查看名字</translation>
+        <translation>查看名称</translation>
     </message>
     <message>
         <source>Open web browser</source>
