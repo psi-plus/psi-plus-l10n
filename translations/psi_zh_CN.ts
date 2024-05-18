@@ -389,7 +389,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Not active</source>
-        <translation>非活动</translation>
+        <translation>不活动</translation>
     </message>
     <message>
         <source>Error</source>
@@ -707,11 +707,11 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Makes Psi try to connect when the computer resumes after a sleep.</source>
-        <translation>使 Psi 在计算机睡眠后恢复时尝试连接。</translation>
+        <translation>在计算机睡眠后恢复时让 Psi 尝试连接。</translation>
     </message>
     <message>
         <source>Makes Psi try to reconnect if the connection was broken.  Useful, if you have an unstable connection and have to reconnect often.</source>
-        <translation>如果连接断开，使 Psi 尝试重新连接。如果您的连接不稳定，并且必须经常重新连接，则非常有用。</translation>
+        <translation>如果连接断开，让 Psi 尝试重新连接。如果您的连接不稳定，并且必须经常重新连接，则非常有用。</translation>
     </message>
     <message>
         <source>Keep a log of message history.  Disable this option if you want to conserve disk space or if you need maximum security.</source>
@@ -727,7 +727,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
-        <translation>如果服务器支持，请选中此选项以使用到 XMPP 服务器的压缩连接。</translation>
+        <translation>如果 XMPP 服务器支持压缩连接，则选中此选项以使用压缩连接。</translation>
     </message>
     <message>
         <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
@@ -1211,7 +1211,7 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;要添加 &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; 用户，只需在底部填写 XMPP 地址（以及可选的昵称和群组），然后按&lt;span style=&quot; font-style:italic;&quot;&gt;添加&lt;/span&gt;。&lt;br /&gt;&lt;br /&gt;要添加&lt;span style=&quot; font-weight:600;&quot;&gt;非 XMPP&lt;/span&gt; 服务中的联系人，请确保首先在服务中注册（请查看主菜单中的服务发现），然后从顶部的框中选择服务。按照&lt;span style=&quot; font-style:italic;&quot;&gt;服务 ID 转换&lt;/span&gt;框中的说明，然后按&lt;span style=&quot; font-style:italic;&quot;&gt;获取 XMPP 地址&lt;/span&gt;按钮生成联系人的 XMPP 地址。&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;要添加 &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; 用户，只需在底部填写 XMPP 地址（以及可选的昵称和分组），然后按&lt;span style=&quot; font-style:italic;&quot;&gt;添加&lt;/span&gt;。&lt;br /&gt;&lt;br /&gt;要添加&lt;span style=&quot; font-weight:600;&quot;&gt;非 XMPP&lt;/span&gt; 服务中的联系人，请确保首先在服务中注册（请查看主菜单中的服务发现），然后从顶部的框中选择服务。按照&lt;span style=&quot; font-style:italic;&quot;&gt;服务 ID 转换&lt;/span&gt;框中的说明，然后按&lt;span style=&quot; font-style:italic;&quot;&gt;获取 XMPP 地址&lt;/span&gt;按钮生成联系人的 XMPP 地址。&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Service:</source>
@@ -1239,7 +1239,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Group:</source>
-        <translation>群组：</translation>
+        <translation>分组：</translation>
     </message>
     <message>
         <source>Resolve</source>
@@ -2621,7 +2621,7 @@ You can preview items before deleting them from your hard drive.</source>
     </message>
     <message>
         <source>Invert</source>
-        <translation>倒置</translation>
+        <translation>反选</translation>
     </message>
 </context>
 <context>
@@ -2674,7 +2674,7 @@ You can specify the version of the client and OS or to select them from the pres
     <name>CloseButton</name>
     <message>
         <source>Close Tab</source>
-        <translation>关闭标签</translation>
+        <translation>关闭标签页</translation>
     </message>
 </context>
 <context>
@@ -2793,7 +2793,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>New &amp;Blank Message</source>
-        <translation>新建空白消息(&amp;B)</translation>
+        <translation>新建空白邮件(&amp;B)</translation>
     </message>
     <message>
         <source>Privacy Lists</source>
@@ -2813,7 +2813,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Send Server Message</source>
-        <translation>发送服务器信息</translation>
+        <translation>发送服务器邮件</translation>
     </message>
     <message>
         <source>Set MOTD</source>
@@ -2879,31 +2879,31 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Resend Authorization to Group</source>
-        <translation>将授权重新发送给群组</translation>
+        <translation>将授权重新发送给分组</translation>
     </message>
     <message>
         <source>Request Authorization from Group</source>
-        <translation>向群组请求授权</translation>
+        <translation>向分组请求授权</translation>
     </message>
     <message>
         <source>Remove Authorization from Group</source>
-        <translation>从群组移除授权</translation>
+        <translation>从分组移除授权</translation>
     </message>
     <message>
         <source>Send Status to Group</source>
-        <translation>将状态发送到群组</translation>
+        <translation>将状态发送到分组</translation>
     </message>
     <message>
         <source>Remove Group and Contacts</source>
-        <translation>移除群组和联系人</translation>
+        <translation>移除分组和联系人</translation>
     </message>
     <message>
         <source>Remove Group</source>
-        <translation>移除群组</translation>
+        <translation>移除分组</translation>
     </message>
     <message>
         <source>Send Message to Group</source>
-        <translation>发送邮件到群组</translation>
+        <translation>发送邮件到分组</translation>
     </message>
     <message>
         <source>Hide All</source>
@@ -2929,7 +2929,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation>这将导致此群组中的所有联系人与群组解除关联。
+        <translation>这将导致此分组中的所有联系人与分组解除关联。
 
 是否继续？</translation>
     </message>
@@ -3000,7 +3000,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Move to group</source>
-        <translation>移动到群组</translation>
+        <translation>移动到分组</translation>
     </message>
     <message>
         <source>Export</source>
@@ -3087,7 +3087,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Group</source>
-        <translation>群组</translation>
+        <translation>分组</translation>
     </message>
     <message>
         <source>Node</source>
@@ -3114,7 +3114,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Invert</source>
-        <translation>倒置</translation>
+        <translation>反选</translation>
     </message>
 </context>
 <context>
@@ -3154,11 +3154,11 @@ Proceed?</source>
     <name>CreateGroupDlg</name>
     <message>
         <source>Create New Group</source>
-        <translation type="vanished">创建新群组</translation>
+        <translation type="vanished">创建新分组</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation type="vanished">输入新群组名称：</translation>
+        <translation type="vanished">输入新分组名称：</translation>
     </message>
     <message>
         <source>Add</source>
@@ -3170,7 +3170,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Choose parent group: </source>
-        <translation type="vanished">选择父级群组：</translation>
+        <translation type="vanished">选择父组：</translation>
     </message>
 </context>
 <context>
@@ -4035,11 +4035,11 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Show groups</source>
-        <translation>显示群组</translation>
+        <translation>显示分组</translation>
     </message>
     <message>
         <source>Use slim group heading</source>
-        <translation>使用精简群组标题</translation>
+        <translation>使用精简分组标题</translation>
     </message>
     <message>
         <source>Show status icons</source>
@@ -5504,7 +5504,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Show kick messages caused by some technical problems like client&apos;s connection loss for example.</source>
-        <translation>显示由一些技术问题引起的踢出消息，例如客户端的连接中断。</translation>
+        <translation>显示由一些技术问题引起的踢出信息，例如客户端的连接中断。</translation>
     </message>
     <message>
         <source>Show technical kicks</source>
@@ -5988,11 +5988,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Create New Group</source>
-        <translation>创建新群组</translation>
+        <translation>创建新分组</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation>输入新群组名称：</translation>
+        <translation>输入新分组名称：</translation>
     </message>
 </context>
 <context>
@@ -7870,7 +7870,7 @@ Reason: %1</source>
     <name>MainWin</name>
     <message>
         <source>View</source>
-        <translation>查看</translation>
+        <translation>视图</translation>
     </message>
     <message>
         <source>Status</source>
@@ -8644,15 +8644,15 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Group heading foreground:</source>
-        <translation>群组标题前景：</translation>
+        <translation>分组标题前景：</translation>
     </message>
     <message>
         <source>Specifies the background color for a group name in the main window.</source>
-        <translation>在主窗口中指定群组名称的背景色。</translation>
+        <translation>在主窗口中指定分组名称的背景色。</translation>
     </message>
     <message>
         <source>Group heading background:</source>
-        <translation>群组标题背景：</translation>
+        <translation>分组标题背景：</translation>
     </message>
     <message>
         <source>Specifies the foreground animation color for nicks.</source>
@@ -8795,7 +8795,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Slim group headings</source>
-        <translation>精简群组标题</translation>
+        <translation>精简分组标题</translation>
     </message>
     <message>
         <source>Outline headings</source>
@@ -11250,7 +11250,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Unnamed group</source>
-        <translation>未命名群组</translation>
+        <translation>未命名的组</translation>
     </message>
     <message>
         <source>Key %1</source>
@@ -12318,7 +12318,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Group</source>
-        <translation>群组</translation>
+        <translation>分组</translation>
     </message>
     <message>
         <source>Subscription</source>
@@ -13001,11 +13001,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Nested Groups Delimiter</source>
-        <translation type="vanished">嵌套群组分隔符</translation>
+        <translation type="vanished">嵌套分组分隔符</translation>
     </message>
     <message>
         <source>Set a new delimiter of nested groups</source>
-        <translation type="vanished">设置嵌套群组的新分隔符</translation>
+        <translation type="vanished">设置嵌套分组的新分隔符</translation>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
@@ -13060,19 +13060,19 @@ Reason: %1.</source>
     </message>
     <message>
         <source>View Groups</source>
-        <translation>查看群组</translation>
+        <translation>查看分组</translation>
     </message>
     <message>
         <source>Toggle visibility of special roster groups</source>
-        <translation>切换特殊联系人列表群组是否显示</translation>
+        <translation>切换特殊联系人列表分组是否显示</translation>
     </message>
     <message>
         <source>Show Roster Groups</source>
-        <translation>显示联系人列表群组</translation>
+        <translation>显示联系人列表分组</translation>
     </message>
     <message>
         <source>Enable/disable groups in roster</source>
-        <translation>启用/禁用联系人列表中的群组</translation>
+        <translation>启用/禁用联系人列表中的分组</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
@@ -13879,7 +13879,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>You need to set up an account to start. Would you like to register a new account, or use an existing account?</source>
-        <translation>您需要设置一个账号才能启动。您想注册新账号还是使用现有账号？</translation>
+        <translation>您需要设置一个账号才能开始。您想注册新账号还是使用现有账号？</translation>
     </message>
     <message>
         <source>Register new account</source>
@@ -13987,7 +13987,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation>群组(&amp;G)</translation>
+        <translation>分组(&amp;G)</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
@@ -15701,7 +15701,7 @@ URL：%4
     </message>
     <message>
         <source>If Group is &apos;%1&apos; then %2 %3</source>
-        <translation>如果群组是“%1”，则%2%3</translation>
+        <translation>如果分组是“%1”，则%2%3</translation>
     </message>
     <message>
         <source>If Subscription is &apos;%1&apos; then %2 %3</source>
@@ -16821,7 +16821,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Enable Groups</source>
-        <translation>启用群组</translation>
+        <translation>启用分组</translation>
     </message>
     <message>
         <source>Event Notifier</source>
@@ -16829,7 +16829,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>View Groups</source>
-        <translation>查看群组</translation>
+        <translation>查看分组</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
@@ -16869,7 +16869,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Status Group</source>
-        <translation>群组状态</translation>
+        <translation>分组状态</translation>
     </message>
     <message>
         <source>Status Chat</source>
@@ -17344,11 +17344,11 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     <name>SpacerAction</name>
     <message>
         <source>&lt;Spacer&gt;</source>
-        <translation>&lt;Spacer&gt;</translation>
+        <translation>&lt;空格&gt;</translation>
     </message>
     <message>
         <source>Spacer provides spacing to separate actions</source>
-        <translation>间隔提供了分隔操作的间距</translation>
+        <translation>空格为单独的操作提供间距</translation>
     </message>
 </context>
 <context>
@@ -17378,7 +17378,7 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     </message>
     <message>
         <source>Set Status for group</source>
-        <translation>设置群组的状态</translation>
+        <translation>设置分组的状态</translation>
     </message>
     <message>
         <source>Status:</source>
@@ -18227,7 +18227,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
     </message>
     <message>
         <source>Send message to</source>
-        <translation>发送信息到</translation>
+        <translation>发送消息到</translation>
     </message>
     <message>
         <source>Chat with</source>
@@ -18458,7 +18458,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Invert</source>
-        <translation>倒置</translation>
+        <translation>反选</translation>
     </message>
 </context>
 <context>
@@ -19381,7 +19381,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>%1 does not seem to support OMEMO, disabling for the entire group!</source>
-        <translation>%1 似乎不支持 OMEMO，对整个组禁用！</translation>
+        <translation>%1 似乎不支持 OMEMO，对整个群聊禁用！</translation>
     </message>
     <message>
         <source>You received a message encrypted with OMEMO but your client doesn&apos;t support OMEMO or its support is currently disabled.</source>
@@ -19400,7 +19400,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>OMEMO encryption is not available for this group</source>
-        <translation>此群组无法使用 OMEMO 加密</translation>
+        <translation>此群聊无法使用 OMEMO 加密</translation>
     </message>
     <message>
         <source>OMEMO encryption is not available for this contact</source>
