@@ -4163,7 +4163,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Popup border color:</source>
-        <translation>弹出边框颜色：</translation>
+        <translation>弹窗边框颜色：</translation>
     </message>
     <message>
         <source>Link color:</source>
@@ -4283,11 +4283,11 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Disable popup notifications if status is DND</source>
-        <translation>如果状态是“请勿打扰”，禁用弹出通知</translation>
+        <translation>如果状态是“请勿打扰”，禁用弹窗通知</translation>
     </message>
     <message>
         <source>Disable popup notifications if status is Away</source>
-        <translation>如果状态是“离开”，禁用弹出通知</translation>
+        <translation>如果状态是“离开”，禁用弹窗通知</translation>
     </message>
     <message>
         <source>Notifications</source>
@@ -8752,7 +8752,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Popup:</source>
-        <translation>弹出：</translation>
+        <translation>弹窗：</translation>
     </message>
     <message>
         <source>Highlight:</source>
@@ -9210,11 +9210,11 @@ Reason: %1.</source>
     <name>OptPopups</name>
     <message>
         <source>OptPopupsUI</source>
-        <translation>选择弹出窗口用户界面</translation>
+        <translation>选择弹窗用户界面</translation>
     </message>
     <message>
         <source>Enable popup notifications</source>
-        <translation>启用弹出通知</translation>
+        <translation>启用弹窗通知</translation>
     </message>
     <message>
         <source>Notifications type</source>
@@ -9226,7 +9226,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Popup notifications</source>
-        <translation>弹出通知</translation>
+        <translation>弹窗通知</translation>
     </message>
     <message>
         <source>On incoming message event</source>
@@ -9234,7 +9234,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Show incoming message on popup</source>
-        <translation>在弹出窗口中显示收到的消息</translation>
+        <translation>在弹窗中显示收到的消息</translation>
     </message>
     <message>
         <source>On incoming headline event</source>
@@ -9262,7 +9262,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Enable popup notifications for every muc message</source>
-        <translation>为每条群聊消息启用弹出通知</translation>
+        <translation>为每条群聊消息启用弹窗通知</translation>
     </message>
     <message>
         <source>Limitations</source>
@@ -9286,11 +9286,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Show popups from top to bottom</source>
-        <translation>从上到下显示弹出窗口</translation>
+        <translation>从上到下显示弹窗</translation>
     </message>
     <message>
         <source>Place popups at left</source>
-        <translation>将弹出窗口放在左侧</translation>
+        <translation>将弹窗放在左侧</translation>
     </message>
     <message>
         <source>Misc</source>
@@ -9889,7 +9889,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Don&apos;t hide popup if status is Away or XA</source>
-        <translation>如果状态为离开或延长离开，则不要隐藏弹出窗口</translation>
+        <translation>如果状态为离开或延长离开，则不要隐藏弹窗</translation>
     </message>
     <message>
         <source>Disable notifications if status is DND</source>
@@ -10119,11 +10119,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Per contact delay between the popup notifications of the same events</source>
-        <translation>同一事件的弹出通知之间每个联系人的延迟时间</translation>
+        <translation>同一事件的弹窗通知之间每个联系人的延迟时间</translation>
     </message>
     <message>
         <source>Delay between popups</source>
-        <translation>弹出窗口之间的延迟时间</translation>
+        <translation>弹窗之间的延迟时间</translation>
     </message>
     <message>
         <source>seconds</source>
@@ -10131,7 +10131,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Disable popups if status is DND</source>
-        <translation>如果状态是请勿打扰，则禁用弹出窗口</translation>
+        <translation>如果状态是请勿打扰，则禁用弹窗</translation>
     </message>
     <message>
         <source>Enable notifications for:</source>
@@ -10702,7 +10702,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Specifies the font style for popup windows.</source>
-        <translation>指定弹出窗口的字体样式。</translation>
+        <translation>指定弹窗的字体样式。</translation>
     </message>
     <message>
         <source>Selects a font for the roster window using the font selection dialog.</source>
@@ -11182,11 +11182,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabPopups</name>
     <message>
         <source>Popups</source>
-        <translation>弹出窗口</translation>
+        <translation>弹窗</translation>
     </message>
     <message>
         <source>The popups behaviour</source>
-        <translation>弹出窗口的行为</translation>
+        <translation>弹窗的行为</translation>
     </message>
 </context>
 <context>
@@ -11564,7 +11564,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Show popup at version iq</source>
-        <translation type="vanished">在 IQ 版本显示弹出窗口</translation>
+        <translation type="vanished">在 IQ 版本显示弹窗</translation>
     </message>
     <message>
         <source>never</source>
@@ -11857,7 +11857,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>This plugin shows popup notifications when users from your roster changes their mood, tune or activity.</source>
-        <translation>当您的联系人列表中的用户改变其心情、音乐或活动时，此插件显示弹出通知。</translation>
+        <translation>当您的联系人列表中的用户改变其心情、音乐或活动时，此插件显示弹窗通知。</translation>
     </message>
 </context>
 <context>
@@ -17487,7 +17487,7 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
 * 定义安全问题和答案
 * 定义一组规则，定义是否为联系人触发插件
 * 定义正确答案情况下发送的文本消息
-* 通过弹出窗口启用通知
+* 通过弹窗启用通知
 * 允许在联系人历史记录中保存被屏蔽的消息
 * 定义主题邮件的数量
 * 设置时间间隔，在此时间间隔后重置发送的问题数量
@@ -18022,7 +18022,7 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will &quot;perform the default action&quot; on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
-        <translation>您是否知道单击中键（3 键鼠标上的鼠标中键）将对 Psi 中的许多对象“执行默认操作”？尝试在联系人或弹出窗口上单击鼠标中键。</translation>
+        <translation>您是否知道单击中键（3 键鼠标上的鼠标中键）将对 Psi 中的许多对象“执行默认操作”？尝试在联系人或弹窗上单击鼠标中键。</translation>
     </message>
     <message>
         <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
@@ -18569,7 +18569,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
 On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
         <translation>此插件旨在监测特定联系人列表中联系人的状态，以及替换收到消息的标准声音。
-在第一个标签，设置一个联系人列表，以监测其状态。当此类联系人的状态更改时，将显示一个弹出窗口，当状态更改为在线时，可以播放自定义声音。在第二个标签是配置的项目列表，消息正在被监测。每个元素都可以包含一个正则表达式，用于检查与消息到达的 JID 的匹配，一个用于检查与收到消息的文本的匹配的正则表达式列表，在某些巧合的情况下将播放的声音文件的路径，以及是否始终播放声音的设置，即使全局声音关闭。</translation>
+在第一个标签，设置一个联系人列表，以监测其状态。当此类联系人的状态更改时，将显示一个弹窗，当状态更改为在线时，可以播放自定义声音。在第二个标签是配置的项目列表，消息正在被监测。每个元素都可以包含一个正则表达式，用于检查与消息到达的 JID 的匹配，一个用于检查与收到消息的文本的匹配的正则表达式列表，在某些巧合的情况下将播放的声音文件的路径，以及是否始终播放声音的设置，即使全局声音关闭。</translation>
     </message>
 </context>
 <context>
