@@ -19,7 +19,7 @@ Actions=SelectProfile;
 
 
 # Translations
-Comment[zh_CN]=通过XMPP网络进行通信
-GenericName[zh_CN]=XMPP 客户端
 Name[zh_CN]=Psi
+GenericName[zh_CN]=XMPP 客户端
+Comment[zh_CN]=通过 XMPP 网络进行交流
 Icon[zh_CN]=psi

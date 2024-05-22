@@ -5,7 +5,7 @@
     <name>@default</name>
     <message>
         <source>language_name</source>
-        <translation>中文（简体，中国）</translation>
+        <translation>中文（简体）</translation>
     </message>
 </context>
 <context>
@@ -70,7 +70,7 @@
     </message>
     <message>
         <source>About Psi+</source>
-        <translation>关于Psi +</translation>
+        <translation>关于 Psi+</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -90,55 +90,55 @@
     </message>
     <message>
         <source>Active project members are presents below:</source>
-        <translation>活跃项目成员如下:</translation>
+        <translation>活跃的项目成员如下：</translation>
     </message>
     <message>
         <source>Founder, Patcher and MS Windows Packager</source>
-        <translation type="vanished">创始人、修补程序和 MS Windows 程序</translation>
+        <translation type="vanished">创始人、补丁作者和 MS Windows 版本维护者</translation>
     </message>
     <message>
         <source>Founder and Lead Patcher</source>
-        <translation>创始人兼首席补丁</translation>
+        <translation>创始人兼首席补丁作者</translation>
     </message>
     <message>
         <source>Founder, Designer and Patcher</source>
-        <translation type="vanished">创始人、设计师和修补程序</translation>
+        <translation type="vanished">创始人、设计师和补丁作者</translation>
     </message>
     <message>
         <source>Lead Patcher and Plugins Writer; Mac OS X Packager</source>
-        <translation type="vanished">首席修补程序和插件编写者； Mac OS X 程序</translation>
+        <translation type="vanished">首席补丁作者和插件作者、Mac OS X 版本维护者</translation>
     </message>
     <message>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
-        <translation type="vanished">修补程序、插件编写器和 Fedora 程序</translation>
+        <translation type="vanished">补丁作者、插件作者和 Fedora 版本维护者</translation>
     </message>
     <message>
         <source>Patcher and Plugins Writer</source>
-        <translation>修补程序和插件编写</translation>
+        <translation>补丁作者和插件作者</translation>
     </message>
     <message>
         <source>Patcher and Ubuntu Packager</source>
-        <translation type="vanished">修补程序和 Ubuntu 程序</translation>
+        <translation type="vanished">补丁作者和 Ubuntu 版本维护者</translation>
     </message>
     <message>
         <source>Ubuntu Packager</source>
-        <translation type="vanished">Ubuntu 程序</translation>
+        <translation type="vanished">Ubuntu 版本维护者</translation>
     </message>
     <message>
         <source>Mandriva Linux Packager</source>
-        <translation type="vanished">Mandriva Linux 程序</translation>
+        <translation type="vanished">Mandriva Linux 版本维护者</translation>
     </message>
     <message>
         <source>Patcher and Russian localization</source>
-        <translation type="vanished">修补程序和俄语本地化</translation>
+        <translation type="vanished">补丁作者和俄语本地化</translation>
     </message>
     <message>
         <source>Psimedia Patcher and Wiki English localization</source>
-        <translation>Psimedia 修补程序和维基英语本地化</translation>
+        <translation>Psimedia 补丁作者和 Wiki 英语本地化</translation>
     </message>
     <message>
         <source>Language coordinator; Debian Packager</source>
-        <translation type="vanished">语言协调员；Debian 程序</translation>
+        <translation type="vanished">语言协调员、Debian 版本维护者</translation>
     </message>
     <message>
         <source>Former language coordinator, miscellaneous assistance</source>
@@ -158,19 +158,19 @@
     </message>
     <message>
         <source>Original Mac Port</source>
-        <translation>原始 Mac 端口</translation>
+        <translation>原始 Mac 移植</translation>
     </message>
     <message>
         <source>Mac OS X Port</source>
-        <translation>Mac OS X 端口</translation>
+        <translation>Mac OS X 移植</translation>
     </message>
     <message>
         <source>Original End User Documentation</source>
-        <translation>原始终端用户文档</translation>
+        <translation>原始最终用户文档</translation>
     </message>
     <message>
         <source>Webmaster, Marketing</source>
-        <translation>网络管理员、市场营销</translation>
+        <translation>网站管理员、营销</translation>
     </message>
     <message>
         <source>Bug Tracker Management</source>
@@ -202,10 +202,9 @@
 Join the translation team today! Go to 
 &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
 https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
-        <translation>翻译:&lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;匿名&lt;br&gt;
-现在加入翻译团队! 到 &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; 获取更多信息!
-</translation>
+        <translation>简体中文翻译团队
+
+现在加入翻译团队！请访问 &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; 了解更多详细信息！</translation>
     </message>
     <message>
         <source>Original Author</source>
@@ -233,47 +232,47 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Language coordinator, macOS port, miscellaneous assistance</source>
-        <translation>语言协调员、macOS 接口、其他协助</translation>
+        <translation>语言协调员、macOS 移植、其他协助</translation>
     </message>
     <message>
         <source>Founder, Patcher and former MS Windows Packager</source>
-        <translation>创办者、修补者和前 MS Windows 打包者</translation>
+        <translation>创始人、补丁作者和前 MS Windows 版本维护者</translation>
     </message>
     <message>
         <source>Founder, Patcher and former Designer</source>
-        <translation>创办者、修补者和前设计师</translation>
+        <translation>创始人、补丁作者和前设计师</translation>
     </message>
     <message>
         <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
-        <translation>领导修补者和插件作者；前 macOS 打包者</translation>
+        <translation>首席补丁作者和插件作者、前 macOS 版本维护者</translation>
     </message>
     <message>
         <source>Language coordinator; Patcher; Debian and Ubuntu Packager; MS Windows and macOS Packager</source>
-        <translation>语言协调员；修补者；Debian 和 Ubuntu 打包者；MS Windows 和 macOS 打包者</translation>
+        <translation>语言协调员、补丁作者、Debian 和 Ubuntu 版本维护者、MS Windows 和 macOS 版本维护者</translation>
     </message>
     <message>
         <source>Patcher and Plugins Writer; MS Windows Packager</source>
-        <translation>修补者和插件作者；MS Windows 打包者</translation>
+        <translation>补丁作者和插件作者、MS Windows 版本维护者</translation>
     </message>
     <message>
         <source>Patcher and Plugins Writer; former Fedora Packager</source>
-        <translation>修补者和插件作者；前 Fedora 打包者</translation>
+        <translation>补丁作者和插件作者、前 Fedora 版本维护者</translation>
     </message>
     <message>
         <source>Patcher and former Ubuntu Packager</source>
-        <translation>修补者和前 Ubuntu 打包者</translation>
+        <translation>补丁作者和前 Ubuntu 版本维护者</translation>
     </message>
     <message>
         <source>former Ubuntu Packager</source>
-        <translation>前 Ubuntu 打包者</translation>
+        <translation>前 Ubuntu 版本维护者</translation>
     </message>
     <message>
         <source>former Mandriva Linux Packager</source>
-        <translation>前 Mandriva Linux 打包者</translation>
+        <translation>前 Mandriva Linux 版本维护者</translation>
     </message>
     <message>
         <source>Patcher and former Russian translator</source>
-        <translation>修补者和前俄语翻译</translation>
+        <translation>补丁作者和前俄语翻译</translation>
     </message>
     <message>
         <source>About Psi</source>
@@ -294,7 +293,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <source>&lt;qt&gt;Please choose a friendly &lt;b&gt;Name&lt;/b&gt; that Psi can use to refer to this account.&lt;br&gt;
 &lt;br&gt;
 Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to try and create an account for you on a remote server.  If you are adding an existing XMPP account then leave this box unchecked.</source>
-        <translation>&lt;qt&gt;请选择一个友好的&lt;b&gt;名称&lt;/b&gt;，Psi 将使用它代表本账号&lt;br&gt;
+        <translation>&lt;qt&gt;请选择一个易记的&lt;b&gt;名称&lt;/b&gt;，Psi 将使用它代表本账号&lt;br&gt;
 &lt;br&gt;
 如果您希望 Psi 尝试在远程服务器上为您创建账号，请选中&lt;b&gt;注册新账号&lt;/b&gt;复选框。如果您正在添加一个现有的 XMPP 账号，请不选中此框。</translation>
     </message>
@@ -3316,7 +3315,7 @@ Proceed?</source>
     </message>
     <message>
         <source>&amp;Add to roster</source>
-        <translation>添加到通讯录(&amp;A)</translation>
+        <translation>添加到联系人列表(&amp;A)</translation>
     </message>
     <message>
         <source>Query version</source>
@@ -5160,7 +5159,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Encryption is disabled</source>
-        <translation>加密已关闭</translation>
+        <translation>加密已禁用</translation>
     </message>
     <message>
         <source>%1 encryption is enabled</source>
@@ -8203,11 +8202,11 @@ Details: %1</source>
     </message>
     <message>
         <source>&amp;General</source>
-        <translation>&amp;通用</translation>
+        <translation>通用(&amp;G)</translation>
     </message>
     <message>
         <source>&amp;Profile</source>
-        <translation>&amp;概述</translation>
+        <translation>概述(&amp;P)</translation>
     </message>
 </context>
 <context>
@@ -8573,7 +8572,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>XMPP address completion</source>
-        <translation>XMPP 地址完成</translation>
+        <translation>XMPP 地址补全</translation>
     </message>
     <message>
         <source>Show subject line in events</source>
@@ -9881,7 +9880,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Allow receiving one Attention from the same contact every</source>
-        <translation>允许每次从相同的联系人处接受同一个晃动窗口</translation>
+        <translation>允许每次从同一联系人处接收一个“注意”。</translation>
     </message>
     <message>
         <source>sec</source>
@@ -10103,11 +10102,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Auto import a key from the message body</source>
-        <translation type="vanished">从邮件正文自动导入密钥</translation>
+        <translation type="vanished">从消息正文自动导入密钥</translation>
     </message>
     <message>
         <source>Filter the message with a key</source>
-        <translation type="vanished">使用密钥过滤邮件</translation>
+        <translation type="vanished">使用密钥过滤消息</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -10477,7 +10476,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Automatically import PGP key from the message body</source>
-        <translation>自动从消息正文导入 PGP 密钥</translation>
+        <translation>从消息正文自动导入 PGP 密钥</translation>
     </message>
     <message>
         <source>Do not show messages with PGP keys</source>
@@ -10632,7 +10631,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enables as-you-type JID autocompletion in message dialog.</source>
-        <translation>在消息对话框中启用按照 JID 自动完成功能。</translation>
+        <translation>在消息对话框中启用按照 JID 自动补全功能。</translation>
     </message>
     <message>
         <source>Automatically attaches URLs from clipboard to the messages when enabled</source>
@@ -13384,7 +13383,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>&amp;Wiki (Online)</source>
-        <translation>Wiki (在线) (&amp;W)</translation>
+        <translation>Wiki (在线)(&amp;W)</translation>
     </message>
     <message>
         <source>Home Page (Online)</source>
@@ -13392,7 +13391,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>&amp;Home Page (Online)</source>
-        <translation>主页 (在线) (&amp;H)</translation>
+        <translation>主页 (在线)(&amp;H)</translation>
     </message>
     <message>
         <source>Psi+ Forum (Online)</source>
@@ -16247,7 +16246,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Attention interval: </source>
-        <translation type="vanished">注意间隔：</translation>
+        <translation type="vanished">“注意”间隔：</translation>
     </message>
 </context>
 <context>
@@ -16693,7 +16692,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>&lt;separator&gt;</source>
-        <translation>&lt;separator&gt;</translation>
+        <translation>&lt;分隔符&gt;</translation>
     </message>
     <message>
         <source>Edit template</source>
@@ -16735,7 +16734,7 @@ Reason: %1</source>
     <name>SeparatorAction</name>
     <message>
         <source>&lt;Separator&gt;</source>
-        <translation type="vanished">&lt;Separator&gt;</translation>
+        <translation type="vanished">&lt;分隔符&gt;</translation>
     </message>
     <message>
         <source>Separator</source>
@@ -17837,7 +17836,7 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>&amp;IM Session</source>
-        <translation>IM 会话(&amp;&amp;I)</translation>
+        <translation>IM 会话(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Message</source>
@@ -18042,7 +18041,7 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
-        <translation>如果您经常在群聊中聊天，昵称完成是一个很好的功能。最有用的快捷方式是 &lt;tt&gt;Tab 键&lt;/tt&gt;；当在新行的开头或一步之后使用时，它会插入最后一个直接对您讲话的人的昵称。然后您可以继续按 &lt;tt&gt;Tab 键&lt;/tt&gt;，它会在群聊中所有人的昵称上循环。&lt;br/&gt;&lt;br/&gt;对于一个更复杂的场景：&lt;tt&gt;mblsha&lt;/tt&gt;、&lt;tt&gt;Monster&lt;/tt&gt; 和 &lt;tt&gt;mbl-revolution&lt;/tt&gt; 都坐在同一个房间里。如果您写 &lt;tt&gt;m&lt;/tt&gt; 并按 &lt;tt&gt;Tab 键&lt;/tt&gt;，它不会导致任何明显的操作。这是因为有多个以 &lt;tt&gt;m&lt;/tt&gt; 开头的昵称，您可以继续 &lt;tt&gt;Tab&lt;/tt&gt; 循环浏览所有以 &lt;tt&gt;m&lt;/tt&gt; 开始的昵称，也可以写更多的字母，直到有一个唯一的完成。当你按下 &lt;tt&gt;b&lt;/tt&gt; 按钮，然后按下 &lt;tt&gt;Tab 键&lt;/tt&gt;，它将完成 mbl。您越是使用这个功能，就越有可能喜欢它并依赖它。试着在某人身上完成昵称，您就会意识到它有多强大。</translation>
+        <translation>如果您经常在群聊中聊天，昵称补全是一个很好的功能。最有用的快捷键是 &lt;tt&gt;Tab 键&lt;/tt&gt;；当在新行的开头或一步之后使用时，它会插入最后一个直接对您讲话的人的昵称。然后您可以继续按 &lt;tt&gt;Tab 键&lt;/tt&gt;，它会在群聊中所有人的昵称上循环。&lt;br/&gt;&lt;br/&gt;对于一个更复杂的场景：&lt;tt&gt;mblsha&lt;/tt&gt;、&lt;tt&gt;Monster&lt;/tt&gt; 和 &lt;tt&gt;mbl-revolution&lt;/tt&gt; 都在同一群聊中。如果您输入 &lt;tt&gt;m&lt;/tt&gt; 并按 &lt;tt&gt;Tab 键&lt;/tt&gt;，它不会导致任何明显的操作。这是因为有多个以 &lt;tt&gt;m&lt;/tt&gt; 开头的昵称，您可以继续 &lt;tt&gt;Tab&lt;/tt&gt; 循环浏览所有以 &lt;tt&gt;m&lt;/tt&gt; 开始的昵称，也可以写更多的字母，直到有一个唯一的补全。当你按下 &lt;tt&gt;b&lt;/tt&gt; 按钮，然后按下 &lt;tt&gt;Tab 键&lt;/tt&gt;，它将补全 mbl。您越是使用这个功能，就越有可能喜欢它并依赖它。试着补全某人的昵称，您就会意识到它有多强大。</translation>
     </message>
     <message>
         <source>This is the last tip.
