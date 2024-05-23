@@ -3886,7 +3886,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Tabs</source>
-        <translation>标签</translation>
+        <translation>标签页</translation>
     </message>
     <message>
         <source>Roster</source>
@@ -5570,11 +5570,11 @@ You lost the game.</source>
     </message>
     <message>
         <source>A natural-language name for or description of the location</source>
-        <translation>地点的自然语言名称或描述</translation>
+        <translation>位置的自然语言名称或描述</translation>
     </message>
     <message>
         <source>Error:</source>
-        <translation>错误：</translation>
+        <translation>误差：</translation>
     </message>
     <message>
         <source>Horizontal GPS error in arc minutes; this element is deprecated in favor of &lt;accuracy/&gt;</source>
@@ -5622,7 +5622,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Region:</source>
-        <translation>区域：</translation>
+        <translation>地区：</translation>
     </message>
     <message>
         <source>An administrative region of the nation, such as a state or province</source>
@@ -5646,7 +5646,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Text:</source>
-        <translation>文字：</translation>
+        <translation>文本：</translation>
     </message>
     <message>
         <source>A catch-all element that captures any other information about the location</source>
@@ -9159,7 +9159,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Tabs</source>
-        <translation>标签</translation>
+        <translation>标签页</translation>
     </message>
     <message>
         <source>Action for mouse middle click on tabs:</source>
@@ -14968,7 +14968,7 @@ Bearing: </source>
         <source>
 Error: </source>
         <translation>
-错误：</translation>
+误差：</translation>
     </message>
     <message>
         <source>
@@ -14992,7 +14992,7 @@ Postalcode: </source>
         <source>
 Region: </source>
         <translation>
-区域：</translation>
+地区：</translation>
     </message>
     <message>
         <source>
@@ -18568,7 +18568,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
 On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
         <translation>此插件旨在监测特定联系人列表中联系人的状态，以及替换收到消息的标准声音。
-在第一个标签，设置一个联系人列表，以监测其状态。当此类联系人的状态更改时，将显示一个弹窗，当状态更改为在线时，可以播放自定义声音。在第二个标签是配置的项目列表，消息正在被监测。每个元素都可以包含一个正则表达式，用于检查与消息到达的 JID 的匹配，一个用于检查与收到消息的文本的匹配的正则表达式列表，在某些巧合的情况下将播放的声音文件的路径，以及是否始终播放声音的设置，即使全局声音关闭。</translation>
+在第一个标签页，设置一个联系人列表，以监测其状态。当此类联系人的状态更改时，将显示一个弹窗，当状态更改为在线时，可以播放自定义声音。在第二个标签页是配置的项目列表，消息正在被监测。每个元素都可以包含一个正则表达式，用于检查与消息到达的 JID 的匹配，一个用于检查与收到消息的文本的匹配的正则表达式列表，在某些巧合的情况下将播放的声音文件的路径，以及是否始终播放声音的设置，即使全局声音关闭。</translation>
     </message>
 </context>
 <context>
