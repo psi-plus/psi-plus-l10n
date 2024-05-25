@@ -8704,6 +8704,22 @@ Motivo: %1.</translation>
         <source>Tooltip background:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Group chat participants:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group chat moderators:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group chat visitors:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group chat contacts without role:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptAppearanceMisc</name>

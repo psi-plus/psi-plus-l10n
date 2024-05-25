@@ -8803,6 +8803,22 @@ Reason: %1.</source>
         <source>Tooltip background:</source>
         <translation>Цвет фона подсказки:</translation>
     </message>
+    <message>
+        <source>Group chat participants:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group chat moderators:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group chat visitors:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group chat contacts without role:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptAppearanceMisc</name>
