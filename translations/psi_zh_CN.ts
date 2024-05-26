@@ -202,8 +202,8 @@
 Join the translation team today! Go to 
 &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
 https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
-        <translation>简体中文翻译团队
-
+        <translation>简体中文翻译团队&lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;br&gt;
 现在加入翻译团队！请访问 &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; 了解更多详细信息！</translation>
     </message>
     <message>
@@ -698,7 +698,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the XMPP server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
-        <translation>通常，Psi 使用&lt;i&gt;摘要&lt;/i&gt;身份验证方法登录。 选中此框可强制以纯文本方式登录 XMPP 服务器。 仅当您在正常登录过程中遇到连接问题时才使用此选项，因为它使您的连接可能容易受到攻击。</translation>
+        <translation>通常，Psi 使用 &lt;i&gt;Digest&lt;/i&gt; 身份验证方法登录。 选中此框可强制以纯文本方式登录 XMPP 服务器。 仅当您在正常登录过程中遇到连接问题时才使用此选项，因为它使您的连接可能容易受到攻击。</translation>
     </message>
     <message>
         <source>Automatically login to this account on Psi startup.  Useful if you have Psi automatically launched when an Internet connection is detected.</source>
@@ -4468,7 +4468,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>File was rejected by remote user.</source>
-        <translation>文件被远程用户拒绝。</translation>
+        <translation>远程用户拒绝了文件。</translation>
     </message>
     <message>
         <source>Unable to negotiate transfer.
@@ -4915,7 +4915,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>This room has been destroyed.</source>
-        <translation>此群聊已经被解散了。</translation>
+        <translation>已经解散了此群聊。</translation>
     </message>
     <message>
         <source>Reason: %1</source>
@@ -4935,19 +4935,19 @@ Reason: %1</source>
     </message>
     <message>
         <source>You have been banned from the room</source>
-        <translation>您已经被此群聊封禁了</translation>
+        <translation>此群聊已将您封禁了</translation>
     </message>
     <message>
         <source>You have been banned from the room by %1</source>
-        <translation>您已经被 %1 从此群聊封禁了</translation>
+        <translation>%1 从群聊中封禁了您</translation>
     </message>
     <message>
         <source>%1 has been banned</source>
-        <translation>%1 已经被封禁了</translation>
+        <translation>已封禁 %1</translation>
     </message>
     <message>
         <source>%1 has been banned by %2</source>
-        <translation>%1 已经被 %2 封禁了</translation>
+        <translation>%2 封禁了 %1</translation>
     </message>
     <message>
         <source>Kicked</source>
@@ -4955,19 +4955,19 @@ Reason: %1</source>
     </message>
     <message>
         <source>You have been kicked from the room</source>
-        <translation>您已经被踢出此群聊了</translation>
+        <translation>此群聊已将您踢出了</translation>
     </message>
     <message>
         <source>You have been kicked from the room by %1</source>
-        <translation>您已经被 %1 踢出此群聊了</translation>
+        <translation>%1 从群聊中踢出了您</translation>
     </message>
     <message>
         <source>%1 has been kicked</source>
-        <translation>%1 已经被踢出了</translation>
+        <translation>已踢出 %1</translation>
     </message>
     <message>
         <source>%1 has been kicked by %2</source>
-        <translation>%1 已经被 %2 踢出了</translation>
+        <translation>%2 踢出了 %1</translation>
     </message>
     <message>
         <source>Removed</source>
@@ -4975,35 +4975,35 @@ Reason: %1</source>
     </message>
     <message>
         <source>You have been removed from the room due to an affiliation change</source>
-        <translation>由于从属关系的更改您已经从此群聊移除了</translation>
+        <translation>由于从属关系的更改，此群聊已将您移除了</translation>
     </message>
     <message>
         <source>You have been removed from the room by %1 due to an affiliation change</source>
-        <translation>由于从属关系的更改您已经被 %1 从此群聊移除了</translation>
+        <translation>由于从属关系的更改，%1 从群聊中移除了您</translation>
     </message>
     <message>
         <source>%1 has been removed from the room due to an affilliation change</source>
-        <translation>%1 由于从属关系的更改已经从此群聊移除了</translation>
+        <translation>由于从属关系的更改，从群聊中移除了 %1</translation>
     </message>
     <message>
         <source>%1 has been removed from the room by %2 due to an affilliation change</source>
-        <translation>%1 由于从属关系的更改已经被 %2 从此群聊移除了</translation>
+        <translation>由于从属关系的更改，%2 从群聊中移除了 %1</translation>
     </message>
     <message>
         <source>You have been removed from the room because the room was made members only</source>
-        <translation>您已经从此群聊移除了, 因为此群聊是仅成员进入</translation>
+        <translation>此群聊已将您移除了，因为此群聊是仅成员进入</translation>
     </message>
     <message>
         <source>You have been removed from the room by %1 because the room was made members only</source>
-        <translation>您已经被 %1 从此群聊移除，因为此群聊是仅成员进入</translation>
+        <translation>%1 从群聊中移除了您，因为此群聊是仅成员进入</translation>
     </message>
     <message>
         <source>%1 has been removed from the room because the room was made members-only</source>
-        <translation>%1 已经从此群聊移除了，因为此群聊是仅成员进入</translation>
+        <translation>从群聊中移除了 %1，因为此群聊是仅成员进入</translation>
     </message>
     <message>
         <source>%1 has been removed from the room by %2 because the room was made members-only</source>
-        <translation>%1 已经被 %2 从此群聊移除了，因为此群聊是仅成员进入</translation>
+        <translation>%2 从群聊中移除了 %1，因为此群聊是仅成员进入</translation>
     </message>
     <message>
         <source>%1 is now known as %2</source>
@@ -5139,19 +5139,19 @@ Reason: %1</source>
     </message>
     <message>
         <source>You have been removed from the room due to technical problem</source>
-        <translation>由于技术问题您已经从此群聊移除了</translation>
+        <translation>由于技术问题，此群聊已将您移除了</translation>
     </message>
     <message>
         <source>You have been removed from the room by %1 due to technical problem</source>
-        <translation>由于技术问题您已经被 %1 从此群聊移除了</translation>
+        <translation>由于技术问题，%1 从群聊中移除了您</translation>
     </message>
     <message>
         <source>%1 has been removed from the room due to technical problem</source>
-        <translation>由于技术问题 %1 已经从此群聊移除了</translation>
+        <translation>由于技术问题，从群聊中移除了 %1</translation>
     </message>
     <message>
         <source>%1 has been removed from the room by %2 due to technical problem</source>
-        <translation>由于技术问题 %1 已经被 %2 从此群聊移除了</translation>
+        <translation>由于技术问题，%2 从群聊中移除了 %1</translation>
     </message>
     <message>
         <source>Encryption is enabled</source>
@@ -5391,15 +5391,15 @@ You lost the game.</source>
     </message>
     <message>
         <source>Enable word highlighting</source>
-        <translation type="vanished">启用文字高亮</translation>
+        <translation type="vanished">启用文字突出显示</translation>
     </message>
     <message>
         <source>Highlight lines and alert the user if this text is included in chat</source>
-        <translation>如果聊天中包含此文本，高亮显示并提醒用户</translation>
+        <translation>如果聊天中包含此文字，突出显示行并提醒用户</translation>
     </message>
     <message>
         <source>Word highlighting</source>
-        <translation>文字高亮显示</translation>
+        <translation>文字突出显示</translation>
     </message>
     <message>
         <source>Words which will cause a notification in group chat.</source>
@@ -5411,7 +5411,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Type a new word here and press &quot;Add Word&quot; for it to be added to the highlight list</source>
-        <translation>在此处输入新文字，然后按“添加文字”将其添加到高亮列表中</translation>
+        <translation>在此处输入新文字，然后按“添加文字”将其添加到突出显示列表中</translation>
     </message>
     <message>
         <source>Adds the new word to the list</source>
@@ -5423,11 +5423,11 @@ You lost the game.</source>
     </message>
     <message>
         <source>Removes the selected word from the highlight list</source>
-        <translation>从高亮列表中删除所选择的文字</translation>
+        <translation>从突出显示列表中移除所选文字</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>删除</translation>
+        <translation>移除</translation>
     </message>
     <message>
         <source>Enable nick coloring</source>
@@ -8755,7 +8755,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Highlight:</source>
-        <translation>高亮：</translation>
+        <translation>突出显示：</translation>
     </message>
     <message>
         <source>Link</source>
@@ -8783,19 +8783,19 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Group chat participants:</source>
-        <translation type="unfinished"></translation>
+        <translation>群聊参与者：</translation>
     </message>
     <message>
         <source>Group chat moderators:</source>
-        <translation type="unfinished"></translation>
+        <translation>群聊主持人：</translation>
     </message>
     <message>
         <source>Group chat visitors:</source>
-        <translation type="unfinished"></translation>
+        <translation>群聊访客：</translation>
     </message>
     <message>
         <source>Group chat contacts without role:</source>
-        <translation type="unfinished"></translation>
+        <translation>没有角色的群聊联系人：</translation>
     </message>
 </context>
 <context>
@@ -15772,7 +15772,7 @@ URL：%4
     </message>
     <message>
         <source>Groupchat highlight</source>
-        <translation>群聊高亮</translation>
+        <translation>群聊突出显示</translation>
     </message>
     <message>
         <source>Incoming Call</source>
@@ -15796,7 +15796,7 @@ URL：%4
     </message>
     <message>
         <source>[Groupchat highlight]</source>
-        <translation>[群聊高亮]</translation>
+        <translation>[群聊突出显示]</translation>
     </message>
     <message>
         <source>[Incoming Call]</source>
