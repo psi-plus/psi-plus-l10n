@@ -20076,7 +20076,7 @@ Dovresti autenticare anche %1 ponendo la tua domanda.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows one to use it for protecting conversations via XMPP transports (to ICQ, Skype, Telegram, QQ, vkontakte and other networks).</source>
+        <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows one to use it for protecting conversations via XMPP transports (to Telegram, Skype, VK, QQ and other networks).</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

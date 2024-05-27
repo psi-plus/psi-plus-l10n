@@ -20067,7 +20067,11 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows one to use it for protecting conversations via XMPP transports (to ICQ, Skype, Telegram, QQ, vkontakte and other networks).</source>
-        <translation>与 OpenPGP 和 OMEMO 相比，OTR 协议不依赖于 XMPP 特定的结构，这允许人们使用它来保护通过 XMPP 传输（到 ICQ、Skype、Telegram、QQ、VK 和其他网络）的对话。</translation>
+        <translation type="vanished">与 OpenPGP 和 OMEMO 相比，OTR 协议不依赖于 XMPP 特定的结构，这允许人们使用它来保护通过 XMPP 传输（到 ICQ、Skype、Telegram、QQ、VK 和其他网络）的对话。</translation>
+    </message>
+    <message>
+        <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows one to use it for protecting conversations via XMPP transports (to Telegram, Skype, VK, QQ and other networks).</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
