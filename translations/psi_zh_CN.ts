@@ -295,7 +295,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
 Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to try and create an account for you on a remote server.  If you are adding an existing XMPP account then leave this box unchecked.</source>
         <translation>&lt;qt&gt;请选择一个易记的&lt;b&gt;名称&lt;/b&gt;，Psi 将使用它代表本账号&lt;br&gt;
 &lt;br&gt;
-如果您希望 Psi 尝试在远程服务器上为您创建账号，请选中&lt;b&gt;注册新账号&lt;/b&gt;复选框。如果您正在添加一个现有的 XMPP 账号，请不选中此框。</translation>
+如果您想 Psi 尝试在远程服务器上为您创建账号，请选中&lt;b&gt;注册新账号&lt;/b&gt;复选框。如果您正在添加一个现有的 XMPP 账号，请不选中此框。</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -698,7 +698,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the XMPP server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
-        <translation>通常，Psi 使用 &lt;i&gt;Digest&lt;/i&gt; 身份验证方法登录。 选中此框可强制以纯文本方式登录 XMPP 服务器。 仅当您在正常登录过程中遇到连接问题时才使用此选项，因为它使您的连接可能容易受到攻击。</translation>
+        <translation>通常，Psi 使用 &lt;i&gt;Digest&lt;/i&gt; 身份验证方法登录。选中此框可强制以纯文本方式登录 XMPP 服务器。仅当您在正常登录过程中遇到连接问题时才使用此选项，因为它使您的连接可能容易受到攻击。</translation>
     </message>
     <message>
         <source>Automatically login to this account on Psi startup.  Useful if you have Psi automatically launched when an Internet connection is detected.</source>
@@ -718,7 +718,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Sends so called &quot;Keep-alive&quot; packets periodically.  It is useful if your connection is set to be automatically disconnected after a certain period of inactivity (for example, by your ISP) and you want to keep it up all the time.</source>
-        <translation>定期发送所谓的“Keep-alive”数据包。如果您的连接设置为在一段时间不活动后自动断开（例如，由 ISP 断开），并且您希望一直保持连接，则此功能非常有用。</translation>
+        <translation>定期发送所谓的“Keep-alive”数据包。如果您的连接设置为在一段时间不活动后自动断开（例如，由 ISP 断开），并且您想一直保持连接，则此功能非常有用。</translation>
     </message>
     <message>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
@@ -1293,7 +1293,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Please fill in the XMPP address of the person you wish to add.</source>
-        <translation>请填写您希望添加的人员的 XMPP 地址。</translation>
+        <translation>请填写您想添加的好友的 XMPP 地址。</translation>
     </message>
     <message>
         <source>The XMPP address you entered is not valid!
@@ -1408,11 +1408,11 @@ There was an error getting the Service ID translation information from &quot;%1&
     <name>AttentionPlugin</name>
     <message>
         <source> sends Attention message to you!</source>
-        <translation>向您发送注意消息！</translation>
+        <translation> 向您发送窗口抖动！</translation>
     </message>
     <message>
         <source>Send Attention</source>
-        <translation>发送注意</translation>
+        <translation>发送窗口抖动</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -1424,11 +1424,11 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Attention Plugin</source>
-        <translation>“注意”插件</translation>
+        <translation>窗口抖动插件</translation>
     </message>
     <message>
         <source>You sent Attention message to %1</source>
-        <translation>您已将注意消息发送到 %1</translation>
+        <translation>您已将窗口抖动发送到 %1</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -1441,7 +1441,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     <message>
         <source>This plugin is designed to send and receive special messages such as Attentions.
 To work correctly, the plugin requires that the client of the other part supports XEP-0224 (for example: Pidgin, Miranda IM with Nudge plugin).</source>
-        <translation>此插件旨在发送和接收特殊的消息，如“注意”等。
+        <translation>此插件旨在发送和接收特殊的消息，如“注意”，在此客户端是窗口抖动。
 为了正常工作，插件要求对方的客户端支持 XEP-0224（例如：Pidgin、Miranda IM 的 Nudge 插件）。</translation>
     </message>
 </context>
@@ -3710,7 +3710,7 @@ URL: %1
         <source>
 If you wish to confirm this request, please provide transaction identifier and press Confirm button. Otherwise press Deny button.</source>
         <translation>
-如果您希望确认此请求，请提供事务标识符并按“确认”按钮。否则，请按“拒绝”按钮。</translation>
+如果您要确认此请求，请提供事务标识符并按“确认”按钮。否则，请按“拒绝”按钮。</translation>
     </message>
     <message>
         <source>Transaction identifier: %1
@@ -3718,11 +3718,11 @@ If you wish to confirm this request, please provide transaction identifier and p
 If you wish to confirm this request, please press Confirm button. Otherwise press Deny button.</source>
         <translation>事务标识符：%1
 
-如果您希望确认此请求，请按“确认”按钮。否则，请按“拒绝”按钮。</translation>
+如果您要确认此请求，请按“确认”按钮。否则，请按“拒绝”按钮。</translation>
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to subscribe to your presence.  Click the button labelled &quot;Add/Auth&quot; to authorize the subscription.  This will also add the person to your contact list if it is not already there.</source>
-        <translation>&lt;big&gt;[系统消息]&lt;/big&gt;&lt;br&gt;此用户希望订阅您的在线状态。单击标有“添加/授权”的按钮以授权订阅。如果联系人不在您的联系人列表中，这也会将其添加到联系人列表中。</translation>
+        <translation>&lt;big&gt;[系统消息]&lt;/big&gt;&lt;br&gt;此用户想订阅您的在线状态。单击标有“添加/授权”的按钮以授权订阅。如果联系人不在您的联系人列表中，这也会将其添加到联系人列表中。</translation>
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
@@ -9896,7 +9896,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Allow receiving one Attention from the same contact every</source>
-        <translation>允许每次从同一联系人处接收一个“注意”。</translation>
+        <translation>允许每次从同一联系人处接收一个窗口抖动。</translation>
     </message>
     <message>
         <source>sec</source>
@@ -10643,7 +10643,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Normally, a double-click on a contact will invoke the default action.  Check this option if you&apos;d rather invoke with a single-click.</source>
-        <translation>通常，双击联系人将调用默认操作。如果您希望通过单击进行调用，请选中此选项。</translation>
+        <translation>通常，双击联系人将调用默认操作。如果您想通过单击进行调用，请选中此选项。</translation>
     </message>
     <message>
         <source>Enables as-you-type JID autocompletion in message dialog.</source>
@@ -11235,7 +11235,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation>通常，用鼠标右键单击联系人将会触发右键菜单。如果您希望使用左键单击，请选中此选项。</translation>
+        <translation>通常，用鼠标右键单击联系人将会触发右键菜单。如果您想使用左键单击，请选中此选项。</translation>
     </message>
     <message>
         <source>Shows the menubar in the application window.</source>
@@ -14300,7 +14300,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>I&apos;m not available right now and that&apos;s all you need to know.</source>
-        <translation>我现在没空，你只需要知道我没空就好了。</translation>
+        <translation>我现在没空，您只需要知道这些就够了。</translation>
     </message>
     <message>
         <source>Out for the night</source>
@@ -16262,7 +16262,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Attention interval: </source>
-        <translation type="vanished">“注意”间隔：</translation>
+        <translation type="vanished">窗口抖动间隔：</translation>
     </message>
 </context>
 <context>
@@ -20071,7 +20071,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows one to use it for protecting conversations via XMPP transports (to Telegram, Skype, VK, QQ and other networks).</source>
-        <translation type="unfinished"></translation>
+        <translation>与 OpenPGP 和 OMEMO 相比，OTR 协议不依赖于 XMPP 的特定体系，因此可用于保护通过 XMPP 传输（Telegram、Skype、VK、QQ 和其他网络）进行的对话。</translation>
     </message>
 </context>
 <context>
