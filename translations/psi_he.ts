@@ -3434,6 +3434,45 @@ Proceed?</source>
     </message>
 </context>
 <context>
+    <name>EmojiRegistry</name>
+    <message>
+        <source>Smileys &amp; Emotion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>People &amp; Body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Animals &amp; Nature</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Food &amp; Drink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Travel &amp; Places</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activities</source>
+        <translation type="unfinished">פעילויות</translation>
+    </message>
+    <message>
+        <source>Objects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Symbols</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flags</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>EnumMessagesPlugin</name>
     <message>
         <source>Authors: </source>
