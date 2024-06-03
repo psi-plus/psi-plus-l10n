@@ -3565,39 +3565,39 @@ Proceed?</source>
     <name>EmojiRegistry</name>
     <message>
         <source>Smileys &amp; Emotion</source>
-        <translation type="unfinished"></translation>
+        <translation>Смайлики та Емоції</translation>
     </message>
     <message>
         <source>People &amp; Body</source>
-        <translation type="unfinished"></translation>
+        <translation>Люди та Тіло</translation>
     </message>
     <message>
         <source>Animals &amp; Nature</source>
-        <translation type="unfinished"></translation>
+        <translation>Тварини та Природа</translation>
     </message>
     <message>
         <source>Food &amp; Drink</source>
-        <translation type="unfinished"></translation>
+        <translation>Їжа та Напої</translation>
     </message>
     <message>
         <source>Travel &amp; Places</source>
-        <translation type="unfinished"></translation>
+        <translation>Подорожі та Місця</translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="unfinished">Зайняття</translation>
+        <translation>Зайняття</translation>
     </message>
     <message>
         <source>Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Об&apos;єкти</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>Символи</translation>
     </message>
     <message>
         <source>Flags</source>
-        <translation type="unfinished"></translation>
+        <translation>Прапори</translation>
     </message>
 </context>
 <context>
@@ -8843,19 +8843,19 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Group chat participants:</source>
-        <translation type="unfinished"></translation>
+        <translation>Учасники групового чату:</translation>
     </message>
     <message>
         <source>Group chat moderators:</source>
-        <translation type="unfinished"></translation>
+        <translation>Модератори групового чату:</translation>
     </message>
     <message>
         <source>Group chat visitors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Відвідувачі групового чату:</translation>
     </message>
     <message>
         <source>Group chat contacts without role:</source>
-        <translation type="unfinished"></translation>
+        <translation>Контакти групового чату без ролі:</translation>
     </message>
 </context>
 <context>
@@ -20156,7 +20156,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows one to use it for protecting conversations via XMPP transports (to Telegram, Skype, VK, QQ and other networks).</source>
-        <translation type="unfinished"></translation>
+        <translation>У порівнянні з OpenPGP і OMEMO, протокол OTR не залежить від специфічних структур XMPP, що дозволяє використовувати його для захисту розмов через транспорти XMPP (до Telegram, Skype, VK, QQ та інших мереж).</translation>
     </message>
 </context>
 <context>
