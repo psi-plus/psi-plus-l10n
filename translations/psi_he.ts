@@ -626,7 +626,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL</source>
-        <translation>הנחלת SSL</translation>
+        <translation type="vanished">הנחלת SSL</translation>
     </message>
     <message>
         <source>Over encrypted connection</source>
@@ -738,15 +738,15 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation>הנחלת SSL זמינה רק בצירוף עם מארח/פורט באופן ידני.</translation>
+        <translation type="vanished">הנחלת SSL זמינה רק בצירוף עם מארח/פורט באופן ידני.</translation>
     </message>
     <message>
         <source>SSL error</source>
-        <translation>שגיאת SSL</translation>
+        <translation type="vanished">שגיאת SSL</translation>
     </message>
     <message>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation>אין אפשרות לאפשר SSL/TLS.  תוסף לא נמצא.</translation>
+        <translation type="vanished">אין אפשרות לאפשר SSL/TLS.  תוסף לא נמצא.</translation>
     </message>
     <message>
         <source>Secret Key</source>
@@ -802,6 +802,22 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS is only available in combination with manual host/port.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TLS error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot enable TLS.  Plugin not found.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -872,7 +888,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL</source>
-        <translation>הנחלת SSL</translation>
+        <translation type="vanished">הנחלת SSL</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -896,7 +912,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation>הנחלת SSL זמינה רק בצירוף עם מארח/פורט באופן ידני.</translation>
+        <translation type="vanished">הנחלת SSL זמינה רק בצירוף עם מארח/פורט באופן ידני.</translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -939,6 +955,14 @@ When you enable this option you will not be able to find your password in config
 Reason: %1</source>
         <translation>אירעה שגיאה ברישום חשבון.
 סיבה: %1</translation>
+    </message>
+    <message>
+        <source>Direct TLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS is only available in combination with manual host/port.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12258,11 +12282,11 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Feature Removed</source>
-        <translation>תכונה הוסרה</translation>
+        <translation type="vanished">תכונה הוסרה</translation>
     </message>
     <message>
         <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
-        <translation>חשבון זה הוגדר לעשות שימוש בתכונה &quot;בדיקת פורט הנחלת SSL&quot;, אך תכונה זו איננה נתמכת עוד. אלא אם כן שרת XMPP נתון הינו מיושן ביותר, שינוי זה לא צריך להשפיע עליך. אם יש לך צרה בהתחברות, אנא בחן את נכונות הגדרות חשבונך או צור קשר עם מנהלן שרת XMPP זה.</translation>
+        <translation type="vanished">חשבון זה הוגדר לעשות שימוש בתכונה &quot;בדיקת פורט הנחלת SSL&quot;, אך תכונה זו איננה נתמכת עוד. אלא אם כן שרת XMPP נתון הינו מיושן ביותר, שינוי זה לא צריך להשפיע עליך. אם יש לך צרה בהתחברות, אנא בחן את נכונות הגדרות חשבונך או צור קשר עם מנהלן שרת XMPP זה.</translation>
     </message>
     <message>
         <source>Server Authentication</source>

@@ -579,10 +579,6 @@ When you enable this option you will not be able to find your password in config
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Legacy SSL</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Over encrypted connection</source>
         <translation type="unfinished"></translation>
     </message>
@@ -691,16 +687,12 @@ When you enable this option you will not be able to find your password in config
         <translation>Viga</translation>
     </message>
     <message>
-        <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>SSL error</source>
-        <translation>SSL viga</translation>
+        <translation type="vanished">SSL viga</translation>
     </message>
     <message>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation>Ei saa käivitada SSL/TLS. Vajalikku plugin&apos;i ei leitud.</translation>
+        <translation type="vanished">Ei saa käivitada SSL/TLS. Vajalikku plugin&apos;i ei leitud.</translation>
     </message>
     <message>
         <source>Secret Key</source>
@@ -756,6 +748,22 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS is only available in combination with manual host/port.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TLS error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot enable TLS.  Plugin not found.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -825,10 +833,6 @@ When you enable this option you will not be able to find your password in config
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Legacy SSL</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Warning</source>
         <translation>Hoiatus</translation>
     </message>
@@ -847,10 +851,6 @@ When you enable this option you will not be able to find your password in config
     <message>
         <source>Error</source>
         <translation>Viga</translation>
-    </message>
-    <message>
-        <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -893,6 +893,14 @@ When you enable this option you will not be able to find your password in config
 Reason: %1</source>
         <translation>Konto registreerimisel tekkis probleem.
 Põhjus: %1</translation>
+    </message>
+    <message>
+        <source>Direct TLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS is only available in combination with manual host/port.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11600,14 +11608,6 @@ Kas soovid välja logida?</translation>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA2 SSL/TLS plugin is available.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Feature Removed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

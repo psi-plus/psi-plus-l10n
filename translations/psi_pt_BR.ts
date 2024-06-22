@@ -648,7 +648,7 @@ Quando você habilitar esta opção, você não será capaz de encontrar a sua s
     </message>
     <message>
         <source>Legacy SSL</source>
-        <translation>Legado SSL</translation>
+        <translation type="vanished">Legado SSL</translation>
     </message>
     <message>
         <source>Over encrypted connection</source>
@@ -760,15 +760,15 @@ Quando você habilitar esta opção, você não será capaz de encontrar a sua s
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation>Legado SSL é somente disponível em combinação com servidor/porta manuais.</translation>
+        <translation type="vanished">Legado SSL é somente disponível em combinação com servidor/porta manuais.</translation>
     </message>
     <message>
         <source>SSL error</source>
-        <translation>Erro SSL</translation>
+        <translation type="vanished">Erro SSL</translation>
     </message>
     <message>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation>Impossível habilitar SSL/TLS. Plugin não encontrado.</translation>
+        <translation type="vanished">Impossível habilitar SSL/TLS. Plugin não encontrado.</translation>
     </message>
     <message>
         <source>Secret Key</source>
@@ -825,6 +825,22 @@ Quando você habilitar esta opção, você não será capaz de encontrar a sua s
     <message>
         <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
         <translation>Use o mesmo proxy para upload HTTP que o configurado para conexão XMPP. Caso contrário, use o proxy padrão do aplicativo.</translation>
+    </message>
+    <message>
+        <source>Direct TLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS is only available in combination with manual host/port.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TLS error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot enable TLS.  Plugin not found.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -894,7 +910,7 @@ Quando você habilitar esta opção, você não será capaz de encontrar a sua s
     </message>
     <message>
         <source>Legacy SSL</source>
-        <translation>Legado SSL</translation>
+        <translation type="vanished">Legado SSL</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -918,7 +934,7 @@ Quando você habilitar esta opção, você não será capaz de encontrar a sua s
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation>Legado SSL é somente disponível em combinação com servidor/porta manuais.</translation>
+        <translation type="vanished">Legado SSL é somente disponível em combinação com servidor/porta manuais.</translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -962,6 +978,14 @@ Reason: %1</source>
         <translation>Houve um erro ao registrar a conta.
 
 Motivo: %1</translation>
+    </message>
+    <message>
+        <source>Direct TLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS is only available in combination with manual host/port.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12717,11 +12741,11 @@ Você deseja desconectar?</translation>
     </message>
     <message>
         <source>Feature Removed</source>
-        <translation>Recurso Removido</translation>
+        <translation type="vanished">Recurso Removido</translation>
     </message>
     <message>
         <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
-        <translation>Esta conta foi configurada para usar o recurso &quot;Sonda legado porta SSL&quot;, mas esse recurso não é mais suportado. A menos que seu servidor XMPP é muito desatualizado, esta mudança não deve afetar você. Se você tiver problemas de conexão, reveja suas configurações de conta para correção ou contate o administrador do servidor XMPP.</translation>
+        <translation type="vanished">Esta conta foi configurada para usar o recurso &quot;Sonda legado porta SSL&quot;, mas esse recurso não é mais suportado. A menos que seu servidor XMPP é muito desatualizado, esta mudança não deve afetar você. Se você tiver problemas de conexão, reveja suas configurações de conta para correção ou contate o administrador do servidor XMPP.</translation>
     </message>
     <message>
         <source>Server Authentication</source>

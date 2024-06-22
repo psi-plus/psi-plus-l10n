@@ -646,7 +646,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL</source>
-        <translation>古いSSL</translation>
+        <translation type="vanished">古いSSL</translation>
     </message>
     <message>
         <source>Over encrypted connection</source>
@@ -758,15 +758,15 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation>古いSSLは手動でホスト・ポートを指定した場合のみ有効です。</translation>
+        <translation type="vanished">古いSSLは手動でホスト・ポートを指定した場合のみ有効です。</translation>
     </message>
     <message>
         <source>SSL error</source>
-        <translation>SSLのエラー</translation>
+        <translation type="vanished">SSLのエラー</translation>
     </message>
     <message>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation>SSL/TLSを有効に出来ません。プラグインが見つかりません。</translation>
+        <translation type="vanished">SSL/TLSを有効に出来ません。プラグインが見つかりません。</translation>
     </message>
     <message>
         <source>Secret Key</source>
@@ -823,6 +823,22 @@ When you enable this option you will not be able to find your password in config
     <message>
         <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
         <translation>HTTPアップロードには、XMPP接続用に設定されたものと同じプロキシを使用します。そうでない場合は、アプリケーションの規定プロキシを使用します。</translation>
+    </message>
+    <message>
+        <source>Direct TLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS is only available in combination with manual host/port.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TLS error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot enable TLS.  Plugin not found.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -892,7 +908,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL</source>
-        <translation>古いSSL</translation>
+        <translation type="vanished">古いSSL</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -916,7 +932,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation>古いSSLは手動でホスト・ポートを指定した場合のみ有効です。</translation>
+        <translation type="vanished">古いSSLは手動でホスト・ポートを指定した場合のみ有効です。</translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -959,6 +975,14 @@ When you enable this option you will not be able to find your password in config
 Reason: %1</source>
         <translation>アカウント登録中にエラーが起きました。
 エラーメッセージ：%1</translation>
+    </message>
+    <message>
+        <source>Direct TLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS is only available in combination with manual host/port.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12310,11 +12334,11 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Feature Removed</source>
-        <translation>機能は削除されました</translation>
+        <translation type="vanished">機能は削除されました</translation>
     </message>
     <message>
         <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
-        <translation>このアカウントは「古いSSLポートを調べる」機能が設定されていますが、この機能はサポートされなくなりました。非常に古いXMPPサーバーを利用している場合を除きこの変更は影響ありません。もし接続に問題がある場合アカウントの設定を見直すかXMPPサーバーの管理者に問い合わせてください。</translation>
+        <translation type="vanished">このアカウントは「古いSSLポートを調べる」機能が設定されていますが、この機能はサポートされなくなりました。非常に古いXMPPサーバーを利用している場合を除きこの変更は影響ありません。もし接続に問題がある場合アカウントの設定を見直すかXMPPサーバーの管理者に問い合わせてください。</translation>
     </message>
     <message>
         <source>Server Authentication</source>

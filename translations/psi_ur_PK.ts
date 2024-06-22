@@ -596,7 +596,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL</source>
-        <translation>ورثہ ایس ایس ایل</translation>
+        <translation type="vanished">ورثہ ایس ایس ایل</translation>
     </message>
     <message>
         <source>Over encrypted connection</source>
@@ -708,15 +708,15 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation>ورثہ ایس ایس ایل فقط دستی میزبان/دہانہ کے امتزاج کے ساتھ دستیاب ہے۔</translation>
+        <translation type="vanished">ورثہ ایس ایس ایل فقط دستی میزبان/دہانہ کے امتزاج کے ساتھ دستیاب ہے۔</translation>
     </message>
     <message>
         <source>SSL error</source>
-        <translation>ایس ایس ایل نقص</translation>
+        <translation type="vanished">ایس ایس ایل نقص</translation>
     </message>
     <message>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation>ایس ایس ایل/ٹی ایل ایس اہل نہیں بنا سکتا۔   پلگ ان نہیں ملا۔</translation>
+        <translation type="vanished">ایس ایس ایل/ٹی ایل ایس اہل نہیں بنا سکتا۔   پلگ ان نہیں ملا۔</translation>
     </message>
     <message>
         <source>Secret Key</source>
@@ -772,6 +772,22 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS is only available in combination with manual host/port.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TLS error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot enable TLS.  Plugin not found.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -842,7 +858,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL</source>
-        <translation>ورثہ ایس ایس ایل</translation>
+        <translation type="vanished">ورثہ ایس ایس ایل</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -866,7 +882,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation>ورثہ ایس ایس ایل فقط دستی میزبان/دہانہ کے امتزاج کے ساتھ دستیاب ہے۔</translation>
+        <translation type="vanished">ورثہ ایس ایس ایل فقط دستی میزبان/دہانہ کے امتزاج کے ساتھ دستیاب ہے۔</translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -909,6 +925,14 @@ When you enable this option you will not be able to find your password in config
 Reason: %1</source>
         <translation>اکاؤنٹ رجسٹر کرتے ہوئے ایک نقص تھا۔
 دلیل:%1</translation>
+    </message>
+    <message>
+        <source>Direct TLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS is only available in combination with manual host/port.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11829,14 +11853,6 @@ Do you want to log out ?</source>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA2 SSL/TLS plugin is available.</source>
         <translation>لاگ ان نہیں کر سکتا: خفیہ کاری اہل ہے لیکن کوئ QCA2 SSL/TLS پلگ ان دستیاب نہیں۔</translation>
-    </message>
-    <message>
-        <source>Feature Removed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Server Authentication</source>

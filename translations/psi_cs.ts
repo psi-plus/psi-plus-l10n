@@ -646,7 +646,7 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
     </message>
     <message>
         <source>Legacy SSL</source>
-        <translation>Zastaralé SSL</translation>
+        <translation type="vanished">Zastaralé SSL</translation>
     </message>
     <message>
         <source>Over encrypted connection</source>
@@ -758,15 +758,15 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation>Zastaralé SSL je dostupné pouze ve spojení s manuálním nastavením serveru/portu.</translation>
+        <translation type="vanished">Zastaralé SSL je dostupné pouze ve spojení s manuálním nastavením serveru/portu.</translation>
     </message>
     <message>
         <source>SSL error</source>
-        <translation>Chyba SSL</translation>
+        <translation type="vanished">Chyba SSL</translation>
     </message>
     <message>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation>Není možné zapnout SSL/TLS.  Zásuvný modul nenalezen.</translation>
+        <translation type="vanished">Není možné zapnout SSL/TLS.  Zásuvný modul nenalezen.</translation>
     </message>
     <message>
         <source>Secret Key</source>
@@ -822,6 +822,22 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
     </message>
     <message>
         <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS is only available in combination with manual host/port.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TLS error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot enable TLS.  Plugin not found.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -892,7 +908,7 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
     </message>
     <message>
         <source>Legacy SSL</source>
-        <translation>Zastaralé SSL</translation>
+        <translation type="vanished">Zastaralé SSL</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -916,7 +932,7 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation>Zastaralé SSL je dostupné pouze ve spojení s manuálním nastavením serveru/portu.</translation>
+        <translation type="vanished">Zastaralé SSL je dostupné pouze ve spojení s manuálním nastavením serveru/portu.</translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -959,6 +975,14 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
 Reason: %1</source>
         <translation>Chyba při registraci účtu.
 Zdůvodnění: %1</translation>
+    </message>
+    <message>
+        <source>Direct TLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS is only available in combination with manual host/port.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12759,11 +12783,11 @@ Odhlásit se?</translation>
     </message>
     <message>
         <source>Feature Removed</source>
-        <translation>Funkce odebrána</translation>
+        <translation type="vanished">Funkce odebrána</translation>
     </message>
     <message>
         <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
-        <translation>Tento účet byl nastaven tak, aby používal &quot;Zastaralý SSL port&quot;, ale to už není podporováno. Pokud tvůj XMPP server není úplně starý, tato změna se tě nedotkne. Pokud máš problémy s připojením, prosím, zkontroluj si nastavení svého účtu nebo kontaktuj svého administrátora XMPP serveru.</translation>
+        <translation type="vanished">Tento účet byl nastaven tak, aby používal &quot;Zastaralý SSL port&quot;, ale to už není podporováno. Pokud tvůj XMPP server není úplně starý, tato změna se tě nedotkne. Pokud máš problémy s připojením, prosím, zkontroluj si nastavení svého účtu nebo kontaktuj svého administrátora XMPP serveru.</translation>
     </message>
     <message>
         <source>Server Authentication</source>

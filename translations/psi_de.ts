@@ -648,7 +648,7 @@ Wenn Sie diese Option aktivieren, können Sie Ihr Passwort nicht in den Konfigur
     </message>
     <message>
         <source>Legacy SSL</source>
-        <translation>Altes SSL</translation>
+        <translation type="vanished">Altes SSL</translation>
     </message>
     <message>
         <source>Over encrypted connection</source>
@@ -761,15 +761,15 @@ der Inaktivität getrennt wird (z. B. von Ihrem Provider oder durch Ihren Router
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation>Altes SSL ist nur in Kombination mit manuellem Host/Port verfügbar.</translation>
+        <translation type="vanished">Altes SSL ist nur in Kombination mit manuellem Host/Port verfügbar.</translation>
     </message>
     <message>
         <source>SSL error</source>
-        <translation>SSL-Fehler</translation>
+        <translation type="vanished">SSL-Fehler</translation>
     </message>
     <message>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation>SSL/TLS kann nicht aktiviert werden. Das Plugin wurde nicht gefunden.</translation>
+        <translation type="vanished">SSL/TLS kann nicht aktiviert werden. Das Plugin wurde nicht gefunden.</translation>
     </message>
     <message>
         <source>Secret Key</source>
@@ -825,6 +825,22 @@ der Inaktivität getrennt wird (z. B. von Ihrem Provider oder durch Ihren Router
     </message>
     <message>
         <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS is only available in combination with manual host/port.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TLS error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot enable TLS.  Plugin not found.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -895,7 +911,7 @@ der Inaktivität getrennt wird (z. B. von Ihrem Provider oder durch Ihren Router
     </message>
     <message>
         <source>Legacy SSL</source>
-        <translation>Altes SSL</translation>
+        <translation type="vanished">Altes SSL</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -919,7 +935,7 @@ der Inaktivität getrennt wird (z. B. von Ihrem Provider oder durch Ihren Router
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation>Altes SSL ist nur in Kombination mit manuellem Host/Port verfügbar.</translation>
+        <translation type="vanished">Altes SSL ist nur in Kombination mit manuellem Host/Port verfügbar.</translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -962,6 +978,14 @@ der Inaktivität getrennt wird (z. B. von Ihrem Provider oder durch Ihren Router
 Reason: %1</source>
         <translation>Bei der Registrierung ist ein Fehler aufgetreten.
 Grund: %1</translation>
+    </message>
+    <message>
+        <source>Direct TLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS is only available in combination with manual host/port.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12771,11 +12795,11 @@ Möchten Sie sich abmelden?</translation>
     </message>
     <message>
         <source>Feature Removed</source>
-        <translation>Funktion entfernt</translation>
+        <translation type="vanished">Funktion entfernt</translation>
     </message>
     <message>
         <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
-        <translation>Dieses Konto wurde konfiguriert das &quot;Alten SSL-Port versuchen&quot;-Feature zu verwenden, welches nicht mehr unterstützt wird. Solange Ihr XMPP-Server nicht sehr veraltet ist, sollte diese Änderung Sie nicht betreffen. Falls Sie Verbindungsprobleme haben, Überprüfen Sie Ihre Kontoeinstellungen auf Korrektheit oder kontaktieren Sie Ihren XMPP-Server-Administrator.</translation>
+        <translation type="vanished">Dieses Konto wurde konfiguriert das &quot;Alten SSL-Port versuchen&quot;-Feature zu verwenden, welches nicht mehr unterstützt wird. Solange Ihr XMPP-Server nicht sehr veraltet ist, sollte diese Änderung Sie nicht betreffen. Falls Sie Verbindungsprobleme haben, Überprüfen Sie Ihre Kontoeinstellungen auf Korrektheit oder kontaktieren Sie Ihren XMPP-Server-Administrator.</translation>
     </message>
     <message>
         <source>Server Authentication</source>

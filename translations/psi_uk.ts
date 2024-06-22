@@ -653,7 +653,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL</source>
-        <translation>Старий SSL</translation>
+        <translation type="vanished">Старий SSL</translation>
     </message>
     <message>
         <source>Over encrypted connection</source>
@@ -765,15 +765,15 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation>Старий SSL доступний лише у комбінаціі з вручну вказаним сервером/портом.</translation>
+        <translation type="vanished">Старий SSL доступний лише у комбінаціі з вручну вказаним сервером/портом.</translation>
     </message>
     <message>
         <source>SSL error</source>
-        <translation>Помилка SSL</translation>
+        <translation type="vanished">Помилка SSL</translation>
     </message>
     <message>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation>Неможливо активувати SSL/TLS. Плагін не знайдено.</translation>
+        <translation type="vanished">Неможливо активувати SSL/TLS. Плагін не знайдено.</translation>
     </message>
     <message>
         <source>Secret Key</source>
@@ -830,6 +830,22 @@ When you enable this option you will not be able to find your password in config
     <message>
         <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
         <translation>Використовуйте той самий проксі-сервер для завантаження по HTTP, що й налаштований для з’єднання XMPP. В іншому випадку використовуйте проксі-сервер програми за замовчуванням.</translation>
+    </message>
+    <message>
+        <source>Direct TLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS is only available in combination with manual host/port.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TLS error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot enable TLS.  Plugin not found.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -899,7 +915,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL</source>
-        <translation>Старий SSL</translation>
+        <translation type="vanished">Старий SSL</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -923,7 +939,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation>Старий SSL доступний лише у комбінаціі з вручну вказаним сервером/портом.</translation>
+        <translation type="vanished">Старий SSL доступний лише у комбінаціі з вручну вказаним сервером/портом.</translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -966,6 +982,14 @@ When you enable this option you will not be able to find your password in config
 Reason: %1</source>
         <translation>Сталася помилка під час реєстрації 
 Причина: %1</translation>
+    </message>
+    <message>
+        <source>Direct TLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS is only available in combination with manual host/port.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12822,11 +12846,11 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Feature Removed</source>
-        <translation>Можливісь видалено</translation>
+        <translation type="vanished">Можливісь видалено</translation>
     </message>
     <message>
         <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
-        <translation>У налаштуваннях цього акаунту була вказана опція &quot;Використовувати стандартний порт SSL&quot;, але ця можливість більше не підтримується. Видалення цієї опції не торкнеться вас, якщо XMPP сервер, що ви використовуєте не дуже старий. Якщо проблеми з підключенням все ж виникли, перевірте налаштування акаунту або зв&apos;яжіться з адміністратором XMPP серверу.</translation>
+        <translation type="vanished">У налаштуваннях цього акаунту була вказана опція &quot;Використовувати стандартний порт SSL&quot;, але ця можливість більше не підтримується. Видалення цієї опції не торкнеться вас, якщо XMPP сервер, що ви використовуєте не дуже старий. Якщо проблеми з підключенням все ж виникли, перевірте налаштування акаунту або зв&apos;яжіться з адміністратором XMPP серверу.</translation>
     </message>
     <message>
         <source>Server Authentication</source>

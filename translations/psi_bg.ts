@@ -593,10 +593,6 @@ When you enable this option you will not be able to find your password in config
         <translation>Никога</translation>
     </message>
     <message>
-        <source>Legacy SSL</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Over encrypted connection</source>
         <translation>През кодирана връзка</translation>
     </message>
@@ -705,16 +701,12 @@ When you enable this option you will not be able to find your password in config
         <translation>Грешка</translation>
     </message>
     <message>
-        <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>SSL error</source>
-        <translation>SSL-грешка</translation>
+        <translation type="vanished">SSL-грешка</translation>
     </message>
     <message>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation>Не може да се включи SSL/TLS. Не е открита съответната приставка.</translation>
+        <translation type="vanished">Не може да се включи SSL/TLS. Не е открита съответната приставка.</translation>
     </message>
     <message>
         <source>Secret Key</source>
@@ -770,6 +762,22 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS is only available in combination with manual host/port.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TLS error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot enable TLS.  Plugin not found.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -839,10 +847,6 @@ When you enable this option you will not be able to find your password in config
         <translation>При наличие</translation>
     </message>
     <message>
-        <source>Legacy SSL</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Warning</source>
         <translation>Предупреждение</translation>
     </message>
@@ -861,10 +865,6 @@ When you enable this option you will not be able to find your password in config
     <message>
         <source>Error</source>
         <translation>Грешка</translation>
-    </message>
-    <message>
-        <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -907,6 +907,14 @@ When you enable this option you will not be able to find your password in config
 Reason: %1</source>
         <translation>Грешка при регистриране на сметката.
 Причина: %1</translation>
+    </message>
+    <message>
+        <source>Direct TLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS is only available in combination with manual host/port.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12565,11 +12573,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Feature Removed</source>
-        <translation>Функцията Изтрита</translation>
-    </message>
-    <message>
-        <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Функцията Изтрита</translation>
     </message>
     <message>
         <source>Server Authentication</source>

@@ -640,7 +640,7 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>Legacy SSL</source>
-        <translation>Hagyományos SSL</translation>
+        <translation type="vanished">Hagyományos SSL</translation>
     </message>
     <message>
         <source>Over encrypted connection</source>
@@ -752,15 +752,15 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation>Hagyományos SSL csak manuálisan beállított kiszolgáló/port beállításokkal érhető el.</translation>
+        <translation type="vanished">Hagyományos SSL csak manuálisan beállított kiszolgáló/port beállításokkal érhető el.</translation>
     </message>
     <message>
         <source>SSL error</source>
-        <translation>SSL hiba</translation>
+        <translation type="vanished">SSL hiba</translation>
     </message>
     <message>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation>Nem lehet az SSL/TLS-t engedélyezni. Kiegészítő nem található.</translation>
+        <translation type="vanished">Nem lehet az SSL/TLS-t engedélyezni. Kiegészítő nem található.</translation>
     </message>
     <message>
         <source>Secret Key</source>
@@ -816,6 +816,22 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS is only available in combination with manual host/port.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TLS error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot enable TLS.  Plugin not found.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -886,7 +902,7 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>Legacy SSL</source>
-        <translation>Hagyományos SSL</translation>
+        <translation type="vanished">Hagyományos SSL</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -910,7 +926,7 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation>Hagyományos SSL csak manuálisan beállított kiszolgáló/port kombinációban érhető el.</translation>
+        <translation type="vanished">Hagyományos SSL csak manuálisan beállított kiszolgáló/port kombinációban érhető el.</translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -953,6 +969,14 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
 Reason: %1</source>
         <translation>Hiba a fiók regisztrálásakor.
 Oka: %1</translation>
+    </message>
+    <message>
+        <source>Direct TLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS is only available in combination with manual host/port.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12713,11 +12737,11 @@ Ki akarsz jelentkezni?</translation>
     </message>
     <message>
         <source>Feature Removed</source>
-        <translation>Funkció eltávolítva</translation>
+        <translation type="vanished">Funkció eltávolítva</translation>
     </message>
     <message>
         <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
-        <translation>Ez a fiók az &quot;Hagyományos SSL-port figyelő&quot;-módra van beállítva, de ez a mód többé már nem támogatott. Ha az XMPP szerver amit használsz, egy elavult,régebbi szerver, akkor ez a változtatás nem lesz rád hatással. Ha problémákba ütközöl csatlakozáskor, ellenőrizd a &quot;Fiók beállításokat&quot;, vagy lépj kapcsolatba az XMPP szerver adminisztrátorával.</translation>
+        <translation type="vanished">Ez a fiók az &quot;Hagyományos SSL-port figyelő&quot;-módra van beállítva, de ez a mód többé már nem támogatott. Ha az XMPP szerver amit használsz, egy elavult,régebbi szerver, akkor ez a változtatás nem lesz rád hatással. Ha problémákba ütközöl csatlakozáskor, ellenőrizd a &quot;Fiók beállításokat&quot;, vagy lépj kapcsolatba az XMPP szerver adminisztrátorával.</translation>
     </message>
     <message>
         <source>Server Authentication</source>

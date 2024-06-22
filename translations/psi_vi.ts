@@ -638,7 +638,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL</source>
-        <translation>SSL kế thừa</translation>
+        <translation type="vanished">SSL kế thừa</translation>
     </message>
     <message>
         <source>Over encrypted connection</source>
@@ -750,15 +750,15 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation>SSL thừa tự chỉ sẵn sàng cùng với máy/cổng được nhập bằng tay.</translation>
+        <translation type="vanished">SSL thừa tự chỉ sẵn sàng cùng với máy/cổng được nhập bằng tay.</translation>
     </message>
     <message>
         <source>SSL error</source>
-        <translation>Lỗi SSL</translation>
+        <translation type="vanished">Lỗi SSL</translation>
     </message>
     <message>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation>Không thể bật SSL/TLS vì không tìm thấy bổ sung.</translation>
+        <translation type="vanished">Không thể bật SSL/TLS vì không tìm thấy bổ sung.</translation>
     </message>
     <message>
         <source>Secret Key</source>
@@ -814,6 +814,22 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS is only available in combination with manual host/port.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TLS error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot enable TLS.  Plugin not found.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -884,7 +900,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL</source>
-        <translation>SSL kế thừa</translation>
+        <translation type="vanished">SSL kế thừa</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -908,7 +924,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation>SSL kế thừa chỉ sẵn sàng cùng với máy/cổng được nhập thủ công.</translation>
+        <translation type="vanished">SSL kế thừa chỉ sẵn sàng cùng với máy/cổng được nhập thủ công.</translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -951,6 +967,14 @@ When you enable this option you will not be able to find your password in config
 Reason: %1</source>
         <translation>Lỗi khi đăng ký tài khoản.
 Lý do: %1</translation>
+    </message>
+    <message>
+        <source>Direct TLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS is only available in combination with manual host/port.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12399,14 +12423,6 @@ Bạn vẫn muốn đăng xuất không?</translation>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA2 SSL/TLS plugin is available.</source>
         <translation>Không thể kết nối: chức năng mật mã được hiệu lực nhưng không có sẵn sàng phần bổ sung SSL/TLS QCA2.</translation>
-    </message>
-    <message>
-        <source>Feature Removed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Server Authentication</source>

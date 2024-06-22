@@ -628,7 +628,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL</source>
-        <translation>Używając starszego SSL</translation>
+        <translation type="vanished">Używając starszego SSL</translation>
     </message>
     <message>
         <source>Over encrypted connection</source>
@@ -740,15 +740,15 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation>Stary port SSL może być wykorzystany wyłącznie przy ręcznie ustawionym adresie lub porcie serwera.</translation>
+        <translation type="vanished">Stary port SSL może być wykorzystany wyłącznie przy ręcznie ustawionym adresie lub porcie serwera.</translation>
     </message>
     <message>
         <source>SSL error</source>
-        <translation>Błąd SSL/TLS</translation>
+        <translation type="vanished">Błąd SSL/TLS</translation>
     </message>
     <message>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation>Nie mogę włączyć SSL/TLS. Wtyczka nie została odnaleziona.</translation>
+        <translation type="vanished">Nie mogę włączyć SSL/TLS. Wtyczka nie została odnaleziona.</translation>
     </message>
     <message>
         <source>Secret Key</source>
@@ -804,6 +804,22 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS is only available in combination with manual host/port.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TLS error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot enable TLS.  Plugin not found.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -874,7 +890,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL</source>
-        <translation>Użyj SSL (zamiast TLS)</translation>
+        <translation type="vanished">Użyj SSL (zamiast TLS)</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -898,7 +914,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation>Stary port SSL może być wykorzystany wyłącznie przy ręcznie ustawionym adresie lub porcie serwera.</translation>
+        <translation type="vanished">Stary port SSL może być wykorzystany wyłącznie przy ręcznie ustawionym adresie lub porcie serwera.</translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -941,6 +957,14 @@ When you enable this option you will not be able to find your password in config
 Reason: %1</source>
         <translation>Wystąpił błąd podczas rejestrowania konta.
 Przyczyna: %1</translation>
+    </message>
+    <message>
+        <source>Direct TLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS is only available in combination with manual host/port.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12375,14 +12399,6 @@ Czy chcesz się wylogować?</translation>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA2 SSL/TLS plugin is available.</source>
         <translation>Nie można się połączyć: szyfrowanie SSL/TLS jest włączone, jednakże nie znaleziono odpowiedniej wtyczki QCA2 dla SSL/TLS.</translation>
-    </message>
-    <message>
-        <source>Feature Removed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Server Authentication</source>

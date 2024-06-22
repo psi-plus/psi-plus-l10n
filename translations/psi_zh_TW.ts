@@ -640,7 +640,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL</source>
-        <translation>舊式 SSL</translation>
+        <translation type="vanished">舊式 SSL</translation>
     </message>
     <message>
         <source>Over encrypted connection</source>
@@ -752,15 +752,15 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation>舊式的 SSL 僅在手動指定主機/埠時可用。</translation>
+        <translation type="vanished">舊式的 SSL 僅在手動指定主機/埠時可用。</translation>
     </message>
     <message>
         <source>SSL error</source>
-        <translation>SSL 錯誤</translation>
+        <translation type="vanished">SSL 錯誤</translation>
     </message>
     <message>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation>無法啟用 SSL/TLS。  找不到外掛程式。</translation>
+        <translation type="vanished">無法啟用 SSL/TLS。  找不到外掛程式。</translation>
     </message>
     <message>
         <source>Secret Key</source>
@@ -816,6 +816,22 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS is only available in combination with manual host/port.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TLS error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot enable TLS.  Plugin not found.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -886,7 +902,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL</source>
-        <translation>舊式 SSL</translation>
+        <translation type="vanished">舊式 SSL</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -910,7 +926,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation>舊式的 SSL 僅在手動指定主機/埠時可用。</translation>
+        <translation type="vanished">舊式的 SSL 僅在手動指定主機/埠時可用。</translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -953,6 +969,14 @@ When you enable this option you will not be able to find your password in config
 Reason: %1</source>
         <translation>有一個錯誤註冊帳戶。
 原因: %1</translation>
+    </message>
+    <message>
+        <source>Direct TLS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Direct TLS is only available in combination with manual host/port.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12632,11 +12656,11 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Feature Removed</source>
-        <translation>移除的功能</translation>
+        <translation type="vanished">移除的功能</translation>
     </message>
     <message>
         <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
-        <translation>此帳戶被配置為使用“探頭傳統的SSL埠”功能，但不再支援此功能。除非您的XMPP伺服器是非常過時的，這種變化應該不會影響到你。如果您無法連接，請檢查您的帳戶設置，正確性或聯繫您的XMPP伺服器管理員。</translation>
+        <translation type="vanished">此帳戶被配置為使用“探頭傳統的SSL埠”功能，但不再支援此功能。除非您的XMPP伺服器是非常過時的，這種變化應該不會影響到你。如果您無法連接，請檢查您的帳戶設置，正確性或聯繫您的XMPP伺服器管理員。</translation>
     </message>
     <message>
         <source>Server Authentication</source>
