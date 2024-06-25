@@ -833,19 +833,19 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Direct TLS</source>
-        <translation type="unfinished"></translation>
+        <translation>Прямий TLS</translation>
     </message>
     <message>
         <source>Direct TLS is only available in combination with manual host/port.</source>
-        <translation type="unfinished"></translation>
+        <translation>Прямий TLS доступний лише в поєднанні з хостом/портом вказаними вручну.</translation>
     </message>
     <message>
         <source>TLS error</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка TLS</translation>
     </message>
     <message>
         <source>Cannot enable TLS.  Plugin not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдається ввімкнути TLS. Плагін не знайдено.</translation>
     </message>
 </context>
 <context>
@@ -985,11 +985,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Direct TLS</source>
-        <translation type="unfinished"></translation>
+        <translation>Прямий TLS</translation>
     </message>
     <message>
         <source>Direct TLS is only available in combination with manual host/port.</source>
-        <translation type="unfinished"></translation>
+        <translation>Прямий TLS доступний лише в поєднанні з хостом/портом вказаними вручну.</translation>
     </message>
 </context>
 <context>
@@ -13919,7 +13919,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Quit the application</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрити програму</translation>
     </message>
 </context>
 <context>
