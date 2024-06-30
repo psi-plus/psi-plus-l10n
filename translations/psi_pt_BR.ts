@@ -17617,6 +17617,13 @@ O plug-in foi projetado para manter as anotações no servidor XMPP com a capaci
     </message>
 </context>
 <context>
+    <name>TaskBarNotifier::Private</name>
+    <message>
+        <source>Quit %1 application</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>TestDlg</name>
     <message>
         <source>XMPP Test</source>

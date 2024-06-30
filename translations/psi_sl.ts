@@ -16724,6 +16724,13 @@ The plugin is designed to keep notes on the XMPP server with the ability to acce
     </message>
 </context>
 <context>
+    <name>TaskBarNotifier::Private</name>
+    <message>
+        <source>Quit %1 application</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>TestDlg</name>
     <message>
         <source>XMPP Test</source>
