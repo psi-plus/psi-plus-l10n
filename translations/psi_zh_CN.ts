@@ -3573,7 +3573,7 @@ Proceed?</source>
     <name>EmojiRegistry</name>
     <message>
         <source>Smileys &amp; Emotion</source>
-        <translation>微笑与情感</translation>
+        <translation>微笑和情感</translation>
     </message>
     <message>
         <source>People &amp; Body</source>
@@ -3581,11 +3581,11 @@ Proceed?</source>
     </message>
     <message>
         <source>Animals &amp; Nature</source>
-        <translation>动物与自然</translation>
+        <translation>动物和自然</translation>
     </message>
     <message>
         <source>Food &amp; Drink</source>
-        <translation>食物与饮料</translation>
+        <translation>食物和饮料</translation>
     </message>
     <message>
         <source>Travel &amp; Places</source>
@@ -4233,7 +4233,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Mailto color:</source>
-        <translation>邮件颜色：</translation>
+        <translation>Mailto 颜色：</translation>
     </message>
     <message>
         <source>Moderators color:</source>
@@ -17635,7 +17635,7 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi or Miranda IM.</source>
-        <translation type="vanished">本插件是 XEP-0049：私人 XML 存储的实现。
+        <translation type="vanished">本插件是 XEP-0049：专用 XML 存储的实现。
 插件与使用 Miranda IM 保存的笔记完全兼容。
 插件旨在将笔记保存在 jabber 服务器上，并能在任何地方使用 Psi 或 Miranda IM 访问这些笔记。</translation>
     </message>
@@ -17643,7 +17643,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the XMPP server with the ability to access them from anywhere using Psi or Miranda IM.</source>
-        <translation>本插件是 XEP-0049：私人 XML 存储的实现。
+        <translation>本插件是 XEP-0049：专用 XML 存储的实现。
 插件与使用 Miranda IM 保存的笔记完全兼容。
 插件旨在将笔记保存在 jabber 服务器上，并能在任何地方使用 Psi 或 Miranda IM 访问这些笔记。</translation>
     </message>
@@ -17719,7 +17719,7 @@ The plugin is designed to keep notes on the XMPP server with the ability to acce
     <name>TaskBarNotifier::Private</name>
     <message>
         <source>Quit %1 application</source>
-        <translation type="unfinished"></translation>
+        <translation>退出 %1 应用程序</translation>
     </message>
 </context>
 <context>
