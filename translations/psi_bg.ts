@@ -13645,7 +13645,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
-        <translation>Невъзножност да се зареди темата! Моля уверете се, че Psi е правилно инсталиран.</translation>
+        <translation type="vanished">Невъзножност да се зареди темата! Моля уверете се, че Psi е правилно инсталиран.</translation>
     </message>
     <message>
         <source>Please disconnect before changing the profile.</source>
@@ -13726,6 +13726,10 @@ Migration is possible with Psi-0.15</source>
 %1
 
 Миграцията е възможна с Psi-0.15</translation>
+    </message>
+    <message>
+        <source>Unable to load &quot;%1&quot; theme! Please make sure Psi is properly installed.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

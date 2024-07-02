@@ -13043,10 +13043,6 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
         <translation>Ni moč naložiti zbirke ikon. Preverite, ali je Psi pravilno nameščen.</translation>
     </message>
     <message>
-        <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Please disconnect before changing the profile.</source>
         <translation>Pred zamenjavo profila morate prekiniti povezavo.</translation>
     </message>
@@ -13121,6 +13117,10 @@ To pomeni, da morda poganjate drug izvod Psi-ja. Morda bo prišlo do težav pri 
 %1
 
 Migration is possible with Psi-0.15</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to load &quot;%1&quot; theme! Please make sure Psi is properly installed.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -12708,10 +12708,6 @@ Kialo: %1.</translation>
         <translation>Malkapable enŝargi piktogramon.  Bonvolu certiĝi ke Psio estas ĝuste instalita.</translation>
     </message>
     <message>
-        <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Please disconnect before changing the profile.</source>
         <translation>Bonvolu malkonektiĝi antaŭ ŝanĝi la profilon.</translation>
     </message>
@@ -12786,6 +12782,10 @@ Tio signifas, ke vi jam estas rulanta alian seancon de Psi. Al vi eble okazus pr
 %1
 
 Migration is possible with Psi-0.15</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to load &quot;%1&quot; theme! Please make sure Psi is properly installed.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

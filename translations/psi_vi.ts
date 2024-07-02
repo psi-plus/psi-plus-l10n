@@ -13469,10 +13469,6 @@ Lý do : %1.</translation>
         <translation>Không thể nạp bộ biểu tượng.  Hãy kiểm tra lại Psi đã được cài đặt cho đúng.</translation>
     </message>
     <message>
-        <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Please disconnect before changing the profile.</source>
         <translation>Hãy ngưng kết nối trước khi thay đổi hồ sơ.</translation>
     </message>
@@ -13547,6 +13543,10 @@ Có lẽ do tiến trinh Psi khác cũng đang chạy. Trong trường hợp đ�
 %1
 
 Migration is possible with Psi-0.15</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to load &quot;%1&quot; theme! Please make sure Psi is properly installed.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -12758,10 +12758,6 @@ Reason: %1.</source>
         <translation>Иконите не можат да се вчитаат!  Проверете дали Psi е правилно инсталиран.</translation>
     </message>
     <message>
-        <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Please disconnect before changing the profile.</source>
         <translation>Исклучете се пред да го промените профилот.</translation>
     </message>
@@ -12836,6 +12832,10 @@ This may mean you are already running another instance of Psi. You may experienc
 %1
 
 Migration is possible with Psi-0.15</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to load &quot;%1&quot; theme! Please make sure Psi is properly installed.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

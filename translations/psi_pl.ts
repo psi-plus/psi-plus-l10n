@@ -13445,10 +13445,6 @@ Przyczyna: %1.</translation>
         <translation>Nie można załadować zestawu ikon! Upewnij się, czy Psi jest prawidłowo zainstalowane.</translation>
     </message>
     <message>
-        <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Please disconnect before changing the profile.</source>
         <translation>Proszę się rozłączyć przed zmianą profilu.</translation>
     </message>
@@ -13523,6 +13519,10 @@ Może to oznaczać, że masz już uruchomioną inną kopię Psi. Może to powodo
 %1
 
 Migration is possible with Psi-0.15</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to load &quot;%1&quot; theme! Please make sure Psi is properly installed.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

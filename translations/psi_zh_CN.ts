@@ -13904,7 +13904,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
-        <translation>无法加载主题！请确保 Psi 已正确安装。</translation>
+        <translation type="vanished">无法加载主题！请确保 Psi 已正确安装。</translation>
     </message>
     <message>
         <source>Please disconnect before changing the profile.</source>
@@ -13985,6 +13985,10 @@ Migration is possible with Psi-0.15</source>
 %1
 
 使用 Psi-0.15 可以迁移</translation>
+    </message>
+    <message>
+        <source>Unable to load &quot;%1&quot; theme! Please make sure Psi is properly installed.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

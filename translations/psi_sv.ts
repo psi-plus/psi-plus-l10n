@@ -13074,10 +13074,6 @@ Orsak: %1.</translation>
         <translation>Kunde inte ladda ikonuppsättning! Kontrollera att Psi är ordentligt installerat.</translation>
     </message>
     <message>
-        <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Please disconnect before changing the profile.</source>
         <translation>Koppla ned innan du ändrar profilen.</translation>
     </message>
@@ -13152,6 +13148,10 @@ Detta kan betyda att du redan kör en annan instans av Psi. Du kan ha problem at
 %1
 
 Migration is possible with Psi-0.15</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to load &quot;%1&quot; theme! Please make sure Psi is properly installed.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -13785,7 +13785,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
-        <translation>¡No se puede cargar el tema! Por favor, asegúrate de que Psi está apropiadamente instalado.</translation>
+        <translation type="vanished">¡No se puede cargar el tema! Por favor, asegúrate de que Psi está apropiadamente instalado.</translation>
     </message>
     <message>
         <source>Please disconnect before changing the profile.</source>
@@ -13862,6 +13862,10 @@ Puede significar que ya estás ejecutando otra instancia de Psi. Puede que exper
 %1
 
 Migration is possible with Psi-0.15</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to load &quot;%1&quot; theme! Please make sure Psi is properly installed.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

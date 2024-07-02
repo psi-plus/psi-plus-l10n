@@ -12636,10 +12636,6 @@ Details: %1</source>
         <translation>Ei saanud ikoonikogu laadida! Palun veendu, et Psi on korralikult installeeritud.</translation>
     </message>
     <message>
-        <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Please disconnect before changing the profile.</source>
         <translation>Palun ühenda end välja enne profiili muutmist.</translation>
     </message>
@@ -12709,6 +12705,10 @@ This may mean you are already running another instance of Psi. You may experienc
 %1
 
 Migration is possible with Psi-0.15</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to load &quot;%1&quot; theme! Please make sure Psi is properly installed.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

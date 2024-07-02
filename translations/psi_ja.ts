@@ -13401,10 +13401,6 @@ Reason: %1.</source>
         <translation>アイコンセットがをロードできません!Psiが正しくインストールされているか確認して下さい。</translation>
     </message>
     <message>
-        <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Please disconnect before changing the profile.</source>
         <translation>プロファイルを変更する前にサーバーから切断してください。</translation>
     </message>
@@ -13479,6 +13475,10 @@ This may mean you are already running another instance of Psi. You may experienc
 %1
 
 Migration is possible with Psi-0.15</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to load &quot;%1&quot; theme! Please make sure Psi is properly installed.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

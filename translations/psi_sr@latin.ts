@@ -13556,7 +13556,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
-        <translation>Ne mogu da učitam temu!   Proverite da li je Psi pravilno instaliran. </translation>
+        <translation type="vanished">Ne mogu da učitam temu!   Proverite da li je Psi pravilno instaliran. </translation>
     </message>
     <message>
         <source>Please disconnect before changing the profile.</source>
@@ -13632,6 +13632,10 @@ This may mean you are already running another instance of Psi. You may experienc
 %1
 
 Migration is possible with Psi-0.15</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to load &quot;%1&quot; theme! Please make sure Psi is properly installed.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
