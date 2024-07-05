@@ -13892,6 +13892,14 @@ Migration is possible with Psi-0.15</source>
         <source>Unable to load &quot;%1&quot; theme! Please make sure Psi is properly installed.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Forward...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation type="unfinished">Előre</translation>
+    </message>
 </context>
 <context>
     <name>PsiContact</name>
