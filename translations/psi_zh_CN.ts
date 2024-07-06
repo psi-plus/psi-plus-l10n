@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="zh_CN">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="zh_CN">
 <context>
     <name>@default</name>
     <message>
@@ -1228,7 +1226,7 @@ save the history for this contact.</source>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Bitstream Vera Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; user, simply fill out the XMPP address (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-XMPP&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get XMPP Address&lt;/span&gt; button to generate an XMPP address for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -1590,7 +1588,7 @@ The list of exceptions for jids has two operating modes:
 * auto-responder is switched on for the list of exceptions, for the others is switched off (Enable mode) </source>
         <translation>此插件可以充当自动应答机。它有简单的配置选项，您可以使用：
 * 设置文本消息自动应答
-* 从自动应答的对象中排除指定 JID，包括群聊，（如果设置了群聊 JID ，排除将包括所有的私信）
+* 从自动应答的对象中排除指定 JID，包括群聊，（如果设置了群聊 JID，排除将包括所有的私信）
 * 禁用自动应答的一些账号
 * 设置发送自动消息数
 * 设置时间间隔之后，一些自动应答计数器将重置
@@ -1937,7 +1935,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
-        <translation type="vanished">此插件的目的是从 Psi+ 直接传递验证码</translation>
+        <translation type="vanished">此插件旨在直接从 Psi+ 传递验证码。</translation>
     </message>
 </context>
 <context>
@@ -2428,7 +2426,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Filter:</source>
-        <translation>过滤器：</translation>
+        <translation>筛选器：</translation>
     </message>
     <message>
         <source>Select All Files</source>
@@ -3083,7 +3081,7 @@ Proceed?</source>
     </message>
     <message>
         <source>File %1 is not xml file</source>
-        <translation>文件 %1 不是 xml 文件</translation>
+        <translation>文件 %1 不是 XML 文件</translation>
     </message>
     <message>
         <source>Nothing to do..</source>
@@ -3163,7 +3161,7 @@ Proceed?</source>
     </message>
     <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
-        <translation>此插件的设计目的是为了方便下载和安装 Psi 的图标集和其他资源。</translation>
+        <translation>此插件旨在方便下载和安装 Psi 的图标集和其他资源。</translation>
     </message>
 </context>
 <context>
@@ -3211,7 +3209,7 @@ Proceed?</source>
     </message>
     <message>
         <source>ToolBar will be placed here</source>
-        <comment>Don&apos;t translate this string</comment>
+        <comment>Don't translate this string</comment>
         <translation>工具栏将放置在此处</translation>
     </message>
     <message>
@@ -4372,7 +4370,7 @@ This option only has effect if accept-defaults is false.</source>
 This plugin gives you access to advanced application options, which do not have a graphical user interface.
 
 Importantly: a large part of the options are important system settings. These require extra attention and properunderstanding of the results when changing the option.</source>
-        <translation>此插件的设计允许在 Psi 中轻松配置一些高级选项。
+        <translation>此插件旨在允许轻松配置 Psi 中的一些高级选项。
 此插件允许您访问高级应用程序选项，这些选项没有图形用户界面。
 
 重要的是：很大一部分选项是重要的系统设置。更改选项时，需要特别注意并正确理解结果。</translation>
@@ -4546,7 +4544,7 @@ contact is offline.</source>
         <source>Unable to connect to peer for data transfer.
 
 Ensure that your Data Transfer settings are proper.  If you are behind
-a NAT router or firewall then you&apos;ll need to open the proper TCP port
+a NAT router or firewall then you'll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
         <translation>无法连接到对等端进行数据传输。
 
@@ -4556,7 +4554,7 @@ or specify a Data Transfer Proxy in your account settings.</source>
         <source>Failure to either connect to, or activate, the Data Transfer Proxy.
 
 This means that the Proxy service is either not functioning or it is
-unreachable.  If you are behind a firewall, then you&apos;ll need to ensure
+unreachable.  If you are behind a firewall, then you'll need to ensure
 that outgoing TCP connections are allowed.</source>
         <translation>无法连接或激活数据传输代理。
 
@@ -4731,7 +4729,7 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>Clear &amp;Finished</source>
-        <translation>清除已完成(&amp;F)</translation>
+        <translation>清除完成的(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;Hide</source>
@@ -6319,7 +6317,7 @@ Continue?</source>
     <message>
         <source>This plugin is designed to remove the history of selected contacts when the Psi is closed.
 You can select or deselect a contact for history removal from the context menu of a contact or via the plugin options.</source>
-        <translation>此插件用于在 Psi 关闭时移除所选联系人的历史记录。
+        <translation>此插件旨在在关闭 Psi 时删除所选联系人的历史记录。
 您可以从联系人的右键菜单或通过插件选项选择或取消选择要删除历史记录的联系人。</translation>
     </message>
 </context>
@@ -6742,7 +6740,7 @@ You can select or deselect a contact for history removal from the context menu o
 <context>
     <name>IcqDie</name>
     <message>
-        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
+        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it's much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
 
 Sincerely yours, Debian Sid.</source>
         <translation type="vanished">作为 Linux 用户，我可以告诉您，但不要生我的气。当然，这个人将会收到此消息。但最好是通过 Jabber 和他聊天。您在冒险，人们永远不知道 ICQ 什么时候会死，Granny 已经活得比它长了。他的 JID：%1。
@@ -6752,7 +6750,7 @@ Sincerely yours, Debian Sid.</source>
     <message>
         <source>I can tell you as a Linux, but do not be mad at me. This human do not use ICQ anymore, so if you are still use that network he will not receive your message and you have to chat to him by Jabber. His JID: %1.
 
-If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
+If you don't know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
 Sincerely yours, Debian Sid.</source>
         <translation type="vanished">作为 Linux 用户，我可以告诉您，但不要生我的气。这个人不再使用 ICQ 了，所以如果您还在使用那个网络，他将不会收到您的消息，您必须通过 Jabber 和他聊天。他的 JID：%1。
 
@@ -6830,7 +6828,7 @@ The plugin has a number of simple settings that can help you:
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
-Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
+Your contact's client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
         <translation>此插件旨在向联系人列表中的联系人发送图片。
 您的联系人的客户端必须支持 XEP-0071: XHTML-IM 并支持 data:URI 方案。
@@ -6927,7 +6925,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="vanished">允许超分辨率</translation>
     </message>
     <message>
-        <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
+        <source>This plugin shows images URLs' previews in chats for non-webkit Psi version.
 </source>
         <translation>此插件在非 webkit Psi 版本的聊天中显示图片 URL 的预览。
 </translation>
@@ -7481,7 +7479,7 @@ to play battleship. He wants to play %2.</source>
         <translation>警告</translation>
     </message>
     <message>
-        <source>can&apos;t create folder %1 
+        <source>can't create folder %1 
 caching avatars will be not available</source>
         <translation>无法创建文件夹 %1 
 缓存头像将不可用</translation>
@@ -7641,7 +7639,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Filter:</source>
-        <translation>过滤器：</translation>
+        <translation>筛选器：</translation>
     </message>
     <message>
         <source>Add</source>
@@ -8125,7 +8123,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     </message>
     <message>
         <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
-        <translation>可以根据各种过滤器丢弃传入的节，例如源/目标地址或特定消息内容</translation>
+        <translation>可以根据各种筛选器丢弃传入的节，例如源/目标地址或特定消息内容</translation>
     </message>
 </context>
 <context>
@@ -9869,7 +9867,7 @@ Reason: %1.</source>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -10186,7 +10184,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Filter the message with a key</source>
-        <translation type="vanished">使用密钥过滤消息</translation>
+        <translation type="vanished">使用密钥筛选消息</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -10349,7 +10347,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="vanished">删除</translation>
     </message>
     <message>
-        <source>Disable stopspam, if don&apos;t match any rule above
+        <source>Disable stopspam, if don't match any rule above
 (does not work for muc private messages)</source>
         <translation>如果不匹配上述任何规则，则禁用停止垃圾消息
 （不适用于群聊私信）</translation>
@@ -11496,7 +11494,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Tunes no-video filter and controllers switcher</source>
-        <translation>音乐无视频过滤器和控制器切换器</translation>
+        <translation>音乐无-视频滤镜和控制器切换器</translation>
     </message>
 </context>
 <context>
@@ -11790,7 +11788,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>PGPKey</name>
     <message>
         <source>Filter:</source>
-        <translation>过滤器：</translation>
+        <translation>筛选器：</translation>
     </message>
 </context>
 <context>
@@ -13748,7 +13746,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation>取消分配 OpenPGP 密钥(&amp;U)</translation>
+        <translation>取消分配 OpenPGP 密钥(&amp;P)</translation>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
@@ -13813,7 +13811,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Set status. STATUS must be one of `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</source>
-        <comment>do not translate `online&apos;, `chat&apos;, etc; STATUS is the same as in previous string</comment>
+        <comment>do not translate `online', `chat', etc; STATUS is the same as in previous string</comment>
         <translation>设置状态。状态必须是“在线”、“聊天”、“离开”、“延长离开”、“请勿打扰”、“离线”之一。</translation>
     </message>
     <message>
@@ -13988,15 +13986,15 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Unable to load &quot;%1&quot; theme! Please make sure Psi is properly installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法加载“%1”主题！请确保 Psi 已正确安装。</translation>
     </message>
     <message>
         <source>Forward...</source>
-        <translation type="unfinished"></translation>
+        <translation>转发…</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">前进</translation>
+        <translation>转发</translation>
     </message>
 </context>
 <context>
@@ -14074,7 +14072,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation type="vanished">取消分配 OpenPGP 密钥(&amp;U)</translation>
+        <translation type="vanished">取消分配 OpenPGP 密钥(&amp;P)</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
@@ -14487,11 +14485,11 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Options filter</source>
-        <translation>选项过滤器</translation>
+        <translation>选项筛选器</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation>过滤器</translation>
+        <translation>筛选器</translation>
     </message>
     <message>
         <source>Display options as a flat list</source>
@@ -14840,7 +14838,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Inactive</source>
-        <translation>不活动</translation>
+        <translation>不活跃</translation>
     </message>
     <message>
         <source>Day Off</source>
@@ -15572,27 +15570,19 @@ Description: </source>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
-        <translation>
-            <numerusform>%n 天</numerusform>
-        </translation>
+        <translation><numerusform>%n 天</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s) </source>
-        <translation>
-            <numerusform>%n 小时</numerusform>
-        </translation>
+        <translation><numerusform>%n 小时</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) </source>
-        <translation>
-            <numerusform>%n 分钟</numerusform>
-        </translation>
+        <translation><numerusform>%n 分钟</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n second(s) </source>
-        <translation>
-            <numerusform>%n 秒</numerusform>
-        </translation>
+        <translation><numerusform>%n 秒</numerusform></translation>
     </message>
     <message>
         <source>Warning</source>
@@ -16020,11 +16010,11 @@ URL：%4
     </message>
     <message>
         <source>Role: %1</source>
-        <translation>角色：%1</translation>
+        <translation>角色: %1</translation>
     </message>
     <message>
         <source>Affiliation: %1</source>
-        <translation>从属关系：%1</translation>
+        <translation>从属关系: %1</translation>
     </message>
     <message>
         <source>Last Status</source>
@@ -16285,10 +16275,8 @@ Reason: %1</source>
     <message numerus="yes">
         <source>celebrates birthday in %n day(s)
 </source>
-        <translation>
-            <numerusform>在 %n 天后庆祝生日
-</numerusform>
-        </translation>
+        <translation><numerusform>在 %n 天后庆祝生日
+</numerusform></translation>
     </message>
     <message>
         <source>celebrates birthday yesterday.
@@ -16692,9 +16680,7 @@ Reason: %1</source>
     </message>
     <message numerus="yes">
         <source>Added %n users to your roster.</source>
-        <translation>
-            <numerusform>已将 %n 个用户添加到您的联系人列表中。</numerusform>
-        </translation>
+        <translation><numerusform>已将 %n 个用户添加到您的联系人列表中。</numerusform></translation>
     </message>
     <message>
         <source>Added %1 to your roster.</source>
@@ -17647,17 +17633,17 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi or Miranda IM.</source>
-        <translation type="vanished">本插件是 XEP-0049：专用 XML 存储的实现。
-插件与使用 Miranda IM 保存的笔记完全兼容。
-插件旨在将笔记保存在 jabber 服务器上，并能在任何地方使用 Psi 或 Miranda IM 访问这些笔记。</translation>
+        <translation type="vanished">此插件是 XEP-0049：专用 XML 存储的实现。
+本插件与使用 Miranda IM 保存的笔记完全兼容。
+本插件旨在将笔记保存在 jabber 服务器上，并能在任何地方使用 Psi 或 Miranda IM 访问这些笔记。</translation>
     </message>
     <message>
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the XMPP server with the ability to access them from anywhere using Psi or Miranda IM.</source>
-        <translation>本插件是 XEP-0049：专用 XML 存储的实现。
-插件与使用 Miranda IM 保存的笔记完全兼容。
-插件旨在将笔记保存在 jabber 服务器上，并能在任何地方使用 Psi 或 Miranda IM 访问这些笔记。</translation>
+        <translation>此插件是 XEP-0049：专用 XML 存储的实现。
+本插件与使用 Miranda IM 保存的笔记完全兼容。
+本插件旨在将笔记保存在 jabber 服务器上，并能在任何地方使用 Psi 或 Miranda IM 访问这些笔记。</translation>
     </message>
 </context>
 <context>
@@ -18082,7 +18068,7 @@ Please correct and try again.</source>
         <source>You can type these special commands in chat and groupchat dialogs:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; to clear chat view&lt;/li&gt;
-&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; &apos;/me&apos; is replaced by your nick&lt;/li&gt;
+&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; '/me' is replaced by your nick&lt;/li&gt;
 &lt;/ul&gt;
 And these work only in groupchat dialog:
 &lt;ul&gt;
@@ -18891,7 +18877,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Filter</source>
-        <translation>过滤器</translation>
+        <translation>筛选器</translation>
     </message>
     <message>
         <source>Message</source>
@@ -20482,7 +20468,7 @@ Reathorization...</source>
 重新授权…</translation>
     </message>
     <message>
-        <source>Can&apos;t get files!
+        <source>Can't get files!
 Try remove cookies.</source>
         <translation>无法获取文件！
 尝试移除 Cookies。</translation>
@@ -20573,7 +20559,7 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
