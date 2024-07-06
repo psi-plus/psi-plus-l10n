@@ -8920,6 +8920,10 @@ Reason: %1.</translation>
         <source>&lt;a href=&quot;thememanager://showmore/&quot;&gt;More themes&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;thememanager://showmore/&quot;&gt;More themes&lt;/a&gt;</translation>
     </message>
+    <message>
+        <source>Style</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptApplication</name>

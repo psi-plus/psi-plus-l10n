@@ -8028,6 +8028,10 @@ Reason: %1.</source>
         <source>&lt;a href=&quot;thememanager://showmore/&quot;&gt;More themes&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Style</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptApplication</name>
