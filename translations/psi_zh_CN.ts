@@ -8909,7 +8909,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>风格</translation>
     </message>
 </context>
 <context>
@@ -10773,19 +10773,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Specifies the font style for the main window.</source>
-        <translation>指定主窗口的字体样式。</translation>
+        <translation>指定主窗口的字体风格。</translation>
     </message>
     <message>
         <source>Specifies the font style for message windows.</source>
-        <translation>指定邮件窗口的字体样式。</translation>
+        <translation>指定邮件窗口的字体风格。</translation>
     </message>
     <message>
         <source>Specifies the font style for chat windows.</source>
-        <translation>指定聊天窗口的字体样式。</translation>
+        <translation>指定聊天窗口的字体风格。</translation>
     </message>
     <message>
         <source>Specifies the font style for popup windows.</source>
-        <translation>指定弹窗的字体样式。</translation>
+        <translation>指定弹窗的字体风格。</translation>
     </message>
     <message>
         <source>Selects a font for the roster window using the font selection dialog.</source>
