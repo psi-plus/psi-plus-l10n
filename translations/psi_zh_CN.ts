@@ -8908,12 +8908,8 @@ Reason: %1.</source>
         <translation>&lt;a href=&quot;thememanager://showmore/&quot;&gt;更多主题&lt;/a&gt;</translation>
     </message>
     <message>
-        <source>Style</source>
-        <translation type="vanished">风格</translation>
-    </message>
-    <message>
         <source>Style:</source>
-        <translation type="unfinished"></translation>
+        <translation>风格：</translation>
     </message>
 </context>
 <context>
@@ -10727,7 +10723,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;P&gt;Specifies how to treat incoming events:&lt;/P&gt;&lt;P&gt;&lt;B&gt;Normal&lt;/B&gt; - messages come as messages, chats come as chats.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Messages&lt;/B&gt; - All messages/chats come as messages, no matter what their original form was.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Chats&lt;/B&gt; - All messages/chats come as chats, no matter what their original form was.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;指定如何处理传入事件：&lt;/P&gt;&lt;P&gt;&lt;B&gt;普通&lt;/B&gt; - 邮件是邮件，聊天是聊天。&lt;/P&gt;&lt;P&gt;&lt;B&gt;邮件&lt;/B&gt;- 所有邮件/聊天都以邮件的形式出现，无论其原始形式是什么。&lt;/P&gt; &lt;P&gt;&lt;B&gt;聊天&lt;/B&gt; - 所有邮件/聊天都以聊天的形式出现，无论其原始形式是什么。&lt;/P&gt;</translation>
+        <translation>&lt;P&gt;指定如何处理传入事件：&lt;/P&gt;&lt;P&gt;&lt;B&gt;普通&lt;/B&gt; - 邮件是邮件，聊天是聊天。&lt;/P&gt;&lt;P&gt;&lt;B&gt;邮件&lt;/B&gt; - 所有邮件/聊天都以邮件的形式出现，无论其原始形式是什么。&lt;/P&gt; &lt;P&gt;&lt;B&gt;聊天&lt;/B&gt; - 所有邮件/聊天都以聊天的形式出现，无论其原始形式是什么。&lt;/P&gt;</translation>
     </message>
     <message>
         <source>Makes Psi show separate subject line in messages. Uncheck this if you want to save some screen space.</source>
@@ -16201,7 +16197,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
-        <translation>此插件旨在使用 QIP Infium jabber 客户端显示联系人的 x-状态。</translation>
+        <translation>此插件旨在使用 QIP Infium jabber 客户端显示联系人的 X-状态。</translation>
     </message>
 </context>
 <context>

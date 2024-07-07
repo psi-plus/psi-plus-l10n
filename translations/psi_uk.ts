@@ -8929,7 +8929,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль:</translation>
     </message>
 </context>
 <context>
