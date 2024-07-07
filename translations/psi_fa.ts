@@ -7905,7 +7905,7 @@ Reason: %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Style</source>
+        <source>Style:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

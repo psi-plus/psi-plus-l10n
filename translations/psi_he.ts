@@ -8538,7 +8538,7 @@ Reason: %1.</source>
         <translation>&lt;a href=&quot;thememanager://showmore/&quot;&gt;עוד מוטיבים&lt;/a&gt;</translation>
     </message>
     <message>
-        <source>Style</source>
+        <source>Style:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

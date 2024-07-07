@@ -8909,7 +8909,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Style</source>
-        <translation>风格</translation>
+        <translation type="vanished">风格</translation>
+    </message>
+    <message>
+        <source>Style:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -8640,7 +8640,7 @@ Arsye: %1.</translation>
         <translation>&lt;a href=&quot;thememanager://showmore/&quot;&gt;Më tepër tema&lt;/a&gt;</translation>
     </message>
     <message>
-        <source>Style</source>
+        <source>Style:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
