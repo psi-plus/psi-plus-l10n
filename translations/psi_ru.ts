@@ -824,19 +824,19 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Direct TLS</source>
-        <translation type="unfinished"></translation>
+        <translation>Прямой TLS</translation>
     </message>
     <message>
         <source>Direct TLS is only available in combination with manual host/port.</source>
-        <translation type="unfinished"></translation>
+        <translation>Прямой TLS доступен только в сочетании с ручным указанием хоста и порта.</translation>
     </message>
     <message>
         <source>TLS error</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка TLS</translation>
     </message>
     <message>
         <source>Cannot enable TLS.  Plugin not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно включить шифрование TLS. Модуль не найден.</translation>
     </message>
 </context>
 <context>
@@ -976,11 +976,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Direct TLS</source>
-        <translation type="unfinished"></translation>
+        <translation>Прямой TLS</translation>
     </message>
     <message>
         <source>Direct TLS is only available in combination with manual host/port.</source>
-        <translation type="unfinished"></translation>
+        <translation>Прямой TLS доступен только в сочетании с ручным указанием хоста и порта.</translation>
     </message>
 </context>
 <context>
@@ -1775,7 +1775,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Имя:</translation>
+        <translation>Имя:</translation>
     </message>
 </context>
 <context>
@@ -2217,7 +2217,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Audio recording failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка записи аудио</translation>
     </message>
 </context>
 <context>
@@ -3588,7 +3588,7 @@ Proceed?</source>
     <name>EmojiRegistry</name>
     <message>
         <source>Smileys &amp; Emotion</source>
-        <translation type="unfinished"></translation>
+        <translation>Смайлы и эмоции</translation>
     </message>
     <message>
         <source>People &amp; Body</source>
@@ -3596,31 +3596,31 @@ Proceed?</source>
     </message>
     <message>
         <source>Animals &amp; Nature</source>
-        <translation type="unfinished"></translation>
+        <translation>Животные и природа</translation>
     </message>
     <message>
         <source>Food &amp; Drink</source>
-        <translation type="unfinished"></translation>
+        <translation>Еда и напитки</translation>
     </message>
     <message>
         <source>Travel &amp; Places</source>
-        <translation type="unfinished"></translation>
+        <translation>Путешествия и места</translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="unfinished">Занятия</translation>
+        <translation>Занятия</translation>
     </message>
     <message>
         <source>Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Объекты</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>Символы</translation>
     </message>
     <message>
         <source>Flags</source>
-        <translation type="unfinished"></translation>
+        <translation>Флаги</translation>
     </message>
 </context>
 <context>
@@ -6307,7 +6307,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Found %1 files for import.
 Continue?</source>
-        <translation>Обнаружено %1 фалов для импорта.
+        <translation>Обнаружено %1 файлов для импорта.
 Продолжить?</translation>
     </message>
     <message>
@@ -7466,7 +7466,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Jingle download failed: %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка через Jingle не удалась: %s</translation>
     </message>
 </context>
 <context>
@@ -8078,11 +8078,11 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>Disable Sounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить звуки</translation>
     </message>
     <message>
         <source>Enable Sounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить звуки</translation>
     </message>
 </context>
 <context>
@@ -8350,7 +8350,7 @@ Details: %1</source>
     </message>
     <message>
         <source>not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>не определено</translation>
     </message>
 </context>
 <context>
@@ -8396,7 +8396,7 @@ Details: %1</source>
     </message>
     <message>
         <source>not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>не определено</translation>
     </message>
 </context>
 <context>
@@ -8868,19 +8868,19 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Group chat participants:</source>
-        <translation type="unfinished"></translation>
+        <translation>Участники группового чата:</translation>
     </message>
     <message>
         <source>Group chat moderators:</source>
-        <translation type="unfinished"></translation>
+        <translation>Модераторы группового чата:</translation>
     </message>
     <message>
         <source>Group chat visitors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Посетители группового чата:</translation>
     </message>
     <message>
         <source>Group chat contacts without role:</source>
-        <translation type="unfinished"></translation>
+        <translation>Контакты группового чата без роли:</translation>
     </message>
 </context>
 <context>
@@ -8930,7 +8930,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль:</translation>
     </message>
 </context>
 <context>
@@ -9005,7 +9005,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Use &quot;double-click&quot; style</source>
-        <translation type="unfinished"></translation>
+        <translation>Управлять двойным кликом</translation>
     </message>
 </context>
 <context>
@@ -13162,7 +13162,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Psi switched to the internal password storage because system password manager is unavailable (%s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi переключился на внутренний менеджер паролей, потому что системный менеджер паролей не доступен (%s).</translation>
     </message>
 </context>
 <context>
@@ -13919,11 +13919,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Use software widgets rendering. In some cases default hardware rendering may lead to graphical glitches and crashes. This option may help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать программный рендеринг виджетов. В некоторых случаях аппаратный рендеринг, используемый по умолчанию, может приводить к крафическим артефактам и даже к аварийному завершению программы. Данная опция может помочь.</translation>
     </message>
     <message>
         <source>Quit the application</source>
-        <translation type="unfinished"></translation>
+        <translation>Завершить приложение</translation>
     </message>
 </context>
 <context>
@@ -14022,7 +14022,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Unable to load &quot;%1&quot; theme! Please make sure Psi is properly installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно загрузить тему &quot;%1&quot;! Убедитесь, что приложение установлено правильно.</translation>
     </message>
     <message>
         <source>Forward...</source>
@@ -14030,7 +14030,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Вперёд</translation>
+        <translation>Вперёд</translation>
     </message>
 </context>
 <context>
@@ -14267,7 +14267,7 @@ Migration is possible with Psi-0.15</source>
     <name>PsiDBusNotifier</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Открыть</translation>
+        <translation>Открыть</translation>
     </message>
 </context>
 <context>
@@ -17783,7 +17783,7 @@ The plugin is designed to keep notes on the XMPP server with the ability to acce
     <name>TaskBarNotifier::Private</name>
     <message>
         <source>Quit %1 application</source>
-        <translation type="unfinished"></translation>
+        <translation>Завершить приложение %1</translation>
     </message>
 </context>
 <context>
@@ -19235,11 +19235,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Policy violation</source>
-        <translation type="unfinished">Нарушение правил</translation>
+        <translation>Нарушение правил</translation>
     </message>
     <message>
         <source>The sender has violated some service policy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправитель нарушил некоторые правила сервиса.</translation>
     </message>
 </context>
 <context>
@@ -20214,7 +20214,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows one to use it for protecting conversations via XMPP transports (to Telegram, Skype, VK, QQ and other networks).</source>
-        <translation type="unfinished"></translation>
+        <translation>По сравнению с OpenPGP и OMEMO протокол OTR не зависит от специфических структур XMPP, что позволяет использовать его для защиты разговоров через транспорты XMPP (в Telegram, Skype, ВКонтакте, QQ и других сетях).</translation>
     </message>
 </context>
 <context>
