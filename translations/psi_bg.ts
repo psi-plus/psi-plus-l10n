@@ -16548,15 +16548,23 @@ Reason: %1</source>
     </message>
     <message>
         <source>Maximum redirect count reached</source>
-        <translation>Максималният брой на пренасочванията е достигнат</translation>
+        <translation type="vanished">Максималният брой на пренасочванията е достигнат</translation>
     </message>
     <message>
         <source>Invalid redirect URL %1</source>
-        <translation>Невалиден URL %1 за пренасочване</translation>
+        <translation type="vanished">Невалиден URL %1 за пренасочване</translation>
     </message>
     <message>
         <source>Unexpected HTTP status code: %1</source>
         <translation>Неочакван HTTP статусен код: %1</translation>
+    </message>
+    <message>
+        <source>Failed to parse json.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to parse any valid server JIDs from %1.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

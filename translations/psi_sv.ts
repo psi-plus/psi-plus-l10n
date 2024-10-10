@@ -15943,15 +15943,19 @@ Orsak: %1</translation>
     </message>
     <message>
         <source>Maximum redirect count reached</source>
-        <translation>Maximalt antal omdirigeringar uppnått</translation>
-    </message>
-    <message>
-        <source>Invalid redirect URL %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Maximalt antal omdirigeringar uppnått</translation>
     </message>
     <message>
         <source>Unexpected HTTP status code: %1</source>
         <translation>Oväntad HTTP-statuskod: %1</translation>
+    </message>
+    <message>
+        <source>Failed to parse json.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to parse any valid server JIDs from %1.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

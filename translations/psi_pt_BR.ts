@@ -16751,15 +16751,23 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Maximum redirect count reached</source>
-        <translation>Quantidade máxima de redirecionamentos alcançada</translation>
+        <translation type="vanished">Quantidade máxima de redirecionamentos alcançada</translation>
     </message>
     <message>
         <source>Invalid redirect URL %1</source>
-        <translation>Redirecionamento inválido URL %1</translation>
+        <translation type="vanished">Redirecionamento inválido URL %1</translation>
     </message>
     <message>
         <source>Unexpected HTTP status code: %1</source>
         <translation>Código de status HTTP inesperado: %1</translation>
+    </message>
+    <message>
+        <source>Failed to parse json.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to parse any valid server JIDs from %1.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

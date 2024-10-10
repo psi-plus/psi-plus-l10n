@@ -15734,15 +15734,19 @@ Reason: %1</source>
     </message>
     <message>
         <source>Maximum redirect count reached</source>
-        <translation>زیادہ سے زیادہ نئ سمت شمار یو چکا ہے</translation>
-    </message>
-    <message>
-        <source>Invalid redirect URL %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">زیادہ سے زیادہ نئ سمت شمار یو چکا ہے</translation>
     </message>
     <message>
         <source>Unexpected HTTP status code: %1</source>
         <translation>غیر متوقع HTTP حالت ضابطہ:%1</translation>
+    </message>
+    <message>
+        <source>Failed to parse json.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to parse any valid server JIDs from %1.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

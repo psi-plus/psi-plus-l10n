@@ -16849,15 +16849,23 @@ Reason: %1</source>
     </message>
     <message>
         <source>Maximum redirect count reached</source>
-        <translation>已达到最大重定向次数</translation>
+        <translation type="vanished">已达到最大重定向次数</translation>
     </message>
     <message>
         <source>Invalid redirect URL %1</source>
-        <translation>无效的重定向 URL %1</translation>
+        <translation type="vanished">无效的重定向 URL %1</translation>
     </message>
     <message>
         <source>Unexpected HTTP status code: %1</source>
         <translation>未预期的 HTTP 状态码：%1</translation>
+    </message>
+    <message>
+        <source>Failed to parse json.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to parse any valid server JIDs from %1.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

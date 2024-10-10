@@ -16448,15 +16448,19 @@ Razlog: %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Maximum redirect count reached</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Invalid redirect URL %1</source>
-        <translation>neuspela redirekcija URL %1</translation>
+        <translation type="vanished">neuspela redirekcija URL %1</translation>
     </message>
     <message>
         <source>Unexpected HTTP status code: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to parse json.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to parse any valid server JIDs from %1.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

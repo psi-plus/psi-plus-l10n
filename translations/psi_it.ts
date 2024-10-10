@@ -16868,15 +16868,23 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Maximum redirect count reached</source>
-        <translation>Massimo numero di redirezioni raggiunto</translation>
+        <translation type="vanished">Massimo numero di redirezioni raggiunto</translation>
     </message>
     <message>
         <source>Invalid redirect URL %1</source>
-        <translation>Reindirizzamento URL invalido %1</translation>
+        <translation type="vanished">Reindirizzamento URL invalido %1</translation>
     </message>
     <message>
         <source>Unexpected HTTP status code: %1</source>
         <translation>Codice di stato HTTP inaspettato: %1</translation>
+    </message>
+    <message>
+        <source>Failed to parse json.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to parse any valid server JIDs from %1.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
