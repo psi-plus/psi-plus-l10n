@@ -16861,11 +16861,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Failed to parse json.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法解析 JSON。</translation>
     </message>
     <message>
         <source>Failed to parse any valid server JIDs from %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法从 %1 解析任何有效的服务器 JID。</translation>
     </message>
 </context>
 <context>
