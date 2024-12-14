@@ -287,7 +287,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Cross-platform XMPP client designed for experienced users.</source>
-        <translation>Міжплатформовий клієнт XMPP, розроблений для досвідчених користувачів.</translation>
+        <translation>Кросплатформенний клієнт XMPP, призначений для досвідчених користувачів.</translation>
     </message>
 </context>
 <context>
@@ -829,7 +829,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
-        <translation>Використовуйте той самий проксі-сервер для завантаження по HTTP, що й налаштований для з’єднання XMPP. В іншому випадку використовуйте проксі-сервер програми за замовчуванням.</translation>
+        <translation>Використовуйте той самий проксі-сервер для завантаження по HTTP, який налаштовано для підключення XMPP. В іншому випадку використовуйте проксі-сервер програми за умовчанням.</translation>
     </message>
     <message>
         <source>Direct TLS</source>
@@ -989,7 +989,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Direct TLS is only available in combination with manual host/port.</source>
-        <translation>Прямий TLS доступний лише в поєднанні з хостом/портом вказаними вручну.</translation>
+        <translation>Прямий TLS доступний лише в поєднанні з хостом/портом вказаним вручну.</translation>
     </message>
 </context>
 <context>
@@ -1361,7 +1361,7 @@ There was an error getting the Service ID translation information from &quot;%1&
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%gmail.com@[XMPP address of Transport]&lt;br&gt;&lt;/qt&gt;</source>
         <translation>&lt;qt&gt;
-Під час отримання інформації про трансляцію Service ID з &quot;%1&quot;.&lt;br&gt;Причина: %2&lt;br&gt;&lt;br&gt;Можливо, даний сервіс не підтримує цю функцію. В цьому випадку вам необхідно ввести XMPP адресу контакта вручну. Приклади:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP адреса транспотру]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%gmail.com@[XMPP  адреса транспотру]&lt;br&gt;&lt;/qt&gt;</translation>
+Під час отримання інформації про трансляцію Service ID з &quot;%1&quot;.&lt;br&gt;Причина: %2&lt;br&gt;&lt;br&gt;Можливо, даний сервіс не підтримує цю функцію. У цьому випадку вам необхідно ввести XMPP адресу контакта вручну. Приклади:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP адреса транспорту]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%gmail.com@[XMPP  адреса транспорту]&lt;br&gt;&lt;/qt&gt;</translation>
     </message>
 </context>
 <context>
@@ -3609,7 +3609,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Activities</source>
-        <translation>Зайняття</translation>
+        <translation>Діяльність</translation>
     </message>
     <message>
         <source>Objects</source>
@@ -5585,11 +5585,11 @@ You lost the game.</source>
     </message>
     <message>
         <source>Show kick messages caused by some technical problems like client&apos;s connection loss for example.</source>
-        <translation>Показувати повідомлення про помилки, викликані деякими технічними проблемами, наприклад, втратою з’єднання клієнтом.</translation>
+        <translation>Показувати повідомлення про викиди, викликані деякими технічними проблемами, наприклад, втратою з’єднання клієнтом.</translation>
     </message>
     <message>
         <source>Show technical kicks</source>
-        <translation>Показувати технічні проблеми</translation>
+        <translation>Показувати технічні викиди</translation>
     </message>
 </context>
 <context>
@@ -12601,7 +12601,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
 The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; and&lt;b&gt; Chat&lt;/b&gt;. You can change this later from the Options menu.&lt;br&gt;
 &lt;br&gt;
 Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation>Нехай&lt;i&gt; ім&apos;я вашого профілю &lt;/i&gt; буде простим. Це має бути одне слово, яке складається лише з букв або цифр.&lt;br&gt;
+        <translation>Нехай&lt;i&gt; ім&apos;я вашого профілю &lt;/i&gt; буде простим. Це має бути одне слово, яке складається лише з літер або цифр.&lt;br&gt;
 &lt;br&gt;
 &lt;i&gt; Дія за замовчуванням&lt;/i&gt; це те, що відбувається, коли ви двічі клацаєте контакт у своєму списку. Доступні варіанти&lt;b&gt; Повідомлення&lt;/b&gt; та&lt;b&gt; Чат &lt;/b&gt;. Ви можете змінити це пізніше в меню «Параметри».&lt;br&gt;
 &lt;br&gt;
@@ -13697,11 +13697,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Manage Accounts</source>
-        <translation>Керувати акаунтами</translation>
+        <translation>Керувати Акаунтами</translation>
     </message>
     <message>
         <source>&amp;Manage Accounts</source>
-        <translation>&amp;Керувати акаунтами</translation>
+        <translation>&amp;Керувати Акаунтами</translation>
     </message>
 </context>
 <context>
@@ -13911,11 +13911,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Psi is a cross-platform XMPP client designed for experienced users.</source>
-        <translation>Psi - мульти-платформовий XMPP-клієнт для досвідчених користувачів.</translation>
+        <translation>Psi — це кросплатформний клієнт XMPP, призначений для досвідчених користувачів.</translation>
     </message>
     <message>
         <source>Receive next pending event.</source>
-        <translation>Отримати наступну очікувану подію.</translation>
+        <translation>Отримати наступну незавершену подію.</translation>
     </message>
     <message>
         <source>Use software widgets rendering. In some cases default hardware rendering may lead to graphical glitches and crashes. This option may help.</source>
@@ -14030,7 +14030,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation>Вперед</translation>
+        <translation>Переслати</translation>
     </message>
 </context>
 <context>
@@ -14577,15 +14577,15 @@ Would you like to activate that session now?</source>
     <name>PsiThumbnailToolBar</name>
     <message>
         <source>Options</source>
-        <translation type="vanished">Налаштування</translation>
+        <translation type="vanished">Опції</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="vanished">Доступний</translation>
+        <translation type="vanished">Онлайн</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="vanished">Поза мережею</translation>
+        <translation type="vanished">Офлайн</translation>
     </message>
     <message>
         <source>Show Next Event</source>
@@ -16901,11 +16901,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Failed to parse json.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося проаналізувати json.</translation>
     </message>
     <message>
         <source>Failed to parse any valid server JIDs from %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося проаналізувати дійсні JID сервери з %1.</translation>
     </message>
 </context>
 <context>
@@ -18231,7 +18231,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
         <translation>Вітаємо! Дякуємо, що завантажили Psi!
 Ми сподіваємось, що вам сподобається користуватися ним, як і нам сподобалось його робити! 
 &lt;br&gt;&lt;br&gt;Якщо вам необхідно завантажити інший переклад, пакет іконок, або нову версію Psi, вам необхідно завітати на &lt;a href=&quot;https://psi-im.org&quot;&gt;Домашню сторінку Psi&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;Якщо ви гадаєте, що знайшли баг, або ви просто бажаєте поспілкуватись з іншими користувачами Psi, відвідайте &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Форуми Psi&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;Якщо ви гадаєте, що знайшли помилку, або просто бажаєте поспілкуватись з іншими користувачами Psi, відвідайте &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Форуми Psi&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;команда Psi&lt;/i&gt;&lt;/div&gt;</translation>
     </message>
     <message>
@@ -18242,7 +18242,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
     </message>
     <message>
         <source>Do you chat on third-party IM networks such as Telegram and WhatsApp?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation>Чи спілкуєтеся ви в сторонніх мережах миттєвих повідомлень, таких як Telegram і WhatsApp? Спробуйте ввімкнути опцію «іконки для транспорту». Це дозволить вам швидко побачити, яку мережу використовує ваш приятель. Тоді ви зможете переконати його перейти на XMPP.&lt;icon name=&quot;psi/smile&quot;&gt;</translation>
+        <translation>Чи спілкуєтеся ви в сторонніх мережах миттєвих повідомлень, таких як Telegram та WhatsApp? Спробуйте ввімкнути опцію «іконки для транспорту». Це дозволить вам швидко побачити, яку мережу використовує ваш приятель. Тоді ви зможете переконати його перейти на XMPP.&lt;icon name=&quot;psi/smile&quot;&gt;</translation>
     </message>
 </context>
 <context>

@@ -204,7 +204,7 @@ Join the translation team today! Go to
 https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
         <translation>简体中文翻译团队&lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;&lt;br&gt;
-现在加入翻译团队！请访问 &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; 了解更多详细信息！</translation>
+现在加入翻译团队！请访问 &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; 了解更多详情！</translation>
     </message>
     <message>
         <source>Original Author</source>
@@ -224,7 +224,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Past Lead Widget Developer</source>
-        <translation>过去的首席小部件开发人员</translation>
+        <translation>过去的首席组件开发人员</translation>
     </message>
     <message>
         <source>Developer and Maintainer</source>
@@ -459,7 +459,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Details</source>
-        <translation>详细信息</translation>
+        <translation>详情</translation>
     </message>
     <message>
         <source>Personal Information</source>
@@ -471,7 +471,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Edit Personal &amp;Details...</source>
-        <translation>编辑个人详细信息(&amp;D)…</translation>
+        <translation>编辑个人详情(&amp;D)…</translation>
     </message>
     <message>
         <source>OpenPGP</source>
@@ -826,11 +826,11 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Direct TLS</source>
-        <translation>Direct TLS</translation>
+        <translation>直接 TLS</translation>
     </message>
     <message>
         <source>Direct TLS is only available in combination with manual host/port.</source>
-        <translation>Direct TLS 仅在手动指定主机/端口时可用。</translation>
+        <translation>直接 TLS 仅在手动指定主机/端口时可用。</translation>
     </message>
     <message>
         <source>TLS error</source>
@@ -978,11 +978,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Direct TLS</source>
-        <translation>Direct TLS</translation>
+        <translation>直接 TLS</translation>
     </message>
     <message>
         <source>Direct TLS is only available in combination with manual host/port.</source>
-        <translation>Direct TLS 仅在手动指定主机/端口时可用。</translation>
+        <translation>直接 TLS 仅在手动指定主机/端口时可用。</translation>
     </message>
 </context>
 <context>
@@ -1624,7 +1624,7 @@ JID 的例外列表有两种操作模式：
     </message>
     <message>
         <source>Cannot call without selecting a device.  Do you have a microphone?  Check the Psi options.</source>
-        <translation>在未选择设备的情况下无法呼叫。您有麦克风吗？检查 Psi 选项。</translation>
+        <translation>在未选择设备的情况下无法通话。是否有麦克风？检查 Psi 选项。</translation>
     </message>
     <message>
         <source>An error occurred while trying to send:
@@ -1634,7 +1634,7 @@ JID 的例外列表有两种操作模式：
     </message>
     <message>
         <source>Call was rejected or terminated.</source>
-        <translation>呼叫被拒绝或已终止。</translation>
+        <translation>通话被拒绝或已终止。</translation>
     </message>
     <message>
         <source>Call negotiation timed out.</source>
@@ -1864,7 +1864,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Accept call?</source>
-        <translation>接受呼叫？</translation>
+        <translation>接听通话？</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -1892,7 +1892,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Call duration: %1</source>
-        <translation>呼叫持续时间：%1</translation>
+        <translation>通话时长：%1</translation>
     </message>
 </context>
 <context>
@@ -1983,11 +1983,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Subject Details:</source>
-        <translation>主题详细信息：</translation>
+        <translation>主题详情：</translation>
     </message>
     <message>
         <source>Issuer Details:</source>
-        <translation>颁发者详细信息：</translation>
+        <translation>颁发者详情：</translation>
     </message>
     <message>
         <source>Organization:</source>
@@ -3573,7 +3573,7 @@ Proceed?</source>
     <name>EmojiRegistry</name>
     <message>
         <source>Smileys &amp; Emotion</source>
-        <translation>微笑和情感</translation>
+        <translation>笑脸和情绪</translation>
     </message>
     <message>
         <source>People &amp; Body</source>
@@ -6532,7 +6532,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation>显示详细信息(&amp;S)</translation>
+        <translation>显示详情(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -6547,7 +6547,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation>显示详细信息(&amp;S)</translation>
+        <translation>显示详情(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -6562,14 +6562,14 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation>显示详细信息(&amp;S)</translation>
+        <translation>显示详情(&amp;S)</translation>
     </message>
 </context>
 <context>
     <name>IconsetDetailsDlg</name>
     <message>
         <source>Iconset Details: %1</source>
-        <translation>图标集详细信息：%1</translation>
+        <translation>图标集详情：%1</translation>
     </message>
     <message>
         <source>Description:</source>
@@ -6589,7 +6589,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Home URL:</source>
-        <translation>首页 URL：</translation>
+        <translation>主页 URL：</translation>
     </message>
     <message>
         <source>XXX</source>
@@ -6635,7 +6635,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>&amp;Show details</source>
-        <translation>显示详细信息(&amp;S)</translation>
+        <translation>显示详情(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -6650,7 +6650,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation>显示详细信息(&amp;S)</translation>
+        <translation>显示详情(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -6669,7 +6669,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>&amp;Show details</source>
-        <translation>显示详细信息(&amp;S)</translation>
+        <translation>显示详情(&amp;S)</translation>
     </message>
     <message>
         <source>Services</source>
@@ -6732,7 +6732,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>&amp;Show details</source>
-        <translation>显示详细信息(&amp;S)</translation>
+        <translation>显示详情(&amp;S)</translation>
     </message>
     <message>
         <source>Alt+S</source>
@@ -7099,7 +7099,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Open web browser</source>
-        <translation>打开浏览器</translation>
+        <translation>打开网络浏览器</translation>
     </message>
     <message>
         <source>No date</source>
@@ -7211,7 +7211,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Details</source>
-        <translation>详细信息</translation>
+        <translation>详情</translation>
     </message>
 </context>
 <context>
@@ -7969,7 +7969,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
-        <translation type="vanished">此应用程序使用 GStreamer %1，全面的开源和跨平台多媒体框架。有关详细信息，请参阅 &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</translation>
+        <translation type="vanished">此应用程序使用 GStreamer %1，全面的开源和跨平台多媒体框架。更多详情，请参阅 &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</translation>
     </message>
     <message>
         <source>About GStreamer</source>
@@ -8037,7 +8037,7 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
-        <translation type="vanished">PsiMedia 插件未加载或未初始化。&lt;br&gt;请查看 &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; 了解更多详细信息。</translation>
+        <translation type="vanished">PsiMedia 插件未加载或未初始化。&lt;br&gt;请查看 &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; 了解更多详情。</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -8146,7 +8146,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
         <source>There was an error communicating with the XMPP server.
 Details: %1</source>
         <translation>与 XMPP 服务器通信时出错。
-详细信息：%1</translation>
+详情：%1</translation>
     </message>
 </context>
 <context>
@@ -9527,7 +9527,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Hides scrollbar in the roster widget.</source>
-        <translation>隐藏联系人列表小部件中的滚动条。</translation>
+        <translation>隐藏联系人列表组件中的滚动条。</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
@@ -10134,7 +10134,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source> Enable &quot;Mail notifications&quot; option!</source>
-        <translation type="vanished">启用“邮件通知”选项</translation>
+        <translation type="vanished">启用“邮件通知”选项！</translation>
     </message>
     <message>
         <source>Mail Notifications Settings</source>
@@ -10218,7 +10218,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enable notifications for:</source>
-        <translation>启用通知</translation>
+        <translation>启用通知：</translation>
     </message>
     <message>
         <source>Tune</source>
@@ -10266,11 +10266,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enable Stop Spam for private messages in groupchat</source>
-        <translation>对群聊中的私信启用“停止垃圾消息”</translation>
+        <translation>对群聊中的私信启用“停止垃圾信息”插件</translation>
     </message>
     <message>
         <source>Enable Stop Spam for affiliations:</source>
-        <translation>为从属关系启用“停止垃圾消息”：</translation>
+        <translation>为从属关系启用“停止垃圾信息”插件：</translation>
     </message>
     <message>
         <source>Owner</source>
@@ -10290,7 +10290,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enable Stop Spam for roles:</source>
-        <translation>为角色启用“停止垃圾消息”：</translation>
+        <translation>为角色启用“停止垃圾信息”插件：</translation>
     </message>
     <message>
         <source>Moderator</source>
@@ -10355,7 +10355,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Disable stopspam, if don&apos;t match any rule above
 (does not work for muc private messages)</source>
-        <translation>如果不匹配上述任何规则，则禁用停止垃圾消息
+        <translation>如果不匹配上述任何规则，则禁用“停止垃圾信息”插件
 （不适用于群聊私信）</translation>
     </message>
     <message>
@@ -10472,7 +10472,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Cookies are removed</source>
-        <translation>已移除 Cookies</translation>
+        <translation>已移除 Cookie</translation>
     </message>
     <message>
         <source>Rules</source>
@@ -13002,7 +13002,7 @@ Do you want to log out ?</source>
         <source>There was an error communicating with the server.
 Details: %1</source>
         <translation>与服务器通信时出错。
-详细信息：%1</translation>
+详情：%1</translation>
     </message>
     <message>
         <source>Whiteboard invitation</source>
@@ -13889,7 +13889,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Use software widgets rendering. In some cases default hardware rendering may lead to graphical glitches and crashes. This option may help.</source>
-        <translation>使用软件小部件渲染。在某些情况下，默认硬件渲染可能会导致图形故障和崩溃。此选项可能会有所帮助。</translation>
+        <translation>使用软件组件渲染。在某些情况下，默认硬件渲染可能会导致图形故障和崩溃。此选项可能会有所帮助。</translation>
     </message>
     <message>
         <source>Quit the application</source>
@@ -14170,7 +14170,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Unblock</source>
-        <translation>解除屏蔽</translation>
+        <translation>取消屏蔽</translation>
     </message>
     <message>
         <source>&amp;Log On</source>
@@ -14540,7 +14540,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Home</source>
-        <translation>首页</translation>
+        <translation>主页</translation>
     </message>
 </context>
 <context>
@@ -14664,7 +14664,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>&amp;Details...</source>
-        <translation>详细信息(&amp;D)…</translation>
+        <translation>详情(&amp;D)…</translation>
     </message>
     <message>
         <source>&amp;Connect anyway</source>
@@ -15552,7 +15552,7 @@ Description: </source>
     </message>
     <message>
         <source>Encrypting key is untrusted</source>
-        <translation type="vanished">加密密钥不受信任</translation>
+        <translation type="vanished">加密密钥未受信任</translation>
     </message>
     <message>
         <source>Encrypting key is invalid</source>
@@ -15686,7 +15686,7 @@ OTR 插件将无法工作。</translation>
     </message>
     <message>
         <source>Your message was not sent. Either end your private conversation, or restart it.</source>
-        <translation>您的消息未发送。要么结束私人对话，要么重新开始。</translation>
+        <translation>您的消息未发送。要么结束私密对话，要么重新开始。</translation>
     </message>
     <message>
         <source>Unreadable encrypted message was received.</source>
@@ -17555,7 +17555,7 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     </message>
     <message>
         <source>Stop Spam Plugin</source>
-        <translation>停止垃圾消息插件</translation>
+        <translation>停止垃圾信息插件</translation>
     </message>
     <message>
         <source> pass the test</source>
@@ -17589,7 +17589,7 @@ When a user has passed, the test will send a re-authorization request. It should
 The plugin keeps a log of blocked messages, which you can view through the plugin settings. The &quot;Reset&quot; button deletes the log and resets the counter of blocked messages.
 
 WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
-        <translation>此插件旨在阻止来自 Psi 用户的垃圾消息和其他不需要的信息。本插件的功能基于“问题 - 答案”的原则。
+        <translation>此插件旨在阻止来自 Psi 用户的垃圾信息和其他不需要的信息。本插件的功能基于“问题 - 答案”的原则。
 通过插件设置，您可以：
 * 定义安全问题和答案
 * 定义一组规则，定义是否为联系人触发插件
@@ -17602,7 +17602,7 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
 * 选择对哪些等级和角色的群聊参与者禁用屏蔽消息功能
 * 在私信中向不属于例外列表中的角色和等级，包括屏蔽的参与者发出死锁信息。
 
-规则是从上到下检查的。如果规则已启用 - 会触发阻止垃圾消息，否则 - 不会触发阻止垃圾消息。如果没有任何规则触发联系人列表消息的阻止垃圾消息，您可以指定插件是否激活。对于来自同一群聊的私信，它始终有效。
+规则是从上到下检查的。如果规则已启用 - 会触发“停止垃圾信息”插件，否则 - 不会触发“停止垃圾信息”插件。如果没有任何规则触发联系人列表消息的“停止垃圾信息”插件，您可以指定插件是否激活。对于来自同一群聊的私信，它始终有效。
 问题和答案以及规则列表对于普通消息和群聊中的私信来说很常见。
 当用户通过后，测试将发送一个重新授权请求。应该注意的是，在发回的消息中，安全问题得到了正确回答。
 插件会保存被屏蔽消息的日志，您可以通过插件设置查看这些日志。“重置”按钮可删除日志并重置被屏蔽消息的计数器。
@@ -18333,7 +18333,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
     </message>
     <message>
         <source>Open web browser</source>
-        <translation>打开浏览器</translation>
+        <translation>打开网络浏览器</translation>
     </message>
     <message>
         <source>Add to Roster</source>
@@ -19483,11 +19483,11 @@ Do you still want to close the window?</source>
     <name>psiomemo::OMEMO</name>
     <message>
         <source>The following message is from an untrusted device:</source>
-        <translation>以下消息来自不信任的设备：</translation>
+        <translation>以下消息来自未受信任的设备：</translation>
     </message>
     <message>
         <source>[UNTRUSTED]: </source>
-        <translation>[不信任]：</translation>
+        <translation>[未受信任]：</translation>
     </message>
     <message>
         <source>Unable to build any sessions, the message was not sent</source>
@@ -19806,19 +19806,19 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Disable private messaging</source>
-        <translation>禁用私人消息</translation>
+        <translation>禁用私密消息传递</translation>
     </message>
     <message>
         <source>Manually start private messaging</source>
-        <translation>手动启用私人消息</translation>
+        <translation>手动启用私密消息传递</translation>
     </message>
     <message>
         <source>Automatically start private messaging</source>
-        <translation>自动启用私人消息</translation>
+        <translation>自动启用私密消息传递</translation>
     </message>
     <message>
         <source>Require private messaging</source>
-        <translation>需要私人消息</translation>
+        <translation>要求私密消息传递</translation>
     </message>
     <message>
         <source>End session when contact goes offline</source>
@@ -19971,7 +19971,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>unverified</source>
-        <translation>未验证的</translation>
+        <translation>未经验证</translation>
     </message>
     <message>
         <source>OTR Messaging [%1]</source>
@@ -19979,15 +19979,15 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Refre&amp;sh private conversation</source>
-        <translation>刷新私人对话​​(&amp;R)</translation>
+        <translation>刷新私密对话​​(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Start private conversation</source>
-        <translation>开始私人对话(&amp;S)</translation>
+        <translation>开始私密对话(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;End private conversation</source>
-        <translation>结束私人对话(&amp;E)</translation>
+        <translation>结束私密对话(&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Authenticate contact</source>
@@ -20014,7 +20014,7 @@ You should authenticate %1 as well by asking your own question.</source>
     <name>psiotr::PsiOtrPlugin</name>
     <message>
         <source>Off-the-Record Messaging plugin for Psi</source>
-        <translation type="vanished">Psi 的 OTR 消息插件</translation>
+        <translation type="vanished">Psi 的 OTR 插件</translation>
     </message>
     <message>
         <source>Authors: %1</source>
@@ -20022,7 +20022,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
-        <translation type="vanished">Off-the-Record（OTR）消息允许您通过即时消息进行私人对话，提供：</translation>
+        <translation type="vanished">Off-the-Record Messaging（OTR）允许您通过即时通讯进行私密对话，提供：</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -20066,39 +20066,39 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Attempting to refresh the private conversation</source>
-        <translation>正在尝试刷新私人对话</translation>
+        <translation>正在尝试刷新私密对话</translation>
     </message>
     <message>
         <source>Attempting to start a private conversation</source>
-        <translation>正在尝试开始私人对话</translation>
+        <translation>正在尝试开始私密对话</translation>
     </message>
     <message>
         <source>Private conversation started</source>
-        <translation>私人对话已开始</translation>
+        <translation>私密对话已开始</translation>
     </message>
     <message>
         <source>Unverified conversation started</source>
-        <translation>未验证的对话已开始</translation>
+        <translation>未经验证的对话已开始</translation>
     </message>
     <message>
         <source>Private conversation lost</source>
-        <translation>私人对话已中断</translation>
+        <translation>私密对话已中断</translation>
     </message>
     <message>
         <source>Private conversation closed</source>
-        <translation>私人对话已关闭</translation>
+        <translation>私密对话已关闭</translation>
     </message>
     <message>
         <source>%1 has ended the private conversation with you; you should do the same.</source>
-        <translation>%1 已结束与您的私人对话；您也应该结束。</translation>
+        <translation>%1 已结束与您的私密对话，您也应该结束。</translation>
     </message>
     <message>
         <source>Private conversation refreshed</source>
-        <translation>私人对话已刷新</translation>
+        <translation>私密对话已刷新</translation>
     </message>
     <message>
         <source>Unverified conversation refreshed</source>
-        <translation>未验证的对话已刷新</translation>
+        <translation>未经验证的对话已刷新</translation>
     </message>
     <message>
         <source>Contact authenticated</source>
@@ -20122,7 +20122,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Off-the-Record Messaging (OTR) is a cryptographic protocol that provides encryption for instant messaging conversations. In addition to authentication and encryption, OTR provides forward secrecy and malleable encryption.</source>
-        <translation>Off-the-Record Messaging（OTR）是一种为即时消息对话提供加密的加密协议。除了身份验证和加密，OTR 还提供前向保密和可延展加密。</translation>
+        <translation>Off-the-Record Messaging（OTR）是一种为即时通讯对话提供加密的加密协议。除了身份验证和加密，OTR 还提供前向保密和可延展加密。</translation>
     </message>
     <message>
         <source>OTR features:</source>
@@ -20166,7 +20166,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows one to use it for protecting conversations via XMPP transports (to ICQ, Skype, Telegram, QQ, vkontakte and other networks).</source>
-        <translation type="vanished">与 OpenPGP 和 OMEMO 相比，OTR 协议不依赖于 XMPP 特定的结构，这允许人们使用它来保护通过 XMPP 传输（到 ICQ、Skype、Telegram、QQ、VK 和其他网络）的对话。</translation>
+        <translation type="vanished">与 OpenPGP 和 OMEMO 相比，OTR 协议不依赖于 XMPP 的特定体系，因此可用于保护通过 XMPP 传输（ICQ、Skype、Telegram、QQ、VK 和其他网络）进行的对话。</translation>
     </message>
     <message>
         <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows one to use it for protecting conversations via XMPP transports (to Telegram, Skype, VK, QQ and other networks).</source>
@@ -20462,7 +20462,7 @@ line2</source>
     </message>
     <message>
         <source>Clear Cookies</source>
-        <translation>清除 Cookies</translation>
+        <translation>清除 Cookie</translation>
     </message>
     <message>
         <source>Open Browser</source>
@@ -20490,14 +20490,14 @@ line2</source>
     <message>
         <source>Cookies are obsolete!
 Reathorization...</source>
-        <translation>Cookies 已经过时了！
+        <translation>Cookie 已经过时了！
 重新授权…</translation>
     </message>
     <message>
         <source>Can&apos;t get files!
 Try remove cookies.</source>
         <translation>无法获取文件！
-尝试移除 Cookies。</translation>
+尝试移除 Cookie。</translation>
     </message>
     <message>
         <source>Filelist downloaded
@@ -20599,7 +20599,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Clear Cookies</source>
-        <translation>清除 Cookies</translation>
+        <translation>清除 Cookie</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
