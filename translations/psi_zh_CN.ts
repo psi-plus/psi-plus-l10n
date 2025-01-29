@@ -1102,7 +1102,7 @@ save the history for this contact.</source>
     </message>
     <message>
         <source>General:</source>
-        <translation>通用：</translation>
+        <translation>常规：</translation>
     </message>
     <message>
         <source>Specific:</source>
@@ -1536,17 +1536,17 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>for JIDs and conferences:</source>
-        <translation>对于 JID 和群聊：</translation>
+        <translation>对于 XMPP 地址和群聊：</translation>
     </message>
     <message>
         <source>You can also specify a part of JID
 (without any additional symbols)</source>
-        <translation>您也可以指定 JID 的一部分
+        <translation>您也可以指定 XMPP 地址的一部分
 （没有任何额外的符号）</translation>
     </message>
     <message>
         <source>Disable for your accounts (specify your JIDs):</source>
-        <translation>禁用您的账号（指定您的 JID）：</translation>
+        <translation>禁用您的账号（指定您的 XMPP 地址）：</translation>
     </message>
     <message>
         <source>Timeout to reset counter:</source>
@@ -1590,13 +1590,13 @@ The list of exceptions for jids has two operating modes:
 * auto-responder is switched on for the list of exceptions, for the others is switched off (Enable mode) </source>
         <translation>此插件可以充当自动应答机。它有简单的配置选项，您可以使用：
 * 设置文本消息自动应答
-* 从自动应答的对象中排除指定 JID，包括群聊，（如果设置了群聊 JID，排除将包括所有的私信）
+* 从自动应答的对象中排除指定 XMPP 地址，包括群聊，（如果设置了群聊 XMPP 地址，排除将包括所有的私信）
 * 禁用自动应答的一些账号
 * 设置发送自动消息数
 * 设置时间间隔之后，一些自动应答计数器将重置
 * 禁用自动应答的活动标签页
 * 禁用自动应答，对于不在您的联系人列表中的联系人
-JID 的例外列表有两种操作模式：
+XMPP 地址的例外列表有两种操作模式：
 * 关闭自动应答的例外列表，为除此之外的人打开（禁用模式）
 * 开启自动应答的例外列表，为除此之外的人关闭（启用模式）</translation>
     </message>
@@ -2243,7 +2243,7 @@ Do you still want to close the window?</source>
     <name>ChatViewThemeProvider</name>
     <message>
         <source>Chat Message Style</source>
-        <translation>聊天消息风格</translation>
+        <translation>聊天消息样式</translation>
     </message>
     <message>
         <source>Configure your chat theme here</source>
@@ -3228,7 +3228,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Filter by JID:</source>
-        <translation>按 JID 筛选：</translation>
+        <translation>按 XMPP 地址筛选：</translation>
     </message>
     <message>
         <source>Auto-browse into objects</source>
@@ -3382,7 +3382,7 @@ Proceed?</source>
     </message>
     <message>
         <source>JID</source>
-        <translation>JID</translation>
+        <translation>XMPP 地址</translation>
     </message>
     <message>
         <source>Node</source>
@@ -3436,7 +3436,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="vanished">确定</translation>
+        <translation type="vanished">是</translation>
     </message>
     <message>
         <source>No</source>
@@ -3462,7 +3462,7 @@ Proceed?</source>
     </message>
     <message>
         <source>JID*</source>
-        <translation>JID*</translation>
+        <translation>XMPP 地址*</translation>
     </message>
     <message>
         <source>Text**</source>
@@ -3906,7 +3906,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Copy JID</source>
-        <translation>复制 JID</translation>
+        <translation>复制 XMPP 地址</translation>
     </message>
     <message>
         <source>Copy Nick</source>
@@ -3989,7 +3989,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Enable &quot;Says style&quot;</source>
-        <translation>启用“谈话风格”</translation>
+        <translation>启用“谈话样式”</translation>
     </message>
     <message>
         <source>Hide &quot;Send&quot; button</source>
@@ -4001,7 +4001,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Default JID mode:</source>
-        <translation>默认 JID 模式：</translation>
+        <translation>默认 XMPP 地址模式：</translation>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
@@ -4025,7 +4025,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Default JID mode ignore list:</source>
-        <translation>默认 JID 模式忽略列表：</translation>
+        <translation>默认 XMPP 地址模式忽略列表：</translation>
     </message>
     <message>
         <source>General</source>
@@ -4085,7 +4085,7 @@ This option only has effect if accept-defaults is false.</source>
         <source>Disable autojoin to following groupchats:
 (specify JIDs)</source>
         <translation>禁用自动加入以下群聊：
-（指定 JID）</translation>
+（指定 XMPP 地址）</translation>
     </message>
     <message>
         <source>Groupchat leave status message:</source>
@@ -4145,7 +4145,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Place roster at left in &quot;all-in-one-window&quot; mode</source>
-        <translation>在“全部都在同一窗口”模式下将联系人列表放置在左侧</translation>
+        <translation>在“一体化窗口”模式下将联系人列表放置在左侧</translation>
     </message>
     <message>
         <source>Contact name and status message in a row</source>
@@ -4245,7 +4245,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Visitors color:</source>
-        <translation>访客颜色：</translation>
+        <translation>参观者颜色：</translation>
     </message>
     <message>
         <source>No Role color:</source>
@@ -4886,7 +4886,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Copy Groupchat JID</source>
-        <translation>复制群聊 JID</translation>
+        <translation>复制群聊 XMPP 地址</translation>
     </message>
     <message>
         <source> by %1</source>
@@ -5054,19 +5054,19 @@ Reason: %1</source>
     </message>
     <message>
         <source>You have been removed from the room because the room was made members only</source>
-        <translation>此群聊已将您移除了，因为此群聊是仅成员进入</translation>
+        <translation>此群聊已将您移除了，因为只有成员才能进入此群聊</translation>
     </message>
     <message>
         <source>You have been removed from the room by %1 because the room was made members only</source>
-        <translation>%1 从群聊中移除了您，因为此群聊是仅成员进入</translation>
+        <translation>%1 从群聊中移除了您，因为只有成员才能进入此群聊</translation>
     </message>
     <message>
         <source>%1 has been removed from the room because the room was made members-only</source>
-        <translation>从群聊中移除了 %1，因为此群聊是仅成员进入</translation>
+        <translation>从群聊中移除了 %1，因为只有成员才能进入此群聊</translation>
     </message>
     <message>
         <source>%1 has been removed from the room by %2 because the room was made members-only</source>
-        <translation>%2 从群聊中移除了 %1，因为此群聊是仅成员进入</translation>
+        <translation>%2 从群聊中移除了 %1，因为只有成员才能进入此群聊</translation>
     </message>
     <message>
         <source>%1 is now known as %2</source>
@@ -5166,7 +5166,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Visitor</source>
-        <translation>访客</translation>
+        <translation>参观者</translation>
     </message>
     <message>
         <source>Participant</source>
@@ -5252,7 +5252,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Visitors</source>
-        <translation>访客</translation>
+        <translation>参观者</translation>
     </message>
 </context>
 <context>
@@ -6027,7 +6027,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
-        <translation>群聊消息风格</translation>
+        <translation>群聊消息样式</translation>
     </message>
     <message>
         <source>Configure your groupchat theme here</source>
@@ -6115,7 +6115,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>HistoryContactListModel</name>
     <message>
         <source>General</source>
-        <translation>通用</translation>
+        <translation>常规</translation>
     </message>
     <message>
         <source>Not in list</source>
@@ -6745,7 +6745,7 @@ You can select or deselect a contact for history removal from the context menu o
         <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
 
 Sincerely yours, Debian Sid.</source>
-        <translation type="vanished">作为 Linux 用户，我可以告诉您，但不要生我的气。当然，这个人将会收到此消息。但最好是通过 Jabber 和他聊天。您在冒险，人们永远不知道 ICQ 什么时候会死，Granny 已经活得比它长了。他的 JID：%1。
+        <translation type="vanished">作为 Linux 用户，我可以告诉您，但不要生我的气。当然，这个人将会收到此消息。但最好是通过 XMPP 和他聊天。您在冒险，人们永远不知道 ICQ 什么时候会死，Granny 已经活得比它长了。他的 XMPP 地址：%1。
 
 此致，Debian Sid。</translation>
     </message>
@@ -6754,9 +6754,9 @@ Sincerely yours, Debian Sid.</source>
 
 If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
 Sincerely yours, Debian Sid.</source>
-        <translation type="vanished">作为 Linux 用户，我可以告诉您，但不要生我的气。这个人不再使用 ICQ 了，所以如果您还在使用那个网络，他将不会收到您的消息，您必须通过 Jabber 和他聊天。他的 JID：%1。
+        <translation type="vanished">作为 Linux 用户，我可以告诉您，但不要生我的气。这个人不再使用 ICQ 了，所以如果您还在使用那个网络，他将不会收到您的消息，您必须通过 XMPP 和他聊天。他的 XMPP 地址：%1。
 
-如果您不知道 Jabber 是什么，那就用 Google 吧。它知道一切，并随时准备帮助每一个提出要求的人。
+如果您不知道 XMPP 是什么，那就问 Google 吧。它知道一切，并随时准备帮助每一个提出要求的人。
 此致，Debian Sid。</translation>
     </message>
     <message>
@@ -7079,7 +7079,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>InfoWidget</name>
     <message>
         <source>First Name:</source>
-        <translation>名：</translation>
+        <translation>名字：</translation>
     </message>
     <message>
         <source>Middle Name:</source>
@@ -7087,7 +7087,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Last Name:</source>
-        <translation>姓：</translation>
+        <translation>姓氏：</translation>
     </message>
     <message>
         <source>Edit names</source>
@@ -7331,7 +7331,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Jabber Disk - %1</source>
-        <translation>Jabber 磁盘 - %1</translation>
+        <translation>XMPP 磁盘 - %1</translation>
     </message>
     <message>
         <source>&lt;b&gt;You:&lt;/b&gt; </source>
@@ -7399,7 +7399,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Input Full JID</source>
-        <translation>输入完整 JID</translation>
+        <translation>输入完整 XMPP 地址</translation>
     </message>
     <message>
         <source>Input New Name</source>
@@ -7410,7 +7410,7 @@ to play battleship. He wants to play %2.</source>
     <name>JabberDiskPlugin</name>
     <message>
         <source>Jabber Disk</source>
-        <translation>Jabber 磁盘</translation>
+        <translation>XMPP 磁盘</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -7422,7 +7422,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Treat some jids as services implementing Jabber Disk protocol and handle your files with them.</source>
-        <translation>将某些 JID 视为实现 Jabber 磁盘协议的服务并使用它们处理您的文件。</translation>
+        <translation>将某些 XMPP 地址视为实现 XMPP 磁盘协议的服务并使用它们处理您的文件。</translation>
     </message>
 </context>
 <context>
@@ -7452,7 +7452,7 @@ to play battleship. He wants to play %2.</source>
     <name>JuickJidDialog</name>
     <message>
         <source>Set JIDs of Juick Bot</source>
-        <translation>设置 Juick 机器人的 JID</translation>
+        <translation>设置 Juick 机器人的 XMPP 地址</translation>
     </message>
     <message>
         <source>Add</source>
@@ -7471,7 +7471,7 @@ to play battleship. He wants to play %2.</source>
     <name>JuickJidList</name>
     <message>
         <source>Input JID</source>
-        <translation>输入 JID</translation>
+        <translation>输入 XMPP 地址</translation>
     </message>
 </context>
 <context>
@@ -7606,7 +7606,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     <name>MUCAffiliationsModel</name>
     <message>
         <source>JID</source>
-        <translation>JID</translation>
+        <translation>XMPP 地址</translation>
     </message>
     <message>
         <source>Reason</source>
@@ -7626,7 +7626,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Banned</source>
-        <translation>已封禁</translation>
+        <translation>被驱逐者</translation>
     </message>
 </context>
 <context>
@@ -7704,7 +7704,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Enter the JID of the user:</source>
-        <translation>输入用户的 JID：</translation>
+        <translation>输入用户的 XMPP 地址：</translation>
     </message>
     <message>
         <source>Error</source>
@@ -7712,7 +7712,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>You have entered an invalid JID.</source>
-        <translation>您输入的 JID 无效。</translation>
+        <translation>您输入的 XMPP 地址无效。</translation>
     </message>
     <message>
         <source>Destroy room</source>
@@ -7941,7 +7941,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>General</source>
-        <translation>通用</translation>
+        <translation>常规</translation>
     </message>
     <message>
         <source>Menu</source>
@@ -8193,11 +8193,11 @@ Details: %1</source>
     </message>
     <message>
         <source>JID (or part of JID)</source>
-        <translation>JID（或 JID 的一部分）</translation>
+        <translation>XMPP 地址（或 XMPP 地址的一部分）</translation>
     </message>
     <message>
         <source>Watch for JIDs</source>
-        <translation>监视 JID</translation>
+        <translation>监视 XMPP 地址</translation>
     </message>
     <message>
         <source>Sounds (if empty default sound will be used)</source>
@@ -8254,7 +8254,7 @@ Details: %1</source>
     </message>
     <message>
         <source>ID:</source>
-        <translation>ID：</translation>
+        <translation>地址：</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -8855,7 +8855,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Group chat visitors:</source>
-        <translation>群聊访客：</translation>
+        <translation>群聊参观者：</translation>
     </message>
     <message>
         <source>Group chat contacts without role:</source>
@@ -8909,7 +8909,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Style:</source>
-        <translation>风格：</translation>
+        <translation>样式：</translation>
     </message>
 </context>
 <context>
@@ -9353,7 +9353,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Maximum JID length:</source>
-        <translation>最大 JID 长度：</translation>
+        <translation>最大 XMPP 地址长度：</translation>
     </message>
     <message>
         <source>Maximum text length:</source>
@@ -9960,7 +9960,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Redirect to JID:</source>
-        <translation>重定向至 JID：</translation>
+        <translation>重定向至 XMPP 地址：</translation>
     </message>
     <message>
         <source>Allow receiving one Attention from the same contact every</source>
@@ -10098,7 +10098,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Message archiving</source>
-        <translation type="vanished">消息存档</translation>
+        <translation type="vanished">消息归档</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will
@@ -10126,7 +10126,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
  sends notifications.
  Enable &quot;Message archiving&quot; option for use!</source>
         <translation type="vanished">Google Talk 服务器禁用服务器端对个人对话的记录和发送通知。
-启用“消息存档”选项以供使用！</translation>
+启用“消息归档”选项以供使用！</translation>
     </message>
     <message>
         <source>Enable Off the Record Chats</source>
@@ -10302,7 +10302,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Visitor</source>
-        <translation>访客</translation>
+        <translation>参观者</translation>
     </message>
     <message>
         <source>Block all private messages</source>
@@ -10392,7 +10392,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Show Watch for JID button in contact context menu</source>
-        <translation>在联系人右键菜单中显示监视 JID 按钮</translation>
+        <translation>在联系人右键菜单中显示监视 XMPP 地址按钮</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -10715,7 +10715,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enables as-you-type JID autocompletion in message dialog.</source>
-        <translation>在消息对话框中启用按照 JID 自动补全功能。</translation>
+        <translation>在消息对话框中启用按照 XMPP 地址自动补全功能。</translation>
     </message>
     <message>
         <source>Automatically attaches URLs from clipboard to the messages when enabled</source>
@@ -10773,19 +10773,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Specifies the font style for the main window.</source>
-        <translation>指定主窗口的字体风格。</translation>
+        <translation>指定主窗口的字体样式。</translation>
     </message>
     <message>
         <source>Specifies the font style for message windows.</source>
-        <translation>指定邮件窗口的字体风格。</translation>
+        <translation>指定邮件窗口的字体样式。</translation>
     </message>
     <message>
         <source>Specifies the font style for chat windows.</source>
-        <translation>指定聊天窗口的字体风格。</translation>
+        <translation>指定聊天窗口的字体样式。</translation>
     </message>
     <message>
         <source>Specifies the font style for popup windows.</source>
-        <translation>指定弹窗的字体风格。</translation>
+        <translation>指定弹窗的字体样式。</translation>
     </message>
     <message>
         <source>Selects a font for the roster window using the font selection dialog.</source>
@@ -11418,7 +11418,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the Jabber server.</source>
-        <translation type="vanished">如果您的计算机在指定的时间内处于空闲状态，让 Psi 自动将您的状态设置为“离线”。这将断开您与 Jabber 服务器的连接。</translation>
+        <translation type="vanished">如果您的计算机在指定的时间内处于空闲状态，让 Psi 自动将您的状态设置为“离线”。这将断开您与 XMPP 服务器的连接。</translation>
     </message>
     <message>
         <source>Specifies an extended message to use if you allow Psi to set your status automatically.  See options above.</source>
@@ -11473,7 +11473,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Jabber allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
-        <translation type="vanished">Jabber 允许您将扩展状态信息放在所有状态类型上。通常，当您将状态设置为“在线”时，Psi 不会提示您发送扩展信息。如果要有此提示，请选中此选项。</translation>
+        <translation type="vanished">XMPP 允许您将扩展状态信息放在所有状态类型上。通常，当您将状态设置为“在线”时，Psi 不会提示您发送扩展信息。如果要有此提示，请选中此选项。</translation>
     </message>
     <message>
         <source>Error</source>
@@ -12397,7 +12397,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>JID</source>
-        <translation>JID</translation>
+        <translation>XMPP 地址</translation>
     </message>
     <message>
         <source>Group</source>
@@ -12413,7 +12413,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>None</source>
-        <translation>无</translation>
+        <translation>没有</translation>
     </message>
     <message>
         <source>Both</source>
@@ -12421,11 +12421,11 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>From</source>
-        <translation>从</translation>
+        <translation>发出</translation>
     </message>
     <message>
         <source>To</source>
-        <translation>到</translation>
+        <translation>接收</translation>
     </message>
 </context>
 <context>
@@ -12525,7 +12525,7 @@ The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a co
 Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
         <translation type="vanished">保持您的&lt;i&gt;配置文件名称&lt;/i&gt;简单。它应该仅由几个字母或数字组成。&lt;br&gt;
 &lt;br&gt;
-&lt;i&gt;默认操作&lt;/i&gt;是双击列表中的联系人时发生的操作。有&lt;b&gt;消息&lt;/b&gt;（ICQ 风格）和&lt;b&gt;聊天&lt;/b&gt;（AIM 风格）两种。您可以稍后从“选项”菜单更改此选项。&lt;br&gt;
+&lt;i&gt;默认操作&lt;/i&gt;是双击列表中的联系人时发生的操作。有&lt;b&gt;消息&lt;/b&gt;（ICQ 样式）和&lt;b&gt;聊天&lt;/b&gt;（AIM 样式）两种。您可以稍后从“选项”菜单更改此选项。&lt;br&gt;
 &lt;br&gt;
 如果您想要让如 &lt;b&gt;:-)&lt;/b&gt; 这样的文本转换成像这样&lt;icon name=&quot;psi/smile&quot;&gt;的图片，则勾选&lt;i&gt;启用表情图标&lt;/i&gt;复选框。</translation>
     </message>
@@ -12667,11 +12667,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <name>Proxy</name>
     <message>
         <source>Proxy Profiles</source>
-        <translation>代理配置文件</translation>
+        <translation>代理配置</translation>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation>新增(&amp;N)</translation>
+        <translation>新建(&amp;N)</translation>
     </message>
     <message>
         <source>psi/addContact</source>
@@ -13678,7 +13678,7 @@ Reason: %1.</source>
     <name>PsiChatDlg</name>
     <message>
         <source>Copy user JID</source>
-        <translation>复制用户 JID</translation>
+        <translation>复制用户 XMPP 地址</translation>
     </message>
     <message>
         <source>Input command...</source>
@@ -14218,11 +14218,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Copy User JID</source>
-        <translation>复制用户 JID</translation>
+        <translation>复制用户 XMPP 地址</translation>
     </message>
     <message>
         <source>Copy Groupchat JID</source>
-        <translation>复制群聊 JID</translation>
+        <translation>复制群聊 XMPP 地址</translation>
     </message>
     <message>
         <source>Advanc&amp;ed</source>
@@ -14600,11 +14600,11 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>First Name</source>
-        <translation>名</translation>
+        <translation>名字</translation>
     </message>
     <message>
         <source>Last Name</source>
-        <translation>姓</translation>
+        <translation>姓氏</translation>
     </message>
     <message>
         <source>E-mail</source>
@@ -15468,7 +15468,7 @@ Description: </source>
     </message>
     <message>
         <source>a moderator</source>
-        <translation>一位主持人</translation>
+        <translation>主持人</translation>
     </message>
     <message>
         <source>moderator</source>
@@ -15476,7 +15476,7 @@ Description: </source>
     </message>
     <message>
         <source>a participant</source>
-        <translation>一位参与者</translation>
+        <translation>参与者</translation>
     </message>
     <message>
         <source>participant</source>
@@ -15484,15 +15484,15 @@ Description: </source>
     </message>
     <message>
         <source>a visitor</source>
-        <translation>一位访客</translation>
+        <translation>参观者</translation>
     </message>
     <message>
         <source>visitor</source>
-        <translation>访客</translation>
+        <translation>参观者</translation>
     </message>
     <message>
         <source>an owner</source>
-        <translation>一位所有者</translation>
+        <translation>所有者</translation>
     </message>
     <message>
         <source>owner</source>
@@ -15500,7 +15500,7 @@ Description: </source>
     </message>
     <message>
         <source>an administrator</source>
-        <translation>一位管理员</translation>
+        <translation>管理员</translation>
     </message>
     <message>
         <source>administrator</source>
@@ -15508,7 +15508,7 @@ Description: </source>
     </message>
     <message>
         <source>a member</source>
-        <translation>一位成员</translation>
+        <translation>成员</translation>
     </message>
     <message>
         <source>member</source>
@@ -15516,7 +15516,7 @@ Description: </source>
     </message>
     <message>
         <source>an outcast</source>
-        <translation>一位被驱逐者</translation>
+        <translation>被驱逐者</translation>
     </message>
     <message>
         <source>outcast</source>
@@ -15796,7 +15796,7 @@ URL：%4
     </message>
     <message>
         <source>If JID is &apos;%1&apos; then %2 %3</source>
-        <translation>如果 JID 是“%1”，则%2%3</translation>
+        <translation>如果 XMPP 地址是“%1”，则%2%3</translation>
     </message>
     <message>
         <source>If Group is &apos;%1&apos; then %2 %3</source>
@@ -16197,7 +16197,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
-        <translation>此插件旨在使用 QIP Infium jabber 客户端显示联系人的 X-状态。</translation>
+        <translation>此插件旨在使用 QIP Infium XMPP 客户端显示联系人的 X-状态。</translation>
     </message>
 </context>
 <context>
@@ -16212,7 +16212,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Redirects all incoming messages to some jid and allows one to redirect messages back.</source>
-        <translation>将所有收到的消息重定向到某些 JID，并允许将消息重定向回来。</translation>
+        <translation>将所有收到的消息重定向到某些 XMPP 地址，并允许将消息重定向回来。</translation>
     </message>
 </context>
 <context>
@@ -16625,11 +16625,11 @@ Settings for authorization on some hostings can be found here: http://code.googl
     </message>
     <message>
         <source>First Name</source>
-        <translation>名</translation>
+        <translation>名字</translation>
     </message>
     <message>
         <source>Last Name</source>
-        <translation>姓</translation>
+        <translation>姓氏</translation>
     </message>
     <message>
         <source>E-Mail Address</source>
@@ -16865,7 +16865,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Failed to parse any valid server JIDs from %1.</source>
-        <translation>无法从 %1 解析任何有效的服务器 JID。</translation>
+        <translation>无法从 %1 解析任何有效的服务器 XMPP 地址。</translation>
     </message>
 </context>
 <context>
@@ -17607,7 +17607,7 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
 当用户通过后，测试将发送一个重新授权请求。应该注意的是，在发回的消息中，安全问题得到了正确回答。
 插件会保存被屏蔽消息的日志，您可以通过插件设置查看这些日志。“重置”按钮可删除日志并重置被屏蔽消息的计数器。
 
-警告！！！ 在注册新传输之前，建议将其 JID 添加到例外传输中。这是因为在传输注册后，将发送所有联系人的授权请求，如果未将传输作为例外添加，则插件将屏蔽所有请求。</translation>
+警告！！！ 在注册新传输之前，建议将其 XMPP 地址添加到例外传输中。这是因为在传输注册后，将发送所有联系人的授权请求，如果未将传输作为例外添加，则插件将屏蔽所有请求。</translation>
     </message>
 </context>
 <context>
@@ -17661,7 +17661,7 @@ The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi or Miranda IM.</source>
         <translation type="vanished">此插件是 XEP-0049：专用 XML 存储的实现。
 本插件与使用 Miranda IM 保存的笔记完全兼容。
-本插件旨在将笔记保存在 jabber 服务器上，并能在任何地方使用 Psi 或 Miranda IM 访问这些笔记。</translation>
+本插件旨在将笔记保存在 XMPP 服务器上，并能在任何地方使用 Psi 或 Miranda IM 访问这些笔记。</translation>
     </message>
     <message>
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
@@ -17786,7 +17786,7 @@ Copyright (C) 2003 Justin Karneges</source>
     </message>
     <message>
         <source>Please enter the Full JID to connect with.</source>
-        <translation>请输入要连接的完整 JID。</translation>
+        <translation>请输入要连接的完整 XMPP 地址。</translation>
     </message>
     <message>
         <source>You must specify a host:port for the proxy.</source>
@@ -17855,7 +17855,7 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>Full JID:</source>
-        <translation>完整 JID：</translation>
+        <translation>完整 XMPP 地址：</translation>
     </message>
     <message>
         <source>User (if needed):</source>
@@ -18102,12 +18102,12 @@ And these work only in groupchat dialog:
 &lt;/ul&gt;</source>
         <translation>您可以在对话及群聊对话框中输入以下特殊命令：
 &lt;ul&gt;
-&lt;li&gt;&quot;/clear&quot; 清除聊天视图&lt;/li&gt;
-&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; &apos;/me&apos; 由您的昵称替代&lt;/li&gt;
+&lt;li&gt;“/clear”清除聊天视图&lt;/li&gt;
+&lt;li&gt;“/me 消息”“/me”由您的昵称替代&lt;/li&gt;
 &lt;/ul&gt;
 这些仅在群聊对话框中有效：
 &lt;ul&gt;
-&lt;li&gt;&quot;/nick &amp;lt;new_nickname&amp;gt;&quot; 更改您的昵称&lt;/li&gt;
+&lt;li&gt;“/nick 新昵称”更改您的昵称，“新昵称”由您的新昵称替代&lt;/li&gt;
 &lt;/ul&gt;</translation>
     </message>
     <message>
@@ -18649,7 +18649,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Don&apos;t watch for JID</source>
-        <translation>不要监视 JID</translation>
+        <translation>不要监视 XMPP 地址</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -18669,7 +18669,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Watch for JID</source>
-        <translation>监视 JID</translation>
+        <translation>监视 XMPP 地址</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -18683,7 +18683,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
 On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
         <translation>此插件旨在监测特定联系人列表中联系人的状态，以及替换收到消息的标准声音。
-在第一个标签页，设置一个联系人列表，以监测其状态。当此类联系人的状态更改时，将显示一个弹窗，当状态更改为在线时，可以播放自定义声音。在第二个标签页是配置的项目列表，消息正在被监测。每个元素都可以包含一个正则表达式，用于检查与消息到达的 JID 的匹配，一个用于检查与收到消息的文本的匹配的正则表达式列表，在某些巧合的情况下将播放的声音文件的路径，以及是否始终播放声音的设置，即使全局声音关闭。</translation>
+在第一个标签页，设置一个联系人列表，以监测其状态。当此类联系人的状态更改时，将显示一个弹窗，当状态更改为在线时，可以播放自定义声音。在第二个标签页是配置的项目列表，消息正在被监测。每个元素都可以包含一个正则表达式，用于检查与消息到达的 XMPP 地址的匹配，一个用于检查与收到消息的文本的匹配的正则表达式列表，在某些巧合的情况下将播放的声音文件的路径，以及是否始终播放声音的设置，即使全局声音关闭。</translation>
     </message>
 </context>
 <context>
@@ -18919,7 +18919,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>JID:</source>
-        <translation>JID:</translation>
+        <translation>XMPP 地址：</translation>
     </message>
     <message>
         <source>Enable</source>
@@ -19075,11 +19075,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>The addressed JID or item requested cannot be found.</source>
-        <translation>找不到所请求的 JID 或项目。</translation>
+        <translation>无法找到所请求的 XMPP 地址或项目。</translation>
     </message>
     <message>
         <source>JID malformed</source>
-        <translation>JID 异常</translation>
+        <translation>XMPP 地址格式错误</translation>
     </message>
     <message>
         <source>The sending entity has provided or communicated an XMPP address (e.g., a value of the &apos;to&apos; attribute) or aspect thereof (e.g., a resource identifier) that does not adhere to the syntax defined in Addressing Scheme.</source>
@@ -19139,7 +19139,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>A remote server or service specified as part or all of the JID of the intended recipient does not exist.</source>
-        <translation>指定为预期接收者的部分或全部 JID 的远程服务器或服务不存在。</translation>
+        <translation>指定为预期接收者的部分或全部 XMPP 地址的远程服务器或服务不存在。</translation>
     </message>
     <message>
         <source>Remote server timeout</source>
@@ -19147,7 +19147,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>A remote server or service specified as part or all of the JID of the intended recipient (or required to fulfill a request) could not be contacted within a reasonable amount of time.</source>
-        <translation>无法在合理的时间内联系指定为预期接收者的部分或全部JID（或满足请求所需的）的远程服务器或服务。</translation>
+        <translation>无法在合理的时间内联系到作为预期接收者（或满足请求所需）的部分或全部 XMPP 地址的远程服务器或服务。</translation>
     </message>
     <message>
         <source>Resource constraint</source>
@@ -19979,7 +19979,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Refre&amp;sh private conversation</source>
-        <translation>刷新私密对话​​(&amp;R)</translation>
+        <translation>刷新私密对话​​(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Start private conversation</source>
@@ -20219,7 +20219,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Edit JIDs</source>
-        <translation>编辑 JID</translation>
+        <translation>编辑 XMPP 地址</translation>
     </message>
     <message>
         <source>bold</source>
