@@ -280,7 +280,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Cross-platform XMPP client designed for experienced users.</source>
-        <translation>专为资深用户打造的跨平台 XMPP 客户端</translation>
+        <translation>专为资深用户打造的跨平台 XMPP 客户端。</translation>
     </message>
 </context>
 <context>
@@ -997,7 +997,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Remove account and try to unregister it from the server.</source>
-        <translation>移除账号并尝试从服务器上注销。</translation>
+        <translation>移除账号并尝试从服务器注销。</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -1234,7 +1234,7 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;要添加 &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; 用户，只需在底部输入 XMPP 地址（以及选填的昵称和分组），然后按&lt;span style=&quot; font-style:italic;&quot;&gt;添加&lt;/span&gt;。&lt;br /&gt;&lt;br /&gt;要添加&lt;span style=&quot; font-weight:600;&quot;&gt;非 XMPP&lt;/span&gt; 服务中的联系人，请确保首先在服务中注册（请查看主菜单中的服务发现），然后从顶部的框中选择服务。按照&lt;span style=&quot; font-style:italic;&quot;&gt;服务 ID 转换&lt;/span&gt;框中的说明，然后按&lt;span style=&quot; font-style:italic;&quot;&gt;获取 XMPP 地址&lt;/span&gt;按钮生成联系人的 XMPP 地址。&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;要添加 &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; 用户，只需在底部输入 XMPP 地址（以及选填的昵称和分组），然后点击&lt;span style=&quot; font-style:italic;&quot;&gt;添加&lt;/span&gt;。&lt;br /&gt;&lt;br /&gt;要添加&lt;span style=&quot; font-weight:600;&quot;&gt;非 XMPP&lt;/span&gt; 服务中的联系人，请确保首先在服务中注册（请查看主菜单中的服务发现），然后从顶部的框中选择服务。按照&lt;span style=&quot; font-style:italic;&quot;&gt;服务 ID 转换&lt;/span&gt;框中的说明，然后点击&lt;span style=&quot; font-style:italic;&quot;&gt;获取 XMPP 地址&lt;/span&gt;按钮生成联系人的 XMPP 地址。&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Service:</source>
@@ -1347,7 +1347,7 @@ There was an error getting the Service ID translation information from &quot;%1&
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%gmail.com@[XMPP address of Transport]&lt;br&gt;&lt;/qt&gt;</source>
         <translation>&lt;qt&gt;
-从“%1”获取服务 ID 转换信息时出错。&lt;br&gt;原因：%2&lt;br&gt;&lt;br&gt;该服务可能不支持此功能。在这种情况下，您需要手动输入要添加的联系人的 XMP P地址。示例：&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[传输的 XMPP 地址]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%gmail.com@[传输的 XMPP 地址]&lt;br&gt;&lt;/qt&gt;</translation>
+从“%1”获取服务 ID 转换信息时出错。&lt;br&gt;原因：%2&lt;br&gt;&lt;br&gt;该服务可能不支持此功能。在这种情况下，您需要手动输入要添加的联系人的 XMPP 地址。示例：&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[传输的 XMPP 地址]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%gmail.com@[传输的 XMPP 地址]&lt;br&gt;&lt;/qt&gt;</translation>
     </message>
 </context>
 <context>
@@ -1588,17 +1588,17 @@ To work correctly, the plugin requires that the client of the other part support
 The list of exceptions for jids has two operating modes:
 * auto-responder is switched off for the list of exceptions, for the others is switched on (Disable mode)
 * auto-responder is switched on for the list of exceptions, for the others is switched off (Enable mode) </source>
-        <translation>本插件可以充当自动应答机。它有简单的配置选项，您可以使用：
-* 设置文本消息自动应答
-* 从自动应答的对象中排除指定  JID，包括群聊，（如果设置了群聊  JID，排除将包括所有的私信）
-* 禁用自动应答的一些账号
-* 设置发送自动消息数
-* 设置时间间隔后，将自动重置消息应答计数器
-* 禁用自动应答的活动标签页
-* 禁用自动应答，对于不在您的联系人列表中的联系人
- JID 的例外列表有两种操作模式：
-* 关闭自动应答的例外列表，为除此之外的人打开（禁用模式）
-* 开启自动应答的例外列表，为除此之外的人关闭（启用模式）</translation>
+        <translation>本插件可以充当自动应答机。它有许多简单的配置选项，您可以用来：
+* 为自动应答设置文本消息
+* 从自动应答的对象中排除指定 JID，包括群聊（如果设置了群聊 JID，排除将包括所有的私信）
+* 为您的部分账号禁用自动应答
+* 设置发送的自动消息数
+* 设置重置自动消息计数器的时间间隔
+* 为活动标签页禁用自动应答
+* 为不在您的联系人列表中的联系人禁用自动应答
+JID 的例外列表有两种操作模式：
+* 为例外列表关闭自动应答，为其他则打开（禁用模式）
+* 为例外列表开启自动应答，为其他则关闭（启用模式）</translation>
     </message>
 </context>
 <context>
@@ -1805,7 +1805,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>To:</source>
-        <translation>呼叫目标：</translation>
+        <translation>呼叫对象：</translation>
     </message>
     <message>
         <source>Use video</source>
@@ -3773,7 +3773,7 @@ URL: %1
         <source>
 If you wish to confirm this request, please provide transaction identifier and press Confirm button. Otherwise press Deny button.</source>
         <translation>
-如果您要确认此请求，请提供事务标识符并按“确认”按钮。否则，请按“拒绝”按钮。</translation>
+如果您要确认此请求，请提供事务标识符并点击“确认”按钮。否则，请点击“拒绝”按钮。</translation>
     </message>
     <message>
         <source>Transaction identifier: %1
@@ -3781,7 +3781,7 @@ If you wish to confirm this request, please provide transaction identifier and p
 If you wish to confirm this request, please press Confirm button. Otherwise press Deny button.</source>
         <translation>事务标识符：%1
 
-如果您要确认此请求，请按“确认”按钮。否则，请按“拒绝”按钮。</translation>
+如果您要确认此请求，请点击“确认”按钮。否则，请点击“拒绝”按钮。</translation>
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to subscribe to your presence.  Click the button labelled &quot;Add/Auth&quot; to authorize the subscription.  This will also add the person to your contact list if it is not already there.</source>
@@ -4930,7 +4930,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Error: You are in or joining this room already!</source>
-        <translation>错误：您已在或正在加入此群聊！</translation>
+        <translation>错误：您已在群聊中或正在加入此群聊！</translation>
     </message>
     <message>
         <source>Unexpected groupchat error: %1</source>
@@ -4978,7 +4978,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>This room has been destroyed.</source>
-        <translation>已经解散了此群聊。</translation>
+        <translation>已解散此群聊。</translation>
     </message>
     <message>
         <source>Reason: %1</source>
@@ -4998,15 +4998,15 @@ Reason: %1</source>
     </message>
     <message>
         <source>You have been banned from the room</source>
-        <translation>此群聊已将您封禁了</translation>
+        <translation>您已被封禁</translation>
     </message>
     <message>
         <source>You have been banned from the room by %1</source>
-        <translation>%1 从群聊中封禁了您</translation>
+        <translation>您已被 %1 从群聊中封禁</translation>
     </message>
     <message>
         <source>%1 has been banned</source>
-        <translation>已封禁 %1</translation>
+        <translation>%1 已被封禁</translation>
     </message>
     <message>
         <source>%1 has been banned by %2</source>
@@ -5018,15 +5018,15 @@ Reason: %1</source>
     </message>
     <message>
         <source>You have been kicked from the room</source>
-        <translation>此群聊已将您踢出了</translation>
+        <translation>您已被踢出群聊</translation>
     </message>
     <message>
         <source>You have been kicked from the room by %1</source>
-        <translation>%1 从群聊中踢出了您</translation>
+        <translation>您已被 %1 踢出群聊</translation>
     </message>
     <message>
         <source>%1 has been kicked</source>
-        <translation>已踢出 %1</translation>
+        <translation>%1 已被踢出</translation>
     </message>
     <message>
         <source>%1 has been kicked by %2</source>
@@ -5038,35 +5038,35 @@ Reason: %1</source>
     </message>
     <message>
         <source>You have been removed from the room due to an affiliation change</source>
-        <translation>由于从属关系的更改，此群聊已将您移除了</translation>
+        <translation>由于从属关系的更改，您已被移出群聊</translation>
     </message>
     <message>
         <source>You have been removed from the room by %1 due to an affiliation change</source>
-        <translation>由于从属关系的更改，%1 从群聊中移除了您</translation>
+        <translation>由于从属关系的更改，您已被 %1 移出群聊</translation>
     </message>
     <message>
         <source>%1 has been removed from the room due to an affilliation change</source>
-        <translation>由于从属关系的更改，从群聊中移除了 %1</translation>
+        <translation>由于从属关系的更改，%1 已被移出群聊</translation>
     </message>
     <message>
         <source>%1 has been removed from the room by %2 due to an affilliation change</source>
-        <translation>由于从属关系的更改，%2 从群聊中移除了 %1</translation>
+        <translation>由于从属关系的更改，%1 已被 %2 移出群聊</translation>
     </message>
     <message>
         <source>You have been removed from the room because the room was made members only</source>
-        <translation>此群聊已将您移除了，因为只有成员才能进入此群聊</translation>
+        <translation>您已被移出群聊，因为只有成员才能进入此群聊</translation>
     </message>
     <message>
         <source>You have been removed from the room by %1 because the room was made members only</source>
-        <translation>%1 从群聊中移除了您，因为只有成员才能进入此群聊</translation>
+        <translation>您已被 %1 移出群聊，因为只有成员才能进入此群聊</translation>
     </message>
     <message>
         <source>%1 has been removed from the room because the room was made members-only</source>
-        <translation>从群聊中移除了 %1，因为只有成员才能进入此群聊</translation>
+        <translation>%1 已被移出群聊，因为只有成员才能进入此群聊</translation>
     </message>
     <message>
         <source>%1 has been removed from the room by %2 because the room was made members-only</source>
-        <translation>%2 从群聊中移除了 %1，因为只有成员才能进入此群聊</translation>
+        <translation>%1 已被 %2 移出群聊，因为只有成员才能进入此群聊</translation>
     </message>
     <message>
         <source>%1 is now known as %2</source>
@@ -5202,19 +5202,19 @@ Reason: %1</source>
     </message>
     <message>
         <source>You have been removed from the room due to technical problem</source>
-        <translation>由于技术问题，此群聊已将您移除了</translation>
+        <translation>由于技术问题，您已被移出群聊</translation>
     </message>
     <message>
         <source>You have been removed from the room by %1 due to technical problem</source>
-        <translation>由于技术问题，%1 从群聊中移除了您</translation>
+        <translation>由于技术问题，您已被 %1 移出群聊</translation>
     </message>
     <message>
         <source>%1 has been removed from the room due to technical problem</source>
-        <translation>由于技术问题，从群聊中移除了 %1</translation>
+        <translation>由于技术问题，%1 已被移出群聊</translation>
     </message>
     <message>
         <source>%1 has been removed from the room by %2 due to technical problem</source>
-        <translation>由于技术问题，%2 从群聊中移除了 %1</translation>
+        <translation>由于技术问题，%1 已被 %2 移出群聊</translation>
     </message>
     <message>
         <source>Encryption is enabled</source>
@@ -5474,7 +5474,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Type a new word here and press &quot;Add Word&quot; for it to be added to the highlight list</source>
-        <translation>在此处输入新文本，然后按“添加”将其添加到突出显示列表中</translation>
+        <translation>在此处输入新文本，然后点击“添加”将其添加到突出显示列表中</translation>
     </message>
     <message>
         <source>Adds the new word to the list</source>
@@ -6286,7 +6286,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Found %1 files for import.
 Continue?</source>
-        <translation>找到 %1 个要导入的文件。
+        <translation>已找到 %1 个要导入的文件。
 是否继续？</translation>
     </message>
     <message>
@@ -7262,12 +7262,12 @@ Reason: %1</source>
     <message>
         <source>second</source>
         <comment>He wants to play second</comment>
-        <translation>第二</translation>
+        <translation>后手</translation>
     </message>
     <message>
         <source>first</source>
         <comment>He wants to play first</comment>
-        <translation>第一</translation>
+        <translation>先手</translation>
     </message>
     <message>
         <source>Player %1 invites you 
@@ -7308,11 +7308,11 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>I want to play first</source>
-        <translation>我想玩第一</translation>
+        <translation>我想当先手</translation>
     </message>
     <message>
         <source>I want to play second</source>
-        <translation>我想玩第二</translation>
+        <translation>我想当后手</translation>
     </message>
 </context>
 <context>
@@ -8025,11 +8025,11 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>1 event received</source>
-        <translation>1 个事件已收到</translation>
+        <translation>收到 1 个事件</translation>
     </message>
     <message>
         <source>%1 events received</source>
-        <translation>%1 个事件已收到</translation>
+        <translation>收到 %1 个事件</translation>
     </message>
     <message>
         <source>psimedia is unavailable</source>
@@ -8105,10 +8105,10 @@ You can modify and redistribute the source code
 because it is under GPL.
 
 Russia, Tambov, 2005 (denis@silversoft.net)</source>
-        <translation type="vanished">是一款由两名玩家玩的网络西洋棋游戏。
-它在同一个程序中包含客户端和服务器。
-您可以修改和重新分发源代码
-因为它采用 GPL。
+        <translation type="vanished">是一款支持双人对战的网络西洋棋游戏。
+其客户端与服务器端集成于同一程序中‌。
+您可以修改和重新分发源代码，
+因为它遵循 GPL 许可。
 
 俄罗斯，坦波夫，2005 年 (denis@silversoft.net)</translation>
     </message>
@@ -8924,11 +8924,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Enable docklet</source>
-        <translation>启用系统托盘图标</translation>
+        <translation>启用系统托盘</translation>
     </message>
     <message>
         <source>Docklet</source>
-        <translation>系统托盘图标</translation>
+        <translation>系统托盘</translation>
     </message>
     <message>
         <source>Use &quot;double-click&quot; style (like ICQ)</source>
@@ -9129,7 +9129,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Bounce dock:</source>
-        <translation>在任务栏弹跳图标：</translation>
+        <translation>弹跳图标：</translation>
     </message>
     <message>
         <source>Never</source>
@@ -9989,7 +9989,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts
 is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
-        <translation type="vanished">如果您首次使用本插件，请确保您的所有账号都在线，然后按“更新生日”按钮。这需要一些时间。</translation>
+        <translation type="vanished">如果您首次使用本插件，请确保您的所有账号都在线，然后点击“更新生日”按钮。这需要一些时间。</translation>
     </message>
     <message>
         <source>Update Birthdays</source>
@@ -10519,7 +10519,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
-        <translation>如果您首次使用本插件，请确保您的所有账号都在线，然后按“更新生日”按钮。这需要一些时间。</translation>
+        <translation>如果您首次使用本插件，请确保您的所有账号都在线，然后点击“更新生日”按钮。这需要一些时间。</translation>
     </message>
     <message>
         <source>Keys Manager</source>
@@ -10884,7 +10884,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi use a docklet icon, also known as system tray icon.</source>
-        <translation>设置 Psi 显示系统托盘图标。</translation>
+        <translation>设置 Psi 使用系统托盘图标。</translation>
     </message>
     <message>
         <source>Normally, single-clicking on the Psi docklet icon brings the main window to the foreground.  Check this option if you would rather use a double-click.</source>
@@ -13626,11 +13626,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Pin Tab</source>
-        <translation type="vanished">固定标签</translation>
+        <translation type="vanished">固定标签页</translation>
     </message>
     <message>
         <source>Unpin Tab</source>
-        <translation type="vanished">取消固定标签</translation>
+        <translation type="vanished">取消固定标签页</translation>
     </message>
     <message>
         <source>Templates</source>
@@ -13642,7 +13642,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Pin/UnPin Tab</source>
-        <translation>固定/取消固定标签</translation>
+        <translation>固定/取消固定标签页</translation>
     </message>
     <message>
         <source>Join Psi Discussion Room (Online)</source>
@@ -13697,7 +13697,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Contact has been switched: %1</source>
-        <translation>已切换联系人：%1</translation>
+        <translation>联系人已切换：%1</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -17731,11 +17731,11 @@ The plugin is designed to keep notes on the XMPP server with the ability to acce
     </message>
     <message>
         <source>Unpin Tab</source>
-        <translation>取消固定标签</translation>
+        <translation>取消固定标签页</translation>
     </message>
     <message>
         <source>Pin Tab</source>
-        <translation>固定标签</translation>
+        <translation>固定标签页</translation>
     </message>
     <message>
         <source>%1 (Inactive)</source>
@@ -18159,7 +18159,7 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
-        <translation>如果您经常在群聊中聊天，昵称补全是很好的功能。最有用的快捷键是 &lt;tt&gt;Tab 键&lt;/tt&gt;；当在新行的开头或一步之后使用时，它会插入最后一个直接对您讲话的人的昵称。然后您可以继续按 &lt;tt&gt;Tab 键&lt;/tt&gt;，它会在群聊中所有人的昵称上循环。&lt;br/&gt;&lt;br/&gt;对于更复杂的场景：&lt;tt&gt;mblsha&lt;/tt&gt;、&lt;tt&gt;Monster&lt;/tt&gt; 和 &lt;tt&gt;mbl-revolution&lt;/tt&gt; 都在同一群聊中。如果您输入 &lt;tt&gt;m&lt;/tt&gt; 并按 &lt;tt&gt;Tab 键&lt;/tt&gt;，它不会导致任何明显的操作。这是因为有多个以 &lt;tt&gt;m&lt;/tt&gt; 开头的昵称，您可以继续 &lt;tt&gt;Tab&lt;/tt&gt; 循环浏览所有以 &lt;tt&gt;m&lt;/tt&gt; 开始的昵称，也可以写更多的字母，直到有一个唯一的补全。当您按下 &lt;tt&gt;b&lt;/tt&gt; 按钮，然后按下 &lt;tt&gt;Tab 键&lt;/tt&gt;，它将补全 mbl。您越是使用这个功能，就越有可能喜欢它并依赖它。试着补全某人的昵称，您就会意识到它有多强大。</translation>
+        <translation>如果您经常在群聊中聊天，昵称补全是非常有用的功能。最有用的快捷键是 &lt;tt&gt;Tab-Tab&lt;/tt&gt;；当在新行开头或消息起始后处使用时，它会插入最后与您联系的人的昵称。然后您可以继续按 &lt;tt&gt;Tab 键&lt;/tt&gt;，它会循环显示群聊中所有人的昵称。&lt;br/&gt;&lt;br/&gt;对于更复杂的场景：&lt;tt&gt;mblsha&lt;/tt&gt;、&lt;tt&gt;Monster&lt;/tt&gt; 和 &lt;tt&gt;mbl-revolution&lt;/tt&gt; 都在同一群聊中。如果您输入 &lt;tt&gt;m&lt;/tt&gt; 并按 &lt;tt&gt;Tab 键&lt;/tt&gt;，它不会产生任何明显的操作。这是因为有多个以 &lt;tt&gt;m&lt;/tt&gt; 开头的昵称，您可以继续按 &lt;tt&gt;Tab 键&lt;/tt&gt;循环浏览所有以 &lt;tt&gt;m&lt;/tt&gt; 开头的昵称，也可以输入更多字母，直到出现唯一的补全。当您按下 &lt;tt&gt;b&lt;/tt&gt; 按钮，然后按下 &lt;tt&gt;Tab 键&lt;/tt&gt;，它将补全 mbl。您越是使用此功能，就越有可能喜欢它并依赖它。试着补全某人的昵称，您就会意识到它有多强大。</translation>
     </message>
     <message>
         <source>This is the last tip.
