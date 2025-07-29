@@ -1095,7 +1095,11 @@ salvará o histórico deste contato.</translation>
     <name>ActiveProfiles</name>
     <message>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation>Este perfil psi já está em execução...&lt;br&gt;por favor aguarde...</translation>
+        <translation type="vanished">Este perfil psi já está em execução...&lt;br&gt;por favor aguarde...</translation>
+    </message>
+    <message>
+        <source>This Psi profile is already running...&lt;br&gt;Please wait...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9231,6 +9235,10 @@ Motivo: %1.</translation>
     <message>
         <source>S</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">Descrição</translation>
     </message>
 </context>
 <context>

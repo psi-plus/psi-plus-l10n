@@ -1094,7 +1094,11 @@ Chronik für diesen Kontakt speichern.</translation>
     <name>ActiveProfiles</name>
     <message>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation>Dieses Psi Profil läuft bereits ...&lt;br&gt;Bitte warten Sie ...</translation>
+        <translation type="vanished">Dieses Psi Profil läuft bereits ...&lt;br&gt;Bitte warten Sie ...</translation>
+    </message>
+    <message>
+        <source>This Psi profile is already running...&lt;br&gt;Please wait...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9273,6 +9277,10 @@ Grund: %1.</translation>
     <message>
         <source>S</source>
         <translation>S</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">Beschreibung</translation>
     </message>
 </context>
 <context>

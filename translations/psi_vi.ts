@@ -1083,7 +1083,11 @@ lưu lịch sử cho liên lạc này.</translation>
     <name>ActiveProfiles</name>
     <message>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation>Hồ sơ Psi đang khởi chạy...&lt;br&gt;vui lòng chờ...</translation>
+        <translation type="vanished">Hồ sơ Psi đang khởi chạy...&lt;br&gt;vui lòng chờ...</translation>
+    </message>
+    <message>
+        <source>This Psi profile is already running...&lt;br&gt;Please wait...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9107,6 +9111,10 @@ Lý do : %1.</translation>
     <message>
         <source>S</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">Mô tả</translation>
     </message>
 </context>
 <context>

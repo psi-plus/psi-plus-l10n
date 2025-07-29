@@ -1097,7 +1097,11 @@ save the history for this contact.</translation>
     <name>ActiveProfiles</name>
     <message>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation>This psi profile is already running...&lt;br&gt;please wait...</translation>
+        <translation type="vanished">This psi profile is already running...&lt;br&gt;please wait...</translation>
+    </message>
+    <message>
+        <source>This Psi profile is already running...&lt;br&gt;Please wait...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9300,6 +9304,10 @@ Reason: %1.</translation>
     <message>
         <source>S</source>
         <translation>S</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">Description</translation>
     </message>
 </context>
 <context>

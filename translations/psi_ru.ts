@@ -1089,7 +1089,11 @@ save the history for this contact.</source>
     <name>ActiveProfiles</name>
     <message>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation>Этот профиль уже используется...&lt;br&gt;пожалуйста, ждите...</translation>
+        <translation type="vanished">Этот профиль уже используется...&lt;br&gt;пожалуйста, ждите...</translation>
+    </message>
+    <message>
+        <source>This Psi profile is already running...&lt;br&gt;Please wait...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9308,6 +9312,10 @@ Reason: %1.</source>
     <message>
         <source>S</source>
         <translation>A</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">Описание</translation>
     </message>
 </context>
 <context>

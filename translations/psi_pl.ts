@@ -1073,7 +1073,11 @@ zapisywał historii dla tego kontaktu.</translation>
     <name>ActiveProfiles</name>
     <message>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation>Ten profil psi jest aktualnie używany...&lt;br&gt;proszę zaczekać...</translation>
+        <translation type="vanished">Ten profil psi jest aktualnie używany...&lt;br&gt;proszę zaczekać...</translation>
+    </message>
+    <message>
+        <source>This Psi profile is already running...&lt;br&gt;Please wait...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9063,6 +9067,10 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     <message>
         <source>S</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">Opis</translation>
     </message>
 </context>
 <context>

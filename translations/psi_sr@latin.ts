@@ -1077,7 +1077,11 @@ save the history for this contact.</translation>
     <name>ActiveProfiles</name>
     <message>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation>Ovaj psi profil je već pokrenut ...&lt;br&gt;molim sačekajte...</translation>
+        <translation type="vanished">Ovaj psi profil je već pokrenut ...&lt;br&gt;molim sačekajte...</translation>
+    </message>
+    <message>
+        <source>This Psi profile is already running...&lt;br&gt;Please wait...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9054,6 +9058,10 @@ Reason: %1.</source>
     <message>
         <source>S</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">Opis</translation>
     </message>
 </context>
 <context>

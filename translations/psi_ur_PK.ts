@@ -1030,7 +1030,11 @@ Reason: %1</source>
     <name>ActiveProfiles</name>
     <message>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation>یہ پروفائل پہلے سے چل رہا ہے... &lt;br&gt; انتظار کیجیے...</translation>
+        <translation type="vanished">یہ پروفائل پہلے سے چل رہا ہے... &lt;br&gt; انتظار کیجیے...</translation>
+    </message>
+    <message>
+        <source>This Psi profile is already running...&lt;br&gt;Please wait...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8562,6 +8566,10 @@ Reason: %1.</source>
     <message>
         <source>S</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">تصریح</translation>
     </message>
 </context>
 <context>

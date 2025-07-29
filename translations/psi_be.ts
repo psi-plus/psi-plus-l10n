@@ -1079,7 +1079,11 @@ save the history for this contact.</source>
     <name>ActiveProfiles</name>
     <message>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation>Профіль ужо працуе…&lt;br&gt;Пачакайце,&#xa0;калі ласка…</translation>
+        <translation type="vanished">Профіль ужо працуе…&lt;br&gt;Пачакайце,&#xa0;калі ласка…</translation>
+    </message>
+    <message>
+        <source>This Psi profile is already running...&lt;br&gt;Please wait...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9174,6 +9178,10 @@ Reason: %1.</source>
     <message>
         <source>S</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">Апісаньне</translation>
     </message>
 </context>
 <context>

@@ -1020,7 +1020,11 @@ Reason: %1</source>
     <name>ActiveProfiles</name>
     <message>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation>Αυτό το προφίλ psi εκτελείται ήδη... &lt;br&gt; παρακαλώ περιμένετε...</translation>
+        <translation type="vanished">Αυτό το προφίλ psi εκτελείται ήδη... &lt;br&gt; παρακαλώ περιμένετε...</translation>
+    </message>
+    <message>
+        <source>This Psi profile is already running...&lt;br&gt;Please wait...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8603,6 +8607,10 @@ Reason: %1.</source>
     </message>
     <message>
         <source>S</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Description</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

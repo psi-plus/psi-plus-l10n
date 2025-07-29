@@ -1085,7 +1085,11 @@ naplóz ennél az ismerősnél.</translation>
     <name>ActiveProfiles</name>
     <message>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation>Ez a psi profil már használatban van...&lt;br/&gt;kérlek várj...</translation>
+        <translation type="vanished">Ez a psi profil már használatban van...&lt;br/&gt;kérlek várj...</translation>
+    </message>
+    <message>
+        <source>This Psi profile is already running...&lt;br&gt;Please wait...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9214,6 +9218,10 @@ Oka: %1.</translation>
     <message>
         <source>S</source>
         <translation>S</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">Leírás</translation>
     </message>
 </context>
 <context>

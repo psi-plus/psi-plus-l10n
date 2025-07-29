@@ -997,7 +997,7 @@ Põhjus: %1</translation>
 <context>
     <name>ActiveProfiles</name>
     <message>
-        <source>This psi profile is already running...&lt;br&gt;please wait...</source>
+        <source>This Psi profile is already running...&lt;br&gt;Please wait...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8380,6 +8380,10 @@ Reason: %1.</source>
     </message>
     <message>
         <source>S</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Description</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

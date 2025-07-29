@@ -1098,7 +1098,11 @@ salverà la cronologia per questo contatto.</translation>
     <name>ActiveProfiles</name>
     <message>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation>Questo profilo è già in esecuzione...&lt;br&gt;attendere prego...</translation>
+        <translation type="vanished">Questo profilo è già in esecuzione...&lt;br&gt;attendere prego...</translation>
+    </message>
+    <message>
+        <source>This Psi profile is already running...&lt;br&gt;Please wait...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9302,6 +9306,10 @@ Argomento MUC per esempio.</translation>
     <message>
         <source>S</source>
         <translation>S</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">Descrizione</translation>
     </message>
 </context>
 <context>

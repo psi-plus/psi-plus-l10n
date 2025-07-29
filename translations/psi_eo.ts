@@ -1018,7 +1018,11 @@ Kialo: %1</translation>
     <name>ActiveProfiles</name>
     <message>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation>Tiu psi profilo jam estas rulanta...&lt;br&gt;bonvolu atendi...</translation>
+        <translation type="vanished">Tiu psi profilo jam estas rulanta...&lt;br&gt;bonvolu atendi...</translation>
+    </message>
+    <message>
+        <source>This Psi profile is already running...&lt;br&gt;Please wait...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8433,6 +8437,10 @@ Kialo: %1.</translation>
     </message>
     <message>
         <source>S</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Description</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

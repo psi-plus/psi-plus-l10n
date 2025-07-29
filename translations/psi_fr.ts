@@ -1085,7 +1085,11 @@ l&apos;historique pour ce contact.</translation>
     <name>ActiveProfiles</name>
     <message>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation>Ce profil est déja actif...&lt;br&gt;patientez svp...</translation>
+        <translation type="vanished">Ce profil est déja actif...&lt;br&gt;patientez svp...</translation>
+    </message>
+    <message>
+        <source>This Psi profile is already running...&lt;br&gt;Please wait...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9165,6 +9169,10 @@ Cause: %1.</translation>
     <message>
         <source>S</source>
         <translation>S</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">Description</translation>
     </message>
 </context>
 <context>

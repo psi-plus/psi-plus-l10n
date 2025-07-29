@@ -1087,7 +1087,11 @@ Si se selecciona, el servidor no guardará el historial para este contacto.</tra
     <name>ActiveProfiles</name>
     <message>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation>Este perfil de Psi ya está funcionando...&lt;br&gt;Por favor, espera...</translation>
+        <translation type="vanished">Este perfil de Psi ya está funcionando...&lt;br&gt;Por favor, espera...</translation>
+    </message>
+    <message>
+        <source>This Psi profile is already running...&lt;br&gt;Please wait...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9193,6 +9197,10 @@ Motivo: %1.</translation>
     <message>
         <source>S</source>
         <translation>S</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">Descripción</translation>
     </message>
 </context>
 <context>
