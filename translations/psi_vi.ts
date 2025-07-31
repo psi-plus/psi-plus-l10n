@@ -1754,7 +1754,7 @@ Dùng gửi lệnh, tin nhắn thông thường, trình cắm này luôn hoạt 
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Tên:</translation>
+        <translation>Tên:</translation>
     </message>
 </context>
 <context>
@@ -9114,7 +9114,7 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Mô tả</translation>
+        <translation>Mô tả</translation>
     </message>
 </context>
 <context>
@@ -13567,7 +13567,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Tới</translation>
+        <translation>Tới</translation>
     </message>
 </context>
 <context>
@@ -13804,7 +13804,7 @@ Migration is possible with Psi-0.15</source>
     <name>PsiDBusNotifier</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Mở</translation>
+        <translation>Mở</translation>
     </message>
 </context>
 <context>
@@ -18583,7 +18583,7 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     </message>
     <message>
         <source>Policy violation</source>
-        <translation type="unfinished">Vi phạm chính sách</translation>
+        <translation>Vi phạm chính sách</translation>
     </message>
     <message>
         <source>The sender has violated some service policy.</source>

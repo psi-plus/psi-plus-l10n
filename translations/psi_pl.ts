@@ -1732,7 +1732,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Nazwa:</translation>
+        <translation>Nazwa:</translation>
     </message>
 </context>
 <context>
@@ -9070,7 +9070,7 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Opis</translation>
+        <translation>Opis</translation>
     </message>
 </context>
 <context>
@@ -13543,7 +13543,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Dalej</translation>
+        <translation>Dalej</translation>
     </message>
 </context>
 <context>
@@ -13780,7 +13780,7 @@ Migration is possible with Psi-0.15</source>
     <name>PsiDBusNotifier</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Otwórz</translation>
+        <translation>Otwórz</translation>
     </message>
 </context>
 <context>
@@ -18551,7 +18551,7 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     </message>
     <message>
         <source>Policy violation</source>
-        <translation type="unfinished">Naruszenie polityki bezpiezczeństwa</translation>
+        <translation>Naruszenie polityki bezpiezczeństwa</translation>
     </message>
     <message>
         <source>The sender has violated some service policy.</source>

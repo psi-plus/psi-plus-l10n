@@ -1773,7 +1773,7 @@ Per inviare comandi, basta usare normali messaggi, quindi questo plugin funzione
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Nome:</translation>
+        <translation>Nome:</translation>
     </message>
 </context>
 <context>
@@ -3606,7 +3606,7 @@ Procedere?</translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="unfinished">Attività</translation>
+        <translation>Attività</translation>
     </message>
     <message>
         <source>Objects</source>
@@ -9309,7 +9309,7 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Descrizione</translation>
+        <translation>Descrizione</translation>
     </message>
 </context>
 <context>
@@ -14027,7 +14027,7 @@ La migrazione è possibile con Psi-0.15</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Avanti</translation>
+        <translation>Avanti</translation>
     </message>
 </context>
 <context>
@@ -14264,7 +14264,7 @@ La migrazione è possibile con Psi-0.15</translation>
     <name>PsiDBusNotifier</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Apri</translation>
+        <translation>Apri</translation>
     </message>
 </context>
 <context>
@@ -19208,7 +19208,7 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Policy violation</source>
-        <translation type="unfinished">Violazione delle regole</translation>
+        <translation>Violazione delle regole</translation>
     </message>
     <message>
         <source>The sender has violated some service policy.</source>

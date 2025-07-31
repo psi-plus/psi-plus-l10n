@@ -1091,11 +1091,11 @@ save the history for this contact.</source>
     <name>ActiveProfiles</name>
     <message>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation type="vanished">此 Psi 配置文件已在运行中…&lt;br&gt;请稍候…</translation>
+        <translation type="vanished">此 Psi 配置文件已在运行…&lt;br&gt;请稍候…</translation>
     </message>
     <message>
         <source>This Psi profile is already running...&lt;br&gt;Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>此 Psi 配置文件已在运行…&lt;br&gt;请稍候…</translation>
     </message>
 </context>
 <context>
@@ -9294,7 +9294,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">描述</translation>
+        <translation>描述</translation>
     </message>
 </context>
 <context>

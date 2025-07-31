@@ -1767,7 +1767,7 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Jméno:</translation>
+        <translation>Jméno:</translation>
     </message>
 </context>
 <context>
@@ -3599,7 +3599,7 @@ Pokračovat?</translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="unfinished">Činnosti</translation>
+        <translation>Činnosti</translation>
     </message>
     <message>
         <source>Objects</source>
@@ -9252,7 +9252,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Popis</translation>
+        <translation>Popis</translation>
     </message>
 </context>
 <context>
@@ -13975,7 +13975,7 @@ Migrace je možná s Psi-0.15</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Vpřed</translation>
+        <translation>Vpřed</translation>
     </message>
 </context>
 <context>
@@ -14212,7 +14212,7 @@ Migrace je možná s Psi-0.15</translation>
     <name>PsiDBusNotifier</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Otevřít</translation>
+        <translation>Otevřít</translation>
     </message>
 </context>
 <context>
@@ -19109,7 +19109,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Policy violation</source>
-        <translation type="unfinished">Porušení zásady</translation>
+        <translation>Porušení zásady</translation>
     </message>
     <message>
         <source>The sender has violated some service policy.</source>

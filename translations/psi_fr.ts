@@ -1760,7 +1760,7 @@ Les commandes sont envoyées sous forme de messages, ce greffon fonctionnera don
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom :</translation>
     </message>
 </context>
 <context>
@@ -3589,7 +3589,7 @@ Continuer ?</translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="unfinished">Activités</translation>
+        <translation>Activités</translation>
     </message>
     <message>
         <source>Objects</source>
@@ -9172,7 +9172,7 @@ Cause: %1.</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Description</translation>
+        <translation>Description</translation>
     </message>
 </context>
 <context>
@@ -13771,7 +13771,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Avancer</translation>
+        <translation>Avancer</translation>
     </message>
 </context>
 <context>
@@ -14008,7 +14008,7 @@ Migration is possible with Psi-0.15</source>
     <name>PsiDBusNotifier</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Ouvrir</translation>
+        <translation>Ouvrir</translation>
     </message>
 </context>
 <context>
@@ -18843,7 +18843,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Policy violation</source>
-        <translation type="unfinished">Violation des règles de conduite</translation>
+        <translation>Violation des règles de conduite</translation>
     </message>
     <message>
         <source>The sender has violated some service policy.</source>

@@ -1770,7 +1770,7 @@ Para enviar comandos, são usadas mensagens normais, portanto esse plug-in sempr
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Nome:</translation>
+        <translation>Nome:</translation>
     </message>
 </context>
 <context>
@@ -3599,7 +3599,7 @@ Proceder?</translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="unfinished">Atividades</translation>
+        <translation>Atividades</translation>
     </message>
     <message>
         <source>Objects</source>
@@ -9238,7 +9238,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Descrição</translation>
+        <translation>Descrição</translation>
     </message>
 </context>
 <context>
@@ -13914,7 +13914,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Avançar</translation>
+        <translation>Avançar</translation>
     </message>
 </context>
 <context>

@@ -1754,7 +1754,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">名稱:</translation>
+        <translation>名稱:</translation>
     </message>
 </context>
 <context>
@@ -3568,7 +3568,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="unfinished">活動</translation>
+        <translation>活動</translation>
     </message>
     <message>
         <source>Objects</source>
@@ -9165,7 +9165,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">描述</translation>
+        <translation>描述</translation>
     </message>
 </context>
 <context>
@@ -13821,7 +13821,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">前進</translation>
+        <translation>前進</translation>
     </message>
 </context>
 <context>
@@ -14058,7 +14058,7 @@ Migration is possible with Psi-0.15</source>
     <name>PsiDBusNotifier</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished">打開</translation>
+        <translation>打開</translation>
     </message>
 </context>
 <context>
@@ -18954,7 +18954,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Policy violation</source>
-        <translation type="unfinished">違反原則</translation>
+        <translation>違反原則</translation>
     </message>
     <message>
         <source>The sender has violated some service policy.</source>

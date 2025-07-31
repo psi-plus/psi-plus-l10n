@@ -1771,7 +1771,7 @@ Für das Versenden von Befehlen werden normale Nachrichten verwendet, so dass di
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Name:</translation>
+        <translation>Name:</translation>
     </message>
 </context>
 <context>
@@ -3602,7 +3602,7 @@ Fortfahren?</translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="unfinished">Aktivitäten</translation>
+        <translation>Aktivitäten</translation>
     </message>
     <message>
         <source>Objects</source>
@@ -9280,7 +9280,7 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Beschreibung</translation>
+        <translation>Beschreibung</translation>
     </message>
 </context>
 <context>
@@ -13979,7 +13979,7 @@ Migration ist möglich mit Psi-0.15</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Vorwärts</translation>
+        <translation>Vorwärts</translation>
     </message>
 </context>
 <context>
@@ -14216,7 +14216,7 @@ Migration ist möglich mit Psi-0.15</translation>
     <name>PsiDBusNotifier</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Öffnen</translation>
+        <translation>Öffnen</translation>
     </message>
 </context>
 <context>
@@ -19163,7 +19163,7 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     </message>
     <message>
         <source>Policy violation</source>
-        <translation type="unfinished">Methodenverletzung</translation>
+        <translation>Methodenverletzung</translation>
     </message>
     <message>
         <source>The sender has violated some service policy.</source>

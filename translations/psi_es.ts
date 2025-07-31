@@ -1765,7 +1765,7 @@ Para el envío de comandos, se usan mensajes normales, por lo que este complemen
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Nombre:</translation>
+        <translation>Nombre:</translation>
     </message>
 </context>
 <context>
@@ -3591,7 +3591,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="unfinished">Actividades</translation>
+        <translation>Actividades</translation>
     </message>
     <message>
         <source>Objects</source>
@@ -9200,7 +9200,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Descripción</translation>
+        <translation>Descripción</translation>
     </message>
 </context>
 <context>
@@ -13886,7 +13886,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Adelante</translation>
+        <translation>Adelante</translation>
     </message>
 </context>
 <context>
@@ -14123,7 +14123,7 @@ Migration is possible with Psi-0.15</source>
     <name>PsiDBusNotifier</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Abrir</translation>
+        <translation>Abrir</translation>
     </message>
 </context>
 <context>
@@ -19048,7 +19048,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Policy violation</source>
-        <translation type="unfinished">Violación de política</translation>
+        <translation>Violación de política</translation>
     </message>
     <message>
         <source>The sender has violated some service policy.</source>

@@ -1761,7 +1761,7 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Név:</translation>
+        <translation>Név:</translation>
     </message>
 </context>
 <context>
@@ -3592,7 +3592,7 @@ Minden szó használhat gyakori kifejezést</translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="unfinished">Tevékenységek</translation>
+        <translation>Tevékenységek</translation>
     </message>
     <message>
         <source>Objects</source>
@@ -9221,7 +9221,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Leírás</translation>
+        <translation>Leírás</translation>
     </message>
 </context>
 <context>
@@ -13910,7 +13910,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Előre</translation>
+        <translation>Előre</translation>
     </message>
 </context>
 <context>
@@ -14147,7 +14147,7 @@ Migration is possible with Psi-0.15</source>
     <name>PsiDBusNotifier</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Megnyitás</translation>
     </message>
 </context>
 <context>
@@ -19016,7 +19016,7 @@ Ablak bezárása mégis?</translation>
     </message>
     <message>
         <source>Policy violation</source>
-        <translation type="unfinished">Házirend megszegése</translation>
+        <translation>Házirend megszegése</translation>
     </message>
     <message>
         <source>The sender has violated some service policy.</source>

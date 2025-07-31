@@ -1698,7 +1698,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Emër:</translation>
+        <translation>Emër:</translation>
     </message>
 </context>
 <context>
@@ -3506,7 +3506,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="unfinished">Veprimtari</translation>
+        <translation>Veprimtari</translation>
     </message>
     <message>
         <source>Objects</source>
@@ -9018,7 +9018,7 @@ Arsye: %1.</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Përshkrim</translation>
+        <translation>Përshkrim</translation>
     </message>
 </context>
 <context>
@@ -13556,7 +13556,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Përpara</translation>
+        <translation>Përpara</translation>
     </message>
 </context>
 <context>
@@ -18581,7 +18581,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Policy violation</source>
-        <translation type="unfinished">Dhunim rregullash</translation>
+        <translation>Dhunim rregullash</translation>
     </message>
     <message>
         <source>The sender has violated some service policy.</source>

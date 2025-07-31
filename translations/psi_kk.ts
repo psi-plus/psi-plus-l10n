@@ -1661,7 +1661,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Аты:</translation>
+        <translation>Аты:</translation>
     </message>
 </context>
 <context>
@@ -8437,7 +8437,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Анықтамасы</translation>
+        <translation>Анықтамасы</translation>
     </message>
 </context>
 <context>
@@ -12787,7 +12787,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Алға</translation>
+        <translation>Алға</translation>
     </message>
 </context>
 <context>
@@ -13020,7 +13020,7 @@ Migration is possible with Psi-0.15</source>
     <name>PsiDBusNotifier</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Ашу</translation>
+        <translation>Ашу</translation>
     </message>
 </context>
 <context>

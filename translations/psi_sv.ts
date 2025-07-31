@@ -1661,7 +1661,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Namn:</translation>
+        <translation>Namn:</translation>
     </message>
 </context>
 <context>
@@ -8741,7 +8741,7 @@ Orsak: %1.</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Beskrivning</translation>
+        <translation>Beskrivning</translation>
     </message>
 </context>
 <context>
@@ -13172,7 +13172,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Framåt</translation>
+        <translation>Framåt</translation>
     </message>
 </context>
 <context>
@@ -13409,7 +13409,7 @@ Migration is possible with Psi-0.15</source>
     <name>PsiDBusNotifier</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Öppna</translation>
+        <translation>Öppna</translation>
     </message>
 </context>
 <context>
@@ -18134,7 +18134,7 @@ Vill du ändå stänga fönstrett?</translation>
     </message>
     <message>
         <source>Policy violation</source>
-        <translation type="unfinished">Policybrott</translation>
+        <translation>Policybrott</translation>
     </message>
     <message>
         <source>The sender has violated some service policy.</source>
