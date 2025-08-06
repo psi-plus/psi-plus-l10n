@@ -636,6 +636,11 @@ When you enable this option you will not be able to find your password in config
         <source>Use this proxy server for HTTP file upload</source>
         <translation>Використовуйте цей проксі-сервер для завантаження файлів по HTTP</translation>
     </message>
+    <message>
+        <source>yourname@server.test</source>
+        <extracomment>Like email</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>

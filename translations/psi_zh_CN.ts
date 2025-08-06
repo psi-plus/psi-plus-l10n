@@ -629,6 +629,11 @@ When you enable this option you will not be able to find your password in config
         <source>Use this proxy server for HTTP file upload</source>
         <translation>使用此代理服务器进行 HTTP 文件上传</translation>
     </message>
+    <message>
+        <source>yourname@server.test</source>
+        <extracomment>Like email</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>

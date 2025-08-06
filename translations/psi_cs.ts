@@ -629,6 +629,11 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
         <source>Use this proxy server for HTTP file upload</source>
         <translation>Použít tento proxy server pro nahrávání souborů přes HTTP</translation>
     </message>
+    <message>
+        <source>yourname@server.test</source>
+        <extracomment>Like email</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>

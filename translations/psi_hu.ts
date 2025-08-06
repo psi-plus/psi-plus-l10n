@@ -623,6 +623,11 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
         <source>Use this proxy server for HTTP file upload</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>yourname@server.test</source>
+        <extracomment>Like email</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>

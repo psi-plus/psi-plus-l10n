@@ -635,6 +635,11 @@ Quando abiliti questa opzione non sarai in grado di trovare la tua password nei 
         <source>Use this proxy server for HTTP file upload</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>yourname@server.test</source>
+        <extracomment>Like email</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>
