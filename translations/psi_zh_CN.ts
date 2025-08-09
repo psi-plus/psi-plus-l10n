@@ -632,7 +632,7 @@ When you enable this option you will not be able to find your password in config
     <message>
         <source>yourname@server.test</source>
         <extracomment>Like email</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>yourname@server.test</translation>
     </message>
 </context>
 <context>
@@ -13982,7 +13982,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>You need to set up an account to start. Would you like to register a new account, or use an existing account?</source>
-        <translation>您需要设置账号才能开始。是否要注册新账号还是使用现有账号？</translation>
+        <translation>您需要设置账号才能开始。注册新账号还是使用现有账号？</translation>
     </message>
     <message>
         <source>Register new account</source>
