@@ -70,7 +70,7 @@
     </message>
     <message>
         <source>About Psi+</source>
-        <translation>Giới thiệu Psi+</translation>
+        <translation type="vanished">Giới thiệu Psi+</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -90,7 +90,7 @@
     </message>
     <message>
         <source>Active project members are presents below:</source>
-        <translation>Các thành viên dự án tích cực:</translation>
+        <translation type="vanished">Các thành viên dự án tích cực:</translation>
     </message>
     <message>
         <source>Founder, Patcher and MS Windows Packager</source>
@@ -98,7 +98,7 @@
     </message>
     <message>
         <source>Founder and Lead Patcher</source>
-        <translation>Người sáng lập và Người tạo bản vá lỗi</translation>
+        <translation type="vanished">Người sáng lập và Người tạo bản vá lỗi</translation>
     </message>
     <message>
         <source>Founder, Designer and Patcher</source>
@@ -222,19 +222,15 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; để biết thêm chi tiế
     </message>
     <message>
         <source>Developer and Maintainer</source>
-        <translation>Nhà phát triển và Duy trì</translation>
+        <translation type="vanished">Nhà phát triển và Duy trì</translation>
     </message>
     <message>
         <source>Language coordinator, macOS port, miscellaneous assistance</source>
-        <translation>Điều phối ngôn ngữ, macOS, trợ giúp khác</translation>
-    </message>
-    <message>
-        <source>Founder, Patcher and former MS Windows Packager</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Điều phối ngôn ngữ, macOS, trợ giúp khác</translation>
     </message>
     <message>
         <source>Founder, Patcher and former Designer</source>
-        <translation>Nhà sáng lập, vá lỗi và Cựu thiết kế</translation>
+        <translation type="vanished">Nhà sáng lập, vá lỗi và Cựu thiết kế</translation>
     </message>
     <message>
         <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
@@ -270,10 +266,30 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; để biết thêm chi tiế
     </message>
     <message>
         <source>About Psi</source>
-        <translation>Giới thiệu Psi</translation>
+        <translation type="vanished">Giới thiệu Psi</translation>
     </message>
     <message>
         <source>Cross-platform XMPP client designed for experienced users.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi-im.org</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>xmpp:psi-dev@conference.jabber.ru?join</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi-dev@conference.jabber.ru</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former MS Windows Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former Designer</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -596,12 +612,6 @@ Bấm vào &lt;b&gt;Đăng ký tài khoản mới&lt;/b&gt; hộp chọn nếu b
         <translation>Miền:</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Attention!&lt;/b&gt;
-&lt;br/&gt;
-When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Store hash instead of plaintext password if server supports this feature.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -624,6 +634,12 @@ When you enable this option you will not be able to find your password in config
     <message>
         <source>yourname@server.test</source>
         <extracomment>Like email</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Attention!&lt;/b&gt;
+                &lt;br/&gt;
+                When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2817,7 +2833,7 @@ Lưu ý: Để hoạt động chính xác, Thanh công cụ trò chuyện nhóm 
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation>&amp;Giao tiếp XML</translation>
+        <translation type="vanished">&amp;Giao tiếp XML</translation>
     </message>
     <message>
         <source>&amp;Modify Account...</source>
@@ -2866,6 +2882,10 @@ Lưu ý: Để hoạt động chính xác, Thanh công cụ trò chuyện nhóm 
     <message>
         <source>Groupchats</source>
         <translation>Nhóm trò chuyện</translation>
+    </message>
+    <message>
+        <source>&amp;XMPP Console</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5117,7 +5137,7 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation>Dán và gởi</translation>
+        <translation type="vanished">Dán và gởi</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
@@ -11503,16 +11523,12 @@ Lý do: %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save Password</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="vanished">OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Hủy</translation>
+        <translation type="vanished">Hủy</translation>
     </message>
     <message>
         <source>Please enter your password for %1:</source>
@@ -11545,6 +11561,21 @@ Hãy gõ vào dưới đây cụm từ mật khẩu:</translation>
     <message>
         <source>%1: OpenPGP Passphrase</source>
         <translation type="vanished">%1: cụm từ mật khẩu OpenPGP</translation>
+    </message>
+</context>
+<context>
+    <name>PasswordDialog</name>
+    <message>
+        <source>Wrong Account Password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enter your password for %1:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Password</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12842,7 +12873,7 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation>Bàn giao tiếp &amp;XML</translation>
+        <translation type="vanished">Bàn giao tiếp &amp;XML</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
@@ -13081,22 +13112,6 @@ Lý do : %1.</translation>
         <translation>Trang c&amp;hủ (trực tuyến)</translation>
     </message>
     <message>
-        <source>Psi+ Forum (Online)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Psi+ &amp;Forum (Online)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Join Psi+ Discussion Room (Online)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Join Psi+ Discussion Room (Online)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Report a Bug (Online)</source>
         <translation>Thông báo lỗi (trực tuyến)</translation>
     </message>
@@ -13260,6 +13275,14 @@ Lý do : %1.</translation>
         <source>&amp;Manage Accounts</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&amp;XMPP Console</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation type="unfinished">Dán và gởi</translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -13311,7 +13334,7 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation>Dán và gởi</translation>
+        <translation type="vanished">Dán và gởi</translation>
     </message>
     <message>
         <source>Enable OpenPGP encryption</source>
@@ -18296,7 +18319,7 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     <name>XMLConsole</name>
     <message>
         <source>XML Console</source>
-        <translation>Bàn giao tiếp XML</translation>
+        <translation type="vanished">Bàn giao tiếp XML</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -18340,6 +18363,26 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     </message>
     <message>
         <source>SM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XMPP Console</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;message&gt; stanza used to send information to other XMPP entities without requiring a response.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;presence&gt; stanza used for status of other clients and components. It&apos;s a multi-cast so extensions use it to broadcast own things to contacts, such as capabilities, music choice, or location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;iq&gt; (info/query) stanza used for requesting and modifying information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a&gt; (ack) and &lt;r&gt; (request ack) stanzas used to acknowledge successful receipt of a stanza.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18610,7 +18653,11 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     <name>XmlConsole</name>
     <message>
         <source>XML Console</source>
-        <translation>Bàn giao tiếp XML</translation>
+        <translation type="vanished">Bàn giao tiếp XML</translation>
+    </message>
+    <message>
+        <source>XMPP Console</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18633,7 +18680,7 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     </message>
     <message>
         <source>You have entered malformed XML input. Are you sure you want to send this ?</source>
-        <translation>Bạn đã nhập vào mã XML dạng sai. Bạn có chắc muốn gửi không?</translation>
+        <translation type="vanished">Bạn đã nhập vào mã XML dạng sai. Bạn có chắc muốn gửi không?</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -18642,6 +18689,10 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     <message>
         <source>No</source>
         <translation type="vanished">Không</translation>
+    </message>
+    <message>
+        <source>You have entered malformed XML input.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -70,7 +70,7 @@
     </message>
     <message>
         <source>About Psi+</source>
-        <translation>關於Psi +</translation>
+        <translation type="vanished">關於Psi +</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -90,7 +90,7 @@
     </message>
     <message>
         <source>Active project members are presents below:</source>
-        <translation>活躍項目成員如下:</translation>
+        <translation type="vanished">活躍項目成員如下:</translation>
     </message>
     <message>
         <source>Founder, Patcher and MS Windows Packager</source>
@@ -98,7 +98,7 @@
     </message>
     <message>
         <source>Founder and Lead Patcher</source>
-        <translation>創辦者和引導補丁</translation>
+        <translation type="vanished">創辦者和引導補丁</translation>
     </message>
     <message>
         <source>Founder, Designer and Patcher</source>
@@ -221,22 +221,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Developer and Maintainer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Language coordinator, macOS port, miscellaneous assistance</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Founder, Patcher and former MS Windows Packager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Founder, Patcher and former Designer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
         <translation type="unfinished"></translation>
     </message>
@@ -270,10 +254,30 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>About Psi</source>
-        <translation>關於PSI</translation>
+        <translation type="vanished">關於PSI</translation>
     </message>
     <message>
         <source>Cross-platform XMPP client designed for experienced users.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi-im.org</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>xmpp:psi-dev@conference.jabber.ru?join</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi-dev@conference.jabber.ru</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former MS Windows Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former Designer</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -599,7 +603,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <source>&lt;b&gt;Attention!&lt;/b&gt;
 &lt;br/&gt;
 When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
-        <translation>&lt;b&gt;注意!&lt;/b&gt;
+        <translation type="vanished">&lt;b&gt;注意!&lt;/b&gt;
 &lt;br&gt;
 當您啟動此選項，設定檔中將不再保存密碼明文，而僅保存特徵碼(hash).當您遺忘密碼時將不能從設定檔中找回.</translation>
     </message>
@@ -626,6 +630,12 @@ When you enable this option you will not be able to find your password in config
     <message>
         <source>yourname@server.test</source>
         <extracomment>Like email</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Attention!&lt;/b&gt;
+                &lt;br/&gt;
+                When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2816,7 +2826,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation>XML 控制台(&amp;X)</translation>
+        <translation type="vanished">XML 控制台(&amp;X)</translation>
     </message>
     <message>
         <source>&amp;Modify Account...</source>
@@ -2865,6 +2875,10 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <source>Groupchats</source>
         <translation>群聊</translation>
+    </message>
+    <message>
+        <source>&amp;XMPP Console</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5105,7 +5119,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation>粘貼並發送</translation>
+        <translation type="vanished">粘貼並發送</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
@@ -11720,15 +11734,15 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Save Password</source>
-        <translation>保存密碼</translation>
+        <translation type="vanished">保存密碼</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>確定</translation>
+        <translation type="vanished">確定</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>取消</translation>
+        <translation type="vanished">取消</translation>
     </message>
     <message>
         <source>Please enter your password for %1:</source>
@@ -11765,6 +11779,21 @@ Please enter your passphrase below:</source>
     <message>
         <source>%1: OpenPGP Passphrase</source>
         <translation type="vanished">%1: OpenPGP 密碼短語</translation>
+    </message>
+</context>
+<context>
+    <name>PasswordDialog</name>
+    <message>
+        <source>Wrong Account Password</source>
+        <translation type="unfinished">帳戶密碼錯誤</translation>
+    </message>
+    <message>
+        <source>Please enter your password for %1:</source>
+        <translation type="unfinished">請輸入密碼 %1:</translation>
+    </message>
+    <message>
+        <source>Save Password</source>
+        <translation type="unfinished">保存密碼</translation>
     </message>
 </context>
 <context>
@@ -13080,7 +13109,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation>XML 控制台(&amp;X)</translation>
+        <translation type="vanished">XML 控制台(&amp;X)</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
@@ -13320,19 +13349,19 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Psi+ Forum (Online)</source>
-        <translation>Psi+論壇(線上)</translation>
+        <translation type="vanished">Psi+論壇(線上)</translation>
     </message>
     <message>
         <source>Psi+ &amp;Forum (Online)</source>
-        <translation>Psi+論壇(&amp;F)(線上)</translation>
+        <translation type="vanished">Psi+論壇(&amp;F)(線上)</translation>
     </message>
     <message>
         <source>Join Psi+ Discussion Room (Online)</source>
-        <translation>加入Psi+討論室(線上)</translation>
+        <translation type="vanished">加入Psi+討論室(線上)</translation>
     </message>
     <message>
         <source>&amp;Join Psi+ Discussion Room (Online)</source>
-        <translation>加入Psi+討論室(線上)(&amp;J)</translation>
+        <translation type="vanished">加入Psi+討論室(線上)(&amp;J)</translation>
     </message>
     <message>
         <source>Check for Updates...</source>
@@ -13506,6 +13535,14 @@ Reason: %1.</source>
         <source>&amp;Manage Accounts</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&amp;XMPP Console</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation type="unfinished">粘貼並發送</translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -13557,7 +13594,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation>粘貼並發送</translation>
+        <translation type="vanished">粘貼並發送</translation>
     </message>
     <message>
         <source>Enable OpenPGP encryption</source>
@@ -18667,7 +18704,7 @@ Do you still want to close the window?</source>
     <name>XMLConsole</name>
     <message>
         <source>XML Console</source>
-        <translation>XML 控制台</translation>
+        <translation type="vanished">XML 控制台</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -18711,6 +18748,26 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>SM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XMPP Console</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;message&gt; stanza used to send information to other XMPP entities without requiring a response.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;presence&gt; stanza used for status of other clients and components. It&apos;s a multi-cast so extensions use it to broadcast own things to contacts, such as capabilities, music choice, or location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;iq&gt; (info/query) stanza used for requesting and modifying information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a&gt; (ack) and &lt;r&gt; (request ack) stanzas used to acknowledge successful receipt of a stanza.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18981,7 +19038,11 @@ Do you still want to close the window?</source>
     <name>XmlConsole</name>
     <message>
         <source>XML Console</source>
-        <translation>XML 控制台</translation>
+        <translation type="vanished">XML 控制台</translation>
+    </message>
+    <message>
+        <source>XMPP Console</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19004,7 +19065,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>You have entered malformed XML input. Are you sure you want to send this ?</source>
-        <translation>你輸入了一個異常的 XML 輸入。你確定你想要發送這個嗎?</translation>
+        <translation type="vanished">你輸入了一個異常的 XML 輸入。你確定你想要發送這個嗎?</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -19013,6 +19074,10 @@ Do you still want to close the window?</source>
     <message>
         <source>No</source>
         <translation type="vanished">否</translation>
+    </message>
+    <message>
+        <source>You have entered malformed XML input.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

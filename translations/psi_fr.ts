@@ -70,7 +70,7 @@
     </message>
     <message>
         <source>About Psi+</source>
-        <translation>À propos de Psi+</translation>
+        <translation type="vanished">À propos de Psi+</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -90,7 +90,7 @@
     </message>
     <message>
         <source>Active project members are presents below:</source>
-        <translation>Les membres actifs du projet sont listés ci-dessous :</translation>
+        <translation type="vanished">Les membres actifs du projet sont listés ci-dessous :</translation>
     </message>
     <message>
         <source>Founder, Patcher and MS Windows Packager</source>
@@ -98,7 +98,7 @@
     </message>
     <message>
         <source>Founder and Lead Patcher</source>
-        <translation>Fondateur et contributeur principal</translation>
+        <translation type="vanished">Fondateur et contributeur principal</translation>
     </message>
     <message>
         <source>Founder, Designer and Patcher</source>
@@ -221,22 +221,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Developer and Maintainer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Language coordinator, macOS port, miscellaneous assistance</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Founder, Patcher and former MS Windows Packager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Founder, Patcher and former Designer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
         <translation type="unfinished"></translation>
     </message>
@@ -270,10 +254,30 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>About Psi</source>
-        <translation>A propos de Psi</translation>
+        <translation type="vanished">A propos de Psi</translation>
     </message>
     <message>
         <source>Cross-platform XMPP client designed for experienced users.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi-im.org</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>xmpp:psi-dev@conference.jabber.ru?join</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi-dev@conference.jabber.ru</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former MS Windows Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former Designer</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -599,7 +603,7 @@ Cochez &lt;b&gt;Enregistrer un nouveau compte&lt;/b&gt; pour que Psi crée un no
         <source>&lt;b&gt;Attention!&lt;/b&gt;
 &lt;br/&gt;
 When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
-        <translation>&lt;b&gt;Attention !&lt;/b&gt;
+        <translation type="vanished">&lt;b&gt;Attention !&lt;/b&gt;
 &lt;br/&gt;
 En activant cette option, vous ne pourrez pas retrouver votre mot de passe dans les fichiers de configuration, mais uniquement la version hachée. Si vous l&apos;oubliez et ne l&apos;avez pas sauvegardé, il sera perdu.</translation>
     </message>
@@ -626,6 +630,12 @@ En activant cette option, vous ne pourrez pas retrouver votre mot de passe dans 
     <message>
         <source>yourname@server.test</source>
         <extracomment>Like email</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Attention!&lt;/b&gt;
+                &lt;br/&gt;
+                When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2826,7 +2836,7 @@ Note : afin de fonctionner correctement, la barre d&apos;outils du salon doit ê
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation>Console &amp;XML</translation>
+        <translation type="vanished">Console &amp;XML</translation>
     </message>
     <message>
         <source>&amp;Modify Account...</source>
@@ -2875,6 +2885,10 @@ Note : afin de fonctionner correctement, la barre d&apos;outils du salon doit ê
     <message>
         <source>Groupchats</source>
         <translation>Salons</translation>
+    </message>
+    <message>
+        <source>&amp;XMPP Console</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5120,7 +5134,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation>Coller et envoyer</translation>
+        <translation type="vanished">Coller et envoyer</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
@@ -11661,15 +11675,15 @@ Cause: %1.</translation>
     </message>
     <message>
         <source>Save Password</source>
-        <translation>Enregistrer le mot de passe</translation>
+        <translation type="vanished">Enregistrer le mot de passe</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="vanished">OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annuler</translation>
+        <translation type="vanished">Annuler</translation>
     </message>
     <message>
         <source>Please enter your password for %1:</source>
@@ -11706,6 +11720,21 @@ Veuillez saisir votre mot de passe ci-dessous :</translation>
     <message>
         <source>%1: OpenPGP Passphrase</source>
         <translation type="vanished">%1: Phrase de passe OpenPGP</translation>
+    </message>
+</context>
+<context>
+    <name>PasswordDialog</name>
+    <message>
+        <source>Wrong Account Password</source>
+        <translation type="unfinished">Mot de passe incorrect</translation>
+    </message>
+    <message>
+        <source>Please enter your password for %1:</source>
+        <translation type="unfinished">Veuillez saisir le mot de passe pour %1 :</translation>
+    </message>
+    <message>
+        <source>Save Password</source>
+        <translation type="unfinished">Enregistrer le mot de passe</translation>
     </message>
 </context>
 <context>
@@ -13030,7 +13059,7 @@ Cause: %1.</translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation>Console &amp;XML</translation>
+        <translation type="vanished">Console &amp;XML</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
@@ -13270,19 +13299,19 @@ Cause: %1.</translation>
     </message>
     <message>
         <source>Psi+ Forum (Online)</source>
-        <translation>Psi+ Forum (En ligne)</translation>
+        <translation type="vanished">Psi+ Forum (En ligne)</translation>
     </message>
     <message>
         <source>Psi+ &amp;Forum (Online)</source>
-        <translation>Psi+ &amp;Forum (En ligne)</translation>
+        <translation type="vanished">Psi+ &amp;Forum (En ligne)</translation>
     </message>
     <message>
         <source>Join Psi+ Discussion Room (Online)</source>
-        <translation>Rejoindre le salon de discussion Psi+ (En ligne)</translation>
+        <translation type="vanished">Rejoindre le salon de discussion Psi+ (En ligne)</translation>
     </message>
     <message>
         <source>&amp;Join Psi+ Discussion Room (Online)</source>
-        <translation>Re&amp;joindre le salon de discussion Psi+ (En ligne)</translation>
+        <translation type="vanished">Re&amp;joindre le salon de discussion Psi+ (En ligne)</translation>
     </message>
     <message>
         <source>Check for Updates...</source>
@@ -13456,6 +13485,14 @@ Cause: %1.</translation>
         <source>&amp;Manage Accounts</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&amp;XMPP Console</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation type="unfinished">Coller et envoyer</translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -13507,7 +13544,7 @@ Cause: %1.</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation>Coller et envoyer</translation>
+        <translation type="vanished">Coller et envoyer</translation>
     </message>
     <message>
         <source>Enable OpenPGP encryption</source>
@@ -18556,7 +18593,7 @@ Do you still want to close the window?</source>
     <name>XMLConsole</name>
     <message>
         <source>XML Console</source>
-        <translation>Console XML</translation>
+        <translation type="vanished">Console XML</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -18600,6 +18637,26 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>SM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XMPP Console</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;message&gt; stanza used to send information to other XMPP entities without requiring a response.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;presence&gt; stanza used for status of other clients and components. It&apos;s a multi-cast so extensions use it to broadcast own things to contacts, such as capabilities, music choice, or location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;iq&gt; (info/query) stanza used for requesting and modifying information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a&gt; (ack) and &lt;r&gt; (request ack) stanzas used to acknowledge successful receipt of a stanza.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18870,7 +18927,11 @@ Do you still want to close the window?</source>
     <name>XmlConsole</name>
     <message>
         <source>XML Console</source>
-        <translation>Console XML</translation>
+        <translation type="vanished">Console XML</translation>
+    </message>
+    <message>
+        <source>XMPP Console</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18893,7 +18954,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>You have entered malformed XML input. Are you sure you want to send this ?</source>
-        <translation>Vous avez tapé une entrée XML malformée. Voulez-vous vraiment l&apos;envoyer ?</translation>
+        <translation type="vanished">Vous avez tapé une entrée XML malformée. Voulez-vous vraiment l&apos;envoyer ?</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -18902,6 +18963,10 @@ Do you still want to close the window?</source>
     <message>
         <source>No</source>
         <translation type="vanished">Non</translation>
+    </message>
+    <message>
+        <source>You have entered malformed XML input.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

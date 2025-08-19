@@ -66,7 +66,7 @@
     </message>
     <message>
         <source>About Psi+</source>
-        <translation>Mbi Psi+n</translation>
+        <translation type="vanished">Mbi Psi+n</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -85,12 +85,8 @@
         <translation>Zhvillues</translation>
     </message>
     <message>
-        <source>Active project members are presents below:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Founder and Lead Patcher</source>
-        <translation>Themelues dhe Arnues Kryesor</translation>
+        <translation type="vanished">Themelues dhe Arnues Kryesor</translation>
     </message>
     <message>
         <source>Founder, Designer and Patcher</source>
@@ -210,19 +206,7 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Developer and Maintainer</source>
-        <translation>Zhvillues dhe Mirëmbajtës</translation>
-    </message>
-    <message>
-        <source>Language coordinator, macOS port, miscellaneous assistance</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Founder, Patcher and former MS Windows Packager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Founder, Patcher and former Designer</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Zhvillues dhe Mirëmbajtës</translation>
     </message>
     <message>
         <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
@@ -258,10 +242,30 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>About Psi</source>
-        <translation>Mbi Psi-në</translation>
+        <translation type="vanished">Mbi Psi-në</translation>
     </message>
     <message>
         <source>Cross-platform XMPP client designed for experienced users.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi-im.org</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>xmpp:psi-dev@conference.jabber.ru?join</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi-dev@conference.jabber.ru</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former MS Windows Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former Designer</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -582,12 +586,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Shtrirje:</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Attention!&lt;/b&gt;
-&lt;br/&gt;
-When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Store hash instead of plaintext password if server supports this feature.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -610,6 +608,12 @@ When you enable this option you will not be able to find your password in config
     <message>
         <source>yourname@server.test</source>
         <extracomment>Like email</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Attention!&lt;/b&gt;
+                &lt;br/&gt;
+                When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2749,7 +2753,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation>Konsolë &amp;XML</translation>
+        <translation type="vanished">Konsolë &amp;XML</translation>
     </message>
     <message>
         <source>&amp;Modify Account...</source>
@@ -2798,6 +2802,10 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <source>Groupchats</source>
         <translation>Fjalosje në grup</translation>
+    </message>
+    <message>
+        <source>&amp;XMPP Console</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5011,7 +5019,7 @@ Arsye: %1</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation>Ngjite dhe Dërgoje</translation>
+        <translation type="vanished">Ngjite dhe Dërgoje</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
@@ -11495,15 +11503,15 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Save Password</source>
-        <translation>Ruaje Fjalëkalimin</translation>
+        <translation type="vanished">Ruaje Fjalëkalimin</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="vanished">OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anuloje</translation>
+        <translation type="vanished">Anuloje</translation>
     </message>
     <message>
         <source>Please enter your password for %1:</source>
@@ -11538,6 +11546,21 @@ Reason: %1.</source>
     <message>
         <source>%1: OpenPGP Passphrase</source>
         <translation type="vanished">%1: Frazëkalim OpenPGP</translation>
+    </message>
+</context>
+<context>
+    <name>PasswordDialog</name>
+    <message>
+        <source>Wrong Account Password</source>
+        <translation type="unfinished">Fjalëkalim i Gabuar Llogarie</translation>
+    </message>
+    <message>
+        <source>Please enter your password for %1:</source>
+        <translation type="unfinished">Ju lutemi, jepni fjalëkalimin tuaj për %1:</translation>
+    </message>
+    <message>
+        <source>Save Password</source>
+        <translation type="unfinished">Ruaje Fjalëkalimin</translation>
     </message>
 </context>
 <context>
@@ -12820,7 +12843,7 @@ Arsye: %1.</translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation>Konsolë &amp;XML</translation>
+        <translation type="vanished">Konsolë &amp;XML</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
@@ -13056,19 +13079,11 @@ Arsye: %1.</translation>
     </message>
     <message>
         <source>Psi+ Forum (Online)</source>
-        <translation>Forum Psi+ (Në Internet)</translation>
+        <translation type="vanished">Forum Psi+ (Në Internet)</translation>
     </message>
     <message>
         <source>Psi+ &amp;Forum (Online)</source>
-        <translation>&amp;Forum Psi+ (Në Internet)</translation>
-    </message>
-    <message>
-        <source>Join Psi+ Discussion Room (Online)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Join Psi+ Discussion Room (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;Forum Psi+ (Në Internet)</translation>
     </message>
     <message>
         <source>Check for Updates...</source>
@@ -13250,6 +13265,14 @@ Arsye: %1.</translation>
         <source>&amp;Manage Accounts</source>
         <translation>&amp;Administroni Llogari</translation>
     </message>
+    <message>
+        <source>&amp;XMPP Console</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -13301,7 +13324,7 @@ Arsye: %1.</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation>Ngjiteni dhe Dërgoje</translation>
+        <translation type="vanished">Ngjiteni dhe Dërgoje</translation>
     </message>
     <message>
         <source>Enable OpenPGP encryption</source>
@@ -18294,7 +18317,7 @@ Do you still want to close the window?</source>
     <name>XMLConsole</name>
     <message>
         <source>XML Console</source>
-        <translation>Konsolë XML</translation>
+        <translation type="vanished">Konsolë XML</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -18339,6 +18362,26 @@ Do you still want to close the window?</source>
     <message>
         <source>SM</source>
         <translation>SM</translation>
+    </message>
+    <message>
+        <source>XMPP Console</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;message&gt; stanza used to send information to other XMPP entities without requiring a response.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;presence&gt; stanza used for status of other clients and components. It&apos;s a multi-cast so extensions use it to broadcast own things to contacts, such as capabilities, music choice, or location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;iq&gt; (info/query) stanza used for requesting and modifying information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a&gt; (ack) and &lt;r&gt; (request ack) stanzas used to acknowledge successful receipt of a stanza.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18608,7 +18651,11 @@ Do you still want to close the window?</source>
     <name>XmlConsole</name>
     <message>
         <source>XML Console</source>
-        <translation>Konsolë XML</translation>
+        <translation type="vanished">Konsolë XML</translation>
+    </message>
+    <message>
+        <source>XMPP Console</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18630,16 +18677,16 @@ Do you still want to close the window?</source>
         <translation>XML e keqformuar</translation>
     </message>
     <message>
-        <source>You have entered malformed XML input. Are you sure you want to send this ?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Yes</source>
         <translation type="vanished">Po</translation>
     </message>
     <message>
         <source>No</source>
         <translation type="vanished">Jo</translation>
+    </message>
+    <message>
+        <source>You have entered malformed XML input.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -65,10 +65,6 @@
         <translation>Licens</translation>
     </message>
     <message>
-        <source>About Psi+</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Close</source>
         <translation>&amp;Stäng</translation>
     </message>
@@ -83,14 +79,6 @@
     <message>
         <source>Developer</source>
         <translation>Utvecklare</translation>
-    </message>
-    <message>
-        <source>Active project members are presents below:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Founder and Lead Patcher</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Patcher and Plugins Writer</source>
@@ -181,22 +169,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Developer and Maintainer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Language coordinator, macOS port, miscellaneous assistance</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Founder, Patcher and former MS Windows Packager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Founder, Patcher and former Designer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
         <translation type="unfinished"></translation>
     </message>
@@ -229,11 +201,27 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>About Psi</source>
+        <source>Cross-platform XMPP client designed for experienced users.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cross-platform XMPP client designed for experienced users.</source>
+        <source>psi-im.org</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>xmpp:psi-dev@conference.jabber.ru?join</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi-dev@conference.jabber.ru</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former MS Windows Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former Designer</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -554,12 +542,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Realm:</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Attention!&lt;/b&gt;
-&lt;br/&gt;
-When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Store hash instead of plaintext password if server supports this feature.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -582,6 +564,12 @@ When you enable this option you will not be able to find your password in config
     <message>
         <source>yourname@server.test</source>
         <extracomment>Like email</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Attention!&lt;/b&gt;
+                &lt;br/&gt;
+                When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2608,7 +2596,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation>&amp;XML-konsoll</translation>
+        <translation type="vanished">&amp;XML-konsoll</translation>
     </message>
     <message>
         <source>&amp;Modify Account...</source>
@@ -2656,6 +2644,10 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Groupchats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;XMPP Console</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4846,10 +4838,6 @@ Anledning: %1</translation>
     </message>
     <message>
         <source>Unable to join groupchat.    Reason: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Paste and Send</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11122,16 +11110,12 @@ Orsak: %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save Password</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>OK</source>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Avbryt</translation>
+        <translation type="vanished">Avbryt</translation>
     </message>
     <message>
         <source>Please enter your password for %1:</source>
@@ -11164,6 +11148,21 @@ Skriv din lösenfras nedanför:</translation>
     <message>
         <source>%1: OpenPGP Passphrase</source>
         <translation type="vanished">%1: OpenPGP-lösenfras</translation>
+    </message>
+</context>
+<context>
+    <name>PasswordDialog</name>
+    <message>
+        <source>Wrong Account Password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enter your password for %1:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Password</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12447,7 +12446,7 @@ Orsak: %1.</translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation>&amp;XML-konsoll</translation>
+        <translation type="vanished">&amp;XML-konsoll</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
@@ -12686,22 +12685,6 @@ Orsak: %1.</translation>
         <translation>&amp;Hemsida (på nätet)</translation>
     </message>
     <message>
-        <source>Psi+ Forum (Online)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Psi+ &amp;Forum (Online)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Join Psi+ Discussion Room (Online)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Join Psi+ Discussion Room (Online)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Report a Bug (Online)</source>
         <translation>Rapportera ett fel (på nätet)</translation>
     </message>
@@ -12865,6 +12848,14 @@ Orsak: %1.</translation>
         <source>&amp;Manage Accounts</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&amp;XMPP Console</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -12912,10 +12903,6 @@ Orsak: %1.</translation>
     </message>
     <message>
         <source>turn on autojid</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Paste and Send</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -17855,7 +17842,7 @@ Vill du ändå stänga fönstrett?</translation>
     <name>XMLConsole</name>
     <message>
         <source>XML Console</source>
-        <translation>XML-konsoll</translation>
+        <translation type="vanished">XML-konsoll</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -17899,6 +17886,26 @@ Vill du ändå stänga fönstrett?</translation>
     </message>
     <message>
         <source>SM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XMPP Console</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;message&gt; stanza used to send information to other XMPP entities without requiring a response.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;presence&gt; stanza used for status of other clients and components. It&apos;s a multi-cast so extensions use it to broadcast own things to contacts, such as capabilities, music choice, or location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;iq&gt; (info/query) stanza used for requesting and modifying information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a&gt; (ack) and &lt;r&gt; (request ack) stanzas used to acknowledge successful receipt of a stanza.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18161,7 +18168,11 @@ Vill du ändå stänga fönstrett?</translation>
     <name>XmlConsole</name>
     <message>
         <source>XML Console</source>
-        <translation>XML-konsoll</translation>
+        <translation type="vanished">XML-konsoll</translation>
+    </message>
+    <message>
+        <source>XMPP Console</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18184,7 +18195,7 @@ Vill du ändå stänga fönstrett?</translation>
     </message>
     <message>
         <source>You have entered malformed XML input. Are you sure you want to send this ?</source>
-        <translation>Du har angett ogiltig XML, är du säker på att du vill skicka detta?</translation>
+        <translation type="vanished">Du har angett ogiltig XML, är du säker på att du vill skicka detta?</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -18193,6 +18204,10 @@ Vill du ändå stänga fönstrett?</translation>
     <message>
         <source>No</source>
         <translation type="vanished">Nej</translation>
+    </message>
+    <message>
+        <source>You have entered malformed XML input.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

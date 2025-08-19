@@ -70,7 +70,7 @@
     </message>
     <message>
         <source>About Psi+</source>
-        <translation>Psi+について</translation>
+        <translation type="vanished">Psi+について</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -90,7 +90,7 @@
     </message>
     <message>
         <source>Active project members are presents below:</source>
-        <translation>以下はアクティブなプロジェクトメンバーです:</translation>
+        <translation type="vanished">以下はアクティブなプロジェクトメンバーです:</translation>
     </message>
     <message>
         <source>Founder, Patcher and MS Windows Packager</source>
@@ -98,7 +98,7 @@
     </message>
     <message>
         <source>Founder and Lead Patcher</source>
-        <translation>創立者、開発リーダー</translation>
+        <translation type="vanished">創立者、開発リーダー</translation>
     </message>
     <message>
         <source>Founder, Designer and Patcher</source>
@@ -226,19 +226,19 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Developer and Maintainer</source>
-        <translation>開発者及びメンテナ</translation>
+        <translation type="vanished">開発者及びメンテナ</translation>
     </message>
     <message>
         <source>Language coordinator, macOS port, miscellaneous assistance</source>
-        <translation>言語コーディネーター、macOSポート、様々な支援</translation>
+        <translation type="vanished">言語コーディネーター、macOSポート、様々な支援</translation>
     </message>
     <message>
         <source>Founder, Patcher and former MS Windows Packager</source>
-        <translation>創立者、開発者、元MS Windows向けパッケージング</translation>
+        <translation type="vanished">創立者、開発者、元MS Windows向けパッケージング</translation>
     </message>
     <message>
         <source>Founder, Patcher and former Designer</source>
-        <translation>創立者、開発者、元デザイナー</translation>
+        <translation type="vanished">創立者、開発者、元デザイナー</translation>
     </message>
     <message>
         <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
@@ -274,11 +274,31 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>About Psi</source>
-        <translation>Psiについて</translation>
+        <translation type="vanished">Psiについて</translation>
     </message>
     <message>
         <source>Cross-platform XMPP client designed for experienced users.</source>
         <translation>上級ユーザー用に設計されたクロスプラットホームなXMPPクライアント。</translation>
+    </message>
+    <message>
+        <source>psi-im.org</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>xmpp:psi-dev@conference.jabber.ru?join</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi-dev@conference.jabber.ru</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former MS Windows Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former Designer</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -604,7 +624,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <source>&lt;b&gt;Attention!&lt;/b&gt;
 &lt;br/&gt;
 When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
-        <translation>&lt;b&gt;注意!&lt;/b&gt;
+        <translation type="vanished">&lt;b&gt;注意!&lt;/b&gt;
 &lt;br/&gt;
 この設定を有効にすると、設定ファイルに平文のパスワードではなくハッシュ化された文字列が記述されます。
 ですので、パスワードを忘れた時に困るかもしれません。</translation>
@@ -632,6 +652,12 @@ When you enable this option you will not be able to find your password in config
     <message>
         <source>yourname@server.test</source>
         <extracomment>Like email</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Attention!&lt;/b&gt;
+                &lt;br/&gt;
+                When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2779,7 +2805,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation>XMLコンソール(&amp;X)</translation>
+        <translation type="vanished">XMLコンソール(&amp;X)</translation>
     </message>
     <message>
         <source>&amp;Modify Account...</source>
@@ -2828,6 +2854,10 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <source>Groupchats</source>
         <translation>グループチャット</translation>
+    </message>
+    <message>
+        <source>&amp;XMPP Console</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5045,10 +5075,6 @@ Reason: %1</source>
     </message>
     <message>
         <source>Unable to join groupchat.    Reason: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Paste and Send</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11417,15 +11443,15 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Save Password</source>
-        <translation>パスワードを保存</translation>
+        <translation type="vanished">パスワードを保存</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="vanished">OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>キャンセル</translation>
+        <translation type="vanished">キャンセル</translation>
     </message>
     <message>
         <source>Please enter your password for %1:</source>
@@ -11458,6 +11484,21 @@ Please enter your passphrase below:</source>
     <message>
         <source>%1: OpenPGP Passphrase</source>
         <translation type="vanished">%1: OpenPGPパスフレーズ</translation>
+    </message>
+</context>
+<context>
+    <name>PasswordDialog</name>
+    <message>
+        <source>Wrong Account Password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enter your password for %1:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Password</source>
+        <translation type="unfinished">パスワードを保存</translation>
     </message>
 </context>
 <context>
@@ -12758,7 +12799,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation>XMLコンソール(&amp;X)</translation>
+        <translation type="vanished">XMLコンソール(&amp;X)</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
@@ -12998,19 +13039,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Psi+ Forum (Online)</source>
-        <translation>Psi+フォーラム(オンライン)</translation>
+        <translation type="vanished">Psi+フォーラム(オンライン)</translation>
     </message>
     <message>
         <source>Psi+ &amp;Forum (Online)</source>
-        <translation>Psi+フォーラム(オンライン)(&amp;F)</translation>
-    </message>
-    <message>
-        <source>Join Psi+ Discussion Room (Online)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Join Psi+ Discussion Room (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Psi+フォーラム(オンライン)(&amp;F)</translation>
     </message>
     <message>
         <source>Check for Updates...</source>
@@ -13184,6 +13217,14 @@ Reason: %1.</source>
         <source>&amp;Manage Accounts</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&amp;XMPP Console</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -13231,10 +13272,6 @@ Reason: %1.</source>
     </message>
     <message>
         <source>turn on autojid</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Paste and Send</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18233,7 +18270,7 @@ Do you still want to close the window?</source>
     <name>XMLConsole</name>
     <message>
         <source>XML Console</source>
-        <translation>XMLコンソール</translation>
+        <translation type="vanished">XMLコンソール</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -18277,6 +18314,26 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>SM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XMPP Console</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;message&gt; stanza used to send information to other XMPP entities without requiring a response.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;presence&gt; stanza used for status of other clients and components. It&apos;s a multi-cast so extensions use it to broadcast own things to contacts, such as capabilities, music choice, or location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;iq&gt; (info/query) stanza used for requesting and modifying information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a&gt; (ack) and &lt;r&gt; (request ack) stanzas used to acknowledge successful receipt of a stanza.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18547,7 +18604,11 @@ Do you still want to close the window?</source>
     <name>XmlConsole</name>
     <message>
         <source>XML Console</source>
-        <translation>XMLコンソール</translation>
+        <translation type="vanished">XMLコンソール</translation>
+    </message>
+    <message>
+        <source>XMPP Console</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18570,7 +18631,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>You have entered malformed XML input. Are you sure you want to send this ?</source>
-        <translation>あなたは不正なXMLを入力しました。本当にこれを送信しますか?</translation>
+        <translation type="vanished">あなたは不正なXMLを入力しました。本当にこれを送信しますか?</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -18579,6 +18640,10 @@ Do you still want to close the window?</source>
     <message>
         <source>No</source>
         <translation type="vanished">いいえ</translation>
+    </message>
+    <message>
+        <source>You have entered malformed XML input.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -70,7 +70,7 @@
     </message>
     <message>
         <source>About Psi+</source>
-        <translation>Névjegy: Psi+</translation>
+        <translation type="vanished">Névjegy: Psi+</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -90,7 +90,7 @@
     </message>
     <message>
         <source>Active project members are presents below:</source>
-        <translation>Aktív tagjai a projektnek:</translation>
+        <translation type="vanished">Aktív tagjai a projektnek:</translation>
     </message>
     <message>
         <source>Founder, Patcher and MS Windows Packager</source>
@@ -98,7 +98,7 @@
     </message>
     <message>
         <source>Founder and Lead Patcher</source>
-        <translation>Alapító és Vezető Javító</translation>
+        <translation type="vanished">Alapító és Vezető Javító</translation>
     </message>
     <message>
         <source>Founder, Designer and Patcher</source>
@@ -221,22 +221,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Developer and Maintainer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Language coordinator, macOS port, miscellaneous assistance</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Founder, Patcher and former MS Windows Packager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Founder, Patcher and former Designer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
         <translation type="unfinished"></translation>
     </message>
@@ -270,10 +254,30 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>About Psi</source>
-        <translation>Psi+ névjegye</translation>
+        <translation type="vanished">Psi+ névjegye</translation>
     </message>
     <message>
         <source>Cross-platform XMPP client designed for experienced users.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi-im.org</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>xmpp:psi-dev@conference.jabber.ru?join</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi-dev@conference.jabber.ru</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former MS Windows Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former Designer</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -599,7 +603,7 @@ Jelöld be az &lt;b&gt;Új Fiók Regisztrálása&lt;/b&gt; lehetőséget ha szer
         <source>&lt;b&gt;Attention!&lt;/b&gt;
 &lt;br/&gt;
 When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
-        <translation>&lt;b&gt;Figyelem!&lt;/b&gt;
+        <translation type="vanished">&lt;b&gt;Figyelem!&lt;/b&gt;
 &lt;br/&gt;
 Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfigurációs fájlokban. Csak a hash-szöveg lesz látható. Így ha elfelejted a jelszavad, az pótolhatatlan lesz, hacsak nem készítettél róla biztonsági másolatot.</translation>
     </message>
@@ -626,6 +630,12 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     <message>
         <source>yourname@server.test</source>
         <extracomment>Like email</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Attention!&lt;/b&gt;
+                &lt;br/&gt;
+                When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2828,7 +2838,7 @@ Megjegyzés: A helyes működéshez a Csoportbeszélgetés Eszköztárat be kell
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation>&amp;XML konzol</translation>
+        <translation type="vanished">&amp;XML konzol</translation>
     </message>
     <message>
         <source>&amp;Modify Account...</source>
@@ -2877,6 +2887,10 @@ Megjegyzés: A helyes működéshez a Csoportbeszélgetés Eszköztárat be kell
     <message>
         <source>Groupchats</source>
         <translation>Csoportbeszélgetések</translation>
+    </message>
+    <message>
+        <source>&amp;XMPP Console</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5133,7 +5147,7 @@ Oka: %1</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation>Beillesztés és küldés</translation>
+        <translation type="vanished">Beillesztés és küldés</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
@@ -11798,15 +11812,15 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Save Password</source>
-        <translation>Jelszó mentése</translation>
+        <translation type="vanished">Jelszó mentése</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>Rendben</translation>
+        <translation type="vanished">Rendben</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Mégsem</translation>
+        <translation type="vanished">Mégsem</translation>
     </message>
     <message>
         <source>Please enter your password for %1:</source>
@@ -11843,6 +11857,21 @@ Kérlek add meg a jelszavad:</translation>
     <message>
         <source>%1: OpenPGP Passphrase</source>
         <translation type="vanished">%1: OpenPGP jelszó</translation>
+    </message>
+</context>
+<context>
+    <name>PasswordDialog</name>
+    <message>
+        <source>Wrong Account Password</source>
+        <translation type="unfinished">A fiókhoz megadott jelszó rossz</translation>
+    </message>
+    <message>
+        <source>Please enter your password for %1:</source>
+        <translation type="unfinished">Add meg a jelszavad %1 számára:</translation>
+    </message>
+    <message>
+        <source>Save Password</source>
+        <translation type="unfinished">Jelszó mentése</translation>
     </message>
 </context>
 <context>
@@ -13169,7 +13198,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation>&amp;XML konzol</translation>
+        <translation type="vanished">&amp;XML konzol</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
@@ -13409,19 +13438,19 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Psi+ Forum (Online)</source>
-        <translation>Psi+ fórum (Online)</translation>
+        <translation type="vanished">Psi+ fórum (Online)</translation>
     </message>
     <message>
         <source>Psi+ &amp;Forum (Online)</source>
-        <translation>Psi+ &amp;fórum (Online)</translation>
+        <translation type="vanished">Psi+ &amp;fórum (Online)</translation>
     </message>
     <message>
         <source>Join Psi+ Discussion Room (Online)</source>
-        <translation>Csatlakozás a Psi+ megbeszéléshez (Online)</translation>
+        <translation type="vanished">Csatlakozás a Psi+ megbeszéléshez (Online)</translation>
     </message>
     <message>
         <source>&amp;Join Psi+ Discussion Room (Online)</source>
-        <translation>&amp;Csatlakozás a Psi+ megbeszéléshez (Online)</translation>
+        <translation type="vanished">&amp;Csatlakozás a Psi+ megbeszéléshez (Online)</translation>
     </message>
     <message>
         <source>Check for Updates...</source>
@@ -13595,6 +13624,14 @@ Oka: %1.</translation>
         <source>&amp;Manage Accounts</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&amp;XMPP Console</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation type="unfinished">Beillesztés és küldés</translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -13646,7 +13683,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation>Beillesztés és küldés</translation>
+        <translation type="vanished">Beillesztés és küldés</translation>
     </message>
     <message>
         <source>Enable OpenPGP encryption</source>
@@ -18729,7 +18766,7 @@ Ablak bezárása mégis?</translation>
     <name>XMLConsole</name>
     <message>
         <source>XML Console</source>
-        <translation>XML konzol</translation>
+        <translation type="vanished">XML konzol</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -18774,6 +18811,26 @@ Ablak bezárása mégis?</translation>
     <message>
         <source>SM</source>
         <translation>SM</translation>
+    </message>
+    <message>
+        <source>XMPP Console</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;message&gt; stanza used to send information to other XMPP entities without requiring a response.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;presence&gt; stanza used for status of other clients and components. It&apos;s a multi-cast so extensions use it to broadcast own things to contacts, such as capabilities, music choice, or location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;iq&gt; (info/query) stanza used for requesting and modifying information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a&gt; (ack) and &lt;r&gt; (request ack) stanzas used to acknowledge successful receipt of a stanza.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19043,7 +19100,11 @@ Ablak bezárása mégis?</translation>
     <name>XmlConsole</name>
     <message>
         <source>XML Console</source>
-        <translation>XML konzol</translation>
+        <translation type="vanished">XML konzol</translation>
+    </message>
+    <message>
+        <source>XMPP Console</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19066,7 +19127,7 @@ Ablak bezárása mégis?</translation>
     </message>
     <message>
         <source>You have entered malformed XML input. Are you sure you want to send this ?</source>
-        <translation>Nem megfelelő formázású XML bevitelt írtál. Biztos el akarod küldeni?</translation>
+        <translation type="vanished">Nem megfelelő formázású XML bevitelt írtál. Biztos el akarod küldeni?</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -19075,6 +19136,10 @@ Ablak bezárása mégis?</translation>
     <message>
         <source>No</source>
         <translation type="vanished">Nem</translation>
+    </message>
+    <message>
+        <source>You have entered malformed XML input.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

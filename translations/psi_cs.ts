@@ -70,7 +70,7 @@
     </message>
     <message>
         <source>About Psi+</source>
-        <translation>O Psi+</translation>
+        <translation type="vanished">O Psi+</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -90,7 +90,7 @@
     </message>
     <message>
         <source>Active project members are presents below:</source>
-        <translation>Níže jsou uvedeni aktivní členové projektu:</translation>
+        <translation type="vanished">Níže jsou uvedeni aktivní členové projektu:</translation>
     </message>
     <message>
         <source>Founder, Patcher and MS Windows Packager</source>
@@ -98,7 +98,7 @@
     </message>
     <message>
         <source>Founder and Lead Patcher</source>
-        <translation>Zakladatel a hlavní záplatovač</translation>
+        <translation type="vanished">Zakladatel a hlavní záplatovač</translation>
     </message>
     <message>
         <source>Founder, Designer and Patcher</source>
@@ -228,19 +228,19 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Developer and Maintainer</source>
-        <translation>Vývojář a správce</translation>
+        <translation type="vanished">Vývojář a správce</translation>
     </message>
     <message>
         <source>Language coordinator, macOS port, miscellaneous assistance</source>
-        <translation>Koordinátor jazyků, port pro macOS, různá výpomoc</translation>
+        <translation type="vanished">Koordinátor jazyků, port pro macOS, různá výpomoc</translation>
     </message>
     <message>
         <source>Founder, Patcher and former MS Windows Packager</source>
-        <translation>Zakladatel, záplatovač a dřívější balíkář pro MS Windows</translation>
+        <translation type="vanished">Zakladatel, záplatovač a dřívější balíkář pro MS Windows</translation>
     </message>
     <message>
         <source>Founder, Patcher and former Designer</source>
-        <translation>Zakladatel, záplatovač a bývalý návrhář</translation>
+        <translation type="vanished">Zakladatel, záplatovač a bývalý návrhář</translation>
     </message>
     <message>
         <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
@@ -276,11 +276,31 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>About Psi</source>
-        <translation>O Psi</translation>
+        <translation type="vanished">O Psi</translation>
     </message>
     <message>
         <source>Cross-platform XMPP client designed for experienced users.</source>
         <translation>Multiplatformní XMPP klient vyvinutý pro pokročilé uživatele.</translation>
+    </message>
+    <message>
+        <source>psi-im.org</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>xmpp:psi-dev@conference.jabber.ru?join</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi-dev@conference.jabber.ru</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former MS Windows Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and former Designer</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -605,7 +625,7 @@ Klikni na &lt;b&gt;Registrovat nový účet&lt;/b&gt;, pokud chceš, aby se Psi 
         <source>&lt;b&gt;Attention!&lt;/b&gt;
 &lt;br/&gt;
 When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
-        <translation>&lt;b&gt;Pozor!&lt;/b&gt;
+        <translation type="vanished">&lt;b&gt;Pozor!&lt;/b&gt;
 &lt;br/&gt;
 Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních souborech. Bude tam jen haš hesla. To znamená, že při zapomenutí hesla, nebude žádná možnost obnovit jej, pokud ho nemáš uložené někde jinde.</translation>
     </message>
@@ -632,6 +652,12 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
     <message>
         <source>yourname@server.test</source>
         <extracomment>Like email</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Attention!&lt;/b&gt;
+                &lt;br/&gt;
+                When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2835,7 +2861,7 @@ Pozn.: aby modul pracoval správně, Nástrojová lišta skupinového chatu mus�
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation>&amp;XML konzole</translation>
+        <translation type="vanished">&amp;XML konzole</translation>
     </message>
     <message>
         <source>&amp;Modify Account...</source>
@@ -2884,6 +2910,10 @@ Pozn.: aby modul pracoval správně, Nástrojová lišta skupinového chatu mus�
     <message>
         <source>Groupchats</source>
         <translation>Skupinové chaty</translation>
+    </message>
+    <message>
+        <source>&amp;XMPP Console</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5137,7 +5167,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation>Vložit a poslat</translation>
+        <translation type="vanished">Vložit a poslat</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
@@ -11840,15 +11870,15 @@ Zdůvodnění: %1.</translation>
     </message>
     <message>
         <source>Save Password</source>
-        <translation>Uložit heslo</translation>
+        <translation type="vanished">Uložit heslo</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="vanished">OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Zrušit</translation>
+        <translation type="vanished">Zrušit</translation>
     </message>
     <message>
         <source>Please enter your password for %1:</source>
@@ -11889,6 +11919,21 @@ Prosím vlož svou heslovací frázi:</translation>
     <message>
         <source>%1: OpenPGP Passphrase</source>
         <translation type="vanished">%1: OpenPGP heslovací fráze</translation>
+    </message>
+</context>
+<context>
+    <name>PasswordDialog</name>
+    <message>
+        <source>Wrong Account Password</source>
+        <translation type="unfinished">Špatné heslo k účtu</translation>
+    </message>
+    <message>
+        <source>Please enter your password for %1:</source>
+        <translation type="unfinished">Vložte heslo pro %1:</translation>
+    </message>
+    <message>
+        <source>Save Password</source>
+        <translation type="unfinished">Uložit heslo</translation>
     </message>
 </context>
 <context>
@@ -13219,7 +13264,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation>&amp;XML konzola</translation>
+        <translation type="vanished">&amp;XML konzola</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
@@ -13459,19 +13504,19 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Psi+ Forum (Online)</source>
-        <translation>Psi+ fórum (Online)</translation>
+        <translation type="vanished">Psi+ fórum (Online)</translation>
     </message>
     <message>
         <source>Psi+ &amp;Forum (Online)</source>
-        <translation>Psi+ &amp;fórum (Online)</translation>
+        <translation type="vanished">Psi+ &amp;fórum (Online)</translation>
     </message>
     <message>
         <source>Join Psi+ Discussion Room (Online)</source>
-        <translation>Připojit se do diskuzní místnosti Psi+ (Online)</translation>
+        <translation type="vanished">Připojit se do diskuzní místnosti Psi+ (Online)</translation>
     </message>
     <message>
         <source>&amp;Join Psi+ Discussion Room (Online)</source>
-        <translation>&amp;Připojit se do diskuzní místnosti Psi+ (Online)</translation>
+        <translation type="vanished">&amp;Připojit se do diskuzní místnosti Psi+ (Online)</translation>
     </message>
     <message>
         <source>Check for Updates...</source>
@@ -13653,6 +13698,14 @@ Důvod: %1.</translation>
         <source>&amp;Manage Accounts</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&amp;XMPP Console</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation type="unfinished">Vložit a poslat</translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -13704,7 +13757,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation>Vložit a poslat</translation>
+        <translation type="vanished">Vložit a poslat</translation>
     </message>
     <message>
         <source>Enable OpenPGP encryption</source>
@@ -18822,7 +18875,7 @@ Opravdu zavřít okno?</translation>
     <name>XMLConsole</name>
     <message>
         <source>XML Console</source>
-        <translation>XML konzole</translation>
+        <translation type="vanished">XML konzole</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -18867,6 +18920,26 @@ Opravdu zavřít okno?</translation>
     <message>
         <source>SM</source>
         <translation>SM</translation>
+    </message>
+    <message>
+        <source>XMPP Console</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;message&gt; stanza used to send information to other XMPP entities without requiring a response.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;presence&gt; stanza used for status of other clients and components. It&apos;s a multi-cast so extensions use it to broadcast own things to contacts, such as capabilities, music choice, or location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;iq&gt; (info/query) stanza used for requesting and modifying information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a&gt; (ack) and &lt;r&gt; (request ack) stanzas used to acknowledge successful receipt of a stanza.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19136,7 +19209,11 @@ Opravdu zavřít okno?</translation>
     <name>XmlConsole</name>
     <message>
         <source>XML Console</source>
-        <translation>XML konzola</translation>
+        <translation type="vanished">XML konzola</translation>
+    </message>
+    <message>
+        <source>XMPP Console</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19159,7 +19236,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>You have entered malformed XML input. Are you sure you want to send this ?</source>
-        <translation>Zadal jsi znetvořený (malformed) XML vstup. Opravdu chceš odeslat tohle?</translation>
+        <translation type="vanished">Zadal jsi znetvořený (malformed) XML vstup. Opravdu chceš odeslat tohle?</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -19168,6 +19245,10 @@ Opravdu zavřít okno?</translation>
     <message>
         <source>No</source>
         <translation type="vanished">Ne</translation>
+    </message>
+    <message>
+        <source>You have entered malformed XML input.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
