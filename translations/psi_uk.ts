@@ -291,23 +291,23 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>psi-im.org</source>
-        <translation type="unfinished"></translation>
+        <translation>psi-im.org</translation>
     </message>
     <message>
         <source>xmpp:psi-dev@conference.jabber.ru?join</source>
-        <translation type="unfinished"></translation>
+        <translation>xmpp:psi-dev@conference.jabber.ru?join</translation>
     </message>
     <message>
         <source>psi-dev@conference.jabber.ru</source>
-        <translation type="unfinished"></translation>
+        <translation>psi-dev@conference.jabber.ru</translation>
     </message>
     <message>
         <source>Patcher and former MS Windows Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>Автор патчів та колишній супроводжуючий пакетів MS Windows</translation>
     </message>
     <message>
         <source>Patcher and former Designer</source>
-        <translation type="unfinished"></translation>
+        <translation>Автор патчів та колишній дизайнер</translation>
     </message>
 </context>
 <context>
@@ -659,13 +659,15 @@ When you enable this option you will not be able to find your password in config
     <message>
         <source>yourname@server.test</source>
         <extracomment>Like email</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>yourname@server.test</translation>
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt;
                 &lt;br/&gt;
                 When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
-        <translation type="unfinished"></translation>
+        <translation>Увага!&lt;/b&gt;
+                &lt;br/&gt;
+                Якщо Ви увімкнете цю опцію - Ви не зможете знайти свій пароль у конфігураційних файлах. Там буде тільки хеш. Тому, якщо Ви забули свій пароль - його буде втрачено, якщо у вас не має резервної копії десь в іншому місці.</translation>
     </message>
 </context>
 <context>
@@ -1133,7 +1135,7 @@ save the history for this contact.</source>
     </message>
     <message>
         <source>This Psi profile is already running...&lt;br&gt;Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Цей профіль вже використовується...&lt;br&gt;Зачекайте...</translation>
     </message>
 </context>
 <context>
@@ -2927,7 +2929,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>&amp;XMPP Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Консоль &amp;XMPP</translation>
     </message>
 </context>
 <context>
@@ -11983,15 +11985,15 @@ Please enter your passphrase below:</source>
     <name>PasswordDialog</name>
     <message>
         <source>Wrong Account Password</source>
-        <translation type="unfinished">Невірний пароль акаунту</translation>
+        <translation>Невірний пароль акаунту</translation>
     </message>
     <message>
         <source>Please enter your password for %1:</source>
-        <translation type="unfinished">Будь ласка, введіть пароль для %1:</translation>
+        <translation>Будь ласка, введіть пароль для %1:</translation>
     </message>
     <message>
         <source>Save Password</source>
-        <translation type="unfinished">Зберегти пароль</translation>
+        <translation>Зберегти пароль</translation>
     </message>
 </context>
 <context>
@@ -13763,11 +13765,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>&amp;XMPP Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Консоль &amp;XMPP</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="unfinished">Вставити та відправити</translation>
+        <translation>Вставити та відправити</translation>
     </message>
 </context>
 <context>
@@ -19058,23 +19060,23 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>XMPP Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Консоль XMPP</translation>
     </message>
     <message>
         <source>&lt;message&gt; stanza used to send information to other XMPP entities without requiring a response.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;message&gt; строфа використовується для надсилання інформації іншим об&apos;єктам XMPP без необхідності відповіді.</translation>
     </message>
     <message>
         <source>&lt;presence&gt; stanza used for status of other clients and components. It&apos;s a multi-cast so extensions use it to broadcast own things to contacts, such as capabilities, music choice, or location.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;presence&gt; строфа використовується для статусу інших клієнтів та компонентів. Це багатоадресна розсилка, тому розширення використовують її для трансляції власних даних контактам, таких як можливості, вибір музики або місцезнаходження.</translation>
     </message>
     <message>
         <source>&lt;iq&gt; (info/query) stanza used for requesting and modifying information.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;iq&gt; (інфо/запит) строфа використовується для запиту та зміни інформації.</translation>
     </message>
     <message>
         <source>&lt;a&gt; (ack) and &lt;r&gt; (request ack) stanzas used to acknowledge successful receipt of a stanza.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a&gt; (ack) та &lt;r&gt; (запит ack) строфи використовуються для підтвердження успішного отримання строфи..</translation>
     </message>
 </context>
 <context>
@@ -19348,7 +19350,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>XMPP Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Консоль XMPP</translation>
     </message>
 </context>
 <context>
@@ -19383,7 +19385,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>You have entered malformed XML input.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви ввели неправильний XML-код.</translation>
     </message>
 </context>
 <context>
