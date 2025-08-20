@@ -284,23 +284,23 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>psi-im.org</source>
-        <translation type="unfinished"></translation>
+        <translation>psi-im.org</translation>
     </message>
     <message>
         <source>xmpp:psi-dev@conference.jabber.ru?join</source>
-        <translation type="unfinished"></translation>
+        <translation>xmpp:psi-dev@conference.jabber.ru?join</translation>
     </message>
     <message>
         <source>psi-dev@conference.jabber.ru</source>
-        <translation type="unfinished"></translation>
+        <translation>psi-dev@conference.jabber.ru</translation>
     </message>
     <message>
         <source>Patcher and former MS Windows Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>补丁作者和前 MS Windows 包维护者</translation>
     </message>
     <message>
         <source>Patcher and former Designer</source>
-        <translation type="unfinished"></translation>
+        <translation>补丁作者和前设计师</translation>
     </message>
 </context>
 <context>
@@ -658,7 +658,9 @@ When you enable this option you will not be able to find your password in config
         <source>&lt;b&gt;Attention!&lt;/b&gt;
                 &lt;br/&gt;
                 When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;注意！&lt;/b&gt;
+                &lt;br/&gt;
+                启用此选项后，您将无法在配置文件中找到密码，只有散列文本会在那里。因此，如果您忘记了密码，并且没有在其他地方备份，密码就会丢失。</translation>
     </message>
 </context>
 <context>
@@ -2911,7 +2913,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>&amp;XMPP Console</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPP 控制台(&amp;X)</translation>
     </message>
 </context>
 <context>
@@ -11958,15 +11960,15 @@ Please enter your passphrase below:</source>
     <name>PasswordDialog</name>
     <message>
         <source>Wrong Account Password</source>
-        <translation type="unfinished">账号密码错误</translation>
+        <translation>账号密码错误</translation>
     </message>
     <message>
         <source>Please enter your password for %1:</source>
-        <translation type="unfinished">请输入 %1 的密码：</translation>
+        <translation>请输入 %1 的密码：</translation>
     </message>
     <message>
         <source>Save Password</source>
-        <translation type="unfinished">保存密码</translation>
+        <translation>保存密码</translation>
     </message>
 </context>
 <context>
@@ -13736,11 +13738,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>&amp;XMPP Console</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPP 控制台(&amp;X)</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="unfinished">粘贴并发送</translation>
+        <translation>粘贴并发送</translation>
     </message>
 </context>
 <context>
@@ -15771,7 +15773,7 @@ OTR 插件将无法工作。</translation>
     </message>
     <message>
         <source>Received message contains malformed data.</source>
-        <translation>收到的消息包含异常数据。</translation>
+        <translation>收到的消息包含格式错误的数据。</translation>
     </message>
     <message>
         <source>You have received a new fingerprint from %1:
@@ -19016,23 +19018,23 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>XMPP Console</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPP 控制台</translation>
     </message>
     <message>
         <source>&lt;message&gt; stanza used to send information to other XMPP entities without requiring a response.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;message&gt; 节用于向其他 XMPP 实体发送信息，而不需要响应。</translation>
     </message>
     <message>
         <source>&lt;presence&gt; stanza used for status of other clients and components. It&apos;s a multi-cast so extensions use it to broadcast own things to contacts, such as capabilities, music choice, or location.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;presence&gt; 节用于其他客户端和组件的状态。这是一个多播，因此扩展使用它向联系人广播自己的内容，例如功能、音乐选择或位置。</translation>
     </message>
     <message>
         <source>&lt;iq&gt; (info/query) stanza used for requesting and modifying information.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;iq&gt;（信息/查询）节用于请求和修改信息。</translation>
     </message>
     <message>
         <source>&lt;a&gt; (ack) and &lt;r&gt; (request ack) stanzas used to acknowledge successful receipt of a stanza.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a&gt;（确认）与 &lt;r&gt;（请求确认）节用于‌确认节的成功接收。</translation>
     </message>
 </context>
 <context>
@@ -19116,7 +19118,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>The sender has sent XML that is malformed or that cannot be processed.</source>
-        <translation>发送者发送的 XML 格式不正确或无法处理。</translation>
+        <translation>发送者发送的 XML 格式错误或无法处理。</translation>
     </message>
     <message>
         <source>Conflict</source>
@@ -19306,7 +19308,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>XMPP Console</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPP 控制台</translation>
     </message>
 </context>
 <context>
@@ -19325,11 +19327,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Malformed XML</source>
-        <translation>异常的 XML</translation>
+        <translation>XML 格式错误</translation>
     </message>
     <message>
         <source>You have entered malformed XML input. Are you sure you want to send this ?</source>
-        <translation type="vanished">您输入了异常的 XML。是否确定要发送这个？</translation>
+        <translation type="vanished">XML 输入格式错误。是否确定要发送这个？</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -19341,7 +19343,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>You have entered malformed XML input.</source>
-        <translation type="unfinished"></translation>
+        <translation>XML 输入格式错误。</translation>
     </message>
 </context>
 <context>
