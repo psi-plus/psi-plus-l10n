@@ -1955,7 +1955,15 @@ Per inviare comandi, basta usare normali messaggi, quindi questo plugin funzione
     <name>CaptchaDlg</name>
     <message>
         <source>Dialog</source>
-        <translation>Finestra</translation>
+        <translation type="vanished">Finestra</translation>
+    </message>
+    <message>
+        <source>You need to pass verification</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AccountLabel</source>
+        <translation type="unfinished">Etichetta Account</translation>
     </message>
 </context>
 <context>

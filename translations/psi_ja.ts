@@ -1921,7 +1921,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CaptchaDlg</name>
     <message>
         <source>Dialog</source>
-        <translation>ダイアログ</translation>
+        <translation type="vanished">ダイアログ</translation>
+    </message>
+    <message>
+        <source>You need to pass verification</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AccountLabel</source>
+        <translation type="unfinished">アカウントラベル</translation>
     </message>
 </context>
 <context>

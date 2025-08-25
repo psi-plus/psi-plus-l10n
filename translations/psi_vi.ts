@@ -1926,7 +1926,15 @@ Dùng gửi lệnh, tin nhắn thông thường, trình cắm này luôn hoạt 
     <name>CaptchaDlg</name>
     <message>
         <source>Dialog</source>
-        <translation>Hộp thoại</translation>
+        <translation type="vanished">Hộp thoại</translation>
+    </message>
+    <message>
+        <source>You need to pass verification</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AccountLabel</source>
+        <translation type="unfinished">AccountLabel</translation>
     </message>
 </context>
 <context>

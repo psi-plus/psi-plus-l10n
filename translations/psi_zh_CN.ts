@@ -1951,7 +1951,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CaptchaDlg</name>
     <message>
         <source>Dialog</source>
-        <translation>对话框</translation>
+        <translation type="vanished">对话框</translation>
+    </message>
+    <message>
+        <source>You need to pass verification</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AccountLabel</source>
+        <translation type="unfinished">账号标签</translation>
     </message>
 </context>
 <context>

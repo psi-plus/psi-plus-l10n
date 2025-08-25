@@ -1931,7 +1931,15 @@ Para el envío de comandos, se usan mensajes normales, por lo que este complemen
     <name>CaptchaDlg</name>
     <message>
         <source>Dialog</source>
-        <translation>Diálogo</translation>
+        <translation type="vanished">Diálogo</translation>
+    </message>
+    <message>
+        <source>You need to pass verification</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AccountLabel</source>
+        <translation type="unfinished">AccountLabel</translation>
     </message>
 </context>
 <context>

@@ -1927,7 +1927,15 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     <name>CaptchaDlg</name>
     <message>
         <source>Dialog</source>
-        <translation>Párbeszéd</translation>
+        <translation type="vanished">Párbeszéd</translation>
+    </message>
+    <message>
+        <source>You need to pass verification</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AccountLabel</source>
+        <translation type="unfinished">AccountLabel</translation>
     </message>
 </context>
 <context>

@@ -1926,7 +1926,15 @@ Les commandes sont envoyées sous forme de messages, ce greffon fonctionnera don
     <name>CaptchaDlg</name>
     <message>
         <source>Dialog</source>
-        <translation>Dialogue</translation>
+        <translation type="vanished">Dialogue</translation>
+    </message>
+    <message>
+        <source>You need to pass verification</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AccountLabel</source>
+        <translation type="unfinished">NomduCompte</translation>
     </message>
 </context>
 <context>

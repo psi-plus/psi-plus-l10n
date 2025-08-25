@@ -1936,7 +1936,15 @@ Para enviar comandos, são usadas mensagens normais, portanto esse plug-in sempr
     <name>CaptchaDlg</name>
     <message>
         <source>Dialog</source>
-        <translation>Diálogo</translation>
+        <translation type="vanished">Diálogo</translation>
+    </message>
+    <message>
+        <source>You need to pass verification</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AccountLabel</source>
+        <translation type="unfinished">Rótulo da Conta</translation>
     </message>
 </context>
 <context>

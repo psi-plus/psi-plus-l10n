@@ -1790,7 +1790,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CaptchaDlg</name>
     <message>
         <source>Dialog</source>
-        <translation>Dialog</translation>
+        <translation type="vanished">Dialog</translation>
+    </message>
+    <message>
+        <source>You need to pass verification</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AccountLabel</source>
+        <translation type="unfinished">AccountLabel</translation>
     </message>
 </context>
 <context>

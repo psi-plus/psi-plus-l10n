@@ -1937,7 +1937,15 @@ Für das Versenden von Befehlen werden normale Nachrichten verwendet, so dass di
     <name>CaptchaDlg</name>
     <message>
         <source>Dialog</source>
-        <translation>Dialog</translation>
+        <translation type="vanished">Dialog</translation>
+    </message>
+    <message>
+        <source>You need to pass verification</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AccountLabel</source>
+        <translation type="unfinished">Kontobezeichnung</translation>
     </message>
 </context>
 <context>
