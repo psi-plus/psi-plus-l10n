@@ -1955,11 +1955,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>You need to pass verification</source>
-        <translation type="unfinished"></translation>
+        <translation>您需要通过验证</translation>
     </message>
     <message>
         <source>AccountLabel</source>
-        <translation type="unfinished">账号标签</translation>
+        <translation>账号标签</translation>
     </message>
 </context>
 <context>
