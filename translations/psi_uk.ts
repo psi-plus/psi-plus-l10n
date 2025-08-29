@@ -1969,11 +1969,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>You need to pass verification</source>
-        <translation type="unfinished"></translation>
+        <translation>Вам потрібно пройти верифікацію</translation>
     </message>
     <message>
         <source>AccountLabel</source>
-        <translation type="unfinished">AccountLabel</translation>
+        <translation>AccountLabel</translation>
     </message>
 </context>
 <context>
