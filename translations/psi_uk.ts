@@ -7907,6 +7907,14 @@ Reason: %1</source>
         <source>Remove</source>
         <translation>Видалити</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished">Акаунт</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished">Кімната</translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>

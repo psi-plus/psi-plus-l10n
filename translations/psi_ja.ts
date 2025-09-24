@@ -7648,6 +7648,14 @@ Reason: %1</source>
         <source>Remove</source>
         <translation>削除</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished">アカウント</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>

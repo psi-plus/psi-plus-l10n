@@ -7629,6 +7629,14 @@ Arsye: %1</translation>
         <source>Remove</source>
         <translation>Hiqe</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished">Llogari</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished">Dhomë</translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>

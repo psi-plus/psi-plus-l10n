@@ -7863,6 +7863,14 @@ Grund: %1</translation>
         <source>Remove</source>
         <translation>Entfernen</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished">Raum</translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>

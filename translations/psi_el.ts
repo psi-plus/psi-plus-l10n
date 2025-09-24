@@ -7242,6 +7242,14 @@ Reason: %1</source>
         <source>Remove</source>
         <translation>Αφαίρεση</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished">Λογαριασμός</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>

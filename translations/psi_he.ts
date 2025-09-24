@@ -7531,6 +7531,14 @@ Reason: %1</source>
         <source>Remove</source>
         <translation>הסר</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished">חשבון</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>

@@ -7853,6 +7853,14 @@ Motivo: %1</translation>
         <source>Remove</source>
         <translation>Remover</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished">Conta</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished">Sala</translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>

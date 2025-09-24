@@ -7750,6 +7750,14 @@ Reason: %1</source>
         <source>Remove</source>
         <translation>Bỏ</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished">Tài khoản</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>

@@ -7887,6 +7887,14 @@ Reason: %1</source>
         <source>Remove</source>
         <translation>移除</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished">账号</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished">群聊</translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>

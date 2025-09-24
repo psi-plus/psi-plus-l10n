@@ -7815,6 +7815,14 @@ Motivo: %1</translation>
         <source>Remove</source>
         <translation>Eliminar</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished">Cuenta</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>

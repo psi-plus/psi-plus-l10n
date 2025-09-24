@@ -7099,6 +7099,14 @@ Kialo: %1</translation>
         <source>Remove</source>
         <translation>Forigi</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>

@@ -6946,6 +6946,14 @@ Reason: %1</source>
         <source>Remove</source>
         <translation>خذف کردن</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished">حساب کاربری</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>

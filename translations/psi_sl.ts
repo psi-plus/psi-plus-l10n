@@ -7321,6 +7321,14 @@ Razlog: %1</translation>
         <source>Remove</source>
         <translation>Odstrani</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished">Račun</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>

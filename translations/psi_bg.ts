@@ -7717,6 +7717,14 @@ Reason: %1</source>
         <source>Remove</source>
         <translation>Изтриване</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished">Сметка</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished">Стая</translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>

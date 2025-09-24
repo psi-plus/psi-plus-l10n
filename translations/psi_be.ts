@@ -7774,6 +7774,14 @@ Reason: %1</source>
         <source>Remove</source>
         <translation>Забраць</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished">Рахунак</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished">Пакой</translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>

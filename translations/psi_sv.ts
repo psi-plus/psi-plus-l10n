@@ -7353,6 +7353,14 @@ Orsak: %1</translation>
         <source>Remove</source>
         <translation>Ta bort</translation>
     </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished">Konto</translation>
+    </message>
+    <message>
+        <source>Room</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MUCManager</name>
