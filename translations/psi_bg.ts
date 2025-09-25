@@ -1858,7 +1858,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>AccountLabel</source>
-        <translation type="unfinished">АкаунтовЕтикет</translation>
+        <translation>АкаунтовЕтикет</translation>
     </message>
 </context>
 <context>
@@ -7719,11 +7719,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Сметка</translation>
+        <translation>Сметка</translation>
     </message>
     <message>
         <source>Room</source>
-        <translation type="unfinished">Стая</translation>
+        <translation>Стая</translation>
     </message>
 </context>
 <context>
@@ -11717,15 +11717,15 @@ Please enter your passphrase below:</source>
     <name>PasswordDialog</name>
     <message>
         <source>Wrong Account Password</source>
-        <translation type="unfinished">Грешна парола на сметка</translation>
+        <translation>Грешна парола на сметка</translation>
     </message>
     <message>
         <source>Please enter your password for %1:</source>
-        <translation type="unfinished">Моля, въведете парола за %1 </translation>
+        <translation>Моля, въведете парола за %1 </translation>
     </message>
     <message>
         <source>Save Password</source>
-        <translation type="unfinished">Запомняне на паролата</translation>
+        <translation>Запомняне на паролата</translation>
     </message>
 </context>
 <context>

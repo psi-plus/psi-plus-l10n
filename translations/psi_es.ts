@@ -1939,7 +1939,7 @@ Para el envío de comandos, se usan mensajes normales, por lo que este complemen
     </message>
     <message>
         <source>AccountLabel</source>
-        <translation type="unfinished">AccountLabel</translation>
+        <translation>AccountLabel</translation>
     </message>
 </context>
 <context>
@@ -7817,7 +7817,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Cuenta</translation>
+        <translation>Cuenta</translation>
     </message>
     <message>
         <source>Room</source>
@@ -11857,15 +11857,15 @@ Por favor inserta tu contraseña abajo:</translation>
     <name>PasswordDialog</name>
     <message>
         <source>Wrong Account Password</source>
-        <translation type="unfinished">Contraseña de cuenta equivocada</translation>
+        <translation>Contraseña de cuenta equivocada</translation>
     </message>
     <message>
         <source>Please enter your password for %1:</source>
-        <translation type="unfinished">Por favor inserta tu contraseña para %1:</translation>
+        <translation>Por favor inserta tu contraseña para %1:</translation>
     </message>
     <message>
         <source>Save Password</source>
-        <translation type="unfinished">Guardar contraseña</translation>
+        <translation>Guardar contraseña</translation>
     </message>
 </context>
 <context>
@@ -13622,7 +13622,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="unfinished">Pegar y Enviar</translation>
+        <translation>Pegar y Enviar</translation>
     </message>
 </context>
 <context>

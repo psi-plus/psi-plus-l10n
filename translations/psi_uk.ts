@@ -7909,11 +7909,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Акаунт</translation>
+        <translation>Акаунт</translation>
     </message>
     <message>
         <source>Room</source>
-        <translation type="unfinished">Кімната</translation>
+        <translation>Кімната</translation>
     </message>
 </context>
 <context>

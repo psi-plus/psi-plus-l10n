@@ -1798,7 +1798,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>AccountLabel</source>
-        <translation type="unfinished">اکاؤنٹ لیبل</translation>
+        <translation>اکاؤنٹ لیبل</translation>
     </message>
 </context>
 <context>
@@ -7197,7 +7197,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">اکاؤنٹ</translation>
+        <translation>اکاؤنٹ</translation>
     </message>
     <message>
         <source>Room</source>

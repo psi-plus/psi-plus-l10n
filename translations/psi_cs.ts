@@ -1957,7 +1957,7 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     </message>
     <message>
         <source>AccountLabel</source>
-        <translation type="unfinished">PopisekÚčtu</translation>
+        <translation>PopisekÚčtu</translation>
     </message>
 </context>
 <context>
@@ -7845,11 +7845,11 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Účet</translation>
+        <translation>Účet</translation>
     </message>
     <message>
         <source>Room</source>
-        <translation type="unfinished">Místnost</translation>
+        <translation>Místnost</translation>
     </message>
 </context>
 <context>
@@ -11941,15 +11941,15 @@ Prosím vlož svou heslovací frázi:</translation>
     <name>PasswordDialog</name>
     <message>
         <source>Wrong Account Password</source>
-        <translation type="unfinished">Špatné heslo k účtu</translation>
+        <translation>Špatné heslo k účtu</translation>
     </message>
     <message>
         <source>Please enter your password for %1:</source>
-        <translation type="unfinished">Vložte heslo pro %1:</translation>
+        <translation>Vložte heslo pro %1:</translation>
     </message>
     <message>
         <source>Save Password</source>
-        <translation type="unfinished">Uložit heslo</translation>
+        <translation>Uložit heslo</translation>
     </message>
 </context>
 <context>
@@ -13720,7 +13720,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="unfinished">Vložit a poslat</translation>
+        <translation>Vložit a poslat</translation>
     </message>
 </context>
 <context>

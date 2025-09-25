@@ -1928,7 +1928,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>AccountLabel</source>
-        <translation type="unfinished"></translation>
+        <translation>帳戶標識</translation>
     </message>
 </context>
 <context>
@@ -7783,7 +7783,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">帳號</translation>
+        <translation>帳號</translation>
     </message>
     <message>
         <source>Room</source>
@@ -11801,15 +11801,15 @@ Please enter your passphrase below:</source>
     <name>PasswordDialog</name>
     <message>
         <source>Wrong Account Password</source>
-        <translation type="unfinished">帳戶密碼錯誤</translation>
+        <translation>帳戶密碼錯誤</translation>
     </message>
     <message>
         <source>Please enter your password for %1:</source>
-        <translation type="unfinished">請輸入密碼 %1:</translation>
+        <translation>請輸入密碼 %1:</translation>
     </message>
     <message>
         <source>Save Password</source>
-        <translation type="unfinished">保存密碼</translation>
+        <translation>保存密碼</translation>
     </message>
 </context>
 <context>
@@ -13557,7 +13557,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="unfinished">粘貼並發送</translation>
+        <translation>粘貼並發送</translation>
     </message>
 </context>
 <context>

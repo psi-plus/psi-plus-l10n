@@ -1934,7 +1934,7 @@ Dùng gửi lệnh, tin nhắn thông thường, trình cắm này luôn hoạt 
     </message>
     <message>
         <source>AccountLabel</source>
-        <translation type="unfinished">AccountLabel</translation>
+        <translation>AccountLabel</translation>
     </message>
 </context>
 <context>
@@ -7752,7 +7752,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Tài khoản</translation>
+        <translation>Tài khoản</translation>
     </message>
     <message>
         <source>Room</source>
@@ -13297,7 +13297,7 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="unfinished">Dán và gởi</translation>
+        <translation>Dán và gởi</translation>
     </message>
 </context>
 <context>

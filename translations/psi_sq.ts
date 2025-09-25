@@ -7631,11 +7631,11 @@ Arsye: %1</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Llogari</translation>
+        <translation>Llogari</translation>
     </message>
     <message>
         <source>Room</source>
-        <translation type="unfinished">Dhomë</translation>
+        <translation>Dhomë</translation>
     </message>
 </context>
 <context>
@@ -11568,15 +11568,15 @@ Reason: %1.</source>
     <name>PasswordDialog</name>
     <message>
         <source>Wrong Account Password</source>
-        <translation type="unfinished">Fjalëkalim i Gabuar Llogarie</translation>
+        <translation>Fjalëkalim i Gabuar Llogarie</translation>
     </message>
     <message>
         <source>Please enter your password for %1:</source>
-        <translation type="unfinished">Ju lutemi, jepni fjalëkalimin tuaj për %1:</translation>
+        <translation>Ju lutemi, jepni fjalëkalimin tuaj për %1:</translation>
     </message>
     <message>
         <source>Save Password</source>
-        <translation type="unfinished">Ruaje Fjalëkalimin</translation>
+        <translation>Ruaje Fjalëkalimin</translation>
     </message>
 </context>
 <context>
@@ -13287,7 +13287,7 @@ Arsye: %1.</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Ngjiteni dhe Dërgoje</translation>
     </message>
 </context>
 <context>

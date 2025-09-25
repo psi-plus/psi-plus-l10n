@@ -1908,7 +1908,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>AccountLabel</source>
-        <translation type="unfinished"></translation>
+        <translation>Oznaka naloga</translation>
     </message>
 </context>
 <context>
@@ -7679,7 +7679,7 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Nalog</translation>
+        <translation>Nalog</translation>
     </message>
     <message>
         <source>Room</source>
@@ -11644,15 +11644,15 @@ Molimo unesite vašu lozinku u nastavku:</translation>
     <name>PasswordDialog</name>
     <message>
         <source>Wrong Account Password</source>
-        <translation type="unfinished">Pogrešna lozinka naloga</translation>
+        <translation>Pogrešna lozinka naloga</translation>
     </message>
     <message>
         <source>Please enter your password for %1:</source>
-        <translation type="unfinished">Molim unesite lozinku za %1:</translation>
+        <translation>Molim unesite lozinku za %1:</translation>
     </message>
     <message>
         <source>Save Password</source>
-        <translation type="unfinished">Sačuvaj lozinku</translation>
+        <translation>Sačuvaj lozinku</translation>
     </message>
 </context>
 <context>
@@ -13387,7 +13387,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="unfinished">Nalepi i pošalji</translation>
+        <translation>Nalepi i pošalji</translation>
     </message>
 </context>
 <context>

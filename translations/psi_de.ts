@@ -1945,7 +1945,7 @@ Für das Versenden von Befehlen werden normale Nachrichten verwendet, so dass di
     </message>
     <message>
         <source>AccountLabel</source>
-        <translation type="unfinished">Kontobezeichnung</translation>
+        <translation>Kontobezeichnung</translation>
     </message>
 </context>
 <context>
@@ -7865,11 +7865,11 @@ Grund: %1</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Konto</translation>
     </message>
     <message>
         <source>Room</source>
-        <translation type="unfinished">Raum</translation>
+        <translation>Raum</translation>
     </message>
 </context>
 <context>
@@ -11937,15 +11937,15 @@ Bitte geben Sie Ihre Passphrase ein:</translation>
     <name>PasswordDialog</name>
     <message>
         <source>Wrong Account Password</source>
-        <translation type="unfinished">Falsches Benutzerkonto Passwort</translation>
+        <translation>Falsches Benutzerkonto Passwort</translation>
     </message>
     <message>
         <source>Please enter your password for %1:</source>
-        <translation type="unfinished">Bitte geben Sie Ihr Kennwort für %1 ein:</translation>
+        <translation>Bitte geben Sie Ihr Kennwort für %1 ein:</translation>
     </message>
     <message>
         <source>Save Password</source>
-        <translation type="unfinished">Passwort speichern</translation>
+        <translation>Passwort speichern</translation>
     </message>
 </context>
 <context>
@@ -13712,7 +13712,7 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="unfinished">Einfügen und Senden</translation>
+        <translation>Einfügen und Senden</translation>
     </message>
 </context>
 <context>

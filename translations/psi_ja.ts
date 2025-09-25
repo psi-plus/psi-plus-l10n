@@ -1929,7 +1929,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>AccountLabel</source>
-        <translation type="unfinished">アカウントラベル</translation>
+        <translation>アカウントラベル</translation>
     </message>
 </context>
 <context>
@@ -7650,7 +7650,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">アカウント</translation>
+        <translation>アカウント</translation>
     </message>
     <message>
         <source>Room</source>
@@ -11514,7 +11514,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Save Password</source>
-        <translation type="unfinished">パスワードを保存</translation>
+        <translation>パスワードを保存</translation>
     </message>
 </context>
 <context>

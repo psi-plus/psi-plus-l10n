@@ -1934,7 +1934,7 @@ Les commandes sont envoyées sous forme de messages, ce greffon fonctionnera don
     </message>
     <message>
         <source>AccountLabel</source>
-        <translation type="unfinished">NomduCompte</translation>
+        <translation>NomduCompte</translation>
     </message>
 </context>
 <context>
@@ -7769,7 +7769,7 @@ Cause: %1</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Compte</translation>
+        <translation>Compte</translation>
     </message>
     <message>
         <source>Room</source>
@@ -11742,15 +11742,15 @@ Veuillez saisir votre mot de passe ci-dessous :</translation>
     <name>PasswordDialog</name>
     <message>
         <source>Wrong Account Password</source>
-        <translation type="unfinished">Mot de passe incorrect</translation>
+        <translation>Mot de passe incorrect</translation>
     </message>
     <message>
         <source>Please enter your password for %1:</source>
-        <translation type="unfinished">Veuillez saisir le mot de passe pour %1 :</translation>
+        <translation>Veuillez saisir le mot de passe pour %1 :</translation>
     </message>
     <message>
         <source>Save Password</source>
-        <translation type="unfinished">Enregistrer le mot de passe</translation>
+        <translation>Enregistrer le mot de passe</translation>
     </message>
 </context>
 <context>
@@ -13507,7 +13507,7 @@ Cause: %1.</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="unfinished">Coller et envoyer</translation>
+        <translation>Coller et envoyer</translation>
     </message>
 </context>
 <context>

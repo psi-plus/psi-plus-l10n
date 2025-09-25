@@ -1615,7 +1615,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">نام:</translation>
+        <translation>نام:</translation>
     </message>
 </context>
 <context>
@@ -6948,7 +6948,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">حساب کاربری</translation>
+        <translation>حساب کاربری</translation>
     </message>
     <message>
         <source>Room</source>

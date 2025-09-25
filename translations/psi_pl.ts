@@ -1900,7 +1900,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>AccountLabel</source>
-        <translation type="unfinished">Etykieta konta</translation>
+        <translation>Etykieta konta</translation>
     </message>
 </context>
 <context>
@@ -7698,7 +7698,7 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Konto</translation>
+        <translation>Konto</translation>
     </message>
     <message>
         <source>Room</source>
@@ -11560,7 +11560,7 @@ Wprowadź hasło twojego klucza OpenPGP poniżej:</translation>
     </message>
     <message>
         <source>Save Password</source>
-        <translation type="unfinished">Zapisz hasło</translation>
+        <translation>Zapisz hasło</translation>
     </message>
 </context>
 <context>
@@ -13265,7 +13265,7 @@ Przyczyna: %1.</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="unfinished">Wklej i wyślij</translation>
+        <translation>Wklej i wyślij</translation>
     </message>
 </context>
 <context>

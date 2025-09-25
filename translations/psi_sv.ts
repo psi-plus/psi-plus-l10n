@@ -1798,7 +1798,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>AccountLabel</source>
-        <translation type="unfinished">AccountLabel</translation>
+        <translation>AccountLabel</translation>
     </message>
 </context>
 <context>
@@ -7355,7 +7355,7 @@ Orsak: %1</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Konto</translation>
+        <translation>Konto</translation>
     </message>
     <message>
         <source>Room</source>

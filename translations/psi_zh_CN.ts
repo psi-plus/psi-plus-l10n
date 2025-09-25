@@ -7889,11 +7889,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">账号</translation>
+        <translation>账号</translation>
     </message>
     <message>
         <source>Room</source>
-        <translation type="unfinished">群聊</translation>
+        <translation>群聊</translation>
     </message>
 </context>
 <context>

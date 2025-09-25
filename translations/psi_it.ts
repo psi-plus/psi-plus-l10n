@@ -1963,7 +1963,7 @@ Per inviare comandi, basta usare normali messaggi, quindi questo plugin funzione
     </message>
     <message>
         <source>AccountLabel</source>
-        <translation type="unfinished">Etichetta Account</translation>
+        <translation>Etichetta Account</translation>
     </message>
 </context>
 <context>
@@ -7901,11 +7901,11 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Account</translation>
+        <translation>Account</translation>
     </message>
     <message>
         <source>Room</source>
-        <translation type="unfinished">Stanza</translation>
+        <translation>Stanza</translation>
     </message>
 </context>
 <context>
@@ -11993,15 +11993,15 @@ Inserisci la tua password qui sotto:</translation>
     <name>PasswordDialog</name>
     <message>
         <source>Wrong Account Password</source>
-        <translation type="unfinished">Password Account Errata</translation>
+        <translation>Password Account Errata</translation>
     </message>
     <message>
         <source>Please enter your password for %1:</source>
-        <translation type="unfinished">Per favore inserire la tua password per %1:</translation>
+        <translation>Per favore inserire la tua password per %1:</translation>
     </message>
     <message>
         <source>Save Password</source>
-        <translation type="unfinished">Salva Password</translation>
+        <translation>Salva Password</translation>
     </message>
 </context>
 <context>
@@ -13772,7 +13772,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="unfinished">Incolla e Invia</translation>
+        <translation>Incolla e Invia</translation>
     </message>
 </context>
 <context>

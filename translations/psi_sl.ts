@@ -1798,7 +1798,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>AccountLabel</source>
-        <translation type="unfinished">AccountLabel</translation>
+        <translation>AccountLabel</translation>
     </message>
 </context>
 <context>
@@ -7323,7 +7323,7 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Račun</translation>
+        <translation>Račun</translation>
     </message>
     <message>
         <source>Room</source>

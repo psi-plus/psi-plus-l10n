@@ -1944,7 +1944,7 @@ Para enviar comandos, são usadas mensagens normais, portanto esse plug-in sempr
     </message>
     <message>
         <source>AccountLabel</source>
-        <translation type="unfinished">Rótulo da Conta</translation>
+        <translation>Rótulo da Conta</translation>
     </message>
 </context>
 <context>
@@ -7855,11 +7855,11 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Conta</translation>
+        <translation>Conta</translation>
     </message>
     <message>
         <source>Room</source>
-        <translation type="unfinished">Sala</translation>
+        <translation>Sala</translation>
     </message>
 </context>
 <context>
@@ -11885,15 +11885,15 @@ Por favor informe sua frase de segurança abaixo:</translation>
     <name>PasswordDialog</name>
     <message>
         <source>Wrong Account Password</source>
-        <translation type="unfinished">Senha da conta incorreta</translation>
+        <translation>Senha da conta incorreta</translation>
     </message>
     <message>
         <source>Please enter your password for %1:</source>
-        <translation type="unfinished">Por favor, digite a sua senha para %1:</translation>
+        <translation>Por favor, digite a sua senha para %1:</translation>
     </message>
     <message>
         <source>Save Password</source>
-        <translation type="unfinished">Salvar Senha</translation>
+        <translation>Salvar Senha</translation>
     </message>
 </context>
 <context>
@@ -13650,7 +13650,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="unfinished">Colar e Enviar</translation>
+        <translation>Colar e Enviar</translation>
     </message>
 </context>
 <context>

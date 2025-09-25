@@ -1671,7 +1671,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Όνομα:</translation>
+        <translation>Όνομα:</translation>
     </message>
 </context>
 <context>
@@ -7244,7 +7244,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Λογαριασμός</translation>
+        <translation>Λογαριασμός</translation>
     </message>
     <message>
         <source>Room</source>

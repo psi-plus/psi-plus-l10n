@@ -7533,7 +7533,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">חשבון</translation>
+        <translation>חשבון</translation>
     </message>
     <message>
         <source>Room</source>
@@ -11437,15 +11437,15 @@ Please enter your passphrase below:</source>
     <name>PasswordDialog</name>
     <message>
         <source>Wrong Account Password</source>
-        <translation type="unfinished">סיסמת חשבון שגויה</translation>
+        <translation>סיסמת חשבון שגויה</translation>
     </message>
     <message>
         <source>Please enter your password for %1:</source>
-        <translation type="unfinished">אנא הזן את סיסמתך עבור %1:</translation>
+        <translation>אנא הזן את סיסמתך עבור %1:</translation>
     </message>
     <message>
         <source>Save Password</source>
-        <translation type="unfinished">שמור סיסמה</translation>
+        <translation>שמור סיסמה</translation>
     </message>
 </context>
 <context>
@@ -13169,7 +13169,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="unfinished">הדבק ושלח</translation>
+        <translation>הדבק ושלח</translation>
     </message>
 </context>
 <context>

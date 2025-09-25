@@ -1935,7 +1935,7 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     </message>
     <message>
         <source>AccountLabel</source>
-        <translation type="unfinished">AccountLabel</translation>
+        <translation>AccountLabel</translation>
     </message>
 </context>
 <context>
@@ -7826,7 +7826,7 @@ Oka: %1</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">Fiók</translation>
+        <translation>Fiók</translation>
     </message>
     <message>
         <source>Room</source>
@@ -11879,15 +11879,15 @@ Kérlek add meg a jelszavad:</translation>
     <name>PasswordDialog</name>
     <message>
         <source>Wrong Account Password</source>
-        <translation type="unfinished">A fiókhoz megadott jelszó rossz</translation>
+        <translation>A fiókhoz megadott jelszó rossz</translation>
     </message>
     <message>
         <source>Please enter your password for %1:</source>
-        <translation type="unfinished">Add meg a jelszavad %1 számára:</translation>
+        <translation>Add meg a jelszavad %1 számára:</translation>
     </message>
     <message>
         <source>Save Password</source>
-        <translation type="unfinished">Jelszó mentése</translation>
+        <translation>Jelszó mentése</translation>
     </message>
 </context>
 <context>
@@ -13646,7 +13646,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="unfinished">Beillesztés és küldés</translation>
+        <translation>Beillesztés és küldés</translation>
     </message>
 </context>
 <context>
