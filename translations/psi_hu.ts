@@ -16126,7 +16126,7 @@ Jelszó: %5</translation>
         <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
 
 Do you want to generate keys now?</source>
-        <translation>&quot;%1&quot; fiókhoz privát kulcsot kell létrehozni. Ez eltart egy darabig (néhány másodperctől akár percekig is) és használható közben a Psi is, DE minden elküldött üzenet titkosítatlan lesz, amíg a kulcs el nem készül. Értesítés jelenik meg a kulcs elkészültekor.
+        <translation type="vanished">&quot;%1&quot; fiókhoz privát kulcsot kell létrehozni. Ez eltart egy darabig (néhány másodperctől akár percekig is) és használható közben a Psi is, DE minden elküldött üzenet titkosítatlan lesz, amíg a kulcs el nem készül. Értesítés jelenik meg a kulcs elkészültekor.
 
 Kulcs létrehozása most?</translation>
     </message>

@@ -16263,7 +16263,7 @@ Password: %5</translation>
         <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
 
 Do you want to generate keys now?</source>
-        <translation>Le chiavi private per l&apos;account &quot;%1&quot; devono essere generate. Questo può richiedere del tempo (da pochi secondi ad un paio di minuti), nel frattempo puoi usare Psi+, tutti i messaggi verranno inviati in chiaro fino a quando le chiavi saranno generate. Riceverai una notifica quando questo processo sarà finito.
+        <translation type="vanished">Le chiavi private per l&apos;account &quot;%1&quot; devono essere generate. Questo può richiedere del tempo (da pochi secondi ad un paio di minuti), nel frattempo puoi usare Psi+, tutti i messaggi verranno inviati in chiaro fino a quando le chiavi saranno generate. Riceverai una notifica quando questo processo sarà finito.
 
 Vuoi generare le chiavi adesso?</translation>
     </message>

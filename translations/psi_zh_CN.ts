@@ -16249,7 +16249,7 @@ URL：%4
         <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
 
 Do you want to generate keys now?</source>
-        <translation>需要生成账号“%1”的私钥。这需要相当长的时间（从几秒钟到几分钟），虽然您可以在此期间使用 Psi，但在生成密钥之前，所有消息都将以未加密的方式发送。此过程结束时，您将收到通知。
+        <translation type="vanished">需要生成账号“%1”的私钥。这需要相当长的时间（从几秒钟到几分钟），虽然您可以在此期间使用 Psi，但在生成密钥之前，所有消息都将以未加密的方式发送。此过程结束时，您将收到通知。
 
 是否要立即生成密钥？</translation>
     </message>

@@ -15833,7 +15833,7 @@ Password: %5</source>
         <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
 
 Do you want to generate keys now?</source>
-        <translation>Личните ключове за акаунт &quot;%1&quot; е нужно да се генерират. Това отнема определено време (от няколко секунди до няколко минути), и докато можете да използвате междувременно Psi+, всички съобщения ще бъдат некриптирани, докато не се генерират ключовете. Ще бъдете уведомени, когато процеса приключи.
+        <translation type="vanished">Личните ключове за акаунт &quot;%1&quot; е нужно да се генерират. Това отнема определено време (от няколко секунди до няколко минути), и докато можете да използвате междувременно Psi+, всички съобщения ще бъдат некриптирани, докато не се генерират ключовете. Ще бъдете уведомени, когато процеса приключи.
 
 Искате ли да генерирате ключовете сега?</translation>
     </message>

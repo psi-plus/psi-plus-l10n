@@ -16286,7 +16286,7 @@ URL: %4
         <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
 
 Do you want to generate keys now?</source>
-        <translation>Необходимо сгенерировать личные ключи для аккаунта &quot;%1&quot;. Это займет какое-то время (от пары секунд до нескольких минут). Вы сможете использовать Psi+ в это время, но все сообщения будут незашифрованными, пока ключи не сгенерируются.
+        <translation type="vanished">Необходимо сгенерировать личные ключи для аккаунта &quot;%1&quot;. Это займет какое-то время (от пары секунд до нескольких минут). Вы сможете использовать Psi+ в это время, но все сообщения будут незашифрованными, пока ключи не сгенерируются.
 
 Сгенерировать ключи сейчас?</translation>
     </message>
