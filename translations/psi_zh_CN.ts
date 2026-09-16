@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="zh_CN">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="zh_CN">
 <context>
     <name>@default</name>
     <message>
@@ -1263,7 +1265,7 @@ save the history for this contact.</source>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Bitstream Vera Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; user, simply fill out the XMPP address (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-XMPP&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get XMPP Address&lt;/span&gt; button to generate an XMPP address for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -1746,7 +1748,7 @@ JID 的例外列表有两种操作模式：
     <message>
         <source>This plugin allows you to play battleship with your friends.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation>本插件允许您和朋友玩战舰。
+        <translation type="vanished">本插件允许您和朋友玩战舰。
 发送命令使用的是普通消息，因此只要您能够登录，本插件就能在任何地方正常工作。要邀请朋友参与游戏，您可以使用联系人菜单项或聊天窗口工具栏上的按钮。</translation>
     </message>
     <message>
@@ -1756,6 +1758,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Battleship game!</source>
         <translation>战舰游戏！</translation>
+    </message>
+    <message>
+        <source>Play Battleship with your friends.
+This is a paper board game where you try to sink the opponent&apos;s ships.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2393,13 +2400,19 @@ to play chess. He wants to play %2.</source>
         <source>This plugin allows you to play chess with your friends.
 The plugin is compatible with a similar plugin for Tkabber.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation>本插件允许您和您的朋友下棋。
+        <translation type="vanished">本插件允许您和您的朋友下棋。
 本插件与 Tkabber 的类似插件兼容。
 发送命令使用的是普通消息，因此只要您能够登录，本插件就能在任何地方正常工作。要邀请朋友加入游戏，您可以使用联系人菜单项或聊天窗口工具栏上的按钮。</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#chess_plugin&quot;&gt;维基（在线）&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>Play chess with your friends.
+The plugin is compatible with a similar plugin for Tkabber.
+To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2700,6 +2713,13 @@ You can preview items before deleting them from your hard drive.</source>
     <message>
         <source>Invert</source>
         <translation>反选</translation>
+    </message>
+</context>
+<context>
+    <name>ClientStream</name>
+    <message>
+        <source>Offered mechanisms: </source>
+        <translation type="unfinished">提供的机制：</translation>
     </message>
 </context>
 <context>
@@ -3274,7 +3294,7 @@ Proceed?</source>
     </message>
     <message>
         <source>ToolBar will be placed here</source>
-        <comment>Don't translate this string</comment>
+        <comment>Don&apos;t translate this string</comment>
         <translation>工具栏将放在此处</translation>
     </message>
     <message>
@@ -4621,7 +4641,7 @@ contact is offline.</source>
         <source>Unable to connect to peer for data transfer.
 
 Ensure that your Data Transfer settings are proper.  If you are behind
-a NAT router or firewall then you'll need to open the proper TCP port
+a NAT router or firewall then you&apos;ll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
         <translation>无法连接到对等端进行数据传输。
 
@@ -4631,7 +4651,7 @@ or specify a Data Transfer Proxy in your account settings.</source>
         <source>Failure to either connect to, or activate, the Data Transfer Proxy.
 
 This means that the Proxy service is either not functioning or it is
-unreachable.  If you are behind a firewall, then you'll need to ensure
+unreachable.  If you are behind a firewall, then you&apos;ll need to ensure
 that outgoing TCP connections are allowed.</source>
         <translation>无法连接或激活数据传输代理。
 
@@ -5985,7 +6005,7 @@ to play gomoku. He wants to play %2.</source>
     <message>
         <source>This plugin allows you to play gomoku with your friends.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation>本插件允许您和您的朋友玩五子棋。
+        <translation type="vanished">本插件允许您和您的朋友玩五子棋。
 发送命令使用的是普通消息，因此只要您能够登录，本插件就能在任何地方正常工作。要邀请朋友参与游戏，您可以使用联系人菜单项或聊天窗口工具栏上的按钮。</translation>
     </message>
     <message>
@@ -5995,6 +6015,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Gomoku game!</source>
         <translation>五子棋游戏！</translation>
+    </message>
+    <message>
+        <source>Play gomoku with your friends.
+To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6829,7 +6854,7 @@ You can select or deselect a contact for history removal from the context menu o
 <context>
     <name>IcqDie</name>
     <message>
-        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it's much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
+        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
 
 Sincerely yours, Debian Sid.</source>
         <translation type="vanished">作为 Linux 用户，我可以告诉您，但不要生我的气。当然，这个人将会收到此消息。但最好是通过 Jabber 和对方聊天。您在冒险，人们永远不知道 ICQ 什么时候会死，Granny 已经活得比它长了。对方的 JID：%1。
@@ -6839,7 +6864,7 @@ Sincerely yours, Debian Sid.</source>
     <message>
         <source>I can tell you as a Linux, but do not be mad at me. This human do not use ICQ anymore, so if you are still use that network he will not receive your message and you have to chat to him by Jabber. His JID: %1.
 
-If you don't know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
+If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
 Sincerely yours, Debian Sid.</source>
         <translation type="vanished">作为 Linux 用户，我可以告诉您，但不要生我的气。这个人不再使用 ICQ 了，所以如果您还在使用那个网络，对方将不会收到您的消息，您必须通过 Jabber 和对方聊天。对方的 JID：%1。
 
@@ -6917,7 +6942,7 @@ The plugin has a number of simple settings that can help you:
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
-Your contact's client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
+Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
         <translation>本插件旨在向联系人列表中的联系人发送图片。
 您的联系人的客户端必须支持 XEP-0071: XHTML-IM 并支持 data:URI 方案。
@@ -7018,7 +7043,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="vanished">允许超分辨率</translation>
     </message>
     <message>
-        <source>This plugin shows images URLs' previews in chats for non-webkit Psi version.
+        <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
 </source>
         <translation>本插件在非 Webkit Psi 版本的聊天中显示图片 URL 的预览。
 </translation>
@@ -7395,7 +7420,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Battliship Game Plugin - Invite</source>
-        <translation>战舰游戏插件 - 邀请</translation>
+        <translation type="vanished">战舰游戏插件 - 邀请</translation>
     </message>
     <message>
         <source>I want to play first</source>
@@ -7404,6 +7429,10 @@ to play battleship. He wants to play %2.</source>
     <message>
         <source>I want to play second</source>
         <translation>我想当后手</translation>
+    </message>
+    <message>
+        <source>Battleship Game Plugin - Invite</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7572,7 +7601,7 @@ to play battleship. He wants to play %2.</source>
         <translation>警告</translation>
     </message>
     <message>
-        <source>can't create folder %1 
+        <source>can&apos;t create folder %1 
 caching avatars will be not available</source>
         <translation>无法创建文件夹 %1 
 缓存头像将不可用</translation>
@@ -8575,7 +8604,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Psi plugin to play noughts and crosses</source>
-        <translation>玩井字棋游戏的 Psi 插件</translation>
+        <translation type="vanished">玩井字棋游戏的 Psi 插件</translation>
+    </message>
+    <message>
+        <source>Play Noughts And Crosses (Tic-tac-toe)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9976,7 +10009,7 @@ Reason: %1.</source>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -10459,7 +10492,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="vanished">删除</translation>
     </message>
     <message>
-        <source>Disable stopspam, if don't match any rule above
+        <source>Disable stopspam, if don&apos;t match any rule above
 (does not work for muc private messages)</source>
         <translation>如果不匹配上述任何规则，则禁用“停止垃圾信息”插件
 （不适用于群聊私信）</translation>
@@ -11456,6 +11489,197 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
 </context>
 <context>
+    <name>OptionsTabSecurity</name>
+    <message>
+        <source>Security</source>
+        <translation type="unfinished">安全</translation>
+    </message>
+    <message>
+        <source>Encryption methods and key management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account:</source>
+        <translation type="unfinished">账号：</translation>
+    </message>
+    <message>
+        <source>Review every identity before trusting it. Trusted devices can receive encrypted messages; distrusted devices are excluded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User</source>
+        <translation type="unfinished">用户</translation>
+    </message>
+    <message>
+        <source>Device ID</source>
+        <translation type="unfinished">设备 ID</translation>
+    </message>
+    <message>
+        <source>Profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trust</source>
+        <translation type="unfinished">信任</translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation type="unfinished">指纹</translation>
+    </message>
+    <message>
+        <source>Do not trust</source>
+        <translation type="unfinished">不信任</translation>
+    </message>
+    <message>
+        <source>Copy fingerprint</source>
+        <translation type="unfinished">复制指纹</translation>
+    </message>
+    <message>
+        <source>Known keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current device</source>
+        <translation type="unfinished">当前设备</translation>
+    </message>
+    <message>
+        <source>Device ID:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Other devices registered for this account. Retiring one removes it from the published OMEMO device lists, so it will no longer receive encrypted messages.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Retire device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sanitize OMEMO PEP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO encryption policy</source>
+        <translation type="unfinished">OMEMO 加密策略</translation>
+    </message>
+    <message>
+        <source>Always enabled</source>
+        <translation type="unfinished">始终启用</translation>
+    </message>
+    <message>
+        <source>Enabled by default</source>
+        <translation type="unfinished">默认启用</translation>
+    </message>
+    <message>
+        <source>Disabled by default</source>
+        <translation type="unfinished">默认禁用</translation>
+    </message>
+    <message>
+        <source>This is the global default for new chats. A method selected in an individual chat overrides it for that contact. New OMEMO identities always require an explicit trust decision.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Configuration</source>
+        <translation type="unfinished">配置</translation>
+    </message>
+    <message>
+        <source>Publishing OMEMO keys…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi will verify this account&apos;s OMEMO 2 device list and bundles. A broken bundle for this device will be republished. A broken bundle belonging to another device will be retracted and that device will stop receiving new encrypted messages.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking OMEMO PEP data…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO PEP data has been sanitized.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Retire OMEMO device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The selected device will stop receiving new encrypted messages. Its published bundle will remain on the server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select an account to manage its encryption settings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This encryption method does not provide settings for this page.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ready</source>
+        <translation type="unfinished">就绪</translation>
+    </message>
+    <message>
+        <source>Not set up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Available</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No encryption methods are available for this account.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage the selected account&apos;s encryption methods, keys and trust decisions.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO is unavailable in this build.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set up OMEMO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save name and republish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unnamed device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO support is not compiled in.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not save the trust decision.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabShortcuts</name>
     <message>
         <source>Shortcuts</source>
@@ -12330,6 +12554,14 @@ Please enter your passphrase below:</source>
     <message>
         <source>Draw</source>
         <translation>和局</translation>
+    </message>
+    <message>
+        <source>You Won!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You Lost.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13295,6 +13527,26 @@ Reason: %1.</source>
         <source>Psi switched to the internal password storage because system password manager is unavailable (%s).</source>
         <translation>Psi 切换到了内部密码存储因为系统密码管理器不可用（%）。</translation>
     </message>
+    <message>
+        <source>The selected encryption method &apos;%1&apos; is not available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The selected encryption session is unavailable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The chat could not create an encryption session.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The chat encryption session was closed before the message could be retried.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption failed: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -13842,6 +14094,10 @@ Reason: %1.</source>
         <source>Paste and Send</source>
         <translation>粘贴并发送</translation>
     </message>
+    <message>
+        <source>Encryption</source>
+        <translation type="unfinished">加密</translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -13897,11 +14153,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Enable OpenPGP encryption</source>
-        <translation>启用 OpenPGP 加密</translation>
+        <translation type="vanished">启用 OpenPGP 加密</translation>
     </message>
     <message>
         <source>OpenPGP key is not set in your account settings!</source>
-        <translation>您的账号设置中未设置 OpenPGP 密钥！</translation>
+        <translation type="vanished">您的账号设置中未设置 OpenPGP 密钥！</translation>
     </message>
     <message>
         <source>Fingerprint for account &quot;%1&quot;: %2</source>
@@ -13909,11 +14165,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>OpenPGP encryption</source>
-        <translation>OpenPGP 加密</translation>
+        <translation type="vanished">OpenPGP 加密</translation>
     </message>
     <message>
         <source>Disable OpenPGP encryption</source>
-        <translation>禁用 OpenPGP 加密</translation>
+        <translation type="vanished">禁用 OpenPGP 加密</translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
@@ -13946,6 +14202,66 @@ Reason: %1.</source>
     <message>
         <source>Command</source>
         <translation>命令</translation>
+    </message>
+    <message>
+        <source>Encryption is disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption: %1 (unavailable for this contact)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encryption: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This encryption method is not available for the selected resource.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OpenPGP management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO devices and fingerprints…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own device: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Own fingerprint: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No remote OMEMO devices are known yet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remote devices:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>distrusted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>undecided</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>trusted</source>
+        <translation type="unfinished">受信任的</translation>
+    </message>
+    <message>
+        <source>OMEMO devices</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13986,7 +14302,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Set status. STATUS must be one of `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</source>
-        <comment>do not translate `online', `chat', etc; STATUS is the same as in previous string</comment>
+        <comment>do not translate `online&apos;, `chat&apos;, etc; STATUS is the same as in previous string</comment>
         <translation>设置状态。状态必须是 `online&apos;、`chat&apos;、`away&apos;、`xa&apos;、`dnd&apos;、`offline&apos; 之一。</translation>
     </message>
     <message>
@@ -14411,6 +14727,121 @@ Migration is possible with Psi-0.15</source>
     <message>
         <source>Open</source>
         <translation>打开</translation>
+    </message>
+</context>
+<context>
+    <name>PsiEncryptionController</name>
+    <message>
+        <source>Decryption failed: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not prepare session recovery: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Session recovery was not offered because the sending device is unavailable or explicitly distrusted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sent a new key exchange to %1 device %2. Future messages from it can be decrypted, but the failed message must be sent again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Session recovery failed: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Review OMEMO devices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New OMEMO device keys need a trust decision before they can be used for outgoing encrypted messages. Device names are provided by the device owner and, for OMEMO 2, verified against its identity key.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi could not decrypt a message from this device because the local session is missing. Review the device and explicitly approve creating a new session. Device names are provided by the device owner and, for OMEMO 2, verified against its identity key.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <translation type="unfinished">地址</translation>
+    </message>
+    <message>
+        <source>Profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation type="unfinished">指纹</translation>
+    </message>
+    <message>
+        <source>Unnamed device (%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 (%2)</source>
+        <translation type="unfinished">%1 (%2)</translation>
+    </message>
+    <message>
+        <source>Your account (%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This device did not publish a verifiable name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The device name was verified against this OMEMO identity key.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repair creates a fresh Double Ratchet session and sends an empty OMEMO key exchange. It cannot recover the missed message; the sender must send it again. Distrust prevents session recovery.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trust allows selected contact devices to receive encrypted messages and selected devices of your own account to decrypt message copies. Distrust excludes those devices. Not now leaves them undecided and cancels this encrypted send.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trust marks the selected sender devices as trusted. Distrust marks them as explicitly untrusted. Not now keeps the message visible but leaves the devices undecided.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trust selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trust and repair</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repair session</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distrust selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distrust device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not save the OMEMO trust decision.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO setup failed: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15753,19 +16184,27 @@ Description: </source>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
-        <translation><numerusform>%n 天</numerusform></translation>
+        <translation>
+            <numerusform>%n 天</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s) </source>
-        <translation><numerusform>%n 小时</numerusform></translation>
+        <translation>
+            <numerusform>%n 小时</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) </source>
-        <translation><numerusform>%n 分钟</numerusform></translation>
+        <translation>
+            <numerusform>%n 分钟</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>%n second(s) </source>
-        <translation><numerusform>%n 秒</numerusform></translation>
+        <translation>
+            <numerusform>%n 秒</numerusform>
+        </translation>
     </message>
     <message>
         <source>Warning</source>
@@ -15859,11 +16298,11 @@ OTR 插件将无法工作。</translation>
     </message>
     <message>
         <source>Unreadable encrypted message was received.</source>
-        <translation>收到了无法读取的加密消息。</translation>
+        <translation type="vanished">收到了无法读取的加密消息。</translation>
     </message>
     <message>
         <source>Received an encrypted message but it cannot be read because no private connection is established yet.</source>
-        <translation>收到了加密消息，但无法读取，因为尚未建立私密连接。</translation>
+        <translation type="vanished">收到了加密消息，但无法读取，因为尚未建立私密连接。</translation>
     </message>
     <message>
         <source>Received message is unreadable.</source>
@@ -15871,7 +16310,7 @@ OTR 插件将无法工作。</translation>
     </message>
     <message>
         <source>Received message contains malformed data.</source>
-        <translation>收到的消息包含格式错误的数据。</translation>
+        <translation type="vanished">收到的消息包含格式错误的数据。</translation>
     </message>
     <message>
         <source>You have received a new fingerprint from %1:
@@ -16349,6 +16788,98 @@ Thanks for your patience.</source>
         <source>Audio and video device configuration</source>
         <translation>音频和视频设备配置</translation>
     </message>
+    <message>
+        <source>The OTR profile could not be loaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot initialize OTR for this account: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot save OTR fingerprint: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remote OTR protocol error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Received message contains malformed OTR data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot update OTR fingerprint trust: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot delete OTR fingerprint: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot delete OTR private key: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not start an OTR session.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OTR encryption session was cancelled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OTR requires a recipient</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The OTR session with %1 is not established yet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not encrypt the message with OTR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OTR decryption session was cancelled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The stanza was not a valid OTR message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OTR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distrusted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Undecided</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trusted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Legacy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OMEMO 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Legacy OMEMO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -16462,8 +16993,10 @@ Reason: %1</source>
     <message numerus="yes">
         <source>celebrates birthday in %n day(s)
 </source>
-        <translation><numerusform>在 %n 天后庆祝生日
-</numerusform></translation>
+        <translation>
+            <numerusform>在 %n 天后庆祝生日
+</numerusform>
+        </translation>
     </message>
     <message>
         <source>celebrates birthday yesterday.
@@ -16867,7 +17400,9 @@ Reason: %1</source>
     </message>
     <message numerus="yes">
         <source>Added %n users to your roster.</source>
-        <translation><numerusform>%n 位用户已添加到您的联系人列表。</numerusform></translation>
+        <translation>
+            <numerusform>%n 位用户已添加到您的联系人列表。</numerusform>
+        </translation>
     </message>
     <message>
         <source>Added %1 to your roster.</source>
@@ -18271,7 +18806,7 @@ Please correct and try again.</source>
         <source>You can type these special commands in chat and groupchat dialogs:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; to clear chat view&lt;/li&gt;
-&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; '/me' is replaced by your nick&lt;/li&gt;
+&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; &apos;/me&apos; is replaced by your nick&lt;/li&gt;
 &lt;/ul&gt;
 And these work only in groupchat dialog:
 &lt;ul&gt;
@@ -19179,7 +19714,7 @@ Do you still want to close the window?</source>
     <name>XMPP::ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation>提供的机制：</translation>
+        <translation type="vanished">提供的机制：</translation>
     </message>
 </context>
 <context>
@@ -20743,7 +21278,7 @@ Reathorization...</source>
 重新授权…</translation>
     </message>
     <message>
-        <source>Can't get files!
+        <source>Can&apos;t get files!
 Try remove cookies.</source>
         <translation>无法获取文件！
 尝试移除 Cookie。</translation>
@@ -20834,7 +21369,7 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
