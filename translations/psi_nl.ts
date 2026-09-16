@@ -10419,7 +10419,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished">Klaar</translation>
+        <translation>Klaar</translation>
     </message>
     <message>
         <source>Not set up</source>
@@ -13006,7 +13006,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Verder</translation>
+        <translation>Verder</translation>
     </message>
 </context>
 <context>
@@ -13278,7 +13278,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished">Adres</translation>
+        <translation>Adres</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -17981,7 +17981,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Policy violation</source>
-        <translation type="unfinished">Beleidsovertreding</translation>
+        <translation>Beleidsovertreding</translation>
     </message>
     <message>
         <source>The sender has violated some service policy.</source>

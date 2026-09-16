@@ -2469,7 +2469,7 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation type="unfinished">Ұсынылатын механизмдері:</translation>
+        <translation>Ұсынылатын механизмдері:</translation>
     </message>
 </context>
 <context>
@@ -10453,7 +10453,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished">Дайын</translation>
+        <translation>Дайын</translation>
     </message>
     <message>
         <source>Not set up</source>
@@ -13353,7 +13353,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished">Адресі</translation>
+        <translation>Адресі</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -13369,7 +13369,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Your account (%1)</source>

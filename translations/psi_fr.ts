@@ -2695,7 +2695,7 @@ Il est possible de prévisualiser les éléments avant de les supprimer.</transl
     <name>ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation type="unfinished">Mécanismes proposés :</translation>
+        <translation>Mécanismes proposés :</translation>
     </message>
 </context>
 <context>
@@ -11261,7 +11261,7 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished">Compte:</translation>
+        <translation>Compte:</translation>
     </message>
     <message>
         <source>Review every identity before trusting it. Trusted devices can receive encrypted messages; distrusted devices are excluded.</source>
@@ -11269,7 +11269,7 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">Utilisateur</translation>
+        <translation>Utilisateur</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -11285,7 +11285,7 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Empreinte</translation>
+        <translation>Empreinte</translation>
     </message>
     <message>
         <source>Do not trust</source>
@@ -11293,7 +11293,7 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">Copier l&apos;empreinte</translation>
+        <translation>Copier l&apos;empreinte</translation>
     </message>
     <message>
         <source>Known keys</source>
@@ -11357,7 +11357,7 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">Configuration</translation>
+        <translation>Configuration</translation>
     </message>
     <message>
         <source>Publishing OMEMO keys…</source>
@@ -11397,7 +11397,7 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished">Prêt</translation>
+        <translation>Prêt</translation>
     </message>
     <message>
         <source>Not set up</source>
@@ -14458,7 +14458,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished">Adresse</translation>
+        <translation>Adresse</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -14466,7 +14466,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Empreinte</translation>
+        <translation>Empreinte</translation>
     </message>
     <message>
         <source>Unnamed device (%1)</source>
@@ -14474,7 +14474,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2) </translation>
     </message>
     <message>
         <source>Your account (%1)</source>
@@ -14799,7 +14799,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Option Editor</source>
-        <translation type="unfinished">Editeur d&apos;options</translation>
+        <translation>Editeur d&apos;options</translation>
     </message>
 </context>
 <context>

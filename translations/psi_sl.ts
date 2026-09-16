@@ -10766,7 +10766,7 @@ Ime ne sme biti prazno, se ne sme končati s ».« ali vsebovati »..«.</transl
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished">Pripravljen</translation>
+        <translation>Pripravljen</translation>
     </message>
     <message>
         <source>Not set up</source>
@@ -13711,7 +13711,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished">Naslov</translation>
+        <translation>Naslov</translation>
     </message>
     <message>
         <source>Profile</source>

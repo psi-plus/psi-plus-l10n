@@ -11159,7 +11159,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished">Nalog:</translation>
+        <translation>Nalog:</translation>
     </message>
     <message>
         <source>Review every identity before trusting it. Trusted devices can receive encrypted messages; distrusted devices are excluded.</source>
@@ -11167,7 +11167,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">Korisnik</translation>
+        <translation>Korisnik</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -11183,7 +11183,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Otisak</translation>
+        <translation>Otisak</translation>
     </message>
     <message>
         <source>Do not trust</source>
@@ -11191,7 +11191,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">Kopiraj otisak</translation>
+        <translation>Kopiraj otisak</translation>
     </message>
     <message>
         <source>Known keys</source>
@@ -11255,7 +11255,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">Konfiguracija</translation>
+        <translation>Konfiguracija</translation>
     </message>
     <message>
         <source>Publishing OMEMO keys…</source>
@@ -11295,7 +11295,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished">Spreman</translation>
+        <translation>Spreman</translation>
     </message>
     <message>
         <source>Not set up</source>
@@ -13708,7 +13708,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished">Enkripcija</translation>
+        <translation>Enkripcija</translation>
     </message>
 </context>
 <context>
@@ -14357,7 +14357,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished">Adresa</translation>
+        <translation>Adresa</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -14365,7 +14365,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Otisak</translation>
+        <translation>Otisak</translation>
     </message>
     <message>
         <source>Unnamed device (%1)</source>
@@ -14373,7 +14373,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Your account (%1)</source>
@@ -14688,7 +14688,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Option Editor</source>
-        <translation type="unfinished">Opcije editora</translation>
+        <translation>Opcije editora</translation>
     </message>
 </context>
 <context>

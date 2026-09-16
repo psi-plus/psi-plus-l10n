@@ -10515,7 +10515,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished">Подготвено</translation>
+        <translation>Подготвено</translation>
     </message>
     <message>
         <source>Not set up</source>
@@ -13138,7 +13138,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Напред</translation>
+        <translation>Напред</translation>
     </message>
 </context>
 <context>
@@ -13375,7 +13375,7 @@ Migration is possible with Psi-0.15</source>
     <name>PsiDBusNotifier</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Отвори</translation>
+        <translation>Отвори</translation>
     </message>
 </context>
 <context>
@@ -13418,7 +13418,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished">Адреса</translation>
+        <translation>Адреса</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -18212,7 +18212,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Policy violation</source>
-        <translation type="unfinished">Прекршување на политиката</translation>
+        <translation>Прекршување на политиката</translation>
     </message>
     <message>
         <source>The sender has violated some service policy.</source>

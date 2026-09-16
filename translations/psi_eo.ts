@@ -10475,7 +10475,7 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished">Pretas</translation>
+        <translation>Pretas</translation>
     </message>
     <message>
         <source>Not set up</source>
@@ -13084,7 +13084,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Antaŭen</translation>
+        <translation>Antaŭen</translation>
     </message>
 </context>
 <context>
@@ -13356,7 +13356,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished">Adreso</translation>
+        <translation>Adreso</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -18140,7 +18140,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Policy violation</source>
-        <translation type="unfinished">Politika transpaso</translation>
+        <translation>Politika transpaso</translation>
     </message>
     <message>
         <source>The sender has violated some service policy.</source>

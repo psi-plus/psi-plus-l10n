@@ -2623,7 +2623,7 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation type="unfinished">מנגנונים מוצעים: </translation>
+        <translation>מנגנונים מוצעים: </translation>
     </message>
 </context>
 <context>
@@ -10957,7 +10957,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished"></translation>
+        <translation>חשבון:</translation>
     </message>
     <message>
         <source>Review every identity before trusting it. Trusted devices can receive encrypted messages; distrusted devices are excluded.</source>
@@ -10965,7 +10965,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">משתמש</translation>
+        <translation>משתמש</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -10981,7 +10981,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">טביעת אצבע</translation>
+        <translation>טביעת אצבע</translation>
     </message>
     <message>
         <source>Do not trust</source>
@@ -10989,7 +10989,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">העתקת טביעת אצבע</translation>
+        <translation>העתקת טביעת אצבע</translation>
     </message>
     <message>
         <source>Known keys</source>
@@ -11053,7 +11053,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">תצורה</translation>
+        <translation>תצורה</translation>
     </message>
     <message>
         <source>Publishing OMEMO keys…</source>
@@ -11093,7 +11093,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished">מוכן</translation>
+        <translation>מוכן</translation>
     </message>
     <message>
         <source>Not set up</source>
@@ -14125,7 +14125,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished">כתובת</translation>
+        <translation>כתובת</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -14133,7 +14133,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">טביעת אצבע</translation>
+        <translation>טביעת אצבע</translation>
     </message>
     <message>
         <source>Unnamed device (%1)</source>
@@ -14465,7 +14465,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Option Editor</source>
-        <translation type="unfinished">עורך אפשרויות</translation>
+        <translation>עורך אפשרויות</translation>
     </message>
 </context>
 <context>

@@ -10626,7 +10626,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished">تیار</translation>
+        <translation>تیار</translation>
     </message>
     <message>
         <source>Not set up</source>
@@ -13567,7 +13567,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished">پتہ</translation>
+        <translation>پتہ</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -13583,7 +13583,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Your account (%1)</source>

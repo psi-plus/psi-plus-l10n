@@ -10419,7 +10419,7 @@ Activi aquesta opció per a emergir-los de totes formes.</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished">A punt</translation>
+        <translation>A punt</translation>
     </message>
     <message>
         <source>Not set up</source>
@@ -13006,7 +13006,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Endavant</translation>
+        <translation>Endavant</translation>
     </message>
 </context>
 <context>
@@ -13278,7 +13278,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished">Adreça</translation>
+        <translation>Adreça</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -17982,7 +17982,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Policy violation</source>
-        <translation type="unfinished">Violació de política</translation>
+        <translation>Violació de política</translation>
     </message>
     <message>
         <source>The sender has violated some service policy.</source>

@@ -2719,7 +2719,7 @@ Můžete si položky prohlédnout před tím, než je smažete.</translation>
     <name>ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation type="unfinished">Navržený mechanismus: </translation>
+        <translation>Navržené mechanismy: </translation>
     </message>
 </context>
 <context>
@@ -11457,7 +11457,7 @@ zprávy v chatu víde lidí)</translation>
     <name>OptionsTabSecurity</name>
     <message>
         <source>Security</source>
-        <translation type="unfinished">Bezpečnost</translation>
+        <translation>Bezpečnost</translation>
     </message>
     <message>
         <source>Encryption methods and key management</source>
@@ -11465,7 +11465,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished"></translation>
+        <translation>Účet:</translation>
     </message>
     <message>
         <source>Review every identity before trusting it. Trusted devices can receive encrypted messages; distrusted devices are excluded.</source>
@@ -11473,11 +11473,11 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">Uživatel</translation>
+        <translation>Uživatel</translation>
     </message>
     <message>
         <source>Device ID</source>
-        <translation type="unfinished">ID zařízení</translation>
+        <translation>ID zařízení</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -11485,19 +11485,19 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished">Důvěra</translation>
+        <translation>Důvěra</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Otisk klíče</translation>
+        <translation>Otisk klíče</translation>
     </message>
     <message>
         <source>Do not trust</source>
-        <translation type="unfinished">Nedůvěřovat</translation>
+        <translation>Nedůvěřovat</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">Kopírovat otisk klíče</translation>
+        <translation>Kopírovat otisk klíče</translation>
     </message>
     <message>
         <source>Known keys</source>
@@ -11505,7 +11505,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Current device</source>
-        <translation type="unfinished">Současné zařízení</translation>
+        <translation>Současné zařízení</translation>
     </message>
     <message>
         <source>Device ID:</source>
@@ -11541,19 +11541,19 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>OMEMO encryption policy</source>
-        <translation type="unfinished">Politika šifrování OMEMO</translation>
+        <translation>Politika šifrování OMEMO</translation>
     </message>
     <message>
         <source>Always enabled</source>
-        <translation type="unfinished">Vždy povoleno</translation>
+        <translation>Vždy povoleno</translation>
     </message>
     <message>
         <source>Enabled by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Výchozí povoleno</translation>
     </message>
     <message>
         <source>Disabled by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Výchozí zakázáno</translation>
     </message>
     <message>
         <source>This is the global default for new chats. A method selected in an individual chat overrides it for that contact. New OMEMO identities always require an explicit trust decision.</source>
@@ -11561,7 +11561,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">Konfigurace</translation>
+        <translation>Konfigurace</translation>
     </message>
     <message>
         <source>Publishing OMEMO keys…</source>
@@ -11601,7 +11601,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished">Připraven</translation>
+        <translation>Připraven</translation>
     </message>
     <message>
         <source>Not set up</source>
@@ -14058,7 +14058,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished">Šifrování</translation>
+        <translation>Šifrování</translation>
     </message>
 </context>
 <context>
@@ -14167,7 +14167,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Encryption is disabled</source>
-        <translation type="unfinished">Šifrování je vypnuté</translation>
+        <translation>Šifrování je vypnuté</translation>
     </message>
     <message>
         <source>Encryption: %1 (unavailable for this contact)</source>
@@ -14219,7 +14219,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>trusted</source>
-        <translation type="unfinished">důvěryhodný</translation>
+        <translation>důvěryhodný</translation>
     </message>
     <message>
         <source>OMEMO devices</source>
@@ -14731,7 +14731,7 @@ Migrace je možná s Psi-0.15</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished">Adresa</translation>
+        <translation>Adresa</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -14739,7 +14739,7 @@ Migrace je možná s Psi-0.15</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Otisk klíče</translation>
+        <translation>Otisk klíče</translation>
     </message>
     <message>
         <source>Unnamed device (%1)</source>
@@ -14747,7 +14747,7 @@ Migrace je možná s Psi-0.15</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Your account (%1)</source>
@@ -15073,7 +15073,7 @@ Chceš aktivovat tuto relaci?</translation>
     </message>
     <message>
         <source>Option Editor</source>
-        <translation type="unfinished">Editor Nastavení</translation>
+        <translation>Editor Nastavení</translation>
     </message>
 </context>
 <context>

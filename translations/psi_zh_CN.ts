@@ -2719,7 +2719,7 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation type="unfinished">提供的机制：</translation>
+        <translation>提供的机制：</translation>
     </message>
 </context>
 <context>
@@ -11492,7 +11492,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabSecurity</name>
     <message>
         <source>Security</source>
-        <translation type="unfinished">安全</translation>
+        <translation>安全</translation>
     </message>
     <message>
         <source>Encryption methods and key management</source>
@@ -11500,7 +11500,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished">账号：</translation>
+        <translation>账号：</translation>
     </message>
     <message>
         <source>Review every identity before trusting it. Trusted devices can receive encrypted messages; distrusted devices are excluded.</source>
@@ -11508,11 +11508,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">用户</translation>
+        <translation>用户</translation>
     </message>
     <message>
         <source>Device ID</source>
-        <translation type="unfinished">设备 ID</translation>
+        <translation>设备 ID</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -11520,19 +11520,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished">信任</translation>
+        <translation>信任</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">指纹</translation>
+        <translation>指纹</translation>
     </message>
     <message>
         <source>Do not trust</source>
-        <translation type="unfinished">不信任</translation>
+        <translation>不信任</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">复制指纹</translation>
+        <translation>复制指纹</translation>
     </message>
     <message>
         <source>Known keys</source>
@@ -11540,7 +11540,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Current device</source>
-        <translation type="unfinished">当前设备</translation>
+        <translation>当前设备</translation>
     </message>
     <message>
         <source>Device ID:</source>
@@ -11576,19 +11576,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>OMEMO encryption policy</source>
-        <translation type="unfinished">OMEMO 加密策略</translation>
+        <translation>OMEMO 加密策略</translation>
     </message>
     <message>
         <source>Always enabled</source>
-        <translation type="unfinished">始终启用</translation>
+        <translation>始终启用</translation>
     </message>
     <message>
         <source>Enabled by default</source>
-        <translation type="unfinished">默认启用</translation>
+        <translation>默认启用</translation>
     </message>
     <message>
         <source>Disabled by default</source>
-        <translation type="unfinished">默认禁用</translation>
+        <translation>默认禁用</translation>
     </message>
     <message>
         <source>This is the global default for new chats. A method selected in an individual chat overrides it for that contact. New OMEMO identities always require an explicit trust decision.</source>
@@ -11596,7 +11596,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">配置</translation>
+        <translation>配置</translation>
     </message>
     <message>
         <source>Publishing OMEMO keys…</source>
@@ -11604,7 +11604,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Psi will verify this account&apos;s OMEMO 2 device list and bundles. A broken bundle for this device will be republished. A broken bundle belonging to another device will be retracted and that device will stop receiving new encrypted messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi 将验证该账号的 OMEMO 2设备列表和捆绑。此设备坏掉的捆绑将被重新发布。属于另一台设备的坏掉的捆绑将被撤回，那台设备将停止接收新的加密消息。</translation>
     </message>
     <message>
         <source>Checking OMEMO PEP data…</source>
@@ -11624,7 +11624,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>The selected device will stop receiving new encrypted messages. Its published bundle will remain on the server.</source>
-        <translation type="unfinished"></translation>
+        <translation>所选设备将停止接收新的加密消息。其已发布的捆绑将留在服务器上。</translation>
     </message>
     <message>
         <source>Select an account to manage its encryption settings.</source>
@@ -11636,7 +11636,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished">就绪</translation>
+        <translation>就绪</translation>
     </message>
     <message>
         <source>Not set up</source>
@@ -11652,7 +11652,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Manage the selected account&apos;s encryption methods, keys and trust decisions.</source>
-        <translation type="unfinished"></translation>
+        <translation>管理所选账号的加密方式、密钥和信任决定。</translation>
     </message>
     <message>
         <source>OMEMO is unavailable in this build.</source>
@@ -13541,7 +13541,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>The chat encryption session was closed before the message could be retried.</source>
-        <translation type="unfinished"></translation>
+        <translation>该聊天加密会话在能重试消息前被关闭。</translation>
     </message>
     <message>
         <source>Encryption failed: %1</source>
@@ -14096,7 +14096,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished">加密</translation>
+        <translation>加密</translation>
     </message>
 </context>
 <context>
@@ -14205,7 +14205,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Encryption is disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>加密已禁用</translation>
     </message>
     <message>
         <source>Encryption: %1 (unavailable for this contact)</source>
@@ -14257,7 +14257,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>trusted</source>
-        <translation type="unfinished">受信任的</translation>
+        <translation>受信任的</translation>
     </message>
     <message>
         <source>OMEMO devices</source>
@@ -14741,11 +14741,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Session recovery was not offered because the sending device is unavailable or explicitly distrusted.</source>
-        <translation type="unfinished"></translation>
+        <translation>未提供会话恢复，因发送设备不可用或明确不可信。</translation>
     </message>
     <message>
         <source>Sent a new key exchange to %1 device %2. Future messages from it can be decrypted, but the failed message must be sent again.</source>
-        <translation type="unfinished"></translation>
+        <translation>发送新的密钥交换到 %1 设备 %2。可解密来自它的未来消息，但失败的消息必须再次发送。</translation>
     </message>
     <message>
         <source>Session recovery failed: %1</source>
@@ -14757,11 +14757,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>New OMEMO device keys need a trust decision before they can be used for outgoing encrypted messages. Device names are provided by the device owner and, for OMEMO 2, verified against its identity key.</source>
-        <translation type="unfinished"></translation>
+        <translation>新 OMEMO 设备密钥在能被用于对外发送的加密消息前需要一个信任决定。设备名将与其身份密钥进行对比验证（OMEMO 2) 并由设备所有者提供。</translation>
     </message>
     <message>
         <source>Psi could not decrypt a message from this device because the local session is missing. Review the device and explicitly approve creating a new session. Device names are provided by the device owner and, for OMEMO 2, verified against its identity key.</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi 无法解密来自此设备的一条消息，因为本地会话缺失。查看该设备并明确批准创建新的会话。设备名将与其身份密钥进行对比验证（OMEMO 2）并由设备所有者提供。</translation>
     </message>
     <message>
         <source>Device</source>
@@ -14769,7 +14769,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished">地址</translation>
+        <translation>地址</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -14777,7 +14777,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">指纹</translation>
+        <translation>指纹</translation>
     </message>
     <message>
         <source>Unnamed device (%1)</source>
@@ -14785,7 +14785,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Your account (%1)</source>
@@ -14801,15 +14801,15 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Repair creates a fresh Double Ratchet session and sends an empty OMEMO key exchange. It cannot recover the missed message; the sender must send it again. Distrust prevents session recovery.</source>
-        <translation type="unfinished"></translation>
+        <translation>“修复”创建新的“双棘轮”会话并发送空的 OMEMO 密钥交换。它无法恢复错过的消息；发送者必须再次发送它。“不信任”阻止会话恢复。</translation>
     </message>
     <message>
         <source>Trust allows selected contact devices to receive encrypted messages and selected devices of your own account to decrypt message copies. Distrust excludes those devices. Not now leaves them undecided and cancels this encrypted send.</source>
-        <translation type="unfinished"></translation>
+        <translation>“信任”允许所选联系人设备接收加密消息，允许您本人账号的所选设备解密消息副本。“不信任”排除这些设备。“不是现在”不决定这些设备是否可信并取消此加密发送。</translation>
     </message>
     <message>
         <source>Trust marks the selected sender devices as trusted. Distrust marks them as explicitly untrusted. Not now keeps the message visible but leaves the devices undecided.</source>
-        <translation type="unfinished"></translation>
+        <translation>“信任”将选中的发送者设备标记为信任。“不信任”将它们标记为明确不可信。“不是现在”保持消息可见但不决定设备是否可信。</translation>
     </message>
     <message>
         <source>Trust selected</source>

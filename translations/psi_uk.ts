@@ -2735,7 +2735,7 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation type="unfinished">Пропонуємі механізми: </translation>
+        <translation>Пропоновані механізми: </translation>
     </message>
 </context>
 <context>
@@ -11517,7 +11517,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabSecurity</name>
     <message>
         <source>Security</source>
-        <translation type="unfinished">Безпека</translation>
+        <translation>Безпека</translation>
     </message>
     <message>
         <source>Encryption methods and key management</source>
@@ -11525,7 +11525,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished">Акаунт:</translation>
+        <translation>Акаунт:</translation>
     </message>
     <message>
         <source>Review every identity before trusting it. Trusted devices can receive encrypted messages; distrusted devices are excluded.</source>
@@ -11533,11 +11533,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">Користувач</translation>
+        <translation>Користувач</translation>
     </message>
     <message>
         <source>Device ID</source>
-        <translation type="unfinished">ID пристрою</translation>
+        <translation>ID пристрою</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -11545,19 +11545,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished">Довіряти</translation>
+        <translation>Довіряти</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Відбиток</translation>
+        <translation>Відбиток</translation>
     </message>
     <message>
         <source>Do not trust</source>
-        <translation type="unfinished">Не довіряти</translation>
+        <translation>Не довіряти</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">Копіювати відбиток</translation>
+        <translation>Копіювати відбиток</translation>
     </message>
     <message>
         <source>Known keys</source>
@@ -11565,7 +11565,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Current device</source>
-        <translation type="unfinished">Поточний пристрій</translation>
+        <translation>Поточний пристрій</translation>
     </message>
     <message>
         <source>Device ID:</source>
@@ -11601,19 +11601,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>OMEMO encryption policy</source>
-        <translation type="unfinished">Політика шифрування OMEMO</translation>
+        <translation>Політика шифрування OMEMO</translation>
     </message>
     <message>
         <source>Always enabled</source>
-        <translation type="unfinished">Завжди увімкнено</translation>
+        <translation>Завжди увімкнено</translation>
     </message>
     <message>
         <source>Enabled by default</source>
-        <translation type="unfinished">Увімкнено за замовчуванням</translation>
+        <translation>Увімкнено за замовчуванням</translation>
     </message>
     <message>
         <source>Disabled by default</source>
-        <translation type="unfinished">Вимкнено за замовчуванням</translation>
+        <translation>Вимкнено за замовчуванням</translation>
     </message>
     <message>
         <source>This is the global default for new chats. A method selected in an individual chat overrides it for that contact. New OMEMO identities always require an explicit trust decision.</source>
@@ -11621,7 +11621,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">Налаштування</translation>
+        <translation>Налаштування</translation>
     </message>
     <message>
         <source>Publishing OMEMO keys…</source>
@@ -11661,7 +11661,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished"></translation>
+        <translation>Готовий</translation>
     </message>
     <message>
         <source>Not set up</source>
@@ -14123,7 +14123,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished">Шифрування</translation>
+        <translation>Шифрування</translation>
     </message>
 </context>
 <context>
@@ -14232,7 +14232,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Encryption is disabled</source>
-        <translation type="unfinished">Шифрування вимкнено</translation>
+        <translation>Шифрування вимкнено</translation>
     </message>
     <message>
         <source>Encryption: %1 (unavailable for this contact)</source>
@@ -14284,7 +14284,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>trusted</source>
-        <translation type="unfinished">довірений</translation>
+        <translation>довірений</translation>
     </message>
     <message>
         <source>OMEMO devices</source>
@@ -14796,7 +14796,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished">Адреса</translation>
+        <translation>Адреса</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -14804,7 +14804,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Відбиток</translation>
+        <translation>Відбиток</translation>
     </message>
     <message>
         <source>Unnamed device (%1)</source>
@@ -14812,7 +14812,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Your account (%1)</source>

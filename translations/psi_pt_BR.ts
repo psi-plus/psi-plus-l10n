@@ -2706,7 +2706,7 @@ Você poderá pré-visualizar os itens antes de remove-los de seu hd.</translati
     <name>ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation type="unfinished">Mecanismo Oferecidos: </translation>
+        <translation>Mecanismo Oferecidos: </translation>
     </message>
 </context>
 <context>
@@ -11409,7 +11409,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished">Conta:</translation>
+        <translation>Conta:</translation>
     </message>
     <message>
         <source>Review every identity before trusting it. Trusted devices can receive encrypted messages; distrusted devices are excluded.</source>
@@ -11417,7 +11417,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">Usuário</translation>
+        <translation>Usuário</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -11433,7 +11433,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished"></translation>
+        <translation>Impressão Digital</translation>
     </message>
     <message>
         <source>Do not trust</source>
@@ -11441,7 +11441,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">Copiar impressão digital</translation>
+        <translation>Copiar impressão digital</translation>
     </message>
     <message>
         <source>Known keys</source>
@@ -11485,7 +11485,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>OMEMO encryption policy</source>
-        <translation type="unfinished">Política de criptografia da OMEMO</translation>
+        <translation>Política de criptografia da OMEMO</translation>
     </message>
     <message>
         <source>Always enabled</source>
@@ -11505,7 +11505,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">Configuração</translation>
+        <translation>Configuração</translation>
     </message>
     <message>
         <source>Publishing OMEMO keys…</source>
@@ -11545,7 +11545,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished">Pronto</translation>
+        <translation>Pronto</translation>
     </message>
     <message>
         <source>Not set up</source>
@@ -13980,7 +13980,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished">Criptografia</translation>
+        <translation>Criptografia</translation>
     </message>
 </context>
 <context>
@@ -14646,7 +14646,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished">Endereço</translation>
+        <translation>Endereço</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -14654,7 +14654,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished"></translation>
+        <translation>Impressão Digital</translation>
     </message>
     <message>
         <source>Unnamed device (%1)</source>
@@ -14662,7 +14662,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Your account (%1)</source>
@@ -14988,7 +14988,7 @@ Gostaria de ativar a sessão agora?</translation>
     </message>
     <message>
         <source>Option Editor</source>
-        <translation type="unfinished">Abrir Editor</translation>
+        <translation>Abrir Editor</translation>
     </message>
 </context>
 <context>

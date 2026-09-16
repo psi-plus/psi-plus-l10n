@@ -2696,7 +2696,7 @@ Az elemeket megtekintheted, mielőtt törlöd őket a merevlemezről.</translati
     <name>ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation type="unfinished">Felkínált működések:</translation>
+        <translation>Felajánlott mechanizmusok:</translation>
     </message>
 </context>
 <context>
@@ -11403,7 +11403,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished">Fiók:</translation>
+        <translation>Fiók:</translation>
     </message>
     <message>
         <source>Review every identity before trusting it. Trusted devices can receive encrypted messages; distrusted devices are excluded.</source>
@@ -11411,7 +11411,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">Felhasználó</translation>
+        <translation>Felhasználó</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -11427,7 +11427,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Ujjlenyomat</translation>
+        <translation>Ujjlenyomat</translation>
     </message>
     <message>
         <source>Do not trust</source>
@@ -11499,7 +11499,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">Beállítások</translation>
+        <translation>Beállítások</translation>
     </message>
     <message>
         <source>Publishing OMEMO keys…</source>
@@ -11539,7 +11539,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished">Kész</translation>
+        <translation>Kész</translation>
     </message>
     <message>
         <source>Not set up</source>
@@ -14630,7 +14630,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished">Cím</translation>
+        <translation>Cím</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -14638,7 +14638,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Ujjlenyomat</translation>
+        <translation>Ujjlenyomat</translation>
     </message>
     <message>
         <source>Unnamed device (%1)</source>
@@ -14646,7 +14646,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Your account (%1)</source>
@@ -14972,7 +14972,7 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
     </message>
     <message>
         <source>Option Editor</source>
-        <translation type="unfinished">Beállítás szerkesztő</translation>
+        <translation>Beállítás szerkesztő</translation>
     </message>
 </context>
 <context>

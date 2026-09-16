@@ -2643,7 +2643,7 @@ Można obejrzeć elementy przed ich usunięciem z dysku twardego.</translation>
     <name>ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation type="unfinished">Oferowane mechanizmy:</translation>
+        <translation>Oferowane mechanizmy:</translation>
     </message>
 </context>
 <context>
@@ -11187,7 +11187,7 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished"></translation>
+        <translation>Gotowy</translation>
     </message>
     <message>
         <source>Not set up</source>
@@ -13514,7 +13514,7 @@ Przyczyna: %1.</translation>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished">Kodowanie</translation>
+        <translation>Kodowanie</translation>
     </message>
 </context>
 <context>
@@ -14156,7 +14156,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished">Adres</translation>
+        <translation>Adres</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -14172,7 +14172,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Your account (%1)</source>

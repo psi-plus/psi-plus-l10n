@@ -2719,7 +2719,7 @@ Mund të bëni paraparje të objekteve, përpara se t’i fshini nga disku juaj.
     <name>ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation type="unfinished">Mekanizma të ofruar: </translation>
+        <translation>Mekanizma të ofruar: </translation>
     </message>
 </context>
 <context>
@@ -11195,7 +11195,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <name>OptionsTabSecurity</name>
     <message>
         <source>Security</source>
-        <translation type="unfinished">Siguri</translation>
+        <translation>Siguri</translation>
     </message>
     <message>
         <source>Encryption methods and key management</source>
@@ -11203,7 +11203,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished">Llogari:</translation>
+        <translation>Llogari:</translation>
     </message>
     <message>
         <source>Review every identity before trusting it. Trusted devices can receive encrypted messages; distrusted devices are excluded.</source>
@@ -11211,11 +11211,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">Përdorues</translation>
+        <translation>Përdorues</translation>
     </message>
     <message>
         <source>Device ID</source>
-        <translation type="unfinished">ID Pajisjeje</translation>
+        <translation>ID Pajisjeje</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -11223,19 +11223,19 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished"></translation>
+        <translation>Besim</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Shenja gishtash</translation>
+        <translation>Shenja gishtash</translation>
     </message>
     <message>
         <source>Do not trust</source>
-        <translation type="unfinished">Mos i zër besë</translation>
+        <translation>Mos i zër besë</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">Kopjo shenja gishtash</translation>
+        <translation>Kopjo shenja gishtash</translation>
     </message>
     <message>
         <source>Known keys</source>
@@ -11243,7 +11243,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Current device</source>
-        <translation type="unfinished">Pajisja e tanishme</translation>
+        <translation>Pajisja e tanishme</translation>
     </message>
     <message>
         <source>Device ID:</source>
@@ -11279,19 +11279,19 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>OMEMO encryption policy</source>
-        <translation type="unfinished">Rregulla fshehtëzimi OMEMO</translation>
+        <translation>Rregulla fshehtëzimi OMEMO</translation>
     </message>
     <message>
         <source>Always enabled</source>
-        <translation type="unfinished">Përherë e aktivizuar</translation>
+        <translation>Përherë e aktivizuar</translation>
     </message>
     <message>
         <source>Enabled by default</source>
-        <translation type="unfinished">E aktivizuar, si parazgjedhje</translation>
+        <translation>E aktivizuar, si parazgjedhje</translation>
     </message>
     <message>
         <source>Disabled by default</source>
-        <translation type="unfinished">E çaktivizuar, si parazgjedhje</translation>
+        <translation>E çaktivizuar, si parazgjedhje</translation>
     </message>
     <message>
         <source>This is the global default for new chats. A method selected in an individual chat overrides it for that contact. New OMEMO identities always require an explicit trust decision.</source>
@@ -11299,7 +11299,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">Formësim</translation>
+        <translation>Formësim</translation>
     </message>
     <message>
         <source>Publishing OMEMO keys…</source>
@@ -11339,7 +11339,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished">Gati</translation>
+        <translation>Gati</translation>
     </message>
     <message>
         <source>Not set up</source>
@@ -13709,7 +13709,7 @@ Arsye: %1.</translation>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished">Fshehtëzim</translation>
+        <translation>Fshehtëzim</translation>
     </message>
 </context>
 <context>
@@ -13814,7 +13814,7 @@ Arsye: %1.</translation>
     </message>
     <message>
         <source>Encryption is disabled</source>
-        <translation type="unfinished">Fshehtëzimi është i çaktivizuar</translation>
+        <translation>Fshehtëzimi është i çaktivizuar</translation>
     </message>
     <message>
         <source>Encryption: %1 (unavailable for this contact)</source>
@@ -13866,7 +13866,7 @@ Arsye: %1.</translation>
     </message>
     <message>
         <source>trusted</source>
-        <translation type="unfinished">i besuar</translation>
+        <translation>i besuar</translation>
     </message>
     <message>
         <source>OMEMO devices</source>
@@ -14362,7 +14362,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished">Adresë</translation>
+        <translation>Adresë</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -14370,7 +14370,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Shenja gishtash</translation>
+        <translation>Shenja gishtash</translation>
     </message>
     <message>
         <source>Unnamed device (%1)</source>
@@ -14378,7 +14378,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Your account (%1)</source>

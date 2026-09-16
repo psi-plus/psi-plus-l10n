@@ -2667,7 +2667,7 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation type="unfinished">提示されたメカニズム:</translation>
+        <translation>提示されたメカニズム:</translation>
     </message>
 </context>
 <context>
@@ -10996,7 +10996,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished">アカウント:</translation>
+        <translation>アカウント:</translation>
     </message>
     <message>
         <source>Review every identity before trusting it. Trusted devices can receive encrypted messages; distrusted devices are excluded.</source>
@@ -11004,7 +11004,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">ユーザー</translation>
+        <translation>ユーザー</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -11072,19 +11072,19 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>OMEMO encryption policy</source>
-        <translation type="unfinished">OMEMO暗号化方針</translation>
+        <translation>OMEMO暗号化方針</translation>
     </message>
     <message>
         <source>Always enabled</source>
-        <translation type="unfinished">常に有効化</translation>
+        <translation>常に有効化</translation>
     </message>
     <message>
         <source>Enabled by default</source>
-        <translation type="unfinished">規定では有効化</translation>
+        <translation>規定では有効化</translation>
     </message>
     <message>
         <source>Disabled by default</source>
-        <translation type="unfinished">規定では無効化</translation>
+        <translation>規定では無効化</translation>
     </message>
     <message>
         <source>This is the global default for new chats. A method selected in an individual chat overrides it for that contact. New OMEMO identities always require an explicit trust decision.</source>
@@ -11092,7 +11092,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">設定</translation>
+        <translation>設定</translation>
     </message>
     <message>
         <source>Publishing OMEMO keys…</source>
@@ -11132,7 +11132,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished">準備</translation>
+        <translation>準備</translation>
     </message>
     <message>
         <source>Not set up</source>
@@ -13479,7 +13479,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished">暗号化</translation>
+        <translation>暗号化</translation>
     </message>
 </context>
 <context>
@@ -14125,7 +14125,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished">住所</translation>
+        <translation>住所</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -14141,7 +14141,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Your account (%1)</source>

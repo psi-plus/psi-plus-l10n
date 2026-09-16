@@ -2608,7 +2608,7 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation type="unfinished">Предложени механизми:</translation>
+        <translation>Предложени механизми:</translation>
     </message>
 </context>
 <context>
@@ -11193,7 +11193,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished">Акаунт:</translation>
+        <translation>Акаунт:</translation>
     </message>
     <message>
         <source>Review every identity before trusting it. Trusted devices can receive encrypted messages; distrusted devices are excluded.</source>
@@ -11201,7 +11201,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">Потребител</translation>
+        <translation>Потребител</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -11217,7 +11217,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Отпечатък</translation>
+        <translation>Отпечатък</translation>
     </message>
     <message>
         <source>Do not trust</source>
@@ -11329,7 +11329,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished">Готово</translation>
+        <translation>Готово</translation>
     </message>
     <message>
         <source>Not set up</source>
@@ -14357,7 +14357,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished">Адрес</translation>
+        <translation>Адрес</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -14365,7 +14365,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Отпечатък</translation>
+        <translation>Отпечатък</translation>
     </message>
     <message>
         <source>Unnamed device (%1)</source>
@@ -14373,7 +14373,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Your account (%1)</source>
@@ -14691,7 +14691,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Option Editor</source>
-        <translation type="unfinished">Редактор Настройка</translation>
+        <translation>Редактор Настройка</translation>
     </message>
 </context>
 <context>

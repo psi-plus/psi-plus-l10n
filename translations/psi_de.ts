@@ -2706,7 +2706,7 @@ Sie können Elemente ansehen, bevor sie von der Festplatte gelöscht werden. </t
     <name>ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation type="unfinished">Zur Verfügung stehende Mechanismen: </translation>
+        <translation>Zur Verfügung stehende Mechanismen: </translation>
     </message>
 </context>
 <context>
@@ -11457,7 +11457,7 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished"></translation>
+        <translation>Konto: </translation>
     </message>
     <message>
         <source>Review every identity before trusting it. Trusted devices can receive encrypted messages; distrusted devices are excluded.</source>
@@ -11465,7 +11465,7 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">Nutzer</translation>
+        <translation>Nutzer</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -11481,7 +11481,7 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Fingerabdruck</translation>
+        <translation>Fingerabdruck</translation>
     </message>
     <message>
         <source>Do not trust</source>
@@ -11489,7 +11489,7 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">Kopiere Fingerabdruck</translation>
+        <translation>Kopiere Fingerabdruck</translation>
     </message>
     <message>
         <source>Known keys</source>
@@ -11553,7 +11553,7 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">Konfiguration</translation>
+        <translation>Konfiguration</translation>
     </message>
     <message>
         <source>Publishing OMEMO keys…</source>
@@ -11593,7 +11593,7 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished">Bereit</translation>
+        <translation>Bereit</translation>
     </message>
     <message>
         <source>Not set up</source>
@@ -14046,7 +14046,7 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished">Verschlüsselung</translation>
+        <translation>Verschlüsselung</translation>
     </message>
 </context>
 <context>
@@ -14699,7 +14699,7 @@ Migration ist möglich mit Psi-0.15</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished">Adresse</translation>
+        <translation>Adresse</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -14707,7 +14707,7 @@ Migration ist möglich mit Psi-0.15</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Fingerabdruck</translation>
+        <translation>Fingerabdruck</translation>
     </message>
     <message>
         <source>Unnamed device (%1)</source>
@@ -14715,7 +14715,7 @@ Migration ist möglich mit Psi-0.15</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Your account (%1)</source>
@@ -15041,7 +15041,7 @@ Möchten Sie die Sitzung jetzt aktivieren?</translation>
     </message>
     <message>
         <source>Option Editor</source>
-        <translation type="unfinished">Optionen-Editor</translation>
+        <translation>Optionen-Editor</translation>
     </message>
 </context>
 <context>

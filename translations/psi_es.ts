@@ -2697,7 +2697,7 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation type="unfinished">Mecanismos ofrecidos: </translation>
+        <translation>Mecanismos ofrecidos: </translation>
     </message>
 </context>
 <context>
@@ -11381,7 +11381,7 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished">Cuenta:</translation>
+        <translation>Cuenta:</translation>
     </message>
     <message>
         <source>Review every identity before trusting it. Trusted devices can receive encrypted messages; distrusted devices are excluded.</source>
@@ -11389,7 +11389,7 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">Usuario</translation>
+        <translation>Usuario</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -11405,7 +11405,7 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Huella</translation>
+        <translation>Huella</translation>
     </message>
     <message>
         <source>Do not trust</source>
@@ -11413,7 +11413,7 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">Copiar huella</translation>
+        <translation>Copiar huella</translation>
     </message>
     <message>
         <source>Known keys</source>
@@ -11477,7 +11477,7 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">Configuración</translation>
+        <translation>Configuración</translation>
     </message>
     <message>
         <source>Publishing OMEMO keys…</source>
@@ -11517,7 +11517,7 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished">Preparado</translation>
+        <translation>Preparado</translation>
     </message>
     <message>
         <source>Not set up</source>
@@ -13956,7 +13956,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished">Cifrado</translation>
+        <translation>Cifrado</translation>
     </message>
 </context>
 <context>
@@ -14606,7 +14606,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished">Dirección</translation>
+        <translation>Dirección</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -14614,7 +14614,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Huella</translation>
+        <translation>Huella</translation>
     </message>
     <message>
         <source>Unnamed device (%1)</source>
@@ -14622,7 +14622,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Your account (%1)</source>
@@ -14948,7 +14948,7 @@ Quieres activar esa sesión ahora?</translation>
     </message>
     <message>
         <source>Option Editor</source>
-        <translation type="unfinished">Editor de opción</translation>
+        <translation>Editor de opción</translation>
     </message>
 </context>
 <context>

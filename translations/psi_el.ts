@@ -10715,7 +10715,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished">Έτοιμο</translation>
+        <translation>Έτοιμο</translation>
     </message>
     <message>
         <source>Not set up</source>

@@ -2726,7 +2726,7 @@ Puoi visualizzare gli elementi prima di cancellarli dal disco rigido.</translati
     <name>ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation type="unfinished">Meccanismi offerti: </translation>
+        <translation>Meccanismi offerti:</translation>
     </message>
 </context>
 <context>
@@ -11505,7 +11505,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     <name>OptionsTabSecurity</name>
     <message>
         <source>Security</source>
-        <translation type="unfinished">Sicurezza</translation>
+        <translation>Sicurezza</translation>
     </message>
     <message>
         <source>Encryption methods and key management</source>
@@ -11513,7 +11513,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished">Account:</translation>
+        <translation>Account:</translation>
     </message>
     <message>
         <source>Review every identity before trusting it. Trusted devices can receive encrypted messages; distrusted devices are excluded.</source>
@@ -11521,11 +11521,11 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">Utente</translation>
+        <translation>Utente</translation>
     </message>
     <message>
         <source>Device ID</source>
-        <translation type="unfinished">ID dispositivo</translation>
+        <translation>ID dispositivo</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -11533,19 +11533,19 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished">Fidati</translation>
+        <translation>Fidati</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished"></translation>
+        <translation>Impronta Digitale</translation>
     </message>
     <message>
         <source>Do not trust</source>
-        <translation type="unfinished">Non fidarti</translation>
+        <translation>Non fidarti</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">Copia impronta digitale</translation>
+        <translation>Copia impronta digitale</translation>
     </message>
     <message>
         <source>Known keys</source>
@@ -11553,7 +11553,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Current device</source>
-        <translation type="unfinished">Dispositivo attuale</translation>
+        <translation>Dispositivo attuale</translation>
     </message>
     <message>
         <source>Device ID:</source>
@@ -11609,7 +11609,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">Configurazione</translation>
+        <translation>Configurazione</translation>
     </message>
     <message>
         <source>Publishing OMEMO keys…</source>
@@ -11649,7 +11649,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished">Pronto</translation>
+        <translation>Pronto</translation>
     </message>
     <message>
         <source>Not set up</source>
@@ -14106,7 +14106,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished">Cifratura</translation>
+        <translation>Cifratura</translation>
     </message>
 </context>
 <context>
@@ -14215,7 +14215,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Encryption is disabled</source>
-        <translation type="unfinished">La cifratura è disabilitata</translation>
+        <translation>La cifratura è disabilitata</translation>
     </message>
     <message>
         <source>Encryption: %1 (unavailable for this contact)</source>
@@ -14267,7 +14267,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>trusted</source>
-        <translation type="unfinished">fidato</translation>
+        <translation>fidato</translation>
     </message>
     <message>
         <source>OMEMO devices</source>
@@ -14779,7 +14779,7 @@ La migrazione è possibile con Psi-0.15</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished">Indirizzo</translation>
+        <translation>Indirizzo</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -14787,7 +14787,7 @@ La migrazione è possibile con Psi-0.15</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished"></translation>
+        <translation>Impronta Digitale</translation>
     </message>
     <message>
         <source>Unnamed device (%1)</source>
@@ -14795,7 +14795,7 @@ La migrazione è possibile con Psi-0.15</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Your account (%1)</source>
@@ -15121,7 +15121,7 @@ Vuoi attivare quella sessione ora?</translation>
     </message>
     <message>
         <source>Option Editor</source>
-        <translation type="unfinished">Editor Opzioni</translation>
+        <translation>Editor Opzioni</translation>
     </message>
 </context>
 <context>

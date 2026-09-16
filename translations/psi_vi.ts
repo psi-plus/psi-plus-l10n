@@ -2695,7 +2695,7 @@ Bạn có thể xem trước khi xóa hoàn toàn khỏi ổ cứng.</translatio
     <name>ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation type="unfinished">Cơ chế cung cấp: </translation>
+        <translation>Cơ chế cung cấp: </translation>
     </message>
 </context>
 <context>
@@ -11251,7 +11251,7 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished">Sẵn sàng</translation>
+        <translation>Sẵn sàng</translation>
     </message>
     <message>
         <source>Not set up</source>
@@ -13672,7 +13672,7 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Encryption is disabled</source>
-        <translation type="unfinished">Mã hóa bị tắt</translation>
+        <translation>Mã hóa bị tắt</translation>
     </message>
     <message>
         <source>Encryption: %1 (unavailable for this contact)</source>
@@ -14221,7 +14221,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished">Địa chỉ</translation>
+        <translation>Địa chỉ</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -14237,7 +14237,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Your account (%1)</source>

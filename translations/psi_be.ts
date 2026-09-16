@@ -2683,7 +2683,7 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation type="unfinished">Прапанаваныя мэханізмы: </translation>
+        <translation>Прапанаваныя мэханізмы: </translation>
     </message>
 </context>
 <context>
@@ -11335,7 +11335,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished">Рахунак:</translation>
+        <translation>Рахунак:</translation>
     </message>
     <message>
         <source>Review every identity before trusting it. Trusted devices can receive encrypted messages; distrusted devices are excluded.</source>
@@ -11343,7 +11343,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished">Карыстальнік</translation>
+        <translation>Карыстальнік</translation>
     </message>
     <message>
         <source>Device ID</source>
@@ -11359,7 +11359,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Адбітак</translation>
+        <translation>Адбітак</translation>
     </message>
     <message>
         <source>Do not trust</source>
@@ -11367,7 +11367,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">Перапісаць адбітак</translation>
+        <translation>Перапісаць адбітак</translation>
     </message>
     <message>
         <source>Known keys</source>
@@ -11431,7 +11431,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">Настаўленьні</translation>
+        <translation>Настаўленьні</translation>
     </message>
     <message>
         <source>Publishing OMEMO keys…</source>
@@ -11471,7 +11471,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished">Можна працаваць</translation>
+        <translation>Можна працаваць</translation>
     </message>
     <message>
         <source>Not set up</source>
@@ -13898,7 +13898,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished">Шыфраваць</translation>
+        <translation>Шыфраваць</translation>
     </message>
 </context>
 <context>
@@ -14552,7 +14552,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished">Адрас</translation>
+        <translation>Адрас</translation>
     </message>
     <message>
         <source>Profile</source>
@@ -14560,7 +14560,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">Адбітак</translation>
+        <translation>Адбітак</translation>
     </message>
     <message>
         <source>Unnamed device (%1)</source>
@@ -14568,7 +14568,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Your account (%1)</source>
