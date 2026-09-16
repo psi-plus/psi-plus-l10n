@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="zh_CN">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="zh_CN">
 <context>
     <name>@default</name>
     <message>
@@ -1265,7 +1263,7 @@ save the history for this contact.</source>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Bitstream Vera Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; user, simply fill out the XMPP address (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-XMPP&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get XMPP Address&lt;/span&gt; button to generate an XMPP address for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -1549,11 +1547,11 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Dnd</source>
-        <translation>请勿打扰</translation>
+        <translation>忙碌</translation>
     </message>
     <message>
         <source>XA</source>
-        <translation>延长离开</translation>
+        <translation>不在</translation>
     </message>
     <message>
         <source>Chat</source>
@@ -1587,19 +1585,19 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Timeout to reset counter:</source>
-        <translation>重置计数器超时：</translation>
+        <translation>多久后重置计数器：</translation>
     </message>
     <message>
         <source>min.</source>
-        <translation>最小值</translation>
+        <translation>分钟后</translation>
     </message>
     <message>
         <source>Send maximum</source>
-        <translation>发送最大值</translation>
+        <translation>最多发送</translation>
     </message>
     <message>
         <source>times (-1=infinite)</source>
-        <translation>次（-1=无限）</translation>
+        <translation>次（-1=无限次​​）</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -2901,15 +2899,15 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Set MOTD</source>
-        <translation>设置 MOTD</translation>
+        <translation>设置每日消息</translation>
     </message>
     <message>
         <source>Update MOTD</source>
-        <translation>更新 MOTD</translation>
+        <translation>更新每日消息</translation>
     </message>
     <message>
         <source>Delete MOTD</source>
-        <translation>删除 MOTD</translation>
+        <translation>删除每日消息</translation>
     </message>
     <message>
         <source>Avatar</source>
@@ -3276,7 +3274,7 @@ Proceed?</source>
     </message>
     <message>
         <source>ToolBar will be placed here</source>
-        <comment>Don&apos;t translate this string</comment>
+        <comment>Don't translate this string</comment>
         <translation>工具栏将放在此处</translation>
     </message>
     <message>
@@ -3467,7 +3465,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Features:</source>
-        <translation>特性：</translation>
+        <translation>功能：</translation>
     </message>
     <message>
         <source>Error:</source>
@@ -4070,7 +4068,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation>自动将句子中的第一个字母大写</translation>
+        <translation>自动将句首字母大写</translation>
     </message>
     <message>
         <source>Automatically scroll down the log when a message was sent</source>
@@ -4282,7 +4280,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Show &quot;XA&quot; option in status menu</source>
-        <translation>在状态菜单显示“延长离开”选项</translation>
+        <translation>在状态菜单显示“不在”选项</translation>
     </message>
     <message>
         <source>Enable single messages</source>
@@ -4410,7 +4408,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Disable popup notifications if status is DND</source>
-        <translation>如果状态是“请勿打扰”，禁用弹窗通知</translation>
+        <translation>如果状态是忙碌，则禁用弹窗通知</translation>
     </message>
     <message>
         <source>Disable popup notifications if status is Away</source>
@@ -4623,7 +4621,7 @@ contact is offline.</source>
         <source>Unable to connect to peer for data transfer.
 
 Ensure that your Data Transfer settings are proper.  If you are behind
-a NAT router or firewall then you&apos;ll need to open the proper TCP port
+a NAT router or firewall then you'll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
         <translation>无法连接到对等端进行数据传输。
 
@@ -4633,7 +4631,7 @@ or specify a Data Transfer Proxy in your account settings.</source>
         <source>Failure to either connect to, or activate, the Data Transfer Proxy.
 
 This means that the Proxy service is either not functioning or it is
-unreachable.  If you are behind a firewall, then you&apos;ll need to ensure
+unreachable.  If you are behind a firewall, then you'll need to ensure
 that outgoing TCP connections are allowed.</source>
         <translation>无法连接或激活数据传输代理。
 
@@ -5067,23 +5065,23 @@ Reason: %1</source>
     </message>
     <message>
         <source>Do you want to join the alternate venue &apos;%1&apos;?</source>
-        <translation>是否要加入替代群聊“%1”？</translation>
+        <translation>是否要加入备用群聊“%1”？</translation>
     </message>
     <message>
         <source>Room Destroyed</source>
-        <translation>群聊已解散</translation>
+        <translation>群聊被解散</translation>
     </message>
     <message>
         <source>Banned</source>
-        <translation>已封禁</translation>
+        <translation>被封禁</translation>
     </message>
     <message>
         <source>You have been banned from the room</source>
-        <translation>您已被封禁</translation>
+        <translation>您已被禁止进入群聊</translation>
     </message>
     <message>
         <source>You have been banned from the room by %1</source>
-        <translation>您已被 %1 从群聊中封禁</translation>
+        <translation>您已被 %1 禁止进入群聊</translation>
     </message>
     <message>
         <source>%1 has been banned</source>
@@ -5091,11 +5089,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>%1 has been banned by %2</source>
-        <translation>%2 封禁了 %1</translation>
+        <translation>%1 已被 %2 封禁</translation>
     </message>
     <message>
         <source>Kicked</source>
-        <translation>已踢出</translation>
+        <translation>被踢出</translation>
     </message>
     <message>
         <source>You have been kicked from the room</source>
@@ -5111,11 +5109,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>%1 has been kicked by %2</source>
-        <translation>%2 踢出了 %1</translation>
+        <translation>%1 已被 %2 踢出</translation>
     </message>
     <message>
         <source>Removed</source>
-        <translation>已移除</translation>
+        <translation>被移除</translation>
     </message>
     <message>
         <source>You have been removed from the room due to an affiliation change</source>
@@ -5151,7 +5149,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>%1 is now known as %2</source>
-        <translation>%1 现在昵称为 %2</translation>
+        <translation>%1 现在的昵称为 %2</translation>
     </message>
     <message>
         <source>%1 has left the room</source>
@@ -6831,7 +6829,7 @@ You can select or deselect a contact for history removal from the context menu o
 <context>
     <name>IcqDie</name>
     <message>
-        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
+        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it's much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
 
 Sincerely yours, Debian Sid.</source>
         <translation type="vanished">作为 Linux 用户，我可以告诉您，但不要生我的气。当然，这个人将会收到此消息。但最好是通过 Jabber 和对方聊天。您在冒险，人们永远不知道 ICQ 什么时候会死，Granny 已经活得比它长了。对方的 JID：%1。
@@ -6841,7 +6839,7 @@ Sincerely yours, Debian Sid.</source>
     <message>
         <source>I can tell you as a Linux, but do not be mad at me. This human do not use ICQ anymore, so if you are still use that network he will not receive your message and you have to chat to him by Jabber. His JID: %1.
 
-If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
+If you don't know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
 Sincerely yours, Debian Sid.</source>
         <translation type="vanished">作为 Linux 用户，我可以告诉您，但不要生我的气。这个人不再使用 ICQ 了，所以如果您还在使用那个网络，对方将不会收到您的消息，您必须通过 Jabber 和对方聊天。对方的 JID：%1。
 
@@ -6919,7 +6917,7 @@ The plugin has a number of simple settings that can help you:
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
-Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
+Your contact's client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
         <translation>本插件旨在向联系人列表中的联系人发送图片。
 您的联系人的客户端必须支持 XEP-0071: XHTML-IM 并支持 data:URI 方案。
@@ -7020,7 +7018,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="vanished">允许超分辨率</translation>
     </message>
     <message>
-        <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
+        <source>This plugin shows images URLs' previews in chats for non-webkit Psi version.
 </source>
         <translation>本插件在非 Webkit Psi 版本的聊天中显示图片 URL 的预览。
 </translation>
@@ -7210,11 +7208,11 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
         <translation>您尚未发布您的账号信息更改。
-是否确定要舍弃它们？</translation>
+是否确定要丢弃它们？</translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation type="vanished">关闭并舍弃</translation>
+        <translation type="vanished">关闭并丢弃</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
@@ -7262,7 +7260,7 @@ available</source>
         <source>You have not published conference information changes.
 Are you sure you want to discard them?</source>
         <translation>您尚未发布群聊信息更改。
-是否确定要舍弃它们？</translation>
+是否确定要丢弃它们？</translation>
     </message>
     <message>
         <source>Your conference information has been published.</source>
@@ -7574,7 +7572,7 @@ to play battleship. He wants to play %2.</source>
         <translation>警告</translation>
     </message>
     <message>
-        <source>can&apos;t create folder %1 
+        <source>can't create folder %1 
 caching avatars will be not available</source>
         <translation>无法创建文件夹 %1 
 缓存头像将不可用</translation>
@@ -7719,7 +7717,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Banned</source>
-        <translation>已封禁</translation>
+        <translation>被驱逐者</translation>
     </message>
 </context>
 <context>
@@ -8868,7 +8866,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>DND contacts:</source>
-        <translation>请勿打扰的联系人：</translation>
+        <translation>忙碌的联系人：</translation>
     </message>
     <message>
         <source>Offline contacts:</source>
@@ -9206,11 +9204,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Allow auto-open even when Away/XA</source>
-        <translation>即使在离开/延长离开时也允许自动打开事件</translation>
+        <translation>即使离开/不在时也允许自动打开</translation>
     </message>
     <message>
         <source>Allow auto-open even from unlisted users</source>
-        <translation>即使不在列表中的用户也允许自动打开事件</translation>
+        <translation>即使是不在列表中的用户也允许自动打开</translation>
     </message>
     <message>
         <source>Raise roster window on new event</source>
@@ -9285,7 +9283,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation>自动将句子中的第一个字母大写</translation>
+        <translation>自动将句首字母大写</translation>
     </message>
 </context>
 <context>
@@ -9746,11 +9744,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Play sounds when away/XA</source>
-        <translation>状态为离开/延长离开也播放声音</translation>
+        <translation>状态为离开/不在时播放声音</translation>
     </message>
     <message>
         <source>Play sounds for all messages in groupchat</source>
-        <translation>在群聊中播放所有消息的声音</translation>
+        <translation>为群聊中的所有消息播放声音</translation>
     </message>
     <message>
         <source>Enter a filename or !beep for a system beep</source>
@@ -9825,7 +9823,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Auto XA after:</source>
-        <translation>自动延长离开：</translation>
+        <translation>自动不在：</translation>
     </message>
     <message>
         <source>Auto away after:</source>
@@ -9853,15 +9851,15 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Free For Chat:</source>
-        <translation>有空聊天：</translation>
+        <translation>聊天：</translation>
     </message>
     <message>
         <source>XA:</source>
-        <translation>延长离开：</translation>
+        <translation>不在：</translation>
     </message>
     <message>
         <source>Do Not Disturb:</source>
-        <translation>请勿打扰：</translation>
+        <translation>忙碌：</translation>
     </message>
     <message>
         <source>Invisible:</source>
@@ -9884,7 +9882,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Free for Chat</source>
-        <translation>有空聊天</translation>
+        <translation>聊天</translation>
     </message>
     <message>
         <source>Away</source>
@@ -9892,11 +9890,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Not Available</source>
-        <translation>没空</translation>
+        <translation>不在</translation>
     </message>
     <message>
         <source>Do not Disturb</source>
-        <translation>请勿打扰</translation>
+        <translation>忙碌</translation>
     </message>
     <message>
         <source>Offline</source>
@@ -9924,11 +9922,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Hide Free for Chat, Away, Not Available and Do not Disturb</source>
-        <translation>隐藏有空聊天、离开、没空、请勿打扰</translation>
+        <translation>隐藏聊天、离开、不在、忙碌</translation>
     </message>
     <message>
         <source>Hide standard statuses (Chat, Away, XA, DND)</source>
-        <translation>隐藏标准状态（聊天、离开、延长离开、请勿打扰）</translation>
+        <translation>隐藏标准状态（聊天、离开、不在、忙碌）</translation>
     </message>
     <message>
         <source>Show &quot;Edit presets...&quot;</source>
@@ -9978,7 +9976,7 @@ Reason: %1.</source>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -9995,11 +9993,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Tunes</source>
-        <translation type="vanished">音乐</translation>
+        <translation type="vanished">曲目</translation>
     </message>
     <message>
         <source>Enter media file extensions to ignore them on tune sending</source>
-        <translation>输入媒体文件扩展名以在发送音乐时忽略它们</translation>
+        <translation>输入媒体文件扩展名以在发送曲目信息时忽略它们</translation>
     </message>
     <message>
         <source>Add extensions</source>
@@ -10007,15 +10005,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Ignored media file extensions on psi tunes sending</source>
-        <translation>在 Psi 音乐发送时忽略媒体文件扩展名</translation>
+        <translation>在 Psi 发送曲目信息时忽略的媒体文件扩展名</translation>
     </message>
     <message>
         <source>Tune Controllers</source>
-        <translation>音乐控制器</translation>
+        <translation>曲目控制器</translation>
     </message>
     <message>
         <source>Publish Tunes</source>
-        <translation>发布音乐</translation>
+        <translation>发布曲目</translation>
     </message>
 </context>
 <context>
@@ -10077,11 +10075,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Don&apos;t hide popup if status is Away or XA</source>
-        <translation>如果状态为离开或延长离开，则不要隐藏弹窗</translation>
+        <translation>如果状态是离开或不在，则不隐藏弹窗</translation>
     </message>
     <message>
         <source>Disable notifications if status is DND</source>
-        <translation>如果状态是请勿打扰，则禁用通知</translation>
+        <translation>如果状态是忙碌，则禁用通知</translation>
     </message>
     <message>
         <source>Play sound:</source>
@@ -10322,7 +10320,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Disable popups if status is DND</source>
-        <translation>如果状态是请勿打扰，则禁用弹窗</translation>
+        <translation>如果状态是忙碌，则禁用弹窗</translation>
     </message>
     <message>
         <source>Enable notifications for:</source>
@@ -10330,7 +10328,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Tune</source>
-        <translation>音乐</translation>
+        <translation>曲目</translation>
     </message>
     <message>
         <source>Mood</source>
@@ -10438,7 +10436,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Send maximum</source>
-        <translation>发送最大值</translation>
+        <translation>最多发送</translation>
     </message>
     <message>
         <source>times</source>
@@ -10446,22 +10444,22 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Timeout to reset counter:</source>
-        <translation>超时后重置计数器：</translation>
+        <translation>多久后重置计数器：</translation>
     </message>
     <message>
         <source>min.</source>
-        <translation>最小值</translation>
+        <translation>分钟后</translation>
     </message>
     <message>
         <source>Log blocked messages to contact&apos;s history</source>
-        <translation>将屏蔽的消息记录到联系人的历史记录中</translation>
+        <translation>将已屏蔽的消息记录到联系人的历史记录中</translation>
     </message>
     <message>
         <source>Del</source>
         <translation type="vanished">删除</translation>
     </message>
     <message>
-        <source>Disable stopspam, if don&apos;t match any rule above
+        <source>Disable stopspam, if don't match any rule above
 (does not work for muc private messages)</source>
         <translation>如果不匹配上述任何规则，则禁用“停止垃圾信息”插件
 （不适用于群聊私信）</translation>
@@ -10953,7 +10951,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>do not disturb</source>
-        <translation>请勿打扰</translation>
+        <translation>忙碌</translation>
     </message>
     <message>
         <source>Status message</source>
@@ -11308,7 +11306,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enables automatic substitution of the first letter in a sentence to the same capital letter</source>
-        <translation>启用句子中的第一个字母自动替换为同一大写字母</translation>
+        <translation>将句子中的第一个字母自动替换为对应大写字母的功能</translation>
     </message>
 </context>
 <context>
@@ -11500,7 +11498,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enable this option if you wish to hear sound alerts when your status is &quot;away&quot; or &quot;extended away&quot;.</source>
-        <translation>如果您想在状态为“离开”或“延长离开”时听到声音提醒，请启用此选项。</translation>
+        <translation>如果您想在状态为“离开”或“不在”时听到声音提醒，请启用此选项。</translation>
     </message>
     <message>
         <source>Play sounds for all events in groupchat, not only for mentioning of your nick.</source>
@@ -11550,7 +11548,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;extended away&quot; if your computer is idle for the specified amount of time.</source>
-        <translation>如果您的计算机在指定的时间内处于空闲状态，让 Psi 自动将您的状态设置为“延长离开”。</translation>
+        <translation>如果您的计算机在指定的时间内处于空闲状态，让 Psi 自动将您的状态设置为“不在”。</translation>
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the Jabber server.</source>
@@ -11636,7 +11634,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Tunes no-video filter and controllers switcher</source>
-        <translation>音乐无视频过滤器和控制器切换器</translation>
+        <translation>曲目无视频过滤器与控制器切换器</translation>
     </message>
 </context>
 <context>
@@ -12103,7 +12101,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>This plugin shows popup notifications when users from your roster changes their mood, tune or activity.</source>
-        <translation>当您的联系人列表中的用户改变其心情、音乐或活动时，本插件显示弹窗通知。</translation>
+        <translation>当您的联系人列表中的用户改变其心情、曲目或活动时，本插件显示弹窗通知。</translation>
     </message>
 </context>
 <context>
@@ -12576,19 +12574,19 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>None</source>
-        <translation>无</translation>
+        <translation>none</translation>
     </message>
     <message>
         <source>Both</source>
-        <translation>双向</translation>
+        <translation>both</translation>
     </message>
     <message>
         <source>From</source>
-        <translation>接收</translation>
+        <translation>from</translation>
     </message>
     <message>
         <source>To</source>
-        <translation>发送</translation>
+        <translation>to</translation>
     </message>
 </context>
 <context>
@@ -12967,7 +12965,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <source>The account is currently active.
 Do you want to log out ?</source>
         <translation>此账号当前处于活动状态。
-是否要登出？</translation>
+是否要退出登录？</translation>
     </message>
     <message>
         <source>Reconnecting</source>
@@ -13181,7 +13179,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Logged out</source>
-        <translation>已登出</translation>
+        <translation>已退出登录</translation>
     </message>
     <message>
         <source>You must be connected to the server in order to do this.</source>
@@ -13510,15 +13508,15 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Publish Tune</source>
-        <translation>发布音乐</translation>
+        <translation>发布曲目</translation>
     </message>
     <message>
         <source>Publish &amp;Tune</source>
-        <translation>发布音乐(&amp;T)</translation>
+        <translation>发布曲目(&amp;T)</translation>
     </message>
     <message>
         <source>Toggles whether the currently playing tune should be published or not</source>
-        <translation>切换是否应发布当前播放的音乐</translation>
+        <translation>切换是否应发布当前正在播放的曲目</translation>
     </message>
     <message>
         <source>Set Mood</source>
@@ -13566,7 +13564,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Free for Chat</source>
-        <translation>有空聊天</translation>
+        <translation>聊天</translation>
     </message>
     <message>
         <source>Away</source>
@@ -13574,11 +13572,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>XA</source>
-        <translation>延长离开</translation>
+        <translation>不在</translation>
     </message>
     <message>
         <source>DND</source>
-        <translation>请勿打扰</translation>
+        <translation>忙碌</translation>
     </message>
     <message>
         <source>Choose status...</source>
@@ -13988,7 +13986,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Set status. STATUS must be one of `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</source>
-        <comment>do not translate `online&apos;, `chat&apos;, etc; STATUS is the same as in previous string</comment>
+        <comment>do not translate `online', `chat', etc; STATUS is the same as in previous string</comment>
         <translation>设置状态。状态必须是 `online&apos;、`chat&apos;、`away&apos;、`xa&apos;、`dnd&apos;、`offline&apos; 之一。</translation>
     </message>
     <message>
@@ -14575,7 +14573,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>I have gone to a far away place.  I will be back someday!</source>
-        <translation>此去远行，归来有期！</translation>
+        <translation>我已远行，终将归来！</translation>
     </message>
     <message>
         <source>Buttons</source>
@@ -15207,15 +15205,15 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Not Available</source>
-        <translation>没空</translation>
+        <translation>不在</translation>
     </message>
     <message>
         <source>Do not Disturb</source>
-        <translation>请勿打扰</translation>
+        <translation>忙碌</translation>
     </message>
     <message>
         <source>Free for Chat</source>
-        <translation>有空聊天</translation>
+        <translation>聊天</translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -15351,7 +15349,7 @@ Description: </source>
     </message>
     <message>
         <source>Aroused</source>
-        <translation>激昂</translation>
+        <translation>提神</translation>
     </message>
     <message>
         <source>Ashamed</source>
@@ -15375,7 +15373,7 @@ Description: </source>
     </message>
     <message>
         <source>Cold</source>
-        <translation>冷酷</translation>
+        <translation>寒冷</translation>
     </message>
     <message>
         <source>Confident</source>
@@ -15403,39 +15401,39 @@ Description: </source>
     </message>
     <message>
         <source>Creative</source>
-        <translation>创造性的</translation>
+        <translation>富有创造力</translation>
     </message>
     <message>
         <source>Curious</source>
-        <translation>好奇的</translation>
+        <translation>好奇</translation>
     </message>
     <message>
         <source>Dejected</source>
-        <translation>垂头丧气</translation>
+        <translation>沮丧</translation>
     </message>
     <message>
         <source>Depressed</source>
-        <translation>沮丧的</translation>
+        <translation>抑郁</translation>
     </message>
     <message>
         <source>Disappointed</source>
-        <translation>失望的</translation>
-    </message>
-    <message>
-        <source>Disgusted</source>
-        <translation>厌烦的</translation>
-    </message>
-    <message>
-        <source>Dismayed</source>
         <translation>失望</translation>
     </message>
     <message>
+        <source>Disgusted</source>
+        <translation>厌烦</translation>
+    </message>
+    <message>
+        <source>Dismayed</source>
+        <translation>惊愕</translation>
+    </message>
+    <message>
         <source>Distracted</source>
-        <translation>心烦意乱的</translation>
+        <translation>心烦意乱</translation>
     </message>
     <message>
         <source>Embarrassed</source>
-        <translation>难为情的</translation>
+        <translation>尴尬</translation>
     </message>
     <message>
         <source>Envious</source>
@@ -15443,11 +15441,11 @@ Description: </source>
     </message>
     <message>
         <source>Excited</source>
-        <translation>兴奋的</translation>
+        <translation>兴奋</translation>
     </message>
     <message>
         <source>Flirtatious</source>
-        <translation>轻浮的</translation>
+        <translation>轻佻</translation>
     </message>
     <message>
         <source>Frustrated</source>
@@ -15471,7 +15469,7 @@ Description: </source>
     </message>
     <message>
         <source>Hot</source>
-        <translation>热情的</translation>
+        <translation>燥热</translation>
     </message>
     <message>
         <source>Humbled</source>
@@ -15755,27 +15753,19 @@ Description: </source>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
-        <translation>
-            <numerusform>%n 天</numerusform>
-        </translation>
+        <translation><numerusform>%n 天</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s) </source>
-        <translation>
-            <numerusform>%n 小时</numerusform>
-        </translation>
+        <translation><numerusform>%n 小时</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) </source>
-        <translation>
-            <numerusform>%n 分钟</numerusform>
-        </translation>
+        <translation><numerusform>%n 分钟</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n second(s) </source>
-        <translation>
-            <numerusform>%n 秒</numerusform>
-        </translation>
+        <translation><numerusform>%n 秒</numerusform></translation>
     </message>
     <message>
         <source>Warning</source>
@@ -16107,11 +16097,11 @@ URL：%4
     </message>
     <message>
         <source>Extended Away</source>
-        <translation>延长离开</translation>
+        <translation>不在</translation>
     </message>
     <message>
         <source>Do Not Disturb</source>
-        <translation>请勿打扰</translation>
+        <translation>忙碌</translation>
     </message>
     <message>
         <source>Priority</source>
@@ -16265,7 +16255,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>%1 is now known as %2</source>
-        <translation>%1 现在昵称为 %2</translation>
+        <translation>%1 现在的昵称为 %2</translation>
     </message>
     <message>
         <source>Any Language</source>
@@ -16395,7 +16385,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Redirects all incoming messages to some jid and allows one to redirect messages back.</source>
-        <translation>将所有收到的消息重定向到某些 JID，并允许将消息重定向回来。</translation>
+        <translation>将所有收到的消息重定向到某个 JID，并允许将消息重定向回来。</translation>
     </message>
 </context>
 <context>
@@ -16418,7 +16408,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>&lt;qt&gt;Registration has already been submitted, so closing this window will not prevent the registration from happening.  Do you still wish to close?&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;已经提交了注册，因此关闭此窗口不会阻止注册的进行。是否仍要关闭？&lt;/qt&gt;</translation>
+        <translation>&lt;qt&gt;注册已提交，因此关闭此窗口不会阻止注册的进行。是否仍要关闭？&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
@@ -16472,10 +16462,8 @@ Reason: %1</source>
     <message numerus="yes">
         <source>celebrates birthday in %n day(s)
 </source>
-        <translation>
-            <numerusform>在 %n 天后庆祝生日
-</numerusform>
-        </translation>
+        <translation><numerusform>在 %n 天后庆祝生日
+</numerusform></translation>
     </message>
     <message>
         <source>celebrates birthday yesterday.
@@ -16525,7 +16513,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source> min.</source>
-        <translation type="vanished"> 最小值</translation>
+        <translation type="vanished"> 分钟</translation>
     </message>
     <message>
         <source>Attention interval: </source>
@@ -16879,9 +16867,7 @@ Reason: %1</source>
     </message>
     <message numerus="yes">
         <source>Added %n users to your roster.</source>
-        <translation>
-            <numerusform>%n 位用户已添加到您的联系人列表。</numerusform>
-        </translation>
+        <translation><numerusform>%n 位用户已添加到您的联系人列表。</numerusform></translation>
     </message>
     <message>
         <source>Added %1 to your roster.</source>
@@ -17067,7 +17053,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>New Message</source>
-        <translation>新消息</translation>
+        <translation>新建消息</translation>
     </message>
     <message>
         <source>Join Group Chat</source>
@@ -17147,7 +17133,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Publish Tune</source>
-        <translation>发布音乐</translation>
+        <translation>发布曲目</translation>
     </message>
     <message>
         <source>Active contacts</source>
@@ -17155,39 +17141,39 @@ Reason: %1</source>
     </message>
     <message>
         <source>Status All</source>
-        <translation>状态 全部</translation>
+        <translation>状态 - 全部</translation>
     </message>
     <message>
         <source>Status Group</source>
-        <translation>状态 分组</translation>
+        <translation>状态 - 分组</translation>
     </message>
     <message>
         <source>Status Chat</source>
-        <translation>状态 聊天</translation>
+        <translation>状态 - 聊天</translation>
     </message>
     <message>
         <source>Status Online</source>
-        <translation>状态 在线</translation>
+        <translation>状态 - 在线</translation>
     </message>
     <message>
         <source>Status Away</source>
-        <translation>状态 离开</translation>
+        <translation>状态 - 离开</translation>
     </message>
     <message>
         <source>Status XA</source>
-        <translation>状态 延长离开</translation>
+        <translation>状态 - 不在</translation>
     </message>
     <message>
         <source>Status DND</source>
-        <translation>状态 请勿打扰</translation>
+        <translation>状态 - 忙碌</translation>
     </message>
     <message>
         <source>Status Invisible</source>
-        <translation>状态 隐身</translation>
+        <translation>状态 - 隐身</translation>
     </message>
     <message>
         <source>Status Offline</source>
-        <translation>状态 离线</translation>
+        <translation>状态 - 离线</translation>
     </message>
     <message>
         <source>Choose status</source>
@@ -17738,7 +17724,7 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     <name>StopSpam</name>
     <message>
         <source>Block stanza from </source>
-        <translation>屏蔽节从</translation>
+        <translation>屏蔽节来自 </translation>
     </message>
     <message>
         <source>Stop Spam Plugin</source>
@@ -18285,7 +18271,7 @@ Please correct and try again.</source>
         <source>You can type these special commands in chat and groupchat dialogs:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; to clear chat view&lt;/li&gt;
-&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; &apos;/me&apos; is replaced by your nick&lt;/li&gt;
+&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; '/me' is replaced by your nick&lt;/li&gt;
 &lt;/ul&gt;
 And these work only in groupchat dialog:
 &lt;ul&gt;
@@ -18307,7 +18293,7 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="vanished">您是否在第三方 IM 网络上聊天，例如 AIM 和 ICQ？尝试启用“传输-特定图标”选项。这将使您快速了解您的好友正在使用哪个网络。然后您就可以说服对方切换到 XMPP。</translation>
+        <translation type="vanished">您是否在第三方 IM 网络上聊天，例如 AIM 和 ICQ？尝试启用“传输-特定图标”选项。这将使您快速了解您的好友正在使用哪个网络。然后您就可以说服对方切换到 XMPP。&lt;icon name=&quot;psi/smile&quot;&gt;</translation>
     </message>
     <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
@@ -19200,7 +19186,7 @@ Do you still want to close the window?</source>
     <name>XMPP::Features::FeatureName</name>
     <message>
         <source>ERROR: Incorrect usage of Features class</source>
-        <translation>错误：Features 类的用法不正确</translation>
+        <translation>错误：功能类的用法不正确</translation>
     </message>
     <message>
         <source>None</source>
@@ -19326,7 +19312,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>The sending entity has provided or communicated an XMPP address (e.g., a value of the &apos;to&apos; attribute) or aspect thereof (e.g., a resource identifier) that does not adhere to the syntax defined in Addressing Scheme.</source>
-        <translation>发送实体提供或传递了 XMPP 地址（例如，“ to”属性的值）或其方面（例如，资源标识符），该地址不符合寻址方案中定义的语法。</translation>
+        <translation>发送实体提供或传递的 XMPP 地址（例如，“to”属性的值）或其组成部分（例如，资源标识符）不符合寻址方案中定义的语法。</translation>
     </message>
     <message>
         <source>Not acceptable</source>
@@ -19534,7 +19520,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Disable invitations if status is DND</source>
-        <translation>如果状态是请勿打扰，则禁用邀请</translation>
+        <translation>如果状态是忙碌，则禁用邀请</translation>
     </message>
     <message>
         <source>Disable invitations from groupchat</source>
@@ -19582,7 +19568,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>min.</source>
-        <translation type="vanished">最小值</translation>
+        <translation type="vanished">分钟</translation>
     </message>
     <message>
         <source>Max messages to contact:</source>
@@ -19999,7 +19985,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
-        <translation>您是否已验证这实际上是正确的指纹？</translation>
+        <translation>您是否已确认这确实是正确的指纹？</translation>
     </message>
     <message>
         <source>Psi OTR</source>
@@ -20140,7 +20126,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
-        <translation>您是否已验证这实际上是正确的指纹？</translation>
+        <translation>您是否已确认这确实是正确的指纹？</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -20757,7 +20743,7 @@ Reathorization...</source>
 重新授权…</translation>
     </message>
     <message>
-        <source>Can&apos;t get files!
+        <source>Can't get files!
 Try remove cookies.</source>
         <translation>无法获取文件！
 尝试移除 Cookie。</translation>
@@ -20848,7 +20834,7 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;

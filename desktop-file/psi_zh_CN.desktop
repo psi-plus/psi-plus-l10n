@@ -13,7 +13,7 @@ X-KDE-StartupNotify=true
 StartupWMClass=Psi
 Categories=Network;InstantMessaging;Qt;
 Keywords=XMPP;Jabber;Chat;InstantMessaging;
-Actions=SelectProfile;
+Actions=SelectProfile;QuitApplication;
 
 # Translations
 
@@ -21,5 +21,5 @@ Actions=SelectProfile;
 # Translations
 Name[zh_CN]=Psi
 GenericName[zh_CN]=XMPP 客户端
-Comment[zh_CN]=通过 XMPP 网络进行交流
+Comment[zh_CN]=通过 XMPP 网络通信
 Icon[zh_CN]=psi
