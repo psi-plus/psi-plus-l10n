@@ -110,7 +110,7 @@
     </message>
     <message>
         <source>Patcher and Plugins Writer</source>
-        <translation>Twórca wtyczek i łatek</translation>
+        <translation type="vanished">Twórca wtyczek i łatek</translation>
     </message>
     <message>
         <source>Patcher and Ubuntu Packager</source>
@@ -127,10 +127,6 @@
     <message>
         <source>Patcher and Russian localization</source>
         <translation type="vanished">Twórca łatek i tłumaczenia jęz. rosyjskiego</translation>
-    </message>
-    <message>
-        <source>Psimedia Patcher and Wiki English localization</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Former language coordinator, miscellaneous assistance</source>
@@ -213,38 +209,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Language coordinator; Patcher; Debian and Ubuntu Packager; MS Windows and macOS Packager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Patcher and Plugins Writer; MS Windows Packager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Patcher and Plugins Writer; former Fedora Packager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Patcher and former Ubuntu Packager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>former Ubuntu Packager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>former Mandriva Linux Packager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Patcher and former Russian translator</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>About Psi</source>
         <translation type="vanished">O Psi</translation>
     </message>
@@ -265,11 +229,47 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Patcher and former MS Windows Packager</source>
+        <source>Developer and Plugins Author</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Patcher and former Designer</source>
+        <source>Developer and Language Coordinator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Past Developer and Plugins Author</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Past Psi+ Developer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Past Psi+ Developer and Designer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Past Psi+ Developer and Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Russian Translator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Past Psi+ Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Past Psi+ Mandriva Linux Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Past Psi+ Designer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psimedia Developer</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -620,6 +620,10 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
                 When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>SRV lookup:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>
@@ -829,6 +833,18 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Cannot enable TLS.  Plugin not found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Where the SRV records of the server are looked up when connecting through the proxy: locally, or with the DNS server set in the proxy settings, so that no DNS query leaves this computer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remote, with the DNS server of the proxy</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1588,44 +1604,151 @@ Lista wyjątków JID&apos;ów posiada dwa tryby pracy:
     </message>
 </context>
 <context>
+    <name>AvCallManagerPrivate</name>
+    <message>
+        <source>The Jingle offer did not match the incoming call proposal.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call answered on another device.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call declined on another device.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call was declined.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call was cancelled.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call was finished.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AvCallPrivate</name>
     <message>
         <source>System error</source>
-        <translation>Błąd systemowy</translation>
+        <translation type="vanished">Błąd systemowy</translation>
     </message>
     <message>
         <source>Codec error</source>
-        <translation>Błąd kodeka</translation>
+        <translation type="vanished">Błąd kodeka</translation>
     </message>
     <message>
         <source>Generic error</source>
-        <translation>Błąd ogólny</translation>
+        <translation type="vanished">Błąd ogólny</translation>
     </message>
     <message>
         <source>Cannot call without selecting a device.  Do you have a microphone?  Check the Psi options.</source>
-        <translation>Nie można prowadzić rozmowy głosowej bez wybrania urządzenia.  Czy posiadasz mikrofon?  Sprawdź ustawienia Psi.</translation>
+        <translation type="vanished">Nie można prowadzić rozmowy głosowej bez wybrania urządzenia.  Czy posiadasz mikrofon?  Sprawdź ustawienia Psi.</translation>
     </message>
     <message>
         <source>An error occurred while trying to send:
 %1.</source>
-        <translation>Wystąpił błąd podczas próby wysyłania:
+        <translation type="vanished">Wystąpił błąd podczas próby wysyłania:
 %1.</translation>
     </message>
     <message>
         <source>Call was rejected or terminated.</source>
-        <translation>Rozmowa została odrzucona lub zakończona.</translation>
+        <translation type="vanished">Rozmowa została odrzucona lub zakończona.</translation>
     </message>
     <message>
         <source>Call negotiation timed out.</source>
-        <translation>Upłynął czas oczekiwania na negocjację rozmowy.</translation>
+        <translation type="vanished">Upłynął czas oczekiwania na negocjację rozmowy.</translation>
     </message>
     <message>
         <source>Unable to establish peer-to-peer connection.</source>
-        <translation>Nie udało się ustanowić połączenia peer-to-peer.</translation>
+        <translation type="vanished">Nie udało się ustanowić połączenia peer-to-peer.</translation>
     </message>
     <message>
         <source>Call negotiation failed.</source>
-        <translation>Negocjowanie połączenia nie powiodło się.</translation>
+        <translation type="vanished">Negocjowanie połączenia nie powiodło się.</translation>
+    </message>
+    <message>
+        <source>The requested media type is not supported by the current media backend.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The contact has no device to call.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to send the call proposal.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to create a Jingle call session.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to create the requested RTP media.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to initialize the media backend.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No offered RTP media type was accepted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to accept the incoming call proposal.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A media file was selected as call input but no file is configured.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No microphone is available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to add a microphone to this session.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No camera is available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wait for screen sharing to connect before enabling the camera.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to add a camera to this call.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wait for the camera to connect before sharing your screen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The media backend cannot add screen sharing to this call.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The peer did not accept any usable RTP media.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Screen sharing was declined or could not connect.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call was terminated.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call was rejected or negotiation failed.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1774,102 +1897,356 @@ This is a paper board game where you try to sink the opponent&apos;s ships.To in
         <source>Export bookmarks</source>
         <translation>Eksportuj zakładki</translation>
     </message>
+    <message>
+        <source>Bookmark error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The bookmark changes could not be submitted.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Call</name>
     <message>
         <source>Dialog</source>
-        <translation>Dialog</translation>
+        <translation type="vanished">Dialog</translation>
     </message>
     <message>
         <source>To:</source>
-        <translation>Do:</translation>
+        <translation type="vanished">Do:</translation>
     </message>
     <message>
         <source>Use video</source>
-        <translation>Włącz wideo</translation>
+        <translation type="vanished">Włącz wideo</translation>
     </message>
     <message>
         <source>Sending bandwidth:</source>
-        <translation>Prędkość wysyłania:</translation>
+        <translation type="vanished">Prędkość wysyłania:</translation>
     </message>
     <message>
         <source>Call status</source>
-        <translation>Status rozmowy</translation>
+        <translation type="vanished">Status rozmowy</translation>
     </message>
     <message>
         <source>&amp;Reject</source>
-        <translation>O&amp;drzuć</translation>
+        <translation type="vanished">O&amp;drzuć</translation>
     </message>
     <message>
         <source>&amp;Accept</source>
-        <translation>&amp;Odbierz</translation>
+        <translation type="vanished">&amp;Odbierz</translation>
+    </message>
+</context>
+<context>
+    <name>CallDlg</name>
+    <message>
+        <source>Call</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Whiteboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 — %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The contact cannot be called.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to accept the whiteboard invitation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The contact does not support whiteboards.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to send the whiteboard invitation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to create a whiteboard.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The invitation was declined or failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio and video are not available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to add a whiteboard to this call.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End-to-end encrypted with OMEMO; the whiteboard goes through the server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End-to-end encrypted, verified with OMEMO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encrypted, but the contact&apos;s OMEMO device is not trusted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not end-to-end encrypted: the whiteboard goes through the server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encrypted, not verified end-to-end</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refused: the encryption could not be verified with a trusted OMEMO device of the contact. See Options &gt; Security.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CallDlg::Private</name>
     <message>
         <source>Voice Call</source>
-        <translation>Rozmowa głosowa</translation>
+        <translation type="vanished">Rozmowa głosowa</translation>
     </message>
     <message>
         <source>High (1Mbps)</source>
-        <translation>Wysoka (1Mbps)</translation>
+        <translation type="vanished">Wysoka (1Mbps)</translation>
     </message>
     <message>
         <source>Average (400Kbps)</source>
-        <translation>Średnia (400Kbps)</translation>
+        <translation type="vanished">Średnia (400Kbps)</translation>
     </message>
     <message>
         <source>Low (160Kbps)</source>
-        <translation>Niska (160Kbps)</translation>
+        <translation type="vanished">Niska (160Kbps)</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Zamknij</translation>
+        <translation type="vanished">&amp;Zamknij</translation>
     </message>
     <message>
         <source>C&amp;all</source>
-        <translation>&amp;Rozmowa</translation>
+        <translation type="vanished">&amp;Rozmowa</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation>Gotowe</translation>
+        <translation type="vanished">Gotowe</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation>Od:</translation>
+        <translation type="vanished">Od:</translation>
     </message>
     <message>
         <source>Accept call?</source>
-        <translation>Odebrać rozmowę?</translation>
+        <translation type="vanished">Odebrać rozmowę?</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Anuluj</translation>
+        <translation type="vanished">&amp;Anuluj</translation>
     </message>
     <message>
         <source>Calling...</source>
-        <translation>Łączenie...</translation>
+        <translation type="vanished">Łączenie...</translation>
     </message>
     <message>
         <source>Accepting...</source>
-        <translation>Akceptowanie...</translation>
+        <translation type="vanished">Akceptowanie...</translation>
     </message>
     <message>
         <source>&amp;Hang up</source>
-        <translation>Za&amp;kończ rozmowę</translation>
+        <translation type="vanished">Za&amp;kończ rozmowę</translation>
     </message>
     <message>
         <source>Call active</source>
-        <translation>Rozmowa aktywna</translation>
+        <translation type="vanished">Rozmowa aktywna</translation>
     </message>
+</context>
+<context>
+    <name>CallStage</name>
     <message>
-        <source>Call is ended</source>
+        <source>Show %1 on the main stage</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CallView</name>
+    <message>
+        <source>Audio call
+Turn on your camera or share your screen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Call duration: %1</source>
+        <source>Shared screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Camera</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose microphone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose camera</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HD · 2 Mbps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Balanced · 1 Mbps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Low bandwidth · 400 kbps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Video quality</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Zamknij</translation>
+    </message>
+    <message>
+        <source>Close call window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mute microphone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unmute microphone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Turn camera off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Turn camera on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel screen selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel selected screen: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop sharing: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share a display or window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide whiteboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show whiteboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End call (%1 elapsed)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel call</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selecting screen…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Screen selected: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Connecting screen…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sharing: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Connected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Connected · waiting for video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join whiteboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accept call</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Session ended</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call ended</source>
+        <translation type="unfinished">Rozmowa zakończona</translation>
+    </message>
+    <message>
+        <source>Whiteboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Calls are not available with this contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No devices available</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>System default (%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device unavailable; using %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2194,6 +2571,17 @@ Czy nadal chcesz zamknąć to okno?</translation>
     </message>
 </context>
 <context>
+    <name>ChatEditProxy</name>
+    <message>
+        <source>Reply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reply to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ChatView</name>
     <message>
         <source>Quote</source>
@@ -2213,14 +2601,41 @@ Czy nadal chcesz zamknąć to okno?</translation>
     </message>
     <message>
         <source>URL:</source>
-        <translation>Link:</translation>
+        <translation type="vanished">Link:</translation>
     </message>
     <message>
         <source>Desc:</source>
-        <translation>Opis:</translation>
+        <translation type="vanished">Opis:</translation>
     </message>
     <message>
         <source>The message was corrected</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ChatViewJSObject</name>
+    <message>
+        <source>Open in external player</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose external player</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This media cannot be played inside the chat.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not load this media. Check the connection and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The built-in player could not decode this media.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The built-in player could not open this media.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2672,6 +3087,77 @@ Można ręcznie określić wersję klienta i systemu operacyjnego lub wybrać je
     </message>
 </context>
 <context>
+    <name>CodeBlockWidget</name>
+    <message>
+        <source>Choose syntax highlighting language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Code language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open code in window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open code in a separate window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format JSON or XML for reading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run received code?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Executing code from a message can read, modify or delete local data. Only continue if you have reviewed the code and trust its source.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I understand and accept the risk of running code from an unverified source.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plain text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Syntax highlighting: %1. Click to choose another language.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format for reading (toggle original)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format available for valid JSON or XML, up to 2 MiB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Original</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ConfLogger::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
@@ -2844,6 +3330,34 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>&amp;XMPP Console</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blocked Contacts...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blocked Contacts</source>
+        <translation type="unfinished">Zablokowane kontakty</translation>
+    </message>
+    <message>
+        <source>Server blocklist (XEP-0191)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Block JID...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unblock</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Block JID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XMPP address:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3165,6 +3679,29 @@ Kontynuować?</translation>
     </message>
 </context>
 <context>
+    <name>DesktopUtil</name>
+    <message>
+        <source>Choose another player…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>External media player</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Player:</source>
+        <translation type="unfinished">Odtwarzacz:</translation>
+    </message>
+    <message>
+        <source>Choose media player executable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not start the media player. Choose another player and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Disco</name>
     <message>
         <source>Service Discovery</source>
@@ -3400,11 +3937,18 @@ Kontynuować?</translation>
     <name>EDBFlatFile::File</name>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
-        <translation>&lt;big&gt;[Komunikat systemowy]&lt;/big&gt;&lt;br&gt;Udzielo Ci pozwolenia na subskrypcję obecności.</translation>
+        <translation type="vanished">&lt;big&gt;[Komunikat systemowy]&lt;/big&gt;&lt;br&gt;Udzielo Ci pozwolenia na subskrypcję obecności.</translation>
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;Your authorization has been removed!</source>
-        <translation>&lt;big&gt;[Komunikat systemowy]&lt;/big&gt;&lt;br&gt;Cofnięto Ci pozwolenie na subskrypcję obecności!</translation>
+        <translation type="vanished">&lt;big&gt;[Komunikat systemowy]&lt;/big&gt;&lt;br&gt;Cofnięto Ci pozwolenie na subskrypcję obecności!</translation>
+    </message>
+</context>
+<context>
+    <name>EDBSqLite</name>
+    <message>
+        <source>Unable to decrypt archived message</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4555,6 +5099,13 @@ osiągalny. Jeśli jesteś za firewallem, to upewnij się
     </message>
 </context>
 <context>
+    <name>FileShareDownloader</name>
+    <message>
+        <source>The file is larger than the automatic download limit</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>FileShareDownloader::Private</name>
     <message>
         <source>Download sources are not given</source>
@@ -4562,13 +5113,60 @@ osiągalny. Jeśli jesteś za firewallem, to upewnij się
     </message>
 </context>
 <context>
-    <name>FileSharingItem</name>
+    <name>FileSharingMediaSave</name>
+    <message>
+        <source>Download source disappeared</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download cancelled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unexpected media size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot read media data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Media download ended before validation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Incomplete media download</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>FileSharingPublication</name>
+    <message>
+        <source>Published in the private PubSub catalog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PubSub publication failed: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reusing an HTTP upload after checking its availability</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not open the file for HTTP upload</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Published on HttpUpload service</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Failed to publish on HttpUpload service</source>
+        <source>Failed to publish on HttpUpload service: %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5192,6 +5790,50 @@ Przyczyna: %1</translation>
         <source>%1 encryption is enabled</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>%1 is not in the room</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert nickname</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy nickname</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy last known address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User Info</source>
+        <translation type="unfinished">Informacje o użytkowniku</translation>
+    </message>
+    <message>
+        <source>Open Chat Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This archive cannot position messages by index. Older history remains available by scrolling.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide participants</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show participants</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Archive response omitted the requested index</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -5202,6 +5844,10 @@ Przyczyna: %1</translation>
     <message>
         <source>Command</source>
         <translation>Polecenie</translation>
+    </message>
+    <message>
+        <source>Room membership lost; attempting to rejoin.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5960,6 +6606,10 @@ To invite a friend for a game, you can use contact menu item or the button on th
         <source>Send</source>
         <translation>Wyślij</translation>
     </message>
+    <message>
+        <source>Hide participants</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>GroupChatTopicAddLangDlg</name>
@@ -6090,6 +6740,10 @@ To invite a friend for a game, you can use contact menu item or the button on th
         <source>deleted</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Group chats</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HistoryDlg</name>
@@ -6214,39 +6868,38 @@ To invite a friend for a game, you can use contact menu item or the button on th
     <name>HistoryImport</name>
     <message>
         <source>Status:</source>
-        <translation>Status:</translation>
-    </message>
-    <message>
-        <source>Progress:</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Status:</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">OK</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation>Import</translation>
+        <translation type="vanished">Import</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Błąd</translation>
+        <translation type="vanished">Błąd</translation>
     </message>
     <message>
-        <source>Found %1 files for import.
-Continue?</source>
+        <source>Upgrade history</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Counting records</source>
+        <source>The history database needs to be upgraded. This can take some time for a large history. Psi will continue starting after the upgrade finishes. Continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Import history</source>
+        <source>Upgrading history…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upgrading history (record %1)…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The history upgrade failed. Changes were rolled back; Psi cannot continue.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6276,6 +6929,41 @@ Można zaznaczyć lub odznaczyć kontakt do usunięcia historii z poziomu menu k
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>HistorySync</name>
+    <message>
+        <source>Account is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Archive catch-up repeated a cursor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Archive response omitted the requested index</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to decrypt archived message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid archive page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not repair cached archive page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Archive catch-up did not advance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not persist archive page</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7341,6 +8029,10 @@ to play battleship. He wants to play %2.</source>
         <source>Jingle download failed: %s</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Jingle file transfer is disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>JuickJidDialog</name>
@@ -7984,6 +8676,212 @@ Przychodzące zdarzenie(a) od:</translation>
     </message>
 </context>
 <context>
+    <name>MamChatWidget</name>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add reaction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Retract message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Archive response omitted the requested index</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Me</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delivered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not encrypted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encrypted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encrypted with %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The message was corrected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edited message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Received</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type: %1
+Size: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show in file manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy file path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open in browser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not create a temporary directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>just now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 minute ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n minutes ago</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>1 hour ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n hours ago</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Message retracted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Referenced message is not available locally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quote</source>
+        <translation type="unfinished">Cytat</translation>
+    </message>
+    <message>
+        <source>The message has no reply identifier assigned by its sender or room.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation type="unfinished">Dalej</translation>
+    </message>
+    <message>
+        <source>Copy image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy image link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy link address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>MamImageViewer</name>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Mattermost::OverlayScrollBarManager</name>
+    <message>
+        <source>Scroll to top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scroll to bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MessageFilter</name>
     <message>
         <source>Author: </source>
@@ -7995,6 +8893,21 @@ Przychodzące zdarzenie(a) od:</translation>
     </message>
     <message>
         <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>MessagePreview</name>
+    <message>
+        <source>Cancel reply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show less</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show more…</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8254,6 +9167,36 @@ Details: %1</source>
     <name>NAMFileShareDownloader</name>
     <message>
         <source>Unexpected HTTP status</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>NativeChatThemes</name>
+    <message>
+        <source>Bubble</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Classic</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>NativeChatViewThemeProvider</name>
+    <message>
+        <source>Groupchat Message Style</source>
+        <translation type="unfinished">Styl wiadomości rozmowy grupowej</translation>
+    </message>
+    <message>
+        <source>Chat Message Style</source>
+        <translation type="unfinished">Styl czatu</translation>
+    </message>
+    <message>
+        <source>Choose the native message layout</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8711,6 +9654,26 @@ Przyczyna: %1.</translation>
         <source>Group chat contacts without role:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Desktop palette:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Muted color for quoted text and the vertical quote line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quoted messages:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chat background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chat text</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptAppearanceMisc</name>
@@ -9070,7 +10033,7 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     </message>
     <message>
         <source>Use contacts&apos; message formatting</source>
-        <translation>Używaj tego samego stylu formatowania co kontakt</translation>
+        <translation type="vanished">Używaj tego samego stylu formatowania co kontakt</translation>
     </message>
     <message>
         <source>Show character counter</source>
@@ -9094,6 +10057,22 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     </message>
     <message>
         <source>Enable audio messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download automatically in chats:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download automatically in group chats:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display received messages in deprecated XHTML-IM formatting (XEP-0071)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send messages in deprecated XHTML-IM formatting (XEP-0071)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9251,11 +10230,11 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
-        <translation>Wyłączenie paska przewijania w oknie aplikacji.</translation>
+        <translation type="vanished">Wyłączenie paska przewijania w oknie aplikacji.</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation>Wyłącz pasek przewijania</translation>
+        <translation type="vanished">Wyłącz pasek przewijania</translation>
     </message>
     <message>
         <source>Enables avatar frame at the top of roster</source>
@@ -9365,12 +10344,8 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Hides scrollbar in the roster widget.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Disable scrollbar</source>
-        <translation>Wyłącz pasek przewijania</translation>
+        <translation type="vanished">Wyłącz pasek przewijania</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -9537,6 +10512,14 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     <message>
         <source>Reset to defaults</source>
         <translation>Przywróć domyślne</translation>
+    </message>
+    <message>
+        <source>Incoming call (repeated):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Calling (repeated):</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10547,6 +11530,18 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
         <source>Status message</source>
         <translation>Opis statusu</translation>
     </message>
+    <message>
+        <source>Light desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit each palette independently. Psi automatically uses the palette matching the desktop theme.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptionsTabAppearanceMisc</name>
@@ -10857,10 +11852,6 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
         <translation>Transport</translation>
     </message>
     <message>
-        <source>vk.com</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Weather</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10934,7 +11925,31 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     </message>
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation>Jeśli włączone, Psi będzie wyświetlać przychodzące wiadomości sformatowane w stylu zdefiniowanym przez kontakt</translation>
+        <translation type="vanished">Jeśli włączone, Psi będzie wyświetlać przychodzące wiadomości sformatowane w stylu zdefiniowanym przez kontakt</translation>
+    </message>
+    <message>
+        <source>Never, only when asked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Up to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pictures, voice messages and other media from contacts in your roster, and from your own other devices, are downloaded and shown right away up to this size. Larger files and files from anyone else are downloaded only when you ask.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Media in group chats is downloaded and shown right away up to this size, whoever sent it. Larger files are downloaded only when you ask.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact by using the deprecated XHTML-IM (XEP-0071)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If enabled, Psi will send outcoming formatted messages with additional XHTML-IM (XEP-0071). Note: it&apos;s deprecated badly supported.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11229,6 +12244,117 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
         <source>Could not save the trust decision.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Calls, whiteboards and files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>With contacts whose chat uses OMEMO: only with encryption verified by OMEMO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The encryption keys of a call or whiteboard are confirmed with a trusted OMEMO device of the contact, and files are encrypted end to end (JET-OMEMO). Sessions that cannot be protected are refused instead of running unprotected. Contacts whose chat is not encrypted with OMEMO are not affected. Files to OMEMO contacts are encrypted whenever the contact supports it, also without this option.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabServerless</name>
+    <message>
+        <source>Serverless</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chat on the local network without a server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Discover and chat with people on the selected local network using Bonjour / XEP-0174. Messages currently use unencrypted, unauthenticated connections. Enable this only on a network you trust.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable serverless messaging</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Serverless messaging is unavailable: this Iris build does not include JDNS support.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local network account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local address:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation type="unfinished">Odśwież</translation>
+    </message>
+    <message>
+        <source>Network interface:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Leave Automatic unless a firewall requires a fixed TCP listening port.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Listening port:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Connect automatically when Psi starts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status:</source>
+        <translation type="unfinished">Status:</translation>
+    </message>
+    <message>
+        <source>Automatic (active local network)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 (%2)</source>
+        <translation type="unfinished">%1 (%2)</translation>
+    </message>
+    <message>
+        <source>%1 (unavailable)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assigned when enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online on the local network</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Announcing on the local network…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local network</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptionsTabShortcuts</name>
@@ -11436,6 +12562,17 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     <message>
         <source>Please note: This editor will change the options directly. Pressing Cancel will not revert these changes.</source>
         <translation>Uwaga: Edytor ten zmieni ustawienia bezpośrednio w działającym programie. Naciśnięcie przycisku Anuluj nie przywróci tych zmian.</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabXmppAccounts</name>
+    <message>
+        <source>XMPP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Server accounts</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12297,67 +13434,74 @@ Nadal można zapisać grę.</translation>
     </message>
 </context>
 <context>
+    <name>ProfileItemDelegate</name>
+    <message>
+        <source>Delete profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ProfileManage</name>
     <message>
         <source>Manage Profiles</source>
-        <translation>Zarządzanie profilami</translation>
+        <translation type="vanished">Zarządzanie profilami</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp;Dodaj</translation>
+        <translation type="vanished">&amp;Dodaj</translation>
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation>psi/addContact</translation>
+        <translation type="vanished">psi/addContact</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation>Z&amp;mień nazwę</translation>
+        <translation type="vanished">Z&amp;mień nazwę</translation>
     </message>
     <message>
         <source>Rem&amp;ove</source>
-        <translation>&amp;Usuń</translation>
+        <translation type="vanished">&amp;Usuń</translation>
     </message>
     <message>
         <source>psi/remove</source>
-        <translation>psi/remove</translation>
+        <translation type="vanished">psi/remove</translation>
     </message>
 </context>
 <context>
     <name>ProfileManageDlg</name>
     <message>
         <source>Rename Profile</source>
-        <translation>Zmień nazwę profilu</translation>
+        <translation type="vanished">Zmień nazwę profilu</translation>
     </message>
     <message>
         <source>Please enter a new name for the profile.  Keep it simple.
 Only use letters or numbers.  No punctuation or spaces.</source>
-        <translation>Proszę wprowadzić nową nazwę profilu.
+        <translation type="vanished">Proszę wprowadzić nową nazwę profilu.
 Używaj tylko liter i cyfr, bez kropek lub spacji.</translation>
     </message>
     <message>
         <source>There is already another profile with this name.  Please choose another.</source>
-        <translation>Istnieje już profil o tej nazwie. Wybierz inną.</translation>
+        <translation type="vanished">Istnieje już profil o tej nazwie. Wybierz inną.</translation>
     </message>
     <message>
         <source>Unable to rename the profile.  Please do not use any special characters.</source>
-        <translation>Nie można zmienić nazwy profilu. Proszę nie używać znaków specjalnych.</translation>
+        <translation type="vanished">Nie można zmienić nazwy profilu. Proszę nie używać znaków specjalnych.</translation>
     </message>
     <message>
         <source>Delete Profile</source>
-        <translation>Usuń profil</translation>
+        <translation type="vanished">Usuń profil</translation>
     </message>
     <message>
         <source>&lt;qt&gt;Are you sure you want to delete the &quot;&lt;b&gt;%1&lt;/b&gt;&quot; profile?  This will delete all of the profile&apos;s message history as well as associated settings!&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;Czy na pewno chcesz usunąć profil &quot;&lt;b&gt;%1&lt;/b&gt;&quot;? Usunięcie profilu spowoduje usunięcie historii wiadomości oraz powiązanych z tym profilem ustawień!&lt;/qt&gt;</translation>
+        <translation type="vanished">&lt;qt&gt;Czy na pewno chcesz usunąć profil &quot;&lt;b&gt;%1&lt;/b&gt;&quot;? Usunięcie profilu spowoduje usunięcie historii wiadomości oraz powiązanych z tym profilem ustawień!&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>No, I changed my mind</source>
-        <translation>Nie, rozmyśliłem się</translation>
+        <translation type="vanished">Nie, rozmyśliłem się</translation>
     </message>
     <message>
         <source>Delete it!</source>
-        <translation>Usuń!</translation>
+        <translation type="vanished">Usuń!</translation>
     </message>
     <message>
         <source>&amp;No</source>
@@ -12367,22 +13511,12 @@ Używaj tylko liter i cyfr, bez kropek lub spacji.</translation>
         <source>&amp;Yes</source>
         <translation type="vanished">&amp;Tak</translation>
     </message>
-    <message>
-        <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
-&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-Proceed?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unable to delete the folders completely.  Ensure you have the proper permission.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>ProfileNew</name>
     <message>
         <source>New Profile</source>
-        <translation>Nowy profil</translation>
+        <translation type="vanished">Nowy profil</translation>
     </message>
     <message>
         <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
@@ -12398,73 +13532,61 @@ Zaznacz opcję &lt;b&gt;Włącz emotikony&lt;/b&gt;, jeśli chcesz, aby tekst ty
     </message>
     <message>
         <source>Profile Name:</source>
-        <translation>Nazwa profilu:</translation>
+        <translation type="vanished">Nazwa profilu:</translation>
     </message>
     <message>
         <source>Default Action</source>
-        <translation>Domyślna akcja</translation>
+        <translation type="vanished">Domyślna akcja</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
-        <translation>Pokazuj emotikony</translation>
+        <translation type="vanished">Pokazuj emotikony</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Zamknij</translation>
+        <translation type="vanished">&amp;Zamknij</translation>
     </message>
     <message>
         <source>&amp;Create</source>
-        <translation>&amp;Utwórz</translation>
+        <translation type="vanished">&amp;Utwórz</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation>Alt+W</translation>
+        <translation type="vanished">Alt+W</translation>
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation>psi/addContact</translation>
-    </message>
-    <message>
-        <source>&amp;Message</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">psi/addContact</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation>&amp;Rozmowa</translation>
-    </message>
-    <message>
-        <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
-&lt;br&gt;
-The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; and&lt;b&gt; Chat&lt;/b&gt;. You can change this later from the Options menu.&lt;br&gt;
-&lt;br&gt;
-Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;Rozmowa</translation>
     </message>
 </context>
 <context>
     <name>ProfileNewDlg</name>
     <message>
         <source>New Profile</source>
-        <translation>Nowy profil</translation>
+        <translation type="vanished">Nowy profil</translation>
     </message>
     <message>
         <source>There is already an existing profile with this name.  Please choose another.</source>
-        <translation>Istnieje już profil o tej nazwie. Wybierz inną.</translation>
+        <translation type="vanished">Istnieje już profil o tej nazwie. Wybierz inną.</translation>
     </message>
     <message>
         <source>Unable to create the profile.  Please do not use any special characters.</source>
-        <translation>Nie mogę utworzyć profilu. Proszę nie używać znaków specjalnych.</translation>
+        <translation type="vanished">Nie mogę utworzyć profilu. Proszę nie używać znaków specjalnych.</translation>
     </message>
 </context>
 <context>
     <name>ProfileOpen</name>
     <message>
         <source>Open Profile</source>
-        <translation>Otwórz profil</translation>
+        <translation type="vanished">Otwórz profil</translation>
     </message>
     <message>
         <source>left</source>
-        <translation>lewo</translation>
+        <translation type="vanished">lewo</translation>
     </message>
     <message>
         <source>Image goes here</source>
@@ -12476,38 +13598,54 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Profile:</source>
-        <translation>Profil:</translation>
+        <translation type="vanished">Profil:</translation>
     </message>
     <message>
         <source>&amp;Automatically open on startup</source>
-        <translation>&amp;Automatycznie otwórz przy starcie</translation>
+        <translation type="vanished">&amp;Automatycznie otwórz przy starcie</translation>
     </message>
     <message>
         <source>Language:</source>
-        <translation>Język:</translation>
+        <translation type="vanished">Język:</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation>&amp;Wyjdź</translation>
-    </message>
-    <message>
-        <source>psi/quit</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;Wyjdź</translation>
     </message>
     <message>
         <source>&amp;Profiles...</source>
-        <translation>&amp;Profile...</translation>
-    </message>
-    <message>
-        <source>psi/profile</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;Profile...</translation>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation>&amp;Otwórz</translation>
+        <translation type="vanished">&amp;Otwórz</translation>
     </message>
     <message>
-        <source>psi/logo_16</source>
+        <source>Profiles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Startup and language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Automatically open this profile on startup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The last opened profile will be used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Application language:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12515,15 +13653,61 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <name>ProfileOpenDlg</name>
     <message>
         <source>Select a profile to open from this list.</source>
-        <translation>Wybierz profil z listy.</translation>
+        <translation type="vanished">Wybierz profil z listy.</translation>
     </message>
     <message>
         <source>Select a language you would like Psi to use from this list.  You can download extra language packs from the Psi homepage.</source>
-        <translation>Wybierz z listy język w jakim Psi ma wyświetlać komunikaty. Dodatkowe pliki tłumaczeń znajdują się na witrynie Psi albo bezpośrednio w instalatorze.</translation>
+        <translation type="vanished">Wybierz z listy język w jakim Psi ma wyświetlać komunikaty. Dodatkowe pliki tłumaczeń znajdują się na witrynie Psi albo bezpośrednio w instalatorze.</translation>
     </message>
     <message>
         <source>Automatically open this profile when Psi is started.  Useful if you only have one profile.</source>
-        <translation>Automatycznie otwieraj ten profil przy starcie Psi. Przydatne gdy korzysta się tylko z jednego profilu.</translation>
+        <translation type="vanished">Automatycznie otwieraj ten profil przy starcie Psi. Przydatne gdy korzysta się tylko z jednego profilu.</translation>
+    </message>
+    <message>
+        <source>Double-click or press F2 to rename a profile. Press Delete to remove it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose the application language. This setting applies to all profiles.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open the selected profile automatically the next time Psi starts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to create this profile. Check folder permissions.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Profile created, but its default options could not be saved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Profile names may contain only letters and numbers.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A profile with this name already exists.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to rename the profile. Check folder permissions.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Profile</source>
+        <translation type="unfinished">Usuń profil</translation>
+    </message>
+    <message>
+        <source>Delete profile &quot;%1&quot;?
+
+All of its message history, settings, and cached files will be deleted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to delete the profile completely. Check folder permissions.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12576,6 +13760,26 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <source>Password:</source>
         <translation>Hasło:</translation>
     </message>
+    <message>
+        <source>DNS through the proxy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remote DNS:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DoH URL:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DNS server:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Test DNS...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ProxyChooser</name>
@@ -12610,12 +13814,56 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <source>If you require a proxy server to connect, select the type of proxy here.</source>
         <translation>Jeżeli potrzebujesz serwera proxy do połączenia, wybierz tutaj jego typ.</translation>
     </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DNS over HTTPS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DNS over TCP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A DNS server reached through this proxy. Accounts that use the proxy can look up their server with it (remote SRV lookup), so that no DNS query leaves this computer.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ProxyDlg::Private</name>
     <message>
         <source>Unnamed</source>
         <translation>Bez nazwy</translation>
+    </message>
+    <message>
+        <source>Test proxy DNS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid proxy host or port.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid DNS server address.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XMPP domain to look up:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No XMPP server was found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No SRV, the domain:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SRV %1:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12995,6 +14243,22 @@ Przyczyna: %1.</translation>
     </message>
     <message>
         <source>Encryption failed: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bookmark synchronization failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Serverless delivery failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unsupported</source>
+        <translation type="unfinished">Nieobsługiwane</translation>
+    </message>
+    <message>
+        <source>Group chat whiteboards are not supported yet.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13665,6 +14929,30 @@ Przyczyna: %1.</translation>
         <source>OMEMO devices</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Account is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Archive response omitted the requested index</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This archive cannot position messages by index. Older history remains available by scrolling.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice Call</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Whiteboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Whiteboard only</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiCli</name>
@@ -13926,7 +15214,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Open a &amp;Whiteboard</source>
-        <translation>Otwórz &amp;tablicę</translation>
+        <translation type="vanished">Otwórz &amp;tablicę</translation>
     </message>
     <message>
         <source>Voice Call</source>
@@ -14081,10 +15369,6 @@ Migration is possible with Psi-0.15</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Open a White&amp;board To</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Active Chats</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14108,12 +15392,32 @@ Migration is possible with Psi-0.15</source>
         <source>Add To Bookmarks</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Call &amp;To</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Whiteboard</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiDBusNotifier</name>
     <message>
         <source>Open</source>
         <translation>Otwórz</translation>
+    </message>
+    <message>
+        <source>Whiteboard invitation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accept</source>
+        <translation type="unfinished">Akceptuj</translation>
+    </message>
+    <message>
+        <source>Decline</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14230,6 +15534,20 @@ Migration is possible with Psi-0.15</source>
         <source>OMEMO setup failed: %1</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Could not decrypt a message: the encryption session with this device is broken (%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repair OMEMO session</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+This device&apos;s identity key is already trusted. Only its encryption session needs to be repaired.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiGroupChatBrowseWindow</name>
@@ -14298,6 +15616,13 @@ Czy chcesz teraz aktywować sesję?</translation>
     <message>
         <source>Cannot open this profile - it is already running, but not responding</source>
         <translation>Nie można otworzyć tego profilu - jest aktualnie uruchomiony ale nie odpowiada</translation>
+    </message>
+</context>
+<context>
+    <name>PsiMedia::ScreenCapture</name>
+    <message>
+        <source>The media backend does not support screen sharing.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14446,11 +15771,11 @@ Czy chcesz teraz aktywować sesję?</translation>
     </message>
     <message>
         <source>Open a detached option editor window.</source>
-        <translation>Otwórz oddzielne okno edytora ustawień.</translation>
+        <translation type="vanished">Otwórz oddzielne okno edytora ustawień.</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation>Zaawansowane</translation>
+        <translation type="vanished">Zaawansowane</translation>
     </message>
     <message>
         <source>(internal node)</source>
@@ -14507,12 +15832,42 @@ Czy chcesz teraz aktywować sesję?</translation>
         <source> is typing...</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>invites you to a whiteboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is calling you</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PsiPopup::Private</name>
+    <message>
+        <source>Accept</source>
+        <translation type="unfinished">Akceptuj</translation>
+    </message>
+    <message>
+        <source>Decline</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiRosterWidget</name>
     <message>
         <source>Clear</source>
         <translation>Wyczyść ekran konsoli</translation>
+    </message>
+</context>
+<context>
+    <name>PsiTextView</name>
+    <message>
+        <source>unknown size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shared media is downloading (%1, %2)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16217,6 +17572,54 @@ Thanks for your patience.</source>
         <source>Unknown</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Save file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No download source</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transferring, end-to-end encrypted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Finishing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Done</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Speech bubbles, your messages on the right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compact text layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Avatars and message headers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 invites you to a whiteboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading: %1%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading…</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -16419,6 +17822,29 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <source>This user wants to modify your roster.</source>
         <translation>Ten użytkownik chce zmodyfikować Twoją listę kontaktów.</translation>
+    </message>
+</context>
+<context>
+    <name>ScreenShareCapture</name>
+    <message>
+        <source>Choose what to share</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share a display or a single window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Displays</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18573,109 +19999,105 @@ On the first tab set up a list of contacts for the status of which is monitored.
 <context>
     <name>WbDlg</name>
     <message>
-        <source>Whiteboard (%1)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Save session</source>
-        <translation>Zapisz sesję</translation>
+        <translation type="vanished">Zapisz sesję</translation>
     </message>
     <message>
         <source>Save the contents of the whiteboard</source>
-        <translation>Zapisz zawartość tablicy</translation>
+        <translation type="vanished">Zapisz zawartość tablicy</translation>
     </message>
     <message>
         <source>Change the geometry</source>
-        <translation>Zmień wymiary</translation>
+        <translation type="vanished">Zmień wymiary</translation>
     </message>
     <message>
         <source>End session</source>
-        <translation>Koniec sesji</translation>
+        <translation type="vanished">Koniec sesji</translation>
     </message>
     <message>
         <source>Clear the whiteboard</source>
-        <translation>Wyczyść tablicę</translation>
+        <translation type="vanished">Wyczyść tablicę</translation>
     </message>
     <message>
         <source>Stroke color</source>
-        <translation>Kolor linii</translation>
+        <translation type="vanished">Kolor linii</translation>
     </message>
     <message>
         <source>Fill color</source>
-        <translation>Kolor wypełnienia</translation>
+        <translation type="vanished">Kolor wypełnienia</translation>
     </message>
     <message>
         <source>Stroke width</source>
-        <translation>Szerokość (grubość) linii</translation>
+        <translation type="vanished">Szerokość (grubość) linii</translation>
     </message>
     <message>
         <source>Edit mode</source>
-        <translation>Tryb edycji</translation>
+        <translation type="vanished">Tryb edycji</translation>
     </message>
     <message>
         <source>Thin stroke</source>
-        <translation>Cienka linia</translation>
+        <translation type="vanished">Cienka linia</translation>
     </message>
     <message>
         <source>Medium stroke</source>
-        <translation>Średnia linia</translation>
+        <translation type="vanished">Średnia linia</translation>
     </message>
     <message>
         <source>Thick stroke</source>
-        <translation>Gruba linia</translation>
+        <translation type="vanished">Gruba linia</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation>Wybierz</translation>
+        <translation type="vanished">Wybierz</translation>
     </message>
     <message>
         <source>Translate</source>
-        <translation>Przesuń</translation>
+        <translation type="vanished">Przesuń</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>Obróć</translation>
+        <translation type="vanished">Obróć</translation>
     </message>
     <message>
         <source>Scale</source>
-        <translation>Skaluj</translation>
+        <translation type="vanished">Skaluj</translation>
     </message>
     <message>
         <source>Erase</source>
-        <translation>Wyczyść</translation>
+        <translation type="vanished">Wyczyść</translation>
     </message>
     <message>
         <source>Scroll view</source>
-        <translation>Przewiń</translation>
+        <translation type="vanished">Przewiń</translation>
     </message>
     <message>
         <source>Scroll</source>
-        <translation>Przewiń</translation>
+        <translation type="vanished">Przewiń</translation>
     </message>
     <message>
         <source>Draw paths</source>
-        <translation>Rysuj ścieżki (krzywe)</translation>
+        <translation type="vanished">Rysuj ścieżki (krzywe)</translation>
     </message>
     <message>
         <source>Add images</source>
-        <translation>Dodaj obrazy</translation>
+        <translation type="vanished">Dodaj obrazy</translation>
     </message>
     <message>
         <source>Whiteboard toolbar</source>
-        <translation>Przybornik tablicy</translation>
+        <translation type="vanished">Przybornik tablicy</translation>
     </message>
     <message>
         <source>%1 left (session: %2).</source>
-        <translation>%1 wyszedł (sesja %2).</translation>
+        <translation type="vanished">%1 wyszedł (sesja %2).</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>Uwaga</translation>
+        <translation type="vanished">Uwaga</translation>
     </message>
     <message>
         <source>Are you sure you want to end the session?
 The contents of the whiteboard will be lost.</source>
-        <translation>Czy jesteś pewien, że chcesz zakończyć sesję?
+        <translation type="vanished">Czy jesteś pewien, że chcesz zakończyć sesję?
 Zawartość tablicy będzie utracona.</translation>
     </message>
     <message>
@@ -18689,32 +20111,32 @@ Zawartość tablicy będzie utracona.</translation>
     <message>
         <source>A new whiteboard message was just received.
 Do you still want to close the window?</source>
-        <translation>Została odebrana nowa zawartość tablicy.
+        <translation type="vanished">Została odebrana nowa zawartość tablicy.
 Czy nadal chcesz zamknąć tablicę?</translation>
     </message>
     <message>
         <source>Set new width:</source>
-        <translation>Podaj nową szerokość:</translation>
+        <translation type="vanished">Podaj nową szerokość:</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation>Szerokość:</translation>
+        <translation type="vanished">Szerokość:</translation>
     </message>
     <message>
         <source>Set new height:</source>
-        <translation>Podaj nową wysokość:</translation>
+        <translation type="vanished">Podaj nową wysokość:</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation>Wysokość:</translation>
+        <translation type="vanished">Wysokość:</translation>
     </message>
     <message>
         <source>Save Whitebaord</source>
-        <translation>Zapisz tablicę</translation>
+        <translation type="vanished">Zapisz tablicę</translation>
     </message>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
-        <translation>Skalowalna Grafika Wektorowa (*.svg)</translation>
+        <translation type="vanished">Skalowalna Grafika Wektorowa (*.svg)</translation>
     </message>
 </context>
 <context>
@@ -18748,35 +20170,433 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     <name>WbManager</name>
     <message>
         <source>Unsupported</source>
-        <translation>Nieobsługiwane</translation>
+        <translation type="vanished">Nieobsługiwane</translation>
     </message>
     <message>
         <source>The contact does not support whiteboarding.</source>
-        <translation>Użytkownik nie ma obsługi tablicy rysunkowej.</translation>
+        <translation type="vanished">Użytkownik nie ma obsługi tablicy rysunkowej.</translation>
     </message>
     <message>
         <source>Open Existing SVG?</source>
-        <translation>Otworzyć instniejący dokument SVG?</translation>
+        <translation type="vanished">Otworzyć instniejący dokument SVG?</translation>
     </message>
     <message>
         <source>Would you like to open an existing SVG document in the whitebaord?</source>
-        <translation>Czy chcesz otworzyć istniejący dokument SVG i wczytać go na tablicę?</translation>
+        <translation type="vanished">Czy chcesz otworzyć istniejący dokument SVG i wczytać go na tablicę?</translation>
     </message>
     <message>
         <source>Initial SVG Document for the Whiteboard</source>
-        <translation>Pierwotny dokument SVG tablicy</translation>
+        <translation type="vanished">Pierwotny dokument SVG tablicy</translation>
     </message>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
-        <translation>Skalowalna Grafika Wektorowa (*.svg)</translation>
+        <translation type="vanished">Skalowalna Grafika Wektorowa (*.svg)</translation>
     </message>
     <message>
         <source>Whiteboarding Invitation?</source>
-        <translation>Zaproszenie do rysowania?</translation>
+        <translation type="vanished">Zaproszenie do rysowania?</translation>
     </message>
     <message>
         <source>%1 has invited you to a whiteboarding session. Would you like to join?</source>
-        <translation>%1 zaprasza na sesję rysowania przy tablicy. Czy chcesz dołączyć?</translation>
+        <translation type="vanished">%1 zaprasza na sesję rysowania przy tablicy. Czy chcesz dołączyć?</translation>
+    </message>
+    <message>
+        <source>Answered on another device.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Declined on another device.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The whiteboard invitation was declined.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The whiteboard invitation was withdrawn.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The whiteboard session has ended.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>WbView</name>
+    <message>
+        <source>Save session</source>
+        <translation type="unfinished">Zapisz sesję</translation>
+    </message>
+    <message>
+        <source>Save the contents of the whiteboard</source>
+        <translation type="unfinished">Zapisz zawartość tablicy</translation>
+    </message>
+    <message>
+        <source>Change the geometry</source>
+        <translation type="unfinished">Zmień wymiary</translation>
+    </message>
+    <message>
+        <source>Clear the whiteboard for everyone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear the whiteboard</source>
+        <translation type="unfinished">Wyczyść tablicę</translation>
+    </message>
+    <message>
+        <source>Stroke color</source>
+        <translation type="unfinished">Kolor linii</translation>
+    </message>
+    <message>
+        <source>Fill color</source>
+        <translation type="unfinished">Kolor wypełnienia</translation>
+    </message>
+    <message>
+        <source>Stroke width</source>
+        <translation type="unfinished">Szerokość (grubość) linii</translation>
+    </message>
+    <message>
+        <source>Edit mode</source>
+        <translation type="unfinished">Tryb edycji</translation>
+    </message>
+    <message>
+        <source>Import SVG</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add the drawing of an SVG file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thin stroke</source>
+        <translation type="unfinished">Cienka linia</translation>
+    </message>
+    <message>
+        <source>Medium stroke</source>
+        <translation type="unfinished">Średnia linia</translation>
+    </message>
+    <message>
+        <source>Thick stroke</source>
+        <translation type="unfinished">Gruba linia</translation>
+    </message>
+    <message>
+        <source>%1 (%2)</source>
+        <translation type="unfinished">%1 (%2)</translation>
+    </message>
+    <message>
+        <source>Select</source>
+        <translation type="unfinished">Wybierz</translation>
+    </message>
+    <message>
+        <source>Draw paths</source>
+        <translation type="unfinished">Rysuj ścieżki (krzywe)</translation>
+    </message>
+    <message>
+        <source>Draw lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw rectangles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw ellipses</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw rhombuses</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add images</source>
+        <translation type="unfinished">Dodaj obrazy</translation>
+    </message>
+    <message>
+        <source>Erase</source>
+        <translation type="unfinished">Wyczyść</translation>
+    </message>
+    <message>
+        <source>Controls</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mouse and keyboard controls</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Whiteboard toolbar</source>
+        <translation type="unfinished">Przybornik tablicy</translation>
+    </message>
+    <message>
+        <source>Right-click or Control-click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-drag (two-finger click and drag on a trackpad)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Space + drag, or two-finger scroll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 + scroll, or pinch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ctrl</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shift</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-drag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle-drag or Space + drag; the wheel scrolls</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 + wheel, or pinch on a touchpad</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Drawing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw with the current tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left button</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Straight line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 + drag with the pen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tools</source>
+        <translation type="unfinished">Narzędzia</translation>
+    </message>
+    <message>
+        <source>V select, P pen, L line, R rectangle, O ellipse, D rhombus, T text, I image, E eraser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square, circle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 + drag with the rectangle or ellipse tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stroke width and text size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select and move</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 + drag an item (or the Select tool)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select an area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 + drag on the empty canvas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add to or remove from the selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 + %2 + click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select all / deselect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 / Esc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move by 1 or 10 units</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow keys / %1 + arrow keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scale</source>
+        <translation type="unfinished">Skaluj</translation>
+    </message>
+    <message>
+        <source>%1 + %2 + drag the selection, or + and −</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation type="unfinished">Obróć</translation>
+    </message>
+    <message>
+        <source>%1, %2 + wheel, or , and . (15°), &lt; and &gt; (1°)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duplicate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete or Backspace</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group / ungroup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 / %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bring forward / send backward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Up / Page Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bring to front / send to back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Home / End</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Item menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished">Wygląd</translation>
+    </message>
+    <message>
+        <source>Zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1, %2 / %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fit the canvas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pan a zoomed canvas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Drop image files on the canvas, paste with %1, or click with the image tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Whiteboard Controls</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set new width:</source>
+        <translation type="unfinished">Podaj nową szerokość:</translation>
+    </message>
+    <message>
+        <source>Width:</source>
+        <translation type="unfinished">Szerokość:</translation>
+    </message>
+    <message>
+        <source>Set new height:</source>
+        <translation type="unfinished">Podaj nową wysokość:</translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation type="unfinished">Wysokość:</translation>
+    </message>
+    <message>
+        <source>Save Whiteboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scalable Vector Graphics (*.svg)</source>
+        <translation type="unfinished">Skalowalna Grafika Wektorowa (*.svg)</translation>
+    </message>
+    <message>
+        <source>The file is not an SVG document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>WbWidget</name>
+    <message>
+        <source>Choose an image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Images (*.png *.jpg *.jpeg *.gif *.bmp *.webp)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18913,6 +20733,13 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     </message>
 </context>
 <context>
+    <name>XMPP::JT_Message</name>
+    <message>
+        <source>Unable to serialize message stanza</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>XMPP::JT_VCard</name>
     <message>
         <source>No VCard available</source>
@@ -18920,6 +20747,140 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     </message>
     <message>
         <source>No vCard available</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>XMPP::LinkLocalService</name>
+    <message>
+        <source>The serverless name is too long for DNS-SD.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot publish the serverless address on this network.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot announce serverless presence.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot find the peer&apos;s TCP service.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot bind to the selected network interface.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Too many serverless connections.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The peer&apos;s TCP connection failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Serverless peer lookup timed out.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid serverless user@machine identity.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot start serverless messaging on the selected network interface or port.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Serverless discovery failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This Iris build does not include JDNS serverless discovery.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This user is no longer visible on the local network.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Too many pending serverless messages or connections.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>XMPP::RemoteNameProvider</name>
+    <message>
+        <source>The connection to the DNS server was refused</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The DNS server host was not found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not connect to the proxy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The proxy refused the connection to the DNS server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Proxy authentication failed</source>
+        <translation type="unfinished">Błąd uwierzytelniania proxy</translation>
+    </message>
+    <message>
+        <source>The connection to the DNS server failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid DNS server address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The DNS resolver failed to start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not start the DNS lookup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DNS server %1 did not answer in time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unsupported proxy type for DNS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The connection to DNS server %1 was lost</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TLS is not available for DNS over HTTPS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The certificate of DNS server %1 is not valid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TLS with DNS server %1 failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid HTTP reply from DNS server %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DNS server %1 answered with HTTP status %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remote DNS is not available: Iris was built without JDNS</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

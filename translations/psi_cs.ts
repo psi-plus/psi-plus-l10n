@@ -114,7 +114,7 @@
     </message>
     <message>
         <source>Patcher and Plugins Writer</source>
-        <translation>Záplatovač a autor zásuvných modulů</translation>
+        <translation type="vanished">Záplatovač a autor zásuvných modulů</translation>
     </message>
     <message>
         <source>Patcher and Ubuntu Packager</source>
@@ -134,7 +134,7 @@
     </message>
     <message>
         <source>Psimedia Patcher and Wiki English localization</source>
-        <translation>Záplatovač Psimedia a lokalizace anglické wiki</translation>
+        <translation type="vanished">Záplatovač Psimedia a lokalizace anglické wiki</translation>
     </message>
     <message>
         <source>Language coordinator; Debian Packager</source>
@@ -244,35 +244,35 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
-        <translation>Hlavní záplatovač a autor zásuvných modulů; dřívější balíkář pro macOS</translation>
+        <translation type="vanished">Hlavní záplatovač a autor zásuvných modulů; dřívější balíkář pro macOS</translation>
     </message>
     <message>
         <source>Language coordinator; Patcher; Debian and Ubuntu Packager; MS Windows and macOS Packager</source>
-        <translation>Koordinátor jazyků; záplatovač; balíkář pro Debian a Ubuntu; balíkář pro MS Windows a macOS</translation>
+        <translation type="vanished">Koordinátor jazyků; záplatovač; balíkář pro Debian a Ubuntu; balíkář pro MS Windows a macOS</translation>
     </message>
     <message>
         <source>Patcher and Plugins Writer; MS Windows Packager</source>
-        <translation>Záplatovač a autor zásuvných modulů; balíkář pro MS Windows</translation>
+        <translation type="vanished">Záplatovač a autor zásuvných modulů; balíkář pro MS Windows</translation>
     </message>
     <message>
         <source>Patcher and Plugins Writer; former Fedora Packager</source>
-        <translation>Záplatovač a autor zásuvných modulů; balíkář pro Fedoru</translation>
+        <translation type="vanished">Záplatovač a autor zásuvných modulů; balíkář pro Fedoru</translation>
     </message>
     <message>
         <source>Patcher and former Ubuntu Packager</source>
-        <translation>Záplatovač a balíkář pro Ubuntu</translation>
+        <translation type="vanished">Záplatovač a balíkář pro Ubuntu</translation>
     </message>
     <message>
         <source>former Ubuntu Packager</source>
-        <translation>dřívější Ubuntu balíkář</translation>
+        <translation type="vanished">dřívější Ubuntu balíkář</translation>
     </message>
     <message>
         <source>former Mandriva Linux Packager</source>
-        <translation>dřívější balíkář pro Mandriva Linux</translation>
+        <translation type="vanished">dřívější balíkář pro Mandriva Linux</translation>
     </message>
     <message>
         <source>Patcher and former Russian translator</source>
-        <translation>Záplatovač a dřívější překladatel do ruštiny</translation>
+        <translation type="vanished">Záplatovač a dřívější překladatel do ruštiny</translation>
     </message>
     <message>
         <source>About Psi</source>
@@ -295,11 +295,47 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Patcher and former MS Windows Packager</source>
+        <source>Developer and Plugins Author</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Patcher and former Designer</source>
+        <source>Developer and Language Coordinator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Past Developer and Plugins Author</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Past Psi+ Developer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Past Psi+ Developer and Designer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Past Psi+ Developer and Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Russian Translator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Past Psi+ Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Past Psi+ Mandriva Linux Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Past Psi+ Designer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psimedia Developer</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -660,6 +696,10 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
                 When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>SRV lookup:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>
@@ -869,6 +909,18 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
     </message>
     <message>
         <source>Cannot enable TLS.  Plugin not found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Where the SRV records of the server are looked up when connecting through the proxy: locally, or with the DNS server set in the proxy settings, so that no DNS query leaves this computer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remote, with the DNS server of the proxy</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1648,44 +1700,151 @@ Seznam výjimek pro JIDy má dva módy:
     </message>
 </context>
 <context>
+    <name>AvCallManagerPrivate</name>
+    <message>
+        <source>The Jingle offer did not match the incoming call proposal.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call answered on another device.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call declined on another device.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call was declined.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call was cancelled.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call was finished.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AvCallPrivate</name>
     <message>
         <source>System error</source>
-        <translation>Systémová chyba</translation>
+        <translation type="vanished">Systémová chyba</translation>
     </message>
     <message>
         <source>Codec error</source>
-        <translation>Chyba kodeku</translation>
+        <translation type="vanished">Chyba kodeku</translation>
     </message>
     <message>
         <source>Generic error</source>
-        <translation>Obecná chyba</translation>
+        <translation type="vanished">Obecná chyba</translation>
     </message>
     <message>
         <source>Cannot call without selecting a device.  Do you have a microphone?  Check the Psi options.</source>
-        <translation>Nelze volat bez vybraného zařízení.  Máš mikrofon?  Zkontroluj nastavení Psi.</translation>
+        <translation type="vanished">Nelze volat bez vybraného zařízení.  Máš mikrofon?  Zkontroluj nastavení Psi.</translation>
     </message>
     <message>
         <source>An error occurred while trying to send:
 %1.</source>
-        <translation>Nastala chyba při pokusu o poslání:
+        <translation type="vanished">Nastala chyba při pokusu o poslání:
 %1.</translation>
     </message>
     <message>
         <source>Call was rejected or terminated.</source>
-        <translation>Hovor byl odmítnut nebo ukončen.</translation>
+        <translation type="vanished">Hovor byl odmítnut nebo ukončen.</translation>
     </message>
     <message>
         <source>Call negotiation timed out.</source>
-        <translation>Vyjednávání spojení hovoru vypršelo.</translation>
+        <translation type="vanished">Vyjednávání spojení hovoru vypršelo.</translation>
     </message>
     <message>
         <source>Unable to establish peer-to-peer connection.</source>
-        <translation>Nelze vytvořit &quot;peer-to-peer&quot; spojení.</translation>
+        <translation type="vanished">Nelze vytvořit &quot;peer-to-peer&quot; spojení.</translation>
     </message>
     <message>
         <source>Call negotiation failed.</source>
-        <translation>Vyjednávání spojení hovoru selhalo.</translation>
+        <translation type="vanished">Vyjednávání spojení hovoru selhalo.</translation>
+    </message>
+    <message>
+        <source>The requested media type is not supported by the current media backend.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The contact has no device to call.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to send the call proposal.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to create a Jingle call session.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to create the requested RTP media.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to initialize the media backend.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No offered RTP media type was accepted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to accept the incoming call proposal.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A media file was selected as call input but no file is configured.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No microphone is available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to add a microphone to this session.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No camera is available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wait for screen sharing to connect before enabling the camera.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to add a camera to this call.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wait for the camera to connect before sharing your screen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The media backend cannot add screen sharing to this call.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The peer did not accept any usable RTP media.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Screen sharing was declined or could not connect.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call was terminated.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call was rejected or negotiation failed.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1840,103 +1999,365 @@ This is a paper board game where you try to sink the opponent&apos;s ships.To in
         <source>Export bookmarks</source>
         <translation>Exportovat záložky</translation>
     </message>
+    <message>
+        <source>Bookmark error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The bookmark changes could not be submitted.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Call</name>
     <message>
         <source>Dialog</source>
-        <translation>Dialog</translation>
+        <translation type="vanished">Dialog</translation>
     </message>
     <message>
         <source>To:</source>
-        <translation>Pro:</translation>
+        <translation type="vanished">Pro:</translation>
     </message>
     <message>
         <source>Use video</source>
-        <translation>Použít video</translation>
+        <translation type="vanished">Použít video</translation>
     </message>
     <message>
         <source>Sending bandwidth:</source>
-        <translation>Rychlost odchozího připojení:</translation>
+        <translation type="vanished">Rychlost odchozího připojení:</translation>
     </message>
     <message>
         <source>Call status</source>
-        <translation>Stav hovoru</translation>
+        <translation type="vanished">Stav hovoru</translation>
     </message>
     <message>
         <source>&amp;Reject</source>
-        <translation>&amp;Odmítni</translation>
+        <translation type="vanished">&amp;Odmítni</translation>
     </message>
     <message>
         <source>&amp;Accept</source>
-        <translation>&amp;Akceptuj</translation>
+        <translation type="vanished">&amp;Akceptuj</translation>
+    </message>
+</context>
+<context>
+    <name>CallDlg</name>
+    <message>
+        <source>Call</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Whiteboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 — %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The contact cannot be called.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to accept the whiteboard invitation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The contact does not support whiteboards.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to send the whiteboard invitation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to create a whiteboard.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The invitation was declined or failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio and video are not available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to add a whiteboard to this call.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End-to-end encrypted with OMEMO; the whiteboard goes through the server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End-to-end encrypted, verified with OMEMO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encrypted, but the contact&apos;s OMEMO device is not trusted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not end-to-end encrypted: the whiteboard goes through the server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encrypted, not verified end-to-end</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refused: the encryption could not be verified with a trusted OMEMO device of the contact. See Options &gt; Security.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CallDlg::Private</name>
     <message>
         <source>Voice Call</source>
-        <translation>Hlasový hovor</translation>
+        <translation type="vanished">Hlasový hovor</translation>
     </message>
     <message>
         <source>High (1Mbps)</source>
-        <translation>Vysoké (1Mbps)</translation>
+        <translation type="vanished">Vysoké (1Mbps)</translation>
     </message>
     <message>
         <source>Average (400Kbps)</source>
-        <translation>Průměrné (400Kbps)</translation>
+        <translation type="vanished">Průměrné (400Kbps)</translation>
     </message>
     <message>
         <source>Low (160Kbps)</source>
-        <translation>Nízké (160Kbps)</translation>
+        <translation type="vanished">Nízké (160Kbps)</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Zavřít</translation>
+        <translation type="vanished">&amp;Zavřít</translation>
     </message>
     <message>
         <source>C&amp;all</source>
-        <translation>Vol&amp;at</translation>
+        <translation type="vanished">Vol&amp;at</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation>Připraven</translation>
+        <translation type="vanished">Připraven</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation>Od:</translation>
+        <translation type="vanished">Od:</translation>
     </message>
     <message>
         <source>Accept call?</source>
-        <translation>Přijmout hovor?</translation>
+        <translation type="vanished">Přijmout hovor?</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Zrušit</translation>
+        <translation type="vanished">&amp;Zrušit</translation>
     </message>
     <message>
         <source>Calling...</source>
-        <translation>Volám...</translation>
+        <translation type="vanished">Volám...</translation>
     </message>
     <message>
         <source>Accepting...</source>
-        <translation>Akceptuji...</translation>
+        <translation type="vanished">Akceptuji...</translation>
     </message>
     <message>
         <source>&amp;Hang up</source>
-        <translation>Zavěsi&amp;t</translation>
+        <translation type="vanished">Zavěsi&amp;t</translation>
     </message>
     <message>
         <source>Call active</source>
-        <translation>Hovor aktivní</translation>
+        <translation type="vanished">Hovor aktivní</translation>
     </message>
     <message>
         <source>Call is ended</source>
-        <translation>Hovor je ukončen</translation>
+        <translation type="vanished">Hovor je ukončen</translation>
     </message>
     <message>
         <source>Call duration: %1</source>
-        <translation>Délka hovoru: %1</translation>
+        <translation type="vanished">Délka hovoru: %1</translation>
+    </message>
+</context>
+<context>
+    <name>CallStage</name>
+    <message>
+        <source>Show %1 on the main stage</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CallView</name>
+    <message>
+        <source>Audio call
+Turn on your camera or share your screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shared screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Camera</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose microphone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose camera</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HD · 2 Mbps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Balanced · 1 Mbps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Low bandwidth · 400 kbps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Video quality</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Zavřít</translation>
+    </message>
+    <message>
+        <source>Close call window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mute microphone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unmute microphone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Turn camera off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Turn camera on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel screen selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel selected screen: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop sharing: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share a display or window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide whiteboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show whiteboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End call (%1 elapsed)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Zrušit</translation>
+    </message>
+    <message>
+        <source>Cancel call</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selecting screen…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Screen selected: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Connecting screen…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sharing: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Connected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Connected · waiting for video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join whiteboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accept call</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Session ended</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Call ended</source>
+        <translation type="unfinished">Hovor ukončen</translation>
+    </message>
+    <message>
+        <source>Whiteboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Calls are not available with this contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No devices available</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>System default (%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device unavailable; using %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2261,6 +2682,17 @@ Opravdu zavřít toto okno?</translation>
     </message>
 </context>
 <context>
+    <name>ChatEditProxy</name>
+    <message>
+        <source>Reply</source>
+        <translation type="unfinished">Odpověď</translation>
+    </message>
+    <message>
+        <source>Reply to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ChatView</name>
     <message>
         <source>Quote</source>
@@ -2280,15 +2712,42 @@ Opravdu zavřít toto okno?</translation>
     </message>
     <message>
         <source>URL:</source>
-        <translation>URL:</translation>
+        <translation type="vanished">URL:</translation>
     </message>
     <message>
         <source>Desc:</source>
-        <translation>Popis:</translation>
+        <translation type="vanished">Popis:</translation>
     </message>
     <message>
         <source>The message was corrected</source>
         <translation>Zpráva byla opravena</translation>
+    </message>
+</context>
+<context>
+    <name>ChatViewJSObject</name>
+    <message>
+        <source>Open in external player</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose external player</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This media cannot be played inside the chat.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not load this media. Check the connection and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The built-in player could not decode this media.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The built-in player could not open this media.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2776,6 +3235,77 @@ Můžete nastavit vše ručně, nebo si vybrat některou z předdefinovaných mo
     </message>
 </context>
 <context>
+    <name>CodeBlockWidget</name>
+    <message>
+        <source>Choose syntax highlighting language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Code language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open code in window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open code in a separate window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format JSON or XML for reading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run received code?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Executing code from a message can read, modify or delete local data. Only continue if you have reviewed the code and trust its source.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I understand and accept the risk of running code from an unverified source.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plain text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Syntax highlighting: %1. Click to choose another language.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format for reading (toggle original)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format available for valid JSON or XML, up to 2 MiB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Original</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ConfLogger::TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
@@ -2955,6 +3485,34 @@ Pozn.: aby modul pracoval správně, Nástrojová lišta skupinového chatu mus�
     </message>
     <message>
         <source>&amp;XMPP Console</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blocked Contacts...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blocked Contacts</source>
+        <translation type="unfinished">Blokované kontakty</translation>
+    </message>
+    <message>
+        <source>Server blocklist (XEP-0191)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Block JID...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unblock</source>
+        <translation type="unfinished">Odblokovat</translation>
+    </message>
+    <message>
+        <source>Block JID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XMPP address:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3287,6 +3845,29 @@ Pokračovat?</translation>
     </message>
 </context>
 <context>
+    <name>DesktopUtil</name>
+    <message>
+        <source>Choose another player…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>External media player</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Player:</source>
+        <translation type="unfinished">Přehrávač:</translation>
+    </message>
+    <message>
+        <source>Choose media player executable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not start the media player. Choose another player and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Disco</name>
     <message>
         <source>Service Discovery</source>
@@ -3530,11 +4111,18 @@ Pokračovat?</translation>
     <name>EDBFlatFile::File</name>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
-        <translation>&lt;big&gt;[Systémová zpráva]&lt;/big&gt;&lt;br&gt;Nyní jsi oprávněn.</translation>
+        <translation type="vanished">&lt;big&gt;[Systémová zpráva]&lt;/big&gt;&lt;br&gt;Nyní jsi oprávněn.</translation>
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;Your authorization has been removed!</source>
-        <translation>&lt;big&gt;[Systémová zpráva]&lt;/big&gt;&lt;br&gt;Tvé oprávnění bylo odebráno!</translation>
+        <translation type="vanished">&lt;big&gt;[Systémová zpráva]&lt;/big&gt;&lt;br&gt;Tvé oprávnění bylo odebráno!</translation>
+    </message>
+</context>
+<context>
+    <name>EDBSqLite</name>
+    <message>
+        <source>Unable to decrypt archived message</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4686,6 +5274,13 @@ nedostupná.  Pokud jsi za firewallem, je nutné se ujistit,
     </message>
 </context>
 <context>
+    <name>FileShareDownloader</name>
+    <message>
+        <source>The file is larger than the automatic download limit</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>FileShareDownloader::Private</name>
     <message>
         <source>Download sources are not given</source>
@@ -4696,11 +5291,69 @@ nedostupná.  Pokud jsi za firewallem, je nutné se ujistit,
     <name>FileSharingItem</name>
     <message>
         <source>Published on HttpUpload service</source>
-        <translation>Publikováno na službě HttpUpload</translation>
+        <translation type="vanished">Publikováno na službě HttpUpload</translation>
     </message>
     <message>
         <source>Failed to publish on HttpUpload service</source>
-        <translation>Nepovedlo se publikovat na službě HttpUpload</translation>
+        <translation type="vanished">Nepovedlo se publikovat na službě HttpUpload</translation>
+    </message>
+</context>
+<context>
+    <name>FileSharingMediaSave</name>
+    <message>
+        <source>Download source disappeared</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download cancelled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unexpected media size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot read media data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Media download ended before validation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Incomplete media download</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>FileSharingPublication</name>
+    <message>
+        <source>Published in the private PubSub catalog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PubSub publication failed: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reusing an HTTP upload after checking its availability</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not open the file for HTTP upload</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Published on HttpUpload service</source>
+        <translation type="unfinished">Publikováno na službě HttpUpload</translation>
+    </message>
+    <message>
+        <source>Failed to publish on HttpUpload service: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5327,6 +5980,50 @@ Zdůvodnění: %1</translation>
         <source>%1 encryption is enabled</source>
         <translation>Šifrování %1 je zapnuté</translation>
     </message>
+    <message>
+        <source>%1 is not in the room</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert nickname</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy nickname</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy last known address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User Info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Chat Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This archive cannot position messages by index. Older history remains available by scrolling.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide participants</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show participants</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Archive response omitted the requested index</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
@@ -5337,6 +6034,10 @@ Zdůvodnění: %1</translation>
     <message>
         <source>Command</source>
         <translation>Příkaz</translation>
+    </message>
+    <message>
+        <source>Room membership lost; attempting to rejoin.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6107,6 +6808,10 @@ To invite a friend for a game, you can use contact menu item or the button on th
         <source>Send</source>
         <translation>Odeslat</translation>
     </message>
+    <message>
+        <source>Hide participants</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>GroupChatTopicAddLangDlg</name>
@@ -6237,6 +6942,10 @@ To invite a friend for a game, you can use contact menu item or the button on th
         <source>deleted</source>
         <translation>smazáno</translation>
     </message>
+    <message>
+        <source>Group chats</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HistoryDlg</name>
@@ -6361,27 +7070,27 @@ To invite a friend for a game, you can use contact menu item or the button on th
     <name>HistoryImport</name>
     <message>
         <source>Status:</source>
-        <translation>Stav:</translation>
+        <translation type="vanished">Stav:</translation>
     </message>
     <message>
         <source>Progress:</source>
-        <translation>Průběh:</translation>
+        <translation type="vanished">Průběh:</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation>Konec</translation>
+        <translation type="vanished">Konec</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation>Import</translation>
+        <translation type="vanished">Import</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Chyba</translation>
+        <translation type="vanished">Chyba</translation>
     </message>
     <message>
         <source>Psi+ Import history</source>
@@ -6390,15 +7099,31 @@ To invite a friend for a game, you can use contact menu item or the button on th
     <message>
         <source>Found %1 files for import.
 Continue?</source>
-        <translation>Nalezeno %1 souborů pro import.
+        <translation type="vanished">Nalezeno %1 souborů pro import.
 Pokračovat?</translation>
     </message>
     <message>
         <source>Counting records</source>
-        <translation>Počítám záznamy</translation>
+        <translation type="vanished">Počítám záznamy</translation>
     </message>
     <message>
-        <source>Import history</source>
+        <source>Upgrade history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The history database needs to be upgraded. This can take some time for a large history. Psi will continue starting after the upgrade finishes. Continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upgrading history…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upgrading history (record %1)…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The history upgrade failed. Changes were rolled back; Psi cannot continue.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6432,6 +7157,41 @@ V kontextovém menu nebo ve volbách zásuvného modulu můžeš vybrat nebo zru
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>HistorySync</name>
+    <message>
+        <source>Account is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Archive catch-up repeated a cursor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Archive response omitted the requested index</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to decrypt archived message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid archive page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not repair cached archive page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Archive catch-up did not advance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not persist archive page</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7529,6 +8289,10 @@ abyste si zahráli. Chce hrát %2.</translation>
         <source>Jingle download failed: %s</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Jingle file transfer is disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>JuickJidDialog</name>
@@ -8198,6 +8962,212 @@ Rusko, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
 </context>
 <context>
+    <name>MamChatWidget</name>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished">Kopírovat</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Zrušit</translation>
+    </message>
+    <message>
+        <source>Add reaction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Retract message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Archive response omitted the requested index</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Me</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Message</source>
+        <translation type="unfinished">Zpráva</translation>
+    </message>
+    <message>
+        <source>Read</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delivered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not encrypted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encrypted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encrypted with %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The message was corrected</source>
+        <translation type="unfinished">Zpráva byla opravena</translation>
+    </message>
+    <message>
+        <source>Edited message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Received</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type: %1
+Size: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open file</source>
+        <translation type="unfinished">Otevřít soubor</translation>
+    </message>
+    <message>
+        <source>Show in file manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy file path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open in browser</source>
+        <translation type="unfinished">Otevřít v prohlížeči</translation>
+    </message>
+    <message>
+        <source>Cancel download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not create a temporary directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>just now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 minute ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n minutes ago</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>1 hour ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n hours ago</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Message retracted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Referenced message is not available locally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The message has no reply identifier assigned by its sender or room.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation type="unfinished">Vpřed</translation>
+    </message>
+    <message>
+        <source>Copy image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy image link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy link address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>MamImageViewer</name>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Mattermost::OverlayScrollBarManager</name>
+    <message>
+        <source>Scroll to top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scroll to bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MessageFilter</name>
     <message>
         <source>Author: </source>
@@ -8210,6 +9180,21 @@ Rusko, Tambov, 2005 (denis@silversoft.net)</translation>
     <message>
         <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
         <translation>Umí zahodí příchozí postoje na základě různých filtrů jako zdrojová/cílová adresa nebo určitý obsah zprávy.</translation>
+    </message>
+</context>
+<context>
+    <name>MessagePreview</name>
+    <message>
+        <source>Cancel reply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show less</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show more…</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8474,6 +9459,36 @@ Detaily: %1</translation>
     <message>
         <source>Unexpected HTTP status</source>
         <translation>Neočekávaný stav HTTP</translation>
+    </message>
+</context>
+<context>
+    <name>NativeChatThemes</name>
+    <message>
+        <source>Bubble</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Classic</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>NativeChatViewThemeProvider</name>
+    <message>
+        <source>Groupchat Message Style</source>
+        <translation type="unfinished">Styl zpráv skupinového chatu</translation>
+    </message>
+    <message>
+        <source>Chat Message Style</source>
+        <translation type="unfinished">Styl zpráv chatu</translation>
+    </message>
+    <message>
+        <source>Choose the native message layout</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8949,6 +9964,26 @@ Důvod: %1.</translation>
         <source>Group chat contacts without role:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Desktop palette:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Muted color for quoted text and the vertical quote line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quoted messages:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chat background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chat text</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptAppearanceMisc</name>
@@ -9323,7 +10358,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Use contacts&apos; message formatting</source>
-        <translation>Používat formátování nastavené kontaktem</translation>
+        <translation type="vanished">Používat formátování nastavené kontaktem</translation>
     </message>
     <message>
         <source>Show character counter</source>
@@ -9348,6 +10383,22 @@ Důvod: %1.</translation>
     <message>
         <source>Enable audio messages</source>
         <translation>Povolit zvukové zprávy</translation>
+    </message>
+    <message>
+        <source>Download automatically in chats:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download automatically in group chats:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display received messages in deprecated XHTML-IM formatting (XEP-0071)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send messages in deprecated XHTML-IM formatting (XEP-0071)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9504,11 +10555,11 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
-        <translation>Zakáže posuvník v okně aplikace.</translation>
+        <translation type="vanished">Zakáže posuvník v okně aplikace.</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation>Zakázat posuvník</translation>
+        <translation type="vanished">Zakázat posuvník</translation>
     </message>
     <message>
         <source>Enables avatar frame at the top of roster</source>
@@ -9619,11 +10670,11 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Hides scrollbar in the roster widget.</source>
-        <translation>Skryje posuvník v okně rosteru.</translation>
+        <translation type="vanished">Skryje posuvník v okně rosteru.</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation>Zakázat posuvník</translation>
+        <translation type="vanished">Zakázat posuvník</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -9790,6 +10841,14 @@ Důvod: %1.</translation>
     <message>
         <source>Reset to defaults</source>
         <translation>Nastavit na výchozí</translation>
+    </message>
+    <message>
+        <source>Incoming call (repeated):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Calling (repeated):</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10955,6 +12014,18 @@ zprávy v chatu víde lidí)</translation>
         <source>Status message</source>
         <translation>Popis stavu</translation>
     </message>
+    <message>
+        <source>Light desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit each palette independently. Psi automatically uses the palette matching the desktop theme.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptionsTabAppearanceMisc</name>
@@ -11266,7 +12337,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>vk.com</source>
-        <translation>vk.com</translation>
+        <translation type="vanished">vk.com</translation>
     </message>
     <message>
         <source>Weather</source>
@@ -11342,7 +12413,31 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation>Po zapnutí této volby bude Psi zobrazovat příchozí zprávy naformátované odesílatelem</translation>
+        <translation type="vanished">Po zapnutí této volby bude Psi zobrazovat příchozí zprávy naformátované odesílatelem</translation>
+    </message>
+    <message>
+        <source>Never, only when asked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Up to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pictures, voice messages and other media from contacts in your roster, and from your own other devices, are downloaded and shown right away up to this size. Larger files and files from anyone else are downloaded only when you ask.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Media in group chats is downloaded and shown right away up to this size, whoever sent it. Larger files are downloaded only when you ask.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact by using the deprecated XHTML-IM (XEP-0071)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If enabled, Psi will send outcoming formatted messages with additional XHTML-IM (XEP-0071). Note: it&apos;s deprecated badly supported.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11643,6 +12738,117 @@ zprávy v chatu víde lidí)</translation>
         <source>Could not save the trust decision.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Calls, whiteboards and files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>With contacts whose chat uses OMEMO: only with encryption verified by OMEMO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The encryption keys of a call or whiteboard are confirmed with a trusted OMEMO device of the contact, and files are encrypted end to end (JET-OMEMO). Sessions that cannot be protected are refused instead of running unprotected. Contacts whose chat is not encrypted with OMEMO are not affected. Files to OMEMO contacts are encrypted whenever the contact supports it, also without this option.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabServerless</name>
+    <message>
+        <source>Serverless</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chat on the local network without a server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Discover and chat with people on the selected local network using Bonjour / XEP-0174. Messages currently use unencrypted, unauthenticated connections. Enable this only on a network you trust.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable serverless messaging</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Serverless messaging is unavailable: this Iris build does not include JDNS support.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local network account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local address:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation type="unfinished">Obnovit</translation>
+    </message>
+    <message>
+        <source>Network interface:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished">Automaticky</translation>
+    </message>
+    <message>
+        <source>Leave Automatic unless a firewall requires a fixed TCP listening port.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Listening port:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Connect automatically when Psi starts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status:</source>
+        <translation type="unfinished">Stav:</translation>
+    </message>
+    <message>
+        <source>Automatic (active local network)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 (%2)</source>
+        <translation type="unfinished">%1 (%2)</translation>
+    </message>
+    <message>
+        <source>%1 (unavailable)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assigned when enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation type="unfinished">Vypnutý</translation>
+    </message>
+    <message>
+        <source>Online on the local network</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Announcing on the local network…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offline</source>
+        <translation type="unfinished">Offline</translation>
+    </message>
+    <message>
+        <source>Local network</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptionsTabShortcuts</name>
@@ -11858,6 +13064,17 @@ zprávy v chatu víde lidí)</translation>
     <message>
         <source>Please note: This editor will change the options directly. Pressing Cancel will not revert these changes.</source>
         <translation>Poznámka: Tento editor mění volby přímo. Tlačítko Zrušit provedené změny nevrátí.</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabXmppAccounts</name>
+    <message>
+        <source>XMPP</source>
+        <translation type="unfinished">XMPP</translation>
+    </message>
+    <message>
+        <source>Server accounts</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12787,67 +14004,74 @@ Prosím vlož svou heslovací frázi:</translation>
     </message>
 </context>
 <context>
+    <name>ProfileItemDelegate</name>
+    <message>
+        <source>Delete profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ProfileManage</name>
     <message>
         <source>Manage Profiles</source>
-        <translation>Správa Profilů</translation>
+        <translation type="vanished">Správa Profilů</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>Přid&amp;at</translation>
+        <translation type="vanished">Přid&amp;at</translation>
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation>psi/addContact</translation>
+        <translation type="vanished">psi/addContact</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation>Př&amp;ejmenovat</translation>
+        <translation type="vanished">Př&amp;ejmenovat</translation>
     </message>
     <message>
         <source>Rem&amp;ove</source>
-        <translation>&amp;Odstranit</translation>
+        <translation type="vanished">&amp;Odstranit</translation>
     </message>
     <message>
         <source>psi/remove</source>
-        <translation>psi/remove</translation>
+        <translation type="vanished">psi/remove</translation>
     </message>
 </context>
 <context>
     <name>ProfileManageDlg</name>
     <message>
         <source>Rename Profile</source>
-        <translation>Přejmenovat profil</translation>
+        <translation type="vanished">Přejmenovat profil</translation>
     </message>
     <message>
         <source>Please enter a new name for the profile.  Keep it simple.
 Only use letters or numbers.  No punctuation or spaces.</source>
-        <translation>Vlož nové název profilu. Zvol jednoduchý.
+        <translation type="vanished">Vlož nové název profilu. Zvol jednoduchý.
 Používej pouze písmena a číslice.  Nepoužívej interpunkci nebo mezery.</translation>
     </message>
     <message>
         <source>There is already another profile with this name.  Please choose another.</source>
-        <translation>Profil s tímto názvem již existuje.  Je třeba vybrat jiný název.</translation>
+        <translation type="vanished">Profil s tímto názvem již existuje.  Je třeba vybrat jiný název.</translation>
     </message>
     <message>
         <source>Unable to rename the profile.  Please do not use any special characters.</source>
-        <translation>Profil nelze přejmenovat.  Nepoužívej prosím žádné speciální znaky.</translation>
+        <translation type="vanished">Profil nelze přejmenovat.  Nepoužívej prosím žádné speciální znaky.</translation>
     </message>
     <message>
         <source>Delete Profile</source>
-        <translation>Vymazat profil</translation>
+        <translation type="vanished">Vymazat profil</translation>
     </message>
     <message>
         <source>&lt;qt&gt;Are you sure you want to delete the &quot;&lt;b&gt;%1&lt;/b&gt;&quot; profile?  This will delete all of the profile&apos;s message history as well as associated settings!&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;Skutečně chceš smazat profil &quot;&lt;b&gt;%1&lt;/b&gt;&quot;?  Bude smazána historie zpráv stejně jako související nastavení!&lt;/qt&gt;</translation>
+        <translation type="vanished">&lt;qt&gt;Skutečně chceš smazat profil &quot;&lt;b&gt;%1&lt;/b&gt;&quot;?  Bude smazána historie zpráv stejně jako související nastavení!&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>No, I changed my mind</source>
-        <translation>Ne, změnil jsem názor</translation>
+        <translation type="vanished">Ne, změnil jsem názor</translation>
     </message>
     <message>
         <source>Delete it!</source>
-        <translation>Smaž to!</translation>
+        <translation type="vanished">Smaž to!</translation>
     </message>
     <message>
         <source>&amp;No</source>
@@ -12861,20 +14085,20 @@ Používej pouze písmena a číslice.  Nepoužívej interpunkci nebo mezery.</t
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
 &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Proceed?</source>
-        <translation>&lt;qt&gt;Čistě preventivně, naposledy se ptám, jestli toto je to, co chceš opravdu udělat.  Následující složky budou smazány!&lt;br&gt;&lt;br&gt;
+        <translation type="vanished">&lt;qt&gt;Čistě preventivně, naposledy se ptám, jestli toto je to, co chceš opravdu udělat.  Následující složky budou smazány!&lt;br&gt;&lt;br&gt;
 &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Pokračovat?</translation>
     </message>
     <message>
         <source>Unable to delete the folders completely.  Ensure you have the proper permission.</source>
-        <translation>Nelze adresáře zcela smazat. Ujisti se, že máš dostatečná oprávnění.</translation>
+        <translation type="vanished">Nelze adresáře zcela smazat. Ujisti se, že máš dostatečná oprávnění.</translation>
     </message>
 </context>
 <context>
     <name>ProfileNew</name>
     <message>
         <source>New Profile</source>
-        <translation>Nový Profil</translation>
+        <translation type="vanished">Nový Profil</translation>
     </message>
     <message>
         <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
@@ -12890,73 +14114,65 @@ Zatrhni pole &lt;i&gt;Zapnout Emotikony&lt;/i&gt; pro zobrazení text např. &lt
     </message>
     <message>
         <source>Profile Name:</source>
-        <translation>Jméno Profilu:</translation>
+        <translation type="vanished">Jméno Profilu:</translation>
     </message>
     <message>
         <source>Default Action</source>
-        <translation>Výchozí Akce</translation>
+        <translation type="vanished">Výchozí Akce</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
-        <translation>Zapnout Emotikony</translation>
+        <translation type="vanished">Zapnout Emotikony</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Zavřít</translation>
+        <translation type="vanished">&amp;Zavřít</translation>
     </message>
     <message>
         <source>&amp;Create</source>
-        <translation>&amp;Vytvořit</translation>
+        <translation type="vanished">&amp;Vytvořit</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation>Alt+C</translation>
+        <translation type="vanished">Alt+C</translation>
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation>psi/addContact</translation>
+        <translation type="vanished">psi/addContact</translation>
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation>&amp;Zpráva</translation>
+        <translation type="vanished">&amp;Zpráva</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation>&amp;Chat</translation>
-    </message>
-    <message>
-        <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
-&lt;br&gt;
-The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; and&lt;b&gt; Chat&lt;/b&gt;. You can change this later from the Options menu.&lt;br&gt;
-&lt;br&gt;
-Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">&amp;Chat</translation>
     </message>
 </context>
 <context>
     <name>ProfileNewDlg</name>
     <message>
         <source>New Profile</source>
-        <translation>Nový profil</translation>
+        <translation type="vanished">Nový profil</translation>
     </message>
     <message>
         <source>There is already an existing profile with this name.  Please choose another.</source>
-        <translation>Profil s tímto názvem již existuje.  Je třeba zvolit jiný název.</translation>
+        <translation type="vanished">Profil s tímto názvem již existuje.  Je třeba zvolit jiný název.</translation>
     </message>
     <message>
         <source>Unable to create the profile.  Please do not use any special characters.</source>
-        <translation>Nelze vytvořit profil.  Prosím nepoužívej žádné speciální znaky.</translation>
+        <translation type="vanished">Nelze vytvořit profil.  Prosím nepoužívej žádné speciální znaky.</translation>
     </message>
 </context>
 <context>
     <name>ProfileOpen</name>
     <message>
         <source>Open Profile</source>
-        <translation>Otevřít Profil</translation>
+        <translation type="vanished">Otevřít Profil</translation>
     </message>
     <message>
         <source>left</source>
-        <translation>vlevo</translation>
+        <translation type="vanished">vlevo</translation>
     </message>
     <message>
         <source>Image goes here</source>
@@ -12968,54 +14184,128 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Profile:</source>
-        <translation>Profil:</translation>
+        <translation type="vanished">Profil:</translation>
     </message>
     <message>
         <source>&amp;Automatically open on startup</source>
-        <translation>Automaticky &amp;otevřít při spuštění</translation>
+        <translation type="vanished">Automaticky &amp;otevřít při spuštění</translation>
     </message>
     <message>
         <source>Language:</source>
-        <translation>Jazyk:</translation>
+        <translation type="vanished">Jazyk:</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation>U&amp;končit</translation>
+        <translation type="vanished">U&amp;končit</translation>
     </message>
     <message>
         <source>psi/quit</source>
-        <translation>psi/quit</translation>
+        <translation type="vanished">psi/quit</translation>
     </message>
     <message>
         <source>&amp;Profiles...</source>
-        <translation>&amp;Profily...</translation>
+        <translation type="vanished">&amp;Profily...</translation>
     </message>
     <message>
         <source>psi/profile</source>
-        <translation>psi/profile</translation>
+        <translation type="vanished">psi/profile</translation>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation>&amp;Otevřít</translation>
+        <translation type="vanished">&amp;Otevřít</translation>
     </message>
     <message>
         <source>psi/logo_16</source>
-        <translation>psi/logo_16</translation>
+        <translation type="vanished">psi/logo_16</translation>
+    </message>
+    <message>
+        <source>Profiles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Startup and language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Automatically open this profile on startup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The last opened profile will be used.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Application language:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ProfileOpenDlg</name>
     <message>
         <source>Select a profile to open from this list.</source>
-        <translation>Vyber profil k otevření z tohoto seznamu.</translation>
+        <translation type="vanished">Vyber profil k otevření z tohoto seznamu.</translation>
     </message>
     <message>
         <source>Select a language you would like Psi to use from this list.  You can download extra language packs from the Psi homepage.</source>
-        <translation>Vyber ze seznamu jazyk, který chceš aby Psi používal.  Můžeš stáhnout jiné jazykové balíčky z domovské stránky Psi.</translation>
+        <translation type="vanished">Vyber ze seznamu jazyk, který chceš aby Psi používal.  Můžeš stáhnout jiné jazykové balíčky z domovské stránky Psi.</translation>
     </message>
     <message>
         <source>Automatically open this profile when Psi is started.  Useful if you only have one profile.</source>
-        <translation>Automaticky otevřít tento profil při startu Psi.  Užitečné pokud existuje pouze jeden profil.</translation>
+        <translation type="vanished">Automaticky otevřít tento profil při startu Psi.  Užitečné pokud existuje pouze jeden profil.</translation>
+    </message>
+    <message>
+        <source>Double-click or press F2 to rename a profile. Press Delete to remove it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose the application language. This setting applies to all profiles.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open the selected profile automatically the next time Psi starts.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to create this profile. Check folder permissions.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Profile created, but its default options could not be saved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Profile names may contain only letters and numbers.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A profile with this name already exists.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to rename the profile. Check folder permissions.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Profile</source>
+        <translation type="unfinished">Vymazat profil</translation>
+    </message>
+    <message>
+        <source>Delete profile &quot;%1&quot;?
+
+All of its message history, settings, and cached files will be deleted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to delete the profile completely. Check folder permissions.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13068,6 +14358,26 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <source>Password:</source>
         <translation>Heslo:</translation>
     </message>
+    <message>
+        <source>DNS through the proxy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remote DNS:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DoH URL:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DNS server:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Test DNS...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ProxyChooser</name>
@@ -13102,12 +14412,56 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <source>If you require a proxy server to connect, select the type of proxy here.</source>
         <translation>Pokud potřebuješ spojení přes proxy server, vyber typ proxy serveru.</translation>
     </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DNS over HTTPS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DNS over TCP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A DNS server reached through this proxy. Accounts that use the proxy can look up their server with it (remote SRV lookup), so that no DNS query leaves this computer.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ProxyDlg::Private</name>
     <message>
         <source>Unnamed</source>
         <translation>Nepojmenovaný</translation>
+    </message>
+    <message>
+        <source>Test proxy DNS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid proxy host or port.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid DNS server address.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XMPP domain to look up:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No XMPP server was found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No SRV, the domain:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SRV %1:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13507,6 +14861,22 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Encryption failed: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bookmark synchronization failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Serverless delivery failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unsupported</source>
+        <translation type="unfinished">Nepodporováno</translation>
+    </message>
+    <message>
+        <source>Group chat whiteboards are not supported yet.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14225,6 +15595,30 @@ Důvod: %1.</translation>
         <source>OMEMO devices</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Account is offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Archive response omitted the requested index</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This archive cannot position messages by index. Older history remains available by scrolling.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice Call</source>
+        <translation type="unfinished">Hlasový hovor</translation>
+    </message>
+    <message>
+        <source>Whiteboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Whiteboard only</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiCli</name>
@@ -14501,7 +15895,7 @@ Migrace je možná s Psi-0.15</translation>
     </message>
     <message>
         <source>Open a &amp;Whiteboard</source>
-        <translation>Otevřít &amp;tabuli</translation>
+        <translation type="vanished">Otevřít &amp;tabuli</translation>
     </message>
     <message>
         <source>Voice Call</source>
@@ -14657,7 +16051,7 @@ Migrace je možná s Psi-0.15</translation>
     </message>
     <message>
         <source>Open a White&amp;board To</source>
-        <translation>Otevřít tabuli (whiteboard)</translation>
+        <translation type="vanished">Otevřít tabuli (whiteboard)</translation>
     </message>
     <message>
         <source>&amp;Active Chats</source>
@@ -14683,12 +16077,32 @@ Migrace je možná s Psi-0.15</translation>
         <source>Add To Bookmarks</source>
         <translation>Přidat do záložek</translation>
     </message>
+    <message>
+        <source>Call &amp;To</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Whiteboard</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiDBusNotifier</name>
     <message>
         <source>Open</source>
         <translation>Otevřít</translation>
+    </message>
+    <message>
+        <source>Whiteboard invitation</source>
+        <translation type="unfinished">Pozvánka k tabuli</translation>
+    </message>
+    <message>
+        <source>Accept</source>
+        <translation type="unfinished">Přijmout</translation>
+    </message>
+    <message>
+        <source>Decline</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14805,6 +16219,20 @@ Migrace je možná s Psi-0.15</translation>
         <source>OMEMO setup failed: %1</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Could not decrypt a message: the encryption session with this device is broken (%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repair OMEMO session</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+This device&apos;s identity key is already trusted. Only its encryption session needs to be repaired.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiGroupChatBrowseWindow</name>
@@ -14873,6 +16301,13 @@ Chceš aktivovat tuto relaci?</translation>
     <message>
         <source>Cannot open this profile - it is already running, but not responding</source>
         <translation>Nemohu otevřít tento profil - je již spuštěn, ale nereaguje</translation>
+    </message>
+</context>
+<context>
+    <name>PsiMedia::ScreenCapture</name>
+    <message>
+        <source>The media backend does not support screen sharing.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15021,11 +16456,11 @@ Chceš aktivovat tuto relaci?</translation>
     </message>
     <message>
         <source>Open a detached option editor window.</source>
-        <translation>Otevřít samostatné okno editoru voleb.</translation>
+        <translation type="vanished">Otevřít samostatné okno editoru voleb.</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation>Pokročilé</translation>
+        <translation type="vanished">Pokročilé</translation>
     </message>
     <message>
         <source>(internal node)</source>
@@ -15086,12 +16521,42 @@ Chceš aktivovat tuto relaci?</translation>
         <source> is typing...</source>
         <translation> píše...</translation>
     </message>
+    <message>
+        <source>invites you to a whiteboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is calling you</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PsiPopup::Private</name>
+    <message>
+        <source>Accept</source>
+        <translation type="unfinished">Přijmout</translation>
+    </message>
+    <message>
+        <source>Decline</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiRosterWidget</name>
     <message>
         <source>Clear</source>
         <translation>Vyčistit</translation>
+    </message>
+</context>
+<context>
+    <name>PsiTextView</name>
+    <message>
+        <source>unknown size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shared media is downloading (%1, %2)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16850,6 +18315,54 @@ Děkujeme za trpělivost.</translation>
         <source>Unknown</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Save file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No download source</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transferring, end-to-end encrypted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Finishing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Done</source>
+        <translation type="unfinished">Hotovo</translation>
+    </message>
+    <message>
+        <source>Failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Speech bubbles, your messages on the right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compact text layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Avatars and message headers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 invites you to a whiteboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading: %1%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading…</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -17068,6 +18581,29 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <source>This user wants to modify your roster.</source>
         <translation>Tento uživatel chce modifikovat tvůj seznam.</translation>
+    </message>
+</context>
+<context>
+    <name>ScreenShareCapture</name>
+    <message>
+        <source>Choose what to share</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share a display or a single window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Displays</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation type="unfinished">Sdílet</translation>
     </message>
 </context>
 <context>
@@ -19309,108 +20845,108 @@ On the first tab set up a list of contacts for the status of which is monitored.
     <name>WbDlg</name>
     <message>
         <source>Whiteboard (%1)</source>
-        <translation>Tabule (%1)</translation>
+        <translation type="vanished">Tabule (%1)</translation>
     </message>
     <message>
         <source>Save session</source>
-        <translation>Uložit relaci</translation>
+        <translation type="vanished">Uložit relaci</translation>
     </message>
     <message>
         <source>Save the contents of the whiteboard</source>
-        <translation>Uložit obsah tabule</translation>
+        <translation type="vanished">Uložit obsah tabule</translation>
     </message>
     <message>
         <source>Change the geometry</source>
-        <translation>Změnit geometrii</translation>
+        <translation type="vanished">Změnit geometrii</translation>
     </message>
     <message>
         <source>End session</source>
-        <translation>Konec relace</translation>
+        <translation type="vanished">Konec relace</translation>
     </message>
     <message>
         <source>Clear the whiteboard</source>
-        <translation>Smazat tabuli</translation>
+        <translation type="vanished">Smazat tabuli</translation>
     </message>
     <message>
         <source>Stroke color</source>
-        <translation>Barva čáry</translation>
+        <translation type="vanished">Barva čáry</translation>
     </message>
     <message>
         <source>Fill color</source>
-        <translation>Barva výplně</translation>
+        <translation type="vanished">Barva výplně</translation>
     </message>
     <message>
         <source>Stroke width</source>
-        <translation>Šířka čáry</translation>
+        <translation type="vanished">Šířka čáry</translation>
     </message>
     <message>
         <source>Edit mode</source>
-        <translation>Režim editace</translation>
+        <translation type="vanished">Režim editace</translation>
     </message>
     <message>
         <source>Thin stroke</source>
-        <translation>Tenká čára</translation>
+        <translation type="vanished">Tenká čára</translation>
     </message>
     <message>
         <source>Medium stroke</source>
-        <translation>Střední čára</translation>
+        <translation type="vanished">Střední čára</translation>
     </message>
     <message>
         <source>Thick stroke</source>
-        <translation>Tlustá čára</translation>
+        <translation type="vanished">Tlustá čára</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation>Výběr</translation>
+        <translation type="vanished">Výběr</translation>
     </message>
     <message>
         <source>Translate</source>
-        <translation>Překlad</translation>
+        <translation type="vanished">Překlad</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>Rotace</translation>
+        <translation type="vanished">Rotace</translation>
     </message>
     <message>
         <source>Scale</source>
-        <translation>Změna velikosti</translation>
+        <translation type="vanished">Změna velikosti</translation>
     </message>
     <message>
         <source>Erase</source>
-        <translation>Guma</translation>
+        <translation type="vanished">Guma</translation>
     </message>
     <message>
         <source>Scroll view</source>
-        <translation>Rolování zobrazení</translation>
+        <translation type="vanished">Rolování zobrazení</translation>
     </message>
     <message>
         <source>Scroll</source>
-        <translation>Rolování</translation>
+        <translation type="vanished">Rolování</translation>
     </message>
     <message>
         <source>Draw paths</source>
-        <translation>Kreslit cesty</translation>
+        <translation type="vanished">Kreslit cesty</translation>
     </message>
     <message>
         <source>Add images</source>
-        <translation>Přidat obrázky</translation>
+        <translation type="vanished">Přidat obrázky</translation>
     </message>
     <message>
         <source>Whiteboard toolbar</source>
-        <translation>Panel nástrojů tabule</translation>
+        <translation type="vanished">Panel nástrojů tabule</translation>
     </message>
     <message>
         <source>%1 left (session: %2).</source>
-        <translation>%1 zbývá (relace: %2).</translation>
+        <translation type="vanished">%1 zbývá (relace: %2).</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>Varování</translation>
+        <translation type="vanished">Varování</translation>
     </message>
     <message>
         <source>Are you sure you want to end the session?
 The contents of the whiteboard will be lost.</source>
-        <translation>Opravdu ukončit relaci?
+        <translation type="vanished">Opravdu ukončit relaci?
 Obsah tabule bude ztracen.</translation>
     </message>
     <message>
@@ -19424,32 +20960,32 @@ Obsah tabule bude ztracen.</translation>
     <message>
         <source>A new whiteboard message was just received.
 Do you still want to close the window?</source>
-        <translation>Právě byla přijata nová zpráva pro tabuli.
+        <translation type="vanished">Právě byla přijata nová zpráva pro tabuli.
 Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Set new width:</source>
-        <translation>Nastavit novou šířku:</translation>
+        <translation type="vanished">Nastavit novou šířku:</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation>Šířka:</translation>
+        <translation type="vanished">Šířka:</translation>
     </message>
     <message>
         <source>Set new height:</source>
-        <translation>Nastavit novou výšku:</translation>
+        <translation type="vanished">Nastavit novou výšku:</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation>Výška:</translation>
+        <translation type="vanished">Výška:</translation>
     </message>
     <message>
         <source>Save Whitebaord</source>
-        <translation>Uložit tabuli</translation>
+        <translation type="vanished">Uložit tabuli</translation>
     </message>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
-        <translation>Scalable Vector Graphics (*.svg)</translation>
+        <translation type="vanished">Scalable Vector Graphics (*.svg)</translation>
     </message>
 </context>
 <context>
@@ -19483,35 +21019,433 @@ Opravdu zavřít okno?</translation>
     <name>WbManager</name>
     <message>
         <source>Unsupported</source>
-        <translation>Nepodporováno</translation>
+        <translation type="vanished">Nepodporováno</translation>
     </message>
     <message>
         <source>The contact does not support whiteboarding.</source>
-        <translation>Kontakt nepodporuje sdílení tabule.</translation>
+        <translation type="vanished">Kontakt nepodporuje sdílení tabule.</translation>
     </message>
     <message>
         <source>Open Existing SVG?</source>
-        <translation>Otevřít existující SVG?</translation>
+        <translation type="vanished">Otevřít existující SVG?</translation>
     </message>
     <message>
         <source>Would you like to open an existing SVG document in the whitebaord?</source>
-        <translation>Chceš otevřít existující SVG dokument v tabuli?</translation>
+        <translation type="vanished">Chceš otevřít existující SVG dokument v tabuli?</translation>
     </message>
     <message>
         <source>Initial SVG Document for the Whiteboard</source>
-        <translation>Počáteční SVG dokument pro tabuli</translation>
+        <translation type="vanished">Počáteční SVG dokument pro tabuli</translation>
     </message>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
-        <translation>Scalable Vector Graphics (*.svg)</translation>
+        <translation type="vanished">Scalable Vector Graphics (*.svg)</translation>
     </message>
     <message>
         <source>Whiteboarding Invitation?</source>
-        <translation>Pozvání ke kreslení na tabuli?</translation>
+        <translation type="vanished">Pozvání ke kreslení na tabuli?</translation>
     </message>
     <message>
         <source>%1 has invited you to a whiteboarding session. Would you like to join?</source>
-        <translation>%1 tě pozval(a) k relaci kreslení na tabuli. Chceš se přidat?</translation>
+        <translation type="vanished">%1 tě pozval(a) k relaci kreslení na tabuli. Chceš se přidat?</translation>
+    </message>
+    <message>
+        <source>Answered on another device.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Declined on another device.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The whiteboard invitation was declined.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The whiteboard invitation was withdrawn.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The whiteboard session has ended.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>WbView</name>
+    <message>
+        <source>Save session</source>
+        <translation type="unfinished">Uložit relaci</translation>
+    </message>
+    <message>
+        <source>Save the contents of the whiteboard</source>
+        <translation type="unfinished">Uložit obsah tabule</translation>
+    </message>
+    <message>
+        <source>Change the geometry</source>
+        <translation type="unfinished">Změnit geometrii</translation>
+    </message>
+    <message>
+        <source>Clear the whiteboard for everyone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear the whiteboard</source>
+        <translation type="unfinished">Smazat tabuli</translation>
+    </message>
+    <message>
+        <source>Stroke color</source>
+        <translation type="unfinished">Barva čáry</translation>
+    </message>
+    <message>
+        <source>Fill color</source>
+        <translation type="unfinished">Barva výplně</translation>
+    </message>
+    <message>
+        <source>Stroke width</source>
+        <translation type="unfinished">Šířka čáry</translation>
+    </message>
+    <message>
+        <source>Edit mode</source>
+        <translation type="unfinished">Režim editace</translation>
+    </message>
+    <message>
+        <source>Import SVG</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add the drawing of an SVG file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thin stroke</source>
+        <translation type="unfinished">Tenká čára</translation>
+    </message>
+    <message>
+        <source>Medium stroke</source>
+        <translation type="unfinished">Střední čára</translation>
+    </message>
+    <message>
+        <source>Thick stroke</source>
+        <translation type="unfinished">Tlustá čára</translation>
+    </message>
+    <message>
+        <source>%1 (%2)</source>
+        <translation type="unfinished">%1 (%2)</translation>
+    </message>
+    <message>
+        <source>Select</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw paths</source>
+        <translation type="unfinished">Kreslit cesty</translation>
+    </message>
+    <message>
+        <source>Draw lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw rectangles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw ellipses</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw rhombuses</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add images</source>
+        <translation type="unfinished">Přidat obrázky</translation>
+    </message>
+    <message>
+        <source>Erase</source>
+        <translation type="unfinished">Guma</translation>
+    </message>
+    <message>
+        <source>Controls</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mouse and keyboard controls</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Whiteboard toolbar</source>
+        <translation type="unfinished">Panel nástrojů tabule</translation>
+    </message>
+    <message>
+        <source>Right-click or Control-click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-drag (two-finger click and drag on a trackpad)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Space + drag, or two-finger scroll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 + scroll, or pinch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ctrl</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shift</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-drag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle-drag or Space + drag; the wheel scrolls</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 + wheel, or pinch on a touchpad</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Drawing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw with the current tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left button</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Straight line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 + drag with the pen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tools</source>
+        <translation type="unfinished">Nástroje</translation>
+    </message>
+    <message>
+        <source>V select, P pen, L line, R rectangle, O ellipse, D rhombus, T text, I image, E eraser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square, circle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 + drag with the rectangle or ellipse tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stroke width and text size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select and move</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 + drag an item (or the Select tool)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select an area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 + drag on the empty canvas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add to or remove from the selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 + %2 + click</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select all / deselect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 / Esc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move by 1 or 10 units</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow keys / %1 + arrow keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scale</source>
+        <translation type="unfinished">Změna velikosti</translation>
+    </message>
+    <message>
+        <source>%1 + %2 + drag the selection, or + and −</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1, %2 + wheel, or , and . (15°), &lt; and &gt; (1°)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duplicate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete or Backspace</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group / ungroup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 / %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bring forward / send backward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Up / Page Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bring to front / send to back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Home / End</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Item menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished">Zobrazení</translation>
+    </message>
+    <message>
+        <source>Zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1, %2 / %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fit the canvas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pan a zoomed canvas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Drop image files on the canvas, paste with %1, or click with the image tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Whiteboard Controls</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set new width:</source>
+        <translation type="unfinished">Nastavit novou šířku:</translation>
+    </message>
+    <message>
+        <source>Width:</source>
+        <translation type="unfinished">Šířka:</translation>
+    </message>
+    <message>
+        <source>Set new height:</source>
+        <translation type="unfinished">Nastavit novou výšku:</translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation type="unfinished">Výška:</translation>
+    </message>
+    <message>
+        <source>Save Whiteboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scalable Vector Graphics (*.svg)</source>
+        <translation type="unfinished">Scalable Vector Graphics (*.svg)</translation>
+    </message>
+    <message>
+        <source>The file is not an SVG document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>WbWidget</name>
+    <message>
+        <source>Choose an image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Images (*.png *.jpg *.jpeg *.gif *.bmp *.webp)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text:</source>
+        <translation type="unfinished">Text:</translation>
     </message>
 </context>
 <context>
@@ -19648,6 +21582,13 @@ Opravdu zavřít okno?</translation>
     </message>
 </context>
 <context>
+    <name>XMPP::JT_Message</name>
+    <message>
+        <source>Unable to serialize message stanza</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>XMPP::JT_VCard</name>
     <message>
         <source>No VCard available</source>
@@ -19656,6 +21597,140 @@ Opravdu zavřít okno?</translation>
     <message>
         <source>No vCard available</source>
         <translation>Žádná vizitka k dispozici</translation>
+    </message>
+</context>
+<context>
+    <name>XMPP::LinkLocalService</name>
+    <message>
+        <source>The serverless name is too long for DNS-SD.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot publish the serverless address on this network.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot announce serverless presence.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot find the peer&apos;s TCP service.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot bind to the selected network interface.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Too many serverless connections.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The peer&apos;s TCP connection failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Serverless peer lookup timed out.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid serverless user@machine identity.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot start serverless messaging on the selected network interface or port.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Serverless discovery failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This Iris build does not include JDNS serverless discovery.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This user is no longer visible on the local network.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Too many pending serverless messages or connections.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>XMPP::RemoteNameProvider</name>
+    <message>
+        <source>The connection to the DNS server was refused</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The DNS server host was not found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not connect to the proxy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The proxy refused the connection to the DNS server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Proxy authentication failed</source>
+        <translation type="unfinished">Ověření na proxy selhalo</translation>
+    </message>
+    <message>
+        <source>The connection to the DNS server failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid DNS server address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The DNS resolver failed to start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not start the DNS lookup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DNS server %1 did not answer in time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unsupported proxy type for DNS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The connection to DNS server %1 was lost</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TLS is not available for DNS over HTTPS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The certificate of DNS server %1 is not valid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TLS with DNS server %1 failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid HTTP reply from DNS server %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DNS server %1 answered with HTTP status %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remote DNS is not available: Iris was built without JDNS</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
