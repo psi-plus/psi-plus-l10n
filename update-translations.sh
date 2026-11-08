@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@yandex.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2023-02-23
+# Updated: 2026-11-11
 # Version: N/A
 
 set -e
@@ -267,13 +267,20 @@ case "${1}" in
     COMMENT_FILTERED_DATA=$(echo "${COMMENT_FULL_DATA}" | sed -ne 's|^.*/psi_.*.desktop:\(.*\)$|\1|p')
     COMMENT_SORTED_DATA=$(echo "${COMMENT_FILTERED_DATA}" | sort -uV)
 
+    KEYWORDS_FULL_DATA=$(grep -r "Keywords\[" "${CUR_DIR}/desktop-file/" | grep -v '/psi.desktop:' | grep -v '/psi_en.desktop:')
+    KEYWORDS_FILTERED_DATA=$(echo "${KEYWORDS_FULL_DATA}" | sed -ne 's|^.*/psi_.*.desktop:\(.*\)$|\1|p')
+    KEYWORDS_SORTED_DATA=$(echo "${KEYWORDS_FILTERED_DATA}" | sort -uV)
+
     DESKTOP_FILE="${CUR_DIR}/desktop-file/psi.desktop"
     grep -v "GenericName\[" "${DESKTOP_FILE}" > "${DESKTOP_FILE}.tmp"
     mv -f "${DESKTOP_FILE}.tmp" "${DESKTOP_FILE}"
     grep -v "Comment\[" "${DESKTOP_FILE}" > "${DESKTOP_FILE}.tmp"
     mv -f "${DESKTOP_FILE}.tmp" "${DESKTOP_FILE}"
+    grep -v "Keywords\[" "${DESKTOP_FILE}" > "${DESKTOP_FILE}.tmp"
+    mv -f "${DESKTOP_FILE}.tmp" "${DESKTOP_FILE}"
     echo "${GENERICNAME_SORTED_DATA}" >> "${DESKTOP_FILE}"
     echo "${COMMENT_SORTED_DATA}" >> "${DESKTOP_FILE}"
+    echo "${KEYWORDS_SORTED_DATA}" >> "${DESKTOP_FILE}"
 
     # Update .desktop file for English localization
     cp -f "${CUR_DIR}/desktop-file/psi.desktop" \
