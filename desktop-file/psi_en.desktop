@@ -12,10 +12,17 @@ Terminal=false
 X-KDE-StartupNotify=true
 StartupWMClass=Psi
 Categories=Network;InstantMessaging;Qt;
-Keywords=XMPP;Jabber;Chat;InstantMessaging;
+Keywords=XMPP;Jabber;chat;instant messaging;messenger;IM;VoIP;calls;file sharing;
 Actions=SelectProfile;QuitApplication;
 
 # Translations
+Keywords[be]=XMPP;Jabber;Псі;
+Keywords[bg]=XMPP;Jabber;Пси;
+Keywords[kk]=XMPP;Jabber;Пси;
+Keywords[mk]=XMPP;Jabber;Пси;
+Keywords[sr]=XMPP;Jabber;Пси;
+Keywords[ru]=XMPP;Jabber;Пси;чат;чат-клиент;мгновенные сообщения;мессенджер;беседы;VoIP;звонки;передача файлов;
+Keywords[uk]=XMPP;Jabber;Псі;чат;чат-клієнт;миттєві повідомлення;месенджер;бесіди;VoIP;дзвінки;передача файлів;
 GenericName[be]=Кліент XMPP
 GenericName[bg]=Клиент за XMPP
 GenericName[ca]=Client XMPP
@@ -66,5 +73,5 @@ Comment[sv]=Kommunicera över XMPPnätverket
 Comment[uk]=Програма для спілкування в мережі XMPP
 Comment[ur_PK]=جیبر نیٹ ورک پر مواصلت کریں
 Comment[vi]=Liên lạc qua mạng XMPP nhé
-Comment[zh_CN]=通过 XMPP 网络进行交流
-Comment[zh_TW]=通過XMPP網絡進行通信
+Comment[zh_CN]=通过 XMPP 网络通信
+Comment[zh_TW]=透過 XMPP 網路進行通訊
