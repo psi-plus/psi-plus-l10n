@@ -9149,31 +9149,31 @@ Size: %2</source>
     </message>
     <message numerus="yes">
         <source>%n minutes ago</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n хвилину тому</numerusform>
+            <numerusform>%n хвилини тому</numerusform>
+            <numerusform>%n хвилин тому</numerusform>
         </translation>
     </message>
     <message>
         <source>1 hour ago</source>
-        <translation type="unfinished"></translation>
+        <translation>1 годину тому</translation>
     </message>
     <message numerus="yes">
         <source>%n hours ago</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n година тому</numerusform>
+            <numerusform>%n години тому</numerusform>
+            <numerusform>%n годин тому</numerusform>
         </translation>
     </message>
     <message>
         <source>Message retracted</source>
-        <translation type="unfinished"></translation>
+        <translation>Повідомлення відкликано</translation>
     </message>
     <message>
         <source>Referenced message is not available locally</source>
-        <translation type="unfinished"></translation>
+        <translation>Згадане повідомлення локально недоступне</translation>
     </message>
     <message>
         <source>Quote</source>
@@ -9181,11 +9181,11 @@ Size: %2</source>
     </message>
     <message>
         <source>The message has no reply identifier assigned by its sender or room.</source>
-        <translation type="unfinished"></translation>
+        <translation>Повідомлення не має ідентифікатора відповіді, призначеного відправником або кімнатою.</translation>
     </message>
     <message>
         <source>Edit message</source>
-        <translation type="unfinished"></translation>
+        <translation>Редагувати повідомлення</translation>
     </message>
     <message>
         <source>Forward</source>
@@ -9193,45 +9193,45 @@ Size: %2</source>
     </message>
     <message>
         <source>Copy image</source>
-        <translation type="unfinished"></translation>
+        <translation>Копіювати зображення</translation>
     </message>
     <message>
         <source>View image</source>
-        <translation type="unfinished"></translation>
+        <translation>Переглянути зображення</translation>
     </message>
     <message>
         <source>Copy image link</source>
-        <translation type="unfinished"></translation>
+        <translation>Скопіювати посилання на зображення</translation>
     </message>
     <message>
         <source>Open link</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити посилання</translation>
     </message>
     <message>
         <source>Copy link address</source>
-        <translation type="unfinished"></translation>
+        <translation>Копіювати адресу посилання</translation>
     </message>
     <message>
         <source>%1 selected</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 обрано</translation>
     </message>
 </context>
 <context>
     <name>MamImageViewer</name>
     <message>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Зображення</translation>
     </message>
 </context>
 <context>
     <name>Mattermost::OverlayScrollBarManager</name>
     <message>
         <source>Scroll to top</source>
-        <translation type="unfinished"></translation>
+        <translation>Прокрутити вгору</translation>
     </message>
     <message>
         <source>Scroll to bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Прокрутити униз</translation>
     </message>
 </context>
 <context>
@@ -9253,15 +9253,15 @@ Size: %2</source>
     <name>MessagePreview</name>
     <message>
         <source>Cancel reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Скасувати відповідь</translation>
     </message>
     <message>
         <source>Show less</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати менше</translation>
     </message>
     <message>
         <source>Show more…</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати більше…</translation>
     </message>
 </context>
 <context>
@@ -9532,11 +9532,11 @@ Details: %1</source>
     <name>NativeChatThemes</name>
     <message>
         <source>Bubble</source>
-        <translation type="unfinished"></translation>
+        <translation>Бульбашки</translation>
     </message>
     <message>
         <source>Speech bubbles, your messages on the right</source>
-        <translation type="unfinished"></translation>
+        <translation>Бульбашки діалогу, ваші повідомлення — праворуч</translation>
     </message>
     <message>
         <source>Classic</source>
@@ -9544,15 +9544,15 @@ Details: %1</source>
     </message>
     <message>
         <source>Compact text layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Компактне розташування тексту</translation>
     </message>
     <message>
         <source>Modern</source>
-        <translation type="unfinished"></translation>
+        <translation>Сучасна</translation>
     </message>
     <message>
         <source>Avatars and message headers</source>
-        <translation type="unfinished"></translation>
+        <translation>Аватари та заголовки повідомлень</translation>
     </message>
 </context>
 <context>
@@ -9567,7 +9567,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Choose the native message layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Виберіть нативний макет повідомлення</translation>
     </message>
 </context>
 <context>
@@ -10045,23 +10045,23 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Desktop palette:</source>
-        <translation type="unfinished"></translation>
+        <translation>Палітра робочого столу:</translation>
     </message>
     <message>
         <source>Muted color for quoted text and the vertical quote line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Приглушений колір для цитованого тексту та вертикальної лінії цитування.</translation>
     </message>
     <message>
         <source>Quoted messages:</source>
-        <translation type="unfinished"></translation>
+        <translation>Процитовані повідомлення:</translation>
     </message>
     <message>
         <source>Chat background</source>
-        <translation type="unfinished"></translation>
+        <translation>Фон чату</translation>
     </message>
     <message>
         <source>Chat text</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст чату</translation>
     </message>
 </context>
 <context>
@@ -10465,19 +10465,19 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Download automatically in chats:</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматичне завантаження в чатах:</translation>
     </message>
     <message>
         <source>Download automatically in group chats:</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматичне завантаження в групових чатах:</translation>
     </message>
     <message>
         <source>Display received messages in deprecated XHTML-IM formatting (XEP-0071)</source>
-        <translation type="unfinished"></translation>
+        <translation>Відображати отримані повідомлення у застарілому форматі XHTML-IM (XEP-0071)</translation>
     </message>
     <message>
         <source>Send messages in deprecated XHTML-IM formatting (XEP-0071)</source>
-        <translation type="unfinished"></translation>
+        <translation>Надсилайте повідомлення у застарілому форматі XHTML-IM (XEP-0071)</translation>
     </message>
 </context>
 <context>
@@ -10923,11 +10923,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Incoming call (repeated):</source>
-        <translation type="unfinished"></translation>
+        <translation>Вхідний виклик (повторний):</translation>
     </message>
     <message>
         <source>Calling (repeated):</source>
-        <translation type="unfinished"></translation>
+        <translation>Виклик (повторний):</translation>
     </message>
 </context>
 <context>
@@ -12091,15 +12091,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Light desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Світлий робочий стіл</translation>
     </message>
     <message>
         <source>Dark desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Темний робочий стіл</translation>
     </message>
     <message>
         <source>Edit each palette independently. Psi automatically uses the palette matching the desktop theme.</source>
-        <translation type="unfinished"></translation>
+        <translation>Редагуйте кожну палітру окремо. Psi автоматично використовує палітру, що відповідає темі робочого столу.</translation>
     </message>
 </context>
 <context>
@@ -12492,27 +12492,27 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Never, only when asked</source>
-        <translation type="unfinished"></translation>
+        <translation>Ніколи, лише коли попросять</translation>
     </message>
     <message>
         <source>Up to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>До %1</translation>
     </message>
     <message>
         <source>Pictures, voice messages and other media from contacts in your roster, and from your own other devices, are downloaded and shown right away up to this size. Larger files and files from anyone else are downloaded only when you ask.</source>
-        <translation type="unfinished"></translation>
+        <translation>Зображення, голосові повідомлення та інші медіафайли від контактів зі списку, а також з інших ваших пристроїв, завантажуються й відображаються одразу — за умови, що вони не перевищують цього розміру. Файли більшого розміру, а також файли від інших користувачів, завантажуються лише за вашим запитом.</translation>
     </message>
     <message>
         <source>Media in group chats is downloaded and shown right away up to this size, whoever sent it. Larger files are downloaded only when you ask.</source>
-        <translation type="unfinished"></translation>
+        <translation>Медіафайли в групових чатах завантажуються й відображаються одразу, якщо їхній розмір не перевищує певного ліміту — незалежно від того, хто їх надіслав. Файли більшого розміру завантажуються лише за вашим запитом.</translation>
     </message>
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact by using the deprecated XHTML-IM (XEP-0071)</source>
-        <translation type="unfinished"></translation>
+        <translation>Якщо цю опцію ввімкнено, Psi відображатиме вхідні повідомлення, відформатовані відповідно до стилю, заданого контактом, з використанням застарілого стандарту XHTML-IM (XEP-0071).</translation>
     </message>
     <message>
         <source>If enabled, Psi will send outcoming formatted messages with additional XHTML-IM (XEP-0071). Note: it&apos;s deprecated badly supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Якщо цю опцію ввімкнено, Psi надсилатиме вихідні форматовані повідомлення з додатковим XHTML-IM (XEP-0071). Примітка: цей стандарт вважається застарілим і погано підтримується.</translation>
     </message>
 </context>
 <context>
@@ -12815,50 +12815,50 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Calls, whiteboards and files</source>
-        <translation type="unfinished"></translation>
+        <translation>Виклики, дошки для малювання та файли</translation>
     </message>
     <message>
         <source>With contacts whose chat uses OMEMO: only with encryption verified by OMEMO</source>
-        <translation type="unfinished"></translation>
+        <translation>З контактами, у спілкуванні з якими використовується OMEMO: лише за умови, що шифрування підтверджено через OMEMO</translation>
     </message>
     <message>
         <source>The encryption keys of a call or whiteboard are confirmed with a trusted OMEMO device of the contact, and files are encrypted end to end (JET-OMEMO). Sessions that cannot be protected are refused instead of running unprotected. Contacts whose chat is not encrypted with OMEMO are not affected. Files to OMEMO contacts are encrypted whenever the contact supports it, also without this option.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ключі шифрування для викликів або дошки для малювання підтверджуються через довірений пристрій контакту, що використовує OMEMO, а файли шифруються за принципом наскрізного шифрування (JET-OMEMO). Якщо сеанс неможливо захистити, він відхиляється — замість того, щоб відбуватися без захисту. Це не стосується контактів, чиє спілкування в чаті не зашифроване за допомогою OMEMO. Файли, що надсилаються контактам із підтримкою OMEMO, шифруються щоразу, коли такий контакт підтримує цю функцію, навіть якщо відповідна опція не активована окремо.</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabServerless</name>
     <message>
         <source>Serverless</source>
-        <translation type="unfinished"></translation>
+        <translation>Безсерверні технології</translation>
     </message>
     <message>
         <source>Chat on the local network without a server</source>
-        <translation type="unfinished"></translation>
+        <translation>Чат у локальній мережі без сервера</translation>
     </message>
     <message>
         <source>Discover and chat with people on the selected local network using Bonjour / XEP-0174. Messages currently use unencrypted, unauthenticated connections. Enable this only on a network you trust.</source>
-        <translation type="unfinished"></translation>
+        <translation>Знаходьте людей у ​​вибраній локальній мережі та спілкуйтеся з ними за допомогою Bonjour / XEP-0174. Наразі повідомлення передаються через незашифровані з’єднання без автентифікації. Вмикайте цю функцію лише в тій мережі, якій ви довіряєте.</translation>
     </message>
     <message>
         <source>Enable serverless messaging</source>
-        <translation type="unfinished"></translation>
+        <translation>Увімкнути безсерверний обмін повідомленнями</translation>
     </message>
     <message>
         <source>Serverless messaging is unavailable: this Iris build does not include JDNS support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Обмін повідомленнями без використання сервера недоступний: ця збірка Iris не містить підтримки JDNS.</translation>
     </message>
     <message>
         <source>Local network account</source>
-        <translation type="unfinished"></translation>
+        <translation>Обліковий запис у локальній мережі</translation>
     </message>
     <message>
         <source>Display name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Відображуване ім&apos;я:</translation>
     </message>
     <message>
         <source>Local address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Локальна адреса:</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -12866,7 +12866,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Network interface:</source>
-        <translation type="unfinished"></translation>
+        <translation>Мережевий інтерфейс:</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -12874,15 +12874,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Leave Automatic unless a firewall requires a fixed TCP listening port.</source>
-        <translation type="unfinished"></translation>
+        <translation>Залиште значення «Автоматично», якщо тільки брандмауер не вимагає використання фіксованого TCP-порту для прослуховування.</translation>
     </message>
     <message>
         <source>Listening port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Порт прослуховування:</translation>
     </message>
     <message>
         <source>Connect automatically when Psi starts</source>
-        <translation type="unfinished"></translation>
+        <translation>Підключатися автоматично під час запуску Psi</translation>
     </message>
     <message>
         <source>Status:</source>
@@ -12890,7 +12890,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Automatic (active local network)</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматичний (активна локальна мережа)</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
@@ -12898,11 +12898,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>%1 (unavailable)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (недоступно)</translation>
     </message>
     <message>
         <source>Assigned when enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Призначається, коли ввімкнено</translation>
     </message>
     <message>
         <source>Disabled</source>
@@ -12910,11 +12910,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Online on the local network</source>
-        <translation type="unfinished"></translation>
+        <translation>Онлайн у локальній мережі</translation>
     </message>
     <message>
         <source>Announcing on the local network…</source>
-        <translation type="unfinished"></translation>
+        <translation>Оголошення в локальній мережі…</translation>
     </message>
     <message>
         <source>Offline</source>
@@ -12922,7 +12922,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Local network</source>
-        <translation type="unfinished"></translation>
+        <translation>Локальна мережа</translation>
     </message>
 </context>
 <context>
@@ -13149,7 +13149,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Server accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Облікові записи на сервері</translation>
     </message>
 </context>
 <context>
@@ -14083,7 +14083,7 @@ Please enter your passphrase below:</source>
     <name>ProfileItemDelegate</name>
     <message>
         <source>Delete profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалити профіль</translation>
     </message>
 </context>
 <context>
@@ -14296,31 +14296,31 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Профілі</translation>
     </message>
     <message>
         <source>New profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Новий профіль</translation>
     </message>
     <message>
         <source>Add profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати профіль</translation>
     </message>
     <message>
         <source>Startup and language</source>
-        <translation type="unfinished"></translation>
+        <translation>Запуск і мова</translation>
     </message>
     <message>
         <source>&amp;Automatically open this profile on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Автоматично відкривати цей профіль під час запуску</translation>
     </message>
     <message>
         <source>The last opened profile will be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Буде використано останній відкритий профіль.</translation>
     </message>
     <message>
         <source>Application language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Мова програми:</translation>
     </message>
 </context>
 <context>
@@ -14339,35 +14339,35 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Double-click or press F2 to rename a profile. Press Delete to remove it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Двічі клацніть або натисніть F2, щоб перейменувати профіль. Натисніть Delete, щоб видалити його.</translation>
     </message>
     <message>
         <source>Choose the application language. This setting applies to all profiles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Виберіть мову програми. Це налаштування застосовується до всіх профілів.</translation>
     </message>
     <message>
         <source>Open the selected profile automatically the next time Psi starts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматично відкривати вибраний профіль під час наступного запуску Psi.</translation>
     </message>
     <message>
         <source>Unable to create this profile. Check folder permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося створити цей профіль. Перевірте дозволи для каталогу.</translation>
     </message>
     <message>
         <source>Profile created, but its default options could not be saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Профіль створено, але його параметри за замовчуванням зберегти не вдалося.</translation>
     </message>
     <message>
         <source>Profile names may contain only letters and numbers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Назви профілів можуть містити лише літери та цифри.</translation>
     </message>
     <message>
         <source>A profile with this name already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Профіль із таким іменем уже існує.</translation>
     </message>
     <message>
         <source>Unable to rename the profile. Check folder permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалося перейменувати профіль. Перевірте дозволи для каталогу.</translation>
     </message>
     <message>
         <source>Delete Profile</source>
@@ -14377,11 +14377,13 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <source>Delete profile &quot;%1&quot;?
 
 All of its message history, settings, and cached files will be deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалити профіль &quot;%1&quot;?
+
+Усю історію повідомлень, налаштування та кешовані файли цього профілю буде видалено.</translation>
     </message>
     <message>
         <source>Unable to delete the profile completely. Check folder permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдається повністю видалити профіль. Перевірте права доступу до каталогу.</translation>
     </message>
 </context>
 <context>
@@ -14436,11 +14438,11 @@ All of its message history, settings, and cached files will be deleted.</source>
     </message>
     <message>
         <source>DNS through the proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>DNS через проксі</translation>
     </message>
     <message>
         <source>Remote DNS:</source>
-        <translation type="unfinished"></translation>
+        <translation>Віддалений DNS:</translation>
     </message>
     <message>
         <source>DoH URL:</source>
