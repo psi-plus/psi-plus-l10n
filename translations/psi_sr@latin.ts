@@ -2626,6 +2626,10 @@ Da li i dalje želite da zatvorite prozor?</translation>
         <source>Desc:</source>
         <translation type="vanished">Desc:</translation>
     </message>
+    <message>
+        <source>The message was corrected</source>
+        <translation type="vanished">Poruka je ispravljena</translation>
+    </message>
 </context>
 <context>
     <name>ChatViewThemeProvider</name>
@@ -3065,6 +3069,10 @@ Možete pregledati stavke pre nego što ih obrišete sa hard diska.</translation
     <message>
         <source>Search: </source>
         <translation type="vanished">Pretraži:</translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="vanished">&amp;Razlikuj velika i mala slova</translation>
     </message>
     <message>
         <source>First page</source>
@@ -5147,6 +5155,13 @@ morate proveriti da li su dozvoljene izlazne TCP veze.</translation>
     <message>
         <source>Download sources are not given</source>
         <translation>Izvori za preuzimanje nisu navedeni</translation>
+    </message>
+</context>
+<context>
+    <name>FileSharingItem</name>
+    <message>
+        <source>Published on HttpUpload service</source>
+        <translation type="vanished">Objavljeno na HttpUpload usluzi</translation>
     </message>
 </context>
 <context>
@@ -7541,6 +7556,38 @@ Napomena: Da bi radili ispravno, opcija options.ui.chat.central-toolbar mora bit
     <message>
         <source>Author: </source>
         <translation type="vanished">Autor:</translation>
+    </message>
+    <message>
+        <source>512 Kb</source>
+        <translation type="vanished">512 Kb</translation>
+    </message>
+    <message>
+        <source>1 Mb</source>
+        <translation type="vanished">1 Mb</translation>
+    </message>
+    <message>
+        <source>2 Mb</source>
+        <translation type="vanished">2 Mb</translation>
+    </message>
+    <message>
+        <source>5 Mb</source>
+        <translation type="vanished">5 Mb</translation>
+    </message>
+    <message>
+        <source>10 Mb</source>
+        <translation type="vanished">10 Mb</translation>
+    </message>
+    <message>
+        <source>Maximum image size</source>
+        <translation type="vanished">Maksimalna veličina slike</translation>
+    </message>
+    <message>
+        <source>Image preview size in pixels</source>
+        <translation type="vanished">Veličina pregleda slike u pikselima</translation>
+    </message>
+    <message>
+        <source>Allow upscale</source>
+        <translation type="vanished">Dozvoli uvećanje</translation>
     </message>
     <message>
         <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
@@ -14401,6 +14448,12 @@ Detalji: %1</translation>
         <translation>Naslov</translation>
     </message>
     <message>
+        <source>There was an error trying to sign your status.
+Reason: %1.</source>
+        <translation type="vanished">Došlo je do greške pri potpisivanju vašeg statusa.
+Razlog: %1.</translation>
+    </message>
+    <message>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[GREŠKA: Ova poruka je šifrovana i ne možete je dešifrovati.]</translation>
     </message>
@@ -14455,6 +14508,10 @@ Detalji: %1</translation>
     <message>
         <source>Malformed request</source>
         <translation>Neispravan zahtev</translation>
+    </message>
+    <message>
+        <source>Open Files For Sharing</source>
+        <translation type="vanished">Otvori fajlove za deljenje</translation>
     </message>
     <message>
         <source>Keychain failure</source>
@@ -14988,6 +15045,14 @@ Detalji: %1</translation>
         <translation>Priključci</translation>
     </message>
     <message>
+        <source>Pin Tab</source>
+        <translation type="vanished">Zakači karticu</translation>
+    </message>
+    <message>
+        <source>Unpin Tab</source>
+        <translation type="vanished">Otkači karticu</translation>
+    </message>
+    <message>
         <source>Templates</source>
         <translation>Šabloni</translation>
     </message>
@@ -15099,6 +15164,10 @@ Detalji: %1</translation>
     <message>
         <source>Fingerprint for account &quot;%1&quot;: %2</source>
         <translation>Otisak za nalog „%1“: %2</translation>
+    </message>
+    <message>
+        <source>OpenPGP encryption</source>
+        <translation type="vanished">OpenPGP šifrovanje</translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
@@ -16016,6 +16085,10 @@ Would you like to activate that session now?</source>
     <message>
         <source>(no selection)</source>
         <translation>(bez izbora)</translation>
+    </message>
+    <message>
+        <source>Flat</source>
+        <translation type="vanished">Ravno</translation>
     </message>
     <message>
         <source>Delete...</source>
@@ -20402,6 +20475,10 @@ Na prvoj kartici podesite listu kontakata čiji se status prati. Kada se status 
         <translation type="vanished">Sačuvaj sesiju</translation>
     </message>
     <message>
+        <source>Save the contents of the whiteboard</source>
+        <translation type="vanished">Sačuvaj sadržaj bele table</translation>
+    </message>
+    <message>
         <source>Change the geometry</source>
         <translation type="vanished">Menjanje geometrije</translation>
     </message>
@@ -20410,12 +20487,36 @@ Na prvoj kartici podesite listu kontakata čiji se status prati. Kada se status 
         <translation type="vanished">Završi sesiju</translation>
     </message>
     <message>
+        <source>Clear the whiteboard</source>
+        <translation type="vanished">Obriši belu tablu</translation>
+    </message>
+    <message>
+        <source>Stroke color</source>
+        <translation type="vanished">Boja poteza</translation>
+    </message>
+    <message>
         <source>Fill color</source>
         <translation type="vanished">Popunite boju</translation>
     </message>
     <message>
+        <source>Stroke width</source>
+        <translation type="vanished">Debljina poteza</translation>
+    </message>
+    <message>
         <source>Edit mode</source>
         <translation type="vanished">Izmeni mod</translation>
+    </message>
+    <message>
+        <source>Thin stroke</source>
+        <translation type="vanished">Tanak potez</translation>
+    </message>
+    <message>
+        <source>Medium stroke</source>
+        <translation type="vanished">Srednji potez</translation>
+    </message>
+    <message>
+        <source>Thick stroke</source>
+        <translation type="vanished">Debeli potez</translation>
     </message>
     <message>
         <source>Select</source>
@@ -20444,6 +20545,10 @@ Na prvoj kartici podesite listu kontakata čiji se status prati. Kada se status 
     <message>
         <source>Add images</source>
         <translation type="vanished">Dodaj slike</translation>
+    </message>
+    <message>
+        <source>Whiteboard toolbar</source>
+        <translation type="vanished">Traka sa alatkama bele table</translation>
     </message>
     <message>
         <source>%1 left (session: %2).</source>
@@ -20991,6 +21096,13 @@ Na prvoj kartici podesite listu kontakata čiji se status prati. Kada se status 
     <message>
         <source>&lt;a&gt; (ack) and &lt;r&gt; (request ack) stanzas used to acknowledge successful receipt of a stanza.</source>
         <translation>&lt;a&gt; (potvrda) i &lt;r&gt; (zahtev za potvrdom) stance koje se koriste za potvrdu uspešnog prijema stance.</translation>
+    </message>
+</context>
+<context>
+    <name>XMPP::ClientStream</name>
+    <message>
+        <source>Offered mechanisms: </source>
+        <translation type="vanished">Ponuđeni mehanizmi: </translation>
     </message>
 </context>
 <context>

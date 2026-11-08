@@ -2598,6 +2598,10 @@ Do you still want to close the window?</source>
         <source>Desc:</source>
         <translation type="vanished">Описание:</translation>
     </message>
+    <message>
+        <source>The message was corrected</source>
+        <translation type="vanished">Съобщението беше коригирано</translation>
+    </message>
 </context>
 <context>
     <name>ChatViewThemeProvider</name>
@@ -3030,6 +3034,10 @@ You can preview items before deleting them from your hard drive.</source>
     <message>
         <source>Search: </source>
         <translation type="vanished">Търсене:</translation>
+    </message>
+    <message>
+        <source>&amp;Case sensitive</source>
+        <translation type="vanished">&amp;Различаване на регистъра</translation>
     </message>
     <message>
         <source>First page</source>
@@ -5134,6 +5142,13 @@ that outgoing TCP connections are allowed.</source>
     </message>
 </context>
 <context>
+    <name>FileSharingItem</name>
+    <message>
+        <source>Published on HttpUpload service</source>
+        <translation type="vanished">Публикувано в услугата HttpUpload</translation>
+    </message>
+</context>
+<context>
     <name>FileSharingMediaSave</name>
     <message>
         <source>Download source disappeared</source>
@@ -5706,6 +5721,10 @@ Reason: %1</source>
     <message>
         <source>Unable to join groupchat.    Reason: %1</source>
         <translation>Не може да се присъедини към групов чат.    Причина: %1</translation>
+    </message>
+    <message>
+        <source>Paste and Send</source>
+        <translation type="vanished">Поставяне и изпращане</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
@@ -7567,6 +7586,10 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <source>Image preview size in pixels</source>
         <translation type="vanished">Размер в пиксели на превю на изображение</translation>
+    </message>
+    <message>
+        <source>Allow upscale</source>
+        <translation type="vanished">Разрешаване на уголемяване</translation>
     </message>
     <message>
         <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
@@ -13049,6 +13072,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Изберете ключ.</translation>
     </message>
     <message>
+        <source>Key Storage Diagnostic Text</source>
+        <translation type="vanished">Диагностичен текст за съхранение на ключове</translation>
+    </message>
+    <message>
         <source>GnuPG info</source>
         <translation>GnuPG инфо</translation>
     </message>
@@ -14489,6 +14516,10 @@ Reason: %1.</source>
         <translation>Невалидна заявка</translation>
     </message>
     <message>
+        <source>Open Files For Sharing</source>
+        <translation type="vanished">Отваряне на файлове за споделяне</translation>
+    </message>
+    <message>
         <source>Keychain failure</source>
         <translation>Грешка в ключодържателя</translation>
     </message>
@@ -15004,6 +15035,14 @@ Reason: %1.</source>
         <translation>Добавки</translation>
     </message>
     <message>
+        <source>Pin Tab</source>
+        <translation type="vanished">Закачане на раздела</translation>
+    </message>
+    <message>
+        <source>Unpin Tab</source>
+        <translation type="vanished">Откачане на раздела</translation>
+    </message>
+    <message>
         <source>Templates</source>
         <translation>Шаблони</translation>
     </message>
@@ -15109,8 +15148,16 @@ Reason: %1.</source>
         <translation>включване на autojid</translation>
     </message>
     <message>
+        <source>Paste and Send</source>
+        <translation type="vanished">Поставяне и изпращане</translation>
+    </message>
+    <message>
         <source>Fingerprint for account &quot;%1&quot;: %2</source>
         <translation>Пръстов отпечатък за акаунт &quot;%1&quot;: %2</translation>
+    </message>
+    <message>
+        <source>OpenPGP encryption</source>
+        <translation type="vanished">OpenPGP криптиране</translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
@@ -15521,6 +15568,14 @@ Migration is possible with Psi-0.15</source>
     <message>
         <source>&amp;Clear Custom Picture</source>
         <translation>&amp;Изчистване на персонализираната снимка</translation>
+    </message>
+    <message>
+        <source>Assign Open&amp;PGP Key</source>
+        <translation type="vanished">Присвояване на Open&amp;PGP ключ</translation>
+    </message>
+    <message>
+        <source>Unassign Open&amp;PGP Key</source>
+        <translation type="vanished">Премахване на Open&amp;PGP ключ</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
@@ -16028,6 +16083,10 @@ Would you like to activate that session now?</source>
     <message>
         <source>(no selection)</source>
         <translation>(без избор)</translation>
+    </message>
+    <message>
+        <source>Flat</source>
+        <translation type="vanished">Плосък</translation>
     </message>
     <message>
         <source>Delete...</source>
@@ -20229,6 +20288,10 @@ To work with Parole player you need to enable MPRIS2 module/plugin.</source>
         <source>&amp;Close</source>
         <translation type="vanished">&amp;Затваряне</translation>
     </message>
+    <message>
+        <source>Open in browser</source>
+        <translation type="vanished">Отворете в браузъра</translation>
+    </message>
 </context>
 <context>
     <name>Viewer</name>
@@ -20399,6 +20462,78 @@ On the first tab set up a list of contacts for the status of which is monitored.
 <context>
     <name>WbDlg</name>
     <message>
+        <source>Save session</source>
+        <translation type="vanished">Запазване на сесията</translation>
+    </message>
+    <message>
+        <source>Save the contents of the whiteboard</source>
+        <translation type="vanished">Запазете съдържанието на бялата дъска</translation>
+    </message>
+    <message>
+        <source>Change the geometry</source>
+        <translation type="vanished">Променете геометрията</translation>
+    </message>
+    <message>
+        <source>Clear the whiteboard</source>
+        <translation type="vanished">Изчистете бялата дъска</translation>
+    </message>
+    <message>
+        <source>Stroke color</source>
+        <translation type="vanished">Цвят на щриха</translation>
+    </message>
+    <message>
+        <source>Fill color</source>
+        <translation type="vanished">Цвят на запълване</translation>
+    </message>
+    <message>
+        <source>Stroke width</source>
+        <translation type="vanished">Ширина на хода</translation>
+    </message>
+    <message>
+        <source>Edit mode</source>
+        <translation type="vanished">Режим на редактиране</translation>
+    </message>
+    <message>
+        <source>Thin stroke</source>
+        <translation type="vanished">Тънък удар</translation>
+    </message>
+    <message>
+        <source>Medium stroke</source>
+        <translation type="vanished">Среден ход</translation>
+    </message>
+    <message>
+        <source>Thick stroke</source>
+        <translation type="vanished">Дебел удар</translation>
+    </message>
+    <message>
+        <source>Select</source>
+        <translation type="vanished">Избор</translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation type="vanished">Завъртане</translation>
+    </message>
+    <message>
+        <source>Scale</source>
+        <translation type="vanished">Мащаб</translation>
+    </message>
+    <message>
+        <source>Erase</source>
+        <translation type="vanished">Изтриване</translation>
+    </message>
+    <message>
+        <source>Draw paths</source>
+        <translation type="vanished">Начертайте пътеки</translation>
+    </message>
+    <message>
+        <source>Add images</source>
+        <translation type="vanished">Добавете изображения</translation>
+    </message>
+    <message>
+        <source>Whiteboard toolbar</source>
+        <translation type="vanished">Лента с инструменти за бяла дъска</translation>
+    </message>
+    <message>
         <source>Warning</source>
         <translation type="vanished">Предупреждение</translation>
     </message>
@@ -20409,6 +20544,22 @@ On the first tab set up a list of contacts for the status of which is monitored.
     <message>
         <source>&amp;No</source>
         <translation type="vanished">&amp;Не</translation>
+    </message>
+    <message>
+        <source>Set new width:</source>
+        <translation type="vanished">Задайте нова ширина:</translation>
+    </message>
+    <message>
+        <source>Width:</source>
+        <translation type="vanished">Ширина:</translation>
+    </message>
+    <message>
+        <source>Set new height:</source>
+        <translation type="vanished">Задайте нова височина:</translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation type="vanished">Височина:</translation>
     </message>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
@@ -20444,6 +20595,10 @@ On the first tab set up a list of contacts for the status of which is monitored.
 </context>
 <context>
     <name>WbManager</name>
+    <message>
+        <source>Unsupported</source>
+        <translation type="vanished">Неподдържано</translation>
+    </message>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
         <translation type="vanished">Векторни графики (*.svg)</translation>
