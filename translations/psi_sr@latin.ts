@@ -1486,23 +1486,23 @@ Došlo je do greške pri dobijanju informacija o prevođenju ID-a usluge od „%
     <message>
         <source>This plugin is designed to send and receive special messages such as Attentions.
 To work correctly, the plugin requires that the client of the other part supports XEP-0224 (for example: Pidgin, Miranda IM with Nudge plugin).</source>
-        <translation>This plugin is designed to send and receive special messages such as Attentions.
-To work correctly, the plugin requires that the client of the other part supports XEP-0224 (for example: Pidgin, Miranda IM with Nudge plugin).</translation>
+        <translation>Ovaj priključak je namenjen slanju i primanju posebnih poruka kao što su upozorenja.
+Za ispravan rad priključak zahteva da klijent druge strane podržava XEP-0224 (na primer: Pidgin, Miranda IM sa Nudge priključkom).</translation>
     </message>
 </context>
 <context>
     <name>AuthEvent</name>
     <message>
         <source>%1 wants to subscribe to your presence.</source>
-        <translation>%1 wants to subscribe to your presence.</translation>
+        <translation>%1 želi da se pretplati na vaše prisustvo.</translation>
     </message>
     <message>
         <source>%1 authorized you to view his status.</source>
-        <translation>%1 authorized you to view his status.</translation>
+        <translation>%1 vam je odobrio autorizaciju za pregled njegovog statusa.</translation>
     </message>
     <message>
         <source>%1 removed your authorization to view his status!</source>
-        <translation>%1 removed your authorization to view his status!</translation>
+        <translation>%1 je uklonio vašu autorizaciju za pregled njegovog statusa!</translation>
     </message>
 </context>
 <context>
@@ -1557,13 +1557,13 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>for JIDs and conferences:</source>
-        <translation>for JIDs and conferences:</translation>
+        <translation>za JID-ove i konferencije:</translation>
     </message>
     <message>
         <source>You can also specify a part of JID
 (without any additional symbols)</source>
-        <translation>You can also specify a part of JID
-(without any additional symbols)</translation>
+        <translation>Takođe možete navesti deo JID-a
+(bez dodatnih simbola)</translation>
     </message>
     <message>
         <source>Disable for your accounts (specify your JIDs):</source>
@@ -1609,17 +1609,17 @@ To work correctly, the plugin requires that the client of the other part support
 The list of exceptions for jids has two operating modes:
 * auto-responder is switched off for the list of exceptions, for the others is switched on (Disable mode)
 * auto-responder is switched on for the list of exceptions, for the others is switched off (Enable mode) </source>
-        <translation>This plugin acts as an auto-answering machine. It has a number of simple configuration options, which you can use to:
-* set a text message for auto-answer
-* exclude specified jids, including conferences, from the objects for auto-answer (if a jid conference is set, the exception will include all private messages)
-* disable the auto-responder for some of your accounts
-* set the number of sent auto messages
-* set the time interval after which the number of auto messages counter will be reset
-* disable the auto-responder for the active tab
-* disable the auto-responder for contacts that are not in your roster
-The list of exceptions for jids has two operating modes:
-* auto-responder is switched off for the list of exceptions, for the others is switched on (Disable mode)
-* auto-responder is switched on for the list of exceptions, for the others is switched off (Enable mode) </translation>
+        <translation>Ovaj priključak radi kao automatska sekretarica. Ima niz jednostavnih opcija pomoću kojih možete da:
+* postavite tekst poruke za automatski odgovor
+* isključite navedene JID-ove, uključujući konferencije, iz objekata za automatski odgovor (ako je postavljen JID konferencije, izuzetak će obuhvatiti sve privatne poruke)
+* onemogućite automatski odgovor za neke svoje naloge
+* postavite broj poslatih automatskih poruka
+* postavite vremenski interval posle kojeg se brojač automatskih poruka resetuje
+* onemogućite automatski odgovor za aktivnu karticu
+* onemogućite automatski odgovor za kontakte koji nisu na vašem spisku
+Lista izuzetaka za JID-ove ima dva režima rada:
+* automatski odgovor je isključen za listu izuzetaka, a za ostale uključen (režim isključivanja)
+* automatski odgovor je uključen za listu izuzetaka, a za ostale isključen (režim uključivanja) </translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -2141,7 +2141,7 @@ Uključite kameru ili podelite ekran</translation>
     </message>
     <message>
         <source>Call</source>
-        <translation>Poziv</translation>
+        <translation>Pozovi</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2978,8 +2978,8 @@ Da biste pozvali prijatelja na igru, možete koristiti stavku menija kontakta il
     <message>
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
 You can preview items before deleting them from your hard drive.</source>
-        <translation>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
-You can preview items before deleting them from your hard drive.</translation>
+        <translation>Ovaj priključak je namenjen brisanju keša avatara, sačuvanih lokalnih kopija vKartica i dnevnika istorije.
+Možete pregledati stavke pre nego što ih obrišete sa hard diska.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -4401,23 +4401,23 @@ Ako želite da prihvtite ovaj zahtev, molimo pritisnite Confirm dugme. U suprotn
     </message>
     <message>
         <source>%1 Last Activity</source>
-        <translation>%1 Last Activity</translation>
+        <translation>%1 poslednja aktivnost</translation>
     </message>
     <message>
         <source>%1 Last Activity was %2 ago</source>
-        <translation>%1 Last Activity was %2 ago</translation>
+        <translation>%1 poslednja aktivnost je bila pre %2</translation>
     </message>
     <message>
         <source>%1 went offline %2 ago</source>
-        <translation>%1 went offline %2 ago</translation>
+        <translation>%1 je otišao van mreže pre %2</translation>
     </message>
     <message>
         <source>%1 uptime is %2</source>
-        <translation>%1 uptime is %2</translation>
+        <translation>%1 vreme rada je %2</translation>
     </message>
     <message>
         <source>%1 is online!</source>
-        <translation>%1 is online!</translation>
+        <translation>%1 je na mreži!</translation>
     </message>
     <message>
         <source>Unknown error!</source>
@@ -5499,7 +5499,7 @@ Razlog: %3</translation>
         <source>
 Reason: %1</source>
         <translation>
-Reason: %1</translation>
+Razlog: %1</translation>
     </message>
     <message>
         <source>Edit Bookmark</source>
@@ -5757,7 +5757,7 @@ Reason: %1</translation>
     </message>
     <message>
         <source>Custom reason</source>
-        <translation>Custom reason</translation>
+        <translation>Prilagođeni razlog</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
@@ -7190,7 +7190,7 @@ Možete odabrati ili ukloniti kontakt za istoriju preko menija kontakata ili pre
     </message>
     <message>
         <source>Activity iconsets</source>
-        <translation>Activity iconsets</translation>
+        <translation>Zbirke ikonica aktivnosti</translation>
     </message>
     <message>
         <source>&amp;Show Details</source>
@@ -7220,7 +7220,7 @@ Možete odabrati ili ukloniti kontakt za istoriju preko menija kontakata ili pre
     </message>
     <message>
         <source>Client iconsets</source>
-        <translation>Client iconsets</translation>
+        <translation>Zbirke ikonica klijenta</translation>
     </message>
     <message>
         <source>&amp;Show Details</source>
@@ -7308,7 +7308,7 @@ Možete odabrati ili ukloniti kontakt za istoriju preko menija kontakata ili pre
     </message>
     <message>
         <source>Mood iconsets</source>
-        <translation>Mood iconsets</translation>
+        <translation>Zbirke ikonica raspoloženja</translation>
     </message>
     <message>
         <source>&amp;Show Details</source>
@@ -7947,11 +7947,11 @@ da igrate Potapanje brodova. On želi da igra %2.</translation>
     </message>
     <message>
         <source>Jabber Disk - %1</source>
-        <translation>Jabber Disk - %1</translation>
+        <translation>Jabber disk – %1</translation>
     </message>
     <message>
         <source>&lt;b&gt;You:&lt;/b&gt; </source>
-        <translation>&lt;b&gt;You:&lt;/b&gt; </translation>
+        <translation>&lt;b&gt;Vi:&lt;/b&gt; </translation>
     </message>
     <message>
         <source>&lt;b&gt;Disk:&lt;/b&gt; </source>
@@ -8617,13 +8617,13 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Active accounts:</source>
-        <translation>Aktivni nalozi</translation>
+        <translation>Aktivni nalozi:</translation>
     </message>
     <message>
         <source>
 Active accounts:</source>
         <translation>
-Active accounts:</translation>
+Aktivni nalozi:</translation>
     </message>
     <message>
         <source>Incoming event(s) from:</source>
@@ -9443,7 +9443,7 @@ Razlog: %1.</translation>
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation>GnuPG info</translation>
+        <translation>GnuPG informacije</translation>
     </message>
     <message>
         <source>Error</source>
@@ -10594,7 +10594,7 @@ Razlog: %1.</translation>
     </message>
     <message>
         <source>Auto status</source>
-        <translation>Auto status</translation>
+        <translation>Automatski status</translation>
     </message>
     <message>
         <source> minutes</source>
@@ -10642,7 +10642,7 @@ Razlog: %1.</translation>
     </message>
     <message>
         <source>Do Not Disturb:</source>
-        <translation>Do Not Disturb:</translation>
+        <translation>Ne uznemiravaj:</translation>
     </message>
     <message>
         <source>Invisible:</source>
@@ -13036,7 +13036,7 @@ Nazivi opcija ne smeju biti prazni, završavati se tačkom ili sadržati „..�
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation>GnuPG info</translation>
+        <translation>GnuPG informacije</translation>
     </message>
 </context>
 <context>
@@ -19477,7 +19477,7 @@ Priključak je namenjen čuvanju beleški na XMPP serveru sa mogućnošću prist
     <name>TestDlg</name>
     <message>
         <source>XMPP Test</source>
-        <translation>XMPP Test</translation>
+        <translation>XMPP test</translation>
     </message>
     <message>
         <source>&amp;Connect</source>
@@ -19610,7 +19610,7 @@ Ispravite i pokušajte ponovo.</translation>
     </message>
     <message>
         <source>HTTP Polling</source>
-        <translation>HTTP Polling</translation>
+        <translation>HTTP ispitivanje</translation>
     </message>
     <message>
         <source>Host:Port:</source>
@@ -22453,7 +22453,7 @@ ka ovoj poruci u juick@conference.jabber.ru</translation>
     </message>
     <message>
         <source>Link: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
-        <translation>Link: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
+        <translation>Veza: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -22729,7 +22729,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>%N - file name; %U - file URL; %S - file size</source>
-        <translation>%N - file name; %U - file URL; %S - file size</translation>
+        <translation>%N - ime fajla; %U - URL fajla; %S - veličina fajla</translation>
     </message>
     <message>
         <source>Clear Cookies</source>

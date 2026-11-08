@@ -286,63 +286,63 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; per ulteriori dettagli!</tra
     </message>
     <message>
         <source>Cross-platform XMPP client designed for experienced users.</source>
-        <translation type="unfinished"></translation>
+        <translation>Client XMPP multipiattaforma pensato per utenti esperti.</translation>
     </message>
     <message>
         <source>psi-im.org</source>
-        <translation type="unfinished"></translation>
+        <translation>psi-im.org</translation>
     </message>
     <message>
         <source>xmpp:psi-dev@conference.jabber.ru?join</source>
-        <translation type="unfinished"></translation>
+        <translation>xmpp:psi-dev@conference.jabber.ru?join</translation>
     </message>
     <message>
         <source>psi-dev@conference.jabber.ru</source>
-        <translation type="unfinished"></translation>
+        <translation>psi-dev@conference.jabber.ru</translation>
     </message>
     <message>
         <source>Developer and Plugins Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Sviluppatore e autore di plugin</translation>
     </message>
     <message>
         <source>Developer and Language Coordinator</source>
-        <translation type="unfinished"></translation>
+        <translation>Sviluppatore e coordinatore della lingua</translation>
     </message>
     <message>
         <source>Past Developer and Plugins Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Ex sviluppatore e autore di plugin</translation>
     </message>
     <message>
         <source>Past Psi+ Developer</source>
-        <translation type="unfinished"></translation>
+        <translation>Ex sviluppatore Psi+</translation>
     </message>
     <message>
         <source>Past Psi+ Developer and Designer</source>
-        <translation type="unfinished"></translation>
+        <translation>Ex sviluppatore e designer Psi+</translation>
     </message>
     <message>
         <source>Past Psi+ Developer and Ubuntu Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>Ex sviluppatore Psi+ e packager Ubuntu</translation>
     </message>
     <message>
         <source>Russian Translator</source>
-        <translation type="unfinished"></translation>
+        <translation>Traduttore russo</translation>
     </message>
     <message>
         <source>Past Psi+ Ubuntu Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>Ex packager Ubuntu di Psi+</translation>
     </message>
     <message>
         <source>Past Psi+ Mandriva Linux Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>Ex packager Mandriva Linux di Psi+</translation>
     </message>
     <message>
         <source>Past Psi+ Designer</source>
-        <translation type="unfinished"></translation>
+        <translation>Ex designer Psi+</translation>
     </message>
     <message>
         <source>Psimedia Developer</source>
-        <translation type="unfinished"></translation>
+        <translation>Sviluppatore Psimedia</translation>
     </message>
 </context>
 <context>
@@ -689,22 +689,24 @@ Quando abiliti questa opzione non sarai in grado di trovare la tua password nei 
     </message>
     <message>
         <source>Use this proxy server for HTTP file upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Usa questo server proxy per il caricamento di file HTTP</translation>
     </message>
     <message>
         <source>yourname@server.test</source>
         <extracomment>Like email</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>yourname@server.test</translation>
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt;
                 &lt;br/&gt;
                 When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Attenzione!&lt;/b&gt;
+                &lt;br/&gt;
+                Se abiliti questa opzione non potrai trovare la tua password nei file di configurazione. Ci sarà solo il testo dell&apos;hash. Quindi, se dimentichi la password, sarà persa se non ne hai fatto un backup altrove.</translation>
     </message>
     <message>
         <source>SRV lookup:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ricerca SRV:</translation>
     </message>
 </context>
 <context>
@@ -900,39 +902,39 @@ Quando abiliti questa opzione non sarai in grado di trovare la tua password nei 
     </message>
     <message>
         <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Usa lo stesso proxy per il caricamento HTTP di quello configurato per la connessione XMPP. Altrimenti usa il proxy predefinito dell&apos;applicazione.</translation>
     </message>
     <message>
         <source>Direct TLS</source>
-        <translation type="unfinished"></translation>
+        <translation>TLS diretto</translation>
     </message>
     <message>
         <source>Direct TLS is only available in combination with manual host/port.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il TLS diretto è disponibile solo in combinazione con host/porta manuali.</translation>
     </message>
     <message>
         <source>TLS error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore TLS</translation>
     </message>
     <message>
         <source>Cannot enable TLS.  Plugin not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile abilitare TLS.  Plugin non trovato.</translation>
     </message>
     <message>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and a QCA provider with TLS support is installed. For more information, check the Psi homepage.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona questa opzione per usare una connessione SSL cifrata al server XMPP. Puoi usare questa opzione se il tuo server la supporta e se è installato un provider QCA con supporto TLS. Per maggiori informazioni, controlla l&apos;home page di Psi.</translation>
     </message>
     <message>
         <source>Where the SRV records of the server are looked up when connecting through the proxy: locally, or with the DNS server set in the proxy settings, so that no DNS query leaves this computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dove vengono cercati i record SRV del server quando ci si connette tramite il proxy: localmente o con il server DNS impostato nelle opzioni del proxy, in modo che nessuna query DNS lasci questo computer.</translation>
     </message>
     <message>
         <source>Local</source>
-        <translation type="unfinished"></translation>
+        <translation>Locale</translation>
     </message>
     <message>
         <source>Remote, with the DNS server of the proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Remoto, con il server DNS del proxy</translation>
     </message>
 </context>
 <context>
@@ -1072,11 +1074,11 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Direct TLS</source>
-        <translation type="unfinished"></translation>
+        <translation>TLS diretto</translation>
     </message>
     <message>
         <source>Direct TLS is only available in combination with manual host/port.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il TLS diretto è disponibile solo in combinazione con host/porta manuali.</translation>
     </message>
 </context>
 <context>
@@ -1189,7 +1191,7 @@ salverà la cronologia per questo contatto.</translation>
     </message>
     <message>
         <source>This Psi profile is already running...&lt;br&gt;Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo profilo Psi è già in esecuzione...&lt;br&gt;Attendere prego...</translation>
     </message>
 </context>
 <context>
@@ -1444,7 +1446,8 @@ C&apos;è stato un errore ottenendo l&apos;informazione  Servizio Traduzione ID 
     <message>
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%gmail.com@[XMPP address of Transport]&lt;br&gt;&lt;/qt&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;qt&gt;
+Si è verificato un errore durante l&apos;ottenimento delle informazioni di traduzione dell&apos;ID servizio da &quot;%1&quot;.&lt;br&gt;Motivo: %2&lt;br&gt;&lt;br&gt;Il servizio potrebbe non supportare questa funzione.  In questo caso dovrai inserire manualmente l&apos;indirizzo XMPP del contatto che desideri aggiungere.  Esempi:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[indirizzo XMPP del trasporto]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%gmail.com@[indirizzo XMPP del trasporto]&lt;br&gt;&lt;/qt&gt;</translation>
     </message>
 </context>
 <context>
@@ -1570,7 +1573,7 @@ Per funzionare correttamente, il plugin richiede che il client del contatto supp
     <name>AuthEvent</name>
     <message>
         <source>%1 wants to subscribe to your presence.</source>
-        <translation>% 1 vuole iscriversi alla tua presenza.</translation>
+        <translation>%1 vuole iscriversi alla tua presenza.</translation>
     </message>
     <message>
         <source>%1 authorized you to view his status.</source>
@@ -1699,7 +1702,7 @@ La lista delle eccezioni per jid ha due modalità di funzionamento:
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -1713,27 +1716,27 @@ La lista delle eccezioni per jid ha due modalità di funzionamento:
     <name>AvCallManagerPrivate</name>
     <message>
         <source>The Jingle offer did not match the incoming call proposal.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;offerta Jingle non corrispondeva alla proposta di chiamata in arrivo.</translation>
     </message>
     <message>
         <source>Call answered on another device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiamata accettata su un altro dispositivo.</translation>
     </message>
     <message>
         <source>Call declined on another device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiamata rifiutata su un altro dispositivo.</translation>
     </message>
     <message>
         <source>Call was declined.</source>
-        <translation type="unfinished"></translation>
+        <translation>La chiamata è stata rifiutata.</translation>
     </message>
     <message>
         <source>Call was cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>La chiamata è stata annullata.</translation>
     </message>
     <message>
         <source>Call was finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>La chiamata è terminata.</translation>
     </message>
 </context>
 <context>
@@ -1778,83 +1781,83 @@ La lista delle eccezioni per jid ha due modalità di funzionamento:
     </message>
     <message>
         <source>The requested media type is not supported by the current media backend.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il tipo di contenuto multimediale richiesto non è supportato dal backend multimediale corrente.</translation>
     </message>
     <message>
         <source>The contact has no device to call.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il contatto non ha dispositivi da chiamare.</translation>
     </message>
     <message>
         <source>Unable to send the call proposal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile inviare la proposta di chiamata.</translation>
     </message>
     <message>
         <source>Unable to create a Jingle call session.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile creare una sessione di chiamata Jingle.</translation>
     </message>
     <message>
         <source>Unable to create the requested RTP media.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile creare il contenuto RTP richiesto.</translation>
     </message>
     <message>
         <source>Unable to initialize the media backend.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile inizializzare il backend multimediale.</translation>
     </message>
     <message>
         <source>No offered RTP media type was accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessun tipo di contenuto RTP offerto è stato accettato.</translation>
     </message>
     <message>
         <source>Unable to accept the incoming call proposal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile accettare la proposta di chiamata in arrivo.</translation>
     </message>
     <message>
         <source>A media file was selected as call input but no file is configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>È stato selezionato un file multimediale come input della chiamata, ma nessun file è configurato.</translation>
     </message>
     <message>
         <source>No microphone is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessun microfono disponibile.</translation>
     </message>
     <message>
         <source>Unable to add a microphone to this session.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile aggiungere un microfono a questa sessione.</translation>
     </message>
     <message>
         <source>No camera is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessuna fotocamera disponibile.</translation>
     </message>
     <message>
         <source>Wait for screen sharing to connect before enabling the camera.</source>
-        <translation type="unfinished"></translation>
+        <translation>Attendi la connessione della condivisione schermo prima di abilitare la fotocamera.</translation>
     </message>
     <message>
         <source>Unable to add a camera to this call.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile aggiungere una fotocamera a questa chiamata.</translation>
     </message>
     <message>
         <source>Wait for the camera to connect before sharing your screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Attendi la connessione della fotocamera prima di condividere lo schermo.</translation>
     </message>
     <message>
         <source>The media backend cannot add screen sharing to this call.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il backend multimediale non può aggiungere la condivisione schermo a questa chiamata.</translation>
     </message>
     <message>
         <source>The peer did not accept any usable RTP media.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;interlocutore non ha accettato alcun contenuto RTP utilizzabile.</translation>
     </message>
     <message>
         <source>Screen sharing was declined or could not connect.</source>
-        <translation type="unfinished"></translation>
+        <translation>La condivisione schermo è stata rifiutata o non è stato possibile connettersi.</translation>
     </message>
     <message>
         <source>Call was terminated.</source>
-        <translation type="unfinished"></translation>
+        <translation>La chiamata è stata terminata.</translation>
     </message>
     <message>
         <source>Call was rejected or negotiation failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>La chiamata è stata rifiutata o la negoziazione è fallita.</translation>
     </message>
 </context>
 <context>
@@ -1929,7 +1932,8 @@ Per inviare comandi, basta usare normali messaggi, quindi questo plugin funzione
     <message>
         <source>Play Battleship with your friends.
 This is a paper board game where you try to sink the opponent&apos;s ships.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gioca a Battaglia Navale con i tuoi amici.
+Questo è un gioco da tavolo di carta in cui devi affondare le navi dell&apos;avversario. Per invitare un amico a una partita, puoi usare la voce del menu del contatto o il pulsante sulla barra degli strumenti nella finestra di chat.</translation>
     </message>
 </context>
 <context>
@@ -2011,11 +2015,11 @@ This is a paper board game where you try to sink the opponent&apos;s ships.To in
     </message>
     <message>
         <source>Bookmark error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore segnalibro</translation>
     </message>
     <message>
         <source>The bookmark changes could not be submitted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile inviare le modifiche ai segnalibri.</translation>
     </message>
 </context>
 <context>
@@ -2053,79 +2057,79 @@ This is a paper board game where you try to sink the opponent&apos;s ships.To in
     <name>CallDlg</name>
     <message>
         <source>Call</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiamata</translation>
     </message>
     <message>
         <source>Whiteboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Lavagna</translation>
     </message>
     <message>
         <source>%1 — %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 — %2</translation>
     </message>
     <message>
         <source>Call failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiamata fallita</translation>
     </message>
     <message>
         <source>The contact cannot be called.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non è possibile chiamare il contatto.</translation>
     </message>
     <message>
         <source>Unable to accept the whiteboard invitation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile accettare l&apos;invito alla lavagna.</translation>
     </message>
     <message>
         <source>The contact does not support whiteboards.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il contatto non supporta le lavagne.</translation>
     </message>
     <message>
         <source>Unable to send the whiteboard invitation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile inviare l&apos;invito alla lavagna.</translation>
     </message>
     <message>
         <source>Unable to create a whiteboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile creare una lavagna.</translation>
     </message>
     <message>
         <source>The invitation was declined or failed</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;invito è stato rifiutato o non è riuscito</translation>
     </message>
     <message>
         <source>Audio and video are not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio e video non sono disponibili.</translation>
     </message>
     <message>
         <source>Call error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore chiamata</translation>
     </message>
     <message>
         <source>Unable to add a whiteboard to this call.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile aggiungere una lavagna a questa chiamata.</translation>
     </message>
     <message>
         <source>End-to-end encrypted with OMEMO; the whiteboard goes through the server</source>
-        <translation type="unfinished"></translation>
+        <translation>Cifratura end-to-end con OMEMO; la lavagna passa attraverso il server</translation>
     </message>
     <message>
         <source>End-to-end encrypted, verified with OMEMO</source>
-        <translation type="unfinished"></translation>
+        <translation>Cifratura end-to-end, verificata con OMEMO</translation>
     </message>
     <message>
         <source>Encrypted, but the contact&apos;s OMEMO device is not trusted</source>
-        <translation type="unfinished"></translation>
+        <translation>Cifrato, ma il dispositivo OMEMO del contatto non è considerato fidato</translation>
     </message>
     <message>
         <source>Not end-to-end encrypted: the whiteboard goes through the server</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessuna cifratura end-to-end: la lavagna passa attraverso il server</translation>
     </message>
     <message>
         <source>Encrypted, not verified end-to-end</source>
-        <translation type="unfinished"></translation>
+        <translation>Cifrato, non verificato end-to-end</translation>
     </message>
     <message>
         <source>Refused: the encryption could not be verified with a trusted OMEMO device of the contact. See Options &gt; Security.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rifiutato: non è stato possibile verificare la cifratura con un dispositivo OMEMO fidato del contatto. Vedi Opzioni &gt; Sicurezza.</translation>
     </message>
 </context>
 <context>
@@ -2199,7 +2203,7 @@ This is a paper board game where you try to sink the opponent&apos;s ships.To in
     <name>CallStage</name>
     <message>
         <source>Show %1 on the main stage</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra %1 nell&apos;area principale</translation>
     </message>
 </context>
 <context>
@@ -2207,43 +2211,44 @@ This is a paper board game where you try to sink the opponent&apos;s ships.To in
     <message>
         <source>Audio call
 Turn on your camera or share your screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiamata audio
+Attiva la fotocamera o condividi lo schermo</translation>
     </message>
     <message>
         <source>Shared screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Schermo condiviso</translation>
     </message>
     <message>
         <source>Camera</source>
-        <translation type="unfinished"></translation>
+        <translation>Fotocamera</translation>
     </message>
     <message>
         <source>Choose microphone</source>
-        <translation type="unfinished"></translation>
+        <translation>Scegli microfono</translation>
     </message>
     <message>
         <source>Choose camera</source>
-        <translation type="unfinished"></translation>
+        <translation>Scegli fotocamera</translation>
     </message>
     <message>
         <source>HD · 2 Mbps</source>
-        <translation type="unfinished"></translation>
+        <translation>HD · 2 Mbps</translation>
     </message>
     <message>
         <source>Balanced · 1 Mbps</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilanciato · 1 Mbps</translation>
     </message>
     <message>
         <source>Low bandwidth · 400 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>Bassa banda · 400 kbps</translation>
     </message>
     <message>
         <source>Video quality</source>
-        <translation type="unfinished"></translation>
+        <translation>Qualità video</translation>
     </message>
     <message>
         <source>Call</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiama</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2251,51 +2256,51 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Close call window</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiudi finestra della chiamata</translation>
     </message>
     <message>
         <source>Mute microphone</source>
-        <translation type="unfinished"></translation>
+        <translation>Disattiva microfono</translation>
     </message>
     <message>
         <source>Unmute microphone</source>
-        <translation type="unfinished"></translation>
+        <translation>Riattiva microfono</translation>
     </message>
     <message>
         <source>Turn camera off</source>
-        <translation type="unfinished"></translation>
+        <translation>Disattiva fotocamera</translation>
     </message>
     <message>
         <source>Turn camera on</source>
-        <translation type="unfinished"></translation>
+        <translation>Attiva fotocamera</translation>
     </message>
     <message>
         <source>Cancel screen selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla selezione schermo</translation>
     </message>
     <message>
         <source>Cancel selected screen: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla schermo selezionato: %1</translation>
     </message>
     <message>
         <source>Stop sharing: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Interrompi condivisione: %1</translation>
     </message>
     <message>
         <source>Share a display or window</source>
-        <translation type="unfinished"></translation>
+        <translation>Condividi uno schermo o una finestra</translation>
     </message>
     <message>
         <source>Hide whiteboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Nascondi lavagna</translation>
     </message>
     <message>
         <source>Show whiteboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra lavagna</translation>
     </message>
     <message>
         <source>End call (%1 elapsed)</source>
-        <translation type="unfinished"></translation>
+        <translation>Termina chiamata (%1 trascorso)</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2303,47 +2308,47 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Cancel call</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla chiamata</translation>
     </message>
     <message>
         <source>Selecting screen…</source>
-        <translation type="unfinished"></translation>
+        <translation>Selezione schermo…</translation>
     </message>
     <message>
         <source>Screen selected: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Schermo selezionato: %1</translation>
     </message>
     <message>
         <source>Connecting screen…</source>
-        <translation type="unfinished"></translation>
+        <translation>Connessione schermo…</translation>
     </message>
     <message>
         <source>Sharing: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Condivisione: %1</translation>
     </message>
     <message>
         <source>Connected</source>
-        <translation type="unfinished"></translation>
+        <translation>Connesso</translation>
     </message>
     <message>
         <source>Connected · waiting for video</source>
-        <translation type="unfinished"></translation>
+        <translation>Connesso · in attesa del video</translation>
     </message>
     <message>
         <source>Join whiteboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Partecipa alla lavagna</translation>
     </message>
     <message>
         <source>Invite</source>
-        <translation type="unfinished"></translation>
+        <translation>Invita</translation>
     </message>
     <message>
         <source>Accept call</source>
-        <translation type="unfinished"></translation>
+        <translation>Accetta chiamata</translation>
     </message>
     <message>
         <source>Session ended</source>
-        <translation type="unfinished"></translation>
+        <translation>Sessione terminata</translation>
     </message>
     <message>
         <source>Call ended</source>
@@ -2351,23 +2356,23 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Whiteboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Lavagna</translation>
     </message>
     <message>
         <source>Calls are not available with this contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Le chiamate non sono disponibili con questo contatto</translation>
     </message>
     <message>
         <source>No devices available</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessun dispositivo disponibile</translation>
     </message>
     <message>
         <source>System default (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Predefinito di sistema (%1)</translation>
     </message>
     <message>
         <source>Device unavailable; using %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositivo non disponibile; uso %1</translation>
     </message>
 </context>
 <context>
@@ -2393,7 +2398,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>You need to pass verification</source>
-        <translation type="unfinished"></translation>
+        <translation>Devi superare la verifica</translation>
     </message>
     <message>
         <source>AccountLabel</source>
@@ -2665,7 +2670,7 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>%1 encryption is enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>La cifratura %1 è abilitata</translation>
     </message>
 </context>
 <context>
@@ -2688,7 +2693,7 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Audio recording failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrazione audio non riuscita</translation>
     </message>
 </context>
 <context>
@@ -2699,7 +2704,7 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Reply to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Rispondi a %1</translation>
     </message>
 </context>
 <context>
@@ -2847,13 +2852,15 @@ Per invitare un amico ad una partita, puoi usare la voce di menu contestuale del
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Play chess with your friends.
 The plugin is compatible with a similar plugin for Tkabber.
 To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gioca a scacchi con i tuoi amici.
+Il plugin è compatibile con un plugin simile per Tkabber.
+Per invitare un amico a una partita, puoi usare la voce del menu del contatto o il pulsante sulla barra degli strumenti nella finestra di chat.</translation>
     </message>
 </context>
 <context>
@@ -3088,7 +3095,7 @@ Puoi visualizzare gli elementi prima di cancellarli dal disco rigido.</translati
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -3222,83 +3229,83 @@ Puoi specificare la versione del client e dell&apos;OS o selezionarli da una lis
     <name>CodeBlockWidget</name>
     <message>
         <source>Choose syntax highlighting language</source>
-        <translation type="unfinished"></translation>
+        <translation>Scegli il linguaggio di evidenziazione della sintassi</translation>
     </message>
     <message>
         <source>Code language</source>
-        <translation type="unfinished"></translation>
+        <translation>Linguaggio del codice</translation>
     </message>
     <message>
         <source>Copy code</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia codice</translation>
     </message>
     <message>
         <source>Word wrap</source>
-        <translation type="unfinished"></translation>
+        <translation>A capo automatico</translation>
     </message>
     <message>
         <source>Wrap long lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Manda a capo le righe lunghe</translation>
     </message>
     <message>
         <source>Disable word wrap</source>
-        <translation type="unfinished"></translation>
+        <translation>Disabilita a capo automatico</translation>
     </message>
     <message>
         <source>Open code in window</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri codice in una finestra</translation>
     </message>
     <message>
         <source>Open code in a separate window</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri il codice in una finestra separata</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatta</translation>
     </message>
     <message>
         <source>Format JSON or XML for reading</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatta JSON o XML per la lettura</translation>
     </message>
     <message>
         <source>Run</source>
-        <translation type="unfinished"></translation>
+        <translation>Esegui</translation>
     </message>
     <message>
         <source>Run received code?</source>
-        <translation type="unfinished"></translation>
+        <translation>Eseguire il codice ricevuto?</translation>
     </message>
     <message>
         <source>Executing code from a message can read, modify or delete local data. Only continue if you have reviewed the code and trust its source.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;esecuzione del codice da un messaggio può leggere, modificare o eliminare dati locali. Continua solo se hai esaminato il codice e ti fidi della sua origine.</translation>
     </message>
     <message>
         <source>I understand and accept the risk of running code from an unverified source.</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprendo e accetto il rischio di eseguire codice da una fonte non verificata.</translation>
     </message>
     <message>
         <source>Plain text</source>
-        <translation type="unfinished"></translation>
+        <translation>Testo semplice</translation>
     </message>
     <message>
         <source>Syntax highlighting: %1. Click to choose another language.</source>
-        <translation type="unfinished"></translation>
+        <translation>Evidenziazione della sintassi: %1. Clicca per scegliere un altro linguaggio.</translation>
     </message>
     <message>
         <source>Format for reading (toggle original)</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatta per la lettura (alterna originale)</translation>
     </message>
     <message>
         <source>Format available for valid JSON or XML, up to 2 MiB</source>
-        <translation type="unfinished"></translation>
+        <translation>Formattazione disponibile per JSON o XML validi, fino a 2 MiB</translation>
     </message>
     <message>
         <source>Original</source>
-        <translation type="unfinished"></translation>
+        <translation>Originale</translation>
     </message>
     <message>
         <source>Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Codice</translation>
     </message>
 </context>
 <context>
@@ -3370,7 +3377,7 @@ Nota: per funzionare correttamente, la barra degli strumenti della conferenza de
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -3481,11 +3488,11 @@ Nota: per funzionare correttamente, la barra degli strumenti della conferenza de
     </message>
     <message>
         <source>&amp;XMPP Console</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Console XMPP</translation>
     </message>
     <message>
         <source>Blocked Contacts...</source>
-        <translation type="unfinished"></translation>
+        <translation>Contatti bloccati...</translation>
     </message>
     <message>
         <source>Blocked Contacts</source>
@@ -3493,11 +3500,11 @@ Nota: per funzionare correttamente, la barra degli strumenti della conferenza de
     </message>
     <message>
         <source>Server blocklist (XEP-0191)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista di blocco del server (XEP-0191)</translation>
     </message>
     <message>
         <source>Block JID...</source>
-        <translation type="unfinished"></translation>
+        <translation>Blocca JID...</translation>
     </message>
     <message>
         <source>Unblock</source>
@@ -3505,11 +3512,11 @@ Nota: per funzionare correttamente, la barra degli strumenti della conferenza de
     </message>
     <message>
         <source>Block JID</source>
-        <translation type="unfinished"></translation>
+        <translation>Blocca JID</translation>
     </message>
     <message>
         <source>XMPP address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Indirizzo XMPP:</translation>
     </message>
 </context>
 <context>
@@ -3844,11 +3851,11 @@ Procedere?</translation>
     <name>DesktopUtil</name>
     <message>
         <source>Choose another player…</source>
-        <translation type="unfinished"></translation>
+        <translation>Scegli un altro lettore…</translation>
     </message>
     <message>
         <source>External media player</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettore multimediale esterno</translation>
     </message>
     <message>
         <source>Player:</source>
@@ -3856,11 +3863,11 @@ Procedere?</translation>
     </message>
     <message>
         <source>Choose media player executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Scegli l&apos;eseguibile del lettore multimediale</translation>
     </message>
     <message>
         <source>Could not start the media player. Choose another player and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile avviare il lettore multimediale. Scegli un altro lettore e riprova.</translation>
     </message>
 </context>
 <context>
@@ -4122,7 +4129,7 @@ Procedere?</translation>
     <name>EDBSqLite</name>
     <message>
         <source>Unable to decrypt archived message</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile decifrare il messaggio archiviato</translation>
     </message>
 </context>
 <context>
@@ -4221,7 +4228,7 @@ Procedere?</translation>
     </message>
     <message>
         <source>File Input**:</source>
-        <translation>File Input**:</translation>
+        <translation>File di input**:</translation>
     </message>
     <message>
         <source>RegExp**:</source>
@@ -4244,23 +4251,23 @@ Procedere?</translation>
     <name>EmojiRegistry</name>
     <message>
         <source>Smileys &amp; Emotion</source>
-        <translation type="unfinished"></translation>
+        <translation>Faccine ed emozioni</translation>
     </message>
     <message>
         <source>People &amp; Body</source>
-        <translation type="unfinished"></translation>
+        <translation>Persone e corpo</translation>
     </message>
     <message>
         <source>Animals &amp; Nature</source>
-        <translation type="unfinished"></translation>
+        <translation>Animali e natura</translation>
     </message>
     <message>
         <source>Food &amp; Drink</source>
-        <translation type="unfinished"></translation>
+        <translation>Cibo e bevande</translation>
     </message>
     <message>
         <source>Travel &amp; Places</source>
-        <translation type="unfinished"></translation>
+        <translation>Viaggi e luoghi</translation>
     </message>
     <message>
         <source>Activities</source>
@@ -4268,15 +4275,15 @@ Procedere?</translation>
     </message>
     <message>
         <source>Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Oggetti</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>Simboli</translation>
     </message>
     <message>
         <source>Flags</source>
-        <translation type="unfinished"></translation>
+        <translation>Bandiere</translation>
     </message>
 </context>
 <context>
@@ -4503,11 +4510,11 @@ Se vuoi confermare questa richeista, premi il tasto Conferma. Altrimenti premi i
     <name>EventNotifier</name>
     <message>
         <source>Clear all events</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancella tutti gli eventi</translation>
     </message>
     <message>
         <source>Read next event</source>
-        <translation type="unfinished"></translation>
+        <translation>Leggi il prossimo evento</translation>
     </message>
 </context>
 <context>
@@ -5070,15 +5077,15 @@ Importante; gran parte delle opzioni sono importanti impostazioni di sistema, qu
     </message>
     <message>
         <source>Other Colors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Altri colori:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:skins_css&quot;&gt;CSS for Psi&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:skins_css&quot;&gt;CSS per Psi&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -5279,7 +5286,7 @@ siano consentite.</translation>
     <name>FileShareDownloader</name>
     <message>
         <source>The file is larger than the automatic download limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Il file supera il limite di download automatico</translation>
     </message>
 </context>
 <context>
@@ -5304,50 +5311,50 @@ siano consentite.</translation>
     <name>FileSharingMediaSave</name>
     <message>
         <source>Download source disappeared</source>
-        <translation type="unfinished"></translation>
+        <translation>La fonte del download è scomparsa</translation>
     </message>
     <message>
         <source>Download failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Download non riuscito</translation>
     </message>
     <message>
         <source>Download cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Download annullato</translation>
     </message>
     <message>
         <source>Unexpected media size</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensione del contenuto multimediale inattesa</translation>
     </message>
     <message>
         <source>Cannot read media data</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile leggere i dati multimediali</translation>
     </message>
     <message>
         <source>Media download ended before validation</source>
-        <translation type="unfinished"></translation>
+        <translation>Il download del contenuto è terminato prima della convalida</translation>
     </message>
     <message>
         <source>Incomplete media download</source>
-        <translation type="unfinished"></translation>
+        <translation>Download del contenuto incompleto</translation>
     </message>
 </context>
 <context>
     <name>FileSharingPublication</name>
     <message>
         <source>Published in the private PubSub catalog</source>
-        <translation type="unfinished"></translation>
+        <translation>Pubblicato nel catalogo PubSub privato</translation>
     </message>
     <message>
         <source>PubSub publication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pubblicazione PubSub non riuscita: %1</translation>
     </message>
     <message>
         <source>Reusing an HTTP upload after checking its availability</source>
-        <translation type="unfinished"></translation>
+        <translation>Riuso di un caricamento HTTP dopo averne verificato la disponibilità</translation>
     </message>
     <message>
         <source>Could not open the file for HTTP upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile aprire il file per il caricamento HTTP</translation>
     </message>
     <message>
         <source>Published on HttpUpload service</source>
@@ -5355,7 +5362,7 @@ siano consentite.</translation>
     </message>
     <message>
         <source>Failed to publish on HttpUpload service: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pubblicazione sul servizio HttpUpload non riuscita: %1</translation>
     </message>
 </context>
 <context>
@@ -5614,7 +5621,7 @@ Motivo: %3</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -5980,23 +5987,23 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>%1 encryption is enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>La cifratura %1 è abilitata</translation>
     </message>
     <message>
         <source>%1 is not in the room</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 non è nella stanza</translation>
     </message>
     <message>
         <source>Insert nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserisci soprannome</translation>
     </message>
     <message>
         <source>Copy nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia soprannome</translation>
     </message>
     <message>
         <source>Copy last known address</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia l&apos;ultimo indirizzo noto</translation>
     </message>
     <message>
         <source>User Info</source>
@@ -6004,27 +6011,27 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Open Chat Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri finestra di chat</translation>
     </message>
     <message>
         <source>This archive cannot position messages by index. Older history remains available by scrolling.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo archivio non può posizionare i messaggi per indice. La cronologia precedente resta disponibile scorrendo.</translation>
     </message>
     <message>
         <source>Hide participants</source>
-        <translation type="unfinished"></translation>
+        <translation>Nascondi partecipanti</translation>
     </message>
     <message>
         <source>Show participants</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra partecipanti</translation>
     </message>
     <message>
         <source>Account is offline</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;account è offline</translation>
     </message>
     <message>
         <source>Archive response omitted the requested index</source>
-        <translation type="unfinished"></translation>
+        <translation>La risposta dell&apos;archivio ha omesso l&apos;indice richiesto</translation>
     </message>
 </context>
 <context>
@@ -6039,7 +6046,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Room membership lost; attempting to rejoin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Appartenenza alla stanza persa; tentativo di rientro.</translation>
     </message>
 </context>
 <context>
@@ -6368,11 +6375,11 @@ Hai perso la partita.</translation>
     </message>
     <message>
         <source>Show kick messages caused by some technical problems like client&apos;s connection loss for example.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra i messaggi di espulsione causati da problemi tecnici, ad esempio la perdita di connessione del client.</translation>
     </message>
     <message>
         <source>Show technical kicks</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra espulsioni tecniche</translation>
     </message>
 </context>
 <context>
@@ -6725,7 +6732,8 @@ Per inviare comandi, basta usare normali messaggi, uindi questo plugin funzioner
     <message>
         <source>Play gomoku with your friends.
 To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gioca a gomoku con i tuoi amici.
+Per invitare un amico a una partita, puoi usare la voce del menu del contatto o il pulsante sulla barra degli strumenti nella finestra di chat.</translation>
     </message>
 </context>
 <context>
@@ -6815,7 +6823,7 @@ To invite a friend for a game, you can use contact menu item or the button on th
     </message>
     <message>
         <source>Hide participants</source>
-        <translation type="unfinished"></translation>
+        <translation>Nascondi partecipanti</translation>
     </message>
 </context>
 <context>
@@ -6949,7 +6957,7 @@ To invite a friend for a game, you can use contact menu item or the button on th
     </message>
     <message>
         <source>Group chats</source>
-        <translation type="unfinished"></translation>
+        <translation>Chat di gruppo</translation>
     </message>
 </context>
 <context>
@@ -7113,23 +7121,23 @@ Continuare?</translation>
     </message>
     <message>
         <source>Upgrade history</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiorna cronologia</translation>
     </message>
     <message>
         <source>The history database needs to be upgraded. This can take some time for a large history. Psi will continue starting after the upgrade finishes. Continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Il database della cronologia deve essere aggiornato. Per una cronologia di grandi dimensioni ciò può richiedere tempo. Psi continuerà ad avviarsi al termine dell&apos;aggiornamento. Continuare?</translation>
     </message>
     <message>
         <source>Upgrading history…</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiornamento cronologia…</translation>
     </message>
     <message>
         <source>Upgrading history (record %1)…</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiornamento cronologia (record %1)…</translation>
     </message>
     <message>
         <source>The history upgrade failed. Changes were rolled back; Psi cannot continue.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;aggiornamento della cronologia non è riuscito. Le modifiche sono state annullate; Psi non può continuare.</translation>
     </message>
 </context>
 <context>
@@ -7162,42 +7170,42 @@ Puoi selezionare o deselezionare un contatto dalla rimozione cronologia dal menu
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
     <name>HistorySync</name>
     <message>
         <source>Account is offline</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;account è offline</translation>
     </message>
     <message>
         <source>Archive catch-up repeated a cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Il recupero dell&apos;archivio ha ripetuto un cursore</translation>
     </message>
     <message>
         <source>Archive response omitted the requested index</source>
-        <translation type="unfinished"></translation>
+        <translation>La risposta dell&apos;archivio ha omesso l&apos;indice richiesto</translation>
     </message>
     <message>
         <source>Unable to decrypt archived message</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile decifrare il messaggio archiviato</translation>
     </message>
     <message>
         <source>Invalid archive page</source>
-        <translation type="unfinished"></translation>
+        <translation>Pagina di archivio non valida</translation>
     </message>
     <message>
         <source>Could not repair cached archive page</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile riparare la pagina di archivio in cache</translation>
     </message>
     <message>
         <source>Archive catch-up did not advance</source>
-        <translation type="unfinished"></translation>
+        <translation>Il recupero dell&apos;archivio non è avanzato</translation>
     </message>
     <message>
         <source>Could not persist archive page</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile salvare in modo persistente la pagina di archivio</translation>
     </message>
 </context>
 <context>
@@ -7723,7 +7731,7 @@ Nota: Per funzionare correttamente, l&apos;opzione options.ui.chat.central-toolb
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -7746,7 +7754,7 @@ Nota: Per funzionare correttamente, l&apos;opzione options.ui.chat.central-toolb
     </message>
     <message>
         <source>Exceptions</source>
-        <translation type="unfinished"></translation>
+        <translation>Eccezioni</translation>
     </message>
     <message>
         <source>512 Kb</source>
@@ -8197,7 +8205,7 @@ a giocare a Battaglia Navale. Lui vuole giocare %2.</translation>
     </message>
     <message>
         <source>Battleship Game Plugin - Invite</source>
-        <translation type="unfinished"></translation>
+        <translation>Plugin Battaglia Navale - Invito</translation>
     </message>
 </context>
 <context>
@@ -8330,11 +8338,11 @@ a giocare a Battaglia Navale. Lui vuole giocare %2.</translation>
     </message>
     <message>
         <source>Jingle download failed: %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Download Jingle non riuscito: %s</translation>
     </message>
     <message>
         <source>Jingle file transfer is disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Il trasferimento file Jingle è disabilitato</translation>
     </message>
 </context>
 <context>
@@ -8377,7 +8385,7 @@ le cache avatar non saranno disponibili</translation>
     </message>
     <message>
         <source>Time stamp: %1</source>
-        <translation>Time stamp: %1</translation>
+        <translation>Data e ora: %1</translation>
     </message>
     <message>
         <source> replied:</source>
@@ -8566,15 +8574,15 @@ Nota: per funzionare correttamente, l&apos;opzione options.html.chat.render    d
     </message>
     <message>
         <source>&amp;General</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Generale</translation>
     </message>
     <message>
         <source>&amp;Affiliations</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Affiliazioni</translation>
     </message>
     <message>
         <source>&amp;Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Profilo</translation>
     </message>
 </context>
 <context>
@@ -8946,19 +8954,19 @@ Evento/i in arrivo da:</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished"></translation>
+        <translation>Domanda</translation>
     </message>
     <message>
         <source>Are you sure you want to clear all events?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sei sicuro di voler cancellare tutti gli eventi?</translation>
     </message>
     <message>
         <source>Disable Sounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Disabilita suoni</translation>
     </message>
     <message>
         <source>Enable Sounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Abilita suoni</translation>
     </message>
 </context>
 <context>
@@ -9022,27 +9030,27 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>Add reaction</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi reazione</translation>
     </message>
     <message>
         <source>More actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Altre azioni</translation>
     </message>
     <message>
         <source>Retract message</source>
-        <translation type="unfinished"></translation>
+        <translation>Ritira messaggio</translation>
     </message>
     <message>
         <source>Archive response omitted the requested index</source>
-        <translation type="unfinished"></translation>
+        <translation>La risposta dell&apos;archivio ha omesso l&apos;indice richiesto</translation>
     </message>
     <message>
         <source>Select message</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona messaggio</translation>
     </message>
     <message>
         <source>Me</source>
-        <translation type="unfinished"></translation>
+        <translation>Io</translation>
     </message>
     <message>
         <source>Message</source>
@@ -9050,23 +9058,23 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>Read</source>
-        <translation type="unfinished"></translation>
+        <translation>Letto</translation>
     </message>
     <message>
         <source>Delivered</source>
-        <translation type="unfinished"></translation>
+        <translation>Consegnato</translation>
     </message>
     <message>
         <source>Not encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>Non cifrato</translation>
     </message>
     <message>
         <source>Encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>Cifrato</translation>
     </message>
     <message>
         <source>Encrypted with %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Cifrato con %1</translation>
     </message>
     <message>
         <source>The message was corrected</source>
@@ -9074,28 +9082,29 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>Edited message</source>
-        <translation type="unfinished"></translation>
+        <translation>Messaggio modificato</translation>
     </message>
     <message>
         <source>Received</source>
-        <translation type="unfinished"></translation>
+        <translation>Ricevuto</translation>
     </message>
     <message>
         <source>Sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Inviato</translation>
     </message>
     <message>
         <source>Unknown size</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensione sconosciuta</translation>
     </message>
     <message>
         <source>Type: %1
 Size: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo: %1
+Dimensione: %2</translation>
     </message>
     <message>
         <source>Download file</source>
-        <translation type="unfinished"></translation>
+        <translation>Scarica file</translation>
     </message>
     <message>
         <source>Open file</source>
@@ -9103,11 +9112,11 @@ Size: %2</source>
     </message>
     <message>
         <source>Show in file manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra nel gestore file</translation>
     </message>
     <message>
         <source>Copy file path</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia percorso del file</translation>
     </message>
     <message>
         <source>Open in browser</source>
@@ -9115,11 +9124,11 @@ Size: %2</source>
     </message>
     <message>
         <source>Cancel download</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla download</translation>
     </message>
     <message>
         <source>Could not create a temporary directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile creare una directory temporanea</translation>
     </message>
     <message>
         <source>Contact</source>
@@ -9127,37 +9136,37 @@ Size: %2</source>
     </message>
     <message>
         <source>just now</source>
-        <translation type="unfinished"></translation>
+        <translation>adesso</translation>
     </message>
     <message>
         <source>1 minute ago</source>
-        <translation type="unfinished"></translation>
+        <translation>1 minuto fa</translation>
     </message>
     <message numerus="yes">
         <source>%n minutes ago</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n minuto fa</numerusform>
+            <numerusform>%n minuti fa</numerusform>
         </translation>
     </message>
     <message>
         <source>1 hour ago</source>
-        <translation type="unfinished"></translation>
+        <translation>1 ora fa</translation>
     </message>
     <message numerus="yes">
         <source>%n hours ago</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n ora fa</numerusform>
+            <numerusform>%n ore fa</numerusform>
         </translation>
     </message>
     <message>
         <source>Message retracted</source>
-        <translation type="unfinished"></translation>
+        <translation>Messaggio ritirato</translation>
     </message>
     <message>
         <source>Referenced message is not available locally</source>
-        <translation type="unfinished"></translation>
+        <translation>Il messaggio di riferimento non è disponibile localmente</translation>
     </message>
     <message>
         <source>Quote</source>
@@ -9165,11 +9174,11 @@ Size: %2</source>
     </message>
     <message>
         <source>The message has no reply identifier assigned by its sender or room.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il messaggio non ha un identificatore di risposta assegnato dal mittente o dalla stanza.</translation>
     </message>
     <message>
         <source>Edit message</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifica messaggio</translation>
     </message>
     <message>
         <source>Forward</source>
@@ -9177,45 +9186,45 @@ Size: %2</source>
     </message>
     <message>
         <source>Copy image</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia immagine</translation>
     </message>
     <message>
         <source>View image</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizza immagine</translation>
     </message>
     <message>
         <source>Copy image link</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia link immagine</translation>
     </message>
     <message>
         <source>Open link</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri link</translation>
     </message>
     <message>
         <source>Copy link address</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia indirizzo del link</translation>
     </message>
     <message>
         <source>%1 selected</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 selezionati</translation>
     </message>
 </context>
 <context>
     <name>MamImageViewer</name>
     <message>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Immagine</translation>
     </message>
 </context>
 <context>
     <name>Mattermost::OverlayScrollBarManager</name>
     <message>
         <source>Scroll to top</source>
-        <translation type="unfinished"></translation>
+        <translation>Scorri in alto</translation>
     </message>
     <message>
         <source>Scroll to bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Scorri in basso</translation>
     </message>
 </context>
 <context>
@@ -9230,22 +9239,22 @@ Size: %2</source>
     </message>
     <message>
         <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Può scartare i messaggi in arrivo in base a vari filtri, come l&apos;indirizzo di origine/destinazione o il contenuto specifico dei messaggi</translation>
     </message>
 </context>
 <context>
     <name>MessagePreview</name>
     <message>
         <source>Cancel reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla risposta</translation>
     </message>
     <message>
         <source>Show less</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra meno</translation>
     </message>
     <message>
         <source>Show more…</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra altro…</translation>
     </message>
 </context>
 <context>
@@ -9374,7 +9383,7 @@ Dettagli: %1</translation>
     </message>
     <message>
         <source>ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>ID:</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -9386,11 +9395,11 @@ Dettagli: %1</translation>
     </message>
     <message>
         <source>&amp;General</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Generale</translation>
     </message>
     <message>
         <source>&amp;Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Profilo</translation>
     </message>
 </context>
 <context>
@@ -9449,7 +9458,7 @@ Dettagli: %1</translation>
     </message>
     <message>
         <source>not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>non definito</translation>
     </message>
 </context>
 <context>
@@ -9495,7 +9504,7 @@ Dettagli: %1</translation>
     </message>
     <message>
         <source>not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>non definito</translation>
     </message>
 </context>
 <context>
@@ -9516,27 +9525,27 @@ Dettagli: %1</translation>
     <name>NativeChatThemes</name>
     <message>
         <source>Bubble</source>
-        <translation type="unfinished"></translation>
+        <translation>Fumetto</translation>
     </message>
     <message>
         <source>Speech bubbles, your messages on the right</source>
-        <translation type="unfinished"></translation>
+        <translation>Fumetti, i tuoi messaggi a destra</translation>
     </message>
     <message>
         <source>Classic</source>
-        <translation type="unfinished"></translation>
+        <translation>Classico</translation>
     </message>
     <message>
         <source>Compact text layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Layout di testo compatto</translation>
     </message>
     <message>
         <source>Modern</source>
-        <translation type="unfinished"></translation>
+        <translation>Moderno</translation>
     </message>
     <message>
         <source>Avatars and message headers</source>
-        <translation type="unfinished"></translation>
+        <translation>Avatar e intestazioni dei messaggi</translation>
     </message>
 </context>
 <context>
@@ -9551,7 +9560,7 @@ Dettagli: %1</translation>
     </message>
     <message>
         <source>Choose the native message layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Scegli il layout nativo dei messaggi</translation>
     </message>
 </context>
 <context>
@@ -9634,11 +9643,11 @@ Etichette: %1</translation>
     <name>NoughtsAndCrossesPlugin</name>
     <message>
         <source>Send command: noughtsandcrosses start</source>
-        <translation type="unfinished"></translation>
+        <translation>Invia comando: noughtsandcrosses start</translation>
     </message>
     <message>
         <source>Play Noughts And Crosses (Tic-tac-toe)</source>
-        <translation type="unfinished"></translation>
+        <translation>Gioca a Tris (Noughts and Crosses)</translation>
     </message>
 </context>
 <context>
@@ -9669,7 +9678,7 @@ Motivo: %1.</translation>
     <name>OpenPgpPlugin</name>
     <message>
         <source>Embedded Keys Manager can do only basic operations like creating, removing, exporting and importing PGP keys. This should be enough to most of users needs. For more complicated cases use special software.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il gestore di chiavi integrato può eseguire solo operazioni di base come creare, rimuovere, esportare e importare chiavi PGP. Questo dovrebbe bastare alla maggior parte delle esigenze degli utenti. Per casi più complicati usa un software dedicato.</translation>
     </message>
     <message>
         <source>OpenPGP encryption</source>
@@ -9677,39 +9686,39 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>OpenPGP is the most widely used encryption standard. It is extremely simple in usage:&lt;br/&gt;* Generate a key pair (public key + secret key) or choose existing one and set it in program settings.&lt;br/&gt;* Protect your secret key with a strong password and never give it to anyone.&lt;br/&gt;* Share your public key with buddies and get their public keys using any communication channel which you trust (xmpp, email, PGP keys server).&lt;br/&gt;* Enable PGP encryption in chat with you buddy and have fun the protected conversation.</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenPGP è lo standard di cifratura più diffuso. Il suo uso è estremamente semplice:&lt;br/&gt;* Genera una coppia di chiavi (chiave pubblica + chiave segreta) oppure scegli una chiave esistente e impostala nelle opzioni del programma.&lt;br/&gt;* Proteggi la tua chiave segreta con una password robusta e non darla mai a nessuno.&lt;br/&gt;* Condividi la tua chiave pubblica con i contatti e ottieni le loro chiavi pubbliche tramite qualsiasi canale di comunicazione di cui ti fidi (xmpp, email, server di chiavi PGP).&lt;br/&gt;* Abilita la cifratura PGP nella chat con il tuo contatto e divertiti con una conversazione protetta.</translation>
     </message>
     <message>
         <source>OpenPGP features:&lt;br/&gt;* Offline messages.&lt;br/&gt;* File transfer. (Not supported by plugin yet.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Funzionalità OpenPGP:&lt;br/&gt;* Messaggi offline.&lt;br/&gt;* Trasferimento file. (Non ancora supportato dal plugin.)</translation>
     </message>
     <message>
         <source>OpenPGP limitations:&lt;br/&gt;* No support of message copies to multiple devices.&lt;br/&gt;* No support of multi-user chats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Limitazioni OpenPGP:&lt;br/&gt;* Nessun supporto per copie dei messaggi su più dispositivi.&lt;br/&gt;* Nessun supporto per chat multiutente.</translation>
     </message>
     <message>
         <source>OpenPGP plugin uses standard command-line tool GnuPG, so attentively check that you properly installed and configured gpg and gpg-agent. For example, in your system:</source>
-        <translation type="unfinished"></translation>
+        <translation>Il plugin OpenPGP usa lo strumento standard da riga di comando GnuPG, quindi verifica attentamente di aver installato e configurato correttamente gpg e gpg-agent. Per esempio, nel tuo sistema:</translation>
     </message>
     <message>
         <source>1) Download and install &quot;%1&quot; from official website:</source>
-        <translation type="unfinished"></translation>
+        <translation>1) Scarica e installa &quot;%1&quot; dal sito ufficiale:</translation>
     </message>
     <message>
         <source>1) Install gpg and gpg-agent using Homebrew:</source>
-        <translation type="unfinished"></translation>
+        <translation>1) Installa gpg e gpg-agent usando Homebrew:</translation>
     </message>
     <message>
         <source>1) Install gpg and gpg-agent using system packaging tool.</source>
-        <translation type="unfinished"></translation>
+        <translation>1) Installa gpg e gpg-agent usando lo strumento di gestione pacchetti del sistema.</translation>
     </message>
     <message>
         <source>2) Edit configuration file %1 if necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>2) Modifica il file di configurazione %1 se necessario.</translation>
     </message>
     <message>
         <source>In comparison with OTR and OMEMO, OpenPGP allows one to keep encrypted messages history on server side but lucks support of forward secrecy (they are mutually exclusive).</source>
-        <translation type="unfinished"></translation>
+        <translation>Rispetto a OTR e OMEMO, OpenPGP consente di conservare la cronologia dei messaggi cifrati sul server, ma manca del supporto alla segretezza in avanti (sono mutuamente esclusive).</translation>
     </message>
 </context>
 <context>
@@ -9842,7 +9851,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignora gli eventi &quot;Headline&quot; (ad es. annunci)</translation>
     </message>
 </context>
 <context>
@@ -9994,55 +10003,55 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Tooltip:</source>
-        <translation type="unfinished"></translation>
+        <translation>Suggerimento:</translation>
     </message>
     <message>
         <source>Visited Link:</source>
-        <translation type="unfinished"></translation>
+        <translation>Link visitato:</translation>
     </message>
     <message>
         <source>Link:</source>
-        <translation type="unfinished"></translation>
+        <translation>Link:</translation>
     </message>
     <message>
         <source>Tooltip background:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sfondo del suggerimento:</translation>
     </message>
     <message>
         <source>Group chat participants:</source>
-        <translation type="unfinished"></translation>
+        <translation>Partecipanti della chat di gruppo:</translation>
     </message>
     <message>
         <source>Group chat moderators:</source>
-        <translation type="unfinished"></translation>
+        <translation>Moderatori della chat di gruppo:</translation>
     </message>
     <message>
         <source>Group chat visitors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Visitatori della chat di gruppo:</translation>
     </message>
     <message>
         <source>Group chat contacts without role:</source>
-        <translation type="unfinished"></translation>
+        <translation>Contatti della chat di gruppo senza ruolo:</translation>
     </message>
     <message>
         <source>Desktop palette:</source>
-        <translation type="unfinished"></translation>
+        <translation>Palette del desktop:</translation>
     </message>
     <message>
         <source>Muted color for quoted text and the vertical quote line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Colore attenuato per il testo citato e la linea verticale della citazione.</translation>
     </message>
     <message>
         <source>Quoted messages:</source>
-        <translation type="unfinished"></translation>
+        <translation>Messaggi citati:</translation>
     </message>
     <message>
         <source>Chat background</source>
-        <translation type="unfinished"></translation>
+        <translation>Sfondo della chat</translation>
     </message>
     <message>
         <source>Chat text</source>
-        <translation type="unfinished"></translation>
+        <translation>Testo della chat</translation>
     </message>
 </context>
 <context>
@@ -10092,7 +10101,7 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stile:</translation>
     </message>
 </context>
 <context>
@@ -10167,7 +10176,7 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Use &quot;double-click&quot; style</source>
-        <translation type="unfinished"></translation>
+        <translation>Usa lo stile &quot;doppio clic&quot;</translation>
     </message>
 </context>
 <context>
@@ -10446,19 +10455,19 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Download automatically in chats:</source>
-        <translation type="unfinished"></translation>
+        <translation>Scarica automaticamente nelle chat:</translation>
     </message>
     <message>
         <source>Download automatically in group chats:</source>
-        <translation type="unfinished"></translation>
+        <translation>Scarica automaticamente nelle chat di gruppo:</translation>
     </message>
     <message>
         <source>Display received messages in deprecated XHTML-IM formatting (XEP-0071)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra i messaggi ricevuti con la formattazione XHTML-IM obsoleta (XEP-0071)</translation>
     </message>
     <message>
         <source>Send messages in deprecated XHTML-IM formatting (XEP-0071)</source>
-        <translation type="unfinished"></translation>
+        <translation>Invia i messaggi con la formattazione XHTML-IM obsoleta (XEP-0071)</translation>
     </message>
 </context>
 <context>
@@ -10904,11 +10913,11 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Incoming call (repeated):</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiamata in arrivo (ripetuta):</translation>
     </message>
     <message>
         <source>Calling (repeated):</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiamata in corso (ripetuta):</translation>
     </message>
 </context>
 <context>
@@ -11739,11 +11748,11 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Keys Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestore chiavi</translation>
     </message>
     <message>
         <source>Own Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Proprie chiavi</translation>
     </message>
     <message>
         <source>Select &amp;Key...</source>
@@ -11755,35 +11764,35 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>OpenPGP encryption policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Criterio di cifratura OpenPGP</translation>
     </message>
     <message>
         <source>Always enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Sempre abilitata</translation>
     </message>
     <message>
         <source>Enabled by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Abilitata per impostazione predefinita</translation>
     </message>
     <message>
         <source>Disabled by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Disabilitata per impostazione predefinita</translation>
     </message>
     <message>
         <source>Automatically assign known keys to contacts with signed presences and no assigned keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Assegna automaticamente le chiavi note ai contatti con presenze firmate e senza chiavi assegnate</translation>
     </message>
     <message>
         <source>Show PGP info in tooltips for contacts in roster</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra le informazioni PGP nei suggerimenti dei contatti nella lista contatti</translation>
     </message>
     <message>
         <source>Automatically import PGP key from the message body</source>
-        <translation type="unfinished"></translation>
+        <translation>Importa automaticamente la chiave PGP dal corpo del messaggio</translation>
     </message>
     <message>
         <source>Do not show messages with PGP keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Non mostrare i messaggi con chiavi PGP</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
@@ -11795,7 +11804,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Known Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiavi note</translation>
     </message>
     <message>
         <source>Account</source>
@@ -11835,7 +11844,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Choose Secret Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Scegli chiave segreta</translation>
     </message>
     <message>
         <source>User ID</source>
@@ -11843,23 +11852,23 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>gpg-agent configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurazione di gpg-agent</translation>
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt; This option affects all programs which use gpg-agent in your system!</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Attenzione!&lt;/b&gt; Questa opzione influisce su tutti i programmi che usano gpg-agent nel tuo sistema!</translation>
     </message>
     <message>
         <source>Ask password confirmation each</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiedi conferma della password ogni</translation>
     </message>
     <message>
         <source>Open configuration file</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri file di configurazione</translation>
     </message>
     <message>
         <source>Attempt to reload gpg-agent config is failed. You need to restart your system to see changes in gpg-agent settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il tentativo di ricaricare la configurazione di gpg-agent non è riuscito. Devi riavviare il sistema per vedere le modifiche alle impostazioni di gpg-agent.</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -11868,39 +11877,40 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     <message>
         <source>Attempt to save gpg-agent config is failed! Check that you have write permission for file:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Il tentativo di salvare la configurazione di gpg-agent non è riuscito! Verifica di avere i permessi di scrittura per il file:
+%1</translation>
     </message>
     <message>
         <source>Do not sign own presence status</source>
-        <translation type="unfinished"></translation>
+        <translation>Non firmare il proprio stato di presenza</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -11993,7 +12003,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fa sì che Psi ignori tutti gli eventi &quot;headline&quot; in arrivo, come annunci ecc.</translation>
     </message>
 </context>
 <context>
@@ -12071,15 +12081,15 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Light desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Desktop chiaro</translation>
     </message>
     <message>
         <source>Dark desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Desktop scuro</translation>
     </message>
     <message>
         <source>Edit each palette independently. Psi automatically uses the palette matching the desktop theme.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifica ogni palette indipendentemente. Psi usa automaticamente la palette corrispondente al tema del desktop.</translation>
     </message>
 </context>
 <context>
@@ -12472,27 +12482,27 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Never, only when asked</source>
-        <translation type="unfinished"></translation>
+        <translation>Mai, solo su richiesta</translation>
     </message>
     <message>
         <source>Up to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fino a %1</translation>
     </message>
     <message>
         <source>Pictures, voice messages and other media from contacts in your roster, and from your own other devices, are downloaded and shown right away up to this size. Larger files and files from anyone else are downloaded only when you ask.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le immagini, i messaggi vocali e altri contenuti multimediali dei contatti nella tua lista, e dei tuoi altri dispositivi, vengono scaricati e mostrati subito fino a questa dimensione. I file più grandi e quelli di chiunque altro vengono scaricati solo quando lo richiedi.</translation>
     </message>
     <message>
         <source>Media in group chats is downloaded and shown right away up to this size, whoever sent it. Larger files are downloaded only when you ask.</source>
-        <translation type="unfinished"></translation>
+        <translation>I contenuti multimediali nelle chat di gruppo vengono scaricati e mostrati subito fino a questa dimensione, indipendentemente da chi li ha inviati. I file più grandi vengono scaricati solo quando lo richiedi.</translation>
     </message>
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact by using the deprecated XHTML-IM (XEP-0071)</source>
-        <translation type="unfinished"></translation>
+        <translation>Se abilitato, Psi mostrerà i messaggi in arrivo formattati secondo lo stile specificato dal contatto usando il formato obsoleto XHTML-IM (XEP-0071)</translation>
     </message>
     <message>
         <source>If enabled, Psi will send outcoming formatted messages with additional XHTML-IM (XEP-0071). Note: it&apos;s deprecated badly supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se abilitato, Psi invierà i messaggi formattati in uscita con XHTML-IM aggiuntivo (XEP-0071). Nota: è obsoleto e scarsamente supportato.</translation>
     </message>
 </context>
 <context>
@@ -12540,7 +12550,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Plugin Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Percorso dei plugin</translation>
     </message>
 </context>
 <context>
@@ -12611,7 +12621,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Encryption methods and key management</source>
-        <translation type="unfinished"></translation>
+        <translation>Metodi di cifratura e gestione delle chiavi</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -12619,7 +12629,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Review every identity before trusting it. Trusted devices can receive encrypted messages; distrusted devices are excluded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esamina ogni identità prima di considerarla fidata. I dispositivi fidati possono ricevere messaggi cifrati; i dispositivi non fidati sono esclusi.</translation>
     </message>
     <message>
         <source>User</source>
@@ -12631,7 +12641,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Profilo</translation>
     </message>
     <message>
         <source>Trust</source>
@@ -12651,7 +12661,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Known keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiavi note</translation>
     </message>
     <message>
         <source>Current device</source>
@@ -12659,55 +12669,55 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Device ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>ID dispositivo:</translation>
     </message>
     <message>
         <source>Device name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome dispositivo:</translation>
     </message>
     <message>
         <source>Fingerprint:</source>
-        <translation type="unfinished"></translation>
+        <translation>Impronta digitale:</translation>
     </message>
     <message>
         <source>Other devices registered for this account. Retiring one removes it from the published OMEMO device lists, so it will no longer receive encrypted messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Altri dispositivi registrati per questo account. Ritirarne uno lo rimuove dagli elenchi pubblicati dei dispositivi OMEMO, quindi non riceverà più messaggi cifrati.</translation>
     </message>
     <message>
         <source>Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositivo</translation>
     </message>
     <message>
         <source>Retire device</source>
-        <translation type="unfinished"></translation>
+        <translation>Ritira dispositivo</translation>
     </message>
     <message>
         <source>Sanitize OMEMO PEP</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulisci PEP OMEMO</translation>
     </message>
     <message>
         <source>Own keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Proprie chiavi</translation>
     </message>
     <message>
         <source>OMEMO encryption policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Criterio di cifratura OMEMO</translation>
     </message>
     <message>
         <source>Always enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Sempre abilitata</translation>
     </message>
     <message>
         <source>Enabled by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Abilitata per impostazione predefinita</translation>
     </message>
     <message>
         <source>Disabled by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Disabilitata per impostazione predefinita</translation>
     </message>
     <message>
         <source>This is the global default for new chats. A method selected in an individual chat overrides it for that contact. New OMEMO identities always require an explicit trust decision.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo è il valore predefinito globale per le nuove chat. Un metodo selezionato in una singola chat lo sostituisce per quel contatto. Le nuove identità OMEMO richiedono sempre una decisione esplicita di fiducia.</translation>
     </message>
     <message>
         <source>Configuration</source>
@@ -12715,39 +12725,39 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Publishing OMEMO keys…</source>
-        <translation type="unfinished"></translation>
+        <translation>Pubblicazione delle chiavi OMEMO…</translation>
     </message>
     <message>
         <source>Psi will verify this account&apos;s OMEMO 2 device list and bundles. A broken bundle for this device will be republished. A broken bundle belonging to another device will be retracted and that device will stop receiving new encrypted messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi verificherà l&apos;elenco dei dispositivi OMEMO 2 e i bundle di questo account. Un bundle danneggiato per questo dispositivo verrà ripubblicato. Un bundle danneggiato appartenente a un altro dispositivo verrà ritirato e quel dispositivo smetterà di ricevere nuovi messaggi cifrati.</translation>
     </message>
     <message>
         <source>Checking OMEMO PEP data…</source>
-        <translation type="unfinished"></translation>
+        <translation>Verifica dei dati PEP OMEMO…</translation>
     </message>
     <message>
         <source>OMEMO</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO</translation>
     </message>
     <message>
         <source>OMEMO PEP data has been sanitized.</source>
-        <translation type="unfinished"></translation>
+        <translation>I dati PEP OMEMO sono stati ripuliti.</translation>
     </message>
     <message>
         <source>Retire OMEMO device</source>
-        <translation type="unfinished"></translation>
+        <translation>Ritira dispositivo OMEMO</translation>
     </message>
     <message>
         <source>The selected device will stop receiving new encrypted messages. Its published bundle will remain on the server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il dispositivo selezionato smetterà di ricevere nuovi messaggi cifrati. Il suo bundle pubblicato rimarrà sul server.</translation>
     </message>
     <message>
         <source>Select an account to manage its encryption settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona un account per gestirne le impostazioni di cifratura.</translation>
     </message>
     <message>
         <source>This encryption method does not provide settings for this page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo metodo di cifratura non fornisce impostazioni per questa pagina.</translation>
     </message>
     <message>
         <source>Ready</source>
@@ -12755,90 +12765,90 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Not set up</source>
-        <translation type="unfinished"></translation>
+        <translation>Non configurato</translation>
     </message>
     <message>
         <source>Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Disponibile</translation>
     </message>
     <message>
         <source>No encryption methods are available for this account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessun metodo di cifratura è disponibile per questo account.</translation>
     </message>
     <message>
         <source>Manage the selected account&apos;s encryption methods, keys and trust decisions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestisci i metodi di cifratura, le chiavi e le decisioni di fiducia dell&apos;account selezionato.</translation>
     </message>
     <message>
         <source>OMEMO is unavailable in this build.</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO non è disponibile in questa build.</translation>
     </message>
     <message>
         <source>Set up OMEMO</source>
-        <translation type="unfinished"></translation>
+        <translation>Configura OMEMO</translation>
     </message>
     <message>
         <source>Save name and republish</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva nome e ripubblica</translation>
     </message>
     <message>
         <source>Unnamed device</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositivo senza nome</translation>
     </message>
     <message>
         <source>OMEMO support is not compiled in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il supporto OMEMO non è compilato.</translation>
     </message>
     <message>
         <source>Could not save the trust decision.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile salvare la decisione di fiducia.</translation>
     </message>
     <message>
         <source>Calls, whiteboards and files</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiamate, lavagne e file</translation>
     </message>
     <message>
         <source>With contacts whose chat uses OMEMO: only with encryption verified by OMEMO</source>
-        <translation type="unfinished"></translation>
+        <translation>Con i contatti la cui chat usa OMEMO: solo con cifratura verificata da OMEMO</translation>
     </message>
     <message>
         <source>The encryption keys of a call or whiteboard are confirmed with a trusted OMEMO device of the contact, and files are encrypted end to end (JET-OMEMO). Sessions that cannot be protected are refused instead of running unprotected. Contacts whose chat is not encrypted with OMEMO are not affected. Files to OMEMO contacts are encrypted whenever the contact supports it, also without this option.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le chiavi di cifratura di una chiamata o di una lavagna vengono confermate con un dispositivo OMEMO fidato del contatto, e i file sono cifrati end-to-end (JET-OMEMO). Le sessioni che non possono essere protette vengono rifiutate invece di essere eseguite senza protezione. I contatti la cui chat non è cifrata con OMEMO non sono interessati. I file inviati ai contatti OMEMO vengono cifrati ogni volta che il contatto lo supporta, anche senza questa opzione.</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabServerless</name>
     <message>
         <source>Serverless</source>
-        <translation type="unfinished"></translation>
+        <translation>Senza server</translation>
     </message>
     <message>
         <source>Chat on the local network without a server</source>
-        <translation type="unfinished"></translation>
+        <translation>Chat sulla rete locale senza un server</translation>
     </message>
     <message>
         <source>Discover and chat with people on the selected local network using Bonjour / XEP-0174. Messages currently use unencrypted, unauthenticated connections. Enable this only on a network you trust.</source>
-        <translation type="unfinished"></translation>
+        <translation>Scopri e chatta con persone sulla rete locale selezionata usando Bonjour / XEP-0174. Al momento i messaggi usano connessioni non cifrate e non autenticate. Abilita questa opzione solo su una rete di cui ti fidi.</translation>
     </message>
     <message>
         <source>Enable serverless messaging</source>
-        <translation type="unfinished"></translation>
+        <translation>Abilita messaggistica senza server</translation>
     </message>
     <message>
         <source>Serverless messaging is unavailable: this Iris build does not include JDNS support.</source>
-        <translation type="unfinished"></translation>
+        <translation>La messaggistica senza server non è disponibile: questa build di Iris non include il supporto JDNS.</translation>
     </message>
     <message>
         <source>Local network account</source>
-        <translation type="unfinished"></translation>
+        <translation>Account di rete locale</translation>
     </message>
     <message>
         <source>Display name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome visualizzato:</translation>
     </message>
     <message>
         <source>Local address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Indirizzo locale:</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -12846,7 +12856,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Network interface:</source>
-        <translation type="unfinished"></translation>
+        <translation>Interfaccia di rete:</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -12854,15 +12864,15 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Leave Automatic unless a firewall requires a fixed TCP listening port.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lascia Automatico a meno che un firewall richieda una porta TCP di ascolto fissa.</translation>
     </message>
     <message>
         <source>Listening port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Porta di ascolto:</translation>
     </message>
     <message>
         <source>Connect automatically when Psi starts</source>
-        <translation type="unfinished"></translation>
+        <translation>Connetti automaticamente all&apos;avvio di Psi</translation>
     </message>
     <message>
         <source>Status:</source>
@@ -12870,7 +12880,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Automatic (active local network)</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatico (rete locale attiva)</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
@@ -12878,11 +12888,11 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>%1 (unavailable)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (non disponibile)</translation>
     </message>
     <message>
         <source>Assigned when enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Assegnato quando abilitato</translation>
     </message>
     <message>
         <source>Disabled</source>
@@ -12890,11 +12900,11 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Online on the local network</source>
-        <translation type="unfinished"></translation>
+        <translation>Online sulla rete locale</translation>
     </message>
     <message>
         <source>Announcing on the local network…</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuncio sulla rete locale…</translation>
     </message>
     <message>
         <source>Offline</source>
@@ -12902,7 +12912,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Local network</source>
-        <translation type="unfinished"></translation>
+        <translation>Rete locale</translation>
     </message>
 </context>
 <context>
@@ -13014,7 +13024,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the XMPP server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fa sì che Psi imposti automaticamente il tuo stato su &quot;offline&quot; se il computer rimane inattivo per il periodo specificato.  Questo ti disconnetterà dal server XMPP.</translation>
     </message>
 </context>
 <context>
@@ -13073,7 +13083,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>XMPP allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPP consente di aggiungere messaggi di stato estesi a tutti i tipi di stato.  Normalmente Psi non ti chiede un messaggio esteso quando imposti lo stato su &quot;online&quot;.  Seleziona questa opzione se desideri che venga richiesto.</translation>
     </message>
 </context>
 <context>
@@ -13129,7 +13139,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Server accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Account server</translation>
     </message>
 </context>
 <context>
@@ -13378,23 +13388,23 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Attenzione!&lt;/b&gt; L&apos;uso sconsiderato del plugin Client Switcher può causare l&apos;impossibilità di usare la cifratura OMEMO e OpenPGP. Usa le funzioni di questo plugin con molta attenzione...</translation>
     </message>
     <message>
         <source>OS version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versione del sistema operativo</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -13794,11 +13804,11 @@ Puoi ancora salvare la partita.</translation>
     </message>
     <message>
         <source>You Won!</source>
-        <translation type="unfinished"></translation>
+        <translation>Hai vinto!</translation>
     </message>
     <message>
         <source>You Lost.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hai perso.</translation>
     </message>
 </context>
 <context>
@@ -14062,7 +14072,7 @@ Puoi ancora salvare la partita.</translation>
     <name>ProfileItemDelegate</name>
     <message>
         <source>Delete profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina profilo</translation>
     </message>
 </context>
 <context>
@@ -14275,31 +14285,31 @@ Spunta la casella &lt;i&gt;Abilita Emoticon&lt;/i&gt; se vuoi che testi come &lt
     </message>
     <message>
         <source>Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Profili</translation>
     </message>
     <message>
         <source>New profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuovo profilo</translation>
     </message>
     <message>
         <source>Add profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi profilo</translation>
     </message>
     <message>
         <source>Startup and language</source>
-        <translation type="unfinished"></translation>
+        <translation>Avvio e lingua</translation>
     </message>
     <message>
         <source>&amp;Automatically open this profile on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Apri automaticamente questo profilo all&apos;avvio</translation>
     </message>
     <message>
         <source>The last opened profile will be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verrà usato l&apos;ultimo profilo aperto.</translation>
     </message>
     <message>
         <source>Application language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lingua dell&apos;applicazione:</translation>
     </message>
 </context>
 <context>
@@ -14318,35 +14328,35 @@ Spunta la casella &lt;i&gt;Abilita Emoticon&lt;/i&gt; se vuoi che testi come &lt
     </message>
     <message>
         <source>Double-click or press F2 to rename a profile. Press Delete to remove it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fai doppio clic o premi F2 per rinominare un profilo. Premi Canc per rimuoverlo.</translation>
     </message>
     <message>
         <source>Choose the application language. This setting applies to all profiles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Scegli la lingua dell&apos;applicazione. Questa impostazione si applica a tutti i profili.</translation>
     </message>
     <message>
         <source>Open the selected profile automatically the next time Psi starts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri automaticamente il profilo selezionato la prossima volta che Psi si avvia.</translation>
     </message>
     <message>
         <source>Unable to create this profile. Check folder permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile creare questo profilo. Controlla i permessi della cartella.</translation>
     </message>
     <message>
         <source>Profile created, but its default options could not be saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Profilo creato, ma non è stato possibile salvare le sue opzioni predefinite.</translation>
     </message>
     <message>
         <source>Profile names may contain only letters and numbers.</source>
-        <translation type="unfinished"></translation>
+        <translation>I nomi dei profili possono contenere solo lettere e numeri.</translation>
     </message>
     <message>
         <source>A profile with this name already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esiste già un profilo con questo nome.</translation>
     </message>
     <message>
         <source>Unable to rename the profile. Check folder permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile rinominare il profilo. Controlla i permessi della cartella.</translation>
     </message>
     <message>
         <source>Delete Profile</source>
@@ -14356,11 +14366,13 @@ Spunta la casella &lt;i&gt;Abilita Emoticon&lt;/i&gt; se vuoi che testi come &lt
         <source>Delete profile &quot;%1&quot;?
 
 All of its message history, settings, and cached files will be deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminare il profilo &quot;%1&quot;?
+
+Tutta la cronologia dei messaggi, le impostazioni e i file in cache verranno eliminati.</translation>
     </message>
     <message>
         <source>Unable to delete the profile completely. Check folder permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile eliminare completamente il profilo. Controlla i permessi della cartella.</translation>
     </message>
 </context>
 <context>
@@ -14415,23 +14427,23 @@ All of its message history, settings, and cached files will be deleted.</source>
     </message>
     <message>
         <source>DNS through the proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>DNS tramite il proxy</translation>
     </message>
     <message>
         <source>Remote DNS:</source>
-        <translation type="unfinished"></translation>
+        <translation>DNS remoto:</translation>
     </message>
     <message>
         <source>DoH URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>URL DoH:</translation>
     </message>
     <message>
         <source>DNS server:</source>
-        <translation type="unfinished"></translation>
+        <translation>Server DNS:</translation>
     </message>
     <message>
         <source>Test DNS...</source>
-        <translation type="unfinished"></translation>
+        <translation>Prova DNS...</translation>
     </message>
 </context>
 <context>
@@ -14473,15 +14485,15 @@ All of its message history, settings, and cached files will be deleted.</source>
     </message>
     <message>
         <source>DNS over HTTPS</source>
-        <translation type="unfinished"></translation>
+        <translation>DNS su HTTPS</translation>
     </message>
     <message>
         <source>DNS over TCP</source>
-        <translation type="unfinished"></translation>
+        <translation>DNS su TCP</translation>
     </message>
     <message>
         <source>A DNS server reached through this proxy. Accounts that use the proxy can look up their server with it (remote SRV lookup), so that no DNS query leaves this computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un server DNS raggiunto tramite questo proxy. Gli account che usano il proxy possono cercare il loro server con esso (ricerca SRV remota), in modo che nessuna query DNS lasci questo computer.</translation>
     </message>
 </context>
 <context>
@@ -14492,31 +14504,31 @@ All of its message history, settings, and cached files will be deleted.</source>
     </message>
     <message>
         <source>Test proxy DNS</source>
-        <translation type="unfinished"></translation>
+        <translation>Prova DNS del proxy</translation>
     </message>
     <message>
         <source>Invalid proxy host or port.</source>
-        <translation type="unfinished"></translation>
+        <translation>Host o porta del proxy non validi.</translation>
     </message>
     <message>
         <source>Invalid DNS server address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indirizzo del server DNS non valido.</translation>
     </message>
     <message>
         <source>XMPP domain to look up:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dominio XMPP da cercare:</translation>
     </message>
     <message>
         <source>No XMPP server was found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessun server XMPP trovato.</translation>
     </message>
     <message>
         <source>No SRV, the domain:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessun SRV, il dominio:</translation>
     </message>
     <message>
         <source>SRV %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>SRV %1:</translation>
     </message>
 </context>
 <context>
@@ -14892,39 +14904,39 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Keychain failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore del portachiavi</translation>
     </message>
     <message>
         <source>Psi switched to the internal password storage because system password manager is unavailable (%s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi è passato all&apos;archivio password interno perché il gestore password di sistema non è disponibile (%s).</translation>
     </message>
     <message>
         <source>The selected encryption method &apos;%1&apos; is not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il metodo di cifratura selezionato &apos;%1&apos; non è disponibile.</translation>
     </message>
     <message>
         <source>The selected encryption session is unavailable.</source>
-        <translation type="unfinished"></translation>
+        <translation>La sessione di cifratura selezionata non è disponibile.</translation>
     </message>
     <message>
         <source>The chat could not create an encryption session.</source>
-        <translation type="unfinished"></translation>
+        <translation>La chat non ha potuto creare una sessione di cifratura.</translation>
     </message>
     <message>
         <source>The chat encryption session was closed before the message could be retried.</source>
-        <translation type="unfinished"></translation>
+        <translation>La sessione di cifratura della chat è stata chiusa prima che il messaggio potesse essere ritentato.</translation>
     </message>
     <message>
         <source>Encryption failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Cifratura non riuscita: %1</translation>
     </message>
     <message>
         <source>Bookmark synchronization failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Sincronizzazione dei segnalibri non riuscita</translation>
     </message>
     <message>
         <source>Serverless delivery failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Consegna senza server non riuscita</translation>
     </message>
     <message>
         <source>Unsupported</source>
@@ -14932,7 +14944,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Group chat whiteboards are not supported yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le lavagne nelle chat di gruppo non sono ancora supportate.</translation>
     </message>
 </context>
 <context>
@@ -15467,15 +15479,15 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Manage Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestisci account</translation>
     </message>
     <message>
         <source>&amp;Manage Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Gestisci account</translation>
     </message>
     <message>
         <source>&amp;XMPP Console</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Console XMPP</translation>
     </message>
     <message>
         <source>Paste and Send</source>
@@ -15576,15 +15588,15 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Choose Public Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Scegli chiave pubblica</translation>
     </message>
     <message>
         <source>Send own public key</source>
-        <translation type="unfinished"></translation>
+        <translation>Invia la propria chiave pubblica</translation>
     </message>
     <message>
         <source>Send public key...</source>
-        <translation type="unfinished"></translation>
+        <translation>Invia chiave pubblica...</translation>
     </message>
     <message>
         <source>Command</source>
@@ -15596,51 +15608,51 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Encryption: %1 (unavailable for this contact)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cifratura: %1 (non disponibile per questo contatto)</translation>
     </message>
     <message>
         <source>Encryption: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Cifratura: %1</translation>
     </message>
     <message>
         <source>No encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessuna cifratura</translation>
     </message>
     <message>
         <source>This encryption method is not available for the selected resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo metodo di cifratura non è disponibile per la risorsa selezionata.</translation>
     </message>
     <message>
         <source>OpenPGP management</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestione OpenPGP</translation>
     </message>
     <message>
         <source>OMEMO devices and fingerprints…</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositivi e impronte digitali OMEMO…</translation>
     </message>
     <message>
         <source>Own device: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Proprio dispositivo: %1</translation>
     </message>
     <message>
         <source>Own fingerprint: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Propria impronta digitale: %1</translation>
     </message>
     <message>
         <source>No remote OMEMO devices are known yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessun dispositivo OMEMO remoto è ancora noto.</translation>
     </message>
     <message>
         <source>Remote devices:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositivi remoti:</translation>
     </message>
     <message>
         <source>distrusted</source>
-        <translation type="unfinished"></translation>
+        <translation>non fidato</translation>
     </message>
     <message>
         <source>undecided</source>
-        <translation type="unfinished"></translation>
+        <translation>indeciso</translation>
     </message>
     <message>
         <source>trusted</source>
@@ -15648,7 +15660,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>OMEMO devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositivi OMEMO</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -15656,15 +15668,15 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Account is offline</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;account è offline</translation>
     </message>
     <message>
         <source>Archive response omitted the requested index</source>
-        <translation type="unfinished"></translation>
+        <translation>La risposta dell&apos;archivio ha omesso l&apos;indice richiesto</translation>
     </message>
     <message>
         <source>This archive cannot position messages by index. Older history remains available by scrolling.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo archivio non può posizionare i messaggi per indice. La cronologia precedente resta disponibile scorrendo.</translation>
     </message>
     <message>
         <source>Voice Call</source>
@@ -15672,11 +15684,11 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Whiteboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Lavagna</translation>
     </message>
     <message>
         <source>Whiteboard only</source>
-        <translation type="unfinished"></translation>
+        <translation>Solo lavagna</translation>
     </message>
 </context>
 <context>
@@ -15781,15 +15793,15 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Psi is a cross-platform XMPP client designed for experienced users.</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi è un client XMPP multipiattaforma pensato per utenti esperti.</translation>
     </message>
     <message>
         <source>Receive next pending event.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ricevi il prossimo evento in sospeso.</translation>
     </message>
     <message>
         <source>Quit the application</source>
-        <translation type="unfinished"></translation>
+        <translation>Esci dall&apos;applicazione</translation>
     </message>
 </context>
 <context>
@@ -15888,11 +15900,11 @@ La migrazione è possibile con Psi-0.15</translation>
     </message>
     <message>
         <source>Unable to load &quot;%1&quot; theme! Please make sure Psi is properly installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile caricare il tema &quot;%1&quot;! Assicurati che Psi sia installato correttamente.</translation>
     </message>
     <message>
         <source>Forward...</source>
-        <translation type="unfinished"></translation>
+        <translation>Inoltra...</translation>
     </message>
     <message>
         <source>Forward</source>
@@ -16130,11 +16142,11 @@ La migrazione è possibile con Psi-0.15</translation>
     </message>
     <message>
         <source>Call &amp;To</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiama &amp;Con</translation>
     </message>
     <message>
         <source>&amp;Whiteboard</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lavagna</translation>
     </message>
 </context>
 <context>
@@ -16153,46 +16165,46 @@ La migrazione è possibile con Psi-0.15</translation>
     </message>
     <message>
         <source>Decline</source>
-        <translation type="unfinished"></translation>
+        <translation>Rifiuta</translation>
     </message>
 </context>
 <context>
     <name>PsiEncryptionController</name>
     <message>
         <source>Decryption failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Decifratura non riuscita: %1</translation>
     </message>
     <message>
         <source>Could not prepare session recovery: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile preparare il recupero della sessione: %1</translation>
     </message>
     <message>
         <source>Session recovery was not offered because the sending device is unavailable or explicitly distrusted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il recupero della sessione non è stato offerto perché il dispositivo mittente non è disponibile o è esplicitamente non fidato.</translation>
     </message>
     <message>
         <source>Sent a new key exchange to %1 device %2. Future messages from it can be decrypted, but the failed message must be sent again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inviato un nuovo scambio di chiavi al dispositivo %2 di %1. I messaggi futuri da esso potranno essere decifrati, ma il messaggio non riuscito deve essere inviato di nuovo.</translation>
     </message>
     <message>
         <source>Session recovery failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Recupero della sessione non riuscito: %1</translation>
     </message>
     <message>
         <source>Review OMEMO devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Esamina i dispositivi OMEMO</translation>
     </message>
     <message>
         <source>New OMEMO device keys need a trust decision before they can be used for outgoing encrypted messages. Device names are provided by the device owner and, for OMEMO 2, verified against its identity key.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nuove chiavi dei dispositivi OMEMO richiedono una decisione di fiducia prima di poter essere usate per i messaggi cifrati in uscita. I nomi dei dispositivi sono forniti dal proprietario del dispositivo e, per OMEMO 2, verificati rispetto alla sua chiave di identità.</translation>
     </message>
     <message>
         <source>Psi could not decrypt a message from this device because the local session is missing. Review the device and explicitly approve creating a new session. Device names are provided by the device owner and, for OMEMO 2, verified against its identity key.</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi non ha potuto decifrare un messaggio da questo dispositivo perché manca la sessione locale. Esamina il dispositivo e approva esplicitamente la creazione di una nuova sessione. I nomi dei dispositivi sono forniti dal proprietario del dispositivo e, per OMEMO 2, verificati rispetto alla sua chiave di identità.</translation>
     </message>
     <message>
         <source>Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositivo</translation>
     </message>
     <message>
         <source>Address</source>
@@ -16200,7 +16212,7 @@ La migrazione è possibile con Psi-0.15</translation>
     </message>
     <message>
         <source>Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Profilo</translation>
     </message>
     <message>
         <source>Fingerprint</source>
@@ -16208,7 +16220,7 @@ La migrazione è possibile con Psi-0.15</translation>
     </message>
     <message>
         <source>Unnamed device (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositivo senza nome (%1)</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
@@ -16216,73 +16228,75 @@ La migrazione è possibile con Psi-0.15</translation>
     </message>
     <message>
         <source>Your account (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Il tuo account (%1)</translation>
     </message>
     <message>
         <source>This device did not publish a verifiable name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo dispositivo non ha pubblicato un nome verificabile.</translation>
     </message>
     <message>
         <source>The device name was verified against this OMEMO identity key.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il nome del dispositivo è stato verificato rispetto a questa chiave di identità OMEMO.</translation>
     </message>
     <message>
         <source>Repair creates a fresh Double Ratchet session and sends an empty OMEMO key exchange. It cannot recover the missed message; the sender must send it again. Distrust prevents session recovery.</source>
-        <translation type="unfinished"></translation>
+        <translation>La riparazione crea una nuova sessione Double Ratchet e invia uno scambio di chiavi OMEMO vuoto. Non può recuperare il messaggio perso; il mittente deve inviarlo di nuovo. La diffidenza impedisce il recupero della sessione.</translation>
     </message>
     <message>
         <source>Trust allows selected contact devices to receive encrypted messages and selected devices of your own account to decrypt message copies. Distrust excludes those devices. Not now leaves them undecided and cancels this encrypted send.</source>
-        <translation type="unfinished"></translation>
+        <translation>La fiducia consente ai dispositivi selezionati del contatto di ricevere messaggi cifrati e ai dispositivi selezionati del tuo account di decifrare le copie dei messaggi. La diffidenza esclude quei dispositivi. Non ora li lascia indecisi e annulla questo invio cifrato.</translation>
     </message>
     <message>
         <source>Trust marks the selected sender devices as trusted. Distrust marks them as explicitly untrusted. Not now keeps the message visible but leaves the devices undecided.</source>
-        <translation type="unfinished"></translation>
+        <translation>La fiducia contrassegna i dispositivi mittenti selezionati come fidati. La diffidenza li contrassegna come esplicitamente non fidati. Non ora mantiene il messaggio visibile ma lascia i dispositivi indecisi.</translation>
     </message>
     <message>
         <source>Trust selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Considera fidati i selezionati</translation>
     </message>
     <message>
         <source>Trust and repair</source>
-        <translation type="unfinished"></translation>
+        <translation>Fidati e ripara</translation>
     </message>
     <message>
         <source>Repair session</source>
-        <translation type="unfinished"></translation>
+        <translation>Ripara sessione</translation>
     </message>
     <message>
         <source>Distrust selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Considera non fidati i selezionati</translation>
     </message>
     <message>
         <source>Distrust device</source>
-        <translation type="unfinished"></translation>
+        <translation>Considera non fidato il dispositivo</translation>
     </message>
     <message>
         <source>Not now</source>
-        <translation type="unfinished"></translation>
+        <translation>Non ora</translation>
     </message>
     <message>
         <source>Could not save the OMEMO trust decision.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile salvare la decisione di fiducia OMEMO.</translation>
     </message>
     <message>
         <source>OMEMO setup failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurazione OMEMO non riuscita: %1</translation>
     </message>
     <message>
         <source>Could not decrypt a message: the encryption session with this device is broken (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile decifrare un messaggio: la sessione di cifratura con questo dispositivo è danneggiata (%1)</translation>
     </message>
     <message>
         <source>Repair OMEMO session</source>
-        <translation type="unfinished"></translation>
+        <translation>Ripara sessione OMEMO</translation>
     </message>
     <message>
         <source>
 
 This device&apos;s identity key is already trusted. Only its encryption session needs to be repaired.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+La chiave di identità di questo dispositivo è già considerata fidata. È necessario riparare solo la sua sessione di cifratura.</translation>
     </message>
 </context>
 <context>
@@ -16358,7 +16372,7 @@ Vuoi attivare quella sessione ora?</translation>
     <name>PsiMedia::ScreenCapture</name>
     <message>
         <source>The media backend does not support screen sharing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il backend multimediale non supporta la condivisione dello schermo.</translation>
     </message>
 </context>
 <context>
@@ -16369,7 +16383,7 @@ Vuoi attivare quella sessione ora?</translation>
     </message>
     <message>
         <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il plugin multimediale fornisce le funzionalità necessarie per le chiamate audio/video e può anche sostituire alcune parti di QtMultimedia.</translation>
     </message>
 </context>
 <context>
@@ -16574,11 +16588,11 @@ Vuoi attivare quella sessione ora?</translation>
     </message>
     <message>
         <source>invites you to a whiteboard</source>
-        <translation type="unfinished"></translation>
+        <translation>ti invita a una lavagna</translation>
     </message>
     <message>
         <source>is calling you</source>
-        <translation type="unfinished"></translation>
+        <translation>ti sta chiamando</translation>
     </message>
 </context>
 <context>
@@ -16589,7 +16603,7 @@ Vuoi attivare quella sessione ora?</translation>
     </message>
     <message>
         <source>Decline</source>
-        <translation type="unfinished"></translation>
+        <translation>Rifiuta</translation>
     </message>
 </context>
 <context>
@@ -16603,11 +16617,11 @@ Vuoi attivare quella sessione ora?</translation>
     <name>PsiTextView</name>
     <message>
         <source>unknown size</source>
-        <translation type="unfinished"></translation>
+        <translation>dimensione sconosciuta</translation>
     </message>
     <message>
         <source>Shared media is downloading (%1, %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Download del contenuto condiviso in corso (%1, %2)</translation>
     </message>
 </context>
 <context>
@@ -18259,7 +18273,7 @@ Grazie per la tua pazienza.</translation>
     </message>
     <message>
         <source>Multimedia</source>
-        <translation type="unfinished"></translation>
+        <translation>Multimedia</translation>
     </message>
     <message>
         <source>Audio and video device configuration</source>
@@ -18267,111 +18281,111 @@ Grazie per la tua pazienza.</translation>
     </message>
     <message>
         <source>The OTR profile could not be loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile caricare il profilo OTR.</translation>
     </message>
     <message>
         <source>Cannot initialize OTR for this account: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile inizializzare OTR per questo account: %1</translation>
     </message>
     <message>
         <source>Cannot save OTR fingerprint: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile salvare l&apos;impronta digitale OTR: %1</translation>
     </message>
     <message>
         <source>Remote OTR protocol error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore del protocollo OTR remoto.</translation>
     </message>
     <message>
         <source>Received message contains malformed OTR data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il messaggio ricevuto contiene dati OTR malformati.</translation>
     </message>
     <message>
         <source>Cannot update OTR fingerprint trust: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile aggiornare la fiducia dell&apos;impronta digitale OTR: %1</translation>
     </message>
     <message>
         <source>Cannot delete OTR fingerprint: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile eliminare l&apos;impronta digitale OTR: %1</translation>
     </message>
     <message>
         <source>Cannot delete OTR private key: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile eliminare la chiave privata OTR: %1</translation>
     </message>
     <message>
         <source>Could not start an OTR session.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile avviare una sessione OTR.</translation>
     </message>
     <message>
         <source>OTR encryption session was cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>La sessione di cifratura OTR è stata annullata</translation>
     </message>
     <message>
         <source>OTR requires a recipient</source>
-        <translation type="unfinished"></translation>
+        <translation>OTR richiede un destinatario</translation>
     </message>
     <message>
         <source>The OTR session with %1 is not established yet</source>
-        <translation type="unfinished"></translation>
+        <translation>La sessione OTR con %1 non è ancora stabilita</translation>
     </message>
     <message>
         <source>Could not encrypt the message with OTR</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile cifrare il messaggio con OTR</translation>
     </message>
     <message>
         <source>OTR decryption session was cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>La sessione di decifratura OTR è stata annullata</translation>
     </message>
     <message>
         <source>The stanza was not a valid OTR message</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;elemento non era un messaggio OTR valido</translation>
     </message>
     <message>
         <source>OTR</source>
-        <translation type="unfinished"></translation>
+        <translation>OTR</translation>
     </message>
     <message>
         <source>Distrusted</source>
-        <translation type="unfinished"></translation>
+        <translation>Non fidato</translation>
     </message>
     <message>
         <source>Undecided</source>
-        <translation type="unfinished"></translation>
+        <translation>Indeciso</translation>
     </message>
     <message>
         <source>Trusted</source>
-        <translation type="unfinished"></translation>
+        <translation>Fidato</translation>
     </message>
     <message>
         <source>Legacy</source>
-        <translation type="unfinished"></translation>
+        <translation>Legacy</translation>
     </message>
     <message>
         <source>OMEMO 2</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO 2</translation>
     </message>
     <message>
         <source>Legacy OMEMO</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO legacy</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Sconosciuto</translation>
     </message>
     <message>
         <source>Save file</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva file</translation>
     </message>
     <message>
         <source>No download source</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessuna fonte di download</translation>
     </message>
     <message>
         <source>Transferring, end-to-end encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>Trasferimento in corso, cifrato end-to-end</translation>
     </message>
     <message>
         <source>Finishing</source>
-        <translation type="unfinished"></translation>
+        <translation>Completamento</translation>
     </message>
     <message>
         <source>Done</source>
@@ -18379,23 +18393,23 @@ Grazie per la tua pazienza.</translation>
     </message>
     <message>
         <source>Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Non riuscito</translation>
     </message>
     <message>
         <source>Native message layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Layout nativo dei messaggi</translation>
     </message>
     <message>
         <source>%1 invites you to a whiteboard</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ti invita a una lavagna</translation>
     </message>
     <message>
         <source>Downloading: %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Download: %1%</translation>
     </message>
     <message>
         <source>Downloading…</source>
-        <translation type="unfinished"></translation>
+        <translation>Download in corso…</translation>
     </message>
 </context>
 <context>
@@ -18418,7 +18432,7 @@ Grazie per la tua pazienza.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -18619,19 +18633,19 @@ La prima volta che installi questo plugin, è necessario accedere a tutti i tuoi
     <name>ScreenShareCapture</name>
     <message>
         <source>Choose what to share</source>
-        <translation type="unfinished"></translation>
+        <translation>Scegli cosa condividere</translation>
     </message>
     <message>
         <source>Share a display or a single window</source>
-        <translation type="unfinished"></translation>
+        <translation>Condividi uno schermo o una singola finestra</translation>
     </message>
     <message>
         <source>Displays</source>
-        <translation type="unfinished"></translation>
+        <translation>Schermi</translation>
     </message>
     <message>
         <source>Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Finestre</translation>
     </message>
     <message>
         <source>Share</source>
@@ -18726,7 +18740,7 @@ La prima volta che installi questo plugin, è necessario accedere a tutti i tuoi
     </message>
     <message>
         <source>Home page</source>
-        <translation>Home page</translation>
+        <translation>Pagina iniziale</translation>
     </message>
     <message>
         <source>Upload</source>
@@ -19106,11 +19120,11 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Failed to parse json.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile analizzare il JSON.</translation>
     </message>
     <message>
         <source>Failed to parse any valid server JIDs from %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile estrarre JID di server validi da %1.</translation>
     </message>
 </context>
 <context>
@@ -19317,7 +19331,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>QCA plugin diag</source>
-        <translation>QCA plugin diag</translation>
+        <translation>Diagnostica plugin QCA</translation>
     </message>
     <message>
         <source>QCA key store diag</source>
@@ -19693,7 +19707,7 @@ Questo permesse a tutte le impostazioni (icone, disposizione barre dei strumenti
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -19804,7 +19818,7 @@ Questo permesse a tutte le impostazioni (icone, disposizione barre dei strumenti
     </message>
     <message>
         <source>Stop Spam Plugin</source>
-        <translation>Stop Spam Plugin</translation>
+        <translation>Plugin Stop Spam</translation>
     </message>
     <message>
         <source> pass the test</source>
@@ -19916,11 +19930,13 @@ Il plugin è progettato per tenere le note sul server Jabber con l&apos;abilità
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the XMPP server with the ability to access them from anywhere using Psi or Miranda IM.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo plugin è un&apos;implementazione di XEP-0049: Private XML Storage.
+Il plugin è completamente compatibile con le note salvate usando Miranda IM.
+Il plugin è progettato per conservare note sul server XMPP con la possibilità di accedervi da qualsiasi luogo usando Psi o Miranda IM.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -19994,7 +20010,7 @@ The plugin is designed to keep notes on the XMPP server with the ability to acce
     <name>TaskBarNotifier::Private</name>
     <message>
         <source>Quit %1 application</source>
-        <translation type="unfinished"></translation>
+        <translation>Esci dall&apos;applicazione %1</translation>
     </message>
 </context>
 <context>
@@ -20229,11 +20245,11 @@ Correggere e provare ancora.</translation>
     <name>TicTacToe</name>
     <message>
         <source>Opponent starts</source>
-        <translation type="unfinished"></translation>
+        <translation>Inizia l&apos;avversario</translation>
     </message>
     <message>
         <source>You start</source>
-        <translation type="unfinished"></translation>
+        <translation>Inizi tu</translation>
     </message>
     <message>
         <source>Play!</source>
@@ -20245,27 +20261,27 @@ Correggere e provare ancora.</translation>
     </message>
     <message>
         <source>Click Play to start</source>
-        <translation type="unfinished"></translation>
+        <translation>Clicca Gioca per iniziare</translation>
     </message>
     <message>
         <source>Make your move</source>
-        <translation type="unfinished"></translation>
+        <translation>Fai la tua mossa</translation>
     </message>
     <message>
         <source>Waiting for other player</source>
-        <translation type="unfinished"></translation>
+        <translation>In attesa dell&apos;altro giocatore</translation>
     </message>
     <message>
         <source>You won!</source>
-        <translation type="unfinished"></translation>
+        <translation>Hai vinto!</translation>
     </message>
     <message>
         <source>Opponent won!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha vinto l&apos;avversario!</translation>
     </message>
     <message>
         <source>It&apos;s a draw</source>
-        <translation type="unfinished"></translation>
+        <translation>È un pareggio</translation>
     </message>
 </context>
 <context>
@@ -20434,16 +20450,21 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciao! Grazie per aver scaricato Psi!
+Speriamo che ti piacerà usarlo tanto quanto noi ci siamo divertiti a crearlo!
+&lt;br&gt;&lt;br&gt;Se vuoi scaricare un&apos;altra traduzione, un set di icone o una nuova versione di Psi, visita la &lt;a href=&quot;https://psi-im.org&quot;&gt;Home Page di Psi&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;Se pensi di aver trovato un bug o vuoi semplicemente chattare con altri utenti di Psi, visita i &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Forum di Psi&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;il team di Psi&lt;/i&gt;&lt;/div&gt;</translation>
     </message>
     <message>
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo è il suggerimento finale.
+&lt;br&gt;&lt;br&gt;Se vuoi contribuire con il tuo &quot;suggerimento del giorno&quot;, pubblicalo sui &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Forum di Psi&lt;/a&gt; (o invialo a uno degli sviluppatori) e saremo felici di integrarlo per la prossima versione.</translation>
     </message>
     <message>
         <source>Do you chat on third-party IM networks such as Telegram and WhatsApp?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Chatti su reti di messaggistica di terze parti come Telegram e WhatsApp?  Prova ad abilitare l&apos;opzione &quot;icone specifiche del trasporto&quot;.  Questo ti permetterà di vedere a colpo d&apos;occhio quale rete sta usando il tuo contatto.  Poi potrai convincerlo a passare a XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</translation>
     </message>
 </context>
 <context>
@@ -20684,7 +20705,21 @@ To work with Kaffeine player you must have player version (&gt;= 1.0), additiona
 To work with GNOME MPlayer additional configuration is not needed;
 
 To work with Parole player you need to enable MPRIS2 module/plugin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo plugin è progettato per impostare uno stato personalizzato quando guardi un video nei lettori video selezionati.
+Nota: questo plugin è progettato per funzionare nei sistemi operativi della famiglia Linux e in Windows.
+
+In Linux il plugin usa DBUS per interagire con i lettori video e le funzioni X11 per rilevare le applicazioni a schermo intero (non funziona con Wayland).
+In Windows il plugin usa le funzioni WinAPI per rilevare le applicazioni a schermo intero.
+
+Per funzionare con il lettore Totem devi abilitare l&apos;apposito plugin in questo lettore (Modifica\Plugin\D-Bus);
+
+Per funzionare con il lettore VLC devi abilitare l&apos;opzione &quot;Interfaccia di controllo D-Bus&quot; nella scheda Impostazioni avanzate, sezione &quot;Interfaccia\Interfaccia di controllo&quot; delle impostazioni del lettore;
+
+Per funzionare con il lettore Kaffeine devi avere la versione del lettore (&gt;= 1.0), non è necessaria ulteriore configurazione;
+
+Per funzionare con GNOME MPlayer non è necessaria ulteriore configurazione;
+
+Per funzionare con il lettore Parole devi abilitare il modulo/plugin MPRIS2.</translation>
     </message>
 </context>
 <context>
@@ -21157,23 +21192,23 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Answered on another device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Risposto su un altro dispositivo.</translation>
     </message>
     <message>
         <source>Declined on another device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rifiutato su un altro dispositivo.</translation>
     </message>
     <message>
         <source>The whiteboard invitation was declined.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;invito alla lavagna è stato rifiutato.</translation>
     </message>
     <message>
         <source>The whiteboard invitation was withdrawn.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;invito alla lavagna è stato ritirato.</translation>
     </message>
     <message>
         <source>The whiteboard session has ended.</source>
-        <translation type="unfinished"></translation>
+        <translation>La sessione della lavagna è terminata.</translation>
     </message>
 </context>
 <context>
@@ -21192,7 +21227,7 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Clear the whiteboard for everyone</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancella la lavagna per tutti</translation>
     </message>
     <message>
         <source>Clear the whiteboard</source>
@@ -21216,11 +21251,11 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Import SVG</source>
-        <translation type="unfinished"></translation>
+        <translation>Importa SVG</translation>
     </message>
     <message>
         <source>Add the drawing of an SVG file</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi il disegno di un file SVG</translation>
     </message>
     <message>
         <source>Thin stroke</source>
@@ -21248,23 +21283,23 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Draw lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Disegna linee</translation>
     </message>
     <message>
         <source>Draw rectangles</source>
-        <translation type="unfinished"></translation>
+        <translation>Disegna rettangoli</translation>
     </message>
     <message>
         <source>Draw ellipses</source>
-        <translation type="unfinished"></translation>
+        <translation>Disegna ellissi</translation>
     </message>
     <message>
         <source>Draw rhombuses</source>
-        <translation type="unfinished"></translation>
+        <translation>Disegna rombi</translation>
     </message>
     <message>
         <source>Add text</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi testo</translation>
     </message>
     <message>
         <source>Add images</source>
@@ -21276,11 +21311,11 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Controlli</translation>
     </message>
     <message>
         <source>Mouse and keyboard controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Controlli di mouse e tastiera</translation>
     </message>
     <message>
         <source>Whiteboard toolbar</source>
@@ -21288,67 +21323,67 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Right-click or Control-click</source>
-        <translation type="unfinished"></translation>
+        <translation>Clic destro o clic con Control</translation>
     </message>
     <message>
         <source>Right-drag (two-finger click and drag on a trackpad)</source>
-        <translation type="unfinished"></translation>
+        <translation>Trascinamento con tasto destro (clic e trascinamento con due dita sul touchpad)</translation>
     </message>
     <message>
         <source>Space + drag, or two-finger scroll</source>
-        <translation type="unfinished"></translation>
+        <translation>Spazio + trascinamento, o scorrimento con due dita</translation>
     </message>
     <message>
         <source>%1 + scroll, or pinch</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 + scorrimento, o pizzico</translation>
     </message>
     <message>
         <source>Ctrl</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl</translation>
     </message>
     <message>
         <source>Alt</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt</translation>
     </message>
     <message>
         <source>Shift</source>
-        <translation type="unfinished"></translation>
+        <translation>Maiusc</translation>
     </message>
     <message>
         <source>Right-click</source>
-        <translation type="unfinished"></translation>
+        <translation>Clic destro</translation>
     </message>
     <message>
         <source>Right-drag</source>
-        <translation type="unfinished"></translation>
+        <translation>Trascinamento con tasto destro</translation>
     </message>
     <message>
         <source>Middle-drag or Space + drag; the wheel scrolls</source>
-        <translation type="unfinished"></translation>
+        <translation>Trascinamento con tasto centrale o Spazio + trascinamento; la rotella scorre</translation>
     </message>
     <message>
         <source>%1 + wheel, or pinch on a touchpad</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 + rotella, o pizzico sul touchpad</translation>
     </message>
     <message>
         <source>Drawing</source>
-        <translation type="unfinished"></translation>
+        <translation>Disegno</translation>
     </message>
     <message>
         <source>Draw with the current tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Disegna con lo strumento corrente</translation>
     </message>
     <message>
         <source>Left button</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasto sinistro</translation>
     </message>
     <message>
         <source>Straight line</source>
-        <translation type="unfinished"></translation>
+        <translation>Linea retta</translation>
     </message>
     <message>
         <source>%1 + drag with the pen</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 + trascinamento con la penna</translation>
     </message>
     <message>
         <source>Tools</source>
@@ -21356,63 +21391,63 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>V select, P pen, L line, R rectangle, O ellipse, D rhombus, T text, I image, E eraser</source>
-        <translation type="unfinished"></translation>
+        <translation>V seleziona, P penna, L linea, R rettangolo, O ellisse, D rombo, T testo, I immagine, E gomma</translation>
     </message>
     <message>
         <source>Square, circle</source>
-        <translation type="unfinished"></translation>
+        <translation>Quadrato, cerchio</translation>
     </message>
     <message>
         <source>%1 + drag with the rectangle or ellipse tool</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 + trascinamento con lo strumento rettangolo o ellisse</translation>
     </message>
     <message>
         <source>Stroke width and text size</source>
-        <translation type="unfinished"></translation>
+        <translation>Spessore del tratto e dimensione del testo</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Selezione</translation>
     </message>
     <message>
         <source>Select and move</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona e sposta</translation>
     </message>
     <message>
         <source>%1 + drag an item (or the Select tool)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 + trascina un elemento (o lo strumento Seleziona)</translation>
     </message>
     <message>
         <source>Select an area</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona un&apos;area</translation>
     </message>
     <message>
         <source>%1 + drag on the empty canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 + trascinamento sulla tela vuota</translation>
     </message>
     <message>
         <source>Add to or remove from the selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi o rimuovi dalla selezione</translation>
     </message>
     <message>
         <source>%1 + %2 + click</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 + %2 + clic</translation>
     </message>
     <message>
         <source>Select all / deselect</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona tutto / deseleziona</translation>
     </message>
     <message>
         <source>%1 / Esc</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 / Esc</translation>
     </message>
     <message>
         <source>Move by 1 or 10 units</source>
-        <translation type="unfinished"></translation>
+        <translation>Sposta di 1 o 10 unità</translation>
     </message>
     <message>
         <source>Arrow keys / %1 + arrow keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasti freccia / %1 + tasti freccia</translation>
     </message>
     <message>
         <source>Scale</source>
@@ -21420,7 +21455,7 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>%1 + %2 + drag the selection, or + and −</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 + %2 + trascina la selezione, oppure + e −</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -21428,11 +21463,11 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>%1, %2 + wheel, or , and . (15°), &lt; and &gt; (1°)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, %2 + rotella, oppure , e . (15°), &lt; e &gt; (1°)</translation>
     </message>
     <message>
         <source>Duplicate</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplica</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -21440,35 +21475,35 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Delete or Backspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Canc o Backspace</translation>
     </message>
     <message>
         <source>Group / ungroup</source>
-        <translation type="unfinished"></translation>
+        <translation>Raggruppa / separa</translation>
     </message>
     <message>
         <source>%1 / %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>Bring forward / send backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Porta avanti / invia indietro</translation>
     </message>
     <message>
         <source>Page Up / Page Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Pag su / Pag giù</translation>
     </message>
     <message>
         <source>Bring to front / send to back</source>
-        <translation type="unfinished"></translation>
+        <translation>Porta in primo piano / invia in fondo</translation>
     </message>
     <message>
         <source>Home / End</source>
-        <translation type="unfinished"></translation>
+        <translation>Home / Fine</translation>
     </message>
     <message>
         <source>Item menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu dell&apos;elemento</translation>
     </message>
     <message>
         <source>View</source>
@@ -21476,35 +21511,35 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>%1, %2 / %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, %2 / %3</translation>
     </message>
     <message>
         <source>Fit the canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>Adatta la tela</translation>
     </message>
     <message>
         <source>Pan a zoomed canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>Sposta una tela ingrandita</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Immagini</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserisci</translation>
     </message>
     <message>
         <source>Drop image files on the canvas, paste with %1, or click with the image tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Rilascia file immagine sulla tela, incolla con %1 o fai clic con lo strumento immagine</translation>
     </message>
     <message>
         <source>Whiteboard Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Controlli della lavagna</translation>
     </message>
     <message>
         <source>Set new width:</source>
@@ -21524,7 +21559,7 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Save Whiteboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva lavagna</translation>
     </message>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
@@ -21532,7 +21567,7 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>The file is not an SVG document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il file non è un documento SVG.</translation>
     </message>
 </context>
 <context>
@@ -21543,11 +21578,11 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Images (*.png *.jpg *.jpeg *.gif *.bmp *.webp)</source>
-        <translation type="unfinished"></translation>
+        <translation>Immagini (*.png *.jpg *.jpeg *.gif *.bmp *.webp)</translation>
     </message>
     <message>
         <source>Add text</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi testo</translation>
     </message>
     <message>
         <source>Text:</source>
@@ -21606,23 +21641,23 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>XMPP Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Console XMPP</translation>
     </message>
     <message>
         <source>&lt;message&gt; stanza used to send information to other XMPP entities without requiring a response.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;elemento &lt;message&gt; viene usato per inviare informazioni ad altre entità XMPP senza richiedere una risposta.</translation>
     </message>
     <message>
         <source>&lt;presence&gt; stanza used for status of other clients and components. It&apos;s a multi-cast so extensions use it to broadcast own things to contacts, such as capabilities, music choice, or location.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;elemento &lt;presence&gt; viene usato per lo stato di altri client e componenti. È multicast, quindi le estensioni lo usano per trasmettere ai contatti le proprie informazioni, come capacità, scelta musicale o posizione.</translation>
     </message>
     <message>
         <source>&lt;iq&gt; (info/query) stanza used for requesting and modifying information.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;elemento &lt;iq&gt; (info/query) viene usato per richiedere e modificare informazioni.</translation>
     </message>
     <message>
         <source>&lt;a&gt; (ack) and &lt;r&gt; (request ack) stanzas used to acknowledge successful receipt of a stanza.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gli elementi &lt;a&gt; (ack) e &lt;r&gt; (request ack) vengono usati per confermare la ricezione riuscita di un elemento.</translation>
     </message>
 </context>
 <context>
@@ -21691,7 +21726,7 @@ Vuoi ancora chiudere la finestra?</translation>
     <name>XMPP::JT_Message</name>
     <message>
         <source>Unable to serialize message stanza</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile serializzare l&apos;elemento del messaggio</translation>
     </message>
 </context>
 <context>
@@ -21702,85 +21737,85 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>No vCard available</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessuna vCard disponibile</translation>
     </message>
 </context>
 <context>
     <name>XMPP::LinkLocalService</name>
     <message>
         <source>The serverless name is too long for DNS-SD.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il nome senza server è troppo lungo per DNS-SD.</translation>
     </message>
     <message>
         <source>Cannot publish the serverless address on this network.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile pubblicare l&apos;indirizzo senza server su questa rete.</translation>
     </message>
     <message>
         <source>Cannot announce serverless presence.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile annunciare la presenza senza server.</translation>
     </message>
     <message>
         <source>Cannot find the peer&apos;s TCP service.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile trovare il servizio TCP del peer.</translation>
     </message>
     <message>
         <source>Cannot bind to the selected network interface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile associarsi all&apos;interfaccia di rete selezionata.</translation>
     </message>
     <message>
         <source>Too many serverless connections.</source>
-        <translation type="unfinished"></translation>
+        <translation>Troppe connessioni senza server.</translation>
     </message>
     <message>
         <source>The peer&apos;s TCP connection failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>La connessione TCP del peer non è riuscita.</translation>
     </message>
     <message>
         <source>Serverless peer lookup timed out.</source>
-        <translation type="unfinished"></translation>
+        <translation>Timeout nella ricerca del peer senza server.</translation>
     </message>
     <message>
         <source>Invalid serverless user@machine identity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Identità utente@macchina senza server non valida.</translation>
     </message>
     <message>
         <source>Cannot start serverless messaging on the selected network interface or port.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile avviare la messaggistica senza server sull&apos;interfaccia di rete o sulla porta selezionata.</translation>
     </message>
     <message>
         <source>Serverless discovery failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Scoperta senza server non riuscita.</translation>
     </message>
     <message>
         <source>This Iris build does not include JDNS serverless discovery.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questa build di Iris non include la scoperta senza server JDNS.</translation>
     </message>
     <message>
         <source>This user is no longer visible on the local network.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo utente non è più visibile sulla rete locale.</translation>
     </message>
     <message>
         <source>Too many pending serverless messages or connections.</source>
-        <translation type="unfinished"></translation>
+        <translation>Troppi messaggi o connessioni senza server in sospeso.</translation>
     </message>
 </context>
 <context>
     <name>XMPP::RemoteNameProvider</name>
     <message>
         <source>The connection to the DNS server was refused</source>
-        <translation type="unfinished"></translation>
+        <translation>La connessione al server DNS è stata rifiutata</translation>
     </message>
     <message>
         <source>The DNS server host was not found</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;host del server DNS non è stato trovato</translation>
     </message>
     <message>
         <source>Could not connect to the proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile connettersi al proxy</translation>
     </message>
     <message>
         <source>The proxy refused the connection to the DNS server</source>
-        <translation type="unfinished"></translation>
+        <translation>Il proxy ha rifiutato la connessione al server DNS</translation>
     </message>
     <message>
         <source>Proxy authentication failed</source>
@@ -21788,55 +21823,55 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>The connection to the DNS server failed</source>
-        <translation type="unfinished"></translation>
+        <translation>La connessione al server DNS non è riuscita</translation>
     </message>
     <message>
         <source>Invalid DNS server address</source>
-        <translation type="unfinished"></translation>
+        <translation>Indirizzo del server DNS non valido</translation>
     </message>
     <message>
         <source>The DNS resolver failed to start</source>
-        <translation type="unfinished"></translation>
+        <translation>Avvio del resolver DNS non riuscito</translation>
     </message>
     <message>
         <source>Could not start the DNS lookup</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile avviare la ricerca DNS</translation>
     </message>
     <message>
         <source>DNS server %1 did not answer in time</source>
-        <translation type="unfinished"></translation>
+        <translation>Il server DNS %1 non ha risposto in tempo</translation>
     </message>
     <message>
         <source>Unsupported proxy type for DNS</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo di proxy non supportato per il DNS</translation>
     </message>
     <message>
         <source>The connection to DNS server %1 was lost</source>
-        <translation type="unfinished"></translation>
+        <translation>La connessione al server DNS %1 è stata persa</translation>
     </message>
     <message>
         <source>TLS is not available for DNS over HTTPS</source>
-        <translation type="unfinished"></translation>
+        <translation>TLS non è disponibile per DNS su HTTPS</translation>
     </message>
     <message>
         <source>The certificate of DNS server %1 is not valid</source>
-        <translation type="unfinished"></translation>
+        <translation>Il certificato del server DNS %1 non è valido</translation>
     </message>
     <message>
         <source>TLS with DNS server %1 failed</source>
-        <translation type="unfinished"></translation>
+        <translation>TLS con il server DNS %1 non riuscito</translation>
     </message>
     <message>
         <source>Invalid HTTP reply from DNS server %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Risposta HTTP non valida dal server DNS %1</translation>
     </message>
     <message>
         <source>DNS server %1 answered with HTTP status %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Il server DNS %1 ha risposto con lo stato HTTP %2</translation>
     </message>
     <message>
         <source>Remote DNS is not available: Iris was built without JDNS</source>
-        <translation type="unfinished"></translation>
+        <translation>Il DNS remoto non è disponibile: Iris è stato compilato senza JDNS</translation>
     </message>
 </context>
 <context>
@@ -22015,7 +22050,7 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>The sender has violated some service policy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il mittente ha violato qualche criterio del servizio.</translation>
     </message>
 </context>
 <context>
@@ -22037,7 +22072,7 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>XMPP Console</source>
-        <translation type="unfinished"></translation>
+        <translation>Console XMPP</translation>
     </message>
 </context>
 <context>
@@ -22072,7 +22107,7 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>You have entered malformed XML input.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hai inserito un input XML malformato.</translation>
     </message>
 </context>
 <context>
@@ -22187,11 +22222,11 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -22202,11 +22237,11 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Known Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiavi note</translation>
     </message>
     <message>
         <source>Own Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Proprie chiavi</translation>
     </message>
 </context>
 <context>
@@ -22335,7 +22370,7 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>You received a message encrypted with OMEMO but your client doesn&apos;t support OMEMO or its support is currently disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hai ricevuto un messaggio cifrato con OMEMO, ma il tuo client non supporta OMEMO o il suo supporto è attualmente disabilitato.</translation>
     </message>
 </context>
 <context>
@@ -22378,31 +22413,31 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>OMEMO is an end-to-end encryption protocol that leverages the Double Ratchet encryption scheme to provide multi-end to multi-end encryption, allowing messages to be synchronized securely across multiple clients, even if some of them are offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO è un protocollo di cifratura end-to-end che sfrutta lo schema di cifratura Double Ratchet per fornire cifratura multi-terminale, consentendo ai messaggi di essere sincronizzati in modo sicuro tra più client, anche se alcuni di essi sono offline.</translation>
     </message>
     <message>
         <source>In comparison with OTR, the OMEMO protocol offers multi-users encrypted chat, safe message synchronization between user&apos;s devices, offline messages queuing, forward secrecy and file transfer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rispetto a OTR, il protocollo OMEMO offre chat cifrata multiutente, sincronizzazione sicura dei messaggi tra i dispositivi dell&apos;utente, accodamento dei messaggi offline, segretezza in avanti e trasferimento file.</translation>
     </message>
     <message>
         <source>OMEMO provides the following guarantees:</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO fornisce le seguenti garanzie:</translation>
     </message>
     <message>
         <source>Confidentiality</source>
-        <translation type="unfinished"></translation>
+        <translation>Riservatezza</translation>
     </message>
     <message>
         <source>Nobody else except sender and receiver is able to read the content of a message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessun altro oltre al mittente e al destinatario può leggere il contenuto di un messaggio.</translation>
     </message>
     <message>
         <source>Perfect forward secrecy</source>
-        <translation>Perfect forward secrecy</translation>
+        <translation>Perfetta segretezza in avanti</translation>
     </message>
     <message>
         <source>Compromised key material does not compromise previous or future message exchanges.</source>
-        <translation type="unfinished"></translation>
+        <translation>La compromissione del materiale delle chiavi non compromette gli scambi di messaggi precedenti o futuri.</translation>
     </message>
     <message>
         <source>Authentication</source>
@@ -22410,78 +22445,78 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Every peer is able to authenticate the sender or receiver of a message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogni peer è in grado di autenticare il mittente o il destinatario di un messaggio.</translation>
     </message>
     <message>
         <source>Immutability</source>
-        <translation type="unfinished"></translation>
+        <translation>Immutabilità</translation>
     </message>
     <message>
         <source>Every peer can ensure that a message was not changed by any intermediate node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogni peer può garantire che un messaggio non sia stato modificato da alcun nodo intermedio.</translation>
     </message>
     <message>
         <source>No participant can prove who created a specific message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessun partecipante può dimostrare chi ha creato un messaggio specifico.</translation>
     </message>
     <message>
         <source>Asynchronicity</source>
-        <translation type="unfinished"></translation>
+        <translation>Asincronicità</translation>
     </message>
     <message>
         <source>The usability of the protocol does not depend on the online status of any participant.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;usabilità del protocollo non dipende dallo stato online di alcun partecipante.</translation>
     </message>
     <message>
         <source>OMEMO is not intended to protect against the following use cases:</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO non è pensato per proteggere dai seguenti casi d&apos;uso:</translation>
     </message>
     <message>
         <source>* An attacker has permanent access to your device. (Temporary access is covered by perfect forward secrecy.)</source>
-        <translation type="unfinished"></translation>
+        <translation>* Un attaccante ha accesso permanente al tuo dispositivo. (L&apos;accesso temporaneo è coperto dalla perfetta segretezza in avanti.)</translation>
     </message>
     <message>
         <source>* You lost your device and an attacker can read messages on your notification screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>* Hai perso il dispositivo e un attaccante può leggere i messaggi sulla schermata di notifica.</translation>
     </message>
     <message>
         <source>* Any kind of denial-of-service attack.</source>
-        <translation type="unfinished"></translation>
+        <translation>* Qualsiasi tipo di attacco denial-of-service.</translation>
     </message>
     <message>
         <source>* etc.</source>
-        <translation type="unfinished"></translation>
+        <translation>* ecc.</translation>
     </message>
     <message>
         <source>Plausible deniability</source>
-        <translation type="unfinished"></translation>
+        <translation>Negabilità plausibile</translation>
     </message>
 </context>
 <context>
     <name>psiomemo::OmemoConfiguration</name>
     <message>
         <source>OMEMO encryption policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Criterio di cifratura OMEMO</translation>
     </message>
     <message>
         <source>Always enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Sempre abilitata</translation>
     </message>
     <message>
         <source>Enabled by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Abilitata per impostazione predefinita</translation>
     </message>
     <message>
         <source>Disabled by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Disabilitata per impostazione predefinita</translation>
     </message>
     <message>
         <source>Automatically mark new own devices as trusted</source>
-        <translation type="unfinished"></translation>
+        <translation>Contrassegna automaticamente come fidati i nuovi propri dispositivi</translation>
     </message>
     <message>
         <source>Automatically mark new interlocutors devices as trusted</source>
-        <translation type="unfinished"></translation>
+        <translation>Contrassegna automaticamente come fidati i nuovi dispositivi degli interlocutori</translation>
     </message>
 </context>
 <context>
@@ -22627,11 +22662,11 @@ Dovresti autenticare anche %1 ponendo la tua domanda.</translation>
     </message>
     <message>
         <source>Known Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiavi note</translation>
     </message>
     <message>
         <source>Own Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Proprie chiavi</translation>
     </message>
 </context>
 <context>
@@ -22662,7 +22697,7 @@ Dovresti autenticare anche %1 ponendo la tua domanda.</translation>
     </message>
     <message>
         <source>OTR encryption policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Criterio di cifratura OTR</translation>
     </message>
 </context>
 <context>
@@ -22886,7 +22921,7 @@ Dovresti autenticare anche %1 ponendo la tua domanda.</translation>
     </message>
     <message>
         <source>Perfect forward secrecy</source>
-        <translation>Perfect forward secrecy</translation>
+        <translation>Perfetta segretezza in avanti</translation>
     </message>
     <message>
         <source>If you lose control of your private keys, no previous conversation is compromised.</source>
@@ -22954,55 +22989,55 @@ Dovresti autenticare anche %1 ponendo la tua domanda.</translation>
     </message>
     <message>
         <source>For further information, see &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Per ulteriori informazioni, vedi &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</translation>
     </message>
     <message>
         <source>Off-the-Record Messaging (OTR) is a cryptographic protocol that provides encryption for instant messaging conversations. In addition to authentication and encryption, OTR provides forward secrecy and malleable encryption.</source>
-        <translation type="unfinished"></translation>
+        <translation>Off-the-Record Messaging (OTR) è un protocollo crittografico che fornisce cifratura per le conversazioni di messaggistica istantanea. Oltre all&apos;autenticazione e alla cifratura, OTR offre segretezza in avanti e cifratura malleabile.</translation>
     </message>
     <message>
         <source>OTR features:</source>
-        <translation type="unfinished"></translation>
+        <translation>Funzionalità OTR:</translation>
     </message>
     <message>
         <source>* Fast and easy update of encryption keys.</source>
-        <translation type="unfinished"></translation>
+        <translation>* Aggiornamento rapido e semplice delle chiavi di cifratura.</translation>
     </message>
     <message>
         <source>* Simple and convenient authentication of interlocutor without necessity of comparing public key fingerprints through an outside communication channel.</source>
-        <translation type="unfinished"></translation>
+        <translation>* Autenticazione semplice e comoda dell&apos;interlocutore senza la necessità di confrontare le impronte digitali delle chiavi pubbliche tramite un canale di comunicazione esterno.</translation>
     </message>
     <message>
         <source>OTR limitations:</source>
-        <translation type="unfinished"></translation>
+        <translation>Limitazioni OTR:</translation>
     </message>
     <message>
         <source>* No support of offline messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>* Nessun supporto per i messaggi offline.</translation>
     </message>
     <message>
         <source>* No support of carbon copies to other XMPP resources.</source>
-        <translation type="unfinished"></translation>
+        <translation>* Nessun supporto per le copie carbone verso altre risorse XMPP.</translation>
     </message>
     <message>
         <source>* No support of multi-user chats.</source>
-        <translation type="unfinished"></translation>
+        <translation>* Nessun supporto per le chat multiutente.</translation>
     </message>
     <message>
         <source>* No support of file transfer.</source>
-        <translation type="unfinished"></translation>
+        <translation>* Nessun supporto per il trasferimento file.</translation>
     </message>
     <message>
         <source>OTR provides the following guarantees:</source>
-        <translation type="unfinished"></translation>
+        <translation>OTR fornisce le seguenti garanzie:</translation>
     </message>
     <message>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages (s)he sees are authentic and unmodified.</source>
-        <translation type="unfinished"></translation>
+        <translation>I messaggi che invii non hanno firme digitali verificabili da terzi. Chiunque può falsificare messaggi dopo una conversazione per farli sembrare provenienti da te. Tuttavia, durante una conversazione, il tuo interlocutore ha la garanzia che i messaggi che vede siano autentici e non modificati.</translation>
     </message>
     <message>
         <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows one to use it for protecting conversations via XMPP transports (to Telegram, Skype, VK, QQ and other networks).</source>
-        <translation type="unfinished"></translation>
+        <translation>Rispetto a OpenPGP e OMEMO, il protocollo OTR non dipende da strutture specifiche di XMPP, il che consente di usarlo per proteggere le conversazioni tramite i trasporti XMPP (verso Telegram, Skype, VK, QQ e altre reti).</translation>
     </message>
 </context>
 <context>
@@ -23117,7 +23152,7 @@ a questo messaggio in juick@conference.jabber.ru</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -23443,7 +23478,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</translation>
     </message>
 </context>
 </TS>
