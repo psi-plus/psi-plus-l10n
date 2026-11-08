@@ -2182,7 +2182,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Fermer</translation>
+        <translation>Fermer</translation>
     </message>
     <message>
         <source>Close call window</source>
@@ -2234,7 +2234,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>Cancel call</source>
@@ -2282,7 +2282,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Call ended</source>
-        <translation type="unfinished">Appel terminé</translation>
+        <translation>Appel terminé</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -2629,7 +2629,7 @@ Voulez-vous quand-même fermer la fenêtre ?</translation>
     <name>ChatEditProxy</name>
     <message>
         <source>Reply</source>
-        <translation type="unfinished">Répondre</translation>
+        <translation>Répondre</translation>
     </message>
     <message>
         <source>Reply to %1</source>
@@ -3417,7 +3417,7 @@ Note : afin de fonctionner correctement, la barre d&apos;outils du salon doit ê
     </message>
     <message>
         <source>Blocked Contacts</source>
-        <translation type="unfinished">Contacts bloqués</translation>
+        <translation>Contacts bloqués</translation>
     </message>
     <message>
         <source>Server blocklist (XEP-0191)</source>
@@ -3429,7 +3429,7 @@ Note : afin de fonctionner correctement, la barre d&apos;outils du salon doit ê
     </message>
     <message>
         <source>Unblock</source>
-        <translation type="unfinished">Débloquer</translation>
+        <translation>Débloquer</translation>
     </message>
     <message>
         <source>Block JID</source>
@@ -3779,7 +3779,7 @@ Continuer ?</translation>
     </message>
     <message>
         <source>Player:</source>
-        <translation type="unfinished">Lecteur :</translation>
+        <translation>Lecteur :</translation>
     </message>
     <message>
         <source>Choose media player executable</source>
@@ -3942,7 +3942,7 @@ Continuer ?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Erreur</translation>
+        <translation>Erreur</translation>
     </message>
 </context>
 <context>
@@ -5907,7 +5907,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>User Info</source>
-        <translation type="unfinished">Infos du contact</translation>
+        <translation>Infos du contact</translation>
     </message>
     <message>
         <source>Open Chat Window</source>
@@ -8797,11 +8797,11 @@ Russie, Tambov, 2005 (denis@silversoft.net)</translation>
     <name>MamChatWidget</name>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copier</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>Add reaction</source>
@@ -8829,7 +8829,7 @@ Russie, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation type="unfinished">Message</translation>
+        <translation>Message</translation>
     </message>
     <message>
         <source>Read</source>
@@ -8882,7 +8882,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Open file</source>
-        <translation type="unfinished">Ouvrir le fichier</translation>
+        <translation>Ouvrir le fichier</translation>
     </message>
     <message>
         <source>Show in file manager</source>
@@ -8944,7 +8944,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Quote</source>
-        <translation type="unfinished">Citation</translation>
+        <translation>Citation</translation>
     </message>
     <message>
         <source>The message has no reply identifier assigned by its sender or room.</source>
@@ -8956,7 +8956,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Avancer</translation>
+        <translation>Avancer</translation>
     </message>
     <message>
         <source>Copy image</source>
@@ -9326,11 +9326,11 @@ Détails : %1</translation>
     <name>NativeChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
-        <translation type="unfinished">Style des messages du salon</translation>
+        <translation>Style des messages du salon</translation>
     </message>
     <message>
         <source>Chat Message Style</source>
-        <translation type="unfinished">Style des messages</translation>
+        <translation>Style des messages</translation>
     </message>
     <message>
         <source>Choose the native message layout</source>
@@ -12526,7 +12526,7 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Rafraîchir</translation>
+        <translation>Rafraîchir</translation>
     </message>
     <message>
         <source>Network interface:</source>
@@ -12550,7 +12550,7 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished"></translation>
+        <translation>Etat:</translation>
     </message>
     <message>
         <source>Automatic (active local network)</source>
@@ -12558,7 +12558,7 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2) </translation>
     </message>
     <message>
         <source>%1 (unavailable)</source>
@@ -12570,7 +12570,7 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished">Désactivé</translation>
+        <translation>Désactivé</translation>
     </message>
     <message>
         <source>Online on the local network</source>
@@ -12582,7 +12582,7 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Hors-ligne</translation>
+        <translation>Hors-ligne</translation>
     </message>
     <message>
         <source>Local network</source>
@@ -12805,7 +12805,7 @@ notifications pour les mails non lus.</translation>
     <name>OptionsTabXmppAccounts</name>
     <message>
         <source>XMPP</source>
-        <translation type="unfinished">XMPP</translation>
+        <translation>XMPP</translation>
     </message>
     <message>
         <source>Server accounts</source>
@@ -13990,7 +13990,7 @@ Cochez la case &lt;i&gt;Activer les émoticônes&lt;/i&gt; si vous voulez qu&apo
     </message>
     <message>
         <source>Delete Profile</source>
-        <translation type="unfinished">Supprimer le profil</translation>
+        <translation>Supprimer le profil</translation>
     </message>
     <message>
         <source>Delete profile &quot;%1&quot;?
@@ -14109,7 +14109,7 @@ All of its message history, settings, and cached files will be deleted.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Aucun</translation>
+        <translation>Aucun</translation>
     </message>
     <message>
         <source>DNS over HTTPS</source>
@@ -14564,7 +14564,7 @@ Cause: %1.</translation>
     </message>
     <message>
         <source>Unsupported</source>
-        <translation type="unfinished">Non supporté</translation>
+        <translation>Non supporté</translation>
     </message>
     <message>
         <source>Group chat whiteboards are not supported yet.</source>
@@ -15280,7 +15280,7 @@ Cause: %1.</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished">Appel vocal</translation>
+        <translation>Appel vocal</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -15750,11 +15750,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Whiteboard invitation</source>
-        <translation type="unfinished">Invitation au tableau blanc</translation>
+        <translation>Invitation au tableau blanc</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished">Accepter</translation>
+        <translation>Accepter</translation>
     </message>
     <message>
         <source>Decline</source>
@@ -16189,7 +16189,7 @@ Would you like to activate that session now?</source>
     <name>PsiPopup::Private</name>
     <message>
         <source>Accept</source>
-        <translation type="unfinished">Accepter</translation>
+        <translation>Accepter</translation>
     </message>
     <message>
         <source>Decline</source>
@@ -17940,7 +17940,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished">Terminé</translation>
+        <translation>Terminé</translation>
     </message>
     <message>
         <source>Failed</source>
@@ -20634,15 +20634,15 @@ Do you still want to close the window?</source>
     <name>WbView</name>
     <message>
         <source>Save session</source>
-        <translation type="unfinished">Enregistrer la session</translation>
+        <translation>Enregistrer la session</translation>
     </message>
     <message>
         <source>Save the contents of the whiteboard</source>
-        <translation type="unfinished">Enregistrer le contenu du tableau blanc</translation>
+        <translation>Enregistrer le contenu du tableau blanc</translation>
     </message>
     <message>
         <source>Change the geometry</source>
-        <translation type="unfinished">Changer la géométrie</translation>
+        <translation>Changer la géométrie</translation>
     </message>
     <message>
         <source>Clear the whiteboard for everyone</source>
@@ -20650,23 +20650,23 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Clear the whiteboard</source>
-        <translation type="unfinished">Vider le tableau blanc</translation>
+        <translation>Vider le tableau blanc</translation>
     </message>
     <message>
         <source>Stroke color</source>
-        <translation type="unfinished">Couleur de pinceau</translation>
+        <translation>Couleur de pinceau</translation>
     </message>
     <message>
         <source>Fill color</source>
-        <translation type="unfinished">Remplir la couleur</translation>
+        <translation>Remplir la couleur</translation>
     </message>
     <message>
         <source>Stroke width</source>
-        <translation type="unfinished">largeur du pinceau</translation>
+        <translation>largeur du pinceau</translation>
     </message>
     <message>
         <source>Edit mode</source>
-        <translation type="unfinished">Mode édition</translation>
+        <translation>Mode édition</translation>
     </message>
     <message>
         <source>Import SVG</source>
@@ -20678,27 +20678,27 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Thin stroke</source>
-        <translation type="unfinished">Pinceau fin</translation>
+        <translation>Pinceau fin</translation>
     </message>
     <message>
         <source>Medium stroke</source>
-        <translation type="unfinished">Pinceau moyen</translation>
+        <translation>Pinceau moyen</translation>
     </message>
     <message>
         <source>Thick stroke</source>
-        <translation type="unfinished">Pinceau large</translation>
+        <translation>Pinceau large</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2) </translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished">Sélectionner</translation>
+        <translation>Sélectionner</translation>
     </message>
     <message>
         <source>Draw paths</source>
-        <translation type="unfinished">Dessiner des chemins</translation>
+        <translation>Dessiner des chemins</translation>
     </message>
     <message>
         <source>Draw lines</source>
@@ -20722,11 +20722,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Add images</source>
-        <translation type="unfinished">Ajouter des images</translation>
+        <translation>Ajouter des images</translation>
     </message>
     <message>
         <source>Erase</source>
-        <translation type="unfinished">Effacer</translation>
+        <translation>Effacer</translation>
     </message>
     <message>
         <source>Controls</source>
@@ -20738,7 +20738,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Whiteboard toolbar</source>
-        <translation type="unfinished">Barre d&apos;outils du tableau blanc</translation>
+        <translation>Barre d&apos;outils du tableau blanc</translation>
     </message>
     <message>
         <source>Right-click or Control-click</source>
@@ -20806,7 +20806,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Outils</translation>
+        <translation>Outils</translation>
     </message>
     <message>
         <source>V select, P pen, L line, R rectangle, O ellipse, D rhombus, T text, I image, E eraser</source>
@@ -20870,7 +20870,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Scale</source>
-        <translation type="unfinished">Echelle</translation>
+        <translation>Echelle</translation>
     </message>
     <message>
         <source>%1 + %2 + drag the selection, or + and −</source>
@@ -20878,7 +20878,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Tourner</translation>
     </message>
     <message>
         <source>%1, %2 + wheel, or , and . (15°), &lt; and &gt; (1°)</source>
@@ -20890,7 +20890,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Supprimer</translation>
+        <translation>Supprimer</translation>
     </message>
     <message>
         <source>Delete or Backspace</source>
@@ -20926,7 +20926,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Afficher</translation>
+        <translation>Afficher</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -20962,19 +20962,19 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Set new width:</source>
-        <translation type="unfinished">Choisir la nouvelle largeur:</translation>
+        <translation>Choisir la nouvelle largeur:</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished">Largeur:</translation>
+        <translation>Largeur:</translation>
     </message>
     <message>
         <source>Set new height:</source>
-        <translation type="unfinished">Choisir la nouvelle hauteur:</translation>
+        <translation>Choisir la nouvelle hauteur:</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished">Hauteur:</translation>
+        <translation>Hauteur:</translation>
     </message>
     <message>
         <source>Save Whiteboard</source>
@@ -20982,7 +20982,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="unfinished">Scalable Vector Graphics (*.svg)</translation>
+        <translation>Scalable Vector Graphics (*.svg)</translation>
     </message>
     <message>
         <source>The file is not an SVG document.</source>
@@ -20993,7 +20993,7 @@ Do you still want to close the window?</source>
     <name>WbWidget</name>
     <message>
         <source>Choose an image</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisir une image</translation>
     </message>
     <message>
         <source>Images (*.png *.jpg *.jpeg *.gif *.bmp *.webp)</source>
@@ -21005,7 +21005,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Autres :</translation>
     </message>
 </context>
 <context>
@@ -21238,7 +21238,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Proxy authentication failed</source>
-        <translation type="unfinished">Echec de l&apos;authentification au proxy</translation>
+        <translation>Echec de l&apos;authentification au proxy</translation>
     </message>
     <message>
         <source>The connection to the DNS server failed</source>

@@ -2011,7 +2011,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Жабу</translation>
+        <translation>Жабу</translation>
     </message>
     <message>
         <source>Close call window</source>
@@ -2063,7 +2063,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Бас тарту</translation>
+        <translation>Бас тарту</translation>
     </message>
     <message>
         <source>Cancel call</source>
@@ -2111,7 +2111,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Call ended</source>
-        <translation type="unfinished">Қоңырау аяқталған</translation>
+        <translation>Қоңырау аяқталған</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -3072,7 +3072,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Blocked Contacts</source>
-        <translation type="unfinished">Блокталған контакттар</translation>
+        <translation>Блокталған контакттар</translation>
     </message>
     <message>
         <source>Server blocklist (XEP-0191)</source>
@@ -3569,7 +3569,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Қате</translation>
+        <translation>Қате</translation>
     </message>
 </context>
 <context>
@@ -5427,7 +5427,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>User Info</source>
-        <translation type="unfinished">Пайдаланушы ақпараты</translation>
+        <translation>Пайдаланушы ақпараты</translation>
     </message>
     <message>
         <source>Open Chat Window</source>
@@ -7945,7 +7945,7 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Бас тарту</translation>
+        <translation>Бас тарту</translation>
     </message>
     <message>
         <source>Add reaction</source>
@@ -7973,7 +7973,7 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>Message</source>
-        <translation type="unfinished">Хабарлама</translation>
+        <translation>Хабарлама</translation>
     </message>
     <message>
         <source>Read</source>
@@ -8100,7 +8100,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Алға</translation>
+        <translation>Алға</translation>
     </message>
     <message>
         <source>Copy image</source>
@@ -11480,7 +11480,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished">Қалып-күйі:</translation>
+        <translation>Қалып-күйі:</translation>
     </message>
     <message>
         <source>Automatic (active local network)</source>
@@ -11488,7 +11488,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>%1 (unavailable)</source>
@@ -11512,7 +11512,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Желіде емес</translation>
+        <translation>Желіде емес</translation>
     </message>
     <message>
         <source>Local network</source>
@@ -11731,7 +11731,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <name>OptionsTabXmppAccounts</name>
     <message>
         <source>XMPP</source>
-        <translation type="unfinished">XMPP</translation>
+        <translation>XMPP</translation>
     </message>
     <message>
         <source>Server accounts</source>
@@ -12890,7 +12890,7 @@ All of its message history, settings, and cached files will be deleted.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Ешнәрсе</translation>
+        <translation>Ешнәрсе</translation>
     </message>
     <message>
         <source>DNS over HTTPS</source>
@@ -14009,7 +14009,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished">Дауыс қоңырауы</translation>
+        <translation>Дауыс қоңырауы</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -14466,7 +14466,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished">Қабылдау</translation>
+        <translation>Қабылдау</translation>
     </message>
     <message>
         <source>Decline</source>
@@ -14882,7 +14882,7 @@ Would you like to activate that session now?</source>
     <name>PsiPopup::Private</name>
     <message>
         <source>Accept</source>
-        <translation type="unfinished">Қабылдау</translation>
+        <translation>Қабылдау</translation>
     </message>
     <message>
         <source>Decline</source>
@@ -19016,7 +19016,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Fill color</source>
-        <translation type="unfinished">Толтырудың түсi</translation>
+        <translation>Толтырудың түсi</translation>
     </message>
     <message>
         <source>Stroke width</source>
@@ -19048,11 +19048,11 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished">Таңдау</translation>
+        <translation>Таңдау</translation>
     </message>
     <message>
         <source>Draw paths</source>
@@ -19084,7 +19084,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Erase</source>
-        <translation type="unfinished">Өшіру</translation>
+        <translation>Өшіру</translation>
     </message>
     <message>
         <source>Controls</source>
@@ -19164,7 +19164,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Саймандар</translation>
+        <translation>Саймандар</translation>
     </message>
     <message>
         <source>V select, P pen, L line, R rectangle, O ellipse, D rhombus, T text, I image, E eraser</source>
@@ -19228,7 +19228,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Scale</source>
-        <translation type="unfinished">Масштабтау</translation>
+        <translation>Масштабтау</translation>
     </message>
     <message>
         <source>%1 + %2 + drag the selection, or + and −</source>
@@ -19236,7 +19236,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished">Бұру</translation>
+        <translation>Бұру</translation>
     </message>
     <message>
         <source>%1, %2 + wheel, or , and . (15°), &lt; and &gt; (1°)</source>
@@ -19248,7 +19248,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Өшіру</translation>
+        <translation>Өшіру</translation>
     </message>
     <message>
         <source>Delete or Backspace</source>
@@ -19320,19 +19320,19 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Set new width:</source>
-        <translation type="unfinished">Жаңа енін орнату:</translation>
+        <translation>Жаңа енін орнату:</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished">Ені:</translation>
+        <translation>Ені:</translation>
     </message>
     <message>
         <source>Set new height:</source>
-        <translation type="unfinished">Жаңа биіктігін орнату:</translation>
+        <translation>Жаңа биіктігін орнату:</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished">Биіктігі:</translation>
+        <translation>Биіктігі:</translation>
     </message>
     <message>
         <source>Save Whiteboard</source>
@@ -19351,7 +19351,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     <name>WbWidget</name>
     <message>
         <source>Choose an image</source>
-        <translation type="unfinished"></translation>
+        <translation>Суретті таңдаңыз</translation>
     </message>
     <message>
         <source>Images (*.png *.jpg *.jpeg *.gif *.bmp *.webp)</source>
@@ -19363,7 +19363,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Text:</source>
-        <translation type="unfinished">Мәтін:</translation>
+        <translation>Мәтін:</translation>
     </message>
 </context>
 <context>

@@ -2187,7 +2187,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezárás</translation>
     </message>
     <message>
         <source>Close call window</source>
@@ -2239,7 +2239,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Mégsem</translation>
+        <translation>Mégsem</translation>
     </message>
     <message>
         <source>Cancel call</source>
@@ -2287,7 +2287,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Call ended</source>
-        <translation type="unfinished">Hívás befejezve</translation>
+        <translation>Hívás befejezve</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -2634,7 +2634,7 @@ Biztosan be akarod zárni az ablakot?</translation>
     <name>ChatEditProxy</name>
     <message>
         <source>Reply</source>
-        <translation type="unfinished">Válasz</translation>
+        <translation>Válasz</translation>
     </message>
     <message>
         <source>Reply to %1</source>
@@ -3435,7 +3435,7 @@ Megjegyzés: A helyes működéshez a Csoportbeszélgetés Eszköztárat be kell
     </message>
     <message>
         <source>Unblock</source>
-        <translation type="unfinished">Feloldás</translation>
+        <translation>Feloldás</translation>
     </message>
     <message>
         <source>Block JID</source>
@@ -3786,7 +3786,7 @@ Folytatod?</translation>
     </message>
     <message>
         <source>Player:</source>
-        <translation type="unfinished">Lejátszó:</translation>
+        <translation>Lejátszó:</translation>
     </message>
     <message>
         <source>Choose media player executable</source>
@@ -3949,7 +3949,7 @@ Folytatod?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Hiba</translation>
+        <translation>Hiba</translation>
     </message>
 </context>
 <context>
@@ -5924,7 +5924,7 @@ Oka: %1</translation>
     </message>
     <message>
         <source>User Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Felhasználó adatai</translation>
     </message>
     <message>
         <source>Open Chat Window</source>
@@ -8884,11 +8884,11 @@ Oroszország, Tambov, 2005 (denis@silversoft.net)</translation>
     <name>MamChatWidget</name>
     <message>
         <source>Copy</source>
-        <translation type="unfinished">Másolás</translation>
+        <translation>Másolás</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Mégsem</translation>
+        <translation>Mégsem</translation>
     </message>
     <message>
         <source>Add reaction</source>
@@ -8916,7 +8916,7 @@ Oroszország, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation type="unfinished">Üzenet</translation>
+        <translation>Üzenet</translation>
     </message>
     <message>
         <source>Read</source>
@@ -8969,7 +8969,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Open file</source>
-        <translation type="unfinished">Fájl megnyitása</translation>
+        <translation>Fájl megnyitása</translation>
     </message>
     <message>
         <source>Show in file manager</source>
@@ -8981,7 +8981,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation type="unfinished">Megnyitás a böngészőben</translation>
+        <translation>Megnyitás a böngészőben</translation>
     </message>
     <message>
         <source>Cancel download</source>
@@ -9029,7 +9029,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Quote</source>
-        <translation type="unfinished">Idézet</translation>
+        <translation>Idézet</translation>
     </message>
     <message>
         <source>The message has no reply identifier assigned by its sender or room.</source>
@@ -9041,7 +9041,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Előre</translation>
+        <translation>Előre</translation>
     </message>
     <message>
         <source>Copy image</source>
@@ -9411,11 +9411,11 @@ Részletek: %1</translation>
     <name>NativeChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
-        <translation type="unfinished">Csoportbeszélgetés-üzenet stílusa</translation>
+        <translation>Csoportbeszélgetés-üzenet stílusa</translation>
     </message>
     <message>
         <source>Chat Message Style</source>
-        <translation type="unfinished">Beszélgetés stílusa</translation>
+        <translation>Beszélgetés stílusa</translation>
     </message>
     <message>
         <source>Choose the native message layout</source>
@@ -12679,7 +12679,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Frissítés</translation>
+        <translation>Frissítés</translation>
     </message>
     <message>
         <source>Network interface:</source>
@@ -12703,7 +12703,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished">Állapot:</translation>
+        <translation>Állapot:</translation>
     </message>
     <message>
         <source>Automatic (active local network)</source>
@@ -12711,7 +12711,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>%1 (unavailable)</source>
@@ -12723,7 +12723,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished">Letiltva</translation>
+        <translation>Letiltva</translation>
     </message>
     <message>
         <source>Online on the local network</source>
@@ -12735,7 +12735,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Kijelentkezve</translation>
+        <translation>Kijelentkezve</translation>
     </message>
     <message>
         <source>Local network</source>
@@ -12962,7 +12962,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     <name>OptionsTabXmppAccounts</name>
     <message>
         <source>XMPP</source>
-        <translation type="unfinished">XMPP</translation>
+        <translation>XMPP</translation>
     </message>
     <message>
         <source>Server accounts</source>
@@ -14183,7 +14183,7 @@ Jelöld be a &lt;i&gt;Hangulatjelek engedélyezése&lt;/i&gt; opciót, ha szeret
     </message>
     <message>
         <source>Delete Profile</source>
-        <translation type="unfinished">Profil törlése</translation>
+        <translation>Profil törlése</translation>
     </message>
     <message>
         <source>Delete profile &quot;%1&quot;?
@@ -14302,7 +14302,7 @@ All of its message history, settings, and cached files will be deleted.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs</translation>
     </message>
     <message>
         <source>DNS over HTTPS</source>
@@ -14757,7 +14757,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Unsupported</source>
-        <translation type="unfinished">Nem támogatott</translation>
+        <translation>Nem támogatott</translation>
     </message>
     <message>
         <source>Group chat whiteboards are not supported yet.</source>
@@ -15473,7 +15473,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished"></translation>
+        <translation>Hívás</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -15943,11 +15943,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Whiteboard invitation</source>
-        <translation type="unfinished">Rajztáblameghívás</translation>
+        <translation>Rajztáblameghívás</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished">Elfogadás</translation>
+        <translation>Elfogadás</translation>
     </message>
     <message>
         <source>Decline</source>
@@ -16383,7 +16383,7 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
     <name>PsiPopup::Private</name>
     <message>
         <source>Accept</source>
-        <translation type="unfinished">Elfogadás</translation>
+        <translation>Elfogadás</translation>
     </message>
     <message>
         <source>Decline</source>
@@ -18170,7 +18170,7 @@ Türelmét köszönjük.</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished">Kész</translation>
+        <translation>Kész</translation>
     </message>
     <message>
         <source>Failed</source>
@@ -20887,15 +20887,15 @@ Ablak bezárása mégis?</translation>
     <name>WbView</name>
     <message>
         <source>Save session</source>
-        <translation type="unfinished">Munkamenet mentése</translation>
+        <translation>Munkamenet mentése</translation>
     </message>
     <message>
         <source>Save the contents of the whiteboard</source>
-        <translation type="unfinished">Rajztábla tartalmának mentése</translation>
+        <translation>Rajztábla tartalmának mentése</translation>
     </message>
     <message>
         <source>Change the geometry</source>
-        <translation type="unfinished">Geometria megváltoztatása</translation>
+        <translation>Geometria megváltoztatása</translation>
     </message>
     <message>
         <source>Clear the whiteboard for everyone</source>
@@ -20903,23 +20903,23 @@ Ablak bezárása mégis?</translation>
     </message>
     <message>
         <source>Clear the whiteboard</source>
-        <translation type="unfinished">Rajztábla ürítése</translation>
+        <translation>Rajztábla ürítése</translation>
     </message>
     <message>
         <source>Stroke color</source>
-        <translation type="unfinished">Kiemelés színe</translation>
+        <translation>Kiemelés színe</translation>
     </message>
     <message>
         <source>Fill color</source>
-        <translation type="unfinished">Kitöltés színe</translation>
+        <translation>Kitöltés színe</translation>
     </message>
     <message>
         <source>Stroke width</source>
-        <translation type="unfinished">Kiemelés vastagsága</translation>
+        <translation>Kiemelés vastagsága</translation>
     </message>
     <message>
         <source>Edit mode</source>
-        <translation type="unfinished">Szerkesztési mód</translation>
+        <translation>Szerkesztési mód</translation>
     </message>
     <message>
         <source>Import SVG</source>
@@ -20931,27 +20931,27 @@ Ablak bezárása mégis?</translation>
     </message>
     <message>
         <source>Thin stroke</source>
-        <translation type="unfinished">Vékony vonal</translation>
+        <translation>Vékony vonal</translation>
     </message>
     <message>
         <source>Medium stroke</source>
-        <translation type="unfinished">Közepes vonal</translation>
+        <translation>Közepes vonal</translation>
     </message>
     <message>
         <source>Thick stroke</source>
-        <translation type="unfinished">Vastag vonal</translation>
+        <translation>Vastag vonal</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiválasztás</translation>
     </message>
     <message>
         <source>Draw paths</source>
-        <translation type="unfinished">Útrajzolás</translation>
+        <translation>Útrajzolás</translation>
     </message>
     <message>
         <source>Draw lines</source>
@@ -20975,11 +20975,11 @@ Ablak bezárása mégis?</translation>
     </message>
     <message>
         <source>Add images</source>
-        <translation type="unfinished">Kép hozzáadása</translation>
+        <translation>Kép hozzáadása</translation>
     </message>
     <message>
         <source>Erase</source>
-        <translation type="unfinished">Törlés</translation>
+        <translation>Törlés</translation>
     </message>
     <message>
         <source>Controls</source>
@@ -20991,7 +20991,7 @@ Ablak bezárása mégis?</translation>
     </message>
     <message>
         <source>Whiteboard toolbar</source>
-        <translation type="unfinished">Rajztábla eszköztár</translation>
+        <translation>Rajztábla eszköztár</translation>
     </message>
     <message>
         <source>Right-click or Control-click</source>
@@ -21059,7 +21059,7 @@ Ablak bezárása mégis?</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Eszközök</translation>
+        <translation>Eszközök</translation>
     </message>
     <message>
         <source>V select, P pen, L line, R rectangle, O ellipse, D rhombus, T text, I image, E eraser</source>
@@ -21123,7 +21123,7 @@ Ablak bezárása mégis?</translation>
     </message>
     <message>
         <source>Scale</source>
-        <translation type="unfinished">Méretezés</translation>
+        <translation>Méretezés</translation>
     </message>
     <message>
         <source>%1 + %2 + drag the selection, or + and −</source>
@@ -21131,7 +21131,7 @@ Ablak bezárása mégis?</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished">Forgatás</translation>
+        <translation>Forgatás</translation>
     </message>
     <message>
         <source>%1, %2 + wheel, or , and . (15°), &lt; and &gt; (1°)</source>
@@ -21143,7 +21143,7 @@ Ablak bezárása mégis?</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Törlés</translation>
+        <translation>Törlés</translation>
     </message>
     <message>
         <source>Delete or Backspace</source>
@@ -21179,7 +21179,7 @@ Ablak bezárása mégis?</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Nézet</translation>
+        <translation>Nézet</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -21215,19 +21215,19 @@ Ablak bezárása mégis?</translation>
     </message>
     <message>
         <source>Set new width:</source>
-        <translation type="unfinished">Új szélesség beállítása:</translation>
+        <translation>Új szélesség beállítása:</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished">Szélesség:</translation>
+        <translation>Szélesség:</translation>
     </message>
     <message>
         <source>Set new height:</source>
-        <translation type="unfinished">Új magasság beállítása:</translation>
+        <translation>Új magasság beállítása:</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished">Magasság:</translation>
+        <translation>Magasság:</translation>
     </message>
     <message>
         <source>Save Whiteboard</source>
@@ -21235,7 +21235,7 @@ Ablak bezárása mégis?</translation>
     </message>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="unfinished">Scalable Vector Graphics (*.svg)</translation>
+        <translation>Scalable Vector Graphics (*.svg)</translation>
     </message>
     <message>
         <source>The file is not an SVG document.</source>
@@ -21246,7 +21246,7 @@ Ablak bezárása mégis?</translation>
     <name>WbWidget</name>
     <message>
         <source>Choose an image</source>
-        <translation type="unfinished"></translation>
+        <translation>Válassz egy képet</translation>
     </message>
     <message>
         <source>Images (*.png *.jpg *.jpeg *.gif *.bmp *.webp)</source>
@@ -21258,7 +21258,7 @@ Ablak bezárása mégis?</translation>
     </message>
     <message>
         <source>Text:</source>
-        <translation type="unfinished">Szöveg:</translation>
+        <translation>Szöveg:</translation>
     </message>
 </context>
 <context>
@@ -21491,7 +21491,7 @@ Ablak bezárása mégis?</translation>
     </message>
     <message>
         <source>Proxy authentication failed</source>
-        <translation type="unfinished">Proxyhitelesítés nem sikerült</translation>
+        <translation>Proxyhitelesítés nem sikerült</translation>
     </message>
     <message>
         <source>The connection to the DNS server failed</source>

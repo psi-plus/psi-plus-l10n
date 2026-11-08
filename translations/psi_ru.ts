@@ -2253,7 +2253,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Закрыть</translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>Close call window</source>
@@ -2305,7 +2305,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отмена</translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>Cancel call</source>
@@ -2353,7 +2353,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Call ended</source>
-        <translation type="unfinished">Вызов завершён</translation>
+        <translation>Вызов завершён</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -2701,7 +2701,7 @@ Do you still want to close the window?</source>
     <name>ChatEditProxy</name>
     <message>
         <source>Reply</source>
-        <translation type="unfinished">Ответить</translation>
+        <translation>Ответить</translation>
     </message>
     <message>
         <source>Reply to %1</source>
@@ -3495,7 +3495,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Blocked Contacts</source>
-        <translation type="unfinished">Заблокированные контакты</translation>
+        <translation>Заблокированные контакты</translation>
     </message>
     <message>
         <source>Server blocklist (XEP-0191)</source>
@@ -3507,7 +3507,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Unblock</source>
-        <translation type="unfinished">Разблокировать</translation>
+        <translation>Разблокировать</translation>
     </message>
     <message>
         <source>Block JID</source>
@@ -3858,7 +3858,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Player:</source>
-        <translation type="unfinished">Проигрыватель:</translation>
+        <translation>Проигрыватель:</translation>
     </message>
     <message>
         <source>Choose media player executable</source>
@@ -4021,7 +4021,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Ошибка</translation>
+        <translation>Ошибка</translation>
     </message>
 </context>
 <context>
@@ -5360,7 +5360,7 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>Published on HttpUpload service</source>
-        <translation type="unfinished">Опубликовано через сервис HttpUpload</translation>
+        <translation>Опубликовано через сервис HttpUpload</translation>
     </message>
     <message>
         <source>Failed to publish on HttpUpload service: %1</source>
@@ -6009,7 +6009,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>User Info</source>
-        <translation type="unfinished">vCard</translation>
+        <translation>vCard</translation>
     </message>
     <message>
         <source>Open Chat Window</source>
@@ -9021,11 +9021,11 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     <name>MamChatWidget</name>
     <message>
         <source>Copy</source>
-        <translation type="unfinished">Копировать</translation>
+        <translation>Копировать</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отмена</translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>Add reaction</source>
@@ -9053,7 +9053,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     </message>
     <message>
         <source>Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Сообщения</translation>
     </message>
     <message>
         <source>Read</source>
@@ -9077,7 +9077,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     </message>
     <message>
         <source>The message was corrected</source>
-        <translation type="unfinished">Сообщение отредактировано</translation>
+        <translation>Сообщение отредактировано</translation>
     </message>
     <message>
         <source>Edited message</source>
@@ -9106,7 +9106,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Open file</source>
-        <translation type="unfinished">Открыть файл</translation>
+        <translation>Открыть файл</translation>
     </message>
     <message>
         <source>Show in file manager</source>
@@ -9118,7 +9118,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation type="unfinished">Открыть в браузере</translation>
+        <translation>Открыть в браузере</translation>
     </message>
     <message>
         <source>Cancel download</source>
@@ -9130,7 +9130,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Контакт</translation>
     </message>
     <message>
         <source>just now</source>
@@ -9170,7 +9170,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Quote</source>
-        <translation type="unfinished">Цитировать</translation>
+        <translation>Цитировать</translation>
     </message>
     <message>
         <source>The message has no reply identifier assigned by its sender or room.</source>
@@ -9182,7 +9182,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Вперёд</translation>
+        <translation>Вперёд</translation>
     </message>
     <message>
         <source>Copy image</source>
@@ -9533,7 +9533,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Classic</source>
-        <translation type="unfinished"></translation>
+        <translation>Классический</translation>
     </message>
     <message>
         <source>Compact text layout</source>
@@ -9552,11 +9552,11 @@ Details: %1</source>
     <name>NativeChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
-        <translation type="unfinished">Стиль сообщений конференции</translation>
+        <translation>Стиль сообщений конференции</translation>
     </message>
     <message>
         <source>Chat Message Style</source>
-        <translation type="unfinished">Стиль сообщений чата</translation>
+        <translation>Стиль сообщений чата</translation>
     </message>
     <message>
         <source>Choose the native message layout</source>
@@ -12856,7 +12856,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Обновить</translation>
+        <translation>Обновить</translation>
     </message>
     <message>
         <source>Network interface:</source>
@@ -12864,7 +12864,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished">Автоматический</translation>
+        <translation>Автоматический</translation>
     </message>
     <message>
         <source>Leave Automatic unless a firewall requires a fixed TCP listening port.</source>
@@ -12880,7 +12880,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished">Статус:</translation>
+        <translation>Статус:</translation>
     </message>
     <message>
         <source>Automatic (active local network)</source>
@@ -12888,7 +12888,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>%1 (unavailable)</source>
@@ -12900,7 +12900,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished">Отключен</translation>
+        <translation>Отключен</translation>
     </message>
     <message>
         <source>Online on the local network</source>
@@ -12912,7 +12912,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Отключён</translation>
+        <translation>Отключён</translation>
     </message>
     <message>
         <source>Local network</source>
@@ -13139,7 +13139,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabXmppAccounts</name>
     <message>
         <source>XMPP</source>
-        <translation type="unfinished">XMPP</translation>
+        <translation>XMPP</translation>
     </message>
     <message>
         <source>Server accounts</source>
@@ -14218,18 +14218,6 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <source>&amp;Chat</source>
         <translation type="vanished">&amp;Чат</translation>
     </message>
-    <message>
-        <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
-&lt;br&gt;
-The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; and&lt;b&gt; Chat&lt;/b&gt;. You can change this later from the Options menu.&lt;br&gt;
-&lt;br&gt;
-Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation type="vanished">Выберите простое и понятное &lt;i&gt;Название профиля&lt;/i&gt;. Оно должно быть словом, состоящим только из букв и цифр.&lt;br&gt;
-&lt;br&gt;
-&lt;i&gt;Действие по умолчанию&lt;/i&gt; - это действие, которое происходит при двойном щелчке на контакте в вашем списке. Возможные варианты: &lt;b&gt;Сообщение&lt;/b&gt; или &lt;b&gt;Чат&lt;/b&gt;. Этот режим можно будет сменить позже в меню настройки.&lt;br&gt;
-&lt;br&gt;
-Включите опцию &lt;i&gt;Разрешить смайлы&lt;/i&gt;, если хотите, чтобы вместо символов типа &lt;b&gt;:-)&lt;/b&gt; выводились их графические варианты: &lt;icon name=&quot;smile&quot;&gt;.</translation>
-    </message>
 </context>
 <context>
     <name>ProfileNewDlg</name>
@@ -14377,7 +14365,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Delete Profile</source>
-        <translation type="unfinished">Удалить профиль</translation>
+        <translation>Удалить профиль</translation>
     </message>
     <message>
         <source>Delete profile &quot;%1&quot;?
@@ -14496,7 +14484,7 @@ All of its message history, settings, and cached files will be deleted.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет</translation>
     </message>
     <message>
         <source>DNS over HTTPS</source>
@@ -14957,7 +14945,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Unsupported</source>
-        <translation type="unfinished">Не поддерживается</translation>
+        <translation>Не поддерживается</translation>
     </message>
     <message>
         <source>Group chat whiteboards are not supported yet.</source>
@@ -15681,7 +15669,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished">Шифрование</translation>
+        <translation>Шифрование</translation>
     </message>
     <message>
         <source>Account is offline</source>
@@ -15697,7 +15685,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished"></translation>
+        <translation>Позвонить</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -15815,10 +15803,6 @@ Reason: %1.</source>
     <message>
         <source>Receive next pending event.</source>
         <translation>Следующее непрочитанное сообщение.</translation>
-    </message>
-    <message>
-        <source>Use software widgets rendering. In some cases default hardware rendering may lead to graphical glitches and crashes. This option may help.</source>
-        <translation type="vanished">Использовать программный рендеринг виджетов. В некоторых случаях аппаратный рендеринг, используемый по умолчанию, может приводить к крафическим артефактам и даже к аварийному завершению программы. Данная опция может помочь.</translation>
     </message>
     <message>
         <source>Quit the application</source>
@@ -16178,11 +16162,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Whiteboard invitation</source>
-        <translation type="unfinished">Приглашение порисовать</translation>
+        <translation>Приглашение порисовать</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished">Принять</translation>
+        <translation>Принять</translation>
     </message>
     <message>
         <source>Decline</source>
@@ -16618,7 +16602,7 @@ Would you like to activate that session now?</source>
     <name>PsiPopup::Private</name>
     <message>
         <source>Accept</source>
-        <translation type="unfinished">Принять</translation>
+        <translation>Принять</translation>
     </message>
     <message>
         <source>Decline</source>
@@ -18417,7 +18401,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished">Готово</translation>
+        <translation>Готово</translation>
     </message>
     <message>
         <source>Failed</source>
@@ -18681,7 +18665,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished">Поделиться</translation>
+        <translation>Поделиться</translation>
     </message>
 </context>
 <context>
@@ -21245,15 +21229,15 @@ Do you still want to close the window?</source>
     <name>WbView</name>
     <message>
         <source>Save session</source>
-        <translation type="unfinished">Сохранить сеанс</translation>
+        <translation>Сохранить сеанс</translation>
     </message>
     <message>
         <source>Save the contents of the whiteboard</source>
-        <translation type="unfinished">Сохранить содержимое доски</translation>
+        <translation>Сохранить содержимое доски</translation>
     </message>
     <message>
         <source>Change the geometry</source>
-        <translation type="unfinished">Изменить размер</translation>
+        <translation>Изменить размер</translation>
     </message>
     <message>
         <source>Clear the whiteboard for everyone</source>
@@ -21261,23 +21245,23 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Clear the whiteboard</source>
-        <translation type="unfinished">Очистить доску</translation>
+        <translation>Очистить доску</translation>
     </message>
     <message>
         <source>Stroke color</source>
-        <translation type="unfinished">Цвет рисования</translation>
+        <translation>Цвет рисования</translation>
     </message>
     <message>
         <source>Fill color</source>
-        <translation type="unfinished">Цвет заливки</translation>
+        <translation>Цвет заливки</translation>
     </message>
     <message>
         <source>Stroke width</source>
-        <translation type="unfinished">Толщина линии</translation>
+        <translation>Толщина линии</translation>
     </message>
     <message>
         <source>Edit mode</source>
-        <translation type="unfinished">Режим правки</translation>
+        <translation>Режим правки</translation>
     </message>
     <message>
         <source>Import SVG</source>
@@ -21289,27 +21273,27 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Thin stroke</source>
-        <translation type="unfinished">Тонкая</translation>
+        <translation>Тонкая</translation>
     </message>
     <message>
         <source>Medium stroke</source>
-        <translation type="unfinished">Средняя</translation>
+        <translation>Средняя</translation>
     </message>
     <message>
         <source>Thick stroke</source>
-        <translation type="unfinished">Толстая</translation>
+        <translation>Толстая</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished">Выбор</translation>
+        <translation>Выбор</translation>
     </message>
     <message>
         <source>Draw paths</source>
-        <translation type="unfinished">Карандаш</translation>
+        <translation>Карандаш</translation>
     </message>
     <message>
         <source>Draw lines</source>
@@ -21333,11 +21317,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Add images</source>
-        <translation type="unfinished">Добавить изображения</translation>
+        <translation>Добавить изображения</translation>
     </message>
     <message>
         <source>Erase</source>
-        <translation type="unfinished">Стирание</translation>
+        <translation>Стирание</translation>
     </message>
     <message>
         <source>Controls</source>
@@ -21349,7 +21333,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Whiteboard toolbar</source>
-        <translation type="unfinished">Панель инструментов рисования</translation>
+        <translation>Панель инструментов рисования</translation>
     </message>
     <message>
         <source>Right-click or Control-click</source>
@@ -21417,7 +21401,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Сервис</translation>
+        <translation>Сервис</translation>
     </message>
     <message>
         <source>V select, P pen, L line, R rectangle, O ellipse, D rhombus, T text, I image, E eraser</source>
@@ -21481,7 +21465,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Scale</source>
-        <translation type="unfinished">Масштабирование</translation>
+        <translation>Масштабирование</translation>
     </message>
     <message>
         <source>%1 + %2 + drag the selection, or + and −</source>
@@ -21489,7 +21473,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished">Вращение</translation>
+        <translation>Вращение</translation>
     </message>
     <message>
         <source>%1, %2 + wheel, or , and . (15°), &lt; and &gt; (1°)</source>
@@ -21501,7 +21485,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Удалить</translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>Delete or Backspace</source>
@@ -21537,7 +21521,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Вид</translation>
+        <translation>Вид</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -21573,19 +21557,19 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Set new width:</source>
-        <translation type="unfinished">Новая ширина:</translation>
+        <translation>Новая ширина:</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished">Ширина:</translation>
+        <translation>Ширина:</translation>
     </message>
     <message>
         <source>Set new height:</source>
-        <translation type="unfinished">Новая высота:</translation>
+        <translation>Новая высота:</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished">Высота:</translation>
+        <translation>Высота:</translation>
     </message>
     <message>
         <source>Save Whiteboard</source>
@@ -21593,7 +21577,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="unfinished">Векторные графики (*.svg)</translation>
+        <translation>Векторные графики (*.svg)</translation>
     </message>
     <message>
         <source>The file is not an SVG document.</source>
@@ -21604,7 +21588,7 @@ Do you still want to close the window?</source>
     <name>WbWidget</name>
     <message>
         <source>Choose an image</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите изображение</translation>
     </message>
     <message>
         <source>Images (*.png *.jpg *.jpeg *.gif *.bmp *.webp)</source>
@@ -21616,7 +21600,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Text:</source>
-        <translation type="unfinished">Пояснение:</translation>
+        <translation>Пояснение:</translation>
     </message>
 </context>
 <context>
@@ -21849,7 +21833,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Proxy authentication failed</source>
-        <translation type="unfinished">Не прошла аутентификация с прокси-сервером</translation>
+        <translation>Не прошла аутентификация с прокси-сервером</translation>
     </message>
     <message>
         <source>The connection to the DNS server failed</source>

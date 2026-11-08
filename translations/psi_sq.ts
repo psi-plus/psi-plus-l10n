@@ -297,14 +297,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; !</translation>
         <translation>psi-dev@conference.jabber.ru</translation>
     </message>
     <message>
-        <source>Patcher and former MS Windows Packager</source>
-        <translation type="vanished">Arnues dhe ish-Paketues për MS Windows</translation>
-    </message>
-    <message>
-        <source>Patcher and former Designer</source>
-        <translation type="vanished">Arnues dhe ish Hartues Grafik</translation>
-    </message>
-    <message>
         <source>Developer and Plugins Author</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2253,7 +2245,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Mbylle</translation>
+        <translation>Mbylle</translation>
     </message>
     <message>
         <source>Close call window</source>
@@ -2305,7 +2297,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuloje</translation>
+        <translation>Anuloje</translation>
     </message>
     <message>
         <source>Cancel call</source>
@@ -2353,7 +2345,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Call ended</source>
-        <translation type="unfinished">Thirrja përfundoi</translation>
+        <translation>Thirrja përfundoi</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -3487,7 +3479,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Blocked Contacts</source>
-        <translation type="unfinished">Kontakte të Bllokuara</translation>
+        <translation>Kontakte të Bllokuara</translation>
     </message>
     <message>
         <source>Server blocklist (XEP-0191)</source>
@@ -3499,7 +3491,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Unblock</source>
-        <translation type="unfinished">Zhbllokoje</translation>
+        <translation>Zhbllokoje</translation>
     </message>
     <message>
         <source>Block JID</source>
@@ -3848,7 +3840,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Player:</source>
-        <translation type="unfinished">Lojtës:</translation>
+        <translation>Lojtës:</translation>
     </message>
     <message>
         <source>Choose media player executable</source>
@@ -4011,7 +4003,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Gabim</translation>
+        <translation>Gabim</translation>
     </message>
 </context>
 <context>
@@ -5945,7 +5937,7 @@ Arsye: %1</translation>
     </message>
     <message>
         <source>User Info</source>
-        <translation type="unfinished">Hollësi Përdoruesi</translation>
+        <translation>Hollësi Përdoruesi</translation>
     </message>
     <message>
         <source>Open Chat Window</source>
@@ -8803,11 +8795,11 @@ Akt(e) ardhës nga:</translation>
     <name>MamChatWidget</name>
     <message>
         <source>Copy</source>
-        <translation type="unfinished">Kopjoje</translation>
+        <translation>Kopjoje</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuloje</translation>
+        <translation>Anuloje</translation>
     </message>
     <message>
         <source>Add reaction</source>
@@ -8835,7 +8827,7 @@ Akt(e) ardhës nga:</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation type="unfinished">Mesazh</translation>
+        <translation>Mesazh</translation>
     </message>
     <message>
         <source>Read</source>
@@ -8859,7 +8851,7 @@ Akt(e) ardhës nga:</translation>
     </message>
     <message>
         <source>The message was corrected</source>
-        <translation type="unfinished">Mesazhi u ndreq</translation>
+        <translation>Mesazhi u ndreq</translation>
     </message>
     <message>
         <source>Edited message</source>
@@ -8888,7 +8880,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Open file</source>
-        <translation type="unfinished">Hape kartelën</translation>
+        <translation>Hape kartelën</translation>
     </message>
     <message>
         <source>Show in file manager</source>
@@ -8900,7 +8892,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation type="unfinished">Hape në shfletues</translation>
+        <translation>Hape në shfletues</translation>
     </message>
     <message>
         <source>Cancel download</source>
@@ -8950,7 +8942,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Quote</source>
-        <translation type="unfinished">Citim</translation>
+        <translation>Citim</translation>
     </message>
     <message>
         <source>The message has no reply identifier assigned by its sender or room.</source>
@@ -8962,7 +8954,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Përpara</translation>
+        <translation>Përpara</translation>
     </message>
     <message>
         <source>Copy image</source>
@@ -9332,11 +9324,11 @@ Hollësi: %1</translation>
     <name>NativeChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
-        <translation type="unfinished">Stil Mesazhesh Fjalosjeje Në Grup</translation>
+        <translation>Stil Mesazhesh Fjalosjeje Në Grup</translation>
     </message>
     <message>
         <source>Chat Message Style</source>
-        <translation type="unfinished">Stil Mesazhesh Fjalosjeje</translation>
+        <translation>Stil Mesazhesh Fjalosjeje</translation>
     </message>
     <message>
         <source>Choose the native message layout</source>
@@ -12521,7 +12513,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Rifreskoje</translation>
+        <translation>Rifreskoje</translation>
     </message>
     <message>
         <source>Network interface:</source>
@@ -12545,7 +12537,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished">Gjendje:</translation>
+        <translation>Gjendje:</translation>
     </message>
     <message>
         <source>Automatic (active local network)</source>
@@ -12553,7 +12545,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>%1 (unavailable)</source>
@@ -12577,7 +12569,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Jo në linjë</translation>
     </message>
     <message>
         <source>Local network</source>
@@ -12796,7 +12788,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <name>OptionsTabXmppAccounts</name>
     <message>
         <source>XMPP</source>
-        <translation type="unfinished">XMPP</translation>
+        <translation>XMPP</translation>
     </message>
     <message>
         <source>Server accounts</source>
@@ -13912,7 +13904,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Delete Profile</source>
-        <translation type="unfinished">Fshije Profilin</translation>
+        <translation>Fshije Profilin</translation>
     </message>
     <message>
         <source>Delete profile &quot;%1&quot;?
@@ -14031,7 +14023,7 @@ All of its message history, settings, and cached files will be deleted.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Asnjë</translation>
+        <translation>Asnjë</translation>
     </message>
     <message>
         <source>DNS over HTTPS</source>
@@ -14477,7 +14469,7 @@ Arsye: %1.</translation>
     </message>
     <message>
         <source>Unsupported</source>
-        <translation type="unfinished">I pambuluar</translation>
+        <translation>I pambuluar</translation>
     </message>
     <message>
         <source>Group chat whiteboards are not supported yet.</source>
@@ -15181,7 +15173,7 @@ Arsye: %1.</translation>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished">Fshehtëzim</translation>
+        <translation>Fshehtëzim</translation>
     </message>
     <message>
         <source>Account is offline</source>
@@ -15197,7 +15189,7 @@ Arsye: %1.</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished">Thirrje Audio</translation>
+        <translation>Thirrje Audio</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -15654,7 +15646,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"></translation>
+        <translation>Pranoje</translation>
     </message>
     <message>
         <source>Decline</source>
@@ -16080,7 +16072,7 @@ Would you like to activate that session now?</source>
     <name>PsiPopup::Private</name>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"></translation>
+        <translation>Pranoje</translation>
     </message>
     <message>
         <source>Decline</source>
@@ -17818,7 +17810,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished">U bë</translation>
+        <translation>U bë</translation>
     </message>
     <message>
         <source>Failed</source>
@@ -20449,15 +20441,15 @@ On the first tab set up a list of contacts for the status of which is monitored.
     <name>WbView</name>
     <message>
         <source>Save session</source>
-        <translation type="unfinished">Ruaje sesionin</translation>
+        <translation>Ruaje sesionin</translation>
     </message>
     <message>
         <source>Save the contents of the whiteboard</source>
-        <translation type="unfinished">Ruaje lëndën e tabelës</translation>
+        <translation>Ruaje lëndën e tabelës</translation>
     </message>
     <message>
         <source>Change the geometry</source>
-        <translation type="unfinished">Ndryshoni gjeometrinë</translation>
+        <translation>Ndryshoni gjeometrinë</translation>
     </message>
     <message>
         <source>Clear the whiteboard for everyone</source>
@@ -20465,23 +20457,23 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Clear the whiteboard</source>
-        <translation type="unfinished">Pastroje tabelën</translation>
+        <translation>Pastroje tabelën</translation>
     </message>
     <message>
         <source>Stroke color</source>
-        <translation type="unfinished">Ngjyrë vije</translation>
+        <translation>Ngjyrë vije</translation>
     </message>
     <message>
         <source>Fill color</source>
-        <translation type="unfinished">Ngjyrë mbushjeje</translation>
+        <translation>Ngjyrë mbushjeje</translation>
     </message>
     <message>
         <source>Stroke width</source>
-        <translation type="unfinished">Gjerësi vije</translation>
+        <translation>Gjerësi vije</translation>
     </message>
     <message>
         <source>Edit mode</source>
-        <translation type="unfinished">Mënyra përpunim</translation>
+        <translation>Mënyra përpunim</translation>
     </message>
     <message>
         <source>Import SVG</source>
@@ -20493,23 +20485,23 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Thin stroke</source>
-        <translation type="unfinished">Vijë e hollë</translation>
+        <translation>Vijë e hollë</translation>
     </message>
     <message>
         <source>Medium stroke</source>
-        <translation type="unfinished">Vijë mesatare</translation>
+        <translation>Vijë mesatare</translation>
     </message>
     <message>
         <source>Thick stroke</source>
-        <translation type="unfinished">Vijë e trashë</translation>
+        <translation>Vijë e trashë</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished">Përzgjidhni</translation>
+        <translation>Përzgjidhni</translation>
     </message>
     <message>
         <source>Draw paths</source>
@@ -20537,11 +20529,11 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Add images</source>
-        <translation type="unfinished">Shtoni figura</translation>
+        <translation>Shtoni figura</translation>
     </message>
     <message>
         <source>Erase</source>
-        <translation type="unfinished">Fshije</translation>
+        <translation>Fshije</translation>
     </message>
     <message>
         <source>Controls</source>
@@ -20553,7 +20545,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Whiteboard toolbar</source>
-        <translation type="unfinished">Panel tabele</translation>
+        <translation>Panel tabele</translation>
     </message>
     <message>
         <source>Right-click or Control-click</source>
@@ -20621,7 +20613,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Mjete</translation>
+        <translation>Mjete</translation>
     </message>
     <message>
         <source>V select, P pen, L line, R rectangle, O ellipse, D rhombus, T text, I image, E eraser</source>
@@ -20685,7 +20677,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Scale</source>
-        <translation type="unfinished">Ripërmasojeni</translation>
+        <translation>Ripërmasojeni</translation>
     </message>
     <message>
         <source>%1 + %2 + drag the selection, or + and −</source>
@@ -20693,7 +20685,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished">Rrotulloje</translation>
+        <translation>Rrotulloje</translation>
     </message>
     <message>
         <source>%1, %2 + wheel, or , and . (15°), &lt; and &gt; (1°)</source>
@@ -20705,7 +20697,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Fshije</translation>
+        <translation>Fshije</translation>
     </message>
     <message>
         <source>Delete or Backspace</source>
@@ -20741,7 +20733,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Shiheni</translation>
+        <translation>Shiheni</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -20777,19 +20769,19 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Set new width:</source>
-        <translation type="unfinished">Caktoni gjerësi të re:</translation>
+        <translation>Caktoni gjerësi të re:</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished">Gjerësi:</translation>
+        <translation>Gjerësi:</translation>
     </message>
     <message>
         <source>Set new height:</source>
-        <translation type="unfinished">Caktoni lartësi të re:</translation>
+        <translation>Caktoni lartësi të re:</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished">Lartësi:</translation>
+        <translation>Lartësi:</translation>
     </message>
     <message>
         <source>Save Whiteboard</source>
@@ -20797,7 +20789,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="unfinished">Grafika Vektoriale të Përshkallëzueshme (*.svg)</translation>
+        <translation>Grafika Vektoriale të Përshkallëzueshme (*.svg)</translation>
     </message>
     <message>
         <source>The file is not an SVG document.</source>
@@ -20820,7 +20812,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Text:</source>
-        <translation type="unfinished">Tekst:</translation>
+        <translation>Tekst:</translation>
     </message>
 </context>
 <context>
@@ -21053,7 +21045,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Proxy authentication failed</source>
-        <translation type="unfinished">Mirëfilltësimi i ndërmjetësit dështoi</translation>
+        <translation>Mirëfilltësimi i ndërmjetësit dështoi</translation>
     </message>
     <message>
         <source>The connection to the DNS server failed</source>

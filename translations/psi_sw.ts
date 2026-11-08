@@ -3468,7 +3468,7 @@ Endelea?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Kuna kosa</translation>
     </message>
 </context>
 <context>
@@ -7985,7 +7985,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Nenda mbele</translation>
+        <translation>Nenda mbele</translation>
     </message>
     <message>
         <source>Copy image</source>
@@ -11380,7 +11380,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished">Hali:</translation>
+        <translation>Hali:</translation>
     </message>
     <message>
         <source>Automatic (active local network)</source>
@@ -11412,7 +11412,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Sipo hewani</translation>
+        <translation>Sipo hewani</translation>
     </message>
     <message>
         <source>Local network</source>
@@ -12609,7 +12609,7 @@ Ni herufi au namba peke yake.Usiweke alama za mikato,vituo wala nafasi kati ya h
     </message>
     <message>
         <source>Delete Profile</source>
-        <translation type="unfinished">Futa wasifu huo</translation>
+        <translation>Futa wasifu huo</translation>
     </message>
     <message>
         <source>Delete profile &quot;%1&quot;?
@@ -12728,7 +12728,8 @@ All of its message history, settings, and cached files will be deleted.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Tupu
+</translation>
     </message>
     <message>
         <source>DNS over HTTPS</source>
@@ -19253,7 +19254,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Proxy authentication failed</source>
-        <translation type="unfinished">Imeshindikana kuidhinisha proxi</translation>
+        <translation>Imeshindikana kuidhinisha proxi</translation>
     </message>
     <message>
         <source>The connection to the DNS server failed</source>

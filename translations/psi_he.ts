@@ -2125,7 +2125,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">סגור</translation>
+        <translation>סגור</translation>
     </message>
     <message>
         <source>Close call window</source>
@@ -2177,7 +2177,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">ביטול</translation>
+        <translation>ביטול</translation>
     </message>
     <message>
         <source>Cancel call</source>
@@ -2225,7 +2225,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Call ended</source>
-        <translation type="unfinished">שיחה הסתיימה</translation>
+        <translation>שיחה הסתיימה</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -3325,7 +3325,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Blocked Contacts</source>
-        <translation type="unfinished">אנשי קשר חסומים</translation>
+        <translation>אנשי קשר חסומים</translation>
     </message>
     <message>
         <source>Server blocklist (XEP-0191)</source>
@@ -3666,7 +3666,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Player:</source>
-        <translation type="unfinished">נגן:</translation>
+        <translation>נגן:</translation>
     </message>
     <message>
         <source>Choose media player executable</source>
@@ -3829,7 +3829,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">שגיאה</translation>
+        <translation>שגיאה</translation>
     </message>
 </context>
 <context>
@@ -5770,7 +5770,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>User Info</source>
-        <translation type="unfinished">מידע משתמש</translation>
+        <translation>מידע משתמש</translation>
     </message>
     <message>
         <source>Open Chat Window</source>
@@ -8531,11 +8531,11 @@ Incoming event(s) from:</source>
     <name>MamChatWidget</name>
     <message>
         <source>Copy</source>
-        <translation type="unfinished">העתק</translation>
+        <translation>העתק</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">ביטול</translation>
+        <translation>ביטול</translation>
     </message>
     <message>
         <source>Add reaction</source>
@@ -8563,7 +8563,7 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>Message</source>
-        <translation type="unfinished">הודעה</translation>
+        <translation>הודעה</translation>
     </message>
     <message>
         <source>Read</source>
@@ -8616,7 +8616,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Open file</source>
-        <translation type="unfinished">פתח קובץ</translation>
+        <translation>פתח קובץ</translation>
     </message>
     <message>
         <source>Show in file manager</source>
@@ -8628,7 +8628,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation type="unfinished">פתח בדפדפן</translation>
+        <translation>פתח בדפדפן</translation>
     </message>
     <message>
         <source>Cancel download</source>
@@ -8678,7 +8678,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Quote</source>
-        <translation type="unfinished">ציטוט</translation>
+        <translation>ציטוט</translation>
     </message>
     <message>
         <source>The message has no reply identifier assigned by its sender or room.</source>
@@ -8690,7 +8690,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">קדימה</translation>
+        <translation>קדימה</translation>
     </message>
     <message>
         <source>Copy image</source>
@@ -9060,11 +9060,11 @@ Details: %1</source>
     <name>NativeChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
-        <translation type="unfinished">סגנון הודעת שיחת קבוצה</translation>
+        <translation>סגנון הודעת שיחת קבוצה</translation>
     </message>
     <message>
         <source>Chat Message Style</source>
-        <translation type="unfinished">סגנון הודעת שיחה</translation>
+        <translation>סגנון הודעת שיחה</translation>
     </message>
     <message>
         <source>Choose the native message layout</source>
@@ -12210,7 +12210,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">רענן</translation>
+        <translation>רענן</translation>
     </message>
     <message>
         <source>Network interface:</source>
@@ -12234,7 +12234,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished">מצב:</translation>
+        <translation>מצב:</translation>
     </message>
     <message>
         <source>Automatic (active local network)</source>
@@ -12266,7 +12266,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">לא מקוון</translation>
+        <translation>לא מקוון</translation>
     </message>
     <message>
         <source>Local network</source>
@@ -13641,7 +13641,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Delete Profile</source>
-        <translation type="unfinished">מחיקת דיוקן</translation>
+        <translation>מחיקת דיוקן</translation>
     </message>
     <message>
         <source>Delete profile &quot;%1&quot;?
@@ -13760,7 +13760,7 @@ All of its message history, settings, and cached files will be deleted.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">ללא</translation>
+        <translation>ללא</translation>
     </message>
     <message>
         <source>DNS over HTTPS</source>
@@ -14207,7 +14207,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Unsupported</source>
-        <translation type="unfinished">לא נתמך</translation>
+        <translation>לא נתמך</translation>
     </message>
     <message>
         <source>Group chat whiteboards are not supported yet.</source>
@@ -14915,7 +14915,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished">שיחה קולית</translation>
+        <translation>שיחה קולית</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -15381,7 +15381,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"></translation>
+        <translation>קבל</translation>
     </message>
     <message>
         <source>Decline</source>
@@ -15815,7 +15815,7 @@ Would you like to activate that session now?</source>
     <name>PsiPopup::Private</name>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"></translation>
+        <translation>קבל</translation>
     </message>
     <message>
         <source>Decline</source>
@@ -20206,15 +20206,15 @@ Do you still want to close the window?</source>
     <name>WbView</name>
     <message>
         <source>Save session</source>
-        <translation type="unfinished">שמור סשן</translation>
+        <translation>שמור סשן</translation>
     </message>
     <message>
         <source>Save the contents of the whiteboard</source>
-        <translation type="unfinished">שמור את התכולה של הלוח הלבן</translation>
+        <translation>שמור את התכולה של הלוח הלבן</translation>
     </message>
     <message>
         <source>Change the geometry</source>
-        <translation type="unfinished">שנה את הגיאומטריה</translation>
+        <translation>שנה את הגיאומטריה</translation>
     </message>
     <message>
         <source>Clear the whiteboard for everyone</source>
@@ -20222,23 +20222,23 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Clear the whiteboard</source>
-        <translation type="unfinished">טהר את הלוח הלבן</translation>
+        <translation>טהר את הלוח הלבן</translation>
     </message>
     <message>
         <source>Stroke color</source>
-        <translation type="unfinished">צבע מכחול</translation>
+        <translation>צבע מכחול</translation>
     </message>
     <message>
         <source>Fill color</source>
-        <translation type="unfinished">מילוי צבע</translation>
+        <translation>מילוי צבע</translation>
     </message>
     <message>
         <source>Stroke width</source>
-        <translation type="unfinished">רוחב מכחול</translation>
+        <translation>רוחב מכחול</translation>
     </message>
     <message>
         <source>Edit mode</source>
-        <translation type="unfinished">מצב עריכה</translation>
+        <translation>מצב עריכה</translation>
     </message>
     <message>
         <source>Import SVG</source>
@@ -20250,15 +20250,15 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Thin stroke</source>
-        <translation type="unfinished">מכחול דק</translation>
+        <translation>מכחול דק</translation>
     </message>
     <message>
         <source>Medium stroke</source>
-        <translation type="unfinished">מכחול בינוני</translation>
+        <translation>מכחול בינוני</translation>
     </message>
     <message>
         <source>Thick stroke</source>
-        <translation type="unfinished">מכחול עבה</translation>
+        <translation>מכחול עבה</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
@@ -20266,11 +20266,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished">בחר</translation>
+        <translation>בחר</translation>
     </message>
     <message>
         <source>Draw paths</source>
-        <translation type="unfinished">שרטט שבילים</translation>
+        <translation>שרטט שבילים</translation>
     </message>
     <message>
         <source>Draw lines</source>
@@ -20294,11 +20294,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Add images</source>
-        <translation type="unfinished">הוסף תמונות</translation>
+        <translation>הוסף תמונות</translation>
     </message>
     <message>
         <source>Erase</source>
-        <translation type="unfinished">מחק</translation>
+        <translation>מחק</translation>
     </message>
     <message>
         <source>Controls</source>
@@ -20310,7 +20310,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Whiteboard toolbar</source>
-        <translation type="unfinished">סרגל לוח לבן</translation>
+        <translation>סרגל לוח לבן</translation>
     </message>
     <message>
         <source>Right-click or Control-click</source>
@@ -20378,7 +20378,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">כלים</translation>
+        <translation>כלים</translation>
     </message>
     <message>
         <source>V select, P pen, L line, R rectangle, O ellipse, D rhombus, T text, I image, E eraser</source>
@@ -20442,7 +20442,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Scale</source>
-        <translation type="unfinished">קנה מידה</translation>
+        <translation>קנה מידה</translation>
     </message>
     <message>
         <source>%1 + %2 + drag the selection, or + and −</source>
@@ -20450,7 +20450,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished">סובב</translation>
+        <translation>סובב</translation>
     </message>
     <message>
         <source>%1, %2 + wheel, or , and . (15°), &lt; and &gt; (1°)</source>
@@ -20462,7 +20462,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>מחק</translation>
     </message>
     <message>
         <source>Delete or Backspace</source>
@@ -20498,7 +20498,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">תצוגה</translation>
+        <translation>תצוגה</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -20534,19 +20534,19 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Set new width:</source>
-        <translation type="unfinished">קבע רוחב חדש:</translation>
+        <translation>קבע רוחב חדש:</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished">רוחב:</translation>
+        <translation>רוחב:</translation>
     </message>
     <message>
         <source>Set new height:</source>
-        <translation type="unfinished">קבע גובה חדש:</translation>
+        <translation>קבע גובה חדש:</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished">גובה:</translation>
+        <translation>גובה:</translation>
     </message>
     <message>
         <source>Save Whiteboard</source>
@@ -20565,7 +20565,7 @@ Do you still want to close the window?</source>
     <name>WbWidget</name>
     <message>
         <source>Choose an image</source>
-        <translation type="unfinished"></translation>
+        <translation>בחירת תמונה</translation>
     </message>
     <message>
         <source>Images (*.png *.jpg *.jpeg *.gif *.bmp *.webp)</source>
@@ -20577,7 +20577,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Text:</source>
-        <translation type="unfinished"></translation>
+        <translation>טקסט:</translation>
     </message>
 </context>
 <context>
@@ -20806,7 +20806,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Proxy authentication failed</source>
-        <translation type="unfinished">אימות מתווך נכשל</translation>
+        <translation>אימות מתווך נכשל</translation>
     </message>
     <message>
         <source>The connection to the DNS server failed</source>

@@ -1938,7 +1938,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Fermi</translation>
+        <translation>Fermi</translation>
     </message>
     <message>
         <source>Close call window</source>
@@ -3493,7 +3493,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Eraro</translation>
+        <translation>Eraro</translation>
     </message>
 </context>
 <context>
@@ -7923,7 +7923,7 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>Message</source>
-        <translation type="unfinished">Mesaĝo</translation>
+        <translation>Mesaĝo</translation>
     </message>
     <message>
         <source>Read</source>
@@ -8050,7 +8050,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Antaŭen</translation>
+        <translation>Antaŭen</translation>
     </message>
     <message>
         <source>Copy image</source>
@@ -11453,7 +11453,7 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished">Stato:</translation>
+        <translation>Stato:</translation>
     </message>
     <message>
         <source>Automatic (active local network)</source>
@@ -11485,7 +11485,7 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Senkonekta</translation>
     </message>
     <message>
         <source>Local network</source>
@@ -12703,7 +12703,7 @@ Uzu nur literojn aŭ numerojn.  Neniun interpunkcion aŭ spacetojn.</translation
     </message>
     <message>
         <source>Delete Profile</source>
-        <translation type="unfinished">Forviŝu Profilon</translation>
+        <translation>Forviŝu Profilon</translation>
     </message>
     <message>
         <source>Delete profile &quot;%1&quot;?
@@ -12822,7 +12822,7 @@ All of its message history, settings, and cached files will be deleted.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Neniu</translation>
+        <translation>Neniu</translation>
     </message>
     <message>
         <source>DNS over HTTPS</source>
@@ -13935,7 +13935,7 @@ Kialo: %1.</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished">Alvoko</translation>
+        <translation>Alvoko</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -19037,15 +19037,15 @@ Do you still want to close the window?</source>
     <name>WbView</name>
     <message>
         <source>Save session</source>
-        <translation type="unfinished">Konservi la seancon</translation>
+        <translation>Konservi la seancon</translation>
     </message>
     <message>
         <source>Save the contents of the whiteboard</source>
-        <translation type="unfinished">Konservi la enhavon de la blankotabulon</translation>
+        <translation>Konservi la enhavon de la blankotabulon</translation>
     </message>
     <message>
         <source>Change the geometry</source>
-        <translation type="unfinished">Ŝanĝi la geometrion</translation>
+        <translation>Ŝanĝi la geometrion</translation>
     </message>
     <message>
         <source>Clear the whiteboard for everyone</source>
@@ -19053,19 +19053,19 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Clear the whiteboard</source>
-        <translation type="unfinished">Forviŝi la blankotabulon</translation>
+        <translation>Forviŝi la blankotabulon</translation>
     </message>
     <message>
         <source>Stroke color</source>
-        <translation type="unfinished">Streka koloro</translation>
+        <translation>Streka koloro</translation>
     </message>
     <message>
         <source>Fill color</source>
-        <translation type="unfinished">Ena koloro</translation>
+        <translation>Ena koloro</translation>
     </message>
     <message>
         <source>Stroke width</source>
-        <translation type="unfinished">Streka larĝo</translation>
+        <translation>Streka larĝo</translation>
     </message>
     <message>
         <source>Edit mode</source>
@@ -19081,15 +19081,15 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Thin stroke</source>
-        <translation type="unfinished">Maldika streko</translation>
+        <translation>Maldika streko</translation>
     </message>
     <message>
         <source>Medium stroke</source>
-        <translation type="unfinished">Meza streko</translation>
+        <translation>Meza streko</translation>
     </message>
     <message>
         <source>Thick stroke</source>
-        <translation type="unfinished">Dika streko</translation>
+        <translation>Dika streko</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
@@ -19097,11 +19097,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished">Elekti</translation>
+        <translation>Elekti</translation>
     </message>
     <message>
         <source>Draw paths</source>
-        <translation type="unfinished">Streki vojojn</translation>
+        <translation>Streki vojojn</translation>
     </message>
     <message>
         <source>Draw lines</source>
@@ -19125,11 +19125,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Add images</source>
-        <translation type="unfinished">Aldoni bildojn</translation>
+        <translation>Aldoni bildojn</translation>
     </message>
     <message>
         <source>Erase</source>
-        <translation type="unfinished">Forviŝi</translation>
+        <translation>Forviŝi</translation>
     </message>
     <message>
         <source>Controls</source>
@@ -19141,7 +19141,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Whiteboard toolbar</source>
-        <translation type="unfinished">Blankotabula ilobreto</translation>
+        <translation>Blankotabula ilobreto</translation>
     </message>
     <message>
         <source>Right-click or Control-click</source>
@@ -19209,7 +19209,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Iloj</translation>
+        <translation>Iloj</translation>
     </message>
     <message>
         <source>V select, P pen, L line, R rectangle, O ellipse, D rhombus, T text, I image, E eraser</source>
@@ -19273,7 +19273,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Scale</source>
-        <translation type="unfinished">Skali</translation>
+        <translation>Skali</translation>
     </message>
     <message>
         <source>%1 + %2 + drag the selection, or + and −</source>
@@ -19281,7 +19281,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished">Rotacii</translation>
+        <translation>Rotacii</translation>
     </message>
     <message>
         <source>%1, %2 + wheel, or , and . (15°), &lt; and &gt; (1°)</source>
@@ -19329,7 +19329,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Vidi</translation>
+        <translation>Vidi</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -19365,19 +19365,19 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Set new width:</source>
-        <translation type="unfinished">Difini novan larĝon:</translation>
+        <translation>Difini novan larĝon:</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished">Larĝo:</translation>
+        <translation>Larĝo:</translation>
     </message>
     <message>
         <source>Set new height:</source>
-        <translation type="unfinished">Difini novan alton:</translation>
+        <translation>Difini novan alton:</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished">Alto:</translation>
+        <translation>Alto:</translation>
     </message>
     <message>
         <source>Save Whiteboard</source>
@@ -19385,7 +19385,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="unfinished"></translation>
+        <translation>Skalebla Vektora Grafiko (*.svg)</translation>
     </message>
     <message>
         <source>The file is not an SVG document.</source>
@@ -19626,7 +19626,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Proxy authentication failed</source>
-        <translation type="unfinished">Aŭtenktikado kun la prokura kluzo ne sukcesis</translation>
+        <translation>Aŭtenktikado kun la prokura kluzo ne sukcesis</translation>
     </message>
     <message>
         <source>The connection to the DNS server failed</source>

@@ -2036,7 +2036,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">بند کریں</translation>
+        <translation>بند کریں</translation>
     </message>
     <message>
         <source>Close call window</source>
@@ -2088,7 +2088,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">منسوخ کریں</translation>
+        <translation>منسوخ کریں</translation>
     </message>
     <message>
         <source>Cancel call</source>
@@ -2136,7 +2136,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Call ended</source>
-        <translation type="unfinished">کال ختم  ہو گئی ہے</translation>
+        <translation>کال ختم  ہو گئی ہے</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -3111,7 +3111,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Blocked Contacts</source>
-        <translation type="unfinished">بلاک کردہ رابطہ افراد</translation>
+        <translation>بلاک کردہ رابطہ افراد</translation>
     </message>
     <message>
         <source>Server blocklist (XEP-0191)</source>
@@ -3453,7 +3453,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Player:</source>
-        <translation type="unfinished">پلیئر:</translation>
+        <translation>پلیئر:</translation>
     </message>
     <message>
         <source>Choose media player executable</source>
@@ -3616,7 +3616,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">نقص</translation>
+        <translation>نقص</translation>
     </message>
 </context>
 <context>
@@ -5508,7 +5508,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>User Info</source>
-        <translation type="unfinished">صارف معلومات</translation>
+        <translation>صارف معلومات</translation>
     </message>
     <message>
         <source>Open Chat Window</source>
@@ -8108,7 +8108,7 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">منسوخ کریں</translation>
+        <translation>منسوخ کریں</translation>
     </message>
     <message>
         <source>Add reaction</source>
@@ -8136,7 +8136,7 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>Message</source>
-        <translation type="unfinished">پیغام</translation>
+        <translation>پیغام</translation>
     </message>
     <message>
         <source>Read</source>
@@ -8263,7 +8263,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">آگے</translation>
+        <translation>آگے</translation>
     </message>
     <message>
         <source>Copy image</source>
@@ -11701,7 +11701,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished">حالت:‏</translation>
+        <translation>حالت:‏</translation>
     </message>
     <message>
         <source>Automatic (active local network)</source>
@@ -11709,7 +11709,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>%1 (unavailable)</source>
@@ -11733,7 +11733,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">آف لائن</translation>
+        <translation>آف لائن</translation>
     </message>
     <message>
         <source>Local network</source>
@@ -13069,7 +13069,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Delete Profile</source>
-        <translation type="unfinished">پروفائل حذف کریں</translation>
+        <translation>پروفائل حذف کریں</translation>
     </message>
     <message>
         <source>Delete profile &quot;%1&quot;?
@@ -13188,7 +13188,7 @@ All of its message history, settings, and cached files will be deleted.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">کوئی نہیں</translation>
+        <translation>کوئی نہیں</translation>
     </message>
     <message>
         <source>DNS over HTTPS</source>
@@ -13627,7 +13627,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Unsupported</source>
-        <translation type="unfinished">غیر معاون</translation>
+        <translation>غیر معاون</translation>
     </message>
     <message>
         <source>Group chat whiteboards are not supported yet.</source>
@@ -14315,7 +14315,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished">آواز کال</translation>
+        <translation>آواز کال</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -14777,7 +14777,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished">قبول کریں</translation>
+        <translation>قبول کریں</translation>
     </message>
     <message>
         <source>Decline</source>
@@ -15207,7 +15207,7 @@ Would you like to activate that session now?</source>
     <name>PsiPopup::Private</name>
     <message>
         <source>Accept</source>
-        <translation type="unfinished">قبول کریں</translation>
+        <translation>قبول کریں</translation>
     </message>
     <message>
         <source>Decline</source>
@@ -19499,15 +19499,15 @@ Do you still want to close the window?</source>
     <name>WbView</name>
     <message>
         <source>Save session</source>
-        <translation type="unfinished">سیشن محفوظ کریں</translation>
+        <translation>سیشن محفوظ کریں</translation>
     </message>
     <message>
         <source>Save the contents of the whiteboard</source>
-        <translation type="unfinished">سفید تختے کے مشمولات محفوظ کریں</translation>
+        <translation>سفید تختے کے مشمولات محفوظ کریں</translation>
     </message>
     <message>
         <source>Change the geometry</source>
-        <translation type="unfinished">جیومیٹری تبدیل کریں</translation>
+        <translation>جیومیٹری تبدیل کریں</translation>
     </message>
     <message>
         <source>Clear the whiteboard for everyone</source>
@@ -19515,23 +19515,23 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Clear the whiteboard</source>
-        <translation type="unfinished">سفید بورڈ صاف کریں</translation>
+        <translation>سفید بورڈ صاف کریں</translation>
     </message>
     <message>
         <source>Stroke color</source>
-        <translation type="unfinished"> جنبش کا رنگ</translation>
+        <translation> جنبش کا رنگ</translation>
     </message>
     <message>
         <source>Fill color</source>
-        <translation type="unfinished">رنگ بھریں</translation>
+        <translation>رنگ بھریں</translation>
     </message>
     <message>
         <source>Stroke width</source>
-        <translation type="unfinished">جنبش کی چوڑائی </translation>
+        <translation>جنبش کی چوڑائی </translation>
     </message>
     <message>
         <source>Edit mode</source>
-        <translation type="unfinished">تدوینی موڈ</translation>
+        <translation>تدوینی موڈ</translation>
     </message>
     <message>
         <source>Import SVG</source>
@@ -19543,27 +19543,27 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Thin stroke</source>
-        <translation type="unfinished">پتلی جنبش</translation>
+        <translation>پتلی جنبش</translation>
     </message>
     <message>
         <source>Medium stroke</source>
-        <translation type="unfinished">متوسط جنبش</translation>
+        <translation>متوسط جنبش</translation>
     </message>
     <message>
         <source>Thick stroke</source>
-        <translation type="unfinished">موٹی جنبش</translation>
+        <translation>موٹی جنبش</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished">منتخب کریں</translation>
+        <translation>منتخب کریں</translation>
     </message>
     <message>
         <source>Draw paths</source>
-        <translation type="unfinished">راہیں خاکہ کش کریں</translation>
+        <translation>راہیں خاکہ کش کریں</translation>
     </message>
     <message>
         <source>Draw lines</source>
@@ -19587,11 +19587,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Add images</source>
-        <translation type="unfinished">نقوش اضافہ کریں</translation>
+        <translation>نقوش اضافہ کریں</translation>
     </message>
     <message>
         <source>Erase</source>
-        <translation type="unfinished">صاف کریں</translation>
+        <translation>صاف کریں</translation>
     </message>
     <message>
         <source>Controls</source>
@@ -19603,7 +19603,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Whiteboard toolbar</source>
-        <translation type="unfinished">سفید بورڈ ٹول بار</translation>
+        <translation>سفید بورڈ ٹول بار</translation>
     </message>
     <message>
         <source>Right-click or Control-click</source>
@@ -19671,7 +19671,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">ٹول</translation>
+        <translation>ٹول</translation>
     </message>
     <message>
         <source>V select, P pen, L line, R rectangle, O ellipse, D rhombus, T text, I image, E eraser</source>
@@ -19735,7 +19735,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Scale</source>
-        <translation type="unfinished">پیمانہ</translation>
+        <translation>پیمانہ</translation>
     </message>
     <message>
         <source>%1 + %2 + drag the selection, or + and −</source>
@@ -19743,7 +19743,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished">گھماؤ</translation>
+        <translation>گھماؤ</translation>
     </message>
     <message>
         <source>%1, %2 + wheel, or , and . (15°), &lt; and &gt; (1°)</source>
@@ -19755,7 +19755,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">حذف کریں</translation>
+        <translation>حذف کریں</translation>
     </message>
     <message>
         <source>Delete or Backspace</source>
@@ -19791,7 +19791,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">نظارہ</translation>
+        <translation>نظارہ</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -19827,19 +19827,19 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Set new width:</source>
-        <translation type="unfinished">نئی چوڑائی سیٹ کریں</translation>
+        <translation>نئی چوڑائی سیٹ کریں</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished">چوڑائی:‏</translation>
+        <translation>چوڑائی:‏</translation>
     </message>
     <message>
         <source>Set new height:</source>
-        <translation type="unfinished">نئی اونچائی سیٹ کریں</translation>
+        <translation>نئی اونچائی سیٹ کریں</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished">اونچائی:‏</translation>
+        <translation>اونچائی:‏</translation>
     </message>
     <message>
         <source>Save Whiteboard</source>
@@ -19847,7 +19847,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="unfinished">توسیع پذیر سمتیہ نقوش (*.svg)</translation>
+        <translation>توسیع پذیر سمتیہ نقوش (*.svg)</translation>
     </message>
     <message>
         <source>The file is not an SVG document.</source>
@@ -19858,7 +19858,7 @@ Do you still want to close the window?</source>
     <name>WbWidget</name>
     <message>
         <source>Choose an image</source>
-        <translation type="unfinished"></translation>
+        <translation>کوئی نقش انتخاب کریں</translation>
     </message>
     <message>
         <source>Images (*.png *.jpg *.jpeg *.gif *.bmp *.webp)</source>
@@ -19870,7 +19870,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Text:</source>
-        <translation type="unfinished">متن:‏</translation>
+        <translation>متن:‏</translation>
     </message>
 </context>
 <context>
@@ -20088,7 +20088,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Proxy authentication failed</source>
-        <translation type="unfinished">پراکسی توثیق کاری ناکام</translation>
+        <translation>پراکسی توثیق کاری ناکام</translation>
     </message>
     <message>
         <source>The connection to the DNS server failed</source>

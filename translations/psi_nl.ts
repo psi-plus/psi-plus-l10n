@@ -3465,7 +3465,7 @@ Doorgaan?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fout</translation>
+        <translation>Fout</translation>
     </message>
 </context>
 <context>
@@ -7997,7 +7997,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Verder</translation>
+        <translation>Verder</translation>
     </message>
     <message>
         <source>Copy image</source>
@@ -11389,7 +11389,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished">Status:</translation>
+        <translation>Status:</translation>
     </message>
     <message>
         <source>Automatic (active local network)</source>
@@ -11421,7 +11421,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Offline</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <source>Local network</source>
@@ -12623,7 +12623,7 @@ Gebruik alleen cijfers en letters.  Geen interpunctie of spaties.</translation>
     </message>
     <message>
         <source>Delete Profile</source>
-        <translation type="unfinished">Profiel verwijderen</translation>
+        <translation>Profiel verwijderen</translation>
     </message>
     <message>
         <source>Delete profile &quot;%1&quot;?
@@ -12742,7 +12742,7 @@ All of its message history, settings, and cached files will be deleted.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Geen</translation>
+        <translation>Geen</translation>
     </message>
     <message>
         <source>DNS over HTTPS</source>
@@ -18884,7 +18884,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Extra</translation>
+        <translation>Extra</translation>
     </message>
     <message>
         <source>V select, P pen, L line, R rectangle, O ellipse, D rhombus, T text, I image, E eraser</source>
@@ -19004,7 +19004,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Beeld</translation>
+        <translation>Beeld</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -19301,7 +19301,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Proxy authentication failed</source>
-        <translation type="unfinished">Proxy authenticatie mislukte</translation>
+        <translation>Proxy authenticatie mislukte</translation>
     </message>
     <message>
         <source>The connection to the DNS server failed</source>

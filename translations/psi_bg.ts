@@ -2098,7 +2098,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Затваряне</translation>
+        <translation>Затваряне</translation>
     </message>
     <message>
         <source>Close call window</source>
@@ -2150,7 +2150,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отказ</translation>
+        <translation>Отказ</translation>
     </message>
     <message>
         <source>Cancel call</source>
@@ -2198,7 +2198,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Call ended</source>
-        <translation type="unfinished">Обаждането е приключи</translation>
+        <translation>Обаждането е приключи</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -2545,7 +2545,7 @@ Do you still want to close the window?</source>
     <name>ChatEditProxy</name>
     <message>
         <source>Reply</source>
-        <translation type="unfinished">Отговор</translation>
+        <translation>Отговор</translation>
     </message>
     <message>
         <source>Reply to %1</source>
@@ -3319,7 +3319,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Blocked Contacts</source>
-        <translation type="unfinished">Блокирани Контатки</translation>
+        <translation>Блокирани Контатки</translation>
     </message>
     <message>
         <source>Server blocklist (XEP-0191)</source>
@@ -3331,7 +3331,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Unblock</source>
-        <translation type="unfinished">Отблокиране</translation>
+        <translation>Отблокиране</translation>
     </message>
     <message>
         <source>Block JID</source>
@@ -3682,7 +3682,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Player:</source>
-        <translation type="unfinished">Играч:</translation>
+        <translation>Играч:</translation>
     </message>
     <message>
         <source>Choose media player executable</source>
@@ -3845,7 +3845,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Грешка</translation>
     </message>
 </context>
 <context>
@@ -5803,7 +5803,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>User Info</source>
-        <translation type="unfinished">Данни за потребител</translation>
+        <translation>Данни за потребител</translation>
     </message>
     <message>
         <source>Open Chat Window</source>
@@ -8725,11 +8725,11 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     <name>MamChatWidget</name>
     <message>
         <source>Copy</source>
-        <translation type="unfinished">Копиране</translation>
+        <translation>Копиране</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отказ</translation>
+        <translation>Отказ</translation>
     </message>
     <message>
         <source>Add reaction</source>
@@ -8757,7 +8757,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     </message>
     <message>
         <source>Message</source>
-        <translation type="unfinished">Съобщение</translation>
+        <translation>Съобщение</translation>
     </message>
     <message>
         <source>Read</source>
@@ -8810,7 +8810,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Open file</source>
-        <translation type="unfinished">Отваряне на файл</translation>
+        <translation>Отваряне на файл</translation>
     </message>
     <message>
         <source>Show in file manager</source>
@@ -8872,7 +8872,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Quote</source>
-        <translation type="unfinished">Цитиране</translation>
+        <translation>Цитиране</translation>
     </message>
     <message>
         <source>The message has no reply identifier assigned by its sender or room.</source>
@@ -8884,7 +8884,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Напред</translation>
+        <translation>Напред</translation>
     </message>
     <message>
         <source>Copy image</source>
@@ -9254,11 +9254,11 @@ Details: %1</source>
     <name>NativeChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
-        <translation type="unfinished">Стил на Груповочатово Съобщение</translation>
+        <translation>Стил на Груповочатово Съобщение</translation>
     </message>
     <message>
         <source>Chat Message Style</source>
-        <translation type="unfinished">Стил на Чат Съобщението</translation>
+        <translation>Стил на Чат Съобщението</translation>
     </message>
     <message>
         <source>Choose the native message layout</source>
@@ -12455,7 +12455,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Опресняване</translation>
+        <translation>Опресняване</translation>
     </message>
     <message>
         <source>Network interface:</source>
@@ -12479,7 +12479,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished">Състояние:</translation>
+        <translation>Състояние:</translation>
     </message>
     <message>
         <source>Automatic (active local network)</source>
@@ -12499,7 +12499,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished">Изключено</translation>
+        <translation>Изключено</translation>
     </message>
     <message>
         <source>Online on the local network</source>
@@ -12511,7 +12511,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Изключен</translation>
+        <translation>Изключен</translation>
     </message>
     <message>
         <source>Local network</source>
@@ -12738,7 +12738,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabXmppAccounts</name>
     <message>
         <source>XMPP</source>
-        <translation type="unfinished">XMPP</translation>
+        <translation>XMPP</translation>
     </message>
     <message>
         <source>Server accounts</source>
@@ -13921,7 +13921,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Delete Profile</source>
-        <translation type="unfinished">Изтрване на профил</translation>
+        <translation>Изтрване на профил</translation>
     </message>
     <message>
         <source>Delete profile &quot;%1&quot;?
@@ -14040,7 +14040,7 @@ All of its message history, settings, and cached files will be deleted.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Няма</translation>
+        <translation>Няма</translation>
     </message>
     <message>
         <source>DNS over HTTPS</source>
@@ -15187,7 +15187,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished">Гласово Обаждане</translation>
+        <translation>Гласово Обаждане</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -15656,11 +15656,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Whiteboard invitation</source>
-        <translation type="unfinished">Покана на Бялата дъска</translation>
+        <translation>Покана на Бялата дъска</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished">Приемане</translation>
+        <translation>Приемане</translation>
     </message>
     <message>
         <source>Decline</source>
@@ -16088,7 +16088,7 @@ Would you like to activate that session now?</source>
     <name>PsiPopup::Private</name>
     <message>
         <source>Accept</source>
-        <translation type="unfinished">Приемане</translation>
+        <translation>Приемане</translation>
     </message>
     <message>
         <source>Decline</source>
@@ -20399,7 +20399,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Select</source>
@@ -20515,7 +20515,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Инструменти</translation>
+        <translation>Инструменти</translation>
     </message>
     <message>
         <source>V select, P pen, L line, R rectangle, O ellipse, D rhombus, T text, I image, E eraser</source>
@@ -20599,7 +20599,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Изтриване</translation>
+        <translation>Изтриване</translation>
     </message>
     <message>
         <source>Delete or Backspace</source>
@@ -20635,7 +20635,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Изглед</translation>
+        <translation>Изглед</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -20691,7 +20691,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="unfinished">Векторни графики (*.svg)</translation>
+        <translation>Векторни графики (*.svg)</translation>
     </message>
     <message>
         <source>The file is not an SVG document.</source>
@@ -20714,7 +20714,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Text:</source>
-        <translation type="unfinished">Текст:</translation>
+        <translation>Текст:</translation>
     </message>
 </context>
 <context>
@@ -20939,7 +20939,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Proxy authentication failed</source>
-        <translation type="unfinished">Грешка при идентификация пред сървъра-посредник</translation>
+        <translation>Грешка при идентификация пред сървъра-посредник</translation>
     </message>
     <message>
         <source>The connection to the DNS server failed</source>

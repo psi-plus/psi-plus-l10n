@@ -2127,7 +2127,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Zamknij</translation>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <source>Close call window</source>
@@ -2179,7 +2179,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <source>Cancel call</source>
@@ -2227,7 +2227,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Call ended</source>
-        <translation type="unfinished">Rozmowa zakończona</translation>
+        <translation>Rozmowa zakończona</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -3319,7 +3319,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Blocked Contacts</source>
-        <translation type="unfinished">Zablokowane kontakty</translation>
+        <translation>Zablokowane kontakty</translation>
     </message>
     <message>
         <source>Server blocklist (XEP-0191)</source>
@@ -3671,7 +3671,7 @@ Kontynuować?</translation>
     </message>
     <message>
         <source>Player:</source>
-        <translation type="unfinished">Odtwarzacz:</translation>
+        <translation>Odtwarzacz:</translation>
     </message>
     <message>
         <source>Choose media player executable</source>
@@ -3834,7 +3834,7 @@ Kontynuować?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Błąd</translation>
+        <translation>Błąd</translation>
     </message>
 </context>
 <context>
@@ -5793,7 +5793,7 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source>User Info</source>
-        <translation type="unfinished">Informacje o użytkowniku</translation>
+        <translation>Informacje o użytkowniku</translation>
     </message>
     <message>
         <source>Open Chat Window</source>
@@ -8668,7 +8668,7 @@ Przychodzące zdarzenie(a) od:</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <source>Add reaction</source>
@@ -8696,7 +8696,7 @@ Przychodzące zdarzenie(a) od:</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiadomość</translation>
     </message>
     <message>
         <source>Read</source>
@@ -8813,7 +8813,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Quote</source>
-        <translation type="unfinished">Cytat</translation>
+        <translation>Cytat</translation>
     </message>
     <message>
         <source>The message has no reply identifier assigned by its sender or room.</source>
@@ -8825,7 +8825,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Dalej</translation>
+        <translation>Dalej</translation>
     </message>
     <message>
         <source>Copy image</source>
@@ -9190,11 +9190,11 @@ Details: %1</source>
     <name>NativeChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
-        <translation type="unfinished">Styl wiadomości rozmowy grupowej</translation>
+        <translation>Styl wiadomości rozmowy grupowej</translation>
     </message>
     <message>
         <source>Chat Message Style</source>
-        <translation type="unfinished">Styl czatu</translation>
+        <translation>Styl czatu</translation>
     </message>
     <message>
         <source>Choose the native message layout</source>
@@ -12294,7 +12294,7 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Odśwież</translation>
+        <translation>Odśwież</translation>
     </message>
     <message>
         <source>Network interface:</source>
@@ -12318,7 +12318,7 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished">Status:</translation>
+        <translation>Status:</translation>
     </message>
     <message>
         <source>Automatic (active local network)</source>
@@ -12326,7 +12326,7 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>%1 (unavailable)</source>
@@ -12350,7 +12350,7 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Niedostępny</translation>
     </message>
     <message>
         <source>Local network</source>
@@ -13698,7 +13698,7 @@ Zaznacz opcję &lt;b&gt;Włącz emotikony&lt;/b&gt;, jeśli chcesz, aby tekst ty
     </message>
     <message>
         <source>Delete Profile</source>
-        <translation type="unfinished">Usuń profil</translation>
+        <translation>Usuń profil</translation>
     </message>
     <message>
         <source>Delete profile &quot;%1&quot;?
@@ -13817,7 +13817,7 @@ All of its message history, settings, and cached files will be deleted.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak</translation>
     </message>
     <message>
         <source>DNS over HTTPS</source>
@@ -14256,7 +14256,7 @@ Przyczyna: %1.</translation>
     </message>
     <message>
         <source>Unsupported</source>
-        <translation type="unfinished">Nieobsługiwane</translation>
+        <translation>Nieobsługiwane</translation>
     </message>
     <message>
         <source>Group chat whiteboards are not supported yet.</source>
@@ -14932,7 +14932,7 @@ Przyczyna: %1.</translation>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished">Kodowanie</translation>
+        <translation>Kodowanie</translation>
     </message>
     <message>
         <source>Account is offline</source>
@@ -14948,7 +14948,7 @@ Przyczyna: %1.</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozmowa głosowa</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -15410,7 +15410,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished">Akceptuj</translation>
+        <translation>Akceptuj</translation>
     </message>
     <message>
         <source>Decline</source>
@@ -15842,7 +15842,7 @@ Czy chcesz teraz aktywować sesję?</translation>
     <name>PsiPopup::Private</name>
     <message>
         <source>Accept</source>
-        <translation type="unfinished">Akceptuj</translation>
+        <translation>Akceptuj</translation>
     </message>
     <message>
         <source>Decline</source>
@@ -20214,15 +20214,15 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     <name>WbView</name>
     <message>
         <source>Save session</source>
-        <translation type="unfinished">Zapisz sesję</translation>
+        <translation>Zapisz sesję</translation>
     </message>
     <message>
         <source>Save the contents of the whiteboard</source>
-        <translation type="unfinished">Zapisz zawartość tablicy</translation>
+        <translation>Zapisz zawartość tablicy</translation>
     </message>
     <message>
         <source>Change the geometry</source>
-        <translation type="unfinished">Zmień wymiary</translation>
+        <translation>Zmień wymiary</translation>
     </message>
     <message>
         <source>Clear the whiteboard for everyone</source>
@@ -20230,23 +20230,23 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     </message>
     <message>
         <source>Clear the whiteboard</source>
-        <translation type="unfinished">Wyczyść tablicę</translation>
+        <translation>Wyczyść tablicę</translation>
     </message>
     <message>
         <source>Stroke color</source>
-        <translation type="unfinished">Kolor linii</translation>
+        <translation>Kolor linii</translation>
     </message>
     <message>
         <source>Fill color</source>
-        <translation type="unfinished">Kolor wypełnienia</translation>
+        <translation>Kolor wypełnienia</translation>
     </message>
     <message>
         <source>Stroke width</source>
-        <translation type="unfinished">Szerokość (grubość) linii</translation>
+        <translation>Szerokość (grubość) linii</translation>
     </message>
     <message>
         <source>Edit mode</source>
-        <translation type="unfinished">Tryb edycji</translation>
+        <translation>Tryb edycji</translation>
     </message>
     <message>
         <source>Import SVG</source>
@@ -20258,27 +20258,27 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     </message>
     <message>
         <source>Thin stroke</source>
-        <translation type="unfinished">Cienka linia</translation>
+        <translation>Cienka linia</translation>
     </message>
     <message>
         <source>Medium stroke</source>
-        <translation type="unfinished">Średnia linia</translation>
+        <translation>Średnia linia</translation>
     </message>
     <message>
         <source>Thick stroke</source>
-        <translation type="unfinished">Gruba linia</translation>
+        <translation>Gruba linia</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished">Wybierz</translation>
+        <translation>Wybierz</translation>
     </message>
     <message>
         <source>Draw paths</source>
-        <translation type="unfinished">Rysuj ścieżki (krzywe)</translation>
+        <translation>Rysuj ścieżki (krzywe)</translation>
     </message>
     <message>
         <source>Draw lines</source>
@@ -20302,11 +20302,11 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     </message>
     <message>
         <source>Add images</source>
-        <translation type="unfinished">Dodaj obrazy</translation>
+        <translation>Dodaj obrazy</translation>
     </message>
     <message>
         <source>Erase</source>
-        <translation type="unfinished">Wyczyść</translation>
+        <translation>Wyczyść</translation>
     </message>
     <message>
         <source>Controls</source>
@@ -20318,7 +20318,7 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     </message>
     <message>
         <source>Whiteboard toolbar</source>
-        <translation type="unfinished">Przybornik tablicy</translation>
+        <translation>Przybornik tablicy</translation>
     </message>
     <message>
         <source>Right-click or Control-click</source>
@@ -20386,7 +20386,7 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Narzędzia</translation>
+        <translation>Narzędzia</translation>
     </message>
     <message>
         <source>V select, P pen, L line, R rectangle, O ellipse, D rhombus, T text, I image, E eraser</source>
@@ -20450,7 +20450,7 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     </message>
     <message>
         <source>Scale</source>
-        <translation type="unfinished">Skaluj</translation>
+        <translation>Skaluj</translation>
     </message>
     <message>
         <source>%1 + %2 + drag the selection, or + and −</source>
@@ -20458,7 +20458,7 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished">Obróć</translation>
+        <translation>Obróć</translation>
     </message>
     <message>
         <source>%1, %2 + wheel, or , and . (15°), &lt; and &gt; (1°)</source>
@@ -20470,7 +20470,7 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Kasuj</translation>
     </message>
     <message>
         <source>Delete or Backspace</source>
@@ -20506,7 +20506,7 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Wygląd</translation>
+        <translation>Wygląd</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -20542,19 +20542,19 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     </message>
     <message>
         <source>Set new width:</source>
-        <translation type="unfinished">Podaj nową szerokość:</translation>
+        <translation>Podaj nową szerokość:</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished">Szerokość:</translation>
+        <translation>Szerokość:</translation>
     </message>
     <message>
         <source>Set new height:</source>
-        <translation type="unfinished">Podaj nową wysokość:</translation>
+        <translation>Podaj nową wysokość:</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished">Wysokość:</translation>
+        <translation>Wysokość:</translation>
     </message>
     <message>
         <source>Save Whiteboard</source>
@@ -20562,7 +20562,7 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     </message>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="unfinished">Skalowalna Grafika Wektorowa (*.svg)</translation>
+        <translation>Skalowalna Grafika Wektorowa (*.svg)</translation>
     </message>
     <message>
         <source>The file is not an SVG document.</source>
@@ -20573,7 +20573,7 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     <name>WbWidget</name>
     <message>
         <source>Choose an image</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz obraz awatara</translation>
     </message>
     <message>
         <source>Images (*.png *.jpg *.jpeg *.gif *.bmp *.webp)</source>
@@ -20585,7 +20585,7 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     </message>
     <message>
         <source>Text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst:</translation>
     </message>
 </context>
 <context>
@@ -20818,7 +20818,7 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     </message>
     <message>
         <source>Proxy authentication failed</source>
-        <translation type="unfinished">Błąd uwierzytelniania proxy</translation>
+        <translation>Błąd uwierzytelniania proxy</translation>
     </message>
     <message>
         <source>The connection to the DNS server failed</source>

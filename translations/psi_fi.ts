@@ -3461,7 +3461,7 @@ Jatka?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Virhe</translation>
+        <translation>Virhe</translation>
     </message>
 </context>
 <context>
@@ -7980,7 +7980,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Eteenpäin</translation>
+        <translation>Eteenpäin</translation>
     </message>
     <message>
         <source>Copy image</source>
@@ -11372,7 +11372,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished">Tila:</translation>
+        <translation>Tila:</translation>
     </message>
     <message>
         <source>Automatic (active local network)</source>
@@ -11404,7 +11404,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">poissa linjoilta</translation>
+        <translation>poissa linjoilta</translation>
     </message>
     <message>
         <source>Local network</source>
@@ -12598,7 +12598,7 @@ Käytä vain kirjaimia tai numeroita, ei välimerkkejä tai välilyöntejä.</tr
     </message>
     <message>
         <source>Delete Profile</source>
-        <translation type="unfinished">Poista profiili</translation>
+        <translation>Poista profiili</translation>
     </message>
     <message>
         <source>Delete profile &quot;%1&quot;?
@@ -12717,7 +12717,7 @@ All of its message history, settings, and cached files will be deleted.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Ei mitään</translation>
+        <translation>Ei mitään</translation>
     </message>
     <message>
         <source>DNS over HTTPS</source>
@@ -19232,7 +19232,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Proxy authentication failed</source>
-        <translation type="unfinished">Tunnistautuminen välityspalvelimelle epäonnistui</translation>
+        <translation>Tunnistautuminen välityspalvelimelle epäonnistui</translation>
     </message>
     <message>
         <source>The connection to the DNS server failed</source>

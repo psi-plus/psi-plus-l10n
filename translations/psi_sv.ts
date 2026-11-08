@@ -2036,7 +2036,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Stäng</translation>
+        <translation>Stäng</translation>
     </message>
     <message>
         <source>Close call window</source>
@@ -2088,7 +2088,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <source>Cancel call</source>
@@ -2136,7 +2136,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Call ended</source>
-        <translation type="unfinished">Samtal avslutat</translation>
+        <translation>Samtal avslutat</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -3111,7 +3111,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Blocked Contacts</source>
-        <translation type="unfinished">Blockerade kontakter</translation>
+        <translation>Blockerade kontakter</translation>
     </message>
     <message>
         <source>Server blocklist (XEP-0191)</source>
@@ -3455,7 +3455,7 @@ Fortsätt?</translation>
     </message>
     <message>
         <source>Player:</source>
-        <translation type="unfinished">Spelare:</translation>
+        <translation>Spelare:</translation>
     </message>
     <message>
         <source>Choose media player executable</source>
@@ -3618,7 +3618,7 @@ Fortsätt?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fel</translation>
+        <translation>Fel</translation>
     </message>
 </context>
 <context>
@@ -5533,7 +5533,7 @@ Anledning: %1</translation>
     </message>
     <message>
         <source>User Info</source>
-        <translation type="unfinished">Användarinformation</translation>
+        <translation>Användarinformation</translation>
     </message>
     <message>
         <source>Open Chat Window</source>
@@ -8280,7 +8280,7 @@ Ryssland, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <source>Add reaction</source>
@@ -8308,7 +8308,7 @@ Ryssland, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation type="unfinished">Meddelande</translation>
+        <translation>Meddelande</translation>
     </message>
     <message>
         <source>Read</source>
@@ -8435,7 +8435,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Framåt</translation>
+        <translation>Framåt</translation>
     </message>
     <message>
         <source>Copy image</source>
@@ -11873,7 +11873,7 @@ Inställningsnamn kan inte vara tomma, sluta på &apos;.&apos; eller innehålla 
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished">Status:</translation>
+        <translation>Status:</translation>
     </message>
     <message>
         <source>Automatic (active local network)</source>
@@ -11881,7 +11881,7 @@ Inställningsnamn kan inte vara tomma, sluta på &apos;.&apos; eller innehålla 
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>%1 (unavailable)</source>
@@ -11905,7 +11905,7 @@ Inställningsnamn kan inte vara tomma, sluta på &apos;.&apos; eller innehålla 
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Ej ansluten</translation>
+        <translation>Ej ansluten</translation>
     </message>
     <message>
         <source>Local network</source>
@@ -13248,7 +13248,7 @@ Klicka i &lt;i&gt;Slå på emotikoner&lt;/i&gt;-kryssrutan om du vill att text s
     </message>
     <message>
         <source>Delete Profile</source>
-        <translation type="unfinished">Ta bort</translation>
+        <translation>Ta bort</translation>
     </message>
     <message>
         <source>Delete profile &quot;%1&quot;?
@@ -13367,7 +13367,7 @@ All of its message history, settings, and cached files will be deleted.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Ingen</translation>
+        <translation>Ingen</translation>
     </message>
     <message>
         <source>DNS over HTTPS</source>
@@ -13806,7 +13806,7 @@ Orsak: %1.</translation>
     </message>
     <message>
         <source>Unsupported</source>
-        <translation type="unfinished">Stöds ej</translation>
+        <translation>Stöds ej</translation>
     </message>
     <message>
         <source>Group chat whiteboards are not supported yet.</source>
@@ -14494,7 +14494,7 @@ Orsak: %1.</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished">Röstsamtal</translation>
+        <translation>Röstsamtal</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -14956,7 +14956,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished">Svara</translation>
+        <translation>Svara</translation>
     </message>
     <message>
         <source>Decline</source>
@@ -15388,7 +15388,7 @@ Vill du aktivera den sessionen nu?</translation>
     <name>PsiPopup::Private</name>
     <message>
         <source>Accept</source>
-        <translation type="unfinished">Svara</translation>
+        <translation>Svara</translation>
     </message>
     <message>
         <source>Decline</source>
@@ -19722,15 +19722,15 @@ Vill du ändå stänga fönstrett?</translation>
     <name>WbView</name>
     <message>
         <source>Save session</source>
-        <translation type="unfinished">Spara session</translation>
+        <translation>Spara session</translation>
     </message>
     <message>
         <source>Save the contents of the whiteboard</source>
-        <translation type="unfinished">Spara skrivtavlans innehåll</translation>
+        <translation>Spara skrivtavlans innehåll</translation>
     </message>
     <message>
         <source>Change the geometry</source>
-        <translation type="unfinished">Ändra geometrin</translation>
+        <translation>Ändra geometrin</translation>
     </message>
     <message>
         <source>Clear the whiteboard for everyone</source>
@@ -19738,23 +19738,23 @@ Vill du ändå stänga fönstrett?</translation>
     </message>
     <message>
         <source>Clear the whiteboard</source>
-        <translation type="unfinished">Rensa skrivtavlan</translation>
+        <translation>Rensa skrivtavlan</translation>
     </message>
     <message>
         <source>Stroke color</source>
-        <translation type="unfinished">Streckfärg</translation>
+        <translation>Streckfärg</translation>
     </message>
     <message>
         <source>Fill color</source>
-        <translation type="unfinished">Fyllnadsfärg</translation>
+        <translation>Fyllnadsfärg</translation>
     </message>
     <message>
         <source>Stroke width</source>
-        <translation type="unfinished">Streckbredd</translation>
+        <translation>Streckbredd</translation>
     </message>
     <message>
         <source>Edit mode</source>
-        <translation type="unfinished">Redigeringsläge</translation>
+        <translation>Redigeringsläge</translation>
     </message>
     <message>
         <source>Import SVG</source>
@@ -19766,27 +19766,27 @@ Vill du ändå stänga fönstrett?</translation>
     </message>
     <message>
         <source>Thin stroke</source>
-        <translation type="unfinished">Tunna streck</translation>
+        <translation>Tunna streck</translation>
     </message>
     <message>
         <source>Medium stroke</source>
-        <translation type="unfinished">Medelstreck</translation>
+        <translation>Medelstreck</translation>
     </message>
     <message>
         <source>Thick stroke</source>
-        <translation type="unfinished">Tjocka streck</translation>
+        <translation>Tjocka streck</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished">Välj</translation>
+        <translation>Välj</translation>
     </message>
     <message>
         <source>Draw paths</source>
-        <translation type="unfinished">Rita länkar</translation>
+        <translation>Rita länkar</translation>
     </message>
     <message>
         <source>Draw lines</source>
@@ -19810,11 +19810,11 @@ Vill du ändå stänga fönstrett?</translation>
     </message>
     <message>
         <source>Add images</source>
-        <translation type="unfinished">Lägg till bilder</translation>
+        <translation>Lägg till bilder</translation>
     </message>
     <message>
         <source>Erase</source>
-        <translation type="unfinished">Sudda</translation>
+        <translation>Sudda</translation>
     </message>
     <message>
         <source>Controls</source>
@@ -19826,7 +19826,7 @@ Vill du ändå stänga fönstrett?</translation>
     </message>
     <message>
         <source>Whiteboard toolbar</source>
-        <translation type="unfinished">Verktygsrada för skrivtavla</translation>
+        <translation>Verktygsrada för skrivtavla</translation>
     </message>
     <message>
         <source>Right-click or Control-click</source>
@@ -19894,7 +19894,7 @@ Vill du ändå stänga fönstrett?</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Verktyg</translation>
+        <translation>Verktyg</translation>
     </message>
     <message>
         <source>V select, P pen, L line, R rectangle, O ellipse, D rhombus, T text, I image, E eraser</source>
@@ -19958,7 +19958,7 @@ Vill du ändå stänga fönstrett?</translation>
     </message>
     <message>
         <source>Scale</source>
-        <translation type="unfinished">Skala</translation>
+        <translation>Skala</translation>
     </message>
     <message>
         <source>%1 + %2 + drag the selection, or + and −</source>
@@ -19966,7 +19966,7 @@ Vill du ändå stänga fönstrett?</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished">Rotera</translation>
+        <translation>Rotera</translation>
     </message>
     <message>
         <source>%1, %2 + wheel, or , and . (15°), &lt; and &gt; (1°)</source>
@@ -19978,7 +19978,7 @@ Vill du ändå stänga fönstrett?</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Ta bort</translation>
+        <translation>Ta bort</translation>
     </message>
     <message>
         <source>Delete or Backspace</source>
@@ -20014,7 +20014,7 @@ Vill du ändå stänga fönstrett?</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Vy</translation>
+        <translation>Vy</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -20050,19 +20050,19 @@ Vill du ändå stänga fönstrett?</translation>
     </message>
     <message>
         <source>Set new width:</source>
-        <translation type="unfinished">Ny bredd:</translation>
+        <translation>Ny bredd:</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished">Bredd:</translation>
+        <translation>Bredd:</translation>
     </message>
     <message>
         <source>Set new height:</source>
-        <translation type="unfinished">Sätt ny höjd:</translation>
+        <translation>Sätt ny höjd:</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished">Höjd:</translation>
+        <translation>Höjd:</translation>
     </message>
     <message>
         <source>Save Whiteboard</source>
@@ -20070,7 +20070,7 @@ Vill du ändå stänga fönstrett?</translation>
     </message>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="unfinished"></translation>
+        <translation>Scalable Vector Graphics (*.svg)</translation>
     </message>
     <message>
         <source>The file is not an SVG document.</source>
@@ -20081,7 +20081,7 @@ Vill du ändå stänga fönstrett?</translation>
     <name>WbWidget</name>
     <message>
         <source>Choose an image</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en bild</translation>
     </message>
     <message>
         <source>Images (*.png *.jpg *.jpeg *.gif *.bmp *.webp)</source>
@@ -20093,7 +20093,7 @@ Vill du ändå stänga fönstrett?</translation>
     </message>
     <message>
         <source>Text:</source>
-        <translation type="unfinished">Text:</translation>
+        <translation>Text:</translation>
     </message>
 </context>
 <context>
@@ -20311,7 +20311,7 @@ Vill du ändå stänga fönstrett?</translation>
     </message>
     <message>
         <source>Proxy authentication failed</source>
-        <translation type="unfinished">Proxyinloggning misslyckades</translation>
+        <translation>Proxyinloggning misslyckades</translation>
     </message>
     <message>
         <source>The connection to the DNS server failed</source>

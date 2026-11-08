@@ -3461,7 +3461,7 @@ Soovid jätkata?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Viga</translation>
+        <translation>Viga</translation>
     </message>
 </context>
 <context>
@@ -7990,7 +7990,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Edasi</translation>
+        <translation>Edasi</translation>
     </message>
     <message>
         <source>Copy image</source>
@@ -11382,7 +11382,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished">Staatus:</translation>
+        <translation>Staatus:</translation>
     </message>
     <message>
         <source>Automatic (active local network)</source>
@@ -11414,7 +11414,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Ühendamata</translation>
+        <translation>Ühendamata</translation>
     </message>
     <message>
         <source>Local network</source>
@@ -12616,7 +12616,7 @@ Kasuta ainult tähti ja numbreid. Ära kasuta kirjavahemärke ja tühikuid.</tra
     </message>
     <message>
         <source>Delete Profile</source>
-        <translation type="unfinished">Kustuta Profiil</translation>
+        <translation>Kustuta Profiil</translation>
     </message>
     <message>
         <source>Delete profile &quot;%1&quot;?
@@ -12735,7 +12735,7 @@ All of its message history, settings, and cached files will be deleted.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Puudub</translation>
+        <translation>Puudub</translation>
     </message>
     <message>
         <source>DNS over HTTPS</source>
@@ -18877,7 +18877,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Tööriistad</translation>
+        <translation>Tööriistad</translation>
     </message>
     <message>
         <source>V select, P pen, L line, R rectangle, O ellipse, D rhombus, T text, I image, E eraser</source>
@@ -18997,7 +18997,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Vaata</translation>
+        <translation>Vaata</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -19294,7 +19294,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Proxy authentication failed</source>
-        <translation type="unfinished">Proksi sisselogimine ebaõnnestus</translation>
+        <translation>Proksi sisselogimine ebaõnnestus</translation>
     </message>
     <message>
         <source>The connection to the DNS server failed</source>

@@ -2903,7 +2903,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Blocked Contacts</source>
-        <translation type="unfinished">مخاطبین مسدود شده</translation>
+        <translation>مخاطبین مسدود شده</translation>
     </message>
     <message>
         <source>Server blocklist (XEP-0191)</source>
@@ -3385,7 +3385,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">خطا</translation>
+        <translation>خطا</translation>
     </message>
 </context>
 <context>
@@ -12478,7 +12478,7 @@ All of its message history, settings, and cached files will be deleted.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">هیچ کدام</translation>
+        <translation>هیچ کدام</translation>
     </message>
     <message>
         <source>DNS over HTTPS</source>

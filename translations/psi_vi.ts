@@ -2214,7 +2214,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Đóng</translation>
+        <translation>Đóng</translation>
     </message>
     <message>
         <source>Close call window</source>
@@ -2266,7 +2266,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Hủy</translation>
     </message>
     <message>
         <source>Cancel call</source>
@@ -2314,7 +2314,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Call ended</source>
-        <translation type="unfinished">Cuộc gọi đã kết thúc</translation>
+        <translation>Cuộc gọi đã kết thúc</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -3450,7 +3450,7 @@ Lưu ý: Để hoạt động chính xác, Thanh công cụ trò chuyện nhóm 
     </message>
     <message>
         <source>Blocked Contacts</source>
-        <translation type="unfinished">Liên lạc bị chăn</translation>
+        <translation>Liên lạc bị chăn</translation>
     </message>
     <message>
         <source>Server blocklist (XEP-0191)</source>
@@ -3809,7 +3809,7 @@ Tiếp tục?</translation>
     </message>
     <message>
         <source>Player:</source>
-        <translation type="unfinished">Bộ phát:</translation>
+        <translation>Bộ phát:</translation>
     </message>
     <message>
         <source>Choose media player executable</source>
@@ -3972,7 +3972,7 @@ Tiếp tục?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Lỗi</translation>
+        <translation>Lỗi</translation>
     </message>
 </context>
 <context>
@@ -5938,7 +5938,7 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>User Info</source>
-        <translation type="unfinished">Thông tin người dùng</translation>
+        <translation>Thông tin người dùng</translation>
     </message>
     <message>
         <source>Open Chat Window</source>
@@ -8828,11 +8828,11 @@ Nga, Tambov, 2005 (denis@silversoft.net)</translation>
     <name>MamChatWidget</name>
     <message>
         <source>Copy</source>
-        <translation type="unfinished">Sao chép</translation>
+        <translation>Sao chép</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Hủy</translation>
     </message>
     <message>
         <source>Add reaction</source>
@@ -8860,7 +8860,7 @@ Nga, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation type="unfinished">Tin nhẳn</translation>
+        <translation>Tin nhẳn</translation>
     </message>
     <message>
         <source>Read</source>
@@ -8884,7 +8884,7 @@ Nga, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>The message was corrected</source>
-        <translation type="unfinished">Tin nhắn đã được sửa</translation>
+        <translation>Tin nhắn đã được sửa</translation>
     </message>
     <message>
         <source>Edited message</source>
@@ -8913,7 +8913,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Open file</source>
-        <translation type="unfinished">Mở tập tin</translation>
+        <translation>Mở tập tin</translation>
     </message>
     <message>
         <source>Show in file manager</source>
@@ -8973,7 +8973,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Quote</source>
-        <translation type="unfinished">Trích dẫn</translation>
+        <translation>Trích dẫn</translation>
     </message>
     <message>
         <source>The message has no reply identifier assigned by its sender or room.</source>
@@ -8985,7 +8985,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Tới</translation>
+        <translation>Tới</translation>
     </message>
     <message>
         <source>Copy image</source>
@@ -9350,11 +9350,11 @@ Details: %1</source>
     <name>NativeChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
-        <translation type="unfinished">Kiểu tin nhắn nhóm trò chuyện</translation>
+        <translation>Kiểu tin nhắn nhóm trò chuyện</translation>
     </message>
     <message>
         <source>Chat Message Style</source>
-        <translation type="unfinished">Kiểu tin nhắn</translation>
+        <translation>Kiểu tin nhắn</translation>
     </message>
     <message>
         <source>Choose the native message layout</source>
@@ -12415,7 +12415,7 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished">Tự động</translation>
+        <translation>Tự động</translation>
     </message>
     <message>
         <source>Leave Automatic unless a firewall requires a fixed TCP listening port.</source>
@@ -12431,7 +12431,7 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished">Trạng thái:</translation>
+        <translation>Trạng thái:</translation>
     </message>
     <message>
         <source>Automatic (active local network)</source>
@@ -12439,7 +12439,7 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>%1 (unavailable)</source>
@@ -12463,7 +12463,7 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Ngoại tuyến</translation>
+        <translation>Ngoại tuyến</translation>
     </message>
     <message>
         <source>Local network</source>
@@ -12682,7 +12682,7 @@ Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (
     <name>OptionsTabXmppAccounts</name>
     <message>
         <source>XMPP</source>
-        <translation type="unfinished">XMPP</translation>
+        <translation>XMPP</translation>
     </message>
     <message>
         <source>Server accounts</source>
@@ -13828,7 +13828,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Delete Profile</source>
-        <translation type="unfinished">Xoá hồ sơ</translation>
+        <translation>Xoá hồ sơ</translation>
     </message>
     <message>
         <source>Delete profile &quot;%1&quot;?
@@ -13947,7 +13947,7 @@ All of its message history, settings, and cached files will be deleted.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Không có</translation>
+        <translation>Không có</translation>
     </message>
     <message>
         <source>DNS over HTTPS</source>
@@ -14386,7 +14386,7 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Unsupported</source>
-        <translation type="unfinished">Không được hỗ trợ</translation>
+        <translation>Không được hỗ trợ</translation>
     </message>
     <message>
         <source>Group chat whiteboards are not supported yet.</source>
@@ -15078,7 +15078,7 @@ Lý do : %1.</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished"></translation>
+        <translation>Gọi thoại</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -15540,7 +15540,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished">Chấp nhận</translation>
+        <translation>Chấp nhận</translation>
     </message>
     <message>
         <source>Decline</source>
@@ -15973,7 +15973,7 @@ Bạn có muốn kích hoạt buổi hợp đó ngay bây giờ không?</transla
     <name>PsiPopup::Private</name>
     <message>
         <source>Accept</source>
-        <translation type="unfinished">Chấp nhận</translation>
+        <translation>Chấp nhận</translation>
     </message>
     <message>
         <source>Decline</source>
@@ -17709,7 +17709,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished">Hoàn thành</translation>
+        <translation>Hoàn thành</translation>
     </message>
     <message>
         <source>Failed</source>
@@ -20352,15 +20352,15 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     <name>WbView</name>
     <message>
         <source>Save session</source>
-        <translation type="unfinished">Lưu buổi hợp</translation>
+        <translation>Lưu buổi hợp</translation>
     </message>
     <message>
         <source>Save the contents of the whiteboard</source>
-        <translation type="unfinished">Lưu nội dung của bảng trắng</translation>
+        <translation>Lưu nội dung của bảng trắng</translation>
     </message>
     <message>
         <source>Change the geometry</source>
-        <translation type="unfinished">Đổi hình dạng</translation>
+        <translation>Đổi hình dạng</translation>
     </message>
     <message>
         <source>Clear the whiteboard for everyone</source>
@@ -20368,23 +20368,23 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     </message>
     <message>
         <source>Clear the whiteboard</source>
-        <translation type="unfinished">Xoá bảng trắng</translation>
+        <translation>Xoá bảng trắng</translation>
     </message>
     <message>
         <source>Stroke color</source>
-        <translation type="unfinished">Màu nét</translation>
+        <translation>Màu nét</translation>
     </message>
     <message>
         <source>Fill color</source>
-        <translation type="unfinished">Màu tô</translation>
+        <translation>Màu tô</translation>
     </message>
     <message>
         <source>Stroke width</source>
-        <translation type="unfinished">Rộng nét</translation>
+        <translation>Rộng nét</translation>
     </message>
     <message>
         <source>Edit mode</source>
-        <translation type="unfinished">Chế độ sửa</translation>
+        <translation>Chế độ sửa</translation>
     </message>
     <message>
         <source>Import SVG</source>
@@ -20396,27 +20396,27 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     </message>
     <message>
         <source>Thin stroke</source>
-        <translation type="unfinished">Nét hẹp</translation>
+        <translation>Nét hẹp</translation>
     </message>
     <message>
         <source>Medium stroke</source>
-        <translation type="unfinished">Nét vừa</translation>
+        <translation>Nét vừa</translation>
     </message>
     <message>
         <source>Thick stroke</source>
-        <translation type="unfinished">Nét dày</translation>
+        <translation>Nét dày</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished">Chọn</translation>
+        <translation>Chọn</translation>
     </message>
     <message>
         <source>Draw paths</source>
-        <translation type="unfinished">Vẽ đường dẫn</translation>
+        <translation>Vẽ đường dẫn</translation>
     </message>
     <message>
         <source>Draw lines</source>
@@ -20440,11 +20440,11 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     </message>
     <message>
         <source>Add images</source>
-        <translation type="unfinished">Thêm ảnh</translation>
+        <translation>Thêm ảnh</translation>
     </message>
     <message>
         <source>Erase</source>
-        <translation type="unfinished">Xoá</translation>
+        <translation>Xoá</translation>
     </message>
     <message>
         <source>Controls</source>
@@ -20456,7 +20456,7 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     </message>
     <message>
         <source>Whiteboard toolbar</source>
-        <translation type="unfinished">Thanh công cụ bảng trắng</translation>
+        <translation>Thanh công cụ bảng trắng</translation>
     </message>
     <message>
         <source>Right-click or Control-click</source>
@@ -20524,7 +20524,7 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Công cụ</translation>
+        <translation>Công cụ</translation>
     </message>
     <message>
         <source>V select, P pen, L line, R rectangle, O ellipse, D rhombus, T text, I image, E eraser</source>
@@ -20588,7 +20588,7 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     </message>
     <message>
         <source>Scale</source>
-        <translation type="unfinished">Co dãn</translation>
+        <translation>Co dãn</translation>
     </message>
     <message>
         <source>%1 + %2 + drag the selection, or + and −</source>
@@ -20596,7 +20596,7 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished">Quay</translation>
+        <translation>Quay</translation>
     </message>
     <message>
         <source>%1, %2 + wheel, or , and . (15°), &lt; and &gt; (1°)</source>
@@ -20608,7 +20608,7 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Xoá</translation>
+        <translation>Xoá</translation>
     </message>
     <message>
         <source>Delete or Backspace</source>
@@ -20644,7 +20644,7 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Xem</translation>
+        <translation>Xem</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -20680,19 +20680,19 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     </message>
     <message>
         <source>Set new width:</source>
-        <translation type="unfinished">Đặt độ rộng mới:</translation>
+        <translation>Đặt độ rộng mới:</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished">Rộng:</translation>
+        <translation>Rộng:</translation>
     </message>
     <message>
         <source>Set new height:</source>
-        <translation type="unfinished">Đặt độ cao mới:</translation>
+        <translation>Đặt độ cao mới:</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished">Cao :</translation>
+        <translation>Cao :</translation>
     </message>
     <message>
         <source>Save Whiteboard</source>
@@ -20700,7 +20700,7 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     </message>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="unfinished">Đồ họa Véc-tơ Có Khả năng Co giãn (*.svg)</translation>
+        <translation>Đồ họa Véc-tơ Có Khả năng Co giãn (*.svg)</translation>
     </message>
     <message>
         <source>The file is not an SVG document.</source>
@@ -20711,7 +20711,7 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     <name>WbWidget</name>
     <message>
         <source>Choose an image</source>
-        <translation type="unfinished"></translation>
+        <translation>Chọn một ảnh</translation>
     </message>
     <message>
         <source>Images (*.png *.jpg *.jpeg *.gif *.bmp *.webp)</source>
@@ -20723,7 +20723,7 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     </message>
     <message>
         <source>Text:</source>
-        <translation type="unfinished"></translation>
+        <translation>Văn bản:</translation>
     </message>
 </context>
 <context>
@@ -20956,7 +20956,7 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     </message>
     <message>
         <source>Proxy authentication failed</source>
-        <translation type="unfinished">Lỗi xác thực ủy nhiệm</translation>
+        <translation>Lỗi xác thực ủy nhiệm</translation>
     </message>
     <message>
         <source>The connection to the DNS server failed</source>

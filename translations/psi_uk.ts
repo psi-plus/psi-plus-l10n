@@ -302,14 +302,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation>psi-dev@conference.jabber.ru</translation>
     </message>
     <message>
-        <source>Patcher and former MS Windows Packager</source>
-        <translation type="vanished">Автор патчів та колишній супроводжуючий пакетів MS Windows</translation>
-    </message>
-    <message>
-        <source>Patcher and former Designer</source>
-        <translation type="vanished">Автор патчів та колишній дизайнер</translation>
-    </message>
-    <message>
         <source>Developer and Plugins Author</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2266,7 +2258,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Закрити</translation>
+        <translation>Закрити</translation>
     </message>
     <message>
         <source>Close call window</source>
@@ -2318,7 +2310,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Скасувати</translation>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <source>Cancel call</source>
@@ -2366,7 +2358,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Call ended</source>
-        <translation type="unfinished">Виклик закінчено</translation>
+        <translation>Виклик закінчено</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -2714,7 +2706,7 @@ Do you still want to close the window?</source>
     <name>ChatEditProxy</name>
     <message>
         <source>Reply</source>
-        <translation type="unfinished">Відповісти</translation>
+        <translation>Відповісти</translation>
     </message>
     <message>
         <source>Reply to %1</source>
@@ -3509,7 +3501,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Blocked Contacts</source>
-        <translation type="unfinished">Заблоковані контакти</translation>
+        <translation>Заблоковані контакти</translation>
     </message>
     <message>
         <source>Server blocklist (XEP-0191)</source>
@@ -3521,7 +3513,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Unblock</source>
-        <translation type="unfinished">Разблокувати</translation>
+        <translation>Разблокувати</translation>
     </message>
     <message>
         <source>Block JID</source>
@@ -3872,7 +3864,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Player:</source>
-        <translation type="unfinished">Програвач:</translation>
+        <translation>Програвач:</translation>
     </message>
     <message>
         <source>Choose media player executable</source>
@@ -4035,7 +4027,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Помилка</translation>
+        <translation>Помилка</translation>
     </message>
 </context>
 <context>
@@ -5372,7 +5364,7 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>Published on HttpUpload service</source>
-        <translation type="unfinished">Опубліковано на сервісі HttpUpload</translation>
+        <translation>Опубліковано на сервісі HttpUpload</translation>
     </message>
     <message>
         <source>Failed to publish on HttpUpload service: %1</source>
@@ -6021,7 +6013,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>User Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Інформація про користувача</translation>
     </message>
     <message>
         <source>Open Chat Window</source>
@@ -7130,10 +7122,6 @@ Continue?</source>
     <message>
         <source>Counting records</source>
         <translation type="vanished">Підрахунок записів</translation>
-    </message>
-    <message>
-        <source>Import history</source>
-        <translation type="vanished">Імпорт історії</translation>
     </message>
     <message>
         <source>Upgrade history</source>
@@ -9038,11 +9026,11 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     <name>MamChatWidget</name>
     <message>
         <source>Copy</source>
-        <translation type="unfinished">Копіювати</translation>
+        <translation>Копіювати</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Скасувати</translation>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <source>Add reaction</source>
@@ -9070,7 +9058,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     </message>
     <message>
         <source>Message</source>
-        <translation type="unfinished">Повідомлення</translation>
+        <translation>Повідомлення</translation>
     </message>
     <message>
         <source>Read</source>
@@ -9094,7 +9082,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     </message>
     <message>
         <source>The message was corrected</source>
-        <translation type="unfinished">Повідомлення відкориговано</translation>
+        <translation>Повідомлення відкориговано</translation>
     </message>
     <message>
         <source>Edited message</source>
@@ -9123,7 +9111,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Open file</source>
-        <translation type="unfinished">Відкрити файл</translation>
+        <translation>Відкрити файл</translation>
     </message>
     <message>
         <source>Show in file manager</source>
@@ -9135,7 +9123,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation type="unfinished">Відкрити у браузері</translation>
+        <translation>Відкрити у браузері</translation>
     </message>
     <message>
         <source>Cancel download</source>
@@ -9147,7 +9135,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Контакт</translation>
     </message>
     <message>
         <source>just now</source>
@@ -9187,7 +9175,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Quote</source>
-        <translation type="unfinished">Цитувати</translation>
+        <translation>Цитувати</translation>
     </message>
     <message>
         <source>The message has no reply identifier assigned by its sender or room.</source>
@@ -9199,7 +9187,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Переслати</translation>
     </message>
     <message>
         <source>Copy image</source>
@@ -9550,7 +9538,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Classic</source>
-        <translation type="unfinished"></translation>
+        <translation>Класичний</translation>
     </message>
     <message>
         <source>Compact text layout</source>
@@ -9569,11 +9557,11 @@ Details: %1</source>
     <name>NativeChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
-        <translation type="unfinished">Стиль повідомлень конференції</translation>
+        <translation>Стиль повідомлень конференції</translation>
     </message>
     <message>
         <source>Chat Message Style</source>
-        <translation type="unfinished">Стиль повідомлень чату</translation>
+        <translation>Стиль повідомлень чату</translation>
     </message>
     <message>
         <source>Choose the native message layout</source>
@@ -12872,7 +12860,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Оновити</translation>
+        <translation>Оновити</translation>
     </message>
     <message>
         <source>Network interface:</source>
@@ -12880,7 +12868,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished">Автоматично</translation>
+        <translation>Автоматично</translation>
     </message>
     <message>
         <source>Leave Automatic unless a firewall requires a fixed TCP listening port.</source>
@@ -12896,7 +12884,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished">Статус:</translation>
+        <translation>Статус:</translation>
     </message>
     <message>
         <source>Automatic (active local network)</source>
@@ -12904,7 +12892,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>%1 (unavailable)</source>
@@ -12916,7 +12904,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished">Вимкнено</translation>
+        <translation>Вимкнено</translation>
     </message>
     <message>
         <source>Online on the local network</source>
@@ -12928,7 +12916,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Офлайн</translation>
     </message>
     <message>
         <source>Local network</source>
@@ -13155,7 +13143,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabXmppAccounts</name>
     <message>
         <source>XMPP</source>
-        <translation type="unfinished">XMPP</translation>
+        <translation>XMPP</translation>
     </message>
     <message>
         <source>Server accounts</source>
@@ -14234,18 +14222,6 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <source>&amp;Chat</source>
         <translation type="vanished">&amp;Розмова</translation>
     </message>
-    <message>
-        <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
-&lt;br&gt;
-The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; and&lt;b&gt; Chat&lt;/b&gt;. You can change this later from the Options menu.&lt;br&gt;
-&lt;br&gt;
-Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation type="vanished">Нехай&lt;i&gt; ім&apos;я вашого профілю &lt;/i&gt; буде простим. Це має бути одне слово, яке складається лише з літер або цифр.&lt;br&gt;
-&lt;br&gt;
-&lt;i&gt; Дія за замовчуванням&lt;/i&gt; це те, що відбувається, коли ви двічі клацаєте контакт у своєму списку. Доступні варіанти&lt;b&gt; Повідомлення&lt;/b&gt; та&lt;b&gt; Чат &lt;/b&gt;. Ви можете змінити це пізніше в меню «Параметри».&lt;br&gt;
-&lt;br&gt;
-Оберіть &lt;i&gt;Увімкнути смайли&lt;/i&gt; якщо ви бажаєте, щоб текст, як-от &lt;b&gt;:-)&lt;/b&gt; перетворювався на графіку, як-от &lt;icon name=&quot;psi/smile&quot;&gt;.</translation>
-    </message>
 </context>
 <context>
     <name>ProfileNewDlg</name>
@@ -14393,7 +14369,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Delete Profile</source>
-        <translation type="unfinished">Видалити профіль</translation>
+        <translation>Видалити профіль</translation>
     </message>
     <message>
         <source>Delete profile &quot;%1&quot;?
@@ -14512,7 +14488,7 @@ All of its message history, settings, and cached files will be deleted.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ніяке</translation>
     </message>
     <message>
         <source>DNS over HTTPS</source>
@@ -14971,7 +14947,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Unsupported</source>
-        <translation type="unfinished">Не підтримується</translation>
+        <translation>Не підтримується</translation>
     </message>
     <message>
         <source>Group chat whiteboards are not supported yet.</source>
@@ -15695,7 +15671,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished">Шифрування</translation>
+        <translation>Шифрування</translation>
     </message>
     <message>
         <source>Account is offline</source>
@@ -15711,7 +15687,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished"></translation>
+        <translation>Голосоий дзвінок</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -15831,16 +15807,8 @@ Reason: %1.</source>
         <translation>Отримати наступну незавершену подію.</translation>
     </message>
     <message>
-        <source>Use software widgets rendering. In some cases default hardware rendering may lead to graphical glitches and crashes. This option may help.</source>
-        <translation type="vanished">Використовуйте програмний рендеринг віджетів. У деяких випадках апаратний рендеринг за замовчуванням може призводити до графічних збоїв та аварійних завершень. Ця опція може допомогти.</translation>
-    </message>
-    <message>
         <source>Quit the application</source>
         <translation>Закрити програму</translation>
-    </message>
-    <message>
-        <source>Use vulkan widgets rendering. QtWebengine rendering on X11 and with NVIDIA cards may use Vulkan and this option may help if there is no content in chat tab/window</source>
-        <translation type="vanished">Використовувати рендеринг віджетів Vulkan. Рендеринг QtWebengine на X11 з відеокартами NVIDIA може використовувати Vulkan, і ця опція може допомогти, якщо у вкладці/вікні чату немає вмісту.</translation>
     </message>
 </context>
 <context>
@@ -16196,11 +16164,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Whiteboard invitation</source>
-        <translation type="unfinished">Запрошення помалювати</translation>
+        <translation>Запрошення помалювати</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished">Прийняти</translation>
+        <translation>Прийняти</translation>
     </message>
     <message>
         <source>Decline</source>
@@ -16636,7 +16604,7 @@ Would you like to activate that session now?</source>
     <name>PsiPopup::Private</name>
     <message>
         <source>Accept</source>
-        <translation type="unfinished">Прийняти</translation>
+        <translation>Прийняти</translation>
     </message>
     <message>
         <source>Decline</source>
@@ -18435,7 +18403,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished">Готово</translation>
+        <translation>Готово</translation>
     </message>
     <message>
         <source>Failed</source>
@@ -18693,7 +18661,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished">Поділитись</translation>
+        <translation>Поділитись</translation>
     </message>
 </context>
 <context>
@@ -21272,15 +21240,15 @@ Do you still want to close the window?</source>
     <name>WbView</name>
     <message>
         <source>Save session</source>
-        <translation type="unfinished">Зберегти сесію</translation>
+        <translation>Зберегти сесію</translation>
     </message>
     <message>
         <source>Save the contents of the whiteboard</source>
-        <translation type="unfinished">Зберегти вміст дошки</translation>
+        <translation>Зберегти вміст дошки</translation>
     </message>
     <message>
         <source>Change the geometry</source>
-        <translation type="unfinished">Змінити розміри/положення</translation>
+        <translation>Змінити розміри/положення</translation>
     </message>
     <message>
         <source>Clear the whiteboard for everyone</source>
@@ -21288,23 +21256,23 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Clear the whiteboard</source>
-        <translation type="unfinished">Очистити дошку</translation>
+        <translation>Очистити дошку</translation>
     </message>
     <message>
         <source>Stroke color</source>
-        <translation type="unfinished">Колір штриха</translation>
+        <translation>Колір штриха</translation>
     </message>
     <message>
         <source>Fill color</source>
-        <translation type="unfinished">Колір заповнення</translation>
+        <translation>Колір заповнення</translation>
     </message>
     <message>
         <source>Stroke width</source>
-        <translation type="unfinished">Ширина штриха</translation>
+        <translation>Ширина штриха</translation>
     </message>
     <message>
         <source>Edit mode</source>
-        <translation type="unfinished">Режим редагування</translation>
+        <translation>Режим редагування</translation>
     </message>
     <message>
         <source>Import SVG</source>
@@ -21316,27 +21284,27 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Thin stroke</source>
-        <translation type="unfinished">Тонкий штрих</translation>
+        <translation>Тонкий штрих</translation>
     </message>
     <message>
         <source>Medium stroke</source>
-        <translation type="unfinished">Середній штрих</translation>
+        <translation>Середній штрих</translation>
     </message>
     <message>
         <source>Thick stroke</source>
-        <translation type="unfinished">Товстий штрих</translation>
+        <translation>Товстий штрих</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Вибір</translation>
     </message>
     <message>
         <source>Draw paths</source>
-        <translation type="unfinished">Відображати шляхи</translation>
+        <translation>Відображати шляхи</translation>
     </message>
     <message>
         <source>Draw lines</source>
@@ -21360,11 +21328,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Add images</source>
-        <translation type="unfinished">Додати зображення</translation>
+        <translation>Додати зображення</translation>
     </message>
     <message>
         <source>Erase</source>
-        <translation type="unfinished">Зтерти</translation>
+        <translation>Зтерти</translation>
     </message>
     <message>
         <source>Controls</source>
@@ -21376,7 +21344,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Whiteboard toolbar</source>
-        <translation type="unfinished">Панель дошки</translation>
+        <translation>Панель дошки</translation>
     </message>
     <message>
         <source>Right-click or Control-click</source>
@@ -21444,7 +21412,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Інструменти</translation>
+        <translation>Інструменти</translation>
     </message>
     <message>
         <source>V select, P pen, L line, R rectangle, O ellipse, D rhombus, T text, I image, E eraser</source>
@@ -21508,7 +21476,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Scale</source>
-        <translation type="unfinished">Масштаб</translation>
+        <translation>Масштаб</translation>
     </message>
     <message>
         <source>%1 + %2 + drag the selection, or + and −</source>
@@ -21516,7 +21484,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Поворот</translation>
     </message>
     <message>
         <source>%1, %2 + wheel, or , and . (15°), &lt; and &gt; (1°)</source>
@@ -21528,7 +21496,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Видалити</translation>
+        <translation>Видалити</translation>
     </message>
     <message>
         <source>Delete or Backspace</source>
@@ -21564,7 +21532,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Перегляд</translation>
+        <translation>Перегляд</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -21600,19 +21568,19 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Set new width:</source>
-        <translation type="unfinished">Вказати нову ширину:</translation>
+        <translation>Вказати нову ширину:</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished">Ширина:</translation>
+        <translation>Ширина:</translation>
     </message>
     <message>
         <source>Set new height:</source>
-        <translation type="unfinished">Вказати нову висоту:</translation>
+        <translation>Вказати нову висоту:</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished">Висота:</translation>
+        <translation>Висота:</translation>
     </message>
     <message>
         <source>Save Whiteboard</source>
@@ -21620,7 +21588,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="unfinished">Векторна графіка (*.svg)</translation>
+        <translation>Векторна графіка (*.svg)</translation>
     </message>
     <message>
         <source>The file is not an SVG document.</source>
@@ -21631,7 +21599,7 @@ Do you still want to close the window?</source>
     <name>WbWidget</name>
     <message>
         <source>Choose an image</source>
-        <translation type="unfinished"></translation>
+        <translation>Виберіть зображення</translation>
     </message>
     <message>
         <source>Images (*.png *.jpg *.jpeg *.gif *.bmp *.webp)</source>
@@ -21643,7 +21611,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Text:</source>
-        <translation type="unfinished">Пояснення:</translation>
+        <translation>Пояснення:</translation>
     </message>
 </context>
 <context>
@@ -21876,7 +21844,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Proxy authentication failed</source>
-        <translation type="unfinished">Помилка аутентифікації на проксі</translation>
+        <translation>Помилка аутентифікації на проксі</translation>
     </message>
     <message>
         <source>The connection to the DNS server failed</source>

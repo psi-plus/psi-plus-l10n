@@ -2020,7 +2020,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Затвори</translation>
+        <translation>Затвори</translation>
     </message>
     <message>
         <source>Close call window</source>
@@ -2120,7 +2120,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Call ended</source>
-        <translation type="unfinished">Повикот заврши</translation>
+        <translation>Повикот заврши</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -3587,7 +3587,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Грешка</translation>
     </message>
 </context>
 <context>
@@ -5476,7 +5476,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>User Info</source>
-        <translation type="unfinished">Информации за корисникот</translation>
+        <translation>Информации за корисникот</translation>
     </message>
     <message>
         <source>Open Chat Window</source>
@@ -8033,7 +8033,7 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>Message</source>
-        <translation type="unfinished">Порака</translation>
+        <translation>Порака</translation>
     </message>
     <message>
         <source>Read</source>
@@ -8162,7 +8162,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Напред</translation>
+        <translation>Напред</translation>
     </message>
     <message>
         <source>Copy image</source>
@@ -11580,7 +11580,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished">Статус:</translation>
+        <translation>Статус:</translation>
     </message>
     <message>
         <source>Automatic (active local network)</source>
@@ -11612,7 +11612,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Се исклучив</translation>
+        <translation>Се исклучив</translation>
     </message>
     <message>
         <source>Local network</source>
@@ -12830,7 +12830,7 @@ Only use letters or numbers.  No punctuation or spaces.</source>
     </message>
     <message>
         <source>Delete Profile</source>
-        <translation type="unfinished">Избриши го профилол</translation>
+        <translation>Избриши го профилол</translation>
     </message>
     <message>
         <source>Delete profile &quot;%1&quot;?
@@ -12949,7 +12949,7 @@ All of its message history, settings, and cached files will be deleted.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Никој</translation>
+        <translation>Никој</translation>
     </message>
     <message>
         <source>DNS over HTTPS</source>
@@ -13388,7 +13388,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Unsupported</source>
-        <translation type="unfinished">Не е поддржано</translation>
+        <translation>Не е поддржано</translation>
     </message>
     <message>
         <source>Group chat whiteboards are not supported yet.</source>
@@ -14076,7 +14076,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished">Гласовен повик</translation>
+        <translation>Гласовен повик</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -19212,15 +19212,15 @@ Do you still want to close the window?</source>
     <name>WbView</name>
     <message>
         <source>Save session</source>
-        <translation type="unfinished">Сними ја сесијата</translation>
+        <translation>Сними ја сесијата</translation>
     </message>
     <message>
         <source>Save the contents of the whiteboard</source>
-        <translation type="unfinished">Сними ја содржината на таблата</translation>
+        <translation>Сними ја содржината на таблата</translation>
     </message>
     <message>
         <source>Change the geometry</source>
-        <translation type="unfinished">Промени ја геометријата</translation>
+        <translation>Промени ја геометријата</translation>
     </message>
     <message>
         <source>Clear the whiteboard for everyone</source>
@@ -19228,23 +19228,23 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Clear the whiteboard</source>
-        <translation type="unfinished">Исчисти ја таблата</translation>
+        <translation>Исчисти ја таблата</translation>
     </message>
     <message>
         <source>Stroke color</source>
-        <translation type="unfinished">Боја за цртање</translation>
+        <translation>Боја за цртање</translation>
     </message>
     <message>
         <source>Fill color</source>
-        <translation type="unfinished">Боја за полнење</translation>
+        <translation>Боја за полнење</translation>
     </message>
     <message>
         <source>Stroke width</source>
-        <translation type="unfinished">Ширина на четката</translation>
+        <translation>Ширина на четката</translation>
     </message>
     <message>
         <source>Edit mode</source>
-        <translation type="unfinished">Режим на уредување</translation>
+        <translation>Режим на уредување</translation>
     </message>
     <message>
         <source>Import SVG</source>
@@ -19256,15 +19256,15 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Thin stroke</source>
-        <translation type="unfinished">Тенка четка</translation>
+        <translation>Тенка четка</translation>
     </message>
     <message>
         <source>Medium stroke</source>
-        <translation type="unfinished">Средна четка</translation>
+        <translation>Средна четка</translation>
     </message>
     <message>
         <source>Thick stroke</source>
-        <translation type="unfinished">Дебела четка</translation>
+        <translation>Дебела четка</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
@@ -19272,11 +19272,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished">Избери</translation>
+        <translation>Избери</translation>
     </message>
     <message>
         <source>Draw paths</source>
-        <translation type="unfinished">Цртај патеки</translation>
+        <translation>Цртај патеки</translation>
     </message>
     <message>
         <source>Draw lines</source>
@@ -19300,11 +19300,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Add images</source>
-        <translation type="unfinished">Додај слики</translation>
+        <translation>Додај слики</translation>
     </message>
     <message>
         <source>Erase</source>
-        <translation type="unfinished">Избриши</translation>
+        <translation>Избриши</translation>
     </message>
     <message>
         <source>Controls</source>
@@ -19316,7 +19316,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Whiteboard toolbar</source>
-        <translation type="unfinished">Алатник на таблата</translation>
+        <translation>Алатник на таблата</translation>
     </message>
     <message>
         <source>Right-click or Control-click</source>
@@ -19384,7 +19384,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Алатки</translation>
+        <translation>Алатки</translation>
     </message>
     <message>
         <source>V select, P pen, L line, R rectangle, O ellipse, D rhombus, T text, I image, E eraser</source>
@@ -19448,7 +19448,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Scale</source>
-        <translation type="unfinished">Промени големина</translation>
+        <translation>Промени големина</translation>
     </message>
     <message>
         <source>%1 + %2 + drag the selection, or + and −</source>
@@ -19456,7 +19456,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished">Ротирај</translation>
+        <translation>Ротирај</translation>
     </message>
     <message>
         <source>%1, %2 + wheel, or , and . (15°), &lt; and &gt; (1°)</source>
@@ -19504,7 +19504,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Прикажи</translation>
+        <translation>Прикажи</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -19540,19 +19540,19 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Set new width:</source>
-        <translation type="unfinished">Постави нова ширина:</translation>
+        <translation>Постави нова ширина:</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished">Ширина:</translation>
+        <translation>Ширина:</translation>
     </message>
     <message>
         <source>Set new height:</source>
-        <translation type="unfinished">Постави нова висина:</translation>
+        <translation>Постави нова висина:</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished">Висина:</translation>
+        <translation>Висина:</translation>
     </message>
     <message>
         <source>Save Whiteboard</source>
@@ -19560,7 +19560,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="unfinished">Scalable Vector Graphics (*.svg)</translation>
+        <translation>Scalable Vector Graphics (*.svg)</translation>
     </message>
     <message>
         <source>The file is not an SVG document.</source>
@@ -19801,7 +19801,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Proxy authentication failed</source>
-        <translation type="unfinished">Идентификацијата со посредникот не успеа</translation>
+        <translation>Идентификацијата со посредникот не успеа</translation>
     </message>
     <message>
         <source>The connection to the DNS server failed</source>

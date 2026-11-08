@@ -3465,7 +3465,7 @@ Pokračovať?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Chyba</translation>
+        <translation>Chyba</translation>
     </message>
 </context>
 <context>
@@ -8000,7 +8000,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Dopredu</translation>
+        <translation>Dopredu</translation>
     </message>
     <message>
         <source>Copy image</source>
@@ -11392,7 +11392,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished">Stav:</translation>
+        <translation>Stav:</translation>
     </message>
     <message>
         <source>Automatic (active local network)</source>
@@ -11424,7 +11424,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Offline</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <source>Local network</source>
@@ -12626,7 +12626,7 @@ Použi len písmená a čísla, žiadne medzery a diakritiku.</translation>
     </message>
     <message>
         <source>Delete Profile</source>
-        <translation type="unfinished">Zmazať Profil</translation>
+        <translation>Zmazať Profil</translation>
     </message>
     <message>
         <source>Delete profile &quot;%1&quot;?
@@ -12745,7 +12745,7 @@ All of its message history, settings, and cached files will be deleted.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Žiadny</translation>
+        <translation>Žiadny</translation>
     </message>
     <message>
         <source>DNS over HTTPS</source>
@@ -18893,7 +18893,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Nástroje</translation>
+        <translation>Nástroje</translation>
     </message>
     <message>
         <source>V select, P pen, L line, R rectangle, O ellipse, D rhombus, T text, I image, E eraser</source>
@@ -19013,7 +19013,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Zobraziť</translation>
+        <translation>Zobraziť</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -19310,7 +19310,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Proxy authentication failed</source>
-        <translation type="unfinished">Proxy autentifikácia zlihala</translation>
+        <translation>Proxy autentifikácia zlihala</translation>
     </message>
     <message>
         <source>The connection to the DNS server failed</source>

@@ -1945,7 +1945,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Κλείσιμο</translation>
+        <translation>Κλείσιμο</translation>
     </message>
     <message>
         <source>Close call window</source>
@@ -1997,7 +1997,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Άκυρο</translation>
+        <translation>Άκυρο</translation>
     </message>
     <message>
         <source>Cancel call</source>
@@ -3040,7 +3040,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Blocked Contacts</source>
-        <translation type="unfinished">Αποκλεισμένες Επαφές</translation>
+        <translation>Αποκλεισμένες Επαφές</translation>
     </message>
     <message>
         <source>Server blocklist (XEP-0191)</source>
@@ -3542,7 +3542,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Σφάλμα</translation>
+        <translation>Σφάλμα</translation>
     </message>
 </context>
 <context>
@@ -8057,7 +8057,7 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Άκυρο</translation>
+        <translation>Άκυρο</translation>
     </message>
     <message>
         <source>Add reaction</source>
@@ -8085,7 +8085,7 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>Message</source>
-        <translation type="unfinished">Μήνυμα</translation>
+        <translation>Μήνυμα</translation>
     </message>
     <message>
         <source>Read</source>
@@ -8585,7 +8585,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Chat Message Style</source>
-        <translation type="unfinished">Στυλ Μηνύματος Συζήτησης</translation>
+        <translation>Στυλ Μηνύματος Συζήτησης</translation>
     </message>
     <message>
         <source>Choose the native message layout</source>
@@ -11692,7 +11692,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Εκτός Σύνδεσης</translation>
     </message>
     <message>
         <source>Local network</source>
@@ -11911,7 +11911,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <name>OptionsTabXmppAccounts</name>
     <message>
         <source>XMPP</source>
-        <translation type="unfinished">XMPP</translation>
+        <translation>XMPP</translation>
     </message>
     <message>
         <source>Server accounts</source>
@@ -12985,7 +12985,7 @@ Only use letters or numbers.  No punctuation or spaces.</source>
     </message>
     <message>
         <source>Delete Profile</source>
-        <translation type="unfinished">Διαγραφή Προφίλ</translation>
+        <translation>Διαγραφή Προφίλ</translation>
     </message>
     <message>
         <source>Delete profile &quot;%1&quot;?
@@ -19306,7 +19306,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Εργαλεία</translation>
+        <translation>Εργαλεία</translation>
     </message>
     <message>
         <source>V select, P pen, L line, R rectangle, O ellipse, D rhombus, T text, I image, E eraser</source>
@@ -19390,7 +19390,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Διαγραφή</translation>
+        <translation>Διαγραφή</translation>
     </message>
     <message>
         <source>Delete or Backspace</source>
@@ -19426,7 +19426,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Προβολή</translation>
+        <translation>Προβολή</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -19505,7 +19505,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Text:</source>
-        <translation type="unfinished">Κείμενο:</translation>
+        <translation>Κείμενο:</translation>
     </message>
 </context>
 <context>
@@ -19719,7 +19719,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Proxy authentication failed</source>
-        <translation type="unfinished">O έλεγχος ταυτότητας του διακομιστή μεσολάβησης απέτυχε</translation>
+        <translation>O έλεγχος ταυτότητας του διακομιστή μεσολάβησης απέτυχε</translation>
     </message>
     <message>
         <source>The connection to the DNS server failed</source>

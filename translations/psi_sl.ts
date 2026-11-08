@@ -2036,7 +2036,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Zapri</translation>
+        <translation>Zapri</translation>
     </message>
     <message>
         <source>Close call window</source>
@@ -2088,7 +2088,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Prekliči</translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>Cancel call</source>
@@ -2136,7 +2136,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Call ended</source>
-        <translation type="unfinished">Klic se je zaključil</translation>
+        <translation>Klic se je zaključil</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -3111,7 +3111,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Blocked Contacts</source>
-        <translation type="unfinished">Blokirani stiki</translation>
+        <translation>Blokirani stiki</translation>
     </message>
     <message>
         <source>Server blocklist (XEP-0191)</source>
@@ -3444,7 +3444,7 @@ Nadaljujem?</translation>
     </message>
     <message>
         <source>Player:</source>
-        <translation type="unfinished">Predvajalnik:</translation>
+        <translation>Predvajalnik:</translation>
     </message>
     <message>
         <source>Choose media player executable</source>
@@ -3607,7 +3607,7 @@ Nadaljujem?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Napaka</translation>
+        <translation>Napaka</translation>
     </message>
 </context>
 <context>
@@ -5521,7 +5521,7 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>User Info</source>
-        <translation type="unfinished">O stiku</translation>
+        <translation>O stiku</translation>
     </message>
     <message>
         <source>Open Chat Window</source>
@@ -8248,7 +8248,7 @@ Rusija, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Prekliči</translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>Add reaction</source>
@@ -8276,7 +8276,7 @@ Rusija, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation type="unfinished">Sporočilo</translation>
+        <translation>Sporočilo</translation>
     </message>
     <message>
         <source>Read</source>
@@ -8407,7 +8407,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Naprej</translation>
+        <translation>Naprej</translation>
     </message>
     <message>
         <source>Copy image</source>
@@ -11845,7 +11845,7 @@ Ime ne sme biti prazno, se ne sme končati s ».« ali vsebovati »..«.</transl
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished">Stanje:</translation>
+        <translation>Stanje:</translation>
     </message>
     <message>
         <source>Automatic (active local network)</source>
@@ -11877,7 +11877,7 @@ Ime ne sme biti prazno, se ne sme končati s ».« ali vsebovati »..«.</transl
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Brez zveze</translation>
+        <translation>Brez zveze</translation>
     </message>
     <message>
         <source>Local network</source>
@@ -13216,7 +13216,7 @@ Omogočite &lt;i&gt;Ikone čustev&lt;/i&gt;, če želite, da Psi smeškote, kot 
     </message>
     <message>
         <source>Delete Profile</source>
-        <translation type="unfinished">Izbriši profil</translation>
+        <translation>Izbriši profil</translation>
     </message>
     <message>
         <source>Delete profile &quot;%1&quot;?
@@ -13335,7 +13335,7 @@ All of its message history, settings, and cached files will be deleted.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Brez</translation>
+        <translation>Brez</translation>
     </message>
     <message>
         <source>DNS over HTTPS</source>
@@ -13775,7 +13775,7 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
     </message>
     <message>
         <source>Unsupported</source>
-        <translation type="unfinished">Nepodprto</translation>
+        <translation>Nepodprto</translation>
     </message>
     <message>
         <source>Group chat whiteboards are not supported yet.</source>
@@ -14463,7 +14463,7 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished">Glasovni klic</translation>
+        <translation>Glasovni klic</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -14925,7 +14925,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished">Sprejmi</translation>
+        <translation>Sprejmi</translation>
     </message>
     <message>
         <source>Decline</source>
@@ -15357,7 +15357,7 @@ Ali želite aktivirati to sejo?</translation>
     <name>PsiPopup::Private</name>
     <message>
         <source>Accept</source>
-        <translation type="unfinished">Sprejmi</translation>
+        <translation>Sprejmi</translation>
     </message>
     <message>
         <source>Decline</source>
@@ -19702,15 +19702,15 @@ Ali še vedno želite zapreti okno?</translation>
     <name>WbView</name>
     <message>
         <source>Save session</source>
-        <translation type="unfinished">Shrani sejo</translation>
+        <translation>Shrani sejo</translation>
     </message>
     <message>
         <source>Save the contents of the whiteboard</source>
-        <translation type="unfinished">Shrani vsebino table</translation>
+        <translation>Shrani vsebino table</translation>
     </message>
     <message>
         <source>Change the geometry</source>
-        <translation type="unfinished">Spremeni geometrijo</translation>
+        <translation>Spremeni geometrijo</translation>
     </message>
     <message>
         <source>Clear the whiteboard for everyone</source>
@@ -19718,23 +19718,23 @@ Ali še vedno želite zapreti okno?</translation>
     </message>
     <message>
         <source>Clear the whiteboard</source>
-        <translation type="unfinished">Počisti tablo</translation>
+        <translation>Počisti tablo</translation>
     </message>
     <message>
         <source>Stroke color</source>
-        <translation type="unfinished">Barva poteze</translation>
+        <translation>Barva poteze</translation>
     </message>
     <message>
         <source>Fill color</source>
-        <translation type="unfinished">Barva polnitve</translation>
+        <translation>Barva polnitve</translation>
     </message>
     <message>
         <source>Stroke width</source>
-        <translation type="unfinished">Širina poteze</translation>
+        <translation>Širina poteze</translation>
     </message>
     <message>
         <source>Edit mode</source>
-        <translation type="unfinished">Način urejanja</translation>
+        <translation>Način urejanja</translation>
     </message>
     <message>
         <source>Import SVG</source>
@@ -19746,15 +19746,15 @@ Ali še vedno želite zapreti okno?</translation>
     </message>
     <message>
         <source>Thin stroke</source>
-        <translation type="unfinished">Tanka poteza</translation>
+        <translation>Tanka poteza</translation>
     </message>
     <message>
         <source>Medium stroke</source>
-        <translation type="unfinished">Srednja poteza</translation>
+        <translation>Srednja poteza</translation>
     </message>
     <message>
         <source>Thick stroke</source>
-        <translation type="unfinished">Debela poteza</translation>
+        <translation>Debela poteza</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
@@ -19762,11 +19762,11 @@ Ali še vedno želite zapreti okno?</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished">Izberi</translation>
+        <translation>Izberi</translation>
     </message>
     <message>
         <source>Draw paths</source>
-        <translation type="unfinished">Nariši poti</translation>
+        <translation>Nariši poti</translation>
     </message>
     <message>
         <source>Draw lines</source>
@@ -19790,11 +19790,11 @@ Ali še vedno želite zapreti okno?</translation>
     </message>
     <message>
         <source>Add images</source>
-        <translation type="unfinished">Dodaj slike</translation>
+        <translation>Dodaj slike</translation>
     </message>
     <message>
         <source>Erase</source>
-        <translation type="unfinished">Izbriši</translation>
+        <translation>Izbriši</translation>
     </message>
     <message>
         <source>Controls</source>
@@ -19806,7 +19806,7 @@ Ali še vedno želite zapreti okno?</translation>
     </message>
     <message>
         <source>Whiteboard toolbar</source>
-        <translation type="unfinished">Orodjarna table</translation>
+        <translation>Orodjarna table</translation>
     </message>
     <message>
         <source>Right-click or Control-click</source>
@@ -19874,7 +19874,7 @@ Ali še vedno želite zapreti okno?</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Orodja</translation>
+        <translation>Orodja</translation>
     </message>
     <message>
         <source>V select, P pen, L line, R rectangle, O ellipse, D rhombus, T text, I image, E eraser</source>
@@ -19938,7 +19938,7 @@ Ali še vedno želite zapreti okno?</translation>
     </message>
     <message>
         <source>Scale</source>
-        <translation type="unfinished">Povečaj/zmanjšaj</translation>
+        <translation>Povečaj/zmanjšaj</translation>
     </message>
     <message>
         <source>%1 + %2 + drag the selection, or + and −</source>
@@ -19946,7 +19946,7 @@ Ali še vedno želite zapreti okno?</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished">Zasuči</translation>
+        <translation>Zasuči</translation>
     </message>
     <message>
         <source>%1, %2 + wheel, or , and . (15°), &lt; and &gt; (1°)</source>
@@ -19994,7 +19994,7 @@ Ali še vedno želite zapreti okno?</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Videz</translation>
+        <translation>Videz</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -20030,19 +20030,19 @@ Ali še vedno želite zapreti okno?</translation>
     </message>
     <message>
         <source>Set new width:</source>
-        <translation type="unfinished">Nastavite novo širino:</translation>
+        <translation>Nastavite novo širino:</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished">Širina:</translation>
+        <translation>Širina:</translation>
     </message>
     <message>
         <source>Set new height:</source>
-        <translation type="unfinished">Nastavite novo višino:</translation>
+        <translation>Nastavite novo višino:</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished">Višina:</translation>
+        <translation>Višina:</translation>
     </message>
     <message>
         <source>Save Whiteboard</source>
@@ -20050,7 +20050,7 @@ Ali še vedno želite zapreti okno?</translation>
     </message>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="unfinished">Raztegljiva vektorska grafika (*.svg)</translation>
+        <translation>Raztegljiva vektorska grafika (*.svg)</translation>
     </message>
     <message>
         <source>The file is not an SVG document.</source>
@@ -20073,7 +20073,7 @@ Ali še vedno želite zapreti okno?</translation>
     </message>
     <message>
         <source>Text:</source>
-        <translation type="unfinished">Besedilo:</translation>
+        <translation>Besedilo:</translation>
     </message>
 </context>
 <context>
@@ -20291,7 +20291,7 @@ Ali še vedno želite zapreti okno?</translation>
     </message>
     <message>
         <source>Proxy authentication failed</source>
-        <translation type="unfinished">Overovljanje posrednika ni uspelo</translation>
+        <translation>Overovljanje posrednika ni uspelo</translation>
     </message>
     <message>
         <source>The connection to the DNS server failed</source>

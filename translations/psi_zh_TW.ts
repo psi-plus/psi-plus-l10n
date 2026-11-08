@@ -2167,7 +2167,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">關閉</translation>
+        <translation>關閉</translation>
     </message>
     <message>
         <source>Close call window</source>
@@ -2219,7 +2219,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>Cancel call</source>
@@ -2267,7 +2267,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Call ended</source>
-        <translation type="unfinished">已結束呼叫</translation>
+        <translation>已結束呼叫</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -2614,7 +2614,7 @@ Do you still want to close the window?</source>
     <name>ChatEditProxy</name>
     <message>
         <source>Reply</source>
-        <translation type="unfinished">回復</translation>
+        <translation>回復</translation>
     </message>
     <message>
         <source>Reply to %1</source>
@@ -3398,7 +3398,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Blocked Contacts</source>
-        <translation type="unfinished">被阻止的連絡人</translation>
+        <translation>被阻止的連絡人</translation>
     </message>
     <message>
         <source>Server blocklist (XEP-0191)</source>
@@ -3410,7 +3410,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Unblock</source>
-        <translation type="unfinished">解除封鎖</translation>
+        <translation>解除封鎖</translation>
     </message>
     <message>
         <source>Block JID</source>
@@ -3750,7 +3750,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Player:</source>
-        <translation type="unfinished">播放機:</translation>
+        <translation>播放機:</translation>
     </message>
     <message>
         <source>Choose media player executable</source>
@@ -3913,7 +3913,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">錯誤</translation>
+        <translation>錯誤</translation>
     </message>
 </context>
 <context>
@@ -5883,7 +5883,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>User Info</source>
-        <translation type="unfinished">使用者資訊</translation>
+        <translation>使用者資訊</translation>
     </message>
     <message>
         <source>Open Chat Window</source>
@@ -8810,11 +8810,11 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     <name>MamChatWidget</name>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>拷貝</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>Add reaction</source>
@@ -8842,7 +8842,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation type="unfinished">信息</translation>
+        <translation>信息</translation>
     </message>
     <message>
         <source>Read</source>
@@ -8895,7 +8895,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Open file</source>
-        <translation type="unfinished">打開文件</translation>
+        <translation>打開文件</translation>
     </message>
     <message>
         <source>Show in file manager</source>
@@ -8907,7 +8907,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation type="unfinished">在流覽器中打開</translation>
+        <translation>在流覽器中打開</translation>
     </message>
     <message>
         <source>Cancel download</source>
@@ -8955,7 +8955,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Quote</source>
-        <translation type="unfinished">引用</translation>
+        <translation>引用</translation>
     </message>
     <message>
         <source>The message has no reply identifier assigned by its sender or room.</source>
@@ -8967,7 +8967,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">前進</translation>
+        <translation>前進</translation>
     </message>
     <message>
         <source>Copy image</source>
@@ -9337,11 +9337,11 @@ Details: %1</source>
     <name>NativeChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
-        <translation type="unfinished">群聊消息風格</translation>
+        <translation>群聊消息風格</translation>
     </message>
     <message>
         <source>Chat Message Style</source>
-        <translation type="unfinished">聊天消息風格</translation>
+        <translation>聊天消息風格</translation>
     </message>
     <message>
         <source>Choose the native message layout</source>
@@ -12575,7 +12575,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">恢復</translation>
+        <translation>恢復</translation>
     </message>
     <message>
         <source>Network interface:</source>
@@ -12599,7 +12599,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished">狀態:</translation>
+        <translation>狀態:</translation>
     </message>
     <message>
         <source>Automatic (active local network)</source>
@@ -12607,7 +12607,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>%1 (unavailable)</source>
@@ -12631,7 +12631,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">離線</translation>
+        <translation>離線</translation>
     </message>
     <message>
         <source>Local network</source>
@@ -12858,7 +12858,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabXmppAccounts</name>
     <message>
         <source>XMPP</source>
-        <translation type="unfinished">XMPP</translation>
+        <translation>XMPP</translation>
     </message>
     <message>
         <source>Server accounts</source>
@@ -14062,7 +14062,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Delete Profile</source>
-        <translation type="unfinished">刪除個人配置</translation>
+        <translation>刪除個人配置</translation>
     </message>
     <message>
         <source>Delete profile &quot;%1&quot;?
@@ -14181,7 +14181,7 @@ All of its message history, settings, and cached files will be deleted.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>無</translation>
     </message>
     <message>
         <source>DNS over HTTPS</source>
@@ -14628,7 +14628,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Unsupported</source>
-        <translation type="unfinished">不被支援</translation>
+        <translation>不被支援</translation>
     </message>
     <message>
         <source>Group chat whiteboards are not supported yet.</source>
@@ -15328,7 +15328,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished">加密</translation>
+        <translation>加密</translation>
     </message>
     <message>
         <source>Account is offline</source>
@@ -15344,7 +15344,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished"></translation>
+        <translation>語音呼叫</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -15810,11 +15810,11 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Whiteboard invitation</source>
-        <translation type="unfinished">白板邀請</translation>
+        <translation>白板邀請</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished">接受</translation>
+        <translation>接受</translation>
     </message>
     <message>
         <source>Decline</source>
@@ -16250,7 +16250,7 @@ Would you like to activate that session now?</source>
     <name>PsiPopup::Private</name>
     <message>
         <source>Accept</source>
-        <translation type="unfinished">接受</translation>
+        <translation>接受</translation>
     </message>
     <message>
         <source>Decline</source>
@@ -18011,7 +18011,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished">完成</translation>
+        <translation>完成</translation>
     </message>
     <message>
         <source>Failed</source>
@@ -20791,15 +20791,15 @@ Do you still want to close the window?</source>
     <name>WbView</name>
     <message>
         <source>Save session</source>
-        <translation type="unfinished">儲存會話</translation>
+        <translation>儲存會話</translation>
     </message>
     <message>
         <source>Save the contents of the whiteboard</source>
-        <translation type="unfinished">儲存白板的內容</translation>
+        <translation>儲存白板的內容</translation>
     </message>
     <message>
         <source>Change the geometry</source>
-        <translation type="unfinished">更改排列</translation>
+        <translation>更改排列</translation>
     </message>
     <message>
         <source>Clear the whiteboard for everyone</source>
@@ -20807,23 +20807,23 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Clear the whiteboard</source>
-        <translation type="unfinished">清除白板</translation>
+        <translation>清除白板</translation>
     </message>
     <message>
         <source>Stroke color</source>
-        <translation type="unfinished">筆劃顏色</translation>
+        <translation>筆劃顏色</translation>
     </message>
     <message>
         <source>Fill color</source>
-        <translation type="unfinished">填滿顏色</translation>
+        <translation>填滿顏色</translation>
     </message>
     <message>
         <source>Stroke width</source>
-        <translation type="unfinished">筆劃寬度</translation>
+        <translation>筆劃寬度</translation>
     </message>
     <message>
         <source>Edit mode</source>
-        <translation type="unfinished">編輯模式</translation>
+        <translation>編輯模式</translation>
     </message>
     <message>
         <source>Import SVG</source>
@@ -20835,27 +20835,27 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Thin stroke</source>
-        <translation type="unfinished">細的筆劃</translation>
+        <translation>細的筆劃</translation>
     </message>
     <message>
         <source>Medium stroke</source>
-        <translation type="unfinished">中等筆劃</translation>
+        <translation>中等筆劃</translation>
     </message>
     <message>
         <source>Thick stroke</source>
-        <translation type="unfinished">寬的筆劃</translation>
+        <translation>寬的筆劃</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished">選擇</translation>
+        <translation>選擇</translation>
     </message>
     <message>
         <source>Draw paths</source>
-        <translation type="unfinished">畫路徑</translation>
+        <translation>畫路徑</translation>
     </message>
     <message>
         <source>Draw lines</source>
@@ -20879,11 +20879,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Add images</source>
-        <translation type="unfinished">添加圖片</translation>
+        <translation>添加圖片</translation>
     </message>
     <message>
         <source>Erase</source>
-        <translation type="unfinished">擦去</translation>
+        <translation>擦去</translation>
     </message>
     <message>
         <source>Controls</source>
@@ -20895,7 +20895,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Whiteboard toolbar</source>
-        <translation type="unfinished">白板工具</translation>
+        <translation>白板工具</translation>
     </message>
     <message>
         <source>Right-click or Control-click</source>
@@ -20963,7 +20963,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">工具</translation>
+        <translation>工具</translation>
     </message>
     <message>
         <source>V select, P pen, L line, R rectangle, O ellipse, D rhombus, T text, I image, E eraser</source>
@@ -21027,7 +21027,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Scale</source>
-        <translation type="unfinished">縮放</translation>
+        <translation>縮放</translation>
     </message>
     <message>
         <source>%1 + %2 + drag the selection, or + and −</source>
@@ -21035,7 +21035,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>迴圈</translation>
     </message>
     <message>
         <source>%1, %2 + wheel, or , and . (15°), &lt; and &gt; (1°)</source>
@@ -21047,7 +21047,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">刪除</translation>
+        <translation>刪除</translation>
     </message>
     <message>
         <source>Delete or Backspace</source>
@@ -21083,7 +21083,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">視圖</translation>
+        <translation>視圖</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -21119,19 +21119,19 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Set new width:</source>
-        <translation type="unfinished">設置新寬度:</translation>
+        <translation>設置新寬度:</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished">寬度:</translation>
+        <translation>寬度:</translation>
     </message>
     <message>
         <source>Set new height:</source>
-        <translation type="unfinished">設置新高度:</translation>
+        <translation>設置新高度:</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished">高度:</translation>
+        <translation>高度:</translation>
     </message>
     <message>
         <source>Save Whiteboard</source>
@@ -21139,7 +21139,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="unfinished">可縮放向量圖 (*.svg)</translation>
+        <translation>可縮放向量圖 (*.svg)</translation>
     </message>
     <message>
         <source>The file is not an SVG document.</source>
@@ -21150,7 +21150,7 @@ Do you still want to close the window?</source>
     <name>WbWidget</name>
     <message>
         <source>Choose an image</source>
-        <translation type="unfinished"></translation>
+        <translation>選擇一個圖片</translation>
     </message>
     <message>
         <source>Images (*.png *.jpg *.jpeg *.gif *.bmp *.webp)</source>
@@ -21162,7 +21162,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Text:</source>
-        <translation type="unfinished">文字:</translation>
+        <translation>文字:</translation>
     </message>
 </context>
 <context>
@@ -21395,7 +21395,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Proxy authentication failed</source>
-        <translation type="unfinished">代理伺服器驗證失敗</translation>
+        <translation>代理伺服器驗證失敗</translation>
     </message>
     <message>
         <source>The connection to the DNS server failed</source>

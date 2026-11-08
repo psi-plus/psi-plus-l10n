@@ -2241,7 +2241,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Zavřít</translation>
+        <translation>Zavřít</translation>
     </message>
     <message>
         <source>Close call window</source>
@@ -2293,7 +2293,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Zrušit</translation>
+        <translation>Zrušit</translation>
     </message>
     <message>
         <source>Cancel call</source>
@@ -2341,7 +2341,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Call ended</source>
-        <translation type="unfinished">Hovor ukončen</translation>
+        <translation>Hovor ukončen</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -2689,7 +2689,7 @@ Opravdu zavřít toto okno?</translation>
     <name>ChatEditProxy</name>
     <message>
         <source>Reply</source>
-        <translation type="unfinished">Odpověď</translation>
+        <translation>Odpověď</translation>
     </message>
     <message>
         <source>Reply to %1</source>
@@ -3482,7 +3482,7 @@ Pozn.: aby modul pracoval správně, Nástrojová lišta skupinového chatu mus�
     </message>
     <message>
         <source>Blocked Contacts</source>
-        <translation type="unfinished">Blokované kontakty</translation>
+        <translation>Blokované kontakty</translation>
     </message>
     <message>
         <source>Server blocklist (XEP-0191)</source>
@@ -3494,7 +3494,7 @@ Pozn.: aby modul pracoval správně, Nástrojová lišta skupinového chatu mus�
     </message>
     <message>
         <source>Unblock</source>
-        <translation type="unfinished">Odblokovat</translation>
+        <translation>Odblokovat</translation>
     </message>
     <message>
         <source>Block JID</source>
@@ -3845,7 +3845,7 @@ Pokračovat?</translation>
     </message>
     <message>
         <source>Player:</source>
-        <translation type="unfinished">Přehrávač:</translation>
+        <translation>Přehrávač:</translation>
     </message>
     <message>
         <source>Choose media player executable</source>
@@ -4008,7 +4008,7 @@ Pokračovat?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Chyba</translation>
+        <translation>Chyba</translation>
     </message>
 </context>
 <context>
@@ -5342,7 +5342,7 @@ nedostupná.  Pokud jsi za firewallem, je nutné se ujistit,
     </message>
     <message>
         <source>Published on HttpUpload service</source>
-        <translation type="unfinished">Publikováno na službě HttpUpload</translation>
+        <translation>Publikováno na službě HttpUpload</translation>
     </message>
     <message>
         <source>Failed to publish on HttpUpload service: %1</source>
@@ -5991,7 +5991,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>User Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Informace o uživateli</translation>
     </message>
     <message>
         <source>Open Chat Window</source>
@@ -8958,11 +8958,11 @@ Rusko, Tambov, 2005 (denis@silversoft.net)</translation>
     <name>MamChatWidget</name>
     <message>
         <source>Copy</source>
-        <translation type="unfinished">Kopírovat</translation>
+        <translation>Kopírovat</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Zrušit</translation>
+        <translation>Zrušit</translation>
     </message>
     <message>
         <source>Add reaction</source>
@@ -8990,7 +8990,7 @@ Rusko, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation type="unfinished">Zpráva</translation>
+        <translation>Zpráva</translation>
     </message>
     <message>
         <source>Read</source>
@@ -9014,7 +9014,7 @@ Rusko, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>The message was corrected</source>
-        <translation type="unfinished">Zpráva byla opravena</translation>
+        <translation>Zpráva byla opravena</translation>
     </message>
     <message>
         <source>Edited message</source>
@@ -9043,7 +9043,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Open file</source>
-        <translation type="unfinished">Otevřít soubor</translation>
+        <translation>Otevřít soubor</translation>
     </message>
     <message>
         <source>Show in file manager</source>
@@ -9055,7 +9055,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation type="unfinished">Otevřít v prohlížeči</translation>
+        <translation>Otevřít v prohlížeči</translation>
     </message>
     <message>
         <source>Cancel download</source>
@@ -9107,7 +9107,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Quote</source>
-        <translation type="unfinished"></translation>
+        <translation>Citovat</translation>
     </message>
     <message>
         <source>The message has no reply identifier assigned by its sender or room.</source>
@@ -9119,7 +9119,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Vpřed</translation>
+        <translation>Vpřed</translation>
     </message>
     <message>
         <source>Copy image</source>
@@ -9470,7 +9470,7 @@ Detaily: %1</translation>
     </message>
     <message>
         <source>Classic</source>
-        <translation type="unfinished"></translation>
+        <translation>Klasický</translation>
     </message>
     <message>
         <source>Compact text layout</source>
@@ -9489,11 +9489,11 @@ Detaily: %1</translation>
     <name>NativeChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
-        <translation type="unfinished">Styl zpráv skupinového chatu</translation>
+        <translation>Styl zpráv skupinového chatu</translation>
     </message>
     <message>
         <source>Chat Message Style</source>
-        <translation type="unfinished">Styl zpráv chatu</translation>
+        <translation>Styl zpráv chatu</translation>
     </message>
     <message>
         <source>Choose the native message layout</source>
@@ -12796,7 +12796,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Obnovit</translation>
+        <translation>Obnovit</translation>
     </message>
     <message>
         <source>Network interface:</source>
@@ -12804,7 +12804,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished">Automaticky</translation>
+        <translation>Automaticky</translation>
     </message>
     <message>
         <source>Leave Automatic unless a firewall requires a fixed TCP listening port.</source>
@@ -12820,7 +12820,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished">Stav:</translation>
+        <translation>Stav:</translation>
     </message>
     <message>
         <source>Automatic (active local network)</source>
@@ -12840,7 +12840,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished">Vypnutý</translation>
+        <translation>Vypnutý</translation>
     </message>
     <message>
         <source>Online on the local network</source>
@@ -12852,7 +12852,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Offline</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <source>Local network</source>
@@ -13079,7 +13079,7 @@ zprávy v chatu víde lidí)</translation>
     <name>OptionsTabXmppAccounts</name>
     <message>
         <source>XMPP</source>
-        <translation type="unfinished">XMPP</translation>
+        <translation>XMPP</translation>
     </message>
     <message>
         <source>Server accounts</source>
@@ -14304,7 +14304,7 @@ Zatrhni pole &lt;i&gt;Zapnout Emotikony&lt;/i&gt; pro zobrazení text např. &lt
     </message>
     <message>
         <source>Delete Profile</source>
-        <translation type="unfinished">Vymazat profil</translation>
+        <translation>Vymazat profil</translation>
     </message>
     <message>
         <source>Delete profile &quot;%1&quot;?
@@ -14423,7 +14423,7 @@ All of its message history, settings, and cached files will be deleted.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Žádný</translation>
     </message>
     <message>
         <source>DNS over HTTPS</source>
@@ -14882,7 +14882,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Unsupported</source>
-        <translation type="unfinished">Nepodporováno</translation>
+        <translation>Nepodporováno</translation>
     </message>
     <message>
         <source>Group chat whiteboards are not supported yet.</source>
@@ -15606,7 +15606,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished">Šifrování</translation>
+        <translation>Šifrování</translation>
     </message>
     <message>
         <source>Account is offline</source>
@@ -15622,7 +15622,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished">Hlasový hovor</translation>
+        <translation>Hlasový hovor</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -16099,11 +16099,11 @@ Migrace je možná s Psi-0.15</translation>
     </message>
     <message>
         <source>Whiteboard invitation</source>
-        <translation type="unfinished">Pozvánka k tabuli</translation>
+        <translation>Pozvánka k tabuli</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished">Přijmout</translation>
+        <translation>Přijmout</translation>
     </message>
     <message>
         <source>Decline</source>
@@ -16539,7 +16539,7 @@ Chceš aktivovat tuto relaci?</translation>
     <name>PsiPopup::Private</name>
     <message>
         <source>Accept</source>
-        <translation type="unfinished">Přijmout</translation>
+        <translation>Přijmout</translation>
     </message>
     <message>
         <source>Decline</source>
@@ -18338,7 +18338,7 @@ Děkujeme za trpělivost.</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished">Hotovo</translation>
+        <translation>Hotovo</translation>
     </message>
     <message>
         <source>Failed</source>
@@ -18600,7 +18600,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished">Sdílet</translation>
+        <translation>Sdílet</translation>
     </message>
 </context>
 <context>
@@ -21071,15 +21071,15 @@ Opravdu zavřít okno?</translation>
     <name>WbView</name>
     <message>
         <source>Save session</source>
-        <translation type="unfinished">Uložit relaci</translation>
+        <translation>Uložit relaci</translation>
     </message>
     <message>
         <source>Save the contents of the whiteboard</source>
-        <translation type="unfinished">Uložit obsah tabule</translation>
+        <translation>Uložit obsah tabule</translation>
     </message>
     <message>
         <source>Change the geometry</source>
-        <translation type="unfinished">Změnit geometrii</translation>
+        <translation>Změnit geometrii</translation>
     </message>
     <message>
         <source>Clear the whiteboard for everyone</source>
@@ -21087,19 +21087,19 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Clear the whiteboard</source>
-        <translation type="unfinished">Smazat tabuli</translation>
+        <translation>Smazat tabuli</translation>
     </message>
     <message>
         <source>Stroke color</source>
-        <translation type="unfinished">Barva čáry</translation>
+        <translation>Barva čáry</translation>
     </message>
     <message>
         <source>Fill color</source>
-        <translation type="unfinished">Barva výplně</translation>
+        <translation>Barva výplně</translation>
     </message>
     <message>
         <source>Stroke width</source>
-        <translation type="unfinished">Šířka čáry</translation>
+        <translation>Šířka čáry</translation>
     </message>
     <message>
         <source>Edit mode</source>
@@ -21115,27 +21115,27 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Thin stroke</source>
-        <translation type="unfinished">Tenká čára</translation>
+        <translation>Tenká čára</translation>
     </message>
     <message>
         <source>Medium stroke</source>
-        <translation type="unfinished">Střední čára</translation>
+        <translation>Střední čára</translation>
     </message>
     <message>
         <source>Thick stroke</source>
-        <translation type="unfinished">Tlustá čára</translation>
+        <translation>Tlustá čára</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Vybrat</translation>
     </message>
     <message>
         <source>Draw paths</source>
-        <translation type="unfinished">Kreslit cesty</translation>
+        <translation>Kreslit cesty</translation>
     </message>
     <message>
         <source>Draw lines</source>
@@ -21163,7 +21163,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Erase</source>
-        <translation type="unfinished">Guma</translation>
+        <translation>Guma</translation>
     </message>
     <message>
         <source>Controls</source>
@@ -21175,7 +21175,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Whiteboard toolbar</source>
-        <translation type="unfinished">Panel nástrojů tabule</translation>
+        <translation>Panel nástrojů tabule</translation>
     </message>
     <message>
         <source>Right-click or Control-click</source>
@@ -21243,7 +21243,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Nástroje</translation>
+        <translation>Nástroje</translation>
     </message>
     <message>
         <source>V select, P pen, L line, R rectangle, O ellipse, D rhombus, T text, I image, E eraser</source>
@@ -21307,7 +21307,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Scale</source>
-        <translation type="unfinished">Změna velikosti</translation>
+        <translation>Změna velikosti</translation>
     </message>
     <message>
         <source>%1 + %2 + drag the selection, or + and −</source>
@@ -21315,7 +21315,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotovat</translation>
     </message>
     <message>
         <source>%1, %2 + wheel, or , and . (15°), &lt; and &gt; (1°)</source>
@@ -21327,7 +21327,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit</translation>
     </message>
     <message>
         <source>Delete or Backspace</source>
@@ -21363,7 +21363,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Zobrazení</translation>
+        <translation>Zobrazení</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -21399,19 +21399,19 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Set new width:</source>
-        <translation type="unfinished">Nastavit novou šířku:</translation>
+        <translation>Nastavit novou šířku:</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished">Šířka:</translation>
+        <translation>Šířka:</translation>
     </message>
     <message>
         <source>Set new height:</source>
-        <translation type="unfinished">Nastavit novou výšku:</translation>
+        <translation>Nastavit novou výšku:</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished">Výška:</translation>
+        <translation>Výška:</translation>
     </message>
     <message>
         <source>Save Whiteboard</source>
@@ -21419,7 +21419,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="unfinished">Scalable Vector Graphics (*.svg)</translation>
+        <translation>Scalable Vector Graphics (*.svg)</translation>
     </message>
     <message>
         <source>The file is not an SVG document.</source>
@@ -21430,7 +21430,7 @@ Opravdu zavřít okno?</translation>
     <name>WbWidget</name>
     <message>
         <source>Choose an image</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyber obrázek</translation>
     </message>
     <message>
         <source>Images (*.png *.jpg *.jpeg *.gif *.bmp *.webp)</source>
@@ -21442,7 +21442,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Text:</source>
-        <translation type="unfinished">Text:</translation>
+        <translation>Text:</translation>
     </message>
 </context>
 <context>
@@ -21675,7 +21675,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Proxy authentication failed</source>
-        <translation type="unfinished">Ověření na proxy selhalo</translation>
+        <translation>Ověření na proxy selhalo</translation>
     </message>
     <message>
         <source>The connection to the DNS server failed</source>

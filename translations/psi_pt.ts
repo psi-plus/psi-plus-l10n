@@ -3461,7 +3461,7 @@ Continuar?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Erro</translation>
+        <translation>Erro</translation>
     </message>
 </context>
 <context>
@@ -7995,7 +7995,7 @@ Size: %2</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Seguinte</translation>
+        <translation>Seguinte</translation>
     </message>
     <message>
         <source>Copy image</source>
@@ -11388,7 +11388,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished">Estado:</translation>
+        <translation>Estado:</translation>
     </message>
     <message>
         <source>Automatic (active local network)</source>
@@ -11420,7 +11420,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Desligado</translation>
+        <translation>Desligado</translation>
     </message>
     <message>
         <source>Local network</source>
@@ -12622,7 +12622,7 @@ Use apenas letras ou números. Não use pontuação ou espaços.</translation>
     </message>
     <message>
         <source>Delete Profile</source>
-        <translation type="unfinished">Apagar Perfil</translation>
+        <translation>Apagar Perfil</translation>
     </message>
     <message>
         <source>Delete profile &quot;%1&quot;?
@@ -12741,7 +12741,7 @@ All of its message history, settings, and cached files will be deleted.</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Nenhum</translation>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <source>DNS over HTTPS</source>
@@ -18883,7 +18883,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Ferramentas</translation>
+        <translation>Ferramentas</translation>
     </message>
     <message>
         <source>V select, P pen, L line, R rectangle, O ellipse, D rhombus, T text, I image, E eraser</source>
@@ -19003,7 +19003,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Ver</translation>
+        <translation>Ver</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -19300,7 +19300,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Proxy authentication failed</source>
-        <translation type="unfinished">Autenticação do proxy falhou</translation>
+        <translation>Autenticação do proxy falhou</translation>
     </message>
     <message>
         <source>The connection to the DNS server failed</source>
