@@ -774,10 +774,6 @@ Bấm vào &lt;b&gt;Đăng ký tài khoản mới&lt;/b&gt; hộp chọn nếu b
         <translation>Gởi các gói tin gọi là « cứ hoạt động » theo định kỷ.  Có ích nếu kết nối tự động bị ngắt tự động sau một khoảng thời gian không hoạt động (v.d. do nhà cung cấp dịch vụ Mạng) còn bạn muốn kết nối luôn.</translation>
     </message>
     <message>
-        <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -891,6 +887,10 @@ Bấm vào &lt;b&gt;Đăng ký tài khoản mới&lt;/b&gt; hộp chọn nếu b
     </message>
     <message>
         <source>Cannot enable TLS.  Plugin not found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and a QCA provider with TLS support is installed. For more information, check the Psi homepage.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2672,19 +2672,19 @@ Bạn vẫn muốn đóng cửa sổ?</translation>
     <name>ChatView</name>
     <message>
         <source>Quote</source>
-        <translation>Trích dẫn</translation>
+        <translation type="vanished">Trích dẫn</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
+        <translation type="vanished">Ctrl+S</translation>
     </message>
     <message>
         <source>%1 says:</source>
-        <translation>%1 nói:</translation>
+        <translation type="vanished">%1 nói:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation>Chủ đề:</translation>
+        <translation type="vanished">Chủ đề:</translation>
     </message>
     <message>
         <source>URL:</source>
@@ -2696,45 +2696,18 @@ Bạn vẫn muốn đóng cửa sổ?</translation>
     </message>
     <message>
         <source>The message was corrected</source>
-        <translation>Tin nhắn đã được sửa</translation>
-    </message>
-</context>
-<context>
-    <name>ChatViewJSObject</name>
-    <message>
-        <source>Open in external player</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose external player</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This media cannot be played inside the chat.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Could not load this media. Check the connection and try again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The built-in player could not decode this media.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The built-in player could not open this media.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Tin nhắn đã được sửa</translation>
     </message>
 </context>
 <context>
     <name>ChatViewThemeProvider</name>
     <message>
         <source>Chat Message Style</source>
-        <translation>Kiểu tin nhắn</translation>
+        <translation type="vanished">Kiểu tin nhắn</translation>
     </message>
     <message>
         <source>Configure your chat theme here</source>
-        <translation>Chỉnh chủ đề tại đây</translation>
+        <translation type="vanished">Chỉnh chủ đề tại đây</translation>
     </message>
 </context>
 <context>
@@ -3218,6 +3191,18 @@ Bạn có thể chỉ định phiên bản của máy khách và hệ điều h�
     </message>
     <message>
         <source>Copy code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Word wrap</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrap long lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable word wrap</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3985,12 +3970,16 @@ Tiếp tục?</translation>
         <source>Service Discovery toolbar</source>
         <translation>Thanh công cụ tìm dịch vụ</translation>
     </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Lỗi</translation>
+    </message>
 </context>
 <context>
     <name>DiscoListItem</name>
     <message>
         <source>Error</source>
-        <translation>Lỗi</translation>
+        <translation type="vanished">Lỗi</translation>
     </message>
     <message>
         <source>There was an error getting items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
@@ -6775,11 +6764,11 @@ To invite a friend for a game, you can use contact menu item or the button on th
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
-        <translation>Kiểu tin nhắn nhóm trò chuyện</translation>
+        <translation type="vanished">Kiểu tin nhắn nhóm trò chuyện</translation>
     </message>
     <message>
         <source>Configure your groupchat theme here</source>
-        <translation>Cấu hình chủ đề nhóm trò chuyện tại đây</translation>
+        <translation type="vanished">Cấu hình chủ đề nhóm trò chuyện tại đây</translation>
     </message>
 </context>
 <context>
@@ -8991,6 +8980,10 @@ Size: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Edit message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Forward</source>
         <translation type="unfinished">Tới</translation>
     </message>
@@ -9333,11 +9326,23 @@ Details: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Modern</source>
+        <source>Speech bubbles, your messages on the right</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Classic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compact text layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Avatars and message headers</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15056,6 +15061,10 @@ Lý do : %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Account is offline</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15181,15 +15190,7 @@ Lý do : %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Use software widgets rendering. In some cases default hardware rendering may lead to graphical glitches and crashes. This option may help.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Quit the application</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use vulkan widgets rendering. QtWebengine rendering on X11 and with NVIDIA cards may use Vulkan and this option may help if there is no content in chat tab/window</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17715,15 +17716,7 @@ Thanks for your patience.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Speech bubbles, your messages on the right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Compact text layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Avatars and message headers</source>
+        <source>Native message layout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

@@ -803,7 +803,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
-        <translation>选中此选项可使用加密的 SSL 连接到 XMPP 服务器。如果您的服务器支持，并且如果您安装了必要的 qca-ossl 插件，则可以使用此选项。如需了解详情，请查看 Psi 主页。</translation>
+        <translation type="vanished">选中此选项可使用加密的 SSL 连接到 XMPP 服务器。如果您的服务器支持，并且如果您安装了必要的 qca-ossl 插件，则可以使用此选项。如需了解详情，请查看 Psi 主页。</translation>
     </message>
     <message>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
@@ -920,6 +920,10 @@ When you enable this option you will not be able to find your password in config
     <message>
         <source>Cannot enable TLS.  Plugin not found.</source>
         <translation>无法启用 TLS，未找到插件。</translation>
+    </message>
+    <message>
+        <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and a QCA provider with TLS support is installed. For more information, check the Psi homepage.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Where the SRV records of the server are looked up when connecting through the proxy: locally, or with the DNS server set in the proxy settings, so that no DNS query leaves this computer.</source>
@@ -2706,19 +2710,19 @@ Do you still want to close the window?</source>
     <name>ChatView</name>
     <message>
         <source>Quote</source>
-        <translation>引用</translation>
+        <translation type="vanished">引用</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
+        <translation type="vanished">Ctrl+S</translation>
     </message>
     <message>
         <source>%1 says:</source>
-        <translation>%1 说：</translation>
+        <translation type="vanished">%1 说：</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation>主题：</translation>
+        <translation type="vanished">主题：</translation>
     </message>
     <message>
         <source>URL:</source>
@@ -2730,45 +2734,18 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>The message was corrected</source>
-        <translation>消息已被更正</translation>
-    </message>
-</context>
-<context>
-    <name>ChatViewJSObject</name>
-    <message>
-        <source>Open in external player</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose external player</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This media cannot be played inside the chat.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Could not load this media. Check the connection and try again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The built-in player could not decode this media.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The built-in player could not open this media.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">消息已被更正</translation>
     </message>
 </context>
 <context>
     <name>ChatViewThemeProvider</name>
     <message>
         <source>Chat Message Style</source>
-        <translation>聊天消息样式</translation>
+        <translation type="vanished">聊天消息样式</translation>
     </message>
     <message>
         <source>Configure your chat theme here</source>
-        <translation>在此处配置聊天主题</translation>
+        <translation type="vanished">在此处配置聊天主题</translation>
     </message>
 </context>
 <context>
@@ -3254,6 +3231,18 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
     <message>
         <source>Copy code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Word wrap</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrap long lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable word wrap</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4025,12 +4014,16 @@ Proceed?</source>
         <source>Service Discovery toolbar</source>
         <translation>服务发现工具栏</translation>
     </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">错误</translation>
+    </message>
 </context>
 <context>
     <name>DiscoListItem</name>
     <message>
         <source>Error</source>
-        <translation>错误</translation>
+        <translation type="vanished">错误</translation>
     </message>
     <message>
         <source>There was an error getting items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
@@ -6845,11 +6838,11 @@ To invite a friend for a game, you can use contact menu item or the button on th
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
-        <translation>群聊消息样式</translation>
+        <translation type="vanished">群聊消息样式</translation>
     </message>
     <message>
         <source>Configure your groupchat theme here</source>
-        <translation>在此处配置群聊主题</translation>
+        <translation type="vanished">在此处配置群聊主题</translation>
     </message>
 </context>
 <context>
@@ -9174,6 +9167,10 @@ Size: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Edit message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Forward</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9521,11 +9518,23 @@ Details: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Modern</source>
+        <source>Speech bubbles, your messages on the right</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Classic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compact text layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Avatars and message headers</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15651,6 +15660,10 @@ Reason: %1.</source>
         <translation>OMEMO 设备</translation>
     </message>
     <message>
+        <source>Encryption</source>
+        <translation type="unfinished">加密</translation>
+    </message>
+    <message>
         <source>Account is offline</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15785,7 +15798,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Use software widgets rendering. In some cases default hardware rendering may lead to graphical glitches and crashes. This option may help.</source>
-        <translation>使用软件部件渲染。在某些情况下，默认硬件渲染可能会导致图形故障和崩溃。此选项可能会有所帮助。</translation>
+        <translation type="vanished">使用软件部件渲染。在某些情况下，默认硬件渲染可能会导致图形故障和崩溃。此选项可能会有所帮助。</translation>
     </message>
     <message>
         <source>Quit the application</source>
@@ -15793,7 +15806,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Use vulkan widgets rendering. QtWebengine rendering on X11 and with NVIDIA cards may use Vulkan and this option may help if there is no content in chat tab/window</source>
-        <translation>使用 Vulkan 部件渲染。在 X11 和 NVIDIA 显卡上，QtWebengine 渲染可能会使用 Vulkan，如果聊天标签页/窗口中无内容显示，此选项可能会有所帮助</translation>
+        <translation type="vanished">使用 Vulkan 部件渲染。在 X11 和 NVIDIA 显卡上，QtWebengine 渲染可能会使用 Vulkan，如果聊天标签页/窗口中无内容显示，此选项可能会有所帮助</translation>
     </message>
 </context>
 <context>
@@ -18387,15 +18400,7 @@ Thanks for your patience.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Speech bubbles, your messages on the right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Compact text layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Avatars and message headers</source>
+        <source>Native message layout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

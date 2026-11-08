@@ -664,10 +664,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Omogoči pošiljanje paketkov, ki skrbijo, da se povezava ne prekine. Uporabno, če imate povezavo nastavljeno tako, da se po določenem času nedejavnosti prekine.</translation>
     </message>
     <message>
-        <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -781,6 +777,10 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Cannot enable TLS.  Plugin not found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and a QCA provider with TLS support is installed. For more information, check the Psi homepage.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2455,66 +2455,16 @@ Ali še vedno želite zapreti to okno?</translation>
 <context>
     <name>ChatView</name>
     <message>
-        <source>Quote</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>%1 says:</source>
-        <translation>%1 pravi:</translation>
+        <translation type="vanished">%1 pravi:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation>Zadeva:</translation>
+        <translation type="vanished">Zadeva:</translation>
     </message>
     <message>
         <source>URL:</source>
         <translation type="vanished">Lokacija:</translation>
-    </message>
-    <message>
-        <source>The message was corrected</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ChatViewJSObject</name>
-    <message>
-        <source>Open in external player</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose external player</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This media cannot be played inside the chat.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Could not load this media. Check the connection and try again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The built-in player could not decode this media.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The built-in player could not open this media.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ChatViewThemeProvider</name>
-    <message>
-        <source>Chat Message Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Configure your chat theme here</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2917,6 +2867,18 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
     <message>
         <source>Copy code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Word wrap</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrap long lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable word wrap</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3643,12 +3605,16 @@ Nadaljujem?</translation>
         <source>Service Discovery toolbar</source>
         <translation>Orodjarna za odkrivanje storitev</translation>
     </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Napaka</translation>
+    </message>
 </context>
 <context>
     <name>DiscoListItem</name>
     <message>
         <source>Error</source>
-        <translation>Napaka</translation>
+        <translation type="vanished">Napaka</translation>
     </message>
     <message>
         <source>There was an error getting items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
@@ -6294,17 +6260,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
     </message>
 </context>
 <context>
-    <name>GroupChatViewThemeProvider</name>
-    <message>
-        <source>Groupchat Message Style</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Configure your groupchat theme here</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>GroupMenu</name>
     <message>
         <source>&amp;None</source>
@@ -8447,6 +8402,10 @@ Size: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Edit message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Forward</source>
         <translation type="unfinished">Naprej</translation>
     </message>
@@ -8781,11 +8740,23 @@ Details: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Modern</source>
+        <source>Speech bubbles, your messages on the right</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Classic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compact text layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Avatars and message headers</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14475,6 +14446,10 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Account is offline</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14600,15 +14575,7 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Use software widgets rendering. In some cases default hardware rendering may lead to graphical glitches and crashes. This option may help.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Quit the application</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use vulkan widgets rendering. QtWebengine rendering on X11 and with NVIDIA cards may use Vulkan and this option may help if there is no content in chat tab/window</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17145,15 +17112,7 @@ Thanks for your patience.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Speech bubbles, your messages on the right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Compact text layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Avatars and message headers</source>
+        <source>Native message layout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

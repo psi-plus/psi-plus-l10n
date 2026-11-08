@@ -805,7 +805,7 @@ Kur aktivizoni këtë mundësi, s’do të jeni në gjendje të gjeni fjalëkali
     </message>
     <message>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
-        <translation>I vini shenjë kësaj mundësie që të përdorni një lidhje të fshehtëzuar me SSL me shërbyesin XMPP.  Mundeni ta përdorni këtë mundësi, nëse shërbyesi juaj e mbulon dhe nëse keni të instaluar shtojcën e domosdoshme qca-ossl.  Për më tepër informacion, shihni te faqja hyrëse e Psi-së.</translation>
+        <translation type="vanished">I vini shenjë kësaj mundësie që të përdorni një lidhje të fshehtëzuar me SSL me shërbyesin XMPP.  Mundeni ta përdorni këtë mundësi, nëse shërbyesi juaj e mbulon dhe nëse keni të instaluar shtojcën e domosdoshme qca-ossl.  Për më tepër informacion, shihni te faqja hyrëse e Psi-së.</translation>
     </message>
     <message>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
@@ -922,6 +922,10 @@ Kur aktivizoni këtë mundësi, s’do të jeni në gjendje të gjeni fjalëkali
     <message>
         <source>Cannot enable TLS.  Plugin not found.</source>
         <translation>S’aktivizohet dot TLS.  S’u gjet shtojcë.</translation>
+    </message>
+    <message>
+        <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and a QCA provider with TLS support is installed. For more information, check the Psi homepage.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Where the SRV records of the server are looked up when connecting through the proxy: locally, or with the DNS server set in the proxy settings, so that no DNS query leaves this computer.</source>
@@ -2704,19 +2708,19 @@ Doni ende të mbyllet dritarja?</translation>
     <name>ChatView</name>
     <message>
         <source>Quote</source>
-        <translation>Citim</translation>
+        <translation type="vanished">Citim</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
+        <translation type="vanished">Ctrl+S</translation>
     </message>
     <message>
         <source>%1 says:</source>
-        <translation>%1 thotë:</translation>
+        <translation type="vanished">%1 thotë:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation>Subjekt:</translation>
+        <translation type="vanished">Subjekt:</translation>
     </message>
     <message>
         <source>URL:</source>
@@ -2728,45 +2732,18 @@ Doni ende të mbyllet dritarja?</translation>
     </message>
     <message>
         <source>The message was corrected</source>
-        <translation>Mesazhi u ndreq</translation>
-    </message>
-</context>
-<context>
-    <name>ChatViewJSObject</name>
-    <message>
-        <source>Open in external player</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose external player</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This media cannot be played inside the chat.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Could not load this media. Check the connection and try again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The built-in player could not decode this media.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The built-in player could not open this media.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Mesazhi u ndreq</translation>
     </message>
 </context>
 <context>
     <name>ChatViewThemeProvider</name>
     <message>
         <source>Chat Message Style</source>
-        <translation>Stil Mesazhesh Fjalosjeje</translation>
+        <translation type="vanished">Stil Mesazhesh Fjalosjeje</translation>
     </message>
     <message>
         <source>Configure your chat theme here</source>
-        <translation>Formësoni këtu temën e fjalosjes tuaj</translation>
+        <translation type="vanished">Formësoni këtu temën e fjalosjes tuaj</translation>
     </message>
 </context>
 <context>
@@ -3254,6 +3231,18 @@ Mundeni të specifikoni versionin e klientit dhe OS-in, ose t’i përzgjidhni n
     </message>
     <message>
         <source>Copy code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Word wrap</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrap long lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable word wrap</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4020,12 +4009,16 @@ Proceed?</source>
         <source>Service Discovery toolbar</source>
         <translation>Panel Zbulimi Shërbimesh</translation>
     </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Gabim</translation>
+    </message>
 </context>
 <context>
     <name>DiscoListItem</name>
     <message>
         <source>Error</source>
-        <translation>Gabim</translation>
+        <translation type="vanished">Gabim</translation>
     </message>
     <message>
         <source>There was an error getting items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
@@ -6733,11 +6726,11 @@ To invite a friend for a game, you can use contact menu item or the button on th
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
-        <translation>Stil Mesazhesh Fjalosjeje Në Grup</translation>
+        <translation type="vanished">Stil Mesazhesh Fjalosjeje Në Grup</translation>
     </message>
     <message>
         <source>Configure your groupchat theme here</source>
-        <translation>Formësoni këtu temën e fjalosjes tuaj në grup</translation>
+        <translation type="vanished">Formësoni këtu temën e fjalosjes tuaj në grup</translation>
     </message>
 </context>
 <context>
@@ -8964,6 +8957,10 @@ Size: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Edit message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Forward</source>
         <translation type="unfinished">Përpara</translation>
     </message>
@@ -9311,11 +9308,23 @@ Hollësi: %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Modern</source>
+        <source>Speech bubbles, your messages on the right</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Classic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compact text layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Avatars and message headers</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15171,6 +15180,10 @@ Arsye: %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Encryption</source>
+        <translation type="unfinished">Fshehtëzim</translation>
+    </message>
+    <message>
         <source>Account is offline</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15296,15 +15309,7 @@ Arsye: %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Use software widgets rendering. In some cases default hardware rendering may lead to graphical glitches and crashes. This option may help.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Quit the application</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use vulkan widgets rendering. QtWebengine rendering on X11 and with NVIDIA cards may use Vulkan and this option may help if there is no content in chat tab/window</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17820,15 +17825,7 @@ Thanks for your patience.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Speech bubbles, your messages on the right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Compact text layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Avatars and message headers</source>
+        <source>Native message layout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

@@ -793,7 +793,7 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
     </message>
     <message>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
-        <translation>Zaškrtni tuto volbu, aby se použilo šifrované spojení SSL na XMPP server.  Tuto volbu můžes použít pokud ji tvůj server podporuje a pokud máš nainstalovaný potřebný zásuvný modul pro qca-ossl.  Pro více informací se podívej na domovskou stránku Psí.</translation>
+        <translation type="vanished">Zaškrtni tuto volbu, aby se použilo šifrované spojení SSL na XMPP server.  Tuto volbu můžes použít pokud ji tvůj server podporuje a pokud máš nainstalovaný potřebný zásuvný modul pro qca-ossl.  Pro více informací se podívej na domovskou stránku Psí.</translation>
     </message>
     <message>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
@@ -909,6 +909,10 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
     </message>
     <message>
         <source>Cannot enable TLS.  Plugin not found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and a QCA provider with TLS support is installed. For more information, check the Psi homepage.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2696,19 +2700,19 @@ Opravdu zavřít toto okno?</translation>
     <name>ChatView</name>
     <message>
         <source>Quote</source>
-        <translation>Citace</translation>
+        <translation type="vanished">Citace</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
+        <translation type="vanished">Ctrl+S</translation>
     </message>
     <message>
         <source>%1 says:</source>
-        <translation>%1 říká:</translation>
+        <translation type="vanished">%1 říká:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation>Předmět:</translation>
+        <translation type="vanished">Předmět:</translation>
     </message>
     <message>
         <source>URL:</source>
@@ -2720,45 +2724,18 @@ Opravdu zavřít toto okno?</translation>
     </message>
     <message>
         <source>The message was corrected</source>
-        <translation>Zpráva byla opravena</translation>
-    </message>
-</context>
-<context>
-    <name>ChatViewJSObject</name>
-    <message>
-        <source>Open in external player</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose external player</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This media cannot be played inside the chat.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Could not load this media. Check the connection and try again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The built-in player could not decode this media.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The built-in player could not open this media.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Zpráva byla opravena</translation>
     </message>
 </context>
 <context>
     <name>ChatViewThemeProvider</name>
     <message>
         <source>Chat Message Style</source>
-        <translation>Styl zpráv chatu</translation>
+        <translation type="vanished">Styl zpráv chatu</translation>
     </message>
     <message>
         <source>Configure your chat theme here</source>
-        <translation>Nastavte si zde téma svého chatu</translation>
+        <translation type="vanished">Nastavte si zde téma svého chatu</translation>
     </message>
 </context>
 <context>
@@ -3246,6 +3223,18 @@ Můžete nastavit vše ručně, nebo si vybrat některou z předdefinovaných mo
     </message>
     <message>
         <source>Copy code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Word wrap</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrap long lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable word wrap</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4017,12 +4006,16 @@ Pokračovat?</translation>
         <source>Service Discovery toolbar</source>
         <translation>Panel nástrojů Prohledávání služeb</translation>
     </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Chyba</translation>
+    </message>
 </context>
 <context>
     <name>DiscoListItem</name>
     <message>
         <source>Error</source>
-        <translation>Chyba</translation>
+        <translation type="vanished">Chyba</translation>
     </message>
     <message>
         <source>There was an error getting items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
@@ -6836,11 +6829,11 @@ To invite a friend for a game, you can use contact menu item or the button on th
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
-        <translation>Styl zpráv skupinového chatu</translation>
+        <translation type="vanished">Styl zpráv skupinového chatu</translation>
     </message>
     <message>
         <source>Configure your groupchat theme here</source>
-        <translation>Nastav téma svého skupinového chatu</translation>
+        <translation type="vanished">Nastav téma svého skupinového chatu</translation>
     </message>
 </context>
 <context>
@@ -9121,6 +9114,10 @@ Size: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Edit message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Forward</source>
         <translation type="unfinished">Vpřed</translation>
     </message>
@@ -9468,11 +9465,23 @@ Detaily: %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Modern</source>
+        <source>Speech bubbles, your messages on the right</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Classic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compact text layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Avatars and message headers</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15596,6 +15605,10 @@ Důvod: %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Encryption</source>
+        <translation type="unfinished">Šifrování</translation>
+    </message>
+    <message>
         <source>Account is offline</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15729,15 +15742,7 @@ Důvod: %1.</translation>
         <translation>Přijmout další čekající událost.</translation>
     </message>
     <message>
-        <source>Use software widgets rendering. In some cases default hardware rendering may lead to graphical glitches and crashes. This option may help.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Quit the application</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use vulkan widgets rendering. QtWebengine rendering on X11 and with NVIDIA cards may use Vulkan and this option may help if there is no content in chat tab/window</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18340,15 +18345,7 @@ Děkujeme za trpělivost.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Speech bubbles, your messages on the right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Compact text layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Avatars and message headers</source>
+        <source>Native message layout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

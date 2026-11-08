@@ -799,7 +799,7 @@ Quando abiliti questa opzione non sarai in grado di trovare la tua password nei 
     </message>
     <message>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
-        <translation>Seleziona questa opzione per usare una cifratura SSL per connettersi al server XMPP. Puoi usare questa opzione se il tuo server la supporta e se hai il plugin qca-ossl installato. Per maggiori informazioni, controlla l&apos;home page di Psi.</translation>
+        <translation type="vanished">Seleziona questa opzione per usare una cifratura SSL per connettersi al server XMPP. Puoi usare questa opzione se il tuo server la supporta e se hai il plugin qca-ossl installato. Per maggiori informazioni, controlla l&apos;home page di Psi.</translation>
     </message>
     <message>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
@@ -916,6 +916,10 @@ Quando abiliti questa opzione non sarai in grado di trovare la tua password nei 
     </message>
     <message>
         <source>Cannot enable TLS.  Plugin not found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and a QCA provider with TLS support is installed. For more information, check the Psi homepage.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2702,19 +2706,19 @@ Vuoi ancora chiudere la finestra?</translation>
     <name>ChatView</name>
     <message>
         <source>Quote</source>
-        <translation>Cita</translation>
+        <translation type="vanished">Cita</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
+        <translation type="vanished">Ctrl+S</translation>
     </message>
     <message>
         <source>%1 says:</source>
-        <translation>%1 dice:</translation>
+        <translation type="vanished">%1 dice:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation>Oggetto:</translation>
+        <translation type="vanished">Oggetto:</translation>
     </message>
     <message>
         <source>URL:</source>
@@ -2726,45 +2730,18 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>The message was corrected</source>
-        <translation>Il messaggio è stato corretto</translation>
-    </message>
-</context>
-<context>
-    <name>ChatViewJSObject</name>
-    <message>
-        <source>Open in external player</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose external player</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This media cannot be played inside the chat.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Could not load this media. Check the connection and try again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The built-in player could not decode this media.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The built-in player could not open this media.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Il messaggio è stato corretto</translation>
     </message>
 </context>
 <context>
     <name>ChatViewThemeProvider</name>
     <message>
         <source>Chat Message Style</source>
-        <translation>Stile Messaggio di Chat</translation>
+        <translation type="vanished">Stile Messaggio di Chat</translation>
     </message>
     <message>
         <source>Configure your chat theme here</source>
-        <translation>Configura il tuo tema di chat qui</translation>
+        <translation type="vanished">Configura il tuo tema di chat qui</translation>
     </message>
 </context>
 <context>
@@ -3253,6 +3230,18 @@ Puoi specificare la versione del client e dell&apos;OS o selezionarli da una lis
     </message>
     <message>
         <source>Copy code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Word wrap</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrap long lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable word wrap</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4024,12 +4013,16 @@ Procedere?</translation>
         <source>Service Discovery toolbar</source>
         <translation>Barra degli strumenti di Scoperta Servizi</translation>
     </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Errore</translation>
+    </message>
 </context>
 <context>
     <name>DiscoListItem</name>
     <message>
         <source>Error</source>
-        <translation>Errore</translation>
+        <translation type="vanished">Errore</translation>
     </message>
     <message>
         <source>There was an error getting items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
@@ -6848,11 +6841,11 @@ To invite a friend for a game, you can use contact menu item or the button on th
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
-        <translation>Stile Messaggi Conferenze</translation>
+        <translation type="vanished">Stile Messaggi Conferenze</translation>
     </message>
     <message>
         <source>Configure your groupchat theme here</source>
-        <translation>Configura il tuo tema delle conferenze qui</translation>
+        <translation type="vanished">Configura il tuo tema delle conferenze qui</translation>
     </message>
 </context>
 <context>
@@ -9175,6 +9168,10 @@ Size: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Edit message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Forward</source>
         <translation type="unfinished">Avanti</translation>
     </message>
@@ -9522,11 +9519,23 @@ Dettagli: %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Modern</source>
+        <source>Speech bubbles, your messages on the right</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Classic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compact text layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Avatars and message headers</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15642,6 +15651,10 @@ Motivo: %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Encryption</source>
+        <translation type="unfinished">Cifratura</translation>
+    </message>
+    <message>
         <source>Account is offline</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15775,15 +15788,7 @@ Motivo: %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Use software widgets rendering. In some cases default hardware rendering may lead to graphical glitches and crashes. This option may help.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Quit the application</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use vulkan widgets rendering. QtWebengine rendering on X11 and with NVIDIA cards may use Vulkan and this option may help if there is no content in chat tab/window</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18377,15 +18382,7 @@ Grazie per la tua pazienza.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Speech bubbles, your messages on the right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Compact text layout</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Avatars and message headers</source>
+        <source>Native message layout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
