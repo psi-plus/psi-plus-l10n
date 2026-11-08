@@ -194,23 +194,31 @@
 Join the translation team today! Go to 
 &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
 https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
-        <translation type="unfinished"></translation>
+        <translation>I. M. Anonymous &lt;note text=&quot;zamenite svojim pravim imenom&quot;&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://me.com&quot;&gt;http://me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;XMPP: &lt;a href=&quot;xmpp:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Prevodilac&lt;br&gt;
+&lt;br&gt;
+Pridružite se prevodilačkom timu već danas! Idite na
+&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
+https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; za više detalja!</translation>
     </message>
     <message>
         <source>Original Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Prvobitni autor</translation>
     </message>
     <message>
         <source>Lead Developer and Current Maintainer</source>
-        <translation type="unfinished"></translation>
+        <translation>Vodeći programer i trenutni održavalac</translation>
     </message>
     <message>
         <source>https://psi-im.org</source>
-        <translation type="unfinished"></translation>
+        <translation>https://psi-im.org</translation>
     </message>
     <message>
         <source>Past Lead Widget Developer</source>
-        <translation type="unfinished"></translation>
+        <translation>Bivši vodeći programer vidžeta</translation>
     </message>
     <message>
         <source>About Psi</source>
@@ -218,63 +226,63 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     </message>
     <message>
         <source>Cross-platform XMPP client designed for experienced users.</source>
-        <translation type="unfinished"></translation>
+        <translation>Unakrsnoplatformski XMPP klijent namenjen iskusnim korisnicima.</translation>
     </message>
     <message>
         <source>psi-im.org</source>
-        <translation type="unfinished"></translation>
+        <translation>psi-im.org</translation>
     </message>
     <message>
         <source>xmpp:psi-dev@conference.jabber.ru?join</source>
-        <translation type="unfinished"></translation>
+        <translation>xmpp:psi-dev@conference.jabber.ru?join</translation>
     </message>
     <message>
         <source>psi-dev@conference.jabber.ru</source>
-        <translation type="unfinished"></translation>
+        <translation>psi-dev@conference.jabber.ru</translation>
     </message>
     <message>
         <source>Developer and Plugins Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Programer i autor priključaka</translation>
     </message>
     <message>
         <source>Developer and Language Coordinator</source>
-        <translation type="unfinished"></translation>
+        <translation>Programer i koordinator prevoda</translation>
     </message>
     <message>
         <source>Past Developer and Plugins Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Bivši programer i autor priključaka</translation>
     </message>
     <message>
         <source>Past Psi+ Developer</source>
-        <translation type="unfinished"></translation>
+        <translation>Bivši Psi+ programer</translation>
     </message>
     <message>
         <source>Past Psi+ Developer and Designer</source>
-        <translation type="unfinished"></translation>
+        <translation>Bivši Psi+ programer i dizajner</translation>
     </message>
     <message>
         <source>Past Psi+ Developer and Ubuntu Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>Bivši Psi+ programer i paketaš za Ubuntu</translation>
     </message>
     <message>
         <source>Russian Translator</source>
-        <translation type="unfinished"></translation>
+        <translation>Prevodilac na ruski jezik</translation>
     </message>
     <message>
         <source>Past Psi+ Ubuntu Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>Bivši paketaš Psi+ za Ubuntu</translation>
     </message>
     <message>
         <source>Past Psi+ Mandriva Linux Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>Bivši paketaš Psi+ za Mandriva Linux</translation>
     </message>
     <message>
         <source>Past Psi+ Designer</source>
-        <translation type="unfinished"></translation>
+        <translation>Bivši Psi+ dizajner</translation>
     </message>
     <message>
         <source>Psimedia Developer</source>
-        <translation type="unfinished"></translation>
+        <translation>Programer Psimedije</translation>
     </message>
 </context>
 <context>
@@ -287,7 +295,9 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <source>&lt;qt&gt;Please choose a friendly &lt;b&gt;Name&lt;/b&gt; that Psi can use to refer to this account.&lt;br&gt;
 &lt;br&gt;
 Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to try and create an account for you on a remote server.  If you are adding an existing XMPP account then leave this box unchecked.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;qt&gt;Izaberite prijateljsko &lt;b&gt;Ime&lt;/b&gt; koje Psi može koristiti za ovaj nalog.&lt;br&gt;
+&lt;br&gt;
+Označite polje &lt;b&gt;Registruj novi nalog&lt;/b&gt; ako želite da Psi pokuša da vam napravi nalog na udaljenom serveru. Ako dodajete postojeći XMPP nalog, ostavite ovo polje neoznačeno.</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -318,7 +328,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <name>AccountAddDlg</name>
     <message>
         <source>Check this option if you don&apos;t yet have an XMPP account and you want to register one.  Note that this will only work on servers that allow anonymous registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Označite ovu opciju ako još nemate XMPP nalog i želite da ga registrujete. Imajte u vidu da ovo radi samo na serverima koji dozvoljavaju anonimnu registraciju.</translation>
     </message>
     <message>
         <source>Default</source>
@@ -365,11 +375,11 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;No accounts created. To create account please click the Add button.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nije napravljen nijedan nalog. Da biste napravili nalog, kliknite na dugme Dodaj.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>psi/options</source>
-        <translation type="unfinished"></translation>
+        <translation>psi/options</translation>
     </message>
 </context>
 <context>
@@ -595,38 +605,40 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Store hash instead of plaintext password if server supports this feature.</source>
-        <translation type="unfinished"></translation>
+        <translation>Čuvaj heš umesto lozinke u čistom tekstu ako server podržava ovu mogućnost.</translation>
     </message>
     <message>
         <source>Enable Stream Management if possible</source>
-        <translation type="unfinished"></translation>
+        <translation>Omogući upravljanje tokom ako je moguće</translation>
     </message>
     <message>
         <source>This option disables peer-to-peer connections and also connections to TURN servers provided by the other peer.&lt;br&gt;&lt;br&gt;&lt;b&gt;Warning: &lt;/b&gt;While this hides your IP address, it makes the connection impossible if TURN server options above are invalid or empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ova opcija onemogućava veze između ravnopravnih uređaja, kao i veze sa TURN serverima koje obezbeđuje druga strana.&lt;br&gt;&lt;br&gt;&lt;b&gt;Upozorenje: &lt;/b&gt;Iako se time sakriva vaša IP adresa, veza postaje nemoguća ako su gore navedene opcije TURN servera nevažeće ili prazne.</translation>
     </message>
     <message>
         <source>Disable connections potentially exposing my IP address</source>
-        <translation type="unfinished"></translation>
+        <translation>Onemogući veze koje mogu otkriti moju IP adresu</translation>
     </message>
     <message>
         <source>Use this proxy server for HTTP file upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Koristi ovaj proxy server za HTTP otpremanje fajlova</translation>
     </message>
     <message>
         <source>yourname@server.test</source>
         <extracomment>Like email</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>yourname@server.test</translation>
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt;
                 &lt;br/&gt;
                 When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Pažnja!&lt;/b&gt;
+                &lt;br/&gt;
+                Kada omogućite ovu opciju, nećete moći da pronađete svoju lozinku u konfiguracionim fajlovima. Tamo će biti samo heš tekst. Zato, ako zaboravite lozinku, ona će biti izgubljena ukoliko negde drugde niste napravili rezervnu kopiju.</translation>
     </message>
     <message>
         <source>SRV lookup:</source>
-        <translation type="unfinished"></translation>
+        <translation>SRV pretraga:</translation>
     </message>
 </context>
 <context>
@@ -697,7 +709,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the XMPP server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi se obično prijavljuje koristeći &lt;i&gt;digest&lt;/i&gt; metod autentifikacije. Označite ovo polje da biste prinudili prijavu čistim tekstom na XMPP server. Koristite ovu opciju samo ako imate problema sa uobičajenim postupkom prijave, jer vaša veza može postati ranjiva na napade.</translation>
     </message>
     <message>
         <source>Automatically login to this account on Psi startup.  Useful if you have Psi automatically launched when an Internet connection is detected.</source>
@@ -721,23 +733,23 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Označite ovu opciju da biste koristili kompresovanu vezu sa XMPP serverom, ako ga server podržava.</translation>
     </message>
     <message>
         <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Koristite ovu opciju za ručno podešavanje XMPP hosta ako se razlikuje od hosta na koji se povezujete. Ova opcija je najkorisnija ako imate nekakav proxy put na lokalnoj mašini (npr. povezujete se na localhost), a nalog vam je registrovan na spoljnom serveru.</translation>
     </message>
     <message>
         <source>You can have multiple clients connected to the XMPP server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
-        <translation type="unfinished"></translation>
+        <translation>Možete imati više klijenata povezanih na XMPP server sa jednim nalogom. Svaka prijava se razlikuje po nazivu „resursa“, koji možete navesti u ovom polju.</translation>
     </message>
     <message>
         <source>This option sets the user (and realm) you want to authenticate as. This overrides the XMPP address you are logging in as.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ova opcija postavlja korisnika (i domen) kao kojeg želite da se autentifikujete. Ona zamenjuje XMPP adresu sa kojom se prijavljujete.</translation>
     </message>
     <message>
         <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Možete imati više klijenata povezanih na XMPP server sa jednim nalogom. U takvoj situaciji, klijent sa najvišim prioritetom (koji se navodi u ovom polju) biće taj koji prima sve dolazne događaje.&lt;/p&gt;&lt;p&gt;Na primer, ako imate stalnu internet vezu na radnom mestu i dial-up kod kuće, možete držati XMPP klijent stalno pokrenut na poslu sa niskim prioritetom, a i dalje koristiti isti nalog od kuće, koristeći klijent sa višim prioritetom da privremeno „isključite“ klijent sa nižim prioritetom na poslu.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Username:</source>
@@ -813,43 +825,43 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
-        <translation type="unfinished"></translation>
+        <translation>Omogućava protokol za upravljanje tokom ako je moguće. Koristan je ako imate nestabilnu vezu. Vaš server mora podržavati ovu opciju. Više informacija potražite u XEP-0184.</translation>
     </message>
     <message>
         <source>Use the same proxy for HTTP upload as one configured for XMPP connection. Otherwise use application default proxy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Koristi isti proxy za HTTP otpremanje kao onaj koji je podešen za XMPP vezu. U suprotnom koristi podrazumevani proxy aplikacije.</translation>
     </message>
     <message>
         <source>Direct TLS</source>
-        <translation type="unfinished"></translation>
+        <translation>Direktan TLS</translation>
     </message>
     <message>
         <source>Direct TLS is only available in combination with manual host/port.</source>
-        <translation type="unfinished"></translation>
+        <translation>Direktan TLS je dostupan samo u kombinaciji sa ručno zadatim hostom/portom.</translation>
     </message>
     <message>
         <source>TLS error</source>
-        <translation type="unfinished"></translation>
+        <translation>TLS greška</translation>
     </message>
     <message>
         <source>Cannot enable TLS.  Plugin not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće omogućiti TLS. Priključak nije pronađen.</translation>
     </message>
     <message>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and a QCA provider with TLS support is installed. For more information, check the Psi homepage.</source>
-        <translation type="unfinished"></translation>
+        <translation>Označite ovu opciju da biste koristili šifrovanu SSL vezu sa XMPP serverom. Možete je koristiti ako vaš server to podržava i ako je instaliran QCA provajder sa podrškom za TLS. Više informacija potražite na početnoj stranici Psi-ja.</translation>
     </message>
     <message>
         <source>Where the SRV records of the server are looked up when connecting through the proxy: locally, or with the DNS server set in the proxy settings, so that no DNS query leaves this computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gde se traže SRV zapisi servera pri povezivanju kroz proxy: lokalno ili pomoću DNS servera podešenog u proxy podešavanjima, tako da nijedan DNS upit ne napušta ovaj računar.</translation>
     </message>
     <message>
         <source>Local</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokalno</translation>
     </message>
     <message>
         <source>Remote, with the DNS server of the proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Udaljeno, pomoću DNS servera proxy-ja</translation>
     </message>
 </context>
 <context>
@@ -989,11 +1001,11 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Direct TLS</source>
-        <translation type="unfinished"></translation>
+        <translation>Direktan TLS</translation>
     </message>
     <message>
         <source>Direct TLS is only available in combination with manual host/port.</source>
-        <translation type="unfinished"></translation>
+        <translation>Direktan TLS je dostupan samo u kombinaciji sa ručno zadatim hostom/portom.</translation>
     </message>
 </context>
 <context>
@@ -1106,7 +1118,7 @@ save the history for this contact.</translation>
     </message>
     <message>
         <source>This Psi profile is already running...&lt;br&gt;Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ovaj Psi profil je već pokrenut...&lt;br&gt;Sačekajte...</translation>
     </message>
 </context>
 <context>
@@ -1151,7 +1163,7 @@ save the history for this contact.</translation>
     <name>AddKeyDlg</name>
     <message>
         <source>Generate a new key pair</source>
-        <translation type="unfinished"></translation>
+        <translation>Generiši novi par ključeva</translation>
     </message>
     <message>
         <source>Length: </source>
@@ -1203,7 +1215,7 @@ save the history for this contact.</translation>
     </message>
     <message>
         <source>Email address: </source>
-        <translation type="unfinished"></translation>
+        <translation>Adresa e-pošte: </translation>
     </message>
 </context>
 <context>
@@ -1245,7 +1257,11 @@ save the history for this contact.</translation>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; user, simply fill out the XMPP address (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-XMPP&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get XMPP Address&lt;/span&gt; button to generate an XMPP address for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Da biste dodali &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; korisnika, jednostavno popunite XMPP adresu (i opcionalni nadimak i grupu) na dnu i pritisnite &lt;span style=&quot; font-style:italic;&quot;&gt;Dodaj&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;Da biste dodali kontakt iz &lt;span style=&quot; font-weight:600;&quot;&gt;ne-XMPP&lt;/span&gt; servisa, prvo se uverite da ste registrovani na tom servisu (pogledajte Otkrivanje usluga u glavnom meniju), a zatim izaberite servis iz polja na vrhu. Sledite uputstva u polju &lt;span style=&quot; font-style:italic;&quot;&gt;Prevođenje ID-a usluge&lt;/span&gt; i pritisnite dugme &lt;span style=&quot;font-style:italic;&quot;&gt;Preuzmi XMPP adresu&lt;/span&gt; da biste generisali XMPP adresu za kontakt.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Service:</source>
@@ -1351,18 +1367,19 @@ Proverite da li ste uneli ispravnu XMPP adresu.</translation>
     <message>
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%gmail.com@[XMPP address of Transport]&lt;br&gt;&lt;/qt&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;qt&gt;
+Došlo je do greške pri dobijanju informacija o prevođenju ID-a usluge od „%1“.&lt;br&gt;Razlog: %2&lt;br&gt;&lt;br&gt;Servis možda ne podržava ovu funkciju. U tom slučaju moraćete ručno da unesete XMPP adresu kontakta koji želite da dodate. Primeri:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP adresa transporta]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%gmail.com@[XMPP adresa transporta]&lt;br&gt;&lt;/qt&gt;</translation>
     </message>
 </context>
 <context>
     <name>AddressTypeDlg</name>
     <message>
         <source>Preferred</source>
-        <translation type="unfinished"></translation>
+        <translation>Preferirano</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Kućna</translation>
     </message>
     <message>
         <source>Work</source>
@@ -1370,47 +1387,47 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Postal</source>
-        <translation type="unfinished"></translation>
+        <translation>Poštanska</translation>
     </message>
     <message>
         <source>Parcel</source>
-        <translation type="unfinished"></translation>
+        <translation>Paketna</translation>
     </message>
     <message>
         <source>Domestic</source>
-        <translation type="unfinished"></translation>
+        <translation>Domaća</translation>
     </message>
     <message>
         <source>International</source>
-        <translation type="unfinished"></translation>
+        <translation>Međunarodna</translation>
     </message>
     <message>
         <source>Voice</source>
-        <translation type="unfinished"></translation>
+        <translation>Glasovna</translation>
     </message>
     <message>
         <source>Fax</source>
-        <translation type="unfinished"></translation>
+        <translation>Faks</translation>
     </message>
     <message>
         <source>Pager</source>
-        <translation type="unfinished"></translation>
+        <translation>Pejdžer</translation>
     </message>
     <message>
         <source>Voice Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Glasovna poruka</translation>
     </message>
     <message>
         <source>Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Mobilna</translation>
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>Video</translation>
     </message>
     <message>
         <source>Modem</source>
-        <translation type="unfinished"></translation>
+        <translation>Modem</translation>
     </message>
 </context>
 <context>
@@ -1566,7 +1583,7 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>times (-1=infinite)</source>
-        <translation type="unfinished"></translation>
+        <translation>puta (-1=beskonačno)</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -1606,7 +1623,7 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#autoreply_plugin&quot;&gt;Viki (na mreži)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -1620,27 +1637,27 @@ The list of exceptions for jids has two operating modes:
     <name>AvCallManagerPrivate</name>
     <message>
         <source>The Jingle offer did not match the incoming call proposal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jingle ponuda se nije poklopila sa dolaznim predlogom poziva.</translation>
     </message>
     <message>
         <source>Call answered on another device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziv je prihvaćen na drugom uređaju.</translation>
     </message>
     <message>
         <source>Call declined on another device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziv je odbijen na drugom uređaju.</translation>
     </message>
     <message>
         <source>Call was declined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziv je odbijen.</translation>
     </message>
     <message>
         <source>Call was cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziv je otkazan.</translation>
     </message>
     <message>
         <source>Call was finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziv je završen.</translation>
     </message>
 </context>
 <context>
@@ -1671,83 +1688,83 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>The requested media type is not supported by the current media backend.</source>
-        <translation type="unfinished"></translation>
+        <translation>Traženi tip medija nije podržan od strane trenutnog medijskog pozadinskog sloja.</translation>
     </message>
     <message>
         <source>The contact has no device to call.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontakt nema uređaj na koji se može pozvati.</translation>
     </message>
     <message>
         <source>Unable to send the call proposal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće poslati predlog poziva.</translation>
     </message>
     <message>
         <source>Unable to create a Jingle call session.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće napraviti Jingle sesiju poziva.</translation>
     </message>
     <message>
         <source>Unable to create the requested RTP media.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće napraviti traženi RTP medij.</translation>
     </message>
     <message>
         <source>Unable to initialize the media backend.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće inicijalizovati medijski pozadinski sloj.</translation>
     </message>
     <message>
         <source>No offered RTP media type was accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nijedan ponuđeni RTP tip medija nije prihvaćen.</translation>
     </message>
     <message>
         <source>Unable to accept the incoming call proposal.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće prihvatiti dolazni predlog poziva.</translation>
     </message>
     <message>
         <source>A media file was selected as call input but no file is configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>Medijski fajl je izabran kao ulaz poziva, ali nijedan fajl nije podešen.</translation>
     </message>
     <message>
         <source>No microphone is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mikrofon nije dostupan.</translation>
     </message>
     <message>
         <source>Unable to add a microphone to this session.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće dodati mikrofon u ovu sesiju.</translation>
     </message>
     <message>
         <source>No camera is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kamera nije dostupna.</translation>
     </message>
     <message>
         <source>Wait for screen sharing to connect before enabling the camera.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sačekajte da se deljenje ekrana poveže pre uključivanja kamere.</translation>
     </message>
     <message>
         <source>Unable to add a camera to this call.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće dodati kameru u ovaj poziv.</translation>
     </message>
     <message>
         <source>Wait for the camera to connect before sharing your screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sačekajte da se kamera poveže pre deljenja ekrana.</translation>
     </message>
     <message>
         <source>The media backend cannot add screen sharing to this call.</source>
-        <translation type="unfinished"></translation>
+        <translation>Medijski pozadinski sloj ne može dodati deljenje ekrana u ovaj poziv.</translation>
     </message>
     <message>
         <source>The peer did not accept any usable RTP media.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druga strana nije prihvatila nijedan upotrebljiv RTP medij.</translation>
     </message>
     <message>
         <source>Screen sharing was declined or could not connect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deljenje ekrana je odbijeno ili veza nije mogla biti uspostavljena.</translation>
     </message>
     <message>
         <source>Call was terminated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziv je prekinut.</translation>
     </message>
     <message>
         <source>Call was rejected or negotiation failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziv je odbijen ili pregovaranje nije uspelo.</translation>
     </message>
 </context>
 <context>
@@ -1780,11 +1797,11 @@ The list of exceptions for jids has two operating modes:
     <name>BOBFileShareDownloader</name>
     <message>
         <source>&quot;Bits Of Binary&quot; data source is offline</source>
-        <translation type="unfinished"></translation>
+        <translation>„Bits Of Binary“ izvor podataka je van mreže</translation>
     </message>
     <message>
         <source>Download using &quot;Bits Of Binary&quot; failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Preuzimanje pomoću „Bits Of Binary“ nije uspelo</translation>
     </message>
 </context>
 <context>
@@ -1807,16 +1824,17 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>Battleship game</source>
-        <translation type="unfinished"></translation>
+        <translation>Igra Potapanje brodova</translation>
     </message>
     <message>
         <source>Battleship game!</source>
-        <translation type="unfinished"></translation>
+        <translation>Igra Potapanje brodova!</translation>
     </message>
     <message>
         <source>Play Battleship with your friends.
 This is a paper board game where you try to sink the opponent&apos;s ships.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Igrajte Potapanje brodova sa prijateljima.
+Ovo je društvena igra na papiru u kojoj pokušavate da potopite protivničke brodove. Da biste pozvali prijatelja na igru, možete koristiti stavku menija kontakta ili dugme na traci sa alatkama u prozoru razgovora.</translation>
     </message>
 </context>
 <context>
@@ -1859,7 +1877,7 @@ This is a paper board game where you try to sink the opponent&apos;s ships.To in
     </message>
     <message>
         <source>Auto-join:</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatsko pridruživanje:</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -1898,11 +1916,11 @@ This is a paper board game where you try to sink the opponent&apos;s ships.To in
     </message>
     <message>
         <source>Bookmark error</source>
-        <translation type="unfinished"></translation>
+        <translation>Greška oznake</translation>
     </message>
     <message>
         <source>The bookmark changes could not be submitted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izmene oznake nisu mogle biti sačuvane.</translation>
     </message>
 </context>
 <context>
@@ -1940,79 +1958,79 @@ This is a paper board game where you try to sink the opponent&apos;s ships.To in
     <name>CallDlg</name>
     <message>
         <source>Call</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziv</translation>
     </message>
     <message>
         <source>Whiteboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Bela tabla</translation>
     </message>
     <message>
         <source>%1 — %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 — %2</translation>
     </message>
     <message>
         <source>Call failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziv nije uspeo</translation>
     </message>
     <message>
         <source>The contact cannot be called.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontakt se ne može pozvati.</translation>
     </message>
     <message>
         <source>Unable to accept the whiteboard invitation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće prihvatiti poziv na belu tablu.</translation>
     </message>
     <message>
         <source>The contact does not support whiteboards.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontakt ne podržava bele table.</translation>
     </message>
     <message>
         <source>Unable to send the whiteboard invitation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće poslati poziv na belu tablu.</translation>
     </message>
     <message>
         <source>Unable to create a whiteboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće napraviti belu tablu.</translation>
     </message>
     <message>
         <source>The invitation was declined or failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziv je odbijen ili nije uspeo</translation>
     </message>
     <message>
         <source>Audio and video are not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvuk i video nisu dostupni.</translation>
     </message>
     <message>
         <source>Call error</source>
-        <translation type="unfinished"></translation>
+        <translation>Greška poziva</translation>
     </message>
     <message>
         <source>Unable to add a whiteboard to this call.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće dodati belu tablu u ovaj poziv.</translation>
     </message>
     <message>
         <source>End-to-end encrypted with OMEMO; the whiteboard goes through the server</source>
-        <translation type="unfinished"></translation>
+        <translation>Šifrovano od kraja do kraja pomoću OMEMO; bela tabla ide preko servera</translation>
     </message>
     <message>
         <source>End-to-end encrypted, verified with OMEMO</source>
-        <translation type="unfinished"></translation>
+        <translation>Šifrovano od kraja do kraja, overeno pomoću OMEMO</translation>
     </message>
     <message>
         <source>Encrypted, but the contact&apos;s OMEMO device is not trusted</source>
-        <translation type="unfinished"></translation>
+        <translation>Šifrovano, ali OMEMO uređaj kontakta nije pouzdan</translation>
     </message>
     <message>
         <source>Not end-to-end encrypted: the whiteboard goes through the server</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije šifrovano od kraja do kraja: bela tabla ide preko servera</translation>
     </message>
     <message>
         <source>Encrypted, not verified end-to-end</source>
-        <translation type="unfinished"></translation>
+        <translation>Šifrovano, ali nije overeno od kraja do kraja</translation>
     </message>
     <message>
         <source>Refused: the encryption could not be verified with a trusted OMEMO device of the contact. See Options &gt; Security.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odbijeno: šifrovanje nije moglo biti overeno pomoću pouzdanog OMEMO uređaja kontakta. Pogledajte Opcije &gt; Bezbednost.</translation>
     </message>
 </context>
 <context>
@@ -2078,7 +2096,7 @@ This is a paper board game where you try to sink the opponent&apos;s ships.To in
     <name>CallStage</name>
     <message>
         <source>Show %1 on the main stage</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži %1 na glavnoj sceni</translation>
     </message>
 </context>
 <context>
@@ -2086,43 +2104,44 @@ This is a paper board game where you try to sink the opponent&apos;s ships.To in
     <message>
         <source>Audio call
 Turn on your camera or share your screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Glasovni poziv
+Uključite kameru ili podelite ekran</translation>
     </message>
     <message>
         <source>Shared screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Podeljeni ekran</translation>
     </message>
     <message>
         <source>Camera</source>
-        <translation type="unfinished"></translation>
+        <translation>Kamera</translation>
     </message>
     <message>
         <source>Choose microphone</source>
-        <translation type="unfinished"></translation>
+        <translation>Izaberi mikrofon</translation>
     </message>
     <message>
         <source>Choose camera</source>
-        <translation type="unfinished"></translation>
+        <translation>Izaberi kameru</translation>
     </message>
     <message>
         <source>HD · 2 Mbps</source>
-        <translation type="unfinished"></translation>
+        <translation>HD · 2 Mbps</translation>
     </message>
     <message>
         <source>Balanced · 1 Mbps</source>
-        <translation type="unfinished"></translation>
+        <translation>Uravnoteženo · 1 Mbps</translation>
     </message>
     <message>
         <source>Low bandwidth · 400 kbps</source>
-        <translation type="unfinished"></translation>
+        <translation>Nizak protok · 400 kbps</translation>
     </message>
     <message>
         <source>Video quality</source>
-        <translation type="unfinished"></translation>
+        <translation>Kvalitet videa</translation>
     </message>
     <message>
         <source>Call</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziv</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2130,51 +2149,51 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Close call window</source>
-        <translation type="unfinished"></translation>
+        <translation>Zatvori prozor poziva</translation>
     </message>
     <message>
         <source>Mute microphone</source>
-        <translation type="unfinished"></translation>
+        <translation>Isključi mikrofon</translation>
     </message>
     <message>
         <source>Unmute microphone</source>
-        <translation type="unfinished"></translation>
+        <translation>Uključi mikrofon</translation>
     </message>
     <message>
         <source>Turn camera off</source>
-        <translation type="unfinished"></translation>
+        <translation>Isključi kameru</translation>
     </message>
     <message>
         <source>Turn camera on</source>
-        <translation type="unfinished"></translation>
+        <translation>Uključi kameru</translation>
     </message>
     <message>
         <source>Cancel screen selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Otkaži izbor ekrana</translation>
     </message>
     <message>
         <source>Cancel selected screen: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Otkaži izabrani ekran: %1</translation>
     </message>
     <message>
         <source>Stop sharing: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaustavi deljenje: %1</translation>
     </message>
     <message>
         <source>Share a display or window</source>
-        <translation type="unfinished"></translation>
+        <translation>Podeli ekran ili prozor</translation>
     </message>
     <message>
         <source>Hide whiteboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Sakrij belu tablu</translation>
     </message>
     <message>
         <source>Show whiteboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži belu tablu</translation>
     </message>
     <message>
         <source>End call (%1 elapsed)</source>
-        <translation type="unfinished"></translation>
+        <translation>Završi poziv (proteklo %1)</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2182,47 +2201,47 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Cancel call</source>
-        <translation type="unfinished"></translation>
+        <translation>Otkaži poziv</translation>
     </message>
     <message>
         <source>Selecting screen…</source>
-        <translation type="unfinished"></translation>
+        <translation>Biranje ekrana…</translation>
     </message>
     <message>
         <source>Screen selected: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekran izabran: %1</translation>
     </message>
     <message>
         <source>Connecting screen…</source>
-        <translation type="unfinished"></translation>
+        <translation>Povezivanje ekrana…</translation>
     </message>
     <message>
         <source>Sharing: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Deljenje: %1</translation>
     </message>
     <message>
         <source>Connected</source>
-        <translation type="unfinished"></translation>
+        <translation>Povezano</translation>
     </message>
     <message>
         <source>Connected · waiting for video</source>
-        <translation type="unfinished"></translation>
+        <translation>Povezano · čeka se video</translation>
     </message>
     <message>
         <source>Join whiteboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Pridruži se beloj tabli</translation>
     </message>
     <message>
         <source>Invite</source>
-        <translation type="unfinished"></translation>
+        <translation>Pozovi</translation>
     </message>
     <message>
         <source>Accept call</source>
-        <translation type="unfinished"></translation>
+        <translation>Prihvati poziv</translation>
     </message>
     <message>
         <source>Session ended</source>
-        <translation type="unfinished"></translation>
+        <translation>Sesija je završena</translation>
     </message>
     <message>
         <source>Call ended</source>
@@ -2230,23 +2249,23 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Whiteboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Bela tabla</translation>
     </message>
     <message>
         <source>Calls are not available with this contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Pozivi sa ovim kontaktom nisu dostupni</translation>
     </message>
     <message>
         <source>No devices available</source>
-        <translation type="unfinished"></translation>
+        <translation>Nema dostupnih uređaja</translation>
     </message>
     <message>
         <source>System default (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistemski podrazumevano (%1)</translation>
     </message>
     <message>
         <source>Device unavailable; using %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Uređaj nedostupan; koristi se %1</translation>
     </message>
 </context>
 <context>
@@ -2272,7 +2291,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>You need to pass verification</source>
-        <translation type="unfinished"></translation>
+        <translation>Morate proći verifikaciju</translation>
     </message>
     <message>
         <source>AccountLabel</source>
@@ -2390,7 +2409,8 @@ Turn on your camera or share your screen</source>
     <message>
         <source>The certificate is NOT valid!
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Sertifikat NIJE važeći!
+</translation>
     </message>
 </context>
 <context>
@@ -2531,19 +2551,19 @@ Da li i dalje želite da zatvorite prozor?</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
-        <translation>&amp;Završi privatnu konverzaciju</translation>
+        <translation>%1 je završio privatni razgovor</translation>
     </message>
     <message>
         <source>Encryption is enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Šifrovanje je omogućeno</translation>
     </message>
     <message>
         <source>Encryption is disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Šifrovanje je onemogućeno</translation>
     </message>
     <message>
         <source>%1 encryption is enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Šifrovanje %1 je omogućeno</translation>
     </message>
 </context>
 <context>
@@ -2558,15 +2578,15 @@ Da li i dalje želite da zatvorite prozor?</translation>
     </message>
     <message>
         <source>Recording (%1 sec left)</source>
-        <translation type="unfinished"></translation>
+        <translation>Snimanje (preostalo %1 s)</translation>
     </message>
     <message>
         <source>Record and share audio note while pressed</source>
-        <translation type="unfinished"></translation>
+        <translation>Snimi i podeli glasovnu belešku dok je pritisnuto</translation>
     </message>
     <message>
         <source>Audio recording failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Snimanje zvuka nije uspelo</translation>
     </message>
 </context>
 <context>
@@ -2577,7 +2597,7 @@ Da li i dalje želite da zatvorite prozor?</translation>
     </message>
     <message>
         <source>Reply to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Odgovori %1</translation>
     </message>
 </context>
 <context>
@@ -2667,7 +2687,8 @@ da igrate šah. On želi da igra %2.</translation>
     <message>
         <source>Your opponent has closed the board!
  You can still save the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Protivnik je zatvorio tablu!
+ Igru još uvek možete sačuvati.</translation>
     </message>
     <message>
         <source>The game was rejected</source>
@@ -2683,7 +2704,7 @@ da igrate šah. On želi da igra %2.</translation>
     </message>
     <message>
         <source>Draw!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nerešeno!</translation>
     </message>
     <message>
         <source>Unknown error!</source>
@@ -2719,13 +2740,15 @@ Za slanje komandi, koriste se normalne poruke pa će ovaj dodatak uvek raditi gd
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#chess_plugin&quot;&gt;Viki (na mreži)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Play chess with your friends.
 The plugin is compatible with a similar plugin for Tkabber.
 To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Igrajte šah sa prijateljima.
+Priključak je kompatibilan sa sličnim priključkom za Tkabber.
+Da biste pozvali prijatelja na igru, možete koristiti stavku menija kontakta ili dugme na traci sa alatkama u prozoru razgovora.</translation>
     </message>
 </context>
 <context>
@@ -2736,7 +2759,7 @@ To invite a friend for a game, you can use contact menu item or the button on th
     </message>
     <message>
         <source>Moves:</source>
-        <translation type="unfinished"></translation>
+        <translation>Potezi:</translation>
     </message>
     <message>
         <source>    White    Black
@@ -2960,7 +2983,7 @@ You can preview items before deleting them from your hard drive.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#cleaner_plugin&quot;&gt;Viki (na mreži)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -3034,7 +3057,7 @@ You can preview items before deleting them from your hard drive.</translation>
     <name>ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation type="unfinished"></translation>
+        <translation>Ponuđeni mehanizmi: </translation>
     </message>
 </context>
 <context>
@@ -3086,83 +3109,83 @@ Možete navesti verziju klijenta i OS ili odabrati ih sa unapred spremljene list
     <name>CodeBlockWidget</name>
     <message>
         <source>Choose syntax highlighting language</source>
-        <translation type="unfinished"></translation>
+        <translation>Izaberi jezik isticanja sintakse</translation>
     </message>
     <message>
         <source>Code language</source>
-        <translation type="unfinished"></translation>
+        <translation>Jezik koda</translation>
     </message>
     <message>
         <source>Copy code</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj kod</translation>
     </message>
     <message>
         <source>Word wrap</source>
-        <translation type="unfinished"></translation>
+        <translation>Prelamanje redova</translation>
     </message>
     <message>
         <source>Wrap long lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Prelomi duge redove</translation>
     </message>
     <message>
         <source>Disable word wrap</source>
-        <translation type="unfinished"></translation>
+        <translation>Onemogući prelamanje redova</translation>
     </message>
     <message>
         <source>Open code in window</source>
-        <translation type="unfinished"></translation>
+        <translation>Otvori kod u prozoru</translation>
     </message>
     <message>
         <source>Open code in a separate window</source>
-        <translation type="unfinished"></translation>
+        <translation>Otvori kod u odvojenom prozoru</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatiraj</translation>
     </message>
     <message>
         <source>Format JSON or XML for reading</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatiraj JSON ili XML za čitanje</translation>
     </message>
     <message>
         <source>Run</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokreni</translation>
     </message>
     <message>
         <source>Run received code?</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokrenuti primljeni kod?</translation>
     </message>
     <message>
         <source>Executing code from a message can read, modify or delete local data. Only continue if you have reviewed the code and trust its source.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvršavanje koda iz poruke može čitati, menjati ili brisati lokalne podatke. Nastavite samo ako ste pregledali kod i verujete njegovom izvoru.</translation>
     </message>
     <message>
         <source>I understand and accept the risk of running code from an unverified source.</source>
-        <translation type="unfinished"></translation>
+        <translation>Razumem i prihvatam rizik pokretanja koda iz neproverenog izvora.</translation>
     </message>
     <message>
         <source>Plain text</source>
-        <translation type="unfinished"></translation>
+        <translation>Čist tekst</translation>
     </message>
     <message>
         <source>Syntax highlighting: %1. Click to choose another language.</source>
-        <translation type="unfinished"></translation>
+        <translation>Isticanje sintakse: %1. Kliknite da biste izabrali drugi jezik.</translation>
     </message>
     <message>
         <source>Format for reading (toggle original)</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatiraj za čitanje (prebaci na original)</translation>
     </message>
     <message>
         <source>Format available for valid JSON or XML, up to 2 MiB</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatiranje je dostupno za važeći JSON ili XML, do 2 MiB</translation>
     </message>
     <message>
         <source>Original</source>
-        <translation type="unfinished"></translation>
+        <translation>Original</translation>
     </message>
     <message>
         <source>Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Kod</translation>
     </message>
 </context>
 <context>
@@ -3173,7 +3196,7 @@ Možete navesti verziju klijenta i OS ili odabrati ih sa unapred spremljene list
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Razlikuj velika i mala slova</translation>
     </message>
     <message>
         <source>First page</source>
@@ -3212,14 +3235,17 @@ Možete navesti verziju klijenta i OS ili odabrati ih sa unapred spremljene list
     </message>
     <message>
         <source>Groupchat History</source>
-        <translation type="unfinished"></translation>
+        <translation>Istorija grupnog razgovora</translation>
     </message>
     <message>
         <source>This plugin is designed to save groupchat logs in which the Psi user sits.
 Groupchats logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with groupchat.
 
 Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ovaj priključak je namenjen čuvanju dnevnika grupnih razgovora u kojima Psi korisnik boravi.
+Dnevnici grupnih razgovora mogu se pregledati iz podešavanja priključka ili klikom na odgovarajuće dugme na traci sa alatkama u aktivnom prozoru/kartici sa grupnim razgovorom.
+
+Napomena: Za ispravan rad mora biti omogućena traka sa alatkama grupnog razgovora.</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -3231,7 +3257,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#conference_logger_plugin&quot;&gt;Viki (na mreži)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -3342,11 +3368,11 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>&amp;XMPP Console</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;XMPP konzola</translation>
     </message>
     <message>
         <source>Blocked Contacts...</source>
-        <translation type="unfinished"></translation>
+        <translation>Blokirani kontakti...</translation>
     </message>
     <message>
         <source>Blocked Contacts</source>
@@ -3354,11 +3380,11 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Server blocklist (XEP-0191)</source>
-        <translation type="unfinished"></translation>
+        <translation>Serverska lista blokiranih (XEP-0191)</translation>
     </message>
     <message>
         <source>Block JID...</source>
-        <translation type="unfinished"></translation>
+        <translation>Blokiraj JID...</translation>
     </message>
     <message>
         <source>Unblock</source>
@@ -3366,11 +3392,11 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Block JID</source>
-        <translation type="unfinished"></translation>
+        <translation>Blokiraj JID</translation>
     </message>
     <message>
         <source>XMPP address:</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPP adresa:</translation>
     </message>
 </context>
 <context>
@@ -3585,7 +3611,7 @@ Da nastavim?</translation>
     </message>
     <message>
         <source>Nothing to do..</source>
-        <translation type="unfinished"></translation>
+        <translation>Nema šta da se radi..</translation>
     </message>
     <message>
         <source>No contacts found in file %1</source>
@@ -3694,11 +3720,11 @@ Da nastavim?</translation>
     <name>DesktopUtil</name>
     <message>
         <source>Choose another player…</source>
-        <translation type="unfinished"></translation>
+        <translation>Izaberi drugi plejer…</translation>
     </message>
     <message>
         <source>External media player</source>
-        <translation type="unfinished"></translation>
+        <translation>Spoljni plejer medija</translation>
     </message>
     <message>
         <source>Player:</source>
@@ -3706,11 +3732,11 @@ Da nastavim?</translation>
     </message>
     <message>
         <source>Choose media player executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Izaberi izvršnu datoteku plejera medija</translation>
     </message>
     <message>
         <source>Could not start the media player. Choose another player and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće pokrenuti plejer medija. Izaberite drugi plejer i pokušajte ponovo.</translation>
     </message>
 </context>
 <context>
@@ -3885,7 +3911,7 @@ Da nastavim?</translation>
     <message>
         <source>more items</source>
         <comment>Getting more disco items in order page by page</comment>
-        <translation type="unfinished"></translation>
+        <translation>još stavki</translation>
     </message>
 </context>
 <context>
@@ -3927,7 +3953,7 @@ Da nastavim?</translation>
     <name>DisplayProxy</name>
     <message>
         <source>deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>obrisano</translation>
     </message>
 </context>
 <context>
@@ -3964,7 +3990,7 @@ Da nastavim?</translation>
     <name>EDBSqLite</name>
     <message>
         <source>Unable to decrypt archived message</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće dešifrovati arhiviranu poruku</translation>
     </message>
 </context>
 <context>
@@ -3983,12 +4009,13 @@ Da nastavim?</translation>
     </message>
     <message>
         <source>*Regular expressions can be used</source>
-        <translation type="unfinished"></translation>
+        <translation>*Mogu se koristiti regularni izrazi</translation>
     </message>
     <message>
         <source>**List of words can be used.
   Each word can use regular expression</source>
-        <translation type="unfinished"></translation>
+        <translation>**Može se koristiti lista reči.
+  Svaka reč može koristiti regularni izraz</translation>
     </message>
     <message>
         <source>Use for</source>
@@ -4085,23 +4112,23 @@ Da nastavim?</translation>
     <name>EmojiRegistry</name>
     <message>
         <source>Smileys &amp; Emotion</source>
-        <translation type="unfinished"></translation>
+        <translation>Osmesi i emocije</translation>
     </message>
     <message>
         <source>People &amp; Body</source>
-        <translation type="unfinished"></translation>
+        <translation>Ljudi i telo</translation>
     </message>
     <message>
         <source>Animals &amp; Nature</source>
-        <translation type="unfinished"></translation>
+        <translation>Životinje i priroda</translation>
     </message>
     <message>
         <source>Food &amp; Drink</source>
-        <translation type="unfinished"></translation>
+        <translation>Hrana i piće</translation>
     </message>
     <message>
         <source>Travel &amp; Places</source>
-        <translation type="unfinished"></translation>
+        <translation>Putovanja i mesta</translation>
     </message>
     <message>
         <source>Activities</source>
@@ -4109,15 +4136,15 @@ Da nastavim?</translation>
     </message>
     <message>
         <source>Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Predmeti</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>Simboli</translation>
     </message>
     <message>
         <source>Flags</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastave</translation>
     </message>
 </context>
 <context>
@@ -4128,16 +4155,17 @@ Da nastavim?</translation>
     </message>
     <message>
         <source>Missed messages: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Propuštene poruke: %1</translation>
     </message>
     <message>
         <source>Enum Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Numerisanje poruka</translation>
     </message>
     <message>
         <source>The plugin is designed to enumerate messages, adding the messages numbers in chat logs and notification of missed messages. 
 Supports per contact on / off message enumeration via the buttons on the chats toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Priključak je namenjen numerisanju poruka, dodavanju brojeva poruka u dnevnike razgovora i obaveštavanju o propuštenim porukama.
+Podržava uključivanje/isključivanje numerisanja poruka po kontaktu pomoću dugmadi na traci sa alatkama razgovora.</translation>
     </message>
 </context>
 <context>
@@ -4264,18 +4292,21 @@ Supports per contact on / off message enumeration via the buttons on the chats t
     </message>
     <message>
         <source>Please type in a transaction identifier first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prvo unesite identifikator transakcije.</translation>
     </message>
     <message>
         <source>Please complete all required fields (marked with a &apos;*&apos;).</source>
-        <translation type="unfinished"></translation>
+        <translation>Popunite sva obavezna polja (označena zvezdicom „*“).</translation>
     </message>
     <message>
         <source>Someone (maybe you) has requested access to the following resource:
 URL: %1
 Method: %2
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Neko (možda vi) je zatražio pristup sledećem resursu:
+URL: %1
+Metod: %2
+</translation>
     </message>
     <message>
         <source>
@@ -4329,22 +4360,22 @@ Ako želite da prihvtite ovaj zahtev, molimo pritisnite Confirm dugme. U suprotn
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to modify your roster (%1). Click the button labelled &quot;Add/Auth&quot; to authorize the modification.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;big&gt;[Sistemska poruka]&lt;/big&gt;&lt;br&gt;Ovaj korisnik želi da izmeni vaš spisak (%1). Kliknite na dugme „Dodaj/odobri“ da biste odobrili izmenu.</translation>
     </message>
     <message>
         <source>For all</source>
-        <translation type="unfinished"></translation>
+        <translation>Za sve</translation>
     </message>
 </context>
 <context>
     <name>EventNotifier</name>
     <message>
         <source>Clear all events</source>
-        <translation type="unfinished"></translation>
+        <translation>Obriši sve događaje</translation>
     </message>
     <message>
         <source>Read next event</source>
-        <translation type="unfinished"></translation>
+        <translation>Pročitaj sledeći događaj</translation>
     </message>
 </context>
 <context>
@@ -4362,7 +4393,7 @@ Ako želite da prihvtite ovaj zahtev, molimo pritisnite Confirm dugme. U suprotn
     </message>
     <message>
         <source>Pong from %1 after %2 secs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pong od %1 posle %2 s</translation>
     </message>
     <message>
         <source>Feature not implemented</source>
@@ -4398,7 +4429,7 @@ Ako želite da prihvtite ovaj zahtev, molimo pritisnite Confirm dugme. U suprotn
     </message>
     <message>
         <source>You are not authorized to retrieve Last Activity information</source>
-        <translation type="unfinished"></translation>
+        <translation>Niste ovlašćeni da preuzmete informacije o poslednjoj aktivnosti</translation>
     </message>
     <message>
         <source>%1 Time</source>
@@ -4579,28 +4610,29 @@ Ova opcija jedino ima efekta ako je podrazumevani pristup na false.</translation
     </message>
     <message>
         <source>Enable autojoin for bookmarked groupchats</source>
-        <translation type="unfinished"></translation>
+        <translation>Omogući automatsko pridruživanje označenim grupnim razgovorima</translation>
     </message>
     <message>
         <source>Hide groupchat on auto-join</source>
-        <translation type="unfinished"></translation>
+        <translation>Sakrij grupni razgovor pri automatskom pridruživanju</translation>
     </message>
     <message>
         <source>Enable HTML rendering in groupchat chat window</source>
-        <translation type="unfinished"></translation>
+        <translation>Omogući HTML prikaz u prozoru grupnog razgovora</translation>
     </message>
     <message>
         <source>Disable autojoin to following groupchats:
 (specify JIDs)</source>
-        <translation type="unfinished"></translation>
+        <translation>Onemogući automatsko pridruživanje sledećim grupnim razgovorima:
+(navedite JID-ove)</translation>
     </message>
     <message>
         <source>Groupchat leave status message:</source>
-        <translation type="unfinished"></translation>
+        <translation>Statusna poruka pri napuštanju grupnog razgovora:</translation>
     </message>
     <message>
         <source>Place groupchat roster at left</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavi spisak grupnog razgovora levo</translation>
     </message>
     <message>
         <source>Show groups</source>
@@ -4648,11 +4680,11 @@ Ova opcija jedino ima efekta ako je podrazumevani pristup na false.</translation
     </message>
     <message>
         <source>Lockdown roster</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaključaj spisak</translation>
     </message>
     <message>
         <source>Place roster at left in &quot;all-in-one-window&quot; mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavi spisak levo u režimu „sve u jednom prozoru“</translation>
     </message>
     <message>
         <source>Contact name and status message in a row</source>
@@ -4760,11 +4792,11 @@ Ova opcija jedino ima efekta ako je podrazumevani pristup na false.</translation
     </message>
     <message>
         <source>Groupchat roster coloring:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bojenje spiska grupnog razgovora:</translation>
     </message>
     <message>
         <source>Enable sound notifications for every groupchat message</source>
-        <translation type="unfinished"></translation>
+        <translation>Omogući zvučna obaveštenja za svaku poruku grupnog razgovora</translation>
     </message>
     <message>
         <source>ToolTip text color:</source>
@@ -4886,35 +4918,35 @@ Važno: veliki deo opcija su važna sistemska podešavanja. One zahtevaju veliku
     </message>
     <message>
         <source>Allow groupchat highlight events</source>
-        <translation type="unfinished"></translation>
+        <translation>Dozvoli događaje isticanja u grupnom razgovoru</translation>
     </message>
     <message>
         <source>Enable multirow tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Omogući kartice u više redova</translation>
     </message>
     <message>
         <source>Store MUC private messages in history</source>
-        <translation type="unfinished"></translation>
+        <translation>Čuvaj privatne poruke MUC-a u istoriji</translation>
     </message>
     <message>
         <source>Place current tab at the bottom row in multirow mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavi aktivnu karticu u donji red u režimu više redova</translation>
     </message>
     <message>
         <source>Hide groupchat when closing window</source>
-        <translation type="unfinished"></translation>
+        <translation>Sakrij grupni razgovor pri zatvaranju prozora</translation>
     </message>
     <message>
         <source>Other Colors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Druge boje:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:skins_css&quot;&gt;CSS for Psi&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:skins_css&quot;&gt;CSS za Psi&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#extended_options_plugin&quot;&gt;Viki (na mreži)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -5092,87 +5124,87 @@ morate proveriti da li su dozvoljene izlazne TCP veze.</translation>
     </message>
     <message>
         <source>Share Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Podeli fajlove</translation>
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>Podeli</translation>
     </message>
     <message>
         <source>requires compliant client</source>
-        <translation type="unfinished"></translation>
+        <translation>zahteva kompatibilan klijent</translation>
     </message>
 </context>
 <context>
     <name>FileShareDownloader</name>
     <message>
         <source>The file is larger than the automatic download limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Fajl je veći od ograničenja za automatsko preuzimanje</translation>
     </message>
 </context>
 <context>
     <name>FileShareDownloader::Private</name>
     <message>
         <source>Download sources are not given</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvori za preuzimanje nisu navedeni</translation>
     </message>
 </context>
 <context>
     <name>FileSharingMediaSave</name>
     <message>
         <source>Download source disappeared</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvor za preuzimanje je nestao</translation>
     </message>
     <message>
         <source>Download failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Preuzimanje nije uspelo</translation>
     </message>
     <message>
         <source>Download cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Preuzimanje je otkazano</translation>
     </message>
     <message>
         <source>Unexpected media size</source>
-        <translation type="unfinished"></translation>
+        <translation>Neočekivana veličina medija</translation>
     </message>
     <message>
         <source>Cannot read media data</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće pročitati medijske podatke</translation>
     </message>
     <message>
         <source>Media download ended before validation</source>
-        <translation type="unfinished"></translation>
+        <translation>Preuzimanje medija je završeno pre provere</translation>
     </message>
     <message>
         <source>Incomplete media download</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepotpuno preuzimanje medija</translation>
     </message>
 </context>
 <context>
     <name>FileSharingPublication</name>
     <message>
         <source>Published in the private PubSub catalog</source>
-        <translation type="unfinished"></translation>
+        <translation>Objavljeno u privatnom PubSub katalogu</translation>
     </message>
     <message>
         <source>PubSub publication failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Objavljivanje na PubSub-u nije uspelo: %1</translation>
     </message>
     <message>
         <source>Reusing an HTTP upload after checking its availability</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponovno korišćenje HTTP otpremanja nakon provere dostupnosti</translation>
     </message>
     <message>
         <source>Could not open the file for HTTP upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće otvoriti fajl za HTTP otpremanje</translation>
     </message>
     <message>
         <source>Published on HttpUpload service</source>
-        <translation type="unfinished"></translation>
+        <translation>Objavljeno na HttpUpload usluzi</translation>
     </message>
     <message>
         <source>Failed to publish on HttpUpload service: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Objavljivanje na HttpUpload usluzi nije uspelo: %1</translation>
     </message>
 </context>
 <context>
@@ -5401,7 +5433,7 @@ Razlog: %3</translation>
     </message>
     <message>
         <source>Images (*.png *.xpm *.jpg *.jpeg *.webp *.PNG *.XPM *.JPG *.JPEG *.WEBP)</source>
-        <translation type="unfinished"></translation>
+        <translation>Slike (*.png *.xpm *.jpg *.jpeg *.webp *.PNG *.XPM *.JPG *.JPEG *.WEBP)</translation>
     </message>
 </context>
 <context>
@@ -5431,7 +5463,7 @@ Razlog: %3</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#content_downloader_plugin&quot;&gt;Viki (na mreži)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -5457,7 +5489,7 @@ Razlog: %3</translation>
     </message>
     <message>
         <source>Copy Groupchat JID</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj JID grupnog razgovora</translation>
     </message>
     <message>
         <source> by %1</source>
@@ -5513,7 +5545,7 @@ Reason: %1</translation>
     </message>
     <message>
         <source>An error occurred (errorcode: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Došlo je do greške (kod greške: %1)</translation>
     </message>
     <message>
         <source>New room created</source>
@@ -5557,7 +5589,7 @@ Reason: %1</translation>
     </message>
     <message>
         <source>Do you want to join the alternate venue &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Želite li da se pridružite alternativnom mestu „%1“?</translation>
     </message>
     <message>
         <source>Room Destroyed</source>
@@ -5585,23 +5617,23 @@ Reason: %1</translation>
     </message>
     <message>
         <source>Kicked</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbačen</translation>
     </message>
     <message>
         <source>You have been kicked from the room</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbačeni ste iz sobe</translation>
     </message>
     <message>
         <source>You have been kicked from the room by %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbačeni ste iz sobe od strane %1</translation>
     </message>
     <message>
         <source>%1 has been kicked</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 je izbačen</translation>
     </message>
     <message>
         <source>%1 has been kicked by %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 je izbačen od strane %2</translation>
     </message>
     <message>
         <source>Removed</source>
@@ -5641,11 +5673,11 @@ Reason: %1</translation>
     </message>
     <message>
         <source>%1 is now known as %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 je sada poznat kao %2</translation>
     </message>
     <message>
         <source>%1 has left the room</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 je napustio sobu</translation>
     </message>
     <message>
         <source>The topic has been set to</source>
@@ -5653,11 +5685,11 @@ Reason: %1</translation>
     </message>
     <message>
         <source> has unset the topic</source>
-        <translation type="unfinished"></translation>
+        <translation> je uklonio temu</translation>
     </message>
     <message>
         <source> has set the topic to</source>
-        <translation type="unfinished"></translation>
+        <translation> je postavio temu na</translation>
     </message>
     <message>
         <source>Connected.</source>
@@ -5693,7 +5725,7 @@ Reason: %1</translation>
     </message>
     <message>
         <source>Unable to join groupchat.    Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće pridružiti se grupnom razgovoru.    Razlog: %1</translation>
     </message>
     <message>
         <source>Paste and Send</source>
@@ -5773,47 +5805,47 @@ Reason: %1</translation>
     </message>
     <message>
         <source>You have been removed from the room due to technical problem</source>
-        <translation type="unfinished"></translation>
+        <translation>Uklonjeni ste iz sobe zbog tehničkog problema</translation>
     </message>
     <message>
         <source>You have been removed from the room by %1 due to technical problem</source>
-        <translation type="unfinished"></translation>
+        <translation>Uklonjeni ste iz sobe od strane %1 zbog tehničkog problema</translation>
     </message>
     <message>
         <source>%1 has been removed from the room due to technical problem</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 je uklonjen iz sobe zbog tehničkog problema</translation>
     </message>
     <message>
         <source>%1 has been removed from the room by %2 due to technical problem</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 je uklonjen iz sobe od strane %2 zbog tehničkog problema</translation>
     </message>
     <message>
         <source>Encryption is enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Šifrovanje je omogućeno</translation>
     </message>
     <message>
         <source>Encryption is disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Šifrovanje je onemogućeno</translation>
     </message>
     <message>
         <source>%1 encryption is enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Šifrovanje %1 je omogućeno</translation>
     </message>
     <message>
         <source>%1 is not in the room</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 nije u sobi</translation>
     </message>
     <message>
         <source>Insert nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>Umetni nadimak</translation>
     </message>
     <message>
         <source>Copy nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj nadimak</translation>
     </message>
     <message>
         <source>Copy last known address</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj poslednju poznatu adresu</translation>
     </message>
     <message>
         <source>User Info</source>
@@ -5821,27 +5853,27 @@ Reason: %1</translation>
     </message>
     <message>
         <source>Open Chat Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Otvori prozor razgovora</translation>
     </message>
     <message>
         <source>This archive cannot position messages by index. Older history remains available by scrolling.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ova arhiva ne može da rasporedi poruke po indeksu. Starija istorija ostaje dostupna pomeranjem.</translation>
     </message>
     <message>
         <source>Hide participants</source>
-        <translation type="unfinished"></translation>
+        <translation>Sakrij učesnike</translation>
     </message>
     <message>
         <source>Show participants</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži učesnike</translation>
     </message>
     <message>
         <source>Account is offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Nalog je van mreže</translation>
     </message>
     <message>
         <source>Archive response omitted the requested index</source>
-        <translation type="unfinished"></translation>
+        <translation>Odgovor arhive je izostavio traženi indeks</translation>
     </message>
 </context>
 <context>
@@ -5856,7 +5888,7 @@ Reason: %1</translation>
     </message>
     <message>
         <source>Room membership lost; attempting to rejoin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Članstvo u sobi je izgubljeno; pokušavam ponovno pridruživanje.</translation>
     </message>
 </context>
 <context>
@@ -5985,28 +6017,28 @@ Reason: %1</translation>
     <name>GameModel</name>
     <message>
         <source>The first turn can be only H8.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prvi potez može biti samo H8.</translation>
     </message>
 </context>
 <context>
     <name>GameSession</name>
     <message>
         <source>%1: Invitation from %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: poziv od %2</translation>
     </message>
 </context>
 <context>
     <name>GameSessionList</name>
     <message>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
-        <translation type="unfinished"></translation>
+        <translation>Od: %1&lt;br /&gt;Igra je odbijena</translation>
     </message>
 </context>
 <context>
     <name>GameSessions</name>
     <message>
         <source>%1: Invitation from %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: poziv od %2</translation>
     </message>
     <message>
         <source>Incorrect parameters</source>
@@ -6018,11 +6050,11 @@ Reason: %1</translation>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
-        <translation type="unfinished"></translation>
+        <translation>Od: %1&lt;br /&gt;Igra je odbijena</translation>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;Game error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Od: %1&lt;br /&gt;Greška igre.</translation>
     </message>
 </context>
 <context>
@@ -6093,7 +6125,7 @@ Reason: %1</translation>
     </message>
     <message>
         <source>Type a colourcode here, or press the palette to the right</source>
-        <translation type="unfinished"></translation>
+        <translation>Ovde unesite kôd boje ili pritisnite paletu sa desne strane</translation>
     </message>
     <message>
         <source>Adds the color to the list</source>
@@ -6109,7 +6141,7 @@ Reason: %1</translation>
     </message>
     <message>
         <source>Select nick coloring type for conference log</source>
-        <translation type="unfinished"></translation>
+        <translation>Izaberite tip bojenja nadimaka za dnevnik konferencije</translation>
     </message>
     <message>
         <source>None</source>
@@ -6117,15 +6149,15 @@ Reason: %1</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatski</translation>
     </message>
     <message>
         <source>Manual palette</source>
-        <translation type="unfinished"></translation>
+        <translation>Ručna paleta</translation>
     </message>
     <message>
         <source>Nick Coloring Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tip bojenja nadimaka</translation>
     </message>
     <message>
         <source>Show joins</source>
@@ -6145,11 +6177,11 @@ Reason: %1</translation>
     </message>
     <message>
         <source>Show kick messages caused by some technical problems like client&apos;s connection loss for example.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži poruke o izbacivanju nastale zbog nekih tehničkih problema, kao što je, na primer, prekid veze klijenta.</translation>
     </message>
     <message>
         <source>Show technical kicks</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži tehnička izbacivanja</translation>
     </message>
 </context>
 <context>
@@ -6164,7 +6196,7 @@ Reason: %1</translation>
     </message>
     <message>
         <source>Altitude in meters above or below sea level</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadmorska visina u metrima iznad ili ispod nivoa mora</translation>
     </message>
     <message>
         <source>Area:</source>
@@ -6172,11 +6204,11 @@ Reason: %1</translation>
     </message>
     <message>
         <source>A named area such as a campus or neighborhood</source>
-        <translation type="unfinished"></translation>
+        <translation>Imenovano područje kao što je kampus ili naselje</translation>
     </message>
     <message>
         <source>Bearing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Smer:</translation>
     </message>
     <message>
         <source>GPS bearing (direction in which the entity is heading to reach its next waypoint), measured in decimal degrees relative to true north</source>
@@ -6220,7 +6252,7 @@ Reason: %1</translation>
     </message>
     <message>
         <source>Horizontal GPS error in arc minutes; this element is deprecated in favor of &lt;accuracy/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontalna GPS greška u lučnim minutama; ovaj element je zastareo u korist &lt;accuracy/&gt;</translation>
     </message>
     <message>
         <source>Floor:</source>
@@ -6260,7 +6292,7 @@ Reason: %1</translation>
     </message>
     <message>
         <source>A code used for postal delivery</source>
-        <translation type="unfinished"></translation>
+        <translation>Kôd koji se koristi za poštansku dostavu</translation>
     </message>
     <message>
         <source>Region:</source>
@@ -6491,7 +6523,8 @@ Za slanje komandi, koriste se normalne poruke pa će ovaj dodatak uvek raditi gd
     <message>
         <source>Play gomoku with your friends.
 To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Igrajte gomoku sa prijateljima.
+Da biste pozvali prijatelja na igru, možete koristiti stavku menija kontakta ili dugme na traci sa alatkama u prozoru razgovora.</translation>
     </message>
 </context>
 <context>
@@ -6581,14 +6614,14 @@ To invite a friend for a game, you can use contact menu item or the button on th
     </message>
     <message>
         <source>Hide participants</source>
-        <translation type="unfinished"></translation>
+        <translation>Sakrij učesnike</translation>
     </message>
 </context>
 <context>
     <name>GroupChatTopicAddLangDlg</name>
     <message>
         <source>Add Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj jezik</translation>
     </message>
     <message>
         <source>Language</source>
@@ -6596,11 +6629,11 @@ To invite a friend for a game, you can use contact menu item or the button on th
     </message>
     <message>
         <source>Script</source>
-        <translation type="unfinished"></translation>
+        <translation>Pismo</translation>
     </message>
     <message>
         <source>Country</source>
-        <translation type="unfinished"></translation>
+        <translation>Država</translation>
     </message>
 </context>
 <context>
@@ -6645,15 +6678,15 @@ To invite a friend for a game, you can use contact menu item or the button on th
     </message>
     <message>
         <source>Any Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilo koji jezik</translation>
     </message>
     <message>
         <source>Any Country</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilo koja država</translation>
     </message>
     <message>
         <source>Any Script</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilo koje pismo</translation>
     </message>
 </context>
 <context>
@@ -6707,15 +6740,15 @@ To invite a friend for a game, you can use contact menu item or the button on th
     </message>
     <message>
         <source>All contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Svi kontakti</translation>
     </message>
     <message>
         <source>deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>obrisano</translation>
     </message>
     <message>
         <source>Group chats</source>
-        <translation type="unfinished"></translation>
+        <translation>Grupni razgovori</translation>
     </message>
 </context>
 <context>
@@ -6814,27 +6847,27 @@ To invite a friend for a game, you can use contact menu item or the button on th
     </message>
     <message>
         <source>All contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Svi kontakti</translation>
     </message>
     <message>
         <source>Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretraga:</translation>
     </message>
     <message>
         <source>All accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Svi nalozi</translation>
     </message>
     <message>
         <source>deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>obrisano</translation>
     </message>
     <message>
         <source>%1 of %2 matches</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 od %2 podudaranja</translation>
     </message>
     <message>
         <source>No matches were found</source>
-        <translation type="unfinished"></translation>
+        <translation>Nema pronađenih podudaranja</translation>
     </message>
 </context>
 <context>
@@ -6865,23 +6898,23 @@ To invite a friend for a game, you can use contact menu item or the button on th
     </message>
     <message>
         <source>Upgrade history</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadogradi istoriju</translation>
     </message>
     <message>
         <source>The history database needs to be upgraded. This can take some time for a large history. Psi will continue starting after the upgrade finishes. Continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bazu podataka istorije treba nadograditi. Za veliku istoriju to može potrajati. Psi će nastaviti sa pokretanjem kada nadogradnja završi. Nastaviti?</translation>
     </message>
     <message>
         <source>Upgrading history…</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadogradnja istorije…</translation>
     </message>
     <message>
         <source>Upgrading history (record %1)…</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadogradnja istorije (zapis %1)…</translation>
     </message>
     <message>
         <source>The history upgrade failed. Changes were rolled back; Psi cannot continue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadogradnja istorije nije uspela. Izmene su poništene; Psi ne može da nastavi.</translation>
     </message>
 </context>
 <context>
@@ -6914,42 +6947,42 @@ Možete odabrati ili ukloniti kontakt za istoriju preko menija kontakata ili pre
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#history_keeper_plugin&quot;&gt;Viki (na mreži)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
     <name>HistorySync</name>
     <message>
         <source>Account is offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Nalog je van mreže</translation>
     </message>
     <message>
         <source>Archive catch-up repeated a cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadoknađivanje arhive je ponovilo kursor</translation>
     </message>
     <message>
         <source>Archive response omitted the requested index</source>
-        <translation type="unfinished"></translation>
+        <translation>Odgovor arhive je izostavio traženi indeks</translation>
     </message>
     <message>
         <source>Unable to decrypt archived message</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće dešifrovati arhiviranu poruku</translation>
     </message>
     <message>
         <source>Invalid archive page</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevažeća stranica arhive</translation>
     </message>
     <message>
         <source>Could not repair cached archive page</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće popraviti keširanu stranicu arhive</translation>
     </message>
     <message>
         <source>Archive catch-up did not advance</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadoknađivanje arhive nije napredovalo</translation>
     </message>
     <message>
         <source>Could not persist archive page</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće sačuvati stranicu arhive</translation>
     </message>
 </context>
 <context>
@@ -7059,87 +7092,87 @@ Možete odabrati ili ukloniti kontakt za istoriju preko menija kontakata ili pre
     </message>
     <message>
         <source>Image preview width</source>
-        <translation type="unfinished"></translation>
+        <translation>Širina pregleda slike</translation>
     </message>
     <message>
         <source>Resize images</source>
-        <translation type="unfinished"></translation>
+        <translation>Promeni veličinu slika</translation>
     </message>
     <message>
         <source>If width or height is bigger than</source>
-        <translation type="unfinished"></translation>
+        <translation>Ako je širina ili visina veća od</translation>
     </message>
     <message>
         <source>JPEG quality</source>
-        <translation type="unfinished"></translation>
+        <translation>JPEG kvalitet</translation>
     </message>
     <message>
         <source>Please wait</source>
-        <translation type="unfinished"></translation>
+        <translation>Sačekajte</translation>
     </message>
     <message>
         <source>Another upload operation is already in progress. Please wait up to %1 sec for it to complete or fail.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druga operacija otpremanja je već u toku. Sačekajte do %1 s da se završi ili ne uspe.</translation>
     </message>
     <message>
         <source>Not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije podržano</translation>
     </message>
     <message>
         <source>Server for account %1 does not support HTTP Upload (XEP-363)</source>
-        <translation type="unfinished"></translation>
+        <translation>Server za nalog %1 ne podržava HTTP otpremanje (XEP-363)</translation>
     </message>
     <message>
         <source>Upload file</source>
-        <translation type="unfinished"></translation>
+        <translation>Otpremi fajl</translation>
     </message>
     <message>
         <source>Upload image</source>
-        <translation type="unfinished"></translation>
+        <translation>Otpremi sliku</translation>
     </message>
     <message>
         <source>Error opening file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Greška pri otvaranju fajla %1</translation>
     </message>
     <message>
         <source>The file size is too large.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veličina fajla je prevelika.</translation>
     </message>
     <message>
         <source>File size must be less than %1 bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>Veličina fajla mora biti manja od %1 bajtova</translation>
     </message>
     <message>
         <source>This plugin allows uploading images and other files via XEP-0363.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ovaj priključak omogućava otpremanje slika i drugih fajlova putem XEP-0363.</translation>
     </message>
     <message>
         <source>Error requesting slot</source>
-        <translation type="unfinished"></translation>
+        <translation>Greška pri zahtevanju slota</translation>
     </message>
     <message>
         <source>Either put or get URL is missing in the server&apos;s reply.</source>
-        <translation type="unfinished"></translation>
+        <translation>U odgovoru servera nedostaje URL za slanje ili preuzimanje.</translation>
     </message>
     <message>
         <source>Error uploading</source>
-        <translation type="unfinished"></translation>
+        <translation>Greška pri otpremanju</translation>
     </message>
     <message>
         <source>No data to upload, this maybe a result of timeout or other error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nema podataka za otpremanje; to može biti posledica isteka vremena ili druge greške.</translation>
     </message>
     <message>
         <source>Timeout waiting for an upload slot</source>
-        <translation type="unfinished"></translation>
+        <translation>Isteklo vreme čekanja na slot za otpremanje</translation>
     </message>
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Greška pri otpremanju %1; HTTP kod %2, poruka: %3</translation>
     </message>
     <message>
         <source>Something has gone wrong, please try again or disable OMEMO encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Nešto je pošlo naopako; pokušajte ponovo ili onemogućite OMEMO šifrovanje</translation>
     </message>
 </context>
 <context>
@@ -7230,7 +7263,7 @@ Možete odabrati ili ukloniti kontakt za istoriju preko menija kontakata ili pre
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -7330,7 +7363,7 @@ Možete odabrati ili ukloniti kontakt za istoriju preko menija kontakata ili pre
     </message>
     <message>
         <source>Regular expression:</source>
-        <translation type="unfinished"></translation>
+        <translation>Regularni izraz:</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -7449,15 +7482,15 @@ Napomena: Da bi radili ispravno, opcija options.ui.chat.central-toolbar mora bit
     </message>
     <message>
         <source>An image from the clipboard is sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Slika iz ostave se šalje</translation>
     </message>
     <message>
         <source>Image %1 is sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Slika %1 se šalje</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#image_plugin&quot;&gt;Viki (na mreži)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -7468,39 +7501,39 @@ Napomena: Da bi radili ispravno, opcija options.ui.chat.central-toolbar mora bit
     </message>
     <message>
         <source>Maximum image size</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksimalna veličina slike</translation>
     </message>
     <message>
         <source>Image preview size in pixels</source>
-        <translation type="unfinished"></translation>
+        <translation>Veličina pregleda slike u pikselima</translation>
     </message>
     <message>
         <source>Allow upscale</source>
-        <translation type="unfinished"></translation>
+        <translation>Dozvoli uvećanje</translation>
     </message>
     <message>
         <source>Exceptions</source>
-        <translation type="unfinished"></translation>
+        <translation>Izuzeci</translation>
     </message>
     <message>
         <source>512 Kb</source>
-        <translation type="unfinished"></translation>
+        <translation>512 Kb</translation>
     </message>
     <message>
         <source>1 Mb</source>
-        <translation type="unfinished"></translation>
+        <translation>1 Mb</translation>
     </message>
     <message>
         <source>2 Mb</source>
-        <translation type="unfinished"></translation>
+        <translation>2 Mb</translation>
     </message>
     <message>
         <source>5 Mb</source>
-        <translation type="unfinished"></translation>
+        <translation>5 Mb</translation>
     </message>
     <message>
         <source>10 Mb</source>
-        <translation type="unfinished"></translation>
+        <translation>10 Mb</translation>
     </message>
 </context>
 <context>
@@ -7512,7 +7545,8 @@ Napomena: Da bi radili ispravno, opcija options.ui.chat.central-toolbar mora bit
     <message>
         <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Ovaj priključak prikazuje preglede URL-ova slika u razgovorima za ne-webkit verziju Psi-ja.
+</translation>
     </message>
 </context>
 <context>
@@ -7750,20 +7784,22 @@ na raspolaganju</translation>
     <message>
         <source>You have not published conference information changes.
 Are you sure you want to discard them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Niste objavili izmene informacija o konferenciji.
+Da li ste sigurni da želite da ih odbacite?</translation>
     </message>
     <message>
         <source>Your conference information has been published.</source>
-        <translation type="unfinished"></translation>
+        <translation>Informacije o vašoj konferenciji su objavljene.</translation>
     </message>
     <message>
         <source>Unable to retrieve information about this conference.
 Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće preuzeti informacije o ovoj konferenciji.
+Razlog: %1</translation>
     </message>
     <message>
         <source>Abuse</source>
-        <translation type="unfinished"></translation>
+        <translation>Zloupotreba</translation>
     </message>
     <message>
         <source>Administrators</source>
@@ -7771,19 +7807,19 @@ Reason: %1</source>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Povratne informacije</translation>
     </message>
     <message>
         <source>Sales</source>
-        <translation type="unfinished"></translation>
+        <translation>Prodaja</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezbednost</translation>
     </message>
     <message>
         <source>Support</source>
-        <translation type="unfinished"></translation>
+        <translation>Podrška</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -7842,17 +7878,18 @@ Reason: %1</source>
     <message>
         <source>second</source>
         <comment>He wants to play second</comment>
-        <translation type="unfinished"></translation>
+        <translation>drugi</translation>
     </message>
     <message>
         <source>first</source>
         <comment>He wants to play first</comment>
-        <translation type="unfinished"></translation>
+        <translation>prvi</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play battleship. He wants to play %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Igrač %1 vas poziva
+da igrate Potapanje brodova. On želi da igra %2.</translation>
     </message>
 </context>
 <context>
@@ -7883,15 +7920,15 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>I want to play first</source>
-        <translation type="unfinished"></translation>
+        <translation>Želim da igram prvi</translation>
     </message>
     <message>
         <source>I want to play second</source>
-        <translation type="unfinished"></translation>
+        <translation>Želim da igram drugi</translation>
     </message>
     <message>
         <source>Battleship Game Plugin - Invite</source>
-        <translation type="unfinished"></translation>
+        <translation>Priključak igre Potapanje brodova – poziv</translation>
     </message>
 </context>
 <context>
@@ -8001,30 +8038,30 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Treat some jids as services implementing Jabber Disk protocol and handle your files with them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tretirajte neke JID-ove kao servise koji implementiraju Jabber Disk protokol i upravljajte svojim fajlovima pomoću njih.</translation>
     </message>
 </context>
 <context>
     <name>JingleFileShareDownloader</name>
     <message>
         <source>Jingle data source is offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Jingle izvor podataka je van mreže</translation>
     </message>
     <message>
         <source>Invalid Jingle-FT URI</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevažeći Jingle-FT URI</translation>
     </message>
     <message>
         <source>Unexpected incoming content</source>
-        <translation type="unfinished"></translation>
+        <translation>Neočekivani dolazni sadržaj</translation>
     </message>
     <message>
         <source>Jingle download failed: %s</source>
-        <translation type="unfinished"></translation>
+        <translation>Jingle preuzimanje nije uspelo: %s</translation>
     </message>
     <message>
         <source>Jingle file transfer is disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Jingle prenos fajlova je onemogućen</translation>
     </message>
 </context>
 <context>
@@ -8101,7 +8138,13 @@ Currently, the plugin is able to:
 * Enable clickable @nick, *tag, #message_id and other control elements to insert them into the typing area
 
 Note: To work correctly, the option options.html.chat.render    must be set to true. </source>
-        <translation type="unfinished"></translation>
+        <translation>Ovaj priključak je namenjen efikasnom i udobnom radu sa Juick mikrobloging uslugom.
+Trenutno priključak može da:
+* boji @nick, *tag i #message_id u porukama od bota juick@juick.com
+* prepoznaje &gt;citate u porukama
+* omogući klikabilne @nick, *tag, #message_id i druge kontrolne elemente za umetanje u polje za unos
+
+Napomena: Za ispravan rad opcija options.html.chat.render mora biti postavljena na true. </translation>
     </message>
 </context>
 <context>
@@ -8246,15 +8289,15 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>&amp;General</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Opšte</translation>
     </message>
     <message>
         <source>&amp;Affiliations</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pripadnosti</translation>
     </message>
     <message>
         <source>&amp;Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Profil</translation>
     </message>
 </context>
 <context>
@@ -8309,7 +8352,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>There was an error setting modifying the affiliations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Došlo je do greške pri izmeni pripadnosti.</translation>
     </message>
     <message>
         <source>There was an error destroying the room.</source>
@@ -8340,7 +8383,7 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Room</source>
-        <translation type="unfinished"></translation>
+        <translation>Soba</translation>
     </message>
     <message>
         <source>Password</source>
@@ -8348,11 +8391,11 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     </message>
     <message>
         <source>Host</source>
-        <translation type="unfinished"></translation>
+        <translation>Domaćin</translation>
     </message>
     <message>
         <source>&amp;Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Omiljeno</translation>
     </message>
 </context>
 <context>
@@ -8393,11 +8436,11 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>No response from server for %1 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Nema odgovora od servera %1 sekundi</translation>
     </message>
     <message>
         <source>Remove from bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukloni iz oznaka</translation>
     </message>
     <message>
         <source>Add to bookmarks</source>
@@ -8413,7 +8456,7 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Room</source>
-        <translation type="unfinished"></translation>
+        <translation>Soba</translation>
     </message>
 </context>
 <context>
@@ -8472,7 +8515,7 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Failed to perform operation: </source>
-        <translation type="unfinished"></translation>
+        <translation>Operacija nije uspela: </translation>
     </message>
 </context>
 <context>
@@ -8614,19 +8657,19 @@ Dolazni dogadjaj(i) od:</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished"></translation>
+        <translation>Pitanje</translation>
     </message>
     <message>
         <source>Are you sure you want to clear all events?</source>
-        <translation type="unfinished"></translation>
+        <translation>Da li ste sigurni da želite da obrišete sve događaje?</translation>
     </message>
     <message>
         <source>Disable Sounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Isključi zvukove</translation>
     </message>
     <message>
         <source>Enable Sounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Uključi zvukove</translation>
     </message>
 </context>
 <context>
@@ -8690,27 +8733,27 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>Add reaction</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj reakciju</translation>
     </message>
     <message>
         <source>More actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Više radnji</translation>
     </message>
     <message>
         <source>Retract message</source>
-        <translation type="unfinished"></translation>
+        <translation>Povuci poruku</translation>
     </message>
     <message>
         <source>Archive response omitted the requested index</source>
-        <translation type="unfinished"></translation>
+        <translation>Odgovor arhive je izostavio traženi indeks</translation>
     </message>
     <message>
         <source>Select message</source>
-        <translation type="unfinished"></translation>
+        <translation>Izaberi poruku</translation>
     </message>
     <message>
         <source>Me</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja</translation>
     </message>
     <message>
         <source>Message</source>
@@ -8718,52 +8761,53 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>Read</source>
-        <translation type="unfinished"></translation>
+        <translation>Pročitano</translation>
     </message>
     <message>
         <source>Delivered</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostavljeno</translation>
     </message>
     <message>
         <source>Not encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije šifrovano</translation>
     </message>
     <message>
         <source>Encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>Šifrovano</translation>
     </message>
     <message>
         <source>Encrypted with %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Šifrovano pomoću %1</translation>
     </message>
     <message>
         <source>The message was corrected</source>
-        <translation type="unfinished"></translation>
+        <translation>Poruka je ispravljena</translation>
     </message>
     <message>
         <source>Edited message</source>
-        <translation type="unfinished"></translation>
+        <translation>Izmenjena poruka</translation>
     </message>
     <message>
         <source>Received</source>
-        <translation type="unfinished"></translation>
+        <translation>Primljeno</translation>
     </message>
     <message>
         <source>Sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Poslato</translation>
     </message>
     <message>
         <source>Unknown size</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepoznata veličina</translation>
     </message>
     <message>
         <source>Type: %1
 Size: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Tip: %1
+Veličina: %2</translation>
     </message>
     <message>
         <source>Download file</source>
-        <translation type="unfinished"></translation>
+        <translation>Preuzmi fajl</translation>
     </message>
     <message>
         <source>Open file</source>
@@ -8771,11 +8815,11 @@ Size: %2</source>
     </message>
     <message>
         <source>Show in file manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži u upravljaču fajlovima</translation>
     </message>
     <message>
         <source>Copy file path</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj putanju fajla</translation>
     </message>
     <message>
         <source>Open in browser</source>
@@ -8783,51 +8827,51 @@ Size: %2</source>
     </message>
     <message>
         <source>Cancel download</source>
-        <translation type="unfinished"></translation>
+        <translation>Otkaži preuzimanje</translation>
     </message>
     <message>
         <source>Could not create a temporary directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće napraviti privremenu fasciklu</translation>
     </message>
     <message>
         <source>Contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontakt</translation>
     </message>
     <message>
         <source>just now</source>
-        <translation type="unfinished"></translation>
+        <translation>upravo sada</translation>
     </message>
     <message>
         <source>1 minute ago</source>
-        <translation type="unfinished"></translation>
+        <translation>pre 1 minut</translation>
     </message>
     <message numerus="yes">
         <source>%n minutes ago</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>pre %n minut</numerusform>
+            <numerusform>pre %n minuta</numerusform>
+            <numerusform>pre %n minuta</numerusform>
         </translation>
     </message>
     <message>
         <source>1 hour ago</source>
-        <translation type="unfinished"></translation>
+        <translation>pre 1 sat</translation>
     </message>
     <message numerus="yes">
         <source>%n hours ago</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>pre %n sat</numerusform>
+            <numerusform>pre %n sata</numerusform>
+            <numerusform>pre %n sati</numerusform>
         </translation>
     </message>
     <message>
         <source>Message retracted</source>
-        <translation type="unfinished"></translation>
+        <translation>Poruka je povučena</translation>
     </message>
     <message>
         <source>Referenced message is not available locally</source>
-        <translation type="unfinished"></translation>
+        <translation>Poruka na koju se poziva nije dostupna lokalno</translation>
     </message>
     <message>
         <source>Quote</source>
@@ -8835,11 +8879,11 @@ Size: %2</source>
     </message>
     <message>
         <source>The message has no reply identifier assigned by its sender or room.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poruka nema identifikator odgovora koji je dodelio pošiljalac ili soba.</translation>
     </message>
     <message>
         <source>Edit message</source>
-        <translation type="unfinished"></translation>
+        <translation>Izmeni poruku</translation>
     </message>
     <message>
         <source>Forward</source>
@@ -8847,45 +8891,45 @@ Size: %2</source>
     </message>
     <message>
         <source>Copy image</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj sliku</translation>
     </message>
     <message>
         <source>View image</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži sliku</translation>
     </message>
     <message>
         <source>Copy image link</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj vezu do slike</translation>
     </message>
     <message>
         <source>Open link</source>
-        <translation type="unfinished"></translation>
+        <translation>Otvori vezu</translation>
     </message>
     <message>
         <source>Copy link address</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj adresu veze</translation>
     </message>
     <message>
         <source>%1 selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Izabrano: %1</translation>
     </message>
 </context>
 <context>
     <name>MamImageViewer</name>
     <message>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Slika</translation>
     </message>
 </context>
 <context>
     <name>Mattermost::OverlayScrollBarManager</name>
     <message>
         <source>Scroll to top</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomeri na vrh</translation>
     </message>
     <message>
         <source>Scroll to bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomeri na dno</translation>
     </message>
 </context>
 <context>
@@ -8900,22 +8944,22 @@ Size: %2</source>
     </message>
     <message>
         <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Može odbaciti dolazne stance prema raznim filterima, kao što su izvorišna/odredišna adresa ili sadržaj određene poruke</translation>
     </message>
 </context>
 <context>
     <name>MessagePreview</name>
     <message>
         <source>Cancel reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Otkaži odgovor</translation>
     </message>
     <message>
         <source>Show less</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži manje</translation>
     </message>
     <message>
         <source>Show more…</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži više…</translation>
     </message>
 </context>
 <context>
@@ -8987,7 +9031,7 @@ Detalji: %1</translation>
     </message>
     <message>
         <source>Watch for JIDs</source>
-        <translation type="unfinished"></translation>
+        <translation>Prati JID-ove</translation>
     </message>
     <message>
         <source>Sounds (if empty default sound will be used)</source>
@@ -8995,11 +9039,11 @@ Detalji: %1</translation>
     </message>
     <message>
         <source>Expiration</source>
-        <translation type="unfinished"></translation>
+        <translation>Istek</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>E-pošta</translation>
     </message>
 </context>
 <context>
@@ -9045,7 +9089,7 @@ Detalji: %1</translation>
     </message>
     <message>
         <source>ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>ID:</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -9057,18 +9101,18 @@ Detalji: %1</translation>
     </message>
     <message>
         <source>&amp;General</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Opšte</translation>
     </message>
     <message>
         <source>&amp;Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Profil</translation>
     </message>
 </context>
 <context>
     <name>MultiFileTransferDelegate</name>
     <message>
         <source>[Pending]</source>
-        <translation type="unfinished"></translation>
+        <translation>[Na čekanju]</translation>
     </message>
     <message>
         <source>[Stalled]</source>
@@ -9080,7 +9124,7 @@ Detalji: %1</translation>
     </message>
     <message>
         <source>[Failed]</source>
-        <translation type="unfinished"></translation>
+        <translation>[Neuspešno]</translation>
     </message>
     <message>
         <source>[Done]</source>
@@ -9092,42 +9136,42 @@ Detalji: %1</translation>
     </message>
     <message>
         <source>Description for</source>
-        <translation type="unfinished"></translation>
+        <translation>Opis za</translation>
     </message>
     <message>
         <source>%1d</source>
-        <translation type="unfinished">%1. {1d?}</translation>
+        <translation>%1d</translation>
     </message>
     <message>
         <source>%1h</source>
-        <translation type="unfinished">%1. {1h?}</translation>
+        <translation>%1h</translation>
     </message>
     <message>
         <source>%1m</source>
-        <translation type="unfinished">%1. {1m?}</translation>
+        <translation>%1m</translation>
     </message>
     <message>
         <source>%1s</source>
-        <translation type="unfinished">%1. {1s?}</translation>
+        <translation>%1s</translation>
     </message>
     <message>
         <source>%1 remaining</source>
-        <translation type="unfinished"></translation>
+        <translation>preostalo %1</translation>
     </message>
     <message>
         <source>Open Destination Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Otvori odredišnu fasciklu</translation>
     </message>
     <message>
         <source>not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>nije definisano</translation>
     </message>
 </context>
 <context>
     <name>MultiFileTransferDlg</name>
     <message>
         <source>Not selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije izabrano</translation>
     </message>
     <message>
         <source>Send</source>
@@ -9135,19 +9179,19 @@ Detalji: %1</translation>
     </message>
     <message>
         <source>%1 File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 fajl(ova)</translation>
     </message>
     <message>
         <source>Receive</source>
-        <translation type="unfinished"></translation>
+        <translation>Primi</translation>
     </message>
     <message>
         <source>Open Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Otvori fajlove</translation>
     </message>
     <message>
         <source>Directory to save files</source>
-        <translation type="unfinished"></translation>
+        <translation>Fascikla za čuvanje fajlova</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -9162,52 +9206,52 @@ Detalji: %1</translation>
     <name>MultiFileTransferItem</name>
     <message>
         <source>Transferred: %1/%2 bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>Preneto: %1/%2 bajtova</translation>
     </message>
     <message>
         <source>not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>nije definisano</translation>
     </message>
 </context>
 <context>
     <name>MyHeaderViewWidget</name>
     <message>
         <source>Flat</source>
-        <translation type="unfinished"></translation>
+        <translation>Ravno</translation>
     </message>
 </context>
 <context>
     <name>NAMFileShareDownloader</name>
     <message>
         <source>Unexpected HTTP status</source>
-        <translation type="unfinished"></translation>
+        <translation>Neočekivani HTTP status</translation>
     </message>
 </context>
 <context>
     <name>NativeChatThemes</name>
     <message>
         <source>Bubble</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblačići</translation>
     </message>
     <message>
         <source>Speech bubbles, your messages on the right</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblačići za govor, vaše poruke desno</translation>
     </message>
     <message>
         <source>Classic</source>
-        <translation type="unfinished"></translation>
+        <translation>Klasično</translation>
     </message>
     <message>
         <source>Compact text layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompaktan raspored teksta</translation>
     </message>
     <message>
         <source>Modern</source>
-        <translation type="unfinished"></translation>
+        <translation>Moderno</translation>
     </message>
     <message>
         <source>Avatars and message headers</source>
-        <translation type="unfinished"></translation>
+        <translation>Avatari i zaglavlja poruka</translation>
     </message>
 </context>
 <context>
@@ -9222,7 +9266,7 @@ Detalji: %1</translation>
     </message>
     <message>
         <source>Choose the native message layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Izaberite ugrađeni raspored poruka</translation>
     </message>
 </context>
 <context>
@@ -9305,70 +9349,71 @@ Kartice: %1</translation>
     <name>NoughtsAndCrossesPlugin</name>
     <message>
         <source>Send command: noughtsandcrosses start</source>
-        <translation type="unfinished"></translation>
+        <translation>Pošalji komandu: noughtsandcrosses start</translation>
     </message>
     <message>
         <source>Play Noughts And Crosses (Tic-tac-toe)</source>
-        <translation type="unfinished"></translation>
+        <translation>Igrajte iks-iks (tri u nizu)</translation>
     </message>
 </context>
 <context>
     <name>OpenPgpMessaging</name>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Javni ključ „%1“ je poslat</translation>
     </message>
     <message>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Došlo je do greške pri potpisivanju vašeg statusa.
+Razlog: %1.</translation>
     </message>
 </context>
 <context>
     <name>OpenPgpPlugin</name>
     <message>
         <source>Embedded Keys Manager can do only basic operations like creating, removing, exporting and importing PGP keys. This should be enough to most of users needs. For more complicated cases use special software.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ugrađeni upravljač ključevima može da obavlja samo osnovne operacije, kao što su pravljenje, uklanjanje, izvoz i uvoz PGP ključeva. To bi trebalo da bude dovoljno za potrebe većine korisnika. Za složenije slučajeve koristite poseban softver.</translation>
     </message>
     <message>
         <source>OpenPGP encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenPGP šifrovanje</translation>
     </message>
     <message>
         <source>OpenPGP is the most widely used encryption standard. It is extremely simple in usage:&lt;br/&gt;* Generate a key pair (public key + secret key) or choose existing one and set it in program settings.&lt;br/&gt;* Protect your secret key with a strong password and never give it to anyone.&lt;br/&gt;* Share your public key with buddies and get their public keys using any communication channel which you trust (xmpp, email, PGP keys server).&lt;br/&gt;* Enable PGP encryption in chat with you buddy and have fun the protected conversation.</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenPGP je najrasprostranjeniji standard šifrovanja. Izuzetno je jednostavan za korišćenje:&lt;br/&gt;* Generišite par ključeva (javni ključ + tajni ključ) ili izaberite postojeći i postavite ga u podešavanjima programa.&lt;br/&gt;* Zaštitite svoj tajni ključ jakom lozinkom i nikada ga nikome ne dajte.&lt;br/&gt;* Podelite svoj javni ključ sa prijateljima i nabavite njihove javne ključeve preko bilo kog kanala komunikacije kojem verujete (xmpp, e-pošta, server PGP ključeva).&lt;br/&gt;* Omogućite PGP šifrovanje u razgovoru sa prijateljem i uživajte u zaštićenom razgovoru.</translation>
     </message>
     <message>
         <source>OpenPGP features:&lt;br/&gt;* Offline messages.&lt;br/&gt;* File transfer. (Not supported by plugin yet.)</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenPGP mogućnosti:&lt;br/&gt;* Vanmrežne poruke.&lt;br/&gt;* Prenos fajlova. (Priključak još ne podržava.)</translation>
     </message>
     <message>
         <source>OpenPGP limitations:&lt;br/&gt;* No support of message copies to multiple devices.&lt;br/&gt;* No support of multi-user chats.</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenPGP ograničenja:&lt;br/&gt;* Nema podrške za kopije poruka na više uređaja.&lt;br/&gt;* Nema podrške za razgovore sa više korisnika.</translation>
     </message>
     <message>
         <source>OpenPGP plugin uses standard command-line tool GnuPG, so attentively check that you properly installed and configured gpg and gpg-agent. For example, in your system:</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenPGP priključak koristi standardni alat komandne linije GnuPG, zato pažljivo proverite da li ste ispravno instalirali i podesili gpg i gpg-agent. Na primer, u vašem sistemu:</translation>
     </message>
     <message>
         <source>1) Download and install &quot;%1&quot; from official website:</source>
-        <translation type="unfinished"></translation>
+        <translation>1) Preuzmite i instalirajte „%1“ sa zvaničnog sajta:</translation>
     </message>
     <message>
         <source>1) Install gpg and gpg-agent using Homebrew:</source>
-        <translation type="unfinished"></translation>
+        <translation>1) Instalirajte gpg i gpg-agent pomoću Homebrew-a:</translation>
     </message>
     <message>
         <source>1) Install gpg and gpg-agent using system packaging tool.</source>
-        <translation type="unfinished"></translation>
+        <translation>1) Instalirajte gpg i gpg-agent pomoću sistemskog alata za pakete.</translation>
     </message>
     <message>
         <source>2) Edit configuration file %1 if necessary.</source>
-        <translation type="unfinished"></translation>
+        <translation>2) Izmenite konfiguracioni fajl %1 ako je potrebno.</translation>
     </message>
     <message>
         <source>In comparison with OTR and OMEMO, OpenPGP allows one to keep encrypted messages history on server side but lucks support of forward secrecy (they are mutually exclusive).</source>
-        <translation type="unfinished"></translation>
+        <translation>U poređenju sa OTR-om i OMEMO-om, OpenPGP omogućava čuvanje istorije šifrovanih poruka na strani servera, ali mu nedostaje podrška za savršenu tajnost unapred (oni se međusobno isključuju).</translation>
     </message>
 </context>
 <context>
@@ -9417,19 +9462,19 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Enable &quot;Contact is typing ...&quot; events</source>
-        <translation type="unfinished"></translation>
+        <translation>Omogući događaje „Kontakt kuca ...“</translation>
     </message>
     <message>
         <source>Enable &quot;Inactivity&quot; events (end/suspend conversation)</source>
-        <translation type="unfinished"></translation>
+        <translation>Omogući događaje „Neaktivnost“ (završi/obustavi razgovor)</translation>
     </message>
     <message>
         <source>Disables the sending of message events such as &quot;Contact is Typing...&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Onemogućava slanje događaja o porukama kao što je „Kontakt kuca...“</translation>
     </message>
     <message>
         <source>Do not send composing events</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne šalji događaje kucanja</translation>
     </message>
     <message>
         <source>Request receipts</source>
@@ -9501,7 +9546,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. announcements)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zanemari događaje „Headline“ (npr. obaveštenja)</translation>
     </message>
 </context>
 <context>
@@ -9528,7 +9573,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Group heading foreground:</source>
-        <translation type="unfinished"></translation>
+        <translation>Boja teksta zaglavlja grupe:</translation>
     </message>
     <message>
         <source>Specifies the background color for a group name in the main window.</source>
@@ -9544,7 +9589,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Nick animation foreground:</source>
-        <translation type="unfinished"></translation>
+        <translation>Boja teksta animacije nadimka:</translation>
     </message>
     <message>
         <source>Specifies the background animation color for nicks.</source>
@@ -9552,27 +9597,27 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Nick animation background:</source>
-        <translation type="unfinished"></translation>
+        <translation>Boja pozadine animacije nadimka:</translation>
     </message>
     <message>
         <source>Specifies the color for sent messages in chat and history windows.</source>
-        <translation type="unfinished"></translation>
+        <translation>Određuje boju poslatih poruka u prozorima razgovora i istorije.</translation>
     </message>
     <message>
         <source>Sent message foreground:</source>
-        <translation type="unfinished"></translation>
+        <translation>Boja teksta poslatih poruka:</translation>
     </message>
     <message>
         <source>Specifies the color for received messages in chat and history windows.</source>
-        <translation type="unfinished"></translation>
+        <translation>Određuje boju primljenih poruka u prozorima razgovora i istorije.</translation>
     </message>
     <message>
         <source>Received message foreground:</source>
-        <translation type="unfinished"></translation>
+        <translation>Boja teksta primljenih poruka:</translation>
     </message>
     <message>
         <source>Specifies the color for informational messages in chat windows, like status changes and offline messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Određuje boju informativnih poruka u prozorima razgovora, kao što su promene statusa i vanmrežne poruke.</translation>
     </message>
     <message>
         <source>Informational messages in chats:</source>
@@ -9608,7 +9653,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Specifies the color for additional text of system messages. MUC topic for example.</source>
-        <translation type="unfinished"></translation>
+        <translation>Određuje boju dodatnog teksta sistemskih poruka. Na primer, teme MUC-a.</translation>
     </message>
     <message>
         <source>Additional message text:</source>
@@ -9640,7 +9685,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Highlight:</source>
-        <translation type="unfinished"></translation>
+        <translation>Isticanje:</translation>
     </message>
     <message>
         <source>Link</source>
@@ -9648,55 +9693,55 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Tooltip:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opis alata:</translation>
     </message>
     <message>
         <source>Visited Link:</source>
-        <translation type="unfinished"></translation>
+        <translation>Posećena veza:</translation>
     </message>
     <message>
         <source>Link:</source>
-        <translation type="unfinished"></translation>
+        <translation>Veza:</translation>
     </message>
     <message>
         <source>Tooltip background:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pozadina opisa alata:</translation>
     </message>
     <message>
         <source>Group chat participants:</source>
-        <translation type="unfinished"></translation>
+        <translation>Učesnici grupnog razgovora:</translation>
     </message>
     <message>
         <source>Group chat moderators:</source>
-        <translation type="unfinished"></translation>
+        <translation>Moderatori grupnog razgovora:</translation>
     </message>
     <message>
         <source>Group chat visitors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Posetioci grupnog razgovora:</translation>
     </message>
     <message>
         <source>Group chat contacts without role:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontakti grupnog razgovora bez uloge:</translation>
     </message>
     <message>
         <source>Desktop palette:</source>
-        <translation type="unfinished"></translation>
+        <translation>Paleta radne površine:</translation>
     </message>
     <message>
         <source>Muted color for quoted text and the vertical quote line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prigušena boja za citirani tekst i vertikalnu liniju citata.</translation>
     </message>
     <message>
         <source>Quoted messages:</source>
-        <translation type="unfinished"></translation>
+        <translation>Citirane poruke:</translation>
     </message>
     <message>
         <source>Chat background</source>
-        <translation type="unfinished"></translation>
+        <translation>Pozadina razgovora</translation>
     </message>
     <message>
         <source>Chat text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst razgovora</translation>
     </message>
 </context>
 <context>
@@ -9746,7 +9791,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil:</translation>
     </message>
 </context>
 <context>
@@ -9761,7 +9806,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Enable docklet</source>
-        <translation type="unfinished"></translation>
+        <translation>Omogući ikonu na području za obaveštenja</translation>
     </message>
     <message>
         <source>Docklet</source>
@@ -9773,7 +9818,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Make roster window a &quot;tool window&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Napravi prozor spiska „alatnim prozorom“</translation>
     </message>
     <message>
         <source>Check for updates on startup</source>
@@ -9805,19 +9850,19 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Keep accounts&apos; passwords in more secure system keyring manager instead of profile settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Čuvaj lozinke naloga u bezbednijem sistemskom upravljaču ključeva umesto u podešavanjima profila.</translation>
     </message>
     <message>
         <source>Use system keyring manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Koristi sistemski upravljač ključeva</translation>
     </message>
     <message>
         <source>99999</source>
-        <translation type="unfinished">99999</translation>
+        <translation>99999</translation>
     </message>
     <message>
         <source>Use &quot;double-click&quot; style</source>
-        <translation type="unfinished"></translation>
+        <translation>Koristi stil „dvoklik“</translation>
     </message>
 </context>
 <context>
@@ -9887,11 +9932,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Size of preloaded history</source>
-        <translation type="unfinished"></translation>
+        <translation>Veličina unapred učitane istorije</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The number of messages that will be displayed in the chat log from the chat history with a contact&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Broj poruka koje će biti prikazane u dnevniku razgovora iz istorije razgovora sa kontaktom&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Show status changes</source>
@@ -9946,7 +9991,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Bounce dock:</source>
-        <translation type="unfinished"></translation>
+        <translation>Odskakanje ikone:</translation>
     </message>
     <message>
         <source>Never</source>
@@ -9985,19 +10030,19 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Enable Spell Checking</source>
-        <translation type="unfinished"></translation>
+        <translation>Omogući proveru pravopisa</translation>
     </message>
     <message>
         <source>Available spellcheck dictionaries</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostupni rečnici za proveru pravopisa</translation>
     </message>
     <message>
         <source>No dictionaries found</source>
-        <translation type="unfinished"></translation>
+        <translation>Nema pronađenih rečnika</translation>
     </message>
     <message>
         <source>OptInputUI</source>
-        <translation type="unfinished"></translation>
+        <translation>OptInputUI</translation>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
@@ -10048,7 +10093,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Show previews for links</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži preglede veza</translation>
     </message>
     <message>
         <source>Use contacts&apos; message formatting</source>
@@ -10072,27 +10117,27 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Record and share audio message</source>
-        <translation type="unfinished"></translation>
+        <translation>Snimi i podeli glasovnu poruku</translation>
     </message>
     <message>
         <source>Enable audio messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Omogući glasovne poruke</translation>
     </message>
     <message>
         <source>Download automatically in chats:</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatski preuzimaj u razgovorima:</translation>
     </message>
     <message>
         <source>Download automatically in group chats:</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatski preuzimaj u grupnim razgovorima:</translation>
     </message>
     <message>
         <source>Display received messages in deprecated XHTML-IM formatting (XEP-0071)</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikazuj primljene poruke u zastarelom XHTML-IM formatu (XEP-0071)</translation>
     </message>
     <message>
         <source>Send messages in deprecated XHTML-IM formatting (XEP-0071)</source>
-        <translation type="unfinished"></translation>
+        <translation>Šalji poruke u zastarelom XHTML-IM formatu (XEP-0071)</translation>
     </message>
 </context>
 <context>
@@ -10103,23 +10148,23 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Plugin Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Naziv priključka</translation>
     </message>
     <message>
         <source>Available plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostupni priključci</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzija</translation>
     </message>
     <message>
         <source>A</source>
-        <translation type="unfinished"></translation>
+        <translation>A</translation>
     </message>
     <message>
         <source>S</source>
-        <translation type="unfinished"></translation>
+        <translation>S</translation>
     </message>
     <message>
         <source>Description</source>
@@ -10166,7 +10211,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>When a contact begins typing</source>
-        <translation type="unfinished"></translation>
+        <translation>Kada kontakt počne da kuca</translation>
     </message>
     <message>
         <source>When a contact becomes available</source>
@@ -10269,7 +10314,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>seconds (0 - never)</source>
-        <translation type="unfinished"></translation>
+        <translation>sekundi (0 – nikada)</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -10341,7 +10386,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished"></translation>
+        <translation>pt</translation>
     </message>
     <message>
         <source>Radius of corners</source>
@@ -10372,7 +10417,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Show icon if contact status like online, away and others.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži ikonu ako je status kontakta, na primer, dostupan, odsutan i slično.</translation>
     </message>
     <message>
         <source>Status</source>
@@ -10388,7 +10433,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Show who is the boss and who is nothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži ko je gazda, a ko niko</translation>
     </message>
     <message>
         <source>Affiliations</source>
@@ -10412,7 +10457,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished"></translation>
+        <translation>pt</translation>
     </message>
     <message>
         <source>Radius of corners</source>
@@ -10420,15 +10465,15 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Align avatars to the left edge of the roster. Otherwise to the right.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poravnaj avatare uz levu ivicu spiska. U suprotnom, uz desnu.</translation>
     </message>
     <message>
         <source>Left aligned</source>
-        <translation type="unfinished"></translation>
+        <translation>Poravnato levo</translation>
     </message>
     <message>
         <source>Place groupchat roster at left</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavi spisak grupnog razgovora levo</translation>
     </message>
 </context>
 <context>
@@ -10534,11 +10579,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Incoming call (repeated):</source>
-        <translation type="unfinished"></translation>
+        <translation>Dolazni poziv (ponavljanje):</translation>
     </message>
     <message>
         <source>Calling (repeated):</source>
-        <translation type="unfinished"></translation>
+        <translation>Pozivanje (ponavljanje):</translation>
     </message>
 </context>
 <context>
@@ -10660,7 +10705,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Hide Free for Chat, Away, Not Available and Do not Disturb</source>
-        <translation type="unfinished"></translation>
+        <translation>Sakrij „Slobodan za razgovor“, „Odsutan“, „Nedostupan“ i „Ne uznemiravaj“</translation>
     </message>
     <message>
         <source>Hide standard statuses (Chat, Away, XA, DND)</source>
@@ -10735,7 +10780,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Enter media file extensions to ignore them on tune sending</source>
-        <translation type="unfinished"></translation>
+        <translation>Unesite ekstenzije medijskih fajlova koje treba zanemariti pri slanju melodija</translation>
     </message>
     <message>
         <source>Add extensions</source>
@@ -10743,7 +10788,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Ignored media file extensions on psi tunes sending</source>
-        <translation type="unfinished"></translation>
+        <translation>Zanemarene ekstenzije medijskih fajlova pri slanju Psi melodija</translation>
     </message>
     <message>
         <source>Tune Controllers</source>
@@ -10751,7 +10796,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Publish Tunes</source>
-        <translation type="unfinished"></translation>
+        <translation>Objavljuj melodije</translation>
     </message>
 </context>
 <context>
@@ -10788,7 +10833,9 @@ p, li { white-space: pre-wrap; }
         <source>Please enter option name.
 
 Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Unesite naziv opcije.
+
+Nazivi opcija ne smeju biti prazni, završavati se tačkom ili sadržati „..“.</translation>
     </message>
 </context>
 <context>
@@ -10799,7 +10846,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Redirect to JID:</source>
-        <translation type="unfinished"></translation>
+        <translation>Preusmeri na JID:</translation>
     </message>
     <message>
         <source>Allow receiving one Attention from the same contact every</source>
@@ -10843,7 +10890,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>days in advance</source>
-        <translation type="unfinished"></translation>
+        <translation>dana unapred</translation>
     </message>
     <message>
         <source>Check birthdays every</source>
@@ -10859,11 +10906,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>days (0 - automatic update disabled)</source>
-        <translation type="unfinished"></translation>
+        <translation>dana (0 – automatsko ažuriranje onemogućeno)</translation>
     </message>
     <message>
         <source>Remind for contacts from active accounts only</source>
-        <translation type="unfinished"></translation>
+        <translation>Podseti samo za kontakte sa aktivnih naloga</translation>
     </message>
     <message>
         <source>Check birthdays on startup</source>
@@ -10987,7 +11034,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Per contact delay between the popup notifications of the same events</source>
-        <translation type="unfinished"></translation>
+        <translation>Odlaganje po kontaktu između iskačućih obaveštenja istih događaja</translation>
     </message>
     <message>
         <source>Delay between popups</source>
@@ -11051,7 +11098,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Enable Stop Spam for private messages in groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Omogući zaustavljanje spama za privatne poruke u grupnom razgovoru</translation>
     </message>
     <message>
         <source>Enable Stop Spam for affiliations:</source>
@@ -11103,7 +11150,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Number of blocked stanzas:</source>
-        <translation type="unfinished"></translation>
+        <translation>Broj blokiranih stanza:</translation>
     </message>
     <message>
         <source>View Log</source>
@@ -11131,7 +11178,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Log blocked messages to contact&apos;s history</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisuj blokirane poruke u istoriju kontakta</translation>
     </message>
     <message>
         <source>Del</source>
@@ -11140,7 +11187,8 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>Disable stopspam, if don&apos;t match any rule above
 (does not work for muc private messages)</source>
-        <translation type="unfinished"></translation>
+        <translation>Onemogući zaustavljanje spama ako nijedno pravilo iznad ne odgovara
+(ne radi za privatne poruke MUC-a)</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -11176,7 +11224,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Show Watch for JID button in contact context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži dugme Prati JID u kontekstnom meniju kontakta</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -11204,11 +11252,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>&lt;b&gt;Please wait!&lt;/b&gt;&lt;br/&gt;We need to generate a lot of random bytes. It is a good idea to perform some other action (type on the keyboard, move the mouse, utilize the disks) during the prime generation; this gives the random number generator a better chance to gain enough entropy.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Sačekajte!&lt;/b&gt;&lt;br/&gt;Potrebno je generisati mnogo slučajnih bajtova. Preporučuje se da u međuvremenu radite nešto drugo (kucajte na tastaturi, pomerajte miš, koristite diskove) tokom generisanja prostih brojeva; time se generatoru slučajnih brojeva daje bolja šansa da prikupi dovoljno entropije.</translation>
     </message>
     <message>
         <source>Key pair generating</source>
-        <translation type="unfinished"></translation>
+        <translation>Generisanje para ključeva</translation>
     </message>
     <message>
         <source>Do you want to delete the selected keys?</source>
@@ -11276,39 +11324,39 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Color for outgoing messages numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Boja brojeva odlaznih poruka</translation>
     </message>
     <message>
         <source>Default plugin action</source>
-        <translation type="unfinished"></translation>
+        <translation>Podrazumevana radnja priključka</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Onemogućeno</translation>
     </message>
     <message>
         <source>Conditions</source>
-        <translation type="unfinished"></translation>
+        <translation>Uslovi</translation>
     </message>
     <message>
         <source>Show message if it satisfies the rule</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži poruku ako ispunjava pravilo</translation>
     </message>
     <message>
         <source>Color for incoming messages numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Boja brojeva dolaznih poruka</translation>
     </message>
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ako ovaj priključak koristite prvi put, uverite se da su svi vaši nalozi na mreži, a zatim pritisnite dugme „Ažuriraj rođendane“. To može potrajati.</translation>
     </message>
     <message>
         <source>Keys Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravljač ključevima</translation>
     </message>
     <message>
         <source>Own Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Sopstveni ključevi</translation>
     </message>
     <message>
         <source>Select &amp;Key...</source>
@@ -11320,35 +11368,35 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>OpenPGP encryption policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Politika OpenPGP šifrovanja</translation>
     </message>
     <message>
         <source>Always enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Uvek omogućeno</translation>
     </message>
     <message>
         <source>Enabled by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Omogućeno po pravilu</translation>
     </message>
     <message>
         <source>Disabled by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Onemogućeno po pravilu</translation>
     </message>
     <message>
         <source>Automatically assign known keys to contacts with signed presences and no assigned keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatski dodeli poznate ključeve kontaktima sa potpisanim prisustvima i bez dodeljenih ključeva</translation>
     </message>
     <message>
         <source>Show PGP info in tooltips for contacts in roster</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži PGP informacije u opisima alata za kontakte na spisku</translation>
     </message>
     <message>
         <source>Automatically import PGP key from the message body</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatski uvezi PGP ključ iz tela poruke</translation>
     </message>
     <message>
         <source>Do not show messages with PGP keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne prikazuj poruke sa PGP ključevima</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
@@ -11360,7 +11408,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Known Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Poznati ključevi</translation>
     </message>
     <message>
         <source>Account</source>
@@ -11396,11 +11444,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Confirm action</source>
-        <translation type="unfinished"></translation>
+        <translation>Potvrdi radnju</translation>
     </message>
     <message>
         <source>Choose Secret Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Izaberi tajni ključ</translation>
     </message>
     <message>
         <source>User ID</source>
@@ -11408,23 +11456,23 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>gpg-agent configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Podešavanje gpg-agent-a</translation>
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt; This option affects all programs which use gpg-agent in your system!</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Pažnja!&lt;/b&gt; Ova opcija utiče na sve programe koji koriste gpg-agent u vašem sistemu!</translation>
     </message>
     <message>
         <source>Ask password confirmation each</source>
-        <translation type="unfinished"></translation>
+        <translation>Traži potvrdu lozinke svakih</translation>
     </message>
     <message>
         <source>Open configuration file</source>
-        <translation type="unfinished"></translation>
+        <translation>Otvori konfiguracioni fajl</translation>
     </message>
     <message>
         <source>Attempt to reload gpg-agent config is failed. You need to restart your system to see changes in gpg-agent settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokušaj ponovnog učitavanja konfiguracije gpg-agent-a nije uspeo. Potrebno je da restartujete sistem da biste videli izmene u podešavanjima gpg-agent-a.</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -11433,39 +11481,40 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>Attempt to save gpg-agent config is failed! Check that you have write permission for file:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokušaj čuvanja konfiguracije gpg-agent-a nije uspeo! Proverite da li imate dozvolu za pisanje u fajl:
+%1</translation>
     </message>
     <message>
         <source>Do not sign own presence status</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne potpisuj sopstveni status prisustva</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#attention_plugin&quot;&gt;Viki (na mreži)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#birthday_reminder_plugin&quot;&gt;Viki (na mreži)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#extended_menu_plugin&quot;&gt;Viki (na mreži)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#jabber_disk_plugin&quot;&gt;Viki (na mreži)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#pep_change_notify_plugin&quot;&gt;Viki (na mreži)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#stop_spam_plugin&quot;&gt;Viki (na mreži)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#watcher_plugin&quot;&gt;Viki (na mreži)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -11479,11 +11528,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <name>OptionsTabAccounts</name>
     <message>
         <source>Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Nalozi</translation>
     </message>
     <message>
         <source>Manage accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravljaj nalozima</translation>
     </message>
 </context>
 <context>
@@ -11506,11 +11555,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Request receipts from contacts on each message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Traži potvrde od kontakata za svaku poruku.</translation>
     </message>
     <message>
         <source>Send receipts to contacts by request.</source>
-        <translation type="unfinished"></translation>
+        <translation>Šalji potvrde kontaktima na zahtev.</translation>
     </message>
     <message>
         <source>Enables remote controlling your client from other locations</source>
@@ -11558,7 +11607,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
-        <translation type="unfinished"></translation>
+        <translation>Čini da Psi zanemari sve dolazne događaje „headline“, kao što su obaveštenja itd.</translation>
     </message>
 </context>
 <context>
@@ -11636,15 +11685,15 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Light desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetla radna površina</translation>
     </message>
     <message>
         <source>Dark desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamna radna površina</translation>
     </message>
     <message>
         <source>Edit each palette independently. Psi automatically uses the palette matching the desktop theme.</source>
-        <translation type="unfinished"></translation>
+        <translation>Podešavajte svaku paletu nezavisno. Psi automatski koristi paletu koja odgovara temi radne površine.</translation>
     </message>
 </context>
 <context>
@@ -11662,19 +11711,19 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <name>OptionsTabAppearanceTheme</name>
     <message>
         <source>Psi Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi tema</translation>
     </message>
     <message>
         <source>Adium Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Adium tema</translation>
     </message>
     <message>
         <source>Show theme screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži snimak ekrana teme</translation>
     </message>
     <message>
         <source>%1 Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Snimak ekrana %1</translation>
     </message>
     <message>
         <source>No Image</source>
@@ -11786,7 +11835,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Makes Psi switch tab on active tabbed window when you receive a new message. It does not take the keyboard focus, so it will not interfere with your work.</source>
-        <translation type="unfinished"></translation>
+        <translation>Čini da Psi prebaci karticu u aktivnom prozoru sa karticama kada primite novu poruku. Time se ne preuzima fokus tastature, pa neće ometati vaš rad.</translation>
     </message>
     <message>
         <source>Makes Psi open chat windows in compact mode.</source>
@@ -11983,19 +12032,19 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <name>OptionsTabInput</name>
     <message>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Unos</translation>
     </message>
     <message>
         <source>Input options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcije unosa</translation>
     </message>
     <message>
         <source>Check this option if you want your spelling to be checked</source>
-        <translation type="unfinished"></translation>
+        <translation>Označite ovu opciju ako želite da vam se proverava pravopis</translation>
     </message>
     <message>
         <source>Enables automatic substitution of the first letter in a sentence to the same capital letter</source>
-        <translation type="unfinished"></translation>
+        <translation>Omogućava automatsku zamenu prvog slova u rečenici istim velikim slovom</translation>
     </message>
 </context>
 <context>
@@ -12006,18 +12055,18 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Messages options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcije poruka</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabMsgCommon</name>
     <message>
         <source>Common</source>
-        <translation type="unfinished"></translation>
+        <translation>Opšte</translation>
     </message>
     <message>
         <source>Сommon options for messages section</source>
-        <translation type="unfinished"></translation>
+        <translation>Opšte opcije za odeljak poruka</translation>
     </message>
     <message>
         <source>Makes Psi open chats in a tabbed window.</source>
@@ -12025,7 +12074,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Show under links to some media content preview of the content. It&apos;s also possible to play audio and video right in chat.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži pregled sadržaja ispod veza do nekih medijskih sadržaja. Zvuk i video je takođe moguće pustiti direktno u razgovoru.</translation>
     </message>
     <message>
         <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
@@ -12037,27 +12086,27 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Never, only when asked</source>
-        <translation type="unfinished"></translation>
+        <translation>Nikada, samo na zahtev</translation>
     </message>
     <message>
         <source>Up to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Do %1</translation>
     </message>
     <message>
         <source>Pictures, voice messages and other media from contacts in your roster, and from your own other devices, are downloaded and shown right away up to this size. Larger files and files from anyone else are downloaded only when you ask.</source>
-        <translation type="unfinished"></translation>
+        <translation>Slike, glasovne poruke i drugi mediji od kontakata sa vašeg spiska i sa vaših drugih uređaja preuzimaju se i prikazuju odmah do ove veličine. Veći fajlovi i fajlovi od svih ostalih preuzimaju se samo na vaš zahtev.</translation>
     </message>
     <message>
         <source>Media in group chats is downloaded and shown right away up to this size, whoever sent it. Larger files are downloaded only when you ask.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mediji u grupnim razgovorima preuzimaju se i prikazuju odmah do ove veličine, bez obzira na pošiljaoca. Veći fajlovi preuzimaju se samo na vaš zahtev.</translation>
     </message>
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact by using the deprecated XHTML-IM (XEP-0071)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ako je omogućeno, Psi će prikazivati dolazne poruke formatirane u stilu koji je odredio kontakt, koristeći zastareli XHTML-IM (XEP-0071)</translation>
     </message>
     <message>
         <source>If enabled, Psi will send outcoming formatted messages with additional XHTML-IM (XEP-0071). Note: it&apos;s deprecated badly supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ako je omogućeno, Psi će slati odlazne formatirane poruke sa dodatnim XHTML-IM (XEP-0071). Napomena: zastareo je i slabo podržan.</translation>
     </message>
 </context>
 <context>
@@ -12068,7 +12117,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>General plugin options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opšte opcije priključka</translation>
     </message>
 </context>
 <context>
@@ -12083,15 +12132,15 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Show information about plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži informacije o priključku</translation>
     </message>
     <message>
         <source>Open plugin settings dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Otvori dijalog podešavanja priključka</translation>
     </message>
     <message>
         <source>About plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>O priključku</translation>
     </message>
     <message>
         <source>Authors</source>
@@ -12099,7 +12148,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Plugin Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Putanja priključka</translation>
     </message>
 </context>
 <context>
@@ -12121,7 +12170,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Roster options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcije spiska</translation>
     </message>
 </context>
 <context>
@@ -12159,18 +12208,18 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Groupchat roster options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcije spiska grupnog razgovora</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabSecurity</name>
     <message>
         <source>Security</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezbednost</translation>
     </message>
     <message>
         <source>Encryption methods and key management</source>
-        <translation type="unfinished"></translation>
+        <translation>Metodi šifrovanja i upravljanje ključevima</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -12178,7 +12227,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Review every identity before trusting it. Trusted devices can receive encrypted messages; distrusted devices are excluded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pregledajte svaki identitet pre nego što mu ukažete poverenje. Pouzdani uređaji mogu primati šifrovane poruke; nepouzdani uređaji se isključuju.</translation>
     </message>
     <message>
         <source>User</source>
@@ -12186,15 +12235,15 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Device ID</source>
-        <translation type="unfinished"></translation>
+        <translation>ID uređaja</translation>
     </message>
     <message>
         <source>Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Profil</translation>
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished"></translation>
+        <translation>Veruj</translation>
     </message>
     <message>
         <source>Fingerprint</source>
@@ -12202,7 +12251,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Do not trust</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne veruj</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
@@ -12210,63 +12259,63 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Known keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Poznati ključevi</translation>
     </message>
     <message>
         <source>Current device</source>
-        <translation type="unfinished"></translation>
+        <translation>Trenutni uređaj</translation>
     </message>
     <message>
         <source>Device ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>ID uređaja:</translation>
     </message>
     <message>
         <source>Device name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Naziv uređaja:</translation>
     </message>
     <message>
         <source>Fingerprint:</source>
-        <translation type="unfinished"></translation>
+        <translation>Otisak:</translation>
     </message>
     <message>
         <source>Other devices registered for this account. Retiring one removes it from the published OMEMO device lists, so it will no longer receive encrypted messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Drugi uređaji registrovani za ovaj nalog. Povlačenje uređaja uklanja ga iz objavljenih OMEMO lista uređaja, pa više neće primati šifrovane poruke.</translation>
     </message>
     <message>
         <source>Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Uređaj</translation>
     </message>
     <message>
         <source>Retire device</source>
-        <translation type="unfinished"></translation>
+        <translation>Povuci uređaj</translation>
     </message>
     <message>
         <source>Sanitize OMEMO PEP</source>
-        <translation type="unfinished"></translation>
+        <translation>Očisti OMEMO PEP</translation>
     </message>
     <message>
         <source>Own keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Sopstveni ključevi</translation>
     </message>
     <message>
         <source>OMEMO encryption policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Politika OMEMO šifrovanja</translation>
     </message>
     <message>
         <source>Always enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Uvek omogućeno</translation>
     </message>
     <message>
         <source>Enabled by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Omogućeno po pravilu</translation>
     </message>
     <message>
         <source>Disabled by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Onemogućeno po pravilu</translation>
     </message>
     <message>
         <source>This is the global default for new chats. A method selected in an individual chat overrides it for that contact. New OMEMO identities always require an explicit trust decision.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ovo je globalna podrazumevana vrednost za nove razgovore. Metod izabran u pojedinačnom razgovoru zamenjuje je za taj kontakt. Novi OMEMO identiteti uvek zahtevaju izričitu odluku o poverenju.</translation>
     </message>
     <message>
         <source>Configuration</source>
@@ -12274,39 +12323,39 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Publishing OMEMO keys…</source>
-        <translation type="unfinished"></translation>
+        <translation>Objavljivanje OMEMO ključeva…</translation>
     </message>
     <message>
         <source>Psi will verify this account&apos;s OMEMO 2 device list and bundles. A broken bundle for this device will be republished. A broken bundle belonging to another device will be retracted and that device will stop receiving new encrypted messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi će proveriti listu OMEMO 2 uređaja i pakete ključeva ovog naloga. Neispravan paket za ovaj uređaj biće ponovo objavljen. Neispravan paket koji pripada drugom uređaju biće povučen i taj uređaj će prestati da prima nove šifrovane poruke.</translation>
     </message>
     <message>
         <source>Checking OMEMO PEP data…</source>
-        <translation type="unfinished"></translation>
+        <translation>Provera OMEMO PEP podataka…</translation>
     </message>
     <message>
         <source>OMEMO</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO</translation>
     </message>
     <message>
         <source>OMEMO PEP data has been sanitized.</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO PEP podaci su očišćeni.</translation>
     </message>
     <message>
         <source>Retire OMEMO device</source>
-        <translation type="unfinished"></translation>
+        <translation>Povuci OMEMO uređaj</translation>
     </message>
     <message>
         <source>The selected device will stop receiving new encrypted messages. Its published bundle will remain on the server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izabrani uređaj će prestati da prima nove šifrovane poruke. Njegov objavljeni paket ključeva ostaće na serveru.</translation>
     </message>
     <message>
         <source>Select an account to manage its encryption settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izaberite nalog da biste upravljali njegovim podešavanjima šifrovanja.</translation>
     </message>
     <message>
         <source>This encryption method does not provide settings for this page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ovaj metod šifrovanja ne pruža podešavanja za ovu stranicu.</translation>
     </message>
     <message>
         <source>Ready</source>
@@ -12314,90 +12363,90 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Not set up</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije podešeno</translation>
     </message>
     <message>
         <source>Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostupno</translation>
     </message>
     <message>
         <source>No encryption methods are available for this account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Za ovaj nalog nema dostupnih metoda šifrovanja.</translation>
     </message>
     <message>
         <source>Manage the selected account&apos;s encryption methods, keys and trust decisions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravljajte metodima šifrovanja, ključevima i odlukama o poverenju izabranog naloga.</translation>
     </message>
     <message>
         <source>OMEMO is unavailable in this build.</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO nije dostupno u ovoj verziji.</translation>
     </message>
     <message>
         <source>Set up OMEMO</source>
-        <translation type="unfinished"></translation>
+        <translation>Podesi OMEMO</translation>
     </message>
     <message>
         <source>Save name and republish</source>
-        <translation type="unfinished"></translation>
+        <translation>Sačuvaj naziv i ponovo objavi</translation>
     </message>
     <message>
         <source>Unnamed device</source>
-        <translation type="unfinished"></translation>
+        <translation>Neimenovani uređaj</translation>
     </message>
     <message>
         <source>OMEMO support is not compiled in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Podrška za OMEMO nije uključena u build.</translation>
     </message>
     <message>
         <source>Could not save the trust decision.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće sačuvati odluku o poverenju.</translation>
     </message>
     <message>
         <source>Calls, whiteboards and files</source>
-        <translation type="unfinished"></translation>
+        <translation>Pozivi, bele table i fajlovi</translation>
     </message>
     <message>
         <source>With contacts whose chat uses OMEMO: only with encryption verified by OMEMO</source>
-        <translation type="unfinished"></translation>
+        <translation>Sa kontaktima čiji razgovor koristi OMEMO: samo sa šifrovanjem overenim od strane OMEMO-a</translation>
     </message>
     <message>
         <source>The encryption keys of a call or whiteboard are confirmed with a trusted OMEMO device of the contact, and files are encrypted end to end (JET-OMEMO). Sessions that cannot be protected are refused instead of running unprotected. Contacts whose chat is not encrypted with OMEMO are not affected. Files to OMEMO contacts are encrypted whenever the contact supports it, also without this option.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ključevi šifrovanja poziva ili bele table potvrđuju se pouzdanim OMEMO uređajem kontakta, a fajlovi se šifruju od kraja do kraja (JET-OMEMO). Sesije koje nije moguće zaštititi se odbijaju umesto da rade nezaštićene. Kontakti čiji razgovor nije šifrovan OMEMO-om nisu pogođeni. Fajlovi za OMEMO kontakte šifruju se uvek kada kontakt to podržava, čak i bez ove opcije.</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabServerless</name>
     <message>
         <source>Serverless</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez servera</translation>
     </message>
     <message>
         <source>Chat on the local network without a server</source>
-        <translation type="unfinished"></translation>
+        <translation>Razgovor na lokalnoj mreži bez servera</translation>
     </message>
     <message>
         <source>Discover and chat with people on the selected local network using Bonjour / XEP-0174. Messages currently use unencrypted, unauthenticated connections. Enable this only on a network you trust.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otkrivajte ljude na izabranoj lokalnoj mreži i razgovarajte sa njima koristeći Bonjour / XEP-0174. Poruke trenutno koriste nešifrovane veze bez autentifikacije. Omogućite ovo samo na mreži kojoj verujete.</translation>
     </message>
     <message>
         <source>Enable serverless messaging</source>
-        <translation type="unfinished"></translation>
+        <translation>Omogući razmenu poruka bez servera</translation>
     </message>
     <message>
         <source>Serverless messaging is unavailable: this Iris build does not include JDNS support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Razmena poruka bez servera nije dostupna: ova Iris verzija ne uključuje podršku za JDNS.</translation>
     </message>
     <message>
         <source>Local network account</source>
-        <translation type="unfinished"></translation>
+        <translation>Nalog lokalne mreže</translation>
     </message>
     <message>
         <source>Display name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikazano ime:</translation>
     </message>
     <message>
         <source>Local address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokalna adresa:</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -12405,23 +12454,23 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Network interface:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mrežni interfejs:</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatski</translation>
     </message>
     <message>
         <source>Leave Automatic unless a firewall requires a fixed TCP listening port.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostavite „Automatski“ osim ako firewall zahteva fiksni TCP port za slušanje.</translation>
     </message>
     <message>
         <source>Listening port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Port za slušanje:</translation>
     </message>
     <message>
         <source>Connect automatically when Psi starts</source>
-        <translation type="unfinished"></translation>
+        <translation>Poveži se automatski pri pokretanju Psi-ja</translation>
     </message>
     <message>
         <source>Status:</source>
@@ -12429,7 +12478,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Automatic (active local network)</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatski (aktivna lokalna mreža)</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
@@ -12437,23 +12486,23 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>%1 (unavailable)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (nedostupno)</translation>
     </message>
     <message>
         <source>Assigned when enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodeljuje se kada se omogući</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Onemogućeno</translation>
     </message>
     <message>
         <source>Online on the local network</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostupan na lokalnoj mreži</translation>
     </message>
     <message>
         <source>Announcing on the local network…</source>
-        <translation type="unfinished"></translation>
+        <translation>Objavljivanje na lokalnoj mreži…</translation>
     </message>
     <message>
         <source>Offline</source>
@@ -12461,7 +12510,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Local network</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokalna mreža</translation>
     </message>
 </context>
 <context>
@@ -12573,7 +12622,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the XMPP server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Čini da Psi automatski postavi vaš status na „van mreže“ ako je računar neaktivan zadato vreme. Time ćete se odjaviti sa XMPP servera.</translation>
     </message>
 </context>
 <context>
@@ -12608,11 +12657,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Use this to choose the status that will be assigned to this preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Koristite ovo da izaberete status koji će biti dodeljen ovom presetu</translation>
     </message>
     <message>
         <source>Fill in the priority that will be assigned to this preset. If no priority is given, the default account priority will be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Popunite prioritet koji će biti dodeljen ovom presetu. Ako prioritet nije naveden, koristiće se podrazumevani prioritet naloga.</translation>
     </message>
     <message>
         <source>Jabber allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
@@ -12632,7 +12681,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>XMPP allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPP vam omogućava da stavite proširene statusne poruke na sve tipove statusa. Psi vas obično ne pita za proširenu poruku kada postavite status na „dostupan“. Označite ovu opciju ako želite to pitanje.</translation>
     </message>
 </context>
 <context>
@@ -12643,7 +12692,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Tunes no-video filter and controllers switcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Filter melodija bez videa i prebacivač kontrolera</translation>
     </message>
 </context>
 <context>
@@ -12688,7 +12737,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Server accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Serverski nalozi</translation>
     </message>
 </context>
 <context>
@@ -12737,7 +12786,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Response mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Režim odgovora</translation>
     </message>
     <message>
         <source>allow</source>
@@ -12753,7 +12802,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Deny iq time request</source>
-        <translation type="unfinished"></translation>
+        <translation>Odbij IQ zahtev za vreme</translation>
     </message>
     <message>
         <source>OS</source>
@@ -12781,11 +12830,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Caps node</source>
-        <translation type="unfinished"></translation>
+        <translation>Caps čvor</translation>
     </message>
     <message>
         <source>Caps version</source>
-        <translation type="unfinished"></translation>
+        <translation>Caps verzija</translation>
     </message>
     <message>
         <source>Enable for:</source>
@@ -12869,7 +12918,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>*to specify the order of servers, use the drag-n-drop </source>
-        <translation type="unfinished"></translation>
+        <translation>*da biste odredili redosled servera, koristite prevlačenje i puštanje </translation>
     </message>
     <message>
         <source>Add new server</source>
@@ -12933,23 +12982,23 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Pažnja!&lt;/b&gt; Nepažljivo korišćenje priključka za prebacivanje klijenta može dovesti do nemogućnosti korišćenja OMEMO i OpenPGP šifrovanja. Koristite funkcije ovog priključka veoma pažljivo...</translation>
     </message>
     <message>
         <source>OS version</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzija OS-a</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#screenshot_plugin&quot;&gt;Viki (na mreži)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#client_switcher_plugin&quot;&gt;Viki (na mreži)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#video_status_changer_plugin&quot;&gt;Viki (na mreži)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -13120,7 +13169,7 @@ Molimo unesite vašu lozinku u nastavku:</translation>
     <name>PixmapWidget</name>
     <message>
         <source>Input radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Poluprečnik ulaza</translation>
     </message>
     <message>
         <source>Radius</source>
@@ -13229,7 +13278,7 @@ Molimo unesite vašu lozinku u nastavku:</translation>
     </message>
     <message>
         <source>Your turn</source>
-        <translation type="unfinished"></translation>
+        <translation>Vi ste na potezu</translation>
     </message>
     <message>
         <source>End of game</source>
@@ -13249,7 +13298,7 @@ Molimo unesite vašu lozinku u nastavku:</translation>
     </message>
     <message>
         <source>Draw.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nerešeno.</translation>
     </message>
     <message>
         <source>You</source>
@@ -13276,7 +13325,8 @@ Molimo unesite vašu lozinku u nastavku:</translation>
     <message>
         <source>Your opponent has closed the board!
  You can still save the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Protivnik je zatvorio tablu!
+ Igru još uvek možete sačuvati.</translation>
     </message>
     <message>
         <source>You want to switch color?</source>
@@ -13300,55 +13350,55 @@ Molimo unesite vašu lozinku u nastavku:</translation>
     </message>
     <message>
         <source>Battleship game</source>
-        <translation type="unfinished"></translation>
+        <translation>Igra Potapanje brodova</translation>
     </message>
     <message>
         <source>Freeze ships position</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamrzni položaj brodova</translation>
     </message>
     <message>
         <source>Press button and make move if you want to propose draw</source>
-        <translation type="unfinished"></translation>
+        <translation>Pritisnite dugme i napravite potez ako želite da predložite nerešeno</translation>
     </message>
     <message>
         <source>Propose a draw</source>
-        <translation type="unfinished"></translation>
+        <translation>Predloži nerešeno</translation>
     </message>
     <message>
         <source>Press button if you want to accept the draw proposal</source>
-        <translation type="unfinished"></translation>
+        <translation>Pritisnite dugme ako želite da prihvatite predlog nerešenog</translation>
     </message>
     <message>
         <source>Accept the draw proposal</source>
-        <translation type="unfinished"></translation>
+        <translation>Prihvati predlog nerešenog</translation>
     </message>
     <message>
         <source>Press button if you want to resign</source>
-        <translation type="unfinished"></translation>
+        <translation>Pritisnite dugme ako želite da se predate</translation>
     </message>
     <message>
         <source>Resign the game</source>
-        <translation type="unfinished"></translation>
+        <translation>Predaj igru</translation>
     </message>
     <message>
         <source>--</source>
-        <translation type="unfinished"></translation>
+        <translation>--</translation>
     </message>
     <message>
         <source>Setting ships position</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavljanje položaja brodova</translation>
     </message>
     <message>
         <source>Draw</source>
-        <translation type="unfinished"></translation>
+        <translation>Nerešeno</translation>
     </message>
     <message>
         <source>You Won!</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobedili ste!</translation>
     </message>
     <message>
         <source>You Lost.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izgubili ste.</translation>
     </message>
 </context>
 <context>
@@ -13386,7 +13436,7 @@ Molimo unesite vašu lozinku u nastavku:</translation>
     </message>
     <message>
         <source>Not an image</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije slika</translation>
     </message>
 </context>
 <context>
@@ -13612,7 +13662,7 @@ Molimo unesite vašu lozinku u nastavku:</translation>
     <name>ProfileItemDelegate</name>
     <message>
         <source>Delete profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Obriši profil</translation>
     </message>
 </context>
 <context>
@@ -13811,31 +13861,31 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Profili</translation>
     </message>
     <message>
         <source>New profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Novi profil</translation>
     </message>
     <message>
         <source>Add profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj profil</translation>
     </message>
     <message>
         <source>Startup and language</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokretanje i jezik</translation>
     </message>
     <message>
         <source>&amp;Automatically open this profile on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Automatski otvori ovaj profil pri pokretanju</translation>
     </message>
     <message>
         <source>The last opened profile will be used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Koristiće se poslednji otvoreni profil.</translation>
     </message>
     <message>
         <source>Application language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Jezik aplikacije:</translation>
     </message>
 </context>
 <context>
@@ -13854,35 +13904,35 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Double-click or press F2 to rename a profile. Press Delete to remove it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dvoklikom ili pritiskom na F2 preimenujte profil. Pritiskom na Delete ga uklanjate.</translation>
     </message>
     <message>
         <source>Choose the application language. This setting applies to all profiles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izaberite jezik aplikacije. Ovo podešavanje važi za sve profile.</translation>
     </message>
     <message>
         <source>Open the selected profile automatically the next time Psi starts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatski otvori izabrani profil pri sledećem pokretanju Psi-ja.</translation>
     </message>
     <message>
         <source>Unable to create this profile. Check folder permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće napraviti ovaj profil. Proverite dozvole za fasciklu.</translation>
     </message>
     <message>
         <source>Profile created, but its default options could not be saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Profil je napravljen, ali njegove podrazumevane opcije nisu mogle biti sačuvane.</translation>
     </message>
     <message>
         <source>Profile names may contain only letters and numbers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazivi profila mogu sadržati samo slova i brojeve.</translation>
     </message>
     <message>
         <source>A profile with this name already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Profil sa ovim nazivom već postoji.</translation>
     </message>
     <message>
         <source>Unable to rename the profile. Check folder permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće preimenovati profil. Proverite dozvole za fasciklu.</translation>
     </message>
     <message>
         <source>Delete Profile</source>
@@ -13892,11 +13942,13 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <source>Delete profile &quot;%1&quot;?
 
 All of its message history, settings, and cached files will be deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrisati profil „%1“?
+
+Sva njegova istorija poruka, podešavanja i keširani fajlovi biće obrisani.</translation>
     </message>
     <message>
         <source>Unable to delete the profile completely. Check folder permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće potpuno obrisati profil. Proverite dozvole za fasciklu.</translation>
     </message>
 </context>
 <context>
@@ -13951,23 +14003,23 @@ All of its message history, settings, and cached files will be deleted.</source>
     </message>
     <message>
         <source>DNS through the proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>DNS kroz proxy</translation>
     </message>
     <message>
         <source>Remote DNS:</source>
-        <translation type="unfinished"></translation>
+        <translation>Udaljeni DNS:</translation>
     </message>
     <message>
         <source>DoH URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>DoH URL:</translation>
     </message>
     <message>
         <source>DNS server:</source>
-        <translation type="unfinished"></translation>
+        <translation>DNS server:</translation>
     </message>
     <message>
         <source>Test DNS...</source>
-        <translation type="unfinished"></translation>
+        <translation>Testiraj DNS...</translation>
     </message>
 </context>
 <context>
@@ -14009,15 +14061,15 @@ All of its message history, settings, and cached files will be deleted.</source>
     </message>
     <message>
         <source>DNS over HTTPS</source>
-        <translation type="unfinished"></translation>
+        <translation>DNS preko HTTPS-a</translation>
     </message>
     <message>
         <source>DNS over TCP</source>
-        <translation type="unfinished"></translation>
+        <translation>DNS preko TCP-a</translation>
     </message>
     <message>
         <source>A DNS server reached through this proxy. Accounts that use the proxy can look up their server with it (remote SRV lookup), so that no DNS query leaves this computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>DNS server dostupan kroz ovaj proxy. Nalozi koji koriste proxy mogu preko njega tražiti svoj server (udaljena SRV pretraga), tako da nijedan DNS upit ne napušta ovaj računar.</translation>
     </message>
 </context>
 <context>
@@ -14028,31 +14080,31 @@ All of its message history, settings, and cached files will be deleted.</source>
     </message>
     <message>
         <source>Test proxy DNS</source>
-        <translation type="unfinished"></translation>
+        <translation>Testiraj proxy DNS</translation>
     </message>
     <message>
         <source>Invalid proxy host or port.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevažeći host ili port proxy-ja.</translation>
     </message>
     <message>
         <source>Invalid DNS server address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevažeća adresa DNS servera.</translation>
     </message>
     <message>
         <source>XMPP domain to look up:</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPP domen za pretragu:</translation>
     </message>
     <message>
         <source>No XMPP server was found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije pronađen nijedan XMPP server.</translation>
     </message>
     <message>
         <source>No SRV, the domain:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nema SRV zapisa, domen:</translation>
     </message>
     <message>
         <source>SRV %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>SRV %1:</translation>
     </message>
 </context>
 <context>
@@ -14116,7 +14168,7 @@ Da li želite da ga odjavite?</translation>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA2 SSL/TLS plugin is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće povezati se: šifrovanje je omogućeno, ali nema dostupnog QCA2 SSL/TLS priključka.</translation>
     </message>
     <message>
         <source>Feature Removed</source>
@@ -14252,7 +14304,7 @@ Da li želite da ga odjavite?</translation>
     </message>
     <message>
         <source>No appropriate mechanism available for given security settings (e.g. SASL library too weak, or plaintext authentication not enabled)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nema odgovarajućeg mehanizma za data bezbednosna podešavanja (npr. SASL biblioteka je preslaba ili autentifikacija čistim tekstom nije omogućena)</translation>
     </message>
     <message>
         <source>Server failed mutual authentication</source>
@@ -14297,11 +14349,12 @@ Da li želite da ga odjavite?</translation>
     <message>
         <source>There was an error communicating with the server.
 Details: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Došlo je do greške u komunikaciji sa serverom.
+Detalji: %1</translation>
     </message>
     <message>
         <source>Whiteboard invitation</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziv na belu tablu</translation>
     </message>
     <message>
         <source>Incoming file</source>
@@ -14349,7 +14402,7 @@ Details: %1</source>
     </message>
     <message>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
-        <translation type="unfinished"></translation>
+        <translation>[GREŠKA: Ova poruka je šifrovana i ne možete je dešifrovati.]</translation>
     </message>
     <message>
         <source>No key</source>
@@ -14373,71 +14426,71 @@ Details: %1</source>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće povezati se: šifrovanje je omogućeno, ali QCA upravljač skladištem ključeva nije dostupan.</translation>
     </message>
     <message>
         <source>Server refused to resume the session (SM)</source>
-        <translation type="unfinished"></translation>
+        <translation>Server je odbio da nastavi sesiju (SM)</translation>
     </message>
     <message>
         <source>Invalid From</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevažeći pošiljalac</translation>
     </message>
     <message>
         <source>Stream reset (security implications)</source>
-        <translation type="unfinished"></translation>
+        <translation>Reset toka (bezbednosne implikacije)</translation>
     </message>
     <message>
         <source>Authentication aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentifikacija je prekinuta</translation>
     </message>
     <message>
         <source>Account disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Nalog je onemogućen</translation>
     </message>
     <message>
         <source>Credentials expired</source>
-        <translation type="unfinished"></translation>
+        <translation>Akreditivi su istekli</translation>
     </message>
     <message>
         <source>Malformed request</source>
-        <translation type="unfinished"></translation>
+        <translation>Neispravan zahtev</translation>
     </message>
     <message>
         <source>Keychain failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Greška upravljača ključeva</translation>
     </message>
     <message>
         <source>Psi switched to the internal password storage because system password manager is unavailable (%s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi je prešao na interno skladištenje lozinki jer sistemski upravljač lozinkama nije dostupan (%s).</translation>
     </message>
     <message>
         <source>The selected encryption method &apos;%1&apos; is not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izabrani metod šifrovanja „%1“ nije dostupan.</translation>
     </message>
     <message>
         <source>The selected encryption session is unavailable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Izabrana sesija šifrovanja nije dostupna.</translation>
     </message>
     <message>
         <source>The chat could not create an encryption session.</source>
-        <translation type="unfinished"></translation>
+        <translation>Razgovor nije mogao da napravi sesiju šifrovanja.</translation>
     </message>
     <message>
         <source>The chat encryption session was closed before the message could be retried.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sesija šifrovanja razgovora je zatvorena pre nego što je poruka mogla biti ponovo poslata.</translation>
     </message>
     <message>
         <source>Encryption failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Šifrovanje nije uspelo: %1</translation>
     </message>
     <message>
         <source>Bookmark synchronization failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinhronizacija oznaka nije uspela</translation>
     </message>
     <message>
         <source>Serverless delivery failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Isporuka bez servera nije uspela</translation>
     </message>
     <message>
         <source>Unsupported</source>
@@ -14445,7 +14498,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Group chat whiteboards are not supported yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bele table u grupnim razgovorima još nisu podržane.</translation>
     </message>
 </context>
 <context>
@@ -14668,7 +14721,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Toggles whether the currently playing tune should be published or not</source>
-        <translation type="unfinished"></translation>
+        <translation>Uključuje ili isključuje objavljivanje melodije koja se trenutno pušta</translation>
     </message>
     <message>
         <source>Set Mood</source>
@@ -14704,7 +14757,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Smaller alternative to the Status button</source>
-        <translation type="unfinished"></translation>
+        <translation>Manja alternativa dugmetu Status</translation>
     </message>
     <message>
         <source>Changes your global status to &apos;%1&apos;</source>
@@ -14920,11 +14973,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Chat basic buttons</source>
-        <translation type="unfinished"></translation>
+        <translation>Osnovna dugmad razgovora</translation>
     </message>
     <message>
         <source>Groupchat basic buttons</source>
-        <translation type="unfinished"></translation>
+        <translation>Osnovna dugmad grupnog razgovora</translation>
     </message>
     <message>
         <source>Configure Room</source>
@@ -14940,15 +14993,15 @@ Details: %1</source>
     </message>
     <message>
         <source>Share Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Podeli fajlove</translation>
     </message>
     <message>
         <source>Pin/UnPin Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakači/Otkači karticu</translation>
     </message>
     <message>
         <source>Join Psi Discussion Room (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pridruži se Psi sobi za diskusiju (na mreži)</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
@@ -14956,11 +15009,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Psi &amp;Forum (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi &amp;forum (na mreži)</translation>
     </message>
     <message>
         <source>&amp;Join Psi Discussion Room (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pridruži se Psi sobi za diskusiju (na mreži)</translation>
     </message>
     <message>
         <source>Information</source>
@@ -14968,19 +15021,19 @@ Details: %1</source>
     </message>
     <message>
         <source>Set Topic</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavi temu</translation>
     </message>
     <message>
         <source>Manage Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravljaj nalozima</translation>
     </message>
     <message>
         <source>&amp;Manage Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Upravljaj nalozima</translation>
     </message>
     <message>
         <source>&amp;XMPP Console</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;XMPP konzola</translation>
     </message>
     <message>
         <source>Paste and Send</source>
@@ -15011,7 +15064,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Contact has been switched: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontakt je promenjen: %1</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -15033,11 +15086,11 @@ Details: %1</source>
     </message>
     <message>
         <source>turn off autojid</source>
-        <translation type="unfinished"></translation>
+        <translation>isključi automatski JID</translation>
     </message>
     <message>
         <source>turn on autojid</source>
-        <translation type="unfinished"></translation>
+        <translation>uključi automatski JID</translation>
     </message>
     <message>
         <source>Paste and Send</source>
@@ -15045,7 +15098,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Fingerprint for account &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Otisak za nalog „%1“: %2</translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
@@ -15061,19 +15114,19 @@ Details: %1</source>
     </message>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Javni ključ „%1“ je poslat</translation>
     </message>
     <message>
         <source>Choose Public Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Izaberi javni ključ</translation>
     </message>
     <message>
         <source>Send own public key</source>
-        <translation type="unfinished"></translation>
+        <translation>Pošalji sopstveni javni ključ</translation>
     </message>
     <message>
         <source>Send public key...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pošalji javni ključ...</translation>
     </message>
     <message>
         <source>Command</source>
@@ -15081,63 +15134,63 @@ Details: %1</source>
     </message>
     <message>
         <source>Encryption is disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Šifrovanje je onemogućeno</translation>
     </message>
     <message>
         <source>Encryption: %1 (unavailable for this contact)</source>
-        <translation type="unfinished"></translation>
+        <translation>Šifrovanje: %1 (nedostupno za ovaj kontakt)</translation>
     </message>
     <message>
         <source>Encryption: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Šifrovanje: %1</translation>
     </message>
     <message>
         <source>No encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez šifrovanja</translation>
     </message>
     <message>
         <source>This encryption method is not available for the selected resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ovaj metod šifrovanja nije dostupan za izabrani resurs.</translation>
     </message>
     <message>
         <source>OpenPGP management</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravljanje OpenPGP-om</translation>
     </message>
     <message>
         <source>OMEMO devices and fingerprints…</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO uređaji i otisci…</translation>
     </message>
     <message>
         <source>Own device: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sopstveni uređaj: %1</translation>
     </message>
     <message>
         <source>Own fingerprint: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sopstveni otisak: %1</translation>
     </message>
     <message>
         <source>No remote OMEMO devices are known yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Još nisu poznati udaljeni OMEMO uređaji.</translation>
     </message>
     <message>
         <source>Remote devices:</source>
-        <translation type="unfinished"></translation>
+        <translation>Udaljeni uređaji:</translation>
     </message>
     <message>
         <source>distrusted</source>
-        <translation type="unfinished"></translation>
+        <translation>nepouzdan</translation>
     </message>
     <message>
         <source>undecided</source>
-        <translation type="unfinished"></translation>
+        <translation>neodlučeno</translation>
     </message>
     <message>
         <source>trusted</source>
-        <translation type="unfinished"></translation>
+        <translation>pouzdan</translation>
     </message>
     <message>
         <source>OMEMO devices</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO uređaji</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -15145,15 +15198,15 @@ Details: %1</source>
     </message>
     <message>
         <source>Account is offline</source>
-        <translation type="unfinished"></translation>
+        <translation>Nalog je van mreže</translation>
     </message>
     <message>
         <source>Archive response omitted the requested index</source>
-        <translation type="unfinished"></translation>
+        <translation>Odgovor arhive je izostavio traženi indeks</translation>
     </message>
     <message>
         <source>This archive cannot position messages by index. Older history remains available by scrolling.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ova arhiva ne može da rasporedi poruke po indeksu. Starija istorija ostaje dostupna pomeranjem.</translation>
     </message>
     <message>
         <source>Voice Call</source>
@@ -15161,11 +15214,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Whiteboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Bela tabla</translation>
     </message>
     <message>
         <source>Whiteboard only</source>
-        <translation type="unfinished"></translation>
+        <translation>Samo bela tabla</translation>
     </message>
 </context>
 <context>
@@ -15183,7 +15236,7 @@ Details: %1</source>
     <message>
         <source>Force remote-control mode. If there is no running instance, or --profile was specified but there is no instance using it, exit without doing anything. Cannot be used with --choose-profile.</source>
         <comment>do not translate --profile, --choose-profile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Prinudno pokreni režim daljinskog upravljanja. Ako nema pokrenute instance, ili je naveden --profile ali nema instance koja ga koristi, izađi bez ikakve radnje. Ne može se koristiti sa --choose-profile.</translation>
     </message>
     <message>
         <source>Display Choose Profile dialog on startup. Cannot be used together with --remote.</source>
@@ -15197,7 +15250,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Open XMPP URI. (e.g. xmpp:someone@example.org?chat) For security reasons, this must be the last option.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otvori XMPP URI. (npr. xmpp:someone@example.org?chat) Iz bezbednosnih razloga ovo mora biti poslednja opcija.</translation>
     </message>
     <message>
         <source>STATUS</source>
@@ -15207,7 +15260,7 @@ Details: %1</source>
     <message>
         <source>Set status. STATUS must be one of `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</source>
         <comment>do not translate `online&apos;, `chat&apos;, etc; STATUS is the same as in previous string</comment>
-        <translation type="unfinished"></translation>
+        <translation>Postavi status. STATUS mora biti jedan od: `online`, `chat`, `away`, `xa`, `dnd`, `offline`.</translation>
     </message>
     <message>
         <source>MSG</source>
@@ -15262,19 +15315,19 @@ Details: %1</source>
     </message>
     <message>
         <source>Go to &lt;https://psi-im.org/&gt; for more information about Psi.</source>
-        <translation type="unfinished"></translation>
+        <translation>Posetite &lt;https://psi-im.org/&gt; za više informacija o Psi-ju.</translation>
     </message>
     <message>
         <source>Psi is a cross-platform XMPP client designed for experienced users.</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi je unakrsnoplatformski XMPP klijent namenjen iskusnim korisnicima.</translation>
     </message>
     <message>
         <source>Receive next pending event.</source>
-        <translation type="unfinished"></translation>
+        <translation>Primi sledeći događaj na čekanju.</translation>
     </message>
     <message>
         <source>Quit the application</source>
-        <translation type="unfinished"></translation>
+        <translation>Napusti aplikaciju</translation>
     </message>
 </context>
 <context>
@@ -15317,7 +15370,7 @@ Details: %1</source>
     </message>
     <message>
         <source>You can not disable &lt;i&gt;all&lt;/i&gt; toolbars &lt;i&gt;and&lt;/i&gt; the menubar. If you do so, you will be unable to enable them back, when you&apos;ll change your mind.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne možete onemogućiti &lt;i&gt;sve&lt;/i&gt; trake sa alatkama &lt;i&gt;i&lt;/i&gt; meni. Ako to uradite, nećete moći da ih ponovo omogućite kada se predomislite.</translation>
     </message>
     <message>
         <source>I understand</source>
@@ -15329,12 +15382,13 @@ Details: %1</source>
     </message>
     <message>
         <source>Other party canceled call.</source>
-        <translation type="unfinished"></translation>
+        <translation>Druga strana je otkazala poziv.</translation>
     </message>
     <message>
         <source>Unable to bind to port %1 for Data Transfer.
 This may mean you are already running another instance of Psi. You may experience problems sending and/or receiving files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće povezati se na port %1 za prenos podataka.
+To može značiti da već imate pokrenutu drugu instancu Psi-ja. Možete imati problema sa slanjem i/ili primanjem fajlova.</translation>
     </message>
     <message>
         <source>Computer went to sleep</source>
@@ -15358,22 +15412,25 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Migration is impossible</source>
-        <translation type="unfinished"></translation>
+        <translation>Migracija nije moguća</translation>
     </message>
     <message>
         <source>Found no more supported configuration file from some very old version:
 %1
 
 Migration is possible with Psi-0.15</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije pronađen nijedan podržani konfiguracioni fajl iz neke veoma stare verzije:
+%1
+
+Migracija je moguća pomoću Psi-0.15</translation>
     </message>
     <message>
         <source>Unable to load &quot;%1&quot; theme! Please make sure Psi is properly installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće učitati temu „%1“! Proverite da li je Psi ispravno instaliran.</translation>
     </message>
     <message>
         <source>Forward...</source>
-        <translation type="unfinished"></translation>
+        <translation>Prosledi...</translation>
     </message>
     <message>
         <source>Forward</source>
@@ -15551,67 +15608,67 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Log On</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Prijavi se</translation>
     </message>
     <message>
         <source>Log &amp;Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Odjavi &amp;se</translation>
     </message>
     <message>
         <source>Re&amp;send Authorization To</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponovo &amp;pošalji autorizaciju ka</translation>
     </message>
     <message>
         <source>Re&amp;request Authorization From</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponovo &amp;zatraži autorizaciju od</translation>
     </message>
     <message>
         <source>Re&amp;move Authorization From</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ukloni autorizaciju od</translation>
     </message>
     <message>
         <source>In&amp;vite To</source>
-        <translation type="unfinished"></translation>
+        <translation>Po&amp;zovi u</translation>
     </message>
     <message>
         <source>Send Message T&amp;o</source>
-        <translation type="unfinished"></translation>
+        <translation>Pošalji poruku &amp;ka</translation>
     </message>
     <message>
         <source>Open Chat &amp;To</source>
-        <translation type="unfinished"></translation>
+        <translation>Otvori razgovor &amp;sa</translation>
     </message>
     <message>
         <source>&amp;Active Chats</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aktivni razgovori</translation>
     </message>
     <message>
         <source>&amp;Authorization</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Autorizacija</translation>
     </message>
     <message>
         <source>Copy User JID</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj JID korisnika</translation>
     </message>
     <message>
         <source>Copy Groupchat JID</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj JID grupnog razgovora</translation>
     </message>
     <message>
         <source>Advanc&amp;ed</source>
-        <translation type="unfinished"></translation>
+        <translation>Napredn&amp;o</translation>
     </message>
     <message>
         <source>Add To Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj u oznake</translation>
     </message>
     <message>
         <source>Call &amp;To</source>
-        <translation type="unfinished"></translation>
+        <translation>Pozovi &amp;</translation>
     </message>
     <message>
         <source>&amp;Whiteboard</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Bela tabla</translation>
     </message>
 </context>
 <context>
@@ -15622,7 +15679,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Whiteboard invitation</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziv na belu tablu</translation>
     </message>
     <message>
         <source>Accept</source>
@@ -15630,46 +15687,46 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Decline</source>
-        <translation type="unfinished"></translation>
+        <translation>Odbij</translation>
     </message>
 </context>
 <context>
     <name>PsiEncryptionController</name>
     <message>
         <source>Decryption failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Dešifrovanje nije uspelo: %1</translation>
     </message>
     <message>
         <source>Could not prepare session recovery: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće pripremiti oporavak sesije: %1</translation>
     </message>
     <message>
         <source>Session recovery was not offered because the sending device is unavailable or explicitly distrusted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oporavak sesije nije ponuđen jer je uređaj pošiljaoca nedostupan ili izričito nepouzdan.</translation>
     </message>
     <message>
         <source>Sent a new key exchange to %1 device %2. Future messages from it can be decrypted, but the failed message must be sent again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poslata je nova razmena ključeva uređaju %2 naloga %1. Buduće poruke sa njega mogu biti dešifrovane, ali neuspešna poruka mora biti ponovo poslata.</translation>
     </message>
     <message>
         <source>Session recovery failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Oporavak sesije nije uspeo: %1</translation>
     </message>
     <message>
         <source>Review OMEMO devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Pregledaj OMEMO uređaje</translation>
     </message>
     <message>
         <source>New OMEMO device keys need a trust decision before they can be used for outgoing encrypted messages. Device names are provided by the device owner and, for OMEMO 2, verified against its identity key.</source>
-        <translation type="unfinished"></translation>
+        <translation>Novi ključevi OMEMO uređaja zahtevaju odluku o poverenju pre nego što mogu biti korišćeni za odlazne šifrovane poruke. Nazive uređaja daje vlasnik uređaja, a za OMEMO 2 se proveravaju prema njegovom identitetskom ključu.</translation>
     </message>
     <message>
         <source>Psi could not decrypt a message from this device because the local session is missing. Review the device and explicitly approve creating a new session. Device names are provided by the device owner and, for OMEMO 2, verified against its identity key.</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi nije mogao dešifrovati poruku sa ovog uređaja jer lokalna sesija nedostaje. Pregledajte uređaj i izričito odobrite pravljenje nove sesije. Nazive uređaja daje vlasnik uređaja, a za OMEMO 2 se proveravaju prema njegovom identitetskom ključu.</translation>
     </message>
     <message>
         <source>Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Uređaj</translation>
     </message>
     <message>
         <source>Address</source>
@@ -15677,7 +15734,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Profil</translation>
     </message>
     <message>
         <source>Fingerprint</source>
@@ -15685,7 +15742,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Unnamed device (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Neimenovani uređaj (%1)</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
@@ -15693,73 +15750,75 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Your account (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaš nalog (%1)</translation>
     </message>
     <message>
         <source>This device did not publish a verifiable name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ovaj uređaj nije objavio proverljiv naziv.</translation>
     </message>
     <message>
         <source>The device name was verified against this OMEMO identity key.</source>
-        <translation type="unfinished"></translation>
+        <translation>Naziv uređaja je proveren prema ovom OMEMO identitetskom ključu.</translation>
     </message>
     <message>
         <source>Repair creates a fresh Double Ratchet session and sends an empty OMEMO key exchange. It cannot recover the missed message; the sender must send it again. Distrust prevents session recovery.</source>
-        <translation type="unfinished"></translation>
+        <translation>Popravka pravi novu Double Ratchet sesiju i šalje praznu OMEMO razmenu ključeva. Ona ne može da povrati propuštenu poruku; pošiljalac je mora ponovo poslati. Nepoverenje sprečava oporavak sesije.</translation>
     </message>
     <message>
         <source>Trust allows selected contact devices to receive encrypted messages and selected devices of your own account to decrypt message copies. Distrust excludes those devices. Not now leaves them undecided and cancels this encrypted send.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poverenje omogućava izabranim uređajima kontakata da primaju šifrovane poruke i izabranim uređajima vašeg naloga da dešifruju kopije poruka. Nepoverenje isključuje te uređaje. „Ne sada“ ih ostavlja neodlučnim i otkazuje ovo šifrovano slanje.</translation>
     </message>
     <message>
         <source>Trust marks the selected sender devices as trusted. Distrust marks them as explicitly untrusted. Not now keeps the message visible but leaves the devices undecided.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poverenje označava izabrane uređaje pošiljaoca kao pouzdane. Nepoverenje ih označava kao izričito nepouzdane. „Ne sada“ zadržava poruku vidljivom, ali ostavlja uređaje neodlučnim.</translation>
     </message>
     <message>
         <source>Trust selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Veruj izabranima</translation>
     </message>
     <message>
         <source>Trust and repair</source>
-        <translation type="unfinished"></translation>
+        <translation>Veruj i popravi</translation>
     </message>
     <message>
         <source>Repair session</source>
-        <translation type="unfinished"></translation>
+        <translation>Popravi sesiju</translation>
     </message>
     <message>
         <source>Distrust selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne veruj izabranima</translation>
     </message>
     <message>
         <source>Distrust device</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne veruj uređaju</translation>
     </message>
     <message>
         <source>Not now</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne sada</translation>
     </message>
     <message>
         <source>Could not save the OMEMO trust decision.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće sačuvati OMEMO odluku o poverenju.</translation>
     </message>
     <message>
         <source>OMEMO setup failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Podešavanje OMEMO-a nije uspelo: %1</translation>
     </message>
     <message>
         <source>Could not decrypt a message: the encryption session with this device is broken (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće dešifrovati poruku: sesija šifrovanja sa ovim uređajem je pokvarena (%1)</translation>
     </message>
     <message>
         <source>Repair OMEMO session</source>
-        <translation type="unfinished"></translation>
+        <translation>Popravi OMEMO sesiju</translation>
     </message>
     <message>
         <source>
 
 This device&apos;s identity key is already trusted. Only its encryption session needs to be repaired.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Identitetski ključ ovog uređaja je već pouzdan. Potrebno je samo popraviti njegovu sesiju šifrovanja.</translation>
     </message>
 </context>
 <context>
@@ -15777,12 +15836,14 @@ Razlog: %1</translation>
     <message>
         <source>Unable to create groupchat.
 Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće napraviti grupni razgovor.
+Razlog: %1</translation>
     </message>
     <message>
         <source>Unable to destroy groupchat.
 Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće uništiti grupni razgovor.
+Razlog: %1</translation>
     </message>
 </context>
 <context>
@@ -15817,7 +15878,8 @@ Reason: %1</source>
     <message>
         <source>The &quot;%1&quot; profile is already in use.
 Would you like to activate that session now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Profil „%1“ je već u upotrebi.
+Želite li da aktivirate tu sesiju sada?</translation>
     </message>
     <message>
         <source>Activate</source>
@@ -15825,14 +15887,14 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Cannot open this profile - it is already running, but not responding</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće otvoriti ovaj profil – već je pokrenut, ali ne odgovara</translation>
     </message>
 </context>
 <context>
     <name>PsiMedia::ScreenCapture</name>
     <message>
         <source>The media backend does not support screen sharing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Medijski pozadinski sloj ne podržava deljenje ekrana.</translation>
     </message>
 </context>
 <context>
@@ -15843,7 +15905,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Media plugin provides functionality required for Audio/Video calls and can also replace some parts of QtMultimedia.</source>
-        <translation type="unfinished"></translation>
+        <translation>Priključak medija pruža funkcionalnost potrebnu za audio/video pozive i može zameniti neke delove QtMultimedije.</translation>
     </message>
 </context>
 <context>
@@ -15886,7 +15948,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Can&apos;t chat.  Gotta work.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne mogu da razgovaram. Moram da radim.</translation>
     </message>
     <message>
         <source>Air</source>
@@ -15926,7 +15988,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>I have gone to a far away place.  I will be back someday!</source>
-        <translation type="unfinished"></translation>
+        <translation>Otišao sam na daleko mesto. Vratiću se jednog dana!</translation>
     </message>
     <message>
         <source>Buttons</source>
@@ -15949,7 +16011,7 @@ Would you like to activate that session now?</source>
     <name>PsiOptionsEditor</name>
     <message>
         <source>Full name of the currently selected option.</source>
-        <translation type="unfinished"></translation>
+        <translation>Puni naziv trenutno izabrane opcije.</translation>
     </message>
     <message>
         <source>(no selection)</source>
@@ -16005,7 +16067,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Options filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filter opcija</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -16013,11 +16075,11 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Display options as a flat list</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži opcije kao ravnu listu</translation>
     </message>
     <message>
         <source>Display options as a flat list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži opcije kao ravnu listu.</translation>
     </message>
     <message>
         <source>Option Editor</source>
@@ -16032,15 +16094,15 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source> is typing...</source>
-        <translation type="unfinished"></translation>
+        <translation> kuca...</translation>
     </message>
     <message>
         <source>invites you to a whiteboard</source>
-        <translation type="unfinished"></translation>
+        <translation>vas poziva na belu tablu</translation>
     </message>
     <message>
         <source>is calling you</source>
-        <translation type="unfinished"></translation>
+        <translation>vas poziva</translation>
     </message>
 </context>
 <context>
@@ -16051,7 +16113,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Decline</source>
-        <translation type="unfinished"></translation>
+        <translation>Odbij</translation>
     </message>
 </context>
 <context>
@@ -16065,18 +16127,18 @@ Would you like to activate that session now?</source>
     <name>PsiTextView</name>
     <message>
         <source>unknown size</source>
-        <translation type="unfinished"></translation>
+        <translation>nepoznata veličina</translation>
     </message>
     <message>
         <source>Shared media is downloading (%1, %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Podeljeni mediji se preuzimaju (%1, %2)</translation>
     </message>
 </context>
 <context>
     <name>PsiThemeModel</name>
     <message>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzija</translation>
     </message>
     <message>
         <source>Authors</source>
@@ -16084,11 +16146,11 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Released on</source>
-        <translation type="unfinished"></translation>
+        <translation>Objavljeno</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Početna</translation>
     </message>
 </context>
 <context>
@@ -16192,7 +16254,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Hostname mismatch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neslaganje naziva hosta.</translation>
     </message>
     <message>
         <source>Invalid Certificate.</source>
@@ -16204,7 +16266,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>The %1 certificate failed the authenticity test.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sertifikat %1 nije prošao test autentičnosti.</translation>
     </message>
     <message>
         <source>&amp;Details...</source>
@@ -16264,7 +16326,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Doing The Laundry</source>
-        <translation type="unfinished"></translation>
+        <translation>Perem veš</translation>
     </message>
     <message>
         <source>Gardening</source>
@@ -16272,7 +16334,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Running An Errand</source>
-        <translation type="unfinished"></translation>
+        <translation>Obavljam obaveze</translation>
     </message>
     <message>
         <source>Walking The Dog</source>
@@ -16600,12 +16662,13 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Latitude/Longitude/Altitude: </source>
-        <translation type="unfinished"></translation>
+        <translation>Geografska širina/dužina/visina: </translation>
     </message>
     <message>
         <source>
 Bearing: </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Smer: </translation>
     </message>
     <message>
         <source>
@@ -16675,15 +16738,15 @@ Opis: </translation>
     </message>
     <message>
         <source>Warning: %1 is deprecated and will be removed in the future</source>
-        <translation type="unfinished"></translation>
+        <translation>Upozorenje: %1 je zastarelo i biće uklonjeno u budućnosti</translation>
     </message>
     <message>
         <source>Please set a shortcut for &apos;Change to quick command mode&apos;, use that shortcut and enter &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavite prečicu za „Prebaci u režim brzih komandi“, koristite tu prečicu i unesite „%1“.</translation>
     </message>
     <message>
         <source>Please instead press %1 and enter &apos;%2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umesto toga pritisnite %1 i unesite „%2“.</translation>
     </message>
     <message>
         <source>%1 is now %2</source>
@@ -17059,11 +17122,11 @@ Opis: </translation>
     </message>
     <message>
         <source>an outcast</source>
-        <translation type="unfinished"></translation>
+        <translation>izopštenik</translation>
     </message>
     <message>
         <source>outcast</source>
-        <translation type="unfinished"></translation>
+        <translation>izopštenik</translation>
     </message>
     <message>
         <source>unaffiliated</source>
@@ -17103,34 +17166,34 @@ Opis: </translation>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n dan </numerusform>
+            <numerusform>%n dana </numerusform>
+            <numerusform>%n dana </numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s) </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n sat </numerusform>
+            <numerusform>%n sata </numerusform>
+            <numerusform>%n sati </numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n minut </numerusform>
+            <numerusform>%n minuta </numerusform>
+            <numerusform>%n minuta </numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n second(s) </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n sekund </numerusform>
+            <numerusform>%n sekunde </numerusform>
+            <numerusform>%n sekundi </numerusform>
         </translation>
     </message>
     <message>
@@ -17186,7 +17249,8 @@ Opis: </translation>
     <message>
         <source>Encrypting message to %1 failed.
 The message was not sent.</source>
-        <translation type="unfinished"></translation>
+        <translation>Šifrovanje poruke za %1 nije uspelo.
+Poruka nije poslata.</translation>
     </message>
     <message>
         <source>plaintext</source>
@@ -17211,24 +17275,26 @@ The message was not sent.</source>
     <message>
         <source>Failed to generate keys for account &quot;%1&quot;.
 The OTR Plugin will not work.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije uspelo generisanje ključeva za nalog „%1“.
+OTR priključak neće raditi.</translation>
     </message>
     <message>
         <source>&lt;b&gt;The following message received from %1 was &lt;i&gt;not&lt;/i&gt; encrypted:&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Sledeća poruka primljena od %1 &lt;i&gt;nije&lt;/i&gt; bila šifrovana:&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Your message was not sent. Either end your private conversation, or restart it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaša poruka nije poslata. Ili završite privatni razgovor ili ga ponovo pokrenite.</translation>
     </message>
     <message>
         <source>Received message is unreadable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Primljena poruka je nečitljiva.</translation>
     </message>
     <message>
         <source>You have received a new fingerprint from %1:
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Primili ste novi otisak od %1:
+%2</translation>
     </message>
     <message>
         <source>All Tags</source>
@@ -17240,7 +17306,11 @@ Size: %2
 Date prolongate: %3
 URL: %4
 Password: %5</source>
-        <translation type="unfinished"></translation>
+        <translation>Naziv: %1
+Veličina: %2
+Datum produženja: %3
+URL: %4
+Lozinka: %5</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -17272,11 +17342,11 @@ Password: %5</source>
     </message>
     <message>
         <source>There was an error changing the list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Došlo je do greške pri izmeni liste.</translation>
     </message>
     <message>
         <source>There was an error processing your request.</source>
-        <translation type="unfinished"></translation>
+        <translation>Došlo je do greške pri obradi zahteva.</translation>
     </message>
     <message>
         <source>Deny</source>
@@ -17308,23 +17378,23 @@ Password: %5</source>
     </message>
     <message>
         <source>Else %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Inače %1 %2</translation>
     </message>
     <message>
         <source>If JID is &apos;%1&apos; then %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Ako je JID „%1“, onda %2 %3</translation>
     </message>
     <message>
         <source>If Group is &apos;%1&apos; then %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Ako je grupa „%1“, onda %2 %3</translation>
     </message>
     <message>
         <source>If Subscription is &apos;%1&apos; then %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Ako je pretplata „%1“, onda %2 %3</translation>
     </message>
     <message>
         <source> is typing...</source>
-        <translation type="unfinished"></translation>
+        <translation> kuca...</translation>
     </message>
     <message>
         <source>%1 says:</source>
@@ -17332,7 +17402,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Headline from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Headline od %1</translation>
     </message>
     <message>
         <source>Incoming file from %1</source>
@@ -17368,7 +17438,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Typing notify</source>
-        <translation type="unfinished"></translation>
+        <translation>Obaveštenje o kucanju</translation>
     </message>
     <message>
         <source>Groupchat highlight</source>
@@ -17380,7 +17450,7 @@ Password: %5</source>
     </message>
     <message>
         <source>[Typing notify]</source>
-        <translation type="unfinished"></translation>
+        <translation>[Obaveštenje o kucanju]</translation>
     </message>
     <message>
         <source>[Incoming Message]</source>
@@ -17444,11 +17514,11 @@ Password: %5</source>
     </message>
     <message>
         <source>Extended Away</source>
-        <translation type="unfinished"></translation>
+        <translation>Produženo odsutan</translation>
     </message>
     <message>
         <source>Do Not Disturb</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne uznemiravaj</translation>
     </message>
     <message>
         <source>Priority</source>
@@ -17480,7 +17550,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Automatically go offline when idle</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatski pređi van mreže kada si neaktivan</translation>
     </message>
     <message>
         <source>Auto-authorize contacts</source>
@@ -17576,42 +17646,45 @@ Password: %5</source>
     </message>
     <message>
         <source>This computer only</source>
-        <translation type="unfinished"></translation>
+        <translation>Samo ovaj računar</translation>
     </message>
     <message>
         <source>Except this computer</source>
-        <translation type="unfinished"></translation>
+        <translation>Osim ovog računara</translation>
     </message>
     <message>
         <source>Keys have been generated. Fingerprint for account &quot;%1&quot;:
 %2
 
 Thanks for your patience.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ključevi su generisani. Otisak za nalog „%1“:
+%2
+
+Hvala na strpljenju.</translation>
     </message>
     <message>
         <source>%1 is now known as %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 je sada poznat kao %2</translation>
     </message>
     <message>
         <source>Any Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilo koji jezik</translation>
     </message>
     <message>
         <source>Not started</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije započeto</translation>
     </message>
     <message>
         <source>Prepare local offer</source>
-        <translation type="unfinished"></translation>
+        <translation>Pripremi lokalnu ponudu</translation>
     </message>
     <message>
         <source>IQ unacknowledged</source>
-        <translation type="unfinished"></translation>
+        <translation>IQ nije potvrđen</translation>
     </message>
     <message>
         <source>Waiting accept</source>
-        <translation type="unfinished"></translation>
+        <translation>Čeka se prihvatanje</translation>
     </message>
     <message>
         <source>Accepted</source>
@@ -17623,43 +17696,43 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Transferring</source>
-        <translation type="unfinished"></translation>
+        <translation>Prenos u toku</translation>
     </message>
     <message>
         <source>Open Files For Sharing</source>
-        <translation type="unfinished"></translation>
+        <translation>Otvori fajlove za deljenje</translation>
     </message>
     <message>
         <source>New OMEMO device has been discovered for &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otkriven je novi OMEMO uređaj za „%1“.</translation>
     </message>
     <message>
         <source>Do you want to trust this device and allow it to decrypt copies of your messages?</source>
-        <translation type="unfinished"></translation>
+        <translation>Želite li da verujete ovom uređaju i dozvolite mu da dešifruje kopije vaših poruka?</translation>
     </message>
     <message>
         <source>Do you want to trust this device and allow it to receive the encrypted messages from you?</source>
-        <translation type="unfinished"></translation>
+        <translation>Želite li da verujete ovom uređaju i dozvolite mu da prima vaše šifrovane poruke?</translation>
     </message>
     <message>
         <source>Device public key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Javni ključ uređaja:</translation>
     </message>
     <message>
         <source>Managing of OMEMO keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravljanje OMEMO ključevima</translation>
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished"></translation>
+        <translation>Veruj</translation>
     </message>
     <message>
         <source>Delete selected device from list of known devices of user &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrisati izabrani uređaj sa liste poznatih uređaja korisnika „%1“?</translation>
     </message>
     <message>
         <source>Confirm action</source>
-        <translation type="unfinished"></translation>
+        <translation>Potvrdi radnju</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -17671,15 +17744,15 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>verified</source>
-        <translation type="unfinished"></translation>
+        <translation>provereno</translation>
     </message>
     <message>
         <source>Do not trust</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne veruj</translation>
     </message>
     <message>
         <source>Multimedia</source>
-        <translation type="unfinished"></translation>
+        <translation>Multimedija</translation>
     </message>
     <message>
         <source>Audio and video device configuration</source>
@@ -17687,111 +17760,111 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>The OTR profile could not be loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>OTR profil nije mogao biti učitan.</translation>
     </message>
     <message>
         <source>Cannot initialize OTR for this account: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće inicijalizovati OTR za ovaj nalog: %1</translation>
     </message>
     <message>
         <source>Cannot save OTR fingerprint: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće sačuvati OTR otisak: %1</translation>
     </message>
     <message>
         <source>Remote OTR protocol error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Greška udaljenog OTR protokola.</translation>
     </message>
     <message>
         <source>Received message contains malformed OTR data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Primljena poruka sadrži neispravne OTR podatke.</translation>
     </message>
     <message>
         <source>Cannot update OTR fingerprint trust: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće ažurirati poverenje OTR otiska: %1</translation>
     </message>
     <message>
         <source>Cannot delete OTR fingerprint: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće obrisati OTR otisak: %1</translation>
     </message>
     <message>
         <source>Cannot delete OTR private key: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće obrisati OTR tajni ključ: %1</translation>
     </message>
     <message>
         <source>Could not start an OTR session.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće pokrenuti OTR sesiju.</translation>
     </message>
     <message>
         <source>OTR encryption session was cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>OTR sesija šifrovanja je otkazana</translation>
     </message>
     <message>
         <source>OTR requires a recipient</source>
-        <translation type="unfinished"></translation>
+        <translation>OTR zahteva primaoca</translation>
     </message>
     <message>
         <source>The OTR session with %1 is not established yet</source>
-        <translation type="unfinished"></translation>
+        <translation>OTR sesija sa %1 još nije uspostavljena</translation>
     </message>
     <message>
         <source>Could not encrypt the message with OTR</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće šifrovati poruku pomoću OTR-a</translation>
     </message>
     <message>
         <source>OTR decryption session was cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>OTR sesija dešifrovanja je otkazana</translation>
     </message>
     <message>
         <source>The stanza was not a valid OTR message</source>
-        <translation type="unfinished"></translation>
+        <translation>Stanca nije bila važeća OTR poruka</translation>
     </message>
     <message>
         <source>OTR</source>
-        <translation type="unfinished"></translation>
+        <translation>OTR</translation>
     </message>
     <message>
         <source>Distrusted</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepouzdan</translation>
     </message>
     <message>
         <source>Undecided</source>
-        <translation type="unfinished"></translation>
+        <translation>Neodlučeno</translation>
     </message>
     <message>
         <source>Trusted</source>
-        <translation type="unfinished"></translation>
+        <translation>Pouzdan</translation>
     </message>
     <message>
         <source>Legacy</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastarelo</translation>
     </message>
     <message>
         <source>OMEMO 2</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO 2</translation>
     </message>
     <message>
         <source>Legacy OMEMO</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastareli OMEMO</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepoznato</translation>
     </message>
     <message>
         <source>Save file</source>
-        <translation type="unfinished"></translation>
+        <translation>Sačuvaj fajl</translation>
     </message>
     <message>
         <source>No download source</source>
-        <translation type="unfinished"></translation>
+        <translation>Nema izvora za preuzimanje</translation>
     </message>
     <message>
         <source>Transferring, end-to-end encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>Prenos u toku, šifrovano od kraja do kraja</translation>
     </message>
     <message>
         <source>Finishing</source>
-        <translation type="unfinished"></translation>
+        <translation>Završavanje</translation>
     </message>
     <message>
         <source>Done</source>
@@ -17799,23 +17872,23 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Neuspešno</translation>
     </message>
     <message>
         <source>Native message layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Ugrađeni raspored poruka</translation>
     </message>
     <message>
         <source>%1 invites you to a whiteboard</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 vas poziva na belu tablu</translation>
     </message>
     <message>
         <source>Downloading: %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Preuzimanje: %1%</translation>
     </message>
     <message>
         <source>Downloading…</source>
-        <translation type="unfinished"></translation>
+        <translation>Preuzimanje…</translation>
     </message>
 </context>
 <context>
@@ -17834,11 +17907,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ovaj priključak je namenjen prikazivanju x-statusa kontakata koji koriste QIP Infium jabber klijent.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#qip_x-statuses_plugin&quot;&gt;Viki (na mreži)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -17853,7 +17926,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Redirects all incoming messages to some jid and allows one to redirect messages back.</source>
-        <translation type="unfinished"></translation>
+        <translation>Preusmerava sve dolazne poruke na neki JID i omogućava preusmeravanje poruka natrag.</translation>
     </message>
 </context>
 <context>
@@ -17930,10 +18003,13 @@ Razlog: %1</translation>
     <message numerus="yes">
         <source>celebrates birthday in %n day(s)
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>slavi rođendan za %n dan
+</numerusform>
+            <numerusform>slavi rođendan za %n dana
+</numerusform>
+            <numerusform>slavi rođendan za %n dana
+</numerusform>
         </translation>
     </message>
     <message>
@@ -17965,7 +18041,8 @@ Razlog: %1</translation>
     <message>
         <source>This plugin is designed to show reminders of upcoming birthdays.
 The first time you install this plugin, you need to log on to all of your accounts, go to the plugin settings and click &quot;Update Birthdays&quot;.The plugin will then collect the information about the birthdays of all the users in your roster, but when the &apos;Use vCards cache&apos; option isselected, the users&apos; vCards that are cached on your hard disk will be used. </source>
-        <translation type="unfinished"></translation>
+        <translation>Ovaj priključak je namenjen prikazivanju podsetnika na predstojeće rođendane.
+Kada prvi put instalirate ovaj priključak, potrebno je da se prijavite na sve svoje naloge, otvorite podešavanja priključka i kliknete na „Ažuriraj rođendane“. Priključak će zatim prikupiti informacije o rođendanima svih korisnika sa vašeg spiska, ali kada je opcija „Koristi keš vKartica“ izabrana, koristiće se vKartice korisnika keširane na vašem hard disku. </translation>
     </message>
 </context>
 <context>
@@ -18031,23 +18108,23 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>ScreenShareCapture</name>
     <message>
         <source>Choose what to share</source>
-        <translation type="unfinished"></translation>
+        <translation>Izaberite šta da podelite</translation>
     </message>
     <message>
         <source>Share a display or a single window</source>
-        <translation type="unfinished"></translation>
+        <translation>Podeli ekran ili jedan prozor</translation>
     </message>
     <message>
         <source>Displays</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekrani</translation>
     </message>
     <message>
         <source>Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Prozori</translation>
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation>Podeli</translation>
     </message>
 </context>
 <context>
@@ -18174,7 +18251,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Can&apos;t parse URL (Reply URL: &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće parsirati URL (URL odgovora: &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;)</translation>
     </message>
     <message>
         <source>Close Screenshot</source>
@@ -18240,7 +18317,9 @@ Adresa FTP servera određena kao ftp://ftp.domain.tld/path1/path2</translation>
         <source>
 
 Settings for authorization on some hostings can be found here: http://code.google.com/p/qscreenshot/wiki/Authorization</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Podešavanja za autorizaciju na nekim hosting servisima mogu se naći ovde: http://code.google.com/p/qscreenshot/wiki/Authorization</translation>
     </message>
 </context>
 <context>
@@ -18255,7 +18334,7 @@ Settings for authorization on some hostings can be found here: http://code.googl
     </message>
     <message>
         <source>Instructions go here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uputstva idu ovde.</translation>
     </message>
     <message>
         <source>&amp;Search</source>
@@ -18350,10 +18429,10 @@ Razlog: %1</translation>
     </message>
     <message numerus="yes">
         <source>Added %n users to your roster.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Dodat je %n korisnik na vaš spisak.</numerusform>
+            <numerusform>Dodata su %n korisnika na vaš spisak.</numerusform>
+            <numerusform>Dodato je %n korisnika na vaš spisak.</numerusform>
         </translation>
     </message>
     <message>
@@ -18497,7 +18576,7 @@ Razlog: %1</translation>
     <name>ServerListQuerier</name>
     <message>
         <source>Unable to parse server list</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće parsirati listu servera</translation>
     </message>
     <message>
         <source>Invalid redirect URL %1</source>
@@ -18505,15 +18584,15 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Unexpected HTTP status code: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Neočekivani HTTP statusni kod: %1</translation>
     </message>
     <message>
         <source>Failed to parse json.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije uspelo parsiranje JSON-a.</translation>
     </message>
     <message>
         <source>Failed to parse any valid server JIDs from %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije uspelo parsiranje nijednog važećeg serverskog JID-a iz %1.</translation>
     </message>
 </context>
 <context>
@@ -18604,7 +18683,7 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Show Self</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži sebe</translation>
     </message>
     <message>
         <source>Show Status Message</source>
@@ -18724,7 +18803,7 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>QCA key store diag</source>
-        <translation type="unfinished"></translation>
+        <translation>Dijagnostika QCA skladišta ključeva</translation>
     </message>
     <message>
         <source>Shortcuts in the chat dialog</source>
@@ -18780,7 +18859,7 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Change case of letters in the chat edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Promeni veličinu slova u polju za unos razgovora</translation>
     </message>
     <message>
         <source>Minimize active chat window</source>
@@ -18820,7 +18899,7 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Log on to the selected transport</source>
-        <translation type="unfinished"></translation>
+        <translation>Prijavi se na izabrani transport</translation>
     </message>
     <message>
         <source>Common actions</source>
@@ -18852,7 +18931,7 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Shortcuts available from outside of the application</source>
-        <translation type="unfinished"></translation>
+        <translation>Prečice dostupne izvan aplikacije</translation>
     </message>
     <message>
         <source>Show/hide the application</source>
@@ -18892,11 +18971,11 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Shortcuts in the history dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Prečice u dijalogu istorije</translation>
     </message>
     <message>
         <source>Set chat topic</source>
-        <translation type="unfinished"></translation>
+        <translation>Postavi temu razgovora</translation>
     </message>
 </context>
 <context>
@@ -18992,7 +19071,7 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Overwrite selected skin with the current settings </source>
-        <translation type="unfinished"></translation>
+        <translation>Prepiši izabranu temu trenutnim podešavanjima </translation>
     </message>
     <message>
         <source>Save</source>
@@ -19008,7 +19087,7 @@ Razlog: %1</translation>
     </message>
     <message>
         <source>Backup skin before applying</source>
-        <translation type="unfinished"></translation>
+        <translation>Napravi rezervnu kopiju teme pre primene</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -19084,11 +19163,19 @@ In most cases, to be sure that the skin is applied correctly, you must perform a
 2. Restart the application
 3. Apply the same skin again
 This allows all settings (icons, toolbar layout) to be picked up correctly. </source>
-        <translation type="unfinished"></translation>
+        <translation>Ovaj priključak je namenjen pravljenju, čuvanju i primeni tema na Psi.
+Tema – skup prilagođenih podešavanja.
+Da biste preuzeli novu temu, napravite fasciklu pod nazivom skins u direktorijumu PsiData i stavite novu temu u nju. Takođe možete jednostavno otvoriti fajl teme.
+Svaka tema mora biti u odvojenoj fascikli. U fajl teme možete dodati i snimak ekrana.
+U većini slučajeva, da biste bili sigurni da je tema ispravno primenjena, potrebno je da izvršite sledeći niz radnji:
+1. Primenite temu
+2. Restartujte aplikaciju
+3. Ponovo primenite istu temu
+Time se sva podešavanja (ikonice, raspored trake sa alatkama) ispravno preuzimaju. </translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#skins_plugin&quot;&gt;Viki (na mreži)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -19195,7 +19282,7 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     <name>StopSpam</name>
     <message>
         <source>Block stanza from </source>
-        <translation type="unfinished"></translation>
+        <translation>Blokiraj stancu od </translation>
     </message>
     <message>
         <source>Stop Spam Plugin</source>
@@ -19203,7 +19290,7 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     </message>
     <message>
         <source> pass the test</source>
-        <translation type="unfinished"></translation>
+        <translation> prošao test</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -19233,7 +19320,25 @@ When a user has passed, the test will send a re-authorization request. It should
 The plugin keeps a log of blocked messages, which you can view through the plugin settings. The &quot;Reset&quot; button deletes the log and resets the counter of blocked messages.
 
 WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ovaj priključak je namenjen blokiranju spam poruka i drugih neželjenih informacija od Psi korisnika. Funkcionalnost priključka zasniva se na principu „pitanje – odgovor“.
+Pomoću podešavanja priključka možete:
+* Definisati bezbednosno pitanje i odgovor
+* Definisati skup pravila koja određuju da li da se priključak aktivira za kontakt
+* Definisati tekst poruka koje se šalju u slučaju tačnog odgovora
+* Omogućiti obaveštavanje putem iskačućih prozora
+* Omogućiti čuvanje blokiranih poruka u istoriji kontakta
+* Definisati broj poslatih pitanja
+* Postaviti vremenski interval posle kojeg se resetuje broj poslatih pitanja
+* Omogućiti blokiranje privatnih poruka u grupnim razgovorima
+* Izabrati za koje rangove i uloge učesnika grupnog razgovora će blokiranje poruka biti onemogućeno
+* Omogućiti blokiranje privatnih poruka učesnicima koji ne spadaju u izuzetke za rangove i uloge koji uključuju blokiranje.
+
+Pravila se proveravaju odozgo nadole. Ako je pravilo omogućeno – stopspam se aktivira, u suprotnom se ne aktivira. U slučaju kada nijedno pravilo nije aktiviralo stopspam za poruke sa spiska, možete navesti da li će se priključak aktivirati ili ne. Za privatne poruke iz istog grupnog razgovora uvek će raditi.
+Pitanje i odgovor, kao i lista pravila, zajednički su za obične poruke i privatne poruke u grupnim razgovorima.
+Kada korisnik prođe test, biće poslat zahtev za ponovnu autorizaciju. U porukama koje se šalju nazad treba napomenuti da je bezbednosno pitanje tačno odgovoreno.
+Priključak vodi dnevnik blokiranih poruka koji možete pregledati u podešavanjima priključka. Dugme „Resetuj“ briše dnevnik i resetuje brojač blokiranih poruka.
+
+UPOZORENJE!!! Pre registracije novog transporta preporučuje se da dodate njegov JID u izuzetke transporta. To je zato što će se posle registracije transporta slati zahtevi za autorizaciju za sve kontakte, a ako transport nije dodat kao izuzetak, priključak će blokirati sve zahteve.</translation>
     </message>
 </context>
 <context>
@@ -19244,7 +19349,7 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Razlikuj velika i mala slova</translation>
     </message>
     <message>
         <source>First page</source>
@@ -19285,11 +19390,13 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the XMPP server with the ability to access them from anywhere using Psi or Miranda IM.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ovaj priključak je implementacija XEP-0049: Private XML Storage.
+Priključak je potpuno kompatibilan sa beleškama sačuvanim pomoću Miranda IM-a.
+Priključak je namenjen čuvanju beleški na XMPP serveru sa mogućnošću pristupa sa bilo kog mesta pomoću Psi-ja ili Miranda IM-a.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#storage_notes_plugin&quot;&gt;Viki (na mreži)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -19336,7 +19443,7 @@ The plugin is designed to keep notes on the XMPP server with the ability to acce
     </message>
     <message>
         <source>Use for New Mucs</source>
-        <translation type="unfinished"></translation>
+        <translation>Koristi za nove MUC-ove</translation>
     </message>
     <message>
         <source>%1 Conversations</source>
@@ -19344,15 +19451,15 @@ The plugin is designed to keep notes on the XMPP server with the ability to acce
     </message>
     <message>
         <source> is composing</source>
-        <translation type="unfinished"></translation>
+        <translation> kuca</translation>
     </message>
     <message>
         <source>Unpin Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Otkači karticu</translation>
     </message>
     <message>
         <source>Pin Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakači karticu</translation>
     </message>
     <message>
         <source>%1 (Inactive)</source>
@@ -19363,7 +19470,7 @@ The plugin is designed to keep notes on the XMPP server with the ability to acce
     <name>TaskBarNotifier::Private</name>
     <message>
         <source>Quit %1 application</source>
-        <translation type="unfinished"></translation>
+        <translation>Napusti aplikaciju %1</translation>
     </message>
 </context>
 <context>
@@ -19390,7 +19497,15 @@ Currently supports:
   XEP-0025
 
 Copyright (C) 2003 Justin Karneges</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 v1.0
+
+Alat za demonstraciju Iris XMPP biblioteke.
+
+Trenutno podržava:
+  draft-ietf-xmpp-core-21
+  XEP-0025
+
+Copyright (C) 2003 Justin Karneges</translation>
     </message>
     <message>
         <source>Error</source>
@@ -19406,7 +19521,7 @@ Copyright (C) 2003 Justin Karneges</source>
     </message>
     <message>
         <source>You must at least enter a URL to use http poll.</source>
-        <translation type="unfinished"></translation>
+        <translation>Morate uneti barem URL da biste koristili http poll.</translation>
     </message>
     <message>
         <source>Please enter the proxy host in the form &apos;host:port&apos;.</source>
@@ -19414,15 +19529,15 @@ Copyright (C) 2003 Justin Karneges</source>
     </message>
     <message>
         <source>Please enter the host in the form &apos;host:port&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Unesite host u obliku „host:port“.</translation>
     </message>
     <message>
         <source>Error: SSF Min is greater than SSF Max.</source>
-        <translation type="unfinished"></translation>
+        <translation>Greška: SSF Min je veći od SSF Max.</translation>
     </message>
     <message>
         <source>Error: TLS not available.  Disable any TLS options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Greška: TLS nije dostupan. Onemogućite sve TLS opcije.</translation>
     </message>
     <message>
         <source>&amp;Disconnect</source>
@@ -19431,15 +19546,16 @@ Copyright (C) 2003 Justin Karneges</source>
     <message>
         <source>Bad XML input (%1,%2): %3
 Please correct and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neispravan XML ulaz (%1,%2): %3
+Ispravite i pokušajte ponovo.</translation>
     </message>
     <message>
         <source>Bad Stanza &apos;%1&apos;.  Must be &apos;message&apos;, &apos;presence&apos;, or &apos;iq&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Neispravna stanca „%1“. Mora biti „message“, „presence“ ili „iq“</translation>
     </message>
     <message>
         <source>You must enter at least one stanza!</source>
-        <translation type="unfinished"></translation>
+        <translation>Morate uneti barem jednu stancu!</translation>
     </message>
     <message>
         <source>Password</source>
@@ -19502,7 +19618,7 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>Legacy SSL probe</source>
-        <translation type="unfinished"></translation>
+        <translation>Proba zastarelog SSL-a</translation>
     </message>
     <message>
         <source>Proxy:</source>
@@ -19589,11 +19705,11 @@ Please correct and try again.</source>
     <name>TicTacToe</name>
     <message>
         <source>Opponent starts</source>
-        <translation type="unfinished"></translation>
+        <translation>Protivnik počinje</translation>
     </message>
     <message>
         <source>You start</source>
-        <translation type="unfinished"></translation>
+        <translation>Vi počinjete</translation>
     </message>
     <message>
         <source>Play!</source>
@@ -19605,27 +19721,27 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>Click Play to start</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknite na Igraj da biste počeli</translation>
     </message>
     <message>
         <source>Make your move</source>
-        <translation type="unfinished"></translation>
+        <translation>Napravite potez</translation>
     </message>
     <message>
         <source>Waiting for other player</source>
-        <translation type="unfinished"></translation>
+        <translation>Čeka se drugi igrač</translation>
     </message>
     <message>
         <source>You won!</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobedili ste!</translation>
     </message>
     <message>
         <source>Opponent won!</source>
-        <translation type="unfinished"></translation>
+        <translation>Protivnik je pobedio!</translation>
     </message>
     <message>
         <source>It&apos;s a draw</source>
-        <translation type="unfinished"></translation>
+        <translation>Nerešeno je</translation>
     </message>
 </context>
 <context>
@@ -19679,7 +19795,7 @@ Please correct and try again.</source>
     <name>TipDlg</name>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Možete izabrati više setova ikonica sa emotikonima i dodeliti im prioritete pomoću dijaloga opcija.</translation>
     </message>
     <message>
         <source>You can use multiple useful shortcuts while typing chat messages:&lt;br&gt;
@@ -19691,7 +19807,15 @@ Please correct and try again.</source>
 &lt;li&gt;Ctrl+U to clear edit buffer&lt;/li&gt;
 &lt;li&gt;Ctrl+PgUp/PgDn to scroll chat view&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Možete koristiti više korisnih prečica dok kucate poruke u razgovoru:&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;Ctrl+Enter za slanje poruke&lt;/li&gt;
+&lt;li&gt;Ctrl+M za dodavanje novog reda&lt;/li&gt;
+&lt;li&gt;Ctrl+H za prikaz dijaloga istorije poruka&lt;/li&gt;
+&lt;li&gt;Alt+S za slanje poruke&lt;/li&gt;
+&lt;li&gt;Ctrl+U za brisanje sadržaja polja za unos&lt;/li&gt;
+&lt;li&gt;Ctrl+PgUp/PgDn za pomeranje prikaza razgovora&lt;/li&gt;
+&lt;/ul&gt;</translation>
     </message>
     <message>
         <source>You can type these special commands in chat and groupchat dialogs:
@@ -19703,49 +19827,59 @@ And these work only in groupchat dialog:
 &lt;ul&gt;
 &lt;li&gt;&quot;/nick &amp;lt;new_nickname&amp;gt;&quot; to change your nickname&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>U razgovoru i grupnom razgovoru možete kucati sledeće posebne komande:
+&lt;ul&gt;
+&lt;li&gt;„/clear“ za brisanje prikaza razgovora&lt;/li&gt;
+&lt;li&gt;„/me &amp;lt;poruka&amp;gt;“ – „/me“ se zamenjuje vašim nadimkom&lt;/li&gt;
+&lt;/ul&gt;
+A sledeće rade samo u grupnom razgovoru:
+&lt;ul&gt;
+&lt;li&gt;„/nick &amp;lt;novi_nadimak&amp;gt;“ za promenu nadimka&lt;/li&gt;
+&lt;/ul&gt;</translation>
     </message>
     <message>
         <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Da li ste znali da možete registrovati više XMPP naloga u Psi-ju? Ako želite da odvojite poslovni od ličnog naloga, možete to učiniti. Ako ste napredni korisnik koji želi da testira najnovije XMPP mogućnosti na nestabilnom serveru, možete i to – bez pokretanja drugog klijenta za povezivanje na stabilan server. Samo kliknite na Dodaj u ekranu za podešavanje naloga.</translation>
     </message>
     <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
-        <translation type="unfinished"></translation>
+        <translation>Da li ste znali da u dijalogu za podešavanje naloga možete koristiti polja za potvrdu da biste omogućili/onemogućili naloge? To može biti korisno za nalog koji retko koristite, pa vam neće zatrpavati spisak.</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne sviđa vam se gde su dugmad? Želite prečicu za promenu statusa u „Odsutan“? Pogledajte prozor za podešavanje traka sa alatkama, dostupan iz kontekstnog menija traka sa alatkama. Čak možete napraviti i plutajuću traku sa alatkama!</translation>
     </message>
     <message>
         <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Da li ste znali da je Psi jedan od retkih XMPP klijenata koji vam omogućava da se povežete na više servera istovremeno? Prijatelji vas mogu znati kao „mrcool@jabber.org“, a poslovni saradnici kao „John.J.Smith_the_fourth@mycompany.com“.</translation>
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
-        <translation type="unfinished"></translation>
+        <translation>Prešli ste sa Gadu-Gadu ili Trillian-a i nedostaju vam kul emotikoni? Ne brinite, pokriveni ste! Pogledajte &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; za mnoštvo „setova ikonica“ koje možete dodati u Psi da biste ga prilagodili po svom ukusu!</translation>
     </message>
     <message>
         <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will &quot;perform the default action&quot; on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
-        <translation type="unfinished"></translation>
+        <translation>Da li ste znali da srednji klik (srednje dugme miša na mišu sa 3 dugmeta) „izvršava podrazumevanu radnju“ na mnogim objektima u Psi-ju? Probajte srednji klik na kontakt ili iskačući prozor.</translation>
     </message>
     <message>
         <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation type="unfinished"></translation>
+        <translation>Da biste dodali kontakte sa različitih IM mreža, potrebno je da dodate odgovarajući agent sa vašeg XMPP servera. Pogledajte Psi meni -&gt; Otkrivanje usluga.</translation>
     </message>
     <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Možete kliknuti desnim dugmetom na naziv servera na vašem spisku da biste izvršili razne radnje. Možete promeniti status, izmeniti podešavanja naloga, izvršiti administrativne opcije (ako imate dozvolu) i još mnogo toga.</translation>
     </message>
     <message>
         <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
 &lt;br&gt;&lt;br&gt;
 Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tražite transport ili sobu za razgovor, ali vaš server ne pruža ništa odgovarajuće? Koristite Psi meni -&gt; Otkrivanje usluga da biste potražili lepe usluge na &lt;i&gt;bilo kom&lt;/i&gt; XMPP serveru tako što ćete uneti njegov domen u polje za adresu.
+&lt;br&gt;&lt;br&gt;
+Napomena: Neki serveri mogu onemogućiti registraciju transporta za korisnike sa drugih servera, ali to još nije uobičajeno.</translation>
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ako često razgovarate u grupnim razgovorima, dovršavanje nadimaka je neprocenjiva funkcija. Najkorisnija prečica je &lt;tt&gt;Tab-Tab&lt;/tt&gt;; kada se koristi na početku novog reda ili posle razmaka, umeće nadimak osobe koja vam se poslednja direktno obratila. Zatim možete nastaviti da pritiskate &lt;tt&gt;Tab&lt;/tt&gt; i on će kružiti kroz nadimke svih ljudi u sobi.&lt;br/&gt;&lt;br/&gt;Za složeniji scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; i &lt;tt&gt;mbl-revolution&lt;/tt&gt; sede u istoj sobi. Ako napišete &lt;tt&gt;m&lt;/tt&gt; i pritisnete &lt;tt&gt;Tab&lt;/tt&gt;, neće se desiti ništa primetno. To je zato što više nadimaka počinje sa &lt;tt&gt;m&lt;/tt&gt;, pa možete ili nastaviti da pritiskate &lt;tt&gt;Tab&lt;/tt&gt; da biste kružili kroz sve nadimke koji počinju sa &lt;tt&gt;m&lt;/tt&gt;, ili napisati još slova dok dovršavanje ne bude jedinstveno. Kada pritisnete dugme &lt;tt&gt;b&lt;/tt&gt;, a zatim &lt;tt&gt;Tab&lt;/tt&gt;, dovršiće se na &lt;tt&gt;mbl&lt;/tt&gt;. Što više koristite ovu funkciju, verovatnije je da će vam se dopasti i da ćete se na nju osloniti. Probajte dovršavanje nadimaka na nekome i shvatićete koliko je moćno.</translation>
     </message>
     <message>
         <source>Contributed by</source>
@@ -19757,16 +19891,21 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Zdravo! Hvala što ste preuzeli Psi!
+Nadamo se da ćete uživati u njegovom korišćenju kao što smo mi uživali u njegovom pravljenju!
+&lt;br&gt;&lt;br&gt;Ako želite da preuzmete drugi prevod, set ikonica ili novu verziju Psi-ja, posetite &lt;a href=&quot;https://psi-im.org&quot;&gt;početnu stranicu Psi-ja&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;Ako mislite da ste pronašli grešku ili jednostavno želite da razgovarate sa drugim Psi korisnicima, posetite &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi forume&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;Psi tim&lt;/i&gt;&lt;/div&gt;</translation>
     </message>
     <message>
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ovo je poslednji savet.
+&lt;br&gt;&lt;br&gt;Ako želite da doprinesete sopstvenim „savetom dana“, objavite ga na &lt;a href=&quot;https://groups.google.com/g/psi-users?pli=1&quot;&gt;Psi forumima&lt;/a&gt; (ili ga pošaljite e-poštom nekom od programera), i biće nam zadovoljstvo da ga uključimo u sledeće izdanje.</translation>
     </message>
     <message>
         <source>Do you chat on third-party IM networks such as Telegram and WhatsApp?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Da li razgovarate na IM mrežama trećih strana kao što su Telegram i WhatsApp? Probajte da omogućite opciju „ikonice specifične za transport“. To će vam omogućiti da na prvi pogled vidite koju mrežu vaš prijatelj koristi. Zatim ga možete ubediti da pređe na XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</translation>
     </message>
 </context>
 <context>
@@ -19857,7 +19996,8 @@ We hope that you will enjoy using it as we have enjoyed making it!
     <message>
         <source>This plugin allows you to convert selected text into another language.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Ovaj priključak vam omogućava da prevedete izabrani tekst na drugi jezik.
+</translation>
     </message>
 </context>
 <context>
@@ -19871,7 +20011,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
     <name>TypeAheadFindBar</name>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Razlikuj velika i mala slova</translation>
     </message>
     <message>
         <source>Search</source>
@@ -19978,7 +20118,21 @@ To work with Kaffeine player you must have player version (&gt;= 1.0), additiona
 To work with GNOME MPlayer additional configuration is not needed;
 
 To work with Parole player you need to enable MPRIS2 module/plugin.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ovaj priključak je namenjen postavljanju prilagođenog statusa kada gledate video u izabranim video plejerima.
+Napomena: Ovaj priključak je namenjen radu na operativnim sistemima iz Linux porodice i na Windows OS-u.
+
+U Linuxu priključak koristi DBUS za rad sa video plejerima i X11 funkcije za otkrivanje aplikacija na celom ekranu (ne radi sa Wayland-om).
+U Windowsu priključak koristi WinAPI funkcije za otkrivanje aplikacija na celom ekranu.
+
+Za rad sa Totem plejerom potrebno je omogućiti odgovarajući priključak u tom plejeru (Edit\Plugins\D-Bus);
+
+Za rad sa VLC plejerom potrebno je omogućiti opciju „Control Interface D-Bus“ na kartici Napredna podešavanja u odeljku „Interface\Control Interface“ podešavanja plejera;
+
+Za rad sa Kaffeine plejerom morate imati verziju plejera (&gt;= 1.0), dodatna konfiguracija nije potrebna;
+
+Za rad sa GNOME MPlayer-om dodatna konfiguracija nije potrebna;
+
+Za rad sa Parole plejerom potrebno je omogućiti MPRIS2 modul/priključak.</translation>
     </message>
 </context>
 <context>
@@ -20017,7 +20171,7 @@ To work with Parole player you need to enable MPRIS2 module/plugin.</source>
     </message>
     <message>
         <source>New messages has been added to log. If you save your changes, you will lose them</source>
-        <translation type="unfinished"></translation>
+        <translation>Dnevniku su dodate nove poruke. Ako sačuvate izmene, izgubićete ih</translation>
     </message>
     <message>
         <source>Do you want to save your changes?</source>
@@ -20111,7 +20265,7 @@ To work with Parole player you need to enable MPRIS2 module/plugin.</source>
     </message>
     <message>
         <source>New messages has been added to log. If you save your changes, you will lose them</source>
-        <translation type="unfinished"></translation>
+        <translation>Dnevniku su dodate nove poruke. Ako sačuvate izmene, izgubićete ih</translation>
     </message>
     <message>
         <source>Do you want to save your changes?</source>
@@ -20146,7 +20300,7 @@ To work with Parole player you need to enable MPRIS2 module/plugin.</source>
     </message>
     <message>
         <source>Hang Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Prekini poziv</translation>
     </message>
 </context>
 <context>
@@ -20169,7 +20323,7 @@ To work with Parole player you need to enable MPRIS2 module/plugin.</source>
     </message>
     <message>
         <source>Hanging up</source>
-        <translation type="unfinished"></translation>
+        <translation>Prekidanje poziva</translation>
     </message>
     <message>
         <source>Accepted</source>
@@ -20204,7 +20358,7 @@ To work with Parole player you need to enable MPRIS2 module/plugin.</source>
     </message>
     <message>
         <source>Don&apos;t watch for JID</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne prati JID</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -20220,11 +20374,11 @@ To work with Parole player you need to enable MPRIS2 module/plugin.</source>
     </message>
     <message>
         <source>Watcher Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Priključak za praćenje</translation>
     </message>
     <message>
         <source>Watch for JID</source>
-        <translation type="unfinished"></translation>
+        <translation>Prati JID</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -20237,7 +20391,8 @@ To work with Parole player you need to enable MPRIS2 module/plugin.</source>
     <message>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
 On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
-        <translation type="unfinished"></translation>
+        <translation>Ovaj priključak je namenjen praćenju statusa određenih kontakata sa spiska, kao i zameni standardnih zvukova dolaznih poruka.
+Na prvoj kartici podesite listu kontakata čiji se status prati. Kada se status takvog kontakta promeni, biće prikazan iskačući prozor, a kada se status promeni u „dostupan“, može se pustiti prilagođeni zvuk. Na drugoj kartici podešava se lista stavki čije se poruke prate. Svaka stavka može sadržati regularni izraz za proveru podudaranja sa JID-om sa kojeg poruka dolazi, listu regularnih izraza za proveru podudaranja sa tekstom dolazne poruke, putanju do zvučnog fajla koji će se pustiti u slučaju podudaranja, kao i podešavanje da li se zvuk pušta uvek, čak i kada su globalni zvuci isključeni. </translation>
     </message>
 </context>
 <context>
@@ -20331,19 +20486,19 @@ On the first tab set up a list of contacts for the status of which is monitored.
     <name>WbItem</name>
     <message>
         <source>Bring forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomeri napred</translation>
     </message>
     <message>
         <source>Bring to front</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomeri na prednju stranu</translation>
     </message>
     <message>
         <source>Send backwards</source>
-        <translation type="unfinished"></translation>
+        <translation>Pošalji nazad</translation>
     </message>
     <message>
         <source>Send to back</source>
-        <translation type="unfinished"></translation>
+        <translation>Pošalji na zadnju stranu</translation>
     </message>
     <message>
         <source>Group</source>
@@ -20351,7 +20506,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Ungroup</source>
-        <translation type="unfinished"></translation>
+        <translation>Razgrupiši</translation>
     </message>
 </context>
 <context>
@@ -20370,23 +20525,23 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Answered on another device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odgovoreno na drugom uređaju.</translation>
     </message>
     <message>
         <source>Declined on another device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odbijeno na drugom uređaju.</translation>
     </message>
     <message>
         <source>The whiteboard invitation was declined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziv na belu tablu je odbijen.</translation>
     </message>
     <message>
         <source>The whiteboard invitation was withdrawn.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziv na belu tablu je povučen.</translation>
     </message>
     <message>
         <source>The whiteboard session has ended.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sesija bele table je završena.</translation>
     </message>
 </context>
 <context>
@@ -20397,7 +20552,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Save the contents of the whiteboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Sačuvaj sadržaj bele table</translation>
     </message>
     <message>
         <source>Change the geometry</source>
@@ -20405,15 +20560,15 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Clear the whiteboard for everyone</source>
-        <translation type="unfinished"></translation>
+        <translation>Obriši belu tablu za sve</translation>
     </message>
     <message>
         <source>Clear the whiteboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Obriši belu tablu</translation>
     </message>
     <message>
         <source>Stroke color</source>
-        <translation type="unfinished"></translation>
+        <translation>Boja poteza</translation>
     </message>
     <message>
         <source>Fill color</source>
@@ -20421,7 +20576,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Stroke width</source>
-        <translation type="unfinished"></translation>
+        <translation>Debljina poteza</translation>
     </message>
     <message>
         <source>Edit mode</source>
@@ -20429,23 +20584,23 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Import SVG</source>
-        <translation type="unfinished"></translation>
+        <translation>Uvezi SVG</translation>
     </message>
     <message>
         <source>Add the drawing of an SVG file</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj crtež iz SVG fajla</translation>
     </message>
     <message>
         <source>Thin stroke</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanak potez</translation>
     </message>
     <message>
         <source>Medium stroke</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednji potez</translation>
     </message>
     <message>
         <source>Thick stroke</source>
-        <translation type="unfinished"></translation>
+        <translation>Debeli potez</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
@@ -20461,23 +20616,23 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Draw lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Crtaj linije</translation>
     </message>
     <message>
         <source>Draw rectangles</source>
-        <translation type="unfinished"></translation>
+        <translation>Crtaj pravougaonike</translation>
     </message>
     <message>
         <source>Draw ellipses</source>
-        <translation type="unfinished"></translation>
+        <translation>Crtaj elipse</translation>
     </message>
     <message>
         <source>Draw rhombuses</source>
-        <translation type="unfinished"></translation>
+        <translation>Crtaj rombove</translation>
     </message>
     <message>
         <source>Add text</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj tekst</translation>
     </message>
     <message>
         <source>Add images</source>
@@ -20489,79 +20644,79 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrole</translation>
     </message>
     <message>
         <source>Mouse and keyboard controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrole mišem i tastaturom</translation>
     </message>
     <message>
         <source>Whiteboard toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Traka sa alatkama bele table</translation>
     </message>
     <message>
         <source>Right-click or Control-click</source>
-        <translation type="unfinished"></translation>
+        <translation>Desni klik ili Control-klik</translation>
     </message>
     <message>
         <source>Right-drag (two-finger click and drag on a trackpad)</source>
-        <translation type="unfinished"></translation>
+        <translation>Prevlačenje desnim dugmetom (dva prsta na dodirnoj tabli)</translation>
     </message>
     <message>
         <source>Space + drag, or two-finger scroll</source>
-        <translation type="unfinished"></translation>
+        <translation>Space + prevlačenje, ili pomeranje sa dva prsta</translation>
     </message>
     <message>
         <source>%1 + scroll, or pinch</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 + pomeranje, ili štipanje</translation>
     </message>
     <message>
         <source>Ctrl</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl</translation>
     </message>
     <message>
         <source>Alt</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt</translation>
     </message>
     <message>
         <source>Shift</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift</translation>
     </message>
     <message>
         <source>Right-click</source>
-        <translation type="unfinished"></translation>
+        <translation>Desni klik</translation>
     </message>
     <message>
         <source>Right-drag</source>
-        <translation type="unfinished"></translation>
+        <translation>Prevlačenje desnim dugmetom</translation>
     </message>
     <message>
         <source>Middle-drag or Space + drag; the wheel scrolls</source>
-        <translation type="unfinished"></translation>
+        <translation>Prevlačenje srednjim dugmetom ili Space + prevlačenje; točkić pomera</translation>
     </message>
     <message>
         <source>%1 + wheel, or pinch on a touchpad</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 + točkić, ili štipanje na dodirnoj tabli</translation>
     </message>
     <message>
         <source>Drawing</source>
-        <translation type="unfinished"></translation>
+        <translation>Crtanje</translation>
     </message>
     <message>
         <source>Draw with the current tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Crtaj trenutnim alatom</translation>
     </message>
     <message>
         <source>Left button</source>
-        <translation type="unfinished"></translation>
+        <translation>Levo dugme</translation>
     </message>
     <message>
         <source>Straight line</source>
-        <translation type="unfinished"></translation>
+        <translation>Prava linija</translation>
     </message>
     <message>
         <source>%1 + drag with the pen</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 + prevlačenje olovkom</translation>
     </message>
     <message>
         <source>Tools</source>
@@ -20569,63 +20724,63 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>V select, P pen, L line, R rectangle, O ellipse, D rhombus, T text, I image, E eraser</source>
-        <translation type="unfinished"></translation>
+        <translation>V izbor, P olovka, L linija, R pravougaonik, O elipsa, D romb, T tekst, I slika, E gumica</translation>
     </message>
     <message>
         <source>Square, circle</source>
-        <translation type="unfinished"></translation>
+        <translation>Kvadrat, krug</translation>
     </message>
     <message>
         <source>%1 + drag with the rectangle or ellipse tool</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 + prevlačenje alatom za pravougaonik ili elipsu</translation>
     </message>
     <message>
         <source>Stroke width and text size</source>
-        <translation type="unfinished"></translation>
+        <translation>Debljina poteza i veličina teksta</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbor</translation>
     </message>
     <message>
         <source>Select and move</source>
-        <translation type="unfinished"></translation>
+        <translation>Izaberi i pomeri</translation>
     </message>
     <message>
         <source>%1 + drag an item (or the Select tool)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 + prevlačenje stavke (ili alat za izbor)</translation>
     </message>
     <message>
         <source>Select an area</source>
-        <translation type="unfinished"></translation>
+        <translation>Izaberi oblast</translation>
     </message>
     <message>
         <source>%1 + drag on the empty canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 + prevlačenje po praznom platnu</translation>
     </message>
     <message>
         <source>Add to or remove from the selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj u izbor ili ukloni iz izbora</translation>
     </message>
     <message>
         <source>%1 + %2 + click</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 + %2 + klik</translation>
     </message>
     <message>
         <source>Select all / deselect</source>
-        <translation type="unfinished"></translation>
+        <translation>Izaberi sve / poništi izbor</translation>
     </message>
     <message>
         <source>%1 / Esc</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 / Esc</translation>
     </message>
     <message>
         <source>Move by 1 or 10 units</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomeri za 1 ili 10 jedinica</translation>
     </message>
     <message>
         <source>Arrow keys / %1 + arrow keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Strelice / %1 + strelice</translation>
     </message>
     <message>
         <source>Scale</source>
@@ -20633,7 +20788,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>%1 + %2 + drag the selection, or + and −</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 + %2 + prevlačenje izbora, ili + i −</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -20641,11 +20796,11 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>%1, %2 + wheel, or , and . (15°), &lt; and &gt; (1°)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, %2 + točkić, ili , i . (15°), &lt; i &gt; (1°)</translation>
     </message>
     <message>
         <source>Duplicate</source>
-        <translation type="unfinished"></translation>
+        <translation>Dupliraj</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -20653,35 +20808,35 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Delete or Backspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Delete ili Backspace</translation>
     </message>
     <message>
         <source>Group / ungroup</source>
-        <translation type="unfinished"></translation>
+        <translation>Grupiši / razdruži</translation>
     </message>
     <message>
         <source>%1 / %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>Bring forward / send backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomeri napred / pošalji nazad</translation>
     </message>
     <message>
         <source>Page Up / Page Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Page Up / Page Down</translation>
     </message>
     <message>
         <source>Bring to front / send to back</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomeri na prednju stranu / pošalji na zadnju stranu</translation>
     </message>
     <message>
         <source>Home / End</source>
-        <translation type="unfinished"></translation>
+        <translation>Home / End</translation>
     </message>
     <message>
         <source>Item menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Meni stavke</translation>
     </message>
     <message>
         <source>View</source>
@@ -20689,35 +20844,35 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Zum</translation>
     </message>
     <message>
         <source>%1, %2 / %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, %2 / %3</translation>
     </message>
     <message>
         <source>Fit the canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilagodi platno</translation>
     </message>
     <message>
         <source>Pan a zoomed canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomeraj uvećano platno</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Slike</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Umetni</translation>
     </message>
     <message>
         <source>Drop image files on the canvas, paste with %1, or click with the image tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Spustite fajlove slika na platno, nalepite pomoću %1 ili kliknite alatom za slike</translation>
     </message>
     <message>
         <source>Whiteboard Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrole bele table</translation>
     </message>
     <message>
         <source>Set new width:</source>
@@ -20737,7 +20892,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Save Whiteboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Sačuvaj belu tablu</translation>
     </message>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
@@ -20745,7 +20900,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>The file is not an SVG document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fajl nije SVG dokument.</translation>
     </message>
 </context>
 <context>
@@ -20756,11 +20911,11 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Images (*.png *.jpg *.jpeg *.gif *.bmp *.webp)</source>
-        <translation type="unfinished"></translation>
+        <translation>Slike (*.png *.jpg *.jpeg *.gif *.bmp *.webp)</translation>
     </message>
     <message>
         <source>Add text</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj tekst</translation>
     </message>
     <message>
         <source>Text:</source>
@@ -20799,7 +20954,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Dump Ringbuf</source>
-        <translation type="unfinished"></translation>
+        <translation>Ispiši ringbuffer</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -20815,34 +20970,34 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>SM</source>
-        <translation type="unfinished"></translation>
+        <translation>SM</translation>
     </message>
     <message>
         <source>XMPP Console</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPP konzola</translation>
     </message>
     <message>
         <source>&lt;message&gt; stanza used to send information to other XMPP entities without requiring a response.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;message&gt; stanca koja se koristi za slanje informacija drugim XMPP entitetima bez zahteva za odgovorom.</translation>
     </message>
     <message>
         <source>&lt;presence&gt; stanza used for status of other clients and components. It&apos;s a multi-cast so extensions use it to broadcast own things to contacts, such as capabilities, music choice, or location.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;presence&gt; stanca koja se koristi za status drugih klijenata i komponenti. To je višestruko slanje, pa je ekstenzije koriste za emitovanje sopstvenih stvari kontaktima, kao što su mogućnosti, izbor muzike ili lokacija.</translation>
     </message>
     <message>
         <source>&lt;iq&gt; (info/query) stanza used for requesting and modifying information.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;iq&gt; (info/query) stanca koja se koristi za zahtevanje i menjanje informacija.</translation>
     </message>
     <message>
         <source>&lt;a&gt; (ack) and &lt;r&gt; (request ack) stanzas used to acknowledge successful receipt of a stanza.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a&gt; (potvrda) i &lt;r&gt; (zahtev za potvrdom) stance koje se koriste za potvrdu uspešnog prijema stance.</translation>
     </message>
 </context>
 <context>
     <name>XMPP::Features::FeatureName</name>
     <message>
         <source>ERROR: Incorrect usage of Features class</source>
-        <translation type="unfinished"></translation>
+        <translation>GREŠKA: Nepravilno korišćenje klase Features</translation>
     </message>
     <message>
         <source>None</source>
@@ -20886,7 +21041,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Message Carbons</source>
-        <translation type="unfinished"></translation>
+        <translation>Karbonske kopije poruka</translation>
     </message>
     <message>
         <source>vCard</source>
@@ -20897,7 +21052,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     <name>XMPP::JT_Message</name>
     <message>
         <source>Unable to serialize message stanza</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće serijalizovati stancu poruke</translation>
     </message>
 </context>
 <context>
@@ -20908,85 +21063,85 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>No vCard available</source>
-        <translation type="unfinished"></translation>
+        <translation>Nema dostupne vKartice</translation>
     </message>
 </context>
 <context>
     <name>XMPP::LinkLocalService</name>
     <message>
         <source>The serverless name is too long for DNS-SD.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezserverski naziv je predugačak za DNS-SD.</translation>
     </message>
     <message>
         <source>Cannot publish the serverless address on this network.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće objaviti bezserversku adresu na ovoj mreži.</translation>
     </message>
     <message>
         <source>Cannot announce serverless presence.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće objaviti bezserversko prisustvo.</translation>
     </message>
     <message>
         <source>Cannot find the peer&apos;s TCP service.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće pronaći TCP uslugu druge strane.</translation>
     </message>
     <message>
         <source>Cannot bind to the selected network interface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće povezati se na izabrani mrežni interfejs.</translation>
     </message>
     <message>
         <source>Too many serverless connections.</source>
-        <translation type="unfinished"></translation>
+        <translation>Previše bezserverskih veza.</translation>
     </message>
     <message>
         <source>The peer&apos;s TCP connection failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>TCP veza druge strane nije uspela.</translation>
     </message>
     <message>
         <source>Serverless peer lookup timed out.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretraga bezserverske druge strane je istekla.</translation>
     </message>
     <message>
         <source>Invalid serverless user@machine identity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevažeći bezserverski identitet korisnik@mašina.</translation>
     </message>
     <message>
         <source>Cannot start serverless messaging on the selected network interface or port.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće pokrenuti razmenu poruka bez servera na izabranom mrežnom interfejsu ili portu.</translation>
     </message>
     <message>
         <source>Serverless discovery failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezserversko otkrivanje nije uspelo.</translation>
     </message>
     <message>
         <source>This Iris build does not include JDNS serverless discovery.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ova Iris verzija ne uključuje JDNS bezserversko otkrivanje.</translation>
     </message>
     <message>
         <source>This user is no longer visible on the local network.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ovaj korisnik više nije vidljiv na lokalnoj mreži.</translation>
     </message>
     <message>
         <source>Too many pending serverless messages or connections.</source>
-        <translation type="unfinished"></translation>
+        <translation>Previše bezserverskih poruka ili veza na čekanju.</translation>
     </message>
 </context>
 <context>
     <name>XMPP::RemoteNameProvider</name>
     <message>
         <source>The connection to the DNS server was refused</source>
-        <translation type="unfinished"></translation>
+        <translation>Veza sa DNS serverom je odbijena</translation>
     </message>
     <message>
         <source>The DNS server host was not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Host DNS servera nije pronađen</translation>
     </message>
     <message>
         <source>Could not connect to the proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće povezati se sa proxy-jem</translation>
     </message>
     <message>
         <source>The proxy refused the connection to the DNS server</source>
-        <translation type="unfinished"></translation>
+        <translation>Proxy je odbio vezu sa DNS serverom</translation>
     </message>
     <message>
         <source>Proxy authentication failed</source>
@@ -20994,55 +21149,55 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>The connection to the DNS server failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Veza sa DNS serverom nije uspela</translation>
     </message>
     <message>
         <source>Invalid DNS server address</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevažeća adresa DNS servera</translation>
     </message>
     <message>
         <source>The DNS resolver failed to start</source>
-        <translation type="unfinished"></translation>
+        <translation>DNS razrešivač nije uspeo da se pokrene</translation>
     </message>
     <message>
         <source>Could not start the DNS lookup</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće pokrenuti DNS pretragu</translation>
     </message>
     <message>
         <source>DNS server %1 did not answer in time</source>
-        <translation type="unfinished"></translation>
+        <translation>DNS server %1 nije odgovorio na vreme</translation>
     </message>
     <message>
         <source>Unsupported proxy type for DNS</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodržani tip proxy-ja za DNS</translation>
     </message>
     <message>
         <source>The connection to DNS server %1 was lost</source>
-        <translation type="unfinished"></translation>
+        <translation>Veza sa DNS serverom %1 je izgubljena</translation>
     </message>
     <message>
         <source>TLS is not available for DNS over HTTPS</source>
-        <translation type="unfinished"></translation>
+        <translation>TLS nije dostupan za DNS preko HTTPS-a</translation>
     </message>
     <message>
         <source>The certificate of DNS server %1 is not valid</source>
-        <translation type="unfinished"></translation>
+        <translation>Sertifikat DNS servera %1 nije važeći</translation>
     </message>
     <message>
         <source>TLS with DNS server %1 failed</source>
-        <translation type="unfinished"></translation>
+        <translation>TLS sa DNS serverom %1 nije uspeo</translation>
     </message>
     <message>
         <source>Invalid HTTP reply from DNS server %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevažeći HTTP odgovor od DNS servera %1</translation>
     </message>
     <message>
         <source>DNS server %1 answered with HTTP status %2</source>
-        <translation type="unfinished"></translation>
+        <translation>DNS server %1 je odgovorio HTTP statusom %2</translation>
     </message>
     <message>
         <source>Remote DNS is not available: Iris was built without JDNS</source>
-        <translation type="unfinished"></translation>
+        <translation>Udaljeni DNS nije dostupan: Iris je napravljen bez JDNS-a</translation>
     </message>
 </context>
 <context>
@@ -21053,7 +21208,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>The sender has sent XML that is malformed or that cannot be processed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pošiljalac je poslao XML koji je neispravan ili se ne može obraditi.</translation>
     </message>
     <message>
         <source>Conflict</source>
@@ -21061,7 +21216,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Access cannot be granted because an existing resource or session exists with the same name or address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pristup se ne može odobriti jer već postoji resurs ili sesija sa istim nazivom ili adresom.</translation>
     </message>
     <message>
         <source>Feature not implemented</source>
@@ -21069,7 +21224,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>The feature requested is not implemented by the recipient or server and therefore cannot be processed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Traženu funkciju primalac ili server ne implementira i zato se ne može obraditi.</translation>
     </message>
     <message>
         <source>Forbidden</source>
@@ -21077,15 +21232,15 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>The requesting entity does not possess the required permissions to perform the action.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entitet koji zahteva pristup ne poseduje potrebne dozvole za izvršenje radnje.</translation>
     </message>
     <message>
         <source>Gone</source>
-        <translation type="unfinished"></translation>
+        <translation>Nestao</translation>
     </message>
     <message>
         <source>The recipient or server can no longer be contacted at this address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Primalac ili server se više ne mogu kontaktirati na ovoj adresi.</translation>
     </message>
     <message>
         <source>Internal server error</source>
@@ -21093,7 +21248,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Server nije mogao obraditi stancu zbog pogrešne konfiguracije ili neke druge nedefinisane interne greške servera.</translation>
     </message>
     <message>
         <source>Item not found</source>
@@ -21101,15 +21256,15 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>The addressed JID or item requested cannot be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Traženi JID ili stavka se ne mogu pronaći.</translation>
     </message>
     <message>
         <source>JID malformed</source>
-        <translation type="unfinished"></translation>
+        <translation>JID neispravnog oblika</translation>
     </message>
     <message>
         <source>The sending entity has provided or communicated an XMPP address (e.g., a value of the &apos;to&apos; attribute) or aspect thereof (e.g., a resource identifier) that does not adhere to the syntax defined in Addressing Scheme.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entitet koji šalje je dostavio ili saopštio XMPP adresu (npr. vrednost atributa „to“) ili njen deo (npr. identifikator resursa) koji ne sledi sintaksu definisanu u šemi adresiranja.</translation>
     </message>
     <message>
         <source>Not acceptable</source>
@@ -21117,7 +21272,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>The recipient or server understands the request but is refusing to process it because it does not meet criteria defined by the recipient or server (e.g., a local policy regarding acceptable words in messages).</source>
-        <translation type="unfinished"></translation>
+        <translation>Primalac ili server razume zahtev, ali odbija da ga obradi jer ne ispunjava kriterijume koje je definisao primalac ili server (npr. lokalna politika o prihvatljivim rečima u porukama).</translation>
     </message>
     <message>
         <source>Not allowed</source>
@@ -21125,7 +21280,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>The recipient or server does not allow any entity to perform the action.</source>
-        <translation type="unfinished"></translation>
+        <translation>Primalac ili server ne dozvoljava nijednom entitetu da izvrši radnju.</translation>
     </message>
     <message>
         <source>Not authorized</source>
@@ -21133,15 +21288,15 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>The sender must provide proper credentials before being allowed to perform the action, or has provided improper credentials.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pošiljalac mora dostaviti ispravne akreditive pre nego što mu se dozvoli izvršenje radnje, ili je dostavio neispravne akreditive.</translation>
     </message>
     <message>
         <source>Recipient unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>Primalac nedostupan</translation>
     </message>
     <message>
         <source>The intended recipient is temporarily unavailable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Predviđeni primalac je privremeno nedostupan.</translation>
     </message>
     <message>
         <source>Redirect</source>
@@ -21149,7 +21304,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>The recipient or server is redirecting requests for this information to another entity, usually temporarily.</source>
-        <translation type="unfinished"></translation>
+        <translation>Primalac ili server preusmerava zahteve za ovu informaciju na drugi entitet, obično privremeno.</translation>
     </message>
     <message>
         <source>Registration required</source>
@@ -21157,7 +21312,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>The requesting entity is not authorized to access the requested service because registration is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entitet koji zahteva pristup nije ovlašćen da pristupi traženoj usluzi jer je potrebna registracija.</translation>
     </message>
     <message>
         <source>Remote server not found</source>
@@ -21165,7 +21320,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>A remote server or service specified as part or all of the JID of the intended recipient does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Udaljeni server ili usluga navedeni kao deo ili cela JID adresa predviđenog primaoca ne postoje.</translation>
     </message>
     <message>
         <source>Remote server timeout</source>
@@ -21173,15 +21328,15 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>A remote server or service specified as part or all of the JID of the intended recipient (or required to fulfill a request) could not be contacted within a reasonable amount of time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Udaljeni server ili usluga navedeni kao deo ili cela JID adresa predviđenog primaoca (ili potrebni za ispunjenje zahteva) nisu mogli biti kontaktirani u razumnom vremenu.</translation>
     </message>
     <message>
         <source>Resource constraint</source>
-        <translation type="unfinished"></translation>
+        <translation>Ograničenje resursa</translation>
     </message>
     <message>
         <source>The server or recipient lacks the system resources necessary to service the request.</source>
-        <translation type="unfinished"></translation>
+        <translation>Serveru ili primaocu nedostaju sistemski resursi neophodni za usluživanje zahteva.</translation>
     </message>
     <message>
         <source>Service unavailable</source>
@@ -21189,15 +21344,15 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>The server or recipient does not currently provide the requested service.</source>
-        <translation type="unfinished"></translation>
+        <translation>Server ili primalac trenutno ne pruža traženu uslugu.</translation>
     </message>
     <message>
         <source>Subscription required</source>
-        <translation type="unfinished"></translation>
+        <translation>Potrebna je pretplata</translation>
     </message>
     <message>
         <source>The requesting entity is not authorized to access the requested service because a subscription is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entitet koji zahteva pristup nije ovlašćen da pristupi traženoj usluzi jer je potrebna pretplata.</translation>
     </message>
     <message>
         <source>Undefined condition</source>
@@ -21205,15 +21360,15 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>The error condition is not one of those defined by the other conditions in this list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uslov greške nije jedan od onih definisanih drugim uslovima na ovoj listi.</translation>
     </message>
     <message>
         <source>Unexpected request</source>
-        <translation type="unfinished"></translation>
+        <translation>Neočekivani zahtev</translation>
     </message>
     <message>
         <source>The recipient or server understood the request but was not expecting it at this time (e.g., the request was out of order).</source>
-        <translation type="unfinished"></translation>
+        <translation>Primalac ili server razume zahtev, ali ga nije očekivao u tom trenutku (npr. zahtev je bio van redosleda).</translation>
     </message>
     <message>
         <source>Policy violation</source>
@@ -21221,7 +21376,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>The sender has violated some service policy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pošiljalac je prekršio neku politiku usluge.</translation>
     </message>
 </context>
 <context>
@@ -21232,7 +21387,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Request timed out</source>
-        <translation type="unfinished"></translation>
+        <translation>Zahtev je istekao</translation>
     </message>
 </context>
 <context>
@@ -21243,7 +21398,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>XMPP Console</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPP konzola</translation>
     </message>
 </context>
 <context>
@@ -21262,7 +21417,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Malformed XML</source>
-        <translation type="unfinished"></translation>
+        <translation>Neispravan XML</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -21274,7 +21429,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>You have entered malformed XML input.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uneli ste neispravan XML ulaz.</translation>
     </message>
 </context>
 <context>
@@ -21297,7 +21452,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Your turn:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vi ste na potezu:</translation>
     </message>
     <message>
         <source>Error message:</source>
@@ -21305,19 +21460,19 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>If checked, the sound will always enabled (or disabled)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ako je označeno, zvuk će uvek biti uključen (ili isključen)</translation>
     </message>
     <message>
         <source>Override default sound settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadjačaj podrazumevana podešavanja zvuka</translation>
     </message>
     <message>
         <source>Disable invitations if status is DND</source>
-        <translation type="unfinished"></translation>
+        <translation>Onemogući pozive ako je status „Ne uznemiravaj“</translation>
     </message>
     <message>
         <source>Disable invitations from groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Onemogući pozive iz grupnog razgovora</translation>
     </message>
     <message>
         <source>Save window height and width</source>
@@ -21349,15 +21504,15 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Disable invitations from conference</source>
-        <translation type="unfinished"></translation>
+        <translation>Onemogući pozive iz konferencije</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#battleship_game_plugin&quot;&gt;Viki (na mreži)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#gomoku_game_plugin&quot;&gt;Viki (na mreži)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -21368,11 +21523,11 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Known Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Poznati ključevi</translation>
     </message>
     <message>
         <source>Own Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Sopstveni ključevi</translation>
     </message>
 </context>
 <context>
@@ -21383,7 +21538,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished"></translation>
+        <translation>Veruj</translation>
     </message>
     <message>
         <source>Fingerprint</source>
@@ -21391,19 +21546,19 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>trusted</source>
-        <translation type="unfinished"></translation>
+        <translation>pouzdan</translation>
     </message>
     <message>
         <source>untrusted</source>
-        <translation type="unfinished"></translation>
+        <translation>nepouzdan</translation>
     </message>
     <message>
         <source>Do not trust</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne veruj</translation>
     </message>
     <message>
         <source>not decided</source>
-        <translation type="unfinished"></translation>
+        <translation>nije odlučeno</translation>
     </message>
     <message>
         <source>User</source>
@@ -21411,7 +21566,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Device ID</source>
-        <translation type="unfinished"></translation>
+        <translation>ID uređaja</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
@@ -21426,11 +21581,11 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Device ID</source>
-        <translation type="unfinished"></translation>
+        <translation>ID uređaja</translation>
     </message>
     <message>
         <source>Current device</source>
-        <translation type="unfinished"></translation>
+        <translation>Trenutni uređaj</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
@@ -21438,11 +21593,11 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Delete all OMEMO data for current device</source>
-        <translation type="unfinished"></translation>
+        <translation>Obriši sve OMEMO podatke za trenutni uređaj</translation>
     </message>
     <message>
         <source>Other devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Drugi uređaji</translation>
     </message>
     <message>
         <source>Fingerprint</source>
@@ -21456,19 +21611,25 @@ On the first tab set up a list of contacts for the status of which is monitored.
 4) You will need to verify keys for all devices of your contacts again.
 5) Your contacts will need to verify new device before you start receive messages from them.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Brisanje svih OMEMO podataka za trenutni uređaj imaće niz posledica:
+1) Sve započete OMEMO sesije biće zaboravljene.
+2) Izgubićete pristup šifrovanoj istoriji sačuvanoj za trenutni uređaj na strani servera.
+3) Biće generisani novi ID uređaja i par ključeva.
+4) Moraćete ponovo da proverite ključeve za sve uređaje svojih kontakata.
+5) Vaši kontakti će morati da provere novi uređaj pre nego što počnete da primate poruke od njih.
+</translation>
     </message>
     <message>
         <source>Delete current device?</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrisati trenutni uređaj?</translation>
     </message>
     <message>
         <source>After deleting of device from list of available devices it stops receiving offline messages from your contacts until it will become online and your contacts mark it as trusted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nakon brisanja uređaja sa liste dostupnih uređaja, on prestaje da prima vanmrežne poruke od vaših kontakata sve dok ne postane dostupan i dok ga vaši kontakti ne označe kao pouzdan.</translation>
     </message>
     <message>
         <source>Delete selected device?</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrisati izabrani uređaj?</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
@@ -21479,50 +21640,50 @@ On the first tab set up a list of contacts for the status of which is monitored.
     <name>psiomemo::OMEMO</name>
     <message>
         <source>The following message is from an untrusted device:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledeća poruka je sa nepouzdanog uređaja:</translation>
     </message>
     <message>
         <source>[UNTRUSTED]: </source>
-        <translation type="unfinished"></translation>
+        <translation>[NEPOUZDANO]: </translation>
     </message>
     <message>
         <source>Unable to build any sessions, the message was not sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće uspostaviti nijednu sesiju, poruka nije poslata</translation>
     </message>
     <message>
         <source>%1 does not seem to support OMEMO, disabling for the entire group!</source>
-        <translation type="unfinished"></translation>
+        <translation>Čini se da %1 ne podržava OMEMO, onemogućavam ga za celu grupu!</translation>
     </message>
     <message>
         <source>You received a message encrypted with OMEMO but your client doesn&apos;t support OMEMO or its support is currently disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Primili ste poruku šifrovanu OMEMO-om, ali vaš klijent ne podržava OMEMO ili je njegova podrška trenutno onemogućena.</translation>
     </message>
 </context>
 <context>
     <name>psiomemo::OMEMOPlugin</name>
     <message>
         <source>Credits: </source>
-        <translation type="unfinished"></translation>
+        <translation>Zasluge: </translation>
     </message>
     <message>
         <source>Enable OMEMO encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Omogući OMEMO šifrovanje</translation>
     </message>
     <message>
         <source>OMEMO encryption is not available for this group</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO šifrovanje nije dostupno za ovu grupu</translation>
     </message>
     <message>
         <source>OMEMO encryption is not available for this contact</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO šifrovanje nije dostupno za ovaj kontakt</translation>
     </message>
     <message>
         <source>Fingerprint for account &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Otisak za nalog „%1“: %2</translation>
     </message>
     <message>
         <source>Disable OMEMO encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Onemogući OMEMO šifrovanje</translation>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
@@ -21530,39 +21691,39 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>OMEMO encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO šifrovanje</translation>
     </message>
     <message>
         <source>Manage contact fingerprints</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravljaj otiscima kontakata</translation>
     </message>
     <message>
         <source>OMEMO is an end-to-end encryption protocol that leverages the Double Ratchet encryption scheme to provide multi-end to multi-end encryption, allowing messages to be synchronized securely across multiple clients, even if some of them are offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO je protokol za šifrovanje od kraja do kraja koji koristi Double Ratchet šemu šifrovanja za obezbeđivanje šifrovanja između više krajeva, omogućavajući bezbednu sinhronizaciju poruka na više klijenata, čak i ako su neki od njih van mreže.</translation>
     </message>
     <message>
         <source>In comparison with OTR, the OMEMO protocol offers multi-users encrypted chat, safe message synchronization between user&apos;s devices, offline messages queuing, forward secrecy and file transfer.</source>
-        <translation type="unfinished"></translation>
+        <translation>U poređenju sa OTR-om, OMEMO protokol nudi šifrovani razgovor sa više korisnika, bezbednu sinhronizaciju poruka između korisnikovih uređaja, red čekanja za vanmrežne poruke, savršenu tajnost unapred i prenos fajlova.</translation>
     </message>
     <message>
         <source>OMEMO provides the following guarantees:</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO pruža sledeće garancije:</translation>
     </message>
     <message>
         <source>Confidentiality</source>
-        <translation type="unfinished"></translation>
+        <translation>Poverljivost</translation>
     </message>
     <message>
         <source>Nobody else except sender and receiver is able to read the content of a message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Niko osim pošiljaoca i primaoca ne može da pročita sadržaj poruke.</translation>
     </message>
     <message>
         <source>Perfect forward secrecy</source>
-        <translation type="unfinished"></translation>
+        <translation>Savršena tajnost unapred</translation>
     </message>
     <message>
         <source>Compromised key material does not compromise previous or future message exchanges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompromitovan ključni materijal ne kompromituje prethodne ili buduće razmene poruka.</translation>
     </message>
     <message>
         <source>Authentication</source>
@@ -21570,78 +21731,78 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Every peer is able to authenticate the sender or receiver of a message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Svaka strana može da autentifikuje pošiljaoca ili primaoca poruke.</translation>
     </message>
     <message>
         <source>Immutability</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepromenljivost</translation>
     </message>
     <message>
         <source>Every peer can ensure that a message was not changed by any intermediate node.</source>
-        <translation type="unfinished"></translation>
+        <translation>Svaka strana može da se uveri da poruka nije izmenjena od strane bilo kog posredničkog čvora.</translation>
     </message>
     <message>
         <source>No participant can prove who created a specific message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nijedan učesnik ne može dokazati ko je napravio određenu poruku.</translation>
     </message>
     <message>
         <source>Asynchronicity</source>
-        <translation type="unfinished"></translation>
+        <translation>Asinhronost</translation>
     </message>
     <message>
         <source>The usability of the protocol does not depend on the online status of any participant.</source>
-        <translation type="unfinished"></translation>
+        <translation>Upotrebljivost protokola ne zavisi od mrežnog statusa bilo kog učesnika.</translation>
     </message>
     <message>
         <source>OMEMO is not intended to protect against the following use cases:</source>
-        <translation type="unfinished"></translation>
+        <translation>OMEMO nije namenjen zaštiti od sledećih slučajeva upotrebe:</translation>
     </message>
     <message>
         <source>* An attacker has permanent access to your device. (Temporary access is covered by perfect forward secrecy.)</source>
-        <translation type="unfinished"></translation>
+        <translation>* Napadač ima trajan pristup vašem uređaju. (Privremeni pristup je pokriven savršenom tajnošću unapred.)</translation>
     </message>
     <message>
         <source>* You lost your device and an attacker can read messages on your notification screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>* Izgubili ste uređaj i napadač može da pročita poruke na vašem ekranu obaveštenja.</translation>
     </message>
     <message>
         <source>* Any kind of denial-of-service attack.</source>
-        <translation type="unfinished"></translation>
+        <translation>* Bilo kakav napad uskraćivanja usluge.</translation>
     </message>
     <message>
         <source>* etc.</source>
-        <translation type="unfinished"></translation>
+        <translation>* itd.</translation>
     </message>
     <message>
         <source>Plausible deniability</source>
-        <translation type="unfinished"></translation>
+        <translation>Prihvatljivo poricanje</translation>
     </message>
 </context>
 <context>
     <name>psiomemo::OmemoConfiguration</name>
     <message>
         <source>OMEMO encryption policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Politika OMEMO šifrovanja</translation>
     </message>
     <message>
         <source>Always enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Uvek omogućeno</translation>
     </message>
     <message>
         <source>Enabled by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Omogućeno po pravilu</translation>
     </message>
     <message>
         <source>Disabled by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Onemogućeno po pravilu</translation>
     </message>
     <message>
         <source>Automatically mark new own devices as trusted</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatski označi nove sopstvene uređaje kao pouzdane</translation>
     </message>
     <message>
         <source>Automatically mark new interlocutors devices as trusted</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatski označi nove uređaje sagovornika kao pouzdane</translation>
     </message>
 </context>
 <context>
@@ -21652,15 +21813,15 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>To authenticate via question and answer, ask a question whose answer is only known to you and %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Da biste se autentifikovali pomoću pitanja i odgovora, postavite pitanje čiji odgovor znate samo vi i %1.</translation>
     </message>
     <message>
         <source>To authenticate via shared secret, enter a secret only known to you and %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Da biste se autentifikovali pomoću zajedničke tajne, unesite tajnu koju znate samo vi i %1.</translation>
     </message>
     <message>
         <source>To authenticate manually, exchange your fingerprints over an authenticated channel and compare each other&apos;s fingerprint with the one listed beneath.</source>
-        <translation type="unfinished"></translation>
+        <translation>Da biste se autentifikovali ručno, razmenite otiske preko autentifikovanog kanala i uporedite međusobne otiske sa onim navedenim ispod.</translation>
     </message>
     <message>
         <source>Authenticate to %1</source>
@@ -21668,11 +21829,11 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>%1 wants to authenticate you. To authenticate, answer the question asked below.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 želi da vas autentifikuje. Da biste se autentifikovali, odgovorite na pitanje postavljeno ispod.</translation>
     </message>
     <message>
         <source>%1 wants to authenticate you. To authenticate, enter your shared secret below.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 želi da vas autentifikuje. Da biste se autentifikovali, unesite svoju zajedničku tajnu ispod.</translation>
     </message>
     <message>
         <source>Question and answer</source>
@@ -21736,7 +21897,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
-        <translation type="unfinished"></translation>
+        <translation>Da li ste proverili da je ovo zaista ispravan otisak?</translation>
     </message>
     <message>
         <source>Psi OTR</source>
@@ -21744,11 +21905,11 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>%1 has canceled the authentication process.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 je otkazao postupak autentifikacije.</translation>
     </message>
     <message>
         <source>An error occurred during the authentication process.</source>
-        <translation type="unfinished"></translation>
+        <translation>Došlo je do greške tokom postupka autentifikacije.</translation>
     </message>
     <message>
         <source>Authentication successful.</source>
@@ -21758,7 +21919,9 @@ On the first tab set up a list of contacts for the status of which is monitored.
         <source>You have been successfully authenticated.
 
 You should authenticate %1 as well by asking your own question.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uspešno ste autentifikovani.
+
+Takođe treba da autentifikujete %1 tako što ćete postaviti sopstveno pitanje.</translation>
     </message>
     <message>
         <source>Authentication failed.</source>
@@ -21766,7 +21929,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Confirm action</source>
-        <translation type="unfinished"></translation>
+        <translation>Potvrdi radnju</translation>
     </message>
 </context>
 <context>
@@ -21785,11 +21948,11 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Known Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Poznati ključevi</translation>
     </message>
     <message>
         <source>Own Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Sopstveni ključevi</translation>
     </message>
 </context>
 <context>
@@ -21816,7 +21979,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>OTR encryption policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Politika OTR šifrovanja</translation>
     </message>
 </context>
 <context>
@@ -21867,7 +22030,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
-        <translation type="unfinished"></translation>
+        <translation>Da li ste proverili da je ovo zaista ispravan otisak?</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -21879,11 +22042,11 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Trust</source>
-        <translation type="unfinished"></translation>
+        <translation>Veruj</translation>
     </message>
     <message>
         <source>Do not trust</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne veruj</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
@@ -21891,7 +22054,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Confirm action</source>
-        <translation type="unfinished"></translation>
+        <translation>Potvrdi radnju</translation>
     </message>
 </context>
 <context>
@@ -21930,7 +22093,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Are you sure you want to overwrite the following key?</source>
-        <translation type="unfinished"></translation>
+        <translation>Da li ste sigurni da želite da prepišete sledeći ključ?</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -21942,7 +22105,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Confirm action</source>
-        <translation type="unfinished"></translation>
+        <translation>Potvrdi radnju</translation>
     </message>
 </context>
 <context>
@@ -21989,11 +22152,11 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Session ID between account &quot;%1&quot; and %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>ID sesije između naloga „%1“ i %2: %3</translation>
     </message>
     <message>
         <source>Fingerprint for account &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Otisak za nalog „%1“: %2</translation>
     </message>
 </context>
 <context>
@@ -22008,7 +22171,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>No one else can read your instant messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Niko drugi ne može da pročita vaše trenutne poruke.</translation>
     </message>
     <message>
         <source>Authentication</source>
@@ -22016,19 +22179,19 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>You are assured the correspondent is who you think it is.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sigurni ste da je sagovornik onaj za koga mislite da jeste.</translation>
     </message>
     <message>
         <source>Deniability</source>
-        <translation type="unfinished"></translation>
+        <translation>Poricanje</translation>
     </message>
     <message>
         <source>Perfect forward secrecy</source>
-        <translation type="unfinished"></translation>
+        <translation>Savršena tajnost unapred</translation>
     </message>
     <message>
         <source>If you lose control of your private keys, no previous conversation is compromised.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ako izgubite kontrolu nad svojim tajnim ključevima, nijedan prethodni razgovor nije kompromitovan.</translation>
     </message>
     <message>
         <source>Psi OTR</source>
@@ -22036,11 +22199,11 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Attempting to refresh the private conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokušavam da osvežim privatni razgovor</translation>
     </message>
     <message>
         <source>Attempting to start a private conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokušavam da započnem privatni razgovor</translation>
     </message>
     <message>
         <source>Private conversation started</source>
@@ -22048,7 +22211,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Unverified conversation started</source>
-        <translation type="unfinished"></translation>
+        <translation>Započet je neprovereni razgovor</translation>
     </message>
     <message>
         <source>Private conversation lost</source>
@@ -22060,7 +22223,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>%1 has ended the private conversation with you; you should do the same.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 je završio privatni razgovor sa vama; trebalo bi da uradite isto.</translation>
     </message>
     <message>
         <source>Private conversation refreshed</source>
@@ -22068,7 +22231,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Unverified conversation refreshed</source>
-        <translation type="unfinished"></translation>
+        <translation>Neprovereni razgovor je osvežen</translation>
     </message>
     <message>
         <source>Contact authenticated</source>
@@ -22080,63 +22243,63 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>OTR Plugin: event from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>OTR priključak: događaj od %1</translation>
     </message>
     <message>
         <source>Confirm action</source>
-        <translation type="unfinished"></translation>
+        <translation>Potvrdi radnju</translation>
     </message>
     <message>
         <source>For further information, see &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Za više informacija pogledajte &amp;lt;&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;https://otr.cypherpunks.ca/&lt;/a&gt;&amp;gt;.</translation>
     </message>
     <message>
         <source>Off-the-Record Messaging (OTR) is a cryptographic protocol that provides encryption for instant messaging conversations. In addition to authentication and encryption, OTR provides forward secrecy and malleable encryption.</source>
-        <translation type="unfinished"></translation>
+        <translation>Off-the-Record Messaging (OTR) je kriptografski protokol koji pruža šifrovanje za razgovore u trenutnim porukama. Pored autentifikacije i šifrovanja, OTR pruža savršenu tajnost unapred i savitljivo šifrovanje.</translation>
     </message>
     <message>
         <source>OTR features:</source>
-        <translation type="unfinished"></translation>
+        <translation>OTR mogućnosti:</translation>
     </message>
     <message>
         <source>* Fast and easy update of encryption keys.</source>
-        <translation type="unfinished"></translation>
+        <translation>* Brzo i jednostavno ažuriranje ključeva šifrovanja.</translation>
     </message>
     <message>
         <source>* Simple and convenient authentication of interlocutor without necessity of comparing public key fingerprints through an outside communication channel.</source>
-        <translation type="unfinished"></translation>
+        <translation>* Jednostavna i zgodna autentifikacija sagovornika bez potrebe za upoređivanjem otisaka javnih ključeva preko spoljnog kanala komunikacije.</translation>
     </message>
     <message>
         <source>OTR limitations:</source>
-        <translation type="unfinished"></translation>
+        <translation>OTR ograničenja:</translation>
     </message>
     <message>
         <source>* No support of offline messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>* Nema podrške za vanmrežne poruke.</translation>
     </message>
     <message>
         <source>* No support of carbon copies to other XMPP resources.</source>
-        <translation type="unfinished"></translation>
+        <translation>* Nema podrške za karbonske kopije na druge XMPP resurse.</translation>
     </message>
     <message>
         <source>* No support of multi-user chats.</source>
-        <translation type="unfinished"></translation>
+        <translation>* Nema podrške za razgovore sa više korisnika.</translation>
     </message>
     <message>
         <source>* No support of file transfer.</source>
-        <translation type="unfinished"></translation>
+        <translation>* Nema podrške za prenos fajlova.</translation>
     </message>
     <message>
         <source>OTR provides the following guarantees:</source>
-        <translation type="unfinished"></translation>
+        <translation>OTR pruža sledeće garancije:</translation>
     </message>
     <message>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages (s)he sees are authentic and unmodified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poruke koje šaljete nemaju digitalne potpise koje treća strana može proveriti. Svako može falsifikovati poruke nakon razgovora tako da izgledaju kao da dolaze od vas. Međutim, tokom razgovora vaš sagovornik ima garanciju da su poruke koje vidi autentične i neizmenjene.</translation>
     </message>
     <message>
         <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows one to use it for protecting conversations via XMPP transports (to Telegram, Skype, VK, QQ and other networks).</source>
-        <translation type="unfinished"></translation>
+        <translation>U poređenju sa OpenPGP-om i OMEMO-om, OTR protokol ne zavisi od struktura specifičnih za XMPP, što omogućava njegovo korišćenje za zaštitu razgovora preko XMPP transporta (ka Telegramu, Skype-u, VK-u, QQ-u i drugim mrežama).</translation>
     </message>
 </context>
 <context>
@@ -22159,7 +22322,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Captcha:</source>
-        <translation type="unfinished"></translation>
+        <translation>Captcha:</translation>
     </message>
 </context>
 <context>
@@ -22234,7 +22397,8 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Replaces message id with a link
 to this message in juick@conference.jabber.ru</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamenjuje ID poruke vezom
+ka ovoj poruci u juick@conference.jabber.ru</translation>
     </message>
     <message>
         <source>Clear avatar cache</source>
@@ -22246,11 +22410,11 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>https://link</source>
-        <translation type="unfinished"></translation>
+        <translation>https://link</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#juick_plugin&quot;&gt;Viki (na mreži)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -22515,7 +22679,10 @@ Probaj obriši kolačiće.</translation>
 http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Preneto iz QutIM Yandex.Narod priključka
+http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
+
+</translation>
     </message>
 </context>
 <context>
@@ -22574,7 +22741,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#yandex_narod_plugin&quot;&gt;viki (na mreži)&lt;/a&gt;</translation>
     </message>
 </context>
 </TS>
