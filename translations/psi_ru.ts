@@ -2243,7 +2243,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Low bandwidth · 400 kbps</source>
-        <translation>Низкая скорость · 400 Кбит/с</translation>
+        <translation>Низкий битрейт · 400 Кбит/с</translation>
     </message>
     <message>
         <source>Video quality</source>
@@ -2251,7 +2251,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Call</source>
-        <translation>Звонок</translation>
+        <translation>Позвонить</translation>
     </message>
     <message>
         <source>Close</source>
@@ -9148,10 +9148,10 @@ Size: %2</source>
     </message>
     <message numerus="yes">
         <source>%n minutes ago</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n минуту назад</numerusform>
+            <numerusform>%n минуты назад</numerusform>
+            <numerusform>%n минут назад</numerusform>
         </translation>
     </message>
     <message>
@@ -9160,10 +9160,10 @@ Size: %2</source>
     </message>
     <message numerus="yes">
         <source>%n hours ago</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n час назад</numerusform>
+            <numerusform>%n часа назад</numerusform>
+            <numerusform>%n часов назад</numerusform>
         </translation>
     </message>
     <message>
@@ -12691,7 +12691,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Other devices registered for this account. Retiring one removes it from the published OMEMO device lists, so it will no longer receive encrypted messages.</source>
-        <translation>Другие устройства, зарегистрированные для этого аккаунта. Отзыв устройства удаляет его из опубликованных списков устройств OMEMO, поэтому оно больше не будет получать зашифрованные сообщения.</translation>
+        <translation>Другие устройства, зарегистрированные для этого аккаунта. Вывод устройства из эксплуатации удаляет его из опубликованных списков устройств OMEMO, поэтому оно больше не будет получать зашифрованные сообщения.</translation>
     </message>
     <message>
         <source>Device</source>
@@ -12699,11 +12699,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Retire device</source>
-        <translation>Отозвать устройство</translation>
+        <translation>Вывести устройство из эксплуатации</translation>
     </message>
     <message>
         <source>Sanitize OMEMO PEP</source>
-        <translation>Очистить данные OMEMO PEP</translation>
+        <translation>Исправить OMEMO PEP</translation>
     </message>
     <message>
         <source>Own keys</source>
@@ -12751,11 +12751,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>OMEMO PEP data has been sanitized.</source>
-        <translation>Данные OMEMO PEP очищены.</translation>
+        <translation>Данные OMEMO PEP исправлены.</translation>
     </message>
     <message>
         <source>Retire OMEMO device</source>
-        <translation>Отозвать устройство OMEMO</translation>
+        <translation>Вывести устройство OMEMO из эксплуатации</translation>
     </message>
     <message>
         <source>The selected device will stop receiving new encrypted messages. Its published bundle will remain on the server.</source>
@@ -12830,7 +12830,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabServerless</name>
     <message>
         <source>Serverless</source>
-        <translation>Без сервера</translation>
+        <translation>Бессерверный</translation>
     </message>
     <message>
         <source>Chat on the local network without a server</source>
@@ -12842,11 +12842,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enable serverless messaging</source>
-        <translation>Включить обмен сообщениями без сервера</translation>
+        <translation>Включить бессерверный обмен сообщениями</translation>
     </message>
     <message>
         <source>Serverless messaging is unavailable: this Iris build does not include JDNS support.</source>
-        <translation>Обмен сообщениями без сервера недоступен: эта сборка Iris не включает поддержку JDNS.</translation>
+        <translation>Бессерверный обмен сообщениями недоступен: эта сборка Iris не включает поддержку JDNS.</translation>
     </message>
     <message>
         <source>Local network account</source>
@@ -14949,7 +14949,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Serverless delivery failed</source>
-        <translation>Не удалось доставить сообщение без сервера</translation>
+        <translation>Бессерверная доставка не удалась</translation>
     </message>
     <message>
         <source>Unsupported</source>
@@ -16634,7 +16634,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Shared media is downloading (%1, %2)</source>
-        <translation>Общие медиаданные загружаются (%1, %2)</translation>
+        <translation>Медиафайл загружается (%1, %2)</translation>
     </message>
 </context>
 <context>
@@ -18415,7 +18415,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Failed</source>
-        <translation>Не удалось</translation>
+        <translation>Ошибка</translation>
     </message>
     <message>
         <source>Native message layout</source>
@@ -21782,15 +21782,15 @@ Do you still want to close the window?</source>
     <name>XMPP::LinkLocalService</name>
     <message>
         <source>The serverless name is too long for DNS-SD.</source>
-        <translation>Имя для работы без сервера слишком длинное для DNS-SD.</translation>
+        <translation>Бессерверное имя слишком длинное для DNS-SD.</translation>
     </message>
     <message>
         <source>Cannot publish the serverless address on this network.</source>
-        <translation>Невозможно опубликовать адрес для работы без сервера в этой сети.</translation>
+        <translation>Невозможно опубликовать бессерверный адрес в этой сети.</translation>
     </message>
     <message>
         <source>Cannot announce serverless presence.</source>
-        <translation>Невозможно объявить присутствие без сервера.</translation>
+        <translation>Невозможно объявить бессерверное присутствие.</translation>
     </message>
     <message>
         <source>Cannot find the peer&apos;s TCP service.</source>
@@ -21802,7 +21802,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Too many serverless connections.</source>
-        <translation>Слишком много соединений без сервера.</translation>
+        <translation>Слишком много бессерверных соединений.</translation>
     </message>
     <message>
         <source>The peer&apos;s TCP connection failed.</source>
@@ -21810,23 +21810,23 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Serverless peer lookup timed out.</source>
-        <translation>Время поиска собеседника без сервера истекло.</translation>
+        <translation>Время поиска бессерверного собеседника истекло.</translation>
     </message>
     <message>
         <source>Invalid serverless user@machine identity.</source>
-        <translation>Неверная идентичность user@machine для работы без сервера.</translation>
+        <translation>Неверная бессерверная идентичность user@machine.</translation>
     </message>
     <message>
         <source>Cannot start serverless messaging on the selected network interface or port.</source>
-        <translation>Невозможно запустить обмен сообщениями без сервера на выбранном сетевом интерфейсе или порту.</translation>
+        <translation>Невозможно запустить бессерверный обмен сообщениями на выбранном сетевом интерфейсе или порту.</translation>
     </message>
     <message>
         <source>Serverless discovery failed.</source>
-        <translation>Не удалось выполнить обнаружение без сервера.</translation>
+        <translation>Не удалось выполнить бессерверное обнаружение.</translation>
     </message>
     <message>
         <source>This Iris build does not include JDNS serverless discovery.</source>
-        <translation>Эта сборка Iris не включает обнаружение без сервера JDNS.</translation>
+        <translation>Эта сборка Iris не включает бессерверное обнаружение JDNS.</translation>
     </message>
     <message>
         <source>This user is no longer visible on the local network.</source>
@@ -21834,7 +21834,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Too many pending serverless messages or connections.</source>
-        <translation>Слишком много ожидающих сообщений или соединений без сервера.</translation>
+        <translation>Слишком много ожидающих бессерверных сообщений или соединений.</translation>
     </message>
 </context>
 <context>
