@@ -2355,7 +2355,7 @@ Turn on your camera or share your screen</source>
     </message>
     <message>
         <source>Call ended</source>
-        <translation>Вызов завершён</translation>
+        <translation>Звонок завершён</translation>
     </message>
     <message>
         <source>Whiteboard</source>
@@ -9148,10 +9148,10 @@ Size: %2</source>
     </message>
     <message numerus="yes">
         <source>%n minutes ago</source>
-        <translation>
-            <numerusform>%n минуту назад</numerusform>
-            <numerusform>%n минуты назад</numerusform>
-            <numerusform>%n минут назад</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -9160,10 +9160,10 @@ Size: %2</source>
     </message>
     <message numerus="yes">
         <source>%n hours ago</source>
-        <translation>
-            <numerusform>%n час назад</numerusform>
-            <numerusform>%n часа назад</numerusform>
-            <numerusform>%n часов назад</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -14793,7 +14793,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Whiteboard invitation</source>
-        <translation>Приглашение порисовать</translation>
+        <translation>Приглашение к доске для рисования</translation>
     </message>
     <message>
         <source>Incoming file</source>
@@ -15865,7 +15865,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Call ended</source>
-        <translation>Вызов завершён</translation>
+        <translation>Звонок завершён</translation>
     </message>
     <message>
         <source>Other party canceled call.</source>
@@ -16170,7 +16170,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Whiteboard invitation</source>
-        <translation>Приглашение порисовать</translation>
+        <translation>Приглашение к доске для рисования</translation>
     </message>
     <message>
         <source>Accept</source>
