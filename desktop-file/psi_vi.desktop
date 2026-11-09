@@ -12,14 +12,12 @@ Terminal=false
 X-KDE-StartupNotify=true
 StartupWMClass=Psi
 Categories=Network;InstantMessaging;Qt;
-Keywords=XMPP;Jabber;Chat;InstantMessaging;
-Actions=SelectProfile;
+Keywords=XMPP;Jabber;chat;instant messaging;messenger;IM;VoIP;calls;file sharing;
+Actions=SelectProfile;QuitApplication;
 
 # Translations
-
-
-# Translations
-Comment[vi]=Liên lạc qua mạng XMPP nhé
+Comment[vi]=Liên lạc qua mạng XMPP
 GenericName[vi]=Ứng dụng khách XMPP
-Name[vi]=Psi+
 Icon[vi]=psi-plus
+Keywords[vi]=XMPP;Jabber;Psi;trò chuyện;tin nhắn tức thời;trình nhắn tin;IM;VoIP;cuộc gọi;chia sẻ tập tin;
+Name[vi]=Psi+

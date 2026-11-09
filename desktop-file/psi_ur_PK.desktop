@@ -12,14 +12,12 @@ Terminal=false
 X-KDE-StartupNotify=true
 StartupWMClass=Psi
 Categories=Network;InstantMessaging;Qt;
-Keywords=XMPP;Jabber;Chat;InstantMessaging;
-Actions=SelectProfile;
+Keywords=XMPP;Jabber;chat;instant messaging;messenger;IM;VoIP;calls;file sharing;
+Actions=SelectProfile;QuitApplication;
 
 # Translations
-
-
-# Translations
-Comment[ur_PK]=جیبر نیٹ ورک پر مواصلت کریں
-GenericName[ur_PK]=جیبر وصول کار
-Name[ur_PK]=+Psi
+Comment[ur_PK]=XMPP نیٹ ورک پر مواصلات کریں
+GenericName[ur_PK]=XMPP کلائنٹ
 Icon[ur_PK]=psi-plus
+Keywords[ur_PK]=XMPP;Jabber;Psi;چیٹ;فوری پیغامات;مسینجر;IM;VoIP;کالیں;فائلوں کا اشتراک;
+Name[ur_PK]=+Psi

@@ -12,12 +12,10 @@ Terminal=false
 X-KDE-StartupNotify=true
 StartupWMClass=Psi
 Categories=Network;InstantMessaging;Qt;
-Keywords=XMPP;Jabber;Chat;InstantMessaging;
-Actions=SelectProfile;
+Keywords=XMPP;Jabber;chat;instant messaging;messenger;IM;VoIP;calls;file sharing;
+Actions=SelectProfile;QuitApplication;
 
 # Translations
-
-
-# Translations
-Name[pt]=Psi+
 Icon[pt]=psi-plus
+Keywords[pt]=XMPP;Jabber;Psi;conversa;mensagens instantâneas;mensageiro;IM;VoIP;chamadas;partilha de ficheiros;
+Name[pt]=Psi+

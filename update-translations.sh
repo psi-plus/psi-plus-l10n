@@ -8,8 +8,9 @@
 
 set -e
 
-export CUR_DIR="$(dirname $(realpath -s ${0}))"
-export MAIN_DIR="$(realpath -s ${CUR_DIR}/..)"
+CUR_DIR="$(dirname "$(realpath "${0}")")"
+MAIN_DIR="$(dirname "${CUR_DIR}")"
+export CUR_DIR MAIN_DIR
 
 PROGRAM_NAME="psi-plus"
 PSIPLUS_DIR="${MAIN_DIR}/psi-plus-snapshots"
@@ -106,7 +107,7 @@ case "${1}" in
     cp *.ts "${CUR_DIR}/translations/"
 
     cd "${LANG_DIR}/translations/psi-plus.desktop-file/"
-    cp *.desktop "${CUR_DIR}/desktop-file/"
+    cp psi_*.desktop "${CUR_DIR}/desktop-file/"
 
     cd "${CUR_DIR}"
     git status
@@ -261,26 +262,23 @@ case "${1}" in
 
     GENERICNAME_FULL_DATA=$(grep -r "GenericName\[" "${CUR_DIR}/desktop-file/" | grep -v '/psi.desktop:' | grep -v '/psi_en.desktop:')
     GENERICNAME_FILTERED_DATA=$(echo "${GENERICNAME_FULL_DATA}" | sed -ne 's|^.*/psi_.*.desktop:\(.*\)$|\1|p')
-    GENERICNAME_SORTED_DATA=$(echo "${GENERICNAME_FILTERED_DATA}" | sort -uV)
+    GENERICNAME_SORTED_DATA=$(echo "${GENERICNAME_FILTERED_DATA}" | sort -uV | awk -F= '!s[$1]++')
 
     COMMENT_FULL_DATA=$(grep -r "Comment\[" "${CUR_DIR}/desktop-file/" | grep -v '/psi.desktop:' | grep -v '/psi_en.desktop:')
     COMMENT_FILTERED_DATA=$(echo "${COMMENT_FULL_DATA}" | sed -ne 's|^.*/psi_.*.desktop:\(.*\)$|\1|p')
-    COMMENT_SORTED_DATA=$(echo "${COMMENT_FILTERED_DATA}" | sort -uV)
+    COMMENT_SORTED_DATA=$(echo "${COMMENT_FILTERED_DATA}" | sort -uV | awk -F= '!s[$1]++')
 
     KEYWORDS_FULL_DATA=$(grep -r "Keywords\[" "${CUR_DIR}/desktop-file/" | grep -v '/psi.desktop:' | grep -v '/psi_en.desktop:')
     KEYWORDS_FILTERED_DATA=$(echo "${KEYWORDS_FULL_DATA}" | sed -ne 's|^.*/psi_.*.desktop:\(.*\)$|\1|p')
-    KEYWORDS_SORTED_DATA=$(echo "${KEYWORDS_FILTERED_DATA}" | sort -uV)
+    KEYWORDS_SORTED_DATA=$(echo "${KEYWORDS_FILTERED_DATA}" | sort -uV | awk -F= '!s[$1]++')
 
     DESKTOP_FILE="${CUR_DIR}/desktop-file/psi.desktop"
-    grep -v "GenericName\[" "${DESKTOP_FILE}" > "${DESKTOP_FILE}.tmp"
+    egrep -v "GenericName\[|Comment\[|Keywords\[" "${DESKTOP_FILE}" > "${DESKTOP_FILE}.tmp"
     mv -f "${DESKTOP_FILE}.tmp" "${DESKTOP_FILE}"
-    grep -v "Comment\[" "${DESKTOP_FILE}" > "${DESKTOP_FILE}.tmp"
-    mv -f "${DESKTOP_FILE}.tmp" "${DESKTOP_FILE}"
-    grep -v "Keywords\[" "${DESKTOP_FILE}" > "${DESKTOP_FILE}.tmp"
-    mv -f "${DESKTOP_FILE}.tmp" "${DESKTOP_FILE}"
-    echo "${GENERICNAME_SORTED_DATA}" >> "${DESKTOP_FILE}"
-    echo "${COMMENT_SORTED_DATA}" >> "${DESKTOP_FILE}"
-    echo "${KEYWORDS_SORTED_DATA}" >> "${DESKTOP_FILE}"
+
+    [ -n "${GENERICNAME_SORTED_DATA}" ] && echo "${GENERICNAME_SORTED_DATA}" >> "${DESKTOP_FILE}"
+    [ -n "${COMMENT_SORTED_DATA}" ] && echo "${COMMENT_SORTED_DATA}" >> "${DESKTOP_FILE}"
+    [ -n "${KEYWORDS_SORTED_DATA}" ] && echo "${KEYWORDS_SORTED_DATA}" >> "${DESKTOP_FILE}"
 
     # Update .desktop file for English localization
     cp -f "${CUR_DIR}/desktop-file/psi.desktop" \
