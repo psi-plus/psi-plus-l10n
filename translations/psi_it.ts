@@ -1932,8 +1932,14 @@ Per inviare comandi, basta usare normali messaggi, quindi questo plugin funzione
     <message>
         <source>Play Battleship with your friends.
 This is a paper board game where you try to sink the opponent&apos;s ships.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation>Gioca a Battaglia Navale con i tuoi amici.
+        <translation type="vanished">Gioca a Battaglia Navale con i tuoi amici.
 Questo è un gioco da tavolo di carta in cui devi affondare le navi dell&apos;avversario. Per invitare un amico a una partita, puoi usare la voce del menu del contatto o il pulsante sulla barra degli strumenti nella finestra di chat.</translation>
+    </message>
+    <message>
+        <source>Play Battleship with your friends.
+This is a paper board game where you try to sink the opponent&apos;s ships.
+To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

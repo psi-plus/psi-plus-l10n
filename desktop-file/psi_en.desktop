@@ -16,13 +16,6 @@ Keywords=XMPP;Jabber;chat;instant messaging;messenger;IM;VoIP;calls;file sharing
 Actions=SelectProfile;QuitApplication;
 
 # Translations
-Keywords[be]=XMPP;Jabber;Псі;чат;імгненныя паведамленні;месенджар;IM;VoIP;званкі;абмен файламі;
-Keywords[bg]=XMPP;Jabber;Пси;чат;моментални съобщения;месинджър;IM;VoIP;обаждания;споделяне на файлове;
-Keywords[kk]=XMPP;Jabber;Пси;чат;жедел хабарламалар;мессенджер;IM;VoIP;қоңыраулар;файлдармен бөлісу;
-Keywords[mk]=XMPP;Jabber;Пси;чат;инстант пораки;месенџер;IM;VoIP;повици;споделување файлови;
-Keywords[sr]=XMPP;Jabber;Пси;чат;инстант поруке;месенџер;IM;VoIP;позиви;дељење датотека;
-Keywords[ru]=XMPP;Jabber;Пси;чат;мгновенные сообщения;мессенджер;IM;VoIP;звонки;обмен файлами;
-Keywords[uk]=XMPP;Jabber;Псі;чат;миттєві повідомлення;месенджер;IM;VoIP;дзвінки;обмін файлами;
 GenericName[be]=Кліент XMPP
 GenericName[bg]=Клиент за XMPP
 GenericName[ca]=Client XMPP
@@ -75,3 +68,10 @@ Comment[ur_PK]=XMPP نیٹ ورک پر مواصلت کریں
 Comment[vi]=Liên lạc qua mạng XMPP
 Comment[zh_CN]=通过 XMPP 网络通信
 Comment[zh_TW]=透過 XMPP 網路進行通訊
+Keywords[be]=XMPP;Jabber;Псі;чат;імгненныя паведамленні;месенджар;IM;VoIP;званкі;абмен файламі;
+Keywords[bg]=XMPP;Jabber;Пси;чат;моментални съобщения;месинджър;IM;VoIP;обаждания;споделяне на файлове;
+Keywords[kk]=XMPP;Jabber;Пси;чат;жедел хабарламалар;мессенджер;IM;VoIP;қоңыраулар;файлдармен бөлісу;
+Keywords[mk]=XMPP;Jabber;Пси;чат;инстант пораки;месенџер;IM;VoIP;повици;споделување файлови;
+Keywords[sr]=XMPP;Jabber;Пси;чат;инстант поруке;месенџер;IM;VoIP;позиви;дељење датотека;
+Keywords[ru]=XMPP;Jabber;Пси;чат;мгновенные сообщения;мессенджер;IM;VoIP;звонки;обмен файлами;
+Keywords[uk]=XMPP;Jabber;Псі;чат;миттєві повідомлення;месенджер;IM;VoIP;дзвінки;обмін файлами;

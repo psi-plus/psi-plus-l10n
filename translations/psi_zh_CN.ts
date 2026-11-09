@@ -1925,7 +1925,13 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Play Battleship with your friends.
 This is a paper board game where you try to sink the opponent&apos;s ships.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation>和好友玩“战船“游戏。这是一个纸上棋类游戏，目标是击沉对手的战船。要邀请好友进行游戏，可使用联系人菜单项或聊天窗口中工具栏上的按钮。</translation>
+        <translation type="vanished">和好友玩“战船“游戏。这是一个纸上棋类游戏，目标是击沉对手的战船。要邀请好友进行游戏，可使用联系人菜单项或聊天窗口中工具栏上的按钮。</translation>
+    </message>
+    <message>
+        <source>Play Battleship with your friends.
+This is a paper board game where you try to sink the opponent&apos;s ships.
+To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

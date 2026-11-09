@@ -1939,8 +1939,14 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Play Battleship with your friends.
 This is a paper board game where you try to sink the opponent&apos;s ships.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation>Зіграйте в «Морський бій» із друзями.
+        <translation type="vanished">Зіграйте в «Морський бій» із друзями.
 Це настільна гра, в якій потрібно потопити кораблі суперника. Щоб запросити друга до гри, скористайтеся пунктом меню «Контакти» або кнопкою на панелі інструментів у вікні чату.</translation>
+    </message>
+    <message>
+        <source>Play Battleship with your friends.
+This is a paper board game where you try to sink the opponent&apos;s ships.
+To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

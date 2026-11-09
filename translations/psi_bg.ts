@@ -1797,8 +1797,14 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Play Battleship with your friends.
 This is a paper board game where you try to sink the opponent&apos;s ships.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation>Играйте „Морски бой“ с приятелите си.
+        <translation type="vanished">Играйте „Морски бой“ с приятелите си.
  Това е настолна игра на хартия, в която се опитвате да потопите корабите на противника. За да поканите приятел за игра, можете да използвате елемента от менюто за контакт или бутона на лентата с инструменти в прозореца за чат.</translation>
+    </message>
+    <message>
+        <source>Play Battleship with your friends.
+This is a paper board game where you try to sink the opponent&apos;s ships.
+To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

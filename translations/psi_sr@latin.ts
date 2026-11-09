@@ -1833,8 +1833,14 @@ Lista izuzetaka za JID-ove ima dva režima rada:
     <message>
         <source>Play Battleship with your friends.
 This is a paper board game where you try to sink the opponent&apos;s ships.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation>Igrajte Potapanje brodova sa prijateljima.
+        <translation type="vanished">Igrajte Potapanje brodova sa prijateljima.
 Ovo je društvena igra na papiru u kojoj pokušavate da potopite protivničke brodove. Da biste pozvali prijatelja na igru, možete koristiti stavku menija kontakta ili dugme na traci sa alatkama u prozoru razgovora.</translation>
+    </message>
+    <message>
+        <source>Play Battleship with your friends.
+This is a paper board game where you try to sink the opponent&apos;s ships.
+To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
