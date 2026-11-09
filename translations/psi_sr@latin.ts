@@ -2607,6 +2607,73 @@ Da li i dalje želite da zatvorite prozor?</translation>
     </message>
 </context>
 <context>
+    <name>ChatTimestamp</name>
+    <message>
+        <source>just now</source>
+        <translation type="unfinished">upravo sada</translation>
+    </message>
+    <message>
+        <source>1 minute ago</source>
+        <translation type="unfinished">pre 1 minut</translation>
+    </message>
+    <message numerus="yes">
+        <source>%n minutes ago</source>
+        <translation type="unfinished">
+            <numerusform>pre %n minut</numerusform>
+            <numerusform>pre %n minuta</numerusform>
+            <numerusform>pre %n minuta</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>1 hour ago</source>
+        <translation type="unfinished">pre 1 sat</translation>
+    </message>
+    <message numerus="yes">
+        <source>%n hours ago</source>
+        <translation type="unfinished">
+            <numerusform>pre %n sat</numerusform>
+            <numerusform>pre %n sata</numerusform>
+            <numerusform>pre %n sati</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>1 day ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n days ago</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>1 month ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n months ago</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>1 year ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n years ago</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+</context>
+<context>
     <name>ChatView</name>
     <message>
         <source>Quote</source>
@@ -8892,15 +8959,15 @@ Veličina: %2</translation>
     </message>
     <message>
         <source>just now</source>
-        <translation>upravo sada</translation>
+        <translation type="vanished">upravo sada</translation>
     </message>
     <message>
         <source>1 minute ago</source>
-        <translation>pre 1 minut</translation>
+        <translation type="vanished">pre 1 minut</translation>
     </message>
     <message numerus="yes">
         <source>%n minutes ago</source>
-        <translation>
+        <translation type="vanished">
             <numerusform>pre %n minut</numerusform>
             <numerusform>pre %n minuta</numerusform>
             <numerusform>pre %n minuta</numerusform>
@@ -8908,11 +8975,11 @@ Veličina: %2</translation>
     </message>
     <message>
         <source>1 hour ago</source>
-        <translation>pre 1 sat</translation>
+        <translation type="vanished">pre 1 sat</translation>
     </message>
     <message numerus="yes">
         <source>%n hours ago</source>
-        <translation>
+        <translation type="vanished">
             <numerusform>pre %n sat</numerusform>
             <numerusform>pre %n sata</numerusform>
             <numerusform>pre %n sati</numerusform>
@@ -9998,6 +10065,10 @@ Razlog: %1.</translation>
     <message>
         <source>Show status with priority</source>
         <translation>Pokaži prioritet statusa</translation>
+    </message>
+    <message>
+        <source>Message time format (all themes)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11913,6 +11984,18 @@ Nazivi opcija ne smeju biti prazni, završavati se tačkom ili sadržati „..�
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation type="vanished">&lt;p&gt;Ovom opcijom se trajno čuva dnevnik razgovora .&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <source>Time (HH:mm)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Relative (5 minutes ago)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use one timestamp format in chats, group chats and reply previews, regardless of the message theme.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -2721,6 +2721,73 @@ Do you still want to close the window?</source>
     </message>
 </context>
 <context>
+    <name>ChatTimestamp</name>
+    <message>
+        <source>just now</source>
+        <translation type="unfinished">щойно</translation>
+    </message>
+    <message>
+        <source>1 minute ago</source>
+        <translation type="unfinished">1 хвилину тому</translation>
+    </message>
+    <message numerus="yes">
+        <source>%n minutes ago</source>
+        <translation type="unfinished">
+            <numerusform>%n хвилину тому</numerusform>
+            <numerusform>%n хвилини тому</numerusform>
+            <numerusform>%n хвилин тому</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>1 hour ago</source>
+        <translation type="unfinished">1 годину тому</translation>
+    </message>
+    <message numerus="yes">
+        <source>%n hours ago</source>
+        <translation type="unfinished">
+            <numerusform>%n година тому</numerusform>
+            <numerusform>%n години тому</numerusform>
+            <numerusform>%n годин тому</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>1 day ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n days ago</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>1 month ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n months ago</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>1 year ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n years ago</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+</context>
+<context>
     <name>ChatView</name>
     <message>
         <source>Quote</source>
@@ -9147,15 +9214,15 @@ Size: %2</source>
     </message>
     <message>
         <source>just now</source>
-        <translation>щойно</translation>
+        <translation type="vanished">щойно</translation>
     </message>
     <message>
         <source>1 minute ago</source>
-        <translation>1 хвилину тому</translation>
+        <translation type="vanished">1 хвилину тому</translation>
     </message>
     <message numerus="yes">
         <source>%n minutes ago</source>
-        <translation>
+        <translation type="vanished">
             <numerusform>%n хвилину тому</numerusform>
             <numerusform>%n хвилини тому</numerusform>
             <numerusform>%n хвилин тому</numerusform>
@@ -9163,11 +9230,11 @@ Size: %2</source>
     </message>
     <message>
         <source>1 hour ago</source>
-        <translation>1 годину тому</translation>
+        <translation type="vanished">1 годину тому</translation>
     </message>
     <message numerus="yes">
         <source>%n hours ago</source>
-        <translation>
+        <translation type="vanished">
             <numerusform>%n година тому</numerusform>
             <numerusform>%n години тому</numerusform>
             <numerusform>%n годин тому</numerusform>
@@ -10291,6 +10358,10 @@ Reason: %1.</source>
     <message>
         <source>Show status with priority</source>
         <translation>Показувати пріоритет повідомлення статусу </translation>
+    </message>
+    <message>
+        <source>Message time format (all themes)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12272,6 +12343,18 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation type="vanished">P&gt;Ця опція вказує зберігати історію розмови завжди.&lt;/P&gt;</translation>
+    </message>
+    <message>
+        <source>Time (HH:mm)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Relative (5 minutes ago)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use one timestamp format in chats, group chats and reply previews, regardless of the message theme.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

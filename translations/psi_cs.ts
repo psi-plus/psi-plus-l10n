@@ -2698,6 +2698,73 @@ Opravdu zavřít toto okno?</translation>
     </message>
 </context>
 <context>
+    <name>ChatTimestamp</name>
+    <message>
+        <source>just now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 minute ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n minutes ago</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>1 hour ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n hours ago</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>1 day ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n days ago</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>1 month ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n months ago</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>1 year ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n years ago</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+</context>
+<context>
     <name>ChatView</name>
     <message>
         <source>Quote</source>
@@ -9071,34 +9138,6 @@ Size: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>just now</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>1 minute ago</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message numerus="yes">
-        <source>%n minutes ago</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
-    </message>
-    <message>
-        <source>1 hour ago</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message numerus="yes">
-        <source>%n hours ago</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
-    </message>
-    <message>
         <source>Message retracted</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10216,6 +10255,10 @@ Důvod: %1.</translation>
     <message>
         <source>Show status with priority</source>
         <translation>Zobrazit stav s prioritou</translation>
+    </message>
+    <message>
+        <source>Message time format (all themes)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12201,6 +12244,18 @@ zprávy v chatu víde lidí)</translation>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation type="vanished">&lt;P&gt;Tato volba uchovává záznamy chatu navždy.&lt;/P&gt;</translation>
+    </message>
+    <message>
+        <source>Time (HH:mm)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Relative (5 minutes ago)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use one timestamp format in chats, group chats and reply previews, regardless of the message theme.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

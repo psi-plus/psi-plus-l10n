@@ -2714,6 +2714,68 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
 </context>
 <context>
+    <name>ChatTimestamp</name>
+    <message>
+        <source>just now</source>
+        <translation type="unfinished">adesso</translation>
+    </message>
+    <message>
+        <source>1 minute ago</source>
+        <translation type="unfinished">1 minuto fa</translation>
+    </message>
+    <message numerus="yes">
+        <source>%n minutes ago</source>
+        <translation type="unfinished">
+            <numerusform>%n minuto fa</numerusform>
+            <numerusform>%n minuti fa</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>1 hour ago</source>
+        <translation type="unfinished">1 ora fa</translation>
+    </message>
+    <message numerus="yes">
+        <source>%n hours ago</source>
+        <translation type="unfinished">
+            <numerusform>%n ora fa</numerusform>
+            <numerusform>%n ore fa</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>1 day ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n days ago</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>1 month ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n months ago</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>1 year ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n years ago</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+</context>
+<context>
     <name>ChatView</name>
     <message>
         <source>Quote</source>
@@ -9142,26 +9204,26 @@ Dimensione: %2</translation>
     </message>
     <message>
         <source>just now</source>
-        <translation>adesso</translation>
+        <translation type="vanished">adesso</translation>
     </message>
     <message>
         <source>1 minute ago</source>
-        <translation>1 minuto fa</translation>
+        <translation type="vanished">1 minuto fa</translation>
     </message>
     <message numerus="yes">
         <source>%n minutes ago</source>
-        <translation>
+        <translation type="vanished">
             <numerusform>%n minuto fa</numerusform>
             <numerusform>%n minuti fa</numerusform>
         </translation>
     </message>
     <message>
         <source>1 hour ago</source>
-        <translation>1 ora fa</translation>
+        <translation type="vanished">1 ora fa</translation>
     </message>
     <message numerus="yes">
         <source>%n hours ago</source>
-        <translation>
+        <translation type="vanished">
             <numerusform>%n ora fa</numerusform>
             <numerusform>%n ore fa</numerusform>
         </translation>
@@ -10281,6 +10343,10 @@ Argomento MUC per esempio.</translation>
     <message>
         <source>Show status with priority</source>
         <translation>Mostra stato con priorità</translation>
+    </message>
+    <message>
+        <source>Message time format (all themes)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12262,6 +12328,18 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation type="vanished">&lt;P&gt;Questa opzione conserva il registro della chat per sempre.&lt;/P&gt;</translation>
+    </message>
+    <message>
+        <source>Time (HH:mm)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Relative (5 minutes ago)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use one timestamp format in chats, group chats and reply previews, regardless of the message theme.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
