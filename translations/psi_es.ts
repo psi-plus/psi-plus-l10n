@@ -7213,19 +7213,19 @@ Puedes marcar o desmarcar un contacto para la eliminación de su historial desde
     </message>
     <message>
         <source>Invalid archive message</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensaje de archivo no válido</translation>
     </message>
     <message>
         <source>Invalid archive conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>Conversación de archivo no válida</translation>
     </message>
     <message>
         <source>Could not check locally deleted messages</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudieron comprobar los mensajes eliminados localmente</translation>
     </message>
     <message>
         <source>Cached archive positions changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Las posiciones del archivo en caché cambiaron</translation>
     </message>
 </context>
 <context>
@@ -7814,7 +7814,7 @@ Nota: Para su correcto funcionamiento, la opción options.ui.chat.central-toolba
     <name>ImageViewer</name>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Imagen</translation>
+        <translation>Imagen</translation>
     </message>
 </context>
 <context>
@@ -9163,11 +9163,11 @@ Tamaño: %2</translation>
     </message>
     <message>
         <source>Delete locally</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar localmente</translation>
     </message>
     <message>
         <source>Remove this message from this device. Cached files are kept.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar este mensaje de este dispositivo. Los archivos en caché se conservan.</translation>
     </message>
 </context>
 <context>
@@ -15582,11 +15582,11 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Delete locally</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar localmente</translation>
     </message>
     <message>
         <source>Could not delete this message locally. Refresh history and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo eliminar este mensaje localmente. Actualiza el historial e inténtalo de nuevo.</translation>
     </message>
 </context>
 <context>

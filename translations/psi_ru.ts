@@ -5207,7 +5207,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>Ready</source>
-        <translation> </translation>
+        <translation>Готово</translation>
     </message>
     <message>
         <source>Error</source>
@@ -7300,19 +7300,19 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Invalid archive message</source>
-        <translation type="unfinished"></translation>
+        <translation>Недопустимое сообщение архива</translation>
     </message>
     <message>
         <source>Invalid archive conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>Недопустимая беседа архива</translation>
     </message>
     <message>
         <source>Could not check locally deleted messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось проверить локально удалённые сообщения</translation>
     </message>
     <message>
         <source>Cached archive positions changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Кэшированные позиции архива изменились</translation>
     </message>
 </context>
 <context>
@@ -7933,7 +7933,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>ImageViewer</name>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Изображение</translation>
+        <translation>Изображение</translation>
     </message>
 </context>
 <context>
@@ -9310,11 +9310,11 @@ Size: %2</source>
     </message>
     <message>
         <source>Delete locally</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить локально</translation>
     </message>
     <message>
         <source>Remove this message from this device. Cached files are kept.</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить это сообщение с этого устройства. Кэшированные файлы сохранятся.</translation>
     </message>
 </context>
 <context>
@@ -15823,11 +15823,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Delete locally</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить локально</translation>
     </message>
     <message>
         <source>Could not delete this message locally. Refresh history and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось удалить это сообщение локально. Обновите историю и повторите попытку.</translation>
     </message>
 </context>
 <context>

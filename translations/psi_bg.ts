@@ -7093,19 +7093,19 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Invalid archive message</source>
-        <translation type="unfinished"></translation>
+        <translation>Невалидно архивно съобщение</translation>
     </message>
     <message>
         <source>Invalid archive conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>Невалиден архивен разговор</translation>
     </message>
     <message>
         <source>Could not check locally deleted messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Локално изтритите съобщения не можаха да се проверят</translation>
     </message>
     <message>
         <source>Cached archive positions changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Кешираните архивни позиции се промениха</translation>
     </message>
 </context>
 <context>
@@ -7700,7 +7700,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>ImageViewer</name>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Изображение</translation>
+        <translation>Изображение</translation>
     </message>
 </context>
 <context>
@@ -9071,11 +9071,11 @@ Size: %2</source>
     </message>
     <message>
         <source>Delete locally</source>
-        <translation type="unfinished"></translation>
+        <translation>Изтриване локално</translation>
     </message>
     <message>
         <source>Remove this message from this device. Cached files are kept.</source>
-        <translation type="unfinished"></translation>
+        <translation>Премахване на това съобщение от това устройство. Кешираните файлове се запазват.</translation>
     </message>
 </context>
 <context>
@@ -15410,11 +15410,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Delete locally</source>
-        <translation type="unfinished"></translation>
+        <translation>Изтриване локално</translation>
     </message>
     <message>
         <source>Could not delete this message locally. Refresh history and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Това съобщение не можа да се изтрие локално. Опреснете историята и опитайте отново.</translation>
     </message>
 </context>
 <context>

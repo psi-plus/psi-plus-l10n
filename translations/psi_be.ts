@@ -7196,19 +7196,19 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Invalid archive message</source>
-        <translation type="unfinished"></translation>
+        <translation>Няправільнае паведамленьне архіву</translation>
     </message>
     <message>
         <source>Invalid archive conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>Няправільная размова архіву</translation>
     </message>
     <message>
         <source>Could not check locally deleted messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Не атрымалася праверыць лакальна выдаленыя паведамленьні</translation>
     </message>
     <message>
         <source>Cached archive positions changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Кешаваныя пазіцыі архіву зьмяніліся</translation>
     </message>
 </context>
 <context>
@@ -7783,7 +7783,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>ImageViewer</name>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Выява</translation>
+        <translation>Выява</translation>
     </message>
 </context>
 <context>
@@ -9128,11 +9128,11 @@ Size: %2</source>
     </message>
     <message>
         <source>Delete locally</source>
-        <translation type="unfinished"></translation>
+        <translation>Выдаліць лакальна</translation>
     </message>
     <message>
         <source>Remove this message from this device. Cached files are kept.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выдаліць гэта паведамленьне з гэтай прылады. Кешаваныя файлы застануцца.</translation>
     </message>
 </context>
 <context>
@@ -15537,11 +15537,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Delete locally</source>
-        <translation type="unfinished"></translation>
+        <translation>Выдаліць лакальна</translation>
     </message>
     <message>
         <source>Could not delete this message locally. Refresh history and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не атрымалася выдаліць гэта паведамленьне лакальна. Абнавіце гісторыю і паспрабуйце зноў.</translation>
     </message>
 </context>
 <context>

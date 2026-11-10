@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@yandex.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2026-11-09
+# Updated: 2026-11-10
 # Version: N/A
 
 set -e
@@ -28,7 +28,7 @@ case "${1}" in
 "cm")
     # Creating correct git commit.
 
-    git commit -a -m 'Update translations from Transifex'
+    git commit -a -m 'Update translations'
 
 ;;
 "tag")

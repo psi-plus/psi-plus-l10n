@@ -6714,19 +6714,19 @@ Stik za odstranitev zgodovine lahko izberete ali prekličete v kontekstnem menij
     </message>
     <message>
         <source>Invalid archive message</source>
-        <translation type="unfinished"></translation>
+        <translation>Neveljavno sporočilo arhiva</translation>
     </message>
     <message>
         <source>Invalid archive conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>Neveljaven pogovor arhiva</translation>
     </message>
     <message>
         <source>Could not check locally deleted messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Ni bilo mogoče preveriti lokalno izbrisanih sporočil</translation>
     </message>
     <message>
         <source>Cached archive positions changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Predpomnjeni položaji arhiva so se spremenili</translation>
     </message>
 </context>
 <context>
@@ -7256,7 +7256,7 @@ Opomba: za pravilno delovanje mora biti možnost options.ui.chat.central-toolbar
     <name>ImageViewer</name>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Slika</translation>
+        <translation>Slika</translation>
     </message>
 </context>
 <context>
@@ -8585,11 +8585,11 @@ Velikost: %2</translation>
     </message>
     <message>
         <source>Delete locally</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši lokalno</translation>
     </message>
     <message>
         <source>Remove this message from this device. Cached files are kept.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrani to sporočilo iz te naprave. Predpomnjene datoteke se ohranijo.</translation>
     </message>
 </context>
 <context>
@@ -14660,11 +14660,11 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
     </message>
     <message>
         <source>Delete locally</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši lokalno</translation>
     </message>
     <message>
         <source>Could not delete this message locally. Refresh history and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tega sporočila ni bilo mogoče lokalno izbrisati. Osveži zgodovino in poskusi znova.</translation>
     </message>
 </context>
 <context>

@@ -6393,19 +6393,19 @@ Vi povas elekti aŭ malelekti kontakton por forigo de historio el la kunteksta m
     </message>
     <message>
         <source>Invalid archive message</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevalida mesaĝo de la arkivo</translation>
     </message>
     <message>
         <source>Invalid archive conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevalida konversacio de la arkivo</translation>
     </message>
     <message>
         <source>Could not check locally deleted messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne eblis kontroli loke forigitajn mesaĝojn</translation>
     </message>
     <message>
         <source>Cached archive positions changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaŝmemorigitaj pozicioj de la arkivo ŝanĝiĝis</translation>
     </message>
 </context>
 <context>
@@ -6935,7 +6935,7 @@ Noto: Por ĝusta funkciado, la opcio options.ui.chat.central-toolbar  devas esti
     <name>ImageViewer</name>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Bildo</translation>
+        <translation>Bildo</translation>
     </message>
 </context>
 <context>
@@ -8222,11 +8222,11 @@ Grando: %2</translation>
     </message>
     <message>
         <source>Delete locally</source>
-        <translation type="unfinished"></translation>
+        <translation>Forigi loke</translation>
     </message>
     <message>
         <source>Remove this message from this device. Cached files are kept.</source>
-        <translation type="unfinished"></translation>
+        <translation>Forigi ĉi tiun mesaĝon el ĉi tiu aparato. Kaŝmemorigitaj dosieroj restas konservataj.</translation>
     </message>
 </context>
 <context>
@@ -14126,11 +14126,11 @@ Kialo: %1.</translation>
     </message>
     <message>
         <source>Delete locally</source>
-        <translation type="unfinished"></translation>
+        <translation>Forigi loke</translation>
     </message>
     <message>
         <source>Could not delete this message locally. Refresh history and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne eblis forigi ĉi tiun mesaĝon loke. Aktualigu la historion kaj provu denove.</translation>
     </message>
 </context>
 <context>

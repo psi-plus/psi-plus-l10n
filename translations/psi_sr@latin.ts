@@ -7088,19 +7088,19 @@ Možete odabrati ili ukloniti kontakt za istoriju preko menija kontakata ili pre
     </message>
     <message>
         <source>Invalid archive message</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevažeća poruka arhive</translation>
     </message>
     <message>
         <source>Invalid archive conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevažeći razgovor arhive</translation>
     </message>
     <message>
         <source>Could not check locally deleted messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće proveriti lokalno obrisane poruke</translation>
     </message>
     <message>
         <source>Cached archive positions changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Keširane pozicije arhive su se promenile</translation>
     </message>
 </context>
 <context>
@@ -7703,7 +7703,7 @@ Napomena: Da bi radili ispravno, opcija options.ui.chat.central-toolbar mora bit
     <name>ImageViewer</name>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Slika</translation>
+        <translation>Slika</translation>
     </message>
 </context>
 <context>
@@ -9072,11 +9072,11 @@ Veličina: %2</translation>
     </message>
     <message>
         <source>Delete locally</source>
-        <translation type="unfinished"></translation>
+        <translation>Obriši lokalno</translation>
     </message>
     <message>
         <source>Remove this message from this device. Cached files are kept.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukloni ovu poruku sa ovog uređaja. Keširani fajlovi se čuvaju.</translation>
     </message>
 </context>
 <context>
@@ -15425,11 +15425,11 @@ Razlog: %1.</translation>
     </message>
     <message>
         <source>Delete locally</source>
-        <translation type="unfinished"></translation>
+        <translation>Obriši lokalno</translation>
     </message>
     <message>
         <source>Could not delete this message locally. Refresh history and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće obrisati ovu poruku lokalno. Osvežite istoriju i pokušajte ponovo.</translation>
     </message>
 </context>
 <context>

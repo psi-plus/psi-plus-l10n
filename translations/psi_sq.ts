@@ -7185,19 +7185,19 @@ Mund të përzgjidhni ose shpërzgjidhni një kontakt për heqje historiku prej 
     </message>
     <message>
         <source>Invalid archive message</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesazh i pavlefshëm i arkivit</translation>
     </message>
     <message>
         <source>Invalid archive conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>Bisedë e pavlefshme e arkivit</translation>
     </message>
     <message>
         <source>Could not check locally deleted messages</source>
-        <translation type="unfinished"></translation>
+        <translation>S’u arrit të kontrolloheshin mesazhet e fshira lokalisht</translation>
     </message>
     <message>
         <source>Cached archive positions changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Pozicionet e arkivit të ruajtura në fshehtë ndryshuan</translation>
     </message>
 </context>
 <context>
@@ -7782,7 +7782,7 @@ Shënim: Që të punojë si duhet, mundësia options.ui.chat.central-toolbar  du
     <name>ImageViewer</name>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Imazh</translation>
+        <translation>Imazh</translation>
     </message>
 </context>
 <context>
@@ -9108,11 +9108,11 @@ Madhësi: %2</translation>
     </message>
     <message>
         <source>Delete locally</source>
-        <translation type="unfinished"></translation>
+        <translation>Fshije lokalisht</translation>
     </message>
     <message>
         <source>Remove this message from this device. Cached files are kept.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiqe këtë mesazh prej kësaj pajisjeje. Kartelat e memorizuara ruhen.</translation>
     </message>
 </context>
 <context>
@@ -15359,11 +15359,11 @@ Arsye: %1.</translation>
     </message>
     <message>
         <source>Delete locally</source>
-        <translation type="unfinished"></translation>
+        <translation>Fshije lokalisht</translation>
     </message>
     <message>
         <source>Could not delete this message locally. Refresh history and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>S’u arrit të fshihej ky mesazh lokalisht. Rifreskoje historikun dhe riprovoni.</translation>
     </message>
 </context>
 <context>

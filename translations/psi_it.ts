@@ -7291,19 +7291,19 @@ Puoi selezionare o deselezionare un contatto dalla rimozione cronologia dal menu
     </message>
     <message>
         <source>Invalid archive message</source>
-        <translation type="unfinished"></translation>
+        <translation>Messaggio di archivio non valido</translation>
     </message>
     <message>
         <source>Invalid archive conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>Conversazione di archivio non valida</translation>
     </message>
     <message>
         <source>Could not check locally deleted messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile controllare i messaggi eliminati localmente</translation>
     </message>
     <message>
         <source>Cached archive positions changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Le posizioni dell&apos;archivio in cache sono cambiate</translation>
     </message>
 </context>
 <context>
@@ -7924,7 +7924,7 @@ Nota: Per funzionare correttamente, l&apos;opzione options.ui.chat.central-toolb
     <name>ImageViewer</name>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Immagine</translation>
+        <translation>Immagine</translation>
     </message>
 </context>
 <context>
@@ -9315,11 +9315,11 @@ Dimensione: %2</translation>
     </message>
     <message>
         <source>Delete locally</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina localmente</translation>
     </message>
     <message>
         <source>Remove this message from this device. Cached files are kept.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rimuovi questo messaggio da questo dispositivo. I file in cache vengono conservati.</translation>
     </message>
 </context>
 <context>
@@ -15821,11 +15821,11 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Delete locally</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina localmente</translation>
     </message>
     <message>
         <source>Could not delete this message locally. Refresh history and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile eliminare questo messaggio localmente. Aggiorna la cronologia e riprova.</translation>
     </message>
 </context>
 <context>

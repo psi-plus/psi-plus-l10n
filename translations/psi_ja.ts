@@ -7041,19 +7041,19 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Invalid archive message</source>
-        <translation type="unfinished"></translation>
+        <translation>無効なアーカイブメッセージ</translation>
     </message>
     <message>
         <source>Invalid archive conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>無効なアーカイブ会話</translation>
     </message>
     <message>
         <source>Could not check locally deleted messages</source>
-        <translation type="unfinished"></translation>
+        <translation>ローカルで削除されたメッセージを確認できませんでした</translation>
     </message>
     <message>
         <source>Cached archive positions changed</source>
-        <translation type="unfinished"></translation>
+        <translation>キャッシュされたアーカイブの位置が変更されました</translation>
     </message>
 </context>
 <context>
@@ -7598,7 +7598,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>ImageViewer</name>
     <message>
         <source>Image</source>
-        <translation type="unfinished">画像</translation>
+        <translation>画像</translation>
     </message>
 </context>
 <context>
@@ -8948,11 +8948,11 @@ Size: %2</source>
     </message>
     <message>
         <source>Delete locally</source>
-        <translation type="unfinished"></translation>
+        <translation>ローカルで削除</translation>
     </message>
     <message>
         <source>Remove this message from this device. Cached files are kept.</source>
-        <translation type="unfinished"></translation>
+        <translation>このメッセージをこのデバイスから削除します。キャッシュされたファイルは保持されます。</translation>
     </message>
 </context>
 <context>
@@ -15082,11 +15082,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Delete locally</source>
-        <translation type="unfinished"></translation>
+        <translation>ローカルで削除</translation>
     </message>
     <message>
         <source>Could not delete this message locally. Refresh history and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>このメッセージをローカルで削除できませんでした。履歴を更新してもう一度お試しください。</translation>
     </message>
 </context>
 <context>

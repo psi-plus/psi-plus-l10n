@@ -6362,19 +6362,19 @@ Kontakt na odstránenie histórie môžeš vybrať alebo zrušiť výber v konte
     </message>
     <message>
         <source>Invalid archive message</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatná správa archívu</translation>
     </message>
     <message>
         <source>Invalid archive conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatná konverzácia archívu</translation>
     </message>
     <message>
         <source>Could not check locally deleted messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodarilo sa skontrolovať lokálne odstránené správy</translation>
     </message>
     <message>
         <source>Cached archive positions changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Pozície archívu vo vyrovnávacej pamäti sa zmenili</translation>
     </message>
 </context>
 <context>
@@ -6904,7 +6904,7 @@ Poznámka: Aby fungoval správne, možnosť options.ui.chat.central-toolbar  mus
     <name>ImageViewer</name>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Obrázok</translation>
+        <translation>Obrázok</translation>
     </message>
 </context>
 <context>
@@ -8183,11 +8183,11 @@ Veľkosť: %2</translation>
     </message>
     <message>
         <source>Delete locally</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrániť lokálne</translation>
     </message>
     <message>
         <source>Remove this message from this device. Cached files are kept.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrániť túto správu z tohto zariadenia. Súbory vo vyrovnávacej pamäti sa zachovajú.</translation>
     </message>
 </context>
 <context>
@@ -14060,11 +14060,11 @@ Podrobnosti: %1</translation>
     </message>
     <message>
         <source>Delete locally</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrániť lokálne</translation>
     </message>
     <message>
         <source>Could not delete this message locally. Refresh history and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Túto správu nebolo možné odstrániť lokálne. Obnovte históriu a skúste to znova.</translation>
     </message>
 </context>
 <context>

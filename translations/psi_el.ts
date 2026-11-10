@@ -6537,19 +6537,19 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Invalid archive message</source>
-        <translation type="unfinished"></translation>
+        <translation>Μη έγκυρο μήνυμα αρχείου</translation>
     </message>
     <message>
         <source>Invalid archive conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>Μη έγκυρη συνομιλία αρχείου</translation>
     </message>
     <message>
         <source>Could not check locally deleted messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν ήταν δυνατός ο έλεγχος των τοπικά διαγραμμένων μηνυμάτων</translation>
     </message>
     <message>
         <source>Cached archive positions changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Οι προσωρινά αποθηκευμένες θέσεις του αρχείου άλλαξαν</translation>
     </message>
 </context>
 <context>
@@ -7102,7 +7102,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>ImageViewer</name>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Εικόνα</translation>
+        <translation>Εικόνα</translation>
     </message>
 </context>
 <context>
@@ -8413,11 +8413,11 @@ Size: %2</source>
     </message>
     <message>
         <source>Delete locally</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή τοπικά</translation>
     </message>
     <message>
         <source>Remove this message from this device. Cached files are kept.</source>
-        <translation type="unfinished"></translation>
+        <translation>Αφαίρεση αυτού του μηνύματος από αυτή τη συσκευή. Τα προσωρινά αποθηκευμένα αρχεία διατηρούνται.</translation>
     </message>
 </context>
 <context>
@@ -14425,11 +14425,11 @@ Details: %1</source>
     </message>
     <message>
         <source>Delete locally</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή τοπικά</translation>
     </message>
     <message>
         <source>Could not delete this message locally. Refresh history and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν ήταν δυνατή η τοπική διαγραφή αυτού του μηνύματος. Ανανεώστε το ιστορικό και δοκιμάστε ξανά.</translation>
     </message>
 </context>
 <context>
