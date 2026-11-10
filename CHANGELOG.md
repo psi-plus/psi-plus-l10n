@@ -1,6 +1,9 @@
+# Psi+ translations changelog
+
 2026-11-11:
 * Update script: impove work with desktop files
 * Update very old translations using LLM
+* Convert CHANGELOG to CHANGELOG.md
 * Add STATUS.md
 
 2023-02-26:
