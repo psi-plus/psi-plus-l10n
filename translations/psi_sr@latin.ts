@@ -1840,7 +1840,9 @@ Ovo je društvena igra na papiru u kojoj pokušavate da potopite protivničke br
         <source>Play Battleship with your friends.
 This is a paper board game where you try to sink the opponent&apos;s ships.
 To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Igrajte Potapanje brodova sa prijateljima.
+Ovo je društvena igra na papiru u kojoj pokušavate da potopite protivničke brodove.
+Da biste pozvali prijatelja na igru, možete koristiti stavku menija kontakta ili dugme na traci sa alatkama u prozoru razgovora.</translation>
     </message>
 </context>
 <context>
@@ -2610,15 +2612,15 @@ Da li i dalje želite da zatvorite prozor?</translation>
     <name>ChatTimestamp</name>
     <message>
         <source>just now</source>
-        <translation type="unfinished">upravo sada</translation>
+        <translation>upravo sada</translation>
     </message>
     <message>
         <source>1 minute ago</source>
-        <translation type="unfinished">pre 1 minut</translation>
+        <translation>pre 1 minut</translation>
     </message>
     <message numerus="yes">
         <source>%n minutes ago</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>pre %n minut</numerusform>
             <numerusform>pre %n minuta</numerusform>
             <numerusform>pre %n minuta</numerusform>
@@ -2626,11 +2628,11 @@ Da li i dalje želite da zatvorite prozor?</translation>
     </message>
     <message>
         <source>1 hour ago</source>
-        <translation type="unfinished">pre 1 sat</translation>
+        <translation>pre 1 sat</translation>
     </message>
     <message numerus="yes">
         <source>%n hours ago</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>pre %n sat</numerusform>
             <numerusform>pre %n sata</numerusform>
             <numerusform>pre %n sati</numerusform>
@@ -2638,38 +2640,38 @@ Da li i dalje želite da zatvorite prozor?</translation>
     </message>
     <message>
         <source>1 day ago</source>
-        <translation type="unfinished"></translation>
+        <translation>pre 1 dan</translation>
     </message>
     <message numerus="yes">
         <source>%n days ago</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>pre %n dan</numerusform>
+            <numerusform>pre %n dana</numerusform>
+            <numerusform>pre %n dana</numerusform>
         </translation>
     </message>
     <message>
         <source>1 month ago</source>
-        <translation type="unfinished"></translation>
+        <translation>pre 1 mesec</translation>
     </message>
     <message numerus="yes">
         <source>%n months ago</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>pre %n mesec</numerusform>
+            <numerusform>pre %n meseca</numerusform>
+            <numerusform>pre %n meseci</numerusform>
         </translation>
     </message>
     <message>
         <source>1 year ago</source>
-        <translation type="unfinished"></translation>
+        <translation>pre 1 godinu</translation>
     </message>
     <message numerus="yes">
         <source>%n years ago</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>pre %n godinu</numerusform>
+            <numerusform>pre %n godine</numerusform>
+            <numerusform>pre %n godina</numerusform>
         </translation>
     </message>
 </context>
@@ -7074,15 +7076,15 @@ Možete odabrati ili ukloniti kontakt za istoriju preko menija kontakata ili pre
     </message>
     <message>
         <source>Could not read cached archive page</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće pročitati keširanu stranicu arhive</translation>
     </message>
     <message>
         <source>Could not read cached archive message</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće pročitati keširanu poruku arhive</translation>
     </message>
     <message>
         <source>Could not read sent message plaintext</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće pročitati otvoreni tekst poslate poruke</translation>
     </message>
 </context>
 <context>
@@ -10080,7 +10082,7 @@ Razlog: %1.</translation>
     </message>
     <message>
         <source>Message time format (all themes)</source>
-        <translation type="unfinished"></translation>
+        <translation>Format vremena poruka (sve teme)</translation>
     </message>
 </context>
 <context>
@@ -11999,15 +12001,15 @@ Nazivi opcija ne smeju biti prazni, završavati se tačkom ili sadržati „..�
     </message>
     <message>
         <source>Time (HH:mm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vreme (HH:mm)</translation>
     </message>
     <message>
         <source>Relative (5 minutes ago)</source>
-        <translation type="unfinished"></translation>
+        <translation>Relativno (pre 5 minuta)</translation>
     </message>
     <message>
         <source>Use one timestamp format in chats, group chats and reply previews, regardless of the message theme.</source>
-        <translation type="unfinished"></translation>
+        <translation>Koristi jedinstveni format vremena u razgovorima, grupnim razgovorima i pregledima odgovora, bez obzira na temu poruka.</translation>
     </message>
 </context>
 <context>

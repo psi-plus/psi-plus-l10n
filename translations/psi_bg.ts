@@ -1804,7 +1804,9 @@ This is a paper board game where you try to sink the opponent&apos;s ships.To in
         <source>Play Battleship with your friends.
 This is a paper board game where you try to sink the opponent&apos;s ships.
 To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Играйте „Морски бой“ с приятелите си.
+Това е настолна игра на хартия, в която се опитвате да потопите корабите на противника.
+За да поканите приятел за игра, можете да използвате елемента от менюто за контакт или бутона на лентата с инструменти в прозореца за чат.</translation>
     </message>
 </context>
 <context>
@@ -2582,61 +2584,61 @@ Do you still want to close the window?</source>
     <name>ChatTimestamp</name>
     <message>
         <source>just now</source>
-        <translation type="unfinished">току-що</translation>
+        <translation>току-що</translation>
     </message>
     <message>
         <source>1 minute ago</source>
-        <translation type="unfinished">преди 1 минута</translation>
+        <translation>преди 1 минута</translation>
     </message>
     <message numerus="yes">
         <source>%n minutes ago</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>преди %n минута</numerusform>
             <numerusform>преди %n минути</numerusform>
         </translation>
     </message>
     <message>
         <source>1 hour ago</source>
-        <translation type="unfinished">преди 1 час</translation>
+        <translation>преди 1 час</translation>
     </message>
     <message numerus="yes">
         <source>%n hours ago</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>преди %n час</numerusform>
             <numerusform>преди %n часа</numerusform>
         </translation>
     </message>
     <message>
         <source>1 day ago</source>
-        <translation type="unfinished"></translation>
+        <translation>преди 1 ден</translation>
     </message>
     <message numerus="yes">
         <source>%n days ago</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>преди %n ден</numerusform>
+            <numerusform>преди %n дена</numerusform>
         </translation>
     </message>
     <message>
         <source>1 month ago</source>
-        <translation type="unfinished"></translation>
+        <translation>преди 1 месец</translation>
     </message>
     <message numerus="yes">
         <source>%n months ago</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>преди %n месец</numerusform>
+            <numerusform>преди %n месеца</numerusform>
         </translation>
     </message>
     <message>
         <source>1 year ago</source>
-        <translation type="unfinished"></translation>
+        <translation>преди 1 година</translation>
     </message>
     <message numerus="yes">
         <source>%n years ago</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>преди %n година</numerusform>
+            <numerusform>преди %n години</numerusform>
         </translation>
     </message>
 </context>
@@ -7079,15 +7081,15 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Could not read cached archive page</source>
-        <translation type="unfinished"></translation>
+        <translation>Кешираната архивна страница не може да се прочете</translation>
     </message>
     <message>
         <source>Could not read cached archive message</source>
-        <translation type="unfinished"></translation>
+        <translation>Кешираното архивно съобщение не може да се прочете</translation>
     </message>
     <message>
         <source>Could not read sent message plaintext</source>
-        <translation type="unfinished"></translation>
+        <translation>Обикновеният текст на изпратеното съобщение не може да се прочете</translation>
     </message>
 </context>
 <context>
@@ -10105,7 +10107,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Message time format (all themes)</source>
-        <translation type="unfinished"></translation>
+        <translation>Формат на времето на съобщенията (всички теми)</translation>
     </message>
 </context>
 <context>
@@ -12002,15 +12004,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Time (HH:mm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Време (ЧЧ:мм)</translation>
     </message>
     <message>
         <source>Relative (5 minutes ago)</source>
-        <translation type="unfinished"></translation>
+        <translation>Относително (преди 5 минути)</translation>
     </message>
     <message>
         <source>Use one timestamp format in chats, group chats and reply previews, regardless of the message theme.</source>
-        <translation type="unfinished"></translation>
+        <translation>Използване на единен формат за времето в чатовете, груповите чатове и прегледите на отговорите, независимо от темата на съобщенията.</translation>
     </message>
 </context>
 <context>

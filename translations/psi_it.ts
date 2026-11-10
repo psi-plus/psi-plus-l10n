@@ -1939,7 +1939,9 @@ Questo è un gioco da tavolo di carta in cui devi affondare le navi dell&apos;av
         <source>Play Battleship with your friends.
 This is a paper board game where you try to sink the opponent&apos;s ships.
 To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gioca a Battaglia Navale con i tuoi amici.
+Questo è un gioco da tavolo di carta in cui devi affondare le navi dell&apos;avversario.
+Per invitare un amico a una partita, puoi usare la voce del menu del contatto o il pulsante sulla barra degli strumenti nella finestra di chat.</translation>
     </message>
 </context>
 <context>
@@ -2717,61 +2719,61 @@ Vuoi ancora chiudere la finestra?</translation>
     <name>ChatTimestamp</name>
     <message>
         <source>just now</source>
-        <translation type="unfinished">adesso</translation>
+        <translation>adesso</translation>
     </message>
     <message>
         <source>1 minute ago</source>
-        <translation type="unfinished">1 minuto fa</translation>
+        <translation>1 minuto fa</translation>
     </message>
     <message numerus="yes">
         <source>%n minutes ago</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>%n minuto fa</numerusform>
             <numerusform>%n minuti fa</numerusform>
         </translation>
     </message>
     <message>
         <source>1 hour ago</source>
-        <translation type="unfinished">1 ora fa</translation>
+        <translation>1 ora fa</translation>
     </message>
     <message numerus="yes">
         <source>%n hours ago</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>%n ora fa</numerusform>
             <numerusform>%n ore fa</numerusform>
         </translation>
     </message>
     <message>
         <source>1 day ago</source>
-        <translation type="unfinished"></translation>
+        <translation>1 giorno fa</translation>
     </message>
     <message numerus="yes">
         <source>%n days ago</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n giorno fa</numerusform>
+            <numerusform>%n giorni fa</numerusform>
         </translation>
     </message>
     <message>
         <source>1 month ago</source>
-        <translation type="unfinished"></translation>
+        <translation>1 mese fa</translation>
     </message>
     <message numerus="yes">
         <source>%n months ago</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n mese fa</numerusform>
+            <numerusform>%n mesi fa</numerusform>
         </translation>
     </message>
     <message>
         <source>1 year ago</source>
-        <translation type="unfinished"></translation>
+        <translation>1 anno fa</translation>
     </message>
     <message numerus="yes">
         <source>%n years ago</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n anno fa</numerusform>
+            <numerusform>%n anni fa</numerusform>
         </translation>
     </message>
 </context>
@@ -7277,15 +7279,15 @@ Puoi selezionare o deselezionare un contatto dalla rimozione cronologia dal menu
     </message>
     <message>
         <source>Could not read cached archive page</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile leggere la pagina di archivio in cache</translation>
     </message>
     <message>
         <source>Could not read cached archive message</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile leggere il messaggio di archivio in cache</translation>
     </message>
     <message>
         <source>Could not read sent message plaintext</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile leggere il testo in chiaro del messaggio inviato</translation>
     </message>
 </context>
 <context>
@@ -10358,7 +10360,7 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Message time format (all themes)</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato dell&apos;ora dei messaggi (tutti i temi)</translation>
     </message>
 </context>
 <context>
@@ -12343,15 +12345,15 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Time (HH:mm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ora (HH:mm)</translation>
     </message>
     <message>
         <source>Relative (5 minutes ago)</source>
-        <translation type="unfinished"></translation>
+        <translation>Relativo (5 minuti fa)</translation>
     </message>
     <message>
         <source>Use one timestamp format in chats, group chats and reply previews, regardless of the message theme.</source>
-        <translation type="unfinished"></translation>
+        <translation>Usa un unico formato dell&apos;ora nelle chat, nelle chat di gruppo e nelle anteprime delle risposte, indipendentemente dal tema dei messaggi.</translation>
     </message>
 </context>
 <context>

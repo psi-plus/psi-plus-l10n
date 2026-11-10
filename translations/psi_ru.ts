@@ -7288,15 +7288,15 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
     <message>
         <source>Could not read cached archive page</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось прочитать кэшированную страницу архива</translation>
     </message>
     <message>
         <source>Could not read cached archive message</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось прочитать кэшированное сообщение архива</translation>
     </message>
     <message>
         <source>Could not read sent message plaintext</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось прочитать открытый текст отправленного сообщения</translation>
     </message>
 </context>
 <context>
