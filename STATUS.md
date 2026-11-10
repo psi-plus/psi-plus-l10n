@@ -1,6 +1,6 @@
 # Psi translation status
 
-Updated: 2026-11-10 <br>
+Updated: 2026-11-11 <br>
 Total: 35 locales
 
 | Language | Locale | Translated |

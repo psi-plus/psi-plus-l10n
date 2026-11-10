@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@yandex.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2026-11-10
+# Updated: 2026-11-11
 # Version: N/A
 
 set -e
@@ -142,7 +142,7 @@ case "${1}" in
     # ending of magical hack
 
     cd "${CUR_DIR}"
-    rm -r translations.pro
+    rm -f translations.pro
 
     echo "HEADERS = \\" >> translations.pro
     find "${PSIPLUS_DIR}/iris" "${PSIPLUS_DIR}/plugins" "${PSIPLUS_DIR}/src" "${CUR_DIR}/tmp" -type f -name "*.h" | \
@@ -199,6 +199,16 @@ case "${1}" in
     # Cleaning update of localization files.
 
     git status
+
+    if [ ! -f translations.pro ] || ! grep -q '^SOURCES' translations.pro; then
+        echo "translations.pro is missing or incomplete. Running '${0} tr_up'..."
+        "${0}" tr_up || true
+    fi
+
+    if [ ! -f translations.pro ] || ! grep -q '^SOURCES' translations.pro; then
+        echo "Error: translations.pro was not generated. Aborting." >&2
+        exit 1
+    fi
 
     lupdate -verbose -no-obsolete ./translations.pro
 
