@@ -7275,6 +7275,18 @@ Puoi selezionare o deselezionare un contatto dalla rimozione cronologia dal menu
         <source>Could not persist archive page</source>
         <translation>Impossibile salvare in modo persistente la pagina di archivio</translation>
     </message>
+    <message>
+        <source>Could not read cached archive page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not read cached archive message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not read sent message plaintext</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HistoryView</name>

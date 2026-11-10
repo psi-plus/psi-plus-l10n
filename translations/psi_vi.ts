@@ -7180,6 +7180,18 @@ Bạn có thể chọn hoặc bỏ chọn một liên lạc để xóa lịch s�
         <source>Could not persist archive page</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Could not read cached archive page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not read cached archive message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not read sent message plaintext</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HistoryView</name>

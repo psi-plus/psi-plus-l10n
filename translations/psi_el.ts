@@ -6443,6 +6443,18 @@ You can select or deselect a contact for history removal from the context menu o
         <source>Could not persist archive page</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Could not read cached archive page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not read cached archive message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not read sent message plaintext</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HistoryView</name>

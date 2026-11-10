@@ -7193,6 +7193,18 @@ Você pode marcar ou desmarcar um contato para a remoção de histórico a parti
         <source>Could not persist archive page</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Could not read cached archive page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not read cached archive message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not read sent message plaintext</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HistoryView</name>

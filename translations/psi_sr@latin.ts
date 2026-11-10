@@ -7072,6 +7072,18 @@ Možete odabrati ili ukloniti kontakt za istoriju preko menija kontakata ili pre
         <source>Could not persist archive page</source>
         <translation>Nije moguće sačuvati stranicu arhive</translation>
     </message>
+    <message>
+        <source>Could not read cached archive page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not read cached archive message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not read sent message plaintext</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HistoryView</name>
