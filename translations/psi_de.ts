@@ -7211,6 +7211,22 @@ Sie können für Kontakte das Löschen des Verlaufs im jeweiligen Kontakt-Kontex
         <source>Could not read sent message plaintext</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Invalid archive message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid archive conversation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not check locally deleted messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cached archive positions changed</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HistoryView</name>
@@ -7817,6 +7833,13 @@ Anmerkung: Um korrekt zu funktionieren, muss die Option options.ui.chat.central-
     <message>
         <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
 </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ImageViewer</name>
+    <message>
+        <source>Image</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9161,11 +9184,12 @@ Size: %2</source>
         <source>%1 selected</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>MamImageViewer</name>
     <message>
-        <source>Image</source>
+        <source>Delete locally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove this message from this device. Cached files are kept.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15622,6 +15646,14 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Whiteboard only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete locally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not delete this message locally. Refresh history and try again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

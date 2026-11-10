@@ -6712,6 +6712,22 @@ Stik za odstranitev zgodovine lahko izberete ali prekličete v kontekstnem menij
         <source>Could not read sent message plaintext</source>
         <translation>Golega besedila poslanega sporočila ni bilo mogoče prebrati</translation>
     </message>
+    <message>
+        <source>Invalid archive message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid archive conversation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not check locally deleted messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cached archive positions changed</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HistoryView</name>
@@ -7234,6 +7250,13 @@ Opomba: za pravilno delovanje mora biti možnost options.ui.chat.central-toolbar
 </source>
         <translation>Ta vtičnik prikazuje predoglede slik iz URL-jev v klepetih za različico Psi brez WebKita.
 </translation>
+    </message>
+</context>
+<context>
+    <name>ImageViewer</name>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished">Slika</translation>
     </message>
 </context>
 <context>
@@ -8560,12 +8583,20 @@ Velikost: %2</translation>
         <source>%1 selected</source>
         <translation>Izbrano: %1</translation>
     </message>
+    <message>
+        <source>Delete locally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove this message from this device. Cached files are kept.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MamImageViewer</name>
     <message>
         <source>Image</source>
-        <translation>Slika</translation>
+        <translation type="vanished">Slika</translation>
     </message>
 </context>
 <context>
@@ -14626,6 +14657,14 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
     <message>
         <source>Whiteboard only</source>
         <translation>Samo tabla</translation>
+    </message>
+    <message>
+        <source>Delete locally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not delete this message locally. Refresh history and try again.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

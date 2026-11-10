@@ -7297,6 +7297,22 @@ You can select or deselect a contact for history removal from the context menu o
         <source>Could not read sent message plaintext</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Invalid archive message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid archive conversation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not check locally deleted messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cached archive positions changed</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HistoryView</name>
@@ -7910,6 +7926,13 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 </source>
         <translation>Цей плагін відображає попередні перегляди URL-адрес зображень у чатах для версії Psi без webkit.
 </translation>
+    </message>
+</context>
+<context>
+    <name>ImageViewer</name>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished">Зображення</translation>
     </message>
 </context>
 <context>
@@ -9300,12 +9323,20 @@ Size: %2</source>
         <source>%1 selected</source>
         <translation>%1 обрано</translation>
     </message>
+    <message>
+        <source>Delete locally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove this message from this device. Cached files are kept.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MamImageViewer</name>
     <message>
         <source>Image</source>
-        <translation>Зображення</translation>
+        <translation type="vanished">Зображення</translation>
     </message>
 </context>
 <context>
@@ -15800,6 +15831,14 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Whiteboard only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete locally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not delete this message locally. Refresh history and try again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

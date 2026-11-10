@@ -6391,6 +6391,22 @@ Vi povas elekti aŭ malelekti kontakton por forigo de historio el la kunteksta m
         <source>Could not read sent message plaintext</source>
         <translation>Ne eblis legi la klartekston de sendita mesaĝo</translation>
     </message>
+    <message>
+        <source>Invalid archive message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid archive conversation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not check locally deleted messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cached archive positions changed</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HistoryView</name>
@@ -6913,6 +6929,13 @@ Noto: Por ĝusta funkciado, la opcio options.ui.chat.central-toolbar  devas esti
 </source>
         <translation>Ĉi tiu kromaĵo montras antaŭrigardojn de bildaj URL-oj en babiloj por la ne-WebKit-versio de Psi.
 </translation>
+    </message>
+</context>
+<context>
+    <name>ImageViewer</name>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished">Bildo</translation>
     </message>
 </context>
 <context>
@@ -8197,12 +8220,20 @@ Grando: %2</translation>
         <source>%1 selected</source>
         <translation>%1 elektita</translation>
     </message>
+    <message>
+        <source>Delete locally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove this message from this device. Cached files are kept.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MamImageViewer</name>
     <message>
         <source>Image</source>
-        <translation>Bildo</translation>
+        <translation type="vanished">Bildo</translation>
     </message>
 </context>
 <context>
@@ -14092,6 +14123,14 @@ Kialo: %1.</translation>
     <message>
         <source>Whiteboard only</source>
         <translation>Nur blankotabulo</translation>
+    </message>
+    <message>
+        <source>Delete locally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not delete this message locally. Refresh history and try again.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

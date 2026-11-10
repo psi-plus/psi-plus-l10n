@@ -7039,6 +7039,22 @@ You can select or deselect a contact for history removal from the context menu o
         <source>Could not read sent message plaintext</source>
         <translation>送信メッセージの平文を読み込めませんでした</translation>
     </message>
+    <message>
+        <source>Invalid archive message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid archive conversation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not check locally deleted messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cached archive positions changed</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HistoryView</name>
@@ -7576,6 +7592,13 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 </source>
         <translation>このプラグインは、WebKit以外のPsiバージョンでチャット内に画像URLのプレビューを表示します。
 </translation>
+    </message>
+</context>
+<context>
+    <name>ImageViewer</name>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished">画像</translation>
     </message>
 </context>
 <context>
@@ -8923,12 +8946,20 @@ Size: %2</source>
         <source>%1 selected</source>
         <translation>%1件選択中</translation>
     </message>
+    <message>
+        <source>Delete locally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove this message from this device. Cached files are kept.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MamImageViewer</name>
     <message>
         <source>Image</source>
-        <translation>画像</translation>
+        <translation type="vanished">画像</translation>
     </message>
 </context>
 <context>
@@ -15048,6 +15079,14 @@ Reason: %1.</source>
     <message>
         <source>Whiteboard only</source>
         <translation>ホワイトボードのみ</translation>
+    </message>
+    <message>
+        <source>Delete locally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not delete this message locally. Refresh history and try again.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -7183,6 +7183,22 @@ Mund të përzgjidhni ose shpërzgjidhni një kontakt për heqje historiku prej 
         <source>Could not read sent message plaintext</source>
         <translation>S’u arrit të lexohej teksti i thjeshtë i mesazhit të dërguar</translation>
     </message>
+    <message>
+        <source>Invalid archive message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid archive conversation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not check locally deleted messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cached archive positions changed</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HistoryView</name>
@@ -7760,6 +7776,13 @@ Shënim: Që të punojë si duhet, mundësia options.ui.chat.central-toolbar  du
 </source>
         <translation>Kjo shtojcë shfaq paraparje URL-sh figurash në fjalosje për versionin e Psi pa webkit.
 </translation>
+    </message>
+</context>
+<context>
+    <name>ImageViewer</name>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished">Imazh</translation>
     </message>
 </context>
 <context>
@@ -9083,12 +9106,20 @@ Madhësi: %2</translation>
         <source>%1 selected</source>
         <translation>%1 të zgjedhur</translation>
     </message>
+    <message>
+        <source>Delete locally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove this message from this device. Cached files are kept.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MamImageViewer</name>
     <message>
         <source>Image</source>
-        <translation>Imazh</translation>
+        <translation type="vanished">Imazh</translation>
     </message>
 </context>
 <context>
@@ -15325,6 +15356,14 @@ Arsye: %1.</translation>
     <message>
         <source>Whiteboard only</source>
         <translation>Vetëm tabelë</translation>
+    </message>
+    <message>
+        <source>Delete locally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not delete this message locally. Refresh history and try again.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

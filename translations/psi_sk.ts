@@ -6360,6 +6360,22 @@ Kontakt na odstránenie histórie môžeš vybrať alebo zrušiť výber v konte
         <source>Could not read sent message plaintext</source>
         <translation>Nepodarilo sa prečítať nešifrovaný text odoslanej správy</translation>
     </message>
+    <message>
+        <source>Invalid archive message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid archive conversation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not check locally deleted messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cached archive positions changed</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HistoryView</name>
@@ -6882,6 +6898,13 @@ Poznámka: Aby fungoval správne, možnosť options.ui.chat.central-toolbar  mus
 </source>
         <translation>Tento doplnok zobrazuje v chatoch náhľady URL obrázkov pre verziu Psi bez WebKitu.
 </translation>
+    </message>
+</context>
+<context>
+    <name>ImageViewer</name>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished">Obrázok</translation>
     </message>
 </context>
 <context>
@@ -8158,12 +8181,20 @@ Veľkosť: %2</translation>
         <source>%1 selected</source>
         <translation>Vybraté: %1</translation>
     </message>
+    <message>
+        <source>Delete locally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove this message from this device. Cached files are kept.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MamImageViewer</name>
     <message>
         <source>Image</source>
-        <translation>Obrázok</translation>
+        <translation type="vanished">Obrázok</translation>
     </message>
 </context>
 <context>
@@ -14026,6 +14057,14 @@ Podrobnosti: %1</translation>
     <message>
         <source>Whiteboard only</source>
         <translation>Iba tabuľa</translation>
+    </message>
+    <message>
+        <source>Delete locally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not delete this message locally. Refresh history and try again.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

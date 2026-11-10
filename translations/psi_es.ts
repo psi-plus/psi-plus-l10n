@@ -7211,6 +7211,22 @@ Puedes marcar o desmarcar un contacto para la eliminación de su historial desde
         <source>Could not read sent message plaintext</source>
         <translation>No se pudo leer el texto plano del mensaje enviado</translation>
     </message>
+    <message>
+        <source>Invalid archive message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid archive conversation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not check locally deleted messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cached archive positions changed</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HistoryView</name>
@@ -7792,6 +7808,13 @@ Nota: Para su correcto funcionamiento, la opción options.ui.chat.central-toolba
 </source>
         <translation>Este complemento muestra vistas previas de las URL de las imágenes en los chats para la versión de Psi sin WebKit.
 </translation>
+    </message>
+</context>
+<context>
+    <name>ImageViewer</name>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished">Imagen</translation>
     </message>
 </context>
 <context>
@@ -9138,12 +9161,20 @@ Tamaño: %2</translation>
         <source>%1 selected</source>
         <translation>%1 seleccionado(s)</translation>
     </message>
+    <message>
+        <source>Delete locally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove this message from this device. Cached files are kept.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MamImageViewer</name>
     <message>
         <source>Image</source>
-        <translation>Imagen</translation>
+        <translation type="vanished">Imagen</translation>
     </message>
 </context>
 <context>
@@ -15548,6 +15579,14 @@ Motivo: %1.</translation>
     <message>
         <source>Whiteboard only</source>
         <translation>Solo pizarra</translation>
+    </message>
+    <message>
+        <source>Delete locally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not delete this message locally. Refresh history and try again.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

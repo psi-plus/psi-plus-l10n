@@ -7194,6 +7194,22 @@ You can select or deselect a contact for history removal from the context menu o
         <source>Could not read sent message plaintext</source>
         <translation>Не атрымалася прачытаць адкрыты тэкст дасланага паведамлення</translation>
     </message>
+    <message>
+        <source>Invalid archive message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid archive conversation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not check locally deleted messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cached archive positions changed</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HistoryView</name>
@@ -7761,6 +7777,13 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 </source>
         <translation>Гэтая ўбудова паказвае папярэдні прагляд выяваў па URL у гутарках для вэрсіі Psi без webkit.
 </translation>
+    </message>
+</context>
+<context>
+    <name>ImageViewer</name>
+    <message>
+        <source>Image</source>
+        <translation type="unfinished">Выява</translation>
     </message>
 </context>
 <context>
@@ -9103,12 +9126,20 @@ Size: %2</source>
         <source>%1 selected</source>
         <translation>Абрана: %1</translation>
     </message>
+    <message>
+        <source>Delete locally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove this message from this device. Cached files are kept.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MamImageViewer</name>
     <message>
         <source>Image</source>
-        <translation>Выява</translation>
+        <translation type="vanished">Выява</translation>
     </message>
 </context>
 <context>
@@ -15503,6 +15534,14 @@ Reason: %1.</source>
     <message>
         <source>Whiteboard only</source>
         <translation>Толькі маляванка</translation>
+    </message>
+    <message>
+        <source>Delete locally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not delete this message locally. Refresh history and try again.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
