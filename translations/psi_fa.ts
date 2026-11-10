@@ -49,10 +49,6 @@
         <translation>درباره</translation>
     </message>
     <message>
-        <source>psi/psiplus_logo</source>
-        <translation type="vanished">psi/psiplus_logo</translation>
-    </message>
-    <message>
         <source>Authors</source>
         <translation>نویسنده ها</translation>
     </message>
@@ -69,10 +65,6 @@
         <translation>لیسانس</translation>
     </message>
     <message>
-        <source>About Psi+</source>
-        <translation type="vanished">درباره psi+</translation>
-    </message>
-    <message>
         <source>&amp;Close</source>
         <translation>بستن</translation>
     </message>
@@ -87,22 +79,6 @@
     <message>
         <source>Developer</source>
         <translation>توسعه دهنده</translation>
-    </message>
-    <message>
-        <source>Active project members are presents below:</source>
-        <translation type="vanished">اعضای فعال پروژه:</translation>
-    </message>
-    <message>
-        <source>Founder and Lead Patcher</source>
-        <translation type="vanished">بنیان گذار و رهبر Patcher</translation>
-    </message>
-    <message>
-        <source>Founder, Designer and Patcher</source>
-        <translation type="vanished">بنیان گذار,طراح و Patcher</translation>
-    </message>
-    <message>
-        <source>Patcher and Plugins Writer</source>
-        <translation type="vanished">Patcher و نویسنده افزونه ها</translation>
     </message>
     <message>
         <source>Former language coordinator, miscellaneous assistance</source>
@@ -432,10 +408,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <source>Edit Personal &amp;Details...</source>
         <translation>ویرایش اطلاعات شخصی</translation>
-    </message>
-    <message>
-        <source>OpenPGP</source>
-        <translation type="vanished">OpenPGP</translation>
     </message>
     <message>
         <source>Privacy</source>
@@ -1821,17 +1793,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
     <message>
         <source>Refused: the encryption could not be verified with a trusted OMEMO device of the contact. See Options &gt; Security.</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>CallDlg::Private</name>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">بستن</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">لغو کردن</translation>
     </message>
 </context>
 <context>
@@ -3255,13 +3216,6 @@ Proceed?</source>
     </message>
 </context>
 <context>
-    <name>CreateGroupDlg</name>
-    <message>
-        <source>Add</source>
-        <translation type="vanished">افزودن</translation>
-    </message>
-</context>
-<context>
     <name>DateWidget</name>
     <message>
         <source>never</source>
@@ -3448,10 +3402,6 @@ Proceed?</source>
 </context>
 <context>
     <name>DiscoListItem</name>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">خطا</translation>
-    </message>
     <message>
         <source>There was an error getting items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation type="unfinished"></translation>
@@ -6059,10 +6009,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
 <context>
     <name>HistoryImport</name>
     <message>
-        <source>Error</source>
-        <translation type="vanished">خطا</translation>
-    </message>
-    <message>
         <source>Upgrade history</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7745,13 +7691,6 @@ Incoming event(s) from:</source>
     <message>
         <source>Enable Sounds</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>MainWindow</name>
-    <message>
-        <source>About</source>
-        <translation type="vanished">درباره</translation>
     </message>
 </context>
 <context>
@@ -9888,10 +9827,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Settings</source>
-        <translation type="vanished">تنظیمات</translation>
-    </message>
-    <message>
         <source>Delete</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11813,13 +11748,6 @@ Reason: %1.</source>
     </message>
 </context>
 <context>
-    <name>Passphrase</name>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">لغو کردن</translation>
-    </message>
-</context>
-<context>
     <name>PasswordDialog</name>
     <message>
         <source>Wrong Account Password</source>
@@ -12097,13 +12025,6 @@ Reason: %1.</source>
     </message>
 </context>
 <context>
-    <name>PreferencesWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">فرم</translation>
-    </message>
-</context>
-<context>
     <name>PreviewFileDialog</name>
     <message>
         <source>Preview</source>
@@ -12338,36 +12259,6 @@ Reason: %1.</source>
     <message>
         <source>Delete profile</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ProfileManage</name>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="vanished">افزودن</translation>
-    </message>
-    <message>
-        <source>psi/addContact</source>
-        <translation type="vanished">psi/addContact</translation>
-    </message>
-    <message>
-        <source>Rem&amp;ove</source>
-        <translation type="vanished">حذف کردن</translation>
-    </message>
-    <message>
-        <source>psi/remove</source>
-        <translation type="vanished">psi/remove</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileNew</name>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">بستن</translation>
-    </message>
-    <message>
-        <source>psi/addContact</source>
-        <translation type="vanished">psi/addContact</translation>
     </message>
 </context>
 <context>
@@ -16300,13 +16191,6 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
 </context>
 <context>
-    <name>RipperCCOptions</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">فرم</translation>
-    </message>
-</context>
-<context>
     <name>RoomModel</name>
     <message>
         <source>Groupchat name</source>
@@ -17855,13 +17739,6 @@ Please correct and try again.</source>
     </message>
 </context>
 <context>
-    <name>Tip</name>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">بستن</translation>
-    </message>
-</context>
-<context>
     <name>TipDlg</name>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
@@ -18203,21 +18080,6 @@ To work with Parole player you need to enable MPRIS2 module/plugin.</source>
     </message>
 </context>
 <context>
-    <name>ViewMailDlg</name>
-    <message>
-        <source>Previous</source>
-        <translation type="vanished">قبلی</translation>
-    </message>
-    <message>
-        <source>Next</source>
-        <translation type="vanished">بعدی</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">بستن</translation>
-    </message>
-</context>
-<context>
     <name>Viewer</name>
     <message>
         <source>Find</source>
@@ -18372,13 +18234,6 @@ To work with Parole player you need to enable MPRIS2 module/plugin.</source>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
 On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>WbDlg</name>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">هشدار</translation>
     </message>
 </context>
 <context>

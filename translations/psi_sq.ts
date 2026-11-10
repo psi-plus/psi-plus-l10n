@@ -65,10 +65,6 @@
         <translation>Licencë</translation>
     </message>
     <message>
-        <source>About Psi+</source>
-        <translation type="vanished">Mbi Psi+n</translation>
-    </message>
-    <message>
         <source>&amp;Close</source>
         <translation>&amp;Mbylle</translation>
     </message>
@@ -83,58 +79,6 @@
     <message>
         <source>Developer</source>
         <translation>Zhvillues</translation>
-    </message>
-    <message>
-        <source>Active project members are presents below:</source>
-        <translation type="vanished">Anëtarë aktivë të projektit paraqiten më poshtë:</translation>
-    </message>
-    <message>
-        <source>Founder, Patcher and MS Windows Packager</source>
-        <translation type="vanished">Themelues, Arnues dhe Paketues për MS Windows</translation>
-    </message>
-    <message>
-        <source>Founder and Lead Patcher</source>
-        <translation type="vanished">Themelues dhe Arnues Kryesor</translation>
-    </message>
-    <message>
-        <source>Founder, Designer and Patcher</source>
-        <translation type="vanished">Themelues, Ana Grafike dhe Arnues</translation>
-    </message>
-    <message>
-        <source>Lead Patcher and Plugins Writer; Mac OS X Packager</source>
-        <translation type="vanished">Arnues Kryesor dhe Shkrues Shtojcash; Paketues për Mac OS X</translation>
-    </message>
-    <message>
-        <source>Patcher, Plugins Writer and Fedora Packager</source>
-        <translation type="vanished">Arnues, Shkrues Shtojcash dhe Paketues për Fedora-n</translation>
-    </message>
-    <message>
-        <source>Patcher and Plugins Writer</source>
-        <translation type="vanished">Arnues dhe Shkrues Shtojcash</translation>
-    </message>
-    <message>
-        <source>Patcher and Ubuntu Packager</source>
-        <translation type="vanished">Arnues dhe Paketues për Ubuntu</translation>
-    </message>
-    <message>
-        <source>Ubuntu Packager</source>
-        <translation type="vanished">Paketues për Ubuntu</translation>
-    </message>
-    <message>
-        <source>Mandriva Linux Packager</source>
-        <translation type="vanished">Paketues për Linux Mandriva</translation>
-    </message>
-    <message>
-        <source>Patcher and Russian localization</source>
-        <translation type="vanished">Arnues dhe përkthimi rusisht</translation>
-    </message>
-    <message>
-        <source>Psimedia Patcher and Wiki English localization</source>
-        <translation type="vanished">Arnues për Psimedia dhe përkthime anglisht në Wiki</translation>
-    </message>
-    <message>
-        <source>Language coordinator; Debian Packager</source>
-        <translation type="vanished">Bashkërendues gjuhësh; Paketues për Debian</translation>
     </message>
     <message>
         <source>Former language coordinator, miscellaneous assistance</source>
@@ -221,64 +165,8 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; !</translation>
         <translation>https://psi-im.org</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cross-platform XMPP client aimed at experienced users.&lt;br/&gt;&lt;br/&gt;Copyright © 2001-2020 The Psi Team.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Klient XMPP ndërplatformësh i menduar për përdorues të sprovuar.&lt;br/&gt;&lt;br/&gt;Të drejta kopjimi © 2001-2020 The Psi Team.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
         <source>Past Lead Widget Developer</source>
         <translation>Programues Kryesor Widget-esh Në të Kaluarën</translation>
-    </message>
-    <message>
-        <source>Developer and Maintainer</source>
-        <translation type="vanished">Zhvillues dhe Mirëmbajtës</translation>
-    </message>
-    <message>
-        <source>Language coordinator, macOS port, miscellaneous assistance</source>
-        <translation type="vanished">Bashkërendues gjuhësh, bartje macOS, asistencë e ndryshme</translation>
-    </message>
-    <message>
-        <source>Founder, Patcher and former MS Windows Packager</source>
-        <translation type="vanished">Themelues, Arnues dhe ish-Paketues për MS Windows</translation>
-    </message>
-    <message>
-        <source>Founder, Patcher and former Designer</source>
-        <translation type="vanished">Themelues, Arnues dhe ish Hartues Grafik</translation>
-    </message>
-    <message>
-        <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
-        <translation type="vanished">Arnues Kryesor dhe Shkrues Shtojcash; ish-Paketues për macOS</translation>
-    </message>
-    <message>
-        <source>Language coordinator; Patcher; Debian and Ubuntu Packager; MS Windows and macOS Packager</source>
-        <translation type="vanished">Bashkërendues gjuhe, Arnues, Paketues për Debian dhe Ubuntu; Paketues për MS Windows dhe macOS</translation>
-    </message>
-    <message>
-        <source>Patcher and Plugins Writer; MS Windows Packager</source>
-        <translation type="vanished">Arnues dhe Shkrues Shtojcash, Paketues për MS Windows</translation>
-    </message>
-    <message>
-        <source>Patcher and Plugins Writer; former Fedora Packager</source>
-        <translation type="vanished">Arnues dhe Shkrues Shtojcash, ish-Paketues për Fedora-n</translation>
-    </message>
-    <message>
-        <source>Patcher and former Ubuntu Packager</source>
-        <translation type="vanished">Arnues dhe ish-Paketues për Ubuntu</translation>
-    </message>
-    <message>
-        <source>former Ubuntu Packager</source>
-        <translation type="vanished">ish-Paketues Ubuntu</translation>
-    </message>
-    <message>
-        <source>former Mandriva Linux Packager</source>
-        <translation type="vanished">ish-Paketues Mandriva Linux</translation>
-    </message>
-    <message>
-        <source>Patcher and former Russian translator</source>
-        <translation type="vanished">Arnues dhe ish-përkthyes për rusishten</translation>
-    </message>
-    <message>
-        <source>About Psi</source>
-        <translation type="vanished">Mbi Psi-në</translation>
     </message>
     <message>
         <source>Cross-platform XMPP client designed for experienced users.</source>
@@ -532,22 +420,6 @@ Nëse doni që Psi-ja të provojë të krijojë një llogari për ju në një sh
         <translation>Përpunoni &amp;Hollësi Personale…</translation>
     </message>
     <message>
-        <source>OpenPGP</source>
-        <translation type="vanished">OpenPGP</translation>
-    </message>
-    <message>
-        <source>placeholder2</source>
-        <translation type="vanished">vendmbajtëse2</translation>
-    </message>
-    <message>
-        <source>Select &amp;Key...</source>
-        <translation type="vanished">Përzgjidhni &amp;Kyç…</translation>
-    </message>
-    <message>
-        <source>Use None</source>
-        <translation type="vanished">Mos Përdor Gjë</translation>
-    </message>
-    <message>
         <source>Privacy</source>
         <translation>Privatësi</translation>
     </message>
@@ -660,14 +532,6 @@ Nëse doni që Psi-ja të provojë të krijojë një llogari për ju në një sh
         <translation>Shtrirje:</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Attention!&lt;/b&gt;
-&lt;br/&gt;
-When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
-        <translation type="vanished">&lt;b&gt;Kujdes!&lt;/b&gt;
-&lt;br/&gt;
-Kur aktivizoni këtë mundësi, s’do të jeni në gjendje të gjeni fjalëkalimin tuaj te kartela formësimi. Atje do të ketë vetëm kartela hash. Ndaj, nëse harroni fjalëkalimin, do të humbë, nëse s’bëni një kopjeruajtje diku gjetkë.</translation>
-    </message>
-    <message>
         <source>Store hash instead of plaintext password if server supports this feature.</source>
         <translation>Ruaj hash, në vend se fjalëkalime tekst i thjeshtë, nëse shërbyesi e mbulon këtë veçori.</translation>
     </message>
@@ -718,10 +582,6 @@ Kur aktivizoni këtë mundësi, s’do të jeni në gjendje të gjeni fjalëkali
     <message>
         <source>Never</source>
         <translation>Kurrë</translation>
-    </message>
-    <message>
-        <source>Legacy SSL</source>
-        <translation type="vanished">SSL e dikurshme</translation>
     </message>
     <message>
         <source>Over encrypted connection</source>
@@ -796,10 +656,6 @@ Kur aktivizoni këtë mundësi, s’do të jeni në gjendje të gjeni fjalëkali
         <translation>Dërgon periodikisht të ashtuquajturit pakete “Keep-alive”.  Është e dobishme nëse lidhja juaj është ujdisur të shkëputet automatikisht pas një periudhe mosveprimtarie (për shembull, nga ISP-ja juaj) dhe ju dëshironi ta mbani të lidhur gjithë kohën.</translation>
     </message>
     <message>
-        <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
-        <translation type="vanished">I vini shenjë kësaj mundësie që të përdorni një lidhje të fshehtëzuar me SSL me shërbyesin XMPP.  Mundeni ta përdorni këtë mundësi, nëse shërbyesi juaj e mbulon dhe nëse keni të instaluar shtojcën e domosdoshme qca-ossl.  Për më tepër informacion, shihni te faqja hyrëse e Psi-së.</translation>
-    </message>
-    <message>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
         <translation>I vini shenjë kësaj mundësie, që me shërbyesin XMPP të përdoret një lidhje e ngjeshur, nëse kjo mbulohet nga shërbyesi.</translation>
     </message>
@@ -824,28 +680,8 @@ Kur aktivizoni këtë mundësi, s’do të jeni në gjendje të gjeni fjalëkali
         <translation>Emër përdoruesi:</translation>
     </message>
     <message>
-        <source>No Key Selected</source>
-        <translation type="vanished">S’u Përzgjodh Kyç</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Gabim</translation>
-    </message>
-    <message>
-        <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation type="vanished">SSL e dikurshme mund të përdoret vetëm në ndërthurje me strehë/portë dorazi.</translation>
-    </message>
-    <message>
-        <source>SSL error</source>
-        <translation type="vanished">Gabim SSL</translation>
-    </message>
-    <message>
-        <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation type="vanished">S’aktivizohet dot SSL/TLS.  S’u gjet shtojcë.</translation>
-    </message>
-    <message>
-        <source>Secret Key</source>
-        <translation type="vanished">Kyç i Fshehtë</translation>
     </message>
     <message>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
@@ -998,10 +834,6 @@ Kur aktivizoni këtë mundësi, s’do të jeni në gjendje të gjeni fjalëkali
         <translation>Kur mundet</translation>
     </message>
     <message>
-        <source>Legacy SSL</source>
-        <translation type="vanished">SSL e dikurshme</translation>
-    </message>
-    <message>
         <source>Warning</source>
         <translation>Sinjalizim</translation>
     </message>
@@ -1010,20 +842,8 @@ Kur aktivizoni këtë mundësi, s’do të jeni në gjendje të gjeni fjalëkali
         <translation>Jeni i sigurt se doni të anulohet regjistrimi?</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Po</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Jo</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Gabim</translation>
-    </message>
-    <message>
-        <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation type="vanished">SSL e dikurshme mund të përdoret vetëm në ndërthurje me strehë/portë dorazi.</translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -1168,22 +988,7 @@ Arsye: %1</translation>
     </message>
 </context>
 <context>
-    <name>ActionsList</name>
-    <message>
-        <source> Enable Off the Record Chat.
-When checked, the server will not
-save the history for this contact.</source>
-        <translation type="vanished"> Aktivizoni Fjalosje “Off the Record”.
-Kur i vihet shenjë, shërbyesi s’do
-ta ruajë historikun për këtë kontakt.</translation>
-    </message>
-</context>
-<context>
     <name>ActiveProfiles</name>
-    <message>
-        <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation type="vanished">Ky profil Psi është tashmë në punë…&lt;br&gt;ju lutemi, pritni…</translation>
-    </message>
     <message>
         <source>This Psi profile is already running...&lt;br&gt;Please wait...</source>
         <translation>Ky profil Psi është tashmë në punë…&lt;br&gt;Ju lutemi, pritni…</translation>
@@ -1268,10 +1073,6 @@ ta ruajë historikun për këtë kontakt.</translation>
     <message>
         <source>Passphrase: </source>
         <translation>Frazëkalim: </translation>
-    </message>
-    <message>
-        <source>E-mail address: </source>
-        <translation type="vanished">Adresë email: </translation>
     </message>
     <message>
         <source>Key type: </source>
@@ -1434,12 +1235,6 @@ Siguroni dhënien e një adrese XMPP plotësisht të shquar.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;
-There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[XMPP address of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP address of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[XMPP address of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
-        <translation type="vanished">&lt;qt&gt;
-Pati një gabim në marrje informacioni përkthimi ID-je Shërbimi nga “%1”.&lt;br&gt;Arsye: %2&lt;br&gt;&lt;br&gt;Shërbimi mund të mos e mbulojë këtë veçori.  Në këtë rast do t’ju duhet ta jepni adresën XMPP dorazi për kontaktin që doni të shtoni.  Shembuj:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Përdoruesxmpp@njëfarëstrehe.com&lt;br&gt;&amp;nbsp;&amp;nbsp;Përdoruesaol@[Adresë XMPP Transporti AIM]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[Adresë XMPP Transporti ICQ]&lt;br&gt;&amp;nbsp;&amp;nbsp;haxhi%hotmail.com@[Adresë XMPP Transporti MSN]&lt;br&gt;&amp;nbsp;&amp;nbsp;Përdoruesyahoo@[Adresë XMPP Transporti Yahoo]&lt;br&gt;&lt;/qt&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%gmail.com@[XMPP address of Transport]&lt;br&gt;&lt;/qt&gt;</source>
         <translation>&lt;qt&gt;
 Pati një gabim në marrje informacioni përkthimi ID-je Shërbimi nga “%1”.&lt;br&gt;Arsye: %2&lt;br&gt;&lt;br&gt;Shërbimi mund të mos e mbulojë këtë veçori.  Në këtë rast do t’ju duhet ta jepni adresën XMPP dorazi për kontaktin që doni të shtoni.  Shembuj:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Përdoruesxmpp@njëfarëstrehe.com&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[Adresë XMPP Transporti]&lt;br&gt;&amp;nbsp;&amp;nbsp;haxhi%gmail.com@[Adresë XMPP Transporti]&lt;br&gt;&lt;/qt&gt;</translation>
@@ -1550,14 +1345,6 @@ Pati një gabim në marrje informacioni përkthimi ID-je Shërbimi nga “%1”.
         <translation>I dërguat mesazh Vëmendjeje %1</translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email: </translation>
-    </message>
-    <message>
         <source>This plugin is designed to send and receive special messages such as Attentions.
 To work correctly, the plugin requires that the client of the other part supports XEP-0224 (for example: Pidgin, Miranda IM with Nudge plugin).</source>
         <translation>Kjo shtojcë është menduar të dërgojë dhe marrë mesazhe të posaçëm, fjala vjen, Vëmendjeje.
@@ -1660,18 +1447,6 @@ Që të funksionojë si duhet, shtojca lyp që klienti në anën tjetër të mbu
         <translation>herë (-1=pafundësisht)</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#autoreply_plugin&quot;&gt;Wiki (Në internet)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email: </translation>
-    </message>
-    <message>
         <source>This plugin acts as an auto-answering machine. It has a number of simple configuration options, which you can use to:
 * set a text message for auto-answer
 * exclude specified jids, including conferences, from the objects for auto-answer (if a jid conference is set, the exception will include all private messages)
@@ -1736,44 +1511,6 @@ Lista e përjashtimeve për JID ka dy mënyra funksionimi:
 </context>
 <context>
     <name>AvCallPrivate</name>
-    <message>
-        <source>System error</source>
-        <translation type="vanished">Gabim sistemi</translation>
-    </message>
-    <message>
-        <source>Codec error</source>
-        <translation type="vanished">Gabim kodeku</translation>
-    </message>
-    <message>
-        <source>Generic error</source>
-        <translation type="vanished">Gabim i përgjithshëm</translation>
-    </message>
-    <message>
-        <source>Cannot call without selecting a device.  Do you have a microphone?  Check the Psi options.</source>
-        <translation type="vanished">S’mund të bëhet thirrje pa përzgjedhur një pajisje.  Keni mikrofon?  Shihni mundësitë e Psi-së.</translation>
-    </message>
-    <message>
-        <source>An error occurred while trying to send:
-%1.</source>
-        <translation type="vanished">Ndodhi një gabim teksa provohej të dërgohej:
-%1.</translation>
-    </message>
-    <message>
-        <source>Call was rejected or terminated.</source>
-        <translation type="vanished">Thirrja s’u pranua ose u përfundua.</translation>
-    </message>
-    <message>
-        <source>Call negotiation timed out.</source>
-        <translation type="vanished">Tratativës për thirrje i mbaroi koha.</translation>
-    </message>
-    <message>
-        <source>Unable to establish peer-to-peer connection.</source>
-        <translation type="vanished">S’arrihet të vendoset lidhje tek-për-tek.</translation>
-    </message>
-    <message>
-        <source>Call negotiation failed.</source>
-        <translation type="vanished">Tratativa për thirrje dështoi.</translation>
-    </message>
     <message>
         <source>The requested media type is not supported by the current media backend.</source>
         <translation>Lloji i kërkuar i medias nuk mbulohet nga backend-i aktual i medias.</translation>
@@ -1911,12 +1648,6 @@ Lista e përjashtimeve për JID ka dy mënyra funksionimi:
         <translation>Email: </translation>
     </message>
     <message>
-        <source>This plugin allows you to play battleship with your friends.
-For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="vanished">Kjo shtojcë ju lejon të luani Battleship me shokët tuaj.
-Për dërgim urdhrash përdoren mesazhe normalë, ndaj shtojca do të funksionojë kurdo që jeni në gjendje të bëni hyrjen në llogari. Që të ftoni një shok për një lojë, mund të përdorni zërin e menusë së kontakteve, ose butonin te paneli në një dritare fjalosjeje.</translation>
-    </message>
-    <message>
         <source>Battleship game</source>
         <translation>Lojë me anije</translation>
     </message>
@@ -2020,37 +1751,6 @@ Që të ftoni një shok për një lojë, mund të përdorni zërin e menusë së
     </message>
 </context>
 <context>
-    <name>Call</name>
-    <message>
-        <source>Dialog</source>
-        <translation type="vanished">Dialog</translation>
-    </message>
-    <message>
-        <source>To:</source>
-        <translation type="vanished">Për:</translation>
-    </message>
-    <message>
-        <source>Use video</source>
-        <translation type="vanished">Përdor video</translation>
-    </message>
-    <message>
-        <source>Sending bandwidth:</source>
-        <translation type="vanished">Gjerësi bande dërgimi:</translation>
-    </message>
-    <message>
-        <source>Call status</source>
-        <translation type="vanished">Gjendje thirrjeje</translation>
-    </message>
-    <message>
-        <source>&amp;Reject</source>
-        <translation type="vanished">&amp;Hidhe poshtë</translation>
-    </message>
-    <message>
-        <source>&amp;Accept</source>
-        <translation type="vanished">&amp;Pranoje</translation>
-    </message>
-</context>
-<context>
     <name>CallDlg</name>
     <message>
         <source>Call</source>
@@ -2127,73 +1827,6 @@ Që të ftoni një shok për një lojë, mund të përdorni zërin e menusë së
     <message>
         <source>Refused: the encryption could not be verified with a trusted OMEMO device of the contact. See Options &gt; Security.</source>
         <translation>U refuzua: kriptimi s’u arrit të verifikohet me një pajisje OMEMO të besuar të kontaktit. Shihni Mundësi &gt; Siguri.</translation>
-    </message>
-</context>
-<context>
-    <name>CallDlg::Private</name>
-    <message>
-        <source>Voice Call</source>
-        <translation type="vanished">Thirrje Audio</translation>
-    </message>
-    <message>
-        <source>High (1Mbps)</source>
-        <translation type="vanished">E lartë (1Mbps)</translation>
-    </message>
-    <message>
-        <source>Average (400Kbps)</source>
-        <translation type="vanished">Mesatare (400Kbps)</translation>
-    </message>
-    <message>
-        <source>Low (160Kbps)</source>
-        <translation type="vanished">E ulët (160Kbps)</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Mbylle</translation>
-    </message>
-    <message>
-        <source>C&amp;all</source>
-        <translation type="vanished">Th&amp;irre</translation>
-    </message>
-    <message>
-        <source>Ready</source>
-        <translation type="vanished">Gati</translation>
-    </message>
-    <message>
-        <source>From:</source>
-        <translation type="vanished">Prej:</translation>
-    </message>
-    <message>
-        <source>Accept call?</source>
-        <translation type="vanished">Të pranohet thirrja?</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">&amp;Anuloje</translation>
-    </message>
-    <message>
-        <source>Calling...</source>
-        <translation type="vanished">Po thirret…</translation>
-    </message>
-    <message>
-        <source>Accepting...</source>
-        <translation type="vanished">Po pranohet…</translation>
-    </message>
-    <message>
-        <source>&amp;Hang up</source>
-        <translation type="vanished">&amp;Mbylle</translation>
-    </message>
-    <message>
-        <source>Call active</source>
-        <translation type="vanished">Thirrje aktive</translation>
-    </message>
-    <message>
-        <source>Call is ended</source>
-        <translation type="vanished">Thirrja është përfunduar</translation>
-    </message>
-    <message>
-        <source>Call duration: %1</source>
-        <translation type="vanished">Kohëzgjatje thirrjeje: %1</translation>
     </message>
 </context>
 <context>
@@ -2373,26 +2006,7 @@ Aktivizoni kamerën ose ndani ekranin tuaj</translation>
     </message>
 </context>
 <context>
-    <name>CaptchaDialog</name>
-    <message>
-        <source>CAPTCHA</source>
-        <translation type="vanished">CAPTCHA</translation>
-    </message>
-    <message>
-        <source>Loading data...</source>
-        <translation type="vanished">Po ngarkohen të dhëna…</translation>
-    </message>
-    <message>
-        <source>Original message</source>
-        <translation type="vanished">Mesazhi origjinal</translation>
-    </message>
-</context>
-<context>
     <name>CaptchaDlg</name>
-    <message>
-        <source>Dialog</source>
-        <translation type="vanished">Dialog</translation>
-    </message>
     <message>
         <source>You need to pass verification</source>
         <translation>Duhet të kaloni verifikimin</translation>
@@ -2400,25 +2014,6 @@ Aktivizoni kamerën ose ndani ekranin tuaj</translation>
     <message>
         <source>AccountLabel</source>
         <translation>AccountLabel</translation>
-    </message>
-</context>
-<context>
-    <name>CaptchaFormsPlugin</name>
-    <message>
-        <source>Captcha Plugin: CAPTCHA from %1</source>
-        <translation type="vanished">Shtojcë Captcha: CAPTCHA nga %1</translation>
-    </message>
-    <message>
-        <source>Error! Image can not be loaded.</source>
-        <translation type="vanished">Gabim! Figura s’mund të ngarkohet.</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email: </translation>
     </message>
 </context>
 <context>
@@ -2453,10 +2048,6 @@ Aktivizoni kamerën ose ndani ekranin tuaj</translation>
     <message>
         <source>The certificate is valid.</source>
         <translation>Dëshmia është e vlefshme.</translation>
-    </message>
-    <message>
-        <source>The certificate is NOT valid!</source>
-        <translation type="vanished">Dëshmia NUK është e vlefshme!</translation>
     </message>
     <message>
         <source>Reason: %1.</source>
@@ -2588,10 +2179,6 @@ Arsye: %1</translation>
         <translation>Thirrje Audio</translation>
     </message>
     <message>
-        <source>Toggle encryption</source>
-        <translation type="vanished">Aktivizo/Çaktivizo fshehtëzim</translation>
-    </message>
-    <message>
         <source>Select icon</source>
         <translation>Përzgjidhni ikonën</translation>
     </message>
@@ -2632,22 +2219,6 @@ Doni ende të mbyllet dritarja?</translation>
     <message>
         <source>&lt;p&gt;Encryption was recently disabled by the remote contact.  Are you sure you want to send this message without encryption?&lt;/p&gt;</source>
         <translation>&lt;p&gt;Fshehtëzimi qe çaktivizuar tani afërt nga kontakti i largët.  Jeni i sigurt se doni të dërgohet ky mesazh pa fshehtëzim?&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Po</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Jo</translation>
-    </message>
-    <message>
-        <source>Encryption Enabled</source>
-        <translation type="vanished">Fshehtëzim i Aktivizuar</translation>
-    </message>
-    <message>
-        <source>Encryption Disabled</source>
-        <translation type="vanished">Fshehtëzim i Çaktivizuar</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
@@ -2763,59 +2334,6 @@ Doni ende të mbyllet dritarja?</translation>
     </message>
 </context>
 <context>
-    <name>ChatView</name>
-    <message>
-        <source>Quote</source>
-        <translation type="vanished">Citim</translation>
-    </message>
-    <message>
-        <source>Ctrl+S</source>
-        <translation type="vanished">Ctrl+S</translation>
-    </message>
-    <message>
-        <source>%1 says:</source>
-        <translation type="vanished">%1 thotë:</translation>
-    </message>
-    <message>
-        <source>Subject:</source>
-        <translation type="vanished">Subjekt:</translation>
-    </message>
-    <message>
-        <source>URL:</source>
-        <translation type="vanished">URL:</translation>
-    </message>
-    <message>
-        <source>Desc:</source>
-        <translation type="vanished">Përshkrim:</translation>
-    </message>
-    <message>
-        <source>The message was corrected</source>
-        <translation type="vanished">Mesazhi u ndreq</translation>
-    </message>
-</context>
-<context>
-    <name>ChatViewThemeProvider</name>
-    <message>
-        <source>Chat Message Style</source>
-        <translation type="vanished">Stil Mesazhesh Fjalosjeje</translation>
-    </message>
-    <message>
-        <source>Configure your chat theme here</source>
-        <translation type="vanished">Formësoni këtu temën e fjalosjes tuaj</translation>
-    </message>
-</context>
-<context>
-    <name>ChatWebView</name>
-    <message>
-        <source>Quote</source>
-        <translation type="vanished">Citim</translation>
-    </message>
-    <message>
-        <source>Ctrl+S</source>
-        <translation type="vanished">Ctrl+S</translation>
-    </message>
-</context>
-<context>
     <name>Chess::InvitationDialog</name>
     <message>
         <source>white</source>
@@ -2834,10 +2352,6 @@ të luani shah. Dëshiron të luajë si %2.</translation>
 </context>
 <context>
     <name>ChessPlugin</name>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#chess_plugin&quot;&gt;Wiki (Në internet)&lt;/a&gt;</translation>
-    </message>
     <message>
         <source>Chess Plugin</source>
         <translation>Shtojcë Shahu</translation>
@@ -2887,22 +2401,6 @@ të luani shah. Dëshiron të luajë si %2.</translation>
     <message>
         <source>Sound (*.wav)</source>
         <translation>Tingull (*.wav)</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email: </translation>
-    </message>
-    <message>
-        <source>This plugin allows you to play chess with your friends.
-The plugin is compatible with a similar plugin for Tkabber.
-For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="vanished">Kjo shtojcë ju lejon të luani shah me shokët.
-Shtojca është e pajtueshme me një shtojcë të ngjashme për.
-Për dërgim urdhrash përdoren mesazhe normalë, ndaj shtojca do të funksionojë kurdo që jeni në gjendje të bëni hyrjen në llogari. Që të ftoni një shok për një lojë, mund të përdorni zërin e menusë së kontakteve, ose butonin te paneli në një dritare fjalosjeje.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -3130,18 +2628,6 @@ Që të ftoni një shok për një lojë, mund të përdorni zërin e menusë së
         <translation>Nise Spastruesin</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#cleaner_plugin&quot;&gt;Wiki (Në internet)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email: </translation>
-    </message>
-    <message>
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
 You can preview items before deleting them from your hard drive.</source>
         <translation>Kjo shtojcë është menduar për të spastruar fshehtinën e avatarëve, kopje të ruajtura lokalisht të vCard-eve dhe regjistra historiku.
@@ -3227,38 +2713,7 @@ Mund të bëni paraparje të objekteve, përpara se t’i fshini nga disku juaj.
     </message>
 </context>
 <context>
-    <name>ClientSwitcher::TypeAheadFindBar</name>
-    <message>
-        <source>Search: </source>
-        <translation type="vanished">Kërko: </translation>
-    </message>
-    <message>
-        <source>&amp;Case sensitive</source>
-        <translation type="vanished">Ndjeshmëri ndaj shkrimi me të mëdha/të &amp;vogla</translation>
-    </message>
-    <message>
-        <source>First page</source>
-        <translation type="vanished">Faqja e parë</translation>
-    </message>
-    <message>
-        <source>Previous page</source>
-        <translation type="vanished">Faqja e mëparshme</translation>
-    </message>
-    <message>
-        <source>Next page</source>
-        <translation type="vanished">Faqja pasuese</translation>
-    </message>
-    <message>
-        <source>Last page</source>
-        <translation type="vanished">Faqja e fundit</translation>
-    </message>
-</context>
-<context>
     <name>ClientSwitcherPlugin</name>
-    <message>
-        <source>Authors: </source>
-        <translation type="vanished">Autorë: </translation>
-    </message>
     <message>
         <source>The plugin is intended for substitution of the client version, his name and operating system type.
 You can specify the version of the client and OS or to select them from the preset list.
@@ -3266,10 +2721,6 @@ You can specify the version of the client and OS or to select them from the pres
         <translation>Kjo shtojcë është menduar për zëvendësim të versionit të klientit, emrit të tij dhe llojit të sistemit operativ.
 Mundeni të specifikoni versionin e klientit dhe OS-in, ose t’i përzgjidhni nga një listë paracaktimesh.
 </translation>
-    </message>
-    <message>
-        <source>%1 has requested your version</source>
-        <translation type="vanished">%1 ka kërkuar versionin tuaj</translation>
     </message>
 </context>
 <context>
@@ -3404,10 +2855,6 @@ Mundeni të specifikoni versionin e klientit dhe OS-in, ose t’i përzgjidhni n
         <translation>Shihni Regjistër</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#conference_logger_plugin&quot;&gt;Wiki (Në internet)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Groupchat History</source>
         <translation>Historik Fjalosjeje Grupi</translation>
     </message>
@@ -3420,14 +2867,6 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
 Regjistrat e fjalosjeve në grup mund të shihen që nga rregullimet e shtojcës, ose duke klikuar butonin përkatës te paneli i mjeteve në dritaren/skedën aktive me fjalosje në grup.
 
 Shënim: Që të punojë si duhet, duhet të jetë i aktivizuar Paneli i Mjeteve të Fjalosjes në Grup.</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email: </translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -3489,10 +2928,6 @@ Shënim: Që të punojë si duhet, duhet të jetë i aktivizuar Paneli i Mjeteve
         <translation>Lista Privatësie</translation>
     </message>
     <message>
-        <source>&amp;XML Console</source>
-        <translation type="vanished">Konsolë &amp;XML</translation>
-    </message>
-    <message>
         <source>&amp;Modify Account...</source>
         <translation>&amp;Ndryshoni Llogari…</translation>
     </message>
@@ -3521,20 +2956,12 @@ Shënim: Që të punojë si duhet, duhet të jetë i aktivizuar Paneli i Mjeteve
         <translation>Avatar</translation>
     </message>
     <message>
-        <source>Groupchat</source>
-        <translation type="vanished">Fjalosje në grup</translation>
-    </message>
-    <message>
         <source>Plugins</source>
         <translation>Shtojca</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
         <translation>&amp;Përgjegjës</translation>
-    </message>
-    <message>
-        <source>Join %1</source>
-        <translation type="vanished">Hyni në %1</translation>
     </message>
     <message>
         <source>Groupchats</source>
@@ -3575,10 +3002,6 @@ Shënim: Që të punojë si duhet, duhet të jetë i aktivizuar Paneli i Mjeteve
 </context>
 <context>
     <name>ContactListDragView</name>
-    <message>
-        <source>%1 (%2)</source>
-        <translation type="vanished">%1 (%2)</translation>
-    </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
         <translation>Kjo do të heqë përgjithmonë&lt;br&gt;%1&lt;br&gt;nga lista juaj e kontakteve.</translation>
@@ -3668,13 +3091,6 @@ Të vazhdohet?</translation>
     <message>
         <source>Conferences</source>
         <translation>Konferenca</translation>
-    </message>
-</context>
-<context>
-    <name>ContactListViewDelegate::Private</name>
-    <message>
-        <source>%1 (%2)</source>
-        <translation type="vanished">%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -3852,46 +3268,8 @@ Të vazhdohet?</translation>
 <context>
     <name>ContentDownloader</name>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
-    </message>
-    <message>
-        <source>e-mail: </source>
-        <translation type="vanished">e-mail: </translation>
-    </message>
-    <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation>Kjo shtojcë është menduar ta bëjë të lehtë shkarkimin dhe instalimin e bashkësive të ikonave dhe burimeve të tjera për Psi.</translation>
-    </message>
-</context>
-<context>
-    <name>Crash::CrashDialog</name>
-    <message>
-        <source>Crash handler log</source>
-        <translation type="vanished">Regjistër trajtuesi vithisjesh</translation>
-    </message>
-</context>
-<context>
-    <name>CreateGroupDlg</name>
-    <message>
-        <source>Create New Group</source>
-        <translation type="vanished">Krijoni Grup të Ri</translation>
-    </message>
-    <message>
-        <source>Enter the new group name:</source>
-        <translation type="vanished">Jepni emrin e grupit të ri:</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="vanished">Shtoje</translation>
-    </message>
-    <message>
-        <source>&lt;None&gt;</source>
-        <translation type="vanished">&lt;Asnjë&gt;</translation>
-    </message>
-    <message>
-        <source>Choose parent group: </source>
-        <translation type="vanished">Zgjidhni grup mëmë: </translation>
     </message>
 </context>
 <context>
@@ -4082,10 +3460,6 @@ Të vazhdohet?</translation>
 <context>
     <name>DiscoListItem</name>
     <message>
-        <source>Error</source>
-        <translation type="vanished">Gabim</translation>
-    </message>
-    <message>
         <source>There was an error getting items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>Pati një gabim në marrjen e objekteve për &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Arsye: %2</translation>
     </message>
@@ -4139,40 +3513,6 @@ Të vazhdohet?</translation>
     <message>
         <source>deleted</source>
         <translation>fshirë</translation>
-    </message>
-</context>
-<context>
-    <name>Drawer</name>
-    <message>
-        <source>Error moving</source>
-        <translation type="vanished">Gabim gjatë kalimit</translation>
-    </message>
-    <message>
-        <source>To castle</source>
-        <translation type="vanished">Për rrokadë</translation>
-    </message>
-    <message>
-        <source>Do you want to castle?</source>
-        <translation type="vanished">Doni të bëhet rrokadë?</translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="vanished">Po</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">Jo</translation>
-    </message>
-</context>
-<context>
-    <name>EDBFlatFile::File</name>
-    <message>
-        <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
-        <translation type="vanished">&lt;big&gt;[Mesazh Sistemi]&lt;/big&gt;&lt;br&gt;S’jeni i autorizuar.</translation>
-    </message>
-    <message>
-        <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;Your authorization has been removed!</source>
-        <translation type="vanished">&lt;big&gt;[Mesazhi Sistemi]&lt;/big&gt;&lt;br&gt;Autorizimi juaj është hequr!</translation>
     </message>
 </context>
 <context>
@@ -4339,10 +3679,6 @@ Të vazhdohet?</translation>
 <context>
     <name>EnumMessagesPlugin</name>
     <message>
-        <source>Authors: </source>
-        <translation type="vanished">Autorë: </translation>
-    </message>
-    <message>
         <source>Missed messages: %1</source>
         <translation>Mesazhe të humbura: %1</translation>
     </message>
@@ -4394,10 +3730,6 @@ Mbulon aktivizimin/çaktivizimin e numërimit të mesazheve për kontakt, përme
     <message>
         <source>Message length</source>
         <translation>Gjatësi mesazhi</translation>
-    </message>
-    <message>
-        <source>Toggle encryption</source>
-        <translation type="vanished">Aktivizo/Çaktivizo fshehtëzim</translation>
     </message>
     <message>
         <source>Add URL</source>
@@ -4568,13 +3900,6 @@ Nëse doni ta ripohoni këtë kërkesë, ju lutemi, shtypni butonin Ripohoni. P�
     </message>
 </context>
 <context>
-    <name>EventNotifierAction</name>
-    <message>
-        <source>&lt;Event notifier&gt;</source>
-        <translation type="vanished">&lt;Njoftues aktesh&gt;</translation>
-    </message>
-</context>
-<context>
     <name>ExtendedMenuPlugin</name>
     <message>
         <source>Ping %1</source>
@@ -4655,14 +3980,6 @@ Nëse doni ta ripohoni këtë kërkesë, ju lutemi, shtypni butonin Ripohoni. P�
     <message>
         <source>Entity Time</source>
         <translation>Kohë Entiteti</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email: </translation>
     </message>
     <message>
         <source>This plugin adds several additional commands into contacts context menu.</source>
@@ -4904,10 +4221,6 @@ Kjo mundësi ka efekt vetëm nëse accept-defaults është false.</translation>
         <translation>Shfaq gjendjen e fundit</translation>
     </message>
     <message>
-        <source>Show PGP</source>
-        <translation type="vanished">Shfaq PGP</translation>
-    </message>
-    <message>
         <source>Show client version</source>
         <translation>Shfaq version klienti</translation>
     </message>
@@ -5016,10 +4329,6 @@ Kjo mundësi ka efekt vetëm nëse accept-defaults është false.</translation>
         <translation>Ndihmëz</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:skins_css&quot;&gt;CSS for Psi&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:skins_css&quot;&gt;CSS për Psi&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Disable wheel scroll</source>
         <translation>Çaktivizo rrëshqitje përmes rrotëzës së miut</translation>
     </message>
@@ -5074,18 +4383,6 @@ Kjo mundësi ka efekt vetëm nëse accept-defaults është false.</translation>
     <message>
         <source>Notifications</source>
         <translation>Njoftime</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_options_plugin&quot;&gt;Wiki (Në internet)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email: </translation>
     </message>
     <message>
         <source>This plugin is designed to allow easy configuration of some advanced options in Psi.
@@ -5207,14 +4504,6 @@ E rëndësishme: një pjesë e madhe e mundësive janë rregullime të rëndësi
         <translation>Jeni i sigurt se doni të anulohet shpërngulja?</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Po</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Jo</translation>
-    </message>
-    <message>
         <source>Choose a file</source>
         <translation>Zgjidhni një kartelë</translation>
     </message>
@@ -5303,10 +4592,6 @@ që lejohen lidhje dalëse TCP.</translation>
 </context>
 <context>
     <name>FileShareDlg</name>
-    <message>
-        <source>Dialog</source>
-        <translation type="vanished">Dialog</translation>
-    </message>
     <message>
         <source>Share Files</source>
         <translation>Ndani Kartela Me të Tjerë</translation>
@@ -5643,10 +4928,6 @@ Arsye: %3</translation>
         <translation>Shkarkoje dhe Instaloje</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#content_downloader_plugin&quot;&gt;Wiki (Në internet)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#content_downloader_plugin&quot;&gt;Wiki (Në internet)&lt;/a&gt;</translation>
     </message>
@@ -5889,10 +5170,6 @@ Arsye: %1</translation>
         <translation>Fshije</translation>
     </message>
     <message>
-        <source>Cancel</source>
-        <translation type="vanished">Anuloje</translation>
-    </message>
-    <message>
         <source>&amp;Name:</source>
         <translation>&amp;Emër:</translation>
     </message>
@@ -5905,16 +5182,8 @@ Arsye: %1</translation>
         <translation>&amp;Hyrje automatike:</translation>
     </message>
     <message>
-        <source>Bookmark conference</source>
-        <translation type="vanished">Faqeruaje konferencën</translation>
-    </message>
-    <message>
         <source>Unable to join groupchat.    Reason: %1</source>
         <translation>S’arrihet të hyhet në fjalosje në grup.    Arsye: %1</translation>
-    </message>
-    <message>
-        <source>Paste and Send</source>
-        <translation type="vanished">Ngjite dhe Dërgoje</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
@@ -5923,10 +5192,6 @@ Arsye: %1</translation>
     <message>
         <source>Open &amp;Chat Window</source>
         <translation>Hap Dritare &amp;Fjalosjeje</translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation type="vanished">Thirrje Audio</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
@@ -6092,137 +5357,6 @@ Arsye: %1</translation>
     </message>
 </context>
 <context>
-    <name>GameBoard</name>
-    <message>
-        <source>White</source>
-        <translation type="vanished">Të bardhët</translation>
-    </message>
-    <message>
-        <source>Black</source>
-        <translation type="vanished">Të zinjtë</translation>
-    </message>
-    <message>
-        <source>game with</source>
-        <translation type="vanished">luani</translation>
-    </message>
-    <message>
-        <source>History</source>
-        <translation type="vanished">Historik</translation>
-    </message>
-    <message>
-        <source>Looking up the host</source>
-        <translation type="vanished">Po kërkohet për strehën</translation>
-    </message>
-    <message>
-        <source>Accepted a new connection</source>
-        <translation type="vanished">Pranoi një lidhje të re</translation>
-    </message>
-    <message>
-        <source>The host found</source>
-        <translation type="vanished">U gjet streha</translation>
-    </message>
-    <message>
-        <source>Connected to the host</source>
-        <translation type="vanished">I lidhur te streha</translation>
-    </message>
-    <message>
-        <source>Socket Error...</source>
-        <translation type="vanished">Gabim Socket-i…</translation>
-    </message>
-    <message>
-        <source>game from</source>
-        <translation type="vanished">lojë nga</translation>
-    </message>
-    <message>
-        <source>Your move...</source>
-        <translation type="vanished">Radha juaj…</translation>
-    </message>
-    <message>
-        <source>Waiting a move...</source>
-        <translation type="vanished">Në pritje të një lëvizjeje…</translation>
-    </message>
-    <message>
-        <source>End the game</source>
-        <translation type="vanished">Përfundojeni lojën</translation>
-    </message>
-    <message>
-        <source>Want you to end the game?
-You will lose it</source>
-        <translation type="vanished">Dëshironi të përfundoni lojën?
-Do ta humbni</translation>
-    </message>
-    <message>
-        <source>Yes, end</source>
-        <translation type="vanished">Po, përfundoje</translation>
-    </message>
-    <message>
-        <source>No, continue</source>
-        <translation type="vanished">Jo, vazhdoje</translation>
-    </message>
-    <message>
-        <source>B</source>
-        <translation type="vanished">B</translation>
-    </message>
-    <message>
-        <source>K</source>
-        <translation type="vanished">K</translation>
-    </message>
-    <message>
-        <source>C</source>
-        <translation type="vanished">C</translation>
-    </message>
-    <message>
-        <source>Q</source>
-        <translation type="vanished">Q</translation>
-    </message>
-    <message>
-        <source>Error!</source>
-        <translation type="vanished">Gabim!</translation>
-    </message>
-    <message>
-        <source>Lookup Error</source>
-        <translation type="vanished">Gabim Kërkimi</translation>
-    </message>
-    <message>
-        <source>The host</source>
-        <translation type="vanished">Streha</translation>
-    </message>
-    <message>
-        <source>not found.</source>
-        <translation type="vanished">s’u gjet.</translation>
-    </message>
-    <message>
-        <source>Save image</source>
-        <translation type="vanished">Ruaje figurën</translation>
-    </message>
-    <message>
-        <source>Do you want to save the image?</source>
-        <translation type="vanished">Doni të ruhet figura?</translation>
-    </message>
-    <message>
-        <source>Yes, save</source>
-        <translation type="vanished">Po, ruaje</translation>
-    </message>
-    <message>
-        <source>No, don&apos;t save</source>
-        <translation type="vanished">Jo, mos e ruaj</translation>
-    </message>
-    <message>
-        <source>Game over</source>
-        <translation type="vanished">Loja mbaroi</translation>
-    </message>
-    <message>
-        <source>You have a mate.
-You lost the game.</source>
-        <translation type="vanished">Jeni mat.
-E humbët lojën.</translation>
-    </message>
-    <message>
-        <source>You have a stalemate</source>
-        <translation type="vanished">Jeni pat</translation>
-    </message>
-</context>
-<context>
     <name>GameModel</name>
     <message>
         <source>The first turn can be only H8.</source>
@@ -6273,10 +5407,6 @@ E humbët lojën.</translation>
         <translation>GeneralGroupchatUI</translation>
     </message>
     <message>
-        <source>Enable word highlighting</source>
-        <translation type="vanished">Aktivizo theksim fjalësh</translation>
-    </message>
-    <message>
         <source>Highlight lines and alert the user if this text is included in chat</source>
         <translation>Thekso rreshtat dhe njofto përdoruesin, nëse ky tekst përfshihet në fjalosje</translation>
     </message>
@@ -6309,16 +5439,8 @@ E humbët lojën.</translation>
         <translation>Hiqe</translation>
     </message>
     <message>
-        <source>Enable nick coloring</source>
-        <translation type="vanished">Aktivizo ngjyrosje nofkash</translation>
-    </message>
-    <message>
         <source>Nick coloring</source>
         <translation>Ngjyrosje nofkash</translation>
-    </message>
-    <message>
-        <source>Colors used for nicks in groupchat</source>
-        <translation type="vanished">Ngjyra të përdorura për nofka në fjalosje në grup</translation>
     </message>
     <message>
         <source>This is the list of colours with which nicks will be drawn in group chat.</source>
@@ -6327,10 +5449,6 @@ E humbët lojën.</translation>
     <message>
         <source>Type a colourcode here, or press the palette to the right</source>
         <translation>Shkruani këtu një kod ngjyre, ose shtypni paletën në të djathtë</translation>
-    </message>
-    <message>
-        <source>Adds the color to the list</source>
-        <translation type="vanished">E shton ngjyrën te lista</translation>
     </message>
     <message>
         <source>Adds the new color to the list</source>
@@ -6598,37 +5716,6 @@ E humbët lojën.</translation>
     </message>
 </context>
 <context>
-    <name>GmailNotifyPlugin</name>
-    <message>
-        <source>Settings for an account %1 are changed</source>
-        <translation type="vanished">U ndryshuan rregullime për një llogari %1</translation>
-    </message>
-    <message>
-        <source>Attributes for contact %1 are changed</source>
-        <translation type="vanished">U ndryshuan atribute për një llogari %1</translation>
-    </message>
-    <message>
-        <source>Choose a sound file</source>
-        <translation type="vanished">Zgjidhni një kartelë tingull</translation>
-    </message>
-    <message>
-        <source>Sound (*.wav)</source>
-        <translation type="vanished">Tingull (*.wav)</translation>
-    </message>
-    <message>
-        <source>Choose a program</source>
-        <translation type="vanished">Zgjidhni një programi</translation>
-    </message>
-    <message>
-        <source>Block gmail contact</source>
-        <translation type="vanished">Blloko kontakt Gmail</translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="vanished">Autorë: </translation>
-    </message>
-</context>
-<context>
     <name>Gnome3StatusWatcher</name>
     <message>
         <source>Authors: </source>
@@ -6637,25 +5724,6 @@ E humbët lojën.</translation>
     <message>
         <source>This plugin is designed to add support of GNOME 3 presence status changes</source>
         <translation>Kjo shtojcë është menduar për të shtuar mbështetje për ndryshimet e gjendjes së pranisë në GNOME 3</translation>
-    </message>
-</context>
-<context>
-    <name>GnuPG</name>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
-    </message>
-    <message>
-        <source>e-mail: </source>
-        <translation type="vanished">e-mail: </translation>
-    </message>
-    <message>
-        <source>Send GnuPG Public Key</source>
-        <translation type="vanished">Dërgo Kyç Publik GnuPG</translation>
-    </message>
-    <message>
-        <source>Public key %1 sent</source>
-        <translation type="vanished">Kyçi publik %1 u dërgua</translation>
     </message>
 </context>
 <context>
@@ -6684,14 +5752,6 @@ të luani gomoku. Ai dëshiron të luajë %2.</translation>
     <message>
         <source>Sound (*.wav)</source>
         <translation>Tingull (*.wav)</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email: </translation>
     </message>
     <message>
         <source>Gomoku game</source>
@@ -6774,10 +5834,6 @@ Që të ftoni një shok për një lojë, mund të përdorni zërin e menusë së
 <context>
     <name>GroupChatDlg</name>
     <message>
-        <source>Topic:</source>
-        <translation type="vanished">Subjekt:</translation>
-    </message>
-    <message>
         <source>Select icon</source>
         <translation>Përzgjidhni ikonë</translation>
     </message>
@@ -6811,17 +5867,6 @@ Që të ftoni një shok për një lojë, mund të përdorni zërin e menusë së
     <message>
         <source>Country</source>
         <translation>Vend</translation>
-    </message>
-</context>
-<context>
-    <name>GroupChatViewThemeProvider</name>
-    <message>
-        <source>Groupchat Message Style</source>
-        <translation type="vanished">Stil Mesazhesh Fjalosjeje Në Grup</translation>
-    </message>
-    <message>
-        <source>Configure your groupchat theme here</source>
-        <translation type="vanished">Formësoni këtu temën e fjalosjes tuaj në grup</translation>
     </message>
 </context>
 <context>
@@ -7050,40 +6095,6 @@ Që të ftoni një shok për një lojë, mund të përdorni zërin e menusë së
 <context>
     <name>HistoryImport</name>
     <message>
-        <source>Status:</source>
-        <translation type="vanished">Gjendje:</translation>
-    </message>
-    <message>
-        <source>Progress:</source>
-        <translation type="vanished">Ecuri:</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="vanished">Ok</translation>
-    </message>
-    <message>
-        <source>Exit</source>
-        <translation type="vanished">Dalje</translation>
-    </message>
-    <message>
-        <source>Import</source>
-        <translation type="vanished">Importoji</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Gabim</translation>
-    </message>
-    <message>
-        <source>Psi+ Import history</source>
-        <translation type="vanished">Psi+ Importoni historik</translation>
-    </message>
-    <message>
-        <source>Found %1 files for import.
-Continue?</source>
-        <translation type="vanished">U gjetën %1 kartela për importim.
-Të vazhdohet?</translation>
-    </message>
-    <message>
         <source>Upgrade history</source>
         <translation>Përmirëso historikun</translation>
     </message>
@@ -7107,24 +6118,12 @@ Të vazhdohet?</translation>
 <context>
     <name>HistoryKeeperPlugin</name>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#history_keeper_plugin&quot;&gt;Wiki (Në internet)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Remove history for contacts:</source>
         <translation>Hiqe historikun për kontakte:</translation>
     </message>
     <message>
         <source>Clear history on exit</source>
         <translation>Spastro historikun gjatë daljes</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email: </translation>
     </message>
     <message>
         <source>This plugin is designed to remove the history of selected contacts when the Psi is closed.
@@ -7617,22 +6616,7 @@ Mund të përzgjidhni ose shpërzgjidhni një kontakt për heqje historiku prej 
     </message>
 </context>
 <context>
-    <name>IcqDie</name>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Në internet)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
-    </message>
-</context>
-<context>
     <name>ImagePlugin</name>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#image_plugin&quot;&gt;Wiki (Në internet)&lt;/a&gt;</translation>
-    </message>
     <message>
         <source>Send Image</source>
         <translation>Dërgo Figurë</translation>
@@ -7664,10 +6648,6 @@ Mund të përzgjidhni ose shpërzgjidhni një kontakt për heqje historiku prej 
     <message>
         <source>Image %1 bytes received.</source>
         <translation>U mor figura: %1 bajt.</translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="vanished">Autorë: </translation>
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
@@ -7735,42 +6715,6 @@ Shënim: Që të punojë si duhet, mundësia options.ui.chat.central-toolbar  du
 </context>
 <context>
     <name>ImagePreviewPlugin</name>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
-    </message>
-    <message>
-        <source>512 Kb</source>
-        <translation type="vanished">512 Kb</translation>
-    </message>
-    <message>
-        <source>1 Mb</source>
-        <translation type="vanished">1 Mb</translation>
-    </message>
-    <message>
-        <source>2 Mb</source>
-        <translation type="vanished">2 Mb</translation>
-    </message>
-    <message>
-        <source>5 Mb</source>
-        <translation type="vanished">5 Mb</translation>
-    </message>
-    <message>
-        <source>10 Mb</source>
-        <translation type="vanished">10 Mb</translation>
-    </message>
-    <message>
-        <source>Maximum image size</source>
-        <translation type="vanished">Madhësi maksimum figurash</translation>
-    </message>
-    <message>
-        <source>Image preview size in pixels</source>
-        <translation type="vanished">Madhësi paraparjeje figure, në piksel</translation>
-    </message>
-    <message>
-        <source>Allow upscale</source>
-        <translation type="vanished">Lejoni zmadhim</translation>
-    </message>
     <message>
         <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
 </source>
@@ -7970,14 +6914,6 @@ Shënim: Që të punojë si duhet, mundësia options.ui.chat.central-toolbar  du
 Are you sure you want to discard them?</source>
         <translation>Nuk i keni botuar ndryshimet e hollësive të llogarisë tuaj.
 Jeni i sigurt se doni t’i hidhni tej?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation type="vanished">Mbylle dhe hidhe tej</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">Mos e mbyll</translation>
     </message>
     <message>
         <source>Success</source>
@@ -8264,14 +7200,6 @@ të luani lojën me anije. Ai dëshiron të luajë %2.</translation>
         <translation>Disk Jabber</translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email: </translation>
-    </message>
-    <message>
         <source>Treat some jids as services implementing Jabber Disk protocol and handle your files with them.</source>
         <translation>Trajto disa JID-e si shërbime që zbatojnë protokollin Disk Jabber dhe menaxho kartelat e tua me anë të tyre.</translation>
     </message>
@@ -8360,10 +7288,6 @@ ruajtja në fshehtinë e avatarëve nuk do të jetë e passhme</translation>
     <message>
         <source>Add to favorites</source>
         <translation>Shtoje te të parapëlqyerit</translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="vanished">Autorë: </translation>
     </message>
     <message>
         <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
@@ -8487,10 +7411,6 @@ Shënim: Që të punojë si duhet, mundësia options.html.chat.render    duhet t
         <translation>Formësim Dhome</translation>
     </message>
     <message>
-        <source>Affiliations</source>
-        <translation type="vanished">Përshoqërime</translation>
-    </message>
-    <message>
         <source>Filter:</source>
         <translation>Filtër:</translation>
     </message>
@@ -8501,10 +7421,6 @@ Shënim: Që të punojë si duhet, mundësia options.html.chat.render    duhet t
     <message>
         <source>Remove</source>
         <translation>Hiqe</translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation type="vanished">Të përgjithshme</translation>
     </message>
     <message>
         <source>message</source>
@@ -8521,10 +7437,6 @@ Shënim: Që të punojë si duhet, mundësia options.html.chat.render    duhet t
     <message>
         <source>Close</source>
         <translation>Mbylle</translation>
-    </message>
-    <message>
-        <source>&amp;VCard</source>
-        <translation type="vanished">&amp;VCard</translation>
     </message>
     <message>
         <source>&amp;General</source>
@@ -8572,14 +7484,6 @@ Shënim: Që të punojë si duhet, mundësia options.html.chat.render    duhet t
     <message>
         <source>Are you absolutely certain you want to destroy this room?</source>
         <translation>Jeni absolutisht i sigurt se doni të asgjësohet kjo dhomë?</translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="vanished">Po</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">Jo</translation>
     </message>
     <message>
         <source>There was an error retrieving the room configuration</source>
@@ -8668,10 +7572,6 @@ Shënim: Që të punojë si duhet, mundësia options.html.chat.render    duhet t
 Reason: %1</source>
         <translation>S’arrihet të hyhet te fjalosje në grup.
 Arsye: %1</translation>
-    </message>
-    <message>
-        <source>%1 (%2)</source>
-        <translation type="vanished">%1 (%2)</translation>
     </message>
     <message>
         <source>No response from server for %1 seconds</source>
@@ -8827,14 +7727,6 @@ Arsye: %1</translation>
         <translation>ReadMe</translation>
     </message>
     <message>
-        <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
-        <translation type="vanished">Ky aplikacion përdor GStreamer %1, një platformë të plotë, me burim të hapët dhe ndërplatformëshe për media.  Për më tepër hollësi, shihni &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>About GStreamer</source>
-        <translation type="vanished">Mbi GStreamer-in</translation>
-    </message>
-    <message>
         <source>Security Plugins Diagnostic Text</source>
         <translation>Tekst Diagnostikimi Shtojcash Sigurie</translation>
     </message>
@@ -8845,10 +7737,6 @@ Arsye: %1</translation>
     <message>
         <source>Receive next event</source>
         <translation>Merr aktin pasues</translation>
-    </message>
-    <message>
-        <source>&amp;Hide</source>
-        <translation type="vanished">&amp;Fshihe</translation>
     </message>
     <message>
         <source>Status Message</source>
@@ -8909,37 +7797,6 @@ Akt(e) ardhës nga:</translation>
     <message>
         <source>Enable Sounds</source>
         <translation>Aktivizo tingujt</translation>
-    </message>
-</context>
-<context>
-    <name>MainWindow</name>
-    <message>
-        <source>Save image</source>
-        <translation type="vanished">Ruaje figurën</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation type="vanished">Mbylle</translation>
-    </message>
-    <message>
-        <source>About the game</source>
-        <translation type="vanished">Rreth lojës</translation>
-    </message>
-    <message>
-        <source>Game</source>
-        <translation type="vanished">Lojë</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation type="vanished">Ndihmë</translation>
-    </message>
-    <message>
-        <source>Ready</source>
-        <translation type="vanished">Gati</translation>
-    </message>
-    <message>
-        <source>About</source>
-        <translation type="vanished">Mbi</translation>
     </message>
 </context>
 <context>
@@ -9116,13 +7973,6 @@ Madhësi: %2</translation>
     </message>
 </context>
 <context>
-    <name>MamImageViewer</name>
-    <message>
-        <source>Image</source>
-        <translation type="vanished">Imazh</translation>
-    </message>
-</context>
-<context>
     <name>Mattermost::OverlayScrollBarManager</name>
     <message>
         <source>Scroll to top</source>
@@ -9135,14 +7985,6 @@ Madhësi: %2</translation>
 </context>
 <context>
     <name>MessageFilter</name>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
-    </message>
-    <message>
-        <source>e-mail: </source>
-        <translation type="vanished">email: </translation>
-    </message>
     <message>
         <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
         <translation>Mund të heqë stanzat hyrëse sipas filtrave të ndryshëm, si adresa e burimit/destinacionit ose përmbajtja specifike e mesazhit</translation>
@@ -9193,10 +8035,6 @@ Hollësi: %1</translation>
     <message>
         <source>Name</source>
         <translation>Emër</translation>
-    </message>
-    <message>
-        <source>E-Mail</source>
-        <translation type="vanished">Email</translation>
     </message>
     <message>
         <source>Created</source>
@@ -9557,13 +8395,6 @@ Etiketa: %1</translation>
     </message>
 </context>
 <context>
-    <name>OAuth2SASLContext</name>
-    <message>
-        <source>Enter authorization code</source>
-        <translation type="vanished">Jepni kod autorizimi</translation>
-    </message>
-</context>
-<context>
     <name>OpenPgpMessaging</name>
     <message>
         <source>Public key &quot;%1&quot; sent</source>
@@ -9891,14 +8722,6 @@ Arsye: %1.</translation>
         <translation>Theksim:</translation>
     </message>
     <message>
-        <source>Link</source>
-        <translation type="vanished">Lidhje</translation>
-    </message>
-    <message>
-        <source>Visited Link</source>
-        <translation type="vanished">Lidhje e Vizituar</translation>
-    </message>
-    <message>
         <source>Tooltip:</source>
         <translation>Ndihmëz:</translation>
     </message>
@@ -10090,10 +8913,6 @@ Arsye: %1.</translation>
         <source>Video input:</source>
         <translation>Video në hyrje:</translation>
     </message>
-    <message>
-        <source>Video support:</source>
-        <translation type="vanished">Mbulim videosh:</translation>
-    </message>
 </context>
 <context>
     <name>OptChat</name>
@@ -10126,32 +8945,12 @@ Arsye: %1.</translation>
         <translation>Veprim parazgjedhje</translation>
     </message>
     <message>
-        <source>Delete chat window contents</source>
-        <translation type="vanished">Fshi lëndë dritareje fjalosjeje</translation>
-    </message>
-    <message>
         <source>&amp;Message</source>
         <translation>&amp;Mesazh</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
         <translation>&amp;Fjalosje</translation>
-    </message>
-    <message>
-        <source>&amp;When chat window is closed</source>
-        <translation type="vanished">&amp;Kur mbyllet dritarja e fjalosjes</translation>
-    </message>
-    <message>
-        <source>&amp;One hour after chat window was closed</source>
-        <translation type="vanished">&amp;Një orë pasi qe mbyllur dritarja e fjalosjes</translation>
-    </message>
-    <message>
-        <source>One &amp;day after chat window was closed</source>
-        <translation type="vanished">Një &amp;ditë pasi qe mbyllur dritarja e fjalosjes</translation>
-    </message>
-    <message>
-        <source>&amp;Never</source>
-        <translation type="vanished">&amp;Kurrë</translation>
     </message>
     <message>
         <source>Size of preloaded history</source>
@@ -10321,10 +9120,6 @@ Arsye: %1.</translation>
     <message>
         <source>Show previews for links</source>
         <translation>Shfaq paraparje për lidhje</translation>
-    </message>
-    <message>
-        <source>Use contacts&apos; message formatting</source>
-        <translation type="vanished">Përdor për mesazhin formatim të kontaktit</translation>
     </message>
     <message>
         <source>Show character counter</source>
@@ -10520,14 +9315,6 @@ Arsye: %1.</translation>
         <translation>Shfaq shtyllë menush</translation>
     </message>
     <message>
-        <source>Disables scrollbar in the application window.</source>
-        <translation type="vanished">Çaktivizon shtyllë rrëshqitjes te dritarja e aplikacionit</translation>
-    </message>
-    <message>
-        <source>Disable scrollbar</source>
-        <translation type="vanished">Çaktivizo rrëshqitës</translation>
-    </message>
-    <message>
         <source>Enables avatar frame at the top of roster</source>
         <translation>Aktivizon kornizën e avatarit në krye të listës</translation>
     </message>
@@ -10633,14 +9420,6 @@ Arsye: %1.</translation>
     <message>
         <source>OptApplicationUI</source>
         <translation>OptApplicationUI</translation>
-    </message>
-    <message>
-        <source>Hides scrollbar in the roster widget.</source>
-        <translation type="vanished">Fsheh shtyllë rrëshqitjeje te widget-i i listës.</translation>
-    </message>
-    <message>
-        <source>Disable scrollbar</source>
-        <translation type="vanished">Çaktivizoni rrëshqitës</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -11049,10 +9828,6 @@ p, li { white-space: pre-wrap; }
         <translation>Përpunoni Mundësinë %1</translation>
     </message>
     <message>
-        <source>Psi: Option Editor</source>
-        <translation type="vanished">Psi: Përpunues Mundësish</translation>
-    </message>
-    <message>
         <source>Can&apos;t edit this type of setting, sorry.</source>
         <translation>S’mund të përpunohet ky lloj rregullimi, na ndjeni.</translation>
     </message>
@@ -11094,10 +9869,6 @@ Emrat e mundësive nuk mund të jenë bosh, të mbarojnë me &apos;.&apos; ose t
     <message>
         <source>Play sound:</source>
         <translation>Luaj tingull:</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#attention_plugin&quot;&gt;Wiki (Në internet)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Update Birthdays</source>
@@ -11144,24 +9915,8 @@ Emrat e mundësive nuk mund të jenë bosh, të mbarojnë me &apos;.&apos; ose t
         <translation>Kontrollo për datëlindje gjatë nisjes</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#birthday_reminder_plugin&quot;&gt;Wiki (Në internet&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Options</source>
         <translation>Mundësi</translation>
-    </message>
-    <message>
-        <source>Auto-popup Captcha dialog</source>
-        <translation type="vanished">Vetëshfaqe flluskën e dialogut Captcha</translation>
-    </message>
-    <message>
-        <source>Use proxy settings from account</source>
-        <translation type="vanished">Përdor rregullime ndërmjetësi nga llogaria</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Në internet)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Contact menu</source>
@@ -11170,66 +9925,6 @@ Emrat e mundësive nuk mund të jenë bosh, të mbarojnë me &apos;.&apos; ose t
     <message>
         <source>Toolbar action</source>
         <translation>Veprim te paneli</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_menu_plugin&quot;&gt;Wiki (Në internet)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Supported accounts:</source>
-        <translation type="vanished">Llogari të mbuluara:</translation>
-    </message>
-    <message>
-        <source>There is no supported accounts!</source>
-        <translation type="vanished">S’ka llogari të mbuluara!</translation>
-    </message>
-    <message>
-        <source>Account Settings</source>
-        <translation type="vanished">Rregullime Llogarie</translation>
-    </message>
-    <message>
-        <source>Mail notifications</source>
-        <translation type="vanished">Njoftime poste</translation>
-    </message>
-    <message>
-        <source>Message archiving</source>
-        <translation type="vanished">Arkivim mesazhesh</translation>
-    </message>
-    <message>
-        <source>Auto-accept suggestions</source>
-        <translation type="vanished">Vetëprano sugjerime</translation>
-    </message>
-    <message>
-        <source>Enable Off the Record Chats</source>
-        <translation type="vanished">Aktivizo Fjalosje “Off the Record”</translation>
-    </message>
-    <message>
-        <source> Enable &quot;Mail notifications&quot; option!</source>
-        <translation type="vanished">Aktivizo mundësinë “Njoftime me email”!</translation>
-    </message>
-    <message>
-        <source>Mail Notifications Settings</source>
-        <translation type="vanished">Rregullime Njoftimesh Poste</translation>
-    </message>
-    <message>
-        <source>Show all unread messages</source>
-        <translation type="vanished">Shfaq krejt mesazhet e palexuar</translation>
-    </message>
-    <message>
-        <source>Show new messages only</source>
-        <translation type="vanished">Shfaq vetëm mesazhe të rinj</translation>
-    </message>
-    <message>
-        <source>Start program:</source>
-        <translation type="vanished">Nisni program:</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Wiki (Në internet)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Manager</source>
-        <translation type="vanished">Përgjegjës</translation>
     </message>
     <message>
         <source>Add</source>
@@ -11248,24 +9943,8 @@ Emrat e mundësive nuk mund të jenë bosh, të mbarojnë me &apos;.&apos; ose t
         <translation>Eksportoje</translation>
     </message>
     <message>
-        <source>Info</source>
-        <translation type="vanished">Hollësi</translation>
-    </message>
-    <message>
-        <source>Settings</source>
-        <translation type="vanished">Rregullime</translation>
-    </message>
-    <message>
-        <source>Filter the message with a key</source>
-        <translation type="vanished">Filtrojeni mesazhin me një kyç</translation>
-    </message>
-    <message>
         <source>Delete</source>
         <translation>Fshije</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#jabber_disk_plugin&quot;&gt;Wiki (Në internet)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Per contact delay between the popup notifications of the same events</source>
@@ -11418,10 +10097,6 @@ Emrat e mundësive nuk mund të jenë bosh, të mbarojnë me &apos;.&apos; ose t
 (nuk funksionon për mesazhet private në fjalosje në grup)</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#stop_spam_plugin&quot;&gt;Wiki (Në internet)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Status</source>
         <translation>Gjendje</translation>
     </message>
@@ -11452,10 +10127,6 @@ Emrat e mundësive nuk mund të jenë bosh, të mbarojnë me &apos;.&apos; ose t
     <message>
         <source>Show Watch for JID button in contact context menu</source>
         <translation>Shfaq butonin Vëzhgo për JID te menuja kontekstuale e kontaktit</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#watcher_plugin&quot;&gt;Wiki (Në internet)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>from file</source>
@@ -11496,10 +10167,6 @@ Emrat e mundësive nuk mund të jenë bosh, të mbarojnë me &apos;.&apos; ose t
     <message>
         <source>All files (*)</source>
         <translation>Tërë kartelat (*)</translation>
-    </message>
-    <message>
-        <source>GnuPG info</source>
-        <translation type="vanished">Hollësi GnuPG-je</translation>
     </message>
     <message>
         <source>Authorizing...</source>
@@ -12012,21 +10679,6 @@ Emrat e mundësive nuk mund të jenë bosh, të mbarojnë me &apos;.&apos; ose t
     </message>
 </context>
 <context>
-    <name>OptionsTabAvCall</name>
-    <message>
-        <source>Voice Calling</source>
-        <translation type="vanished">Thirrje me Zë</translation>
-    </message>
-    <message>
-        <source>Audio and video device configuration</source>
-        <translation type="vanished">Formësim pajisjesh audio dhe video</translation>
-    </message>
-    <message>
-        <source>Audio device configuration</source>
-        <translation type="vanished">Formësim pajisjesh audio</translation>
-    </message>
-</context>
-<context>
     <name>OptionsTabChat</name>
     <message>
         <source>Chat</source>
@@ -12220,10 +10872,6 @@ Emrat e mundësive nuk mund të jenë bosh, të mbarojnë me &apos;.&apos; ose t
         <translation>Transport</translation>
     </message>
     <message>
-        <source>vk.com</source>
-        <translation type="vanished">vk.com</translation>
-    </message>
-    <message>
         <source>Weather</source>
         <translation>Moti</translation>
     </message>
@@ -12340,12 +10988,6 @@ Emrat e mundësive nuk mund të jenë bosh, të mbarojnë me &apos;.&apos; ose t
     <message>
         <source>Options for Psi plugins</source>
         <translation>Mundësi për shtojca Psi</translation>
-    </message>
-    <message>
-        <source>Plugin Path:
-%1</source>
-        <translation type="vanished">Shteg Shtojce:
-%1</translation>
     </message>
     <message>
         <source>Show information about plugin</source>
@@ -12982,10 +11624,6 @@ Emrat e mundësive nuk mund të jenë bosh, të mbarojnë me &apos;.&apos; ose t
         <translation>Formular</translation>
     </message>
     <message>
-        <source>General</source>
-        <translation type="vanished">Të përgjithshme</translation>
-    </message>
-    <message>
         <source>Account:</source>
         <translation>Llogari:</translation>
     </message>
@@ -13044,38 +11682,6 @@ Emrat e mundësive nuk mund të jenë bosh, të mbarojnë me &apos;.&apos; ose t
     <message>
         <source>Caps version</source>
         <translation>Versioni Caps</translation>
-    </message>
-    <message>
-        <source>Enable for:</source>
-        <translation type="vanished">Aktivizoje për:</translation>
-    </message>
-    <message>
-        <source>Contacts</source>
-        <translation type="vanished">Kontakte</translation>
-    </message>
-    <message>
-        <source>Groupchats</source>
-        <translation type="vanished">Fjalosje në grup</translation>
-    </message>
-    <message>
-        <source>never</source>
-        <translation type="vanished">kurrë</translation>
-    </message>
-    <message>
-        <source>always</source>
-        <translation type="vanished">përherë</translation>
-    </message>
-    <message>
-        <source>Logs</source>
-        <translation type="vanished">Regjistra</translation>
-    </message>
-    <message>
-        <source>View log</source>
-        <translation type="vanished">Shihni regjistrin</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;Wiki (Në internet)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Shortcut:</source>
@@ -13146,10 +11752,6 @@ Emrat e mundësive nuk mund të jenë bosh, të mbarojnë me &apos;.&apos; ose t
         <translation>Përpunoni</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#screenshot_plugin&quot;&gt;Wiki (Në internet)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Enable for players:</source>
         <translation>Aktivizoje për lojtarë:</translation>
     </message>
@@ -13176,10 +11778,6 @@ Emrat e mundësive nuk mund të jenë bosh, të mbarojnë me &apos;.&apos; ose t
     <message>
         <source>Delay before restoring status, sec</source>
         <translation>Vonesa para rikthimit të gjendjes, sek</translation>
-    </message>
-    <message>
-        <source>Save queries to log</source>
-        <translation type="vanished">Ruaji kërkimet te regjistrimi</translation>
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
@@ -13232,10 +11830,6 @@ Emrat e mundësive nuk mund të jenë bosh, të mbarojnë me &apos;.&apos; ose t
         <translation>Ju lutemi, përzgjidhni një kyç.</translation>
     </message>
     <message>
-        <source>Key Storage Diagnostic Text</source>
-        <translation type="vanished">Tekst Diagnostikimi Depozite Kyçesh</translation>
-    </message>
-    <message>
         <source>GnuPG info</source>
         <translation>Hollësi GnuPG-je</translation>
     </message>
@@ -13268,50 +11862,8 @@ Arsyeja: %1.</translation>
         <translation>Fjalëkalim i Gabuar Llogarie</translation>
     </message>
     <message>
-        <source>Save Password</source>
-        <translation type="vanished">Ruaje Fjalëkalimin</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation type="vanished">OK</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">Anuloje</translation>
-    </message>
-    <message>
         <source>Please enter your password for %1:</source>
         <translation>Ju lutemi, jepni fjalëkalimin tuaj për %1:</translation>
-    </message>
-</context>
-<context>
-    <name>Passphrase</name>
-    <message>
-        <source>OpenPGP Passphrase</source>
-        <translation type="vanished">Frazëkalim OpenPGP</translation>
-    </message>
-    <message>
-        <source>Remember passphrase</source>
-        <translation type="vanished">Mbaje mend frazëkalimin</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">&amp;Anuloje</translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation type="vanished">&amp;OK</translation>
-    </message>
-    <message>
-        <source>psi/keys64</source>
-        <translation type="vanished">psi/keys64</translation>
-    </message>
-</context>
-<context>
-    <name>PassphraseDlg</name>
-    <message>
-        <source>%1: OpenPGP Passphrase</source>
-        <translation type="vanished">%1: Frazëkalim OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -13350,14 +11902,6 @@ Arsyeja: %1.</translation>
     <message>
         <source>Sound (*.wav)</source>
         <translation>Tingull (*.wav)</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor:  </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email: </translation>
     </message>
     <message>
         <source>This plugin shows popup notifications when users from your roster changes their mood, tune or activity.</source>
@@ -13601,17 +12145,6 @@ Arsyeja: %1.</translation>
     </message>
 </context>
 <context>
-    <name>PreferencesWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">Formular</translation>
-    </message>
-    <message>
-        <source>message</source>
-        <translation type="vanished">mesazh</translation>
-    </message>
-</context>
-<context>
     <name>PreviewFileDialog</name>
     <message>
         <source>Preview</source>
@@ -13849,115 +12382,7 @@ Arsyeja: %1.</translation>
     </message>
 </context>
 <context>
-    <name>ProfileManage</name>
-    <message>
-        <source>Manage Profiles</source>
-        <translation type="vanished">Administroni Profile</translation>
-    </message>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="vanished">&amp;Shtoni</translation>
-    </message>
-    <message>
-        <source>&amp;Rename</source>
-        <translation type="vanished">&amp;Riemërtojeni</translation>
-    </message>
-    <message>
-        <source>Rem&amp;ove</source>
-        <translation type="vanished">&amp;Hiqe</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileManageDlg</name>
-    <message>
-        <source>Rename Profile</source>
-        <translation type="vanished">Riemërtoni Profil</translation>
-    </message>
-    <message>
-        <source>There is already another profile with this name.  Please choose another.</source>
-        <translation type="vanished">Ka tashmë një profil tjetër me këtë emër. Ju lutemi, zgjidhni një tjetër.</translation>
-    </message>
-    <message>
-        <source>Delete Profile</source>
-        <translation type="vanished">Fshije Profilin</translation>
-    </message>
-    <message>
-        <source>No, I changed my mind</source>
-        <translation type="vanished">Jo, ndërrova mendje</translation>
-    </message>
-    <message>
-        <source>Delete it!</source>
-        <translation type="vanished">Fshije!</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Jo</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Po</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileNew</name>
-    <message>
-        <source>New Profile</source>
-        <translation type="vanished">Profil i Ri</translation>
-    </message>
-    <message>
-        <source>Profile Name:</source>
-        <translation type="vanished">Emër Profili:</translation>
-    </message>
-    <message>
-        <source>Default Action</source>
-        <translation type="vanished">Veprim Parazgjedhje</translation>
-    </message>
-    <message>
-        <source>Enable Emoticons</source>
-        <translation type="vanished">Aktivizo Emotikone</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Mbylle</translation>
-    </message>
-    <message>
-        <source>&amp;Create</source>
-        <translation type="vanished">&amp;Krijoje</translation>
-    </message>
-    <message>
-        <source>Alt+C</source>
-        <translation type="vanished">Alt+C</translation>
-    </message>
-    <message>
-        <source>&amp;Message</source>
-        <translation type="vanished">&amp;Mesazh</translation>
-    </message>
-    <message>
-        <source>&amp;Chat</source>
-        <translation type="vanished">&amp;Fjalosje</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileNewDlg</name>
-    <message>
-        <source>New Profile</source>
-        <translation type="vanished">Profil i Ri</translation>
-    </message>
-    <message>
-        <source>There is already an existing profile with this name.  Please choose another.</source>
-        <translation type="vanished">Ka tashmë një profil ekzistues me këtë emër.  Ju lutemi, zgjidhni një tjetër.</translation>
-    </message>
-</context>
-<context>
     <name>ProfileOpen</name>
-    <message>
-        <source>Open Profile</source>
-        <translation type="vanished">Hapni Profil</translation>
-    </message>
-    <message>
-        <source>left</source>
-        <translation type="vanished">majtas</translation>
-    </message>
     <message>
         <source>Image goes here</source>
         <translation>Këtu vihen figura</translation>
@@ -13965,30 +12390,6 @@ Arsyeja: %1.</translation>
     <message>
         <source>right</source>
         <translation>djathtas</translation>
-    </message>
-    <message>
-        <source>Profile:</source>
-        <translation type="vanished">Profil:</translation>
-    </message>
-    <message>
-        <source>&amp;Automatically open on startup</source>
-        <translation type="vanished">Hape &amp;automatikisht gjatë nisjesh</translation>
-    </message>
-    <message>
-        <source>Language:</source>
-        <translation type="vanished">Gjuhë:</translation>
-    </message>
-    <message>
-        <source>&amp;Quit</source>
-        <translation type="vanished">&amp;Mbylle</translation>
-    </message>
-    <message>
-        <source>&amp;Profiles...</source>
-        <translation type="vanished">&amp;Profile…</translation>
-    </message>
-    <message>
-        <source>&amp;Open</source>
-        <translation type="vanished">&amp;Hape</translation>
     </message>
     <message>
         <source>Profiles</source>
@@ -14021,10 +12422,6 @@ Arsyeja: %1.</translation>
 </context>
 <context>
     <name>ProfileOpenDlg</name>
-    <message>
-        <source>Select a profile to open from this list.</source>
-        <translation type="vanished">Përzgjidhni nga kjo listë një profil për hapje.</translation>
-    </message>
     <message>
         <source>Double-click or press F2 to rename a profile. Press Delete to remove it.</source>
         <translation>Klikoni dy herë ose shtypni F2 për të riemërtuar një profil. Shtypni Delete për ta hequr.</translation>
@@ -14294,10 +12691,6 @@ Doni të dilet?</translation>
         <translation>S’arrihet të lidhet: fshehtëzimi është i aktivizuar, por s’ka shtojcë QCA2 SSL/TLS.</translation>
     </message>
     <message>
-        <source>Feature Removed</source>
-        <translation type="vanished">Veçori e Hequr</translation>
-    </message>
-    <message>
         <source>Server Authentication</source>
         <translation>Mirëfilltësim Më Anë Shërbyesi</translation>
     </message>
@@ -14524,12 +12917,6 @@ Hollësi: %1</translation>
         <translation>Titull</translation>
     </message>
     <message>
-        <source>There was an error trying to sign your status.
-Reason: %1.</source>
-        <translation type="vanished">Pati një gabim kur u provua të nënshkruhej gjendja juaj.
-Arsye: %1.</translation>
-    </message>
-    <message>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[GABIM: Ky mesazh është i fshehtëzuar dhe s’jeni në gjendje ta shfshehtëzoni.]</translation>
     </message>
@@ -14540,14 +12927,6 @@ Arsye: %1.</translation>
     <message>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Psi s’arriti të gjejë kyçin OpenPGP për t’u përdorur për &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Kjo mund të ndodhë nëse s’e keni kyçin që kontakti po reklamon përmes pranisë së nënshkruar, ose nëse kontakti nuk po reklamon fare kyç.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&amp;Choose key manually</source>
-        <translation type="vanished">&amp;Zgjidhni kyç dorazi</translation>
-    </message>
-    <message>
-        <source>Do &amp;nothing</source>
-        <translation type="vanished">&amp;Mos bëj gjë</translation>
     </message>
     <message>
         <source>Public Key: %1</source>
@@ -14584,10 +12963,6 @@ Arsye: %1.</translation>
     <message>
         <source>Malformed request</source>
         <translation>Kërkesë e keqformuar</translation>
-    </message>
-    <message>
-        <source>Open Files For Sharing</source>
-        <translation type="vanished">Hap Kartela Për Ndarje Me të Tjerë</translation>
     </message>
     <message>
         <source>Keychain failure</source>
@@ -14733,10 +13108,6 @@ Arsye: %1.</translation>
         <translation>&amp;Shtoni një Kontakt</translation>
     </message>
     <message>
-        <source>&amp;XML Console</source>
-        <translation type="vanished">Konsolë &amp;XML</translation>
-    </message>
-    <message>
         <source>Service &amp;Discovery</source>
         <translation>&amp;Zbulim Shërbimesh</translation>
     </message>
@@ -14755,14 +13126,6 @@ Arsye: %1.</translation>
     <message>
         <source>Join &amp;Groupchat</source>
         <translation>Hyni në &amp;Fjalosje Grupi</translation>
-    </message>
-    <message>
-        <source>Account Setup</source>
-        <translation type="vanished">Ujdisje Llogarie</translation>
-    </message>
-    <message>
-        <source>Acc&amp;ount Setup</source>
-        <translation type="vanished">Ujdisje &amp;Llogarie</translation>
     </message>
     <message>
         <source>Options</source>
@@ -14789,10 +13152,6 @@ Arsye: %1.</translation>
         <translation>&amp;Ndryshoni Profil</translation>
     </message>
     <message>
-        <source>Play Sounds</source>
-        <translation type="vanished">Luaj Tinguj</translation>
-    </message>
-    <message>
         <source>Play &amp;Sounds</source>
         <translation>Luaj &amp;Tinguj</translation>
     </message>
@@ -14807,18 +13166,6 @@ Arsye: %1.</translation>
     <message>
         <source>Quits Psi</source>
         <translation>Bën daljen nga Psi</translation>
-    </message>
-    <message>
-        <source>Tip of the Day</source>
-        <translation type="vanished">Ndihmëza e Ditës</translation>
-    </message>
-    <message>
-        <source>&amp;Tip of the Day</source>
-        <translation type="vanished">&amp;Ndihmëza e Ditës</translation>
-    </message>
-    <message>
-        <source>See many useful tips</source>
-        <translation type="vanished">Shihni mjaft ndihmëza të dobishme</translation>
     </message>
     <message>
         <source>Transfer Manager</source>
@@ -14969,22 +13316,6 @@ Arsye: %1.</translation>
         <translation>&amp;Faqe Hyrëse (Në internet)</translation>
     </message>
     <message>
-        <source>Psi+ Forum (Online)</source>
-        <translation type="vanished">Forum Psi+ (Në Internet)</translation>
-    </message>
-    <message>
-        <source>Psi+ &amp;Forum (Online)</source>
-        <translation type="vanished">&amp;Forum Psi+ (Në Internet)</translation>
-    </message>
-    <message>
-        <source>Check for Updates...</source>
-        <translation type="vanished">Kontrollo për Përditësime…</translation>
-    </message>
-    <message>
-        <source>&amp;Check for Updates...</source>
-        <translation type="vanished">&amp;Kontrollo për Përditësime…</translation>
-    </message>
-    <message>
         <source>Report a Bug (Online)</source>
         <translation>Njoftoni një të Metë (Në internet)</translation>
     </message>
@@ -15073,10 +13404,6 @@ Arsye: %1.</translation>
         <translation>Dërgo Kartelë</translation>
     </message>
     <message>
-        <source>Toggle Encryption</source>
-        <translation type="vanished">Aktivizo/Çaktivizo Fshehtëzim</translation>
-    </message>
-    <message>
         <source>User Info</source>
         <translation>Hollësi Përdoruesi</translation>
     </message>
@@ -15103,14 +13430,6 @@ Arsye: %1.</translation>
     <message>
         <source>Plugins</source>
         <translation>Shtojca</translation>
-    </message>
-    <message>
-        <source>Pin Tab</source>
-        <translation type="vanished">Fiksoje Skedën</translation>
-    </message>
-    <message>
-        <source>Unpin Tab</source>
-        <translation type="vanished">Shfiksoje Skedën</translation>
     </message>
     <message>
         <source>Templates</source>
@@ -15206,10 +13525,6 @@ Arsye: %1.</translation>
         <translation>Gabim: S’përtypet dot urdhri: </translation>
     </message>
     <message>
-        <source>Command&gt;</source>
-        <translation type="vanished">Urdhër&gt;</translation>
-    </message>
-    <message>
         <source>turn off autojid</source>
         <translation>çaktivizo autojid</translation>
     </message>
@@ -15218,24 +13533,8 @@ Arsye: %1.</translation>
         <translation>aktivizo autojid</translation>
     </message>
     <message>
-        <source>Paste and Send</source>
-        <translation type="vanished">Ngjiteni dhe Dërgoje</translation>
-    </message>
-    <message>
-        <source>Enable OpenPGP encryption</source>
-        <translation type="vanished">Aktivizo fshehtëzim OpenPGP</translation>
-    </message>
-    <message>
         <source>Fingerprint for account &quot;%1&quot;: %2</source>
         <translation>Shenja gishtash për llogarinë “%1”: %2</translation>
-    </message>
-    <message>
-        <source>OpenPGP encryption</source>
-        <translation type="vanished">Fshehtëzim OpenPGP</translation>
-    </message>
-    <message>
-        <source>Disable OpenPGP encryption</source>
-        <translation type="vanished">Çaktivizo fshehtëzim OpenPGP</translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
@@ -15510,10 +13809,6 @@ Arsye: %1.</translation>
         <translation>S’mund të çaktivizoni &lt;i&gt;të gjitha&lt;/i&gt; panelet &lt;i&gt;dhe&lt;/i&gt; shtyllën e menysë. Po e bëtë, s’do të mund t’i riaktivizoni kur t’ju ndryshojë mendja.</translation>
     </message>
     <message>
-        <source>I understand</source>
-        <translation type="vanished">E kuptoj</translation>
-    </message>
-    <message>
         <source>Call ended</source>
         <translation>Thirrja përfundoi</translation>
     </message>
@@ -15640,14 +13935,6 @@ Migrimi është i mundur me Psi-0.15</translation>
         <translation>&amp;Spastro Foto Vetjake</translation>
     </message>
     <message>
-        <source>Assign Open&amp;PGP Key</source>
-        <translation type="vanished">Caktoni Kyç Open&amp;PGP</translation>
-    </message>
-    <message>
-        <source>Unassign Open&amp;PGP Key</source>
-        <translation type="vanished">Hiqni Caktim Kyçi Open&amp;PGP</translation>
-    </message>
-    <message>
         <source>User &amp;Info</source>
         <translation>&amp;Hollësi Përdoruesi</translation>
     </message>
@@ -15718,14 +14005,6 @@ Migrimi është i mundur me Psi-0.15</translation>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
         <translation>Jeni i sigurt se doni të hiqet autorizimi nga &lt;b&gt;%1&lt;/b&gt;?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Po</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Jo</translation>
     </message>
     <message>
         <source>Choose an Image</source>
@@ -16132,10 +14411,6 @@ Doni ta aktivizoni tani atë sesion?</translation>
         <translation>Shfaq kontakte</translation>
     </message>
     <message>
-        <source>Event notifier</source>
-        <translation type="vanished">Njoftues aktesh</translation>
-    </message>
-    <message>
         <source>Auto Status (idle)</source>
         <translation>Status automatik (joaktiv)</translation>
     </message>
@@ -16149,10 +14424,6 @@ Doni ta aktivizoni tani atë sesion?</translation>
     <message>
         <source>(no selection)</source>
         <translation>(pa përzgjedhje)</translation>
-    </message>
-    <message>
-        <source>Display all options as a flat list.</source>
-        <translation type="vanished">Shfaqi krejt mundësitë si një listë e sheshtë.</translation>
     </message>
     <message>
         <source>Delete...</source>
@@ -16171,10 +14442,6 @@ Doni ta aktivizoni tani atë sesion?</translation>
         <translation>Shtoni…</translation>
     </message>
     <message>
-        <source>Advanced</source>
-        <translation type="vanished">Të mëtejshme</translation>
-    </message>
-    <message>
         <source>(internal node)</source>
         <translation>(nyjë e brendshme)</translation>
     </message>
@@ -16189,10 +14456,6 @@ Doni ta aktivizoni tani atë sesion?</translation>
     <message>
         <source>Really delete all options starting with %1.?</source>
         <translation>Të fshihen vërtet të gjitha mundësitë që fillojnë me %1.?</translation>
-    </message>
-    <message>
-        <source>Psi+: Option Editor</source>
-        <translation type="vanished">Psi+: Përpunues Mundësish</translation>
     </message>
     <message>
         <source>Really reset options %1 to default value?</source>
@@ -16291,36 +14554,10 @@ Doni ta aktivizoni tani atë sesion?</translation>
     </message>
 </context>
 <context>
-    <name>PsiThumbnailToolBar</name>
-    <message>
-        <source>Options</source>
-        <translation type="vanished">Mundësi</translation>
-    </message>
-    <message>
-        <source>Online</source>
-        <translation type="vanished">Në linjë</translation>
-    </message>
-    <message>
-        <source>Offline</source>
-        <translation type="vanished">Jo në linjë</translation>
-    </message>
-    <message>
-        <source>Show Next Event</source>
-        <translation type="vanished">Shfaq Aktin Pasues</translation>
-    </message>
-</context>
-<context>
     <name>PsiToolBar</name>
     <message>
         <source>&amp;Configure Toolbar...</source>
         <translation>&amp;Formësoni Panelin…</translation>
-    </message>
-</context>
-<context>
-    <name>PsiWindowHeader</name>
-    <message>
-        <source>...</source>
-        <translation type="vanished">…</translation>
     </message>
 </context>
 <context>
@@ -17273,30 +15510,6 @@ Përshkrim: </translation>
         <source>&lt;unnamed%1&gt;</source>
         <translation>&lt;pa emër%1&gt;</translation>
     </message>
-    <message>
-        <source>Invalid passphrase</source>
-        <translation type="vanished">Frazëkalim i pavlefshëm</translation>
-    </message>
-    <message>
-        <source>Invalid input format</source>
-        <translation type="vanished">Format i pavlefshëm dhëniesh</translation>
-    </message>
-    <message>
-        <source>Invalid key</source>
-        <translation type="vanished">Kyç i pavlefshëm</translation>
-    </message>
-    <message>
-        <source>PGP card is missing</source>
-        <translation type="vanished">Mungon kartë PGP</translation>
-    </message>
-    <message>
-        <source>Unknown error</source>
-        <translation type="vanished">Gabim i panjohur</translation>
-    </message>
-    <message>
-        <source>Socket Error</source>
-        <translation type="vanished">Gabim Socket-i</translation>
-    </message>
     <message numerus="yes">
         <source>%n day(s) </source>
         <translation>
@@ -17396,10 +15609,6 @@ Mesazhi s’u dërgua.</translation>
     <message>
         <source>unknown</source>
         <translation>i panjohur</translation>
-    </message>
-    <message>
-        <source>Psi OTR</source>
-        <translation type="vanished">OTR Psi</translation>
     </message>
     <message>
         <source>Failed to generate keys for account &quot;%1&quot;.
@@ -18023,14 +16232,6 @@ Faleminderit për durimin tuaj.</translation>
 <context>
     <name>QipXStatuses</name>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email: </translation>
-    </message>
-    <message>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
         <translation>Kjo shtojcë është krijuar për të shfaqur x-gjendjet e kontakteve që përdorin klientin Jabber QIP Infium.</translation>
     </message>
@@ -18075,14 +16276,6 @@ Faleminderit për durimin tuaj.</translation>
     <message>
         <source>&lt;qt&gt;Registration has already been submitted, so closing this window will not prevent the registration from happening.  Do you still wish to close?&lt;/qt&gt;</source>
         <translation>&lt;qt&gt;Regjistrimi është dorëzuar tashmë, prandaj mbyllja e kësaj dritareje nuk do ta pengojë regjistrimin.  Doni ende ta mbyllni?&lt;/qt&gt;</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Po</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Jo</translation>
     </message>
     <message>
         <source>Fetching registration form for %1 ...</source>
@@ -18154,14 +16347,6 @@ Arsye: %1</translation>
         <translation>Tingull (*.wav)</translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email: </translation>
-    </message>
-    <message>
         <source>This plugin is designed to show reminders of upcoming birthdays.
 The first time you install this plugin, you need to log on to all of your accounts, go to the plugin settings and click &quot;Update Birthdays&quot;.The plugin will then collect the information about the birthdays of all the users in your roster, but when the &apos;Use vCards cache&apos; option isselected, the users&apos; vCards that are cached on your hard disk will be used. </source>
         <translation>Kjo shtojcë është krijuar për të shfaqur kujtuesa për ditëlindjet e ardhshme.
@@ -18173,21 +16358,6 @@ Herën e parë që instaloni këtë shtojcë, duhet të hyni në krejt llogarit�
     <message>
         <source>[blank]</source>
         <translation>[e zbrazët]</translation>
-    </message>
-</context>
-<context>
-    <name>RipperCCOptions</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">Formular</translation>
-    </message>
-    <message>
-        <source> min.</source>
-        <translation type="vanished">min.</translation>
-    </message>
-    <message>
-        <source>Attention interval: </source>
-        <translation type="vanished">Interval vëmendjeje: </translation>
     </message>
 </context>
 <context>
@@ -18427,10 +16597,6 @@ Herën e parë që instaloni këtë shtojcë, duhet të hyni në krejt llogarit�
         <translation>Ngarko Figurë</translation>
     </message>
     <message>
-        <source>Authors: </source>
-        <translation type="vanished">Autorë: </translation>
-    </message>
-    <message>
         <source>This plugin allows you to make screenshots and save them to your hard drive or upload them to an FTP or HTTP server.
 The plugin has the following settings:
 * Shortcut -- hotkey to make the screenshot (by default, Ctrl+Alt+P)
@@ -18571,33 +16737,6 @@ Arsye: %1</translation>
     </message>
 </context>
 <context>
-    <name>SelectGame</name>
-    <message>
-        <source>New game with...</source>
-        <translation type="vanished">Lojë e re…</translation>
-    </message>
-    <message>
-        <source>Choose your game</source>
-        <translation type="vanished">Zgjidhni lojën tuaj</translation>
-    </message>
-    <message>
-        <source>White game</source>
-        <translation type="vanished">Lojë me të bardhët</translation>
-    </message>
-    <message>
-        <source>Black game</source>
-        <translation type="vanished">Lojë me të zinjtë</translation>
-    </message>
-    <message>
-        <source>Play!</source>
-        <translation type="vanished">Luani!</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">Anuloje</translation>
-    </message>
-</context>
-<context>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Template editor</source>
@@ -18692,29 +16831,10 @@ Arsye: %1</translation>
     </message>
 </context>
 <context>
-    <name>SeparatorAction</name>
-    <message>
-        <source>&lt;Separator&gt;</source>
-        <translation type="vanished">&lt;Ndarës&gt;</translation>
-    </message>
-    <message>
-        <source>Separator</source>
-        <translation type="vanished">Ndarës</translation>
-    </message>
-</context>
-<context>
     <name>ServerListQuerier</name>
     <message>
         <source>Unable to parse server list</source>
         <translation>S’arrihet të analizohet listë shërbyesish</translation>
-    </message>
-    <message>
-        <source>Maximum redirect count reached</source>
-        <translation type="vanished">U arrit maksimum ridrejtimesh</translation>
-    </message>
-    <message>
-        <source>Invalid redirect URL %1</source>
-        <translation type="vanished">URL ridrejtimi e pavlefshme %1</translation>
     </message>
     <message>
         <source>Unexpected HTTP status code: %1</source>
@@ -18790,10 +16910,6 @@ Arsye: %1</translation>
     <message>
         <source>Enable Groups</source>
         <translation>Aktivizo Grupe</translation>
-    </message>
-    <message>
-        <source>Event Notifier</source>
-        <translation type="vanished">Njoftues Aktesh</translation>
     </message>
     <message>
         <source>View Groups</source>
@@ -18890,10 +17006,6 @@ Arsye: %1</translation>
     <message>
         <source>README</source>
         <translation>README</translation>
-    </message>
-    <message>
-        <source>Tips</source>
-        <translation type="vanished">Ndihmëza</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
@@ -19113,17 +17225,6 @@ Arsye: %1</translation>
     </message>
 </context>
 <context>
-    <name>ShowChangeLogForm</name>
-    <message>
-        <source>New version is available!</source>
-        <translation type="vanished">Ka gati version të ri!</translation>
-    </message>
-    <message>
-        <source>Open download page?</source>
-        <translation type="vanished">Të hapet faqe shkarkimesh?</translation>
-    </message>
-</context>
-<context>
     <name>ShowPhotoDlg</name>
     <message>
         <source>Photo Preview: %1</source>
@@ -19222,10 +17323,6 @@ Arsye: %1</translation>
     <message>
         <source>Backup skin before applying</source>
         <translation>Kopjeruaje lëkurçen, para se të aplikohet</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#skins_plugin&quot;&gt;Wiki (Në internet)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Choose a skin file</source>
@@ -19427,14 +17524,6 @@ Kjo lejon që krejt cilësimet (ikona, rregullimi i panelit të mjeteve) të mer
         <translation> e kaloi testin</translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email: </translation>
-    </message>
-    <message>
         <source>This plugin is designed to block spam messages and other unwanted information from Psi users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
 With the plugin settings you can:
 * Define a security question and the answer
@@ -19505,20 +17594,8 @@ KUJDES!!! Përpara se të regjistroni një transport të ri, rekomandohet të sh
 <context>
     <name>StorageNotesPlugin</name>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#storage_notes_plugin&quot;&gt;Wiki (Në internet)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Storage Notes</source>
         <translation>Shënime Depozitimi</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email: </translation>
     </message>
     <message>
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
@@ -19879,49 +17956,6 @@ Ju lutemi, ndreqni dhe riprovoni.</translation>
     </message>
 </context>
 <context>
-    <name>Tip</name>
-    <message>
-        <source>Useful Tips</source>
-        <translation type="vanished">Ndihmëza të Dobishme</translation>
-    </message>
-    <message>
-        <source>Show tips at startup</source>
-        <translation type="vanished">Shfaq ndihmëza në nisje</translation>
-    </message>
-    <message>
-        <source>&amp;Previous</source>
-        <translation type="vanished">E &amp;mëparshmja</translation>
-    </message>
-    <message>
-        <source>Alt+P</source>
-        <translation type="vanished">Alt+P</translation>
-    </message>
-    <message>
-        <source>psi/arrowLeft</source>
-        <translation type="vanished">psi/shigjetëMajtas</translation>
-    </message>
-    <message>
-        <source>&amp;Next</source>
-        <translation type="vanished">&amp;Pasuesja</translation>
-    </message>
-    <message>
-        <source>Alt+N</source>
-        <translation type="vanished">Alt+N</translation>
-    </message>
-    <message>
-        <source>psi/arrowRight</source>
-        <translation type="vanished">psi/shigjetëDjathtas</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Mbylle</translation>
-    </message>
-    <message>
-        <source>Alt+C</source>
-        <translation type="vanished">Alt+C</translation>
-    </message>
-</context>
-<context>
     <name>TipDlg</name>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
@@ -20120,10 +18154,6 @@ Shpresojmë ta shijoni përdorimin e tij aq sa shijuam ne krijimin e tij!
         <translation>Rikthe Rregullimet Parazgjedhje</translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
-    </message>
-    <message>
         <source>This plugin allows you to convert selected text into another language.
 </source>
         <translation>Kjo shtojcë ju lejon të shndërroni tekstin e përzgjedhur në një gjuhë tjetër.
@@ -20229,10 +18259,6 @@ Shpresojmë ta shijoni përdorimin e tij aq sa shijuam ne krijimin e tij!
 <context>
     <name>VideoStatusChanger</name>
     <message>
-        <source>Authors: </source>
-        <translation type="vanished">Autorë: </translation>
-    </message>
-    <message>
         <source>This plugin is designed to set the custom status when you watching the video in selected video players. 
 Note: This plugin is designed to work in Linux family operating systems and in Windows OS. 
 
@@ -20306,57 +18332,6 @@ Që të punojë me lojtarin Parole, duhet të aktivizoni modulin/shtojcën MPRIS
     <message>
         <source>Do you want to save your changes?</source>
         <translation>Doni të ruani ndryshimet tuaja?</translation>
-    </message>
-</context>
-<context>
-    <name>ViewMailDlg</name>
-    <message>
-        <source>E-Mail</source>
-        <translation type="vanished">Email</translation>
-    </message>
-    <message>
-        <source>From:</source>
-        <translation type="vanished">Prej:</translation>
-    </message>
-    <message>
-        <source>Subject:</source>
-        <translation type="vanished">Subjekt:</translation>
-    </message>
-    <message>
-        <source>Account:</source>
-        <translation type="vanished">Llogari:</translation>
-    </message>
-    <message>
-        <source>Open mail in browser</source>
-        <translation type="vanished">Hape postën në shfletues</translation>
-    </message>
-    <message>
-        <source>Open MailBox</source>
-        <translation type="vanished">Hap Kuti Postare</translation>
-    </message>
-    <message>
-        <source>Previous</source>
-        <translation type="vanished">I mëparshmi</translation>
-    </message>
-    <message>
-        <source>Next</source>
-        <translation type="vanished">Pasuesi</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="vanished">Mbylle</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Mbylle</translation>
-    </message>
-    <message>
-        <source>[%1/%2] E-Mail</source>
-        <translation type="vanished">[%1/%2] Email</translation>
-    </message>
-    <message>
-        <source>Open in browser</source>
-        <translation type="vanished">Hape në shfletues</translation>
     </message>
 </context>
 <context>
@@ -20511,145 +18486,10 @@ Që të punojë me lojtarin Parole, duhet të aktivizoni modulin/shtojcën MPRIS
         <translation>Ndiq JID-in</translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email: </translation>
-    </message>
-    <message>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
 On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
         <translation>Kjo shtojcë është krijuar për të ndjekur gjendjen e kontakteve të caktuara në listën e kontakteve, si dhe për të zëvendësuar tingujt standardë të mesazheve hyrëse.
 Në skedën e parë caktohet një listë kontaktesh, gjendja e të cilëve ndiqet. Kur gjendja e këtyre kontakteve ndryshon, do të shfaqet një dritare kërcyese dhe, kur gjendja kalon në gjendjen në linjë, mund të luhet një tingull i personalizuar. Në skedën e dytë konfigurohet një listë elementesh, mesazhet e të cilëve ndiqen. Çdo element mund të përmbajë një shprehje të rregullt për të kontrolluar përputhjet me JID-in prej të cilit vjen mesazhi, një listë shprehjesh të rregullta për të kontrolluar përshtatjet me tekstin e një mesazhi hyrës, shtegun drejt kartelës së tingullit që do të luhet në rast përputhjeje, si dhe cilësimin nëse tingulli luhet gjithmonë, edhe kur tingujt globalë janë të fikur. </translation>
-    </message>
-</context>
-<context>
-    <name>WbDlg</name>
-    <message>
-        <source>Whiteboard (%1)</source>
-        <translation type="vanished">Tabelë (%1)</translation>
-    </message>
-    <message>
-        <source>Save session</source>
-        <translation type="vanished">Ruaje sesionin</translation>
-    </message>
-    <message>
-        <source>Save the contents of the whiteboard</source>
-        <translation type="vanished">Ruaje lëndën e tabelës</translation>
-    </message>
-    <message>
-        <source>Change the geometry</source>
-        <translation type="vanished">Ndryshoni gjeometrinë</translation>
-    </message>
-    <message>
-        <source>End session</source>
-        <translation type="vanished">Përfundoje sesionin</translation>
-    </message>
-    <message>
-        <source>Clear the whiteboard</source>
-        <translation type="vanished">Pastroje tabelën</translation>
-    </message>
-    <message>
-        <source>Stroke color</source>
-        <translation type="vanished">Ngjyrë vije</translation>
-    </message>
-    <message>
-        <source>Fill color</source>
-        <translation type="vanished">Ngjyrë mbushjeje</translation>
-    </message>
-    <message>
-        <source>Stroke width</source>
-        <translation type="vanished">Gjerësi vije</translation>
-    </message>
-    <message>
-        <source>Edit mode</source>
-        <translation type="vanished">Mënyra përpunim</translation>
-    </message>
-    <message>
-        <source>Thin stroke</source>
-        <translation type="vanished">Vijë e hollë</translation>
-    </message>
-    <message>
-        <source>Medium stroke</source>
-        <translation type="vanished">Vijë mesatare</translation>
-    </message>
-    <message>
-        <source>Thick stroke</source>
-        <translation type="vanished">Vijë e trashë</translation>
-    </message>
-    <message>
-        <source>Select</source>
-        <translation type="vanished">Përzgjidhni</translation>
-    </message>
-    <message>
-        <source>Translate</source>
-        <translation type="vanished">Përkthejeni</translation>
-    </message>
-    <message>
-        <source>Rotate</source>
-        <translation type="vanished">Rrotulloje</translation>
-    </message>
-    <message>
-        <source>Scale</source>
-        <translation type="vanished">Ripërmasojeni</translation>
-    </message>
-    <message>
-        <source>Erase</source>
-        <translation type="vanished">Fshije</translation>
-    </message>
-    <message>
-        <source>Scroll</source>
-        <translation type="vanished">Rrëshqitje</translation>
-    </message>
-    <message>
-        <source>Add images</source>
-        <translation type="vanished">Shtoni figura</translation>
-    </message>
-    <message>
-        <source>Whiteboard toolbar</source>
-        <translation type="vanished">Panel tabele</translation>
-    </message>
-    <message>
-        <source>%1 left (session: %2).</source>
-        <translation type="vanished">%1 iku (sesion: %2).</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Kujdes</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Po</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Jo</translation>
-    </message>
-    <message>
-        <source>Set new width:</source>
-        <translation type="vanished">Caktoni gjerësi të re:</translation>
-    </message>
-    <message>
-        <source>Width:</source>
-        <translation type="vanished">Gjerësi:</translation>
-    </message>
-    <message>
-        <source>Set new height:</source>
-        <translation type="vanished">Caktoni lartësi të re:</translation>
-    </message>
-    <message>
-        <source>Height:</source>
-        <translation type="vanished">Lartësi:</translation>
-    </message>
-    <message>
-        <source>Save Whitebaord</source>
-        <translation type="vanished">Ruaje Tabelën</translation>
-    </message>
-    <message>
-        <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="vanished">Grafika Vektoriale të Përshkallëzueshme (*.svg)</translation>
     </message>
 </context>
 <context>
@@ -20681,18 +18521,6 @@ Në skedën e parë caktohet një listë kontaktesh, gjendja e të cilëve ndiqe
 </context>
 <context>
     <name>WbManager</name>
-    <message>
-        <source>Unsupported</source>
-        <translation type="vanished">I pambuluar</translation>
-    </message>
-    <message>
-        <source>Open Existing SVG?</source>
-        <translation type="vanished">Të hapet SVG Ekzistuese?</translation>
-    </message>
-    <message>
-        <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="vanished">Grafika Vektoriale të Përshkallëzueshme (*.svg)</translation>
-    </message>
     <message>
         <source>Answered on another device.</source>
         <translation>U përgjigj në një pajisje tjetër.</translation>
@@ -21095,10 +18923,6 @@ Në skedën e parë caktohet një listë kontaktesh, gjendja e të cilëve ndiqe
 <context>
     <name>XMLConsole</name>
     <message>
-        <source>XML Console</source>
-        <translation type="vanished">Konsolë XML</translation>
-    </message>
-    <message>
         <source>Filter</source>
         <translation>Filtër</translation>
     </message>
@@ -21164,13 +18988,6 @@ Në skedën e parë caktohet një listë kontaktesh, gjendja e të cilëve ndiqe
     </message>
 </context>
 <context>
-    <name>XMPP::ClientStream</name>
-    <message>
-        <source>Offered mechanisms: </source>
-        <translation type="vanished">Mekanizma të ofruar: </translation>
-    </message>
-</context>
-<context>
     <name>XMPP::Features::FeatureName</name>
     <message>
         <source>ERROR: Incorrect usage of Features class</source>
@@ -21199,10 +19016,6 @@ Në skedën e parë caktohet një listë kontaktesh, gjendja e të cilëve ndiqe
     <message>
         <source>Service Discovery</source>
         <translation>Zbulim Shërbimesh</translation>
-    </message>
-    <message>
-        <source>VCard</source>
-        <translation type="vanished">VCard</translation>
     </message>
     <message>
         <source>Execute command</source>
@@ -21234,10 +19047,6 @@ Në skedën e parë caktohet një listë kontaktesh, gjendja e të cilëve ndiqe
 </context>
 <context>
     <name>XMPP::JT_VCard</name>
-    <message>
-        <source>No VCard available</source>
-        <translation type="vanished">S’ka VCard</translation>
-    </message>
     <message>
         <source>No vCard available</source>
         <translation>S’ka vCard</translation>
@@ -21570,10 +19379,6 @@ Në skedën e parë caktohet një listë kontaktesh, gjendja e të cilëve ndiqe
 <context>
     <name>XmlConsole</name>
     <message>
-        <source>XML Console</source>
-        <translation type="vanished">Konsolë XML</translation>
-    </message>
-    <message>
         <source>XMPP Console</source>
         <translation>Konsola XMPP</translation>
     </message>
@@ -21595,14 +19400,6 @@ Në skedën e parë caktohet një listë kontaktesh, gjendja e të cilëve ndiqe
     <message>
         <source>Malformed XML</source>
         <translation>XML e keqformuar</translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="vanished">Po</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">Jo</translation>
     </message>
     <message>
         <source>You have entered malformed XML input.</source>
@@ -21660,36 +19457,8 @@ Në skedën e parë caktohet një listë kontaktesh, gjendja e të cilëve ndiqe
         <translation>Ruaj pozicion dritareje</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gomoku_game_plugin&quot;&gt;Wiki (në internet)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>min.</source>
-        <translation type="vanished">min.</translation>
-    </message>
-    <message>
-        <source>Max messages to contact:</source>
-        <translation type="vanished">Maksimum mesazhesh për kontakt:</translation>
-    </message>
-    <message>
-        <source>Disable if chat window is active</source>
-        <translation type="vanished">Çaktivizojeni, nëse dritarja e fjalosjes është aktive</translation>
-    </message>
-    <message>
-        <source>Transports:</source>
-        <translation type="vanished">Transporte:</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Në internet)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Disable invitations from conference</source>
         <translation>Çaktivizo ftesa nga konferenca</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#battleship_game_plugin&quot;&gt;Wiki (në internet)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
@@ -22085,10 +19854,6 @@ Në skedën e parë caktohet një listë kontaktesh, gjendja e të cilëve ndiqe
         <translation>A keni verifikuar që kjo është vërtet shenja e saktë e gishtave?</translation>
     </message>
     <message>
-        <source>Psi OTR</source>
-        <translation type="vanished">OTR Psi</translation>
-    </message>
-    <message>
         <source>%1 has canceled the authentication process.</source>
         <translation>%1 anuloi procesin e mirëfilltësimit.</translation>
     </message>
@@ -22120,14 +19885,6 @@ Duhet të mirëfilltësoni edhe %1 duke bërë pyetjen tuaj.</translation>
 <context>
     <name>psiotr::ConfigDialog</name>
     <message>
-        <source>Known fingerprints</source>
-        <translation type="vanished">Shenja gishtash të ditur</translation>
-    </message>
-    <message>
-        <source>My private keys</source>
-        <translation type="vanished">Kyçet e mi privatë</translation>
-    </message>
-    <message>
         <source>Configuration</source>
         <translation>Formësim</translation>
     </message>
@@ -22142,10 +19899,6 @@ Duhet të mirëfilltësoni edhe %1 duke bërë pyetjen tuaj.</translation>
 </context>
 <context>
     <name>psiotr::ConfigOtrWidget</name>
-    <message>
-        <source>OTR Policy</source>
-        <translation type="vanished">Rregulla OTR-je</translation>
-    </message>
     <message>
         <source>Disable private messaging</source>
         <translation>Çaktivizo shkëmbim mesazhesh private</translation>
@@ -22174,10 +19927,6 @@ Duhet të mirëfilltësoni edhe %1 duke bërë pyetjen tuaj.</translation>
 <context>
     <name>psiotr::FingerprintWidget</name>
     <message>
-        <source>Delete fingerprint</source>
-        <translation type="vanished">Fshini shenja gishtash</translation>
-    </message>
-    <message>
         <source>Verify fingerprint</source>
         <translation>Verifikoni shenja gishtash</translation>
     </message>
@@ -22202,10 +19951,6 @@ Duhet të mirëfilltësoni edhe %1 duke bërë pyetjen tuaj.</translation>
         <translation>Gjendje</translation>
     </message>
     <message>
-        <source>Are you sure you want to delete the following fingerprint?</source>
-        <translation type="vanished">Jeni i sigurt se doni të fshihen shenjat vijuese të gishtave?</translation>
-    </message>
-    <message>
         <source>Account: </source>
         <translation>Llogari: </translation>
     </message>
@@ -22216,10 +19961,6 @@ Duhet të mirëfilltësoni edhe %1 duke bërë pyetjen tuaj.</translation>
     <message>
         <source>Fingerprint: </source>
         <translation>Shenja gishtash: </translation>
-    </message>
-    <message>
-        <source>Psi OTR</source>
-        <translation type="vanished">OTR Psi</translation>
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
@@ -22257,10 +19998,6 @@ Duhet të mirëfilltësoni edhe %1 duke bërë pyetjen tuaj.</translation>
         <translation>Prodho kyç të ri</translation>
     </message>
     <message>
-        <source>Delete key</source>
-        <translation type="vanished">Fshije kyçin</translation>
-    </message>
-    <message>
         <source>Account</source>
         <translation>Llogari</translation>
     </message>
@@ -22279,10 +20016,6 @@ Duhet të mirëfilltësoni edhe %1 duke bërë pyetjen tuaj.</translation>
     <message>
         <source>Fingerprint: </source>
         <translation>Shenja Gishtash: </translation>
-    </message>
-    <message>
-        <source>Psi OTR</source>
-        <translation type="vanished">OTR Psi</translation>
     </message>
     <message>
         <source>Are you sure you want to overwrite the following key?</source>
@@ -22355,10 +20088,6 @@ Duhet të mirëfilltësoni edhe %1 duke bërë pyetjen tuaj.</translation>
 <context>
     <name>psiotr::PsiOtrPlugin</name>
     <message>
-        <source>Authors: %1</source>
-        <translation type="vanished">Autorë: %1</translation>
-    </message>
-    <message>
         <source>Encryption</source>
         <translation>Fshehtëzim</translation>
     </message>
@@ -22385,10 +20114,6 @@ Duhet të mirëfilltësoni edhe %1 duke bërë pyetjen tuaj.</translation>
     <message>
         <source>If you lose control of your private keys, no previous conversation is compromised.</source>
         <translation>Nëse humbisni kontrollin mbi kyçet tuaja private, asnjë bisedë e mëparshme nuk kompromentohet.</translation>
-    </message>
-    <message>
-        <source>Psi OTR</source>
-        <translation type="vanished">OTR Psi</translation>
     </message>
     <message>
         <source>Attempting to refresh the private conversation</source>
@@ -22598,10 +20323,6 @@ drejt këtij mesazhi në juick@conference.jabber.ru</translation>
         <translation>Spastro fshehtinën avatarësh</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#juick_plugin&quot;&gt;Wiki (Në internet)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>https://link</source>
         <translation>https://link</translation>
     </message>
@@ -22697,10 +20418,6 @@ drejt këtij mesazhi në juick@conference.jabber.ru</translation>
     <message>
         <source>Birthday:</source>
         <translation>Datëlindje:</translation>
-    </message>
-    <message>
-        <source>E-Mail:</source>
-        <translation type="vanished">E-Mail:</translation>
     </message>
     <message>
         <source>Close</source>
@@ -22926,10 +20643,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Clear Cookies</source>
         <translation>Spastro Cookie-t</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#yandex_narod_plugin&quot;&gt;wiki (në internet)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>

@@ -420,22 +420,6 @@ Označite potrditveno polje &lt;b&gt;Registriraj nov račun&lt;/b&gt;, če želi
         <translation>Uredi osebne &amp;podatke ...</translation>
     </message>
     <message>
-        <source>OpenPGP</source>
-        <translation type="vanished">OpenPGP</translation>
-    </message>
-    <message>
-        <source>placeholder2</source>
-        <translation type="vanished">placeholder2</translation>
-    </message>
-    <message>
-        <source>Select &amp;Key...</source>
-        <translation type="vanished">Izbor &amp;ključa ...</translation>
-    </message>
-    <message>
-        <source>Use None</source>
-        <translation type="vanished">Brez ključa</translation>
-    </message>
-    <message>
         <source>Privacy</source>
         <translation>Zasebnost</translation>
     </message>
@@ -600,10 +584,6 @@ Označite potrditveno polje &lt;b&gt;Registriraj nov račun&lt;/b&gt;, če želi
         <translation>Nikoli</translation>
     </message>
     <message>
-        <source>Legacy SSL</source>
-        <translation type="vanished">Zastareli SSL</translation>
-    </message>
-    <message>
         <source>Over encrypted connection</source>
         <translation>Prek šifrirane povezave</translation>
     </message>
@@ -700,28 +680,8 @@ Označite potrditveno polje &lt;b&gt;Registriraj nov račun&lt;/b&gt;, če želi
         <translation>Uporabniško ime:</translation>
     </message>
     <message>
-        <source>No Key Selected</source>
-        <translation type="vanished">Izbran ni noben ključ</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Napaka</translation>
-    </message>
-    <message>
-        <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation type="vanished">Zastareli SSL je na voljo samo v navezi z ročno nastavljenim gostiteljem in vrati.</translation>
-    </message>
-    <message>
-        <source>SSL error</source>
-        <translation type="vanished">Napaka SSL</translation>
-    </message>
-    <message>
-        <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation type="vanished">Ni moč omogočiti SSL/TLS. Ni moč najti vtičnika.</translation>
-    </message>
-    <message>
-        <source>Secret Key</source>
-        <translation type="vanished">Skriti ključ</translation>
     </message>
     <message>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
@@ -874,10 +834,6 @@ Označite potrditveno polje &lt;b&gt;Registriraj nov račun&lt;/b&gt;, če želi
         <translation>Ko je na voljo</translation>
     </message>
     <message>
-        <source>Legacy SSL</source>
-        <translation type="vanished">Zastareli SSL</translation>
-    </message>
-    <message>
         <source>Warning</source>
         <translation>Opozorilo</translation>
     </message>
@@ -886,20 +842,8 @@ Označite potrditveno polje &lt;b&gt;Registriraj nov račun&lt;/b&gt;, če želi
         <translation>Ste prepričani, da želite preklicati registracijo?</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Da</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Ne</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Napaka</translation>
-    </message>
-    <message>
-        <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation type="vanished">Zastareli SSL je na voljo samo v navezi z ročno nastavljenim gostiteljem in vrati.</translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -1045,10 +989,6 @@ Razlog: %1</translation>
 </context>
 <context>
     <name>ActiveProfiles</name>
-    <message>
-        <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation type="vanished">Ta profil za Psi že teče ...&lt;br&gt;Prosimo, počakajte ...</translation>
-    </message>
     <message>
         <source>This Psi profile is already running...&lt;br&gt;Please wait...</source>
         <translation>Ta profil Psi že deluje ...&lt;br&gt;Počakajte ...</translation>
@@ -1572,44 +1512,6 @@ Seznam izjem za JID-e ima dva načina delovanja:
 <context>
     <name>AvCallPrivate</name>
     <message>
-        <source>System error</source>
-        <translation type="vanished">Sistemska napaka</translation>
-    </message>
-    <message>
-        <source>Codec error</source>
-        <translation type="vanished">Napaka kodeka</translation>
-    </message>
-    <message>
-        <source>Generic error</source>
-        <translation type="vanished">Splošna napaka</translation>
-    </message>
-    <message>
-        <source>Cannot call without selecting a device.  Do you have a microphone?  Check the Psi options.</source>
-        <translation type="vanished">Brez izbire naprave ni moč klicati. Ali imate mikrofon? Preverite nastavitve Psi-ja.</translation>
-    </message>
-    <message>
-        <source>An error occurred while trying to send:
-%1.</source>
-        <translation type="vanished">Prišlo je do napake pri poskušanju pošiljanja:
-%1.</translation>
-    </message>
-    <message>
-        <source>Call was rejected or terminated.</source>
-        <translation type="vanished">Klic je bil zavrnjen ali pa končan.</translation>
-    </message>
-    <message>
-        <source>Call negotiation timed out.</source>
-        <translation type="vanished">Potekel je čas za pogajanje o klicu.</translation>
-    </message>
-    <message>
-        <source>Unable to establish peer-to-peer connection.</source>
-        <translation type="vanished">Ni moč vzpostaviti povezave med stikom in vami.</translation>
-    </message>
-    <message>
-        <source>Call negotiation failed.</source>
-        <translation type="vanished">Pogajanje o klicu ni uspelo.</translation>
-    </message>
-    <message>
         <source>The requested media type is not supported by the current media backend.</source>
         <translation>Zahtevana vrsta predstavnosti ni podprta v trenutnem zaledju za predstavnost.</translation>
     </message>
@@ -1849,37 +1751,6 @@ To je namizna igra na papirju, v kateri poskušate potopiti nasprotnikove ladje.
     </message>
 </context>
 <context>
-    <name>Call</name>
-    <message>
-        <source>Dialog</source>
-        <translation type="vanished">Pogovorno okno</translation>
-    </message>
-    <message>
-        <source>To:</source>
-        <translation type="vanished">Klicani:</translation>
-    </message>
-    <message>
-        <source>Use video</source>
-        <translation type="vanished">Uporabi video</translation>
-    </message>
-    <message>
-        <source>Sending bandwidth:</source>
-        <translation type="vanished">Največja hitrost pošiljanja:</translation>
-    </message>
-    <message>
-        <source>Call status</source>
-        <translation type="vanished">Stanje klica</translation>
-    </message>
-    <message>
-        <source>&amp;Reject</source>
-        <translation type="vanished">&amp;Zavrni</translation>
-    </message>
-    <message>
-        <source>&amp;Accept</source>
-        <translation type="vanished">&amp;Sprejmi</translation>
-    </message>
-</context>
-<context>
     <name>CallDlg</name>
     <message>
         <source>Call</source>
@@ -1956,65 +1827,6 @@ To je namizna igra na papirju, v kateri poskušate potopiti nasprotnikove ladje.
     <message>
         <source>Refused: the encryption could not be verified with a trusted OMEMO device of the contact. See Options &gt; Security.</source>
         <translation>Zavrnjeno: šifriranja ni bilo moč preveriti z zaupano napravo OMEMO stika. Glejte Možnosti &gt; Varnost.</translation>
-    </message>
-</context>
-<context>
-    <name>CallDlg::Private</name>
-    <message>
-        <source>Voice Call</source>
-        <translation type="vanished">Glasovni klic</translation>
-    </message>
-    <message>
-        <source>High (1Mbps)</source>
-        <translation type="vanished">Hitra (1 Mb/s)</translation>
-    </message>
-    <message>
-        <source>Average (400Kbps)</source>
-        <translation type="vanished">Povprečna (400 Kb/s)</translation>
-    </message>
-    <message>
-        <source>Low (160Kbps)</source>
-        <translation type="vanished">Nizka (160 Kb/s)</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Zapri</translation>
-    </message>
-    <message>
-        <source>C&amp;all</source>
-        <translation type="vanished">&amp;Pokliči</translation>
-    </message>
-    <message>
-        <source>Ready</source>
-        <translation type="vanished">Pripravljen</translation>
-    </message>
-    <message>
-        <source>From:</source>
-        <translation type="vanished">Klicatelj:</translation>
-    </message>
-    <message>
-        <source>Accept call?</source>
-        <translation type="vanished">Ali sprejmete klic?</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">&amp;Prekliči</translation>
-    </message>
-    <message>
-        <source>Calling...</source>
-        <translation type="vanished">Klicanje ...</translation>
-    </message>
-    <message>
-        <source>Accepting...</source>
-        <translation type="vanished">Sprejemanje ...</translation>
-    </message>
-    <message>
-        <source>&amp;Hang up</source>
-        <translation type="vanished">&amp;Odloži</translation>
-    </message>
-    <message>
-        <source>Call active</source>
-        <translation type="vanished">Klic je aktiven</translation>
     </message>
 </context>
 <context>
@@ -2196,10 +2008,6 @@ Vklopite kamero ali delite svoj zaslon</translation>
 <context>
     <name>CaptchaDlg</name>
     <message>
-        <source>Dialog</source>
-        <translation type="vanished">Pogovorno okno</translation>
-    </message>
-    <message>
         <source>You need to pass verification</source>
         <translation>Opraviti morate preverjanje</translation>
     </message>
@@ -2240,10 +2048,6 @@ Vklopite kamero ali delite svoj zaslon</translation>
     <message>
         <source>The certificate is valid.</source>
         <translation>Potrdilo je veljavno.</translation>
-    </message>
-    <message>
-        <source>The certificate is NOT valid!</source>
-        <translation type="vanished">Potrdilo NI veljavno.</translation>
     </message>
     <message>
         <source>Reason: %1.</source>
@@ -2375,10 +2179,6 @@ Razlog: %1</translation>
         <translation>Glasovni klic</translation>
     </message>
     <message>
-        <source>Toggle encryption</source>
-        <translation type="vanished">Preklopi šifriranje</translation>
-    </message>
-    <message>
         <source>Select icon</source>
         <translation>Izbor ikone</translation>
     </message>
@@ -2419,22 +2219,6 @@ Ali še vedno želite zapreti to okno?</translation>
     <message>
         <source>&lt;p&gt;Encryption was recently disabled by the remote contact.  Are you sure you want to send this message without encryption?&lt;/p&gt;</source>
         <translation>&lt;p&gt;Oddaljeni stik je nedavno onemogočil šifriranje. Ste prepričani, da želite poslati to sporočilo brez šifriranja?&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Da</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Ne</translation>
-    </message>
-    <message>
-        <source>Encryption Enabled</source>
-        <translation type="vanished">Šifriranje je omogočeno</translation>
-    </message>
-    <message>
-        <source>Encryption Disabled</source>
-        <translation type="vanished">Šifriranje ni omogočeno</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
@@ -2557,21 +2341,6 @@ Ali še vedno želite zapreti to okno?</translation>
             <numerusform>pred %n leti</numerusform>
             <numerusform>pred %n leti</numerusform>
         </translation>
-    </message>
-</context>
-<context>
-    <name>ChatView</name>
-    <message>
-        <source>%1 says:</source>
-        <translation type="vanished">%1 pravi:</translation>
-    </message>
-    <message>
-        <source>Subject:</source>
-        <translation type="vanished">Zadeva:</translation>
-    </message>
-    <message>
-        <source>URL:</source>
-        <translation type="vanished">Lokacija:</translation>
     </message>
 </context>
 <context>
@@ -3169,10 +2938,6 @@ Opomba: Za pravilno delovanje mora biti omogočena orodna vrstica za skupinski k
         <translation>Seznami zasebnosti</translation>
     </message>
     <message>
-        <source>&amp;XML Console</source>
-        <translation type="vanished">&amp;Konzola XML</translation>
-    </message>
-    <message>
         <source>&amp;Modify Account...</source>
         <translation>Uredi &amp;račun ...</translation>
     </message>
@@ -3201,20 +2966,12 @@ Opomba: Za pravilno delovanje mora biti omogočena orodna vrstica za skupinski k
         <translation>Podoba</translation>
     </message>
     <message>
-        <source>Groupchat</source>
-        <translation type="vanished">Skupinski klepet</translation>
-    </message>
-    <message>
         <source>Plugins</source>
         <translation>Vstavki</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
         <translation>&amp;Upravljanje</translation>
-    </message>
-    <message>
-        <source>Join %1</source>
-        <translation type="vanished">Pridruži se %1</translation>
     </message>
     <message>
         <source>Groupchats</source>
@@ -3526,25 +3283,6 @@ Nadaljujem?</translation>
     </message>
 </context>
 <context>
-    <name>CreateGroupDlg</name>
-    <message>
-        <source>Create New Group</source>
-        <translation type="vanished">Ustvari novo skupino</translation>
-    </message>
-    <message>
-        <source>Enter the new group name:</source>
-        <translation type="vanished">Vnesite ime nove skupine:</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="vanished">Dodaj</translation>
-    </message>
-    <message>
-        <source>&lt;None&gt;</source>
-        <translation type="vanished">&lt;brez&gt;</translation>
-    </message>
-</context>
-<context>
     <name>DateWidget</name>
     <message>
         <source>never</source>
@@ -3732,10 +3470,6 @@ Nadaljujem?</translation>
 <context>
     <name>DiscoListItem</name>
     <message>
-        <source>Error</source>
-        <translation type="vanished">Napaka</translation>
-    </message>
-    <message>
         <source>There was an error getting items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>Prišlo je do napake pri pridobivanju postavk za &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Razlog: %2</translation>
     </message>
@@ -3789,44 +3523,6 @@ Nadaljujem?</translation>
     <message>
         <source>deleted</source>
         <translation>izbrisano</translation>
-    </message>
-</context>
-<context>
-    <name>Drawer</name>
-    <message>
-        <source>Error moving</source>
-        <translation type="vanished">Napaka pri premikanju</translation>
-    </message>
-    <message>
-        <source>You cannot move this figure because the king is in check</source>
-        <translation type="vanished">Te figure ne morete premakniti, ker je kralj v šahu</translation>
-    </message>
-    <message>
-        <source>To castle</source>
-        <translation type="vanished">Rokada</translation>
-    </message>
-    <message>
-        <source>Do you want to castle?</source>
-        <translation type="vanished">Ali želite narediti rokado?</translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="vanished">Da</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">Ne</translation>
-    </message>
-</context>
-<context>
-    <name>EDBFlatFile::File</name>
-    <message>
-        <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
-        <translation type="vanished">&lt;big&gt;[Sistemsko sporočilo]&lt;/big&gt;&lt;br&gt;Vaš zahtevek je bil odobren.</translation>
-    </message>
-    <message>
-        <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;Your authorization has been removed!</source>
-        <translation type="vanished">&lt;big&gt;[Sistemsko sporočilo]&lt;/big&gt;&lt;br&gt;Vaša odobritev je bila odstranjena!</translation>
     </message>
 </context>
 <context>
@@ -4046,10 +3742,6 @@ Podpira vklop/izklop oštevilčevanja sporočil za posamezen stik z gumbi v orod
         <translation>Dolžina sporočila</translation>
     </message>
     <message>
-        <source>Toggle encryption</source>
-        <translation type="vanished">Preklopi šifriranje</translation>
-    </message>
-    <message>
         <source>Add URL</source>
         <translation>Dodaj povezavo</translation>
     </message>
@@ -4215,13 +3907,6 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <source>Read next event</source>
         <translation>Preberi naslednji dogodek</translation>
-    </message>
-</context>
-<context>
-    <name>EventNotifierAction</name>
-    <message>
-        <source>&lt;Event notifier&gt;</source>
-        <translation type="vanished">&lt;Obveščevalec o dogodkih&gt;</translation>
     </message>
 </context>
 <context>
@@ -4760,13 +4445,6 @@ Pomembno: velik del možnosti so pomembne sistemske nastavitve. Te zahtevajo pos
     </message>
 </context>
 <context>
-    <name>FigureDialog</name>
-    <message>
-        <source>What figure should I set?</source>
-        <translation type="vanished">Katero figuro naj nastavim?</translation>
-    </message>
-</context>
-<context>
     <name>FileEvent</name>
     <message>
         <source>This user wants to send you a file.</source>
@@ -4834,14 +4512,6 @@ Pomembno: velik del možnosti so pomembne sistemske nastavitve. Te zahtevajo pos
     <message>
         <source>Are you sure you want to cancel the transfer?</source>
         <translation>Ste prepričani, da želite preklicati prenos?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Da</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Choose a file</source>
@@ -4927,10 +4597,6 @@ To lahko pomeni, da posredniška storitev trenutno ne deluje ali pa je ni moč d
 </context>
 <context>
     <name>FileShareDlg</name>
-    <message>
-        <source>Dialog</source>
-        <translation type="vanished">Pogovorno okno</translation>
-    </message>
     <message>
         <source>Share Files</source>
         <translation>Skupna raba datotek</translation>
@@ -5510,10 +5176,6 @@ Razlog: %1</translation>
         <translation>Izbriši</translation>
     </message>
     <message>
-        <source>Cancel</source>
-        <translation type="vanished">Prekliči</translation>
-    </message>
-    <message>
         <source>&amp;Name:</source>
         <translation>&amp;Ime:</translation>
     </message>
@@ -5536,10 +5198,6 @@ Razlog: %1</translation>
     <message>
         <source>Open &amp;Chat Window</source>
         <translation>Odpri okno za &amp;klepet</translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation type="vanished">Glasovni klic</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
@@ -5705,137 +5363,6 @@ Razlog: %1</translation>
     </message>
 </context>
 <context>
-    <name>GameBoard</name>
-    <message>
-        <source>White</source>
-        <translation type="vanished">Beli</translation>
-    </message>
-    <message>
-        <source>Black</source>
-        <translation type="vanished">Črni</translation>
-    </message>
-    <message>
-        <source>game with</source>
-        <translation type="vanished">igra z</translation>
-    </message>
-    <message>
-        <source>Game chat</source>
-        <translation type="vanished">Klepet v igri</translation>
-    </message>
-    <message>
-        <source>History</source>
-        <translation type="vanished">Zgodovina</translation>
-    </message>
-    <message>
-        <source>Looking up the host</source>
-        <translation type="vanished">Iskanje gostitelja</translation>
-    </message>
-    <message>
-        <source>Accepted a new connection</source>
-        <translation type="vanished">Sprejeta je bila nova povezava</translation>
-    </message>
-    <message>
-        <source>The host found</source>
-        <translation type="vanished">Gostitelj je bil najden</translation>
-    </message>
-    <message>
-        <source>Connected to the host</source>
-        <translation type="vanished">Povezan z gostiteljem</translation>
-    </message>
-    <message>
-        <source>Socket Error...</source>
-        <translation type="vanished">Napaka vtičnice ...</translation>
-    </message>
-    <message>
-        <source>You have a socket error number</source>
-        <translation type="vanished">Prišlo je do napake vtičnice s številko</translation>
-    </message>
-    <message>
-        <source>game from</source>
-        <translation type="vanished">igra od</translation>
-    </message>
-    <message>
-        <source>Accepted the</source>
-        <translation type="vanished">Je sprejel</translation>
-    </message>
-    <message>
-        <source>Your move...</source>
-        <translation type="vanished">Vaša poteza ...</translation>
-    </message>
-    <message>
-        <source>Waiting a move...</source>
-        <translation type="vanished">Čakanje na potezo ...</translation>
-    </message>
-    <message>
-        <source>End the game</source>
-        <translation type="vanished">Zaključi igro</translation>
-    </message>
-    <message>
-        <source>Want you to end the game?
-You will lose it</source>
-        <translation type="vanished">Ali želite zaključiti igro?
-S tem boste izgubili</translation>
-    </message>
-    <message>
-        <source>Yes, end</source>
-        <translation type="vanished">Da, zaključi</translation>
-    </message>
-    <message>
-        <source>No, continue</source>
-        <translation type="vanished">Ne, nadaljuj</translation>
-    </message>
-    <message>
-        <source>Error!</source>
-        <translation type="vanished">Napaka.</translation>
-    </message>
-    <message>
-        <source>Lookup Error</source>
-        <translation type="vanished">Napaka pri iskanju</translation>
-    </message>
-    <message>
-        <source>The host</source>
-        <translation type="vanished">Gostitelj</translation>
-    </message>
-    <message>
-        <source>not found.</source>
-        <translation type="vanished">ni bil najden.</translation>
-    </message>
-    <message>
-        <source>Save image</source>
-        <translation type="vanished">Shrani sliko</translation>
-    </message>
-    <message>
-        <source>Do you want to save the image?</source>
-        <translation type="vanished">Ali želite shraniti sliko?</translation>
-    </message>
-    <message>
-        <source>Yes, save</source>
-        <translation type="vanished">Da, shrani</translation>
-    </message>
-    <message>
-        <source>No, don&apos;t save</source>
-        <translation type="vanished">Ne, ne shrani</translation>
-    </message>
-    <message>
-        <source>Game over</source>
-        <translation type="vanished">Konec igre</translation>
-    </message>
-    <message>
-        <source>You scored the game</source>
-        <translation type="vanished">Zmagali ste</translation>
-    </message>
-    <message>
-        <source>You have a mate.
-You lost the game.</source>
-        <translation type="vanished">Bili ste matirani.
-Izgubili ste igro.</translation>
-    </message>
-    <message>
-        <source>You have a stalemate</source>
-        <translation type="vanished">Prišlo je do pata</translation>
-    </message>
-</context>
-<context>
     <name>GameModel</name>
     <message>
         <source>The first turn can be only H8.</source>
@@ -5886,20 +5413,12 @@ Izgubili ste igro.</translation>
         <translation>GeneralGroupchatUI</translation>
     </message>
     <message>
-        <source>Enable word highlighting</source>
-        <translation type="vanished">Omogoči poudarjanje besed</translation>
-    </message>
-    <message>
         <source>Highlight lines and alert the user if this text is included in chat</source>
         <translation>Poudari vrstico in opozori uporabnika, če je v sporočilu to besedilo</translation>
     </message>
     <message>
         <source>Word highlighting</source>
         <translation>Poudarjanje besed</translation>
-    </message>
-    <message>
-        <source>Words which will cause a notification in group chat.</source>
-        <translation type="vanished">Besede, ki bodo sprožile opozorilo v skupinskem klepetu.</translation>
     </message>
     <message>
         <source>This is the list of words which when said in group chat will cause the user to be notified.</source>
@@ -5926,16 +5445,8 @@ Izgubili ste igro.</translation>
         <translation>Odstrani</translation>
     </message>
     <message>
-        <source>Enable nick coloring</source>
-        <translation type="vanished">Omogoči barvanje vzdevkov</translation>
-    </message>
-    <message>
         <source>Nick coloring</source>
         <translation>Barvanje vzdevkov</translation>
-    </message>
-    <message>
-        <source>Colors used for nicks in groupchat</source>
-        <translation type="vanished">Barve za vzdevke v skupinskem klepetu</translation>
     </message>
     <message>
         <source>This is the list of colours with which nicks will be drawn in group chat.</source>
@@ -5944,10 +5455,6 @@ Izgubili ste igro.</translation>
     <message>
         <source>Type a colourcode here, or press the palette to the right</source>
         <translation>Vnesite kodo barve tukaj ali pritisnite paleto na desni</translation>
-    </message>
-    <message>
-        <source>Adds the color to the list</source>
-        <translation type="vanished">Doda barvo na seznam</translation>
     </message>
     <message>
         <source>Adds the new color to the list</source>
@@ -6215,17 +5722,6 @@ Izgubili ste igro.</translation>
     </message>
 </context>
 <context>
-    <name>GmailNotifyPlugin</name>
-    <message>
-        <source>Choose a sound file</source>
-        <translation type="vanished">Izberite zvočno datoteko</translation>
-    </message>
-    <message>
-        <source>Sound (*.wav)</source>
-        <translation type="vanished">Zvok (*.wav)</translation>
-    </message>
-</context>
-<context>
     <name>Gnome3StatusWatcher</name>
     <message>
         <source>Authors: </source>
@@ -6343,14 +5839,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
 </context>
 <context>
     <name>GroupChatDlg</name>
-    <message>
-        <source>Topic:</source>
-        <translation type="vanished">Tema:</translation>
-    </message>
-    <message>
-        <source>AccountLabel</source>
-        <translation type="vanished">AccountLabel</translation>
-    </message>
     <message>
         <source>Select icon</source>
         <translation>Izbor ikone</translation>
@@ -6612,18 +6100,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
 </context>
 <context>
     <name>HistoryImport</name>
-    <message>
-        <source>Status:</source>
-        <translation type="vanished">Stanje:</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="vanished">V redu</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Napaka</translation>
-    </message>
     <message>
         <source>Upgrade history</source>
         <translation>Nadgradi zgodovino</translation>
@@ -7446,14 +6922,6 @@ Are you sure you want to discard them?</source>
 Ste prepičani, da jih želite zavreči?</translation>
     </message>
     <message>
-        <source>Close and discard</source>
-        <translation type="vanished">Zapri in zavrzi</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">Ne zapiraj</translation>
-    </message>
-    <message>
         <source>Success</source>
         <translation>Uspeh</translation>
     </message>
@@ -7950,10 +7418,6 @@ Opomba: za pravilno delovanje mora biti možnost options.html.chat.render    nas
         <translation>Nastavitev klepetalnice</translation>
     </message>
     <message>
-        <source>Affiliations</source>
-        <translation type="vanished">Pripadnosti</translation>
-    </message>
-    <message>
         <source>Filter:</source>
         <translation>Filter:</translation>
     </message>
@@ -7964,10 +7428,6 @@ Opomba: za pravilno delovanje mora biti možnost options.html.chat.render    nas
     <message>
         <source>Remove</source>
         <translation>Odstrani</translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation type="vanished">Splošno</translation>
     </message>
     <message>
         <source>message</source>
@@ -8031,14 +7491,6 @@ Opomba: za pravilno delovanje mora biti možnost options.html.chat.render    nas
     <message>
         <source>Are you absolutely certain you want to destroy this room?</source>
         <translation>Ali ste povsem prepričani, da želite uničiti to klepetalnico?</translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="vanished">Da</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">Ne</translation>
     </message>
     <message>
         <source>There was an error retrieving the room configuration</source>
@@ -8282,14 +7734,6 @@ Razlog: %1</translation>
         <translation>PreberiMe</translation>
     </message>
     <message>
-        <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
-        <translation type="vanished">Ta program uporablja GStreamer %1, celovito odprto-kodno večpredstavnostno ogrodje za več platform. Za dodatne podatke obiščite &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;www.gstreamer.net&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>About GStreamer</source>
-        <translation type="vanished">O GStreamer</translation>
-    </message>
-    <message>
         <source>Security Plugins Diagnostic Text</source>
         <translation>Diagnostično besedilo za varnostne vstavke</translation>
     </message>
@@ -8300,14 +7744,6 @@ Razlog: %1</translation>
     <message>
         <source>Receive next event</source>
         <translation>Sprejmi naslednji dogodek</translation>
-    </message>
-    <message>
-        <source>Un&amp;hide</source>
-        <translation type="vanished">&amp;Prikaži</translation>
-    </message>
-    <message>
-        <source>&amp;Hide</source>
-        <translation type="vanished">&amp;Skrij</translation>
     </message>
     <message>
         <source>Status Message</source>
@@ -8368,55 +7804,6 @@ Dohodni dogodki od:</translation>
     <message>
         <source>Enable Sounds</source>
         <translation>Omogoči zvoke</translation>
-    </message>
-</context>
-<context>
-    <name>MainWindow</name>
-    <message>
-        <source>New</source>
-        <translation type="vanished">Nova</translation>
-    </message>
-    <message>
-        <source>Save image</source>
-        <translation type="vanished">Shrani sliko</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation type="vanished">Končaj</translation>
-    </message>
-    <message>
-        <source>About the game</source>
-        <translation type="vanished">O igri</translation>
-    </message>
-    <message>
-        <source>Game</source>
-        <translation type="vanished">Igra</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation type="vanished">Pomoč</translation>
-    </message>
-    <message>
-        <source>Ready</source>
-        <translation type="vanished">Pripravljen</translation>
-    </message>
-    <message>
-        <source>About</source>
-        <translation type="vanished">O</translation>
-    </message>
-    <message>
-        <source>is a network game chess for two players.
-It has a client and a server in the same program.
-You can modify and redistribute the source code
-because it is under GPL.
-
-Russia, Tambov, 2005 (denis@silversoft.net)</source>
-        <translation type="vanished">je omrežna igra šaha za dva igralca.
-V istem programu vsebuje odjemalca in strežnika.
-Lahko spreminjate in razširjate izvorno kodo,
-ker je le ta izdana pod licenco GPL.
-
-Rusija, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
 </context>
 <context>
@@ -8590,13 +7977,6 @@ Velikost: %2</translation>
     <message>
         <source>Remove this message from this device. Cached files are kept.</source>
         <translation>Odstrani to sporočilo iz te naprave. Predpomnjene datoteke se ohranijo.</translation>
-    </message>
-</context>
-<context>
-    <name>MamImageViewer</name>
-    <message>
-        <source>Image</source>
-        <translation type="vanished">Slika</translation>
     </message>
 </context>
 <context>
@@ -9186,10 +8566,6 @@ Razlog: %1.</translation>
         <translation>Ob dogodku pojdi do stika na seznamu</translation>
     </message>
     <message>
-        <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation type="vanished">Prezri »naslovne« dogodke (npr. opozorila MSN)</translation>
-    </message>
-    <message>
         <source>Treat incoming messages and chats as:</source>
         <translation>Obravnavaj prejeta sporočila in klepete kot:</translation>
     </message>
@@ -9474,10 +8850,6 @@ Razlog: %1.</translation>
         <translation>Ikona v sistemski vrstici</translation>
     </message>
     <message>
-        <source>Use &quot;double-click&quot; style (like ICQ)</source>
-        <translation type="vanished">Uporabi način z dvojnim klikom (kot ICQ)</translation>
-    </message>
-    <message>
         <source>Start minimized</source>
         <translation>Zaženi pomanjšano</translation>
     </message>
@@ -9578,10 +8950,6 @@ Razlog: %1.</translation>
     <message>
         <source>Default action</source>
         <translation>Privzeto dejanje</translation>
-    </message>
-    <message>
-        <source>Delete chat window contents</source>
-        <translation type="vanished">Izbriši vsebino okna za klepet</translation>
     </message>
     <message>
         <source>&amp;Message</source>
@@ -9759,10 +9127,6 @@ Razlog: %1.</translation>
     <message>
         <source>Show previews for links</source>
         <translation>Prikaži predoglede povezav</translation>
-    </message>
-    <message>
-        <source>Use contacts&apos; message formatting</source>
-        <translation type="vanished">Uporabi sogovornikovo oblikovanje sporočila</translation>
     </message>
     <message>
         <source>Show character counter</source>
@@ -10471,10 +9835,6 @@ p, li { white-space: pre-wrap; }
         <translation>Uredi možnost %1</translation>
     </message>
     <message>
-        <source>Psi: Option Editor</source>
-        <translation type="vanished">Psi: urejevalnik možnosti</translation>
-    </message>
-    <message>
         <source>Can&apos;t edit this type of setting, sorry.</source>
         <translation>Oprostite, te vrste nastavitve ni moč urejati.</translation>
     </message>
@@ -10588,10 +9948,6 @@ Ime ne sme biti prazno, se ne sme končati s ».« ali vsebovati »..«.</transl
     <message>
         <source>Export</source>
         <translation>Izvozi</translation>
-    </message>
-    <message>
-        <source>Settings</source>
-        <translation type="vanished">Nastavitve</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -11147,10 +10503,6 @@ Ime ne sme biti prazno, se ne sme končati s ».« ali vsebovati »..«.</transl
         <translation>Psi gre samodejno do stika na seznamu, da lahko vidite vse prihajajoče dogodke zanj.</translation>
     </message>
     <message>
-        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation type="vanished">Psi spregleda vsa prihajajoča »naslovna« sporočila kot so na primer najave in sistemska sporočila na MSN.</translation>
-    </message>
-    <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
         <translation>Psi prezre vse dohodne dogodke »headline«, kot so obvestila ipd.</translation>
     </message>
@@ -11334,21 +10686,6 @@ Ime ne sme biti prazno, se ne sme končati s ».« ali vsebovati »..«.</transl
     </message>
 </context>
 <context>
-    <name>OptionsTabAvCall</name>
-    <message>
-        <source>Voice Calling</source>
-        <translation type="vanished">Glasovni klici</translation>
-    </message>
-    <message>
-        <source>Audio and video device configuration</source>
-        <translation type="vanished">Nastavitev naprav za zvok in video</translation>
-    </message>
-    <message>
-        <source>Audio device configuration</source>
-        <translation type="vanished">Nastavitev naprave za zvok</translation>
-    </message>
-</context>
-<context>
     <name>OptionsTabChat</name>
     <message>
         <source>Chat</source>
@@ -11385,26 +10722,6 @@ Ime ne sme biti prazno, se ne sme končati s ».« ali vsebovati »..«.</transl
     <message>
         <source>Makes Psi open chat windows in compact mode.</source>
         <translation>Psi bo odprl okna za klepet v kompaktnem načinu.</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;p&gt;Določa, kako dolgo bo zgodovina klepeta ostala v spominu po zaprtju okna.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;p&gt;Zgodovina sporočil ne bo ostala v spominu.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;p&gt;Zgodovina sporočil bo v spominu ostala eno uro preden bo pozabljena.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;p&gt;Zgodovina sporočil bo v spominu ostala en dan preden bo pozabljena.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;p&gt;Zgodovina sporočil bo v spominu ostala za vedno.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Time (HH:mm)</source>
@@ -11632,10 +10949,6 @@ Ime ne sme biti prazno, se ne sme končati s ».« ali vsebovati »..«.</transl
     <message>
         <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
         <translation>Psi prikazuje števec dolžine sporočila. Omogočite, če želite vedeti dolžino sporočila. Uporabno pri uporabi prenosa za SMS.</translation>
-    </message>
-    <message>
-        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation type="vanished">Če je omogočeno, bo Psi prejeta sporočila prikazoval z oblikovanjem, kot ga je določil stik</translation>
     </message>
     <message>
         <source>Never, only when asked</source>
@@ -12318,10 +11631,6 @@ Ime ne sme biti prazno, se ne sme končati s ».« ali vsebovati »..«.</transl
         <translation>Obrazec</translation>
     </message>
     <message>
-        <source>General</source>
-        <translation type="vanished">Splošno</translation>
-    </message>
-    <message>
         <source>Account:</source>
         <translation>Račun:</translation>
     </message>
@@ -12528,10 +11837,6 @@ Ime ne sme biti prazno, se ne sme končati s ».« ali vsebovati »..«.</transl
         <translation>Prosim, izberite ključ.</translation>
     </message>
     <message>
-        <source>Key Storage Diagnostic Text</source>
-        <translation type="vanished">Diagnostično besedilo za hranjenje ključev</translation>
-    </message>
-    <message>
         <source>GnuPG info</source>
         <translation>Podatki o GnuPG</translation>
     </message>
@@ -12564,44 +11869,8 @@ Razlog: %1.</translation>
         <translation>Napačno geslo računa</translation>
     </message>
     <message>
-        <source>OK</source>
-        <translation type="vanished">V redu</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">Prekliči</translation>
-    </message>
-    <message>
         <source>Please enter your password for %1:</source>
         <translation>Vnesite svoje geslo za %1:</translation>
-    </message>
-</context>
-<context>
-    <name>Passphrase</name>
-    <message>
-        <source>OpenPGP Passphrase</source>
-        <translation type="vanished">Šifrirna fraza za OpenPGP</translation>
-    </message>
-    <message>
-        <source>Your passphrase is needed to use OpenPGP security.
-Please enter your passphrase below:</source>
-        <translation type="vanished">Za uporabo varnosti z OpenPGP je potrebna vaša šifrirna fraza.
-Vnesite svojo šifrirno frazo:</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">&amp;Prekliči</translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation type="vanished">&amp;V redu</translation>
-    </message>
-</context>
-<context>
-    <name>PassphraseDlg</name>
-    <message>
-        <source>%1: OpenPGP Passphrase</source>
-        <translation type="vanished">%1: šifrirna fraza za OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -12883,17 +12152,6 @@ Vnesite svojo šifrirno frazo:</translation>
     </message>
 </context>
 <context>
-    <name>PreferencesWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">Obrazec</translation>
-    </message>
-    <message>
-        <source>message</source>
-        <translation type="vanished">sporočilo</translation>
-    </message>
-</context>
-<context>
     <name>PreviewFileDialog</name>
     <message>
         <source>Preview</source>
@@ -13131,153 +12389,7 @@ Vnesite svojo šifrirno frazo:</translation>
     </message>
 </context>
 <context>
-    <name>ProfileManage</name>
-    <message>
-        <source>Manage Profiles</source>
-        <translation type="vanished">Upravljanje profilov</translation>
-    </message>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="vanished">&amp;Dodaj</translation>
-    </message>
-    <message>
-        <source>psi/addContact</source>
-        <translation type="vanished">psi/addContact</translation>
-    </message>
-    <message>
-        <source>&amp;Rename</source>
-        <translation type="vanished">P&amp;reimenuj</translation>
-    </message>
-    <message>
-        <source>Rem&amp;ove</source>
-        <translation type="vanished">&amp;Odstrani</translation>
-    </message>
-    <message>
-        <source>psi/remove</source>
-        <translation type="vanished">psi/remove</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileManageDlg</name>
-    <message>
-        <source>Rename Profile</source>
-        <translation type="vanished">Preimenuj profil</translation>
-    </message>
-    <message>
-        <source>Please enter a new name for the profile.  Keep it simple.
-Only use letters or numbers.  No punctuation or spaces.</source>
-        <translation type="vanished">Prosim, vnesite novo ime profila. Naj bo čimbolj preprosto.
-Uporabljajte samo črke in številke, brez presledkov ali ločil.</translation>
-    </message>
-    <message>
-        <source>There is already another profile with this name.  Please choose another.</source>
-        <translation type="vanished">Profil s tem imenom že obstaja. Prosim, izberite drugo ime.</translation>
-    </message>
-    <message>
-        <source>Unable to rename the profile.  Please do not use any special characters.</source>
-        <translation type="vanished">Ni moč preimenovati profila. Prosim, ne uporabljajte posebnih znakov.</translation>
-    </message>
-    <message>
-        <source>Delete Profile</source>
-        <translation type="vanished">Izbriši profil</translation>
-    </message>
-    <message>
-        <source>&lt;qt&gt;Are you sure you want to delete the &quot;&lt;b&gt;%1&lt;/b&gt;&quot; profile?  This will delete all of the profile&apos;s message history as well as associated settings!&lt;/qt&gt;</source>
-        <translation type="vanished">&lt;qt&gt;Ste prepričani, da želite izbrisati profil &lt;b&gt;%1&lt;/b&gt;? S tem se izbriše vsa zgodovina sporočil za ta profil in vse nastavitve!&lt;/qt&gt;</translation>
-    </message>
-    <message>
-        <source>No, I changed my mind</source>
-        <translation type="vanished">Prekliči izbris</translation>
-    </message>
-    <message>
-        <source>Delete it!</source>
-        <translation type="vanished">Izbriši profil</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Ne</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Da</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileNew</name>
-    <message>
-        <source>New Profile</source>
-        <translation type="vanished">Nov profil</translation>
-    </message>
-    <message>
-        <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
-&lt;br&gt;
-The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; (ICQ style) and&lt;b&gt; Chat&lt;/b&gt; (AIM style). You can change this later from the Options menu.&lt;br&gt;
-&lt;br&gt;
-Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation type="vanished">&lt;i&gt;Ime profila&lt;/i&gt; naj bo čimbolj preprosto. Vsebuje naj le eno besedo sestavljeno samo iz črk in številk.&lt;br&gt;
-&lt;br&gt;
-&lt;i&gt;Privzeto dejanje&lt;/i&gt; določa, kaj se zgodi, ko dvo-kliknete na stik na vašem seznamu. Izbiro lahko kasneje spremenite v nastavitvah.&lt;br&gt;
-&lt;br&gt;
-Omogočite &lt;i&gt;Ikone čustev&lt;/i&gt;, če želite, da Psi smeškote, kot je &lt;b&gt;:-)&lt;/b&gt;, zamenja z ustreznimi ikonami čustev, kot je &lt;icon name=&quot;psi/smile&quot;&gt;.</translation>
-    </message>
-    <message>
-        <source>Profile Name:</source>
-        <translation type="vanished">Ime profila:</translation>
-    </message>
-    <message>
-        <source>Default Action</source>
-        <translation type="vanished">Privzeto dejanje</translation>
-    </message>
-    <message>
-        <source>Enable Emoticons</source>
-        <translation type="vanished">Omogoči ikone čustev</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Zapri</translation>
-    </message>
-    <message>
-        <source>&amp;Create</source>
-        <translation type="vanished">&amp;Ustvari</translation>
-    </message>
-    <message>
-        <source>Alt+C</source>
-        <translation type="vanished">Alt+U</translation>
-    </message>
-    <message>
-        <source>psi/addContact</source>
-        <translation type="vanished">psi/addContact</translation>
-    </message>
-    <message>
-        <source>&amp;Message</source>
-        <translation type="vanished">&amp;Sporočilo</translation>
-    </message>
-    <message>
-        <source>&amp;Chat</source>
-        <translation type="vanished">&amp;Klepet</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileNewDlg</name>
-    <message>
-        <source>New Profile</source>
-        <translation type="vanished">Nov profil</translation>
-    </message>
-    <message>
-        <source>There is already an existing profile with this name.  Please choose another.</source>
-        <translation type="vanished">Profil s tem imenom že obstaja. Prosim, izberite drugo ime.</translation>
-    </message>
-    <message>
-        <source>Unable to create the profile.  Please do not use any special characters.</source>
-        <translation type="vanished">Ni moč ustvariti profila. Prosim, ne uporabljajte posebnih znakov.</translation>
-    </message>
-</context>
-<context>
     <name>ProfileOpen</name>
-    <message>
-        <source>Open Profile</source>
-        <translation type="vanished">Odpri profil</translation>
-    </message>
     <message>
         <source>Image goes here</source>
         <translation>Sem gre slika</translation>
@@ -13285,42 +12397,6 @@ Omogočite &lt;i&gt;Ikone čustev&lt;/i&gt;, če želite, da Psi smeškote, kot 
     <message>
         <source>right</source>
         <translation>desno</translation>
-    </message>
-    <message>
-        <source>Profile:</source>
-        <translation type="vanished">Profil:</translation>
-    </message>
-    <message>
-        <source>&amp;Automatically open on startup</source>
-        <translation type="vanished">&amp;Samodejno odpri ob zagonu</translation>
-    </message>
-    <message>
-        <source>Language:</source>
-        <translation type="vanished">Jezik:</translation>
-    </message>
-    <message>
-        <source>&amp;Quit</source>
-        <translation type="vanished">&amp;Končaj</translation>
-    </message>
-    <message>
-        <source>psi/quit</source>
-        <translation type="vanished">psi/quit</translation>
-    </message>
-    <message>
-        <source>&amp;Profiles...</source>
-        <translation type="vanished">&amp;Profili ...</translation>
-    </message>
-    <message>
-        <source>psi/profile</source>
-        <translation type="vanished">psi/profile</translation>
-    </message>
-    <message>
-        <source>&amp;Open</source>
-        <translation type="vanished">&amp;Odpri</translation>
-    </message>
-    <message>
-        <source>psi/logo_16</source>
-        <translation type="vanished">psi/logo_16</translation>
     </message>
     <message>
         <source>Profiles</source>
@@ -13353,18 +12429,6 @@ Omogočite &lt;i&gt;Ikone čustev&lt;/i&gt;, če želite, da Psi smeškote, kot 
 </context>
 <context>
     <name>ProfileOpenDlg</name>
-    <message>
-        <source>Select a profile to open from this list.</source>
-        <translation type="vanished">S seznama izberite profil za odpiranje.</translation>
-    </message>
-    <message>
-        <source>Select a language you would like Psi to use from this list.  You can download extra language packs from the Psi homepage.</source>
-        <translation type="vanished">S tega seznama izberite jezik za uporabo v Psi. Dodatne jezikovne pakete lahko prenesete z domače strani programa Psi.</translation>
-    </message>
-    <message>
-        <source>Automatically open this profile when Psi is started.  Useful if you only have one profile.</source>
-        <translation type="vanished">Ko se Psi zažene, samodejno odpri ta profil. Uporabno, če imate le en profil.</translation>
-    </message>
     <message>
         <source>Double-click or press F2 to rename a profile. Press Delete to remove it.</source>
         <translation>Dvokliknite ali pritisnite F2 za preimenovanje profila. Pritisnite Delete, da ga odstranite.</translation>
@@ -13860,12 +12924,6 @@ Podrobnosti: %1</translation>
         <translation>Naslov</translation>
     </message>
     <message>
-        <source>There was an error trying to sign your status.
-Reason: %1.</source>
-        <translation type="vanished">Prišlo je do napake pri poskusu podpisovanja vašega stanja.
-Razlog: %1.</translation>
-    </message>
-    <message>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[NAPAKA: To sporočilo je šifrirano, vi pa ga ne morete dešifrirati.]</translation>
     </message>
@@ -13877,14 +12935,6 @@ Razlog: %1.</translation>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Ni moč najti uporabnega ključa OpenPGP za &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;
 To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotnosti; ali pa stik sploh ne oglaša nobenega ključa.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&amp;Choose key manually</source>
-        <translation type="vanished">&amp;Ročno izberi ključ</translation>
-    </message>
-    <message>
-        <source>Do &amp;nothing</source>
-        <translation type="vanished">&amp;Ne naredi ničesar</translation>
     </message>
     <message>
         <source>Public Key: %1</source>
@@ -14050,10 +13100,6 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
         <translation>Omogoča priročen način za spremembo in prikaz trenutnega stanja</translation>
     </message>
     <message>
-        <source>Special item that displays number of pending events</source>
-        <translation type="vanished">Poseben prikazovalec števila čakajočih dogodkov</translation>
-    </message>
-    <message>
         <source>Active contacts</source>
         <translation>Dejavni stiki</translation>
     </message>
@@ -14068,10 +13114,6 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
     <message>
         <source>&amp;Add a Contact</source>
         <translation>&amp;Dodaj stik</translation>
-    </message>
-    <message>
-        <source>&amp;XML Console</source>
-        <translation type="vanished">&amp;Konzola XML</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
@@ -14092,14 +13134,6 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
     <message>
         <source>Join &amp;Groupchat</source>
         <translation>&amp;Skupinski klepet</translation>
-    </message>
-    <message>
-        <source>Account Setup</source>
-        <translation type="vanished">Nastavi račun</translation>
-    </message>
-    <message>
-        <source>Acc&amp;ount Setup</source>
-        <translation type="vanished">N&amp;astavi račun</translation>
     </message>
     <message>
         <source>Options</source>
@@ -14126,16 +13160,8 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
         <translation>&amp;Zamenjaj profil</translation>
     </message>
     <message>
-        <source>Play Sounds</source>
-        <translation type="vanished">Predvajaj zvoke</translation>
-    </message>
-    <message>
         <source>Play &amp;Sounds</source>
         <translation>Predvajaj &amp;zvoke</translation>
-    </message>
-    <message>
-        <source>Toggles whether sound should be played or not</source>
-        <translation type="vanished">Preklopi med igranjem in ne igranjem zvokov</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -14148,18 +13174,6 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
     <message>
         <source>Quits Psi</source>
         <translation>Izhod iz programa Psi</translation>
-    </message>
-    <message>
-        <source>Tip of the Day</source>
-        <translation type="vanished">Nasvet dneva</translation>
-    </message>
-    <message>
-        <source>&amp;Tip of the Day</source>
-        <translation type="vanished">Nami&amp;g dneva</translation>
-    </message>
-    <message>
-        <source>See many useful tips</source>
-        <translation type="vanished">Prikaz mnogih koristnih nasvetov</translation>
     </message>
     <message>
         <source>Transfer Manager</source>
@@ -14398,10 +13412,6 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
         <translation>Pošlji datoteko</translation>
     </message>
     <message>
-        <source>Toggle Encryption</source>
-        <translation type="vanished">Preklopi šifriranje</translation>
-    </message>
-    <message>
         <source>User Info</source>
         <translation>O stiku</translation>
     </message>
@@ -14521,10 +13531,6 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
     <message>
         <source>Error: Can not parse command: </source>
         <translation>Napaka: Ni moč razčleniti ukaza: </translation>
-    </message>
-    <message>
-        <source>Command&gt;</source>
-        <translation type="vanished">Ukaz&gt;</translation>
     </message>
     <message>
         <source>turn off autojid</source>
@@ -14811,10 +13817,6 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
         <translation>Ne morete onemogočiti &lt;i&gt;vseh&lt;/i&gt; orodjarn &lt;i&gt;in&lt;/i&gt; menijske vrstice. Če to storite in si kasneje premislite, jih ne boste mogli več omogočiti.</translation>
     </message>
     <message>
-        <source>I understand</source>
-        <translation type="vanished">Razumem</translation>
-    </message>
-    <message>
         <source>Call ended</source>
         <translation>Klic se je zaključil</translation>
     </message>
@@ -14921,10 +13923,6 @@ Selitev je mogoča s Psi-0.15</translation>
         <translation>Odpri okno za &amp;klepet</translation>
     </message>
     <message>
-        <source>Open a &amp;Whiteboard</source>
-        <translation type="vanished">Odpri &amp;tablo</translation>
-    </message>
-    <message>
         <source>Voice Call</source>
         <translation>Glasovni klic</translation>
     </message>
@@ -14943,14 +13941,6 @@ Selitev je mogoča s Psi-0.15</translation>
     <message>
         <source>&amp;Clear Custom Picture</source>
         <translation>&amp;Počisti sliko po meri</translation>
-    </message>
-    <message>
-        <source>Assign Open&amp;PGP Key</source>
-        <translation type="vanished">Dodeli ključ Open&amp;PGP</translation>
-    </message>
-    <message>
-        <source>Unassign Open&amp;PGP Key</source>
-        <translation type="vanished">Odvzemi ključ Open&amp;PGP</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
@@ -15023,14 +14013,6 @@ Selitev je mogoča s Psi-0.15</translation>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
         <translation>Ste prepričani, da želite  odstraniti odobritev za &lt;b&gt;%1&lt;/b&gt;?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Da</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Choose an Image</source>
@@ -15437,10 +14419,6 @@ Ali želite aktivirati to sejo?</translation>
         <translation>Prikaži stike</translation>
     </message>
     <message>
-        <source>Event notifier</source>
-        <translation type="vanished">Obveščevalec o dogodkih</translation>
-    </message>
-    <message>
         <source>Auto Status (idle)</source>
         <translation>Samodejno stanje (nedejaven)</translation>
     </message>
@@ -15454,14 +14432,6 @@ Ali želite aktivirati to sejo?</translation>
     <message>
         <source>(no selection)</source>
         <translation>(brez izbora)</translation>
-    </message>
-    <message>
-        <source>Flat</source>
-        <translation type="vanished">Navadno</translation>
-    </message>
-    <message>
-        <source>Display all options as a flat list.</source>
-        <translation type="vanished">Prikaže vse možnosti v navadnem seznamu.</translation>
     </message>
     <message>
         <source>Delete...</source>
@@ -15478,14 +14448,6 @@ Ali želite aktivirati to sejo?</translation>
     <message>
         <source>Add...</source>
         <translation>Dodaj ...</translation>
-    </message>
-    <message>
-        <source>Open a detached option editor window.</source>
-        <translation type="vanished">Odpri ločeno okno za urejanje možnosti.</translation>
-    </message>
-    <message>
-        <source>Advanced</source>
-        <translation type="vanished">Napredno</translation>
     </message>
     <message>
         <source>(internal node)</source>
@@ -15600,32 +14562,10 @@ Ali želite aktivirati to sejo?</translation>
     </message>
 </context>
 <context>
-    <name>PsiThumbnailToolBar</name>
-    <message>
-        <source>Options</source>
-        <translation type="vanished">Možnosti</translation>
-    </message>
-    <message>
-        <source>Online</source>
-        <translation type="vanished">Na zvezi</translation>
-    </message>
-    <message>
-        <source>Offline</source>
-        <translation type="vanished">Brez zveze</translation>
-    </message>
-</context>
-<context>
     <name>PsiToolBar</name>
     <message>
         <source>&amp;Configure Toolbar...</source>
         <translation>&amp;Nastavi orodno vrstico ...</translation>
-    </message>
-</context>
-<context>
-    <name>PsiWindowHeader</name>
-    <message>
-        <source>...</source>
-        <translation type="vanished">...</translation>
     </message>
 </context>
 <context>
@@ -16578,50 +15518,6 @@ Opis: </translation>
         <source>&lt;unnamed%1&gt;</source>
         <translation>&lt;neimenovano%1&gt;</translation>
     </message>
-    <message>
-        <source>Invalid passphrase</source>
-        <translation type="vanished">Neveljavna šifrirna fraza</translation>
-    </message>
-    <message>
-        <source>Invalid input format</source>
-        <translation type="vanished">Neveljaven vhodni format</translation>
-    </message>
-    <message>
-        <source>Signing key expired</source>
-        <translation type="vanished">Ključ za podpisovanje je potekel</translation>
-    </message>
-    <message>
-        <source>Invalid key</source>
-        <translation type="vanished">Neveljaven ključ</translation>
-    </message>
-    <message>
-        <source>Encrypting key expired</source>
-        <translation type="vanished">Šifrirni ključ je potekel</translation>
-    </message>
-    <message>
-        <source>Encrypting key is untrusted</source>
-        <translation type="vanished">Šifrirni ključ ni zaupan</translation>
-    </message>
-    <message>
-        <source>Encrypting key is invalid</source>
-        <translation type="vanished">Šifrirni ključ ni veljaven</translation>
-    </message>
-    <message>
-        <source>PGP card is missing</source>
-        <translation type="vanished">Manjka kartica PGP</translation>
-    </message>
-    <message>
-        <source>Unknown error</source>
-        <translation type="vanished">Neznana napaka</translation>
-    </message>
-    <message>
-        <source>Socket Error</source>
-        <translation type="vanished">Napaka vtičnice</translation>
-    </message>
-    <message>
-        <source>Cannot create a server socket!</source>
-        <translation type="vanished">Ni moč ustvariti vtičnice za strežnik.</translation>
-    </message>
     <message numerus="yes">
         <source>%n day(s) </source>
         <translation>
@@ -17398,14 +16294,6 @@ Hvala za potrpežljivost.</translation>
         <translation>&lt;qt&gt;Registracija je že bila odposlana. Zaprtje tega okna ne bo preprečilo registracije. Še vedno želite zapreti okno?&lt;/qt&gt;</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Da</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Ne</translation>
-    </message>
-    <message>
         <source>Fetching registration form for %1 ...</source>
         <translation>Pridobivanje obrazca za registracijo za %1 ...</translation>
     </message>
@@ -17490,13 +16378,6 @@ Ko vstavek prvič namestite, se morate prijaviti v vse svoje račune, odpreti na
     <message>
         <source>[blank]</source>
         <translation>[prazno]</translation>
-    </message>
-</context>
-<context>
-    <name>RipperCCOptions</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">Obrazec</translation>
     </message>
 </context>
 <context>
@@ -17878,37 +16759,6 @@ Razlog: %1</translation>
     </message>
 </context>
 <context>
-    <name>SelectGame</name>
-    <message>
-        <source>New game with...</source>
-        <translation type="vanished">Nova igra z ...</translation>
-    </message>
-    <message>
-        <source>To play with </source>
-        <translation type="vanished">Za igro z </translation>
-    </message>
-    <message>
-        <source>Choose your game</source>
-        <translation type="vanished">Izberite svojo igro</translation>
-    </message>
-    <message>
-        <source>White game</source>
-        <translation type="vanished">Bela igra</translation>
-    </message>
-    <message>
-        <source>Black game</source>
-        <translation type="vanished">Črna igra</translation>
-    </message>
-    <message>
-        <source>Play!</source>
-        <translation type="vanished">Igraj!</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">Prekliči</translation>
-    </message>
-</context>
-<context>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Template editor</source>
@@ -18003,25 +16853,10 @@ Razlog: %1</translation>
     </message>
 </context>
 <context>
-    <name>SeparatorAction</name>
-    <message>
-        <source>&lt;Separator&gt;</source>
-        <translation type="vanished">&lt;Ločilo&gt;</translation>
-    </message>
-    <message>
-        <source>Separator</source>
-        <translation type="vanished">Ločilo</translation>
-    </message>
-</context>
-<context>
     <name>ServerListQuerier</name>
     <message>
         <source>Unable to parse server list</source>
         <translation>Ni moč razčleniti seznama strežnikov</translation>
-    </message>
-    <message>
-        <source>Maximum redirect count reached</source>
-        <translation type="vanished">Doseženo je bilo največje število preusmeritev</translation>
     </message>
     <message>
         <source>Unexpected HTTP status code: %1</source>
@@ -19143,53 +17978,6 @@ Popravite in poskusite znova.</translation>
     </message>
 </context>
 <context>
-    <name>Tip</name>
-    <message>
-        <source>Useful Tips</source>
-        <translation type="vanished">Uporabni nasveti</translation>
-    </message>
-    <message>
-        <source>psi/logo_128</source>
-        <translation type="vanished">psi/logo_128</translation>
-    </message>
-    <message>
-        <source>Show tips at startup</source>
-        <translation type="vanished">Prikaži nasvete ob zagonu</translation>
-    </message>
-    <message>
-        <source>&amp;Previous</source>
-        <translation type="vanished">N&amp;azaj</translation>
-    </message>
-    <message>
-        <source>Alt+P</source>
-        <translation type="vanished">Alt+A</translation>
-    </message>
-    <message>
-        <source>psi/arrowLeft</source>
-        <translation type="vanished">psi/arrowLeft</translation>
-    </message>
-    <message>
-        <source>&amp;Next</source>
-        <translation type="vanished">&amp;Naprej</translation>
-    </message>
-    <message>
-        <source>Alt+N</source>
-        <translation type="vanished">Alt+N</translation>
-    </message>
-    <message>
-        <source>psi/arrowRight</source>
-        <translation type="vanished">psi/arrowRight</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Zapri</translation>
-    </message>
-    <message>
-        <source>Alt+C</source>
-        <translation type="vanished">Alt+Z</translation>
-    </message>
-</context>
-<context>
     <name>TipDlg</name>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
@@ -19278,12 +18066,6 @@ Opomba: nekateri strežniki morda onemogočajo registracijo prenosov uporabnikom
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
         <translation>Če pogosto klepetate v skupinskih klepetih, je dokončevanje vzdevkov nepogrešljiva zmožnost. Najuporabnejša bližnjica je &lt;tt&gt;Tabulator-Tabulator&lt;/tt&gt;, če jo uporabite na začetku nove vrstice, vstavi vzdevek osebe, ki vas je nazadnje neposredno naslovila. Lahko tudi nadaljujete s pritiskanjem tipke &lt;tt&gt;Tabulator&lt;/tt&gt;, kar kroži med vzdevki vseh ljudi v klepetalnici.&lt;br/&gt;&lt;br/&gt;Bolj zapleten scenarij: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; in &lt;tt&gt;mbl-revolution&lt;/tt&gt; so vsi v isti klepetalnici. Če vnesete &lt;tt&gt;m&lt;/tt&gt; in pritisnete &lt;tt&gt;Tabulator&lt;/tt&gt;, se ne bo zgodilo nič. To pa zato, ker obstaja več vzdevkov, ki se začnejo z &lt;tt&gt;m&lt;/tt&gt;. Lahko še naprej pritiskate &lt;tt&gt;Tabulator&lt;/tt&gt; in krožite med vsemi vzdevki, ki se začnejo z &lt;tt&gt;m&lt;/tt&gt; ali pa vnesete več črk, dokler ne preostane samo ena sama možnost dokončevanja. Ko vnesete &lt;tt&gt;b&lt;/tt&gt; in pritisnete &lt;tt&gt;Tabulator&lt;/tt&gt;, bi se vzdevek dopolnil do &lt;tt&gt;mbl&lt;/tt&gt;. Več boste uporabljali to zmožnost, bolj verjetno jo boste vzljubili in se nanašali nanjo. Poskusite dokončevanje vzdevkov in kmalu boste ugotovili kako uporabno je.</translation>
-    </message>
-    <message>
-        <source>This is the last tip.
-&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation type="vanished">To je zadnji nasvet.
-&lt;br&gt;&lt;br&gt;Če želite prispevati svoj »nasvet dneva«, vas prosimo, da ga objavite na &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;forumu za Psi&lt;/a&gt; (ali pa ga pošljete kateremu izmed razvijalcev) in z veseljem ga bomo uporabili pri naslednji izdaji.</translation>
     </message>
     <message>
         <source>Contributed by</source>
@@ -19575,33 +18357,6 @@ Za delo s predvajalnikom Parole morate omogočiti modul/vtičnik MPRIS2.</transl
     </message>
 </context>
 <context>
-    <name>ViewMailDlg</name>
-    <message>
-        <source>From:</source>
-        <translation type="vanished">Od:</translation>
-    </message>
-    <message>
-        <source>Subject:</source>
-        <translation type="vanished">Zadeva:</translation>
-    </message>
-    <message>
-        <source>Previous</source>
-        <translation type="vanished">Predhodno</translation>
-    </message>
-    <message>
-        <source>Next</source>
-        <translation type="vanished">Naslednje</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="vanished">Zapri</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Zapri</translation>
-    </message>
-</context>
-<context>
     <name>Viewer</name>
     <message>
         <source>Find</source>
@@ -19760,149 +18515,6 @@ Na prvem zavihku nastavite seznam stikov, katerih stanje se spremlja. Ko se stan
     </message>
 </context>
 <context>
-    <name>WbDlg</name>
-    <message>
-        <source>Save session</source>
-        <translation type="vanished">Shrani sejo</translation>
-    </message>
-    <message>
-        <source>Save the contents of the whiteboard</source>
-        <translation type="vanished">Shrani vsebino table</translation>
-    </message>
-    <message>
-        <source>Change the geometry</source>
-        <translation type="vanished">Spremeni geometrijo</translation>
-    </message>
-    <message>
-        <source>End session</source>
-        <translation type="vanished">Končaj sejo</translation>
-    </message>
-    <message>
-        <source>Clear the whiteboard</source>
-        <translation type="vanished">Počisti tablo</translation>
-    </message>
-    <message>
-        <source>Stroke color</source>
-        <translation type="vanished">Barva poteze</translation>
-    </message>
-    <message>
-        <source>Fill color</source>
-        <translation type="vanished">Barva polnitve</translation>
-    </message>
-    <message>
-        <source>Stroke width</source>
-        <translation type="vanished">Širina poteze</translation>
-    </message>
-    <message>
-        <source>Edit mode</source>
-        <translation type="vanished">Način urejanja</translation>
-    </message>
-    <message>
-        <source>Thin stroke</source>
-        <translation type="vanished">Tanka poteza</translation>
-    </message>
-    <message>
-        <source>Medium stroke</source>
-        <translation type="vanished">Srednja poteza</translation>
-    </message>
-    <message>
-        <source>Thick stroke</source>
-        <translation type="vanished">Debela poteza</translation>
-    </message>
-    <message>
-        <source>Select</source>
-        <translation type="vanished">Izberi</translation>
-    </message>
-    <message>
-        <source>Translate</source>
-        <translation type="vanished">Prestavi</translation>
-    </message>
-    <message>
-        <source>Rotate</source>
-        <translation type="vanished">Zasuči</translation>
-    </message>
-    <message>
-        <source>Scale</source>
-        <translation type="vanished">Povečaj/zmanjšaj</translation>
-    </message>
-    <message>
-        <source>Erase</source>
-        <translation type="vanished">Izbriši</translation>
-    </message>
-    <message>
-        <source>Scroll view</source>
-        <translation type="vanished">Premakni prikaz</translation>
-    </message>
-    <message>
-        <source>Scroll</source>
-        <translation type="vanished">Premakni</translation>
-    </message>
-    <message>
-        <source>Draw paths</source>
-        <translation type="vanished">Nariši poti</translation>
-    </message>
-    <message>
-        <source>Add images</source>
-        <translation type="vanished">Dodaj slike</translation>
-    </message>
-    <message>
-        <source>Whiteboard toolbar</source>
-        <translation type="vanished">Orodjarna table</translation>
-    </message>
-    <message>
-        <source>%1 left (session: %2).</source>
-        <translation type="vanished">%1 je odšel (seja: %2).</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Opozorilo</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to end the session?
-The contents of the whiteboard will be lost.</source>
-        <translation type="vanished">Ali res želite končati to sejo?
-Vsebina table bo izgubljena.</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Da</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Ne</translation>
-    </message>
-    <message>
-        <source>A new whiteboard message was just received.
-Do you still want to close the window?</source>
-        <translation type="vanished">Prejeto je bilo novo sporočilo za risanje na tablo.
-Ali še vedno želite zapreti okno?</translation>
-    </message>
-    <message>
-        <source>Set new width:</source>
-        <translation type="vanished">Nastavite novo širino:</translation>
-    </message>
-    <message>
-        <source>Width:</source>
-        <translation type="vanished">Širina:</translation>
-    </message>
-    <message>
-        <source>Set new height:</source>
-        <translation type="vanished">Nastavite novo višino:</translation>
-    </message>
-    <message>
-        <source>Height:</source>
-        <translation type="vanished">Višina:</translation>
-    </message>
-    <message>
-        <source>Save Whitebaord</source>
-        <translation type="vanished">Shrani tablo</translation>
-    </message>
-    <message>
-        <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="vanished">Raztegljiva vektorska grafika (*.svg)</translation>
-    </message>
-</context>
-<context>
     <name>WbItem</name>
     <message>
         <source>Bring forward</source>
@@ -19931,38 +18543,6 @@ Ali še vedno želite zapreti okno?</translation>
 </context>
 <context>
     <name>WbManager</name>
-    <message>
-        <source>Unsupported</source>
-        <translation type="vanished">Nepodprto</translation>
-    </message>
-    <message>
-        <source>The contact does not support whiteboarding.</source>
-        <translation type="vanished">Stik ne podpira risanja na tablo.</translation>
-    </message>
-    <message>
-        <source>Open Existing SVG?</source>
-        <translation type="vanished">Odprtje obstoječega SVG?</translation>
-    </message>
-    <message>
-        <source>Would you like to open an existing SVG document in the whitebaord?</source>
-        <translation type="vanished">Ali želite na tabli odpreti obstoječo sliko SVG?</translation>
-    </message>
-    <message>
-        <source>Initial SVG Document for the Whiteboard</source>
-        <translation type="vanished">Začetna slika SVG za tablo</translation>
-    </message>
-    <message>
-        <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="vanished">Raztegljiva vektorska grafika (*.svg)</translation>
-    </message>
-    <message>
-        <source>Whiteboarding Invitation?</source>
-        <translation type="vanished">Povabilo na risanje na tablo</translation>
-    </message>
-    <message>
-        <source>%1 has invited you to a whiteboarding session. Would you like to join?</source>
-        <translation type="vanished">%1 vas je povabil na risanje na tablo. Ali se mu želite pridružiti?</translation>
-    </message>
     <message>
         <source>Answered on another device.</source>
         <translation>Odgovorjeno na drugi napravi.</translation>
@@ -20364,10 +18944,6 @@ Ali še vedno želite zapreti okno?</translation>
 </context>
 <context>
     <name>XMLConsole</name>
-    <message>
-        <source>XML Console</source>
-        <translation type="vanished">Konzola za XML</translation>
-    </message>
     <message>
         <source>Filter</source>
         <translation>Filter</translation>
@@ -20825,10 +19401,6 @@ Ali še vedno želite zapreti okno?</translation>
 <context>
     <name>XmlConsole</name>
     <message>
-        <source>XML Console</source>
-        <translation type="vanished">Konzola XML</translation>
-    </message>
-    <message>
         <source>XMPP Console</source>
         <translation>Konzola XMPP</translation>
     </message>
@@ -20850,18 +19422,6 @@ Ali še vedno želite zapreti okno?</translation>
     <message>
         <source>Malformed XML</source>
         <translation>Napačno oblikovan XML</translation>
-    </message>
-    <message>
-        <source>You have entered malformed XML input. Are you sure you want to send this ?</source>
-        <translation type="vanished">Vnesli ste napačno oblikovan XML. Ali res želite poslati to?</translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="vanished">Da</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">Ne</translation>
     </message>
     <message>
         <source>You have entered malformed XML input.</source>
@@ -21880,10 +20440,6 @@ do tega sporočila v juick@conference.jabber.ru</translation>
     <message>
         <source>Birthday:</source>
         <translation>Rojstni dan:</translation>
-    </message>
-    <message>
-        <source>E-Mail:</source>
-        <translation type="vanished">E-pošta:</translation>
     </message>
     <message>
         <source>Close</source>

@@ -49,10 +49,6 @@
         <translation>О программе</translation>
     </message>
     <message>
-        <source>psi/psiplus_logo</source>
-        <translation type="vanished">psi/psiplus_logo</translation>
-    </message>
-    <message>
         <source>Authors</source>
         <translation>Авторы</translation>
     </message>
@@ -69,10 +65,6 @@
         <translation>Лицензия</translation>
     </message>
     <message>
-        <source>About Psi+</source>
-        <translation type="vanished">О Psi+</translation>
-    </message>
-    <message>
         <source>&amp;Close</source>
         <translation>&amp;Закрыть</translation>
     </message>
@@ -87,58 +79,6 @@
     <message>
         <source>Developer</source>
         <translation>Разработчик</translation>
-    </message>
-    <message>
-        <source>Active project members are presents below:</source>
-        <translation type="vanished">Активные участники проекта представлены ниже:</translation>
-    </message>
-    <message>
-        <source>Founder, Patcher and MS Windows Packager</source>
-        <translation type="vanished">Основатель, автор патчей и сопровождающий пакета для MS Windows</translation>
-    </message>
-    <message>
-        <source>Founder and Lead Patcher</source>
-        <translation type="vanished">Основатель и ведущий автор патчей</translation>
-    </message>
-    <message>
-        <source>Founder, Designer and Patcher</source>
-        <translation type="vanished">Основатель, дизайнер и автор патчей</translation>
-    </message>
-    <message>
-        <source>Lead Patcher and Plugins Writer; Mac OS X Packager</source>
-        <translation type="vanished">Главный автор патчей и разработчик плагинов; cопровождающий пакета для Mac OS X</translation>
-    </message>
-    <message>
-        <source>Patcher, Plugins Writer and Fedora Packager</source>
-        <translation type="vanished">Автор патчей, разработчик плагинов и сопровождающий пакета для Fedora</translation>
-    </message>
-    <message>
-        <source>Patcher and Plugins Writer</source>
-        <translation type="vanished">Автор патчей и разработчик плагинов</translation>
-    </message>
-    <message>
-        <source>Patcher and Ubuntu Packager</source>
-        <translation type="vanished">Автор патчей и сопровождающий пакета для Ubuntu</translation>
-    </message>
-    <message>
-        <source>Ubuntu Packager</source>
-        <translation type="vanished">Сопровождающий пакета для Ubuntu</translation>
-    </message>
-    <message>
-        <source>Mandriva Linux Packager</source>
-        <translation type="vanished">Сопровождающий пакета для Mandriva Linux</translation>
-    </message>
-    <message>
-        <source>Patcher and Russian localization</source>
-        <translation type="vanished">Автор патчей и русского языкового пакета</translation>
-    </message>
-    <message>
-        <source>Psimedia Patcher and Wiki English localization</source>
-        <translation type="vanished">Автор патчей для Psimedia и английского перевода Wiki</translation>
-    </message>
-    <message>
-        <source>Language coordinator; Debian Packager</source>
-        <translation type="vanished">Координатор переводчиков; сопровождающий пакета для Debian</translation>
     </message>
     <message>
         <source>Former language coordinator, miscellaneous assistance</source>
@@ -217,64 +157,8 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
         <translation>https://psi-im.org</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Cross-platform XMPP client aimed at experienced users.&lt;br/&gt;&lt;br/&gt;Copyright © 2001-2020 The Psi Team.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="vanished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Кросс-платформенный XMPP клиент для продвинутых пользователей.&lt;br/&gt;&lt;br/&gt;Copyright © 2001-2020 The Psi Team.&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
         <source>Past Lead Widget Developer</source>
         <translation>Бывший ведущий разработчик виджетов</translation>
-    </message>
-    <message>
-        <source>Developer and Maintainer</source>
-        <translation type="vanished">Разработчик и сопровождающий</translation>
-    </message>
-    <message>
-        <source>Language coordinator, macOS port, miscellaneous assistance</source>
-        <translation type="vanished">Координатор переводчиков, портирование на macOS, различная помощь</translation>
-    </message>
-    <message>
-        <source>Founder, Patcher and former MS Windows Packager</source>
-        <translation type="vanished">Основатель, автор патчей и бывший сопровождающий пакетов для MS Windows</translation>
-    </message>
-    <message>
-        <source>Founder, Patcher and former Designer</source>
-        <translation type="vanished">Основатель, автор патчей и бывший дизайнер</translation>
-    </message>
-    <message>
-        <source>Lead Patcher and Plugins Writer; former macOS Packager</source>
-        <translation type="vanished">Главный автор патчей и разработчик плагинов; бывший cопровождающий пакетов для macOS</translation>
-    </message>
-    <message>
-        <source>Language coordinator; Patcher; Debian and Ubuntu Packager; MS Windows and macOS Packager</source>
-        <translation type="vanished">Координатор переводчиков; автор патчей; сопровождающий пакетов для Debian и Ubuntu; сопровождающий сборок для MS Windows и macOS</translation>
-    </message>
-    <message>
-        <source>Patcher and Plugins Writer; MS Windows Packager</source>
-        <translation type="vanished">Автор патчей и разработчик плагинов; сопровождающий сборок для MS Windows</translation>
-    </message>
-    <message>
-        <source>Patcher and Plugins Writer; former Fedora Packager</source>
-        <translation type="vanished">Автор патчей, разработчик плагинов и бывший сопровождающий пакетов для Fedora</translation>
-    </message>
-    <message>
-        <source>Patcher and former Ubuntu Packager</source>
-        <translation type="vanished">Автор патчей и бывший сопровождающий пакетов для Ubuntu</translation>
-    </message>
-    <message>
-        <source>former Ubuntu Packager</source>
-        <translation type="vanished">Бывший сопровождающий пакетов для Ubuntu</translation>
-    </message>
-    <message>
-        <source>former Mandriva Linux Packager</source>
-        <translation type="vanished">Бывший сопровождающий пакетов для Mandriva Linux</translation>
-    </message>
-    <message>
-        <source>Patcher and former Russian translator</source>
-        <translation type="vanished">Автор патчей и бывший переводчик на русский язык</translation>
-    </message>
-    <message>
-        <source>About Psi</source>
-        <translation type="vanished">О Psi+</translation>
     </message>
     <message>
         <source>Cross-platform XMPP client designed for experienced users.</source>
@@ -528,22 +412,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>&amp;Изменить личную информацию...</translation>
     </message>
     <message>
-        <source>OpenPGP</source>
-        <translation type="vanished">OpenPGP</translation>
-    </message>
-    <message>
-        <source>placeholder2</source>
-        <translation type="vanished">placeholder2</translation>
-    </message>
-    <message>
-        <source>Select &amp;Key...</source>
-        <translation type="vanished">Выбрать &amp;ключ...</translation>
-    </message>
-    <message>
-        <source>Use None</source>
-        <translation type="vanished">Не использовать</translation>
-    </message>
-    <message>
         <source>Privacy</source>
         <translation>Приватность</translation>
     </message>
@@ -656,14 +524,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Полное имя:</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Attention!&lt;/b&gt;
-&lt;br/&gt;
-When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
-        <translation type="vanished">&lt;b&gt;Внимание!&lt;/b&gt;
-&lt;br/&gt;
-При включении этой опции вы не сможете найти свой пароль в конфигурационных файлах программы. Там будет лишь текст хэша. Поэтому, если вы забудете пароль, он будет утерян безвозвратно. Рекомендуется записать резервную копию пароля где-либо в другом месте.</translation>
-    </message>
-    <message>
         <source>Store hash instead of plaintext password if server supports this feature.</source>
         <translation>Хранить хэш вместо текста пароля, если сервер поддерживает авторизацию по хэшу.</translation>
     </message>
@@ -712,10 +572,6 @@ When you enable this option you will not be able to find your password in config
     <message>
         <source>Never</source>
         <translation>Никогда</translation>
-    </message>
-    <message>
-        <source>Legacy SSL</source>
-        <translation type="vanished">Традиционный SSL</translation>
     </message>
     <message>
         <source>Over encrypted connection</source>
@@ -790,10 +646,6 @@ When you enable this option you will not be able to find your password in config
         <translation>Периодически отправлять пакеты для поддержания соединения. Полезно, если ваше соединение автоматически разрывается после определённого периода бездействия (например, вашим поставщиком услуг Интернета), а вы этого не хотите.</translation>
     </message>
     <message>
-        <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
-        <translation type="vanished">Включите эту опцию для использования зашифрованного SSL соединения к XMPP серверу.  Вы можете использовать эту опцию если ваш сервер это поддерживает и у вас установлен модуль QCA-OpenSSL.  Для дополнительной информации посетите домашнюю страницу проекта Psi+.</translation>
-    </message>
-    <message>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
         <translation>Включите эту опцию, если вам нужно сжатие передачи данных и если ваш XMPP сервер это поддерживает.</translation>
     </message>
@@ -818,28 +670,8 @@ When you enable this option you will not be able to find your password in config
         <translation>Имя пользователя:</translation>
     </message>
     <message>
-        <source>No Key Selected</source>
-        <translation type="vanished">Ключ не выбран</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Ошибка</translation>
-    </message>
-    <message>
-        <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation type="vanished">Традиционный SSL доступен только в комбинации с ручным выставлением адреса сервера и порта.</translation>
-    </message>
-    <message>
-        <source>SSL error</source>
-        <translation type="vanished">Ошибка SSL</translation>
-    </message>
-    <message>
-        <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation type="vanished">Невозможно включить шифрование SSL/TLS. Модуль не найден.</translation>
-    </message>
-    <message>
-        <source>Secret Key</source>
-        <translation type="vanished">Приватный ключ</translation>
     </message>
     <message>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
@@ -992,10 +824,6 @@ When you enable this option you will not be able to find your password in config
         <translation>Если доступно</translation>
     </message>
     <message>
-        <source>Legacy SSL</source>
-        <translation type="vanished">Традиционный SSL</translation>
-    </message>
-    <message>
         <source>Warning</source>
         <translation>Предупреждение</translation>
     </message>
@@ -1004,20 +832,8 @@ When you enable this option you will not be able to find your password in config
         <translation>Вы уверены, что хотите прервать регистрацию?</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Да</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Нет</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Ошибка</translation>
-    </message>
-    <message>
-        <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation type="vanished">Традиционный SSL доступен только в комбинации с указанным вручную адресом сервера и портом.</translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -1162,22 +978,7 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>ActionsList</name>
-    <message>
-        <source> Enable Off the Record Chat.
-When checked, the server will not
-save the history for this contact.</source>
-        <translation type="vanished"> Отключить запись чата.
-Если установлено, сервер не будет
-сохранять историю для этого контакта.</translation>
-    </message>
-</context>
-<context>
     <name>ActiveProfiles</name>
-    <message>
-        <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation type="vanished">Этот профиль уже используется...&lt;br&gt;пожалуйста, ждите...</translation>
-    </message>
     <message>
         <source>This Psi profile is already running...&lt;br&gt;Please wait...</source>
         <translation>Этот профиль Psi уже используется...&lt;br&gt;Пожалуйста, подождите...</translation>
@@ -1262,10 +1063,6 @@ save the history for this contact.</source>
     <message>
         <source>Passphrase: </source>
         <translation>Ключевая фраза: </translation>
-    </message>
-    <message>
-        <source>E-mail address: </source>
-        <translation type="vanished">E-mail: </translation>
     </message>
     <message>
         <source>Key type: </source>
@@ -1428,19 +1225,6 @@ Make sure you enter a fully qualified XMPP address.</source>
     </message>
     <message>
         <source>&lt;qt&gt;
-There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[XMPP address of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP address of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[XMPP address of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
-        <translation type="vanished">&lt;qt&gt;
-Во время получения информации о трансляции Service ID с &quot;%1&quot; произошла ошибка.&lt;br&gt;
-Причина: %2&lt;br&gt;&lt;br&gt;
-Возможно, данный сервис не поддерживает эту функцию. В этом случае вам придётся ввести XMPP адрес контакта вручную. Примеры:&lt;br&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;jabberuser@somehost.com&lt;br&gt;
-&amp;nbsp;&amp;nbsp;aoluser@[XMPP адрес службы AIM]&lt;br&gt;
-&amp;nbsp;&amp;nbsp;1234567@[XMPP адрес службы ICQ]&lt;br&gt;
-&amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP адрес службы MSN]&lt;br&gt;
-&lt;/qt&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%gmail.com@[XMPP address of Transport]&lt;br&gt;&lt;/qt&gt;</source>
         <translation>&lt;qt&gt;
 Во время получения информации о трансляции Service ID с &quot;%1&quot; произошла ошибка.&lt;br&gt;
@@ -1557,14 +1341,6 @@ There was an error getting the Service ID translation information from &quot;%1&
         <translation>Вы попытались привлечь внимание %1</translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Автор: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">E-Mail: </translation>
-    </message>
-    <message>
         <source>This plugin is designed to send and receive special messages such as Attentions.
 To work correctly, the plugin requires that the client of the other part supports XEP-0224 (for example: Pidgin, Miranda IM with Nudge plugin).</source>
         <translation>Данный плагин предназначен для отправки и приёма сообщений типа Attention (привлечение внимания).
@@ -1667,18 +1443,6 @@ To work correctly, the plugin requires that the client of the other part support
         <translation>раз (-1=бесконечно)</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#autoreply_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Автор: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">E-Mail: </translation>
-    </message>
-    <message>
         <source>This plugin acts as an auto-answering machine. It has a number of simple configuration options, which you can use to:
 * set a text message for auto-answer
 * exclude specified jids, including conferences, from the objects for auto-answer (if a jid conference is set, the exception will include all private messages)
@@ -1743,44 +1507,6 @@ The list of exceptions for jids has two operating modes:
 </context>
 <context>
     <name>AvCallPrivate</name>
-    <message>
-        <source>System error</source>
-        <translation type="vanished">Системная ошибка</translation>
-    </message>
-    <message>
-        <source>Codec error</source>
-        <translation type="vanished">Ошибка кодека</translation>
-    </message>
-    <message>
-        <source>Generic error</source>
-        <translation type="vanished">Типовая ошибка</translation>
-    </message>
-    <message>
-        <source>Cannot call without selecting a device.  Do you have a microphone?  Check the Psi options.</source>
-        <translation type="vanished">Невозможно позвонить без выбора устройства. Есть ли у вас микрофон? Проверьте настройки Psi+.</translation>
-    </message>
-    <message>
-        <source>An error occurred while trying to send:
-%1.</source>
-        <translation type="vanished">Ошибка при попытке отправить:
-%1.</translation>
-    </message>
-    <message>
-        <source>Call was rejected or terminated.</source>
-        <translation type="vanished">Вызов был отклонён или прекращён.</translation>
-    </message>
-    <message>
-        <source>Call negotiation timed out.</source>
-        <translation type="vanished">Истекло время ожидания вызова.</translation>
-    </message>
-    <message>
-        <source>Unable to establish peer-to-peer connection.</source>
-        <translation type="vanished">Невозможно установить одноранговое соединение.</translation>
-    </message>
-    <message>
-        <source>Call negotiation failed.</source>
-        <translation type="vanished">Ошибка согласования вызова.</translation>
-    </message>
     <message>
         <source>The requested media type is not supported by the current media backend.</source>
         <translation>Запрошенный тип медиаданных не поддерживается текущим медиабэкендом.</translation>
@@ -1918,25 +1644,12 @@ The list of exceptions for jids has two operating modes:
         <translation>E-mail: </translation>
     </message>
     <message>
-        <source>This plugin allows you to play battleship with your friends.
-For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="vanished">Данный плагин позволяет Вам играть в Морской бой с Вашими друзьями.
-Для отправки комманд используются обычные сообщения, поэтому он будет работать всегда, когда Вы можете авторизоваться на своём Jabber-сервере.
-Для того, чтобы пригласить друга в игру, Вы можете использовать пункт меню непосредственно на контакте или кнопку на панели окна чата.</translation>
-    </message>
-    <message>
         <source>Battleship game</source>
         <translation>Морской бой</translation>
     </message>
     <message>
         <source>Battleship game!</source>
         <translation>Морской бой!</translation>
-    </message>
-    <message>
-        <source>Play Battleship with your friends.
-This is a paper board game where you try to sink the opponent&apos;s ships.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="vanished">Играйте в «Морской бой» с друзьями.
-Это настольная игра на бумаге, в которой нужно потопить корабли противника. Чтобы пригласить друга в игру, можно воспользоваться пунктом меню контакта или кнопкой на панели инструментов в окне чата.</translation>
     </message>
     <message>
         <source>Play Battleship with your friends.
@@ -2034,37 +1747,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
     </message>
 </context>
 <context>
-    <name>Call</name>
-    <message>
-        <source>Dialog</source>
-        <translation type="vanished">Диалог</translation>
-    </message>
-    <message>
-        <source>To:</source>
-        <translation type="vanished">Кому:</translation>
-    </message>
-    <message>
-        <source>Use video</source>
-        <translation type="vanished">Включить видео</translation>
-    </message>
-    <message>
-        <source>Sending bandwidth:</source>
-        <translation type="vanished">Скорость отправки:</translation>
-    </message>
-    <message>
-        <source>Call status</source>
-        <translation type="vanished">Статус вызова</translation>
-    </message>
-    <message>
-        <source>&amp;Reject</source>
-        <translation type="vanished">&amp;Отклонить</translation>
-    </message>
-    <message>
-        <source>&amp;Accept</source>
-        <translation type="vanished">&amp;Принять</translation>
-    </message>
-</context>
-<context>
     <name>CallDlg</name>
     <message>
         <source>Call</source>
@@ -2141,73 +1823,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
     <message>
         <source>Refused: the encryption could not be verified with a trusted OMEMO device of the contact. See Options &gt; Security.</source>
         <translation>Отказано: не удалось проверить шифрование с помощью доверенного OMEMO-устройства контакта. См. «Настройки» &gt; «Безопасность».</translation>
-    </message>
-</context>
-<context>
-    <name>CallDlg::Private</name>
-    <message>
-        <source>Voice Call</source>
-        <translation type="vanished">Звонок</translation>
-    </message>
-    <message>
-        <source>High (1Mbps)</source>
-        <translation type="vanished">Высокая (1 Мбит/с)</translation>
-    </message>
-    <message>
-        <source>Average (400Kbps)</source>
-        <translation type="vanished">Средняя (400 Кбит/с)</translation>
-    </message>
-    <message>
-        <source>Low (160Kbps)</source>
-        <translation type="vanished">Низкая (160 Кбит/с)</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">За&amp;крыть</translation>
-    </message>
-    <message>
-        <source>C&amp;all</source>
-        <translation type="vanished">По&amp;звонить</translation>
-    </message>
-    <message>
-        <source>Ready</source>
-        <translation type="vanished">Готов</translation>
-    </message>
-    <message>
-        <source>From:</source>
-        <translation type="vanished">От:</translation>
-    </message>
-    <message>
-        <source>Accept call?</source>
-        <translation type="vanished">Принять звонок?</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">О&amp;тмена</translation>
-    </message>
-    <message>
-        <source>Calling...</source>
-        <translation type="vanished">Вызываю...</translation>
-    </message>
-    <message>
-        <source>Accepting...</source>
-        <translation type="vanished">Принимаю...</translation>
-    </message>
-    <message>
-        <source>&amp;Hang up</source>
-        <translation type="vanished">&amp;Повесить трубку</translation>
-    </message>
-    <message>
-        <source>Call active</source>
-        <translation type="vanished">Вызов активен</translation>
-    </message>
-    <message>
-        <source>Call is ended</source>
-        <translation type="vanished">Вызов завершён</translation>
-    </message>
-    <message>
-        <source>Call duration: %1</source>
-        <translation type="vanished">Продолжительность разговора: %1</translation>
     </message>
 </context>
 <context>
@@ -2387,26 +2002,7 @@ Turn on your camera or share your screen</source>
     </message>
 </context>
 <context>
-    <name>CaptchaDialog</name>
-    <message>
-        <source>CAPTCHA</source>
-        <translation type="vanished">САРТСНА</translation>
-    </message>
-    <message>
-        <source>Loading data...</source>
-        <translation type="vanished">Загружаются данные...</translation>
-    </message>
-    <message>
-        <source>Original message</source>
-        <translation type="vanished">Оригинальное сообщение</translation>
-    </message>
-</context>
-<context>
     <name>CaptchaDlg</name>
-    <message>
-        <source>Dialog</source>
-        <translation type="vanished">Диалог</translation>
-    </message>
     <message>
         <source>You need to pass verification</source>
         <translation>Необходимо пройти проверку</translation>
@@ -2414,29 +2010,6 @@ Turn on your camera or share your screen</source>
     <message>
         <source>AccountLabel</source>
         <translation>AccountLabel</translation>
-    </message>
-</context>
-<context>
-    <name>CaptchaFormsPlugin</name>
-    <message>
-        <source>Captcha Plugin: CAPTCHA from %1</source>
-        <translation type="vanished">САРТСНА плагин: САРТСНА от %1</translation>
-    </message>
-    <message>
-        <source>Error! Image can not be loaded.</source>
-        <translation type="vanished">Ошибка! Изображение не может быть загружено.</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Автор:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">E-Mail: </translation>
-    </message>
-    <message>
-        <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
-        <translation type="vanished">Данный плагин предназначен для прохождения САРТСНА непосредственно из Psi+.</translation>
     </message>
 </context>
 <context>
@@ -2471,10 +2044,6 @@ Turn on your camera or share your screen</source>
     <message>
         <source>The certificate is valid.</source>
         <translation>Сертификат подходит.</translation>
-    </message>
-    <message>
-        <source>The certificate is NOT valid!</source>
-        <translation type="vanished">Сертификат недействителен!</translation>
     </message>
     <message>
         <source>Reason: %1.</source>
@@ -2606,10 +2175,6 @@ Reason: %1</source>
         <translation>Позвонить</translation>
     </message>
     <message>
-        <source>Toggle encryption</source>
-        <translation type="vanished">Шифрование</translation>
-    </message>
-    <message>
         <source>Select icon</source>
         <translation>Выбрать смайл</translation>
     </message>
@@ -2650,22 +2215,6 @@ Do you still want to close the window?</source>
     <message>
         <source>&lt;p&gt;Encryption was recently disabled by the remote contact.  Are you sure you want to send this message without encryption?&lt;/p&gt;</source>
         <translation>&lt;p&gt;Шифрование было отключено другой стороной. Отправить это сообщение без шифрования?&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Да</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Нет</translation>
-    </message>
-    <message>
-        <source>Encryption Enabled</source>
-        <translation type="vanished">Шифрование включено</translation>
-    </message>
-    <message>
-        <source>Encryption Disabled</source>
-        <translation type="vanished">Шифрование выключено</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
@@ -2786,59 +2335,6 @@ Do you still want to close the window?</source>
     </message>
 </context>
 <context>
-    <name>ChatView</name>
-    <message>
-        <source>Quote</source>
-        <translation type="vanished">Цитировать</translation>
-    </message>
-    <message>
-        <source>Ctrl+S</source>
-        <translation type="vanished">Ctrl+S</translation>
-    </message>
-    <message>
-        <source>%1 says:</source>
-        <translation type="vanished">%1 пишет:</translation>
-    </message>
-    <message>
-        <source>Subject:</source>
-        <translation type="vanished">Тема:</translation>
-    </message>
-    <message>
-        <source>URL:</source>
-        <translation type="vanished">URL:</translation>
-    </message>
-    <message>
-        <source>Desc:</source>
-        <translation type="vanished">Описание:</translation>
-    </message>
-    <message>
-        <source>The message was corrected</source>
-        <translation type="vanished">Сообщение отредактировано</translation>
-    </message>
-</context>
-<context>
-    <name>ChatViewThemeProvider</name>
-    <message>
-        <source>Chat Message Style</source>
-        <translation type="vanished">Стиль сообщений чата</translation>
-    </message>
-    <message>
-        <source>Configure your chat theme here</source>
-        <translation type="vanished">Настроить вашу тему чата</translation>
-    </message>
-</context>
-<context>
-    <name>ChatWebView</name>
-    <message>
-        <source>Quote</source>
-        <translation type="vanished">Цитировать</translation>
-    </message>
-    <message>
-        <source>Ctrl+S</source>
-        <translation type="vanished">Ctrl+S</translation>
-    </message>
-</context>
-<context>
     <name>Chess::InvitationDialog</name>
     <message>
         <source>white</source>
@@ -2857,10 +2353,6 @@ to play chess. He wants to play %2.</source>
 </context>
 <context>
     <name>ChessPlugin</name>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#chess_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
-    </message>
     <message>
         <source>Chess Plugin</source>
         <translation>Шахматы</translation>
@@ -2910,23 +2402,6 @@ to play chess. He wants to play %2.</source>
     <message>
         <source>Sound (*.wav)</source>
         <translation>Звуковой файл (*.wav)</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Автор: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">E-Mail: </translation>
-    </message>
-    <message>
-        <source>This plugin allows you to play chess with your friends.
-The plugin is compatible with a similar plugin for Tkabber.
-For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="vanished">Данный плагин позволяет Вам играть в шахматы с Вашими друзьями.
-Плагин совместим с аналогичным для Tkabber&apos;a.
-Для отправки комманд используются обычные сообщения, поэтому он будет работать всегда, когда Вы можете авторизоваться на своём Jabber-сервере.
-Для того, чтобы пригласить друга в игру Вы можете использовать пункт меню непосредственно на контакте или кнопку на панели окна чата.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -3154,18 +2629,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
         <translation>Запустить чистильщик</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#cleaner_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Автор: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">E-Mail: </translation>
-    </message>
-    <message>
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
 You can preview items before deleting them from your hard drive.</source>
         <translation>Данный плагин позволяет очищать кэш аватаров, локально сохранённых копий vCard&apos;ов и логов переписки.
@@ -3251,38 +2714,7 @@ You can preview items before deleting them from your hard drive.</source>
     </message>
 </context>
 <context>
-    <name>ClientSwitcher::TypeAheadFindBar</name>
-    <message>
-        <source>Search: </source>
-        <translation type="vanished">Найти: </translation>
-    </message>
-    <message>
-        <source>&amp;Case sensitive</source>
-        <translation type="vanished">Учесть &amp;регистр</translation>
-    </message>
-    <message>
-        <source>First page</source>
-        <translation type="vanished">Первая страница</translation>
-    </message>
-    <message>
-        <source>Previous page</source>
-        <translation type="vanished">Предыдущая страница</translation>
-    </message>
-    <message>
-        <source>Next page</source>
-        <translation type="vanished">Следующая страница</translation>
-    </message>
-    <message>
-        <source>Last page</source>
-        <translation type="vanished">Последняя страница</translation>
-    </message>
-</context>
-<context>
     <name>ClientSwitcherPlugin</name>
-    <message>
-        <source>Authors: </source>
-        <translation type="vanished">Авторы: </translation>
-    </message>
     <message>
         <source>The plugin is intended for substitution of the client version, his name and operating system type.
 You can specify the version of the client and OS or to select them from the preset list.
@@ -3290,10 +2722,6 @@ You can specify the version of the client and OS or to select them from the pres
         <translation>Данный плагин предназначен для подмены версии Jabber-клиента, его названия и типа операционной системы.
 Имеется возможность вручную указать версию клиента и операционной системы или выбрать их из заданного списка.
 </translation>
-    </message>
-    <message>
-        <source>%1 has requested your version</source>
-        <translation type="vanished">%1 запрашивает Вашу версию</translation>
     </message>
 </context>
 <context>
@@ -3428,10 +2856,6 @@ You can specify the version of the client and OS or to select them from the pres
         <translation>Показать лог</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#conference_logger_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Groupchat History</source>
         <translation>История конференции</translation>
     </message>
@@ -3444,14 +2868,6 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
 Лог может быть просмотрен как из настроек плагина, так и по нажатию соответствующей кнопки на панели в активной конференции.
 
 Примечание: для корректной работы требуется, чтобы опция &quot;option options.ui.chat.central-toolbar&quot; была установлена в &quot;true&quot;.</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Автор: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -3513,10 +2929,6 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <translation>Списки приватности</translation>
     </message>
     <message>
-        <source>&amp;XML Console</source>
-        <translation type="vanished">&amp;Консоль XML</translation>
-    </message>
-    <message>
         <source>&amp;Modify Account...</source>
         <translation>&amp;Настройки аккаунта</translation>
     </message>
@@ -3545,20 +2957,12 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <translation>Аватар</translation>
     </message>
     <message>
-        <source>Groupchat</source>
-        <translation type="vanished">Конференции</translation>
-    </message>
-    <message>
         <source>Plugins</source>
         <translation>Плагины</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
         <translation>&amp;Администрирование</translation>
-    </message>
-    <message>
-        <source>Join %1</source>
-        <translation type="vanished">%1</translation>
     </message>
     <message>
         <source>Groupchats</source>
@@ -3599,10 +3003,6 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
 </context>
 <context>
     <name>ContactListDragView</name>
-    <message>
-        <source>%1 (%2)</source>
-        <translation type="vanished">%1 (%2)</translation>
-    </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
         <translation>Это действие безвозвратно удалит&lt;br&gt;%1&lt;br&gt;из Вашего списка контактов.</translation>
@@ -3692,13 +3092,6 @@ Proceed?</source>
     <message>
         <source>Conferences</source>
         <translation>Конференции</translation>
-    </message>
-</context>
-<context>
-    <name>ContactListViewDelegate::Private</name>
-    <message>
-        <source>%1 (%2)</source>
-        <translation type="vanished">%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -3876,46 +3269,8 @@ Proceed?</source>
 <context>
     <name>ContentDownloader</name>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Автор: </translation>
-    </message>
-    <message>
-        <source>e-mail: </source>
-        <translation type="vanished">E-Mail: </translation>
-    </message>
-    <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation>Данный плагин предназначен для скачивания из Интернет наборов иконок и прочих дополнительных ресурсов для Psi+.</translation>
-    </message>
-</context>
-<context>
-    <name>Crash::CrashDialog</name>
-    <message>
-        <source>Crash handler log</source>
-        <translation type="vanished">Журнал обработчика сбоев</translation>
-    </message>
-</context>
-<context>
-    <name>CreateGroupDlg</name>
-    <message>
-        <source>Create New Group</source>
-        <translation type="vanished">Создание новой группы</translation>
-    </message>
-    <message>
-        <source>Enter the new group name:</source>
-        <translation type="vanished">Введите название новой группы:</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="vanished">Добавить</translation>
-    </message>
-    <message>
-        <source>&lt;None&gt;</source>
-        <translation type="vanished">&lt;Нет&gt;</translation>
-    </message>
-    <message>
-        <source>Choose parent group: </source>
-        <translation type="vanished">Родительская группа: </translation>
     </message>
 </context>
 <context>
@@ -4106,10 +3461,6 @@ Proceed?</source>
 <context>
     <name>DiscoListItem</name>
     <message>
-        <source>Error</source>
-        <translation type="vanished">Ошибка</translation>
-    </message>
-    <message>
         <source>There was an error getting items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>Ошибка получения элементов для &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Причина: %2</translation>
     </message>
@@ -4163,44 +3514,6 @@ Proceed?</source>
     <message>
         <source>deleted</source>
         <translation>удаленные</translation>
-    </message>
-</context>
-<context>
-    <name>Drawer</name>
-    <message>
-        <source>Error moving</source>
-        <translation type="vanished">Ошибка перемещения</translation>
-    </message>
-    <message>
-        <source>You cannot move this figure because the king is in check</source>
-        <translation type="vanished">Вы не можете переместить эту фигуру, потому что король находится под шахом</translation>
-    </message>
-    <message>
-        <source>To castle</source>
-        <translation type="vanished">К ладье</translation>
-    </message>
-    <message>
-        <source>Do you want to castle?</source>
-        <translation type="vanished">Хотите к ладье?</translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="vanished">Да</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">Нет</translation>
-    </message>
-</context>
-<context>
-    <name>EDBFlatFile::File</name>
-    <message>
-        <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
-        <translation type="vanished">&lt;big&gt;[Системное сообщение]&lt;/big&gt;&lt;br&gt;Вы авторизованы.</translation>
-    </message>
-    <message>
-        <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;Your authorization has been removed!</source>
-        <translation type="vanished">&lt;big&gt;[Системное сообщение]&lt;/big&gt;&lt;br&gt;Ваша подписка была удалена!</translation>
     </message>
 </context>
 <context>
@@ -4367,10 +3680,6 @@ Proceed?</source>
 <context>
     <name>EnumMessagesPlugin</name>
     <message>
-        <source>Authors: </source>
-        <translation type="vanished">Авторы: </translation>
-    </message>
-    <message>
         <source>Missed messages: %1</source>
         <translation>Пропущенных сообщений: %1</translation>
     </message>
@@ -4422,10 +3731,6 @@ Supports per contact on / off message enumeration via the buttons on the chats t
     <message>
         <source>Message length</source>
         <translation>Длина сообщения</translation>
-    </message>
-    <message>
-        <source>Toggle encryption</source>
-        <translation type="vanished">Переключить шифрование</translation>
     </message>
     <message>
         <source>Add URL</source>
@@ -4596,13 +3901,6 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
 </context>
 <context>
-    <name>EventNotifierAction</name>
-    <message>
-        <source>&lt;Event notifier&gt;</source>
-        <translation type="vanished">&lt;Уведомление о событии&gt;</translation>
-    </message>
-</context>
-<context>
     <name>ExtendedMenuPlugin</name>
     <message>
         <source>Ping %1</source>
@@ -4683,14 +3981,6 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <source>Entity Time</source>
         <translation>Время</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Автор:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>This plugin adds several additional commands into contacts context menu.</source>
@@ -4932,10 +4222,6 @@ This option only has effect if accept-defaults is false.</source>
         <translation>Показывать последний статус</translation>
     </message>
     <message>
-        <source>Show PGP</source>
-        <translation type="vanished">Показывать наличие PGP</translation>
-    </message>
-    <message>
         <source>Show client version</source>
         <translation>Показывать версию клиента</translation>
     </message>
@@ -4950,10 +4236,6 @@ This option only has effect if accept-defaults is false.</source>
     <message>
         <source>Show &quot;Active Chats&quot; option in contact menu</source>
         <translation>Показывать &quot;Активные чаты&quot; в меню контакта</translation>
-    </message>
-    <message>
-        <source>Show &quot;Assign OpenPGP Key&quot; option in contact menu</source>
-        <translation type="vanished">Показывать &quot;Присвоить ключ OpenPGP&quot; в меню контакта</translation>
     </message>
     <message>
         <source>Show &quot;Picture&quot; option in contact menu</source>
@@ -5048,10 +4330,6 @@ This option only has effect if accept-defaults is false.</source>
         <translation>Подсказки</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:skins_css&quot;&gt;CSS for Psi&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:skins_css&quot;&gt;CSS для Psi+&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Disable wheel scroll</source>
         <translation>Отключить колесо мыши</translation>
     </message>
@@ -5066,10 +4344,6 @@ This option only has effect if accept-defaults is false.</source>
     <message>
         <source>Show status icons on tabs</source>
         <translation>Показывать иконки статуса на вкладках</translation>
-    </message>
-    <message>
-        <source>Hide tab when close chat window</source>
-        <translation type="vanished">Скрывать вкладки при закрытии окна чата</translation>
     </message>
     <message>
         <source>Allow closing inactive tabs</source>
@@ -5110,18 +4384,6 @@ This option only has effect if accept-defaults is false.</source>
     <message>
         <source>Notifications</source>
         <translation>Уведомления</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_options_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Автор: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to allow easy configuration of some advanced options in Psi.
@@ -5171,13 +4433,6 @@ Importantly: a large part of the options are important system settings. These re
     <message>
         <source>Close</source>
         <translation>Закрыть</translation>
-    </message>
-</context>
-<context>
-    <name>FigureDialog</name>
-    <message>
-        <source>What figure should I set?</source>
-        <translation type="vanished">Какую фигуру установить?</translation>
     </message>
 </context>
 <context>
@@ -5248,14 +4503,6 @@ Importantly: a large part of the options are important system settings. These re
     <message>
         <source>Are you sure you want to cancel the transfer?</source>
         <translation>Отменить передачу?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Да</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Нет</translation>
     </message>
     <message>
         <source>Choose a file</source>
@@ -5347,10 +4594,6 @@ that outgoing TCP connections are allowed.</source>
 <context>
     <name>FileShareDlg</name>
     <message>
-        <source>Dialog</source>
-        <translation type="vanished">Диалог</translation>
-    </message>
-    <message>
         <source>Share Files</source>
         <translation>Поделиться файлами</translation>
     </message>
@@ -5375,17 +4618,6 @@ that outgoing TCP connections are allowed.</source>
     <message>
         <source>Download sources are not given</source>
         <translation>Источники загрузки не заданы</translation>
-    </message>
-</context>
-<context>
-    <name>FileSharingItem</name>
-    <message>
-        <source>Published on HttpUpload service</source>
-        <translation type="vanished">Опубликовано через сервис HttpUpload</translation>
-    </message>
-    <message>
-        <source>Failed to publish on HttpUpload service</source>
-        <translation type="vanished">Не удалось опубликовать через сервис HttpUpload</translation>
     </message>
 </context>
 <context>
@@ -5697,10 +4929,6 @@ Reason: %3</source>
         <translation>Загрузить и установить</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#content_downloader_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#content_downloader_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
@@ -5943,10 +5171,6 @@ Reason: %1</source>
         <translation>Удалить</translation>
     </message>
     <message>
-        <source>Cancel</source>
-        <translation type="vanished">Отмена</translation>
-    </message>
-    <message>
         <source>&amp;Name:</source>
         <translation>&amp;Название:</translation>
     </message>
@@ -5959,16 +5183,8 @@ Reason: %1</source>
         <translation>&amp;Авто-вход:</translation>
     </message>
     <message>
-        <source>Bookmark conference</source>
-        <translation type="vanished">Закладка конференции</translation>
-    </message>
-    <message>
         <source>Unable to join groupchat.    Reason: %1</source>
         <translation>Невозможно войти в конференцию.    Причина: %1</translation>
-    </message>
-    <message>
-        <source>Paste and Send</source>
-        <translation type="vanished">Вставить и отправить</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
@@ -5977,10 +5193,6 @@ Reason: %1</source>
     <message>
         <source>Open &amp;Chat Window</source>
         <translation>Открыть окно &amp;чата</translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation type="vanished">Позвонить</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
@@ -6146,153 +5358,6 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>GameBoard</name>
-    <message>
-        <source>White</source>
-        <translation type="vanished">Белые</translation>
-    </message>
-    <message>
-        <source>Black</source>
-        <translation type="vanished">Чёрные</translation>
-    </message>
-    <message>
-        <source>game with</source>
-        <translation type="vanished">играть с</translation>
-    </message>
-    <message>
-        <source>Game chat</source>
-        <translation type="vanished">Игравой чат</translation>
-    </message>
-    <message>
-        <source>History</source>
-        <translation type="vanished">История</translation>
-    </message>
-    <message>
-        <source>Looking up the host</source>
-        <translation type="vanished">Поиск сервера</translation>
-    </message>
-    <message>
-        <source>Accepted a new connection</source>
-        <translation type="vanished">Принято новое соединение</translation>
-    </message>
-    <message>
-        <source>The host found</source>
-        <translation type="vanished">Сервер найден</translation>
-    </message>
-    <message>
-        <source>Connected to the host</source>
-        <translation type="vanished">Подключено к серверу</translation>
-    </message>
-    <message>
-        <source>Socket Error...</source>
-        <translation type="vanished">Ошибка сокета...</translation>
-    </message>
-    <message>
-        <source>You have a socket error number</source>
-        <translation type="vanished">У вас ошибка сокета номер</translation>
-    </message>
-    <message>
-        <source>game from</source>
-        <translation type="vanished">играть от</translation>
-    </message>
-    <message>
-        <source>Accepted the</source>
-        <translation type="vanished">Принято</translation>
-    </message>
-    <message>
-        <source>Your move...</source>
-        <translation type="vanished">Ваш ход...</translation>
-    </message>
-    <message>
-        <source>Waiting a move...</source>
-        <translation type="vanished">Ожидание хода...</translation>
-    </message>
-    <message>
-        <source>End the game</source>
-        <translation type="vanished">Конец игры</translation>
-    </message>
-    <message>
-        <source>Want you to end the game?
-You will lose it</source>
-        <translation type="vanished">Завершить игру?
-Вы проиграете</translation>
-    </message>
-    <message>
-        <source>Yes, end</source>
-        <translation type="vanished">Да, завершить</translation>
-    </message>
-    <message>
-        <source>No, continue</source>
-        <translation type="vanished">Нет, продолжить</translation>
-    </message>
-    <message>
-        <source>B</source>
-        <translation type="vanished">B</translation>
-    </message>
-    <message>
-        <source>K</source>
-        <translation type="vanished">K</translation>
-    </message>
-    <message>
-        <source>C</source>
-        <translation type="vanished">C</translation>
-    </message>
-    <message>
-        <source>Q</source>
-        <translation type="vanished">Q</translation>
-    </message>
-    <message>
-        <source>Error!</source>
-        <translation type="vanished">Ошибка!</translation>
-    </message>
-    <message>
-        <source>Lookup Error</source>
-        <translation type="vanished">Ошибка поиска</translation>
-    </message>
-    <message>
-        <source>The host</source>
-        <translation type="vanished">Сервер</translation>
-    </message>
-    <message>
-        <source>not found.</source>
-        <translation type="vanished">не найден.</translation>
-    </message>
-    <message>
-        <source>Save image</source>
-        <translation type="vanished">Сохранить изображение</translation>
-    </message>
-    <message>
-        <source>Do you want to save the image?</source>
-        <translation type="vanished">Сохранить изображение?</translation>
-    </message>
-    <message>
-        <source>Yes, save</source>
-        <translation type="vanished">Да, сохранить</translation>
-    </message>
-    <message>
-        <source>No, don&apos;t save</source>
-        <translation type="vanished">Нет, не сохранять</translation>
-    </message>
-    <message>
-        <source>Game over</source>
-        <translation type="vanished">Игра окончена</translation>
-    </message>
-    <message>
-        <source>You scored the game</source>
-        <translation type="vanished">Вы отметили игру</translation>
-    </message>
-    <message>
-        <source>You have a mate.
-You lost the game.</source>
-        <translation type="vanished">Вам мат.
-Вы проиграли.</translation>
-    </message>
-    <message>
-        <source>You have a stalemate</source>
-        <translation type="vanished">У вас пат</translation>
-    </message>
-</context>
-<context>
     <name>GameModel</name>
     <message>
         <source>The first turn can be only H8.</source>
@@ -6343,20 +5408,12 @@ You lost the game.</source>
         <translation>GeneralGroupchatUI</translation>
     </message>
     <message>
-        <source>Enable word highlighting</source>
-        <translation type="vanished">Включить выделение слов</translation>
-    </message>
-    <message>
         <source>Highlight lines and alert the user if this text is included in chat</source>
         <translation>Выделять текст, и оповещать пользователя если этот текст содержится в чате</translation>
     </message>
     <message>
         <source>Word highlighting</source>
         <translation>Выделение слов</translation>
-    </message>
-    <message>
-        <source>Words which will cause a notification in group chat.</source>
-        <translation type="vanished">Слова в конференции, которые вызывают оповещение.</translation>
     </message>
     <message>
         <source>This is the list of words which when said in group chat will cause the user to be notified.</source>
@@ -6383,20 +5440,8 @@ You lost the game.</source>
         <translation>Удалить</translation>
     </message>
     <message>
-        <source>Enable nick coloring</source>
-        <translation type="vanished">Включить цветные ники</translation>
-    </message>
-    <message>
-        <source>Enable hash nick coloring</source>
-        <translation type="vanished">Включить раскраску по хешированию</translation>
-    </message>
-    <message>
         <source>Nick coloring</source>
         <translation>Цвета ников</translation>
-    </message>
-    <message>
-        <source>Colors used for nicks in groupchat</source>
-        <translation type="vanished">Цвета, которые используются для ников в конференции</translation>
     </message>
     <message>
         <source>This is the list of colours with which nicks will be drawn in group chat.</source>
@@ -6405,10 +5450,6 @@ You lost the game.</source>
     <message>
         <source>Type a colourcode here, or press the palette to the right</source>
         <translation>Введите обозначение цвета или нажмите на кнопку палитры справа</translation>
-    </message>
-    <message>
-        <source>Adds the color to the list</source>
-        <translation type="vanished">Добавить цвет в список</translation>
     </message>
     <message>
         <source>Adds the new color to the list</source>
@@ -6676,55 +5717,6 @@ You lost the game.</source>
     </message>
 </context>
 <context>
-    <name>GmailNotifyPlugin</name>
-    <message>
-        <source>No-save state for contact %1 is changed</source>
-        <translation type="vanished">Отключение истории для контакта %1 установлено</translation>
-    </message>
-    <message>
-        <source>Settings for an account %1 are changed</source>
-        <translation type="vanished">Настройки аккаунта %1 изменены</translation>
-    </message>
-    <message>
-        <source>Shared Status for an account %1 is updated</source>
-        <translation type="vanished">Общий статус для аккаунта %1 обновлён</translation>
-    </message>
-    <message>
-        <source>Attributes for contact %1 are changed</source>
-        <translation type="vanished">Атрибуты для контакта%1 изменены</translation>
-    </message>
-    <message>
-        <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
-        <translation type="vanished">&lt;b&gt;mail.google.com - входящая почта!&lt;/b&gt;</translation>
-    </message>
-    <message>
-        <source>Choose a sound file</source>
-        <translation type="vanished">Выбрать звуковой файл</translation>
-    </message>
-    <message>
-        <source>Sound (*.wav)</source>
-        <translation type="vanished">Звуковой файл (*.wav)</translation>
-    </message>
-    <message>
-        <source>Choose a program</source>
-        <translation type="vanished">Выбрать программу</translation>
-    </message>
-    <message>
-        <source>Block gmail contact</source>
-        <translation type="vanished">Заблокировать gmail контакт</translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="vanished">Авторы: </translation>
-    </message>
-    <message>
-        <source>Shows notifications of new messages in your Gmailbox.
-Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
-        <translation type="vanished">Данный плагин показывает уведомления о поступлении новых писем в почтовый ящик Gmail.
-Примечание: плагин проверяет корень директории &quot;Входящие&quot; на предмет наличия новых писем. Если фильтрация (пересортировка) писем осуществляется непосредственно на сервере Gmail, то уведомлений о новой почте не будет.</translation>
-    </message>
-</context>
-<context>
     <name>Gnome3StatusWatcher</name>
     <message>
         <source>Authors: </source>
@@ -6733,29 +5725,6 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <message>
         <source>This plugin is designed to add support of GNOME 3 presence status changes</source>
         <translation>Этот плагин добавляет поддержку статусного меню GNOME 3</translation>
-    </message>
-</context>
-<context>
-    <name>GnuPG</name>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Автор: </translation>
-    </message>
-    <message>
-        <source>e-mail: </source>
-        <translation type="vanished">E-Mail: </translation>
-    </message>
-    <message>
-        <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be enough for your needs.</source>
-        <translation type="vanished">Мастер GnuPG ключей умеет создавать, удалять, экспортировать и импортировать GnuPG ключи. Поддерживаются только самые базовые операции, но их должно хватить для ваших потребностей.</translation>
-    </message>
-    <message>
-        <source>Send GnuPG Public Key</source>
-        <translation type="vanished">Отправить публичный GnuPG ключ</translation>
-    </message>
-    <message>
-        <source>Public key %1 sent</source>
-        <translation type="vanished">Публичный ключ %1 отправлен</translation>
     </message>
 </context>
 <context>
@@ -6784,21 +5753,6 @@ to play gomoku. He wants to play %2.</source>
     <message>
         <source>Sound (*.wav)</source>
         <translation>Звуковой файл (*.wav)</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Автор: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">E-Mail: </translation>
-    </message>
-    <message>
-        <source>This plugin allows you to play gomoku with your friends.
-For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="vanished">Данный плагин позволяет играть с контактами ростера и конференции в игру Гомоку.
-Для отправки комманд используются обычные сообщения, поэтому он будет работать всегда, когда Вы можете авторизоваться на своём Jabber-сервере.
-Для того, чтобы пригласить друга в игру Вы можете использовать пункт меню непосредственно на контакте или кнопку на панели окна чата.</translation>
     </message>
     <message>
         <source>Gomoku game</source>
@@ -6881,14 +5835,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
 <context>
     <name>GroupChatDlg</name>
     <message>
-        <source>Topic:</source>
-        <translation type="vanished">Тема:</translation>
-    </message>
-    <message>
-        <source>AccountLabel</source>
-        <translation type="vanished">AccountLabel</translation>
-    </message>
-    <message>
         <source>Select icon</source>
         <translation>Выбрать смайл</translation>
     </message>
@@ -6922,17 +5868,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
     <message>
         <source>Country</source>
         <translation>Страна</translation>
-    </message>
-</context>
-<context>
-    <name>GroupChatViewThemeProvider</name>
-    <message>
-        <source>Groupchat Message Style</source>
-        <translation type="vanished">Стиль сообщений конференции</translation>
-    </message>
-    <message>
-        <source>Configure your groupchat theme here</source>
-        <translation type="vanished">Настроить вашу тему конференции</translation>
     </message>
 </context>
 <context>
@@ -7161,44 +6096,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
 <context>
     <name>HistoryImport</name>
     <message>
-        <source>Status:</source>
-        <translation type="vanished">Статус:</translation>
-    </message>
-    <message>
-        <source>Progress:</source>
-        <translation type="vanished">Прогресс:</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="vanished">Ок</translation>
-    </message>
-    <message>
-        <source>Exit</source>
-        <translation type="vanished">Выход</translation>
-    </message>
-    <message>
-        <source>Import</source>
-        <translation type="vanished">Импорт</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Ошибка</translation>
-    </message>
-    <message>
-        <source>Psi+ Import history</source>
-        <translation type="vanished">Импорт истории Psi+</translation>
-    </message>
-    <message>
-        <source>Found %1 files for import.
-Continue?</source>
-        <translation type="vanished">Обнаружено %1 файлов для импорта.
-Продолжить?</translation>
-    </message>
-    <message>
-        <source>Counting records</source>
-        <translation type="vanished">Подсчёт записей</translation>
-    </message>
-    <message>
         <source>Upgrade history</source>
         <translation>Обновить историю</translation>
     </message>
@@ -7222,24 +6119,12 @@ Continue?</source>
 <context>
     <name>HistoryKeeperPlugin</name>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#history_keeper_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Remove history for contacts:</source>
         <translation>Не вести историю для контактов:</translation>
     </message>
     <message>
         <source>Clear history on exit</source>
         <translation>Очищать историю при выходе</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Автор: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to remove the history of selected contacts when the Psi is closed.
@@ -7732,58 +6617,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
 </context>
 <context>
-    <name>IcqDie</name>
-    <message>
-        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
-
-Sincerely yours, Debian Sid.</source>
-        <translation type="vanished">Я Вам как Linux скажу, только Вы не обижайтесь. Этот человек, конечно, получит Ваше сообщение, но лучше бы Вам общаться с ним через Jabber. А то не ровен час - аська сдохнет, старушка своё отжила. Его JID: %1.
-
-Искренне Ваш, Debian Sid.</translation>
-    </message>
-    <message>
-        <source>I can tell you as a Linux, but do not be mad at me. This human do not use ICQ anymore, so if you are still use that network he will not receive your message and you have to chat to him by Jabber. His JID: %1.
-
-If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
-Sincerely yours, Debian Sid.</source>
-        <translation type="vanished">Я Вам как Linux скажу, только Вы не обижайтесь. Этот человек имел в виду всех пользователей аськи, поэтому если Вы до сих пор сидите в этой сети, то он не получит Ваше сообщение, поэтому Вам придётся общаться с ним через Jabber. Его JID: %1.
-
-Если Вы не знаете что такое Jabber, то есть Google - он всё знает и поможет любому, кто к нему обратится.
-Искренне Ваш, Debian Sid.</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Автор: </translation>
-    </message>
-    <message>
-        <source>This plugin is designed to help you transfer as many contacts as possible from ICQ to Jabber.
-The plugin has a number of simple settings that can help you:
-* set a special message text
-* exclude specific ICQ numbers
-* set the time interval after which the message will be repeated
-* set the max count of messages by contact
-* disable the message for the active window/tab
-* disable messages for contacts that are not in your roster</source>
-        <translation type="vanished">Данный плагин призван помочь Вам перевести как можно большее количество Ваших контактов с ICQ на Jabber.
-Плагин имеет ряд несложных настроек, с помощью которых можно:
- * задать текст сообщения
- * исключить определённые ICQ номера
- * задать интервал времени, по истечении которого сообщение может быть повторено
- * задать максимальное количество сообщений контакту
- * отключить сообщения для активного окна/вкладки
- * отключить сообщения для контактов не из Вашего ростера</translation>
-    </message>
-</context>
-<context>
     <name>ImagePlugin</name>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#image_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
-    </message>
     <message>
         <source>Send Image</source>
         <translation>Отправить изображение</translation>
@@ -7815,10 +6649,6 @@ The plugin has a number of simple settings that can help you:
     <message>
         <source>Image %1 bytes received.</source>
         <translation>Получено %1 байт изображения.</translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="vanished">Авторы: </translation>
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
@@ -7886,42 +6716,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 </context>
 <context>
     <name>ImagePreviewPlugin</name>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Автор: </translation>
-    </message>
-    <message>
-        <source>512 Kb</source>
-        <translation type="vanished">512 КБ</translation>
-    </message>
-    <message>
-        <source>1 Mb</source>
-        <translation type="vanished">1 МБ</translation>
-    </message>
-    <message>
-        <source>2 Mb</source>
-        <translation type="vanished">2 МБ</translation>
-    </message>
-    <message>
-        <source>5 Mb</source>
-        <translation type="vanished">5 МБ</translation>
-    </message>
-    <message>
-        <source>10 Mb</source>
-        <translation type="vanished">10 МБ</translation>
-    </message>
-    <message>
-        <source>Maximum image size</source>
-        <translation type="vanished">Максимальный размер изображения</translation>
-    </message>
-    <message>
-        <source>Image preview size in pixels</source>
-        <translation type="vanished">Размер превью изображения (в пикселях)</translation>
-    </message>
-    <message>
-        <source>Allow upscale</source>
-        <translation type="vanished">Разрешить превышение размера</translation>
-    </message>
     <message>
         <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
 </source>
@@ -8123,14 +6917,6 @@ Are you sure you want to discard them?</source>
 Вы уверены, что хотите отказаться от них?</translation>
     </message>
     <message>
-        <source>Close and discard</source>
-        <translation type="vanished">Закрыть и отказаться</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">Не закрывать</translation>
-    </message>
-    <message>
         <source>Success</source>
         <translation>Успешно</translation>
     </message>
@@ -8306,10 +7092,6 @@ to play battleship. He wants to play %2.</source>
         <translation>Играть чёрными</translation>
     </message>
     <message>
-        <source>Battliship Game Plugin - Invite</source>
-        <translation type="vanished">Приглашение поиграть в Морской бой</translation>
-    </message>
-    <message>
         <source>I want to play first</source>
         <translation>Хочу играть первым</translation>
     </message>
@@ -8420,14 +7202,6 @@ to play battleship. He wants to play %2.</source>
         <translation>Jabber Disk</translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Автор: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">E-Mail: </translation>
-    </message>
-    <message>
         <source>Treat some jids as services implementing Jabber Disk protocol and handle your files with them.</source>
         <translation>Рассматривайте некоторые jids как службы, реализующие протокол Jabber Disk, и обрабатывайте ваши файлы вместе с ними.</translation>
     </message>
@@ -8445,10 +7219,6 @@ to play battleship. He wants to play %2.</source>
     <message>
         <source>Unexpected incoming content</source>
         <translation>Неожиданные входящие данные</translation>
-    </message>
-    <message>
-        <source>Jingle download failed</source>
-        <translation type="vanished">Загрузка через Jingle не удалась</translation>
     </message>
     <message>
         <source>Jingle download failed: %s</source>
@@ -8520,10 +7290,6 @@ caching avatars will be not available</source>
     <message>
         <source>Add to favorites</source>
         <translation>Добавить в избранное</translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="vanished">Авторы: </translation>
     </message>
     <message>
         <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
@@ -8647,10 +7413,6 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
         <translation>Настройки комнаты</translation>
     </message>
     <message>
-        <source>Affiliations</source>
-        <translation type="vanished">Участники</translation>
-    </message>
-    <message>
         <source>Filter:</source>
         <translation>Фильтр:</translation>
     </message>
@@ -8661,10 +7423,6 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     <message>
         <source>Remove</source>
         <translation>Удалить</translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation type="vanished">Настройки</translation>
     </message>
     <message>
         <source>message</source>
@@ -8681,10 +7439,6 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     <message>
         <source>Close</source>
         <translation>Закрыть</translation>
-    </message>
-    <message>
-        <source>&amp;VCard</source>
-        <translation type="vanished">&amp;vCard</translation>
     </message>
     <message>
         <source>&amp;General</source>
@@ -8732,14 +7486,6 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     <message>
         <source>Are you absolutely certain you want to destroy this room?</source>
         <translation>Вы уверены в необходимости уничтожения этой комнаты?</translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="vanished">Да</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">Нет</translation>
     </message>
     <message>
         <source>There was an error retrieving the room configuration</source>
@@ -8828,10 +7574,6 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
 Reason: %1</source>
         <translation>Невозможно войти в конференцию.
 Причина: %1</translation>
-    </message>
-    <message>
-        <source>%1 (%2)</source>
-        <translation type="vanished">%1 (%2)</translation>
     </message>
     <message>
         <source>No response from server for %1 seconds</source>
@@ -8987,14 +7729,6 @@ Reason: %1</source>
         <translation>Инструкции</translation>
     </message>
     <message>
-        <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
-        <translation type="vanished">Это приложение использует GStreamer %1 - кроссплатформенный мультимедийный фреймворк c открытым исходным кодом. Для получения дополнительной информации просмотрите &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>About GStreamer</source>
-        <translation type="vanished">О GStreamer</translation>
-    </message>
-    <message>
         <source>Security Plugins Diagnostic Text</source>
         <translation>Текст диагностики модуля безопасности</translation>
     </message>
@@ -9005,14 +7739,6 @@ Reason: %1</source>
     <message>
         <source>Receive next event</source>
         <translation>&amp;Показать сообщение</translation>
-    </message>
-    <message>
-        <source>Un&amp;hide</source>
-        <translation type="vanished">&amp;Восстановить</translation>
-    </message>
-    <message>
-        <source>&amp;Hide</source>
-        <translation type="vanished">&amp;Скрыть</translation>
     </message>
     <message>
         <source>Status Message</source>
@@ -9051,14 +7777,6 @@ Incoming event(s) from:</source>
         <translation>Новых сообщений: %1</translation>
     </message>
     <message>
-        <source>psimedia is unavailable</source>
-        <translation type="vanished">Плагин psimedia недоступен</translation>
-    </message>
-    <message>
-        <source>PsiMedia plugin is not loaded or not initialized.&lt;br&gt;Please check &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt; for more details.</source>
-        <translation type="vanished">Плагин PsiMedia не загружен или не инициализирован.&lt;br&gt;См. подробности на странице &lt;a href=&quot;https://github.com/psi-im/psimedia&quot;&gt;https://github.com/psi-im/psimedia&lt;/a&gt;.</translation>
-    </message>
-    <message>
         <source>Hide</source>
         <translation>Скрыть</translation>
     </message>
@@ -9081,55 +7799,6 @@ Incoming event(s) from:</source>
     <message>
         <source>Enable Sounds</source>
         <translation>Включить звуки</translation>
-    </message>
-</context>
-<context>
-    <name>MainWindow</name>
-    <message>
-        <source>New</source>
-        <translation type="vanished">Создать</translation>
-    </message>
-    <message>
-        <source>Save image</source>
-        <translation type="vanished">Сохранить изображение</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation type="vanished">Выход</translation>
-    </message>
-    <message>
-        <source>About the game</source>
-        <translation type="vanished">Об игре</translation>
-    </message>
-    <message>
-        <source>Game</source>
-        <translation type="vanished">Игра</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation type="vanished">Справка</translation>
-    </message>
-    <message>
-        <source>Ready</source>
-        <translation type="vanished">Готов</translation>
-    </message>
-    <message>
-        <source>About</source>
-        <translation type="vanished">О плагине</translation>
-    </message>
-    <message>
-        <source>is a network game chess for two players.
-It has a client and a server in the same program.
-You can modify and redistribute the source code
-because it is under GPL.
-
-Russia, Tambov, 2005 (denis@silversoft.net)</source>
-        <translation type="vanished">это сетевая игра в шахматы для двух игроков.
-И илиент, и сервер реализованы в программе.
-Вы можете изменять и распространять 
-исходный код под под лицензией GPL.
-
-Россия, Тамбов, 2005 (denis@silversoft.net)</translation>
     </message>
 </context>
 <context>
@@ -9249,18 +7918,6 @@ Size: %2</source>
         <translation>Контакт</translation>
     </message>
     <message>
-        <source>just now</source>
-        <translation type="vanished">только что</translation>
-    </message>
-    <message>
-        <source>1 minute ago</source>
-        <translation type="vanished">1 минуту назад</translation>
-    </message>
-    <message>
-        <source>1 hour ago</source>
-        <translation type="vanished">1 час назад</translation>
-    </message>
-    <message>
         <source>Message retracted</source>
         <translation>Сообщение отозвано</translation>
     </message>
@@ -9318,13 +7975,6 @@ Size: %2</source>
     </message>
 </context>
 <context>
-    <name>MamImageViewer</name>
-    <message>
-        <source>Image</source>
-        <translation type="vanished">Изображение</translation>
-    </message>
-</context>
-<context>
     <name>Mattermost::OverlayScrollBarManager</name>
     <message>
         <source>Scroll to top</source>
@@ -9337,14 +7987,6 @@ Size: %2</source>
 </context>
 <context>
     <name>MessageFilter</name>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Автор: </translation>
-    </message>
-    <message>
-        <source>e-mail: </source>
-        <translation type="vanished">e-mail: </translation>
-    </message>
     <message>
         <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
         <translation>Может отбрасывать входящие сообщения в соответствии с различными фильтрами, например: адрес отправителя/получателя или содержимое сообщения</translation>
@@ -9395,10 +8037,6 @@ Details: %1</source>
     <message>
         <source>Name</source>
         <translation>Имя</translation>
-    </message>
-    <message>
-        <source>E-Mail</source>
-        <translation type="vanished">E-Mail</translation>
     </message>
     <message>
         <source>Created</source>
@@ -9754,23 +8392,8 @@ Tags: %1</source>
         <translation>Отправить команду: начать крестики-нолики</translation>
     </message>
     <message>
-        <source>Psi plugin to play noughts and crosses</source>
-        <translation type="vanished">Плагин Psi+ для игры в крестики-нолики</translation>
-    </message>
-    <message>
         <source>Play Noughts And Crosses (Tic-tac-toe)</source>
         <translation>Играть в крестики-нолики</translation>
-    </message>
-</context>
-<context>
-    <name>OAuth2SASLContext</name>
-    <message>
-        <source>Copy authorization code from opened web page.</source>
-        <translation type="vanished">Скопировать код авторизации из открытой веб-страницы.</translation>
-    </message>
-    <message>
-        <source>Enter authorization code</source>
-        <translation type="vanished">Введите код авторизации</translation>
     </message>
 </context>
 <context>
@@ -9938,10 +8561,6 @@ Reason: %1.</source>
         <translation>Прокручивать ростер к контакту с новым сообщением</translation>
     </message>
     <message>
-        <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation type="vanished">Игнорировать &quot;объявления&quot; (например, новости MSN)</translation>
-    </message>
-    <message>
         <source>Treat incoming messages and chats as:</source>
         <translation>Принимать входящие сообщения и чаты:</translation>
     </message>
@@ -10105,14 +8724,6 @@ Reason: %1.</source>
         <translation>Выделение:</translation>
     </message>
     <message>
-        <source>Link</source>
-        <translation type="vanished">Ссылка</translation>
-    </message>
-    <message>
-        <source>Visited Link</source>
-        <translation type="vanished">Посещённая ссылка</translation>
-    </message>
-    <message>
         <source>Tooltip:</source>
         <translation>Подсказки:</translation>
     </message>
@@ -10234,10 +8845,6 @@ Reason: %1.</source>
         <translation>Трей</translation>
     </message>
     <message>
-        <source>Use &quot;double-click&quot; style (like ICQ)</source>
-        <translation type="vanished">Управлять двойным кликом</translation>
-    </message>
-    <message>
         <source>Start minimized</source>
         <translation>Запускать свёрнутым</translation>
     </message>
@@ -10308,10 +8915,6 @@ Reason: %1.</source>
         <source>Video input:</source>
         <translation>Видеовход:</translation>
     </message>
-    <message>
-        <source>Video support:</source>
-        <translation type="vanished">Поддержка видео:</translation>
-    </message>
 </context>
 <context>
     <name>OptChat</name>
@@ -10344,32 +8947,12 @@ Reason: %1.</source>
         <translation>Действие по умолчанию</translation>
     </message>
     <message>
-        <source>Delete chat window contents</source>
-        <translation type="vanished">Очищать окно чата</translation>
-    </message>
-    <message>
         <source>&amp;Message</source>
         <translation>&amp;Сообщение</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
         <translation>&amp;Чат</translation>
-    </message>
-    <message>
-        <source>&amp;When chat window is closed</source>
-        <translation type="vanished">&amp;При закрытии окна</translation>
-    </message>
-    <message>
-        <source>&amp;One hour after chat window was closed</source>
-        <translation type="vanished">Ч&amp;ерез час после закрытия</translation>
-    </message>
-    <message>
-        <source>One &amp;day after chat window was closed</source>
-        <translation type="vanished">Через &amp;день после закрытия</translation>
-    </message>
-    <message>
-        <source>&amp;Never</source>
-        <translation type="vanished">&amp;Никогда</translation>
     </message>
     <message>
         <source>Size of preloaded history</source>
@@ -10539,10 +9122,6 @@ Reason: %1.</source>
     <message>
         <source>Show previews for links</source>
         <translation>Показывать превью для ссылок</translation>
-    </message>
-    <message>
-        <source>Use contacts&apos; message formatting</source>
-        <translation type="vanished">Использовать формат текста отправителя</translation>
     </message>
     <message>
         <source>Show character counter</source>
@@ -10738,14 +9317,6 @@ Reason: %1.</source>
         <translation>Отображать панель меню в ростере</translation>
     </message>
     <message>
-        <source>Disables scrollbar in the application window.</source>
-        <translation type="vanished">Отключает полосу прокрутки в окне приложения.</translation>
-    </message>
-    <message>
-        <source>Disable scrollbar</source>
-        <translation type="vanished">Отключить полосу прокрутки</translation>
-    </message>
-    <message>
         <source>Enables avatar frame at the top of roster</source>
         <translation>Включить панель с аватаром вверху ростера</translation>
     </message>
@@ -10851,14 +9422,6 @@ Reason: %1.</source>
     <message>
         <source>OptApplicationUI</source>
         <translation>OptApplicationUI</translation>
-    </message>
-    <message>
-        <source>Hides scrollbar in the roster widget.</source>
-        <translation type="vanished">Скрывает полосу прокрутки в ростере.</translation>
-    </message>
-    <message>
-        <source>Disable scrollbar</source>
-        <translation type="vanished">Отключить полосу прокрутки</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -11224,10 +9787,6 @@ p, li { white-space: pre-wrap; }
         <translation>Форма</translation>
     </message>
     <message>
-        <source>Tunes</source>
-        <translation type="vanished">Музыка</translation>
-    </message>
-    <message>
         <source>Enter media file extensions to ignore them on tune sending</source>
         <translation>Введите расширения игнорируемых медиа файлов</translation>
     </message>
@@ -11271,10 +9830,6 @@ p, li { white-space: pre-wrap; }
         <translation>Изменить опцию %1</translation>
     </message>
     <message>
-        <source>Psi: Option Editor</source>
-        <translation type="vanished">Psi: Редактор опций</translation>
-    </message>
-    <message>
         <source>Can&apos;t edit this type of setting, sorry.</source>
         <translation>Нельзя редактировать этот тип настроек, жаль.</translation>
     </message>
@@ -11315,16 +9870,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>Play sound:</source>
         <translation>Играть звук:</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#attention_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>If you use this plugin at first time, make sure that all your accounts
-is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
-        <translation type="vanished">Если Вы используете плагин в первый раз — проверьте, что все Ваши аккаунты 
-подключены и после этого нажмите &quot;Обновить дни рождения&quot;. Это займёт некоторое время.</translation>
     </message>
     <message>
         <source>Update Birthdays</source>
@@ -11371,24 +9916,8 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Проверять дни рождения при старте</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#birthday_reminder_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Options</source>
         <translation>Настройки</translation>
-    </message>
-    <message>
-        <source>Auto-popup Captcha dialog</source>
-        <translation type="vanished">Автоматически выводить диалог ввода САРТСНА</translation>
-    </message>
-    <message>
-        <source>Use proxy settings from account</source>
-        <translation type="vanished">Использовать настройки прокси из аккаунта</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Contact menu</source>
@@ -11397,111 +9926,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Toolbar action</source>
         <translation>Панель инструментов</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_menu_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Supported accounts:</source>
-        <translation type="vanished">Поддерживаемые аккаунты:</translation>
-    </message>
-    <message>
-        <source>There is no supported accounts!</source>
-        <translation type="vanished">Нет поддерживаемых аккаунтов!</translation>
-    </message>
-    <message>
-        <source>Account Settings</source>
-        <translation type="vanished">Настройки аккаунта</translation>
-    </message>
-    <message>
-        <source> If set to &quot;true&quot;, the server will send
- notifications of unread email.</source>
-        <translation type="vanished"> Если установлено, сервер будет присылать
- уведомления о непрочитанных письмах.</translation>
-    </message>
-    <message>
-        <source>Mail notifications</source>
-        <translation type="vanished">Почтовые уведомления</translation>
-    </message>
-    <message>
-        <source> If set to &quot;true&quot;, the server will save
- Google Talk chats on the server;
- if set to &quot;false&quot;, no conversations
- will be logged.</source>
-        <translation type="vanished"> Если установлено, на сервере Google Talk
- будут сохраняться чаты.
- Если не установлено, никакие чаты
- не будут сохраняться.</translation>
-    </message>
-    <message>
-        <source>Message archiving</source>
-        <translation type="vanished">Архивирование сообщений</translation>
-    </message>
-    <message>
-        <source> If set to &quot;true&quot;, the server will
- automatically add people emailed
- often to the user&apos;s roster.</source>
-        <translation type="vanished"> Если установлено, сервер будет автоматически
- добавлять самые частые контакты из электронной почты
-  в ростер пользователя.</translation>
-    </message>
-    <message>
-        <source>Auto-accept suggestions</source>
-        <translation type="vanished">Автоматически принимать предложения</translation>
-    </message>
-    <message>
-        <source> Enable multiple applications signed in
- as the same user to report the same
- status message. </source>
-        <translation type="vanished"> Позволяет нескольким приложениям,
- подключенным к одному и тому же аккаунту,
- иметь одинаковый статус. </translation>
-    </message>
-    <message>
-        <source>Enable Shared Statuses</source>
-        <translation type="vanished">Разрешить общие статусы</translation>
-    </message>
-    <message>
-        <source> Google Talk server disables server-side
- logging of individual conversations and
- sends notifications.
- Enable &quot;Message archiving&quot; option for use!</source>
-        <translation type="vanished"> Google Talk сервер отключает сохранение
- истории на сервере для определённых контактов.
- Для работы опции необходимо включить &quot;Архивирование сообщений&quot;!</translation>
-    </message>
-    <message>
-        <source>Enable Off the Record Chats</source>
-        <translation type="vanished">Отключить запись чатов</translation>
-    </message>
-    <message>
-        <source> Enable &quot;Mail notifications&quot; option!</source>
-        <translation type="vanished">Включите &quot;Почтовые уведомления&quot;!</translation>
-    </message>
-    <message>
-        <source>Mail Notifications Settings</source>
-        <translation type="vanished">Параметры почтовых уведомлений</translation>
-    </message>
-    <message>
-        <source>Show all unread messages</source>
-        <translation type="vanished">Показывать все непрочитанные сообщения</translation>
-    </message>
-    <message>
-        <source>Show new messages only</source>
-        <translation type="vanished">Показывать только новые сообщения</translation>
-    </message>
-    <message>
-        <source>Start program:</source>
-        <translation type="vanished">Запустить программу:</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Manager</source>
-        <translation type="vanished">Менеджер</translation>
     </message>
     <message>
         <source>Add</source>
@@ -11520,28 +9944,8 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Экспорт</translation>
     </message>
     <message>
-        <source>Info</source>
-        <translation type="vanished">Информация</translation>
-    </message>
-    <message>
-        <source>Settings</source>
-        <translation type="vanished">Настройки</translation>
-    </message>
-    <message>
-        <source>Auto import a key from the message body</source>
-        <translation type="vanished">Автоматический импорт ключа из тела сообщения</translation>
-    </message>
-    <message>
-        <source>Filter the message with a key</source>
-        <translation type="vanished">Фильтровать сообщения с ключом</translation>
-    </message>
-    <message>
         <source>Delete</source>
         <translation>Удалить</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#jabber_disk_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Per contact delay between the popup notifications of the same events</source>
@@ -11582,10 +9986,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Sound:</source>
         <translation>Звук:</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#pep_change_notify_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Main</source>
@@ -11692,18 +10092,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Сохранять заблокированные сообщения в историю контакта</translation>
     </message>
     <message>
-        <source>Del</source>
-        <translation type="vanished">Удалить</translation>
-    </message>
-    <message>
         <source>Disable stopspam, if don&apos;t match any rule above
 (does not work for muc private messages)</source>
         <translation>Отключить АнтиСпам, если не подошло ни одно перечисленное правило
 (не работает для приватных сообщений в конференциях)</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#stop_spam_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Status</source>
@@ -11736,10 +10128,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Show Watch for JID button in contact context menu</source>
         <translation>Показывать кнопку включения слежения за JID&apos;ом в контекстном меню контакта</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#watcher_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>from file</source>
@@ -11780,10 +10168,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>All files (*)</source>
         <translation>Все файлы (*)</translation>
-    </message>
-    <message>
-        <source>GnuPG info</source>
-        <translation type="vanished">Информация GnuPG</translation>
     </message>
     <message>
         <source>Authorizing...</source>
@@ -12114,10 +10498,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Автоматически прокручивать основное окно так, чтобы вы могли сразу видеть новые сообщения.</translation>
     </message>
     <message>
-        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation type="vanished">Пропускать все &quot;объявления&quot;, например новости MSN, рекламу и т.д.</translation>
-    </message>
-    <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
         <translation>Пропускать все входящие сообщения с заголовками, такие как объявления и т.п.</translation>
     </message>
@@ -12301,21 +10681,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
 </context>
 <context>
-    <name>OptionsTabAvCall</name>
-    <message>
-        <source>Voice Calling</source>
-        <translation type="vanished">Звонки</translation>
-    </message>
-    <message>
-        <source>Audio and video device configuration</source>
-        <translation type="vanished">Настройка аудио/видео</translation>
-    </message>
-    <message>
-        <source>Audio device configuration</source>
-        <translation type="vanished">Настройка аудио</translation>
-    </message>
-</context>
-<context>
     <name>OptionsTabChat</name>
     <message>
         <source>Chat</source>
@@ -12352,26 +10717,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Makes Psi open chat windows in compact mode.</source>
         <translation>Открывать по умолчанию окна чатов в компактном режиме.</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Определяет, как долго история чата будет храниться в памяти после закрытия окна чата.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;При использовании этой опции история чата не хранится в памяти.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;При использовании этой опции история чата хранится в памяти в течение часа.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;При использовании этой опции история чата хранится в памяти в течение суток.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;При использовании этой опции история чата хранится в памяти всегда.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>Time (HH:mm)</source>
@@ -12529,10 +10874,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Транспорт</translation>
     </message>
     <message>
-        <source>vk.com</source>
-        <translation type="vanished">vk.com</translation>
-    </message>
-    <message>
         <source>Weather</source>
         <translation>Погода</translation>
     </message>
@@ -12605,10 +10946,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Показывает счётчик длины сообщений. Включите, если хотите знать длину своего сообщения - это может быть полезно при использовании транспорта SMS.</translation>
     </message>
     <message>
-        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation type="vanished">Отображать поступающие сообщения отформатированными в стиле, указанном отправителем</translation>
-    </message>
-    <message>
         <source>Never, only when asked</source>
         <translation>Никогда, только по запросу</translation>
     </message>
@@ -12653,12 +10990,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Options for Psi plugins</source>
         <translation>Настройки плагинов</translation>
-    </message>
-    <message>
-        <source>Plugin Path:
-%1</source>
-        <translation type="vanished">Расположение:
-%1</translation>
     </message>
     <message>
         <source>Show information about plugin</source>
@@ -13139,10 +11470,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Автоматически переходить в режим длительного отсутствия при бездействии в течение определённого периода времени.</translation>
     </message>
     <message>
-        <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the Jabber server.</source>
-        <translation type="vanished">Автоматически выходить из сети при бездействии в течение определённого периода времени.  Произойдёт отключение от сервера Jabber.</translation>
-    </message>
-    <message>
         <source>Specifies an extended message to use if you allow Psi to set your status automatically.  See options above.</source>
         <translation>Расширенное сообщение о состоянии при автоматическом изменении статуса. См. настройки выше.</translation>
     </message>
@@ -13192,10 +11519,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Fill in the priority that will be assigned to this preset. If no priority is given, the default account priority will be used.</source>
         <translation>Укажите приоритет этого шаблона. Если приоритет не указан, то будет использовать приоритет по умолчанию для этого аккаунта.</translation>
-    </message>
-    <message>
-        <source>Jabber allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
-        <translation type="vanished">В Jabber можно использовать расширенные сообщения о состоянии для всех статусов.  Обычно Psi не предлагает вам использовать их, когда вы устанавливаете статус &quot;в сети&quot;.  Включите эту опцию, если хотите воспользоваться этой возможностью.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -13303,10 +11626,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Форма</translation>
     </message>
     <message>
-        <source>General</source>
-        <translation type="vanished">Настройки</translation>
-    </message>
-    <message>
         <source>Account:</source>
         <translation>Аккаунт:</translation>
     </message>
@@ -13365,46 +11684,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Caps version</source>
         <translation>CAPS-версия</translation>
-    </message>
-    <message>
-        <source>Enable for:</source>
-        <translation type="vanished">Включить для:</translation>
-    </message>
-    <message>
-        <source>Contacts</source>
-        <translation type="vanished">Контактов</translation>
-    </message>
-    <message>
-        <source>Groupchats</source>
-        <translation type="vanished">Конференции</translation>
-    </message>
-    <message>
-        <source>Show popup at version iq</source>
-        <translation type="vanished">Всплывающее окно при запросе версии</translation>
-    </message>
-    <message>
-        <source>never</source>
-        <translation type="vanished">никогда</translation>
-    </message>
-    <message>
-        <source>if iq replaced</source>
-        <translation type="vanished">если заменён iq</translation>
-    </message>
-    <message>
-        <source>always</source>
-        <translation type="vanished">всегда</translation>
-    </message>
-    <message>
-        <source>Logs</source>
-        <translation type="vanished">Журнал</translation>
-    </message>
-    <message>
-        <source>View log</source>
-        <translation type="vanished">Показать журнал</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Shortcut:</source>
@@ -13475,10 +11754,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Изменить</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#screenshot_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Enable for players:</source>
         <translation>Включить для плееров:</translation>
     </message>
@@ -13505,14 +11780,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Delay before restoring status, sec</source>
         <translation>Задержка перед восстановлением статуса, сек</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#video_status_changer_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Save queries to log</source>
-        <translation type="vanished">Сохранять запросы в журнал</translation>
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
@@ -13565,10 +11832,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Выберите ключ.</translation>
     </message>
     <message>
-        <source>Key Storage Diagnostic Text</source>
-        <translation type="vanished">Текст диагностики ключа защиты памяти</translation>
-    </message>
-    <message>
         <source>GnuPG info</source>
         <translation>Информация GnuPG</translation>
     </message>
@@ -13601,56 +11864,8 @@ Reason: %1.</source>
         <translation>Неверный пароль аккаунта</translation>
     </message>
     <message>
-        <source>Save Password</source>
-        <translation type="vanished">Сохранить пароль</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation type="vanished">ОК</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">Отмена</translation>
-    </message>
-    <message>
         <source>Please enter your password for %1:</source>
         <translation>Пожалуйста, введите пароль для %1:</translation>
-    </message>
-</context>
-<context>
-    <name>Passphrase</name>
-    <message>
-        <source>OpenPGP Passphrase</source>
-        <translation type="vanished">Ключевая фраза OpenPGP</translation>
-    </message>
-    <message>
-        <source>Your passphrase is needed to use OpenPGP security.
-Please enter your passphrase below:</source>
-        <translation type="vanished">Для использования шифрования OpenPGP нужна ваша ключевая фраза.
-Введите ключевую фразу:</translation>
-    </message>
-    <message>
-        <source>Remember passphrase</source>
-        <translation type="vanished">Запомнить ключевую фразу</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">О&amp;тмена</translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation type="vanished">&amp;ОК</translation>
-    </message>
-    <message>
-        <source>psi/keys64</source>
-        <translation type="vanished">psi/keys64</translation>
-    </message>
-</context>
-<context>
-    <name>PassphraseDlg</name>
-    <message>
-        <source>%1: OpenPGP Passphrase</source>
-        <translation type="vanished">%1: ключевая фраза OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -13689,14 +11904,6 @@ Please enter your passphrase below:</source>
     <message>
         <source>Sound (*.wav)</source>
         <translation>Звуковой файл (*.wav)</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Автор: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">E-Mail: </translation>
     </message>
     <message>
         <source>This plugin shows popup notifications when users from your roster changes their mood, tune or activity.</source>
@@ -13940,33 +12147,6 @@ Please enter your passphrase below:</source>
     </message>
 </context>
 <context>
-    <name>PreferencesWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">Форма</translation>
-    </message>
-    <message>
-        <source>@username</source>
-        <translation type="vanished">@пользователь</translation>
-    </message>
-    <message>
-        <source>#post_id</source>
-        <translation type="vanished">#id сообщения</translation>
-    </message>
-    <message>
-        <source>* tag</source>
-        <translation type="vanished">*тег</translation>
-    </message>
-    <message>
-        <source>&gt; quote</source>
-        <translation type="vanished">&gt;цитата</translation>
-    </message>
-    <message>
-        <source>message</source>
-        <translation type="vanished">сообщение</translation>
-    </message>
-</context>
-<context>
     <name>PreviewFileDialog</name>
     <message>
         <source>Preview</source>
@@ -14205,169 +12385,7 @@ Please enter your passphrase below:</source>
     </message>
 </context>
 <context>
-    <name>ProfileManage</name>
-    <message>
-        <source>Manage Profiles</source>
-        <translation type="vanished">Работа с профилями</translation>
-    </message>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="vanished">&amp;Добавить</translation>
-    </message>
-    <message>
-        <source>psi/addContact</source>
-        <translation type="vanished">psi/addContact</translation>
-    </message>
-    <message>
-        <source>&amp;Rename</source>
-        <translation type="vanished">&amp;Переименовать</translation>
-    </message>
-    <message>
-        <source>Rem&amp;ove</source>
-        <translation type="vanished">&amp;Удалить</translation>
-    </message>
-    <message>
-        <source>psi/remove</source>
-        <translation type="vanished">psi/remove</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileManageDlg</name>
-    <message>
-        <source>Rename Profile</source>
-        <translation type="vanished">Переименовать профиль</translation>
-    </message>
-    <message>
-        <source>Please enter a new name for the profile.  Keep it simple.
-Only use letters or numbers.  No punctuation or spaces.</source>
-        <translation type="vanished">Введите новое название профиля. Желательно, чтобы оно было простым.
-Можно использовать только буквы и цифры. Пробелы и знаки препинания использовать нельзя.</translation>
-    </message>
-    <message>
-        <source>There is already another profile with this name.  Please choose another.</source>
-        <translation type="vanished">Профиль с таким названием уже существует. Введите другое.</translation>
-    </message>
-    <message>
-        <source>Unable to rename the profile.  Please do not use any special characters.</source>
-        <translation type="vanished">Невозможно переименовать профиль. Используйте только буквы и цифры.</translation>
-    </message>
-    <message>
-        <source>Delete Profile</source>
-        <translation type="vanished">Удалить профиль</translation>
-    </message>
-    <message>
-        <source>&lt;qt&gt;Are you sure you want to delete the &quot;&lt;b&gt;%1&lt;/b&gt;&quot; profile?  This will delete all of the profile&apos;s message history as well as associated settings!&lt;/qt&gt;</source>
-        <translation type="vanished">&lt;qt&gt;Удалить профиль &quot;&lt;b&gt;%1&lt;/b&gt;&quot;? При этом также будут удалены его история сообщений и настройки!&lt;/qt&gt;</translation>
-    </message>
-    <message>
-        <source>No, I changed my mind</source>
-        <translation type="vanished">Нет, я передумал</translation>
-    </message>
-    <message>
-        <source>Delete it!</source>
-        <translation type="vanished">Удалить!</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Нет</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Да</translation>
-    </message>
-    <message>
-        <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
-&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-Proceed?</source>
-        <translation type="vanished">&lt;qt&gt;Внимание! Данные папки будут удалены!&lt;br&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-Удалить?</translation>
-    </message>
-    <message>
-        <source>Unable to delete the folders completely.  Ensure you have the proper permission.</source>
-        <translation type="vanished">Невозможно удалить папки полностью. Убедитесь, что для этого у вас достаточно прав.</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileNew</name>
-    <message>
-        <source>New Profile</source>
-        <translation type="vanished">Новый профиль</translation>
-    </message>
-    <message>
-        <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
-&lt;br&gt;
-The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; (ICQ style) and&lt;b&gt; Chat&lt;/b&gt; (AIM style). You can change this later from the Options menu.&lt;br&gt;
-&lt;br&gt;
-Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation type="vanished">Выберите простое и понятное &lt;i&gt;Название профиля&lt;/i&gt;. Оно должно быть словом, состоящим только из букв и цифр.&lt;br&gt;
-&lt;br&gt;
-&lt;i&gt;Действие по умолчанию&lt;/i&gt; - действие, которое происходит при двойном щелчке на контакте в вашем списке. Возможные варианты: &lt;b&gt;Сообщение&lt;/b&gt; (как в ICQ) или &lt;b&gt;Чат&lt;/b&gt; (как в AIM). Этот режим можно будет сменить позже в меню настройки.&lt;br&gt;
-&lt;br&gt;
-Включите опцию &lt;i&gt;Разрешить смайлы&lt;/i&gt;, если хотите, чтобы вместо символов типа &lt;b&gt;:-)&lt;/b&gt; выводились их графические варианты: &lt;icon name=&quot;smile&quot;&gt;.</translation>
-    </message>
-    <message>
-        <source>Profile Name:</source>
-        <translation type="vanished">Название профиля:</translation>
-    </message>
-    <message>
-        <source>Default Action</source>
-        <translation type="vanished">Действие по умолчанию</translation>
-    </message>
-    <message>
-        <source>Enable Emoticons</source>
-        <translation type="vanished">Разрешить смайлы</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Закрыть</translation>
-    </message>
-    <message>
-        <source>&amp;Create</source>
-        <translation type="vanished">&amp;Создать</translation>
-    </message>
-    <message>
-        <source>Alt+C</source>
-        <translation type="vanished">Alt+C</translation>
-    </message>
-    <message>
-        <source>psi/addContact</source>
-        <translation type="vanished">psi/addContact</translation>
-    </message>
-    <message>
-        <source>&amp;Message</source>
-        <translation type="vanished">&amp;Сообщение</translation>
-    </message>
-    <message>
-        <source>&amp;Chat</source>
-        <translation type="vanished">&amp;Чат</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileNewDlg</name>
-    <message>
-        <source>New Profile</source>
-        <translation type="vanished">Новый профиль</translation>
-    </message>
-    <message>
-        <source>There is already an existing profile with this name.  Please choose another.</source>
-        <translation type="vanished">Профиль с таким названием уже существует. Укажите другое название.</translation>
-    </message>
-    <message>
-        <source>Unable to create the profile.  Please do not use any special characters.</source>
-        <translation type="vanished">Невозможно создать профиль с таким названием. Используйте только буквы и цифры.</translation>
-    </message>
-</context>
-<context>
     <name>ProfileOpen</name>
-    <message>
-        <source>Open Profile</source>
-        <translation type="vanished">Выбор профиля</translation>
-    </message>
-    <message>
-        <source>left</source>
-        <translation type="vanished">left</translation>
-    </message>
     <message>
         <source>Image goes here</source>
         <translation>Изображение</translation>
@@ -14375,42 +12393,6 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <source>right</source>
         <translation>right</translation>
-    </message>
-    <message>
-        <source>Profile:</source>
-        <translation type="vanished">Профиль:</translation>
-    </message>
-    <message>
-        <source>&amp;Automatically open on startup</source>
-        <translation type="vanished">&amp;Автоматически открывать при запуске</translation>
-    </message>
-    <message>
-        <source>Language:</source>
-        <translation type="vanished">Язык:</translation>
-    </message>
-    <message>
-        <source>&amp;Quit</source>
-        <translation type="vanished">&amp;Выход</translation>
-    </message>
-    <message>
-        <source>psi/quit</source>
-        <translation type="vanished">psi/quit</translation>
-    </message>
-    <message>
-        <source>&amp;Profiles...</source>
-        <translation type="vanished">&amp;Профили...</translation>
-    </message>
-    <message>
-        <source>psi/profile</source>
-        <translation type="vanished">psi/profile</translation>
-    </message>
-    <message>
-        <source>&amp;Open</source>
-        <translation type="vanished">О&amp;ткрыть</translation>
-    </message>
-    <message>
-        <source>psi/logo_16</source>
-        <translation type="vanished">psi/logo_16</translation>
     </message>
     <message>
         <source>Profiles</source>
@@ -14443,18 +12425,6 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
 </context>
 <context>
     <name>ProfileOpenDlg</name>
-    <message>
-        <source>Select a profile to open from this list.</source>
-        <translation type="vanished">Выберите профиль из списка.</translation>
-    </message>
-    <message>
-        <source>Select a language you would like Psi to use from this list.  You can download extra language packs from the Psi homepage.</source>
-        <translation type="vanished">Выберите язык интерфейса. Вы можете загрузить дополнительные пакеты локализации с домашней страницы Psi+.</translation>
-    </message>
-    <message>
-        <source>Automatically open this profile when Psi is started.  Useful if you only have one profile.</source>
-        <translation type="vanished">Автоматически открывать этот профиль при запуске. Удобно, если у вас всего один профиль.</translation>
-    </message>
     <message>
         <source>Double-click or press F2 to rename a profile. Press Delete to remove it.</source>
         <translation>Дважды щёлкните или нажмите F2, чтобы переименовать профиль. Нажмите Delete, чтобы удалить его.</translation>
@@ -14724,14 +12694,6 @@ Do you want to log out ?</source>
         <translation>Невозможно подключиться: Шифрование включено, но QCA2 SSL/TLS модуль недоступен.</translation>
     </message>
     <message>
-        <source>Feature Removed</source>
-        <translation type="vanished">Возможность удалена</translation>
-    </message>
-    <message>
-        <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
-        <translation type="vanished">В настройках этого аккаунта была указана опция &quot;Использовать стандартный порт SSL&quot;, но эта возможность больше не поддерживается. Удаление этой опции не затронет вас, если используемый вами XMPP сервер не слишком древний. Если проблемы с подключением все же возникли, проверьте настройки аккаунта или свяжитесь с администратором XMPP сервера.</translation>
-    </message>
-    <message>
         <source>Server Authentication</source>
         <translation>Аутентификация</translation>
     </message>
@@ -14958,12 +12920,6 @@ Details: %1</source>
         <translation>Объявление</translation>
     </message>
     <message>
-        <source>There was an error trying to sign your status.
-Reason: %1.</source>
-        <translation type="vanished">Произошла ошибка установки вашего состояния.
-Причина: %1.</translation>
-    </message>
-    <message>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]</translation>
     </message>
@@ -14978,24 +12934,8 @@ Reason: %1.</source>
 Это могло произойти, если у вас нет ключа, который контакт указывает в своём &quot;подписанном присутствии&quot;, или он вообще не указывает ключа.&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>&amp;Choose key manually</source>
-        <translation type="vanished">&amp;Выбрать ключ вручную</translation>
-    </message>
-    <message>
-        <source>Do &amp;nothing</source>
-        <translation type="vanished">О&amp;тмена</translation>
-    </message>
-    <message>
         <source>Public Key: %1</source>
         <translation>Публичный ключ: %1</translation>
-    </message>
-    <message>
-        <source>Nested Groups Delimiter</source>
-        <translation type="vanished">Разделитель вложенных групп</translation>
-    </message>
-    <message>
-        <source>Set a new delimiter of nested groups</source>
-        <translation type="vanished">Установить новый разделитель вложенных групп</translation>
     </message>
     <message>
         <source>Cannot connect: Encryption is enabled but no QCA keystore manager is not available.</source>
@@ -15028,10 +12968,6 @@ Reason: %1.</source>
     <message>
         <source>Malformed request</source>
         <translation>Повреждённый запрос</translation>
-    </message>
-    <message>
-        <source>Open Files For Sharing</source>
-        <translation type="vanished">Открыть файлы для отправки</translation>
     </message>
     <message>
         <source>Keychain failure</source>
@@ -15161,10 +13097,6 @@ Reason: %1.</source>
         <translation>Удобный способ для изменения/просмотра текущего статуса</translation>
     </message>
     <message>
-        <source>Special item that displays number of pending events</source>
-        <translation type="vanished">Число полученных сообщений</translation>
-    </message>
-    <message>
         <source>Active contacts</source>
         <translation>Активные контакты</translation>
     </message>
@@ -15179,10 +13111,6 @@ Reason: %1.</source>
     <message>
         <source>&amp;Add a Contact</source>
         <translation>&amp;Добавить контакт</translation>
-    </message>
-    <message>
-        <source>&amp;XML Console</source>
-        <translation type="vanished">&amp;Консоль XML</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
@@ -15203,14 +13131,6 @@ Reason: %1.</source>
     <message>
         <source>Join &amp;Groupchat</source>
         <translation>Войти в кон&amp;ференцию</translation>
-    </message>
-    <message>
-        <source>Account Setup</source>
-        <translation type="vanished">Настройки аккаунта</translation>
-    </message>
-    <message>
-        <source>Acc&amp;ount Setup</source>
-        <translation type="vanished">&amp;Аккаунты </translation>
     </message>
     <message>
         <source>Options</source>
@@ -15237,16 +13157,8 @@ Reason: %1.</source>
         <translation>С&amp;менить профиль</translation>
     </message>
     <message>
-        <source>Play Sounds</source>
-        <translation type="vanished">Включить звуки</translation>
-    </message>
-    <message>
         <source>Play &amp;Sounds</source>
         <translation>Включить &amp;звуки</translation>
-    </message>
-    <message>
-        <source>Toggles whether sound should be played or not</source>
-        <translation type="vanished">Переключить воспроизведение звуков</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -15259,18 +13171,6 @@ Reason: %1.</source>
     <message>
         <source>Quits Psi</source>
         <translation>Выход из Psi</translation>
-    </message>
-    <message>
-        <source>Tip of the Day</source>
-        <translation type="vanished">Совет дня</translation>
-    </message>
-    <message>
-        <source>&amp;Tip of the Day</source>
-        <translation type="vanished">&amp;Совет дня</translation>
-    </message>
-    <message>
-        <source>See many useful tips</source>
-        <translation type="vanished">Просмотр многих полезных советов</translation>
     </message>
     <message>
         <source>Transfer Manager</source>
@@ -15421,30 +13321,6 @@ Reason: %1.</source>
         <translation>&amp;Домашняя страница</translation>
     </message>
     <message>
-        <source>Psi+ Forum (Online)</source>
-        <translation type="vanished">Форум Psi+</translation>
-    </message>
-    <message>
-        <source>Psi+ &amp;Forum (Online)</source>
-        <translation type="vanished">&amp;Форум Psi+</translation>
-    </message>
-    <message>
-        <source>Join Psi+ Discussion Room (Online)</source>
-        <translation type="vanished">Конференция обсуждения Psi+</translation>
-    </message>
-    <message>
-        <source>&amp;Join Psi+ Discussion Room (Online)</source>
-        <translation type="vanished">Войти в &amp;конференцию обсуждения Psi+</translation>
-    </message>
-    <message>
-        <source>Check for Updates...</source>
-        <translation type="vanished">Проверка обновлений...</translation>
-    </message>
-    <message>
-        <source>&amp;Check for Updates...</source>
-        <translation type="vanished">&amp;Проверка обновлений...</translation>
-    </message>
-    <message>
         <source>Report a Bug (Online)</source>
         <translation>Сообщить об ошибке</translation>
     </message>
@@ -15533,10 +13409,6 @@ Reason: %1.</source>
         <translation>Отправить файл</translation>
     </message>
     <message>
-        <source>Toggle Encryption</source>
-        <translation type="vanished">Переключить шифрование</translation>
-    </message>
-    <message>
         <source>User Info</source>
         <translation>vCard</translation>
     </message>
@@ -15563,14 +13435,6 @@ Reason: %1.</source>
     <message>
         <source>Plugins</source>
         <translation>Плагины</translation>
-    </message>
-    <message>
-        <source>Pin Tab</source>
-        <translation type="vanished">Закрепить вкладку</translation>
-    </message>
-    <message>
-        <source>Unpin Tab</source>
-        <translation type="vanished">Открепить вкладку</translation>
     </message>
     <message>
         <source>Templates</source>
@@ -15666,10 +13530,6 @@ Reason: %1.</source>
         <translation>Ошибка: Невозможно разобрать команду: </translation>
     </message>
     <message>
-        <source>Command&gt;</source>
-        <translation type="vanished">Команда&gt;</translation>
-    </message>
-    <message>
         <source>turn off autojid</source>
         <translation>Выключить autojid</translation>
     </message>
@@ -15678,28 +13538,8 @@ Reason: %1.</source>
         <translation>Включить autojid</translation>
     </message>
     <message>
-        <source>Paste and Send</source>
-        <translation type="vanished">Вставить и отправить</translation>
-    </message>
-    <message>
-        <source>Enable OpenPGP encryption</source>
-        <translation type="vanished">Включить шифрование OpenPGP</translation>
-    </message>
-    <message>
-        <source>OpenPGP key is not set in your account settings!</source>
-        <translation type="vanished">Ключ OpenPGP не указан в настройках вашего аккаунта!</translation>
-    </message>
-    <message>
         <source>Fingerprint for account &quot;%1&quot;: %2</source>
         <translation>Отпечаток для аккаунта &quot;%1&quot;: %2</translation>
-    </message>
-    <message>
-        <source>OpenPGP encryption</source>
-        <translation type="vanished">Шифрование OpenPGP</translation>
-    </message>
-    <message>
-        <source>Disable OpenPGP encryption</source>
-        <translation type="vanished">Отключить шифрование OpenPGP</translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
@@ -15910,10 +13750,6 @@ Reason: %1.</source>
         <translation>URL</translation>
     </message>
     <message>
-        <source>Psi - The Cross-Platform XMPP Client For Power Users</source>
-        <translation type="vanished">Psi+ — мультиплатформенный XMPP-клиент для опытных пользователей</translation>
-    </message>
-    <message>
         <source>Options:</source>
         <translation>Параметры:</translation>
     </message>
@@ -15925,10 +13761,6 @@ Reason: %1.</source>
     <message>
         <source>Go to &lt;https://psi-im.org/&gt; for more information about Psi.</source>
         <translation>Посетите &lt;http://psi-im.org/&gt; для получения информации о Psi.</translation>
-    </message>
-    <message>
-        <source>Psi is a cross-platform XMPP client aimed at experienced users.</source>
-        <translation type="vanished">Psi — мультиплатформенный XMPP-клиент для опытных пользователей.</translation>
     </message>
     <message>
         <source>Psi is a cross-platform XMPP client designed for experienced users.</source>
@@ -15952,10 +13784,6 @@ Reason: %1.</source>
     <message>
         <source>Unable to load iconset!  Please make sure Psi is properly installed.</source>
         <translation>Невозможно загрузить набор иконок! Проверьте установку Psi+.</translation>
-    </message>
-    <message>
-        <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
-        <translation type="vanished">Невозможно загрузить тему!  Пожалуйста, проверьте, что Psi+ правильно установлена.</translation>
     </message>
     <message>
         <source>Please disconnect before changing the profile.</source>
@@ -15984,10 +13812,6 @@ Reason: %1.</source>
     <message>
         <source>You can not disable &lt;i&gt;all&lt;/i&gt; toolbars &lt;i&gt;and&lt;/i&gt; the menubar. If you do so, you will be unable to enable them back, when you&apos;ll change your mind.</source>
         <translation>Вы не можете отключить &lt;i&gt;все&lt;/i&gt; инструментальные панели &lt;i&gt;и&lt;/i&gt; строку меню. Если Вы сделаете так, то будете неспособны вернуть их назад, когда вы передумаете.</translation>
-    </message>
-    <message>
-        <source>I understand</source>
-        <translation type="vanished">Я понимаю</translation>
     </message>
     <message>
         <source>Call ended</source>
@@ -16096,10 +13920,6 @@ Migration is possible with Psi-0.15</source>
         <translation>Открыть окно &amp;чата</translation>
     </message>
     <message>
-        <source>Open a &amp;Whiteboard</source>
-        <translation type="vanished">Открыть &amp;доску для рисования</translation>
-    </message>
-    <message>
         <source>Voice Call</source>
         <translation>Позвонить</translation>
     </message>
@@ -16118,14 +13938,6 @@ Migration is possible with Psi-0.15</source>
     <message>
         <source>&amp;Clear Custom Picture</source>
         <translation>&amp;Удалить аватар</translation>
-    </message>
-    <message>
-        <source>Assign Open&amp;PGP Key</source>
-        <translation type="vanished">Присвоить ключ Open&amp;PGP</translation>
-    </message>
-    <message>
-        <source>Unassign Open&amp;PGP Key</source>
-        <translation type="vanished">Убрать ключ Open&amp;PGP</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
@@ -16200,14 +14012,6 @@ Migration is possible with Psi-0.15</source>
         <translation>Удалить подписку у &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Да</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Нет</translation>
-    </message>
-    <message>
         <source>Choose an Image</source>
         <translation>Выберите изображение</translation>
     </message>
@@ -16250,10 +14054,6 @@ Migration is possible with Psi-0.15</source>
     <message>
         <source>Open Chat &amp;To</source>
         <translation>Открыть чат</translation>
-    </message>
-    <message>
-        <source>Open a White&amp;board To</source>
-        <translation type="vanished">Открыть доску для рисования</translation>
     </message>
     <message>
         <source>&amp;Active Chats</source>
@@ -16616,10 +14416,6 @@ Would you like to activate that session now?</source>
         <translation>Показ контактов</translation>
     </message>
     <message>
-        <source>Event notifier</source>
-        <translation type="vanished">Обработка событий</translation>
-    </message>
-    <message>
         <source>Auto Status (idle)</source>
         <translation>Автостатус (неактивен)</translation>
     </message>
@@ -16633,14 +14429,6 @@ Would you like to activate that session now?</source>
     <message>
         <source>(no selection)</source>
         <translation>(нет выделения)</translation>
-    </message>
-    <message>
-        <source>Flat</source>
-        <translation type="vanished">Развёрнуто</translation>
-    </message>
-    <message>
-        <source>Display all options as a flat list.</source>
-        <translation type="vanished">Показать все опции развёрнуто</translation>
     </message>
     <message>
         <source>Delete...</source>
@@ -16659,14 +14447,6 @@ Would you like to activate that session now?</source>
         <translation>Добавить...</translation>
     </message>
     <message>
-        <source>Open a detached option editor window.</source>
-        <translation type="vanished">Открыть отдельное окно редактора опции.</translation>
-    </message>
-    <message>
-        <source>Advanced</source>
-        <translation type="vanished">Дополнительно</translation>
-    </message>
-    <message>
         <source>(internal node)</source>
         <translation>(внутренний узел)</translation>
     </message>
@@ -16681,10 +14461,6 @@ Would you like to activate that session now?</source>
     <message>
         <source>Really delete all options starting with %1.?</source>
         <translation>Действительно удалите все опции, начинающиеся с %1.?</translation>
-    </message>
-    <message>
-        <source>Psi+: Option Editor</source>
-        <translation type="vanished">Psi+: Редактор опций</translation>
     </message>
     <message>
         <source>Really reset options %1 to default value?</source>
@@ -16783,40 +14559,10 @@ Would you like to activate that session now?</source>
     </message>
 </context>
 <context>
-    <name>PsiThumbnailToolBar</name>
-    <message>
-        <source>Options</source>
-        <translation type="vanished">Опции</translation>
-    </message>
-    <message>
-        <source>Online</source>
-        <translation type="vanished">Доступен</translation>
-    </message>
-    <message>
-        <source>Offline</source>
-        <translation type="vanished">Отключён</translation>
-    </message>
-    <message>
-        <source>Show Next Event</source>
-        <translation type="vanished">Показать следующее сообщение</translation>
-    </message>
-</context>
-<context>
     <name>PsiToolBar</name>
     <message>
         <source>&amp;Configure Toolbar...</source>
         <translation>Настроить панель &amp;инструментов...</translation>
-    </message>
-</context>
-<context>
-    <name>PsiWindowHeader</name>
-    <message>
-        <source>PsiWindowHeader</source>
-        <translation type="vanished">PsiWindowHeader</translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation type="vanished">...</translation>
     </message>
 </context>
 <context>
@@ -17769,50 +15515,6 @@ Description: </source>
         <source>&lt;unnamed%1&gt;</source>
         <translation>&lt;без имени%1&gt;</translation>
     </message>
-    <message>
-        <source>Invalid passphrase</source>
-        <translation type="vanished">Неправильный пароль</translation>
-    </message>
-    <message>
-        <source>Invalid input format</source>
-        <translation type="vanished">Недействительный формат</translation>
-    </message>
-    <message>
-        <source>Signing key expired</source>
-        <translation type="vanished">Подписывающий ключ устарел</translation>
-    </message>
-    <message>
-        <source>Invalid key</source>
-        <translation type="vanished">Недействительный ключ</translation>
-    </message>
-    <message>
-        <source>Encrypting key expired</source>
-        <translation type="vanished">Шифрующий ключ устарел</translation>
-    </message>
-    <message>
-        <source>Encrypting key is untrusted</source>
-        <translation type="vanished">Шифрующий ключ не заверен</translation>
-    </message>
-    <message>
-        <source>Encrypting key is invalid</source>
-        <translation type="vanished">Шифрующий ключ недействителен</translation>
-    </message>
-    <message>
-        <source>PGP card is missing</source>
-        <translation type="vanished">PGP карта отсутствует</translation>
-    </message>
-    <message>
-        <source>Unknown error</source>
-        <translation type="vanished">Неизвестная ошибка</translation>
-    </message>
-    <message>
-        <source>Socket Error</source>
-        <translation type="vanished">Ошибка сокета</translation>
-    </message>
-    <message>
-        <source>Cannot create a server socket!</source>
-        <translation type="vanished">Невозможно создать сокет сервера!</translation>
-    </message>
     <message numerus="yes">
         <source>%n day(s) </source>
         <translation>
@@ -17918,10 +15620,6 @@ The message was not sent.</source>
         <translation>неизвестный</translation>
     </message>
     <message>
-        <source>Psi OTR</source>
-        <translation type="vanished">Psi+ OTR</translation>
-    </message>
-    <message>
         <source>Failed to generate keys for account &quot;%1&quot;.
 The OTR Plugin will not work.</source>
         <translation>Не удалось сгенерировать ключи для аккаунта &quot;%1&quot;.
@@ -17936,20 +15634,8 @@ OTR плагин не будет работать.</translation>
         <translation>Сообщение не было отправлено. Либо завершите частную беседу, либо перезапустите её.</translation>
     </message>
     <message>
-        <source>Unreadable encrypted message was received.</source>
-        <translation type="vanished">Получено повреждённое зашифрованное сообщение.</translation>
-    </message>
-    <message>
-        <source>Received an encrypted message but it cannot be read because no private connection is established yet.</source>
-        <translation type="vanished">Получено зашифрованное сообщение, но оно не может быть расшифровано, поскольку частная беседа еще не начата.</translation>
-    </message>
-    <message>
         <source>Received message is unreadable.</source>
         <translation>Полученное сообщение не может быть прочитано.</translation>
-    </message>
-    <message>
-        <source>Received message contains malformed data.</source>
-        <translation type="vanished">Полученное сообщение содержит поврежденные данные.</translation>
     </message>
     <message>
         <source>You have received a new fingerprint from %1:
@@ -18314,14 +16000,6 @@ URL: %4
         <translation>За исключением этого компьютера</translation>
     </message>
     <message>
-        <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
-
-Do you want to generate keys now?</source>
-        <translation type="vanished">Необходимо сгенерировать личные ключи для аккаунта &quot;%1&quot;. Это займет какое-то время (от пары секунд до нескольких минут). Вы сможете использовать Psi+ в это время, но все сообщения будут незашифрованными, пока ключи не сгенерируются.
-
-Сгенерировать ключи сейчас?</translation>
-    </message>
-    <message>
         <source>Keys have been generated. Fingerprint for account &quot;%1&quot;:
 %2
 
@@ -18563,18 +16241,6 @@ Thanks for your patience.</source>
 <context>
     <name>QipXStatuses</name>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#qip_x-statuses_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Автор: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">E-Mail: </translation>
-    </message>
-    <message>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
         <translation>Данный плагин позволяет отображать X-Статусы контактов, которые используют QIP Infium в качестве Jabber-клиента.</translation>
     </message>
@@ -18619,14 +16285,6 @@ Thanks for your patience.</source>
     <message>
         <source>&lt;qt&gt;Registration has already been submitted, so closing this window will not prevent the registration from happening.  Do you still wish to close?&lt;/qt&gt;</source>
         <translation>&lt;qt&gt;Регистрационная информация уже отправлена, поэтому закрытие этого окна ни к чему не приведёт. Закрыть его?&lt;/qt&gt;</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Да</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Нет</translation>
     </message>
     <message>
         <source>Fetching registration form for %1 ...</source>
@@ -18700,14 +16358,6 @@ Reason: %1</source>
         <translation>Звуковой файл (*.wav)</translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Автор: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">E-Mail: </translation>
-    </message>
-    <message>
         <source>This plugin is designed to show reminders of upcoming birthdays.
 The first time you install this plugin, you need to log on to all of your accounts, go to the plugin settings and click &quot;Update Birthdays&quot;.The plugin will then collect the information about the birthdays of all the users in your roster, but when the &apos;Use vCards cache&apos; option isselected, the users&apos; vCards that are cached on your hard disk will be used. </source>
         <translation>Данный плагин предназначен для напоминаний о приближающихся днях рождения.
@@ -18719,21 +16369,6 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <source>[blank]</source>
         <translation>[пусто]</translation>
-    </message>
-</context>
-<context>
-    <name>RipperCCOptions</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">Форма</translation>
-    </message>
-    <message>
-        <source> min.</source>
-        <translation type="vanished"> мин.</translation>
-    </message>
-    <message>
-        <source>Attention interval: </source>
-        <translation type="vanished">Длительность привлечения внимания: </translation>
     </message>
 </context>
 <context>
@@ -18973,10 +16608,6 @@ The first time you install this plugin, you need to log on to all of your accoun
         <translation>Отправить изображение</translation>
     </message>
     <message>
-        <source>Authors: </source>
-        <translation type="vanished">Авторы: </translation>
-    </message>
-    <message>
         <source>This plugin allows you to make screenshots and save them to your hard drive or upload them to an FTP or HTTP server.
 The plugin has the following settings:
 * Shortcut -- hotkey to make the screenshot (by default, Ctrl+Alt+P)
@@ -19120,37 +16751,6 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>SelectGame</name>
-    <message>
-        <source>New game with...</source>
-        <translation type="vanished">Создать игру с...</translation>
-    </message>
-    <message>
-        <source>To play with </source>
-        <translation type="vanished">Играть с </translation>
-    </message>
-    <message>
-        <source>Choose your game</source>
-        <translation type="vanished">Выберите игру</translation>
-    </message>
-    <message>
-        <source>White game</source>
-        <translation type="vanished">Игра белыми</translation>
-    </message>
-    <message>
-        <source>Black game</source>
-        <translation type="vanished">Игра черными</translation>
-    </message>
-    <message>
-        <source>Play!</source>
-        <translation type="vanished">Играть!</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">Отмена</translation>
-    </message>
-</context>
-<context>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Template editor</source>
@@ -19245,29 +16845,10 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>SeparatorAction</name>
-    <message>
-        <source>&lt;Separator&gt;</source>
-        <translation type="vanished">&lt;Разделитель&gt;</translation>
-    </message>
-    <message>
-        <source>Separator</source>
-        <translation type="vanished">Разделитель</translation>
-    </message>
-</context>
-<context>
     <name>ServerListQuerier</name>
     <message>
         <source>Unable to parse server list</source>
         <translation>Невозможно обработать список серверов</translation>
-    </message>
-    <message>
-        <source>Maximum redirect count reached</source>
-        <translation type="vanished">Достигнут максимум перенаправления</translation>
-    </message>
-    <message>
-        <source>Invalid redirect URL %1</source>
-        <translation type="vanished">Неверное перенаправление URL %1</translation>
     </message>
     <message>
         <source>Unexpected HTTP status code: %1</source>
@@ -19343,10 +16924,6 @@ Reason: %1</source>
     <message>
         <source>Enable Groups</source>
         <translation>Включить группы</translation>
-    </message>
-    <message>
-        <source>Event Notifier</source>
-        <translation type="vanished">Обработка событий</translation>
     </message>
     <message>
         <source>View Groups</source>
@@ -19443,10 +17020,6 @@ Reason: %1</source>
     <message>
         <source>README</source>
         <translation>Инструкции</translation>
-    </message>
-    <message>
-        <source>Tips</source>
-        <translation type="vanished">Советы</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
@@ -19666,17 +17239,6 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>ShowChangeLogForm</name>
-    <message>
-        <source>New version is available!</source>
-        <translation type="vanished">Доступна новая версия!</translation>
-    </message>
-    <message>
-        <source>Open download page?</source>
-        <translation type="vanished">Открыть страницу загрузки?</translation>
-    </message>
-</context>
-<context>
     <name>ShowPhotoDlg</name>
     <message>
         <source>Photo Preview: %1</source>
@@ -19775,10 +17337,6 @@ Reason: %1</source>
     <message>
         <source>Backup skin before applying</source>
         <translation>Сделать резервную копию скина перед применением</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#skins_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Choose a skin file</source>
@@ -19981,14 +17539,6 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
         <translation> прошёл тест</translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Автор: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">E-Mail: </translation>
-    </message>
-    <message>
         <source>This plugin is designed to block spam messages and other unwanted information from Psi users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
 With the plugin settings you can:
 * Define a security question and the answer
@@ -20060,28 +17610,8 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
 <context>
     <name>StorageNotesPlugin</name>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#storage_notes_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Storage Notes</source>
         <translation>Записная книжка</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Автор: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">E-Mail: </translation>
-    </message>
-    <message>
-        <source>This plugin is an implementation of XEP-0049: Private XML Storage.
-The plugin is fully compatible with notes saved using Miranda IM.
-The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi or Miranda IM.</source>
-        <translation type="vanished">Данный плагин представляет собой реализацию XEP-0049: Private XML Storage.
-Плагин полностью совместим с заметками, сохранёнными из клиента Miranda IM.
-Предназначен для хранения заметок на jabber-сервере, с возможностью доступа к ним из любого места через клиент Psi+ или Miranda IM.</translation>
     </message>
     <message>
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
@@ -20442,53 +17972,6 @@ Please correct and try again.</source>
     </message>
 </context>
 <context>
-    <name>Tip</name>
-    <message>
-        <source>Useful Tips</source>
-        <translation type="vanished">Полезные советы</translation>
-    </message>
-    <message>
-        <source>psi/logo_128</source>
-        <translation type="vanished">psi/logo_128</translation>
-    </message>
-    <message>
-        <source>Show tips at startup</source>
-        <translation type="vanished">Показывать советы при запуске</translation>
-    </message>
-    <message>
-        <source>&amp;Previous</source>
-        <translation type="vanished">&amp;Предыдущий</translation>
-    </message>
-    <message>
-        <source>Alt+P</source>
-        <translation type="vanished">Alt+P</translation>
-    </message>
-    <message>
-        <source>psi/arrowLeft</source>
-        <translation type="vanished">psi/arrowLeft</translation>
-    </message>
-    <message>
-        <source>&amp;Next</source>
-        <translation type="vanished">&amp;Следующий</translation>
-    </message>
-    <message>
-        <source>Alt+N</source>
-        <translation type="vanished">Alt+N</translation>
-    </message>
-    <message>
-        <source>psi/arrowRight</source>
-        <translation type="vanished">psi/arrowRight</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Закрыть</translation>
-    </message>
-    <message>
-        <source>Alt+C</source>
-        <translation type="vanished">Alt+C</translation>
-    </message>
-</context>
-<context>
     <name>TipDlg</name>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
@@ -20540,10 +18023,6 @@ And these work only in groupchat dialog:
 Просто нажмите &quot;Добавить&quot; в разделе &quot;Аккаунты&quot;.</translation>
     </message>
     <message>
-        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="vanished">Вы общаетесь с пользователями AIM и ICQ? Используйте транспорты, предоставляемые серверами XMPP. Потом вы можете уговорить ваших собеседников использовать XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</translation>
-    </message>
-    <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
         <translation>Что вы можете отключить и включить аккаунты? Это может быть полезно для отключения редко используемых аккаунтов.</translation>
     </message>
@@ -20584,26 +18063,8 @@ Note: Some server may disable transport registration to users from different ser
         <translation>Если вы часто общаетесь в конференциях, вам просто необходима возможность дополнения ников. Нажмите &lt;tt&gt;Tab-Tab&lt;/tt&gt; в начале строки или после ввода первых букв ника и будут подставляться ники находящихся в конференции контактов.</translation>
     </message>
     <message>
-        <source>This is the last tip.
-&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation type="vanished">Это последний совет.
-&lt;br&gt;&lt;br&gt;Если вы хотите добавить свой совет, напишите в &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;форумах Psi&lt;/a&gt; или отправьте письмо одному из разработчиков.</translation>
-    </message>
-    <message>
         <source>Contributed by</source>
         <translation>Совет от</translation>
-    </message>
-    <message>
-        <source>Hello! Thank you for downloading Psi!
-We hope that you will enjoy using it as we have enjoyed making it!
-&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;https://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="vanished">Приветствуем вас в программе Psi!
-Мы надеемся, что вы получите удовольствие от использования нашей программы!
-&lt;br&gt;&lt;br&gt;Если вы хотите скачать дополнительный языковой пакет, набор иконок или новую версию Psi, посетите &lt;a href=&quot;https://psi-im.org&quot;&gt;домашнюю страницу Psi&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;Если вы нашли ошибку в программе или хотите пообщаться с пользователями и разработчиками Psi, посетите &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;форумы Psi&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;Команда разработчиков Psi&lt;/i&gt;&lt;/div&gt;</translation>
     </message>
     <message>
         <source>Hello! Thank you for downloading Psi!
@@ -20708,10 +18169,6 @@ We hope that you will enjoy using it as we have enjoyed making it!
     <message>
         <source>Restore Defaults Settings</source>
         <translation>Восстановить стандартные</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Автор: </translation>
     </message>
     <message>
         <source>This plugin allows you to convert selected text into another language.
@@ -20819,38 +18276,6 @@ We hope that you will enjoy using it as we have enjoyed making it!
 <context>
     <name>VideoStatusChanger</name>
     <message>
-        <source>Authors: </source>
-        <translation type="vanished">Авторы: </translation>
-    </message>
-    <message>
-        <source>This plugin is designed to set the custom status when you watching the video in selected video players. 
-Note: This plugin is designed to work in Linux family operating systems and in Windows OS. 
-
-In Linux plugin uses DBUS to work with video players and X11 functions to detect fullscreen applications. 
-In Windows plugin uses WinAPI functions to detect fullscreen applications. 
-
-To work with Totem player you need to enable appropriate plugin in this player (Edit\Plugins\D-Bus);
-
-To work with VLC player you need to enable the option &quot;Control Interface D-Bus&quot; in the Advanced Settings tab on &quot;Interface\Control Interface&quot; section of the player settings; 
-
-To work with Kaffeine player you must have player version (&gt;= 1.0), additional configuration is not needed; 
-
-To work with GNOME MPlayer additional configuration is not needed.</source>
-        <translation type="vanished">Плагин предназначен для установки заданного статуса, когда вы смотрите видео в указанном видеопроигрывателе.
-Плагин работает в операционных системах семейста Linux и Windows.
-
-В Linux используется D-Bus для работы с видео и функции X11 для обнаружения полноэкранных приложений.
-В Windows Плагин использует WinAPI функции для обнаружения полноэкранных приложений.
-
-Для работы с Totem необходимо в самом проигрывателе включить соответствующий плагин (Правка\Модули\Служба D-Bus);
-
-Для работы с VLC необходимо в расширенных настройках проигрывателя во вкладке &quot;Интерфейс\Интерфейсы управления&quot; включить опцию &quot;Интерфейс управления D-Bus&quot;;
-
-Для работы с Kaffeine необходимо иметь плеер версии (&gt;=1.0), дополнительные настройки не требуются;
-
-Для работы с GNOME MPlayer дополнительные настройки не требуются.</translation>
-    </message>
-    <message>
         <source>This plugin is designed to set the custom status when you watching the video in selected video players. 
 Note: This plugin is designed to work in Linux family operating systems and in Windows OS. 
 
@@ -20924,57 +18349,6 @@ To work with Parole player you need to enable MPRIS2 module/plugin.</source>
     <message>
         <source>Do you want to save your changes?</source>
         <translation>Вы хотите сохранить изменения?</translation>
-    </message>
-</context>
-<context>
-    <name>ViewMailDlg</name>
-    <message>
-        <source>E-Mail</source>
-        <translation type="vanished">E-Mail</translation>
-    </message>
-    <message>
-        <source>From:</source>
-        <translation type="vanished">От:</translation>
-    </message>
-    <message>
-        <source>Subject:</source>
-        <translation type="vanished">Тема:</translation>
-    </message>
-    <message>
-        <source>Account:</source>
-        <translation type="vanished">Аккаунт:</translation>
-    </message>
-    <message>
-        <source>Open mail in browser</source>
-        <translation type="vanished">Открыть почту в браузере</translation>
-    </message>
-    <message>
-        <source>Open MailBox</source>
-        <translation type="vanished">Открыть почтовый ящик</translation>
-    </message>
-    <message>
-        <source>Previous</source>
-        <translation type="vanished">Предыдущее</translation>
-    </message>
-    <message>
-        <source>Next</source>
-        <translation type="vanished">Следующее</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="vanished">Закрыть</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Закрыть</translation>
-    </message>
-    <message>
-        <source>[%1/%2] E-Mail</source>
-        <translation type="vanished">[%1/%2] E-Mail</translation>
-    </message>
-    <message>
-        <source>Open in browser</source>
-        <translation type="vanished">Открыть в браузере</translation>
     </message>
 </context>
 <context>
@@ -21129,14 +18503,6 @@ To work with Parole player you need to enable MPRIS2 module/plugin.</source>
         <translation>Следить за JID&apos;ом</translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Автор: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">E-Mail: </translation>
-    </message>
-    <message>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
 On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
         <translation>Данный плагин предназначен для наблюдения за статусом определённых пользователей в ростере, а также для подмены стандартных звуков входящих сообщений.
@@ -21144,153 +18510,6 @@ On the first tab set up a list of contacts for the status of which is monitored.
 На первой вкладке настраивается список контактов, за статусом которых осуществляется наблюдение. При смене статуса таких контактов будет показываться всплывающее окно, а при смене статуса на &quot;Доступен&quot; - ещё и проигрываться указанный звук.
 
 На второй вкладке настраивается список элементов, за сообщениями которых ведётся наблюдение. Каждый элемент может содержать регулярное выражение для проверки на совпадение с джидом, от которого приходит сообщение; список регулярных выражений для проверки на совпадение с текстом входящего сообщения; путь к звуковому файлу, который будет проигран в случае совпадения; а также опцию, будет ли звук проигрываться всегда, даже если глобальные звуки выключены.</translation>
-    </message>
-</context>
-<context>
-    <name>WbDlg</name>
-    <message>
-        <source>Whiteboard (%1)</source>
-        <translation type="vanished">Доска для рисования (%1)</translation>
-    </message>
-    <message>
-        <source>Save session</source>
-        <translation type="vanished">Сохранить сеанс</translation>
-    </message>
-    <message>
-        <source>Save the contents of the whiteboard</source>
-        <translation type="vanished">Сохранить содержимое доски</translation>
-    </message>
-    <message>
-        <source>Change the geometry</source>
-        <translation type="vanished">Изменить размер</translation>
-    </message>
-    <message>
-        <source>End session</source>
-        <translation type="vanished">Закрыть соединение</translation>
-    </message>
-    <message>
-        <source>Clear the whiteboard</source>
-        <translation type="vanished">Очистить доску</translation>
-    </message>
-    <message>
-        <source>Stroke color</source>
-        <translation type="vanished">Цвет рисования</translation>
-    </message>
-    <message>
-        <source>Fill color</source>
-        <translation type="vanished">Цвет заливки</translation>
-    </message>
-    <message>
-        <source>Stroke width</source>
-        <translation type="vanished">Толщина линии</translation>
-    </message>
-    <message>
-        <source>Edit mode</source>
-        <translation type="vanished">Режим правки</translation>
-    </message>
-    <message>
-        <source>Thin stroke</source>
-        <translation type="vanished">Тонкая</translation>
-    </message>
-    <message>
-        <source>Medium stroke</source>
-        <translation type="vanished">Средняя</translation>
-    </message>
-    <message>
-        <source>Thick stroke</source>
-        <translation type="vanished">Толстая</translation>
-    </message>
-    <message>
-        <source>Select</source>
-        <translation type="vanished">Выбор</translation>
-    </message>
-    <message>
-        <source>Translate</source>
-        <translation type="vanished">Преобразование</translation>
-    </message>
-    <message>
-        <source>Rotate</source>
-        <translation type="vanished">Вращение</translation>
-    </message>
-    <message>
-        <source>Scale</source>
-        <translation type="vanished">Масштабирование</translation>
-    </message>
-    <message>
-        <source>Erase</source>
-        <translation type="vanished">Стирание</translation>
-    </message>
-    <message>
-        <source>Scroll view</source>
-        <translation type="vanished">Режим прокрутки</translation>
-    </message>
-    <message>
-        <source>Scroll</source>
-        <translation type="vanished">Прокрутка</translation>
-    </message>
-    <message>
-        <source>Draw paths</source>
-        <translation type="vanished">Карандаш</translation>
-    </message>
-    <message>
-        <source>Add images</source>
-        <translation type="vanished">Добавить изображения</translation>
-    </message>
-    <message>
-        <source>Whiteboard toolbar</source>
-        <translation type="vanished">Панель инструментов рисования</translation>
-    </message>
-    <message>
-        <source>%1 left (session: %2).</source>
-        <translation type="vanished">%1 ушёл (сессия: %2).</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Предупреждение</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to end the session?
-The contents of the whiteboard will be lost.</source>
-        <translation type="vanished">Покинуть сеанс?
-Содержимое доски рисования будет утеряно.</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Да</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Нет</translation>
-    </message>
-    <message>
-        <source>A new whiteboard message was just received.
-Do you still want to close the window?</source>
-        <translation type="vanished">Получено новое событие на доске для рисования.
-Закрыть окно?</translation>
-    </message>
-    <message>
-        <source>Set new width:</source>
-        <translation type="vanished">Новая ширина:</translation>
-    </message>
-    <message>
-        <source>Width:</source>
-        <translation type="vanished">Ширина:</translation>
-    </message>
-    <message>
-        <source>Set new height:</source>
-        <translation type="vanished">Новая высота:</translation>
-    </message>
-    <message>
-        <source>Height:</source>
-        <translation type="vanished">Высота:</translation>
-    </message>
-    <message>
-        <source>Save Whitebaord</source>
-        <translation type="vanished">Сохранить доску для рисования</translation>
-    </message>
-    <message>
-        <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="vanished">Векторные графики (*.svg)</translation>
     </message>
 </context>
 <context>
@@ -21322,38 +18541,6 @@ Do you still want to close the window?</source>
 </context>
 <context>
     <name>WbManager</name>
-    <message>
-        <source>Unsupported</source>
-        <translation type="vanished">Не поддерживается</translation>
-    </message>
-    <message>
-        <source>The contact does not support whiteboarding.</source>
-        <translation type="vanished">Контакт не поддерживает доску для рисования.</translation>
-    </message>
-    <message>
-        <source>Open Existing SVG?</source>
-        <translation type="vanished">Открыть существующий SVG?</translation>
-    </message>
-    <message>
-        <source>Would you like to open an existing SVG document in the whitebaord?</source>
-        <translation type="vanished">Вы хотите открыть существующий документ SVG в доске для рисования?</translation>
-    </message>
-    <message>
-        <source>Initial SVG Document for the Whiteboard</source>
-        <translation type="vanished">Пустой документ SVG для доски рисования</translation>
-    </message>
-    <message>
-        <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="vanished">Векторные графики (*.svg)</translation>
-    </message>
-    <message>
-        <source>Whiteboarding Invitation?</source>
-        <translation type="vanished">Приглашение порисовать</translation>
-    </message>
-    <message>
-        <source>%1 has invited you to a whiteboarding session. Would you like to join?</source>
-        <translation type="vanished">%1 приглашает вас порисовать. Вы хотите присоединиться?</translation>
-    </message>
     <message>
         <source>Answered on another device.</source>
         <translation>Принято на другом устройстве.</translation>
@@ -21756,10 +18943,6 @@ Do you still want to close the window?</source>
 <context>
     <name>XMLConsole</name>
     <message>
-        <source>XML Console</source>
-        <translation type="vanished">Консоль XML</translation>
-    </message>
-    <message>
         <source>Filter</source>
         <translation>Фильтр</translation>
     </message>
@@ -21825,13 +19008,6 @@ Do you still want to close the window?</source>
     </message>
 </context>
 <context>
-    <name>XMPP::ClientStream</name>
-    <message>
-        <source>Offered mechanisms: </source>
-        <translation type="vanished">Предлагаемые механизмы: </translation>
-    </message>
-</context>
-<context>
     <name>XMPP::Features::FeatureName</name>
     <message>
         <source>ERROR: Incorrect usage of Features class</source>
@@ -21860,10 +19036,6 @@ Do you still want to close the window?</source>
     <message>
         <source>Service Discovery</source>
         <translation>Обзор сервисов</translation>
-    </message>
-    <message>
-        <source>VCard</source>
-        <translation type="vanished">vCard</translation>
     </message>
     <message>
         <source>Execute command</source>
@@ -21895,10 +19067,6 @@ Do you still want to close the window?</source>
 </context>
 <context>
     <name>XMPP::JT_VCard</name>
-    <message>
-        <source>No VCard available</source>
-        <translation type="vanished">vCard недоступен</translation>
-    </message>
     <message>
         <source>No vCard available</source>
         <translation>vCard недоступен</translation>
@@ -22231,10 +19399,6 @@ Do you still want to close the window?</source>
 <context>
     <name>XmlConsole</name>
     <message>
-        <source>XML Console</source>
-        <translation type="vanished">Консоль XML</translation>
-    </message>
-    <message>
         <source>XMPP Console</source>
         <translation>Консоль XMPP</translation>
     </message>
@@ -22256,18 +19420,6 @@ Do you still want to close the window?</source>
     <message>
         <source>Malformed XML</source>
         <translation>Неправильный XML</translation>
-    </message>
-    <message>
-        <source>You have entered malformed XML input. Are you sure you want to send this ?</source>
-        <translation type="vanished">Вы ввели неправильный XML. Вы уверены в необходимости его отправки?</translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="vanished">Да</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">Нет</translation>
     </message>
     <message>
         <source>You have entered malformed XML input.</source>
@@ -22325,64 +19477,8 @@ Do you still want to close the window?</source>
         <translation>Сохранить позицию окна</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gomoku_game_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Auto Reply Message If Recv:</source>
-        <translation type="vanished">Сообщение автоответа если принято:</translation>
-    </message>
-    <message>
-        <source>Auto Reply Message If No Recv:</source>
-        <translation type="vanished">Сообщение автоответа если заблокировано:</translation>
-    </message>
-    <message>
-        <source>Custom options:
--uin - do nothing
-+uin - send replay
-!uin - block message
-[-+!]other - default
-[-+!]nil - not in list
-# - comment to end line</source>
-        <translation type="vanished">Пользовательские настройки:
--uin - ничего не делать
-+uin - отправить ответ
-!uin - заблокировать сообщение
-[-+!]other - по умолчанию
-[-+!]nil - не в списке
-# - комментарий к строке</translation>
-    </message>
-    <message>
-        <source>Pause for next Recv message:</source>
-        <translation type="vanished">Пауза перед ответом на следующее принятое сообщение:</translation>
-    </message>
-    <message>
-        <source>min.</source>
-        <translation type="vanished">мин.</translation>
-    </message>
-    <message>
-        <source>Max messages to contact:</source>
-        <translation type="vanished">Максимальное количество сообщений контакту:</translation>
-    </message>
-    <message>
-        <source>Disable if chat window is active</source>
-        <translation type="vanished">Отключить, если открыто окно чата</translation>
-    </message>
-    <message>
-        <source>Transports:</source>
-        <translation type="vanished">Сервисы:</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Disable invitations from conference</source>
         <translation>Отключить приглашения из конференций</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#battleship_game_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
@@ -22778,10 +19874,6 @@ Do you still want to close the window?</source>
         <translation>Вы проверили, что это действительно правильный отпечаток?</translation>
     </message>
     <message>
-        <source>Psi OTR</source>
-        <translation type="vanished">Psi+ OTR</translation>
-    </message>
-    <message>
         <source>%1 has canceled the authentication process.</source>
         <translation>%1 в авторизации было отказано.</translation>
     </message>
@@ -22813,14 +19905,6 @@ You should authenticate %1 as well by asking your own question.</source>
 <context>
     <name>psiotr::ConfigDialog</name>
     <message>
-        <source>Known fingerprints</source>
-        <translation type="vanished">Известные отпечатки</translation>
-    </message>
-    <message>
-        <source>My private keys</source>
-        <translation type="vanished">Мои личные ключи</translation>
-    </message>
-    <message>
         <source>Configuration</source>
         <translation>Настройка</translation>
     </message>
@@ -22835,10 +19919,6 @@ You should authenticate %1 as well by asking your own question.</source>
 </context>
 <context>
     <name>psiotr::ConfigOtrWidget</name>
-    <message>
-        <source>OTR Policy</source>
-        <translation type="vanished">Политика OTR</translation>
-    </message>
     <message>
         <source>Disable private messaging</source>
         <translation>Отключить личные сообщения</translation>
@@ -22867,10 +19947,6 @@ You should authenticate %1 as well by asking your own question.</source>
 <context>
     <name>psiotr::FingerprintWidget</name>
     <message>
-        <source>Delete fingerprint</source>
-        <translation type="vanished">Удалить отпечаток</translation>
-    </message>
-    <message>
         <source>Verify fingerprint</source>
         <translation>Проверить отпечаток</translation>
     </message>
@@ -22895,10 +19971,6 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation>Статус</translation>
     </message>
     <message>
-        <source>Are you sure you want to delete the following fingerprint?</source>
-        <translation type="vanished">Хотите удалить следующий отпечаток?</translation>
-    </message>
-    <message>
         <source>Account: </source>
         <translation>Аккаунт: </translation>
     </message>
@@ -22909,10 +19981,6 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Fingerprint: </source>
         <translation>Отпечаток: </translation>
-    </message>
-    <message>
-        <source>Psi OTR</source>
-        <translation type="vanished">Psi+ OTR</translation>
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
@@ -22950,10 +20018,6 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation>Генерировать новый ключ</translation>
     </message>
     <message>
-        <source>Delete key</source>
-        <translation type="vanished">Удалить ключ</translation>
-    </message>
-    <message>
         <source>Account</source>
         <translation>Аккаунт</translation>
     </message>
@@ -22972,10 +20036,6 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Fingerprint: </source>
         <translation>Отпечаток: </translation>
-    </message>
-    <message>
-        <source>Psi OTR</source>
-        <translation type="vanished">Psi+ OTR</translation>
     </message>
     <message>
         <source>Are you sure you want to overwrite the following key?</source>
@@ -23048,18 +20108,6 @@ You should authenticate %1 as well by asking your own question.</source>
 <context>
     <name>psiotr::PsiOtrPlugin</name>
     <message>
-        <source>Off-the-Record Messaging plugin for Psi</source>
-        <translation type="vanished">Плагин OTR для Psi+</translation>
-    </message>
-    <message>
-        <source>Authors: %1</source>
-        <translation type="vanished">Авторы: %1</translation>
-    </message>
-    <message>
-        <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
-        <translation type="vanished">Технология OTR позволяет проводить личную переписку, обеспечивая:</translation>
-    </message>
-    <message>
         <source>Encryption</source>
         <translation>Шифрование</translation>
     </message>
@@ -23080,24 +20128,12 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation>Отрицание</translation>
     </message>
     <message>
-        <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages he sees are authentic and unmodified.</source>
-        <translation type="vanished">Отправленные сообщения не имеют цифровой подписи, проверяемой третьим лицом. Кто угодно сможет подделать историю переписки так, чтобы сообщения выглядели приходящими от вас. Зато во время разговора ваш корреспондент будет уверен, что сообщения от вас подлинны и не подделаны.</translation>
-    </message>
-    <message>
         <source>Perfect forward secrecy</source>
         <translation>Совершенная прямая секретность</translation>
     </message>
     <message>
         <source>If you lose control of your private keys, no previous conversation is compromised.</source>
         <translation>Если вы потеряете контроль над личными ключами, предыдущая переписка не будет скомпрометирована.</translation>
-    </message>
-    <message>
-        <source>For further information, see &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</source>
-        <translation type="vanished">Дополнительная информация: &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</translation>
-    </message>
-    <message>
-        <source>Psi OTR</source>
-        <translation type="vanished">Psi+ OTR</translation>
     </message>
     <message>
         <source>Attempting to refresh the private conversation</source>
@@ -23198,10 +20234,6 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages (s)he sees are authentic and unmodified.</source>
         <translation>Отправленные сообщения не имеют цифровой подписи, проверяемой третьим лицом. Кто угодно сможет подделать историю переписки так, чтобы сообщения выглядели приходящими от вас. Зато во время разговора ваш корреспондент будет уверен, что сообщения от вас подлинны и не подделаны.</translation>
-    </message>
-    <message>
-        <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows one to use it for protecting conversations via XMPP transports (to ICQ, Skype, Telegram, QQ, vkontakte and other networks).</source>
-        <translation type="vanished">По сравнению с OpenPGP и OMEMO протокол OTR не зависит от специфических структур XMPP, что позволяет использовать его для защиты разговоров через транспорты XMPP (в ICQ, Skype, Telegram, QQ, вконтакте и других сетях).</translation>
     </message>
     <message>
         <source>In comparison with OpenPGP and OMEMO, the OTR protocol does not depend on XMPP specific structures which allows one to use it for protecting conversations via XMPP transports (to Telegram, Skype, VK, QQ and other networks).</source>
@@ -23311,10 +20343,6 @@ to this message in juick@conference.jabber.ru</source>
         <translation>Очистить кэш аватар</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#juick_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>https://link</source>
         <translation>https://link</translation>
     </message>
@@ -23410,10 +20438,6 @@ to this message in juick@conference.jabber.ru</source>
     <message>
         <source>Birthday:</source>
         <translation>Дата рождения:</translation>
-    </message>
-    <message>
-        <source>E-Mail:</source>
-        <translation type="vanished">E-Mail:</translation>
     </message>
     <message>
         <source>Close</source>
@@ -23639,10 +20663,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Clear Cookies</source>
         <translation>Очистить куки</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#yandex_narod_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>

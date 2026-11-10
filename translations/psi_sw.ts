@@ -411,10 +411,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>OpenPGP</source>
-        <translation type="vanished">PGP ya wazi</translation>
-    </message>
-    <message>
         <source>Privacy</source>
         <translation type="unfinished"></translation>
     </message>
@@ -674,24 +670,8 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>No Key Selected</source>
-        <translation type="vanished">Ufunguo haujachaguliwa </translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Imekosewa</translation>
-    </message>
-    <message>
-        <source>SSL error</source>
-        <translation type="vanished">SSL imekosewa</translation>
-    </message>
-    <message>
-        <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation type="vanished">SSL/TLS haijawezeshwa. Hakuna viunganishi.</translation>
-    </message>
-    <message>
-        <source>Secret Key</source>
-        <translation type="vanished">Funguo ya siri</translation>
     </message>
     <message>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
@@ -850,14 +830,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <source>Are you sure you want to cancel the registration?</source>
         <translation>Una uhakika ungependa usiandikishwe?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Ndiyo</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Hapana</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1751,21 +1723,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
     </message>
 </context>
 <context>
-    <name>Call</name>
-    <message>
-        <source>To:</source>
-        <translation type="vanished">Kwa:</translation>
-    </message>
-    <message>
-        <source>&amp;Reject</source>
-        <translation type="vanished">&amp;Kataa au mkatae</translation>
-    </message>
-    <message>
-        <source>&amp;Accept</source>
-        <translation type="vanished">&amp;Pokea</translation>
-    </message>
-</context>
-<context>
     <name>CallDlg</name>
     <message>
         <source>Call</source>
@@ -1842,29 +1799,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
     <message>
         <source>Refused: the encryption could not be verified with a trusted OMEMO device of the contact. See Options &gt; Security.</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>CallDlg::Private</name>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Funga</translation>
-    </message>
-    <message>
-        <source>Ready</source>
-        <translation type="vanished">Tayari</translation>
-    </message>
-    <message>
-        <source>From:</source>
-        <translation type="vanished">Kutoka kwa:</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">&amp;Ahilisha</translation>
-    </message>
-    <message>
-        <source>Accepting...</source>
-        <translation type="vanished">Inapokea...</translation>
     </message>
 </context>
 <context>
@@ -2216,10 +2150,6 @@ Sababu:%1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Toggle encryption</source>
-        <translation type="vanished">Toggo iliyofungiwa</translation>
-    </message>
-    <message>
         <source>Select icon</source>
         <translation>chagua aikoni</translation>
     </message>
@@ -2260,23 +2190,6 @@ Bado unataka kufunga dirisha?</translation>
     <message>
         <source>&lt;p&gt;Encryption was recently disabled by the remote contact.  Are you sure you want to send this message without encryption?&lt;/p&gt;</source>
         <translation>&lt;p&gt;huduma ya kufungiwa ujumbe imeharibiwa au kukatizwa na rafiki yako wa mbali. Je una uhakika unataka kutuma ujumbe huu bila kuufungia?&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Ndiyo</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Hapana
-</translation>
-    </message>
-    <message>
-        <source>Encryption Enabled</source>
-        <translation type="vanished">Kufungiwa habari kumewezeshwa</translation>
-    </message>
-    <message>
-        <source>Encryption Disabled</source>
-        <translation type="vanished">Kufungiwa habari kumesimamishwa (kumeharibiwa)</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
@@ -2389,13 +2302,6 @@ Bado unataka kufunga dirisha?</translation>
             <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
-    </message>
-</context>
-<context>
-    <name>ChatView</name>
-    <message>
-        <source>Subject:</source>
-        <translation type="vanished">Somo:</translation>
     </message>
 </context>
 <context>
@@ -2981,10 +2887,6 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;XML Console</source>
-        <translation type="vanished">&amp;XML Console</translation>
-    </message>
-    <message>
         <source>&amp;Modify Account...</source>
         <translation>&amp;Rekebisha akaunti...</translation>
     </message>
@@ -3011,10 +2913,6 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <source>Avatar</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Groupchat</source>
-        <translation type="vanished">Maongezi ya kikundi</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -3335,21 +3233,6 @@ Endelea?</translation>
     </message>
 </context>
 <context>
-    <name>CreateGroupDlg</name>
-    <message>
-        <source>Create New Group</source>
-        <translation type="vanished">Unda kundi jipya</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="vanished">ongeza</translation>
-    </message>
-    <message>
-        <source>&lt;None&gt;</source>
-        <translation type="vanished">&lt;None&gt;</translation>
-    </message>
-</context>
-<context>
     <name>DateWidget</name>
     <message>
         <source>never</source>
@@ -3537,10 +3420,6 @@ Endelea?</translation>
 <context>
     <name>DiscoListItem</name>
     <message>
-        <source>Error</source>
-        <translation type="vanished">Imekosewa</translation>
-    </message>
-    <message>
         <source>There was an error getting items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3594,17 +3473,6 @@ Endelea?</translation>
     <message>
         <source>deleted</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>EDBFlatFile::File</name>
-    <message>
-        <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
-        <translation type="vanished">&lt;big&gt;[Ujumbe wa mtambo/mfumo]&lt;/big&gt;&lt;br&gt;sasa umeidhinishwa.</translation>
-    </message>
-    <message>
-        <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;Your authorization has been removed!</source>
-        <translation type="vanished">&lt;big&gt;[ujumbe wa mtambo]&lt;/big&gt;&lt;br&gt;Idhinisho lako limeondolewa !</translation>
     </message>
 </context>
 <context>
@@ -3820,10 +3688,6 @@ Supports per contact on / off message enumeration via the buttons on the chats t
     <message>
         <source>Message length</source>
         <translation>Urefu wa ujumbe</translation>
-    </message>
-    <message>
-        <source>Toggle encryption</source>
-        <translation type="vanished">Toggo iliyofungiwa</translation>
     </message>
     <message>
         <source>Add URL</source>
@@ -4585,14 +4449,6 @@ Importantly: a large part of the options are important system settings. These re
     <message>
         <source>Are you sure you want to cancel the transfer?</source>
         <translation>Una uhakika hutaki kuhamisha?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Ndiyo</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Hapana</translation>
     </message>
     <message>
         <source>Choose a file</source>
@@ -5807,17 +5663,6 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>GmailNotifyPlugin</name>
-    <message>
-        <source>Choose a sound file</source>
-        <translation type="vanished">Chagua faili la sauti</translation>
-    </message>
-    <message>
-        <source>Sound (*.wav)</source>
-        <translation type="vanished">Sauti(*.mawimbi)</translation>
-    </message>
-</context>
-<context>
     <name>Gnome3StatusWatcher</name>
     <message>
         <source>Authors: </source>
@@ -6194,14 +6039,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
 </context>
 <context>
     <name>HistoryImport</name>
-    <message>
-        <source>Status:</source>
-        <translation type="vanished">Hali:</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Kuna kosa</translation>
-    </message>
     <message>
         <source>Upgrade history</source>
         <translation type="unfinished"></translation>
@@ -7021,14 +6858,6 @@ Are you sure you want to discard them?</source>
 Una uhakika unataka kuzitupa?</translation>
     </message>
     <message>
-        <source>Close and discard</source>
-        <translation type="vanished">Tupa na ufunge</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">Usifunge</translation>
-    </message>
-    <message>
         <source>Success</source>
         <translation>mafanikio</translation>
     </message>
@@ -7527,10 +7356,6 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
         <translation>Futa au Ondoa</translation>
     </message>
     <message>
-        <source>General</source>
-        <translation type="vanished">Kwa ujumla</translation>
-    </message>
-    <message>
         <source>message</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7847,14 +7672,6 @@ Reason: %1</source>
         <translation>Pokea au pata tukio linalofuata</translation>
     </message>
     <message>
-        <source>Un&amp;hide</source>
-        <translation type="vanished">Fi&amp;chua</translation>
-    </message>
-    <message>
-        <source>&amp;Hide</source>
-        <translation type="vanished">&amp;Ficha</translation>
-    </message>
-    <message>
         <source>Status Message</source>
         <translation>Ujumbe wa hali</translation>
     </message>
@@ -7911,13 +7728,6 @@ Incoming event(s) from:</source>
     <message>
         <source>Enable Sounds</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>MainWindow</name>
-    <message>
-        <source>Ready</source>
-        <translation type="vanished">Tayari</translation>
     </message>
 </context>
 <context>
@@ -10608,10 +10418,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>Huifanya Psi ipandishe na kushusha dirisha lenye majina ya rafiki zako yenyewe (automatiki) ili uweze kuona matukio yanayokuja. </translation>
     </message>
     <message>
-        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation type="vanished">Huifanya Psi ipuuze  matukio yajayo kwa &apos;&apos;ufupi&apos;&apos;, kama vile habari za mtambo kwa ujumla juu ya MSN, matangazo, nk.</translation>
-    </message>
-    <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10831,26 +10637,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>Makes Psi open chat windows in compact mode.</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Huamua ni kwa muda gani  log ya mazungumzo yako itahifadhiwa kwenye kumbukumbu zake.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation type="vanished"> &lt;P&gt;Uchaguzi huu hautunzi log ya mazungumzo kwenye kumbukumbu zake.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation type="vanished"> &lt;P&gt;Uchaguzi huu unatunza log ya mazungumzo kwenye kumbukumbu zake kwa saa moja kabla ya kuzifuta.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation type="vanished"> &lt;P&gt;Uchaguzi huu unatunza log ya mazungumzo kwenye kumbukumbu zake kwa siku moja kabla ya kuzifuta.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation type="vanished"> &lt;P&gt;Uchaguzi huu unafanya komputa itune log ya mazungumzo yako, bila kufuta.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>Time (HH:mm)</source>
@@ -11761,10 +11547,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>General</source>
-        <translation type="vanished">Kwa ujumla</translation>
-    </message>
-    <message>
         <source>Account:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12004,17 +11786,6 @@ Reason: %1.</source>
     <message>
         <source>Please enter your password for %1:</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Passphrase</name>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">&amp;Ahilisha</translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation type="vanished">&amp;Ok</translation>
     </message>
 </context>
 <context>
@@ -12534,84 +12305,6 @@ Reason: %1.</source>
     </message>
 </context>
 <context>
-    <name>ProfileManage</name>
-    <message>
-        <source>Rem&amp;ove</source>
-        <translation type="vanished">Ond&amp;oa</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileManageDlg</name>
-    <message>
-        <source>Rename Profile</source>
-        <translation type="vanished">Ipe jina tena</translation>
-    </message>
-    <message>
-        <source>Please enter a new name for the profile.  Keep it simple.
-Only use letters or numbers.  No punctuation or spaces.</source>
-        <translation type="vanished">Tafadhali ingiza jina jipya kwa wasifu huo.Weka jina rahisi.
-Ni herufi au namba peke yake.Usiweke alama za mikato,vituo wala nafasi kati ya herufi.</translation>
-    </message>
-    <message>
-        <source>There is already another profile with this name.  Please choose another.</source>
-        <translation type="vanished">Tayari kuna wasifu wa mtu mwingine kwa jina hilo.Tafadhali chagua jingine.</translation>
-    </message>
-    <message>
-        <source>Unable to rename the profile.  Please do not use any special characters.</source>
-        <translation type="vanished">Imeshindikana kuuandika tena wasifu wa jina hilo.Tafadhali usitumie herufi maalum tofauti na herufi za kawaida.</translation>
-    </message>
-    <message>
-        <source>Delete Profile</source>
-        <translation type="vanished">Futa wasifu huo</translation>
-    </message>
-    <message>
-        <source>&lt;qt&gt;Are you sure you want to delete the &quot;&lt;b&gt;%1&lt;/b&gt;&quot; profile?  This will delete all of the profile&apos;s message history as well as associated settings!&lt;/qt&gt;</source>
-        <translation type="vanished">&lt;qt&gt;Una uhakika unataka kufuta&apos;&apos;&lt;b&gt;%1&lt;/b&gt;&apos;&apos;wasifu huu?.   Hii itafuta mazungumzo yote yaliyohifadhiwa kwa jina hili pamoja na mpangilio au seti zake zote!&lt;/qt&gt;</translation>
-    </message>
-    <message>
-        <source>No, I changed my mind</source>
-        <translation type="vanished">Hapana, Nimebadili mawazo</translation>
-    </message>
-    <message>
-        <source>Delete it!</source>
-        <translation type="vanished">Futa!</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Hapana</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Ndiyo</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileNew</name>
-    <message>
-        <source>New Profile</source>
-        <translation type="vanished">Wasifu Mpya</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Funga</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileNewDlg</name>
-    <message>
-        <source>New Profile</source>
-        <translation type="vanished">Wasifu Mpya</translation>
-    </message>
-    <message>
-        <source>There is already an existing profile with this name.  Please choose another.</source>
-        <translation type="vanished">Tayari kuna wasifu wa mtu mwingine kwa jina hilo.  Tafadhali chagua jingine.</translation>
-    </message>
-    <message>
-        <source>Unable to create the profile.  Please do not use any special characters.</source>
-        <translation type="vanished">Imeshindikana kutengeneza wasifu kwa jina hilo.  Tafadhali usitumie herufi maalum tofauti na herufi za kawaida.</translation>
-    </message>
-</context>
-<context>
     <name>ProfileOpen</name>
     <message>
         <source>Image goes here</source>
@@ -12652,18 +12345,6 @@ Ni herufi au namba peke yake.Usiweke alama za mikato,vituo wala nafasi kati ya h
 </context>
 <context>
     <name>ProfileOpenDlg</name>
-    <message>
-        <source>Select a profile to open from this list.</source>
-        <translation type="vanished">Chagua wasifu unaotaka kufungua kutoka kwenye orodha hii.</translation>
-    </message>
-    <message>
-        <source>Select a language you would like Psi to use from this list.  You can download extra language packs from the Psi homepage.</source>
-        <translation type="vanished">Chagua lugha  ambayo ungependa Psi itumie kutoka kwenye orodha hii. Unaweza kushusha kutoka kwenye mtandao vipaki vya lugha za ziada kutoka ukurasa wa nyumbani wa Psi.</translation>
-    </message>
-    <message>
-        <source>Automatically open this profile when Psi is started.  Useful if you only have one profile.</source>
-        <translation type="vanished">Fungua wasifu huu moja kwa moja  wakati Psi inapounganishwa.  Hii ni nzuri tu kama una wasifu wa mtu mmoja.</translation>
-    </message>
     <message>
         <source>Double-click or press F2 to rename a profile. Press Delete to remove it.</source>
         <translation type="unfinished"></translation>
@@ -13169,14 +12850,6 @@ Details: %1</source>
         <translation>&lt;P&gt;Psi Imeshindwa kuonyesha ufunguo wa wazi wa PGP kuutumia kwa &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Hii inaweza kutokea  kama huna ufunguo ambao rafiki yako anautangaza kupitia sahihi ya kuwepo kwake, au kama rafiki yako hatangazi ufunguo wowote kabisa.&lt;/P&gt;</translation>
     </message>
     <message>
-        <source>&amp;Choose key manually</source>
-        <translation type="vanished">&amp;Chagua ufunguo kwa mkono</translation>
-    </message>
-    <message>
-        <source>Do &amp;nothing</source>
-        <translation type="vanished">Usifanye&amp;chochote</translation>
-    </message>
-    <message>
         <source>Public Key: %1</source>
         <translation>Ufunguo wa umma:%1</translation>
     </message>
@@ -13354,10 +13027,6 @@ Details: %1</source>
     <message>
         <source>&amp;Add a Contact</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;XML Console</source>
-        <translation type="vanished">&amp;XML Console</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
@@ -14257,14 +13926,6 @@ Migration is possible with Psi-0.15</source>
         <translation>Una uhakika unataka kuondoa idhini kutoka &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Ndiyo</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Hapana</translation>
-    </message>
-    <message>
         <source>Choose an Image</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14663,10 +14324,6 @@ Would you like to activate that session now?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Event notifier</source>
-        <translation type="vanished">Kikumbusha- matukio</translation>
-    </message>
-    <message>
         <source>Auto Status (idle)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14807,17 +14464,6 @@ Would you like to activate that session now?</source>
     <message>
         <source>Home</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PsiThumbnailToolBar</name>
-    <message>
-        <source>Online</source>
-        <translation type="vanished">Nipo hewani</translation>
-    </message>
-    <message>
-        <source>Offline</source>
-        <translation type="vanished">Sipo hewani</translation>
     </message>
 </context>
 <context>
@@ -16524,14 +16170,6 @@ Thanks for your patience.</source>
         <translation>&lt;qt&gt;Kuandikishwa tayari kumeshafanyika, kwahiyo kufunga dirisha hili hakutazuia  uandikishwaji usifanyike. Bado unapenda kufunga?&lt;/qt&gt;</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Ndiyo</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Hapana</translation>
-    </message>
-    <message>
         <source>Fetching registration form for %1 ...</source>
         <translation>Inatafuta fomu ya kuandikishwa kwa%1 ...</translation>
     </message>
@@ -18165,21 +17803,6 @@ Please correct and try again.</source>
     </message>
 </context>
 <context>
-    <name>Tip</name>
-    <message>
-        <source>&amp;Previous</source>
-        <translation type="vanished">&amp;Iliyotangulia</translation>
-    </message>
-    <message>
-        <source>&amp;Next</source>
-        <translation type="vanished">&amp;Inayofuata</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Funga</translation>
-    </message>
-</context>
-<context>
     <name>TipDlg</name>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
@@ -18521,21 +18144,6 @@ To work with Parole player you need to enable MPRIS2 module/plugin.</source>
     </message>
 </context>
 <context>
-    <name>ViewMailDlg</name>
-    <message>
-        <source>From:</source>
-        <translation type="vanished">Kutoka kwa:</translation>
-    </message>
-    <message>
-        <source>Subject:</source>
-        <translation type="vanished">Somo:</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Funga</translation>
-    </message>
-</context>
-<context>
     <name>Viewer</name>
     <message>
         <source>Find</source>
@@ -18690,21 +18298,6 @@ To work with Parole player you need to enable MPRIS2 module/plugin.</source>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
 On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>WbDlg</name>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Onyo</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Ndiyo</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Hapana</translation>
     </message>
 </context>
 <context>
@@ -19137,10 +18730,6 @@ On the first tab set up a list of contacts for the status of which is monitored.
 </context>
 <context>
     <name>XMLConsole</name>
-    <message>
-        <source>XML Console</source>
-        <translation type="vanished">XML Konsole</translation>
-    </message>
     <message>
         <source>Filter</source>
         <translation type="unfinished"></translation>
@@ -19598,10 +19187,6 @@ On the first tab set up a list of contacts for the status of which is monitored.
 </context>
 <context>
     <name>XmlConsole</name>
-    <message>
-        <source>XML Console</source>
-        <translation type="vanished">XML Konsole</translation>
-    </message>
     <message>
         <source>XMPP Console</source>
         <translation type="unfinished"></translation>

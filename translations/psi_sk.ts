@@ -420,10 +420,6 @@ Začiarkni políčko &lt;b&gt;Registrovať nový účet&lt;/b&gt;, ak chceš, ab
         <translation>Upraviť &amp;osobné údaje...</translation>
     </message>
     <message>
-        <source>OpenPGP</source>
-        <translation type="vanished">OpenPGP</translation>
-    </message>
-    <message>
         <source>Privacy</source>
         <translation>Súkromie</translation>
     </message>
@@ -684,24 +680,8 @@ Začiarkni políčko &lt;b&gt;Registrovať nový účet&lt;/b&gt;, ak chceš, ab
         <translation>Používateľské meno:</translation>
     </message>
     <message>
-        <source>No Key Selected</source>
-        <translation type="vanished">Nebol vybraný žiadny kľúč</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Chyba</translation>
-    </message>
-    <message>
-        <source>SSL error</source>
-        <translation type="vanished">SSL chyba</translation>
-    </message>
-    <message>
-        <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation type="vanished">Nemôžem zapnúť SSL/TLS. Plugin sa nenašiel.</translation>
-    </message>
-    <message>
-        <source>Secret Key</source>
-        <translation type="vanished">Tajný Kľúč</translation>
     </message>
     <message>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
@@ -860,14 +840,6 @@ Začiarkni políčko &lt;b&gt;Registrovať nový účet&lt;/b&gt;, ak chceš, ab
     <message>
         <source>Are you sure you want to cancel the registration?</source>
         <translation>Naozaj chceš zrušiť registráciu?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Áno</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Nie</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1779,21 +1751,6 @@ Na pozvanie priateľa do hry môžete použiť položku ponuky kontaktu alebo tl
     </message>
 </context>
 <context>
-    <name>Call</name>
-    <message>
-        <source>To:</source>
-        <translation type="vanished">Komu:</translation>
-    </message>
-    <message>
-        <source>&amp;Reject</source>
-        <translation type="vanished">&amp;Odmietnuť</translation>
-    </message>
-    <message>
-        <source>&amp;Accept</source>
-        <translation type="vanished">&amp;Akceptovať</translation>
-    </message>
-</context>
-<context>
     <name>CallDlg</name>
     <message>
         <source>Call</source>
@@ -1870,29 +1827,6 @@ Na pozvanie priateľa do hry môžete použiť položku ponuky kontaktu alebo tl
     <message>
         <source>Refused: the encryption could not be verified with a trusted OMEMO device of the contact. See Options &gt; Security.</source>
         <translation>Odmietnuté: šifrovanie nebolo možné overiť pomocou dôveryhodného zariadenia OMEMO kontaktu. Pozrite si Možnosti &gt; Zabezpečenie.</translation>
-    </message>
-</context>
-<context>
-    <name>CallDlg::Private</name>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Zatvoriť</translation>
-    </message>
-    <message>
-        <source>Ready</source>
-        <translation type="vanished">Hotovo</translation>
-    </message>
-    <message>
-        <source>From:</source>
-        <translation type="vanished">Od:</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">&amp;Zrušiť</translation>
-    </message>
-    <message>
-        <source>Accepting...</source>
-        <translation type="vanished">Prijímam...</translation>
     </message>
 </context>
 <context>
@@ -2245,10 +2179,6 @@ Dôvod: %1</translation>
         <translation>Hlasový hovor</translation>
     </message>
     <message>
-        <source>Toggle encryption</source>
-        <translation type="vanished">Prepnúť kryptovanie</translation>
-    </message>
-    <message>
         <source>Select icon</source>
         <translation>Vyber si ikonu</translation>
     </message>
@@ -2289,22 +2219,6 @@ Naozaj chceš zatvoriť okno?</translation>
     <message>
         <source>&lt;p&gt;Encryption was recently disabled by the remote contact.  Are you sure you want to send this message without encryption?&lt;/p&gt;</source>
         <translation>&lt;p&gt;Kryptovanie bolo vypnuté vzdialeným kontaktom. Naozaj chceš poslať nekrytovanú správu?&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Áno</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Nie</translation>
-    </message>
-    <message>
-        <source>Encryption Enabled</source>
-        <translation type="vanished">Kryptovanie Zapnuté</translation>
-    </message>
-    <message>
-        <source>Encryption Disabled</source>
-        <translation type="vanished">Kryptovanie Vypnuté</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
@@ -2422,17 +2336,6 @@ Naozaj chceš zatvoriť okno?</translation>
             <numerusform>pred %n rokmi</numerusform>
             <numerusform>pred %n rokmi</numerusform>
         </translation>
-    </message>
-</context>
-<context>
-    <name>ChatView</name>
-    <message>
-        <source>%1 says:</source>
-        <translation type="vanished">%1 vraví:</translation>
-    </message>
-    <message>
-        <source>Subject:</source>
-        <translation type="vanished">Predmet:</translation>
     </message>
 </context>
 <context>
@@ -3030,10 +2933,6 @@ Poznámka: Pre správne fungovanie musí byť povolený panel nástrojov skupino
         <translation>Zoznamy súkromia</translation>
     </message>
     <message>
-        <source>&amp;XML Console</source>
-        <translation type="vanished">&amp;XML Konzola</translation>
-    </message>
-    <message>
         <source>&amp;Modify Account...</source>
         <translation>&amp;Upraviť Konto...</translation>
     </message>
@@ -3060,10 +2959,6 @@ Poznámka: Pre správne fungovanie musí byť povolený panel nástrojov skupino
     <message>
         <source>Avatar</source>
         <translation>Avatar</translation>
-    </message>
-    <message>
-        <source>Groupchat</source>
-        <translation type="vanished">Skupinový Chat</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -3383,21 +3278,6 @@ Pokračovať?</translation>
     </message>
 </context>
 <context>
-    <name>CreateGroupDlg</name>
-    <message>
-        <source>Create New Group</source>
-        <translation type="vanished">Vytvoriť Novú Skupinu</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="vanished">Pridať</translation>
-    </message>
-    <message>
-        <source>&lt;None&gt;</source>
-        <translation type="vanished">&lt;žiadny&gt;</translation>
-    </message>
-</context>
-<context>
     <name>DateWidget</name>
     <message>
         <source>never</source>
@@ -3585,10 +3465,6 @@ Pokračovať?</translation>
 <context>
     <name>DiscoListItem</name>
     <message>
-        <source>Error</source>
-        <translation type="vanished">Chyba</translation>
-    </message>
-    <message>
         <source>There was an error getting items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>Pri získavaní položiek pre &lt;b&gt;%1&lt;/b&gt; nastala chyba.&lt;br&gt;Dôvod: %2</translation>
     </message>
@@ -3642,17 +3518,6 @@ Pokračovať?</translation>
     <message>
         <source>deleted</source>
         <translation>odstránený</translation>
-    </message>
-</context>
-<context>
-    <name>EDBFlatFile::File</name>
-    <message>
-        <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
-        <translation type="vanished">&lt;big&gt;[Systémová Správa]&lt;/big&gt;&lt;br&gt;Teraz si autorizovaný.</translation>
-    </message>
-    <message>
-        <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;Your authorization has been removed!</source>
-        <translation type="vanished">&lt;big&gt;[Systémová Správa]&lt;/big&gt;&lt;br&gt;Tvoja autorizácia bola zrušená!</translation>
     </message>
 </context>
 <context>
@@ -3872,10 +3737,6 @@ Podporuje zapnutie/vypnutie číslovania správ pre jednotlivé kontakty pomocou
         <translation>Dĺžka správy</translation>
     </message>
     <message>
-        <source>Toggle encryption</source>
-        <translation type="vanished">Prepnúť kryptovanie</translation>
-    </message>
-    <message>
         <source>Add URL</source>
         <translation>Pridať URL</translation>
     </message>
@@ -4041,13 +3902,6 @@ Ak chceš túto žiadosť potvrdiť, stlač tlačidlo Potvrdiť. V opačnom prí
     <message>
         <source>Read next event</source>
         <translation>Prečítať ďalšiu udalosť</translation>
-    </message>
-</context>
-<context>
-    <name>EventNotifierAction</name>
-    <message>
-        <source>&lt;Event notifier&gt;</source>
-        <translation type="vanished">&lt;upozornenie na udalosť&gt;</translation>
     </message>
 </context>
 <context>
@@ -4653,14 +4507,6 @@ Dôležité: veľká časť možností predstavuje dôležité systémové nasta
     <message>
         <source>Are you sure you want to cancel the transfer?</source>
         <translation>Naozaj chceš zrušiť prenos?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Áno&amp;</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Nie</translation>
     </message>
     <message>
         <source>Choose a file</source>
@@ -5875,17 +5721,6 @@ Dôvod: %1</translation>
     </message>
 </context>
 <context>
-    <name>GmailNotifyPlugin</name>
-    <message>
-        <source>Choose a sound file</source>
-        <translation type="vanished">Vybrať zvukový súbor</translation>
-    </message>
-    <message>
-        <source>Sound (*.wav)</source>
-        <translation type="vanished">Zvukový súbor (*.waw)</translation>
-    </message>
-</context>
-<context>
     <name>Gnome3StatusWatcher</name>
     <message>
         <source>Authors: </source>
@@ -6264,14 +6099,6 @@ Ak chceš pozvať priateľa na hru, môžeš použiť položku ponuky kontaktu a
 </context>
 <context>
     <name>HistoryImport</name>
-    <message>
-        <source>Status:</source>
-        <translation type="vanished">Stav:</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Chyba</translation>
-    </message>
     <message>
         <source>Upgrade history</source>
         <translation>Aktualizovať históriu</translation>
@@ -7094,14 +6921,6 @@ Are you sure you want to discard them?</source>
 Naozaj ich nehceš publikovať?</translation>
     </message>
     <message>
-        <source>Close and discard</source>
-        <translation type="vanished">Zatvoriť a zabudnúť</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">Nezatvoriť</translation>
-    </message>
-    <message>
         <source>Success</source>
         <translation>Hotovo</translation>
     </message>
@@ -7610,10 +7429,6 @@ Poznámka: Pre správne fungovanie musí byť možnosť options.html.chat.render
         <translation>Zrušiť</translation>
     </message>
     <message>
-        <source>General</source>
-        <translation type="vanished">Všeobecné</translation>
-    </message>
-    <message>
         <source>message</source>
         <translation>správa</translation>
     </message>
@@ -7930,14 +7745,6 @@ Dôvod: %1</translation>
         <translation>Prijať Ďaľšiu Udalosť</translation>
     </message>
     <message>
-        <source>Un&amp;hide</source>
-        <translation type="vanished">Od&amp;kryť</translation>
-    </message>
-    <message>
-        <source>&amp;Hide</source>
-        <translation type="vanished">&amp;Skryť</translation>
-    </message>
-    <message>
         <source>Status Message</source>
         <translation>Stavová Správa</translation>
     </message>
@@ -7996,25 +7803,6 @@ Prichádzajúce udalosti od:</translation>
     <message>
         <source>Enable Sounds</source>
         <translation>Zapnúť zvuky</translation>
-    </message>
-</context>
-<context>
-    <name>MainWindow</name>
-    <message>
-        <source>Quit</source>
-        <translation type="vanished">Koniec</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation type="vanished">Pomoc</translation>
-    </message>
-    <message>
-        <source>Ready</source>
-        <translation type="vanished">Hotovo</translation>
-    </message>
-    <message>
-        <source>About</source>
-        <translation type="vanished">O programe</translation>
     </message>
 </context>
 <context>
@@ -8188,13 +7976,6 @@ Veľkosť: %2</translation>
     <message>
         <source>Remove this message from this device. Cached files are kept.</source>
         <translation>Odstrániť túto správu z tohto zariadenia. Súbory vo vyrovnávacej pamäti sa zachovajú.</translation>
-    </message>
-</context>
-<context>
-    <name>MamImageViewer</name>
-    <message>
-        <source>Image</source>
-        <translation type="vanished">Obrázok</translation>
     </message>
 </context>
 <context>
@@ -10721,10 +10502,6 @@ Názvy možností nesmú byť prázdne, končiť znakom &apos;.&apos; ani obsaho
         <translation>Umožní Psi automaticky zrolovať hlavné okno tak, aby bolo možné vidieť novoprijatú udalosť.</translation>
     </message>
     <message>
-        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation type="vanished">Umožni, aby Psi ignorovalo všetky prijaté &quot;headlines&quot; udalosti, ako sú oznámenia, upozornenia z MSN a podobne.</translation>
-    </message>
-    <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
         <translation>Prinúti Psi ignorovať všetky prichádzajúce udalosti typu „headline“, ako sú oznámenia atď.</translation>
     </message>
@@ -10944,26 +10721,6 @@ Názvy možností nesmú byť prázdne, končiť znakom &apos;.&apos; ani obsaho
     <message>
         <source>Makes Psi open chat windows in compact mode.</source>
         <translation>Umožní Psi otvárať chat-y v kompaktnej veľkosti.</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Kontroluje, ako dlho sa uchová história správ v pamäti po zatvorení okna.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Táto voľba neuchová históriu správ v pamäti.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Táto voľba uchová históriu správ 1 hodinu.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Táto voľba uchová históriu správ 1 deň.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Táto voľba navždy uchová históriu správ.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>Time (HH:mm)</source>
@@ -11873,10 +11630,6 @@ Názvy možností nesmú byť prázdne, končiť znakom &apos;.&apos; ani obsaho
         <translation>Formulár</translation>
     </message>
     <message>
-        <source>General</source>
-        <translation type="vanished">Všeobecné</translation>
-    </message>
-    <message>
         <source>Account:</source>
         <translation>Účet:</translation>
     </message>
@@ -12117,17 +11870,6 @@ Dôvod: %1.</translation>
     <message>
         <source>Please enter your password for %1:</source>
         <translation>Zadaj heslo pre %1:</translation>
-    </message>
-</context>
-<context>
-    <name>Passphrase</name>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">&amp;Zrušiť</translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation type="vanished">&amp;OK</translation>
     </message>
 </context>
 <context>
@@ -12646,88 +12388,6 @@ Dôvod: %1.</translation>
     </message>
 </context>
 <context>
-    <name>ProfileManage</name>
-    <message>
-        <source>Rem&amp;ove</source>
-        <translation type="vanished">O&amp;dobrať</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileManageDlg</name>
-    <message>
-        <source>Rename Profile</source>
-        <translation type="vanished">Premenovať Profil</translation>
-    </message>
-    <message>
-        <source>Please enter a new name for the profile.  Keep it simple.
-Only use letters or numbers.  No punctuation or spaces.</source>
-        <translation type="vanished">Prosím zadaj nový názov profilu. Nech je jednoduchý.
-Použi len písmená a čísla, žiadne medzery a diakritiku.</translation>
-    </message>
-    <message>
-        <source>There is already another profile with this name.  Please choose another.</source>
-        <translation type="vanished">Už existuje iný profil s takýmto názvom.  Prosím, zadaj iný.</translation>
-    </message>
-    <message>
-        <source>Unable to rename the profile.  Please do not use any special characters.</source>
-        <translation type="vanished">Nemôžem premenovať profil. Prosím nepoužívaj špeciálne znaky/symboly.</translation>
-    </message>
-    <message>
-        <source>Delete Profile</source>
-        <translation type="vanished">Zmazať Profil</translation>
-    </message>
-    <message>
-        <source>&lt;qt&gt;Are you sure you want to delete the &quot;&lt;b&gt;%1&lt;/b&gt;&quot; profile?  This will delete all of the profile&apos;s message history as well as associated settings!&lt;/qt&gt;</source>
-        <translation type="vanished">&lt;qt&gt;Naozaj chceš zmazať &quot;&lt;b&gt;%1&lt;/b&gt;&quot; profil?  Spolu s ním zmažeš aj históriu správ a asociované nastavenia!&lt;/qt&gt;</translation>
-    </message>
-    <message>
-        <source>No, I changed my mind</source>
-        <translation type="vanished">Nie, nemaž ho</translation>
-    </message>
-    <message>
-        <source>Delete it!</source>
-        <translation type="vanished">Zmaž ho!</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Nie</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Áno</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileNew</name>
-    <message>
-        <source>New Profile</source>
-        <translation type="vanished">Nový Profil</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Zatvoriť</translation>
-    </message>
-    <message>
-        <source>&amp;Chat</source>
-        <translation type="vanished">&amp;Chat</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileNewDlg</name>
-    <message>
-        <source>New Profile</source>
-        <translation type="vanished">Nový Profil</translation>
-    </message>
-    <message>
-        <source>There is already an existing profile with this name.  Please choose another.</source>
-        <translation type="vanished">Profil s takým názvom už existuje.  Prosím nazvi ho inak.</translation>
-    </message>
-    <message>
-        <source>Unable to create the profile.  Please do not use any special characters.</source>
-        <translation type="vanished">Nie je možné vytvoriť profil.  Prosím, nepoužívaj žiadne špeciálne znaky/symboly.</translation>
-    </message>
-</context>
-<context>
     <name>ProfileOpen</name>
     <message>
         <source>Image goes here</source>
@@ -12736,10 +12396,6 @@ Použi len písmená a čísla, žiadne medzery a diakritiku.</translation>
     <message>
         <source>right</source>
         <translation>vpravo</translation>
-    </message>
-    <message>
-        <source>&amp;Quit</source>
-        <translation type="vanished">&amp;Koniec</translation>
     </message>
     <message>
         <source>Profiles</source>
@@ -12772,18 +12428,6 @@ Použi len písmená a čísla, žiadne medzery a diakritiku.</translation>
 </context>
 <context>
     <name>ProfileOpenDlg</name>
-    <message>
-        <source>Select a profile to open from this list.</source>
-        <translation type="vanished">Vyber si profil, ktorý sa má otvoriť z tohto zoznamu.</translation>
-    </message>
-    <message>
-        <source>Select a language you would like Psi to use from this list.  You can download extra language packs from the Psi homepage.</source>
-        <translation type="vanished">Vyber si jazyk, ktorý chceš použit v Psi. Môžeš si stiahnuť iné jazyky z Psi homepage.</translation>
-    </message>
-    <message>
-        <source>Automatically open this profile when Psi is started.  Useful if you only have one profile.</source>
-        <translation type="vanished">Automaticky otvoriť tento profil pri štarte Psi. Vhodné, ak máš len jeden profil.</translation>
-    </message>
     <message>
         <source>Double-click or press F2 to rename a profile. Press Delete to remove it.</source>
         <translation>Dvojklikom alebo stlačením F2 premenuj profil. Stlačením Delete ho odstrániš.</translation>
@@ -13291,14 +12935,6 @@ Podrobnosti: %1</translation>
         <translation>&lt;p&gt;Psi nebolo schopné lokalizovať OpenPGP kľúč použitý pre &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;To sa mohlo stať ak nemáš kľúč vyžadovaný a propagovaný podpísaným kontaktom, alebo kontakt nepropaguje celkovo žiadny kľúč.&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>&amp;Choose key manually</source>
-        <translation type="vanished">&amp;Vybrať kľúč manuálne</translation>
-    </message>
-    <message>
-        <source>Do &amp;nothing</source>
-        <translation type="vanished">Neurobiť &amp;nič</translation>
-    </message>
-    <message>
         <source>Public Key: %1</source>
         <translation>Verejný Kľúč: %1</translation>
     </message>
@@ -13462,10 +13098,6 @@ Podrobnosti: %1</translation>
         <translation>Poskytuje vhodný spôsob ako zmeniť a získať informácie o aktuálnom stave</translation>
     </message>
     <message>
-        <source>Special item that displays number of pending events</source>
-        <translation type="vanished">Miesto/riadok v zozname, kde sa zobrazuje počet čakajúcich udalostí</translation>
-    </message>
-    <message>
         <source>Active contacts</source>
         <translation>Aktívne kontakty</translation>
     </message>
@@ -13480,10 +13112,6 @@ Podrobnosti: %1</translation>
     <message>
         <source>&amp;Add a Contact</source>
         <translation>&amp;Pridať kontakt</translation>
-    </message>
-    <message>
-        <source>&amp;XML Console</source>
-        <translation type="vanished">&amp;XML Konzola</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
@@ -13504,14 +13132,6 @@ Podrobnosti: %1</translation>
     <message>
         <source>Join &amp;Groupchat</source>
         <translation>Navštíviť Skupinový &amp;Chat</translation>
-    </message>
-    <message>
-        <source>Account Setup</source>
-        <translation type="vanished">Nastavenie konta</translation>
-    </message>
-    <message>
-        <source>Acc&amp;ount Setup</source>
-        <translation type="vanished">Nastavenia &amp;konta</translation>
     </message>
     <message>
         <source>Options</source>
@@ -13542,10 +13162,6 @@ Podrobnosti: %1</translation>
         <translation>Prehrávať &amp;zvuky</translation>
     </message>
     <message>
-        <source>Toggles whether sound should be played or not</source>
-        <translation type="vanished">Prepne, či je možné prehrať zvuk, alebo nie</translation>
-    </message>
-    <message>
         <source>Quit</source>
         <translation>Koniec</translation>
     </message>
@@ -13556,18 +13172,6 @@ Podrobnosti: %1</translation>
     <message>
         <source>Quits Psi</source>
         <translation>Ukončí Psi</translation>
-    </message>
-    <message>
-        <source>Tip of the Day</source>
-        <translation type="vanished">Tip dňa</translation>
-    </message>
-    <message>
-        <source>&amp;Tip of the Day</source>
-        <translation type="vanished">&amp;Tip dňa</translation>
-    </message>
-    <message>
-        <source>See many useful tips</source>
-        <translation type="vanished">Pozri si používateľské tipy</translation>
     </message>
     <message>
         <source>Transfer Manager</source>
@@ -14409,14 +14013,6 @@ Migrácia je možná pomocou Psi-0.15</translation>
         <translation>Naozaj chceš zrušiť autorizáciu pre &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Áno</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Nie</translation>
-    </message>
-    <message>
         <source>Choose an Image</source>
         <translation>Vybrať obrázok</translation>
     </message>
@@ -14821,10 +14417,6 @@ Chcete teraz aktivovať túto reláciu?</translation>
         <translation>Zobraziť kontakty</translation>
     </message>
     <message>
-        <source>Event notifier</source>
-        <translation type="vanished">Upozorňovať na udalosť</translation>
-    </message>
-    <message>
         <source>Auto Status (idle)</source>
         <translation>Automatický stav (nečinný)</translation>
     </message>
@@ -14965,21 +14557,6 @@ Chcete teraz aktivovať túto reláciu?</translation>
     <message>
         <source>Home</source>
         <translation>Domov</translation>
-    </message>
-</context>
-<context>
-    <name>PsiThumbnailToolBar</name>
-    <message>
-        <source>Options</source>
-        <translation type="vanished">Nastavenia</translation>
-    </message>
-    <message>
-        <source>Online</source>
-        <translation type="vanished">Online</translation>
-    </message>
-    <message>
-        <source>Offline</source>
-        <translation type="vanished">Offline</translation>
     </message>
 </context>
 <context>
@@ -16711,14 +16288,6 @@ Thanks for your patience.</source>
         <translation>&lt;qt&gt;Registrácia bola odoslaná, takže zatvorenie tohto okna ju už nezastaví. Naozaj ho chceš zatvoriť?&lt;/qt&gt;</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Áno</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Nie</translation>
-    </message>
-    <message>
         <source>Fetching registration form for %1 ...</source>
         <translation>Sťahujem registračný formulár z %1 ...</translation>
     </message>
@@ -17272,17 +16841,6 @@ Dôvod: %1</translation>
     <message>
         <source>Only &amp;Paste</source>
         <translation>Iba &amp;vložiť</translation>
-    </message>
-</context>
-<context>
-    <name>SeparatorAction</name>
-    <message>
-        <source>&lt;Separator&gt;</source>
-        <translation type="vanished">&lt;separátor&gt;</translation>
-    </message>
-    <message>
-        <source>Separator</source>
-        <translation type="vanished">separátor</translation>
     </message>
 </context>
 <context>
@@ -18411,21 +17969,6 @@ Oprav ho a skús to znova.</translation>
     </message>
 </context>
 <context>
-    <name>Tip</name>
-    <message>
-        <source>&amp;Previous</source>
-        <translation type="vanished">&amp;Predchádzajúci</translation>
-    </message>
-    <message>
-        <source>&amp;Next</source>
-        <translation type="vanished">&amp;Ďaľší</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Zatvoriť</translation>
-    </message>
-</context>
-<context>
     <name>TipDlg</name>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
@@ -18805,21 +18348,6 @@ Na prácu s prehrávačom Parole musíš povoliť modul/plugin MPRIS2.</translat
     </message>
 </context>
 <context>
-    <name>ViewMailDlg</name>
-    <message>
-        <source>From:</source>
-        <translation type="vanished">Od:</translation>
-    </message>
-    <message>
-        <source>Subject:</source>
-        <translation type="vanished">Predmet:</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Zatvoriť</translation>
-    </message>
-</context>
-<context>
     <name>Viewer</name>
     <message>
         <source>Find</source>
@@ -18975,21 +18503,6 @@ Na prácu s prehrávačom Parole musíš povoliť modul/plugin MPRIS2.</translat
 On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
         <translation>Tento plugin slúži na sledovanie stavu vybraných kontaktov v zozname kontaktov, ako aj na nahradenie štandardných zvukov prichádzajúcich správ.
 Na prvej karte sa nastavuje zoznam kontaktov, ktorých stav sa sleduje. Keď sa stav takýchto kontaktov zmení, zobrazí sa vyskakovacie okno a pri zmene stavu na online možno prehrať vlastný zvuk.Na druhej karte sa nastavuje zoznam položiek, ktorých správy sa sledujú. Každá položka môže obsahovať regulárny výraz na kontrolu zhody s JID, z ktorého správa prichádza, zoznam regulárnych výrazov na kontrolu zhody s textom prichádzajúcej správy, cestu k zvukovému súboru, ktorý sa prehrá v prípade zhody, ako aj nastavenie, či sa zvuk prehrá vždy, aj keď sú globálne zvuky vypnuté. </translation>
-    </message>
-</context>
-<context>
-    <name>WbDlg</name>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Varovanie</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Áno</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Nie</translation>
     </message>
 </context>
 <context>
@@ -19422,10 +18935,6 @@ Na prvej karte sa nastavuje zoznam kontaktov, ktorých stav sa sleduje. Keď sa 
 </context>
 <context>
     <name>XMLConsole</name>
-    <message>
-        <source>XML Console</source>
-        <translation type="vanished">XML Konzola</translation>
-    </message>
     <message>
         <source>Filter</source>
         <translation>Filter</translation>
@@ -19882,10 +19391,6 @@ Na prvej karte sa nastavuje zoznam kontaktov, ktorých stav sa sleduje. Keď sa 
 </context>
 <context>
     <name>XmlConsole</name>
-    <message>
-        <source>XML Console</source>
-        <translation type="vanished">XML Konzola</translation>
-    </message>
     <message>
         <source>XMPP Console</source>
         <translation>Konzola XMPP</translation>

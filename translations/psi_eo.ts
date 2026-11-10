@@ -420,10 +420,6 @@ Marku la markobutonon &lt;b&gt;Registri novan konton&lt;/b&gt;, se vi volas, ke 
         <translation>Redakti personajn &amp;detalojn...</translation>
     </message>
     <message>
-        <source>OpenPGP</source>
-        <translation type="vanished">OpenPGP</translation>
-    </message>
-    <message>
         <source>Privacy</source>
         <translation>Privateco</translation>
     </message>
@@ -588,10 +584,6 @@ Marku la markobutonon &lt;b&gt;Registri novan konton&lt;/b&gt;, se vi volas, ke 
         <translation>Neniam</translation>
     </message>
     <message>
-        <source>Legacy SSL</source>
-        <translation type="vanished">Hereda SSL</translation>
-    </message>
-    <message>
         <source>Over encrypted connection</source>
         <translation>Super ĉifrita konekto</translation>
     </message>
@@ -688,28 +680,8 @@ Marku la markobutonon &lt;b&gt;Registri novan konton&lt;/b&gt;, se vi volas, ke 
         <translation>Uzantonomo:</translation>
     </message>
     <message>
-        <source>No Key Selected</source>
-        <translation type="vanished">Neniu Klavo Elektitas</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Eraro</translation>
-    </message>
-    <message>
-        <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation type="vanished">Hereda SSL estas havebla nur kun manuma gastiganto/pordo.</translation>
-    </message>
-    <message>
-        <source>SSL error</source>
-        <translation type="vanished">SSL eraro</translation>
-    </message>
-    <message>
-        <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation type="vanished">Ne eblis aktivigi SSL/TLS.  Kromaĵo ne trovitas.</translation>
-    </message>
-    <message>
-        <source>Secret Key</source>
-        <translation type="vanished">Sekreta Klavo</translation>
     </message>
     <message>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
@@ -862,10 +834,6 @@ Marku la markobutonon &lt;b&gt;Registri novan konton&lt;/b&gt;, se vi volas, ke 
         <translation>Kiam havebla</translation>
     </message>
     <message>
-        <source>Legacy SSL</source>
-        <translation type="vanished">Hereda SSL</translation>
-    </message>
-    <message>
         <source>Warning</source>
         <translation>Averto</translation>
     </message>
@@ -874,20 +842,8 @@ Marku la markobutonon &lt;b&gt;Registri novan konton&lt;/b&gt;, se vi volas, ke 
         <translation>Ĉu vi certas ke vi volas nuligi la registradon?</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Jes</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Ne</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Eraro</translation>
-    </message>
-    <message>
-        <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation type="vanished">Hereda SSL estas havebla nur kun la manuma gastiganto/pordo.</translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -1033,10 +989,6 @@ Kialo: %1</translation>
 </context>
 <context>
     <name>ActiveProfiles</name>
-    <message>
-        <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation type="vanished">Tiu psi profilo jam estas rulanta...&lt;br&gt;bonvolu atendi...</translation>
-    </message>
     <message>
         <source>This Psi profile is already running...&lt;br&gt;Please wait...</source>
         <translation>Tiu ĉi Psi-profilo jam funkcias...&lt;br&gt;Bonvolu atendi...</translation>
@@ -1799,21 +1751,6 @@ Por inviti amikon al ludo, vi povas uzi eron en la kontakta menuo aŭ la butonon
     </message>
 </context>
 <context>
-    <name>Call</name>
-    <message>
-        <source>To:</source>
-        <translation type="vanished">Al:</translation>
-    </message>
-    <message>
-        <source>&amp;Reject</source>
-        <translation type="vanished">&amp;Malakcepti</translation>
-    </message>
-    <message>
-        <source>&amp;Accept</source>
-        <translation type="vanished">&amp;Akcepti</translation>
-    </message>
-</context>
-<context>
     <name>CallDlg</name>
     <message>
         <source>Call</source>
@@ -1890,33 +1827,6 @@ Por inviti amikon al ludo, vi povas uzi eron en la kontakta menuo aŭ la butonon
     <message>
         <source>Refused: the encryption could not be verified with a trusted OMEMO device of the contact. See Options &gt; Security.</source>
         <translation>Rifuzita: la ĉifrado ne povis esti kontrolita per fidata OMEMO-aparato de la kontakto. Vidu Agordoj &gt; Sekureco.</translation>
-    </message>
-</context>
-<context>
-    <name>CallDlg::Private</name>
-    <message>
-        <source>Voice Call</source>
-        <translation type="vanished">Alvoko</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Fermi</translation>
-    </message>
-    <message>
-        <source>Ready</source>
-        <translation type="vanished">Pretas</translation>
-    </message>
-    <message>
-        <source>From:</source>
-        <translation type="vanished">De:</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">&amp;Nuligi</translation>
-    </message>
-    <message>
-        <source>Accepting...</source>
-        <translation type="vanished">Akceptanta...</translation>
     </message>
 </context>
 <context>
@@ -2269,10 +2179,6 @@ Kialo: %1</translation>
         <translation>Alvoko</translation>
     </message>
     <message>
-        <source>Toggle encryption</source>
-        <translation type="vanished">Inversigi aktivecon de ĉifrado</translation>
-    </message>
-    <message>
         <source>Select icon</source>
         <translation>Elekti piktogramon</translation>
     </message>
@@ -2313,22 +2219,6 @@ Do you still want to close the window?</source>
     <message>
         <source>&lt;p&gt;Encryption was recently disabled by the remote contact.  Are you sure you want to send this message without encryption?&lt;/p&gt;</source>
         <translation>&lt;p&gt;Ĉifrado estis lastatempe malŝaltita fare de la fora kontaktulo.  Ĉu vi estas certa ke vi volas sendi tiun ĉi mesaĝon sen ĉifrado?&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Jes</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Ne</translation>
-    </message>
-    <message>
-        <source>Encryption Enabled</source>
-        <translation type="vanished">Ĉifrado Aktiviĝis</translation>
-    </message>
-    <message>
-        <source>Encryption Disabled</source>
-        <translation type="vanished">Ĉifrado Malaktiviĝis</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
@@ -2441,17 +2331,6 @@ Do you still want to close the window?</source>
             <numerusform>antaŭ %n jaro</numerusform>
             <numerusform>antaŭ %n jaroj</numerusform>
         </translation>
-    </message>
-</context>
-<context>
-    <name>ChatView</name>
-    <message>
-        <source>%1 says:</source>
-        <translation type="vanished">%1 diras:</translation>
-    </message>
-    <message>
-        <source>Subject:</source>
-        <translation type="vanished">Temo:</translation>
     </message>
 </context>
 <context>
@@ -3049,10 +2928,6 @@ Noto: Por ĝusta funkciado, la ilobreto de grupaj babiladoj devas esti ŝaltita.
         <translation>Privatecaj listoj</translation>
     </message>
     <message>
-        <source>&amp;XML Console</source>
-        <translation type="vanished">&amp;XMLa konzolo</translation>
-    </message>
-    <message>
         <source>&amp;Modify Account...</source>
         <translation>&amp;Modifi Konton...</translation>
     </message>
@@ -3081,20 +2956,12 @@ Noto: Por ĝusta funkciado, la ilobreto de grupaj babiladoj devas esti ŝaltita.
         <translation>Avataro</translation>
     </message>
     <message>
-        <source>Groupchat</source>
-        <translation type="vanished">Babilejoj</translation>
-    </message>
-    <message>
         <source>Plugins</source>
         <translation>Kromaĵoj</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
         <translation>&amp;Administri</translation>
-    </message>
-    <message>
-        <source>Join %1</source>
-        <translation type="vanished">Aliĝi al %1</translation>
     </message>
     <message>
         <source>Groupchats</source>
@@ -3406,21 +3273,6 @@ Proceed?</source>
     </message>
 </context>
 <context>
-    <name>CreateGroupDlg</name>
-    <message>
-        <source>Create New Group</source>
-        <translation type="vanished">Krei Novan Grupon</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="vanished">Aldoni</translation>
-    </message>
-    <message>
-        <source>&lt;None&gt;</source>
-        <translation type="vanished">&lt;Neniu&gt;</translation>
-    </message>
-</context>
-<context>
     <name>DateWidget</name>
     <message>
         <source>never</source>
@@ -3608,10 +3460,6 @@ Proceed?</source>
 <context>
     <name>DiscoListItem</name>
     <message>
-        <source>Error</source>
-        <translation type="vanished">Eraro</translation>
-    </message>
-    <message>
         <source>There was an error getting items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>Okazis eraro akirante la elementojn por &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Kialo: %2</translation>
     </message>
@@ -3665,28 +3513,6 @@ Proceed?</source>
     <message>
         <source>deleted</source>
         <translation>forigita</translation>
-    </message>
-</context>
-<context>
-    <name>Drawer</name>
-    <message>
-        <source>Yes</source>
-        <translation type="vanished">Jes</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">Ne</translation>
-    </message>
-</context>
-<context>
-    <name>EDBFlatFile::File</name>
-    <message>
-        <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
-        <translation type="vanished">&lt;big&gt;[Sistema Mesaĝo]&lt;/big&gt;&lt;br&gt;Vi nun estas rajtigita.</translation>
-    </message>
-    <message>
-        <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;Your authorization has been removed!</source>
-        <translation type="vanished">&lt;big&gt;[Sistema Mesaĝo]&lt;/big&gt;&lt;br&gt;Via rajtigo estis elprenita!</translation>
     </message>
 </context>
 <context>
@@ -3904,10 +3730,6 @@ Supports per contact on / off message enumeration via the buttons on the chats t
     <message>
         <source>Message length</source>
         <translation>Longeco de mesaĝo</translation>
-    </message>
-    <message>
-        <source>Toggle encryption</source>
-        <translation type="vanished">Inversigi aktivecon de ĉifrado</translation>
     </message>
     <message>
         <source>Add URL</source>
@@ -4682,14 +4504,6 @@ Grave: granda parto de la opcioj estas gravaj sistemagordoj. Ili postulas aparta
         <translation>Ĉu vi certas, ke vi volas nuligu la ŝuton?</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Jes</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Ne</translation>
-    </message>
-    <message>
         <source>Choose a file</source>
         <translation>Elektu dosieron</translation>
     </message>
@@ -5380,10 +5194,6 @@ Kialo: %1</translation>
         <translation>Malfermi &amp;babilan fenestron</translation>
     </message>
     <message>
-        <source>Voice Call</source>
-        <translation type="vanished">Alvoko</translation>
-    </message>
-    <message>
         <source>E&amp;xecute Command</source>
         <translation>Plen&amp;umi komandon</translation>
     </message>
@@ -5906,17 +5716,6 @@ Kialo: %1</translation>
     </message>
 </context>
 <context>
-    <name>GmailNotifyPlugin</name>
-    <message>
-        <source>Choose a sound file</source>
-        <translation type="vanished">Elektu sondosieron</translation>
-    </message>
-    <message>
-        <source>Sound (*.wav)</source>
-        <translation type="vanished">Sono (*.wav)</translation>
-    </message>
-</context>
-<context>
     <name>Gnome3StatusWatcher</name>
     <message>
         <source>Authors: </source>
@@ -6295,14 +6094,6 @@ Por inviti amikon al ludo, vi povas uzi la menuero de la kontakto aŭ la butonon
 </context>
 <context>
     <name>HistoryImport</name>
-    <message>
-        <source>Status:</source>
-        <translation type="vanished">Stato:</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Eraro</translation>
-    </message>
     <message>
         <source>Upgrade history</source>
         <translation>Ĝisdatigi historion</translation>
@@ -7125,14 +6916,6 @@ Are you sure you want to discard them?</source>
 Ĉu vi certas ke vi volas forĵeti ilin?</translation>
     </message>
     <message>
-        <source>Close and discard</source>
-        <translation type="vanished">Fermi kaj forĵeti</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">Ne fermi</translation>
-    </message>
-    <message>
         <source>Success</source>
         <translation>Sukceso</translation>
     </message>
@@ -7641,10 +7424,6 @@ Noto: Por ĝusta funkciado, la opcio options.html.chat.render    devas esti agor
         <translation>Forigi</translation>
     </message>
     <message>
-        <source>General</source>
-        <translation type="vanished">Ĝenerale</translation>
-    </message>
-    <message>
         <source>message</source>
         <translation>mesaĝo</translation>
     </message>
@@ -7706,14 +7485,6 @@ Noto: Por ĝusta funkciado, la opcio options.html.chat.render    devas esti agor
     <message>
         <source>Are you absolutely certain you want to destroy this room?</source>
         <translation>Ĉu vi estas tute certa, ke vi volas malkonstrui tiun babilejon?</translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="vanished">Jes</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">Ne</translation>
     </message>
     <message>
         <source>There was an error retrieving the room configuration</source>
@@ -7969,14 +7740,6 @@ Kialo: %1</translation>
         <translation>Ricevi la venontan eventon</translation>
     </message>
     <message>
-        <source>Un&amp;hide</source>
-        <translation type="vanished">&amp;Malkaŝi</translation>
-    </message>
-    <message>
-        <source>&amp;Hide</source>
-        <translation type="vanished">&amp;Kaŝi</translation>
-    </message>
-    <message>
         <source>Status Message</source>
         <translation>Stata mesaĝo</translation>
     </message>
@@ -8035,25 +7798,6 @@ Alvenantaj eventoj de:</translation>
     <message>
         <source>Enable Sounds</source>
         <translation>Ŝalti sonojn</translation>
-    </message>
-</context>
-<context>
-    <name>MainWindow</name>
-    <message>
-        <source>Quit</source>
-        <translation type="vanished">Eliri</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation type="vanished">Helpo</translation>
-    </message>
-    <message>
-        <source>Ready</source>
-        <translation type="vanished">Pretas</translation>
-    </message>
-    <message>
-        <source>About</source>
-        <translation type="vanished">Pri</translation>
     </message>
 </context>
 <context>
@@ -8227,13 +7971,6 @@ Grando: %2</translation>
     <message>
         <source>Remove this message from this device. Cached files are kept.</source>
         <translation>Forigi ĉi tiun mesaĝon el ĉi tiu aparato. Kaŝmemorigitaj dosieroj restas konservataj.</translation>
-    </message>
-</context>
-<context>
-    <name>MamImageViewer</name>
-    <message>
-        <source>Image</source>
-        <translation type="vanished">Bildo</translation>
     </message>
 </context>
 <context>
@@ -10092,10 +9829,6 @@ p, li { white-space: pre-wrap; }
         <translation>Redakti opcion %1</translation>
     </message>
     <message>
-        <source>Psi: Option Editor</source>
-        <translation type="vanished">Psi: Opcia Redaktilo</translation>
-    </message>
-    <message>
         <source>Can&apos;t edit this type of setting, sorry.</source>
         <translation>Pardonu, ne eblas redakti ĉi tiun tipon de agordo.</translation>
     </message>
@@ -10764,10 +10497,6 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
         <translation>Psio rulumu la ĉefan fenestron aŭtomate por ke vi povu vidi novajn envenantajn eventojn.</translation>
     </message>
     <message>
-        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation type="vanished">Psi ignoru ĉiujn envenantajn &quot;ĉefliniajn&quot;eventojn, kiel sistemvastajn novaĵojn pri MSN, anoncadojn, ktp.</translation>
-    </message>
-    <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
         <translation>Psi ignoru ĉiujn envenantajn eventojn «Headline», kiel anoncojn ktp.</translation>
     </message>
@@ -10987,26 +10716,6 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
     <message>
         <source>Makes Psi open chat windows in compact mode.</source>
         <translation>Psi malfermu babilajn fenestrojn en kompakta maniero.</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Kontrolas por kiom da tempo la historio de babilo estos konservita en memoro post tiam ke la babilo-fenestro estas fermita.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Tiu ĉi elekto ne konservas la babilan historion en memoro.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Tiu ĉi elekto konservas la babilan historion dum unu horo antaŭ ol forigesi ĝin.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Tiu ĉi elekto konservas la babilan historion dum unu tago antaŭ ol forgesi ĝin.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Tiu ĉi opcio konservos la babilan historion eterne.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>Time (HH:mm)</source>
@@ -11234,10 +10943,6 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
     <message>
         <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
         <translation>Psio montru kalkulilon de longeco de mesaĝo. Elektu tion ĉi se vivolas scii kiom longas vian mesaĝon. Tio ĉi eble utilas, se vi uzas SMSan transporton.</translation>
-    </message>
-    <message>
-        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation type="vanished">Se ŝaltita, Psi montros la enirantajn mesaĝojn per la formato, kiun difinis la kontakto</translation>
     </message>
     <message>
         <source>Never, only when asked</source>
@@ -11920,10 +11625,6 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
         <translation>Formularo</translation>
     </message>
     <message>
-        <source>General</source>
-        <translation type="vanished">Ĝenerale</translation>
-    </message>
-    <message>
         <source>Account:</source>
         <translation>Konto:</translation>
     </message>
@@ -12130,10 +11831,6 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
         <translation>Bonvolu elekti ŝlosilon.</translation>
     </message>
     <message>
-        <source>Key Storage Diagnostic Text</source>
-        <translation type="vanished">Ŝlosila Konserva Diagnoza Tekso</translation>
-    </message>
-    <message>
         <source>GnuPG info</source>
         <translation>Informoj pri GnuPG</translation>
     </message>
@@ -12168,24 +11865,6 @@ Kialo: %1.</translation>
     <message>
         <source>Please enter your password for %1:</source>
         <translation>Bonvolu enigi vian pasvorton por %1:</translation>
-    </message>
-</context>
-<context>
-    <name>Passphrase</name>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">&amp;Nuligi</translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation type="vanished">&amp;Bone</translation>
-    </message>
-</context>
-<context>
-    <name>PassphraseDlg</name>
-    <message>
-        <source>%1: OpenPGP Passphrase</source>
-        <translation type="vanished">%1: OpenPGP Pasfrazo</translation>
     </message>
 </context>
 <context>
@@ -12704,92 +12383,6 @@ Kialo: %1.</translation>
     </message>
 </context>
 <context>
-    <name>ProfileManage</name>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="vanished">&amp;Aldoni</translation>
-    </message>
-    <message>
-        <source>Rem&amp;ove</source>
-        <translation type="vanished">&amp;Forigi</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileManageDlg</name>
-    <message>
-        <source>Rename Profile</source>
-        <translation type="vanished">Renomi profilon</translation>
-    </message>
-    <message>
-        <source>Please enter a new name for the profile.  Keep it simple.
-Only use letters or numbers.  No punctuation or spaces.</source>
-        <translation type="vanished">Bonvolu enskribi novan nomon por tiu ĉi profilo.  Ĝi estu simpla.
-Uzu nur literojn aŭ numerojn.  Neniun interpunkcion aŭ spacetojn.</translation>
-    </message>
-    <message>
-        <source>There is already another profile with this name.  Please choose another.</source>
-        <translation type="vanished">Estas jam alia profilo kun tiu ĉi nomo.  Bonvolu elekti alian.</translation>
-    </message>
-    <message>
-        <source>Unable to rename the profile.  Please do not use any special characters.</source>
-        <translation type="vanished">Ne eblas renomi la profilon.  Bonvolu ne uzi iun ajn specialajn signojn.</translation>
-    </message>
-    <message>
-        <source>Delete Profile</source>
-        <translation type="vanished">Forviŝu Profilon</translation>
-    </message>
-    <message>
-        <source>&lt;qt&gt;Are you sure you want to delete the &quot;&lt;b&gt;%1&lt;/b&gt;&quot; profile?  This will delete all of the profile&apos;s message history as well as associated settings!&lt;/qt&gt;</source>
-        <translation type="vanished">&lt;qt&gt;Ĉu vi certas ke vi volas forviŝi la  profilon &quot;&lt;b&gt;%1&lt;/b&gt;&quot;?  Tio ĉi forviŝos la tutan mesaĝan historion de la profilo kaj la rilatajn agordojn!&lt;/qt&gt;</translation>
-    </message>
-    <message>
-        <source>No, I changed my mind</source>
-        <translation type="vanished">Ne, mia opinio ŝanĝiĝis</translation>
-    </message>
-    <message>
-        <source>Delete it!</source>
-        <translation type="vanished">Forviŝu ĝin!</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Ne</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Jes</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileNew</name>
-    <message>
-        <source>New Profile</source>
-        <translation type="vanished">Nova Profilon</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Fermi</translation>
-    </message>
-    <message>
-        <source>&amp;Chat</source>
-        <translation type="vanished">&amp;Babili</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileNewDlg</name>
-    <message>
-        <source>New Profile</source>
-        <translation type="vanished">Nova Profilon</translation>
-    </message>
-    <message>
-        <source>There is already an existing profile with this name.  Please choose another.</source>
-        <translation type="vanished">Estas jam alia profilo kun tiu ĉi nomo.  Bonvolu elekti alion.</translation>
-    </message>
-    <message>
-        <source>Unable to create the profile.  Please do not use any special characters.</source>
-        <translation type="vanished">Malkapable krei la profilon.  Bonvolu ne uzi iun ajn specialajn signojn.</translation>
-    </message>
-</context>
-<context>
     <name>ProfileOpen</name>
     <message>
         <source>Image goes here</source>
@@ -12798,10 +12391,6 @@ Uzu nur literojn aŭ numerojn.  Neniun interpunkcion aŭ spacetojn.</translation
     <message>
         <source>right</source>
         <translation>dekstre</translation>
-    </message>
-    <message>
-        <source>&amp;Quit</source>
-        <translation type="vanished">&amp;Eliri</translation>
     </message>
     <message>
         <source>Profiles</source>
@@ -12834,18 +12423,6 @@ Uzu nur literojn aŭ numerojn.  Neniun interpunkcion aŭ spacetojn.</translation
 </context>
 <context>
     <name>ProfileOpenDlg</name>
-    <message>
-        <source>Select a profile to open from this list.</source>
-        <translation type="vanished">Elektu profilon malfermotan de tiu ĉi listo.</translation>
-    </message>
-    <message>
-        <source>Select a language you would like Psi to use from this list.  You can download extra language packs from the Psi homepage.</source>
-        <translation type="vanished">Elektu lingvon de tiu ĉi listo, por ke Psio ĝin uzu.  Vi povas elŝuti pliajn lingvo-pakojn de la Psi-hejmpaĝo.</translation>
-    </message>
-    <message>
-        <source>Automatically open this profile when Psi is started.  Useful if you only have one profile.</source>
-        <translation type="vanished">Aŭtomate malfermi tiun ĉi profilon kiam Psi startas.  Ĝi utilas se vi havas nur unu profilon.</translation>
-    </message>
     <message>
         <source>Double-click or press F2 to rename a profile. Press Delete to remove it.</source>
         <translation>Duoble alklaku aŭ premu F2 por alinomi profilon. Premu Delete por forviŝi ĝin.</translation>
@@ -13340,12 +12917,6 @@ Details: %1</source>
         <translation>Ĉeflinio</translation>
     </message>
     <message>
-        <source>There was an error trying to sign your status.
-Reason: %1.</source>
-        <translation type="vanished">Okazis eraro provante signi vian staton.
-Kialo: %1.</translation>
-    </message>
-    <message>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[ERARO: Tiu mesaĝo estas ĉifrita, kaj vi ne kapablas malĉifri ĝin.]</translation>
     </message>
@@ -13356,14 +12927,6 @@ Kialo: %1.</translation>
     <message>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Psi estis malkapabla trovi la OpenPGPan ŝlosilon uzotan por &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Tio ĉi povas okazi, se vi ne havas la ŝlosilon kiun la kontaktulo anoncantas per subskribita ĉeesto, aŭ se la kontaktulo estas anoncanta nenian ŝlosilon.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&amp;Choose key manually</source>
-        <translation type="vanished">&amp;Elekti ŝlosilon mane</translation>
-    </message>
-    <message>
-        <source>Do &amp;nothing</source>
-        <translation type="vanished">&amp;Fari nenion</translation>
     </message>
     <message>
         <source>Public Key: %1</source>
@@ -13529,10 +13092,6 @@ Kialo: %1.</translation>
         <translation>Provizas oportunan manieron ŝanĝi kaj akiri informon pri la nuntempa stato</translation>
     </message>
     <message>
-        <source>Special item that displays number of pending events</source>
-        <translation type="vanished">Speciala elemento kiu montras nombron de atendantaj eventoj</translation>
-    </message>
-    <message>
         <source>Active contacts</source>
         <translation>Aktivaj kontaktuloj</translation>
     </message>
@@ -13547,10 +13106,6 @@ Kialo: %1.</translation>
     <message>
         <source>&amp;Add a Contact</source>
         <translation>&amp;Aldoni kontakton</translation>
-    </message>
-    <message>
-        <source>&amp;XML Console</source>
-        <translation type="vanished">&amp;XMLa konzolo</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
@@ -13571,14 +13126,6 @@ Kialo: %1.</translation>
     <message>
         <source>Join &amp;Groupchat</source>
         <translation>Aliĝi al &amp;babilejo</translation>
-    </message>
-    <message>
-        <source>Account Setup</source>
-        <translation type="vanished">Agordi la kontojn</translation>
-    </message>
-    <message>
-        <source>Acc&amp;ount Setup</source>
-        <translation type="vanished">Agordi &amp;kontojn</translation>
     </message>
     <message>
         <source>Options</source>
@@ -13609,10 +13156,6 @@ Kialo: %1.</translation>
         <translation>Ludi &amp;sonojn</translation>
     </message>
     <message>
-        <source>Toggles whether sound should be played or not</source>
-        <translation type="vanished">Ŝanĝas ĉu sonoj devas aŭdiĝi</translation>
-    </message>
-    <message>
         <source>Quit</source>
         <translation>Eliri</translation>
     </message>
@@ -13623,18 +13166,6 @@ Kialo: %1.</translation>
     <message>
         <source>Quits Psi</source>
         <translation>Eliras Psion</translation>
-    </message>
-    <message>
-        <source>Tip of the Day</source>
-        <translation type="vanished">Taga konsilo</translation>
-    </message>
-    <message>
-        <source>&amp;Tip of the Day</source>
-        <translation type="vanished">&amp;Taga konsilo</translation>
-    </message>
-    <message>
-        <source>See many useful tips</source>
-        <translation type="vanished">Vidi multajn utilajn konsilojn</translation>
     </message>
     <message>
         <source>Transfer Manager</source>
@@ -14277,10 +13808,6 @@ Kialo: %1.</translation>
         <translation>Vi ne povas malŝalti &lt;i&gt;ĉiujn&lt;/i&gt; ilobretojn &lt;i&gt;kaj&lt;/i&gt; la menubreton. Tiukaze, vi ne povus reŝalti ilin, kiam vi ŝanĝus opinion.</translation>
     </message>
     <message>
-        <source>I understand</source>
-        <translation type="vanished">Mi komprenas</translation>
-    </message>
-    <message>
         <source>Call ended</source>
         <translation>Alvoko finiĝis</translation>
     </message>
@@ -14477,14 +14004,6 @@ Migrado eblas per Psi-0.15</translation>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
         <translation>Ĉu vi certas ke vi volas forigi rajtigilon de &lt;b&gt;%1&lt;/b&gt;?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Jes</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>Choose an Image</source>
@@ -14891,10 +14410,6 @@ Would you like to activate that session now?</source>
         <translation>Montri kontaktulojn</translation>
     </message>
     <message>
-        <source>Event notifier</source>
-        <translation type="vanished">Notifilo de eventoj</translation>
-    </message>
-    <message>
         <source>Auto Status (idle)</source>
         <translation>Aŭtomata stato (mallaboranta)</translation>
     </message>
@@ -14908,14 +14423,6 @@ Would you like to activate that session now?</source>
     <message>
         <source>(no selection)</source>
         <translation>(neniu elektaĵo)</translation>
-    </message>
-    <message>
-        <source>Flat</source>
-        <translation type="vanished">Plata</translation>
-    </message>
-    <message>
-        <source>Display all options as a flat list.</source>
-        <translation type="vanished">Montri ĉiujn opciojn kiel plata listo.</translation>
     </message>
     <message>
         <source>Delete...</source>
@@ -14932,10 +14439,6 @@ Would you like to activate that session now?</source>
     <message>
         <source>Add...</source>
         <translation>Aldoni...</translation>
-    </message>
-    <message>
-        <source>Advanced</source>
-        <translation type="vanished">Sperta</translation>
     </message>
     <message>
         <source>(internal node)</source>
@@ -15047,21 +14550,6 @@ Would you like to activate that session now?</source>
     <message>
         <source>Home</source>
         <translation>Hejmpaĝo</translation>
-    </message>
-</context>
-<context>
-    <name>PsiThumbnailToolBar</name>
-    <message>
-        <source>Options</source>
-        <translation type="vanished">Opcioj</translation>
-    </message>
-    <message>
-        <source>Online</source>
-        <translation type="vanished">Konektita</translation>
-    </message>
-    <message>
-        <source>Offline</source>
-        <translation type="vanished">Senkonekta</translation>
     </message>
 </context>
 <context>
@@ -16021,42 +15509,6 @@ Priskribo: </translation>
         <source>&lt;unnamed%1&gt;</source>
         <translation>&lt;sennoma%1&gt;</translation>
     </message>
-    <message>
-        <source>Invalid passphrase</source>
-        <translation type="vanished">nevalida pasfrazo</translation>
-    </message>
-    <message>
-        <source>Invalid input format</source>
-        <translation type="vanished">nevalida enigformato</translation>
-    </message>
-    <message>
-        <source>Signing key expired</source>
-        <translation type="vanished">La marko de la ŝlosilo trodatis</translation>
-    </message>
-    <message>
-        <source>Invalid key</source>
-        <translation type="vanished">Nevalida ŝlosilo</translation>
-    </message>
-    <message>
-        <source>Encrypting key expired</source>
-        <translation type="vanished">Ĉifra ŝlosilo trodatis</translation>
-    </message>
-    <message>
-        <source>Encrypting key is untrusted</source>
-        <translation type="vanished">Ĉifra ŝlosilo estas nefidinda</translation>
-    </message>
-    <message>
-        <source>Encrypting key is invalid</source>
-        <translation type="vanished">Ĉifra ŝlosilo estas nevalida</translation>
-    </message>
-    <message>
-        <source>PGP card is missing</source>
-        <translation type="vanished">PGP karto estas mankanta</translation>
-    </message>
-    <message>
-        <source>Unknown error</source>
-        <translation type="vanished">Nekonata eraro</translation>
-    </message>
     <message numerus="yes">
         <source>%n day(s) </source>
         <translation>
@@ -16825,14 +16277,6 @@ Dankon pro via pacienco.</translation>
         <translation>&lt;qt&gt;Registrado jam estas sendita, do fermi tiun ĉi fenestron ne preventos, ke la registrado okazu.  Ĉu vi ankoraŭ volas fermi ĝin?&lt;/qt&gt;</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Jes</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Ne</translation>
-    </message>
-    <message>
         <source>Fetching registration form for %1 ...</source>
         <translation>Akiratas formularo de registrado por %1 ...</translation>
     </message>
@@ -17383,17 +16827,6 @@ Kialo: %1</translation>
     <message>
         <source>Only &amp;Paste</source>
         <translation>Nur &amp;Alglui</translation>
-    </message>
-</context>
-<context>
-    <name>SeparatorAction</name>
-    <message>
-        <source>&lt;Separator&gt;</source>
-        <translation type="vanished">&lt;Disigilo&gt;</translation>
-    </message>
-    <message>
-        <source>Separator</source>
-        <translation type="vanished">Disigilo</translation>
     </message>
 </context>
 <context>
@@ -18522,21 +17955,6 @@ Bonvolu korekti kaj provi denove.</translation>
     </message>
 </context>
 <context>
-    <name>Tip</name>
-    <message>
-        <source>&amp;Previous</source>
-        <translation type="vanished">&amp;Antaŭa</translation>
-    </message>
-    <message>
-        <source>&amp;Next</source>
-        <translation type="vanished">&amp;Sekvanta</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Fermi</translation>
-    </message>
-</context>
-<context>
     <name>TipDlg</name>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
@@ -18625,11 +18043,6 @@ Noto: Iuj serviloj povas malŝalti registradon de transportiloj por uzantoj el a
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
         <translation>Se vi ofte babilas ĉe grupoj, kromnoma kompletigo estas grandvalora ilo. La plej utila mallongigo estas &lt;tt&gt;Tab-Tab&lt;/tt&gt;; ĉe liniokomenco aŭ spaco, ĝi enmetas la kromnomon de la persono kiu laste rekte parolas al vi. Tiam vi povas daŭrigi premi &lt;tt&gt;Tab&lt;/tt&gt; kaj ĝi enmetos bukle la nomojn de ĉiuj partoprenantoj en la babilejo.&lt;br/&gt;&lt;br/&gt;Por pli malsimpla ekzemplo: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; kaj &lt;tt&gt;mbl-revolution&lt;/tt&gt; estas ĉiuj en la sama babilejo. Se vi skribas &lt;tt&gt;m&lt;/tt&gt; kaj premas &lt;tt&gt;Tab&lt;/tt&gt;, tio ne efikos videblan agon, pro estas multaj kromnomoj kiuj komencas per &lt;tt&gt;m&lt;/tt&gt;, kaj vi povas aŭ daŭrigi tabulpremi tra ĉiuj kromnomoj kiuj komencas per &lt;tt&gt;m&lt;/tt&gt; aŭ skribi pliajn literojn ĝis estas nur unu kompletigo. Kiam vi premas la &lt;tt&gt;b&lt;/tt&gt; butonon kaj premas &lt;tt&gt;Tab&lt;/tt&gt;, ĝi kompletigos kiel &lt;tt&gt;mbl&lt;/tt&gt;. Ju pli vi uzas tiun ilon, des pli vi ŝatus ĝin kaj fidus ĝin. Provu la kromnoman kompletigon kaj vi komprenos kiom ĝi estas potenca.</translation>
-    </message>
-    <message>
-        <source>This is the last tip.
-&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation type="vanished">Tiu ĉi estas la lasta konsilo.&lt;br&gt;&lt;br&gt;Se vi volas kontribui por via propra nova &quot;taga konsilo&quot;, bonvolu publiki ĝin en la &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forumojn&lt;/a&gt; (aŭ poŝte sendu ĝin al iu programisto), kaj ni ĝoje aldonos ĝin al la venonta eldono.</translation>
     </message>
     <message>
         <source>Contributed by</source>
@@ -18921,33 +18334,6 @@ Por labori kun la ludilo Parole, vi devas ŝalti la modulon/kromaĵon MPRIS2.</t
     </message>
 </context>
 <context>
-    <name>ViewMailDlg</name>
-    <message>
-        <source>From:</source>
-        <translation type="vanished">De:</translation>
-    </message>
-    <message>
-        <source>Subject:</source>
-        <translation type="vanished">Temo:</translation>
-    </message>
-    <message>
-        <source>Previous</source>
-        <translation type="vanished">Antaŭa</translation>
-    </message>
-    <message>
-        <source>Next</source>
-        <translation type="vanished">Sekva</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="vanished">Fermi</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Fermi</translation>
-    </message>
-</context>
-<context>
     <name>Viewer</name>
     <message>
         <source>Find</source>
@@ -19106,149 +18492,6 @@ En la unua langeto agordu liston de kontaktoj, kies staton oni observas. Kiam la
     </message>
 </context>
 <context>
-    <name>WbDlg</name>
-    <message>
-        <source>Save session</source>
-        <translation type="vanished">Konservi la seancon</translation>
-    </message>
-    <message>
-        <source>Save the contents of the whiteboard</source>
-        <translation type="vanished">Konservi la enhavon de la blankotabulon</translation>
-    </message>
-    <message>
-        <source>Change the geometry</source>
-        <translation type="vanished">Ŝanĝi la geometrion</translation>
-    </message>
-    <message>
-        <source>End session</source>
-        <translation type="vanished">Fini la seancon</translation>
-    </message>
-    <message>
-        <source>Clear the whiteboard</source>
-        <translation type="vanished">Forviŝi la blankotabulon</translation>
-    </message>
-    <message>
-        <source>Stroke color</source>
-        <translation type="vanished">Streka koloro</translation>
-    </message>
-    <message>
-        <source>Fill color</source>
-        <translation type="vanished">Ena koloro</translation>
-    </message>
-    <message>
-        <source>Stroke width</source>
-        <translation type="vanished">Streka larĝo</translation>
-    </message>
-    <message>
-        <source>Edit mode</source>
-        <translation type="vanished">Redakta modo</translation>
-    </message>
-    <message>
-        <source>Thin stroke</source>
-        <translation type="vanished">Maldika streko</translation>
-    </message>
-    <message>
-        <source>Medium stroke</source>
-        <translation type="vanished">Meza streko</translation>
-    </message>
-    <message>
-        <source>Thick stroke</source>
-        <translation type="vanished">Dika streko</translation>
-    </message>
-    <message>
-        <source>Select</source>
-        <translation type="vanished">Elekti</translation>
-    </message>
-    <message>
-        <source>Translate</source>
-        <translation type="vanished">Translacii</translation>
-    </message>
-    <message>
-        <source>Rotate</source>
-        <translation type="vanished">Rotacii</translation>
-    </message>
-    <message>
-        <source>Scale</source>
-        <translation type="vanished">Skali</translation>
-    </message>
-    <message>
-        <source>Erase</source>
-        <translation type="vanished">Forviŝi</translation>
-    </message>
-    <message>
-        <source>Scroll view</source>
-        <translation type="vanished">Rulumi la vidaĵon</translation>
-    </message>
-    <message>
-        <source>Scroll</source>
-        <translation type="vanished">Rulumi</translation>
-    </message>
-    <message>
-        <source>Draw paths</source>
-        <translation type="vanished">Streki vojojn</translation>
-    </message>
-    <message>
-        <source>Add images</source>
-        <translation type="vanished">Aldoni bildojn</translation>
-    </message>
-    <message>
-        <source>Whiteboard toolbar</source>
-        <translation type="vanished">Blankotabula ilobreto</translation>
-    </message>
-    <message>
-        <source>%1 left (session: %2).</source>
-        <translation type="vanished">%1 restanta (seanco: %2).</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Averto</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to end the session?
-The contents of the whiteboard will be lost.</source>
-        <translation type="vanished">Ĉu vi estas certa, ke vi volas fini la seancon?
-La enhavo de la blanka tabulo estas forperdota.</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Jes</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Ne</translation>
-    </message>
-    <message>
-        <source>A new whiteboard message was just received.
-Do you still want to close the window?</source>
-        <translation type="vanished">Nova blanka tabula mesaĝo ĵus estis ricevita.
-Ĉu vi ankoraŭ volas fermi la fenestron?</translation>
-    </message>
-    <message>
-        <source>Set new width:</source>
-        <translation type="vanished">Difini novan larĝon:</translation>
-    </message>
-    <message>
-        <source>Width:</source>
-        <translation type="vanished">Larĝo:</translation>
-    </message>
-    <message>
-        <source>Set new height:</source>
-        <translation type="vanished">Difini novan alton:</translation>
-    </message>
-    <message>
-        <source>Height:</source>
-        <translation type="vanished">Alto:</translation>
-    </message>
-    <message>
-        <source>Save Whitebaord</source>
-        <translation type="vanished">Konservi la Blankan Tabulon</translation>
-    </message>
-    <message>
-        <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="vanished">Skalebla vektora grafiko (*.svg)</translation>
-    </message>
-</context>
-<context>
     <name>WbItem</name>
     <message>
         <source>Bring forward</source>
@@ -19277,30 +18520,6 @@ Do you still want to close the window?</source>
 </context>
 <context>
     <name>WbManager</name>
-    <message>
-        <source>Open Existing SVG?</source>
-        <translation type="vanished">Ĉu Malfermi Ekzistantan SVG?</translation>
-    </message>
-    <message>
-        <source>Would you like to open an existing SVG document in the whitebaord?</source>
-        <translation type="vanished">Ĉu vi volas malfermi ekzistantan SVG dokumenton en la blankotabulo?</translation>
-    </message>
-    <message>
-        <source>Initial SVG Document for the Whiteboard</source>
-        <translation type="vanished">Komenca SVG Dokumento por la Blankotabulo</translation>
-    </message>
-    <message>
-        <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="vanished">Skalebla Vektora Grafiko (*.svg)</translation>
-    </message>
-    <message>
-        <source>Whiteboarding Invitation?</source>
-        <translation type="vanished">Blankotabula Invitaĵo?</translation>
-    </message>
-    <message>
-        <source>%1 has invited you to a whiteboarding session. Would you like to join?</source>
-        <translation type="vanished">%1 invitis vin al blankotabula seanco. Ĉu vi volas aliĝi?</translation>
-    </message>
     <message>
         <source>Answered on another device.</source>
         <translation>Respondita sur alia aparato.</translation>
@@ -19702,10 +18921,6 @@ Do you still want to close the window?</source>
 </context>
 <context>
     <name>XMLConsole</name>
-    <message>
-        <source>XML Console</source>
-        <translation type="vanished">XMLa Konzolo</translation>
-    </message>
     <message>
         <source>Filter</source>
         <translation>Filtrilo</translation>
@@ -20163,10 +19378,6 @@ Do you still want to close the window?</source>
 <context>
     <name>XmlConsole</name>
     <message>
-        <source>XML Console</source>
-        <translation type="vanished">XMLa Konzolo</translation>
-    </message>
-    <message>
         <source>XMPP Console</source>
         <translation>XMPP-konzolo</translation>
     </message>
@@ -20188,18 +19399,6 @@ Do you still want to close the window?</source>
     <message>
         <source>Malformed XML</source>
         <translation>Malformita XML</translation>
-    </message>
-    <message>
-        <source>You have entered malformed XML input. Are you sure you want to send this ?</source>
-        <translation type="vanished">Vi tajpis malformitan XMLan enigon. Ĉu vi estas certa, ke vi volas sendi ĉi tion?</translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="vanished">Jes</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">Ne</translation>
     </message>
     <message>
         <source>You have entered malformed XML input.</source>

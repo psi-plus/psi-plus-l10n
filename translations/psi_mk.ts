@@ -572,10 +572,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Никогаш</translation>
     </message>
     <message>
-        <source>Legacy SSL</source>
-        <translation type="vanished">Стар SSL</translation>
-    </message>
-    <message>
         <source>Over encrypted connection</source>
         <translation>Преку шифрирана врска</translation>
     </message>
@@ -672,28 +668,8 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Корисничко име:</translation>
     </message>
     <message>
-        <source>No Key Selected</source>
-        <translation type="vanished">Нема избран клуч</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Грешка</translation>
-    </message>
-    <message>
-        <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation type="vanished">Стариот SSL може да се користи со рачно поставување на домаќин/порта.</translation>
-    </message>
-    <message>
-        <source>SSL error</source>
-        <translation type="vanished">SSL грешка</translation>
-    </message>
-    <message>
-        <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation type="vanished">SSL/TLS не може да се овозможи.  Приклучокот не е пронајден.</translation>
-    </message>
-    <message>
-        <source>Secret Key</source>
-        <translation type="vanished">Таен клуч</translation>
     </message>
     <message>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
@@ -846,10 +822,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Кога ќе бидам достапен</translation>
     </message>
     <message>
-        <source>Legacy SSL</source>
-        <translation type="vanished">Стар SSL</translation>
-    </message>
-    <message>
         <source>Warning</source>
         <translation>Предупредување</translation>
     </message>
@@ -858,20 +830,8 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Сигурно сакате да ја откажете регистрацијата?</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Да</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Не</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Грешка</translation>
-    </message>
-    <message>
-        <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation type="vanished">Стариот SSL може да се користи со рачно поставување на домаќин/порта.</translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -1017,10 +977,6 @@ Reason: %1</source>
 </context>
 <context>
     <name>ActiveProfiles</name>
-    <message>
-        <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation type="vanished">Овој профил на Psi веќе се користи...&lt;br&gt;Ве молиме причекајте...</translation>
-    </message>
     <message>
         <source>This Psi profile is already running...&lt;br&gt;Please wait...</source>
         <translation type="unfinished"></translation>
@@ -1526,44 +1482,6 @@ The list of exceptions for jids has two operating modes:
 <context>
     <name>AvCallPrivate</name>
     <message>
-        <source>System error</source>
-        <translation type="vanished">Системска грешка</translation>
-    </message>
-    <message>
-        <source>Codec error</source>
-        <translation type="vanished">Грешка во кодекот</translation>
-    </message>
-    <message>
-        <source>Generic error</source>
-        <translation type="vanished">Општа грешка</translation>
-    </message>
-    <message>
-        <source>Cannot call without selecting a device.  Do you have a microphone?  Check the Psi options.</source>
-        <translation type="vanished">Не може да се јавите без да избедерете уред.  Имате микрофон?  Проверете ги опциите на Psi.</translation>
-    </message>
-    <message>
-        <source>An error occurred while trying to send:
-%1.</source>
-        <translation type="vanished">Настана грешка при обидот да се испрати
-%1.</translation>
-    </message>
-    <message>
-        <source>Call was rejected or terminated.</source>
-        <translation type="vanished">Повикот беше одбиен или прекинат.</translation>
-    </message>
-    <message>
-        <source>Call negotiation timed out.</source>
-        <translation type="vanished">Истече времето за воспоставување на повик.</translation>
-    </message>
-    <message>
-        <source>Unable to establish peer-to-peer connection.</source>
-        <translation type="vanished">Не може да се воспостави p2p врска.</translation>
-    </message>
-    <message>
-        <source>Call negotiation failed.</source>
-        <translation type="vanished">Неуспешно воспоставување на повик.</translation>
-    </message>
-    <message>
         <source>The requested media type is not supported by the current media backend.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1801,37 +1719,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
     </message>
 </context>
 <context>
-    <name>Call</name>
-    <message>
-        <source>Dialog</source>
-        <translation type="vanished">Дијалог</translation>
-    </message>
-    <message>
-        <source>To:</source>
-        <translation type="vanished">За:</translation>
-    </message>
-    <message>
-        <source>Use video</source>
-        <translation type="vanished">Користи видео</translation>
-    </message>
-    <message>
-        <source>Sending bandwidth:</source>
-        <translation type="vanished">Брзина на испраќање:</translation>
-    </message>
-    <message>
-        <source>Call status</source>
-        <translation type="vanished">Статус на повикот</translation>
-    </message>
-    <message>
-        <source>&amp;Reject</source>
-        <translation type="vanished">Одб&amp;иј</translation>
-    </message>
-    <message>
-        <source>&amp;Accept</source>
-        <translation type="vanished">Приф&amp;ати</translation>
-    </message>
-</context>
-<context>
     <name>CallDlg</name>
     <message>
         <source>Call</source>
@@ -1908,65 +1795,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
     <message>
         <source>Refused: the encryption could not be verified with a trusted OMEMO device of the contact. See Options &gt; Security.</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>CallDlg::Private</name>
-    <message>
-        <source>Voice Call</source>
-        <translation type="vanished">Гласовен повик</translation>
-    </message>
-    <message>
-        <source>High (1Mbps)</source>
-        <translation type="vanished">Висока (1Mbps)</translation>
-    </message>
-    <message>
-        <source>Average (400Kbps)</source>
-        <translation type="vanished">Просечна (400Kbps)</translation>
-    </message>
-    <message>
-        <source>Low (160Kbps)</source>
-        <translation type="vanished">Ниска (160Kbps)</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Затвори</translation>
-    </message>
-    <message>
-        <source>C&amp;all</source>
-        <translation type="vanished">Ј&amp;ави се</translation>
-    </message>
-    <message>
-        <source>Ready</source>
-        <translation type="vanished">Подготвено</translation>
-    </message>
-    <message>
-        <source>From:</source>
-        <translation type="vanished">Од:</translation>
-    </message>
-    <message>
-        <source>Accept call?</source>
-        <translation type="vanished">Прифати повик?</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">&amp;Откажи</translation>
-    </message>
-    <message>
-        <source>Calling...</source>
-        <translation type="vanished">Се јавувам...</translation>
-    </message>
-    <message>
-        <source>Accepting...</source>
-        <translation type="vanished">Прифаќам...</translation>
-    </message>
-    <message>
-        <source>&amp;Hang up</source>
-        <translation type="vanished">&amp;Спушти</translation>
-    </message>
-    <message>
-        <source>Call active</source>
-        <translation type="vanished">Активен повик</translation>
     </message>
 </context>
 <context>
@@ -2147,10 +1975,6 @@ Turn on your camera or share your screen</source>
 <context>
     <name>CaptchaDlg</name>
     <message>
-        <source>Dialog</source>
-        <translation type="vanished">Дијалог</translation>
-    </message>
-    <message>
         <source>You need to pass verification</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2191,10 +2015,6 @@ Turn on your camera or share your screen</source>
     <message>
         <source>The certificate is valid.</source>
         <translation>Сертификатот е правилен.</translation>
-    </message>
-    <message>
-        <source>The certificate is NOT valid!</source>
-        <translation type="vanished">Сертификатот НЕ е правилен!</translation>
     </message>
     <message>
         <source>Reason: %1.</source>
@@ -2325,10 +2145,6 @@ Reason: %1</source>
         <translation>Гласовен повик</translation>
     </message>
     <message>
-        <source>Toggle encryption</source>
-        <translation type="vanished">Вклучи шифрирање</translation>
-    </message>
-    <message>
         <source>Select icon</source>
         <translation>Избери икона</translation>
     </message>
@@ -2369,22 +2185,6 @@ Do you still want to close the window?</source>
     <message>
         <source>&lt;p&gt;Encryption was recently disabled by the remote contact.  Are you sure you want to send this message without encryption?&lt;/p&gt;</source>
         <translation>&lt;p&gt;Шифрирањето беше оневозможено од Вашиот контактот.  Сигурно сакате да ја пратите оваа порака без шифрирање?&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Да</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Не</translation>
-    </message>
-    <message>
-        <source>Encryption Enabled</source>
-        <translation type="vanished">Шифрирањето е вклучено</translation>
-    </message>
-    <message>
-        <source>Encryption Disabled</source>
-        <translation type="vanished">Шифрирањето е исклучено</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
@@ -2502,17 +2302,6 @@ Do you still want to close the window?</source>
             <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
-    </message>
-</context>
-<context>
-    <name>ChatView</name>
-    <message>
-        <source>%1 says:</source>
-        <translation type="vanished">%1 вели:</translation>
-    </message>
-    <message>
-        <source>Subject:</source>
-        <translation type="vanished">Тема:</translation>
     </message>
 </context>
 <context>
@@ -3098,10 +2887,6 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;XML Console</source>
-        <translation type="vanished">&amp;XML Конзола</translation>
-    </message>
-    <message>
         <source>&amp;Modify Account...</source>
         <translation>Из&amp;мени ја сметката...</translation>
     </message>
@@ -3130,20 +2915,12 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <translation>Аватар</translation>
     </message>
     <message>
-        <source>Groupchat</source>
-        <translation type="vanished">Групен разговор</translation>
-    </message>
-    <message>
         <source>Plugins</source>
         <translation>Приклучоци</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
         <translation>&amp;Администратор</translation>
-    </message>
-    <message>
-        <source>Join %1</source>
-        <translation type="vanished">Приклучи се во %1</translation>
     </message>
     <message>
         <source>Groupchats</source>
@@ -3455,25 +3232,6 @@ Proceed?</source>
     </message>
 </context>
 <context>
-    <name>CreateGroupDlg</name>
-    <message>
-        <source>Create New Group</source>
-        <translation type="vanished">Креирај нова група</translation>
-    </message>
-    <message>
-        <source>Enter the new group name:</source>
-        <translation type="vanished">Внесете име за новата група:</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="vanished">Додај</translation>
-    </message>
-    <message>
-        <source>&lt;None&gt;</source>
-        <translation type="vanished">&lt;Никојa&gt;</translation>
-    </message>
-</context>
-<context>
     <name>DateWidget</name>
     <message>
         <source>never</source>
@@ -3661,10 +3419,6 @@ Proceed?</source>
 <context>
     <name>DiscoListItem</name>
     <message>
-        <source>Error</source>
-        <translation type="vanished">Грешка</translation>
-    </message>
-    <message>
         <source>There was an error getting items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>Имаше грешка при земањето ставки за &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Причина: %2</translation>
     </message>
@@ -3718,28 +3472,6 @@ Proceed?</source>
     <message>
         <source>deleted</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Drawer</name>
-    <message>
-        <source>Yes</source>
-        <translation type="vanished">Да</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">Не</translation>
-    </message>
-</context>
-<context>
-    <name>EDBFlatFile::File</name>
-    <message>
-        <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
-        <translation type="vanished">&lt;big&gt;[Системска Порака]&lt;/big&gt;&lt;br&gt;Сега добивте овластување.</translation>
-    </message>
-    <message>
-        <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;Your authorization has been removed!</source>
-        <translation type="vanished">&lt;big&gt;[Системска порака]&lt;/big&gt;&lt;br&gt;Вашето овластување е отстрането!</translation>
     </message>
 </context>
 <context>
@@ -3957,10 +3689,6 @@ Supports per contact on / off message enumeration via the buttons on the chats t
         <translation>Должина на пораката</translation>
     </message>
     <message>
-        <source>Toggle encryption</source>
-        <translation type="vanished">Вклучи шифрирање</translation>
-    </message>
-    <message>
         <source>Add URL</source>
         <translation>Додај URL</translation>
     </message>
@@ -4126,13 +3854,6 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <source>Read next event</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>EventNotifierAction</name>
-    <message>
-        <source>&lt;Event notifier&gt;</source>
-        <translation type="vanished">&lt;Известувач за настани&gt;</translation>
     </message>
 </context>
 <context>
@@ -4735,14 +4456,6 @@ Importantly: a large part of the options are important system settings. These re
         <translation>Сигурно сакате да го откажете преносот?</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Да</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Не</translation>
-    </message>
-    <message>
         <source>Choose a file</source>
         <translation>Избери датотека</translation>
     </message>
@@ -4829,10 +4542,6 @@ that outgoing TCP connections are allowed.</source>
 </context>
 <context>
     <name>FileShareDlg</name>
-    <message>
-        <source>Dialog</source>
-        <translation type="vanished">Дијалог</translation>
-    </message>
     <message>
         <source>Share Files</source>
         <translation type="unfinished"></translation>
@@ -5435,10 +5144,6 @@ Reason: %1</source>
         <translation>Отвори го прозорецот за &amp;разговор</translation>
     </message>
     <message>
-        <source>Voice Call</source>
-        <translation type="vanished">Гласовен повик</translation>
-    </message>
-    <message>
         <source>E&amp;xecute Command</source>
         <translation>И&amp;зврши наредба</translation>
     </message>
@@ -5961,17 +5666,6 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>GmailNotifyPlugin</name>
-    <message>
-        <source>Choose a sound file</source>
-        <translation type="vanished">Изберете звучна датотека</translation>
-    </message>
-    <message>
-        <source>Sound (*.wav)</source>
-        <translation type="vanished">Звуци (*.wav)</translation>
-    </message>
-</context>
-<context>
     <name>Gnome3StatusWatcher</name>
     <message>
         <source>Authors: </source>
@@ -6348,14 +6042,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
 </context>
 <context>
     <name>HistoryImport</name>
-    <message>
-        <source>Status:</source>
-        <translation type="vanished">Статус:</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Грешка</translation>
-    </message>
     <message>
         <source>Upgrade history</source>
         <translation type="unfinished"></translation>
@@ -7174,14 +6860,6 @@ Are you sure you want to discard them?</source>
 Сакате да ги заборавите?</translation>
     </message>
     <message>
-        <source>Close and discard</source>
-        <translation type="vanished">Затвори и отфрли</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">Не затворај</translation>
-    </message>
-    <message>
         <source>Success</source>
         <translation>Успех</translation>
     </message>
@@ -7679,10 +7357,6 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
         <translation>Отстрани</translation>
     </message>
     <message>
-        <source>General</source>
-        <translation type="vanished">Општо</translation>
-    </message>
-    <message>
         <source>message</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7744,14 +7418,6 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     <message>
         <source>Are you absolutely certain you want to destroy this room?</source>
         <translation>Дали сте апсолутно сигурни дека сакате даја уништите оваа соба?</translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="vanished">Да</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">Не</translation>
     </message>
     <message>
         <source>There was an error retrieving the room configuration</source>
@@ -7995,14 +7661,6 @@ Reason: %1</source>
         <translation>Прочитај ме</translation>
     </message>
     <message>
-        <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
-        <translation type="vanished">Оваа апликација користи GStreamer %1, опсежна, слободна и повеќе платформска рамка за мултимедија. Повеќе информации има на &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>About GStreamer</source>
-        <translation type="vanished">За GStreamer</translation>
-    </message>
-    <message>
         <source>Security Plugins Diagnostic Text</source>
         <translation>Дијагностички текст за безбедносните приклучоци</translation>
     </message>
@@ -8013,14 +7671,6 @@ Reason: %1</source>
     <message>
         <source>Receive next event</source>
         <translation>Прими го следниот настан</translation>
-    </message>
-    <message>
-        <source>Un&amp;hide</source>
-        <translation type="vanished">О&amp;ткриј</translation>
-    </message>
-    <message>
-        <source>&amp;Hide</source>
-        <translation type="vanished">С&amp;криј</translation>
     </message>
     <message>
         <source>Status Message</source>
@@ -8079,25 +7729,6 @@ Incoming event(s) from:</source>
     <message>
         <source>Enable Sounds</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>MainWindow</name>
-    <message>
-        <source>Quit</source>
-        <translation type="vanished">Излези</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation type="vanished">Помош</translation>
-    </message>
-    <message>
-        <source>Ready</source>
-        <translation type="vanished">Подготвено</translation>
-    </message>
-    <message>
-        <source>About</source>
-        <translation type="vanished">За</translation>
     </message>
 </context>
 <context>
@@ -10122,10 +9753,6 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Psi: Option Editor</source>
-        <translation type="vanished">Psi: Уредувач на опции</translation>
-    </message>
-    <message>
         <source>Can&apos;t edit this type of setting, sorry.</source>
         <translation>За жал не можете да го уредите овој тип на поставки.</translation>
     </message>
@@ -10792,10 +10419,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>Psi автоматски ќе го помести главниот прозорец, за да можете да го видите новиот настан.</translation>
     </message>
     <message>
-        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation type="vanished">Psi ги игнорира сите „насловни“ настани, како системски пораки на MSN, објави, итн.</translation>
-    </message>
-    <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10979,21 +10602,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
 </context>
 <context>
-    <name>OptionsTabAvCall</name>
-    <message>
-        <source>Voice Calling</source>
-        <translation type="vanished">Гласовен повик</translation>
-    </message>
-    <message>
-        <source>Audio and video device configuration</source>
-        <translation type="vanished">Конфигурирање на уред за аудио и видео</translation>
-    </message>
-    <message>
-        <source>Audio device configuration</source>
-        <translation type="vanished">Конфигурирање на уред за аудио</translation>
-    </message>
-</context>
-<context>
     <name>OptionsTabChat</name>
     <message>
         <source>Chat</source>
@@ -11030,26 +10638,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>Makes Psi open chat windows in compact mode.</source>
         <translation>Psi ќе отвора прозорци за разговор во компактен режим.</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Контролира колку долго дневникот од разговорот ќе се чува во меморија, откако прозорецот за разговор ќе биде затворен.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Оваа опција не го чува дневникот од разговорот во меморија.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Со оваа опција дневникот се чува 1 час пред да се избрише.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Со оваа опција дневникот се чува 1 ден пред да се избрише.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Со оваа опција дневникот се чува засекогаш.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>Time (HH:mm)</source>
@@ -11277,10 +10865,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
         <translation>Psi прикажува бројач на должината на пораката. Изберете ја оваа опција ако сакате да знаете колку е долга Вашата порака. Ова може да биде корисно кога користите СМС транспорт.</translation>
-    </message>
-    <message>
-        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation type="vanished">Ако е овозможено, Psi ќе ги прикажува новите пораки онака како што ги одредил контактот</translation>
     </message>
     <message>
         <source>Never, only when asked</source>
@@ -11963,10 +11547,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>General</source>
-        <translation type="vanished">Општо</translation>
-    </message>
-    <message>
         <source>Account:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12173,10 +11753,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>Изберете клуч.</translation>
     </message>
     <message>
-        <source>Key Storage Diagnostic Text</source>
-        <translation type="vanished">Дијагностички текст за чување на клучеви</translation>
-    </message>
-    <message>
         <source>GnuPG info</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12211,24 +11787,6 @@ Reason: %1.</source>
     <message>
         <source>Please enter your password for %1:</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Passphrase</name>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">&amp;Откажи</translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation type="vanished">В&amp;о ред</translation>
-    </message>
-</context>
-<context>
-    <name>PassphraseDlg</name>
-    <message>
-        <source>%1: OpenPGP Passphrase</source>
-        <translation type="vanished">%1: Лозинка за OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -12746,92 +12304,6 @@ Reason: %1.</source>
     </message>
 </context>
 <context>
-    <name>ProfileManage</name>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="vanished">&amp;Додај</translation>
-    </message>
-    <message>
-        <source>Rem&amp;ove</source>
-        <translation type="vanished">&amp;Отстрани</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileManageDlg</name>
-    <message>
-        <source>Rename Profile</source>
-        <translation type="vanished">Преименувај го профилот</translation>
-    </message>
-    <message>
-        <source>Please enter a new name for the profile.  Keep it simple.
-Only use letters or numbers.  No punctuation or spaces.</source>
-        <translation type="vanished">Внесете ново име за профилот.  Нека биде едноставно.
-Користете само букви и бројки.  Без интерпукција и празни места.</translation>
-    </message>
-    <message>
-        <source>There is already another profile with this name.  Please choose another.</source>
-        <translation type="vanished">Веќе постои профил со ова име.  Изберете некое друго име.</translation>
-    </message>
-    <message>
-        <source>Unable to rename the profile.  Please do not use any special characters.</source>
-        <translation type="vanished">Профилот не може да се преименува.  Не користете специјални знаци.</translation>
-    </message>
-    <message>
-        <source>Delete Profile</source>
-        <translation type="vanished">Избриши го профилол</translation>
-    </message>
-    <message>
-        <source>&lt;qt&gt;Are you sure you want to delete the &quot;&lt;b&gt;%1&lt;/b&gt;&quot; profile?  This will delete all of the profile&apos;s message history as well as associated settings!&lt;/qt&gt;</source>
-        <translation type="vanished">&lt;qt&gt;Сигурно сакате да го избришете профилот „&lt;b&gt;%1&lt;/b&gt;“?  Со тоа ќе ја избришете целата историја на пораките на овој профил како и сите негови поставки!&lt;/qt&gt;</translation>
-    </message>
-    <message>
-        <source>No, I changed my mind</source>
-        <translation type="vanished">Не, се премислив</translation>
-    </message>
-    <message>
-        <source>Delete it!</source>
-        <translation type="vanished">Избриши го!</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Не</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Да</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileNew</name>
-    <message>
-        <source>New Profile</source>
-        <translation type="vanished">Нов профил</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Затвори</translation>
-    </message>
-    <message>
-        <source>&amp;Chat</source>
-        <translation type="vanished">&amp;Разговор</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileNewDlg</name>
-    <message>
-        <source>New Profile</source>
-        <translation type="vanished">Нов профил</translation>
-    </message>
-    <message>
-        <source>There is already an existing profile with this name.  Please choose another.</source>
-        <translation type="vanished">Веќе постои профил со ова име.  Изберете некое друго име.</translation>
-    </message>
-    <message>
-        <source>Unable to create the profile.  Please do not use any special characters.</source>
-        <translation type="vanished">Профилот не може да се креира.  Не користете специјални карактери.</translation>
-    </message>
-</context>
-<context>
     <name>ProfileOpen</name>
     <message>
         <source>Image goes here</source>
@@ -12840,10 +12312,6 @@ Only use letters or numbers.  No punctuation or spaces.</source>
     <message>
         <source>right</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Quit</source>
-        <translation type="vanished">&amp;Излези</translation>
     </message>
     <message>
         <source>Profiles</source>
@@ -12876,18 +12344,6 @@ Only use letters or numbers.  No punctuation or spaces.</source>
 </context>
 <context>
     <name>ProfileOpenDlg</name>
-    <message>
-        <source>Select a profile to open from this list.</source>
-        <translation type="vanished">Изберете профил од листата.  </translation>
-    </message>
-    <message>
-        <source>Select a language you would like Psi to use from this list.  You can download extra language packs from the Psi homepage.</source>
-        <translation type="vanished">Изберете јазик кој ќе го користи Psi.  Можете да преземете дополнителни јазични пакети од страницата на Psi.</translation>
-    </message>
-    <message>
-        <source>Automatically open this profile when Psi is started.  Useful if you only have one profile.</source>
-        <translation type="vanished">Отвори го автоматски овој профил кога ќе се вклучи Psi.  Корисно ако имате само еден профил.</translation>
-    </message>
     <message>
         <source>Double-click or press F2 to rename a profile. Press Delete to remove it.</source>
         <translation type="unfinished"></translation>
@@ -13381,12 +12837,6 @@ Details: %1</source>
         <translation>Наслов</translation>
     </message>
     <message>
-        <source>There was an error trying to sign your status.
-Reason: %1.</source>
-        <translation type="vanished">Имаше грешка при обидот за пријавување на статус.
-Причина: %1.</translation>
-    </message>
-    <message>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[ГРЕШКА: Оваа порака е шифрирана и не можете да ја дешифрирате.]</translation>
     </message>
@@ -13397,14 +12847,6 @@ Reason: %1.</source>
     <message>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Psi не може да го лоцира OpenPGP клучот кој ќе се користи за &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Ова може да се случи доколку го немате клучот на контактот, или доколку контактот воопшто нема клуч.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&amp;Choose key manually</source>
-        <translation type="vanished">Рачно бирање на &amp;клуч</translation>
-    </message>
-    <message>
-        <source>Do &amp;nothing</source>
-        <translation type="vanished">Забора&amp;ви</translation>
     </message>
     <message>
         <source>Public Key: %1</source>
@@ -13570,10 +13012,6 @@ Reason: %1.</source>
         <translation>Овозможува лесен начин за промена и добивање информации за моменталниот статус</translation>
     </message>
     <message>
-        <source>Special item that displays number of pending events</source>
-        <translation type="vanished">Специјален елемент кој го прикажува бројот на настани кои чекаат</translation>
-    </message>
-    <message>
         <source>Active contacts</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13588,10 +13026,6 @@ Reason: %1.</source>
     <message>
         <source>&amp;Add a Contact</source>
         <translation>Дод&amp;ај контакт</translation>
-    </message>
-    <message>
-        <source>&amp;XML Console</source>
-        <translation type="vanished">&amp;XML Конзола</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
@@ -13612,14 +13046,6 @@ Reason: %1.</source>
     <message>
         <source>Join &amp;Groupchat</source>
         <translation>Приклучување во &amp;групен разговор</translation>
-    </message>
-    <message>
-        <source>Account Setup</source>
-        <translation type="vanished">Поставување на сметката</translation>
-    </message>
-    <message>
-        <source>Acc&amp;ount Setup</source>
-        <translation type="vanished">Пос&amp;тавување на сметката</translation>
     </message>
     <message>
         <source>Options</source>
@@ -13646,16 +13072,8 @@ Reason: %1.</source>
         <translation>&amp;Промена на профил</translation>
     </message>
     <message>
-        <source>Play Sounds</source>
-        <translation type="vanished">Звуци</translation>
-    </message>
-    <message>
         <source>Play &amp;Sounds</source>
         <translation>&amp;Звуци</translation>
-    </message>
-    <message>
-        <source>Toggles whether sound should be played or not</source>
-        <translation type="vanished">Одредува дали ќе се слуша звук или не</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -13668,18 +13086,6 @@ Reason: %1.</source>
     <message>
         <source>Quits Psi</source>
         <translation>Излез од Psi</translation>
-    </message>
-    <message>
-        <source>Tip of the Day</source>
-        <translation type="vanished">Совет на денот</translation>
-    </message>
-    <message>
-        <source>&amp;Tip of the Day</source>
-        <translation type="vanished">Совет на &amp;денот</translation>
-    </message>
-    <message>
-        <source>See many useful tips</source>
-        <translation type="vanished">Погледнете многу корисни совети</translation>
     </message>
     <message>
         <source>Transfer Manager</source>
@@ -13918,10 +13324,6 @@ Reason: %1.</source>
         <translation>Испрати датотека</translation>
     </message>
     <message>
-        <source>Toggle Encryption</source>
-        <translation type="vanished">Вклучи шифрирање</translation>
-    </message>
-    <message>
         <source>User Info</source>
         <translation>Информации за корисникот</translation>
     </message>
@@ -14041,10 +13443,6 @@ Reason: %1.</source>
     <message>
         <source>Error: Can not parse command: </source>
         <translation>Грешка: не може да се интерпретира наредбата: </translation>
-    </message>
-    <message>
-        <source>Command&gt;</source>
-        <translation type="vanished">Наредба&gt;</translation>
     </message>
     <message>
         <source>turn off autojid</source>
@@ -14331,10 +13729,6 @@ Reason: %1.</source>
         <translation>Не можете да ги оневозможите &lt;i&gt;сите&lt;/i&gt; алатници &lt;i&gt;и&lt;/i&gt; менито. Ако го направите тоа, нема да можете да ги вратите назад кога ќе се премислите.</translation>
     </message>
     <message>
-        <source>I understand</source>
-        <translation type="vanished">Разбирам</translation>
-    </message>
-    <message>
         <source>Call ended</source>
         <translation>Повикот заврши</translation>
     </message>
@@ -14438,10 +13832,6 @@ Migration is possible with Psi-0.15</source>
         <translation>Отвори го прозорецот за &amp;разговор</translation>
     </message>
     <message>
-        <source>Open a &amp;Whiteboard</source>
-        <translation type="vanished">Отвори &amp;табла</translation>
-    </message>
-    <message>
         <source>Voice Call</source>
         <translation>Гласовен повик</translation>
     </message>
@@ -14460,14 +13850,6 @@ Migration is possible with Psi-0.15</source>
     <message>
         <source>&amp;Clear Custom Picture</source>
         <translation>И&amp;счисти ја сопствената слика</translation>
-    </message>
-    <message>
-        <source>Assign Open&amp;PGP Key</source>
-        <translation type="vanished">Додели Open&amp;PGP клуч</translation>
-    </message>
-    <message>
-        <source>Unassign Open&amp;PGP Key</source>
-        <translation type="vanished">Одземи Open&amp;PGP клуч</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
@@ -14540,14 +13922,6 @@ Migration is possible with Psi-0.15</source>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
         <translation>Сигурно сакате да го отстраните овластувањето од &lt;b&gt;%1&lt;/b&gt;?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Да</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Не</translation>
     </message>
     <message>
         <source>Choose an Image</source>
@@ -14950,10 +14324,6 @@ Would you like to activate that session now?</source>
         <translation>Прикажи ги контактите</translation>
     </message>
     <message>
-        <source>Event notifier</source>
-        <translation type="vanished">Известувач за настани</translation>
-    </message>
-    <message>
         <source>Auto Status (idle)</source>
         <translation>Автоматски статус (неактивен)</translation>
     </message>
@@ -14967,14 +14337,6 @@ Would you like to activate that session now?</source>
     <message>
         <source>(no selection)</source>
         <translation>(нема избор)</translation>
-    </message>
-    <message>
-        <source>Flat</source>
-        <translation type="vanished">Обичен приказ</translation>
-    </message>
-    <message>
-        <source>Display all options as a flat list.</source>
-        <translation type="vanished">Прикажи ги сите опции како обична листа.</translation>
     </message>
     <message>
         <source>Delete...</source>
@@ -14991,14 +14353,6 @@ Would you like to activate that session now?</source>
     <message>
         <source>Add...</source>
         <translation>Додај...</translation>
-    </message>
-    <message>
-        <source>Open a detached option editor window.</source>
-        <translation type="vanished">Отвори самостоен прозорец за уредување на опции.</translation>
-    </message>
-    <message>
-        <source>Advanced</source>
-        <translation type="vanished">Напредно</translation>
     </message>
     <message>
         <source>(internal node)</source>
@@ -15110,21 +14464,6 @@ Would you like to activate that session now?</source>
     <message>
         <source>Home</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PsiThumbnailToolBar</name>
-    <message>
-        <source>Options</source>
-        <translation type="vanished">Опции</translation>
-    </message>
-    <message>
-        <source>Online</source>
-        <translation type="vanished">Тука сум</translation>
-    </message>
-    <message>
-        <source>Offline</source>
-        <translation type="vanished">Се исклучив</translation>
     </message>
 </context>
 <context>
@@ -16072,42 +15411,6 @@ Description: </source>
         <source>&lt;unnamed%1&gt;</source>
         <translation>&lt;неименувано%1&gt;</translation>
     </message>
-    <message>
-        <source>Invalid passphrase</source>
-        <translation type="vanished">Погрешна лозинка</translation>
-    </message>
-    <message>
-        <source>Invalid input format</source>
-        <translation type="vanished">Погрешен формат за внесување</translation>
-    </message>
-    <message>
-        <source>Signing key expired</source>
-        <translation type="vanished">Клучот за потпишување е истечен</translation>
-    </message>
-    <message>
-        <source>Invalid key</source>
-        <translation type="vanished">Погрешен клуч</translation>
-    </message>
-    <message>
-        <source>Encrypting key expired</source>
-        <translation type="vanished">Клучот за шифрирање е истечен</translation>
-    </message>
-    <message>
-        <source>Encrypting key is untrusted</source>
-        <translation type="vanished">Клучот за шифрирање е недоверлив</translation>
-    </message>
-    <message>
-        <source>Encrypting key is invalid</source>
-        <translation type="vanished">Клучот за шифрирање е невалиден</translation>
-    </message>
-    <message>
-        <source>PGP card is missing</source>
-        <translation type="vanished">Недостасува PGP картичката</translation>
-    </message>
-    <message>
-        <source>Unknown error</source>
-        <translation type="vanished">Непозната грешка</translation>
-    </message>
     <message numerus="yes">
         <source>%n day(s) </source>
         <translation type="unfinished">
@@ -16869,14 +16172,6 @@ Thanks for your patience.</source>
         <translation>&lt;qt&gt;Регистрацијата е веќе испратена. Затворањето на прозорецот нема да го спречи регистрирањето.  Сигурно сакате да го затворите прозорецот?&lt;/qt&gt;</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Да</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Не</translation>
-    </message>
-    <message>
         <source>Fetching registration form for %1 ...</source>
         <translation>Примам образец за регистрација за %1 ...</translation>
     </message>
@@ -17420,25 +16715,10 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>SeparatorAction</name>
-    <message>
-        <source>&lt;Separator&gt;</source>
-        <translation type="vanished">&lt;Одделувач&gt;</translation>
-    </message>
-    <message>
-        <source>Separator</source>
-        <translation type="vanished">Одделувач</translation>
-    </message>
-</context>
-<context>
     <name>ServerListQuerier</name>
     <message>
         <source>Unable to parse server list</source>
         <translation>Листата од серверот не може да се анализира</translation>
-    </message>
-    <message>
-        <source>Maximum redirect count reached</source>
-        <translation type="vanished">Достигнат е максималниот број на пренасочувања</translation>
     </message>
     <message>
         <source>Unexpected HTTP status code: %1</source>
@@ -18523,21 +17803,6 @@ Please correct and try again.</source>
     </message>
 </context>
 <context>
-    <name>Tip</name>
-    <message>
-        <source>&amp;Previous</source>
-        <translation type="vanished">&amp;Претходни</translation>
-    </message>
-    <message>
-        <source>&amp;Next</source>
-        <translation type="vanished">След&amp;ни</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Затвори</translation>
-    </message>
-</context>
-<context>
     <name>TipDlg</name>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
@@ -18623,12 +17888,6 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
         <translation>Ако често сте во разговор во соба со повеќе луѓе, дополнувањето на прекари е бесценета можност. Најкорисната кратенка е &lt;tt&gt;Tab-Tab&lt;/tt&gt;, која кога се користи на почеток на нова линија или после некој чекор, го внесува прекарот на последната личност која Ви се обратила. Потоа можете да продолжите да притискате &lt;tt&gt;Tab&lt;/tt&gt; и ќе поминете низ прекарите на сите луѓе во собата.&lt;br/&gt;&lt;br/&gt;Во покомлицирано сценарио &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; и &lt;tt&gt;mbl-revolution&lt;/tt&gt; се во иста соба. Ако напишете &lt;tt&gt;m&lt;/tt&gt; и потоа притиснете &lt;tt&gt;Tab&lt;/tt&gt; ништо нема да се случи. Ова е вака бидејќи повеќе прекари почнуваат на &lt;tt&gt;m&lt;/tt&gt;, и Вие или можете да продолжите со &lt;tt&gt;Tab&lt;/tt&gt; за да ги поминете сите што почнуваат со &lt;tt&gt;m&lt;/tt&gt; или да напишете повеќе букви се додека не се појави единствено дополнување. Ако притиснете на копчето &lt;tt&gt;b&lt;/tt&gt; и потоа &lt;tt&gt;Tab&lt;/tt&gt; ќе се дополни до &lt;tt&gt;mbl&lt;/tt&gt;. Колку повеќе ја користите оваа можност, толку повеќе ќе ви се допадне. Пробајте ја за да видите колку е моќна.</translation>
-    </message>
-    <message>
-        <source>This is the last tip.
-&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation type="vanished">Ова е последниот совет.
-&lt;br&gt;&lt;br&gt;Ако сакате да придонесето со сопстве „совет на денот“, пишете на &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;форумите на Psi &lt;/a&gt; (или испратете го на некој од програмерите), и радо ќе го вклучиме во следното издание.</translation>
     </message>
     <message>
         <source>Contributed by</source>
@@ -18900,33 +18159,6 @@ To work with Parole player you need to enable MPRIS2 module/plugin.</source>
     </message>
 </context>
 <context>
-    <name>ViewMailDlg</name>
-    <message>
-        <source>From:</source>
-        <translation type="vanished">Од:</translation>
-    </message>
-    <message>
-        <source>Subject:</source>
-        <translation type="vanished">Тема:</translation>
-    </message>
-    <message>
-        <source>Previous</source>
-        <translation type="vanished">Претходно</translation>
-    </message>
-    <message>
-        <source>Next</source>
-        <translation type="vanished">Следно</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="vanished">Затвори</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Затвори</translation>
-    </message>
-</context>
-<context>
     <name>Viewer</name>
     <message>
         <source>Find</source>
@@ -19084,149 +18316,6 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
 </context>
 <context>
-    <name>WbDlg</name>
-    <message>
-        <source>Save session</source>
-        <translation type="vanished">Сними ја сесијата</translation>
-    </message>
-    <message>
-        <source>Save the contents of the whiteboard</source>
-        <translation type="vanished">Сними ја содржината на таблата</translation>
-    </message>
-    <message>
-        <source>Change the geometry</source>
-        <translation type="vanished">Промени ја геометријата</translation>
-    </message>
-    <message>
-        <source>End session</source>
-        <translation type="vanished">Заврши ја сесијата</translation>
-    </message>
-    <message>
-        <source>Clear the whiteboard</source>
-        <translation type="vanished">Исчисти ја таблата</translation>
-    </message>
-    <message>
-        <source>Stroke color</source>
-        <translation type="vanished">Боја за цртање</translation>
-    </message>
-    <message>
-        <source>Fill color</source>
-        <translation type="vanished">Боја за полнење</translation>
-    </message>
-    <message>
-        <source>Stroke width</source>
-        <translation type="vanished">Ширина на четката</translation>
-    </message>
-    <message>
-        <source>Edit mode</source>
-        <translation type="vanished">Режим на уредување</translation>
-    </message>
-    <message>
-        <source>Thin stroke</source>
-        <translation type="vanished">Тенка четка</translation>
-    </message>
-    <message>
-        <source>Medium stroke</source>
-        <translation type="vanished">Средна четка</translation>
-    </message>
-    <message>
-        <source>Thick stroke</source>
-        <translation type="vanished">Дебела четка</translation>
-    </message>
-    <message>
-        <source>Select</source>
-        <translation type="vanished">Избери</translation>
-    </message>
-    <message>
-        <source>Translate</source>
-        <translation type="vanished">Преведи</translation>
-    </message>
-    <message>
-        <source>Rotate</source>
-        <translation type="vanished">Ротирај</translation>
-    </message>
-    <message>
-        <source>Scale</source>
-        <translation type="vanished">Промени големина</translation>
-    </message>
-    <message>
-        <source>Erase</source>
-        <translation type="vanished">Избриши</translation>
-    </message>
-    <message>
-        <source>Scroll view</source>
-        <translation type="vanished">Поглед за лизгање</translation>
-    </message>
-    <message>
-        <source>Scroll</source>
-        <translation type="vanished">Лизгај</translation>
-    </message>
-    <message>
-        <source>Draw paths</source>
-        <translation type="vanished">Цртај патеки</translation>
-    </message>
-    <message>
-        <source>Add images</source>
-        <translation type="vanished">Додај слики</translation>
-    </message>
-    <message>
-        <source>Whiteboard toolbar</source>
-        <translation type="vanished">Алатник на таблата</translation>
-    </message>
-    <message>
-        <source>%1 left (session: %2).</source>
-        <translation type="vanished">%1 преостанато (сесија: %2).</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Предупредување</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to end the session?
-The contents of the whiteboard will be lost.</source>
-        <translation type="vanished">Сигурно сакате да ја завршите оваа сесија?
-Содржината на таблата ќе биде изгубена.</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Да</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Не</translation>
-    </message>
-    <message>
-        <source>A new whiteboard message was just received.
-Do you still want to close the window?</source>
-        <translation type="vanished">Примена е нова порака на таблата.
-Сигурно сакате да го затворите прозорецот?</translation>
-    </message>
-    <message>
-        <source>Set new width:</source>
-        <translation type="vanished">Постави нова ширина:</translation>
-    </message>
-    <message>
-        <source>Width:</source>
-        <translation type="vanished">Ширина:</translation>
-    </message>
-    <message>
-        <source>Set new height:</source>
-        <translation type="vanished">Постави нова висина:</translation>
-    </message>
-    <message>
-        <source>Height:</source>
-        <translation type="vanished">Висина:</translation>
-    </message>
-    <message>
-        <source>Save Whitebaord</source>
-        <translation type="vanished">Сними ја таблата</translation>
-    </message>
-    <message>
-        <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="vanished">Scalable Vector Graphics (*.svg)</translation>
-    </message>
-</context>
-<context>
     <name>WbItem</name>
     <message>
         <source>Bring forward</source>
@@ -19255,38 +18344,6 @@ Do you still want to close the window?</source>
 </context>
 <context>
     <name>WbManager</name>
-    <message>
-        <source>Unsupported</source>
-        <translation type="vanished">Не е поддржано</translation>
-    </message>
-    <message>
-        <source>The contact does not support whiteboarding.</source>
-        <translation type="vanished">Контактот не поддржува работа со табла.</translation>
-    </message>
-    <message>
-        <source>Open Existing SVG?</source>
-        <translation type="vanished">Отвори постоечко SVG?</translation>
-    </message>
-    <message>
-        <source>Would you like to open an existing SVG document in the whitebaord?</source>
-        <translation type="vanished">Дали сакате да отворите постоечки SVG документ на таблата?</translation>
-    </message>
-    <message>
-        <source>Initial SVG Document for the Whiteboard</source>
-        <translation type="vanished">Првичен SVG документ за таблата</translation>
-    </message>
-    <message>
-        <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="vanished">Scalable Vector Graphics (*.svg)</translation>
-    </message>
-    <message>
-        <source>Whiteboarding Invitation?</source>
-        <translation type="vanished">Покана за табла?</translation>
-    </message>
-    <message>
-        <source>%1 has invited you to a whiteboarding session. Would you like to join?</source>
-        <translation type="vanished">%1 Ве покани на сесија на таблата. Сакате да се приклучите?</translation>
-    </message>
     <message>
         <source>Answered on another device.</source>
         <translation type="unfinished"></translation>
@@ -19688,10 +18745,6 @@ Do you still want to close the window?</source>
 </context>
 <context>
     <name>XMLConsole</name>
-    <message>
-        <source>XML Console</source>
-        <translation type="vanished">XML конзола</translation>
-    </message>
     <message>
         <source>Filter</source>
         <translation type="unfinished"></translation>
@@ -20149,10 +19202,6 @@ Do you still want to close the window?</source>
 <context>
     <name>XmlConsole</name>
     <message>
-        <source>XML Console</source>
-        <translation type="vanished">XML конзола</translation>
-    </message>
-    <message>
         <source>XMPP Console</source>
         <translation type="unfinished"></translation>
     </message>
@@ -20174,18 +19223,6 @@ Do you still want to close the window?</source>
     <message>
         <source>Malformed XML</source>
         <translation>Погрешно форматиран XML</translation>
-    </message>
-    <message>
-        <source>You have entered malformed XML input. Are you sure you want to send this ?</source>
-        <translation type="vanished">Внесовте погрешно форматиран XML. Сигурно сакате да го пратите ова?</translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="vanished">Да</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">Не</translation>
     </message>
     <message>
         <source>You have entered malformed XML input.</source>

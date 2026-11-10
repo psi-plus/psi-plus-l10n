@@ -49,10 +49,6 @@
         <translation>Informacje</translation>
     </message>
     <message>
-        <source>psi/psiplus_logo</source>
-        <translation type="vanished">psi/psiplus_logo</translation>
-    </message>
-    <message>
         <source>Authors</source>
         <translation>Autorzy</translation>
     </message>
@@ -69,10 +65,6 @@
         <translation>Licencja</translation>
     </message>
     <message>
-        <source>About Psi+</source>
-        <translation type="vanished">o Psi+</translation>
-    </message>
-    <message>
         <source>&amp;Close</source>
         <translation>&amp;Zamknij</translation>
     </message>
@@ -87,46 +79,6 @@
     <message>
         <source>Developer</source>
         <translation>Programista</translation>
-    </message>
-    <message>
-        <source>Active project members are presents below:</source>
-        <translation type="vanished">Aktywni uczestnicy projektu wymienieni poniżej:</translation>
-    </message>
-    <message>
-        <source>Founder, Patcher and MS Windows Packager</source>
-        <translation type="vanished">Założyciel, twórca łatek oraz pakietów dla MS Windows</translation>
-    </message>
-    <message>
-        <source>Founder and Lead Patcher</source>
-        <translation type="vanished">Założyciel i główny Patcher</translation>
-    </message>
-    <message>
-        <source>Founder, Designer and Patcher</source>
-        <translation type="vanished">Założyciel, Projektant i Twórca łatek</translation>
-    </message>
-    <message>
-        <source>Patcher, Plugins Writer and Fedora Packager</source>
-        <translation type="vanished">Twórca łatek, wtyczek oraz pakietów Fedory</translation>
-    </message>
-    <message>
-        <source>Patcher and Plugins Writer</source>
-        <translation type="vanished">Twórca wtyczek i łatek</translation>
-    </message>
-    <message>
-        <source>Patcher and Ubuntu Packager</source>
-        <translation type="vanished">Twórca wtyczek oraz pakietów Ubuntu</translation>
-    </message>
-    <message>
-        <source>Ubuntu Packager</source>
-        <translation type="vanished">Twórca pakietów Ubuntu</translation>
-    </message>
-    <message>
-        <source>Mandriva Linux Packager</source>
-        <translation type="vanished">Twórca pakietów Mandriva Linux</translation>
-    </message>
-    <message>
-        <source>Patcher and Russian localization</source>
-        <translation type="vanished">Twórca łatek i tłumaczenia jęz. rosyjskiego</translation>
     </message>
     <message>
         <source>Former language coordinator, miscellaneous assistance</source>
@@ -207,10 +159,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     <message>
         <source>Past Lead Widget Developer</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>About Psi</source>
-        <translation type="vanished">O Psi</translation>
     </message>
     <message>
         <source>Cross-platform XMPP client designed for experienced users.</source>
@@ -462,22 +410,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Edytuj &amp;dane osobowe...</translation>
     </message>
     <message>
-        <source>OpenPGP</source>
-        <translation type="vanished">OpenPGP</translation>
-    </message>
-    <message>
-        <source>placeholder2</source>
-        <translation type="vanished">placeholder2</translation>
-    </message>
-    <message>
-        <source>Select &amp;Key...</source>
-        <translation type="vanished">Wybierz &amp;Klucz...</translation>
-    </message>
-    <message>
-        <source>Use None</source>
-        <translation type="vanished">Nie używaj żadnego</translation>
-    </message>
-    <message>
         <source>Privacy</source>
         <translation>Prywatność</translation>
     </message>
@@ -640,10 +572,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Nigdy</translation>
     </message>
     <message>
-        <source>Legacy SSL</source>
-        <translation type="vanished">Używając starszego SSL</translation>
-    </message>
-    <message>
         <source>Over encrypted connection</source>
         <translation>Przy szyfrowanym połączeniu</translation>
     </message>
@@ -740,28 +668,8 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Nazwa użytkownika:</translation>
     </message>
     <message>
-        <source>No Key Selected</source>
-        <translation type="vanished">Nie wybrano klucza</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Błąd</translation>
-    </message>
-    <message>
-        <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation type="vanished">Stary port SSL może być wykorzystany wyłącznie przy ręcznie ustawionym adresie lub porcie serwera.</translation>
-    </message>
-    <message>
-        <source>SSL error</source>
-        <translation type="vanished">Błąd SSL/TLS</translation>
-    </message>
-    <message>
-        <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation type="vanished">Nie mogę włączyć SSL/TLS. Wtyczka nie została odnaleziona.</translation>
-    </message>
-    <message>
-        <source>Secret Key</source>
-        <translation type="vanished">Klucz prywatny</translation>
     </message>
     <message>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
@@ -914,10 +822,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Gdy dostępne</translation>
     </message>
     <message>
-        <source>Legacy SSL</source>
-        <translation type="vanished">Użyj SSL (zamiast TLS)</translation>
-    </message>
-    <message>
         <source>Warning</source>
         <translation>Uwaga</translation>
     </message>
@@ -926,20 +830,8 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Czy na pewno chcesz przerwać rejestrację?</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Tak</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Nie</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Błąd</translation>
-    </message>
-    <message>
-        <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation type="vanished">Stary port SSL może być wykorzystany wyłącznie przy ręcznie ustawionym adresie lub porcie serwera.</translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -1084,22 +976,7 @@ Przyczyna: %1</translation>
     </message>
 </context>
 <context>
-    <name>ActionsList</name>
-    <message>
-        <source> Enable Off the Record Chat.
-When checked, the server will not
-save the history for this contact.</source>
-        <translation type="vanished">Włącz nierejestrowaną rozmowę.
-Jeśli zaznaczone, serwer nie będzie
-zapisywał historii dla tego kontaktu.</translation>
-    </message>
-</context>
-<context>
     <name>ActiveProfiles</name>
-    <message>
-        <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation type="vanished">Ten profil psi jest aktualnie używany...&lt;br&gt;proszę zaczekać...</translation>
-    </message>
     <message>
         <source>This Psi profile is already running...&lt;br&gt;Please wait...</source>
         <translation type="unfinished"></translation>
@@ -1450,14 +1327,6 @@ There was an error getting the Service ID translation information from &quot;%1&
         <translation>Możesz wysłać wiadomość  Uwaga do %1</translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">email: </translation>
-    </message>
-    <message>
         <source>This plugin is designed to send and receive special messages such as Attentions.
 To work correctly, the plugin requires that the client of the other part supports XEP-0224 (for example: Pidgin, Miranda IM with Nudge plugin).</source>
         <translation>Ten dodatek służy do wysyłania i odbierania wiadomości specjalnych, takich jak uwagi.
@@ -1560,14 +1429,6 @@ Do poprawnej pracy, dodatek wymaga, aby klient po drugiej stronie wspierł XEP-0
         <translation>czasy (-1 = nieskończony)</translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">email:</translation>
-    </message>
-    <message>
         <source>This plugin acts as an auto-answering machine. It has a number of simple configuration options, which you can use to:
 * set a text message for auto-answer
 * exclude specified jids, including conferences, from the objects for auto-answer (if a jid conference is set, the exception will include all private messages)
@@ -1632,44 +1493,6 @@ Lista wyjątków JID&apos;ów posiada dwa tryby pracy:
 </context>
 <context>
     <name>AvCallPrivate</name>
-    <message>
-        <source>System error</source>
-        <translation type="vanished">Błąd systemowy</translation>
-    </message>
-    <message>
-        <source>Codec error</source>
-        <translation type="vanished">Błąd kodeka</translation>
-    </message>
-    <message>
-        <source>Generic error</source>
-        <translation type="vanished">Błąd ogólny</translation>
-    </message>
-    <message>
-        <source>Cannot call without selecting a device.  Do you have a microphone?  Check the Psi options.</source>
-        <translation type="vanished">Nie można prowadzić rozmowy głosowej bez wybrania urządzenia.  Czy posiadasz mikrofon?  Sprawdź ustawienia Psi.</translation>
-    </message>
-    <message>
-        <source>An error occurred while trying to send:
-%1.</source>
-        <translation type="vanished">Wystąpił błąd podczas próby wysyłania:
-%1.</translation>
-    </message>
-    <message>
-        <source>Call was rejected or terminated.</source>
-        <translation type="vanished">Rozmowa została odrzucona lub zakończona.</translation>
-    </message>
-    <message>
-        <source>Call negotiation timed out.</source>
-        <translation type="vanished">Upłynął czas oczekiwania na negocjację rozmowy.</translation>
-    </message>
-    <message>
-        <source>Unable to establish peer-to-peer connection.</source>
-        <translation type="vanished">Nie udało się ustanowić połączenia peer-to-peer.</translation>
-    </message>
-    <message>
-        <source>Call negotiation failed.</source>
-        <translation type="vanished">Negocjowanie połączenia nie powiodło się.</translation>
-    </message>
     <message>
         <source>The requested media type is not supported by the current media backend.</source>
         <translation type="unfinished"></translation>
@@ -1908,37 +1731,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
     </message>
 </context>
 <context>
-    <name>Call</name>
-    <message>
-        <source>Dialog</source>
-        <translation type="vanished">Dialog</translation>
-    </message>
-    <message>
-        <source>To:</source>
-        <translation type="vanished">Do:</translation>
-    </message>
-    <message>
-        <source>Use video</source>
-        <translation type="vanished">Włącz wideo</translation>
-    </message>
-    <message>
-        <source>Sending bandwidth:</source>
-        <translation type="vanished">Prędkość wysyłania:</translation>
-    </message>
-    <message>
-        <source>Call status</source>
-        <translation type="vanished">Status rozmowy</translation>
-    </message>
-    <message>
-        <source>&amp;Reject</source>
-        <translation type="vanished">O&amp;drzuć</translation>
-    </message>
-    <message>
-        <source>&amp;Accept</source>
-        <translation type="vanished">&amp;Odbierz</translation>
-    </message>
-</context>
-<context>
     <name>CallDlg</name>
     <message>
         <source>Call</source>
@@ -2015,65 +1807,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
     <message>
         <source>Refused: the encryption could not be verified with a trusted OMEMO device of the contact. See Options &gt; Security.</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>CallDlg::Private</name>
-    <message>
-        <source>Voice Call</source>
-        <translation type="vanished">Rozmowa głosowa</translation>
-    </message>
-    <message>
-        <source>High (1Mbps)</source>
-        <translation type="vanished">Wysoka (1Mbps)</translation>
-    </message>
-    <message>
-        <source>Average (400Kbps)</source>
-        <translation type="vanished">Średnia (400Kbps)</translation>
-    </message>
-    <message>
-        <source>Low (160Kbps)</source>
-        <translation type="vanished">Niska (160Kbps)</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Zamknij</translation>
-    </message>
-    <message>
-        <source>C&amp;all</source>
-        <translation type="vanished">&amp;Rozmowa</translation>
-    </message>
-    <message>
-        <source>Ready</source>
-        <translation type="vanished">Gotowe</translation>
-    </message>
-    <message>
-        <source>From:</source>
-        <translation type="vanished">Od:</translation>
-    </message>
-    <message>
-        <source>Accept call?</source>
-        <translation type="vanished">Odebrać rozmowę?</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">&amp;Anuluj</translation>
-    </message>
-    <message>
-        <source>Calling...</source>
-        <translation type="vanished">Łączenie...</translation>
-    </message>
-    <message>
-        <source>Accepting...</source>
-        <translation type="vanished">Akceptowanie...</translation>
-    </message>
-    <message>
-        <source>&amp;Hang up</source>
-        <translation type="vanished">Za&amp;kończ rozmowę</translation>
-    </message>
-    <message>
-        <source>Call active</source>
-        <translation type="vanished">Rozmowa aktywna</translation>
     </message>
 </context>
 <context>
@@ -2252,26 +1985,7 @@ Turn on your camera or share your screen</source>
     </message>
 </context>
 <context>
-    <name>CaptchaDialog</name>
-    <message>
-        <source>CAPTCHA</source>
-        <translation type="vanished">CAPTCHA</translation>
-    </message>
-    <message>
-        <source>Loading data...</source>
-        <translation type="vanished">Ładowanie danych ...</translation>
-    </message>
-    <message>
-        <source>Original message</source>
-        <translation type="vanished">Oryginalna wiadomość</translation>
-    </message>
-</context>
-<context>
     <name>CaptchaDlg</name>
-    <message>
-        <source>Dialog</source>
-        <translation type="vanished">Dialog</translation>
-    </message>
     <message>
         <source>You need to pass verification</source>
         <translation type="unfinished"></translation>
@@ -2279,29 +1993,6 @@ Turn on your camera or share your screen</source>
     <message>
         <source>AccountLabel</source>
         <translation>Etykieta konta</translation>
-    </message>
-</context>
-<context>
-    <name>CaptchaFormsPlugin</name>
-    <message>
-        <source>Captcha Plugin: CAPTCHA from %1</source>
-        <translation type="vanished">dodatek Captcha: CAPTCHA z %1</translation>
-    </message>
-    <message>
-        <source>Error! Image can not be loaded.</source>
-        <translation type="vanished">Błąd! Nie można wczytać obrazu.</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">email:</translation>
-    </message>
-    <message>
-        <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
-        <translation type="vanished">Ta wtyczka ma na celu przekazać CAPTCHA bezpośrednio w Psi+.</translation>
     </message>
 </context>
 <context>
@@ -2336,10 +2027,6 @@ Turn on your camera or share your screen</source>
     <message>
         <source>The certificate is valid.</source>
         <translation>Certyfikat jest prawidłowy.</translation>
-    </message>
-    <message>
-        <source>The certificate is NOT valid!</source>
-        <translation type="vanished">Certyfikat NIE JEST prawidłowy!</translation>
     </message>
     <message>
         <source>Reason: %1.</source>
@@ -2470,10 +2157,6 @@ Przyczyna: %1</translation>
         <translation>rozmowa głosowa</translation>
     </message>
     <message>
-        <source>Toggle encryption</source>
-        <translation type="vanished">Przełącz szyfrowanie GnuPG</translation>
-    </message>
-    <message>
         <source>Select icon</source>
         <translation>Wybierz ikonę</translation>
     </message>
@@ -2514,22 +2197,6 @@ Czy nadal chcesz zamknąć to okno?</translation>
     <message>
         <source>&lt;p&gt;Encryption was recently disabled by the remote contact.  Are you sure you want to send this message without encryption?&lt;/p&gt;</source>
         <translation>&lt;p&gt;Szyfrowanie zostało wyłączone przez rozmówcę. Czy na pewno chcesz wysłać tę wiadomość w postaci niezaszyfrowanej?&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Tak</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Nie</translation>
-    </message>
-    <message>
-        <source>Encryption Enabled</source>
-        <translation type="vanished">Szyfrowanie GnuPG włączone</translation>
-    </message>
-    <message>
-        <source>Encryption Disabled</source>
-        <translation type="vanished">Szyfrowanie GnuPG wyłączone</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
@@ -2650,55 +2317,6 @@ Czy nadal chcesz zamknąć to okno?</translation>
     </message>
 </context>
 <context>
-    <name>ChatView</name>
-    <message>
-        <source>Quote</source>
-        <translation type="vanished">Cytat</translation>
-    </message>
-    <message>
-        <source>Ctrl+S</source>
-        <translation type="vanished">Ctrl+S</translation>
-    </message>
-    <message>
-        <source>%1 says:</source>
-        <translation type="vanished">%1 pisze:</translation>
-    </message>
-    <message>
-        <source>Subject:</source>
-        <translation type="vanished">Dotyczy:</translation>
-    </message>
-    <message>
-        <source>URL:</source>
-        <translation type="vanished">Link:</translation>
-    </message>
-    <message>
-        <source>Desc:</source>
-        <translation type="vanished">Opis:</translation>
-    </message>
-</context>
-<context>
-    <name>ChatViewThemeProvider</name>
-    <message>
-        <source>Chat Message Style</source>
-        <translation type="vanished">Styl czatu</translation>
-    </message>
-    <message>
-        <source>Configure your chat theme here</source>
-        <translation type="vanished">Konfiguruj temat czatu tutaj</translation>
-    </message>
-</context>
-<context>
-    <name>ChatWebView</name>
-    <message>
-        <source>Quote</source>
-        <translation type="vanished">Cytat</translation>
-    </message>
-    <message>
-        <source>Ctrl+S</source>
-        <translation type="vanished">Ctrl+S</translation>
-    </message>
-</context>
-<context>
     <name>Chess::InvitationDialog</name>
     <message>
         <source>white</source>
@@ -2766,22 +2384,6 @@ do gry w szachy. Chce grać %2</translation>
     <message>
         <source>Sound (*.wav)</source>
         <translation>Dźwięk (*.wav)</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">email:</translation>
-    </message>
-    <message>
-        <source>This plugin allows you to play chess with your friends.
-The plugin is compatible with a similar plugin for Tkabber.
-For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="vanished">Ten dodatek pozwala grac w szachy z przyjaciółmi.
-Ten dodatek jest kompatybilny z podobnymi dodatkami dla Tkabber.
-Do wysyłania poleceń używana jest zwykła wiadomość, więc ten dodatek działa zawsze jeśli tylko możesz się zalogować. Aby zaprosić do gry przyjaciela, użyj menu przycisku kontakt, na pasku okna rozmowy. </translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -3006,14 +2608,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
         <translation>Uruchom oczyszczanie</translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">email:</translation>
-    </message>
-    <message>
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
 You can preview items before deleting them from your hard drive.</source>
         <translation>ten dodatek jest zaprojektowany, aby wyczyścić pamięć podręczną avatarów, zapisane lokalne kopie wizytówek i dzienniki historii.
@@ -3101,19 +2695,11 @@ Można obejrzeć elementy przed ich usunięciem z dysku twardego.</translation>
 <context>
     <name>ClientSwitcherPlugin</name>
     <message>
-        <source>Authors: </source>
-        <translation type="vanished">Autorzy:</translation>
-    </message>
-    <message>
         <source>The plugin is intended for substitution of the client version, his name and operating system type.
 You can specify the version of the client and OS or to select them from the preset list.
 </source>
         <translation>Ten dodatek jest przeznaczony do zmiany wersji klienta, jego nazwy i typu systemu operacyjnego.
 Można ręcznie określić wersję klienta i systemu operacyjnego lub wybrać je z listy.</translation>
-    </message>
-    <message>
-        <source>%1 has requested your version</source>
-        <translation type="vanished">%1 zwrócił wersję</translation>
     </message>
 </context>
 <context>
@@ -3259,14 +2845,6 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">autor:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">email:</translation>
-    </message>
-    <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3326,10 +2904,6 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <translation>Listy prywatności</translation>
     </message>
     <message>
-        <source>&amp;XML Console</source>
-        <translation type="vanished">Konsola &amp;XML</translation>
-    </message>
-    <message>
         <source>&amp;Modify Account...</source>
         <translation>&amp;Modyfikuj konto...</translation>
     </message>
@@ -3358,20 +2932,12 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <translation>Awatar</translation>
     </message>
     <message>
-        <source>Groupchat</source>
-        <translation type="vanished">Konferencja</translation>
-    </message>
-    <message>
         <source>Plugins</source>
         <translation>Dodatki</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
         <translation>&amp;Administrator</translation>
-    </message>
-    <message>
-        <source>Join %1</source>
-        <translation type="vanished">Dołącz do %1</translation>
     </message>
     <message>
         <source>Groupchats</source>
@@ -3412,10 +2978,6 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
 </context>
 <context>
     <name>ContactListDragView</name>
-    <message>
-        <source>%1 (%2)</source>
-        <translation type="vanished">%1 (%2)</translation>
-    </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
         <translation>Usunięty zostanie bezpowrotnie z listy kontaktów: &lt;br&gt;%1&lt;br&gt;.</translation>
@@ -3505,13 +3067,6 @@ Kontynuować?</translation>
     <message>
         <source>Conferences</source>
         <translation>Konferencje</translation>
-    </message>
-</context>
-<context>
-    <name>ContactListViewDelegate::Private</name>
-    <message>
-        <source>%1 (%2)</source>
-        <translation type="vanished">%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -3689,35 +3244,8 @@ Kontynuować?</translation>
 <context>
     <name>ContentDownloader</name>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
-    </message>
-    <message>
-        <source>e-mail: </source>
-        <translation type="vanished">email:</translation>
-    </message>
-    <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation>Ten dodatek stworzono aby ułatwić pobieranie i instalowanie zestawów ikon i innych zasobów dla Psi+</translation>
-    </message>
-</context>
-<context>
-    <name>CreateGroupDlg</name>
-    <message>
-        <source>Create New Group</source>
-        <translation type="vanished">Utwórz nową grupę</translation>
-    </message>
-    <message>
-        <source>Enter the new group name:</source>
-        <translation type="vanished">Wprowadź nazwę nowej grupy:</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="vanished">Dodaj</translation>
-    </message>
-    <message>
-        <source>&lt;None&gt;</source>
-        <translation type="vanished">&lt;Brak&gt;</translation>
     </message>
 </context>
 <context>
@@ -3908,10 +3436,6 @@ Kontynuować?</translation>
 <context>
     <name>DiscoListItem</name>
     <message>
-        <source>Error</source>
-        <translation type="vanished">Błąd</translation>
-    </message>
-    <message>
         <source>There was an error getting items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>Nastąpił błąd podczas pobierania obiektów dla &lt;b&gt;%1&lt;/b&gt;.&lt;br/&gt;Przyczyna: %2</translation>
     </message>
@@ -3965,36 +3489,6 @@ Kontynuować?</translation>
     <message>
         <source>deleted</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Drawer</name>
-    <message>
-        <source>Error moving</source>
-        <translation type="vanished">Błąd ruchu</translation>
-    </message>
-    <message>
-        <source>You cannot move this figure because the king is in check</source>
-        <translation type="vanished">Nie możesz przesunąć tej figury, ponieważ jest szach króla</translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="vanished">Tak</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">Nie</translation>
-    </message>
-</context>
-<context>
-    <name>EDBFlatFile::File</name>
-    <message>
-        <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
-        <translation type="vanished">&lt;big&gt;[Komunikat systemowy]&lt;/big&gt;&lt;br&gt;Udzielo Ci pozwolenia na subskrypcję obecności.</translation>
-    </message>
-    <message>
-        <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;Your authorization has been removed!</source>
-        <translation type="vanished">&lt;big&gt;[Komunikat systemowy]&lt;/big&gt;&lt;br&gt;Cofnięto Ci pozwolenie na subskrypcję obecności!</translation>
     </message>
 </context>
 <context>
@@ -4161,10 +3655,6 @@ Każde słowo używa wyrażenia regularnego</translation>
 <context>
     <name>EnumMessagesPlugin</name>
     <message>
-        <source>Authors: </source>
-        <translation type="vanished">Autorzy:</translation>
-    </message>
-    <message>
         <source>Missed messages: %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4215,10 +3705,6 @@ Supports per contact on / off message enumeration via the buttons on the chats t
     <message>
         <source>Message length</source>
         <translation>Długość wiadomości</translation>
-    </message>
-    <message>
-        <source>Toggle encryption</source>
-        <translation type="vanished">Przełącz szyfrowanie GnuPG</translation>
     </message>
     <message>
         <source>Add URL</source>
@@ -4389,13 +3875,6 @@ Jeśli chcesz potwierdzić te żądanie, naciśnij przycisk Potwierdź. W przeci
     </message>
 </context>
 <context>
-    <name>EventNotifierAction</name>
-    <message>
-        <source>&lt;Event notifier&gt;</source>
-        <translation type="vanished">&lt;Zdarzenia&gt;</translation>
-    </message>
-</context>
-<context>
     <name>ExtendedMenuPlugin</name>
     <message>
         <source>Ping %1</source>
@@ -4476,14 +3955,6 @@ Jeśli chcesz potwierdzić te żądanie, naciśnij przycisk Potwierdź. W przeci
     <message>
         <source>Entity Time</source>
         <translation>Czas utworzenia</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">email:</translation>
     </message>
     <message>
         <source>This plugin adds several additional commands into contacts context menu.</source>
@@ -4724,10 +4195,6 @@ Ta opcja działa tylko jeżeli nie zaakceptowano domyślnej</translation>
         <translation>Pokaż ostatni status</translation>
     </message>
     <message>
-        <source>Show PGP</source>
-        <translation type="vanished">Pokaż PGP</translation>
-    </message>
-    <message>
         <source>Show client version</source>
         <translation>Pokaż wersję klienta</translation>
     </message>
@@ -4742,10 +4209,6 @@ Ta opcja działa tylko jeżeli nie zaakceptowano domyślnej</translation>
     <message>
         <source>Show &quot;Active Chats&quot; option in contact menu</source>
         <translation>Pokaż opcję &quot;aktywne rozmowy&quot; w menu kontaktu</translation>
-    </message>
-    <message>
-        <source>Show &quot;Assign OpenPGP Key&quot; option in contact menu</source>
-        <translation type="vanished">Pokaż opcję &quot;Przypisz lkucz OpenPGP&quot; w menu kontaktu</translation>
     </message>
     <message>
         <source>Show &quot;Picture&quot; option in contact menu</source>
@@ -4856,10 +4319,6 @@ Ta opcja działa tylko jeżeli nie zaakceptowano domyślnej</translation>
         <translation>Pokaż ikony statusów na kartach</translation>
     </message>
     <message>
-        <source>Hide tab when close chat window</source>
-        <translation type="vanished">Ukryj kartę przy zamknięciu okna rozmowy</translation>
-    </message>
-    <message>
         <source>Allow closing inactive tabs</source>
         <translation>Pozwól zamykać nieaktywne karty</translation>
     </message>
@@ -4898,18 +4357,6 @@ Ta opcja działa tylko jeżeli nie zaakceptowano domyślnej</translation>
     <message>
         <source>Notifications</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">email:</translation>
     </message>
     <message>
         <source>This plugin is designed to allow easy configuration of some advanced options in Psi.
@@ -4959,13 +4406,6 @@ Ważne: Większość z tych to ważne opcje systemowe. Wymaga to szczególnej uw
     <message>
         <source>Close</source>
         <translation>Zamknij</translation>
-    </message>
-</context>
-<context>
-    <name>FigureDialog</name>
-    <message>
-        <source>What figure should I set?</source>
-        <translation type="vanished">Co powinienem zmienić?</translation>
     </message>
 </context>
 <context>
@@ -5036,14 +4476,6 @@ Ważne: Większość z tych to ważne opcje systemowe. Wymaga to szczególnej uw
     <message>
         <source>Are you sure you want to cancel the transfer?</source>
         <translation>Czy na pewno chcesz przerwać transfer pliku?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Tak</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Nie</translation>
     </message>
     <message>
         <source>Choose a file</source>
@@ -5134,10 +4566,6 @@ osiągalny. Jeśli jesteś za firewallem, to upewnij się
 </context>
 <context>
     <name>FileShareDlg</name>
-    <message>
-        <source>Dialog</source>
-        <translation type="vanished">Dialog</translation>
-    </message>
     <message>
         <source>Share Files</source>
         <translation type="unfinished"></translation>
@@ -5716,10 +5144,6 @@ Przyczyna: %1</translation>
         <translation>Usuń</translation>
     </message>
     <message>
-        <source>Cancel</source>
-        <translation type="vanished">Rezygnuj</translation>
-    </message>
-    <message>
         <source>&amp;Name:</source>
         <translation>&amp;Nazwa:</translation>
     </message>
@@ -5732,16 +5156,8 @@ Przyczyna: %1</translation>
         <translation>&amp;Auto-dołączenie:</translation>
     </message>
     <message>
-        <source>Bookmark conference</source>
-        <translation type="vanished">Zakładka konferencji</translation>
-    </message>
-    <message>
         <source>Unable to join groupchat.    Reason: %1</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Paste and Send</source>
-        <translation type="vanished">Wklej i wyślij</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
@@ -5750,10 +5166,6 @@ Przyczyna: %1</translation>
     <message>
         <source>Open &amp;Chat Window</source>
         <translation>Otwórz okno &amp;rozmowy</translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation type="vanished">Połączenie głosowe</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
@@ -5919,153 +5331,6 @@ Przyczyna: %1</translation>
     </message>
 </context>
 <context>
-    <name>GameBoard</name>
-    <message>
-        <source>White</source>
-        <translation type="vanished">Biały</translation>
-    </message>
-    <message>
-        <source>Black</source>
-        <translation type="vanished">Czarny</translation>
-    </message>
-    <message>
-        <source>game with</source>
-        <translation type="vanished">gra z </translation>
-    </message>
-    <message>
-        <source>Game chat</source>
-        <translation type="vanished">Rozmowa gry</translation>
-    </message>
-    <message>
-        <source>History</source>
-        <translation type="vanished">Historia</translation>
-    </message>
-    <message>
-        <source>Looking up the host</source>
-        <translation type="vanished">Poszukiwanie hosta</translation>
-    </message>
-    <message>
-        <source>Accepted a new connection</source>
-        <translation type="vanished">Zaakceptuj nowe połączenie</translation>
-    </message>
-    <message>
-        <source>The host found</source>
-        <translation type="vanished">Host odnaleziony</translation>
-    </message>
-    <message>
-        <source>Connected to the host</source>
-        <translation type="vanished">Podłączony do hosta</translation>
-    </message>
-    <message>
-        <source>Socket Error...</source>
-        <translation type="vanished">Błąd gniazda...</translation>
-    </message>
-    <message>
-        <source>You have a socket error number</source>
-        <translation type="vanished">Błąd gniazda numer</translation>
-    </message>
-    <message>
-        <source>game from</source>
-        <translation type="vanished">gra z </translation>
-    </message>
-    <message>
-        <source>Accepted the</source>
-        <translation type="vanished">Zaakceptuj</translation>
-    </message>
-    <message>
-        <source>Your move...</source>
-        <translation type="vanished">Twój ruch...</translation>
-    </message>
-    <message>
-        <source>Waiting a move...</source>
-        <translation type="vanished">Oczekiwanie na ruch...</translation>
-    </message>
-    <message>
-        <source>End the game</source>
-        <translation type="vanished">Koniec gry</translation>
-    </message>
-    <message>
-        <source>Want you to end the game?
-You will lose it</source>
-        <translation type="vanished">Czy chcesz zakończyć grę?
-Utracisz ją</translation>
-    </message>
-    <message>
-        <source>Yes, end</source>
-        <translation type="vanished">Tak, zakończ</translation>
-    </message>
-    <message>
-        <source>No, continue</source>
-        <translation type="vanished">Nie, kontynłuj</translation>
-    </message>
-    <message>
-        <source>B</source>
-        <translation type="vanished">B</translation>
-    </message>
-    <message>
-        <source>K</source>
-        <translation type="vanished">K</translation>
-    </message>
-    <message>
-        <source>C</source>
-        <translation type="vanished">C</translation>
-    </message>
-    <message>
-        <source>Q</source>
-        <translation type="vanished">Q</translation>
-    </message>
-    <message>
-        <source>Error!</source>
-        <translation type="vanished">Błąd!</translation>
-    </message>
-    <message>
-        <source>Lookup Error</source>
-        <translation type="vanished">Sprawdź błąd</translation>
-    </message>
-    <message>
-        <source>The host</source>
-        <translation type="vanished">Host</translation>
-    </message>
-    <message>
-        <source>not found.</source>
-        <translation type="vanished">nie znaleziony.</translation>
-    </message>
-    <message>
-        <source>Save image</source>
-        <translation type="vanished">Zapisz obraz</translation>
-    </message>
-    <message>
-        <source>Do you want to save the image?</source>
-        <translation type="vanished">Czy chcesz zapisać obraz?</translation>
-    </message>
-    <message>
-        <source>Yes, save</source>
-        <translation type="vanished">Tak, zapisz</translation>
-    </message>
-    <message>
-        <source>No, don&apos;t save</source>
-        <translation type="vanished">Nie, nie zapisuj</translation>
-    </message>
-    <message>
-        <source>Game over</source>
-        <translation type="vanished">Koniec gry</translation>
-    </message>
-    <message>
-        <source>You scored the game</source>
-        <translation type="vanished">Wynik gry</translation>
-    </message>
-    <message>
-        <source>You have a mate.
-You lost the game.</source>
-        <translation type="vanished">Masz mata.
-Przegrałeś.</translation>
-    </message>
-    <message>
-        <source>You have a stalemate</source>
-        <translation type="vanished">Masz szach-mata</translation>
-    </message>
-</context>
-<context>
     <name>GameModel</name>
     <message>
         <source>The first turn can be only H8.</source>
@@ -6116,20 +5381,12 @@ Przegrałeś.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enable word highlighting</source>
-        <translation type="vanished">Włącz podświetlanie słów</translation>
-    </message>
-    <message>
         <source>Highlight lines and alert the user if this text is included in chat</source>
         <translation>Podświetlaj linie i ostrzegaj użytkownika jeśli ten tekst pojawi się w rozmowie</translation>
     </message>
     <message>
         <source>Word highlighting</source>
         <translation>Włącz podświetlanie słów</translation>
-    </message>
-    <message>
-        <source>Words which will cause a notification in group chat.</source>
-        <translation type="vanished">Słowa, które spowodują powiadomienia w pokojach konferencyjnych.</translation>
     </message>
     <message>
         <source>This is the list of words which when said in group chat will cause the user to be notified.</source>
@@ -6156,20 +5413,8 @@ Przegrałeś.</translation>
         <translation>Usuń</translation>
     </message>
     <message>
-        <source>Enable nick coloring</source>
-        <translation type="vanished">Włącz kolorowanie pseudonimów</translation>
-    </message>
-    <message>
-        <source>Enable hash nick coloring</source>
-        <translation type="vanished">Włącz kolorowanie pseudonimów</translation>
-    </message>
-    <message>
         <source>Nick coloring</source>
         <translation>Kolorowanie pseudonimów</translation>
-    </message>
-    <message>
-        <source>Colors used for nicks in groupchat</source>
-        <translation type="vanished">Kolory używane do kolorowania pseudonimów w pokojach konferencyjnych</translation>
     </message>
     <message>
         <source>This is the list of colours with which nicks will be drawn in group chat.</source>
@@ -6178,10 +5423,6 @@ Przegrałeś.</translation>
     <message>
         <source>Type a colourcode here, or press the palette to the right</source>
         <translation>Wpisz tutaj kod koloru, lub wybierz z palety po prawej</translation>
-    </message>
-    <message>
-        <source>Adds the color to the list</source>
-        <translation type="vanished">Dodaj kolor do listy</translation>
     </message>
     <message>
         <source>Adds the new color to the list</source>
@@ -6449,55 +5690,6 @@ Przegrałeś.</translation>
     </message>
 </context>
 <context>
-    <name>GmailNotifyPlugin</name>
-    <message>
-        <source>No-save state for contact %1 is changed</source>
-        <translation type="vanished">Stan Nie-zapisuj dla kontaktu %1 zostanie zmieniony</translation>
-    </message>
-    <message>
-        <source>Settings for an account %1 are changed</source>
-        <translation type="vanished">Ustawienia konta %1 zostały zmienione</translation>
-    </message>
-    <message>
-        <source>Shared Status for an account %1 is updated</source>
-        <translation type="vanished">Wspólny status konta %1 został zaktualizowany</translation>
-    </message>
-    <message>
-        <source>Attributes for contact %1 are changed</source>
-        <translation type="vanished">Atrybuty kontaktu %1 zostały zmienione</translation>
-    </message>
-    <message>
-        <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
-        <translation type="vanished">&lt;b&gt;mail.google.com - nadeszla wiadomość email!&lt;/b&gt;</translation>
-    </message>
-    <message>
-        <source>Choose a sound file</source>
-        <translation type="vanished">Wybierz plik dźwięku</translation>
-    </message>
-    <message>
-        <source>Sound (*.wav)</source>
-        <translation type="vanished">Dźwięk (*.wav)</translation>
-    </message>
-    <message>
-        <source>Choose a program</source>
-        <translation type="vanished">Wybierz program</translation>
-    </message>
-    <message>
-        <source>Block gmail contact</source>
-        <translation type="vanished">Blokuj kontakt gmail</translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="vanished">Autorzy:</translation>
-    </message>
-    <message>
-        <source>Shows notifications of new messages in your Gmailbox.
-Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
-        <translation type="vanished">Wyświetla powiadomienia o nowych wiadomościach na koncie Gmail.
-Uwaga: Wtyczka sprawdza nowe wiadomości tylko w folderze w katalogu głównym na koncie Gmail. Podczas korzystania z filtrowania po stronie serwera poczty, możesz nie być informowany o wszystkich nowych wiadomościach.</translation>
-    </message>
-</context>
-<context>
     <name>Gnome3StatusWatcher</name>
     <message>
         <source>Authors: </source>
@@ -6506,17 +5698,6 @@ Uwaga: Wtyczka sprawdza nowe wiadomości tylko w folderze w katalogu głównym n
     <message>
         <source>This plugin is designed to add support of GNOME 3 presence status changes</source>
         <translation>Ten dodatek zaprojektowano by dodać do GNOME 3 wsparcie dla zmiany statusów</translation>
-    </message>
-</context>
-<context>
-    <name>GnuPG</name>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
-    </message>
-    <message>
-        <source>e-mail: </source>
-        <translation type="vanished">email:</translation>
     </message>
 </context>
 <context>
@@ -6545,20 +5726,6 @@ do gry gamoku. Chce grać %2</translation>
     <message>
         <source>Sound (*.wav)</source>
         <translation>Dźwięk (*.wav)</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email:</translation>
-    </message>
-    <message>
-        <source>This plugin allows you to play gomoku with your friends.
-For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="vanished">Ta wtyczka umożliwia grę w gomoku wraz z przyjaciółmi.
-Do wysyłania poleceń, wykorzystywane są zwykłe wiadomości, więc wtyczka  ta będzie pracować zawsze gdziekolwiek jesteś w stanie się zalogować. Aby zaprosić przyjaciela do gry, możesz użyć menu kontaktu lub przycisku na pasku narzędzi w oknie rozmowy.</translation>
     </message>
     <message>
         <source>Gomoku game</source>
@@ -6640,14 +5807,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
 <context>
     <name>GroupChatDlg</name>
     <message>
-        <source>Topic:</source>
-        <translation type="vanished">Temat:</translation>
-    </message>
-    <message>
-        <source>AccountLabel</source>
-        <translation type="vanished">Etykieta konta</translation>
-    </message>
-    <message>
         <source>Select icon</source>
         <translation>Wybierz ikonę</translation>
     </message>
@@ -6681,17 +5840,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
     <message>
         <source>Country</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>GroupChatViewThemeProvider</name>
-    <message>
-        <source>Groupchat Message Style</source>
-        <translation type="vanished">Styl wiadomości rozmowy grupowej</translation>
-    </message>
-    <message>
-        <source>Configure your groupchat theme here</source>
-        <translation type="vanished">Konfiguruj temat rozmowy grupowej</translation>
     </message>
 </context>
 <context>
@@ -6920,22 +6068,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
 <context>
     <name>HistoryImport</name>
     <message>
-        <source>Status:</source>
-        <translation type="vanished">Status:</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="vanished">OK</translation>
-    </message>
-    <message>
-        <source>Import</source>
-        <translation type="vanished">Import</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Błąd</translation>
-    </message>
-    <message>
         <source>Upgrade history</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6965,14 +6097,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
     <message>
         <source>Clear history on exit</source>
         <translation>Wyczyść historię przy wyjściu</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor;</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">email:</translation>
     </message>
     <message>
         <source>This plugin is designed to remove the history of selected contacts when the Psi is closed.
@@ -7465,31 +6589,6 @@ Można zaznaczyć lub odznaczyć kontakt do usunięcia historii z poziomu menu k
     </message>
 </context>
 <context>
-    <name>IcqDie</name>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
-    </message>
-    <message>
-        <source>This plugin is designed to help you transfer as many contacts as possible from ICQ to Jabber.
-The plugin has a number of simple settings that can help you:
-* set a special message text
-* exclude specific ICQ numbers
-* set the time interval after which the message will be repeated
-* set the max count of messages by contact
-* disable the message for the active window/tab
-* disable messages for contacts that are not in your roster</source>
-        <translation type="vanished">Ten dodatek jest zaprojektowany, aby pomóc Ci pobrać jak najwięcej kontaktów z ICQ do Jabbera.
-Wtyczka posiada kilka prostych ustawień, które mogą pomóc:
-* Ustaw specjalny tekst wiadomości
-* Wyklucz określone numery ICQ
-* Ustaw interwał czasu, po którym wiadomość zostanie powtórzona
-* Ustaw maksymalną liczbę wiadomości na kontakt
-* Wyłącz wiadomość dla aktywnego okna/karty
-* Całkowicie wyłącz komunikaty dla kontaktów, które nie są na liscie</translation>
-    </message>
-</context>
-<context>
     <name>ImagePlugin</name>
     <message>
         <source>Send Image</source>
@@ -7522,10 +6621,6 @@ Wtyczka posiada kilka prostych ustawień, które mogą pomóc:
     <message>
         <source>Image %1 bytes received.</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="vanished">Autorzy:</translation>
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
@@ -7593,10 +6688,6 @@ Nota: Do poprawnej pracy opcja: options.ui.chat.central-toolbar musi mieć warto
 </context>
 <context>
     <name>ImagePreviewPlugin</name>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
-    </message>
     <message>
         <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
 </source>
@@ -7795,14 +6886,6 @@ Nota: Do poprawnej pracy opcja: options.ui.chat.central-toolbar musi mieć warto
 Are you sure you want to discard them?</source>
         <translation>Nie opublikowałeś zmian dotyczących Twojego konta.
 Czy na pewno chcesz je porzucić?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation type="vanished">Zamknij i porzuć</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">Nie zamykaj</translation>
     </message>
     <message>
         <source>Success</source>
@@ -8087,14 +7170,6 @@ to play battleship. He wants to play %2.</source>
         <translation>Dysk jabberowy</translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">email:</translation>
-    </message>
-    <message>
         <source>Treat some jids as services implementing Jabber Disk protocol and handle your files with them.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8183,10 +7258,6 @@ buforowanie awatarów będzie niedostępne</translation>
     <message>
         <source>Add to favorites</source>
         <translation>Dodaj do ulubionych</translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="vanished">Autorzy:</translation>
     </message>
     <message>
         <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
@@ -8304,10 +7375,6 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
         <translation>Konfiguruj pokój</translation>
     </message>
     <message>
-        <source>Affiliations</source>
-        <translation type="vanished">Przynależności</translation>
-    </message>
-    <message>
         <source>Filter:</source>
         <translation>Filtr:</translation>
     </message>
@@ -8318,10 +7385,6 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     <message>
         <source>Remove</source>
         <translation>Usuń</translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation type="vanished">Ogólne</translation>
     </message>
     <message>
         <source>message</source>
@@ -8385,14 +7448,6 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     <message>
         <source>Are you absolutely certain you want to destroy this room?</source>
         <translation>Czy jesteś całkowicie przekonany, że chcesz usunąć ten pokój?</translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="vanished">Tak</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">Nie</translation>
     </message>
     <message>
         <source>There was an error retrieving the room configuration</source>
@@ -8481,10 +7536,6 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
 Reason: %1</source>
         <translation>Nie możesz dołączyć do konferencji.
 Przyczyna: %1</translation>
-    </message>
-    <message>
-        <source>%1 (%2)</source>
-        <translation type="vanished">%1 (%2)</translation>
     </message>
     <message>
         <source>No response from server for %1 seconds</source>
@@ -8640,14 +7691,6 @@ Przyczyna: %1</translation>
         <translation>Czytaj to</translation>
     </message>
     <message>
-        <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
-        <translation type="vanished">W aplikacji tej używany jest GStreamer %1 - kompleksowy, otwartoźródłowy i wieloplatformowy framework multimedialny. Aby uzyskać więcej informacji odwiedź &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>About GStreamer</source>
-        <translation type="vanished">O GStreamer</translation>
-    </message>
-    <message>
         <source>Security Plugins Diagnostic Text</source>
         <translation>Teskt diagnostyczny wtyczek zabezpieczeń</translation>
     </message>
@@ -8658,14 +7701,6 @@ Przyczyna: %1</translation>
     <message>
         <source>Receive next event</source>
         <translation>Odbierz następne zdarzenie</translation>
-    </message>
-    <message>
-        <source>Un&amp;hide</source>
-        <translation type="vanished">Po&amp;każ</translation>
-    </message>
-    <message>
-        <source>&amp;Hide</source>
-        <translation type="vanished">&amp;Ukryj</translation>
     </message>
     <message>
         <source>Status Message</source>
@@ -8726,41 +7761,6 @@ Przychodzące zdarzenie(a) od:</translation>
     <message>
         <source>Enable Sounds</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>MainWindow</name>
-    <message>
-        <source>New</source>
-        <translation type="vanished">Nowy</translation>
-    </message>
-    <message>
-        <source>Save image</source>
-        <translation type="vanished">Zapisz obraz</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation type="vanished">Wyjdź</translation>
-    </message>
-    <message>
-        <source>About the game</source>
-        <translation type="vanished">O grze</translation>
-    </message>
-    <message>
-        <source>Game</source>
-        <translation type="vanished">Gra</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation type="vanished">Pomoc</translation>
-    </message>
-    <message>
-        <source>Ready</source>
-        <translation type="vanished">Gotowy</translation>
-    </message>
-    <message>
-        <source>About</source>
-        <translation type="vanished">O</translation>
     </message>
 </context>
 <context>
@@ -8948,14 +7948,6 @@ Size: %2</source>
 </context>
 <context>
     <name>MessageFilter</name>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
-    </message>
-    <message>
-        <source>e-mail: </source>
-        <translation type="vanished">email:</translation>
-    </message>
     <message>
         <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
         <translation type="unfinished"></translation>
@@ -9529,10 +8521,6 @@ Przyczyna: %1.</translation>
         <translation>Przewijaj listę do kontaktu przy nadchodzącym zdarzeniu</translation>
     </message>
     <message>
-        <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation type="vanished">Ignoruj zdarzenia typu &quot;Nagłówek&quot; (np. ostrzeżenia MSN, nagłówki RSS)</translation>
-    </message>
-    <message>
         <source>Treat incoming messages and chats as:</source>
         <translation>Traktuj przychodzące wiadomości i rozmowy jako:</translation>
     </message>
@@ -9696,10 +8684,6 @@ Przyczyna: %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Link</source>
-        <translation type="vanished">Link</translation>
-    </message>
-    <message>
         <source>Tooltip:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9821,10 +8805,6 @@ Przyczyna: %1.</translation>
         <translation>Zasobnik systemowy</translation>
     </message>
     <message>
-        <source>Use &quot;double-click&quot; style (like ICQ)</source>
-        <translation type="vanished">Używaj podwójnego kliknięcia (podobnie jak ICQ)</translation>
-    </message>
-    <message>
         <source>Start minimized</source>
         <translation>Uruchamiaj jako zminimalizowany</translation>
     </message>
@@ -9895,10 +8875,6 @@ Przyczyna: %1.</translation>
         <source>Video input:</source>
         <translation>Wejście wideo:</translation>
     </message>
-    <message>
-        <source>Video support:</source>
-        <translation type="vanished">Obsługa wideo:</translation>
-    </message>
 </context>
 <context>
     <name>OptChat</name>
@@ -9930,10 +8906,6 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     <message>
         <source>Default action</source>
         <translation>Domyślna akcja</translation>
-    </message>
-    <message>
-        <source>Delete chat window contents</source>
-        <translation type="vanished">Usuń zawartość okna rozmowy</translation>
     </message>
     <message>
         <source>&amp;Message</source>
@@ -10111,10 +9083,6 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     <message>
         <source>Show previews for links</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use contacts&apos; message formatting</source>
-        <translation type="vanished">Używaj tego samego stylu formatowania co kontakt</translation>
     </message>
     <message>
         <source>Show character counter</source>
@@ -10310,14 +9278,6 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
         <translation>Pokaż pasek menu</translation>
     </message>
     <message>
-        <source>Disables scrollbar in the application window.</source>
-        <translation type="vanished">Wyłączenie paska przewijania w oknie aplikacji.</translation>
-    </message>
-    <message>
-        <source>Disable scrollbar</source>
-        <translation type="vanished">Wyłącz pasek przewijania</translation>
-    </message>
-    <message>
         <source>Enables avatar frame at the top of roster</source>
         <translation>Pokazuje ramkę z własnym avatarem oraz polem zmiany statusu na górze listy kontaktów</translation>
     </message>
@@ -10423,10 +9383,6 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     <message>
         <source>OptApplicationUI</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disable scrollbar</source>
-        <translation type="vanished">Wyłącz pasek przewijania</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -10788,10 +9744,6 @@ p, li { white-space: pre-wrap; }
         <translation>Formularz</translation>
     </message>
     <message>
-        <source>Tunes</source>
-        <translation type="vanished">Melodie</translation>
-    </message>
-    <message>
         <source>Enter media file extensions to ignore them on tune sending</source>
         <translation>Podaj rozszerzenia plików multimedialnych, które mają być ignorowane przy wysyłaniu melodii</translation>
     </message>
@@ -10835,10 +9787,6 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Psi: Option Editor</source>
-        <translation type="vanished">Psi: Edytor ustawień</translation>
-    </message>
-    <message>
         <source>Can&apos;t edit this type of setting, sorry.</source>
         <translation>Niestety nie można edytować tego typu ustawienia.</translation>
     </message>
@@ -10879,11 +9827,6 @@ Nazwa nie może być pusta, zakończona &apos;.&apos; lub zawierać &apos;..&apo
     <message>
         <source>Play sound:</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If you use this plugin at first time, make sure that all your accounts
-is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
-        <translation type="vanished">Jeśli korzystasz z tej wtyczki pierwszy raz, upewnij się, że wszystkie twoje konta maja status aktywny i kliknij przycisk &quot;Aktualizuj urodziny&quot;. To zajmuje trochę czasu.</translation>
     </message>
     <message>
         <source>Update Birthdays</source>
@@ -10942,23 +9885,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source> If set to &quot;true&quot;, the server will save
- Google Talk chats on the server;
- if set to &quot;false&quot;, no conversations
- will be logged.</source>
-        <translation type="vanished">Jeśli ustawiono &quot;tak&quot;, to serwer zapisze
-Rozmowy Google Talk na serwerze;
-jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</translation>
-    </message>
-    <message>
-        <source>Show all unread messages</source>
-        <translation type="vanished">Pokaż wszystkie nieprzeczytane wiadomości</translation>
-    </message>
-    <message>
-        <source>Show new messages only</source>
-        <translation type="vanished">Pokaż tylko nowe wiadomości</translation>
-    </message>
-    <message>
         <source>Add</source>
         <translation>Dodaj</translation>
     </message>
@@ -10973,10 +9899,6 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     <message>
         <source>Export</source>
         <translation>Eksport</translation>
-    </message>
-    <message>
-        <source>Settings</source>
-        <translation type="vanished">Ustawienia</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -11530,10 +10452,6 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
         <translation>Automatycznie przewija listę kontaktów tak, aby były widoczne nadchodzące zdarzenia.</translation>
     </message>
     <message>
-        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation type="vanished">Powoduje, że Psi ignoruje wszystkie wiadomości typu &quot;Nagłówek&quot;, np. systemowe ogłoszenia w MSN, nagłówki RSS, itp.</translation>
-    </message>
-    <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11717,21 +10635,6 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     </message>
 </context>
 <context>
-    <name>OptionsTabAvCall</name>
-    <message>
-        <source>Voice Calling</source>
-        <translation type="vanished">Rozmowy głosowe</translation>
-    </message>
-    <message>
-        <source>Audio and video device configuration</source>
-        <translation type="vanished">Konfiguracja urządzeń audio i wideo</translation>
-    </message>
-    <message>
-        <source>Audio device configuration</source>
-        <translation type="vanished">Konfiguracja urządzenia audio</translation>
-    </message>
-</context>
-<context>
     <name>OptionsTabChat</name>
     <message>
         <source>Chat</source>
@@ -11768,26 +10671,6 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     <message>
         <source>Makes Psi open chat windows in compact mode.</source>
         <translation>Powoduje, że domyślnie otwarte okna rozmów będą wyświetlane w trybie uproszczonym, zawierającym tylko pole edycji i historię rozmowy.</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Ustala jak długo historia rozmowy będzie zachowywana w pamięci po zamknięciu okna rozmowy.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Ta opcja powoduje, że historia rozmowy nie będzie zachowana w pamięci.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Ta opcja powoduje, że historia rozmowy będzie zachowana tylko jedną godzinę.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Ta opcja powoduje, że historia rozmowy będzie zachowana tylko jeden dzień.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Ta opcja powoduje, że historia rozmowy będzie zachowana na stałe.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>Time (HH:mm)</source>
@@ -12015,10 +10898,6 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     <message>
         <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
         <translation>Powoduje, że Psi pokazuje licznik długości wiadomości. Zaznacz tę opcję, jeżeli chcesz na bieżąco śledzić długość wpisywanej wiadomości. Może to być użyteczne jeżeli korzystasz z transportu SMS.</translation>
-    </message>
-    <message>
-        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation type="vanished">Jeśli włączone, Psi będzie wyświetlać przychodzące wiadomości sformatowane w stylu zdefiniowanym przez kontakt</translation>
     </message>
     <message>
         <source>Never, only when asked</source>
@@ -12701,10 +11580,6 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
         <translation>Formularz</translation>
     </message>
     <message>
-        <source>General</source>
-        <translation type="vanished">Podstawowe</translation>
-    </message>
-    <message>
         <source>Account:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12763,10 +11638,6 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     <message>
         <source>Caps version</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Groupchats</source>
-        <translation type="vanished">Konferencje</translation>
     </message>
     <message>
         <source>Shortcut:</source>
@@ -12915,10 +11786,6 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
         <translation>Proszę wybrać klucz.</translation>
     </message>
     <message>
-        <source>Key Storage Diagnostic Text</source>
-        <translation type="vanished">Tekst diagnostyczny magazynu kluczy</translation>
-    </message>
-    <message>
         <source>GnuPG info</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12951,48 +11818,8 @@ Przyczyna: %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save Password</source>
-        <translation type="vanished">Zapisz hasło</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation type="vanished">OK</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">Anuluj</translation>
-    </message>
-    <message>
         <source>Please enter your password for %1:</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Passphrase</name>
-    <message>
-        <source>OpenPGP Passphrase</source>
-        <translation type="vanished">Hasło OpenPGP</translation>
-    </message>
-    <message>
-        <source>Your passphrase is needed to use OpenPGP security.
-Please enter your passphrase below:</source>
-        <translation type="vanished">Twoje hasło jest potrzebne, aby używać szyfrowania OpenPGP.
-Wprowadź hasło twojego klucza OpenPGP poniżej:</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">&amp;Anuluj</translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation type="vanished">&amp;OK</translation>
-    </message>
-</context>
-<context>
-    <name>PassphraseDlg</name>
-    <message>
-        <source>%1: OpenPGP Passphrase</source>
-        <translation type="vanished">%1: Hasło OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -13031,14 +11858,6 @@ Wprowadź hasło twojego klucza OpenPGP poniżej:</translation>
     <message>
         <source>Sound (*.wav)</source>
         <translation>Dźwięk (*.wav)</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">email:</translation>
     </message>
     <message>
         <source>This plugin shows popup notifications when users from your roster changes their mood, tune or activity.</source>
@@ -13282,21 +12101,6 @@ Nadal można zapisać grę.</translation>
     </message>
 </context>
 <context>
-    <name>PreferencesWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">Formularz</translation>
-    </message>
-    <message>
-        <source>@username</source>
-        <translation type="vanished">@nazwa użytkownika</translation>
-    </message>
-    <message>
-        <source>message</source>
-        <translation type="vanished">Wiadomość</translation>
-    </message>
-</context>
-<context>
     <name>PreviewFileDialog</name>
     <message>
         <source>Preview</source>
@@ -13534,153 +12338,7 @@ Nadal można zapisać grę.</translation>
     </message>
 </context>
 <context>
-    <name>ProfileManage</name>
-    <message>
-        <source>Manage Profiles</source>
-        <translation type="vanished">Zarządzanie profilami</translation>
-    </message>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="vanished">&amp;Dodaj</translation>
-    </message>
-    <message>
-        <source>psi/addContact</source>
-        <translation type="vanished">psi/addContact</translation>
-    </message>
-    <message>
-        <source>&amp;Rename</source>
-        <translation type="vanished">Z&amp;mień nazwę</translation>
-    </message>
-    <message>
-        <source>Rem&amp;ove</source>
-        <translation type="vanished">&amp;Usuń</translation>
-    </message>
-    <message>
-        <source>psi/remove</source>
-        <translation type="vanished">psi/remove</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileManageDlg</name>
-    <message>
-        <source>Rename Profile</source>
-        <translation type="vanished">Zmień nazwę profilu</translation>
-    </message>
-    <message>
-        <source>Please enter a new name for the profile.  Keep it simple.
-Only use letters or numbers.  No punctuation or spaces.</source>
-        <translation type="vanished">Proszę wprowadzić nową nazwę profilu.
-Używaj tylko liter i cyfr, bez kropek lub spacji.</translation>
-    </message>
-    <message>
-        <source>There is already another profile with this name.  Please choose another.</source>
-        <translation type="vanished">Istnieje już profil o tej nazwie. Wybierz inną.</translation>
-    </message>
-    <message>
-        <source>Unable to rename the profile.  Please do not use any special characters.</source>
-        <translation type="vanished">Nie można zmienić nazwy profilu. Proszę nie używać znaków specjalnych.</translation>
-    </message>
-    <message>
-        <source>Delete Profile</source>
-        <translation type="vanished">Usuń profil</translation>
-    </message>
-    <message>
-        <source>&lt;qt&gt;Are you sure you want to delete the &quot;&lt;b&gt;%1&lt;/b&gt;&quot; profile?  This will delete all of the profile&apos;s message history as well as associated settings!&lt;/qt&gt;</source>
-        <translation type="vanished">&lt;qt&gt;Czy na pewno chcesz usunąć profil &quot;&lt;b&gt;%1&lt;/b&gt;&quot;? Usunięcie profilu spowoduje usunięcie historii wiadomości oraz powiązanych z tym profilem ustawień!&lt;/qt&gt;</translation>
-    </message>
-    <message>
-        <source>No, I changed my mind</source>
-        <translation type="vanished">Nie, rozmyśliłem się</translation>
-    </message>
-    <message>
-        <source>Delete it!</source>
-        <translation type="vanished">Usuń!</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Nie</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Tak</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileNew</name>
-    <message>
-        <source>New Profile</source>
-        <translation type="vanished">Nowy profil</translation>
-    </message>
-    <message>
-        <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
-&lt;br&gt;
-The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; (ICQ style) and&lt;b&gt; Chat&lt;/b&gt; (AIM style). You can change this later from the Options menu.&lt;br&gt;
-&lt;br&gt;
-Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation type="vanished">Ustaw prostą &lt;b&gt;Nazwę profilu&lt;/b&gt;. Powinna się ona składać tylko z liter lub cyfr.&lt;br&gt;
-&lt;br&gt;
-&lt;b&gt;Domyślna akcja&lt;/b&gt; określa działanie przy dwukrotnym kliknięciu na kontakt z listy. Do wyboru jest &lt;b&gt;Wiadomość&lt;/b&gt; (styl ICQ) i &lt;b&gt;Rozmowa&lt;/b&gt; (styl AIM). Można to zmienić później w Preferencjach&lt;br&gt;
-&lt;br&gt;
-Zaznacz opcję &lt;b&gt;Włącz emotikony&lt;/b&gt;, jeśli chcesz, aby tekst typu &lt;b&gt;:-)&lt;/b&gt; był zamieniany na &lt;icon name=&quot;psi/smile&quot;&gt;.</translation>
-    </message>
-    <message>
-        <source>Profile Name:</source>
-        <translation type="vanished">Nazwa profilu:</translation>
-    </message>
-    <message>
-        <source>Default Action</source>
-        <translation type="vanished">Domyślna akcja</translation>
-    </message>
-    <message>
-        <source>Enable Emoticons</source>
-        <translation type="vanished">Pokazuj emotikony</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Zamknij</translation>
-    </message>
-    <message>
-        <source>&amp;Create</source>
-        <translation type="vanished">&amp;Utwórz</translation>
-    </message>
-    <message>
-        <source>Alt+C</source>
-        <translation type="vanished">Alt+W</translation>
-    </message>
-    <message>
-        <source>psi/addContact</source>
-        <translation type="vanished">psi/addContact</translation>
-    </message>
-    <message>
-        <source>&amp;Chat</source>
-        <translation type="vanished">&amp;Rozmowa</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileNewDlg</name>
-    <message>
-        <source>New Profile</source>
-        <translation type="vanished">Nowy profil</translation>
-    </message>
-    <message>
-        <source>There is already an existing profile with this name.  Please choose another.</source>
-        <translation type="vanished">Istnieje już profil o tej nazwie. Wybierz inną.</translation>
-    </message>
-    <message>
-        <source>Unable to create the profile.  Please do not use any special characters.</source>
-        <translation type="vanished">Nie mogę utworzyć profilu. Proszę nie używać znaków specjalnych.</translation>
-    </message>
-</context>
-<context>
     <name>ProfileOpen</name>
-    <message>
-        <source>Open Profile</source>
-        <translation type="vanished">Otwórz profil</translation>
-    </message>
-    <message>
-        <source>left</source>
-        <translation type="vanished">lewo</translation>
-    </message>
     <message>
         <source>Image goes here</source>
         <translation>Obraz</translation>
@@ -13688,30 +12346,6 @@ Zaznacz opcję &lt;b&gt;Włącz emotikony&lt;/b&gt;, jeśli chcesz, aby tekst ty
     <message>
         <source>right</source>
         <translation>prawo</translation>
-    </message>
-    <message>
-        <source>Profile:</source>
-        <translation type="vanished">Profil:</translation>
-    </message>
-    <message>
-        <source>&amp;Automatically open on startup</source>
-        <translation type="vanished">&amp;Automatycznie otwórz przy starcie</translation>
-    </message>
-    <message>
-        <source>Language:</source>
-        <translation type="vanished">Język:</translation>
-    </message>
-    <message>
-        <source>&amp;Quit</source>
-        <translation type="vanished">&amp;Wyjdź</translation>
-    </message>
-    <message>
-        <source>&amp;Profiles...</source>
-        <translation type="vanished">&amp;Profile...</translation>
-    </message>
-    <message>
-        <source>&amp;Open</source>
-        <translation type="vanished">&amp;Otwórz</translation>
     </message>
     <message>
         <source>Profiles</source>
@@ -13744,18 +12378,6 @@ Zaznacz opcję &lt;b&gt;Włącz emotikony&lt;/b&gt;, jeśli chcesz, aby tekst ty
 </context>
 <context>
     <name>ProfileOpenDlg</name>
-    <message>
-        <source>Select a profile to open from this list.</source>
-        <translation type="vanished">Wybierz profil z listy.</translation>
-    </message>
-    <message>
-        <source>Select a language you would like Psi to use from this list.  You can download extra language packs from the Psi homepage.</source>
-        <translation type="vanished">Wybierz z listy język w jakim Psi ma wyświetlać komunikaty. Dodatkowe pliki tłumaczeń znajdują się na witrynie Psi albo bezpośrednio w instalatorze.</translation>
-    </message>
-    <message>
-        <source>Automatically open this profile when Psi is started.  Useful if you only have one profile.</source>
-        <translation type="vanished">Automatycznie otwieraj ten profil przy starcie Psi. Przydatne gdy korzysta się tylko z jednego profilu.</translation>
-    </message>
     <message>
         <source>Double-click or press F2 to rename a profile. Press Delete to remove it.</source>
         <translation type="unfinished"></translation>
@@ -14249,12 +12871,6 @@ Szczegóły: %1</translation>
         <translation>Nagłówek</translation>
     </message>
     <message>
-        <source>There was an error trying to sign your status.
-Reason: %1.</source>
-        <translation type="vanished">Wystąpił błąd podczas podpisywania statusu.
-Przyczyna: %1.</translation>
-    </message>
-    <message>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[BŁĄD: Ta wiadomość jest zaszyfrowana a Ty nie jesteś w stanie jej odszyfrować.]</translation>
     </message>
@@ -14265,14 +12881,6 @@ Przyczyna: %1.</translation>
     <message>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Psi nie mogło znaleźć klucza OpenPGP dla &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Mogło to być spowodowane tym, że nie posiadasz klucza, którego ta osoba użyła do podpisu statusu, albo tym że ta osoba w ogóle nie podpisuje statusu.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&amp;Choose key manually</source>
-        <translation type="vanished">&amp;Wybierz klucz ręcznie</translation>
-    </message>
-    <message>
-        <source>Do &amp;nothing</source>
-        <translation type="vanished">&amp;Anuluj</translation>
     </message>
     <message>
         <source>Public Key: %1</source>
@@ -14438,10 +13046,6 @@ Przyczyna: %1.</translation>
         <translation>Pozwala w prosty sposób zmieniać i sprawdzać informacje o aktualnym statusie</translation>
     </message>
     <message>
-        <source>Special item that displays number of pending events</source>
-        <translation type="vanished">Wyświetla liczbę oczekujących zdarzeń</translation>
-    </message>
-    <message>
         <source>Active contacts</source>
         <translation>Aktywne kontakty</translation>
     </message>
@@ -14456,10 +13060,6 @@ Przyczyna: %1.</translation>
     <message>
         <source>&amp;Add a Contact</source>
         <translation>Dodaj &amp;kontakt</translation>
-    </message>
-    <message>
-        <source>&amp;XML Console</source>
-        <translation type="vanished">Konsola &amp;XML</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
@@ -14480,14 +13080,6 @@ Przyczyna: %1.</translation>
     <message>
         <source>Join &amp;Groupchat</source>
         <translation>Dołącz do &amp;konferencji</translation>
-    </message>
-    <message>
-        <source>Account Setup</source>
-        <translation type="vanished">Ustawienia konta</translation>
-    </message>
-    <message>
-        <source>Acc&amp;ount Setup</source>
-        <translation type="vanished">Konfiguracja k&amp;ont</translation>
     </message>
     <message>
         <source>Options</source>
@@ -14514,16 +13106,8 @@ Przyczyna: %1.</translation>
         <translation>Z&amp;mień profil</translation>
     </message>
     <message>
-        <source>Play Sounds</source>
-        <translation type="vanished">Odtwarzaj dźwięki</translation>
-    </message>
-    <message>
         <source>Play &amp;Sounds</source>
         <translation>Odtwarzaj dź&amp;więki</translation>
-    </message>
-    <message>
-        <source>Toggles whether sound should be played or not</source>
-        <translation type="vanished">Włącza/wyłącza odtwarzanie dźwięków</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -14536,18 +13120,6 @@ Przyczyna: %1.</translation>
     <message>
         <source>Quits Psi</source>
         <translation>Kończy działanie Psi</translation>
-    </message>
-    <message>
-        <source>Tip of the Day</source>
-        <translation type="vanished">Porada dnia</translation>
-    </message>
-    <message>
-        <source>&amp;Tip of the Day</source>
-        <translation type="vanished">&amp;Porada dnia</translation>
-    </message>
-    <message>
-        <source>See many useful tips</source>
-        <translation type="vanished">Pokazuje wiele przydatnych porad</translation>
     </message>
     <message>
         <source>Transfer Manager</source>
@@ -14786,10 +13358,6 @@ Przyczyna: %1.</translation>
         <translation>Wyślij plik</translation>
     </message>
     <message>
-        <source>Toggle Encryption</source>
-        <translation type="vanished">Przełącz szyfrowanie GnuPG</translation>
-    </message>
-    <message>
         <source>User Info</source>
         <translation>Informacje o użytkowniku</translation>
     </message>
@@ -14911,20 +13479,12 @@ Przyczyna: %1.</translation>
         <translation>Błąd: Nie można przetworzyć polecenia: </translation>
     </message>
     <message>
-        <source>Command&gt;</source>
-        <translation type="vanished">Polecenie&gt;</translation>
-    </message>
-    <message>
         <source>turn off autojid</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>turn on autojid</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Paste and Send</source>
-        <translation type="vanished">Wklej i wyślij</translation>
     </message>
     <message>
         <source>Fingerprint for account &quot;%1&quot;: %2</source>
@@ -15203,10 +13763,6 @@ Przyczyna: %1.</translation>
         <translation>Nie można wyłączyć &lt;i&gt;wszystkich&lt;/i&gt; pasków narzędzi &lt;i&gt;oraz&lt;/i&gt; paska menu. Jeżeli zostaną wyłączone to nie będzie możliwości ponownego ich włączenia.</translation>
     </message>
     <message>
-        <source>I understand</source>
-        <translation type="vanished">Rozumiem</translation>
-    </message>
-    <message>
         <source>Call ended</source>
         <translation>Rozmowa zakończona</translation>
     </message>
@@ -15310,10 +13866,6 @@ Migration is possible with Psi-0.15</source>
         <translation>Otwórz okno &amp;rozmowy</translation>
     </message>
     <message>
-        <source>Open a &amp;Whiteboard</source>
-        <translation type="vanished">Otwórz &amp;tablicę</translation>
-    </message>
-    <message>
         <source>Voice Call</source>
         <translation>Rozmowa głosowa</translation>
     </message>
@@ -15332,14 +13884,6 @@ Migration is possible with Psi-0.15</source>
     <message>
         <source>&amp;Clear Custom Picture</source>
         <translation>&amp;Usuń własny obrazek</translation>
-    </message>
-    <message>
-        <source>Assign Open&amp;PGP Key</source>
-        <translation type="vanished">Przydziel klucz Open&amp;PGP</translation>
-    </message>
-    <message>
-        <source>Unassign Open&amp;PGP Key</source>
-        <translation type="vanished">Cofnij przydział klucza Open&amp;PGP</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
@@ -15412,14 +13956,6 @@ Migration is possible with Psi-0.15</source>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
         <translation>Czy jesteś pewnien, że chcesz cofnąć subskrypcję obecności dla &lt;b&gt;%1&lt;/b&gt;?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Tak</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Nie</translation>
     </message>
     <message>
         <source>Choose an Image</source>
@@ -15824,10 +14360,6 @@ Czy chcesz teraz aktywować sesję?</translation>
         <translation>Pokaż kontakty</translation>
     </message>
     <message>
-        <source>Event notifier</source>
-        <translation type="vanished">Wskaźnik zdarzeń</translation>
-    </message>
-    <message>
         <source>Auto Status (idle)</source>
         <translation>Automatyczny status (bezczynny)</translation>
     </message>
@@ -15841,14 +14373,6 @@ Czy chcesz teraz aktywować sesję?</translation>
     <message>
         <source>(no selection)</source>
         <translation>(nie zaznaczono)</translation>
-    </message>
-    <message>
-        <source>Flat</source>
-        <translation type="vanished">Płaska lista</translation>
-    </message>
-    <message>
-        <source>Display all options as a flat list.</source>
-        <translation type="vanished">Wyświetl wszystkie ustawienia jako płaską listę.</translation>
     </message>
     <message>
         <source>Delete...</source>
@@ -15865,14 +14389,6 @@ Czy chcesz teraz aktywować sesję?</translation>
     <message>
         <source>Add...</source>
         <translation>Dodaj...</translation>
-    </message>
-    <message>
-        <source>Open a detached option editor window.</source>
-        <translation type="vanished">Otwórz oddzielne okno edytora ustawień.</translation>
-    </message>
-    <message>
-        <source>Advanced</source>
-        <translation type="vanished">Zaawansowane</translation>
     </message>
     <message>
         <source>(internal node)</source>
@@ -15987,32 +14503,10 @@ Czy chcesz teraz aktywować sesję?</translation>
     </message>
 </context>
 <context>
-    <name>PsiThumbnailToolBar</name>
-    <message>
-        <source>Options</source>
-        <translation type="vanished">Opcje</translation>
-    </message>
-    <message>
-        <source>Online</source>
-        <translation type="vanished">Dostępny</translation>
-    </message>
-    <message>
-        <source>Offline</source>
-        <translation type="vanished">Niedostępny</translation>
-    </message>
-</context>
-<context>
     <name>PsiToolBar</name>
     <message>
         <source>&amp;Configure Toolbar...</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PsiWindowHeader</name>
-    <message>
-        <source>...</source>
-        <translation type="vanished">...</translation>
     </message>
 </context>
 <context>
@@ -16953,50 +15447,6 @@ Description: </source>
         <source>&lt;unnamed%1&gt;</source>
         <translation>&lt;nienazwany%1&gt;</translation>
     </message>
-    <message>
-        <source>Invalid passphrase</source>
-        <translation type="vanished">Nieprawidłowe hasło</translation>
-    </message>
-    <message>
-        <source>Invalid input format</source>
-        <translation type="vanished">NIeprawidłowy format wejścia</translation>
-    </message>
-    <message>
-        <source>Signing key expired</source>
-        <translation type="vanished">Klucz podpisu wygasł</translation>
-    </message>
-    <message>
-        <source>Invalid key</source>
-        <translation type="vanished">Nieprawidłowy klucz</translation>
-    </message>
-    <message>
-        <source>Encrypting key expired</source>
-        <translation type="vanished">Klucz szyfrujący wygasł</translation>
-    </message>
-    <message>
-        <source>Encrypting key is untrusted</source>
-        <translation type="vanished">Brak zaufania dla klucza szyfrującego</translation>
-    </message>
-    <message>
-        <source>Encrypting key is invalid</source>
-        <translation type="vanished">Klucz szyfrujący jest nieprawidłowy</translation>
-    </message>
-    <message>
-        <source>PGP card is missing</source>
-        <translation type="vanished">Brak karty PGP</translation>
-    </message>
-    <message>
-        <source>Unknown error</source>
-        <translation type="vanished">Nieznany błąd</translation>
-    </message>
-    <message>
-        <source>Socket Error</source>
-        <translation type="vanished">Błąd gniazda</translation>
-    </message>
-    <message>
-        <source>Cannot create a server socket!</source>
-        <translation type="vanished">Nie można utworzyć gniazda serwera!</translation>
-    </message>
     <message numerus="yes">
         <source>%n day(s) </source>
         <translation type="unfinished">
@@ -17713,14 +16163,6 @@ Thanks for your patience.</source>
 <context>
     <name>QipXStatuses</name>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">email:</translation>
-    </message>
-    <message>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17765,14 +16207,6 @@ Thanks for your patience.</source>
     <message>
         <source>&lt;qt&gt;Registration has already been submitted, so closing this window will not prevent the registration from happening.  Do you still wish to close?&lt;/qt&gt;</source>
         <translation>&lt;qt&gt;Rejestracja została juz wysłana, więc zamknięcie okna nie przeszkodzi w jej ukończeniu. Czy nadal chcesz zamknąć okno?&lt;/qt&gt;</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Tak</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Nie</translation>
     </message>
     <message>
         <source>Fetching registration form for %1 ...</source>
@@ -17841,14 +16275,6 @@ Przyczyna: %1</translation>
         <translation>Dźwięk (*.wav)</translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">email:</translation>
-    </message>
-    <message>
         <source>This plugin is designed to show reminders of upcoming birthdays.
 The first time you install this plugin, you need to log on to all of your accounts, go to the plugin settings and click &quot;Update Birthdays&quot;.The plugin will then collect the information about the birthdays of all the users in your roster, but when the &apos;Use vCards cache&apos; option isselected, the users&apos; vCards that are cached on your hard disk will be used. </source>
         <translation type="unfinished"></translation>
@@ -17859,13 +16285,6 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <source>[blank]</source>
         <translation>[pusty]</translation>
-    </message>
-</context>
-<context>
-    <name>RipperCCOptions</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">Formularz</translation>
     </message>
 </context>
 <context>
@@ -18105,10 +16524,6 @@ The first time you install this plugin, you need to log on to all of your accoun
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Authors: </source>
-        <translation type="vanished">Autorzy:</translation>
-    </message>
-    <message>
         <source>This plugin allows you to make screenshots and save them to your hard drive or upload them to an FTP or HTTP server.
 The plugin has the following settings:
 * Shortcut -- hotkey to make the screenshot (by default, Ctrl+Alt+P)
@@ -18248,13 +16663,6 @@ Przyczyna: %1</translation>
     </message>
 </context>
 <context>
-    <name>SelectGame</name>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">Anuluj</translation>
-    </message>
-</context>
-<context>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Template editor</source>
@@ -18349,25 +16757,10 @@ Przyczyna: %1</translation>
     </message>
 </context>
 <context>
-    <name>SeparatorAction</name>
-    <message>
-        <source>&lt;Separator&gt;</source>
-        <translation type="vanished">&lt;Separator&gt;</translation>
-    </message>
-    <message>
-        <source>Separator</source>
-        <translation type="vanished">Separator</translation>
-    </message>
-</context>
-<context>
     <name>ServerListQuerier</name>
     <message>
         <source>Unable to parse server list</source>
         <translation>Nie można przetworzyć listy serwerów</translation>
-    </message>
-    <message>
-        <source>Maximum redirect count reached</source>
-        <translation type="vanished">Osiągnięto maksymalną liczbę przekierowań</translation>
     </message>
     <message>
         <source>Unexpected HTTP status code: %1</source>
@@ -18443,10 +16836,6 @@ Przyczyna: %1</translation>
     <message>
         <source>Enable Groups</source>
         <translation>Włącz grupy</translation>
-    </message>
-    <message>
-        <source>Event Notifier</source>
-        <translation type="vanished">Powiadomienia zdarzeń</translation>
     </message>
     <message>
         <source>View Groups</source>
@@ -18543,10 +16932,6 @@ Przyczyna: %1</translation>
     <message>
         <source>README</source>
         <translation>CZYTAJ TO</translation>
-    </message>
-    <message>
-        <source>Tips</source>
-        <translation type="vanished">Wskazówki</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
@@ -19057,14 +17442,6 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">email:</translation>
-    </message>
-    <message>
         <source>This plugin is designed to block spam messages and other unwanted information from Psi users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
 With the plugin settings you can:
 * Define a security question and the answer
@@ -19119,22 +17496,6 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     <message>
         <source>Storage Notes</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">email:</translation>
-    </message>
-    <message>
-        <source>This plugin is an implementation of XEP-0049: Private XML Storage.
-The plugin is fully compatible with notes saved using Miranda IM.
-The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi or Miranda IM.</source>
-        <translation type="vanished">Ta wtyczka jest implementacją XEP-0049: Prywatny napęd XML
-Wtyczka jest w pełni kompatybilna z notatkami zapisanymi za pomocą komunikatora Miranda.
-Wtyczka służy do przechowywania notatek na serwerze jabbera z możliwością dostępu do nich z dowolnego miejsca za pomocą komunikatora Psi+ lub Miranda.</translation>
     </message>
     <message>
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
@@ -19484,41 +17845,6 @@ Please correct and try again.</source>
     </message>
 </context>
 <context>
-    <name>Tip</name>
-    <message>
-        <source>Useful Tips</source>
-        <translation type="vanished">Przydatne podpowiedzi</translation>
-    </message>
-    <message>
-        <source>Show tips at startup</source>
-        <translation type="vanished">Pokazuj podpowiedzi przy starcie</translation>
-    </message>
-    <message>
-        <source>&amp;Previous</source>
-        <translation type="vanished">&amp;Poprzednia</translation>
-    </message>
-    <message>
-        <source>psi/arrowLeft</source>
-        <translation type="vanished">W lewo</translation>
-    </message>
-    <message>
-        <source>&amp;Next</source>
-        <translation type="vanished">&amp;Następna</translation>
-    </message>
-    <message>
-        <source>psi/arrowRight</source>
-        <translation type="vanished">W prawo</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Zamknij</translation>
-    </message>
-    <message>
-        <source>Alt+C</source>
-        <translation type="vanished">Alt+W</translation>
-    </message>
-</context>
-<context>
     <name>TipDlg</name>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
@@ -19610,11 +17936,6 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
         <translation>Jeżeli dosyć często uczestniczysz w konferencjach, uzupełnianie pseudonimów na pewno Ci się przyda. Najprzydatniejszym skrótem jest &lt;tt&gt;Tab-Tab&lt;/tt&gt;, który użyty na początku linii lub po spacji wstawia pseudonim osoby, do której się ostatnio odzywałeś. Możesz również naciskać &lt;tt&gt;Tab&lt;/tt&gt; by przechodzić w pętli po pseudonimach wszystkich osób na konferencji.&lt;br/&gt;&lt;br/&gt;Przykładowy scenariusz: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; oraz &lt;tt&gt;mbl-revolution&lt;/tt&gt; znajdują się w jednym pokoju konferencyjnym. Jeśli wpiszesz &lt;tt&gt;m&lt;/tt&gt; i naciśniesz &lt;tt&gt;Tab&lt;/tt&gt;, to nie zauważysz żadnej reakcji, jednak ponieważ jest kilka pseudonimów zaczynających się od &lt;tt&gt;m&lt;/tt&gt;, to możesz naciskać &lt;tt&gt;Tab&lt;/tt&gt; aby przechodzić po wszystkich pseudonimach zaczynających się od &lt;tt&gt;m&lt;/tt&gt; albo dopisać dalsze litery do momentu uzyskania jednoznaczego dopasowania. Jeśli więc dopiszesz &lt;tt&gt;b&lt;/tt&gt;, a potem naciśniesz &lt;tt&gt;Tab&lt;/tt&gt;, to uzyskasz uzupełnienie pseudonimu do &lt;tt&gt;mbl&lt;/tt&gt;. Im więcej będziesz korzystać z tej funkcjonalności, tym bardziej Ci się będzie ona podobać i więcej będziez na niej polegać. Spróbuj uzupełniania pseudonimów i wkrótce przekonasz się jak potężnym jest narzędziem.</translation>
-    </message>
-    <message>
-        <source>This is the last tip.
-&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation type="vanished">To już ostatnia podpowiedź.&lt;br&gt;&lt;br&gt;Jeśli chcesz dostarczyć własnych &lt;i&gt;podpowiedzi dnia&lt;/i&gt;, umieść je na &lt;a href=&quot;http://psi.affinix.com/forums&quot;&gt;Forum Psi&lt;/a&gt; lub napisz do jednego z Autorów, a my z ochotą dołączymy je do kolejnego wydania.</translation>
     </message>
     <message>
         <source>Contributed by</source>
@@ -19718,10 +18039,6 @@ We hope that you will enjoy using it as we have enjoyed making it!
     <message>
         <source>Restore Defaults Settings</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
     </message>
     <message>
         <source>This plugin allows you to convert selected text into another language.
@@ -19828,10 +18145,6 @@ We hope that you will enjoy using it as we have enjoyed making it!
 <context>
     <name>VideoStatusChanger</name>
     <message>
-        <source>Authors: </source>
-        <translation type="vanished">Autorzy:</translation>
-    </message>
-    <message>
         <source>This plugin is designed to set the custom status when you watching the video in selected video players. 
 Note: This plugin is designed to work in Linux family operating systems and in Windows OS. 
 
@@ -19891,33 +18204,6 @@ To work with Parole player you need to enable MPRIS2 module/plugin.</source>
     <message>
         <source>Do you want to save your changes?</source>
         <translation>Czy chcesz zapisać zmiany?</translation>
-    </message>
-</context>
-<context>
-    <name>ViewMailDlg</name>
-    <message>
-        <source>From:</source>
-        <translation type="vanished">Od:</translation>
-    </message>
-    <message>
-        <source>Subject:</source>
-        <translation type="vanished">Dotyczy:</translation>
-    </message>
-    <message>
-        <source>Previous</source>
-        <translation type="vanished">Poprzedni</translation>
-    </message>
-    <message>
-        <source>Next</source>
-        <translation type="vanished">Następny</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="vanished">Zamknij</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Zamknij</translation>
     </message>
 </context>
 <context>
@@ -20072,160 +18358,9 @@ To work with Parole player you need to enable MPRIS2 module/plugin.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Autor:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">email:</translation>
-    </message>
-    <message>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
 On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>WbDlg</name>
-    <message>
-        <source>Save session</source>
-        <translation type="vanished">Zapisz sesję</translation>
-    </message>
-    <message>
-        <source>Save the contents of the whiteboard</source>
-        <translation type="vanished">Zapisz zawartość tablicy</translation>
-    </message>
-    <message>
-        <source>Change the geometry</source>
-        <translation type="vanished">Zmień wymiary</translation>
-    </message>
-    <message>
-        <source>End session</source>
-        <translation type="vanished">Koniec sesji</translation>
-    </message>
-    <message>
-        <source>Clear the whiteboard</source>
-        <translation type="vanished">Wyczyść tablicę</translation>
-    </message>
-    <message>
-        <source>Stroke color</source>
-        <translation type="vanished">Kolor linii</translation>
-    </message>
-    <message>
-        <source>Fill color</source>
-        <translation type="vanished">Kolor wypełnienia</translation>
-    </message>
-    <message>
-        <source>Stroke width</source>
-        <translation type="vanished">Szerokość (grubość) linii</translation>
-    </message>
-    <message>
-        <source>Edit mode</source>
-        <translation type="vanished">Tryb edycji</translation>
-    </message>
-    <message>
-        <source>Thin stroke</source>
-        <translation type="vanished">Cienka linia</translation>
-    </message>
-    <message>
-        <source>Medium stroke</source>
-        <translation type="vanished">Średnia linia</translation>
-    </message>
-    <message>
-        <source>Thick stroke</source>
-        <translation type="vanished">Gruba linia</translation>
-    </message>
-    <message>
-        <source>Select</source>
-        <translation type="vanished">Wybierz</translation>
-    </message>
-    <message>
-        <source>Translate</source>
-        <translation type="vanished">Przesuń</translation>
-    </message>
-    <message>
-        <source>Rotate</source>
-        <translation type="vanished">Obróć</translation>
-    </message>
-    <message>
-        <source>Scale</source>
-        <translation type="vanished">Skaluj</translation>
-    </message>
-    <message>
-        <source>Erase</source>
-        <translation type="vanished">Wyczyść</translation>
-    </message>
-    <message>
-        <source>Scroll view</source>
-        <translation type="vanished">Przewiń</translation>
-    </message>
-    <message>
-        <source>Scroll</source>
-        <translation type="vanished">Przewiń</translation>
-    </message>
-    <message>
-        <source>Draw paths</source>
-        <translation type="vanished">Rysuj ścieżki (krzywe)</translation>
-    </message>
-    <message>
-        <source>Add images</source>
-        <translation type="vanished">Dodaj obrazy</translation>
-    </message>
-    <message>
-        <source>Whiteboard toolbar</source>
-        <translation type="vanished">Przybornik tablicy</translation>
-    </message>
-    <message>
-        <source>%1 left (session: %2).</source>
-        <translation type="vanished">%1 wyszedł (sesja %2).</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Uwaga</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to end the session?
-The contents of the whiteboard will be lost.</source>
-        <translation type="vanished">Czy jesteś pewien, że chcesz zakończyć sesję?
-Zawartość tablicy będzie utracona.</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Tak</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Nie</translation>
-    </message>
-    <message>
-        <source>A new whiteboard message was just received.
-Do you still want to close the window?</source>
-        <translation type="vanished">Została odebrana nowa zawartość tablicy.
-Czy nadal chcesz zamknąć tablicę?</translation>
-    </message>
-    <message>
-        <source>Set new width:</source>
-        <translation type="vanished">Podaj nową szerokość:</translation>
-    </message>
-    <message>
-        <source>Width:</source>
-        <translation type="vanished">Szerokość:</translation>
-    </message>
-    <message>
-        <source>Set new height:</source>
-        <translation type="vanished">Podaj nową wysokość:</translation>
-    </message>
-    <message>
-        <source>Height:</source>
-        <translation type="vanished">Wysokość:</translation>
-    </message>
-    <message>
-        <source>Save Whitebaord</source>
-        <translation type="vanished">Zapisz tablicę</translation>
-    </message>
-    <message>
-        <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="vanished">Skalowalna Grafika Wektorowa (*.svg)</translation>
     </message>
 </context>
 <context>
@@ -20257,38 +18392,6 @@ Czy nadal chcesz zamknąć tablicę?</translation>
 </context>
 <context>
     <name>WbManager</name>
-    <message>
-        <source>Unsupported</source>
-        <translation type="vanished">Nieobsługiwane</translation>
-    </message>
-    <message>
-        <source>The contact does not support whiteboarding.</source>
-        <translation type="vanished">Użytkownik nie ma obsługi tablicy rysunkowej.</translation>
-    </message>
-    <message>
-        <source>Open Existing SVG?</source>
-        <translation type="vanished">Otworzyć instniejący dokument SVG?</translation>
-    </message>
-    <message>
-        <source>Would you like to open an existing SVG document in the whitebaord?</source>
-        <translation type="vanished">Czy chcesz otworzyć istniejący dokument SVG i wczytać go na tablicę?</translation>
-    </message>
-    <message>
-        <source>Initial SVG Document for the Whiteboard</source>
-        <translation type="vanished">Pierwotny dokument SVG tablicy</translation>
-    </message>
-    <message>
-        <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="vanished">Skalowalna Grafika Wektorowa (*.svg)</translation>
-    </message>
-    <message>
-        <source>Whiteboarding Invitation?</source>
-        <translation type="vanished">Zaproszenie do rysowania?</translation>
-    </message>
-    <message>
-        <source>%1 has invited you to a whiteboarding session. Would you like to join?</source>
-        <translation type="vanished">%1 zaprasza na sesję rysowania przy tablicy. Czy chcesz dołączyć?</translation>
-    </message>
     <message>
         <source>Answered on another device.</source>
         <translation type="unfinished"></translation>
@@ -20691,10 +18794,6 @@ Czy nadal chcesz zamknąć tablicę?</translation>
 <context>
     <name>XMLConsole</name>
     <message>
-        <source>XML Console</source>
-        <translation type="vanished">Konsola XML</translation>
-    </message>
-    <message>
         <source>Filter</source>
         <translation>Filtr</translation>
     </message>
@@ -20760,13 +18859,6 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     </message>
 </context>
 <context>
-    <name>XMPP::ClientStream</name>
-    <message>
-        <source>Offered mechanisms: </source>
-        <translation type="vanished">Oferowane mechanizmy:</translation>
-    </message>
-</context>
-<context>
     <name>XMPP::Features::FeatureName</name>
     <message>
         <source>ERROR: Incorrect usage of Features class</source>
@@ -20795,10 +18887,6 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     <message>
         <source>Service Discovery</source>
         <translation>Przeglądarka usług</translation>
-    </message>
-    <message>
-        <source>VCard</source>
-        <translation type="vanished">Wizytówka</translation>
     </message>
     <message>
         <source>Execute command</source>
@@ -20830,10 +18918,6 @@ Czy nadal chcesz zamknąć tablicę?</translation>
 </context>
 <context>
     <name>XMPP::JT_VCard</name>
-    <message>
-        <source>No VCard available</source>
-        <translation type="vanished">Nie znaleziono wizytówki</translation>
-    </message>
     <message>
         <source>No vCard available</source>
         <translation type="unfinished"></translation>
@@ -21166,10 +19250,6 @@ Czy nadal chcesz zamknąć tablicę?</translation>
 <context>
     <name>XmlConsole</name>
     <message>
-        <source>XML Console</source>
-        <translation type="vanished">Konsola XML</translation>
-    </message>
-    <message>
         <source>XMPP Console</source>
         <translation type="unfinished"></translation>
     </message>
@@ -21191,18 +19271,6 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     <message>
         <source>Malformed XML</source>
         <translation>Nieprawidłowy XML</translation>
-    </message>
-    <message>
-        <source>You have entered malformed XML input. Are you sure you want to send this ?</source>
-        <translation type="vanished">Wprowadziłeś nieprawidłowy XML. Czy jesteś pewien, że chcesz wysłać ten XML?</translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="vanished">Tak</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">Nie</translation>
     </message>
     <message>
         <source>You have entered malformed XML input.</source>
@@ -21258,30 +19326,6 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     <message>
         <source>Save window position</source>
         <translation>Zapisz pozycję okna</translation>
-    </message>
-    <message>
-        <source>Custom options:
--uin - do nothing
-+uin - send replay
-!uin - block message
-[-+!]other - default
-[-+!]nil - not in list
-# - comment to end line</source>
-        <translation type="vanished">Opcje niestandardowe:
--uin - nic nie rób
-+uin - wyślij powtórnie
-!uin - blokuj wiadomość
-[- +!]other - domyślna
-[- +]nil - nie na liście
-# - komentarz do końca linii</translation>
-    </message>
-    <message>
-        <source>min.</source>
-        <translation type="vanished">min.</translation>
-    </message>
-    <message>
-        <source>Disable if chat window is active</source>
-        <translation type="vanished">Wyłącz, jeśli okno rozmowy jest aktywne</translation>
     </message>
     <message>
         <source>Disable invitations from conference</source>
@@ -21927,20 +19971,12 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation>Zaprzeczania</translation>
     </message>
     <message>
-        <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages he sees are authentic and unmodified.</source>
-        <translation type="vanished">Wysłane wiadomości nie mają cyfrowego podpisu możliwego do sprawdzenia przez oprogramowanie firm trzecich. Po rozmowie każdy może zafałszować wiadomości tak aby wyglądały, jakby przyszły od Ciebie. Jednakże, podczas rozmowy, rozmówca jest przekonany, że wiadomości które widzi są autentyczne i niemodyfikowane.</translation>
-    </message>
-    <message>
         <source>Perfect forward secrecy</source>
         <translation>Doskonałe utajnienie przekazywania</translation>
     </message>
     <message>
         <source>If you lose control of your private keys, no previous conversation is compromised.</source>
         <translation>Jeśli utracisz klucze prywatne, to żadne wcześniejsze rozmowy nie będą skompromitowane</translation>
-    </message>
-    <message>
-        <source>For further information, see &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</source>
-        <translation type="vanished">Aby uzyskać więcej informacji, zobacz &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</translation>
     </message>
     <message>
         <source>Attempting to refresh the private conversation</source>
@@ -22245,10 +20281,6 @@ do tej wiadomości w juick@conference.jabber.ru</translation>
     <message>
         <source>Birthday:</source>
         <translation>Urodziny:</translation>
-    </message>
-    <message>
-        <source>E-Mail:</source>
-        <translation type="vanished">E-mail:</translation>
     </message>
     <message>
         <source>Close</source>

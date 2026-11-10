@@ -410,10 +410,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>OpenPGP</source>
-        <translation type="vanished">OpenPGP</translation>
-    </message>
-    <message>
         <source>Privacy</source>
         <translation type="unfinished"></translation>
     </message>
@@ -672,24 +668,8 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>No Key Selected</source>
-        <translation type="vanished">Cap clau seleccionada</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Error</translation>
-    </message>
-    <message>
-        <source>SSL error</source>
-        <translation type="vanished">Error SSL</translation>
-    </message>
-    <message>
-        <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation type="vanished">No pot activar-se SSL/TLS. Plugin no trobat.</translation>
-    </message>
-    <message>
-        <source>Secret Key</source>
-        <translation type="vanished">Clau Secreta</translation>
     </message>
     <message>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
@@ -848,14 +828,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <source>Are you sure you want to cancel the registration?</source>
         <translation>Està segur de que desitja cancel.lar el registre?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Sí</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;No</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1747,21 +1719,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
     </message>
 </context>
 <context>
-    <name>Call</name>
-    <message>
-        <source>To:</source>
-        <translation type="vanished">A:</translation>
-    </message>
-    <message>
-        <source>&amp;Reject</source>
-        <translation type="vanished">&amp;Rebutjar</translation>
-    </message>
-    <message>
-        <source>&amp;Accept</source>
-        <translation type="vanished">&amp;Accepta</translation>
-    </message>
-</context>
-<context>
     <name>CallDlg</name>
     <message>
         <source>Call</source>
@@ -1838,29 +1795,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
     <message>
         <source>Refused: the encryption could not be verified with a trusted OMEMO device of the contact. See Options &gt; Security.</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>CallDlg::Private</name>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Tanca</translation>
-    </message>
-    <message>
-        <source>Ready</source>
-        <translation type="vanished">A punt</translation>
-    </message>
-    <message>
-        <source>From:</source>
-        <translation type="vanished">De:</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">&amp;Cancel.la</translation>
-    </message>
-    <message>
-        <source>Accepting...</source>
-        <translation type="vanished">Acceptant...</translation>
     </message>
 </context>
 <context>
@@ -2211,10 +2145,6 @@ Raó: %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Toggle encryption</source>
-        <translation type="vanished">Canviar el xifrat</translation>
-    </message>
-    <message>
         <source>Select icon</source>
         <translation>Seleccioni icona</translation>
     </message>
@@ -2255,22 +2185,6 @@ Tot hi això desitja tancar la finestra?</translation>
     <message>
         <source>&lt;p&gt;Encryption was recently disabled by the remote contact.  Are you sure you want to send this message without encryption?&lt;/p&gt;</source>
         <translation>&lt;p&gt;El xifrat fou desactivat recentment per el seu interlocutor.  Està segur que vol enviar aquest missatge sense xifrar?&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Sí</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;No</translation>
-    </message>
-    <message>
-        <source>Encryption Enabled</source>
-        <translation type="vanished">Xifrat activat</translation>
-    </message>
-    <message>
-        <source>Encryption Disabled</source>
-        <translation type="vanished">Xifrat desactivat</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
@@ -2383,17 +2297,6 @@ Tot hi això desitja tancar la finestra?</translation>
             <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
-    </message>
-</context>
-<context>
-    <name>ChatView</name>
-    <message>
-        <source>%1 says:</source>
-        <translation type="vanished">%1 diu:</translation>
-    </message>
-    <message>
-        <source>Subject:</source>
-        <translation type="vanished">Assumpte:</translation>
     </message>
 </context>
 <context>
@@ -2979,10 +2882,6 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;XML Console</source>
-        <translation type="vanished">Consola &amp;XML</translation>
-    </message>
-    <message>
         <source>&amp;Modify Account...</source>
         <translation>&amp;Modificar Compte...</translation>
     </message>
@@ -3009,10 +2908,6 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <source>Avatar</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Groupchat</source>
-        <translation type="vanished">Grup de xerrada</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -3331,21 +3226,6 @@ Continuar?</translation>
     </message>
 </context>
 <context>
-    <name>CreateGroupDlg</name>
-    <message>
-        <source>Create New Group</source>
-        <translation type="vanished">Crear nou grup</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="vanished">Afegeix</translation>
-    </message>
-    <message>
-        <source>&lt;None&gt;</source>
-        <translation type="vanished">&lt;Cap&gt;</translation>
-    </message>
-</context>
-<context>
     <name>DateWidget</name>
     <message>
         <source>never</source>
@@ -3534,10 +3414,6 @@ Continuar?</translation>
 <context>
     <name>DiscoListItem</name>
     <message>
-        <source>Error</source>
-        <translation type="vanished">Error</translation>
-    </message>
-    <message>
         <source>There was an error getting items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3591,17 +3467,6 @@ Continuar?</translation>
     <message>
         <source>deleted</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>EDBFlatFile::File</name>
-    <message>
-        <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
-        <translation type="vanished">&lt;big&gt;[Missatge del Sistema]&lt;/big&gt;&lt;br&gt;Ja està autoritzat.</translation>
-    </message>
-    <message>
-        <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;Your authorization has been removed!</source>
-        <translation type="vanished">&lt;big&gt;[Missatge del Sistema]&lt;/big&gt;&lt;br&gt;La seva autorització ha estat eliminada!</translation>
     </message>
 </context>
 <context>
@@ -3819,10 +3684,6 @@ Supports per contact on / off message enumeration via the buttons on the chats t
         <translation>Longitud del missatge</translation>
     </message>
     <message>
-        <source>Toggle encryption</source>
-        <translation type="vanished">Canviar el xifrat</translation>
-    </message>
-    <message>
         <source>Add URL</source>
         <translation>Afegeix URL</translation>
     </message>
@@ -3982,13 +3843,6 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <source>Read next event</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>EventNotifierAction</name>
-    <message>
-        <source>&lt;Event notifier&gt;</source>
-        <translation type="vanished">&lt;Notificador d&apos;event&gt;</translation>
     </message>
 </context>
 <context>
@@ -4589,14 +4443,6 @@ Importantly: a large part of the options are important system settings. These re
     <message>
         <source>Are you sure you want to cancel the transfer?</source>
         <translation>Està segur de que desitja cancel.lar la transferència?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Sí</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;No</translation>
     </message>
     <message>
         <source>Choose a file</source>
@@ -5808,17 +5654,6 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>GmailNotifyPlugin</name>
-    <message>
-        <source>Choose a sound file</source>
-        <translation type="vanished">Eligeixi un fitxer de so</translation>
-    </message>
-    <message>
-        <source>Sound (*.wav)</source>
-        <translation type="vanished">So (*.wav)</translation>
-    </message>
-</context>
-<context>
     <name>Gnome3StatusWatcher</name>
     <message>
         <source>Authors: </source>
@@ -6195,14 +6030,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
 </context>
 <context>
     <name>HistoryImport</name>
-    <message>
-        <source>Status:</source>
-        <translation type="vanished">Estat:</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Error</translation>
-    </message>
     <message>
         <source>Upgrade history</source>
         <translation type="unfinished"></translation>
@@ -7021,14 +6848,6 @@ Are you sure you want to discard them?</source>
 Està segur de que desitja descartar-los?</translation>
     </message>
     <message>
-        <source>Close and discard</source>
-        <translation type="vanished">Tanca i descarta</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">No tanquis</translation>
-    </message>
-    <message>
         <source>Success</source>
         <translation>Amb Éxit</translation>
     </message>
@@ -7526,10 +7345,6 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
         <translation>Eliminar</translation>
     </message>
     <message>
-        <source>General</source>
-        <translation type="vanished">General</translation>
-    </message>
-    <message>
         <source>message</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7845,14 +7660,6 @@ Reason: %1</source>
         <translation>Rep següent event</translation>
     </message>
     <message>
-        <source>Un&amp;hide</source>
-        <translation type="vanished">&amp;Mostra</translation>
-    </message>
-    <message>
-        <source>&amp;Hide</source>
-        <translation type="vanished">&amp;Oculta</translation>
-    </message>
-    <message>
         <source>Status Message</source>
         <translation>Missatge d&apos;estat</translation>
     </message>
@@ -7909,25 +7716,6 @@ Incoming event(s) from:</source>
     <message>
         <source>Enable Sounds</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>MainWindow</name>
-    <message>
-        <source>Quit</source>
-        <translation type="vanished">Surt</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation type="vanished">Ajuda</translation>
-    </message>
-    <message>
-        <source>Ready</source>
-        <translation type="vanished">A punt</translation>
-    </message>
-    <message>
-        <source>About</source>
-        <translation type="vanished">En quant a</translation>
     </message>
 </context>
 <context>
@@ -10615,10 +10403,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>Fa que Psi desplaci la finestra principal automàticament per que pugui veure els events entrants nous.</translation>
     </message>
     <message>
-        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation type="vanished">Fa que Psi ignori els events &quot;Títol&quot; entrants, tals com notificacions de difusió en MSN, anuncis, etc.</translation>
-    </message>
-    <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10839,26 +10623,6 @@ Activa aquesta opció si vols rebre aquestes alertes igualment.</translation>
     <message>
         <source>Makes Psi open chat windows in compact mode.</source>
         <translation>Fa que Psi obri una finestra de xerrada en mode compacte.</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Controla quan de temps es mantindrà en memòria la xerrada després de que la finestra es tanqui.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Aquesta opció no manté el quadern de bitàcora de la xerrada en memòria.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Aquesta opció manté el quadern de bitàcora de la xerrada durant 1 hora.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Aquesta opció manté el quadern de bitàcora de la xerrada durant un dia.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Aquesta opció manté el quadern de bitàcora de la xerrada per sempre.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>Time (HH:mm)</source>
@@ -11769,10 +11533,6 @@ Activi aquesta opció per a emergir-los de totes formes.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>General</source>
-        <translation type="vanished">General</translation>
-    </message>
-    <message>
         <source>Account:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12012,17 +11772,6 @@ Reason: %1.</source>
     <message>
         <source>Please enter your password for %1:</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Passphrase</name>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">&amp;Cancel.la</translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation type="vanished">&amp;D&apos;acord</translation>
     </message>
 </context>
 <context>
@@ -12540,88 +12289,6 @@ Reason: %1.</source>
     </message>
 </context>
 <context>
-    <name>ProfileManage</name>
-    <message>
-        <source>Rem&amp;ove</source>
-        <translation type="vanished">Elimi&amp;na</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileManageDlg</name>
-    <message>
-        <source>Rename Profile</source>
-        <translation type="vanished">Renombra perfil</translation>
-    </message>
-    <message>
-        <source>Please enter a new name for the profile.  Keep it simple.
-Only use letters or numbers.  No punctuation or spaces.</source>
-        <translation type="vanished">Si us plau, introdueixi un nom per al perfil. Sigui escuet.
-Utilitzi sols lletres o números. No utilitzi símbols de puntuació ni espais.</translation>
-    </message>
-    <message>
-        <source>There is already another profile with this name.  Please choose another.</source>
-        <translation type="vanished">Ja hi ha un altre perfil amb aquest nom. Si us plau eligeixi un altre.</translation>
-    </message>
-    <message>
-        <source>Unable to rename the profile.  Please do not use any special characters.</source>
-        <translation type="vanished">No s&apos;ha pogut renombrar el perfil. Si us plau no utilitzi caràcters especials.</translation>
-    </message>
-    <message>
-        <source>Delete Profile</source>
-        <translation type="vanished">Esborra perfil</translation>
-    </message>
-    <message>
-        <source>&lt;qt&gt;Are you sure you want to delete the &quot;&lt;b&gt;%1&lt;/b&gt;&quot; profile?  This will delete all of the profile&apos;s message history as well as associated settings!&lt;/qt&gt;</source>
-        <translation type="vanished">&lt;qt&gt;Està segur de que desitja esborrar el perfil &quot;&lt;b&gt;%1&lt;/b&gt;&quot;? Això esborrarà tot el quadern de bitàcora i la configuració associada a aquest perfil!&lt;/qt&gt;</translation>
-    </message>
-    <message>
-        <source>No, I changed my mind</source>
-        <translation type="vanished">No, he canviat de opinió</translation>
-    </message>
-    <message>
-        <source>Delete it!</source>
-        <translation type="vanished">Esborrar-lo!</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;No</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Sí</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileNew</name>
-    <message>
-        <source>New Profile</source>
-        <translation type="vanished">Nou perfil</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Tanca</translation>
-    </message>
-    <message>
-        <source>&amp;Chat</source>
-        <translation type="vanished">&amp;Xat</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileNewDlg</name>
-    <message>
-        <source>New Profile</source>
-        <translation type="vanished">Nou perfil</translation>
-    </message>
-    <message>
-        <source>There is already an existing profile with this name.  Please choose another.</source>
-        <translation type="vanished">Ja existeix un perfil amb aquest nom. Si us plau eligeixi&apos;n un altre.</translation>
-    </message>
-    <message>
-        <source>Unable to create the profile.  Please do not use any special characters.</source>
-        <translation type="vanished">No s&apos;ha pogut crear el perfil. Si us plau, no utilitzi caracters especials.</translation>
-    </message>
-</context>
-<context>
     <name>ProfileOpen</name>
     <message>
         <source>Image goes here</source>
@@ -12630,10 +12297,6 @@ Utilitzi sols lletres o números. No utilitzi símbols de puntuació ni espais.<
     <message>
         <source>right</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Quit</source>
-        <translation type="vanished">&amp;Surt</translation>
     </message>
     <message>
         <source>Profiles</source>
@@ -12666,18 +12329,6 @@ Utilitzi sols lletres o números. No utilitzi símbols de puntuació ni espais.<
 </context>
 <context>
     <name>ProfileOpenDlg</name>
-    <message>
-        <source>Select a profile to open from this list.</source>
-        <translation type="vanished">Seleccioni un perfil de la llista per a obrir.</translation>
-    </message>
-    <message>
-        <source>Select a language you would like Psi to use from this list.  You can download extra language packs from the Psi homepage.</source>
-        <translation type="vanished">Seleccioni el idioma d&apos;aquesta llista que l&apos;hii agradaria utilitzar en Psi. Pot descargar paquets extres de idiomes desde la pàgina web de Psi.</translation>
-    </message>
-    <message>
-        <source>Automatically open this profile when Psi is started.  Useful if you only have one profile.</source>
-        <translation type="vanished">Obre automàticament aquest perfil quan s&apos;inicii Psi. Això es útil si únicament té un perfil.</translation>
-    </message>
     <message>
         <source>Double-click or press F2 to rename a profile. Press Delete to remove it.</source>
         <translation type="unfinished"></translation>
@@ -13182,14 +12833,6 @@ Details: %1</source>
 &lt;p&gt;Això pot passar si vosté no té la clau pública indicada per la presència firmada del seu interlocutor, o si aquest no està indicant cap clau en la seva presència.&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>&amp;Choose key manually</source>
-        <translation type="vanished">Es&amp;cull una clau manualment</translation>
-    </message>
-    <message>
-        <source>Do &amp;nothing</source>
-        <translation type="vanished">No fer &amp;res</translation>
-    </message>
-    <message>
         <source>Public Key: %1</source>
         <translation>Clau pública: %1</translation>
     </message>
@@ -13353,10 +12996,6 @@ Details: %1</source>
         <translation>Proporciona una forma adeqüada per a canviar i obtenir informació sobre el estat actual</translation>
     </message>
     <message>
-        <source>Special item that displays number of pending events</source>
-        <translation type="vanished">Element especial que mostra el nombre de events pendents</translation>
-    </message>
-    <message>
         <source>Active contacts</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13371,10 +13010,6 @@ Details: %1</source>
     <message>
         <source>&amp;Add a Contact</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;XML Console</source>
-        <translation type="vanished">Consola &amp;XML</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
@@ -13395,14 +13030,6 @@ Details: %1</source>
     <message>
         <source>Join &amp;Groupchat</source>
         <translation>Uneix-te a un &amp;grup de xerrada</translation>
-    </message>
-    <message>
-        <source>Account Setup</source>
-        <translation type="vanished">Configuració de comptes</translation>
-    </message>
-    <message>
-        <source>Acc&amp;ount Setup</source>
-        <translation type="vanished">C&amp;onfiguració de comptes</translation>
     </message>
     <message>
         <source>Options</source>
@@ -13433,10 +13060,6 @@ Details: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Toggles whether sound should be played or not</source>
-        <translation type="vanished">Canvia si un so ha de reproduir-se o no</translation>
-    </message>
-    <message>
         <source>Quit</source>
         <translation>Surt</translation>
     </message>
@@ -13447,18 +13070,6 @@ Details: %1</source>
     <message>
         <source>Quits Psi</source>
         <translation>Surt del Psi</translation>
-    </message>
-    <message>
-        <source>Tip of the Day</source>
-        <translation type="vanished">Truc del dia</translation>
-    </message>
-    <message>
-        <source>&amp;Tip of the Day</source>
-        <translation type="vanished">&amp;Truc del dia</translation>
-    </message>
-    <message>
-        <source>See many useful tips</source>
-        <translation type="vanished">Veure molts consells utils</translation>
     </message>
     <message>
         <source>Transfer Manager</source>
@@ -14296,14 +13907,6 @@ Migration is possible with Psi-0.15</source>
         <translation>Està segur de que desitja eliminar la autorització de &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Si</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;No</translation>
-    </message>
-    <message>
         <source>Choose an Image</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14702,10 +14305,6 @@ Would you like to activate that session now?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Event notifier</source>
-        <translation type="vanished">Notificador d&apos;events</translation>
-    </message>
-    <message>
         <source>Auto Status (idle)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14846,21 +14445,6 @@ Would you like to activate that session now?</source>
     <message>
         <source>Home</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PsiThumbnailToolBar</name>
-    <message>
-        <source>Options</source>
-        <translation type="vanished">Opcions</translation>
-    </message>
-    <message>
-        <source>Online</source>
-        <translation type="vanished">Connectat</translation>
-    </message>
-    <message>
-        <source>Offline</source>
-        <translation type="vanished">Desconnectat</translation>
     </message>
 </context>
 <context>
@@ -16565,14 +16149,6 @@ Thanks for your patience.</source>
         <translation>&lt;qt&gt;Ja s&apos;ha enviat el registre, així que tancar aquesta finestra no impedirà que el registre tiri endavant. Encara vol tancar?&lt;/qt&gt;</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Si</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;No</translation>
-    </message>
-    <message>
         <source>Fetching registration form for %1 ...</source>
         <translation>Recollint formulari de registre de %1 ...</translation>
     </message>
@@ -17112,17 +16688,6 @@ Raó: %1</translation>
     <message>
         <source>Only &amp;Paste</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>SeparatorAction</name>
-    <message>
-        <source>&lt;Separator&gt;</source>
-        <translation type="vanished">&lt;Separador&gt;</translation>
-    </message>
-    <message>
-        <source>Separator</source>
-        <translation type="vanished">Separador</translation>
     </message>
 </context>
 <context>
@@ -18214,21 +17779,6 @@ Please correct and try again.</source>
     </message>
 </context>
 <context>
-    <name>Tip</name>
-    <message>
-        <source>&amp;Previous</source>
-        <translation type="vanished">&amp;Previ</translation>
-    </message>
-    <message>
-        <source>&amp;Next</source>
-        <translation type="vanished">&amp;Seguent</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Tanca</translation>
-    </message>
-</context>
-<context>
     <name>TipDlg</name>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
@@ -18570,21 +18120,6 @@ To work with Parole player you need to enable MPRIS2 module/plugin.</source>
     </message>
 </context>
 <context>
-    <name>ViewMailDlg</name>
-    <message>
-        <source>From:</source>
-        <translation type="vanished">De:</translation>
-    </message>
-    <message>
-        <source>Subject:</source>
-        <translation type="vanished">Assumpte:</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Tanca</translation>
-    </message>
-</context>
-<context>
     <name>Viewer</name>
     <message>
         <source>Find</source>
@@ -18739,21 +18274,6 @@ To work with Parole player you need to enable MPRIS2 module/plugin.</source>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
 On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>WbDlg</name>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Avís</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Si</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;No</translation>
     </message>
 </context>
 <context>
@@ -19186,10 +18706,6 @@ On the first tab set up a list of contacts for the status of which is monitored.
 </context>
 <context>
     <name>XMLConsole</name>
-    <message>
-        <source>XML Console</source>
-        <translation type="vanished">Consola XML</translation>
-    </message>
     <message>
         <source>Filter</source>
         <translation type="unfinished"></translation>
@@ -19646,10 +19162,6 @@ On the first tab set up a list of contacts for the status of which is monitored.
 </context>
 <context>
     <name>XmlConsole</name>
-    <message>
-        <source>XML Console</source>
-        <translation type="vanished">Consola XML</translation>
-    </message>
     <message>
         <source>XMPP Console</source>
         <translation type="unfinished"></translation>

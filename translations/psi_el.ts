@@ -49,10 +49,6 @@
         <translation>Σχετικά</translation>
     </message>
     <message>
-        <source>psi/psiplus_logo</source>
-        <translation type="vanished">psi/psiplus_logo</translation>
-    </message>
-    <message>
         <source>Authors</source>
         <translation>Συγγραφείς</translation>
     </message>
@@ -67,10 +63,6 @@
     <message>
         <source>License</source>
         <translation>Άδεια χρήσης</translation>
-    </message>
-    <message>
-        <source>About Psi+</source>
-        <translation type="vanished">Σχετικά με το Psi+</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -175,14 +167,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; για περισσότερ�
     <message>
         <source>Past Lead Widget Developer</source>
         <translation>Προηγούμενος υπεύθυνος ανάπτυξης γραφικών στοιχείων</translation>
-    </message>
-    <message>
-        <source>Language coordinator, macOS port, miscellaneous assistance</source>
-        <translation type="vanished">Συντονιστής γλωσσών, θύρα macOS, διάφορα βοηθήματα</translation>
-    </message>
-    <message>
-        <source>About Psi</source>
-        <translation type="vanished">Σχετικά με το Psi-Plus</translation>
     </message>
     <message>
         <source>Cross-platform XMPP client designed for experienced users.</source>
@@ -436,18 +420,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Επεξεργασία Προσωπικών Στοιχείων...</translation>
     </message>
     <message>
-        <source>OpenPGP</source>
-        <translation type="vanished">OpenPGP</translation>
-    </message>
-    <message>
-        <source>placeholder2</source>
-        <translation type="vanished">placeholder2</translation>
-    </message>
-    <message>
-        <source>Select &amp;Key...</source>
-        <translation type="vanished">Επιλογή Πλήκτρου...</translation>
-    </message>
-    <message>
         <source>Privacy</source>
         <translation>Απόρρητο</translation>
     </message>
@@ -612,10 +584,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Ποτέ</translation>
     </message>
     <message>
-        <source>Legacy SSL</source>
-        <translation type="vanished">SSL Παλαιού Τύπου</translation>
-    </message>
-    <message>
         <source>Over encrypted connection</source>
         <translation>Μέσω κρυπτογραφημένης σύνδεσης</translation>
     </message>
@@ -714,18 +682,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <source>Error</source>
         <translation>Σφάλμα</translation>
-    </message>
-    <message>
-        <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation type="vanished">Το Legacy SSL είναι διαθέσιμο μόνο σε συνδυασμό με μη αυτόματο Όνομα Διακομιστή/Θύρα.</translation>
-    </message>
-    <message>
-        <source>SSL error</source>
-        <translation type="vanished">Σφάλμα SSL</translation>
-    </message>
-    <message>
-        <source>Secret Key</source>
-        <translation type="vanished">Μυστικό Κλειδί</translation>
     </message>
     <message>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
@@ -878,10 +834,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Όταν είναι διαθέσιμο</translation>
     </message>
     <message>
-        <source>Legacy SSL</source>
-        <translation type="vanished">SSL Παλαιού Τύπου</translation>
-    </message>
-    <message>
         <source>Warning</source>
         <translation>Προειδοποίηση</translation>
     </message>
@@ -890,20 +842,8 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Είστε βέβαιοι ότι θέλετε να ακυρώσετε την εγγραφή;</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">Ναι</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">Όχι</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Σφάλμα</translation>
-    </message>
-    <message>
-        <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation type="vanished">Το Legacy SSL είναι διαθέσιμο μόνο σε συνδυασμό με μη αυτόματο Όνομα Διακομιστή/Θύρα.</translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -1049,10 +989,6 @@ Reason: %1</source>
 </context>
 <context>
     <name>ActiveProfiles</name>
-    <message>
-        <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation type="vanished">Αυτό το προφίλ psi εκτελείται ήδη... &lt;br&gt; παρακαλώ περιμένετε...</translation>
-    </message>
     <message>
         <source>This Psi profile is already running...&lt;br&gt;Please wait...</source>
         <translation>Αυτό το προφίλ Psi εκτελείται ήδη...&lt;br&gt;Παρακαλώ περιμένετε...</translation>
@@ -1409,14 +1345,6 @@ There was an error getting the Service ID translation information from &quot;%1&
         <translation>Αποοστολή μηνύματος Προσοχής στον/στην %1</translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Συγγραφέας:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email:</translation>
-    </message>
-    <message>
         <source>This plugin is designed to send and receive special messages such as Attentions.
 To work correctly, the plugin requires that the client of the other part supports XEP-0224 (for example: Pidgin, Miranda IM with Nudge plugin).</source>
         <translation>Αυτό το πρόσθετο έχει σχεδιαστεί για την αποστολή και λήψη ειδικών μηνυμάτων, όπως τα Attentions.
@@ -1517,18 +1445,6 @@ To work correctly, the plugin requires that the client of the other part support
     <message>
         <source>times (-1=infinite)</source>
         <translation>φορές (-1=άπειρο)</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Συγγραφέας:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email:</translation>
     </message>
     <message>
         <source>This plugin acts as an auto-answering machine. It has a number of simple configuration options, which you can use to:
@@ -1914,21 +1830,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
     </message>
 </context>
 <context>
-    <name>CallDlg::Private</name>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Κλείσιμο</translation>
-    </message>
-    <message>
-        <source>Ready</source>
-        <translation type="vanished">Έτοιμο</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">Άκυρο</translation>
-    </message>
-</context>
-<context>
     <name>CallStage</name>
     <message>
         <source>Show %1 on the main stage</source>
@@ -2105,13 +2006,6 @@ Turn on your camera or share your screen</source>
     </message>
 </context>
 <context>
-    <name>CaptchaDialog</name>
-    <message>
-        <source>Original message</source>
-        <translation type="vanished">Αρχικό μήνυμα</translation>
-    </message>
-</context>
-<context>
     <name>CaptchaDlg</name>
     <message>
         <source>You need to pass verification</source>
@@ -2120,17 +2014,6 @@ Turn on your camera or share your screen</source>
     <message>
         <source>AccountLabel</source>
         <translation>AccountLabel</translation>
-    </message>
-</context>
-<context>
-    <name>CaptchaFormsPlugin</name>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Συγγραφέας:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email:</translation>
     </message>
 </context>
 <context>
@@ -2338,14 +2221,6 @@ Do you still want to close the window?</source>
         <translation>&lt;p&gt;Η κρυπτογράφηση απενεργοποιήθηκε πρόσφατα από την απομακρυσμένη επαφή.  Είστε σίγουροι ότι θέλετε να στείλετε αυτό το μήνυμα χωρίς κρυπτογράφηση;&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">Ναι</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">Όχι</translation>
-    </message>
-    <message>
         <source>%1 ended the conversation</source>
         <translation>%1 τερμάτισε τη συνομιλία</translation>
     </message>
@@ -2459,13 +2334,6 @@ Do you still want to close the window?</source>
     </message>
 </context>
 <context>
-    <name>ChatViewThemeProvider</name>
-    <message>
-        <source>Chat Message Style</source>
-        <translation type="vanished">Στυλ Μηνύματος Συζήτησης</translation>
-    </message>
-</context>
-<context>
     <name>Chess::InvitationDialog</name>
     <message>
         <source>white</source>
@@ -2484,10 +2352,6 @@ to play chess. He wants to play %2.</source>
 </context>
 <context>
     <name>ChessPlugin</name>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
-    </message>
     <message>
         <source>Chess Plugin</source>
         <translation>Πρόσθετο σκακιού</translation>
@@ -2537,14 +2401,6 @@ to play chess. He wants to play %2.</source>
     <message>
         <source>Sound (*.wav)</source>
         <translation>Ήχος (*.wav)</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Συγγραφέας:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -2772,18 +2628,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
         <translation>Εκκίνηση Εκκαθαριστή</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Συγγραφέας:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email:</translation>
-    </message>
-    <message>
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
 You can preview items before deleting them from your hard drive.</source>
         <translation>Αυτό το πρόσθετο έχει σχεδιαστεί για να καθαρίζει την προσωρινή μνήμη άβαταρ, τα τοπικά αντίγραφα vCards και τα αρχεία καταγραφής ιστορικού.
@@ -2870,10 +2714,6 @@ You can preview items before deleting them from your hard drive.</source>
 </context>
 <context>
     <name>ClientSwitcherPlugin</name>
-    <message>
-        <source>Authors: </source>
-        <translation type="vanished">Συγγραφείς:</translation>
-    </message>
     <message>
         <source>The plugin is intended for substitution of the client version, his name and operating system type.
 You can specify the version of the client and OS or to select them from the preset list.
@@ -3015,10 +2855,6 @@ You can specify the version of the client and OS or to select them from the pres
         <translation>Προβολή αρχείου καταγραφής</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Groupchat History</source>
         <translation>Ιστορικό Ομάδας</translation>
     </message>
@@ -3031,14 +2867,6 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
 Τα αρχεία καταγραφής ομαδικών συνομιλιών μπορούν να προβληθούν από τις ρυθμίσεις του πρόσθετου ή κάνοντας κλικ στο κατάλληλο κουμπί στη γραμμή εργαλείων του ενεργού παραθύρου/καρτέλας με ομαδική συνομιλία.
 
 Σημείωση: Για σωστή λειτουργία, πρέπει να είναι ενεργοποιημένη η γραμμή εργαλείων ομαδικής συνομιλίας.</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Συγγραφέας:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -3126,10 +2954,6 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <source>Avatar</source>
         <translation>Άβαταρ</translation>
-    </message>
-    <message>
-        <source>Groupchat</source>
-        <translation type="vanished">Ομάδα</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -3444,35 +3268,8 @@ Proceed?</source>
 <context>
     <name>ContentDownloader</name>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Συγγραφέας:</translation>
-    </message>
-    <message>
-        <source>e-mail: </source>
-        <translation type="vanished">e-mail:</translation>
-    </message>
-    <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation>Αυτό το πρόσθετο διευκολύνει τη λήψη και εγκατάσταση σετ εικονιδίων και άλλων πόρων για το Psi.</translation>
-    </message>
-</context>
-<context>
-    <name>CreateGroupDlg</name>
-    <message>
-        <source>Create New Group</source>
-        <translation type="vanished">Δημιουργία Νέας Ομάδας</translation>
-    </message>
-    <message>
-        <source>Enter the new group name:</source>
-        <translation type="vanished">Εισαγάγετε το νέο όνομα ομάδας:</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="vanished">Προσθήκη</translation>
-    </message>
-    <message>
-        <source>&lt;None&gt;</source>
-        <translation type="vanished">&lt;None&gt;</translation>
     </message>
 </context>
 <context>
@@ -3663,10 +3460,6 @@ Proceed?</source>
 <context>
     <name>DiscoListItem</name>
     <message>
-        <source>Error</source>
-        <translation type="vanished">Σφάλμα</translation>
-    </message>
-    <message>
         <source>There was an error getting items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>Παρουσιάστηκε σφάλμα κατά τη λήψη στοιχείων για &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Αιτία: %2</translation>
     </message>
@@ -3720,17 +3513,6 @@ Proceed?</source>
     <message>
         <source>deleted</source>
         <translation>διαγράφηκε</translation>
-    </message>
-</context>
-<context>
-    <name>Drawer</name>
-    <message>
-        <source>Yes</source>
-        <translation type="vanished">Ναι</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">Όχι</translation>
     </message>
 </context>
 <context>
@@ -3896,10 +3678,6 @@ Proceed?</source>
 </context>
 <context>
     <name>EnumMessagesPlugin</name>
-    <message>
-        <source>Authors: </source>
-        <translation type="vanished">Συγγραφείς:</translation>
-    </message>
     <message>
         <source>Missed messages: %1</source>
         <translation>Χαμένα μηνύματα: %1</translation>
@@ -4202,14 +3980,6 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <source>Entity Time</source>
         <translation>Ώρα οντότητας</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Συγγραφέας:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email:</translation>
     </message>
     <message>
         <source>This plugin adds several additional commands into contacts context menu.</source>
@@ -4615,18 +4385,6 @@ This option only has effect if accept-defaults is false.</source>
         <translation>Ειδοποιήσεις</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Συγγραφέας:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email:</translation>
-    </message>
-    <message>
         <source>This plugin is designed to allow easy configuration of some advanced options in Psi.
 This plugin gives you access to advanced application options, which do not have a graphical user interface.
 
@@ -4744,14 +4502,6 @@ Importantly: a large part of the options are important system settings. These re
     <message>
         <source>Are you sure you want to cancel the transfer?</source>
         <translation>Είστε βέβαιοι ότι θέλετε να ακυρώσετε τη μεταφορά;</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">Ναι</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">Όχι</translation>
     </message>
     <message>
         <source>Choose a file</source>
@@ -5178,10 +4928,6 @@ Reason: %3</source>
         <translation>Λήψη και εγκατάσταση</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#content_downloader_plugin&quot;&gt;Wiki (Σε σύνδεση)&lt;/a&gt;</translation>
     </message>
@@ -5424,10 +5170,6 @@ Reason: %1</source>
         <translation>Διαγραφή</translation>
     </message>
     <message>
-        <source>Cancel</source>
-        <translation type="vanished">Άκυρο</translation>
-    </message>
-    <message>
         <source>&amp;Name:</source>
         <translation>&amp;Όνομα:</translation>
     </message>
@@ -5438,10 +5180,6 @@ Reason: %1</source>
     <message>
         <source>&amp;Auto join:</source>
         <translation>&amp;Αυτόματη συμμετοχή:</translation>
-    </message>
-    <message>
-        <source>Bookmark conference</source>
-        <translation type="vanished">Ορισμός Σελιδοδείκτη Συνδιάσκεψης</translation>
     </message>
     <message>
         <source>Unable to join groupchat.    Reason: %1</source>
@@ -5616,29 +5354,6 @@ Reason: %1</source>
     <message>
         <source>Visitors</source>
         <translation>Επισκέπτες</translation>
-    </message>
-</context>
-<context>
-    <name>GameBoard</name>
-    <message>
-        <source>Looking up the host</source>
-        <translation type="vanished">Αναζήτηση του διακομιστή</translation>
-    </message>
-    <message>
-        <source>The host found</source>
-        <translation type="vanished">Ο διακομιστής βρέθηκε</translation>
-    </message>
-    <message>
-        <source>Connected to the host</source>
-        <translation type="vanished">Συνδέθηκε με τον διακομιστή</translation>
-    </message>
-    <message>
-        <source>The host</source>
-        <translation type="vanished">Ο διακομιστής</translation>
-    </message>
-    <message>
-        <source>Save image</source>
-        <translation type="vanished">Αποθήκευση εικόνας</translation>
     </message>
 </context>
 <context>
@@ -6001,21 +5716,6 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>GmailNotifyPlugin</name>
-    <message>
-        <source>Choose a sound file</source>
-        <translation type="vanished">Επιλέξτε ένα αρχείο ήχου</translation>
-    </message>
-    <message>
-        <source>Sound (*.wav)</source>
-        <translation type="vanished">Ήχος (*.wav)</translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="vanished">Συγγραφείς:</translation>
-    </message>
-</context>
-<context>
     <name>Gnome3StatusWatcher</name>
     <message>
         <source>Authors: </source>
@@ -6024,17 +5724,6 @@ Reason: %1</source>
     <message>
         <source>This plugin is designed to add support of GNOME 3 presence status changes</source>
         <translation>Αυτό το πρόσθετο έχει σχεδιαστεί για να προσθέτει υποστήριξη αλλαγών της κατάστασης παρουσίας του GNOME 3</translation>
-    </message>
-</context>
-<context>
-    <name>GnuPG</name>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Συγγραφέας:</translation>
-    </message>
-    <message>
-        <source>e-mail: </source>
-        <translation type="vanished">e-mail:</translation>
     </message>
 </context>
 <context>
@@ -6063,14 +5752,6 @@ to play gomoku. He wants to play %2.</source>
     <message>
         <source>Sound (*.wav)</source>
         <translation>Ήχος (*.wav)</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Συγγραφέας:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email:</translation>
     </message>
     <message>
         <source>Gomoku game</source>
@@ -6414,28 +6095,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
 <context>
     <name>HistoryImport</name>
     <message>
-        <source>Ok</source>
-        <translation type="vanished">ΟΚ</translation>
-    </message>
-    <message>
-        <source>Import</source>
-        <translation type="vanished">Εισαγωγή</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Σφάλμα</translation>
-    </message>
-    <message>
-        <source>Psi+ Import history</source>
-        <translation type="vanished">Ιστορικό εισαγωγής Psi+</translation>
-    </message>
-    <message>
-        <source>Found %1 files for import.
-Continue?</source>
-        <translation type="vanished">Βρέθηκαν %1 αρχεία για εισαγωγή.
-Συνέχιση της διαδικασίας;</translation>
-    </message>
-    <message>
         <source>Upgrade history</source>
         <translation>Αναβάθμιση ιστορικού</translation>
     </message>
@@ -6459,24 +6118,12 @@ Continue?</source>
 <context>
     <name>HistoryKeeperPlugin</name>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Remove history for contacts:</source>
         <translation>Αφαίρεση ιστορικού για επαφές:</translation>
     </message>
     <message>
         <source>Clear history on exit</source>
         <translation>Εκκαθάριση ιστορικού κατά την έξοδο</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Συγγραφέας:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email:</translation>
     </message>
     <message>
         <source>This plugin is designed to remove the history of selected contacts when the Psi is closed.
@@ -6969,22 +6616,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
 </context>
 <context>
-    <name>IcqDie</name>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Συγγραφέας:</translation>
-    </message>
-</context>
-<context>
     <name>ImagePlugin</name>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
-    </message>
     <message>
         <source>Send Image</source>
         <translation>Αποστολή εικόνας</translation>
@@ -7016,10 +6648,6 @@ You can select or deselect a contact for history removal from the context menu o
     <message>
         <source>Image %1 bytes received.</source>
         <translation>Ελήφθη εικόνα %1 bytes.</translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="vanished">Συγγραφείς:</translation>
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
@@ -7087,10 +6715,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 </context>
 <context>
     <name>ImagePreviewPlugin</name>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Συγγραφέας:</translation>
-    </message>
     <message>
         <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
 </source>
@@ -7577,14 +7201,6 @@ to play battleship. He wants to play %2.</source>
         <translation>Jabber Disk</translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Συγγραφέας:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email:</translation>
-    </message>
-    <message>
         <source>Treat some jids as services implementing Jabber Disk protocol and handle your files with them.</source>
         <translation>Αντιμετωπίστε ορισμένα JID ως υπηρεσίες που υλοποιούν το πρωτόκολλο Jabber Disk και διαχειριστείτε τα αρχεία σας με αυτές.</translation>
     </message>
@@ -7673,10 +7289,6 @@ caching avatars will be not available</source>
     <message>
         <source>Add to favorites</source>
         <translation>Προσθήκη στα αγαπημένα</translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="vanished">Συγγραφείς:</translation>
     </message>
     <message>
         <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
@@ -7800,10 +7412,6 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
         <translation>Διαμόρφωση δωματίου</translation>
     </message>
     <message>
-        <source>Affiliations</source>
-        <translation type="vanished">Συνεργάτες</translation>
-    </message>
-    <message>
         <source>Filter:</source>
         <translation>Φίλτρο:</translation>
     </message>
@@ -7814,10 +7422,6 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     <message>
         <source>Remove</source>
         <translation>Αφαίρεση</translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation type="vanished">Γενικά</translation>
     </message>
     <message>
         <source>message</source>
@@ -7881,14 +7485,6 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     <message>
         <source>Are you absolutely certain you want to destroy this room?</source>
         <translation>Είστε απολύτως βέβαιοι ότι θέλετε να καταστρέψετε αυτό το δωμάτιο;</translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="vanished">Ναι</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">Όχι</translation>
     </message>
     <message>
         <source>There was an error retrieving the room configuration</source>
@@ -8144,14 +7740,6 @@ Reason: %1</source>
         <translation>Λήψη επόμενου συμβάντος</translation>
     </message>
     <message>
-        <source>Un&amp;hide</source>
-        <translation type="vanished">Εμφάνιση</translation>
-    </message>
-    <message>
-        <source>&amp;Hide</source>
-        <translation type="vanished">Απόκρυψη</translation>
-    </message>
-    <message>
         <source>Status Message</source>
         <translation>Μήνυμα Κατάστασης</translation>
     </message>
@@ -8210,41 +7798,6 @@ Incoming event(s) from:</source>
     <message>
         <source>Enable Sounds</source>
         <translation>Ενεργοποίηση ήχων</translation>
-    </message>
-</context>
-<context>
-    <name>MainWindow</name>
-    <message>
-        <source>New</source>
-        <translation type="vanished">Νέο</translation>
-    </message>
-    <message>
-        <source>Save image</source>
-        <translation type="vanished">Αποθήκευση εικόνας</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation type="vanished">Έξοδος</translation>
-    </message>
-    <message>
-        <source>About the game</source>
-        <translation type="vanished">Σχετικά με το παιχνίδι</translation>
-    </message>
-    <message>
-        <source>Game</source>
-        <translation type="vanished">Παιχνίδι</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation type="vanished">Βοήθεια</translation>
-    </message>
-    <message>
-        <source>Ready</source>
-        <translation type="vanished">Έτοιμο</translation>
-    </message>
-    <message>
-        <source>About</source>
-        <translation type="vanished">Σχετικά</translation>
     </message>
 </context>
 <context>
@@ -8421,13 +7974,6 @@ Size: %2</source>
     </message>
 </context>
 <context>
-    <name>MamImageViewer</name>
-    <message>
-        <source>Image</source>
-        <translation type="vanished">Εικόνα</translation>
-    </message>
-</context>
-<context>
     <name>Mattermost::OverlayScrollBarManager</name>
     <message>
         <source>Scroll to top</source>
@@ -8440,14 +7986,6 @@ Size: %2</source>
 </context>
 <context>
     <name>MessageFilter</name>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Συγγραφέας:</translation>
-    </message>
-    <message>
-        <source>e-mail: </source>
-        <translation type="vanished">e-mail:</translation>
-    </message>
     <message>
         <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
         <translation>Μπορεί να απορρίπτει εισερχόμενα stanza σύμφωνα με διάφορα φίλτρα, όπως διεύθυνση προέλευσης/προορισμού ή συγκεκριμένο περιεχόμενο μηνύματος</translation>
@@ -8498,10 +8036,6 @@ Details: %1</source>
     <message>
         <source>Name</source>
         <translation>Όνομα</translation>
-    </message>
-    <message>
-        <source>E-Mail</source>
-        <translation type="vanished">E-Mail</translation>
     </message>
     <message>
         <source>Created</source>
@@ -9189,10 +8723,6 @@ Reason: %1.</source>
         <translation>Επισήμανση:</translation>
     </message>
     <message>
-        <source>Link</source>
-        <translation type="vanished">Σύνδεσμος</translation>
-    </message>
-    <message>
         <source>Tooltip:</source>
         <translation>Συμβουλή εργαλείου:</translation>
     </message>
@@ -9422,10 +8952,6 @@ Reason: %1.</source>
     <message>
         <source>&amp;Chat</source>
         <translation>Συζήτηση</translation>
-    </message>
-    <message>
-        <source>&amp;Never</source>
-        <translation type="vanished">Ποτέ</translation>
     </message>
     <message>
         <source>Size of preloaded history</source>
@@ -9788,10 +9314,6 @@ Reason: %1.</source>
     <message>
         <source>Show menubar</source>
         <translation>Εμφάνιση γραμμής μενού</translation>
-    </message>
-    <message>
-        <source>Disables scrollbar in the application window.</source>
-        <translation type="vanished">Απενεργοποίηση της γραμμής κύλισης στο παράθυρο της εφαρμογής.</translation>
     </message>
     <message>
         <source>Enables avatar frame at the top of roster</source>
@@ -10350,10 +9872,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>Αναπαραγωγή ήχου:</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Update Birthdays</source>
         <translation>Ενημέρωση γενεθλίων</translation>
     </message>
@@ -10398,20 +9916,8 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>Έλεγχος γενεθλίων κατά την εκκίνηση</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Options</source>
         <translation>Επιλογές</translation>
-    </message>
-    <message>
-        <source>Use proxy settings from account</source>
-        <translation type="vanished">Χρήση των ρυθμίσειων διακομιστή μεσολάβησης από το λογαριασμό</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Contact menu</source>
@@ -10420,26 +9926,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>Toolbar action</source>
         <translation>Ενέργεια γραμμής εργαλείων</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Message archiving</source>
-        <translation type="vanished">Αρχειοθέτηση μηνυμάτων</translation>
-    </message>
-    <message>
-        <source> Enable multiple applications signed in
- as the same user to report the same
- status message. </source>
-        <translation type="vanished">Ενεργοποίηση πολλαπλών εφαρμογών που έχουν συνδεθεί
-ως ο ίδιος χρήστης για την αναφορά του ίδιου
-μηνύματος κατάστασης.</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Add</source>
@@ -10458,16 +9944,8 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>Εξαγωγή</translation>
     </message>
     <message>
-        <source>Settings</source>
-        <translation type="vanished">Ρυθμίσεις</translation>
-    </message>
-    <message>
         <source>Delete</source>
         <translation>Διαγραφή</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Per contact delay between the popup notifications of the same events</source>
@@ -10508,10 +9986,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>Sound:</source>
         <translation>Ήχος:</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Main</source>
@@ -10624,10 +10098,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
 (δεν λειτουργεί για προσωπικά μηνύματα MUC)</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Status</source>
         <translation>Κατάσταση</translation>
     </message>
@@ -10658,10 +10128,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>Show Watch for JID button in contact context menu</source>
         <translation>Εμφάνιση του κουμπιού «Παρακολούθηση JID» στο μενού περιβάλλοντος της επαφής</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>from file</source>
@@ -12159,10 +11625,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>Φόρμα</translation>
     </message>
     <message>
-        <source>General</source>
-        <translation type="vanished">Γενικά</translation>
-    </message>
-    <message>
         <source>Account:</source>
         <translation>Λογαριασμός:</translation>
     </message>
@@ -12221,26 +11683,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>Caps version</source>
         <translation>Έκδοση Caps</translation>
-    </message>
-    <message>
-        <source>Contacts</source>
-        <translation type="vanished">Επαφές</translation>
-    </message>
-    <message>
-        <source>Groupchats</source>
-        <translation type="vanished">Ομάδες</translation>
-    </message>
-    <message>
-        <source>never</source>
-        <translation type="vanished">ποτέ</translation>
-    </message>
-    <message>
-        <source>always</source>
-        <translation type="vanished">πάντα</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Shortcut:</source>
@@ -12311,10 +11753,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>Επεξεργασία</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Enable for players:</source>
         <translation>Ενεργοποίηση για αναπαραγωγείς:</translation>
     </message>
@@ -12341,10 +11779,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>Delay before restoring status, sec</source>
         <translation>Καθυστέρηση πριν την επαναφορά κατάστασης, δευτ.</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
@@ -12429,27 +11863,8 @@ Reason: %1.</source>
         <translation>Λανθασμένος κωδικός πρόσβασης λογαριασμού</translation>
     </message>
     <message>
-        <source>OK</source>
-        <translation type="vanished">ΟΚ</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">Άκυρο</translation>
-    </message>
-    <message>
         <source>Please enter your password for %1:</source>
         <translation>Εισαγάγετε τον κωδικό πρόσβασης για το %1:</translation>
-    </message>
-</context>
-<context>
-    <name>Passphrase</name>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">Άκυρο</translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation type="vanished">OK</translation>
     </message>
 </context>
 <context>
@@ -12488,14 +11903,6 @@ Reason: %1.</source>
     <message>
         <source>Sound (*.wav)</source>
         <translation>Ήχος (*.wav)</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Συγγραφέας:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email:</translation>
     </message>
     <message>
         <source>This plugin shows popup notifications when users from your roster changes their mood, tune or activity.</source>
@@ -12739,17 +12146,6 @@ Reason: %1.</source>
     </message>
 </context>
 <context>
-    <name>PreferencesWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">Φόρμα</translation>
-    </message>
-    <message>
-        <source>message</source>
-        <translation type="vanished">μήνυμα</translation>
-    </message>
-</context>
-<context>
     <name>PreviewFileDialog</name>
     <message>
         <source>Preview</source>
@@ -12987,109 +12383,7 @@ Reason: %1.</source>
     </message>
 </context>
 <context>
-    <name>ProfileManage</name>
-    <message>
-        <source>Manage Profiles</source>
-        <translation type="vanished">Διαχείριση Προφίλ</translation>
-    </message>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="vanished">Προσθήκη</translation>
-    </message>
-    <message>
-        <source>psi/addContact</source>
-        <translation type="vanished">psi/addContact</translation>
-    </message>
-    <message>
-        <source>Rem&amp;ove</source>
-        <translation type="vanished">Αφαίρεση</translation>
-    </message>
-    <message>
-        <source>psi/remove</source>
-        <translation type="vanished">psi/remove</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileManageDlg</name>
-    <message>
-        <source>Rename Profile</source>
-        <translation type="vanished">Μετονομασία Προφίλ</translation>
-    </message>
-    <message>
-        <source>Please enter a new name for the profile.  Keep it simple.
-Only use letters or numbers.  No punctuation or spaces.</source>
-        <translation type="vanished">Εισαγάγετε ένα νέο όνομα για το προφίλ. Κρατήστε το απλό.
-Χρησιμοποιείτε μόνο γράμματα ή αριθμούς. Δεν υπάρχουν σημεία στίξης ή κενά.</translation>
-    </message>
-    <message>
-        <source>There is already another profile with this name.  Please choose another.</source>
-        <translation type="vanished">Υπάρχει ήδη ένα άλλο προφίλ με αυτό το όνομα. Επιλέξτε κάποιο άλλο.</translation>
-    </message>
-    <message>
-        <source>Unable to rename the profile.  Please do not use any special characters.</source>
-        <translation type="vanished">Δεν είναι δυνατή η μετονομασία του προφίλ. Μην χρησιμοποιείτε ειδικούς χαρακτήρες.</translation>
-    </message>
-    <message>
-        <source>Delete Profile</source>
-        <translation type="vanished">Διαγραφή Προφίλ</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">Όχι</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">Ναι</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileNew</name>
-    <message>
-        <source>New Profile</source>
-        <translation type="vanished">Νέο Προφίλ</translation>
-    </message>
-    <message>
-        <source>Profile Name:</source>
-        <translation type="vanished">Όνομα Προφίλ:</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Κλείσιμο</translation>
-    </message>
-    <message>
-        <source>psi/addContact</source>
-        <translation type="vanished">psi/addContact</translation>
-    </message>
-    <message>
-        <source>&amp;Message</source>
-        <translation type="vanished">Μήνυμα</translation>
-    </message>
-    <message>
-        <source>&amp;Chat</source>
-        <translation type="vanished">Συζήτηση</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileNewDlg</name>
-    <message>
-        <source>New Profile</source>
-        <translation type="vanished">Νέο Προφίλ</translation>
-    </message>
-    <message>
-        <source>There is already an existing profile with this name.  Please choose another.</source>
-        <translation type="vanished">Υπάρχει ήδη ένα άλλο προφίλ με αυτό το όνομα. Επιλέξτε κάποιο άλλο.</translation>
-    </message>
-    <message>
-        <source>Unable to create the profile.  Please do not use any special characters.</source>
-        <translation type="vanished">Δεν είναι δυνατή η δημιουργία του προφίλ. Μην χρησιμοποιείτε ειδικούς χαρακτήρες.</translation>
-    </message>
-</context>
-<context>
     <name>ProfileOpen</name>
-    <message>
-        <source>Open Profile</source>
-        <translation type="vanished">Άνοιγμα Προφίλ</translation>
-    </message>
     <message>
         <source>Image goes here</source>
         <translation>Η εικόνα εμφανίζεται εδώ</translation>
@@ -13097,30 +12391,6 @@ Only use letters or numbers.  No punctuation or spaces.</source>
     <message>
         <source>right</source>
         <translation>δεξιά</translation>
-    </message>
-    <message>
-        <source>Profile:</source>
-        <translation type="vanished">Προφίλ:</translation>
-    </message>
-    <message>
-        <source>Language:</source>
-        <translation type="vanished">Γλώσσα:</translation>
-    </message>
-    <message>
-        <source>&amp;Quit</source>
-        <translation type="vanished">Έξοδος</translation>
-    </message>
-    <message>
-        <source>psi/quit</source>
-        <translation type="vanished">psi/quit</translation>
-    </message>
-    <message>
-        <source>&amp;Profiles...</source>
-        <translation type="vanished">Προφίλ...</translation>
-    </message>
-    <message>
-        <source>psi/profile</source>
-        <translation type="vanished">psi/profile</translation>
     </message>
     <message>
         <source>Profiles</source>
@@ -13153,14 +12423,6 @@ Only use letters or numbers.  No punctuation or spaces.</source>
 </context>
 <context>
     <name>ProfileOpenDlg</name>
-    <message>
-        <source>Select a profile to open from this list.</source>
-        <translation type="vanished">Επιλέξτε ένα προφίλ για να ανοίξετε από αυτήν τη λίστα.</translation>
-    </message>
-    <message>
-        <source>Automatically open this profile when Psi is started.  Useful if you only have one profile.</source>
-        <translation type="vanished">Αυτό το προφίλ να ανοίγει αυτόματα όταν ξεκινάει το Psi. Χρήσιμο εάν έχετε μόνο ένα προφίλ.</translation>
-    </message>
     <message>
         <source>Double-click or press F2 to rename a profile. Press Delete to remove it.</source>
         <translation>Κάντε διπλό κλικ ή πατήστε F2 για να μετονομάσετε ένα προφίλ. Πατήστε Delete για να το διαγράψετε.</translation>
@@ -13867,10 +13129,6 @@ Details: %1</source>
         <translation>Συμμετοχή σε Ομάδα</translation>
     </message>
     <message>
-        <source>Account Setup</source>
-        <translation type="vanished">Ρύθμιση Λογαριασμών</translation>
-    </message>
-    <message>
         <source>Options</source>
         <translation>Επιλογές</translation>
     </message>
@@ -13895,16 +13153,8 @@ Details: %1</source>
         <translation>Αλλαγή Προφίλ</translation>
     </message>
     <message>
-        <source>Play Sounds</source>
-        <translation type="vanished">Αναπαραγωγή Ήχων</translation>
-    </message>
-    <message>
         <source>Play &amp;Sounds</source>
         <translation>Αναπαραγωγή Ήχων</translation>
-    </message>
-    <message>
-        <source>Toggles whether sound should be played or not</source>
-        <translation type="vanished">Εναλλαγή αν πρέπει να παίξει ήχο ή όχι</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -14065,22 +13315,6 @@ Details: %1</source>
     <message>
         <source>&amp;Home Page (Online)</source>
         <translation>Αρχική σελίδα (Online)</translation>
-    </message>
-    <message>
-        <source>Psi+ Forum (Online)</source>
-        <translation type="vanished">Psi+ Forum (Online)</translation>
-    </message>
-    <message>
-        <source>Psi+ &amp;Forum (Online)</source>
-        <translation type="vanished">Psi+ &amp;Forum (Online)</translation>
-    </message>
-    <message>
-        <source>Join Psi+ Discussion Room (Online)</source>
-        <translation type="vanished">Συμμετοχή στην ομάδα συζήτησης Psi + (Online)</translation>
-    </message>
-    <message>
-        <source>&amp;Join Psi+ Discussion Room (Online)</source>
-        <translation type="vanished">Συμμετοχή στην ομάδα συζήτησης Psi + (Online)</translation>
     </message>
     <message>
         <source>Report a Bug (Online)</source>
@@ -14774,14 +14008,6 @@ Migration is possible with Psi-0.15</source>
         <translation>Είστε βέβαιοι ότι θέλετε να καταργήσετε την εξουσιοδότηση από &lt;b&gt;%1&lt;/b&gt;;</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">Ναι</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">Όχι</translation>
-    </message>
-    <message>
         <source>Choose an Image</source>
         <translation>Επιλογή εικόνας</translation>
     </message>
@@ -15217,10 +14443,6 @@ Would you like to activate that session now?</source>
         <translation>Προσθήκη...</translation>
     </message>
     <message>
-        <source>Advanced</source>
-        <translation type="vanished">Σύνθετα</translation>
-    </message>
-    <message>
         <source>(internal node)</source>
         <translation>(εσωτερικός κόμβος)</translation>
     </message>
@@ -15330,21 +14552,6 @@ Would you like to activate that session now?</source>
     <message>
         <source>Home</source>
         <translation>Οικία</translation>
-    </message>
-</context>
-<context>
-    <name>PsiThumbnailToolBar</name>
-    <message>
-        <source>Options</source>
-        <translation type="vanished">Επιλογές</translation>
-    </message>
-    <message>
-        <source>Online</source>
-        <translation type="vanished">Σε σύνδεση</translation>
-    </message>
-    <message>
-        <source>Offline</source>
-        <translation type="vanished">Εκτός Σύνδεσης</translation>
     </message>
 </context>
 <context>
@@ -17026,18 +16233,6 @@ Thanks for your patience.</source>
 <context>
     <name>QipXStatuses</name>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Συγγραφέας:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email:</translation>
-    </message>
-    <message>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
         <translation>Αυτό το πρόσθετο έχει σχεδιαστεί για να εμφανίζει τις x-statuses των επαφών χρησιμοποιώντας τον πελάτη Jabber QIP Infium.</translation>
     </message>
@@ -17082,14 +16277,6 @@ Thanks for your patience.</source>
     <message>
         <source>&lt;qt&gt;Registration has already been submitted, so closing this window will not prevent the registration from happening.  Do you still wish to close?&lt;/qt&gt;</source>
         <translation>&lt;qt&gt;Η εγγραφή έχει ήδη υποβληθεί, επομένως το κλείσιμο αυτού του παραθύρου δεν θα εμποδίσει την πραγματοποίηση της εγγραφής.  Θέλετε ακόμα να το κλείσετε;&lt;/qt&gt;</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">Ναι</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">Όχι</translation>
     </message>
     <message>
         <source>Fetching registration form for %1 ...</source>
@@ -17161,14 +16348,6 @@ Reason: %1</source>
         <translation>Ήχος (*.wav)</translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Συγγραφέας:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email:</translation>
-    </message>
-    <message>
         <source>This plugin is designed to show reminders of upcoming birthdays.
 The first time you install this plugin, you need to log on to all of your accounts, go to the plugin settings and click &quot;Update Birthdays&quot;.The plugin will then collect the information about the birthdays of all the users in your roster, but when the &apos;Use vCards cache&apos; option isselected, the users&apos; vCards that are cached on your hard disk will be used. </source>
         <translation>Αυτό το πρόσθετο έχει σχεδιαστεί για να εμφανίζει υπενθυμίσεις για επερχόμενα γενέθλια.
@@ -17180,17 +16359,6 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <source>[blank]</source>
         <translation>[κενό]</translation>
-    </message>
-</context>
-<context>
-    <name>RipperCCOptions</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">Φόρμα</translation>
-    </message>
-    <message>
-        <source>Attention interval: </source>
-        <translation type="vanished">Χρονικό διάστημα Προσοχής:</translation>
     </message>
 </context>
 <context>
@@ -17430,10 +16598,6 @@ The first time you install this plugin, you need to log on to all of your accoun
         <translation>Μεταφόρτωση εικόνας</translation>
     </message>
     <message>
-        <source>Authors: </source>
-        <translation type="vanished">Συγγραφείς:</translation>
-    </message>
-    <message>
         <source>This plugin allows you to make screenshots and save them to your hard drive or upload them to an FTP or HTTP server.
 The plugin has the following settings:
 * Shortcut -- hotkey to make the screenshot (by default, Ctrl+Alt+P)
@@ -17571,13 +16735,6 @@ Reason: %1</source>
     <message>
         <source>Added %1 to your roster.</source>
         <translation>Προστέθηκαν %1 στον κατάλογό σας.</translation>
-    </message>
-</context>
-<context>
-    <name>SelectGame</name>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">Άκυρο</translation>
     </message>
 </context>
 <context>
@@ -18169,10 +17326,6 @@ Reason: %1</source>
         <translation>Δημιουργία εφεδρικού αντιγράφου θέματος πριν την εφαρμογή</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Choose a skin file</source>
         <translation>Επιλογή αρχείου θέματος</translation>
     </message>
@@ -18372,14 +17525,6 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
         <translation> πέρασε το τεστ</translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Συγγραφέας:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email:</translation>
-    </message>
-    <message>
         <source>This plugin is designed to block spam messages and other unwanted information from Psi users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
 With the plugin settings you can:
 * Define a security question and the answer
@@ -18450,20 +17595,8 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
 <context>
     <name>StorageNotesPlugin</name>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Storage Notes</source>
         <translation>Σημειώσεις αποθήκευσης</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">Συγγραφέας:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email:</translation>
     </message>
     <message>
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
@@ -18824,17 +17957,6 @@ Please correct and try again.</source>
     </message>
 </context>
 <context>
-    <name>Tip</name>
-    <message>
-        <source>&amp;Next</source>
-        <translation type="vanished">Επόμενο</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Κλείσιμο</translation>
-    </message>
-</context>
-<context>
     <name>TipDlg</name>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
@@ -19033,10 +18155,6 @@ We hope that you will enjoy using it as we have enjoyed making it!
         <translation>Επαναφορά προεπιλεγμένων ρυθμίσεων</translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Συγγραφέας:</translation>
-    </message>
-    <message>
         <source>This plugin allows you to convert selected text into another language.
 </source>
         <translation>Αυτό το πρόσθετο σας επιτρέπει να μετατρέπετε το επιλεγμένο κείμενο σε άλλη γλώσσα.
@@ -19142,10 +18260,6 @@ We hope that you will enjoy using it as we have enjoyed making it!
 <context>
     <name>VideoStatusChanger</name>
     <message>
-        <source>Authors: </source>
-        <translation type="vanished">Συγγραφείς:</translation>
-    </message>
-    <message>
         <source>This plugin is designed to set the custom status when you watching the video in selected video players. 
 Note: This plugin is designed to work in Linux family operating systems and in Windows OS. 
 
@@ -19219,29 +18333,6 @@ To work with Parole player you need to enable MPRIS2 module/plugin.</source>
     <message>
         <source>Do you want to save your changes?</source>
         <translation>Θέλετε να αποθηκεύσετε τις αλλαγές σας;</translation>
-    </message>
-</context>
-<context>
-    <name>ViewMailDlg</name>
-    <message>
-        <source>E-Mail</source>
-        <translation type="vanished">E-Mail</translation>
-    </message>
-    <message>
-        <source>Previous</source>
-        <translation type="vanished">Προηγούμενο</translation>
-    </message>
-    <message>
-        <source>Next</source>
-        <translation type="vanished">Επόμενο</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="vanished">Κλείσιμο</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Κλείσιμο</translation>
     </message>
 </context>
 <context>
@@ -19396,33 +18487,10 @@ To work with Parole player you need to enable MPRIS2 module/plugin.</source>
         <translation>Παρακολούθηση JID</translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">Συγγραφέας:</translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">Email:</translation>
-    </message>
-    <message>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
 On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
         <translation>Αυτό το πρόσθετο έχει σχεδιαστεί για την παρακολούθηση της κατάστασης συγκεκριμένων επαφών του καταλόγου, καθώς και για την αντικατάσταση των προεπιλεγμένων ήχων των εισερχόμενων μηνυμάτων.
 Στην πρώτη καρτέλα ρυθμίζεται μια λίστα επαφών των οποίων η κατάσταση παρακολουθείται. Όταν αλλάζει η κατάσταση τέτοιων επαφών, εμφανίζεται ένα αναδυόμενο παράθυρο και όταν η κατάσταση αλλάζει σε συνδεδεμένη μπορεί να αναπαραχθεί ένας προσαρμοσμένος ήχος. Στη δεύτερη καρτέλα ρυθμίζεται μια λίστα στοιχείων των οποίων τα μηνύματα παρακολουθούνται. Κάθε στοιχείο μπορεί να περιέχει μια κανονική έκφραση για έλεγχο αντιστοίχισης με το JID από το οποίο φτάνει το μήνυμα, μια λίστα κανονικών εκφράσεων για έλεγχο αντιστοίχισης με το κείμενο ενός εισερχόμενου μηνύματος, τη διαδρομή προς το αρχείο ήχου που θα αναπαραχθεί σε περίπτωση αντιστοίχισης, καθώς και τη ρύθμιση αν ο ήχος αναπαράγεται πάντα, ακόμη και αν οι γενικοί ήχοι είναι απενεργοποιημένοι. </translation>
-    </message>
-</context>
-<context>
-    <name>WbDlg</name>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Προειδοποίηση</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">Ναι</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">Όχι</translation>
     </message>
 </context>
 <context>
@@ -20335,14 +19403,6 @@ On the first tab set up a list of contacts for the status of which is monitored.
         <translation>Ελαττωματικό XML</translation>
     </message>
     <message>
-        <source>Yes</source>
-        <translation type="vanished">Ναι</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">Όχι</translation>
-    </message>
-    <message>
         <source>You have entered malformed XML input.</source>
         <translation>Έχετε εισαγάγει ελαττωματική είσοδο XML.</translation>
     </message>
@@ -20398,20 +19458,8 @@ On the first tab set up a list of contacts for the status of which is monitored.
         <translation>Αποθήκευση θέσης παραθύρου</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Disable invitations from conference</source>
         <translation>Απενεργοποίηση προσκλήσεων από τη διάσκεψη</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
@@ -21276,10 +20324,6 @@ to this message in juick@conference.jabber.ru</source>
         <translation>Καθαρισμός προσωρινής μνήμης άβαταρ</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>https://link</source>
         <translation>https://link</translation>
     </message>
@@ -21600,10 +20644,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Clear Cookies</source>
         <translation>Εκκαθάριση cookies</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#yandex_narod_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>

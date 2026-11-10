@@ -410,22 +410,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Жеке ақ&amp;паратты түзету...</translation>
     </message>
     <message>
-        <source>OpenPGP</source>
-        <translation type="vanished">OpenPGP</translation>
-    </message>
-    <message>
-        <source>placeholder2</source>
-        <translation type="vanished">placeholder2</translation>
-    </message>
-    <message>
-        <source>Select &amp;Key...</source>
-        <translation type="vanished">&amp;Кілтті таңдаңыз...</translation>
-    </message>
-    <message>
-        <source>Use None</source>
-        <translation type="vanished">Ешнәрсе</translation>
-    </message>
-    <message>
         <source>Privacy</source>
         <translation>Жекелік</translation>
     </message>
@@ -588,10 +572,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Ешқашан</translation>
     </message>
     <message>
-        <source>Legacy SSL</source>
-        <translation type="vanished">Ескі SSL</translation>
-    </message>
-    <message>
         <source>Over encrypted connection</source>
         <translation>Шифрленген байланыс арқылы</translation>
     </message>
@@ -688,28 +668,8 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Пайдаланушы аты:</translation>
     </message>
     <message>
-        <source>No Key Selected</source>
-        <translation type="vanished">Кілт таңдалмады</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Қате</translation>
-    </message>
-    <message>
-        <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation type="vanished">Ескі SSL тек қолмен көрсетілген хост аты/портымен қолданған кезде қолжетерлік болады.</translation>
-    </message>
-    <message>
-        <source>SSL error</source>
-        <translation type="vanished">SSL қатесі</translation>
-    </message>
-    <message>
-        <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation type="vanished">SSL/TLS іске қосу мүмкін емес. Плагин табылмады.</translation>
-    </message>
-    <message>
-        <source>Secret Key</source>
-        <translation type="vanished">Құпия кілті</translation>
     </message>
     <message>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
@@ -862,10 +822,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Қолжетерлік болса</translation>
     </message>
     <message>
-        <source>Legacy SSL</source>
-        <translation type="vanished">Ескі SSL</translation>
-    </message>
-    <message>
         <source>Warning</source>
         <translation>Ескерту</translation>
     </message>
@@ -874,20 +830,8 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Тіркелуден бас тартуды шынымен қалайсыз ба?</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Иә</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">Ж&amp;оқ</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Қате</translation>
-    </message>
-    <message>
-        <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation type="vanished">Ескі SSL тек қолмен көрсетілген хост аты/портымен қолданған кезде қолжетерлік болады.</translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -1033,10 +977,6 @@ Reason: %1</source>
 </context>
 <context>
     <name>ActiveProfiles</name>
-    <message>
-        <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation type="vanished">Бұл psi профилі орындалып тұр...&lt;br&gt;күте тұрыңыз...</translation>
-    </message>
     <message>
         <source>This Psi profile is already running...&lt;br&gt;Please wait...</source>
         <translation type="unfinished"></translation>
@@ -1543,18 +1483,6 @@ The list of exceptions for jids has two operating modes:
 <context>
     <name>AvCallPrivate</name>
     <message>
-        <source>System error</source>
-        <translation type="vanished">Жүйелік қате</translation>
-    </message>
-    <message>
-        <source>Codec error</source>
-        <translation type="vanished">Кодек қатесі</translation>
-    </message>
-    <message>
-        <source>Generic error</source>
-        <translation type="vanished">Жалпы қате</translation>
-    </message>
-    <message>
         <source>The requested media type is not supported by the current media backend.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1792,37 +1720,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
     </message>
 </context>
 <context>
-    <name>Call</name>
-    <message>
-        <source>Dialog</source>
-        <translation type="vanished">Сұхбат</translation>
-    </message>
-    <message>
-        <source>To:</source>
-        <translation type="vanished">Қайда:</translation>
-    </message>
-    <message>
-        <source>Use video</source>
-        <translation type="vanished">Видеоны қолдану</translation>
-    </message>
-    <message>
-        <source>Sending bandwidth:</source>
-        <translation type="vanished">Жіберу арнасының ені:</translation>
-    </message>
-    <message>
-        <source>Call status</source>
-        <translation type="vanished">Қоңыраудың қалып-күйі</translation>
-    </message>
-    <message>
-        <source>&amp;Reject</source>
-        <translation type="vanished">Та&amp;йдыру</translation>
-    </message>
-    <message>
-        <source>&amp;Accept</source>
-        <translation type="vanished">Қа&amp;былдау</translation>
-    </message>
-</context>
-<context>
     <name>CallDlg</name>
     <message>
         <source>Call</source>
@@ -1899,65 +1796,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
     <message>
         <source>Refused: the encryption could not be verified with a trusted OMEMO device of the contact. See Options &gt; Security.</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>CallDlg::Private</name>
-    <message>
-        <source>Voice Call</source>
-        <translation type="vanished">Дауыс қоңырауы</translation>
-    </message>
-    <message>
-        <source>High (1Mbps)</source>
-        <translation type="vanished">Жоғары (1МБ/с)</translation>
-    </message>
-    <message>
-        <source>Average (400Kbps)</source>
-        <translation type="vanished">Орташа (400 КБ/с)</translation>
-    </message>
-    <message>
-        <source>Low (160Kbps)</source>
-        <translation type="vanished">Төмен (160 КБ/с)</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">Жа&amp;бу</translation>
-    </message>
-    <message>
-        <source>C&amp;all</source>
-        <translation type="vanished">Қоңырау ш&amp;алу</translation>
-    </message>
-    <message>
-        <source>Ready</source>
-        <translation type="vanished">Дайын</translation>
-    </message>
-    <message>
-        <source>From:</source>
-        <translation type="vanished">Кімнен:</translation>
-    </message>
-    <message>
-        <source>Accept call?</source>
-        <translation type="vanished">Қоңырауды қабылдау керек пе?</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">Ба&amp;с тарту</translation>
-    </message>
-    <message>
-        <source>Calling...</source>
-        <translation type="vanished">Қоңырау шалу...</translation>
-    </message>
-    <message>
-        <source>Accepting...</source>
-        <translation type="vanished">Қабылдау...</translation>
-    </message>
-    <message>
-        <source>&amp;Hang up</source>
-        <translation type="vanished">І&amp;ле салу</translation>
-    </message>
-    <message>
-        <source>Call active</source>
-        <translation type="vanished">Қоңырау белсенді</translation>
     </message>
 </context>
 <context>
@@ -2138,10 +1976,6 @@ Turn on your camera or share your screen</source>
 <context>
     <name>CaptchaDlg</name>
     <message>
-        <source>Dialog</source>
-        <translation type="vanished">Сұхбат</translation>
-    </message>
-    <message>
         <source>You need to pass verification</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2182,10 +2016,6 @@ Turn on your camera or share your screen</source>
     <message>
         <source>The certificate is valid.</source>
         <translation>Сертификат жарамды.</translation>
-    </message>
-    <message>
-        <source>The certificate is NOT valid!</source>
-        <translation type="vanished">Сертификат жарамсыз!</translation>
     </message>
     <message>
         <source>Reason: %1.</source>
@@ -2315,10 +2145,6 @@ Reason: %1</source>
         <translation>Дауыс қоңырауы</translation>
     </message>
     <message>
-        <source>Toggle encryption</source>
-        <translation type="vanished">Шифрлеуді іске қосу/сөндіру</translation>
-    </message>
-    <message>
         <source>Select icon</source>
         <translation>Таңбашаны таңдаңыз</translation>
     </message>
@@ -2358,14 +2184,6 @@ Do you still want to close the window?</source>
     <message>
         <source>&lt;p&gt;Encryption was recently disabled by the remote contact.  Are you sure you want to send this message without encryption?&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Иә</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">Ж&amp;оқ</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
@@ -2478,17 +2296,6 @@ Do you still want to close the window?</source>
             <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
-    </message>
-</context>
-<context>
-    <name>ChatView</name>
-    <message>
-        <source>Subject:</source>
-        <translation type="vanished">Тақырыбы:</translation>
-    </message>
-    <message>
-        <source>URL:</source>
-        <translation type="vanished">URL:</translation>
     </message>
 </context>
 <context>
@@ -3074,10 +2881,6 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;XML Console</source>
-        <translation type="vanished">XML ко&amp;нсолі</translation>
-    </message>
-    <message>
         <source>&amp;Modify Account...</source>
         <translation>Тіркелгіні тү&amp;зету...</translation>
     </message>
@@ -3106,20 +2909,12 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <translation>Аватар</translation>
     </message>
     <message>
-        <source>Groupchat</source>
-        <translation type="vanished">Чат бөлмесі</translation>
-    </message>
-    <message>
         <source>Plugins</source>
         <translation>Плагиндер</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
         <translation>Ә&amp;кімші</translation>
-    </message>
-    <message>
-        <source>Join %1</source>
-        <translation type="vanished">%1 ішіне кіру</translation>
     </message>
     <message>
         <source>Groupchats</source>
@@ -3160,10 +2955,6 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
 </context>
 <context>
     <name>ContactListDragView</name>
-    <message>
-        <source>%1 (%2)</source>
-        <translation type="vanished">%1 (%2)</translation>
-    </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
         <translation type="unfinished"></translation>
@@ -3251,13 +3042,6 @@ Proceed?</source>
     <message>
         <source>Conferences</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ContactListViewDelegate::Private</name>
-    <message>
-        <source>%1 (%2)</source>
-        <translation type="vanished">%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -3437,17 +3221,6 @@ Proceed?</source>
     <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>CreateGroupDlg</name>
-    <message>
-        <source>Add</source>
-        <translation type="vanished">Қосу</translation>
-    </message>
-    <message>
-        <source>&lt;None&gt;</source>
-        <translation type="vanished">&lt;Ешнәрсе&gt;</translation>
     </message>
 </context>
 <context>
@@ -3638,10 +3411,6 @@ Proceed?</source>
 <context>
     <name>DiscoListItem</name>
     <message>
-        <source>Error</source>
-        <translation type="vanished">Қате</translation>
-    </message>
-    <message>
         <source>There was an error getting items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3695,17 +3464,6 @@ Proceed?</source>
     <message>
         <source>deleted</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Drawer</name>
-    <message>
-        <source>Yes</source>
-        <translation type="vanished">Иә</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">Жоқ</translation>
     </message>
 </context>
 <context>
@@ -3921,10 +3679,6 @@ Supports per contact on / off message enumeration via the buttons on the chats t
     <message>
         <source>Message length</source>
         <translation>Хабарлама ұзындығы</translation>
-    </message>
-    <message>
-        <source>Toggle encryption</source>
-        <translation type="vanished">Шифрлеуді іске қосу/сөндіру</translation>
     </message>
     <message>
         <source>Add URL</source>
@@ -4688,14 +4442,6 @@ Importantly: a large part of the options are important system settings. These re
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Иә</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">Ж&amp;оқ</translation>
-    </message>
-    <message>
         <source>Choose a file</source>
         <translation>Файлды таңдаңыз</translation>
     </message>
@@ -4773,10 +4519,6 @@ that outgoing TCP connections are allowed.</source>
 </context>
 <context>
     <name>FileShareDlg</name>
-    <message>
-        <source>Dialog</source>
-        <translation type="vanished">Сұхбат</translation>
-    </message>
     <message>
         <source>Share Files</source>
         <translation type="unfinished"></translation>
@@ -5353,10 +5095,6 @@ Reason: %1</source>
         <translation>Өшіру</translation>
     </message>
     <message>
-        <source>Cancel</source>
-        <translation type="vanished">Бас тарту</translation>
-    </message>
-    <message>
         <source>&amp;Name:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5379,10 +5117,6 @@ Reason: %1</source>
     <message>
         <source>Open &amp;Chat Window</source>
         <translation>&amp;Чат терезесін ашу</translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation type="vanished">Дауыс қоңырауы</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
@@ -6023,14 +5757,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
 <context>
     <name>GroupChatDlg</name>
     <message>
-        <source>Topic:</source>
-        <translation type="vanished">Тақырыбы:</translation>
-    </message>
-    <message>
-        <source>AccountLabel</source>
-        <translation type="vanished">AccountLabel</translation>
-    </message>
-    <message>
         <source>Select icon</source>
         <translation>Таңбашаны таңдаңыз</translation>
     </message>
@@ -6291,18 +6017,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
 </context>
 <context>
     <name>HistoryImport</name>
-    <message>
-        <source>Status:</source>
-        <translation type="vanished">Қалып-күйі:</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="vanished">ОК</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Қате</translation>
-    </message>
     <message>
         <source>Upgrade history</source>
         <translation type="unfinished"></translation>
@@ -7615,10 +7329,6 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
         <translation>Өшіру</translation>
     </message>
     <message>
-        <source>General</source>
-        <translation type="vanished">Жалпы</translation>
-    </message>
-    <message>
         <source>message</source>
         <translation>хабарлама</translation>
     </message>
@@ -7680,14 +7390,6 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     <message>
         <source>Are you absolutely certain you want to destroy this room?</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="vanished">Иә</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">Жоқ</translation>
     </message>
     <message>
         <source>There was an error retrieving the room configuration</source>
@@ -7775,10 +7477,6 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
         <source>Unable to join groupchat.
 Reason: %1</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1 (%2)</source>
-        <translation type="vanished">%1 (%2)</translation>
     </message>
     <message>
         <source>No response from server for %1 seconds</source>
@@ -7934,10 +7632,6 @@ Reason: %1</source>
         <translation>МеніОқы</translation>
     </message>
     <message>
-        <source>About GStreamer</source>
-        <translation type="vanished">GStreamer туралы</translation>
-    </message>
-    <message>
         <source>Security Plugins Diagnostic Text</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7948,14 +7642,6 @@ Reason: %1</source>
     <message>
         <source>Receive next event</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Un&amp;hide</source>
-        <translation type="vanished">Көр&amp;сету</translation>
-    </message>
-    <message>
-        <source>&amp;Hide</source>
-        <translation type="vanished">&amp;Жасыру</translation>
     </message>
     <message>
         <source>Status Message</source>
@@ -8014,25 +7700,6 @@ Incoming event(s) from:</source>
     <message>
         <source>Enable Sounds</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>MainWindow</name>
-    <message>
-        <source>Quit</source>
-        <translation type="vanished">Шығу</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation type="vanished">Көмек</translation>
-    </message>
-    <message>
-        <source>Ready</source>
-        <translation type="vanished">Дайын</translation>
-    </message>
-    <message>
-        <source>About</source>
-        <translation type="vanished">Осы туралы</translation>
     </message>
 </context>
 <context>
@@ -9177,10 +8844,6 @@ Reason: %1.</source>
         <translation>Бастапқы әрекет</translation>
     </message>
     <message>
-        <source>Delete chat window contents</source>
-        <translation type="vanished">Чат терезесінің құрамасын өшіру</translation>
-    </message>
-    <message>
         <source>&amp;Message</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10060,10 +9723,6 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Psi: Option Editor</source>
-        <translation type="vanished">Psi: Баптаулар түзетушісі</translation>
-    </message>
-    <message>
         <source>Can&apos;t edit this type of setting, sorry.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10175,10 +9834,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>Export</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Settings</source>
-        <translation type="vanished">Баптаулар</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -11860,10 +11515,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>Форма</translation>
     </message>
     <message>
-        <source>General</source>
-        <translation type="vanished">Жалпы</translation>
-    </message>
-    <message>
         <source>Account:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12101,27 +11752,8 @@ Reason: %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>OK</source>
-        <translation type="vanished">ОК</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">Бас тарту</translation>
-    </message>
-    <message>
         <source>Please enter your password for %1:</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Passphrase</name>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">Ба&amp;с тарту</translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation type="vanished">&amp;ОК</translation>
     </message>
 </context>
 <context>
@@ -12402,17 +12034,6 @@ Reason: %1.</source>
     </message>
 </context>
 <context>
-    <name>PreferencesWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">Форма</translation>
-    </message>
-    <message>
-        <source>message</source>
-        <translation type="vanished">хабарлама</translation>
-    </message>
-</context>
-<context>
     <name>PreviewFileDialog</name>
     <message>
         <source>Preview</source>
@@ -12650,103 +12271,7 @@ Reason: %1.</source>
     </message>
 </context>
 <context>
-    <name>ProfileManage</name>
-    <message>
-        <source>Manage Profiles</source>
-        <translation type="vanished">Профильдерді басқару</translation>
-    </message>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="vanished">Қо&amp;су</translation>
-    </message>
-    <message>
-        <source>psi/addContact</source>
-        <translation type="vanished">psi/addContact</translation>
-    </message>
-    <message>
-        <source>&amp;Rename</source>
-        <translation type="vanished">А&amp;тын ауыстыру</translation>
-    </message>
-    <message>
-        <source>Rem&amp;ove</source>
-        <translation type="vanished">Ө&amp;шіру</translation>
-    </message>
-    <message>
-        <source>psi/remove</source>
-        <translation type="vanished">psi/remove</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileManageDlg</name>
-    <message>
-        <source>Rename Profile</source>
-        <translation type="vanished">Профиль атын ауыстыру</translation>
-    </message>
-    <message>
-        <source>Delete it!</source>
-        <translation type="vanished">Оны өшіру!</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">Ж&amp;оқ</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Иә</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileNew</name>
-    <message>
-        <source>New Profile</source>
-        <translation type="vanished">Жаңа профиль</translation>
-    </message>
-    <message>
-        <source>Profile Name:</source>
-        <translation type="vanished">Профиль аты:</translation>
-    </message>
-    <message>
-        <source>Default Action</source>
-        <translation type="vanished">Бастапқы әрекет</translation>
-    </message>
-    <message>
-        <source>Enable Emoticons</source>
-        <translation type="vanished">Смайликтерді іске қосу</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">Жа&amp;бу</translation>
-    </message>
-    <message>
-        <source>&amp;Create</source>
-        <translation type="vanished">Жа&amp;сау</translation>
-    </message>
-    <message>
-        <source>Alt+C</source>
-        <translation type="vanished">Alt+C</translation>
-    </message>
-    <message>
-        <source>psi/addContact</source>
-        <translation type="vanished">psi/addContact</translation>
-    </message>
-    <message>
-        <source>&amp;Chat</source>
-        <translation type="vanished">&amp;Чат</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileNewDlg</name>
-    <message>
-        <source>New Profile</source>
-        <translation type="vanished">Жаңа профиль</translation>
-    </message>
-</context>
-<context>
     <name>ProfileOpen</name>
-    <message>
-        <source>Open Profile</source>
-        <translation type="vanished">Профильді ашу</translation>
-    </message>
     <message>
         <source>Image goes here</source>
         <translation>Сурет осында</translation>
@@ -12754,42 +12279,6 @@ Reason: %1.</source>
     <message>
         <source>right</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Profile:</source>
-        <translation type="vanished">Профайл:</translation>
-    </message>
-    <message>
-        <source>&amp;Automatically open on startup</source>
-        <translation type="vanished">Іске қосылған кезде &amp;автоашу</translation>
-    </message>
-    <message>
-        <source>Language:</source>
-        <translation type="vanished">Тіл:</translation>
-    </message>
-    <message>
-        <source>&amp;Quit</source>
-        <translation type="vanished">&amp;Шығу</translation>
-    </message>
-    <message>
-        <source>psi/quit</source>
-        <translation type="vanished">psi/quit</translation>
-    </message>
-    <message>
-        <source>&amp;Profiles...</source>
-        <translation type="vanished">&amp;Профильдер...</translation>
-    </message>
-    <message>
-        <source>psi/profile</source>
-        <translation type="vanished">psi/profile</translation>
-    </message>
-    <message>
-        <source>&amp;Open</source>
-        <translation type="vanished">А&amp;шу</translation>
-    </message>
-    <message>
-        <source>psi/logo_16</source>
-        <translation type="vanished">psi/logo_16</translation>
     </message>
     <message>
         <source>Profiles</source>
@@ -12822,10 +12311,6 @@ Reason: %1.</source>
 </context>
 <context>
     <name>ProfileOpenDlg</name>
-    <message>
-        <source>Select a profile to open from this list.</source>
-        <translation type="vanished">Бұл тізімнен ашу үшін профильді таңдаңыз.</translation>
-    </message>
     <message>
         <source>Double-click or press F2 to rename a profile. Press Delete to remove it.</source>
         <translation type="unfinished"></translation>
@@ -13093,10 +12578,6 @@ Do you want to log out ?</source>
         <translation>Байланысты орнату мүмкін емес: Шифрлеу іске қосылған, бірақ QCA2 SSL/TLS плагині қолжетерсіз.</translation>
     </message>
     <message>
-        <source>Feature Removed</source>
-        <translation type="vanished">Мүмкіндік алынып тасталды</translation>
-    </message>
-    <message>
         <source>Server Authentication</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13334,10 +12815,6 @@ Details: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Do &amp;nothing</source>
-        <translation type="vanished">&amp;Ешнәрсе жасамау</translation>
-    </message>
-    <message>
         <source>Public Key: %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13501,10 +12978,6 @@ Details: %1</source>
         <translation>Ағымдағы қалып-күйді ауыстыру не ол туралы ақпаратты алуға жол ашады</translation>
     </message>
     <message>
-        <source>Special item that displays number of pending events</source>
-        <translation type="vanished">Кезектегі оқиғаларды көрсететін арнайы нәрсе</translation>
-    </message>
-    <message>
         <source>Active contacts</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13519,10 +12992,6 @@ Details: %1</source>
     <message>
         <source>&amp;Add a Contact</source>
         <translation>Контактты қо&amp;су</translation>
-    </message>
-    <message>
-        <source>&amp;XML Console</source>
-        <translation type="vanished">XML ко&amp;нсолі</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
@@ -13543,14 +13012,6 @@ Details: %1</source>
     <message>
         <source>Join &amp;Groupchat</source>
         <translation>Чат бөл&amp;месіне кіру</translation>
-    </message>
-    <message>
-        <source>Account Setup</source>
-        <translation type="vanished">Тіркелгіні баптау</translation>
-    </message>
-    <message>
-        <source>Acc&amp;ount Setup</source>
-        <translation type="vanished">Тір&amp;келгіні баптау</translation>
     </message>
     <message>
         <source>Options</source>
@@ -13577,16 +13038,8 @@ Details: %1</source>
         <translation>Профайлды ауы&amp;стыру</translation>
     </message>
     <message>
-        <source>Play Sounds</source>
-        <translation type="vanished">Дыбыстарды ойнату</translation>
-    </message>
-    <message>
         <source>Play &amp;Sounds</source>
         <translation>Ды&amp;быстарды ойнату</translation>
-    </message>
-    <message>
-        <source>Toggles whether sound should be played or not</source>
-        <translation type="vanished">Дыбыстарды ойнатуын іске қосады/сөндіреді</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -13599,18 +13052,6 @@ Details: %1</source>
     <message>
         <source>Quits Psi</source>
         <translation>Psi жұмысын аяқтайды</translation>
-    </message>
-    <message>
-        <source>Tip of the Day</source>
-        <translation type="vanished">Осы күннің кеңесі</translation>
-    </message>
-    <message>
-        <source>&amp;Tip of the Day</source>
-        <translation type="vanished">Осы күннің &amp;кеңесі</translation>
-    </message>
-    <message>
-        <source>See many useful tips</source>
-        <translation type="vanished">Көптеген пайдалы кеңестерді қарау</translation>
     </message>
     <message>
         <source>Transfer Manager</source>
@@ -13849,10 +13290,6 @@ Details: %1</source>
         <translation>Файл жіберу</translation>
     </message>
     <message>
-        <source>Toggle Encryption</source>
-        <translation type="vanished">Шифрлеуді іске қосу/сөндіру</translation>
-    </message>
-    <message>
         <source>User Info</source>
         <translation>Пайдаланушы ақпараты</translation>
     </message>
@@ -13971,10 +13408,6 @@ Details: %1</source>
     <message>
         <source>Error: Can not parse command: </source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Command&gt;</source>
-        <translation type="vanished">Команда&gt;</translation>
     </message>
     <message>
         <source>turn off autojid</source>
@@ -14197,10 +13630,6 @@ Details: %1</source>
         <translation>URI</translation>
     </message>
     <message>
-        <source>Psi - The Cross-Platform XMPP Client For Power Users</source>
-        <translation type="vanished">Psi - Тәжірибелі пайдаланушылар үшін платформааралық XMPP клиенті</translation>
-    </message>
-    <message>
         <source>Options:</source>
         <translation>Баптаулар:</translation>
     </message>
@@ -14263,10 +13692,6 @@ Details: %1</source>
     <message>
         <source>You can not disable &lt;i&gt;all&lt;/i&gt; toolbars &lt;i&gt;and&lt;/i&gt; the menubar. If you do so, you will be unable to enable them back, when you&apos;ll change your mind.</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>I understand</source>
-        <translation type="vanished">Мен түсінемін</translation>
     </message>
     <message>
         <source>Call ended</source>
@@ -14391,10 +13816,6 @@ Migration is possible with Psi-0.15</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Assign Open&amp;PGP Key</source>
-        <translation type="vanished">OpenPGP кілтін орнату</translation>
-    </message>
-    <message>
         <source>User &amp;Info</source>
         <translation>Пайдаланушы ақ&amp;параты</translation>
     </message>
@@ -14465,14 +13886,6 @@ Migration is possible with Psi-0.15</source>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Иә</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">Ж&amp;оқ</translation>
     </message>
     <message>
         <source>Choose an Image</source>
@@ -14888,10 +14301,6 @@ Would you like to activate that session now?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Flat</source>
-        <translation type="vanished">Жазық</translation>
-    </message>
-    <message>
         <source>Delete...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14906,10 +14315,6 @@ Would you like to activate that session now?</source>
     <message>
         <source>Add...</source>
         <translation>Қосу...</translation>
-    </message>
-    <message>
-        <source>Advanced</source>
-        <translation type="vanished">Кеңейтілген</translation>
     </message>
     <message>
         <source>(internal node)</source>
@@ -15024,32 +14429,10 @@ Would you like to activate that session now?</source>
     </message>
 </context>
 <context>
-    <name>PsiThumbnailToolBar</name>
-    <message>
-        <source>Options</source>
-        <translation type="vanished">Баптаулар</translation>
-    </message>
-    <message>
-        <source>Online</source>
-        <translation type="vanished">Желіде</translation>
-    </message>
-    <message>
-        <source>Offline</source>
-        <translation type="vanished">Желіде емес</translation>
-    </message>
-</context>
-<context>
     <name>PsiToolBar</name>
     <message>
         <source>&amp;Configure Toolbar...</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PsiWindowHeader</name>
-    <message>
-        <source>...</source>
-        <translation type="vanished">...</translation>
     </message>
 </context>
 <context>
@@ -15990,10 +15373,6 @@ Description: </source>
         <source>&lt;unnamed%1&gt;</source>
         <translation>&lt;атаусыз%1&gt;</translation>
     </message>
-    <message>
-        <source>Unknown error</source>
-        <translation type="vanished">Белгісіз қате</translation>
-    </message>
     <message numerus="yes">
         <source>%n day(s) </source>
         <translation type="unfinished">
@@ -16751,14 +16130,6 @@ Thanks for your patience.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Иә</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">Ж&amp;оқ</translation>
-    </message>
-    <message>
         <source>Fetching registration form for %1 ...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16832,13 +16203,6 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <source>[blank]</source>
         <translation>[бос]</translation>
-    </message>
-</context>
-<context>
-    <name>RipperCCOptions</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">Форма</translation>
     </message>
 </context>
 <context>
@@ -17209,13 +16573,6 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>SelectGame</name>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">Бас тарту</translation>
-    </message>
-</context>
-<context>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Template editor</source>
@@ -17307,17 +16664,6 @@ Reason: %1</source>
     <message>
         <source>Only &amp;Paste</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>SeparatorAction</name>
-    <message>
-        <source>&lt;Separator&gt;</source>
-        <translation type="vanished">&lt;Ажыратқыш&gt;</translation>
-    </message>
-    <message>
-        <source>Separator</source>
-        <translation type="vanished">Ажыратқыш</translation>
     </message>
 </context>
 <context>
@@ -18409,53 +17755,6 @@ Please correct and try again.</source>
     </message>
 </context>
 <context>
-    <name>Tip</name>
-    <message>
-        <source>Useful Tips</source>
-        <translation type="vanished">Пайдалы кеңестер</translation>
-    </message>
-    <message>
-        <source>psi/logo_128</source>
-        <translation type="vanished">psi/logo_128</translation>
-    </message>
-    <message>
-        <source>Show tips at startup</source>
-        <translation type="vanished">Іске қосылғанда, кеңестерді көрсету</translation>
-    </message>
-    <message>
-        <source>&amp;Previous</source>
-        <translation type="vanished">А&amp;лдыңғы</translation>
-    </message>
-    <message>
-        <source>Alt+P</source>
-        <translation type="vanished">Alt+P</translation>
-    </message>
-    <message>
-        <source>psi/arrowLeft</source>
-        <translation type="vanished">psi/arrowLeft</translation>
-    </message>
-    <message>
-        <source>&amp;Next</source>
-        <translation type="vanished">Ке&amp;лесі</translation>
-    </message>
-    <message>
-        <source>Alt+N</source>
-        <translation type="vanished">Alt+N</translation>
-    </message>
-    <message>
-        <source>psi/arrowRight</source>
-        <translation type="vanished">psi/arrowRight</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">Жа&amp;бу</translation>
-    </message>
-    <message>
-        <source>Alt+C</source>
-        <translation type="vanished">Alt+C</translation>
-    </message>
-</context>
-<context>
     <name>TipDlg</name>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
@@ -18797,33 +18096,6 @@ To work with Parole player you need to enable MPRIS2 module/plugin.</source>
     </message>
 </context>
 <context>
-    <name>ViewMailDlg</name>
-    <message>
-        <source>From:</source>
-        <translation type="vanished">Кімнен:</translation>
-    </message>
-    <message>
-        <source>Subject:</source>
-        <translation type="vanished">Тақырыбы:</translation>
-    </message>
-    <message>
-        <source>Previous</source>
-        <translation type="vanished">Алдыңғы</translation>
-    </message>
-    <message>
-        <source>Next</source>
-        <translation type="vanished">Келесі</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="vanished">Жабу</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">Жа&amp;бу</translation>
-    </message>
-</context>
-<context>
     <name>Viewer</name>
     <message>
         <source>Find</source>
@@ -18978,61 +18250,6 @@ To work with Parole player you need to enable MPRIS2 module/plugin.</source>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
 On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>WbDlg</name>
-    <message>
-        <source>Fill color</source>
-        <translation type="vanished">Толтырудың түсi</translation>
-    </message>
-    <message>
-        <source>Select</source>
-        <translation type="vanished">Таңдау</translation>
-    </message>
-    <message>
-        <source>Translate</source>
-        <translation type="vanished">Аудару</translation>
-    </message>
-    <message>
-        <source>Rotate</source>
-        <translation type="vanished">Бұру</translation>
-    </message>
-    <message>
-        <source>Scale</source>
-        <translation type="vanished">Масштабтау</translation>
-    </message>
-    <message>
-        <source>Erase</source>
-        <translation type="vanished">Өшіру</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Ескерту</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Иә</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">Ж&amp;оқ</translation>
-    </message>
-    <message>
-        <source>Set new width:</source>
-        <translation type="vanished">Жаңа енін орнату:</translation>
-    </message>
-    <message>
-        <source>Width:</source>
-        <translation type="vanished">Ені:</translation>
-    </message>
-    <message>
-        <source>Set new height:</source>
-        <translation type="vanished">Жаңа биіктігін орнату:</translation>
-    </message>
-    <message>
-        <source>Height:</source>
-        <translation type="vanished">Биіктігі:</translation>
     </message>
 </context>
 <context>
@@ -19466,10 +18683,6 @@ On the first tab set up a list of contacts for the status of which is monitored.
 <context>
     <name>XMLConsole</name>
     <message>
-        <source>XML Console</source>
-        <translation type="vanished">XML консолі</translation>
-    </message>
-    <message>
         <source>Filter</source>
         <translation>Сүзгі</translation>
     </message>
@@ -19535,13 +18748,6 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
 </context>
 <context>
-    <name>XMPP::ClientStream</name>
-    <message>
-        <source>Offered mechanisms: </source>
-        <translation type="vanished">Ұсынылатын механизмдері:</translation>
-    </message>
-</context>
-<context>
     <name>XMPP::Features::FeatureName</name>
     <message>
         <source>ERROR: Incorrect usage of Features class</source>
@@ -19570,10 +18776,6 @@ On the first tab set up a list of contacts for the status of which is monitored.
     <message>
         <source>Service Discovery</source>
         <translation>Қызметтерді шолу</translation>
-    </message>
-    <message>
-        <source>VCard</source>
-        <translation type="vanished">vCard</translation>
     </message>
     <message>
         <source>Execute command</source>
@@ -19937,10 +19139,6 @@ On the first tab set up a list of contacts for the status of which is monitored.
 <context>
     <name>XmlConsole</name>
     <message>
-        <source>XML Console</source>
-        <translation type="vanished">XML консолі</translation>
-    </message>
-    <message>
         <source>XMPP Console</source>
         <translation type="unfinished"></translation>
     </message>
@@ -19962,14 +19160,6 @@ On the first tab set up a list of contacts for the status of which is monitored.
     <message>
         <source>Malformed XML</source>
         <translation>Қате XML</translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="vanished">Иә</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">Жоқ</translation>
     </message>
     <message>
         <source>You have entered malformed XML input.</source>
@@ -20979,10 +20169,6 @@ to this message in juick@conference.jabber.ru</source>
     <message>
         <source>Birthday:</source>
         <translation>Туған күні:</translation>
-    </message>
-    <message>
-        <source>E-Mail:</source>
-        <translation type="vanished">Эл. пошта:</translation>
     </message>
     <message>
         <source>Close</source>

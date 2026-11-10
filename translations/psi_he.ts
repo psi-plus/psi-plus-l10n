@@ -65,10 +65,6 @@
         <translation>רשיון</translation>
     </message>
     <message>
-        <source>About Psi+</source>
-        <translation type="vanished">אודות Psi‫+</translation>
-    </message>
-    <message>
         <source>&amp;Close</source>
         <translation>&amp;סגור</translation>
     </message>
@@ -83,58 +79,6 @@
     <message>
         <source>Developer</source>
         <translation>מפתח</translation>
-    </message>
-    <message>
-        <source>Active project members are presents below:</source>
-        <translation type="vanished">חברי פרויקט פעילים מוצגים למטה:</translation>
-    </message>
-    <message>
-        <source>Founder, Patcher and MS Windows Packager</source>
-        <translation type="vanished">מייסד, מטליא ואורז MS Windows</translation>
-    </message>
-    <message>
-        <source>Founder and Lead Patcher</source>
-        <translation type="vanished">מייסד ומטליא מוביל</translation>
-    </message>
-    <message>
-        <source>Founder, Designer and Patcher</source>
-        <translation type="vanished">מייסד, רשם ומטליא מוביל</translation>
-    </message>
-    <message>
-        <source>Lead Patcher and Plugins Writer; Mac OS X Packager</source>
-        <translation type="vanished">מטליא מוביל ומחבר תוספים; אורז Mac OS X</translation>
-    </message>
-    <message>
-        <source>Patcher, Plugins Writer and Fedora Packager</source>
-        <translation type="vanished">מטליא, מחבר תוספים ואורז Fedora</translation>
-    </message>
-    <message>
-        <source>Patcher and Plugins Writer</source>
-        <translation type="vanished">מטליא ומחבר תוספים</translation>
-    </message>
-    <message>
-        <source>Patcher and Ubuntu Packager</source>
-        <translation type="vanished">מטליא ואורז Ubuntu</translation>
-    </message>
-    <message>
-        <source>Ubuntu Packager</source>
-        <translation type="vanished">אורז Ubuntu</translation>
-    </message>
-    <message>
-        <source>Mandriva Linux Packager</source>
-        <translation type="vanished">אורז Mandriva Linux</translation>
-    </message>
-    <message>
-        <source>Patcher and Russian localization</source>
-        <translation type="vanished">מטליא ולוקליזציה רוסית</translation>
-    </message>
-    <message>
-        <source>Psimedia Patcher and Wiki English localization</source>
-        <translation type="vanished">מטליא Psimedia ולוקליזציה של ויקי אנגלי</translation>
-    </message>
-    <message>
-        <source>Language coordinator; Debian Packager</source>
-        <translation type="vanished">מתאם שפה, אורז Debian</translation>
     </message>
     <message>
         <source>Former language coordinator, miscellaneous assistance</source>
@@ -215,10 +159,6 @@ https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source
     <message>
         <source>Past Lead Widget Developer</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>About Psi</source>
-        <translation type="vanished">אודות Psi</translation>
     </message>
     <message>
         <source>Cross-platform XMPP client designed for experienced users.</source>
@@ -472,14 +412,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>עריכת &amp;פרטים אישיים...</translation>
     </message>
     <message>
-        <source>Select &amp;Key...</source>
-        <translation type="vanished">בחירת &amp;מפתח...</translation>
-    </message>
-    <message>
-        <source>Use None</source>
-        <translation type="vanished">ללא מפתח</translation>
-    </message>
-    <message>
         <source>Privacy</source>
         <translation>פרטיות</translation>
     </message>
@@ -642,10 +574,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>אף פעם</translation>
     </message>
     <message>
-        <source>Legacy SSL</source>
-        <translation type="vanished">הנחלת SSL</translation>
-    </message>
-    <message>
         <source>Over encrypted connection</source>
         <translation>על פני חיבור מוצפן</translation>
     </message>
@@ -718,10 +646,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>שולחת חבילות &quot;Keep-alive&quot; במחזוריות.  תפקודיות זו שימושית אם חיבורך מוגדר להתנתק אוטומטית לאחר משך זמן מסוים של חוסר פעילות (לדוגמא, על ידי ספקית האינטרנט שלך) וברצונך לשומרו באופן תמידי כל הזמן.</translation>
     </message>
     <message>
-        <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
-        <translation type="vanished">ניתן לסמן את אפשרות זו כדי לעשות שימוש בחיבור SSL מוצפן לשרת XMPP.  באפשרותך לעשות שימוש באפשרות זו אם שרתך תומך בה ואם יש לך את התוסף qca-ossl הנחוץ מותקן.  לפרטים נוספים, ניתן לבדוק את עמוד הבית של Psi.</translation>
-    </message>
-    <message>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
         <translation>ניתן לסמן את אפשרות זו כדי לעשות שימוש בחיבור דחוס בהתברותך לשרת XMPP, במידה והשרת תומך בכך.</translation>
     </message>
@@ -746,28 +670,8 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>שם משתמש:</translation>
     </message>
     <message>
-        <source>No Key Selected</source>
-        <translation type="vanished">לא נבחר מפתח</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>שגיאה</translation>
-    </message>
-    <message>
-        <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation type="vanished">הנחלת SSL זמינה רק בצירוף עם מארח/פורט באופן ידני.</translation>
-    </message>
-    <message>
-        <source>SSL error</source>
-        <translation type="vanished">שגיאת SSL</translation>
-    </message>
-    <message>
-        <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation type="vanished">אין אפשרות לאפשר SSL/TLS.  תוסף לא נמצא.</translation>
-    </message>
-    <message>
-        <source>Secret Key</source>
-        <translation type="vanished">מפתח סודי</translation>
     </message>
     <message>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
@@ -920,10 +824,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>כאשר זמין</translation>
     </message>
     <message>
-        <source>Legacy SSL</source>
-        <translation type="vanished">הנחלת SSL</translation>
-    </message>
-    <message>
         <source>Warning</source>
         <translation>אזהרה</translation>
     </message>
@@ -932,20 +832,8 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>האם אתה בטוח כי ברצונך לבטל את הרישום?</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;כן</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;לא</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>שגיאה</translation>
-    </message>
-    <message>
-        <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation type="vanished">הנחלת SSL זמינה רק בצירוף עם מארח/פורט באופן ידני.</translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -1092,10 +980,6 @@ Reason: %1</source>
 <context>
     <name>ActiveProfiles</name>
     <message>
-        <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation type="vanished">דיוקן psi זה כבר מורץ...&lt;br&gt;אנא המתן...</translation>
-    </message>
-    <message>
         <source>This Psi profile is already running...&lt;br&gt;Please wait...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1179,10 +1063,6 @@ Reason: %1</source>
     <message>
         <source>Passphrase: </source>
         <translation>מימרת סיסמה: </translation>
-    </message>
-    <message>
-        <source>E-mail address: </source>
-        <translation type="vanished">כתובת דוא״ל: </translation>
     </message>
     <message>
         <source>Key type: </source>
@@ -1341,12 +1221,6 @@ Make sure you enter a fully qualified XMPP address.</source>
     </message>
     <message>
         <source>&lt;qt&gt;
-There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[XMPP address of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP address of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[XMPP address of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
-        <translation type="vanished">&lt;qt&gt;
-אירעה שגיאה בהשגת מידע תרגום של זהות השירות מתוך &quot;%1&quot;.&lt;br&gt;סיבה: %2&lt;br&gt;&lt;br&gt;אפשרי כי השירות לא תומך בתכונה זו.  במקרה שכזה עליך להזין כתובת XMPP באופן ידני עבור האיש קשר אשר ברצונך להוסיף.  דוגמאות:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[כתובת XMPP של טרנספורט AIM]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[כתובת XMPP של טרנספורט ICQ]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[כתובת XMPP של טרנספורט MSN]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[כתובת XMPP של טרנספורט Yahoo]&lt;br&gt;&lt;/qt&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%gmail.com@[XMPP address of Transport]&lt;br&gt;&lt;/qt&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1456,14 +1330,6 @@ There was an error getting the Service ID translation information from &quot;%1&
         <translation>שלחת הודעת הקשב אל %1</translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
-    </message>
-    <message>
         <source>This plugin is designed to send and receive special messages such as Attentions.
 To work correctly, the plugin requires that the client of the other part supports XEP-0224 (for example: Pidgin, Miranda IM with Nudge plugin).</source>
         <translation type="unfinished"></translation>
@@ -1564,18 +1430,6 @@ To work correctly, the plugin requires that the client of the other part support
         <translation>פעמים (‪-1‬=אינספור)</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#autoreply_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
-    </message>
-    <message>
         <source>This plugin acts as an auto-answering machine. It has a number of simple configuration options, which you can use to:
 * set a text message for auto-answer
 * exclude specified jids, including conferences, from the objects for auto-answer (if a jid conference is set, the exception will include all private messages)
@@ -1630,44 +1484,6 @@ The list of exceptions for jids has two operating modes:
 </context>
 <context>
     <name>AvCallPrivate</name>
-    <message>
-        <source>System error</source>
-        <translation type="vanished">שגיאת מערכת</translation>
-    </message>
-    <message>
-        <source>Codec error</source>
-        <translation type="vanished">שגיאת קודק</translation>
-    </message>
-    <message>
-        <source>Generic error</source>
-        <translation type="vanished">שגיאה גנרית (כללית)</translation>
-    </message>
-    <message>
-        <source>Cannot call without selecting a device.  Do you have a microphone?  Check the Psi options.</source>
-        <translation type="vanished">אין אפשרות להתקשר ללא בחירת התקן.  האם יש לך מיקרופון?  בדוק את אפשרויות Psi.</translation>
-    </message>
-    <message>
-        <source>An error occurred while trying to send:
-%1.</source>
-        <translation type="vanished">אירעה שגיאה בעת שליחת:
-%1.</translation>
-    </message>
-    <message>
-        <source>Call was rejected or terminated.</source>
-        <translation type="vanished">שיחה נדחתה או סוימה.</translation>
-    </message>
-    <message>
-        <source>Call negotiation timed out.</source>
-        <translation type="vanished">תם זמן הסדרת שיחה.</translation>
-    </message>
-    <message>
-        <source>Unable to establish peer-to-peer connection.</source>
-        <translation type="vanished">אין אפשרות לבסס חיבור עמית-אל-עמית.</translation>
-    </message>
-    <message>
-        <source>Call negotiation failed.</source>
-        <translation type="vanished">הסדרת שיחה נכשלה.</translation>
-    </message>
     <message>
         <source>The requested media type is not supported by the current media backend.</source>
         <translation type="unfinished"></translation>
@@ -1906,37 +1722,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
     </message>
 </context>
 <context>
-    <name>Call</name>
-    <message>
-        <source>Dialog</source>
-        <translation type="vanished">דו שיח</translation>
-    </message>
-    <message>
-        <source>To:</source>
-        <translation type="vanished">אל:</translation>
-    </message>
-    <message>
-        <source>Use video</source>
-        <translation type="vanished">השתמש בוידאו</translation>
-    </message>
-    <message>
-        <source>Sending bandwidth:</source>
-        <translation type="vanished">כעת שולח רוחב פס:</translation>
-    </message>
-    <message>
-        <source>Call status</source>
-        <translation type="vanished">מצב שיחה</translation>
-    </message>
-    <message>
-        <source>&amp;Reject</source>
-        <translation type="vanished">&amp;דחה</translation>
-    </message>
-    <message>
-        <source>&amp;Accept</source>
-        <translation type="vanished">&amp;קבל</translation>
-    </message>
-</context>
-<context>
     <name>CallDlg</name>
     <message>
         <source>Call</source>
@@ -2013,65 +1798,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
     <message>
         <source>Refused: the encryption could not be verified with a trusted OMEMO device of the contact. See Options &gt; Security.</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>CallDlg::Private</name>
-    <message>
-        <source>Voice Call</source>
-        <translation type="vanished">שיחה קולית</translation>
-    </message>
-    <message>
-        <source>High (1Mbps)</source>
-        <translation type="vanished">גבוהה (1Mbps)</translation>
-    </message>
-    <message>
-        <source>Average (400Kbps)</source>
-        <translation type="vanished">ממוצעת (400Kbps)</translation>
-    </message>
-    <message>
-        <source>Low (160Kbps)</source>
-        <translation type="vanished">נמוכה (160Kbps)</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;סגור</translation>
-    </message>
-    <message>
-        <source>C&amp;all</source>
-        <translation type="vanished">&amp;חייג</translation>
-    </message>
-    <message>
-        <source>Ready</source>
-        <translation type="vanished">מוכן</translation>
-    </message>
-    <message>
-        <source>From:</source>
-        <translation type="vanished">מאת:</translation>
-    </message>
-    <message>
-        <source>Accept call?</source>
-        <translation type="vanished">לקבל שיחה?</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">&amp;ביטול</translation>
-    </message>
-    <message>
-        <source>Calling...</source>
-        <translation type="vanished">כעת מתקשר...</translation>
-    </message>
-    <message>
-        <source>Accepting...</source>
-        <translation type="vanished">כעת מקבל...</translation>
-    </message>
-    <message>
-        <source>&amp;Hang up</source>
-        <translation type="vanished">&amp;סיום שיחה</translation>
-    </message>
-    <message>
-        <source>Call active</source>
-        <translation type="vanished">שיחה פעילה</translation>
     </message>
 </context>
 <context>
@@ -2250,22 +1976,7 @@ Turn on your camera or share your screen</source>
     </message>
 </context>
 <context>
-    <name>CaptchaDialog</name>
-    <message>
-        <source>Loading data...</source>
-        <translation type="vanished">מטעין כעת נתונים...</translation>
-    </message>
-    <message>
-        <source>Original message</source>
-        <translation type="vanished">הודעה מקורית</translation>
-    </message>
-</context>
-<context>
     <name>CaptchaDlg</name>
-    <message>
-        <source>Dialog</source>
-        <translation type="vanished">דו שיח</translation>
-    </message>
     <message>
         <source>You need to pass verification</source>
         <translation type="unfinished"></translation>
@@ -2273,29 +1984,6 @@ Turn on your camera or share your screen</source>
     <message>
         <source>AccountLabel</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>CaptchaFormsPlugin</name>
-    <message>
-        <source>Captcha Plugin: CAPTCHA from %1</source>
-        <translation type="vanished">תוסף Captcha: ‏CAPTCHA מתוך %1</translation>
-    </message>
-    <message>
-        <source>Error! Image can not be loaded.</source>
-        <translation type="vanished">שגיאה! תמונה לא ניתנת להטענה.</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
-    </message>
-    <message>
-        <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
-        <translation type="vanished">תוסף זה נועד להעביר captcha ישירות מתוך Psi‪+‬.</translation>
     </message>
 </context>
 <context>
@@ -2330,10 +2018,6 @@ Turn on your camera or share your screen</source>
     <message>
         <source>The certificate is valid.</source>
         <translation>התעודה תקפה.</translation>
-    </message>
-    <message>
-        <source>The certificate is NOT valid!</source>
-        <translation type="vanished">התעודה אינה תקפה!</translation>
     </message>
     <message>
         <source>Reason: %1.</source>
@@ -2464,10 +2148,6 @@ Reason: %1</source>
         <translation>שיחה קולית</translation>
     </message>
     <message>
-        <source>Toggle encryption</source>
-        <translation type="vanished">אפשר/נטרל הצפנה</translation>
-    </message>
-    <message>
         <source>Select icon</source>
         <translation>בחר רגשון</translation>
     </message>
@@ -2508,22 +2188,6 @@ Do you still want to close the window?</source>
     <message>
         <source>&lt;p&gt;Encryption was recently disabled by the remote contact.  Are you sure you want to send this message without encryption?&lt;/p&gt;</source>
         <translation>&lt;p&gt;הצפנה נוטרלה לאחרונה על ידי איש קשר מרוחק.  האם אתה בטוח כי ברצונך לשלוח את הודעה זו ללא הצפנה?&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;כן</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;לא</translation>
-    </message>
-    <message>
-        <source>Encryption Enabled</source>
-        <translation type="vanished">הצפנה מאופשרת</translation>
-    </message>
-    <message>
-        <source>Encryption Disabled</source>
-        <translation type="vanished">הצפנה מנוטרלת</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
@@ -2639,47 +2303,6 @@ Do you still want to close the window?</source>
     </message>
 </context>
 <context>
-    <name>ChatView</name>
-    <message>
-        <source>Quote</source>
-        <translation type="vanished">ציטוט</translation>
-    </message>
-    <message>
-        <source>%1 says:</source>
-        <translation type="vanished">%1 אומר/ת:</translation>
-    </message>
-    <message>
-        <source>Subject:</source>
-        <translation type="vanished">נושא:</translation>
-    </message>
-    <message>
-        <source>URL:</source>
-        <translation type="vanished">‏URL‏:</translation>
-    </message>
-    <message>
-        <source>Desc:</source>
-        <translation type="vanished">תיאור:</translation>
-    </message>
-</context>
-<context>
-    <name>ChatViewThemeProvider</name>
-    <message>
-        <source>Chat Message Style</source>
-        <translation type="vanished">סגנון הודעת שיחה</translation>
-    </message>
-    <message>
-        <source>Configure your chat theme here</source>
-        <translation type="vanished">הגדר כאן מוטיב שיחה</translation>
-    </message>
-</context>
-<context>
-    <name>ChatWebView</name>
-    <message>
-        <source>Quote</source>
-        <translation type="vanished">ציטוט</translation>
-    </message>
-</context>
-<context>
     <name>Chess::InvitationDialog</name>
     <message>
         <source>white</source>
@@ -2697,10 +2320,6 @@ to play chess. He wants to play %2.</source>
 </context>
 <context>
     <name>ChessPlugin</name>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#chess_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
-    </message>
     <message>
         <source>Chess Plugin</source>
         <translation>תוסף שחמט</translation>
@@ -2749,14 +2368,6 @@ to play chess. He wants to play %2.</source>
     <message>
         <source>Sound (*.wav)</source>
         <translation>צליל (wav.*)</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -2982,18 +2593,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
         <translation>שגר מנקה</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#cleaner_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
-    </message>
-    <message>
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
 You can preview items before deleting them from your hard drive.</source>
         <translation type="unfinished"></translation>
@@ -3078,34 +2677,7 @@ You can preview items before deleting them from your hard drive.</source>
     </message>
 </context>
 <context>
-    <name>ClientSwitcher::TypeAheadFindBar</name>
-    <message>
-        <source>Search: </source>
-        <translation type="vanished">חפש: </translation>
-    </message>
-    <message>
-        <source>First page</source>
-        <translation type="vanished">עמוד ראשון</translation>
-    </message>
-    <message>
-        <source>Previous page</source>
-        <translation type="vanished">עמוד אחורה</translation>
-    </message>
-    <message>
-        <source>Next page</source>
-        <translation type="vanished">עמוד קדימה</translation>
-    </message>
-    <message>
-        <source>Last page</source>
-        <translation type="vanished">עמוד אחרון</translation>
-    </message>
-</context>
-<context>
     <name>ClientSwitcherPlugin</name>
-    <message>
-        <source>Authors: </source>
-        <translation type="vanished">מחברים: </translation>
-    </message>
     <message>
         <source>The plugin is intended for substitution of the client version, his name and operating system type.
 You can specify the version of the client and OS or to select them from the preset list.
@@ -3245,10 +2817,6 @@ You can specify the version of the client and OS or to select them from the pres
         <translation>צפה ברשומות</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#conference_logger_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Groupchat History</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3258,14 +2826,6 @@ Groupchats logs can be viewed from the plugin settings or by clicking on the app
 
 Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -3327,10 +2887,6 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <translation>רשימות פרטיות</translation>
     </message>
     <message>
-        <source>&amp;XML Console</source>
-        <translation type="vanished">מסוף &amp;XML</translation>
-    </message>
-    <message>
         <source>&amp;Modify Account...</source>
         <translation>התאמת &amp;חשבון...</translation>
     </message>
@@ -3359,20 +2915,12 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <translation>אווטאר</translation>
     </message>
     <message>
-        <source>Groupchat</source>
-        <translation type="vanished">שיחת קבוצה</translation>
-    </message>
-    <message>
         <source>Plugins</source>
         <translation>תוספים</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
         <translation>&amp;ניהול</translation>
-    </message>
-    <message>
-        <source>Join %1</source>
-        <translation type="vanished">הצטרף אל %1</translation>
     </message>
     <message>
         <source>Groupchats</source>
@@ -3679,35 +3227,8 @@ Proceed?</source>
 <context>
     <name>ContentDownloader</name>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
-    </message>
-    <message>
-        <source>e-mail: </source>
-        <translation type="vanished">דוא״ל: </translation>
-    </message>
-    <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>CreateGroupDlg</name>
-    <message>
-        <source>Create New Group</source>
-        <translation type="vanished">יצירת קבוצה חדשה</translation>
-    </message>
-    <message>
-        <source>Enter the new group name:</source>
-        <translation type="vanished">הזן את השם החדש של הקבוצה:</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="vanished">הוסף</translation>
-    </message>
-    <message>
-        <source>&lt;None&gt;</source>
-        <translation type="vanished">&lt;ללא&gt;</translation>
     </message>
 </context>
 <context>
@@ -3898,10 +3419,6 @@ Proceed?</source>
 <context>
     <name>DiscoListItem</name>
     <message>
-        <source>Error</source>
-        <translation type="vanished">שגיאה</translation>
-    </message>
-    <message>
         <source>There was an error getting items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>אירעה שגיאה בהשגת פריטים עבור &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;סיבה: %2</translation>
     </message>
@@ -3955,28 +3472,6 @@ Proceed?</source>
     <message>
         <source>deleted</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Drawer</name>
-    <message>
-        <source>Yes</source>
-        <translation type="vanished">כן</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">לא</translation>
-    </message>
-</context>
-<context>
-    <name>EDBFlatFile::File</name>
-    <message>
-        <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
-        <translation type="vanished">&lt;big&gt;[הודעת מערכת]&lt;/big&gt;&lt;br&gt;הינך מורשה כעת.</translation>
-    </message>
-    <message>
-        <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;Your authorization has been removed!</source>
-        <translation type="vanished">&lt;big&gt;[הודעת מערכת]&lt;/big&gt;&lt;br&gt;הרשאתך הוסרה!</translation>
     </message>
 </context>
 <context>
@@ -4143,10 +3638,6 @@ Proceed?</source>
 <context>
     <name>EnumMessagesPlugin</name>
     <message>
-        <source>Authors: </source>
-        <translation type="vanished">מחברים: </translation>
-    </message>
-    <message>
         <source>Missed messages: %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4197,10 +3688,6 @@ Supports per contact on / off message enumeration via the buttons on the chats t
     <message>
         <source>Message length</source>
         <translation>אורך הודעה</translation>
-    </message>
-    <message>
-        <source>Toggle encryption</source>
-        <translation type="vanished">אפשר/נטרל הצפנה</translation>
     </message>
     <message>
         <source>Add URL</source>
@@ -4371,13 +3858,6 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
 </context>
 <context>
-    <name>EventNotifierAction</name>
-    <message>
-        <source>&lt;Event notifier&gt;</source>
-        <translation type="vanished">&lt;מודיע אירועים&gt;</translation>
-    </message>
-</context>
-<context>
     <name>ExtendedMenuPlugin</name>
     <message>
         <source>Ping %1</source>
@@ -4458,14 +3938,6 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <source>Entity Time</source>
         <translation>זמן ישות</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
     </message>
     <message>
         <source>This plugin adds several additional commands into contacts context menu.</source>
@@ -4706,10 +4178,6 @@ This option only has effect if accept-defaults is false.</source>
         <translation>הצג מצב אחרון</translation>
     </message>
     <message>
-        <source>Show PGP</source>
-        <translation type="vanished">הצג PGP</translation>
-    </message>
-    <message>
         <source>Show client version</source>
         <translation>הצג גירסת לקוח</translation>
     </message>
@@ -4818,10 +4286,6 @@ This option only has effect if accept-defaults is false.</source>
         <translation>תיבה צצה</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:skins_css&quot;&gt;CSS for Psi&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:skins_css&quot;&gt;CSS עבור Psi‪+&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Disable wheel scroll</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4876,18 +4340,6 @@ This option only has effect if accept-defaults is false.</source>
     <message>
         <source>Notifications</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_options_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
     </message>
     <message>
         <source>This plugin is designed to allow easy configuration of some advanced options in Psi.
@@ -5006,14 +4458,6 @@ Importantly: a large part of the options are important system settings. These re
         <translation>האם אתה בטוח כי ברצונך לבטל את ההעברה?</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;כן</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;לא</translation>
-    </message>
-    <message>
         <source>Choose a file</source>
         <translation>בחירת קובץ</translation>
     </message>
@@ -5102,10 +4546,6 @@ that outgoing TCP connections are allowed.</source>
 </context>
 <context>
     <name>FileShareDlg</name>
-    <message>
-        <source>Dialog</source>
-        <translation type="vanished">דו שיח</translation>
-    </message>
     <message>
         <source>Share Files</source>
         <translation type="unfinished"></translation>
@@ -5442,10 +4882,6 @@ Reason: %3</source>
         <translation>הורדה והתקנה</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#content_downloader_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5688,10 +5124,6 @@ Reason: %1</source>
         <translation>מחיקה</translation>
     </message>
     <message>
-        <source>Cancel</source>
-        <translation type="vanished">ביטול</translation>
-    </message>
-    <message>
         <source>&amp;Name:</source>
         <translation>&amp;שם:</translation>
     </message>
@@ -5704,16 +5136,8 @@ Reason: %1</source>
         <translation>&amp;הצטרפות אוטומטית:</translation>
     </message>
     <message>
-        <source>Bookmark conference</source>
-        <translation type="vanished">סימון ועידה</translation>
-    </message>
-    <message>
         <source>Unable to join groupchat.    Reason: %1</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Paste and Send</source>
-        <translation type="vanished">הדבק ושלח</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
@@ -5722,10 +5146,6 @@ Reason: %1</source>
     <message>
         <source>Open &amp;Chat Window</source>
         <translation>פתח &amp;חלון שיחה</translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation type="vanished">שיחה קולית</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
@@ -5891,87 +5311,6 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>GameBoard</name>
-    <message>
-        <source>White</source>
-        <translation type="vanished">לבן</translation>
-    </message>
-    <message>
-        <source>Black</source>
-        <translation type="vanished">שחור</translation>
-    </message>
-    <message>
-        <source>game with</source>
-        <translation type="vanished">שחק עם</translation>
-    </message>
-    <message>
-        <source>Game chat</source>
-        <translation type="vanished">שיחת משחק</translation>
-    </message>
-    <message>
-        <source>History</source>
-        <translation type="vanished">היסטוריה</translation>
-    </message>
-    <message>
-        <source>The host found</source>
-        <translation type="vanished">המארח נמצא</translation>
-    </message>
-    <message>
-        <source>Connected to the host</source>
-        <translation type="vanished">מחובר אל המארח</translation>
-    </message>
-    <message>
-        <source>Socket Error...</source>
-        <translation type="vanished">שגיאת Socket...</translation>
-    </message>
-    <message>
-        <source>game from</source>
-        <translation type="vanished">משחק מן</translation>
-    </message>
-    <message>
-        <source>Your move...</source>
-        <translation type="vanished">תורך...</translation>
-    </message>
-    <message>
-        <source>Waiting a move...</source>
-        <translation type="vanished">ממתין לתור...</translation>
-    </message>
-    <message>
-        <source>Error!</source>
-        <translation type="vanished">שגיאה!</translation>
-    </message>
-    <message>
-        <source>The host</source>
-        <translation type="vanished">המארח</translation>
-    </message>
-    <message>
-        <source>not found.</source>
-        <translation type="vanished">לא נמצא.</translation>
-    </message>
-    <message>
-        <source>Save image</source>
-        <translation type="vanished">שמור תמונה</translation>
-    </message>
-    <message>
-        <source>Do you want to save the image?</source>
-        <translation type="vanished">האם ברצונך לשמור את התמונה?</translation>
-    </message>
-    <message>
-        <source>Yes, save</source>
-        <translation type="vanished">כן, תשמור</translation>
-    </message>
-    <message>
-        <source>No, don&apos;t save</source>
-        <translation type="vanished">לא, אל תשמור</translation>
-    </message>
-    <message>
-        <source>You have a mate.
-You lost the game.</source>
-        <translation type="vanished">יש לך מט.
-הפסדת את המשחק.</translation>
-    </message>
-</context>
-<context>
     <name>GameModel</name>
     <message>
         <source>The first turn can be only H8.</source>
@@ -6022,20 +5361,12 @@ You lost the game.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enable word highlighting</source>
-        <translation type="vanished">אפשר הדגשת מילה</translation>
-    </message>
-    <message>
         <source>Highlight lines and alert the user if this text is included in chat</source>
         <translation>הדגש שורות והזהר את המשתמש אם טקסט זה הינו כלול בתוך שיחה</translation>
     </message>
     <message>
         <source>Word highlighting</source>
         <translation>הדגשת מילה</translation>
-    </message>
-    <message>
-        <source>Words which will cause a notification in group chat.</source>
-        <translation type="vanished">מילים שיגרמו להתראה בשיחת קבוצה.</translation>
     </message>
     <message>
         <source>This is the list of words which when said in group chat will cause the user to be notified.</source>
@@ -6062,16 +5393,8 @@ You lost the game.</source>
         <translation>הסר</translation>
     </message>
     <message>
-        <source>Enable nick coloring</source>
-        <translation type="vanished">אפשר צביעת כינוי</translation>
-    </message>
-    <message>
         <source>Nick coloring</source>
         <translation>צביעת כינוי</translation>
-    </message>
-    <message>
-        <source>Colors used for nicks in groupchat</source>
-        <translation type="vanished">צבעים בשימוש עבור כינויים בשיחת קבוצה</translation>
     </message>
     <message>
         <source>This is the list of colours with which nicks will be drawn in group chat.</source>
@@ -6080,10 +5403,6 @@ You lost the game.</source>
     <message>
         <source>Type a colourcode here, or press the palette to the right</source>
         <translation>הקלד כאן קוד צבע, או לחץ על צלחת הצבעים מימין</translation>
-    </message>
-    <message>
-        <source>Adds the color to the list</source>
-        <translation type="vanished">הוספת הצבע לרשימה</translation>
     </message>
     <message>
         <source>Adds the new color to the list</source>
@@ -6351,33 +5670,6 @@ You lost the game.</source>
     </message>
 </context>
 <context>
-    <name>GmailNotifyPlugin</name>
-    <message>
-        <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
-        <translation type="vanished">&lt;b&gt;mail.google.com - דואר נכנס!&lt;/b&gt;</translation>
-    </message>
-    <message>
-        <source>Choose a sound file</source>
-        <translation type="vanished">בחירת קובץ צליל</translation>
-    </message>
-    <message>
-        <source>Sound (*.wav)</source>
-        <translation type="vanished">צליל ‪(*.wav)</translation>
-    </message>
-    <message>
-        <source>Choose a program</source>
-        <translation type="vanished">בחירת תוכנית</translation>
-    </message>
-    <message>
-        <source>Block gmail contact</source>
-        <translation type="vanished">חסימת איש קשר של gmail</translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="vanished">מחברים: </translation>
-    </message>
-</context>
-<context>
     <name>Gnome3StatusWatcher</name>
     <message>
         <source>Authors: </source>
@@ -6386,17 +5678,6 @@ You lost the game.</source>
     <message>
         <source>This plugin is designed to add support of GNOME 3 presence status changes</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>GnuPG</name>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
-    </message>
-    <message>
-        <source>e-mail: </source>
-        <translation type="vanished">דוא״ל: </translation>
     </message>
 </context>
 <context>
@@ -6424,14 +5705,6 @@ to play gomoku. He wants to play %2.</source>
     <message>
         <source>Sound (*.wav)</source>
         <translation>צליל ‪(*.wav)</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
     </message>
     <message>
         <source>Gomoku game</source>
@@ -6513,10 +5786,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
 <context>
     <name>GroupChatDlg</name>
     <message>
-        <source>Topic:</source>
-        <translation type="vanished">נושא:</translation>
-    </message>
-    <message>
         <source>Select icon</source>
         <translation>בחר רגשון</translation>
     </message>
@@ -6550,17 +5819,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
     <message>
         <source>Country</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>GroupChatViewThemeProvider</name>
-    <message>
-        <source>Groupchat Message Style</source>
-        <translation type="vanished">סגנון הודעת שיחת קבוצה</translation>
-    </message>
-    <message>
-        <source>Configure your groupchat theme here</source>
-        <translation type="vanished">הגדר כאן מוטיב שיחת קבוצה</translation>
     </message>
 </context>
 <context>
@@ -6789,30 +6047,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
 <context>
     <name>HistoryImport</name>
     <message>
-        <source>Status:</source>
-        <translation type="vanished">מצב:</translation>
-    </message>
-    <message>
-        <source>Progress:</source>
-        <translation type="vanished">התקדמות:</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="vanished">אישור</translation>
-    </message>
-    <message>
-        <source>Exit</source>
-        <translation type="vanished">יציאה</translation>
-    </message>
-    <message>
-        <source>Import</source>
-        <translation type="vanished">יבא</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">שגיאה</translation>
-    </message>
-    <message>
         <source>Upgrade history</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6836,24 +6070,12 @@ To invite a friend for a game, you can use contact menu item or the button on th
 <context>
     <name>HistoryKeeperPlugin</name>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#history_keeper_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Remove history for contacts:</source>
         <translation>הסרת היסטוריה עבור אישי קשר:</translation>
     </message>
     <message>
         <source>Clear history on exit</source>
         <translation>טהר היסטוריה בעת יציאה</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
     </message>
     <message>
         <source>This plugin is designed to remove the history of selected contacts when the Psi is closed.
@@ -7345,22 +6567,7 @@ You can select or deselect a contact for history removal from the context menu o
     </message>
 </context>
 <context>
-    <name>IcqDie</name>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
-    </message>
-</context>
-<context>
     <name>ImagePlugin</name>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#image_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
-    </message>
     <message>
         <source>Send Image</source>
         <translation>שלח תמונה</translation>
@@ -7392,10 +6599,6 @@ You can select or deselect a contact for history removal from the context menu o
     <message>
         <source>Image %1 bytes received.</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="vanished">מחברים: </translation>
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
@@ -7461,10 +6664,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 </context>
 <context>
     <name>ImagePreviewPlugin</name>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
-    </message>
     <message>
         <source>This plugin shows images URLs&apos; previews in chats for non-webkit Psi version.
 </source>
@@ -7663,14 +6862,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 Are you sure you want to discard them?</source>
         <translation>לא פרסמת את שינויי מידע חשבונך.
 האם אתה בטוח כי ברצונך לסלק אותם?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation type="vanished">סגור וסלק</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">אל תסגור</translation>
     </message>
     <message>
         <source>Success</source>
@@ -7955,14 +7146,6 @@ to play battleship. He wants to play %2.</source>
         <translation>כונן Jabber</translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
-    </message>
-    <message>
         <source>Treat some jids as services implementing Jabber Disk protocol and handle your files with them.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8050,10 +7233,6 @@ caching avatars will be not available</source>
     <message>
         <source>Add to favorites</source>
         <translation>הוסף אל מועדפים</translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="vanished">מחברים: </translation>
     </message>
     <message>
         <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
@@ -8171,10 +7350,6 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
         <translation>תצורת חדר</translation>
     </message>
     <message>
-        <source>Affiliations</source>
-        <translation type="vanished">שיוכים</translation>
-    </message>
-    <message>
         <source>Filter:</source>
         <translation>סינון:</translation>
     </message>
@@ -8185,10 +7360,6 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     <message>
         <source>Remove</source>
         <translation>הסר</translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation type="vanished">כללי</translation>
     </message>
     <message>
         <source>message</source>
@@ -8252,14 +7423,6 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     <message>
         <source>Are you absolutely certain you want to destroy this room?</source>
         <translation>האם דעתך גמורה לחלוטין באשר לרצונך להחריב את חדר זה?</translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="vanished">כן</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">לא</translation>
     </message>
     <message>
         <source>There was an error retrieving the room configuration</source>
@@ -8503,14 +7666,6 @@ Reason: %1</source>
         <translation>מידע</translation>
     </message>
     <message>
-        <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
-        <translation type="vanished">יישום זה עושה שימוש במערכת GStreamer %1, מערכת מסגרת עבודה מולטימדית (multimedia framework) מקיפה, חוצת-פלטפורמות הזמינה בקוד-פתוח.  לפרטים נוספים, באתר &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;&amp;lrm;</translation>
-    </message>
-    <message>
-        <source>About GStreamer</source>
-        <translation type="vanished">אודות GStreamer</translation>
-    </message>
-    <message>
         <source>Security Plugins Diagnostic Text</source>
         <translation>טקסט דיאגנוסטיקת תוספי אבטחה</translation>
     </message>
@@ -8521,14 +7676,6 @@ Reason: %1</source>
     <message>
         <source>Receive next event</source>
         <translation>קבל את האירוע הבא</translation>
-    </message>
-    <message>
-        <source>Un&amp;hide</source>
-        <translation type="vanished">&amp;הצג</translation>
-    </message>
-    <message>
-        <source>&amp;Hide</source>
-        <translation type="vanished">&amp;הסתר</translation>
     </message>
     <message>
         <source>Status Message</source>
@@ -8588,41 +7735,6 @@ Incoming event(s) from:</source>
     <message>
         <source>Enable Sounds</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>MainWindow</name>
-    <message>
-        <source>New</source>
-        <translation type="vanished">חדש</translation>
-    </message>
-    <message>
-        <source>Save image</source>
-        <translation type="vanished">שמור תמונה</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation type="vanished">יציאה</translation>
-    </message>
-    <message>
-        <source>About the game</source>
-        <translation type="vanished">אודות המשחק</translation>
-    </message>
-    <message>
-        <source>Game</source>
-        <translation type="vanished">משחק</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation type="vanished">עזרה</translation>
-    </message>
-    <message>
-        <source>Ready</source>
-        <translation type="vanished">מוכן</translation>
-    </message>
-    <message>
-        <source>About</source>
-        <translation type="vanished">אודות</translation>
     </message>
 </context>
 <context>
@@ -8811,14 +7923,6 @@ Size: %2</source>
 <context>
     <name>MessageFilter</name>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
-    </message>
-    <message>
-        <source>e-mail: </source>
-        <translation type="vanished">דוא״ל: </translation>
-    </message>
-    <message>
         <source>Can drop incoming stanzas according to various filters like source/destination address or specific message contents</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8868,10 +7972,6 @@ Details: %1</source>
     <message>
         <source>Name</source>
         <translation>שם</translation>
-    </message>
-    <message>
-        <source>E-Mail</source>
-        <translation type="vanished">דוא״ל</translation>
     </message>
     <message>
         <source>Created</source>
@@ -9396,10 +8496,6 @@ Reason: %1.</source>
         <translation>גלול רשימה לאיש קשר בעת אירוע</translation>
     </message>
     <message>
-        <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation type="vanished">התעלם מאירועי &quot;כותרת&quot; (למשל התראות MSN)</translation>
-    </message>
-    <message>
         <source>Treat incoming messages and chats as:</source>
         <translation>התייחס להודעות ושיחות נכנסות בתור:</translation>
     </message>
@@ -9563,10 +8659,6 @@ Reason: %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Link</source>
-        <translation type="vanished">קישור</translation>
-    </message>
-    <message>
         <source>Tooltip:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9688,10 +8780,6 @@ Reason: %1.</source>
         <translation>רציפון</translation>
     </message>
     <message>
-        <source>Use &quot;double-click&quot; style (like ICQ)</source>
-        <translation type="vanished">השתמש בסגנון של &quot;לחיצה-כפולה&quot; (כמו ICQ)</translation>
-    </message>
-    <message>
         <source>Start minimized</source>
         <translation>התחל ממוזער</translation>
     </message>
@@ -9762,10 +8850,6 @@ Reason: %1.</source>
         <source>Video input:</source>
         <translation>קלט וידאו:</translation>
     </message>
-    <message>
-        <source>Video support:</source>
-        <translation type="vanished">תמיכת וידאו:</translation>
-    </message>
 </context>
 <context>
     <name>OptChat</name>
@@ -9796,10 +8880,6 @@ Reason: %1.</source>
     <message>
         <source>Default action</source>
         <translation>פעולה שגרתית</translation>
-    </message>
-    <message>
-        <source>Delete chat window contents</source>
-        <translation type="vanished">מחק תכני חלון שיחה</translation>
     </message>
     <message>
         <source>&amp;Message</source>
@@ -9977,10 +9057,6 @@ Reason: %1.</source>
     <message>
         <source>Show previews for links</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use contacts&apos; message formatting</source>
-        <translation type="vanished">השתמש בעיצוב הודעה של איש קשר</translation>
     </message>
     <message>
         <source>Show character counter</source>
@@ -10176,14 +9252,6 @@ Reason: %1.</source>
         <translation>הצג שורת תפריט</translation>
     </message>
     <message>
-        <source>Disables scrollbar in the application window.</source>
-        <translation type="vanished">נטרל פס גלילה בחלון היישום.</translation>
-    </message>
-    <message>
-        <source>Disable scrollbar</source>
-        <translation type="vanished">נטרל פס גלילה</translation>
-    </message>
-    <message>
         <source>Enables avatar frame at the top of roster</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10289,10 +9357,6 @@ Reason: %1.</source>
     <message>
         <source>OptApplicationUI</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disable scrollbar</source>
-        <translation type="vanished">נטרל פס גלילה</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -10654,10 +9718,6 @@ p, li { white-space: pre-wrap; }
         <translation>טופס</translation>
     </message>
     <message>
-        <source>Tunes</source>
-        <translation type="vanished">לחנים</translation>
-    </message>
-    <message>
         <source>Enter media file extensions to ignore them on tune sending</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10701,10 +9761,6 @@ p, li { white-space: pre-wrap; }
         <translation>עריכת אפשרות %1</translation>
     </message>
     <message>
-        <source>Psi: Option Editor</source>
-        <translation type="vanished">Psi: עורך אפשרויות</translation>
-    </message>
-    <message>
         <source>Can&apos;t edit this type of setting, sorry.</source>
         <translation>אין אפשרות לערוך את טיפוס הגדרה זו, עמך הסליחה.</translation>
     </message>
@@ -10746,10 +9802,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>Play sound:</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#attention_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Update Birthdays</source>
@@ -10796,16 +9848,8 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>בדיקת ימי הולדת בהפעלה</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#birthday_reminder_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Options</source>
         <translation>אפשרויות</translation>
-    </message>
-    <message>
-        <source>Use proxy settings from account</source>
-        <translation type="vanished">השתמש בהגדרות ציר מתוך חשבון</translation>
     </message>
     <message>
         <source>Contact menu</source>
@@ -10814,42 +9858,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>Toolbar action</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#extended_menu_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Supported accounts:</source>
-        <translation type="vanished">חשבונות נתמכים:</translation>
-    </message>
-    <message>
-        <source>There is no supported accounts!</source>
-        <translation type="vanished">אין חשבונות נתמכים!</translation>
-    </message>
-    <message>
-        <source>Account Settings</source>
-        <translation type="vanished">הגדרות חשבון</translation>
-    </message>
-    <message>
-        <source>Mail notifications</source>
-        <translation type="vanished">התראות דואר</translation>
-    </message>
-    <message>
-        <source>Mail Notifications Settings</source>
-        <translation type="vanished">הגדרות התראות דואר</translation>
-    </message>
-    <message>
-        <source>Show all unread messages</source>
-        <translation type="vanished">הצג את כל ההודעות שלא נקראו</translation>
-    </message>
-    <message>
-        <source>Show new messages only</source>
-        <translation type="vanished">הצג הודעות חדשות בלבד</translation>
-    </message>
-    <message>
-        <source>Start program:</source>
-        <translation type="vanished">התחל תוכנית:</translation>
     </message>
     <message>
         <source>Add</source>
@@ -10868,20 +9876,8 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>ייצוא</translation>
     </message>
     <message>
-        <source>Info</source>
-        <translation type="vanished">מידע</translation>
-    </message>
-    <message>
-        <source>Settings</source>
-        <translation type="vanished">הגדרות</translation>
-    </message>
-    <message>
         <source>Delete</source>
         <translation>מחק</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#jabber_disk_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Per contact delay between the popup notifications of the same events</source>
@@ -10922,10 +9918,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>Sound:</source>
         <translation>צליל:</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#pep_change_notify_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Main</source>
@@ -11037,10 +10029,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#stop_spam_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Status</source>
         <translation>מצב</translation>
     </message>
@@ -11071,10 +10059,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>Show Watch for JID button in contact context menu</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#watcher_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>from file</source>
@@ -11443,10 +10427,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>במידה ואפשרות זו מסומנת, Psi יגולל את החלון הראשי אוטומטית כך שתהיה לך האפשרות לראות אירועים נכנסים חדשים.</translation>
     </message>
     <message>
-        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation type="vanished">במידה ואפשרות זו מסומנת, Psi יתעלם מכל אירועי &quot;כותרת&quot;, כמו חדשות system-wide אצל MSN, מודעות, וכו׳.</translation>
-    </message>
-    <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11630,21 +10610,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
 </context>
 <context>
-    <name>OptionsTabAvCall</name>
-    <message>
-        <source>Voice Calling</source>
-        <translation type="vanished">שיחה קולית</translation>
-    </message>
-    <message>
-        <source>Audio and video device configuration</source>
-        <translation type="vanished">תצורת התקן שמע ווידאו</translation>
-    </message>
-    <message>
-        <source>Audio device configuration</source>
-        <translation type="vanished">תצורת התקן שמע</translation>
-    </message>
-</context>
-<context>
     <name>OptionsTabChat</name>
     <message>
         <source>Chat</source>
@@ -11681,26 +10646,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>Makes Psi open chat windows in compact mode.</source>
         <translation>במידה ואפשרות זו מסומנת, Psi יפתח חלונות שיחה במצב צפוף.</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;פיקוח עד מתי רשומת שיחה תישמר בזיכרון אחרי שחלון שיחה הינו סגור.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;אפשרות זו לא משאירה את רשומת השיחה בזיכרון.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;אפשרות זו משאירה את רשומת השיחה למשך שעה 1 בטרם מחיקתה.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;אפשרות זו משאירה את רשומת השיחה למשך יום 1 בטרם מחיקתה.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;אפשרות זו משאירה את רשומת השיחה לתמיד.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>Time (HH:mm)</source>
@@ -11928,10 +10873,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
         <translation>במידה ואפשרות זו מסומנת, Psi יציג מונה אורך הודעה. ניתן לסמן את אפשרות זו אם ברצונך מהו אורך הודעתך. יכולה להיות שימושית בעת שימוש בטרנספורט SMS.</translation>
-    </message>
-    <message>
-        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation type="vanished">במידה ומאופשרת, Psi יציג הודעות נכנסות מעוצבות עם הסגנון שצוין על ידי איש קשר</translation>
     </message>
     <message>
         <source>Never, only when asked</source>
@@ -12458,10 +11399,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>במידה ואפשרות זו מסומנת, Psi יגדיר אוטומטית את מצבך אל &quot;לא זמין&quot; אם מחשבך הינו עצל בכמות הזמן המצוינת.</translation>
     </message>
     <message>
-        <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the Jabber server.</source>
-        <translation type="vanished">במידה ואפשרות זו מסומנת, Psi יגדיר אוטומטית את מצבך אל &quot;לא מקוון&quot; אם מחשבך הינו עצל בכמות הזמן המצוינת.  פעולה זו תנתקך מן שרת Jabber נתון.</translation>
-    </message>
-    <message>
         <source>Specifies an extended message to use if you allow Psi to set your status automatically.  See options above.</source>
         <translation>ציון הודעה מורחבת לשימוש בהרשך למען Psi להגדיר את מצבך אוטומטית.  ראה אפשרויות מעלה.</translation>
     </message>
@@ -12511,10 +11448,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>Fill in the priority that will be assigned to this preset. If no priority is given, the default account priority will be used.</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Jabber allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
-        <translation type="vanished">Jabber מתירה לך להשים הודעות מצב מורחבות על כל טיפוס מצב.  באופן רגיל, Psi לא שואל אותך עבור הודעה מורחבת בהגדירך את מצבך אל &quot;מקוון&quot;.  ניתן לסמן את אפשרות זו אם כן ברצונך להישאל.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -12622,10 +11555,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>טופס</translation>
     </message>
     <message>
-        <source>General</source>
-        <translation type="vanished">כללי</translation>
-    </message>
-    <message>
         <source>Account:</source>
         <translation>חשבון</translation>
     </message>
@@ -12684,30 +11613,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>Caps version</source>
         <translation>גירסת Caps</translation>
-    </message>
-    <message>
-        <source>Contacts</source>
-        <translation type="vanished">אישי קשר</translation>
-    </message>
-    <message>
-        <source>Groupchats</source>
-        <translation type="vanished">שיחות קבוצה</translation>
-    </message>
-    <message>
-        <source>never</source>
-        <translation type="vanished">אף פעם</translation>
-    </message>
-    <message>
-        <source>Logs</source>
-        <translation type="vanished">יומנים</translation>
-    </message>
-    <message>
-        <source>View log</source>
-        <translation type="vanished">צפה ביומן</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#client_switcher_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Shortcut:</source>
@@ -12778,10 +11683,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>ערוך</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#screenshot_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Enable for players:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12808,10 +11709,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>Delay before restoring status, sec</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#video_status_changer_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt; Thoughtless usage of Client Switcher Plugin may cause to inability of using OMEMO and OpenPGP encryption. Use functions of this plugin very carefully...</source>
@@ -12864,10 +11761,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>אנא בחר מפתח.</translation>
     </message>
     <message>
-        <source>Key Storage Diagnostic Text</source>
-        <translation type="vanished">טקסט דיאגנוסטיקת אחסון מפתח</translation>
-    </message>
-    <message>
         <source>GnuPG info</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12900,52 +11793,8 @@ Reason: %1.</source>
         <translation>סיסמת חשבון שגויה</translation>
     </message>
     <message>
-        <source>Save Password</source>
-        <translation type="vanished">שמור סיסמה</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation type="vanished">אישור</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">ביטול</translation>
-    </message>
-    <message>
         <source>Please enter your password for %1:</source>
         <translation>אנא הזן את סיסמתך עבור %1:</translation>
-    </message>
-</context>
-<context>
-    <name>Passphrase</name>
-    <message>
-        <source>OpenPGP Passphrase</source>
-        <translation type="vanished">מימרת סיסמה OpenPGP</translation>
-    </message>
-    <message>
-        <source>Your passphrase is needed to use OpenPGP security.
-Please enter your passphrase below:</source>
-        <translation type="vanished">מימרת סיסמה שלך נדרשת כדי לעשות שימוש באבטחת OpenPGP.
-אנא הזן מימרת סיסמה מטה:</translation>
-    </message>
-    <message>
-        <source>Remember passphrase</source>
-        <translation type="vanished">זכור מימרתסיסמה</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">&amp;ביטול</translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation type="vanished">&amp;אישור</translation>
-    </message>
-</context>
-<context>
-    <name>PassphraseDlg</name>
-    <message>
-        <source>%1: OpenPGP Passphrase</source>
-        <translation type="vanished">%1: מימרת סיסמה OpenPGP</translation>
     </message>
 </context>
 <context>
@@ -12984,14 +11833,6 @@ Please enter your passphrase below:</source>
     <message>
         <source>Sound (*.wav)</source>
         <translation>צליל ‪(*.wav)</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
     </message>
     <message>
         <source>This plugin shows popup notifications when users from your roster changes their mood, tune or activity.</source>
@@ -13234,17 +12075,6 @@ Please enter your passphrase below:</source>
     </message>
 </context>
 <context>
-    <name>PreferencesWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">טופס</translation>
-    </message>
-    <message>
-        <source>message</source>
-        <translation type="vanished">הודעה</translation>
-    </message>
-</context>
-<context>
     <name>PreviewFileDialog</name>
     <message>
         <source>Preview</source>
@@ -13482,145 +12312,7 @@ Please enter your passphrase below:</source>
     </message>
 </context>
 <context>
-    <name>ProfileManage</name>
-    <message>
-        <source>Manage Profiles</source>
-        <translation type="vanished">ניהול דיוקנים</translation>
-    </message>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="vanished">הוס&amp;ף</translation>
-    </message>
-    <message>
-        <source>psi/addContact</source>
-        <translation type="vanished">psi/addContact</translation>
-    </message>
-    <message>
-        <source>&amp;Rename</source>
-        <translation type="vanished">&amp;שנה שם</translation>
-    </message>
-    <message>
-        <source>Rem&amp;ove</source>
-        <translation type="vanished">הס&amp;ר</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileManageDlg</name>
-    <message>
-        <source>Rename Profile</source>
-        <translation type="vanished">שנה שם דיוקן</translation>
-    </message>
-    <message>
-        <source>Please enter a new name for the profile.  Keep it simple.
-Only use letters or numbers.  No punctuation or spaces.</source>
-        <translation type="vanished">אנא הזן שם חדש עבור הדיוקן.  השאר אותו פשוט.
-השתמש באותיות או במספרים בלבד.  בלי פיסוק או רווחים.</translation>
-    </message>
-    <message>
-        <source>There is already another profile with this name.  Please choose another.</source>
-        <translation type="vanished">כבר קיים דיוקן אחר עם שם זה.  אנא בחר אחר.</translation>
-    </message>
-    <message>
-        <source>Unable to rename the profile.  Please do not use any special characters.</source>
-        <translation type="vanished">אין אפשרות לשנות את שם הדיוקן.  אנא אל תשתמש בתווים מיוחדים.</translation>
-    </message>
-    <message>
-        <source>Delete Profile</source>
-        <translation type="vanished">מחיקת דיוקן</translation>
-    </message>
-    <message>
-        <source>&lt;qt&gt;Are you sure you want to delete the &quot;&lt;b&gt;%1&lt;/b&gt;&quot; profile?  This will delete all of the profile&apos;s message history as well as associated settings!&lt;/qt&gt;</source>
-        <translation type="vanished">&lt;qt&gt;האם אתה בטוח כי ברצונך למחוק את הדיוקן &quot;&lt;b&gt;%1&lt;/b&gt;&quot;?  פעולה זו תמחק את כל הודעת ההיסטוריה של הדיוקן וכמו כן גם הגדרות שקשורות אליו!&lt;/qt&gt;</translation>
-    </message>
-    <message>
-        <source>No, I changed my mind</source>
-        <translation type="vanished">לא, אני שיניתי את דעתי</translation>
-    </message>
-    <message>
-        <source>Delete it!</source>
-        <translation type="vanished">מחוק אותו!</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;לא</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;כן</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileNew</name>
-    <message>
-        <source>New Profile</source>
-        <translation type="vanished">דיוקן חדש</translation>
-    </message>
-    <message>
-        <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
-&lt;br&gt;
-The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; (ICQ style) and&lt;b&gt; Chat&lt;/b&gt; (AIM style). You can change this later from the Options menu.&lt;br&gt;
-&lt;br&gt;
-Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation type="vanished">רצוי להשאיר את&lt;i&gt; שם דיוקן&lt;/i&gt; פשוט. זה צריך להיות מילה בודדת אשר מכילה רק אותיות או מספרים.&lt;br&gt;
-&lt;br&gt;
-&lt;i&gt;פעולה שגרתית&lt;/i&gt; היא מה שקורה כאשר נלחצת לחיצה כפולה על איש קשר ברשימתך. הברירות הינן&lt;b&gt; הודעה&lt;/b&gt; (סגנון ICQ) וגם&lt;b&gt; שיחה&lt;/b&gt; (סגנון AIM). באפשרותך לשנות זאת מאוחר יותר מתוך התפריט אפשרויות.&lt;br&gt;
-&lt;br&gt;
-קיים הכרח לסמן את תיבת הסימון &lt;i&gt;אפשר רגשונים&lt;/i&gt; אם ברצונך שטקסט כגון &lt;b&gt;:-)&lt;/b&gt; יהפוך לתרשים שרטוטי כמו &lt;icon name=&quot;psi/smile&quot;&gt;.</translation>
-    </message>
-    <message>
-        <source>Profile Name:</source>
-        <translation type="vanished">שם דיוקן:</translation>
-    </message>
-    <message>
-        <source>Default Action</source>
-        <translation type="vanished">פעולה שגרתית</translation>
-    </message>
-    <message>
-        <source>Enable Emoticons</source>
-        <translation type="vanished">אפשר רגשונים</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;סגור</translation>
-    </message>
-    <message>
-        <source>&amp;Create</source>
-        <translation type="vanished">&amp;צור</translation>
-    </message>
-    <message>
-        <source>psi/addContact</source>
-        <translation type="vanished">psi/addContact</translation>
-    </message>
-    <message>
-        <source>&amp;Chat</source>
-        <translation type="vanished">&amp;שיחה</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileNewDlg</name>
-    <message>
-        <source>New Profile</source>
-        <translation type="vanished">דיוקן חדש</translation>
-    </message>
-    <message>
-        <source>There is already an existing profile with this name.  Please choose another.</source>
-        <translation type="vanished">כבר יש דיוקן קיים עם שם זה.  אנא בחר אחר.</translation>
-    </message>
-    <message>
-        <source>Unable to create the profile.  Please do not use any special characters.</source>
-        <translation type="vanished">אין אפשרות ליצור את הדיוקן.  אנא אל תשתמש בתווים מיוחדים.</translation>
-    </message>
-</context>
-<context>
     <name>ProfileOpen</name>
-    <message>
-        <source>Open Profile</source>
-        <translation type="vanished">פתיחת דיוקן</translation>
-    </message>
-    <message>
-        <source>left</source>
-        <translation type="vanished">שמאל</translation>
-    </message>
     <message>
         <source>Image goes here</source>
         <translation>תמונה הולכת לכאן</translation>
@@ -13628,30 +12320,6 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <source>right</source>
         <translation>ימין</translation>
-    </message>
-    <message>
-        <source>Profile:</source>
-        <translation type="vanished">דיוקן:</translation>
-    </message>
-    <message>
-        <source>&amp;Automatically open on startup</source>
-        <translation type="vanished">פתח &amp;אוטומטית בעת הפעלה</translation>
-    </message>
-    <message>
-        <source>Language:</source>
-        <translation type="vanished">שפה:</translation>
-    </message>
-    <message>
-        <source>&amp;Quit</source>
-        <translation type="vanished">י&amp;ציאה</translation>
-    </message>
-    <message>
-        <source>&amp;Profiles...</source>
-        <translation type="vanished">&amp;דיוקנים...</translation>
-    </message>
-    <message>
-        <source>&amp;Open</source>
-        <translation type="vanished">&amp;פתח</translation>
     </message>
     <message>
         <source>Profiles</source>
@@ -13684,18 +12352,6 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
 </context>
 <context>
     <name>ProfileOpenDlg</name>
-    <message>
-        <source>Select a profile to open from this list.</source>
-        <translation type="vanished">בחר דיוקן לפתיחה מתוך רשימה זו.</translation>
-    </message>
-    <message>
-        <source>Select a language you would like Psi to use from this list.  You can download extra language packs from the Psi homepage.</source>
-        <translation type="vanished">בחר שפה מתוך רשימה זו בה ברצונך לעשות שימוש יחד עם Psi.  באפשרותך להוריד חבילות שפה נוספות מתוך עמוד הבית של Psi.</translation>
-    </message>
-    <message>
-        <source>Automatically open this profile when Psi is started.  Useful if you only have one profile.</source>
-        <translation type="vanished">פתח את דיוקן זה אוטומטית כאשר Psi הינו מופעל.  שימושי אם ברשותך רק דיוקן אחד.</translation>
-    </message>
     <message>
         <source>Double-click or press F2 to rename a profile. Press Delete to remove it.</source>
         <translation type="unfinished"></translation>
@@ -13963,14 +12619,6 @@ Do you want to log out ?</source>
         <translation>אין אפשרות להתחבר: הצפנה הינה מאופשרת אולם אין תוסף QCA2 SSL/TLS זמין.</translation>
     </message>
     <message>
-        <source>Feature Removed</source>
-        <translation type="vanished">תכונה הוסרה</translation>
-    </message>
-    <message>
-        <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
-        <translation type="vanished">חשבון זה הוגדר לעשות שימוש בתכונה &quot;בדיקת פורט הנחלת SSL&quot;, אך תכונה זו איננה נתמכת עוד. אלא אם כן שרת XMPP נתון הינו מיושן ביותר, שינוי זה לא צריך להשפיע עליך. אם יש לך צרה בהתחברות, אנא בחן את נכונות הגדרות חשבונך או צור קשר עם מנהלן שרת XMPP זה.</translation>
-    </message>
-    <message>
         <source>Server Authentication</source>
         <translation>אימות שרת</translation>
     </message>
@@ -14197,12 +12845,6 @@ Details: %1</source>
         <translation>כותרת</translation>
     </message>
     <message>
-        <source>There was an error trying to sign your status.
-Reason: %1.</source>
-        <translation type="vanished">אירעה שגיאה בניסיון לחתום את מצבך.
-סיבה: %1.</translation>
-    </message>
-    <message>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[שגיאה: הודעה זו הינה מוצפנת, ואין ביכולתך לפענחה.]</translation>
     </message>
@@ -14213,14 +12855,6 @@ Reason: %1.</source>
     <message>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
         <translation>&lt;p dir=&quot;rtl&quot;&gt;Psi לא יכול היה לאתר מפתח OpenPGP לשימוש עבור &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;זה יכול לקרות אם אין ברשותך את המפתח אשר איש קשר מפרסם באמצעות נוכחות חתומה, או אם איש קשר אינו מפרסם איזשהו מפתח כלל.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&amp;Choose key manually</source>
-        <translation type="vanished">&amp;בחר מפתח באופן ידני</translation>
-    </message>
-    <message>
-        <source>Do &amp;nothing</source>
-        <translation type="vanished">&amp;אל תעשה דבר</translation>
     </message>
     <message>
         <source>Public Key: %1</source>
@@ -14386,10 +13020,6 @@ Reason: %1.</source>
         <translation>מספק דרך נוחה לשנות ולהשיג מידע אודות מצב עכשווי</translation>
     </message>
     <message>
-        <source>Special item that displays number of pending events</source>
-        <translation type="vanished">פריט מיוחד אשר מציג מספר של אירועים ממתינים</translation>
-    </message>
-    <message>
         <source>Active contacts</source>
         <translation>אישי קשר פעילים</translation>
     </message>
@@ -14404,10 +13034,6 @@ Reason: %1.</source>
     <message>
         <source>&amp;Add a Contact</source>
         <translation>&amp;הוסף איש קשר</translation>
-    </message>
-    <message>
-        <source>&amp;XML Console</source>
-        <translation type="vanished">מסוף &amp;XML</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
@@ -14428,14 +13054,6 @@ Reason: %1.</source>
     <message>
         <source>Join &amp;Groupchat</source>
         <translation>הצטרף לשיחת &amp;קבוצה</translation>
-    </message>
-    <message>
-        <source>Account Setup</source>
-        <translation type="vanished">התקנת חשבון</translation>
-    </message>
-    <message>
-        <source>Acc&amp;ount Setup</source>
-        <translation type="vanished">התקנת &amp;חשבון</translation>
     </message>
     <message>
         <source>Options</source>
@@ -14462,16 +13080,8 @@ Reason: %1.</source>
         <translation>שנה &amp;דיוקן</translation>
     </message>
     <message>
-        <source>Play Sounds</source>
-        <translation type="vanished">ניגון צלילים</translation>
-    </message>
-    <message>
         <source>Play &amp;Sounds</source>
         <translation>&amp;נגן צלילים</translation>
-    </message>
-    <message>
-        <source>Toggles whether sound should be played or not</source>
-        <translation type="vanished">האם צליל צריך להיות מנוגן או לא</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -14484,18 +13094,6 @@ Reason: %1.</source>
     <message>
         <source>Quits Psi</source>
         <translation>יציאה מתוך Psi</translation>
-    </message>
-    <message>
-        <source>Tip of the Day</source>
-        <translation type="vanished">עצת היום</translation>
-    </message>
-    <message>
-        <source>&amp;Tip of the Day</source>
-        <translation type="vanished">&amp;עצת היום</translation>
-    </message>
-    <message>
-        <source>See many useful tips</source>
-        <translation type="vanished">ראה עצות שימושיות רבות</translation>
     </message>
     <message>
         <source>Transfer Manager</source>
@@ -14646,22 +13244,6 @@ Reason: %1.</source>
         <translation>דף &amp;בית (מקוון)</translation>
     </message>
     <message>
-        <source>Psi+ Forum (Online)</source>
-        <translation type="vanished">פורום Psi‪+‬ (מקוון)</translation>
-    </message>
-    <message>
-        <source>Psi+ &amp;Forum (Online)</source>
-        <translation type="vanished">&amp;פורום Psi‪+‬ (מקוון)</translation>
-    </message>
-    <message>
-        <source>Join Psi+ Discussion Room (Online)</source>
-        <translation type="vanished">הצטרפות אל חדר שיחה Psi‪+‬ (מקוון)</translation>
-    </message>
-    <message>
-        <source>&amp;Join Psi+ Discussion Room (Online)</source>
-        <translation type="vanished">&amp;הצטרפות אל חדר שיחה Psi‪+‬ (מקוון)</translation>
-    </message>
-    <message>
         <source>Report a Bug (Online)</source>
         <translation>דווח על תקלה (מקוון)</translation>
     </message>
@@ -14748,10 +13330,6 @@ Reason: %1.</source>
     <message>
         <source>Send File</source>
         <translation>שלח קובץ</translation>
-    </message>
-    <message>
-        <source>Toggle Encryption</source>
-        <translation type="vanished">אפשר/נטרל הצפנה</translation>
     </message>
     <message>
         <source>User Info</source>
@@ -14875,20 +13453,12 @@ Reason: %1.</source>
         <translation>שגיאה: אין אפשרות לנתח פקודה: </translation>
     </message>
     <message>
-        <source>Command&gt;</source>
-        <translation type="vanished">פקודה&gt;</translation>
-    </message>
-    <message>
         <source>turn off autojid</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>turn on autojid</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Paste and Send</source>
-        <translation type="vanished">הדבק ושלח</translation>
     </message>
     <message>
         <source>Fingerprint for account &quot;%1&quot;: %2</source>
@@ -15139,10 +13709,6 @@ Reason: %1.</source>
         <translation>אין אפשרות לטעון מערך סמלים!  אנא ודא כי היישום Psi מותקן כראוי.</translation>
     </message>
     <message>
-        <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
-        <translation type="vanished">לא ניתן לטעון מוטיב!  נא לוודא שהיישום Psi‪+‬ מותקן כראוי.</translation>
-    </message>
-    <message>
         <source>Please disconnect before changing the profile.</source>
         <translation>אנא התנתק לפני שינוי הדיוקן.</translation>
     </message>
@@ -15169,10 +13735,6 @@ Reason: %1.</source>
     <message>
         <source>You can not disable &lt;i&gt;all&lt;/i&gt; toolbars &lt;i&gt;and&lt;/i&gt; the menubar. If you do so, you will be unable to enable them back, when you&apos;ll change your mind.</source>
         <translation>אין באפשרותך לנטרל את &lt;i&gt;כל&lt;/i&gt; סרגלי הכלים &lt;i&gt;וגם&lt;/i&gt; את שורת התפריט. היה וכך יעשה, לא תהיה לך האפשרות לאפשרם בחזרה, כאשר דעתך תשונה.</translation>
-    </message>
-    <message>
-        <source>I understand</source>
-        <translation type="vanished">הדבר מובן לי</translation>
     </message>
     <message>
         <source>Call ended</source>
@@ -15278,10 +13840,6 @@ Migration is possible with Psi-0.15</source>
         <translation>פתח חלון &amp;שיחה</translation>
     </message>
     <message>
-        <source>Open a &amp;Whiteboard</source>
-        <translation type="vanished">פתח &amp;לוח לבן</translation>
-    </message>
-    <message>
         <source>Voice Call</source>
         <translation>שיחה קולית</translation>
     </message>
@@ -15300,14 +13858,6 @@ Migration is possible with Psi-0.15</source>
     <message>
         <source>&amp;Clear Custom Picture</source>
         <translation>&amp;טהר תמונה מותאמת</translation>
-    </message>
-    <message>
-        <source>Assign Open&amp;PGP Key</source>
-        <translation type="vanished">הקצה מפתח Open&amp;PGP</translation>
-    </message>
-    <message>
-        <source>Unassign Open&amp;PGP Key</source>
-        <translation type="vanished">אל תקצה מפתח Open&amp;PGP</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
@@ -15380,14 +13930,6 @@ Migration is possible with Psi-0.15</source>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
         <translation>האם אתה בטוח כי ברצונך להסיר הרשאה מן &lt;b&gt;%1&lt;/b&gt;?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;כן</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;לא</translation>
     </message>
     <message>
         <source>Choose an Image</source>
@@ -15790,10 +14332,6 @@ Would you like to activate that session now?</source>
         <translation>הצג אנשי קשר</translation>
     </message>
     <message>
-        <source>Event notifier</source>
-        <translation type="vanished">מודיע אירועים</translation>
-    </message>
-    <message>
         <source>Auto Status (idle)</source>
         <translation>מצב אוטומטי (עצל)‏</translation>
     </message>
@@ -15807,14 +14345,6 @@ Would you like to activate that session now?</source>
     <message>
         <source>(no selection)</source>
         <translation>(אין בחירה)</translation>
-    </message>
-    <message>
-        <source>Flat</source>
-        <translation type="vanished">תצוגה שטוחה</translation>
-    </message>
-    <message>
-        <source>Display all options as a flat list.</source>
-        <translation type="vanished">הצג את כל האפשרויות בתור רשימה שטוחה.</translation>
     </message>
     <message>
         <source>Delete...</source>
@@ -15833,14 +14363,6 @@ Would you like to activate that session now?</source>
         <translation>הוספה...</translation>
     </message>
     <message>
-        <source>Open a detached option editor window.</source>
-        <translation type="vanished">פתח חלון עורך אפשרויות בנפרד.</translation>
-    </message>
-    <message>
-        <source>Advanced</source>
-        <translation type="vanished">מתקדם</translation>
-    </message>
-    <message>
         <source>(internal node)</source>
         <translation>(קשר פנימי)</translation>
     </message>
@@ -15855,10 +14377,6 @@ Would you like to activate that session now?</source>
     <message>
         <source>Really delete all options starting with %1.?</source>
         <translation>באמת למחוק את כל האפשרויות שמתחילות עם %1.?</translation>
-    </message>
-    <message>
-        <source>Psi+: Option Editor</source>
-        <translation type="vanished">Psi+: עורך אפשרויות</translation>
     </message>
     <message>
         <source>Really reset options %1 to default value?</source>
@@ -15954,21 +14472,6 @@ Would you like to activate that session now?</source>
     <message>
         <source>Home</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PsiThumbnailToolBar</name>
-    <message>
-        <source>Options</source>
-        <translation type="vanished">אפשרויות</translation>
-    </message>
-    <message>
-        <source>Online</source>
-        <translation type="vanished">מקוון</translation>
-    </message>
-    <message>
-        <source>Offline</source>
-        <translation type="vanished">לא מקוון</translation>
     </message>
 </context>
 <context>
@@ -16928,46 +15431,6 @@ Description: </source>
         <source>&lt;unnamed%1&gt;</source>
         <translation>&lt;ללא שם%1&gt;</translation>
     </message>
-    <message>
-        <source>Invalid passphrase</source>
-        <translation type="vanished">מימרת סיסמה שגויה</translation>
-    </message>
-    <message>
-        <source>Invalid input format</source>
-        <translation type="vanished">פורמט קלט שגוי</translation>
-    </message>
-    <message>
-        <source>Signing key expired</source>
-        <translation type="vanished">חתימת מפתח פקעה</translation>
-    </message>
-    <message>
-        <source>Invalid key</source>
-        <translation type="vanished">מפתח שגוי</translation>
-    </message>
-    <message>
-        <source>Encrypting key expired</source>
-        <translation type="vanished">מפתח מצפין פג</translation>
-    </message>
-    <message>
-        <source>Encrypting key is untrusted</source>
-        <translation type="vanished">מפתח מצפין אינו מהימן</translation>
-    </message>
-    <message>
-        <source>Encrypting key is invalid</source>
-        <translation type="vanished">מפתח מצפין הינו שגוי</translation>
-    </message>
-    <message>
-        <source>PGP card is missing</source>
-        <translation type="vanished">כרטיס PGP הינו חסר</translation>
-    </message>
-    <message>
-        <source>Unknown error</source>
-        <translation type="vanished">שגיאה לא מוכרת</translation>
-    </message>
-    <message>
-        <source>Socket Error</source>
-        <translation type="vanished">שגיאת Socket</translation>
-    </message>
     <message numerus="yes">
         <source>%n day(s) </source>
         <translation type="unfinished">
@@ -17680,18 +16143,6 @@ Thanks for your patience.</source>
 <context>
     <name>QipXStatuses</name>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#qip_x-statuses_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
-    </message>
-    <message>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17736,14 +16187,6 @@ Thanks for your patience.</source>
     <message>
         <source>&lt;qt&gt;Registration has already been submitted, so closing this window will not prevent the registration from happening.  Do you still wish to close?&lt;/qt&gt;</source>
         <translation>&lt;qt&gt;רישום כבר נשלח, אי לכך סגירת חלון זה לא תמנע את הרישום מלהתרחש.  האם עדיין ברצונך לסגור?&lt;/qt&gt;</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;כן</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;לא</translation>
     </message>
     <message>
         <source>Fetching registration form for %1 ...</source>
@@ -17811,14 +16254,6 @@ Reason: %1</source>
         <translation>צליל ‪(*.wav)</translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
-    </message>
-    <message>
         <source>This plugin is designed to show reminders of upcoming birthdays.
 The first time you install this plugin, you need to log on to all of your accounts, go to the plugin settings and click &quot;Update Birthdays&quot;.The plugin will then collect the information about the birthdays of all the users in your roster, but when the &apos;Use vCards cache&apos; option isselected, the users&apos; vCards that are cached on your hard disk will be used. </source>
         <translation type="unfinished"></translation>
@@ -17829,13 +16264,6 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <source>[blank]</source>
         <translation>[ריק]</translation>
-    </message>
-</context>
-<context>
-    <name>RipperCCOptions</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">טופס</translation>
     </message>
 </context>
 <context>
@@ -18075,10 +16503,6 @@ The first time you install this plugin, you need to log on to all of your accoun
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Authors: </source>
-        <translation type="vanished">מחברים: </translation>
-    </message>
-    <message>
         <source>This plugin allows you to make screenshots and save them to your hard drive or upload them to an FTP or HTTP server.
 The plugin has the following settings:
 * Shortcut -- hotkey to make the screenshot (by default, Ctrl+Alt+P)
@@ -18212,17 +16636,6 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>SelectGame</name>
-    <message>
-        <source>Play!</source>
-        <translation type="vanished">שחק!</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">ביטול</translation>
-    </message>
-</context>
-<context>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Template editor</source>
@@ -18317,25 +16730,10 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>SeparatorAction</name>
-    <message>
-        <source>&lt;Separator&gt;</source>
-        <translation type="vanished">&lt;חוצץ&gt;</translation>
-    </message>
-    <message>
-        <source>Separator</source>
-        <translation type="vanished">חוצץ</translation>
-    </message>
-</context>
-<context>
     <name>ServerListQuerier</name>
     <message>
         <source>Unable to parse server list</source>
         <translation>אין אפשרות לנתח רשימת שרת</translation>
-    </message>
-    <message>
-        <source>Maximum redirect count reached</source>
-        <translation type="vanished">ספירת הכוונה-מחודשת מרבית מוצתה</translation>
     </message>
     <message>
         <source>Unexpected HTTP status code: %1</source>
@@ -18507,10 +16905,6 @@ Reason: %1</source>
     <message>
         <source>README</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Tips</source>
-        <translation type="vanished">עצות</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
@@ -18730,13 +17124,6 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>ShowChangeLogForm</name>
-    <message>
-        <source>New version is available!</source>
-        <translation type="vanished">גירסה חדשה זמינה!</translation>
-    </message>
-</context>
-<context>
     <name>ShowPhotoDlg</name>
     <message>
         <source>Photo Preview: %1</source>
@@ -18835,10 +17222,6 @@ Reason: %1</source>
     <message>
         <source>Backup skin before applying</source>
         <translation>גבה סקין לפני החלה</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#skins_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Choose a skin file</source>
@@ -19032,14 +17415,6 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
-    </message>
-    <message>
         <source>This plugin is designed to block spam messages and other unwanted information from Psi users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
 With the plugin settings you can:
 * Define a security question and the answer
@@ -19092,20 +17467,8 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
 <context>
     <name>StorageNotesPlugin</name>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#storage_notes_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Storage Notes</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
     </message>
     <message>
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
@@ -19455,37 +17818,6 @@ Please correct and try again.</source>
     </message>
 </context>
 <context>
-    <name>Tip</name>
-    <message>
-        <source>Useful Tips</source>
-        <translation type="vanished">עצות שימושיות</translation>
-    </message>
-    <message>
-        <source>Show tips at startup</source>
-        <translation type="vanished">הצג עצות בעת הפעלה</translation>
-    </message>
-    <message>
-        <source>&amp;Previous</source>
-        <translation type="vanished">ה&amp;קודמת</translation>
-    </message>
-    <message>
-        <source>psi/arrowLeft</source>
-        <translation type="vanished">psi/arrowRight</translation>
-    </message>
-    <message>
-        <source>&amp;Next</source>
-        <translation type="vanished">ה&amp;באה</translation>
-    </message>
-    <message>
-        <source>psi/arrowRight</source>
-        <translation type="vanished">psi/arrowLeft</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;סגור</translation>
-    </message>
-</context>
-<context>
     <name>TipDlg</name>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
@@ -19536,10 +17868,6 @@ And these work only in groupchat dialog:
         <translation>הידעתם כי באפשרותכם לרשום חשבונות XMPP מרובים בעזרת Psi? אם אתם מעוניינים להפריד את עבודתכם מתוך חשבונכם האישי, אתם יכולים.  אם אתם משתמשם מיומנים שרוצים לבחון את התכונות החדשות ביותר של XMPP על שרת לא יציב, באפשרותכם לעשות כן -- ללא הרצת לקוח שני כדי להתחבר לשרת הקבוע שלכם.  פשוט הקליקו על הוסף בתוך מסך התקנת חשבון.</translation>
     </message>
     <message>
-        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="vanished">האם אתם משוחחים ברשתות מסרים מידיים צד-שלישי כגון AIM וגם ICQ?  נסו לאפשר &quot;סמלים לפי טרנספורט&quot;.  זה יאפשר לכם להבחין במהירות באיזו רשת חבריכם משתמשים.  באותה העת אתם מוזמנים לשכנע אותם להחליף לרשת התקשורת XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</translation>
-    </message>
-    <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
         <translation>הידעתם כי באפשרותכם לעשות שימוש בתיבות סימון בדו שיח התקנת חשבון כדי לאפשר/לנטרל חשבונות? זה עשוי להועיל במקרה וקיים חשבון בו אתם משתמשים לעתים נדירות, כך שזה לא יסרבל את רשימתכם.</translation>
     </message>
@@ -19578,12 +17906,6 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
         <translation>אם אתם משוחח בשיחות קבוצה לעתים די קרובות, השלמת כינוי הינה תכונה חיונית. קיצור הדרך השימושי ביותר הינו &lt;tt&gt;Tab-Tab&lt;/tt&gt;; כאשר זה מצוי בשימוש בתחילת שורה או אחרי מדרגה זה משבץ את שם הכינוי של האדם האחרון אשר פנה אליכם ישירות. באותה עת באפשרותכם להמשיך ללחוץ &lt;tt&gt;Tab&lt;/tt&gt; וזה ימשיך להעביר את הכינויים של כל האנשים אשר נוכחים בחדר באופן לולאתי.&lt;br/&gt;&lt;br/&gt;לתרחיש מורכב יותר: המשתמשים &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; וגם &lt;tt&gt;mbl-revolution&lt;/tt&gt; נמצאים באותו חדר. אם אתם רושמים &lt;tt&gt;m&lt;/tt&gt; ולוחץ &lt;tt&gt;Tab&lt;/tt&gt; זו לא תניב שום פעולה הניתנת להבחנה. זאת משום שקיימים כינויים מרובים אשר מתחילים עם &lt;tt&gt;m&lt;/tt&gt;, ובאפשרותכם לבחור בין אם להמשיך ללחוץ &lt;tt&gt;Tab&lt;/tt&gt; כדי לעבור דרך כל הכינויים אשר מתחילים עם &lt;tt&gt;m&lt;/tt&gt; או בין אם להדפיס עוד אותיות עד להשלמה ייחודית. כאשר אתם לוחצים את הלחצן &lt;tt&gt;b&lt;/tt&gt;, ואז לוחצים &lt;tt&gt;Tab&lt;/tt&gt; זו תושלם אל &lt;tt&gt;mbl&lt;/tt&gt;. ככל שאתם תעשו שימוש יותר נרחב בתכונה זו, סביר יותר כי אתם תחפוצו אותה יותר ותסתמכו עליה יותר. נסו השלמת כינוי על מישהו ואתם תבינו כמה אפשרות זו יעילה.</translation>
-    </message>
-    <message>
-        <source>This is the last tip.
-&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation type="vanished">זוהי העצה האחרונה.
-&lt;br&gt;&lt;br&gt;אם ברצונכם לתרום את &quot;עצת היום&quot; שלכם, אנא פרסמו אותה אצל &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;הפורומים של Psi&lt;/a&gt; (או דוורו אותה לאחד מהמפתחים), ואנחנו נשמח לשלבה בשחרור הבא.</translation>
     </message>
     <message>
         <source>Contributed by</source>
@@ -19687,10 +18009,6 @@ We hope that you will enjoy using it as we have enjoyed making it!
     <message>
         <source>Restore Defaults Settings</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
     </message>
     <message>
         <source>This plugin allows you to convert selected text into another language.
@@ -19797,10 +18115,6 @@ We hope that you will enjoy using it as we have enjoyed making it!
 <context>
     <name>VideoStatusChanger</name>
     <message>
-        <source>Authors: </source>
-        <translation type="vanished">מחברים: </translation>
-    </message>
-    <message>
         <source>This plugin is designed to set the custom status when you watching the video in selected video players. 
 Note: This plugin is designed to work in Linux family operating systems and in Windows OS. 
 
@@ -19860,57 +18174,6 @@ To work with Parole player you need to enable MPRIS2 module/plugin.</source>
     <message>
         <source>Do you want to save your changes?</source>
         <translation>האם ברצונך לשמור את השינויים שלך?</translation>
-    </message>
-</context>
-<context>
-    <name>ViewMailDlg</name>
-    <message>
-        <source>E-Mail</source>
-        <translation type="vanished">דוא״ל</translation>
-    </message>
-    <message>
-        <source>From:</source>
-        <translation type="vanished">מאת:</translation>
-    </message>
-    <message>
-        <source>Subject:</source>
-        <translation type="vanished">נושא:</translation>
-    </message>
-    <message>
-        <source>Account:</source>
-        <translation type="vanished">חשבון:</translation>
-    </message>
-    <message>
-        <source>Open mail in browser</source>
-        <translation type="vanished">פתח דואר בדפדפן</translation>
-    </message>
-    <message>
-        <source>Open MailBox</source>
-        <translation type="vanished">פתח תיבת דואר</translation>
-    </message>
-    <message>
-        <source>Previous</source>
-        <translation type="vanished">אחורה</translation>
-    </message>
-    <message>
-        <source>Next</source>
-        <translation type="vanished">קדימה</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="vanished">סגור</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;סגור</translation>
-    </message>
-    <message>
-        <source>[%1/%2] E-Mail</source>
-        <translation type="vanished">[%1/%2] דוא״ל</translation>
-    </message>
-    <message>
-        <source>Open in browser</source>
-        <translation type="vanished">פתח בדפדפן</translation>
     </message>
 </context>
 <context>
@@ -20065,160 +18328,9 @@ To work with Parole player you need to enable MPRIS2 module/plugin.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Author: </source>
-        <translation type="vanished">מחבר: </translation>
-    </message>
-    <message>
-        <source>Email: </source>
-        <translation type="vanished">דוא״ל: </translation>
-    </message>
-    <message>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
 On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>WbDlg</name>
-    <message>
-        <source>Whiteboard (%1)</source>
-        <translation type="vanished">לוח לבן (%1)</translation>
-    </message>
-    <message>
-        <source>Save session</source>
-        <translation type="vanished">שמור סשן</translation>
-    </message>
-    <message>
-        <source>Save the contents of the whiteboard</source>
-        <translation type="vanished">שמור את התכולה של הלוח הלבן</translation>
-    </message>
-    <message>
-        <source>Change the geometry</source>
-        <translation type="vanished">שנה את הגיאומטריה</translation>
-    </message>
-    <message>
-        <source>End session</source>
-        <translation type="vanished">סיים סשן</translation>
-    </message>
-    <message>
-        <source>Clear the whiteboard</source>
-        <translation type="vanished">טהר את הלוח הלבן</translation>
-    </message>
-    <message>
-        <source>Stroke color</source>
-        <translation type="vanished">צבע מכחול</translation>
-    </message>
-    <message>
-        <source>Fill color</source>
-        <translation type="vanished">מילוי צבע</translation>
-    </message>
-    <message>
-        <source>Stroke width</source>
-        <translation type="vanished">רוחב מכחול</translation>
-    </message>
-    <message>
-        <source>Edit mode</source>
-        <translation type="vanished">מצב עריכה</translation>
-    </message>
-    <message>
-        <source>Thin stroke</source>
-        <translation type="vanished">מכחול דק</translation>
-    </message>
-    <message>
-        <source>Medium stroke</source>
-        <translation type="vanished">מכחול בינוני</translation>
-    </message>
-    <message>
-        <source>Thick stroke</source>
-        <translation type="vanished">מכחול עבה</translation>
-    </message>
-    <message>
-        <source>Select</source>
-        <translation type="vanished">בחר</translation>
-    </message>
-    <message>
-        <source>Translate</source>
-        <translation type="vanished">תרגם</translation>
-    </message>
-    <message>
-        <source>Rotate</source>
-        <translation type="vanished">סובב</translation>
-    </message>
-    <message>
-        <source>Scale</source>
-        <translation type="vanished">קנה מידה</translation>
-    </message>
-    <message>
-        <source>Erase</source>
-        <translation type="vanished">מחק</translation>
-    </message>
-    <message>
-        <source>Scroll view</source>
-        <translation type="vanished">גלילת תצוגה</translation>
-    </message>
-    <message>
-        <source>Scroll</source>
-        <translation type="vanished">גלול</translation>
-    </message>
-    <message>
-        <source>Draw paths</source>
-        <translation type="vanished">שרטט שבילים</translation>
-    </message>
-    <message>
-        <source>Add images</source>
-        <translation type="vanished">הוסף תמונות</translation>
-    </message>
-    <message>
-        <source>Whiteboard toolbar</source>
-        <translation type="vanished">סרגל לוח לבן</translation>
-    </message>
-    <message>
-        <source>%1 left (session: %2).</source>
-        <translation type="vanished">%1 עזב/ה (סשן: %2).</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">אזהרה</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to end the session?
-The contents of the whiteboard will be lost.</source>
-        <translation type="vanished">האם אתה בטוח כי ברצונך לסיים את הסשן?
-התכולה של הלוח הלבן תאובד.</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;כן</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;לא</translation>
-    </message>
-    <message>
-        <source>A new whiteboard message was just received.
-Do you still want to close the window?</source>
-        <translation type="vanished">הודעת לוח לבן חדשה התקבלה.
-האם עדיין ברצונך לסגור את החלון?</translation>
-    </message>
-    <message>
-        <source>Set new width:</source>
-        <translation type="vanished">קבע רוחב חדש:</translation>
-    </message>
-    <message>
-        <source>Width:</source>
-        <translation type="vanished">רוחב:</translation>
-    </message>
-    <message>
-        <source>Set new height:</source>
-        <translation type="vanished">קבע גובה חדש:</translation>
-    </message>
-    <message>
-        <source>Height:</source>
-        <translation type="vanished">גובה:</translation>
-    </message>
-    <message>
-        <source>Save Whitebaord</source>
-        <translation type="vanished">שמור לוח לבן</translation>
     </message>
 </context>
 <context>
@@ -20250,34 +18362,6 @@ Do you still want to close the window?</source>
 </context>
 <context>
     <name>WbManager</name>
-    <message>
-        <source>Unsupported</source>
-        <translation type="vanished">לא נתמך</translation>
-    </message>
-    <message>
-        <source>The contact does not support whiteboarding.</source>
-        <translation type="vanished">איש קשר לא תומך בלוח לבן.</translation>
-    </message>
-    <message>
-        <source>Open Existing SVG?</source>
-        <translation type="vanished">פתח SVG קיים?</translation>
-    </message>
-    <message>
-        <source>Would you like to open an existing SVG document in the whitebaord?</source>
-        <translation type="vanished">האם ברצונך לפתוח מסמך SVG קיים בתוך הלוח הלבן?</translation>
-    </message>
-    <message>
-        <source>Initial SVG Document for the Whiteboard</source>
-        <translation type="vanished">מסמך SVG ראשוני עבור הלוח הלבן</translation>
-    </message>
-    <message>
-        <source>Whiteboarding Invitation?</source>
-        <translation type="vanished">הזמנת לוח לבן?</translation>
-    </message>
-    <message>
-        <source>%1 has invited you to a whiteboarding session. Would you like to join?</source>
-        <translation type="vanished">%1 הזמינך לסשן לוח לבן. האם ברצונך להצטרף?</translation>
-    </message>
     <message>
         <source>Answered on another device.</source>
         <translation type="unfinished"></translation>
@@ -20680,10 +18764,6 @@ Do you still want to close the window?</source>
 <context>
     <name>XMLConsole</name>
     <message>
-        <source>XML Console</source>
-        <translation type="vanished">מסוף XML</translation>
-    </message>
-    <message>
         <source>Filter</source>
         <translation>מסננת</translation>
     </message>
@@ -20749,13 +18829,6 @@ Do you still want to close the window?</source>
     </message>
 </context>
 <context>
-    <name>XMPP::ClientStream</name>
-    <message>
-        <source>Offered mechanisms: </source>
-        <translation type="vanished">מנגנונים מוצעים: </translation>
-    </message>
-</context>
-<context>
     <name>XMPP::Features::FeatureName</name>
     <message>
         <source>ERROR: Incorrect usage of Features class</source>
@@ -20815,10 +18888,6 @@ Do you still want to close the window?</source>
 </context>
 <context>
     <name>XMPP::JT_VCard</name>
-    <message>
-        <source>No VCard available</source>
-        <translation type="vanished">אין VCard זמין</translation>
-    </message>
     <message>
         <source>No vCard available</source>
         <translation type="unfinished"></translation>
@@ -21151,10 +19220,6 @@ Do you still want to close the window?</source>
 <context>
     <name>XmlConsole</name>
     <message>
-        <source>XML Console</source>
-        <translation type="vanished">מסוף XML</translation>
-    </message>
-    <message>
         <source>XMPP Console</source>
         <translation type="unfinished"></translation>
     </message>
@@ -21176,18 +19241,6 @@ Do you still want to close the window?</source>
     <message>
         <source>Malformed XML</source>
         <translation>XML פגום</translation>
-    </message>
-    <message>
-        <source>You have entered malformed XML input. Are you sure you want to send this ?</source>
-        <translation type="vanished">הזנת קלט XML פגום. האם אתה בטוח כי ברצונך לשלוחו ?</translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="vanished">כן</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">לא</translation>
     </message>
     <message>
         <source>You have entered malformed XML input.</source>
@@ -21243,22 +19296,6 @@ Do you still want to close the window?</source>
     <message>
         <source>Save window position</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#gomoku_game_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Disable if chat window is active</source>
-        <translation type="vanished">נטרל אם חלון שיחה הינו פעיל</translation>
-    </message>
-    <message>
-        <source>Transports:</source>
-        <translation type="vanished">מובילים:</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#icq_must_die_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Disable invitations from conference</source>
@@ -21681,14 +19718,6 @@ You should authenticate %1 as well by asking your own question.</source>
 <context>
     <name>psiotr::ConfigDialog</name>
     <message>
-        <source>Known fingerprints</source>
-        <translation type="vanished">טביעות אצבע מוכרות</translation>
-    </message>
-    <message>
-        <source>My private keys</source>
-        <translation type="vanished">המפתחות הפרטיים שלי</translation>
-    </message>
-    <message>
         <source>Configuration</source>
         <translation>תצורה</translation>
     </message>
@@ -21703,10 +19732,6 @@ You should authenticate %1 as well by asking your own question.</source>
 </context>
 <context>
     <name>psiotr::ConfigOtrWidget</name>
-    <message>
-        <source>OTR Policy</source>
-        <translation type="vanished">מדיניות OTR</translation>
-    </message>
     <message>
         <source>Disable private messaging</source>
         <translation type="unfinished"></translation>
@@ -21757,10 +19782,6 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Status</source>
         <translation>מצב</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to delete the following fingerprint?</source>
-        <translation type="vanished">האם אתה בטוח כי ברצונך למחוק את טביעת האצבע הבאה?</translation>
     </message>
     <message>
         <source>Account: </source>
@@ -21900,14 +19921,6 @@ You should authenticate %1 as well by asking your own question.</source>
 <context>
     <name>psiotr::PsiOtrPlugin</name>
     <message>
-        <source>Off-the-Record Messaging plugin for Psi</source>
-        <translation type="vanished">תוסף התכתבות Off-the-Record עבור ‪Psi+</translation>
-    </message>
-    <message>
-        <source>Authors: %1</source>
-        <translation type="vanished">מחברים: %1</translation>
-    </message>
-    <message>
         <source>Encryption</source>
         <translation type="unfinished"></translation>
     </message>
@@ -21934,10 +19947,6 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>If you lose control of your private keys, no previous conversation is compromised.</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>For further information, see &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</source>
-        <translation type="vanished">למידע נוסף, ראה &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</translation>
     </message>
     <message>
         <source>Attempting to refresh the private conversation</source>
@@ -22146,10 +20155,6 @@ to this message in juick@conference.jabber.ru</source>
         <translation>טהר מטמון אווטאר</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#juick_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>https://link</source>
         <translation type="unfinished"></translation>
     </message>
@@ -22245,10 +20250,6 @@ to this message in juick@conference.jabber.ru</source>
     <message>
         <source>Birthday:</source>
         <translation>יום הולדת:</translation>
-    </message>
-    <message>
-        <source>E-Mail:</source>
-        <translation type="vanished">דוא״ל:</translation>
     </message>
     <message>
         <source>Close</source>
@@ -22464,10 +20465,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Clear Cookies</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;https://psi-plus.com/wiki/en:plugins#yandex_narod_plugin&quot;&gt;ויקי (מקוון)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>

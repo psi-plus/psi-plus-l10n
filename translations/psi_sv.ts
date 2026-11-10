@@ -410,22 +410,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Redigera personliga &amp;detaljer...</translation>
     </message>
     <message>
-        <source>OpenPGP</source>
-        <translation type="vanished">OpenPGP</translation>
-    </message>
-    <message>
-        <source>placeholder2</source>
-        <translation type="vanished">placeholder2</translation>
-    </message>
-    <message>
-        <source>Select &amp;Key...</source>
-        <translation type="vanished">Välj &amp;nyckel...</translation>
-    </message>
-    <message>
-        <source>Use None</source>
-        <translation type="vanished">Använd ingen</translation>
-    </message>
-    <message>
         <source>Privacy</source>
         <translation>Spärrlistor</translation>
     </message>
@@ -588,10 +572,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Aldrig</translation>
     </message>
     <message>
-        <source>Legacy SSL</source>
-        <translation type="vanished">Gammal SSL</translation>
-    </message>
-    <message>
         <source>Over encrypted connection</source>
         <translation>Över krypterad anslutning</translation>
     </message>
@@ -688,28 +668,8 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Användarnamn:</translation>
     </message>
     <message>
-        <source>No Key Selected</source>
-        <translation type="vanished">Inga nyckel vald</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Fel</translation>
-    </message>
-    <message>
-        <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation type="vanished">Gammal SSL är bara tillgängligt tillsammans med manuellt angiven värd/port.</translation>
-    </message>
-    <message>
-        <source>SSL error</source>
-        <translation type="vanished">SSL-fel</translation>
-    </message>
-    <message>
-        <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation type="vanished">Kunde inte använda SSL/TLS. Insticksprogram ej funnet.</translation>
-    </message>
-    <message>
-        <source>Secret Key</source>
-        <translation type="vanished">Hemlig nyckel</translation>
     </message>
     <message>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
@@ -862,10 +822,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Om tillgängligt</translation>
     </message>
     <message>
-        <source>Legacy SSL</source>
-        <translation type="vanished">Gammal SSL</translation>
-    </message>
-    <message>
         <source>Warning</source>
         <translation>Varning</translation>
     </message>
@@ -874,20 +830,8 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Är du säker på att du vill avbryta registreringen?</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Ja</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Nej</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Fel</translation>
-    </message>
-    <message>
-        <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation type="vanished">Gammal SSL är bara tillgängligt tillsammans med manuellt angiven värd/port.</translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -1033,10 +977,6 @@ Orsak: %1</translation>
 </context>
 <context>
     <name>ActiveProfiles</name>
-    <message>
-        <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation type="vanished">Denna Psi-profil används redan...&lt;br&gt;var god dröj...</translation>
-    </message>
     <message>
         <source>This Psi profile is already running...&lt;br&gt;Please wait...</source>
         <translation type="unfinished"></translation>
@@ -1542,44 +1482,6 @@ The list of exceptions for jids has two operating modes:
 <context>
     <name>AvCallPrivate</name>
     <message>
-        <source>System error</source>
-        <translation type="vanished">Systemfel</translation>
-    </message>
-    <message>
-        <source>Codec error</source>
-        <translation type="vanished">Codecfel</translation>
-    </message>
-    <message>
-        <source>Generic error</source>
-        <translation type="vanished">Allmänt fel</translation>
-    </message>
-    <message>
-        <source>Cannot call without selecting a device.  Do you have a microphone?  Check the Psi options.</source>
-        <translation type="vanished">Kan inte ringa utan att välja en enhet. Har du en mikrofon? Kontrollera Psis inställningar.</translation>
-    </message>
-    <message>
-        <source>An error occurred while trying to send:
-%1.</source>
-        <translation type="vanished">Ett fel uppstod vid sändningsförsök:
-%1.</translation>
-    </message>
-    <message>
-        <source>Call was rejected or terminated.</source>
-        <translation type="vanished">Samtalet ej mottaget eller avslutat.</translation>
-    </message>
-    <message>
-        <source>Call negotiation timed out.</source>
-        <translation type="vanished">Tog för lång tid att sätta upp samtalet.</translation>
-    </message>
-    <message>
-        <source>Unable to establish peer-to-peer connection.</source>
-        <translation type="vanished">Kan ej etablera peer-till-peer-förbindelse.</translation>
-    </message>
-    <message>
-        <source>Call negotiation failed.</source>
-        <translation type="vanished">Samtalsförhandling misslyckades.</translation>
-    </message>
-    <message>
         <source>The requested media type is not supported by the current media backend.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1817,37 +1719,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
     </message>
 </context>
 <context>
-    <name>Call</name>
-    <message>
-        <source>Dialog</source>
-        <translation type="vanished">Dialog</translation>
-    </message>
-    <message>
-        <source>To:</source>
-        <translation type="vanished">Till:</translation>
-    </message>
-    <message>
-        <source>Use video</source>
-        <translation type="vanished">Använd video</translation>
-    </message>
-    <message>
-        <source>Sending bandwidth:</source>
-        <translation type="vanished">Bandbredd för sändning:</translation>
-    </message>
-    <message>
-        <source>Call status</source>
-        <translation type="vanished">Samtalsstatus</translation>
-    </message>
-    <message>
-        <source>&amp;Reject</source>
-        <translation type="vanished">&amp;Vägra</translation>
-    </message>
-    <message>
-        <source>&amp;Accept</source>
-        <translation type="vanished">&amp;Godkänn</translation>
-    </message>
-</context>
-<context>
     <name>CallDlg</name>
     <message>
         <source>Call</source>
@@ -1924,65 +1795,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
     <message>
         <source>Refused: the encryption could not be verified with a trusted OMEMO device of the contact. See Options &gt; Security.</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>CallDlg::Private</name>
-    <message>
-        <source>Voice Call</source>
-        <translation type="vanished">Röstsamtal</translation>
-    </message>
-    <message>
-        <source>High (1Mbps)</source>
-        <translation type="vanished">Hög (1Mbps)</translation>
-    </message>
-    <message>
-        <source>Average (400Kbps)</source>
-        <translation type="vanished">Genomsnittlig (400Kbps)</translation>
-    </message>
-    <message>
-        <source>Low (160Kbps)</source>
-        <translation type="vanished">Låg (160Kbps)</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Stäng</translation>
-    </message>
-    <message>
-        <source>C&amp;all</source>
-        <translation type="vanished">&amp;Ring</translation>
-    </message>
-    <message>
-        <source>Ready</source>
-        <translation type="vanished">Klar</translation>
-    </message>
-    <message>
-        <source>From:</source>
-        <translation type="vanished">Från:</translation>
-    </message>
-    <message>
-        <source>Accept call?</source>
-        <translation type="vanished">Ta emot samtal?</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">&amp;Avbryt</translation>
-    </message>
-    <message>
-        <source>Calling...</source>
-        <translation type="vanished">Ringer...</translation>
-    </message>
-    <message>
-        <source>Accepting...</source>
-        <translation type="vanished">Svarar...</translation>
-    </message>
-    <message>
-        <source>&amp;Hang up</source>
-        <translation type="vanished">&amp;Lägg på</translation>
-    </message>
-    <message>
-        <source>Call active</source>
-        <translation type="vanished">Samtal aktivt</translation>
     </message>
 </context>
 <context>
@@ -2163,10 +1975,6 @@ Turn on your camera or share your screen</source>
 <context>
     <name>CaptchaDlg</name>
     <message>
-        <source>Dialog</source>
-        <translation type="vanished">Dialog</translation>
-    </message>
-    <message>
         <source>You need to pass verification</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2207,10 +2015,6 @@ Turn on your camera or share your screen</source>
     <message>
         <source>The certificate is valid.</source>
         <translation>Certifikatet är giltigt.</translation>
-    </message>
-    <message>
-        <source>The certificate is NOT valid!</source>
-        <translation type="vanished">Certifikatet är INTE giltigt!</translation>
     </message>
     <message>
         <source>Reason: %1.</source>
@@ -2341,10 +2145,6 @@ Anledning: %1</translation>
         <translation>Röstsamtal</translation>
     </message>
     <message>
-        <source>Toggle encryption</source>
-        <translation type="vanished">Slå av/på kryptering</translation>
-    </message>
-    <message>
         <source>Select icon</source>
         <translation>Välj ikon</translation>
     </message>
@@ -2385,22 +2185,6 @@ Vill du ändå stänga fönstret?</translation>
     <message>
         <source>&lt;p&gt;Encryption was recently disabled by the remote contact.  Are you sure you want to send this message without encryption?&lt;/p&gt;</source>
         <translation>&lt;p&gt;Kryptering stängdes nyligen av från motparten. Är du säker på att du vill skicka detta meddelande utan kryptering?&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Ja</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Nej</translation>
-    </message>
-    <message>
-        <source>Encryption Enabled</source>
-        <translation type="vanished">Kryptering påslaget</translation>
-    </message>
-    <message>
-        <source>Encryption Disabled</source>
-        <translation type="vanished">Kryptering avslaget</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
@@ -2513,21 +2297,6 @@ Vill du ändå stänga fönstret?</translation>
             <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
-    </message>
-</context>
-<context>
-    <name>ChatView</name>
-    <message>
-        <source>%1 says:</source>
-        <translation type="vanished">%1 säger:</translation>
-    </message>
-    <message>
-        <source>Subject:</source>
-        <translation type="vanished">Ärende:</translation>
-    </message>
-    <message>
-        <source>URL:</source>
-        <translation type="vanished">URL:</translation>
     </message>
 </context>
 <context>
@@ -3113,10 +2882,6 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;XML Console</source>
-        <translation type="vanished">&amp;XML-konsoll</translation>
-    </message>
-    <message>
         <source>&amp;Modify Account...</source>
         <translation>&amp;Redigera konto...</translation>
     </message>
@@ -3145,20 +2910,12 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <translation>Avatar</translation>
     </message>
     <message>
-        <source>Groupchat</source>
-        <translation type="vanished">Gruppchatt</translation>
-    </message>
-    <message>
         <source>Plugins</source>
         <translation>Insticksprogram</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
         <translation>&amp;Administrera</translation>
-    </message>
-    <message>
-        <source>Join %1</source>
-        <translation type="vanished">Gå med i %1</translation>
     </message>
     <message>
         <source>Groupchats</source>
@@ -3199,10 +2956,6 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
 </context>
 <context>
     <name>ContactListDragView</name>
-    <message>
-        <source>%1 (%2)</source>
-        <translation type="vanished">%1 (%2)</translation>
-    </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
         <translation>Detta kommer permanentl att ta bort &lt;br&gt;%1&lt;br&gt;från din kontaktlista.</translation>
@@ -3292,13 +3045,6 @@ Fortsätt?</translation>
     <message>
         <source>Conferences</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ContactListViewDelegate::Private</name>
-    <message>
-        <source>%1 (%2)</source>
-        <translation type="vanished">%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -3478,25 +3224,6 @@ Fortsätt?</translation>
     <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi.</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>CreateGroupDlg</name>
-    <message>
-        <source>Create New Group</source>
-        <translation type="vanished">Skapa ny grupp</translation>
-    </message>
-    <message>
-        <source>Enter the new group name:</source>
-        <translation type="vanished">Skriv namnet på den nya gruppen:</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="vanished">Lägg till</translation>
-    </message>
-    <message>
-        <source>&lt;None&gt;</source>
-        <translation type="vanished">&lt;Inget&gt;</translation>
     </message>
 </context>
 <context>
@@ -3687,10 +3414,6 @@ Fortsätt?</translation>
 <context>
     <name>DiscoListItem</name>
     <message>
-        <source>Error</source>
-        <translation type="vanished">Fel</translation>
-    </message>
-    <message>
         <source>There was an error getting items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>Det uppstod ett fel när poster hämtades för &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Orsak: %2</translation>
     </message>
@@ -3744,44 +3467,6 @@ Fortsätt?</translation>
     <message>
         <source>deleted</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Drawer</name>
-    <message>
-        <source>Error moving</source>
-        <translation type="vanished">Fel vid flyttning</translation>
-    </message>
-    <message>
-        <source>You cannot move this figure because the king is in check</source>
-        <translation type="vanished">Du kan inte flytta den här figuren eftersom kungen står i schack</translation>
-    </message>
-    <message>
-        <source>To castle</source>
-        <translation type="vanished">Rockad</translation>
-    </message>
-    <message>
-        <source>Do you want to castle?</source>
-        <translation type="vanished">Vill du göra rockad?</translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="vanished">Ja</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">Nej</translation>
-    </message>
-</context>
-<context>
-    <name>EDBFlatFile::File</name>
-    <message>
-        <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
-        <translation type="vanished">&lt;big&gt;[Systemmeddelande]&lt;/big&gt;&lt;br&gt;Du är nu godkänd.</translation>
-    </message>
-    <message>
-        <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;Your authorization has been removed!</source>
-        <translation type="vanished">&lt;big&gt;[Systemmeddelande]&lt;/big&gt;&lt;br&gt;Ditt godkännande har tagits bort!</translation>
     </message>
 </context>
 <context>
@@ -3999,10 +3684,6 @@ Supports per contact on / off message enumeration via the buttons on the chats t
         <translation>Meddelandelängd</translation>
     </message>
     <message>
-        <source>Toggle encryption</source>
-        <translation type="vanished">Slå av/på kryptering</translation>
-    </message>
-    <message>
         <source>Add URL</source>
         <translation>Lägg till URL</translation>
     </message>
@@ -4166,13 +3847,6 @@ Om du vill bekräfta denna begäran, tryck på Bekräfta-knappen. Annars, tryck 
     <message>
         <source>Read next event</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>EventNotifierAction</name>
-    <message>
-        <source>&lt;Event notifier&gt;</source>
-        <translation type="vanished">&lt;Event notifier&gt;</translation>
     </message>
 </context>
 <context>
@@ -4706,13 +4380,6 @@ Importantly: a large part of the options are important system settings. These re
     </message>
 </context>
 <context>
-    <name>FigureDialog</name>
-    <message>
-        <source>What figure should I set?</source>
-        <translation type="vanished">Vilken figur ska jag använda?</translation>
-    </message>
-</context>
-<context>
     <name>FileEvent</name>
     <message>
         <source>This user wants to send you a file.</source>
@@ -4780,14 +4447,6 @@ Importantly: a large part of the options are important system settings. These re
     <message>
         <source>Are you sure you want to cancel the transfer?</source>
         <translation>Är du säker på att du vill avbryta överföringen?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Ja</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Nej</translation>
     </message>
     <message>
         <source>Choose a file</source>
@@ -4877,10 +4536,6 @@ en brandvägg måste du försäkra dig om att utgående TCP-förbindelser tillå
 </context>
 <context>
     <name>FileShareDlg</name>
-    <message>
-        <source>Dialog</source>
-        <translation type="vanished">Dialog</translation>
-    </message>
     <message>
         <source>Share Files</source>
         <translation type="unfinished"></translation>
@@ -5459,10 +5114,6 @@ Anledning: %1</translation>
         <translation>Ta bort</translation>
     </message>
     <message>
-        <source>Cancel</source>
-        <translation type="vanished">Avbryt</translation>
-    </message>
-    <message>
         <source>&amp;Name:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5485,10 +5136,6 @@ Anledning: %1</translation>
     <message>
         <source>Open &amp;Chat Window</source>
         <translation>Öppna &amp;chattfönster</translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation type="vanished">Röstsamtal</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
@@ -5654,153 +5301,6 @@ Anledning: %1</translation>
     </message>
 </context>
 <context>
-    <name>GameBoard</name>
-    <message>
-        <source>White</source>
-        <translation type="vanished">Vit</translation>
-    </message>
-    <message>
-        <source>Black</source>
-        <translation type="vanished">Svart</translation>
-    </message>
-    <message>
-        <source>game with</source>
-        <translation type="vanished">spel med</translation>
-    </message>
-    <message>
-        <source>Game chat</source>
-        <translation type="vanished">spelchatt</translation>
-    </message>
-    <message>
-        <source>History</source>
-        <translation type="vanished">Historik</translation>
-    </message>
-    <message>
-        <source>Looking up the host</source>
-        <translation type="vanished">Letar upp värden</translation>
-    </message>
-    <message>
-        <source>Accepted a new connection</source>
-        <translation type="vanished">Accepterade en ny anslutning</translation>
-    </message>
-    <message>
-        <source>The host found</source>
-        <translation type="vanished">Värden funnen</translation>
-    </message>
-    <message>
-        <source>Connected to the host</source>
-        <translation type="vanished">Ansluten till värden</translation>
-    </message>
-    <message>
-        <source>Socket Error...</source>
-        <translation type="vanished">Socketfel...</translation>
-    </message>
-    <message>
-        <source>You have a socket error number</source>
-        <translation type="vanished">Du har ett socketfel med nummer</translation>
-    </message>
-    <message>
-        <source>game from</source>
-        <translation type="vanished">spelet från</translation>
-    </message>
-    <message>
-        <source>Accepted the</source>
-        <translation type="vanished">Accepterade</translation>
-    </message>
-    <message>
-        <source>Your move...</source>
-        <translation type="vanished">Ditt drag...</translation>
-    </message>
-    <message>
-        <source>Waiting a move...</source>
-        <translation type="vanished">Väntar på drag...</translation>
-    </message>
-    <message>
-        <source>End the game</source>
-        <translation type="vanished">Avsluta spelet</translation>
-    </message>
-    <message>
-        <source>Want you to end the game?
-You will lose it</source>
-        <translation type="vanished">Vill du avsluta spelet?
-Du förlorar</translation>
-    </message>
-    <message>
-        <source>Yes, end</source>
-        <translation type="vanished">Ja, avsluta</translation>
-    </message>
-    <message>
-        <source>No, continue</source>
-        <translation type="vanished">Nej, forstätt</translation>
-    </message>
-    <message>
-        <source>B</source>
-        <translation type="vanished">L</translation>
-    </message>
-    <message>
-        <source>K</source>
-        <translation type="vanished">K</translation>
-    </message>
-    <message>
-        <source>C</source>
-        <translation type="vanished">T</translation>
-    </message>
-    <message>
-        <source>Q</source>
-        <translation type="vanished">D</translation>
-    </message>
-    <message>
-        <source>Error!</source>
-        <translation type="vanished">Fel!</translation>
-    </message>
-    <message>
-        <source>Lookup Error</source>
-        <translation type="vanished">Uppslagsfel</translation>
-    </message>
-    <message>
-        <source>The host</source>
-        <translation type="vanished">Värden</translation>
-    </message>
-    <message>
-        <source>not found.</source>
-        <translation type="vanished">ej funnen.</translation>
-    </message>
-    <message>
-        <source>Save image</source>
-        <translation type="vanished">Spara bild</translation>
-    </message>
-    <message>
-        <source>Do you want to save the image?</source>
-        <translation type="vanished">Vill du spara bilden?</translation>
-    </message>
-    <message>
-        <source>Yes, save</source>
-        <translation type="vanished">Ja, spara</translation>
-    </message>
-    <message>
-        <source>No, don&apos;t save</source>
-        <translation type="vanished">Nej, spara inte</translation>
-    </message>
-    <message>
-        <source>Game over</source>
-        <translation type="vanished">Slut på spelet</translation>
-    </message>
-    <message>
-        <source>You scored the game</source>
-        <translation type="vanished">Du vann spelet</translation>
-    </message>
-    <message>
-        <source>You have a mate.
-You lost the game.</source>
-        <translation type="vanished">Du är satt i matt.
-Du förlorade.</translation>
-    </message>
-    <message>
-        <source>You have a stalemate</source>
-        <translation type="vanished">Det blev remi</translation>
-    </message>
-</context>
-<context>
     <name>GameModel</name>
     <message>
         <source>The first turn can be only H8.</source>
@@ -5851,20 +5351,12 @@ Du förlorade.</translation>
         <translation>GeneralGroupchatUI</translation>
     </message>
     <message>
-        <source>Enable word highlighting</source>
-        <translation type="vanished">Slå på ordmarkering</translation>
-    </message>
-    <message>
         <source>Highlight lines and alert the user if this text is included in chat</source>
         <translation>Markera rader och notifiera användaren om denna text finns i chatten</translation>
     </message>
     <message>
         <source>Word highlighting</source>
         <translation>Ordmarkering</translation>
-    </message>
-    <message>
-        <source>Words which will cause a notification in group chat.</source>
-        <translation type="vanished">Ord som orsakar en notifiering i gruppchatt.</translation>
     </message>
     <message>
         <source>This is the list of words which when said in group chat will cause the user to be notified.</source>
@@ -5891,16 +5383,8 @@ Du förlorade.</translation>
         <translation>Ta bort</translation>
     </message>
     <message>
-        <source>Enable nick coloring</source>
-        <translation type="vanished">Slå på färgning av smeknamn</translation>
-    </message>
-    <message>
         <source>Nick coloring</source>
         <translation>Smeknamnsfärgning</translation>
-    </message>
-    <message>
-        <source>Colors used for nicks in groupchat</source>
-        <translation type="vanished">Färger som används för smeknamn i gruppchatt</translation>
     </message>
     <message>
         <source>This is the list of colours with which nicks will be drawn in group chat.</source>
@@ -5909,10 +5393,6 @@ Du förlorade.</translation>
     <message>
         <source>Type a colourcode here, or press the palette to the right</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Adds the color to the list</source>
-        <translation type="vanished">Lägg till färgen till listan</translation>
     </message>
     <message>
         <source>Adds the new color to the list</source>
@@ -6180,17 +5660,6 @@ Du förlorade.</translation>
     </message>
 </context>
 <context>
-    <name>GmailNotifyPlugin</name>
-    <message>
-        <source>Choose a sound file</source>
-        <translation type="vanished">Välj ljudfil</translation>
-    </message>
-    <message>
-        <source>Sound (*.wav)</source>
-        <translation type="vanished">Ljud (*.wav)</translation>
-    </message>
-</context>
-<context>
     <name>Gnome3StatusWatcher</name>
     <message>
         <source>Authors: </source>
@@ -6306,14 +5775,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
 </context>
 <context>
     <name>GroupChatDlg</name>
-    <message>
-        <source>Topic:</source>
-        <translation type="vanished">Ämne:</translation>
-    </message>
-    <message>
-        <source>AccountLabel</source>
-        <translation type="vanished">AccountLabel</translation>
-    </message>
     <message>
         <source>Select icon</source>
         <translation>Välj ikon</translation>
@@ -6575,18 +6036,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
 </context>
 <context>
     <name>HistoryImport</name>
-    <message>
-        <source>Status:</source>
-        <translation type="vanished">Status:</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="vanished">Ok</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Fel</translation>
-    </message>
     <message>
         <source>Upgrade history</source>
         <translation type="unfinished"></translation>
@@ -7405,14 +6854,6 @@ Are you sure you want to discard them?</source>
 Är du säker på att du vill slänga dem?</translation>
     </message>
     <message>
-        <source>Close and discard</source>
-        <translation type="vanished">Stäng och kasta</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">Stäng int</translation>
-    </message>
-    <message>
         <source>Success</source>
         <translation>Lyckades</translation>
     </message>
@@ -7899,10 +7340,6 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
         <translation>Rumskonfiguration</translation>
     </message>
     <message>
-        <source>Affiliations</source>
-        <translation type="vanished">Tillhörighet</translation>
-    </message>
-    <message>
         <source>Filter:</source>
         <translation>Filter:</translation>
     </message>
@@ -7913,10 +7350,6 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     <message>
         <source>Remove</source>
         <translation>Ta bort</translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation type="vanished">Allmänt</translation>
     </message>
     <message>
         <source>message</source>
@@ -7980,14 +7413,6 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
     <message>
         <source>Are you absolutely certain you want to destroy this room?</source>
         <translation>Är du helt säker på att du vill förstöra detta rum?</translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="vanished">Ja</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">Nej</translation>
     </message>
     <message>
         <source>There was an error retrieving the room configuration</source>
@@ -8076,10 +7501,6 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
 Reason: %1</source>
         <translation>Kunde inte gå med i gruppchatt.
 Orsak: %1</translation>
-    </message>
-    <message>
-        <source>%1 (%2)</source>
-        <translation type="vanished">%1 (%2)</translation>
     </message>
     <message>
         <source>No response from server for %1 seconds</source>
@@ -8235,14 +7656,6 @@ Orsak: %1</translation>
         <translation>LäsMig</translation>
     </message>
     <message>
-        <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
-        <translation type="vanished">Denna applikation använder GStreamer %1, en omfattande multimedia plattform med öppen källkod och stöd för flera plattformar. För mer information, se &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>About GStreamer</source>
-        <translation type="vanished">Om GStreamer</translation>
-    </message>
-    <message>
         <source>Security Plugins Diagnostic Text</source>
         <translation>Diagnostiktext för säkerhetsinsticksprogram</translation>
     </message>
@@ -8253,14 +7666,6 @@ Orsak: %1</translation>
     <message>
         <source>Receive next event</source>
         <translation>Ta emot nästa händelse</translation>
-    </message>
-    <message>
-        <source>Un&amp;hide</source>
-        <translation type="vanished">&amp;Ta fram</translation>
-    </message>
-    <message>
-        <source>&amp;Hide</source>
-        <translation type="vanished">&amp;Göm</translation>
     </message>
     <message>
         <source>Status Message</source>
@@ -8319,55 +7724,6 @@ Incoming event(s) from:</source>
     <message>
         <source>Enable Sounds</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>MainWindow</name>
-    <message>
-        <source>New</source>
-        <translation type="vanished">Ny</translation>
-    </message>
-    <message>
-        <source>Save image</source>
-        <translation type="vanished">Spara bild</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation type="vanished">Avsluta</translation>
-    </message>
-    <message>
-        <source>About the game</source>
-        <translation type="vanished">Om spelet</translation>
-    </message>
-    <message>
-        <source>Game</source>
-        <translation type="vanished">Spel</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation type="vanished">Hjälp</translation>
-    </message>
-    <message>
-        <source>Ready</source>
-        <translation type="vanished">Klar</translation>
-    </message>
-    <message>
-        <source>About</source>
-        <translation type="vanished">Om</translation>
-    </message>
-    <message>
-        <source>is a network game chess for two players.
-It has a client and a server in the same program.
-You can modify and redistribute the source code
-because it is under GPL.
-
-Russia, Tambov, 2005 (denis@silversoft.net)</source>
-        <translation type="vanished">är ett schackspel över nätet för två spelare.
-Det har klient och server i samma program.
-Du kan ändra och distribuera källkoden eftersom
-det är släppt under GPL.
-
-Ryssland, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
 </context>
 <context>
@@ -9127,10 +8483,6 @@ Orsak: %1.</translation>
         <translation>Rulla kontrallistan till kontakt vid händelse</translation>
     </message>
     <message>
-        <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation type="vanished">Ignorera &quot;notis&quot;-händelser (till exempel MSN-notifieringar)</translation>
-    </message>
-    <message>
         <source>Treat incoming messages and chats as:</source>
         <translation>Behandla inkomna meddelanden som:</translation>
     </message>
@@ -9415,10 +8767,6 @@ Orsak: %1.</translation>
         <translation>Docklet</translation>
     </message>
     <message>
-        <source>Use &quot;double-click&quot; style (like ICQ)</source>
-        <translation type="vanished">Använd dubbelklicksstil (som ICQ)</translation>
-    </message>
-    <message>
         <source>Start minimized</source>
         <translation>Starta minimerad</translation>
     </message>
@@ -9519,10 +8867,6 @@ Orsak: %1.</translation>
     <message>
         <source>Default action</source>
         <translation>Standardhandling</translation>
-    </message>
-    <message>
-        <source>Delete chat window contents</source>
-        <translation type="vanished">Rensa chattfönstrets innehåll</translation>
     </message>
     <message>
         <source>&amp;Message</source>
@@ -9700,10 +9044,6 @@ Orsak: %1.</translation>
     <message>
         <source>Show previews for links</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use contacts&apos; message formatting</source>
-        <translation type="vanished">Använd kontakters meddelandeformattering</translation>
     </message>
     <message>
         <source>Show character counter</source>
@@ -10408,10 +9748,6 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Psi: Option Editor</source>
-        <translation type="vanished">Psi: Inställningsredigeraren</translation>
-    </message>
-    <message>
         <source>Can&apos;t edit this type of setting, sorry.</source>
         <translation>Kan tyvärr inte redigera den här typen av inställning.</translation>
     </message>
@@ -10525,10 +9861,6 @@ Inställningsnamn kan inte vara tomma, sluta på &apos;.&apos; eller innehålla 
     <message>
         <source>Export</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Settings</source>
-        <translation type="vanished">Inställningar</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -11082,10 +10414,6 @@ Inställningsnamn kan inte vara tomma, sluta på &apos;.&apos; eller innehålla 
         <translation>Gör så att Psi rullar huvudfönstret automatiskt så dun kan se nyinkomna meddelanden.</translation>
     </message>
     <message>
-        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation type="vanished">Går så att Psi ignorerar alla inkommande &quot;notiser&quot;, som MSNs systemmedelanden, etc.</translation>
-    </message>
-    <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11269,21 +10597,6 @@ Inställningsnamn kan inte vara tomma, sluta på &apos;.&apos; eller innehålla 
     </message>
 </context>
 <context>
-    <name>OptionsTabAvCall</name>
-    <message>
-        <source>Voice Calling</source>
-        <translation type="vanished">Röstsamtal</translation>
-    </message>
-    <message>
-        <source>Audio and video device configuration</source>
-        <translation type="vanished">Konfiguration av ljud och bildenheter</translation>
-    </message>
-    <message>
-        <source>Audio device configuration</source>
-        <translation type="vanished">Konfiguration av ljudenhet</translation>
-    </message>
-</context>
-<context>
     <name>OptionsTabChat</name>
     <message>
         <source>Chat</source>
@@ -11320,26 +10633,6 @@ Inställningsnamn kan inte vara tomma, sluta på &apos;.&apos; eller innehålla 
     <message>
         <source>Makes Psi open chat windows in compact mode.</source>
         <translation>Gör så att Psi öppnar chattfönster i kompakt läge.</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Bestämmer hur länge chatthistoriken sparas i minnet efter att chattfönstret stängts.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Detta val håller inte chatthistoriken i minnet.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Detta val håller chatthistoriken i minnet 1 timme innan den tas bort.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Detta val håller chatthistoriken i minnet 1 dag innan den tas bort.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Detta val rensar inte chatthistoriken.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>Time (HH:mm)</source>
@@ -11567,10 +10860,6 @@ Inställningsnamn kan inte vara tomma, sluta på &apos;.&apos; eller innehålla 
     <message>
         <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
         <translation>Gör så att Psi visa en räknare för meddelandelängd. Använd detta val om du vill veta hur långt ditt meddelande är. Kan vara praktiskt när du använder en SMS-transport.</translation>
-    </message>
-    <message>
-        <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation type="vanished">Om på så kommer Psi att visa inkommande meddelanden formaterade som avsändaren angett</translation>
     </message>
     <message>
         <source>Never, only when asked</source>
@@ -12253,10 +11542,6 @@ Inställningsnamn kan inte vara tomma, sluta på &apos;.&apos; eller innehålla 
         <translation>Form</translation>
     </message>
     <message>
-        <source>General</source>
-        <translation type="vanished">Allmän</translation>
-    </message>
-    <message>
         <source>Account:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12463,10 +11748,6 @@ Inställningsnamn kan inte vara tomma, sluta på &apos;.&apos; eller innehålla 
         <translation>Välj en nyckel.</translation>
     </message>
     <message>
-        <source>Key Storage Diagnostic Text</source>
-        <translation type="vanished">Nyckellagringsdiagnostiktext</translation>
-    </message>
-    <message>
         <source>GnuPG info</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12499,44 +11780,8 @@ Orsak: %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>OK</source>
-        <translation type="vanished">Ok</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">Avbryt</translation>
-    </message>
-    <message>
         <source>Please enter your password for %1:</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Passphrase</name>
-    <message>
-        <source>OpenPGP Passphrase</source>
-        <translation type="vanished">OpenPGP-lösenfras</translation>
-    </message>
-    <message>
-        <source>Your passphrase is needed to use OpenPGP security.
-Please enter your passphrase below:</source>
-        <translation type="vanished">Din lösenfras krävs för att använda OpenPGP-säkerhet.
-Skriv din lösenfras nedanför:</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">&amp;Avbryt</translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation type="vanished">&amp;Ok</translation>
-    </message>
-</context>
-<context>
-    <name>PassphraseDlg</name>
-    <message>
-        <source>%1: OpenPGP Passphrase</source>
-        <translation type="vanished">%1: OpenPGP-lösenfras</translation>
     </message>
 </context>
 <context>
@@ -12817,17 +12062,6 @@ Skriv din lösenfras nedanför:</translation>
     </message>
 </context>
 <context>
-    <name>PreferencesWidget</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">Form</translation>
-    </message>
-    <message>
-        <source>message</source>
-        <translation type="vanished">meddelande</translation>
-    </message>
-</context>
-<context>
     <name>PreviewFileDialog</name>
     <message>
         <source>Preview</source>
@@ -13065,157 +12299,7 @@ Skriv din lösenfras nedanför:</translation>
     </message>
 </context>
 <context>
-    <name>ProfileManage</name>
-    <message>
-        <source>Manage Profiles</source>
-        <translation type="vanished">Hantera profiler</translation>
-    </message>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="vanished">&amp;Lägg till</translation>
-    </message>
-    <message>
-        <source>psi/addContact</source>
-        <translation type="vanished">psi/addContact</translation>
-    </message>
-    <message>
-        <source>&amp;Rename</source>
-        <translation type="vanished">&amp;Döp om</translation>
-    </message>
-    <message>
-        <source>Rem&amp;ove</source>
-        <translation type="vanished">&amp;Ta bort</translation>
-    </message>
-    <message>
-        <source>psi/remove</source>
-        <translation type="vanished">psi/remove</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileManageDlg</name>
-    <message>
-        <source>Rename Profile</source>
-        <translation type="vanished">Döp om profil</translation>
-    </message>
-    <message>
-        <source>Please enter a new name for the profile.  Keep it simple.
-Only use letters or numbers.  No punctuation or spaces.</source>
-        <translation type="vanished">Skriv ett nytt namn för profilen. Håll det enkelt.
-Använd bara bokstäver och siffror, ingen interpunktering eller mellanslag.</translation>
-    </message>
-    <message>
-        <source>There is already another profile with this name.  Please choose another.</source>
-        <translation type="vanished">Det finns redan en profil med detta namn. Välj ett annat.</translation>
-    </message>
-    <message>
-        <source>Unable to rename the profile.  Please do not use any special characters.</source>
-        <translation type="vanished">Kunde inte döpa om profil. Använd inte specialtecken.</translation>
-    </message>
-    <message>
-        <source>Delete Profile</source>
-        <translation type="vanished">Ta bort</translation>
-    </message>
-    <message>
-        <source>&lt;qt&gt;Are you sure you want to delete the &quot;&lt;b&gt;%1&lt;/b&gt;&quot; profile?  This will delete all of the profile&apos;s message history as well as associated settings!&lt;/qt&gt;</source>
-        <translation type="vanished">&lt;qt&gt;Är du säker på att du vill ta bort &quot;&lt;b&gt;%1&lt;/b&gt;&quot;-profilen? Detta tar bort profilens hela meddelandehistorik liksom dess inställningar!&lt;/qt&gt;</translation>
-    </message>
-    <message>
-        <source>No, I changed my mind</source>
-        <translation type="vanished">Nej, jag har ändrat mig</translation>
-    </message>
-    <message>
-        <source>Delete it!</source>
-        <translation type="vanished">Ta bort den!</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Nej</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Ja</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileNew</name>
-    <message>
-        <source>New Profile</source>
-        <translation type="vanished">Ny profil</translation>
-    </message>
-    <message>
-        <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
-&lt;br&gt;
-The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; (ICQ style) and&lt;b&gt; Chat&lt;/b&gt; (AIM style). You can change this later from the Options menu.&lt;br&gt;
-&lt;br&gt;
-Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation type="vanished">Håll ditt &lt;i&gt;profilnamn&lt;/i&gt; enkelt. Det ska vara ett enda ord bestående bara av bokstäver eller siffror.&lt;br&gt;
-&lt;br&gt;
-&lt;i&gt;Standardhandlingen&lt;/i&gt; är vad som händer när du dubbelklickar en kontakt i din lista. Möjligheterna är &lt;b&gt;meddelande&lt;/b&gt; (som ICQ) och &lt;b&gt;chatt&lt;/b&gt; (som AIM). Du kan ändra detta senare från menyn Inställningar.&lt;br&gt;
-&lt;br&gt;
-Klicka i &lt;i&gt;Slå på emotikoner&lt;/i&gt;-kryssrutan om du vill att text som &lt;b&gt;:)&lt;/b&gt; ska bytas mot bilder som &lt;icon name=&quot;psi/smile&quot;&gt;.</translation>
-    </message>
-    <message>
-        <source>Profile Name:</source>
-        <translation type="vanished">Profilnamn:</translation>
-    </message>
-    <message>
-        <source>Default Action</source>
-        <translation type="vanished">Standardhandling</translation>
-    </message>
-    <message>
-        <source>Enable Emoticons</source>
-        <translation type="vanished">Slå på emotikoner</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Stäng</translation>
-    </message>
-    <message>
-        <source>&amp;Create</source>
-        <translation type="vanished">&amp;Skapa</translation>
-    </message>
-    <message>
-        <source>Alt+C</source>
-        <translation type="vanished">Alt+S</translation>
-    </message>
-    <message>
-        <source>psi/addContact</source>
-        <translation type="vanished">psi/addContact</translation>
-    </message>
-    <message>
-        <source>&amp;Message</source>
-        <translation type="vanished">&amp;Meddelande</translation>
-    </message>
-    <message>
-        <source>&amp;Chat</source>
-        <translation type="vanished">&amp;Chatt</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileNewDlg</name>
-    <message>
-        <source>New Profile</source>
-        <translation type="vanished">Ny profil</translation>
-    </message>
-    <message>
-        <source>There is already an existing profile with this name.  Please choose another.</source>
-        <translation type="vanished">Det finns redan en profil med detta namn. Välj ett annat.</translation>
-    </message>
-    <message>
-        <source>Unable to create the profile.  Please do not use any special characters.</source>
-        <translation type="vanished">Kunde inte skapa profilen. Använd inga specialtecken.</translation>
-    </message>
-</context>
-<context>
     <name>ProfileOpen</name>
-    <message>
-        <source>Open Profile</source>
-        <translation type="vanished">Öppna profil</translation>
-    </message>
-    <message>
-        <source>left</source>
-        <translation type="vanished">left</translation>
-    </message>
     <message>
         <source>Image goes here</source>
         <translation>Image goes here</translation>
@@ -13223,42 +12307,6 @@ Klicka i &lt;i&gt;Slå på emotikoner&lt;/i&gt;-kryssrutan om du vill att text s
     <message>
         <source>right</source>
         <translation>right</translation>
-    </message>
-    <message>
-        <source>Profile:</source>
-        <translation type="vanished">Profil:</translation>
-    </message>
-    <message>
-        <source>&amp;Automatically open on startup</source>
-        <translation type="vanished">Öppna &amp;automatiskt vid start</translation>
-    </message>
-    <message>
-        <source>Language:</source>
-        <translation type="vanished">Språk:</translation>
-    </message>
-    <message>
-        <source>&amp;Quit</source>
-        <translation type="vanished">&amp;Avsluta</translation>
-    </message>
-    <message>
-        <source>psi/quit</source>
-        <translation type="vanished">psi/quit</translation>
-    </message>
-    <message>
-        <source>&amp;Profiles...</source>
-        <translation type="vanished">&amp;Profiler...</translation>
-    </message>
-    <message>
-        <source>psi/profile</source>
-        <translation type="vanished">psi/profile</translation>
-    </message>
-    <message>
-        <source>&amp;Open</source>
-        <translation type="vanished">&amp;Öppna</translation>
-    </message>
-    <message>
-        <source>psi/logo_16</source>
-        <translation type="vanished">psi/logo_16</translation>
     </message>
     <message>
         <source>Profiles</source>
@@ -13291,18 +12339,6 @@ Klicka i &lt;i&gt;Slå på emotikoner&lt;/i&gt;-kryssrutan om du vill att text s
 </context>
 <context>
     <name>ProfileOpenDlg</name>
-    <message>
-        <source>Select a profile to open from this list.</source>
-        <translation type="vanished">Välj en profil att öppna i listan.</translation>
-    </message>
-    <message>
-        <source>Select a language you would like Psi to use from this list.  You can download extra language packs from the Psi homepage.</source>
-        <translation type="vanished">Välj det språk du vill att Psi ska använda från listan. Du kan ladda ner extra språkpaket från Psis hemsida.</translation>
-    </message>
-    <message>
-        <source>Automatically open this profile when Psi is started.  Useful if you only have one profile.</source>
-        <translation type="vanished">Öppna automatiskt denna profil när Psi startas. Användbart om du bara har en profil.</translation>
-    </message>
     <message>
         <source>Double-click or press F2 to rename a profile. Press Delete to remove it.</source>
         <translation type="unfinished"></translation>
@@ -13796,12 +12832,6 @@ Detaljer: %1</translation>
         <translation>Notis</translation>
     </message>
     <message>
-        <source>There was an error trying to sign your status.
-Reason: %1.</source>
-        <translation type="vanished">Det uppstod ett fel när din status skulle signeras.
-Orsak: %1.</translation>
-    </message>
-    <message>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[FEL: Detta meddelande är krypterat och du kan inte dekryptera det.]</translation>
     </message>
@@ -13812,14 +12842,6 @@ Orsak: %1.</translation>
     <message>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Psi kunde inte hitta OpenPGP-nyckeln som ska användas för &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Detta kan hända om du inte har nyckeln som kontakten hänvisar till via signerad närvaro eller om kontakten inte hänvisar till sin nyckel alls.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&amp;Choose key manually</source>
-        <translation type="vanished">&amp;Välj nyckel manuellt</translation>
-    </message>
-    <message>
-        <source>Do &amp;nothing</source>
-        <translation type="vanished">Gör &amp;inget</translation>
     </message>
     <message>
         <source>Public Key: %1</source>
@@ -13985,10 +13007,6 @@ Orsak: %1.</translation>
         <translation>Erbjuder ett bekvämt sätt att ändra och se information om nuvarande status</translation>
     </message>
     <message>
-        <source>Special item that displays number of pending events</source>
-        <translation type="vanished">Specialpost som visar antal väntande händelser</translation>
-    </message>
-    <message>
         <source>Active contacts</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14003,10 +13021,6 @@ Orsak: %1.</translation>
     <message>
         <source>&amp;Add a Contact</source>
         <translation>&amp;Lägg till en kontakt</translation>
-    </message>
-    <message>
-        <source>&amp;XML Console</source>
-        <translation type="vanished">&amp;XML-konsoll</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
@@ -14027,14 +13041,6 @@ Orsak: %1.</translation>
     <message>
         <source>Join &amp;Groupchat</source>
         <translation>Gå med i &amp;gruppchatt</translation>
-    </message>
-    <message>
-        <source>Account Setup</source>
-        <translation type="vanished">Kontokonfigurering</translation>
-    </message>
-    <message>
-        <source>Acc&amp;ount Setup</source>
-        <translation type="vanished">&amp;Kontokonfigurering</translation>
     </message>
     <message>
         <source>Options</source>
@@ -14061,16 +13067,8 @@ Orsak: %1.</translation>
         <translation>&amp;Byt profil</translation>
     </message>
     <message>
-        <source>Play Sounds</source>
-        <translation type="vanished">Spela ljud</translation>
-    </message>
-    <message>
         <source>Play &amp;Sounds</source>
         <translation>Spela &amp;ljud</translation>
-    </message>
-    <message>
-        <source>Toggles whether sound should be played or not</source>
-        <translation type="vanished">Slår på/av om ljud spelas</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -14083,18 +13081,6 @@ Orsak: %1.</translation>
     <message>
         <source>Quits Psi</source>
         <translation>Avslutar Psi</translation>
-    </message>
-    <message>
-        <source>Tip of the Day</source>
-        <translation type="vanished">Dagens tips</translation>
-    </message>
-    <message>
-        <source>&amp;Tip of the Day</source>
-        <translation type="vanished">Dagens &amp;tips</translation>
-    </message>
-    <message>
-        <source>See many useful tips</source>
-        <translation type="vanished">Se många praktiska tips</translation>
     </message>
     <message>
         <source>Transfer Manager</source>
@@ -14333,10 +13319,6 @@ Orsak: %1.</translation>
         <translation>Skicka fil</translation>
     </message>
     <message>
-        <source>Toggle Encryption</source>
-        <translation type="vanished">Slå på/av kryptering</translation>
-    </message>
-    <message>
         <source>User Info</source>
         <translation>Användarinformation</translation>
     </message>
@@ -14456,10 +13438,6 @@ Orsak: %1.</translation>
     <message>
         <source>Error: Can not parse command: </source>
         <translation>Fel: kan inte tolka kommando:</translation>
-    </message>
-    <message>
-        <source>Command&gt;</source>
-        <translation type="vanished">Kommando&gt;</translation>
     </message>
     <message>
         <source>turn off autojid</source>
@@ -14746,10 +13724,6 @@ Orsak: %1.</translation>
         <translation>Du kan inte stänga av &lt;i&gt;alla&lt;/i&gt; verktygsrader och menyraden. Om du gör det så kan du inte få tillbaka dem när du ändrat dig.</translation>
     </message>
     <message>
-        <source>I understand</source>
-        <translation type="vanished">Jag förstår</translation>
-    </message>
-    <message>
         <source>Call ended</source>
         <translation>Samtal avslutat</translation>
     </message>
@@ -14853,10 +13827,6 @@ Migration is possible with Psi-0.15</source>
         <translation>Öppna &amp;chattfönster</translation>
     </message>
     <message>
-        <source>Open a &amp;Whiteboard</source>
-        <translation type="vanished">Öppna en &amp;skrivtavla</translation>
-    </message>
-    <message>
         <source>Voice Call</source>
         <translation>Röstsamtal</translation>
     </message>
@@ -14875,14 +13845,6 @@ Migration is possible with Psi-0.15</source>
     <message>
         <source>&amp;Clear Custom Picture</source>
         <translation>Ta &amp;bort tilldelead bild</translation>
-    </message>
-    <message>
-        <source>Assign Open&amp;PGP Key</source>
-        <translation type="vanished">Ange Open&amp;PGP-nyckel</translation>
-    </message>
-    <message>
-        <source>Unassign Open&amp;PGP Key</source>
-        <translation type="vanished">Ta bort Open&amp;PGP-nyckel</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
@@ -14955,14 +13917,6 @@ Migration is possible with Psi-0.15</source>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
         <translation>Är du säker på att du vill ta bort godkännandet för &lt;b&gt;%1&lt;/b&gt;?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Ja</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Nej</translation>
     </message>
     <message>
         <source>Choose an Image</source>
@@ -15367,10 +14321,6 @@ Vill du aktivera den sessionen nu?</translation>
         <translation>Visa kontakter</translation>
     </message>
     <message>
-        <source>Event notifier</source>
-        <translation type="vanished">Händelsenotifiering</translation>
-    </message>
-    <message>
         <source>Auto Status (idle)</source>
         <translation>Automatisk status (oanvänd)</translation>
     </message>
@@ -15384,14 +14334,6 @@ Vill du aktivera den sessionen nu?</translation>
     <message>
         <source>(no selection)</source>
         <translation>(inget valt)</translation>
-    </message>
-    <message>
-        <source>Flat</source>
-        <translation type="vanished">Platt</translation>
-    </message>
-    <message>
-        <source>Display all options as a flat list.</source>
-        <translation type="vanished">Visa alla inställningar som en platt lista.</translation>
     </message>
     <message>
         <source>Delete...</source>
@@ -15408,14 +14350,6 @@ Vill du aktivera den sessionen nu?</translation>
     <message>
         <source>Add...</source>
         <translation>Lägg till...</translation>
-    </message>
-    <message>
-        <source>Open a detached option editor window.</source>
-        <translation type="vanished">Öppna ett frånkopplat inställningsredigeringsfönster.</translation>
-    </message>
-    <message>
-        <source>Advanced</source>
-        <translation type="vanished">Avancerat</translation>
     </message>
     <message>
         <source>(internal node)</source>
@@ -15530,32 +14464,10 @@ Vill du aktivera den sessionen nu?</translation>
     </message>
 </context>
 <context>
-    <name>PsiThumbnailToolBar</name>
-    <message>
-        <source>Options</source>
-        <translation type="vanished">Inställningar</translation>
-    </message>
-    <message>
-        <source>Online</source>
-        <translation type="vanished">Tillgänglig</translation>
-    </message>
-    <message>
-        <source>Offline</source>
-        <translation type="vanished">Ej ansluten</translation>
-    </message>
-</context>
-<context>
     <name>PsiToolBar</name>
     <message>
         <source>&amp;Configure Toolbar...</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PsiWindowHeader</name>
-    <message>
-        <source>...</source>
-        <translation type="vanished">...</translation>
     </message>
 </context>
 <context>
@@ -16496,50 +15408,6 @@ Description: </source>
         <source>&lt;unnamed%1&gt;</source>
         <translation>&lt;namnlös %1&gt;</translation>
     </message>
-    <message>
-        <source>Invalid passphrase</source>
-        <translation type="vanished">Ogiltig passfras</translation>
-    </message>
-    <message>
-        <source>Invalid input format</source>
-        <translation type="vanished">Ogiltigt informat</translation>
-    </message>
-    <message>
-        <source>Signing key expired</source>
-        <translation type="vanished">Nyckel för signering har gått ut</translation>
-    </message>
-    <message>
-        <source>Invalid key</source>
-        <translation type="vanished">Ogiltig nyckel</translation>
-    </message>
-    <message>
-        <source>Encrypting key expired</source>
-        <translation type="vanished">Nyckel för kryptering har gått ut</translation>
-    </message>
-    <message>
-        <source>Encrypting key is untrusted</source>
-        <translation type="vanished">Nyckel för kryptering är ej betrodd</translation>
-    </message>
-    <message>
-        <source>Encrypting key is invalid</source>
-        <translation type="vanished">Nyckel för kryptering är ogiltig</translation>
-    </message>
-    <message>
-        <source>PGP card is missing</source>
-        <translation type="vanished">PGP-kort saknas</translation>
-    </message>
-    <message>
-        <source>Unknown error</source>
-        <translation type="vanished">Okänt fel</translation>
-    </message>
-    <message>
-        <source>Socket Error</source>
-        <translation type="vanished">Socketfel</translation>
-    </message>
-    <message>
-        <source>Cannot create a server socket!</source>
-        <translation type="vanished">Kan inte skapa en serversocket!</translation>
-    </message>
     <message numerus="yes">
         <source>%n day(s) </source>
         <translation type="unfinished">
@@ -17297,14 +16165,6 @@ Thanks for your patience.</source>
         <translation>&lt;qt&gt;Registreringen har redan skickats iväg, så stänging av detta fönster förhindrar inte att registrering sker. Vill du ändå stänga fönstret?&lt;/qt&gt;</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Ja</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Nej</translation>
-    </message>
-    <message>
         <source>Fetching registration form for %1 ...</source>
         <translation>Hämtar registreringsformulär för %1...</translation>
     </message>
@@ -17380,13 +16240,6 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <source>[blank]</source>
         <translation>[blank]</translation>
-    </message>
-</context>
-<context>
-    <name>RipperCCOptions</name>
-    <message>
-        <source>Form</source>
-        <translation type="vanished">Form</translation>
     </message>
 </context>
 <context>
@@ -17759,37 +16612,6 @@ Orsak: %1</translation>
     </message>
 </context>
 <context>
-    <name>SelectGame</name>
-    <message>
-        <source>New game with...</source>
-        <translation type="vanished">Nytt spel med...</translation>
-    </message>
-    <message>
-        <source>To play with </source>
-        <translation type="vanished">För att spela med</translation>
-    </message>
-    <message>
-        <source>Choose your game</source>
-        <translation type="vanished">Välj färg</translation>
-    </message>
-    <message>
-        <source>White game</source>
-        <translation type="vanished">Vit</translation>
-    </message>
-    <message>
-        <source>Black game</source>
-        <translation type="vanished">Svart</translation>
-    </message>
-    <message>
-        <source>Play!</source>
-        <translation type="vanished">Spel!</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">Avbryt</translation>
-    </message>
-</context>
-<context>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Template editor</source>
@@ -17884,25 +16706,10 @@ Orsak: %1</translation>
     </message>
 </context>
 <context>
-    <name>SeparatorAction</name>
-    <message>
-        <source>&lt;Separator&gt;</source>
-        <translation type="vanished">&lt;Separator&gt;</translation>
-    </message>
-    <message>
-        <source>Separator</source>
-        <translation type="vanished">Separator</translation>
-    </message>
-</context>
-<context>
     <name>ServerListQuerier</name>
     <message>
         <source>Unable to parse server list</source>
         <translation>Kunde inte förstå serverlista</translation>
-    </message>
-    <message>
-        <source>Maximum redirect count reached</source>
-        <translation type="vanished">Maximalt antal omdirigeringar uppnått</translation>
     </message>
     <message>
         <source>Unexpected HTTP status code: %1</source>
@@ -18996,53 +17803,6 @@ Rätta och försök igen.</translation>
     </message>
 </context>
 <context>
-    <name>Tip</name>
-    <message>
-        <source>Useful Tips</source>
-        <translation type="vanished">Användbara tips</translation>
-    </message>
-    <message>
-        <source>psi/logo_128</source>
-        <translation type="vanished">psi/logo_128</translation>
-    </message>
-    <message>
-        <source>Show tips at startup</source>
-        <translation type="vanished">Visa tips vid start</translation>
-    </message>
-    <message>
-        <source>&amp;Previous</source>
-        <translation type="vanished">&amp;Föregående</translation>
-    </message>
-    <message>
-        <source>Alt+P</source>
-        <translation type="vanished">Alt+F</translation>
-    </message>
-    <message>
-        <source>psi/arrowLeft</source>
-        <translation type="vanished">psi/arrowLeft</translation>
-    </message>
-    <message>
-        <source>&amp;Next</source>
-        <translation type="vanished">&amp;Nästa</translation>
-    </message>
-    <message>
-        <source>Alt+N</source>
-        <translation type="vanished">Alt+N</translation>
-    </message>
-    <message>
-        <source>psi/arrowRight</source>
-        <translation type="vanished">psi/arrowRight</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Stäng</translation>
-    </message>
-    <message>
-        <source>Alt+C</source>
-        <translation type="vanished">Alt+S</translation>
-    </message>
-</context>
-<context>
     <name>TipDlg</name>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
@@ -19130,12 +17890,6 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
         <translation>Om du ofta använder gruppchat så är automatkomplettering av smeknamn en ovärderlig finess. De mest användbara genvägarna är &lt;tt&gt;Tab-Tab&lt;/tt&gt;; först på raden eller efter på en ny rad stoppar det in smeknamnet av den som sist skrev direkt till dig. Du kan sedan fortsätta och trycka &lt;tt&gt;Tab&lt;/tt&gt; så snurrar et igenom smeknamnen för alla i rummet.&lt;br/&gt;&lt;br/&gt;För ett mer komplicerat scenario:&lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; och &lt;tt&gt;mbl-revolution&lt;/tt&gt; är alla i samma rum. Om du skriver &lt;tt&gt;m&lt;/tt&gt; och trycker &lt;tt&gt;Tab&lt;/tt&gt; så händer inget särskilt. Det är för att det finns flera smeknamn som börjar på &lt;tt&gt;m&lt;/tt&gt; och du kan antingen fortsätta med &lt;tt&gt;Tab&lt;/tt&gt; för att snurra genom alla smeknamn som börjar med &lt;tt&gt;m&lt;/tt&gt; eller skriva fler bokstäver tills det finns en unik komplettering. Om du trycker &lt;tt&gt;b&lt;/tt&gt; och sedan &lt;tt&gt;Tab&lt;/tt&gt; ska den komplettera till &lt;tt&gt;mbl&lt;/tt&gt;. Ju mer du använder denna finess, desto troligare är det att du lär dig gilla och bero på den. Testa att komplettera någons namn så förstår du hur kraftfullt det är.</translation>
-    </message>
-    <message>
-        <source>This is the last tip.
-&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation type="vanished">Det här är det sista tipset.
-&lt;br&gt;&lt;br&gt;Om du vill bidra med ditt eget &quot;dagens tips&quot;, publicera det på &lt;a href=&quot;https://groups.google.com/forum/#!forum/psi-users&quot;&gt;Psis forum&lt;/a&gt; (eller skicka med e-post till en av utvecklarna) så tar vi gärna med det till nästa version.</translation>
     </message>
     <message>
         <source>Contributed by</source>
@@ -19407,33 +18161,6 @@ To work with Parole player you need to enable MPRIS2 module/plugin.</source>
     </message>
 </context>
 <context>
-    <name>ViewMailDlg</name>
-    <message>
-        <source>From:</source>
-        <translation type="vanished">Från:</translation>
-    </message>
-    <message>
-        <source>Subject:</source>
-        <translation type="vanished">Ärende:</translation>
-    </message>
-    <message>
-        <source>Previous</source>
-        <translation type="vanished">Föregående</translation>
-    </message>
-    <message>
-        <source>Next</source>
-        <translation type="vanished">Nästa</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="vanished">Stäng</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Stäng</translation>
-    </message>
-</context>
-<context>
     <name>Viewer</name>
     <message>
         <source>Find</source>
@@ -19591,149 +18318,6 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
 </context>
 <context>
-    <name>WbDlg</name>
-    <message>
-        <source>Save session</source>
-        <translation type="vanished">Spara session</translation>
-    </message>
-    <message>
-        <source>Save the contents of the whiteboard</source>
-        <translation type="vanished">Spara skrivtavlans innehåll</translation>
-    </message>
-    <message>
-        <source>Change the geometry</source>
-        <translation type="vanished">Ändra geometrin</translation>
-    </message>
-    <message>
-        <source>End session</source>
-        <translation type="vanished">Avsluta session</translation>
-    </message>
-    <message>
-        <source>Clear the whiteboard</source>
-        <translation type="vanished">Rensa skrivtavlan</translation>
-    </message>
-    <message>
-        <source>Stroke color</source>
-        <translation type="vanished">Streckfärg</translation>
-    </message>
-    <message>
-        <source>Fill color</source>
-        <translation type="vanished">Fyllnadsfärg</translation>
-    </message>
-    <message>
-        <source>Stroke width</source>
-        <translation type="vanished">Streckbredd</translation>
-    </message>
-    <message>
-        <source>Edit mode</source>
-        <translation type="vanished">Redigeringsläge</translation>
-    </message>
-    <message>
-        <source>Thin stroke</source>
-        <translation type="vanished">Tunna streck</translation>
-    </message>
-    <message>
-        <source>Medium stroke</source>
-        <translation type="vanished">Medelstreck</translation>
-    </message>
-    <message>
-        <source>Thick stroke</source>
-        <translation type="vanished">Tjocka streck</translation>
-    </message>
-    <message>
-        <source>Select</source>
-        <translation type="vanished">Välj</translation>
-    </message>
-    <message>
-        <source>Translate</source>
-        <translation type="vanished">Översätt</translation>
-    </message>
-    <message>
-        <source>Rotate</source>
-        <translation type="vanished">Rotera</translation>
-    </message>
-    <message>
-        <source>Scale</source>
-        <translation type="vanished">Skala</translation>
-    </message>
-    <message>
-        <source>Erase</source>
-        <translation type="vanished">Sudda</translation>
-    </message>
-    <message>
-        <source>Scroll view</source>
-        <translation type="vanished">Flytta i vyn</translation>
-    </message>
-    <message>
-        <source>Scroll</source>
-        <translation type="vanished">Rulla</translation>
-    </message>
-    <message>
-        <source>Draw paths</source>
-        <translation type="vanished">Rita länkar</translation>
-    </message>
-    <message>
-        <source>Add images</source>
-        <translation type="vanished">Lägg till bilder</translation>
-    </message>
-    <message>
-        <source>Whiteboard toolbar</source>
-        <translation type="vanished">Verktygsrada för skrivtavla</translation>
-    </message>
-    <message>
-        <source>%1 left (session: %2).</source>
-        <translation type="vanished">%1 kvar (session: %2).</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Varning</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to end the session?
-The contents of the whiteboard will be lost.</source>
-        <translation type="vanished">Är du säker på att du vill avsluta sessionen?
-Innehållet på skrivtavlan förloras.</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Ja</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Nej</translation>
-    </message>
-    <message>
-        <source>A new whiteboard message was just received.
-Do you still want to close the window?</source>
-        <translation type="vanished">Ett nytt skrivtavlemeddelande togs just emot.
-Vill du ändå stänga fönstrett?</translation>
-    </message>
-    <message>
-        <source>Set new width:</source>
-        <translation type="vanished">Ny bredd:</translation>
-    </message>
-    <message>
-        <source>Width:</source>
-        <translation type="vanished">Bredd:</translation>
-    </message>
-    <message>
-        <source>Set new height:</source>
-        <translation type="vanished">Sätt ny höjd:</translation>
-    </message>
-    <message>
-        <source>Height:</source>
-        <translation type="vanished">Höjd:</translation>
-    </message>
-    <message>
-        <source>Save Whitebaord</source>
-        <translation type="vanished">Spara skrivtavla</translation>
-    </message>
-    <message>
-        <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="vanished">Scalable Vector Graphics (&apos;.svg)</translation>
-    </message>
-</context>
-<context>
     <name>WbItem</name>
     <message>
         <source>Bring forward</source>
@@ -19762,38 +18346,6 @@ Vill du ändå stänga fönstrett?</translation>
 </context>
 <context>
     <name>WbManager</name>
-    <message>
-        <source>Unsupported</source>
-        <translation type="vanished">Stöds ej</translation>
-    </message>
-    <message>
-        <source>The contact does not support whiteboarding.</source>
-        <translation type="vanished">Kontakten stöder inte skrivtavlefunktioner.</translation>
-    </message>
-    <message>
-        <source>Open Existing SVG?</source>
-        <translation type="vanished">Öppna befintlig SVG?</translation>
-    </message>
-    <message>
-        <source>Would you like to open an existing SVG document in the whitebaord?</source>
-        <translation type="vanished">Vill du öppna ett befintligt SVG-dokument i skrivtavlan?</translation>
-    </message>
-    <message>
-        <source>Initial SVG Document for the Whiteboard</source>
-        <translation type="vanished">Ursprungligt SVG-dokument för skrivtavlan</translation>
-    </message>
-    <message>
-        <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="vanished">Scalable Vector Graphics (*.svg)</translation>
-    </message>
-    <message>
-        <source>Whiteboarding Invitation?</source>
-        <translation type="vanished">Inbjudan till skrivtavlesession?</translation>
-    </message>
-    <message>
-        <source>%1 has invited you to a whiteboarding session. Would you like to join?</source>
-        <translation type="vanished">%1 har inbjudit dig till en session med skrivtavla. Vill du gå med?</translation>
-    </message>
     <message>
         <source>Answered on another device.</source>
         <translation type="unfinished"></translation>
@@ -20195,10 +18747,6 @@ Vill du ändå stänga fönstrett?</translation>
 </context>
 <context>
     <name>XMLConsole</name>
-    <message>
-        <source>XML Console</source>
-        <translation type="vanished">XML-konsoll</translation>
-    </message>
     <message>
         <source>Filter</source>
         <translation>Filter</translation>
@@ -20656,10 +19204,6 @@ Vill du ändå stänga fönstrett?</translation>
 <context>
     <name>XmlConsole</name>
     <message>
-        <source>XML Console</source>
-        <translation type="vanished">XML-konsoll</translation>
-    </message>
-    <message>
         <source>XMPP Console</source>
         <translation type="unfinished"></translation>
     </message>
@@ -20681,18 +19225,6 @@ Vill du ändå stänga fönstrett?</translation>
     <message>
         <source>Malformed XML</source>
         <translation>Ogiltig XML</translation>
-    </message>
-    <message>
-        <source>You have entered malformed XML input. Are you sure you want to send this ?</source>
-        <translation type="vanished">Du har angett ogiltig XML, är du säker på att du vill skicka detta?</translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="vanished">Ja</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">Nej</translation>
     </message>
     <message>
         <source>You have entered malformed XML input.</source>
@@ -21702,10 +20234,6 @@ to this message in juick@conference.jabber.ru</source>
     <message>
         <source>Birthday:</source>
         <translation>Födelsedag:</translation>
-    </message>
-    <message>
-        <source>E-Mail:</source>
-        <translation type="vanished">E-post:</translation>
     </message>
     <message>
         <source>Close</source>

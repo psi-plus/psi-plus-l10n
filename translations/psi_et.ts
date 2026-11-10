@@ -668,24 +668,8 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>No Key Selected</source>
-        <translation type="vanished">Võtit ei valitud</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Viga</translation>
-    </message>
-    <message>
-        <source>SSL error</source>
-        <translation type="vanished">SSL viga</translation>
-    </message>
-    <message>
-        <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation type="vanished">Ei saa käivitada SSL/TLS. Vajalikku plugin&apos;i ei leitud.</translation>
-    </message>
-    <message>
-        <source>Secret Key</source>
-        <translation type="vanished">Salajane Võti</translation>
     </message>
     <message>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
@@ -844,14 +828,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <source>Are you sure you want to cancel the registration?</source>
         <translation>Oled kindel, et soovid registreerimist katkestada?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Jah</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Ei</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1743,21 +1719,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
     </message>
 </context>
 <context>
-    <name>Call</name>
-    <message>
-        <source>To:</source>
-        <translation type="vanished">Saaja:</translation>
-    </message>
-    <message>
-        <source>&amp;Reject</source>
-        <translation type="vanished">&amp;Ei nõustu</translation>
-    </message>
-    <message>
-        <source>&amp;Accept</source>
-        <translation type="vanished">&amp;Nõustu</translation>
-    </message>
-</context>
-<context>
     <name>CallDlg</name>
     <message>
         <source>Call</source>
@@ -1834,29 +1795,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
     <message>
         <source>Refused: the encryption could not be verified with a trusted OMEMO device of the contact. See Options &gt; Security.</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>CallDlg::Private</name>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Sule</translation>
-    </message>
-    <message>
-        <source>Ready</source>
-        <translation type="vanished">Valmis</translation>
-    </message>
-    <message>
-        <source>From:</source>
-        <translation type="vanished">Saatja:</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">&amp;Katkesta</translation>
-    </message>
-    <message>
-        <source>Accepting...</source>
-        <translation type="vanished">Võtan vastu...</translation>
     </message>
 </context>
 <context>
@@ -2207,10 +2145,6 @@ Põhjus: %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Toggle encryption</source>
-        <translation type="vanished">Võimalda/keela krüpteering</translation>
-    </message>
-    <message>
         <source>Select icon</source>
         <translation>Vali ikoon</translation>
     </message>
@@ -2251,22 +2185,6 @@ Kas oled kindel, et soovid akent sulgeda?</translation>
     <message>
         <source>&lt;p&gt;Encryption was recently disabled by the remote contact.  Are you sure you want to send this message without encryption?&lt;/p&gt;</source>
         <translation>&lt;p&gt;Teine isik keelas kodeeringu. Oled kindel, et soovid saata kodeerimata teadet?&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Jah</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Ei</translation>
-    </message>
-    <message>
-        <source>Encryption Enabled</source>
-        <translation type="vanished">Kodeering Käivitatud</translation>
-    </message>
-    <message>
-        <source>Encryption Disabled</source>
-        <translation type="vanished">Kodeering Peatatud</translation>
     </message>
     <message>
         <source>%1 ended the conversation</source>
@@ -2379,17 +2297,6 @@ Kas oled kindel, et soovid akent sulgeda?</translation>
             <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
-    </message>
-</context>
-<context>
-    <name>ChatView</name>
-    <message>
-        <source>%1 says:</source>
-        <translation type="vanished">%1 ütleb:</translation>
-    </message>
-    <message>
-        <source>Subject:</source>
-        <translation type="vanished">Teema:</translation>
     </message>
 </context>
 <context>
@@ -2975,10 +2882,6 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;XML Console</source>
-        <translation type="vanished">&amp;XML Konsool</translation>
-    </message>
-    <message>
         <source>&amp;Modify Account...</source>
         <translation>&amp;Muuda Kontot...</translation>
     </message>
@@ -3005,10 +2908,6 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <source>Avatar</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Groupchat</source>
-        <translation type="vanished">Grupivestlus</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -3328,21 +3227,6 @@ Soovid jätkata?</translation>
     </message>
 </context>
 <context>
-    <name>CreateGroupDlg</name>
-    <message>
-        <source>Create New Group</source>
-        <translation type="vanished">Loo Uus Grupp</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="vanished">Lisa</translation>
-    </message>
-    <message>
-        <source>&lt;None&gt;</source>
-        <translation type="vanished">&lt;None&gt;</translation>
-    </message>
-</context>
-<context>
     <name>DateWidget</name>
     <message>
         <source>never</source>
@@ -3530,10 +3414,6 @@ Soovid jätkata?</translation>
 <context>
     <name>DiscoListItem</name>
     <message>
-        <source>Error</source>
-        <translation type="vanished">Viga</translation>
-    </message>
-    <message>
         <source>There was an error getting items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3587,17 +3467,6 @@ Soovid jätkata?</translation>
     <message>
         <source>deleted</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>EDBFlatFile::File</name>
-    <message>
-        <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
-        <translation type="vanished">&lt;big&gt;[Süsteemi Teade]&lt;/big&gt;&lt;b&gt;Sa oled nüüd autoriseeritud.</translation>
-    </message>
-    <message>
-        <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;Your authorization has been removed!</source>
-        <translation type="vanished">&lt;big&gt;[Süsteemi Teade]&lt;/big&gt;&lt;br&gt;Sinu autoriseering eemaldati!</translation>
     </message>
 </context>
 <context>
@@ -3815,10 +3684,6 @@ Supports per contact on / off message enumeration via the buttons on the chats t
         <translation>Sõnumi pikkus</translation>
     </message>
     <message>
-        <source>Toggle encryption</source>
-        <translation type="vanished">Võimalda/keela krüpteering</translation>
-    </message>
-    <message>
         <source>Add URL</source>
         <translation>Lisa URL</translation>
     </message>
@@ -3978,13 +3843,6 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <source>Read next event</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>EventNotifierAction</name>
-    <message>
-        <source>&lt;Event notifier&gt;</source>
-        <translation type="vanished">&lt;Sündmuse teavitaja&gt;</translation>
     </message>
 </context>
 <context>
@@ -4585,14 +4443,6 @@ Importantly: a large part of the options are important system settings. These re
     <message>
         <source>Are you sure you want to cancel the transfer?</source>
         <translation>Oled kindel, et soovid faili saatmist katkestada?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Jah</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Ei</translation>
     </message>
     <message>
         <source>Choose a file</source>
@@ -5802,17 +5652,6 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>GmailNotifyPlugin</name>
-    <message>
-        <source>Choose a sound file</source>
-        <translation type="vanished">Vali helifail</translation>
-    </message>
-    <message>
-        <source>Sound (*.wav)</source>
-        <translation type="vanished">Heli (*.wav)</translation>
-    </message>
-</context>
-<context>
     <name>Gnome3StatusWatcher</name>
     <message>
         <source>Authors: </source>
@@ -6189,14 +6028,6 @@ To invite a friend for a game, you can use contact menu item or the button on th
 </context>
 <context>
     <name>HistoryImport</name>
-    <message>
-        <source>Status:</source>
-        <translation type="vanished">Staatus:</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Viga</translation>
-    </message>
     <message>
         <source>Upgrade history</source>
         <translation type="unfinished"></translation>
@@ -7015,14 +6846,6 @@ Are you sure you want to discard them?</source>
 Oled kindel, et soovid need kustutada?</translation>
     </message>
     <message>
-        <source>Close and discard</source>
-        <translation type="vanished">Sule ja kustuta</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">Ära sule</translation>
-    </message>
-    <message>
         <source>Success</source>
         <translation>Õnnestus</translation>
     </message>
@@ -7521,10 +7344,6 @@ Note: To work correctly, the option options.html.chat.render    must be set to t
         <translation>Eemalda</translation>
     </message>
     <message>
-        <source>General</source>
-        <translation type="vanished">Üldine</translation>
-    </message>
-    <message>
         <source>message</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7840,14 +7659,6 @@ Reason: %1</source>
         <translation>Võta vastu järgmine sündmus</translation>
     </message>
     <message>
-        <source>Un&amp;hide</source>
-        <translation type="vanished">Nä&amp;ita</translation>
-    </message>
-    <message>
-        <source>&amp;Hide</source>
-        <translation type="vanished">&amp;Peida</translation>
-    </message>
-    <message>
         <source>Status Message</source>
         <translation>Staatuse Teade</translation>
     </message>
@@ -7904,25 +7715,6 @@ Incoming event(s) from:</source>
     <message>
         <source>Enable Sounds</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>MainWindow</name>
-    <message>
-        <source>Quit</source>
-        <translation type="vanished">Välju</translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation type="vanished">Abi</translation>
-    </message>
-    <message>
-        <source>Ready</source>
-        <translation type="vanished">Valmis</translation>
-    </message>
-    <message>
-        <source>About</source>
-        <translation type="vanished">Info</translation>
     </message>
 </context>
 <context>
@@ -10610,10 +10402,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>Psi kerib automaatselt alla, et näeksid uusi sissetulevaid sündmusi.</translation>
     </message>
     <message>
-        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation type="vanished">Paneb Psi ignoreerima sissetulevaid &quot;Uudiste&quot; sündmusi nagu süsteemiteated MSN&apos;is jm.</translation>
-    </message>
-    <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like announcements, etc.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10833,26 +10621,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>Makes Psi open chat windows in compact mode.</source>
         <translation>Psi avab vestluseaknad kompaktsena.</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Kontrollib, kui kaua hoitakse vestluse logi mälus peale vestluseakna sulgemist.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Selle valikuga ei jää vestluse logid mällu.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;Selle valikuga hoitakse vestluse logisid 1 tund, seejärel kustutatakse.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;See valik hoiab logisid 1 päeva enne kustutamist.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation type="vanished">&lt;P&gt;See valik hoiab vestluse logisid igavesti.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>Time (HH:mm)</source>
@@ -11762,10 +11530,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>General</source>
-        <translation type="vanished">Üldine</translation>
-    </message>
-    <message>
         <source>Account:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12005,17 +11769,6 @@ Reason: %1.</source>
     <message>
         <source>Please enter your password for %1:</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Passphrase</name>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="vanished">&amp;Katkesta</translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation type="vanished">&amp;OK</translation>
     </message>
 </context>
 <context>
@@ -12533,88 +12286,6 @@ Reason: %1.</source>
     </message>
 </context>
 <context>
-    <name>ProfileManage</name>
-    <message>
-        <source>Rem&amp;ove</source>
-        <translation type="vanished">Eem&amp;alda</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileManageDlg</name>
-    <message>
-        <source>Rename Profile</source>
-        <translation type="vanished">Nimeta Profiil Ümber</translation>
-    </message>
-    <message>
-        <source>Please enter a new name for the profile.  Keep it simple.
-Only use letters or numbers.  No punctuation or spaces.</source>
-        <translation type="vanished">Palun sisesta profiilile uus lihtne nimi.
-Kasuta ainult tähti ja numbreid. Ära kasuta kirjavahemärke ja tühikuid.</translation>
-    </message>
-    <message>
-        <source>There is already another profile with this name.  Please choose another.</source>
-        <translation type="vanished">Sellise nimega profiil on juba olemas. Palun vali uus.</translation>
-    </message>
-    <message>
-        <source>Unable to rename the profile.  Please do not use any special characters.</source>
-        <translation type="vanished">Ei õnnestunud profiili ümber nimetada. Palun ära kasuta ebatavalisi märke.</translation>
-    </message>
-    <message>
-        <source>Delete Profile</source>
-        <translation type="vanished">Kustuta Profiil</translation>
-    </message>
-    <message>
-        <source>&lt;qt&gt;Are you sure you want to delete the &quot;&lt;b&gt;%1&lt;/b&gt;&quot; profile?  This will delete all of the profile&apos;s message history as well as associated settings!&lt;/qt&gt;</source>
-        <translation type="vanished">&lt;qt&gt;Oled kindel, et soovid kustutada profiili &quot;&lt;b&gt;%1&lt;/b&gt;&quot; ? Sellega kustutad kõik sõnumidlogid ja seaded!&lt;/qt&gt;</translation>
-    </message>
-    <message>
-        <source>No, I changed my mind</source>
-        <translation type="vanished">Ei, ma mõtlesin ümber</translation>
-    </message>
-    <message>
-        <source>Delete it!</source>
-        <translation type="vanished">Kustuta!</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Ei</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Jah</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileNew</name>
-    <message>
-        <source>New Profile</source>
-        <translation type="vanished">Uus Profiil</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Sule</translation>
-    </message>
-    <message>
-        <source>&amp;Chat</source>
-        <translation type="vanished">&amp;Chat</translation>
-    </message>
-</context>
-<context>
-    <name>ProfileNewDlg</name>
-    <message>
-        <source>New Profile</source>
-        <translation type="vanished">Uus Profiil</translation>
-    </message>
-    <message>
-        <source>There is already an existing profile with this name.  Please choose another.</source>
-        <translation type="vanished">Sellise nimega profiil on juba olemas. Palun vali uus.</translation>
-    </message>
-    <message>
-        <source>Unable to create the profile.  Please do not use any special characters.</source>
-        <translation type="vanished">Ei õnnestunud profiili ümber nimetada. Palun ära kasuta ebatavalisi märke.</translation>
-    </message>
-</context>
-<context>
     <name>ProfileOpen</name>
     <message>
         <source>Image goes here</source>
@@ -12623,10 +12294,6 @@ Kasuta ainult tähti ja numbreid. Ära kasuta kirjavahemärke ja tühikuid.</tra
     <message>
         <source>right</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Quit</source>
-        <translation type="vanished">&amp;Välju</translation>
     </message>
     <message>
         <source>Profiles</source>
@@ -12659,18 +12326,6 @@ Kasuta ainult tähti ja numbreid. Ära kasuta kirjavahemärke ja tühikuid.</tra
 </context>
 <context>
     <name>ProfileOpenDlg</name>
-    <message>
-        <source>Select a profile to open from this list.</source>
-        <translation type="vanished">Vali nimekirjast, millist profiili avada.</translation>
-    </message>
-    <message>
-        <source>Select a language you would like Psi to use from this list.  You can download extra language packs from the Psi homepage.</source>
-        <translation type="vanished">Vali keel, mida soovid Psi&apos;s kasutada. Sa saad Psi kodulehelt tõmmata uusi keelepakke.</translation>
-    </message>
-    <message>
-        <source>Automatically open this profile when Psi is started.  Useful if you only have one profile.</source>
-        <translation type="vanished">Ava automaatselt see profiil, kui Psi käivitub. Kasulik, kui Sul on vaid üks profiil.</translation>
-    </message>
     <message>
         <source>Double-click or press F2 to rename a profile. Press Delete to remove it.</source>
         <translation type="unfinished"></translation>
@@ -13175,14 +12830,6 @@ Details: %1</source>
         <translation>&lt;p&gt; Psi ei suutnud avada &lt;b&gt;%1&lt;/b&gt; võtit.&lt;br&gt;&lt;br&gt;See võib juhtuda, kui Sul pole võtit, mida kasutaja reklaamib, või kui kasutaja ei reklaami üldse ühtegi võtit.&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>&amp;Choose key manually</source>
-        <translation type="vanished">&amp;Vali võti käsitsi</translation>
-    </message>
-    <message>
-        <source>Do &amp;nothing</source>
-        <translation type="vanished">Ära &amp;tee midagi</translation>
-    </message>
-    <message>
         <source>Public Key: %1</source>
         <translation>Avalik Võti: %1</translation>
     </message>
@@ -13346,10 +12993,6 @@ Details: %1</source>
         <translation>Mugav viis saada informatsiooni hetkelise staatuse kohta</translation>
     </message>
     <message>
-        <source>Special item that displays number of pending events</source>
-        <translation type="vanished">Näitab ootel olevate sündmuste arvu</translation>
-    </message>
-    <message>
         <source>Active contacts</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13364,10 +13007,6 @@ Details: %1</source>
     <message>
         <source>&amp;Add a Contact</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;XML Console</source>
-        <translation type="vanished">&amp;XML Konsool</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
@@ -13388,14 +13027,6 @@ Details: %1</source>
     <message>
         <source>Join &amp;Groupchat</source>
         <translation>Liitu &amp;Grupivestlusega</translation>
-    </message>
-    <message>
-        <source>Account Setup</source>
-        <translation type="vanished">Konto Seaded</translation>
-    </message>
-    <message>
-        <source>Acc&amp;ount Setup</source>
-        <translation type="vanished">Kon&amp;to Seaded</translation>
     </message>
     <message>
         <source>Options</source>
@@ -13426,10 +13057,6 @@ Details: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Toggles whether sound should be played or not</source>
-        <translation type="vanished">Luba/keela helide kasutamine</translation>
-    </message>
-    <message>
         <source>Quit</source>
         <translation>Välju</translation>
     </message>
@@ -13440,18 +13067,6 @@ Details: %1</source>
     <message>
         <source>Quits Psi</source>
         <translation>Väljub Psi&apos;st</translation>
-    </message>
-    <message>
-        <source>Tip of the Day</source>
-        <translation type="vanished">Päeva Soovitus</translation>
-    </message>
-    <message>
-        <source>&amp;Tip of the Day</source>
-        <translation type="vanished">&amp;Päeva Soovitus</translation>
-    </message>
-    <message>
-        <source>See many useful tips</source>
-        <translation type="vanished">Palju kasulikke vihjeid</translation>
     </message>
     <message>
         <source>Transfer Manager</source>
@@ -14289,14 +13904,6 @@ Migration is possible with Psi-0.15</source>
         <translation>Oled kindel, et soovid eemaldada autoriseeringu kasutajalt &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Jah</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Ei</translation>
-    </message>
-    <message>
         <source>Choose an Image</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14695,10 +14302,6 @@ Would you like to activate that session now?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Event notifier</source>
-        <translation type="vanished">Sündmuste teavitaja</translation>
-    </message>
-    <message>
         <source>Auto Status (idle)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14839,21 +14442,6 @@ Would you like to activate that session now?</source>
     <message>
         <source>Home</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PsiThumbnailToolBar</name>
-    <message>
-        <source>Options</source>
-        <translation type="vanished">Valikud</translation>
-    </message>
-    <message>
-        <source>Online</source>
-        <translation type="vanished">Ühendatud</translation>
-    </message>
-    <message>
-        <source>Offline</source>
-        <translation type="vanished">Ühendamata</translation>
     </message>
 </context>
 <context>
@@ -16558,14 +16146,6 @@ Thanks for your patience.</source>
         <translation>&lt;qt&gt;Registreerimine on juba toimunud, nii et selle akna sulgemine ei takista registreerimist. Soovid Sa seda sulgeda?&lt;/qt&gt;</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Jah</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Ei</translation>
-    </message>
-    <message>
         <source>Fetching registration form for %1 ...</source>
         <translation>Registratsioonivormi tõmbamine: %1 ...</translation>
     </message>
@@ -17104,17 +16684,6 @@ Põhjus: %1</translation>
     <message>
         <source>Only &amp;Paste</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>SeparatorAction</name>
-    <message>
-        <source>&lt;Separator&gt;</source>
-        <translation type="vanished">&lt;Eraldaja&gt;</translation>
-    </message>
-    <message>
-        <source>Separator</source>
-        <translation type="vanished">Eraldaja</translation>
     </message>
 </context>
 <context>
@@ -18206,21 +17775,6 @@ Please correct and try again.</source>
     </message>
 </context>
 <context>
-    <name>Tip</name>
-    <message>
-        <source>&amp;Previous</source>
-        <translation type="vanished">&amp;Eelmine</translation>
-    </message>
-    <message>
-        <source>&amp;Next</source>
-        <translation type="vanished">&amp;Järgmine</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Sule</translation>
-    </message>
-</context>
-<context>
     <name>TipDlg</name>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
@@ -18562,21 +18116,6 @@ To work with Parole player you need to enable MPRIS2 module/plugin.</source>
     </message>
 </context>
 <context>
-    <name>ViewMailDlg</name>
-    <message>
-        <source>From:</source>
-        <translation type="vanished">Saatja:</translation>
-    </message>
-    <message>
-        <source>Subject:</source>
-        <translation type="vanished">Teema:</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Sule</translation>
-    </message>
-</context>
-<context>
     <name>Viewer</name>
     <message>
         <source>Find</source>
@@ -18731,21 +18270,6 @@ To work with Parole player you need to enable MPRIS2 module/plugin.</source>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
 On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>WbDlg</name>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Hoiatus</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Jah</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;Ei</translation>
     </message>
 </context>
 <context>
@@ -19178,10 +18702,6 @@ On the first tab set up a list of contacts for the status of which is monitored.
 </context>
 <context>
     <name>XMLConsole</name>
-    <message>
-        <source>XML Console</source>
-        <translation type="vanished">XML Konsool</translation>
-    </message>
     <message>
         <source>Filter</source>
         <translation type="unfinished"></translation>
@@ -19638,10 +19158,6 @@ On the first tab set up a list of contacts for the status of which is monitored.
 </context>
 <context>
     <name>XmlConsole</name>
-    <message>
-        <source>XML Console</source>
-        <translation type="vanished">XML Konsool</translation>
-    </message>
     <message>
         <source>XMPP Console</source>
         <translation type="unfinished"></translation>
