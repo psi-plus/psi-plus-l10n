@@ -103,6 +103,9 @@ case "${1}" in
     cd "${LANG_DIR}"
     tx pull
 
+    "${CUR_DIR}/tools/plural-forms.py" to-qt \
+        --dir "${LANG_DIR}/translations/psi-plus.full" --all --strict
+
     cd "${LANG_DIR}/translations/psi-plus.full/"
     cp *.ts "${CUR_DIR}/translations/"
 
@@ -230,10 +233,16 @@ case "${1}" in
         echo "<arg> is not specified!"
         exit 1
     elif [ "${2}" = "src" ] ; then
+        "${CUR_DIR}/tools/plural-forms.py" to-tx \
+            --dir "${LANG_DIR}/translations/psi-plus.full" --lang en --strict
         tx push -s
     elif [ "${2}" = "all" ] ; then
+        "${CUR_DIR}/tools/plural-forms.py" to-tx \
+            --dir "${LANG_DIR}/translations/psi-plus.full" --all --strict
         tx push -s -t --skip
     else
+        "${CUR_DIR}/tools/plural-forms.py" to-tx \
+            --dir "${LANG_DIR}/translations/psi-plus.full" --lang "${2}" --strict
         tx push -t -l ${2} --skip
     fi
 
