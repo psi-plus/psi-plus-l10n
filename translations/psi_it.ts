@@ -6729,6 +6729,38 @@ Nota: Per funzionare correttamente, l&apos;opzione options.ui.chat.central-toolb
         <source>Image</source>
         <translation>Immagine</translation>
     </message>
+    <message>
+        <source>All files (*)</source>
+        <translation type="unfinished">Tutti i file (*)</translation>
+    </message>
+    <message>
+        <source>Images (%1);;All files (*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Errore</translation>
+    </message>
+    <message>
+        <source>Could not save the image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show in folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy image</source>
+        <translation type="unfinished">Copia immagine</translation>
+    </message>
+    <message>
+        <source>Save as...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Info</name>
@@ -17304,10 +17336,6 @@ Motivo: %1</translation>
         <translation>Rimuovi</translation>
     </message>
     <message>
-        <source>Overwrite selected skin with the current settings </source>
-        <translation>Sovrascrivi la skin selezionata con le impostazioni correnti</translation>
-    </message>
-    <message>
         <source>Save</source>
         <translation>Salva</translation>
     </message>
@@ -17406,6 +17434,62 @@ Questo permesse a tutte le impostazioni (icone, disposizione barre dei strumenti
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Nome</translation>
+    </message>
+    <message>
+        <source>Author</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Version</source>
+        <translation type="unfinished">Versione</translation>
+    </message>
+    <message>
+        <source>Actions</source>
+        <translation type="unfinished">Azioni</translation>
+    </message>
+    <message>
+        <source>Overwrite selected skin with the current settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset CSS-related settings to default skin values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset CSS Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show skin information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the skin &quot;%1&quot;? This will permanently remove the skin file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to reset all CSS-related options to their default values?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default skin is invalid!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset %1 CSS-related option(s) to default values.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

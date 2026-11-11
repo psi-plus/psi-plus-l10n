@@ -6728,6 +6728,38 @@ Noto: Por ĝusta funkciado, la opcio options.ui.chat.central-toolbar  devas esti
         <source>Image</source>
         <translation>Bildo</translation>
     </message>
+    <message>
+        <source>All files (*)</source>
+        <translation type="unfinished">Ĉiuj dosieroj (*)</translation>
+    </message>
+    <message>
+        <source>Images (%1);;All files (*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Eraro</translation>
+    </message>
+    <message>
+        <source>Could not save the image.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show in folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy image</source>
+        <translation type="unfinished">Kopii bildon</translation>
+    </message>
+    <message>
+        <source>Save as...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Info</name>
@@ -17304,10 +17336,6 @@ Kialo: %1</translation>
         <translation>Forigi</translation>
     </message>
     <message>
-        <source>Overwrite selected skin with the current settings </source>
-        <translation>Anstataŭigi elektitan haŭton per la nunaj agordoj </translation>
-    </message>
-    <message>
         <source>Save</source>
         <translation>Konservi</translation>
     </message>
@@ -17406,6 +17434,62 @@ Tio ebligas ĝuste alpreni ĉiujn agordojn (piktogramojn, aranĝon de ilobreto).
     <message>
         <source>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;https://psi-im.org/wiki/doku.php?id=en:plugins#skins_plugin&quot;&gt;Vikio (enrete)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Nomo</translation>
+    </message>
+    <message>
+        <source>Author</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Version</source>
+        <translation type="unfinished">Versio</translation>
+    </message>
+    <message>
+        <source>Actions</source>
+        <translation type="unfinished">Agoj</translation>
+    </message>
+    <message>
+        <source>Overwrite selected skin with the current settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset CSS-related settings to default skin values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset CSS Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show skin information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the skin &quot;%1&quot;? This will permanently remove the skin file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to reset all CSS-related options to their default values?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default skin is invalid!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset %1 CSS-related option(s) to default values.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

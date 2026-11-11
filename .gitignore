@@ -1,4 +1,6 @@
-psi-plus-translations-*
-translations.pro
 out/
 tmp/
+tools/
+AGENTS.md
+psi-*translations*
+translations.pro
