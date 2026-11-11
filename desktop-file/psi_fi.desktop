@@ -16,6 +16,8 @@ Keywords=XMPP;Jabber;chat;instant messaging;messenger;IM;VoIP;calls;file sharing
 Actions=SelectProfile;QuitApplication;
 
 # Translations
-Icon[fi]=psi-plus
+GenericName[fi]=XMPP-asiakas
+Comment[fi]=Keskustele XMPP-verkon kautta
 Keywords[fi]=XMPP;Jabber;Psi;keskustelu;pikaviestit;pikaviestin;IM;VoIP;puhelut;tiedostojen jakaminen;
+Icon[fi]=psi-plus
 Name[fi]=Psi+

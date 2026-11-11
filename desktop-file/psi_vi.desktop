@@ -16,8 +16,8 @@ Keywords=XMPP;Jabber;chat;instant messaging;messenger;IM;VoIP;calls;file sharing
 Actions=SelectProfile;QuitApplication;
 
 # Translations
-Comment[vi]=Liên lạc qua mạng XMPP
 GenericName[vi]=Ứng dụng khách XMPP
-Icon[vi]=psi-plus
+Comment[vi]=Liên lạc qua mạng XMPP
 Keywords[vi]=XMPP;Jabber;Psi;trò chuyện;tin nhắn tức thời;trình nhắn tin;IM;VoIP;cuộc gọi;chia sẻ tập tin;
+Icon[vi]=psi-plus
 Name[vi]=Psi+

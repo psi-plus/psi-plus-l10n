@@ -16,6 +16,8 @@ Keywords=XMPP;Jabber;chat;instant messaging;messenger;IM;VoIP;calls;file sharing
 Actions=SelectProfile;QuitApplication;
 
 # Translations
-Icon[sw]=psi-plus
+GenericName[sw]=Mteja wa XMPP
+Comment[sw]=Wasiliana kupitia mtandao wa XMPP
 Keywords[sw]=XMPP;Jabber;Psi;mazungumzo;ujumbe wa papo hapo;mjumbe;IM;VoIP;simu;kushirikisha faili;
+Icon[sw]=psi-plus
 Name[sw]=Psi+

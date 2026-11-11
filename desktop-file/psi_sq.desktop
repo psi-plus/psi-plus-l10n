@@ -16,8 +16,8 @@ Keywords=XMPP;Jabber;chat;instant messaging;messenger;IM;VoIP;calls;file sharing
 Actions=SelectProfile;QuitApplication;
 
 # Translations
-Comment[sq]=Komunikoni përmes rrjetit XMPP
 GenericName[sq]=Klient XMPP
-Icon[sq]=psi
+Comment[sq]=Komunikoni përmes rrjetit XMPP
 Keywords[sq]=XMPP;Jabber;Psi;bisedë;mesazhe të menjëhershme;messenger;IM;VoIP;thirrje;ndarje skedarësh;
+Icon[sq]=psi
 Name[sq]=Psi

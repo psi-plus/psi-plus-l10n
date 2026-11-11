@@ -16,8 +16,8 @@ Keywords=XMPP;Jabber;chat;instant messaging;messenger;IM;VoIP;calls;file sharing
 Actions=SelectProfile;QuitApplication;
 
 # Translations
-Comment[ja]=XMPPネットワークで通信
 GenericName[ja]=XMPPクライアント
-Icon[ja]=psi-plus
+Comment[ja]=XMPPネットワークで通信
 Keywords[ja]=XMPP;Jabber;Psi;チャット;インスタントメッセージ;メッセンジャー;IM;VoIP;通話;ファイル共有;
+Icon[ja]=psi-plus
 Name[ja]=Psi+

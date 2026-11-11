@@ -16,6 +16,8 @@ Keywords=XMPP;Jabber;chat;instant messaging;messenger;IM;VoIP;calls;file sharing
 Actions=SelectProfile;QuitApplication;
 
 # Translations
-Icon[hu]=psi-plus
+GenericName[hu]=XMPP kliens
+Comment[hu]=Kommunikálj XMPP-hálózaton keresztül
 Keywords[hu]=XMPP;Jabber;Psi;csevegés;azonnali üzenetek;üzenetküldő;IM;VoIP;hívások;fájlmegosztás;
+Icon[hu]=psi-plus
 Name[hu]=Psi+

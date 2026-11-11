@@ -16,8 +16,8 @@ Keywords=XMPP;Jabber;chat;instant messaging;messenger;IM;VoIP;calls;file sharing
 Actions=SelectProfile;QuitApplication;
 
 # Translations
-Comment[eo]=Komuniku per la XMPP-reto
 GenericName[eo]=XMPP-klientilo
-Icon[eo]=psi-plus
+Comment[eo]=Komuniku per la XMPP-reto
 Keywords[eo]=XMPP;Jabber;Psi;babilejo;tujmesaĝoj;tujmesaĝilo;IM;VoIP;vokoj;kunhavigado de dosieroj;
+Icon[eo]=psi-plus
 Name[eo]=Psi+

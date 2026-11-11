@@ -16,8 +16,8 @@ Keywords=XMPP;Jabber;chat;instant messaging;messenger;IM;VoIP;calls;file sharing
 Actions=SelectProfile;QuitApplication;
 
 # Translations
-Comment[el]=Επικοινωνήστε μέσω του δικτύου XMPP
 GenericName[el]=Πρόγραμμα-πελάτης XMPP
-Icon[el]=psi-plus
+Comment[el]=Επικοινωνήστε μέσω του δικτύου XMPP
 Keywords[el]=XMPP;Jabber;Psi;συνομιλία;άμεσα μηνύματα;messenger;IM;VoIP;κλήσεις;κοινή χρήση αρχείων;
+Icon[el]=psi-plus
 Name[el]=Psi+

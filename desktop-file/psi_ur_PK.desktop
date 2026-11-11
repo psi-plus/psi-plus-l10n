@@ -16,8 +16,8 @@ Keywords=XMPP;Jabber;chat;instant messaging;messenger;IM;VoIP;calls;file sharing
 Actions=SelectProfile;QuitApplication;
 
 # Translations
-Comment[ur_PK]=XMPP نیٹ ورک پر مواصلات کریں
 GenericName[ur_PK]=XMPP کلائنٹ
-Icon[ur_PK]=psi-plus
+Comment[ur_PK]=XMPP نیٹ ورک پر مواصلات کریں
 Keywords[ur_PK]=XMPP;Jabber;Psi;چیٹ;فوری پیغامات;مسینجر;IM;VoIP;کالیں;فائلوں کا اشتراک;
+Icon[ur_PK]=psi-plus
 Name[ur_PK]=+Psi

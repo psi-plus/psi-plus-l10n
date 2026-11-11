@@ -18,6 +18,6 @@ Actions=SelectProfile;QuitApplication;
 # Translations
 GenericName[zh_CN]=XMPP 客户端
 Comment[zh_CN]=通过 XMPP 网络通信
-Icon[zh_CN]=psi
 Keywords[zh_CN]=XMPP;Jabber;Psi;聊天;即时消息;聊天程序;IM;VoIP;通话;文件共享;
+Icon[zh_CN]=psi
 Name[zh_CN]=Psi

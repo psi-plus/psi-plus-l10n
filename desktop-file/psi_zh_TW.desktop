@@ -16,8 +16,8 @@ Keywords=XMPP;Jabber;chat;instant messaging;messenger;IM;VoIP;calls;file sharing
 Actions=SelectProfile;QuitApplication;
 
 # Translations
-Comment[zh_TW]=透過 XMPP 網路進行通訊
 GenericName[zh_TW]=XMPP 客戶端
-Icon[zh_TW]=psi
+Comment[zh_TW]=透過 XMPP 網路進行通訊
 Keywords[zh_TW]=XMPP;Jabber;Psi;聊天;即時訊息;聊天程式;IM;VoIP;通話;檔案共享;
+Icon[zh_TW]=psi
 Name[zh_TW]=Psi

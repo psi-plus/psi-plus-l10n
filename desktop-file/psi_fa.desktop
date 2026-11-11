@@ -16,6 +16,8 @@ Keywords=XMPP;Jabber;chat;instant messaging;messenger;IM;VoIP;calls;file sharing
 Actions=SelectProfile;QuitApplication;
 
 # Translations
-Icon[fa]=psi-plus
+GenericName[fa]=کلاینت XMPP
+Comment[fa]=ارتباط از طریق شبکه XMPP
 Keywords[fa]=XMPP;Jabber;Psi;گفتگو;پیام‌رسانی فوری;پیام‌رسان;IM;VoIP;تماس‌ها;هم‌رسانی پرونده‌ها;
+Icon[fa]=psi-plus
 Name[fa]=+Psi

@@ -16,8 +16,8 @@ Keywords=XMPP;Jabber;chat;instant messaging;messenger;IM;VoIP;calls;file sharing
 Actions=SelectProfile;QuitApplication;
 
 # Translations
-Comment[mk]=Комуницирајте преку мрежата XMPP
 GenericName[mk]=Клиент за XMPP
-Icon[mk]=psi-plus
+Comment[mk]=Комуницирајте преку мрежата XMPP
 Keywords[mk]=XMPP;Jabber;Пси;чат;инстант пораки;месенџер;IM;VoIP;повици;споделување фајлови;
+Icon[mk]=psi-plus
 Name[mk]=Psi+

@@ -16,8 +16,8 @@ Keywords=XMPP;Jabber;chat;instant messaging;messenger;IM;VoIP;calls;file sharing
 Actions=SelectProfile;QuitApplication;
 
 # Translations
-Comment[he]=תקשר באמצעות רשת XMPP
 GenericName[he]=לקוח XMPP
-Icon[he]=psi-plus
+Comment[he]=תקשר באמצעות רשת XMPP
 Keywords[he]=XMPP;Jabber;Psi;צ'אט;הודעות מיידיות;מסנג'ר;IM;VoIP;שיחות;שיתוף קבצים;
+Icon[he]=psi-plus
 Name[he]=+Psi
